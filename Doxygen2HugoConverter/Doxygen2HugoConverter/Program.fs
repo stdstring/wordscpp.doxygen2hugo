@@ -386,6 +386,8 @@ let parseNamespaceFile (config: ConfigData) (refEntry: NamespaceRefEntry) =
 
 type KeyValueEntry = {Key: string; Value: string}
 
+type GenerateResult = {Name: string; RelativeUrl: string; BriefDescription: string}
+
 let generateBriefDescriptionForTitle (description: Description) =
     let result = new StringBuilder()
     for markupEntry in description.Brief do
@@ -402,13 +404,15 @@ let generateBriefDescription (description: Description) =
         | MarkupDef.Text text -> text |> result.Append |> ignore
         // TODO (std_string) : fix ref generation
         | MarkupDef.Ref data -> data.Text |> result.Append |> ignore
-        | MarkupDef.ParagraphStart -> result.AppendLine() |> ignore
-        | MarkupDef.ParagraphEnd -> result.AppendLine() |> ignore
+        //| MarkupDef.ParagraphStart -> result.AppendLine() |> ignore
+        //| MarkupDef.ParagraphEnd -> result.AppendLine() |> ignore
+        | MarkupDef.ParagraphStart -> ()
+        | MarkupDef.ParagraphEnd -> ()
         | MarkupDef.BoldStart -> "**" |> result.Append |> ignore
         | MarkupDef.BoldEnd -> "**" |> result.Append |> ignore
     result.ToString()
 
-let generateHeader (dest: StringBuilder) (data: seq<KeyValueEntry>) =
+let generatePageHeader (dest: StringBuilder) (data: seq<KeyValueEntry>) =
     "---" |> dest.AppendLine |> ignore
     for entry in data do
         entry.Key |> dest.Append |> ignore
@@ -416,22 +420,39 @@ let generateHeader (dest: StringBuilder) (data: seq<KeyValueEntry>) =
         entry.Value |> dest.AppendLine |> ignore
     "---" |> dest.AppendLine |> ignore
 
-let generateRootHeader (url: string) (dest: StringBuilder) =
+let generateRootPageHeader (url: string) (dest: StringBuilder) =
     [{KeyValueEntry.Key = "title"; KeyValueEntry.Value = "Aspose.Words for C++"};
      {KeyValueEntry.Key = "type"; KeyValueEntry.Value = "docs"};
      {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = "0"};
      {KeyValueEntry.Key = "url"; KeyValueEntry.Value = url};
      {KeyValueEntry.Key = "keywords"; KeyValueEntry.Value = "\"Aspose.Words for C++, Aspose Words, Aspose API Reference.\""};
      {KeyValueEntry.Key = "description"; KeyValueEntry.Value = "Aspose.Words is a class library that can be used by developers for various platforms for a variety of document processing tasks."};
-     {KeyValueEntry.Key = "is_root"; KeyValueEntry.Value = "true"}] |> generateHeader dest
+     {KeyValueEntry.Key = "is_root"; KeyValueEntry.Value = "true"}] |> generatePageHeader dest
 
-let generateDefHeader (title: string) (description: string) (url: string) (dest: StringBuilder) =
+let generateDefPageHeader (title: string) (description: string) (url: string) (dest: StringBuilder) =
     [{KeyValueEntry.Key = "title"; KeyValueEntry.Value = title};
      {KeyValueEntry.Key = "second_title"; KeyValueEntry.Value = "Aspose.Words for C++ API Reference"};
      {KeyValueEntry.Key = "description"; KeyValueEntry.Value = description};
      {KeyValueEntry.Key = "type"; KeyValueEntry.Value = "docs"};
      {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = "0"};
-     {KeyValueEntry.Key = "url"; KeyValueEntry.Value = url}] |> generateHeader dest
+     {KeyValueEntry.Key = "url"; KeyValueEntry.Value = url}] |> generatePageHeader dest
+
+let generateHeader (headerText: string) (headerLevel: int) (dest: StringBuilder) =
+    "#" |> String.replicate headerLevel |> dest.Append |> ignore
+    " " |> dest.Append |> ignore
+    headerText |> dest.AppendLine |> ignore
+
+let generateTableHeader (columnHeaders: string list) (dest: StringBuilder) =
+    "|" |> dest.Append |> ignore
+    for columnHeader in columnHeaders do
+        " " |> dest.Append |> ignore
+        columnHeader |> dest.Append |> ignore
+        " |" |> dest.Append |> ignore
+    dest.AppendLine() |> ignore
+    "|" |> dest.Append |> ignore
+    for _ in 1 .. columnHeaders.Length do
+        " --- |" |> dest.Append |> ignore
+    dest.AppendLine() |> ignore
 
 let prepareDirectory (config: ConfigData) =
     let rootDirectory = Path.Combine(config.DestDirectory, RootDirectory)
@@ -440,9 +461,18 @@ let prepareDirectory (config: ConfigData) =
     rootDirectory |> Directory.CreateDirectory |> ignore
     rootDirectory
 
+//let generateForEnum (parentDirectory: string) (parentUrl: string) (enumDef: EnumDef) =
+//    ()
+
+//let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef: TypedefDef) =
+//    ()
+
+//let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: ClassDef) =
+//    ()
+
 let generateForNamespace (parentDirectory: string) (parentUrl: string) (namespaceDef: NamespaceDef) =
     match namespaceDef.Classes.IsEmpty && namespaceDef.Enums.IsEmpty && namespaceDef.Typedefs.IsEmpty with
-    | true -> ()
+    | true -> None
     | false ->
         let folderName = namespaceDef.Name |> createNamespaceFolderName
         let namespaceDirectory = Path.Combine(parentDirectory, folderName)
@@ -450,17 +480,26 @@ let generateForNamespace (parentDirectory: string) (parentUrl: string) (namespac
         let namespaceUrl = sprintf $"{parentUrl}{folderName}/"
         let builder = new StringBuilder()
         let descriptionForTitle = namespaceDef.Description |> generateBriefDescriptionForTitle
-        builder |> generateDefHeader namespaceDef.Name descriptionForTitle namespaceUrl
-        namespaceDef.Description |> generateBriefDescription |> builder.Append |> ignore
+        builder |> generateDefPageHeader namespaceDef.Name descriptionForTitle namespaceUrl
+        let briefDescription = namespaceDef.Description |> generateBriefDescription
+        builder.AppendLine() |> ignore
+        briefDescription |> builder.AppendLine |> ignore
         File.AppendAllText(Path.Combine(namespaceDirectory, MarkdownFilename), builder.ToString())
+        {GenerateResult.Name = namespaceDef.Name;
+         GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
+         GenerateResult.BriefDescription = briefDescription} |> Some
 
-let generateResult (config: ConfigData) (namespaceDefs: NamespaceDef list) =
+let generateDest (config: ConfigData) (namespaceDefs: NamespaceDef list) =
     let rootDirectory = config |> prepareDirectory
     let rootUrl = sprintf $"/{RootDirectory}/"
     let builder = new StringBuilder()
-    builder |> generateRootHeader rootUrl
-    for namespaceDef in namespaceDefs do
-        namespaceDef |> generateForNamespace rootDirectory rootUrl
+    builder |> generateRootPageHeader rootUrl
+    builder.AppendLine() |> ignore
+    builder |> generateHeader "Namespaces" 2
+    builder |> generateTableHeader ["Namespace"; "Description"]
+    namespaceDefs |>
+    Seq.choose (fun def -> def |> generateForNamespace rootDirectory rootUrl) |>
+    Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
     File.AppendAllText(Path.Combine(rootDirectory, MarkdownFilename), builder.ToString())
 
 [<EntryPoint>]
@@ -471,5 +510,5 @@ let main argv =
                         Seq.filter (fun refEntry -> ["namespace_aspose"; "namespacestd"] |> List.contains refEntry.RefId |> not) |>
                         Seq.map (fun refEntry -> refEntry |> parseNamespaceFile config) |>
                         Seq.toList
-    namespaceDefs |> generateResult config
+    namespaceDefs |> generateDest config
     0 // return an integer exit code
