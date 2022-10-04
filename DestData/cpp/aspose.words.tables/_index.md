@@ -8,3 +8,28 @@ url: /cpp/aspose.words.tables/
 ---
 
 The **Aspose.Words.Tables** namespace contains classes that represent tables, rows, cells and their formatting. 
+
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [Aspose::Words::Tables::Cell](./cell/) | Represents a table cell.  |
+| [Aspose::Words::Tables::CellCollection](./cellcollection/) | Provides typed access to a collection of Cell nodes.  |
+| [Aspose::Words::Tables::CellFormat](./cellformat/) | Represents all formatting for a table cell.  |
+| [Aspose::Words::Tables::PreferredWidth](./preferredwidth/) | Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell.  |
+| [Aspose::Words::Tables::Row](./row/) | Represents a table row.  |
+| [Aspose::Words::Tables::RowCollection](./rowcollection/) | Provides typed access to a collection of Row nodes.  |
+| [Aspose::Words::Tables::RowFormat](./rowformat/) | Represents all formatting for a table row.  |
+| [Aspose::Words::Tables::Table](./table/) | Represents a table in a Word document.  |
+| [Aspose::Words::Tables::TableCollection](./tablecollection/) | Provides typed access to a collection of Table nodes.  |
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [AutoFitBehavior](./autofitbehavior/) | Determines how Aspose.Words resizes the table when you invoke the AutoFit() method.  |
+| [CellMerge](./cellmerge/) | Specifies how a cell in a table is merged with other cells.  |
+| [CellVerticalAlignment](./cellverticalalignment/) | Specifies vertical justification of text inside a table cell.  |
+| [PreferredWidthType](./preferredwidthtype/) | Specifies the unit of measurement for the preferred width of a table or cell.  |
+| [TableAlignment](./tablealignment/) | Specifies alignment for an inline table.  |
+| [TableStyleOptions](./tablestyleoptions/) | Specifies how table style is applied to a table.  |
+| [TextWrapping](./textwrapping/) | Specifies how text is wrapped around the table.  |

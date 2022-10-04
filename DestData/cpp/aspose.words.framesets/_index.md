@@ -8,3 +8,10 @@ url: /cpp/aspose.words.framesets/
 ---
 
 The **Aspose.Words.Framesets** namespace provides classes and enumerations that represents a frames page or a single frame on a frames page. 
+
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [Aspose::Words::Framesets::Frameset](./frameset/) | Represents a frames page or a single frame on a frames page.  |
+| [Aspose::Words::Framesets::FramesetCollection](./framesetcollection/) | Represents a collection of instances of the Frameset class.  |

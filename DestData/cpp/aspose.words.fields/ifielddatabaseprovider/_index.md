@@ -1,0 +1,11 @@
+---
+title: Aspose::Words::Fields::IFieldDatabaseProvider
+second_title: Aspose.Words for C++ API Reference
+description: Implement this interface to provide data for the FieldDatabase field when it's updated. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.fields/ifielddatabaseprovider/
+---
+
+Implement this interface to provide data for the FieldDatabase field when it's updated. 
+

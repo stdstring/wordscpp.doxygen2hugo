@@ -215,11 +215,16 @@ type TypedefDef = {Id: string;
                    Definition: string;
                    Description: Description}
 
+type ClassKind = 
+    | Class
+    | Interface
+
 type BaseClassDef = {Access: string; Virtual: bool; QualifiedName: string}
 
 type ClassDef = {Id: string;
                  Name: string;
                  Final: bool;
+                 Kind: ClassKind;
                  Description: Description
                  BaseClasses: BaseClassDef list}
 
@@ -228,7 +233,8 @@ type NamespaceDef = {Id: string;
                      Description: Description;
                      Enums: EnumDef list;
                      Typedefs: TypedefDef list;
-                     Classes: ClassDef list}
+                     Classes: ClassDef list
+                     Interfaces: ClassDef list}
 
 // parse defs
 
@@ -333,6 +339,10 @@ let parseClassDef (source: XElement) =
     match "prot" |> getAttributeValue source with
     | "public" ->
         let id = "id" |> getAttributeValue source
+        let kind = match "kind" |> getAttributeValue source with
+                   | "class" -> ClassKind.Class
+                   | "interface" -> ClassKind.Interface
+                   | value -> value |> failwithf "Unexpected kind value \"%s\""
         let description = source |> parseDescription
         let name = "compoundname" |> getElementValue source
         let finalValue = source |> getFinalValue
@@ -340,6 +350,7 @@ let parseClassDef (source: XElement) =
         {ClassDef.Id = id;
          ClassDef.Name = name;
          ClassDef.Final = finalValue;
+         ClassDef.Kind = kind;
          ClassDef.Description = description;
          ClassDef.BaseClasses = baseClasses} |> Some
     | _ -> None
@@ -369,6 +380,8 @@ let parseNamespaceDef (config: ConfigData) (source: XElement) =
     let name = "compoundname" |> getElementValue source
     let description = source |> parseDescription
     let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry config) |> Seq.concat |> Seq.toList
+    let classDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Class)
+    let interfaceDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Interface)
     let enumDefs = source |> parseEnumSectionDef
     let typedefs = source |> parseTypedefSectionDef
     {NamespaceDef.Id = id;
@@ -376,7 +389,8 @@ let parseNamespaceDef (config: ConfigData) (source: XElement) =
      NamespaceDef.Description = description;
      NamespaceDef.Enums = enumDefs;
      NamespaceDef.Typedefs = typedefs;
-     NamespaceDef.Classes = classDefSources}
+     NamespaceDef.Classes = classDefs;
+     NamespaceDef.Interfaces = interfaceDefs;}
 
 let parseNamespaceFile (config: ConfigData) (refEntry: NamespaceRefEntry) =
     let document = Path.Combine(config.SourceDirectory, refEntry.RefId + ".xml") |> XDocument.Load
@@ -441,6 +455,7 @@ let generateHeader (headerText: string) (headerLevel: int) (dest: StringBuilder)
     "#" |> String.replicate headerLevel |> dest.Append |> ignore
     " " |> dest.Append |> ignore
     headerText |> dest.AppendLine |> ignore
+    dest.AppendLine() |> ignore
 
 let generateTableHeader (columnHeaders: string list) (dest: StringBuilder) =
     "|" |> dest.Append |> ignore
@@ -461,17 +476,59 @@ let prepareDirectory (config: ConfigData) =
     rootDirectory |> Directory.CreateDirectory |> ignore
     rootDirectory
 
-//let generateForEnum (parentDirectory: string) (parentUrl: string) (enumDef: EnumDef) =
-//    ()
+let generateForEnum (parentDirectory: string) (parentUrl: string) (enumDef: EnumDef) =
+    let folderName = enumDef.Name |> createEnumFolderName
+    let enumDirectory = Path.Combine(parentDirectory, folderName)
+    enumDirectory |> Directory.CreateDirectory |> ignore
+    let classUrl = sprintf $"{parentUrl}{folderName}/"
+    let builder = new StringBuilder()
+    let descriptionForTitle = enumDef.Description |> generateBriefDescriptionForTitle
+    builder |> generateDefPageHeader enumDef.Name descriptionForTitle classUrl
+    let briefDescription = enumDef.Description |> generateBriefDescription
+    builder.AppendLine() |> ignore
+    briefDescription |> builder.AppendLine |> ignore
+    builder.AppendLine() |> ignore
+    File.AppendAllText(Path.Combine(enumDirectory, MarkdownFilename), builder.ToString())
+    {GenerateResult.Name = enumDef.Name;
+     GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
+     GenerateResult.BriefDescription = briefDescription}
 
-//let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef: TypedefDef) =
-//    ()
+let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef: TypedefDef) =
+    let folderName = typedefDef.Name |> createTypedefFolderName
+    let typedefDirectory = Path.Combine(parentDirectory, folderName)
+    typedefDirectory |> Directory.CreateDirectory |> ignore
+    let classUrl = sprintf $"{parentUrl}{folderName}/"
+    let builder = new StringBuilder()
+    let descriptionForTitle = typedefDef.Description |> generateBriefDescriptionForTitle
+    builder |> generateDefPageHeader typedefDef.Name descriptionForTitle classUrl
+    let briefDescription = typedefDef.Description |> generateBriefDescription
+    builder.AppendLine() |> ignore
+    briefDescription |> builder.AppendLine |> ignore
+    builder.AppendLine() |> ignore
+    File.AppendAllText(Path.Combine(typedefDirectory, MarkdownFilename), builder.ToString())
+    {GenerateResult.Name = typedefDef.Name;
+     GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
+     GenerateResult.BriefDescription = briefDescription}
 
-//let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: ClassDef) =
-//    ()
+let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: ClassDef) =
+    let folderName = classDef.Name |> createClassFolderName
+    let classDirectory = Path.Combine(parentDirectory, folderName)
+    classDirectory |> Directory.CreateDirectory |> ignore
+    let classUrl = sprintf $"{parentUrl}{folderName}/"
+    let builder = new StringBuilder()
+    let descriptionForTitle = classDef.Description |> generateBriefDescriptionForTitle
+    builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
+    let briefDescription = classDef.Description |> generateBriefDescription
+    builder.AppendLine() |> ignore
+    briefDescription |> builder.AppendLine |> ignore
+    builder.AppendLine() |> ignore
+    File.AppendAllText(Path.Combine(classDirectory, MarkdownFilename), builder.ToString())
+    {GenerateResult.Name = classDef.Name;
+     GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
+     GenerateResult.BriefDescription = briefDescription}
 
 let generateForNamespace (parentDirectory: string) (parentUrl: string) (namespaceDef: NamespaceDef) =
-    match namespaceDef.Classes.IsEmpty && namespaceDef.Enums.IsEmpty && namespaceDef.Typedefs.IsEmpty with
+    match namespaceDef.Enums.IsEmpty && namespaceDef.Typedefs.IsEmpty && namespaceDef.Classes.IsEmpty && namespaceDef.Interfaces.IsEmpty with
     | true -> None
     | false ->
         let folderName = namespaceDef.Name |> createNamespaceFolderName
@@ -484,6 +541,31 @@ let generateForNamespace (parentDirectory: string) (parentUrl: string) (namespac
         let briefDescription = namespaceDef.Description |> generateBriefDescription
         builder.AppendLine() |> ignore
         briefDescription |> builder.AppendLine |> ignore
+        builder.AppendLine() |> ignore
+        if namespaceDef.Classes.IsEmpty |> not then
+            builder |> generateHeader "Classes" 2
+            builder |> generateTableHeader ["Class"; "Description"]
+            namespaceDef.Classes
+                |> Seq.map (fun def -> def |> generateForClass namespaceDirectory namespaceUrl)
+                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+        if namespaceDef.Interfaces.IsEmpty |> not then
+            builder |> generateHeader "Interfaces" 2
+            builder |> generateTableHeader ["Interface"; "Description"]
+            namespaceDef.Interfaces
+                |> Seq.map (fun def -> def |> generateForClass namespaceDirectory namespaceUrl)
+                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+        if namespaceDef.Enums.IsEmpty |> not then
+            builder |> generateHeader "Enums" 2
+            builder |> generateTableHeader ["Enum"; "Description"]
+            namespaceDef.Enums
+                |> Seq.map (fun def -> def |> generateForEnum namespaceDirectory namespaceUrl)
+                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+        if namespaceDef.Typedefs.IsEmpty |> not then
+            builder |> generateHeader "Typedefs" 2
+            builder |> generateTableHeader ["Typedef"; "Description"]
+            namespaceDef.Typedefs
+                |> Seq.map (fun def -> def |> generateForTypedef namespaceDirectory namespaceUrl)
+                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
         File.AppendAllText(Path.Combine(namespaceDirectory, MarkdownFilename), builder.ToString())
         {GenerateResult.Name = namespaceDef.Name;
          GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
@@ -497,9 +579,9 @@ let generateDest (config: ConfigData) (namespaceDefs: NamespaceDef list) =
     builder.AppendLine() |> ignore
     builder |> generateHeader "Namespaces" 2
     builder |> generateTableHeader ["Namespace"; "Description"]
-    namespaceDefs |>
-    Seq.choose (fun def -> def |> generateForNamespace rootDirectory rootUrl) |>
-    Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+    namespaceDefs
+        |> Seq.choose (fun def -> def |> generateForNamespace rootDirectory rootUrl)
+        |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
     File.AppendAllText(Path.Combine(rootDirectory, MarkdownFilename), builder.ToString())
 
 [<EntryPoint>]
