@@ -1,5 +1,5 @@
 ---
-title: fieldbidioutline
+title: FieldBidiOutline
 second_title: Aspose.Words for C++ API Reference
 description: Implements the BIDIOUTLINE field. 
 type: docs

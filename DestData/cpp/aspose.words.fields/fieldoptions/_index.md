@@ -1,5 +1,5 @@
 ---
-title: fieldoptions
+title: FieldOptions
 second_title: Aspose.Words for C++ API Reference
 description: Represents options to control field handling in a document. 
 type: docs

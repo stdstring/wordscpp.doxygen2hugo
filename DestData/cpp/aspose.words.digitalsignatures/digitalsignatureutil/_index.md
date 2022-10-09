@@ -1,5 +1,5 @@
 ---
-title: digitalsignatureutil
+title: DigitalSignatureUtil
 second_title: Aspose.Words for C++ API Reference
 description: Provides methods for signing document. 
 type: docs

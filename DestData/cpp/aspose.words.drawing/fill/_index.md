@@ -1,5 +1,5 @@
 ---
-title: fill
+title: Fill
 second_title: Aspose.Words for C++ API Reference
 description: Represents fill formatting for an object. 
 type: docs

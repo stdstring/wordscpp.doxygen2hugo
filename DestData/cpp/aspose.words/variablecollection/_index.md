@@ -1,5 +1,5 @@
 ---
-title: variablecollection
+title: VariableCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of document variables. 
 type: docs

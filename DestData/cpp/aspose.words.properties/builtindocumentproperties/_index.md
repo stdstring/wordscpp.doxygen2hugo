@@ -1,5 +1,5 @@
 ---
-title: builtindocumentproperties
+title: BuiltInDocumentProperties
 second_title: Aspose.Words for C++ API Reference
 description: A collection of built-in document properties. 
 type: docs

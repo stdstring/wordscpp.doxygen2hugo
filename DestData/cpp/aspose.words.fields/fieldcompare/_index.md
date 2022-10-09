@@ -1,5 +1,5 @@
 ---
-title: fieldcompare
+title: FieldCompare
 second_title: Aspose.Words for C++ API Reference
 description: Implements the COMPARE field. 
 type: docs

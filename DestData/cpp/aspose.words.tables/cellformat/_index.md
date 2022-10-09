@@ -1,5 +1,5 @@
 ---
-title: cellformat
+title: CellFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents all formatting for a table cell. 
 type: docs

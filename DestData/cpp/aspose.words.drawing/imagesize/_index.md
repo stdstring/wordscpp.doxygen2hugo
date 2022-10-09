@@ -1,5 +1,5 @@
 ---
-title: imagesize
+title: ImageSize
 second_title: Aspose.Words for C++ API Reference
 description: Contains information about image size and resolution. 
 type: docs

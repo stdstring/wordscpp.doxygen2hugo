@@ -1,5 +1,5 @@
 ---
-title: icsssavingcallback
+title: ICssSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface if you want to control how Aspose.Words saves CSS (Cascading Style Sheet) when saving a document to HTML. 
 type: docs

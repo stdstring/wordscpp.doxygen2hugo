@@ -1,5 +1,5 @@
 ---
-title: svgsaveoptions
+title: SvgSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Can be used to specify additional options when saving a document into the Svg format. 
 type: docs

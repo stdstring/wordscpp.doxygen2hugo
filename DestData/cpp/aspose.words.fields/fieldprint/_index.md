@@ -1,5 +1,5 @@
 ---
-title: fieldprint
+title: FieldPrint
 second_title: Aspose.Words for C++ API Reference
 description: Implements the PRINT field. 
 type: docs

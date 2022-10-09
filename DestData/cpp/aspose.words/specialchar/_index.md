@@ -1,5 +1,5 @@
 ---
-title: specialchar
+title: SpecialChar
 second_title: Aspose.Words for C++ API Reference
 description: Base class for special characters in the document. 
 type: docs

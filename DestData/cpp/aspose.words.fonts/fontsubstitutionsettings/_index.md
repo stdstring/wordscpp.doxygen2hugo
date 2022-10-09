@@ -1,5 +1,5 @@
 ---
-title: fontsubstitutionsettings
+title: FontSubstitutionSettings
 second_title: Aspose.Words for C++ API Reference
 description: Specifies font substitution mechanism settings. 
 type: docs

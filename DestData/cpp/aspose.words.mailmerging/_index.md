@@ -13,20 +13,20 @@ The **Aspose.Words.MailMerging** namespace contains classes of the "original" ma
 
 | Class | Description |
 | --- | --- |
-| [fieldmergingargs](./fieldmergingargs/) | Provides data for the **MergeField** event.  |
-| [fieldmergingargsbase](./fieldmergingargsbase/) | Base class for FieldMergingArgs and ImageFieldMergingArgs.  |
-| [imagefieldmergingargs](./imagefieldmergingargs/) | Provides data for the ImageFieldMerging() event.  |
-| [mailmerge](./mailmerge/) | Represents the mail merge functionality.  |
-| [mailmergeregioninfo](./mailmergeregioninfo/) | Contains information about a mail merge region.  |
-| [mappeddatafieldcollection](./mappeddatafieldcollection/) | Allows to automatically map between names of fields in your data source and names of mail merge fields in the document.  |
+| [FieldMergingArgs](./fieldmergingargs/) | Provides data for the **MergeField** event.  |
+| [FieldMergingArgsBase](./fieldmergingargsbase/) | Base class for FieldMergingArgs and ImageFieldMergingArgs.  |
+| [ImageFieldMergingArgs](./imagefieldmergingargs/) | Provides data for the ImageFieldMerging() event.  |
+| [MailMerge](./mailmerge/) | Represents the mail merge functionality.  |
+| [MailMergeRegionInfo](./mailmergeregioninfo/) | Contains information about a mail merge region.  |
+| [MappedDataFieldCollection](./mappeddatafieldcollection/) | Allows to automatically map between names of fields in your data source and names of mail merge fields in the document.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [ifieldmergingcallback](./ifieldmergingcallback/) | Implement this interface if you want to control how data is inserted into merge fields during a mail merge operation.  |
-| [imailmergecallback](./imailmergecallback/) | Implement this interface if you want to receive notifications while mail merge is performed.  |
-| [imailmergedatasource](./imailmergedatasource/) | Implement this interface to allow mail merge from a custom data source, such as a list of objects. Master-detail data is also supported.  |
-| [imailmergedatasourceroot](./imailmergedatasourceroot/) | Implement this interface to allow mail merge from a custom data source with master-detail data.  |
+| [IFieldMergingCallback](./ifieldmergingcallback/) | Implement this interface if you want to control how data is inserted into merge fields during a mail merge operation.  |
+| [IMailMergeCallback](./imailmergecallback/) | Implement this interface if you want to receive notifications while mail merge is performed.  |
+| [IMailMergeDataSource](./imailmergedatasource/) | Implement this interface to allow mail merge from a custom data source, such as a list of objects. Master-detail data is also supported.  |
+| [IMailMergeDataSourceRoot](./imailmergedatasourceroot/) | Implement this interface to allow mail merge from a custom data source with master-detail data.  |
 ## Enums
 
 | Enum | Description |

@@ -1,5 +1,5 @@
 ---
-title: webextensionreferencecollection
+title: WebExtensionReferenceCollection
 second_title: Aspose.Words for C++ API Reference
 description: Specifies a list of web extension references. 
 type: docs

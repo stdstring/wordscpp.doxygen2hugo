@@ -1,5 +1,5 @@
 ---
-title: generalformatcollection
+title: GeneralFormatCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a typed collection of general formats. 
 type: docs

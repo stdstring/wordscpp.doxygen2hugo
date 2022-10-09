@@ -1,5 +1,5 @@
 ---
-title: fieldchar
+title: FieldChar
 second_title: Aspose.Words for C++ API Reference
 description: Base class for nodes that represent field characters in a document. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldstyleref
+title: FieldStyleRef
 second_title: Aspose.Words for C++ API Reference
 description: Implements the STYLEREF field. 
 type: docs

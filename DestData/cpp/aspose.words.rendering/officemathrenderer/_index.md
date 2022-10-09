@@ -1,5 +1,5 @@
 ---
-title: officemathrenderer
+title: OfficeMathRenderer
 second_title: Aspose.Words for C++ API Reference
 description: Provides methods to render an individual OfficeMath to a raster or vector image or to a Graphics object. 
 type: docs

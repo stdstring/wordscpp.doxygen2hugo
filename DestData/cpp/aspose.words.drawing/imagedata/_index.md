@@ -1,5 +1,5 @@
 ---
-title: imagedata
+title: ImageData
 second_title: Aspose.Words for C++ API Reference
 description: Defines an image for a shape. 
 type: docs

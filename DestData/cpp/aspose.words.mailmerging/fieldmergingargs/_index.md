@@ -1,5 +1,5 @@
 ---
-title: fieldmergingargs
+title: FieldMergingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the MergeField event. 
 type: docs

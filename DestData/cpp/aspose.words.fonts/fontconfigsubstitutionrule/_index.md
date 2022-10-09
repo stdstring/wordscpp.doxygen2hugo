@@ -1,5 +1,5 @@
 ---
-title: fontconfigsubstitutionrule
+title: FontConfigSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
 description: Font config substitution rule. 
 type: docs

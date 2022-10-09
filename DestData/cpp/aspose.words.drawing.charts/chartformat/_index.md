@@ -1,5 +1,5 @@
 ---
-title: chartformat
+title: ChartFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents the formatting of a chart element. 
 type: docs

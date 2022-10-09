@@ -1,5 +1,5 @@
 ---
-title: comparisonexpression
+title: ComparisonExpression
 second_title: Aspose.Words for C++ API Reference
 description: The comparison expression. 
 type: docs

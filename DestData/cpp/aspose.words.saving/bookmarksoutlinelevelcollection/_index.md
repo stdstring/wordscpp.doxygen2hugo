@@ -1,5 +1,5 @@
 ---
-title: bookmarksoutlinelevelcollection
+title: BookmarksOutlineLevelCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of individual bookmarks outline level. 
 type: docs

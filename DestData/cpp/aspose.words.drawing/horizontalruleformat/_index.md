@@ -1,5 +1,5 @@
 ---
-title: horizontalruleformat
+title: HorizontalRuleFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents horizontal rule formatting. 
 type: docs

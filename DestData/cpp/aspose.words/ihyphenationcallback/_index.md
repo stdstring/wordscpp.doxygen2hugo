@@ -1,5 +1,5 @@
 ---
-title: ihyphenationcallback
+title: IHyphenationCallback
 second_title: Aspose.Words for C++ API Reference
 description: Implemented by classes which can register hyphenation dictionaries. 
 type: docs

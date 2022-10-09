@@ -1,5 +1,5 @@
 ---
-title: imagesaveoptions
+title: ImageSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Allows to specify additional options when rendering document pages or shapes to images. 
 type: docs

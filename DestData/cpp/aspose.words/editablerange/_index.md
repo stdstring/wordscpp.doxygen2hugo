@@ -1,5 +1,5 @@
 ---
-title: editablerange
+title: EditableRange
 second_title: Aspose.Words for C++ API Reference
 description: Represents a single editable range. 
 type: docs

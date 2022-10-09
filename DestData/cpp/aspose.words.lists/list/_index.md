@@ -1,5 +1,5 @@
 ---
-title: list
+title: List
 second_title: Aspose.Words for C++ API Reference
 description: Represents formatting of a list. 
 type: docs

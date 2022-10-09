@@ -1,5 +1,5 @@
 ---
-title: row
+title: Row
 second_title: Aspose.Words for C++ API Reference
 description: Represents a table row. 
 type: docs

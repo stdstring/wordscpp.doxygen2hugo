@@ -1,5 +1,5 @@
 ---
-title: fieldautonum
+title: FieldAutoNum
 second_title: Aspose.Words for C++ API Reference
 description: Implements the AUTONUM field. 
 type: docs

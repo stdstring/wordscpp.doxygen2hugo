@@ -1,5 +1,5 @@
 ---
-title: custompart
+title: CustomPart
 second_title: Aspose.Words for C++ API Reference
 description: Represents a custom (arbitrary content) part, that is not defined by the ISO/IEC 29500 standard. 
 type: docs

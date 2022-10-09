@@ -1,5 +1,5 @@
 ---
-title: section
+title: Section
 second_title: Aspose.Words for C++ API Reference
 description: Represents a single section in a document. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: documentproperty
+title: DocumentProperty
 second_title: Aspose.Words for C++ API Reference
 description: Represents a custom or built-in document property. 
 type: docs

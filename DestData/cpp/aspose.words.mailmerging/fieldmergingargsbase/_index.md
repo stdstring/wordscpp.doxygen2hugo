@@ -1,5 +1,5 @@
 ---
-title: fieldmergingargsbase
+title: FieldMergingArgsBase
 second_title: Aspose.Words for C++ API Reference
 description: Base class for FieldMergingArgs and ImageFieldMergingArgs. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldindex
+title: FieldIndex
 second_title: Aspose.Words for C++ API Reference
 description: Implements the INDEX field. 
 type: docs

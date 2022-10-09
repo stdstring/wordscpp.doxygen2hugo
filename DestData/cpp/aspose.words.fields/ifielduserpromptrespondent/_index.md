@@ -1,5 +1,5 @@
 ---
-title: ifielduserpromptrespondent
+title: IFieldUserPromptRespondent
 second_title: Aspose.Words for C++ API Reference
 description: Represents the respondent to user prompts during field update. 
 type: docs

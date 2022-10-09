@@ -1,5 +1,5 @@
 ---
-title: certificateholder
+title: CertificateHolder
 second_title: Aspose.Words for C++ API Reference
 description: Represents a holder of X509Certificate2 instance. 
 type: docs

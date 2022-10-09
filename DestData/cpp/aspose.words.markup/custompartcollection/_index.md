@@ -1,5 +1,5 @@
 ---
-title: custompartcollection
+title: CustomPartCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a collection of CustomPart objects. 
 type: docs

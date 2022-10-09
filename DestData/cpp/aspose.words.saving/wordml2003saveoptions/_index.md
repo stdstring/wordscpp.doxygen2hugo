@@ -1,5 +1,5 @@
 ---
-title: wordml2003saveoptions
+title: WordML2003SaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Can be used to specify additional options when saving a document into the WordML format. 
 type: docs

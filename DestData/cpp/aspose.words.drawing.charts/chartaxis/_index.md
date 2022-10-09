@@ -1,5 +1,5 @@
 ---
-title: chartaxis
+title: ChartAxis
 second_title: Aspose.Words for C++ API Reference
 description: Represents the axis options of the chart. 
 type: docs

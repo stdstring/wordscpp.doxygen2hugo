@@ -1,5 +1,5 @@
 ---
-title: warninginfocollection
+title: WarningInfoCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a typed collection of WarningInfo objects. 
 type: docs

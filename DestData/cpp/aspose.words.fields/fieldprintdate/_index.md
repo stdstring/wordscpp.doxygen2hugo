@@ -1,5 +1,5 @@
 ---
-title: fieldprintdate
+title: FieldPrintDate
 second_title: Aspose.Words for C++ API Reference
 description: Implements the PRINTDATE field. 
 type: docs

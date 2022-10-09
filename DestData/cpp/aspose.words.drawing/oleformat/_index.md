@@ -1,5 +1,5 @@
 ---
-title: oleformat
+title: OleFormat
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to the data of an OLE object or ActiveX control. 
 type: docs

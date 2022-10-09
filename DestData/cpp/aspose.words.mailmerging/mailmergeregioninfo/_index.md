@@ -1,5 +1,5 @@
 ---
-title: mailmergeregioninfo
+title: MailMergeRegionInfo
 second_title: Aspose.Words for C++ API Reference
 description: Contains information about a mail merge region. 
 type: docs

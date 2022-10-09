@@ -1,5 +1,5 @@
 ---
-title: fieldref
+title: FieldRef
 second_title: Aspose.Words for C++ API Reference
 description: Implements the REF field. 
 type: docs

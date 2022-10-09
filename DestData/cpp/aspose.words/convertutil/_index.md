@@ -1,5 +1,5 @@
 ---
-title: convertutil
+title: ConvertUtil
 second_title: Aspose.Words for C++ API Reference
 description: Provides helper functions to convert between various measurement units. 
 type: docs

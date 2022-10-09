@@ -1,5 +1,5 @@
 ---
-title: fieldglossary
+title: FieldGlossary
 second_title: Aspose.Words for C++ API Reference
 description: Implements the GLOSSARY field. 
 type: docs

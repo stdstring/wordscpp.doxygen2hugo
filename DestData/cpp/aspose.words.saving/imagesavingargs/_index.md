@@ -1,5 +1,5 @@
 ---
-title: imagesavingargs
+title: ImageSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the ImageSaving() event. 
 type: docs

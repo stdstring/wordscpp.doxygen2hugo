@@ -1,5 +1,5 @@
 ---
-title: replacingargs
+title: ReplacingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for a custom replace operation. 
 type: docs

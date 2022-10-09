@@ -43,7 +43,7 @@ let findElementValue (source: XElement) (elementName: string) =
 let getClassName (fullName: string) =
     match fullName.LastIndexOf(nameDelimiter) with
     | -1 -> nameDelimiter |> failwithf "Unprocessed class name \"%s\""
-    | lastDelimiterPos -> fullName.Substring(lastDelimiterPos + nameDelimiter.Length).ToLower()
+    | lastDelimiterPos -> fullName.Substring(lastDelimiterPos + nameDelimiter.Length)
 
 let createNamespaceFolderName (name: string) = name.ToLower().Replace("::", ".")
 

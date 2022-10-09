@@ -1,5 +1,5 @@
 ---
-title: fieldseq
+title: FieldSeq
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SEQ field. 
 type: docs

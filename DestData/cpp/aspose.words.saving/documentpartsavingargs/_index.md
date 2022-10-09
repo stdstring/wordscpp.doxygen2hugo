@@ -1,5 +1,5 @@
 ---
-title: documentpartsavingargs
+title: DocumentPartSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the DocumentPartSaving() callback. 
 type: docs

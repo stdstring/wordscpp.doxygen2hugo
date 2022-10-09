@@ -1,5 +1,5 @@
 ---
-title: shadowformat
+title: ShadowFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents shadow formatting for an object. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fielddatabasedatatable
+title: FieldDatabaseDataTable
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the FieldDatabase field result. 
 type: docs

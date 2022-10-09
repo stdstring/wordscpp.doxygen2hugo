@@ -1,5 +1,5 @@
 ---
-title: range
+title: Range
 second_title: Aspose.Words for C++ API Reference
 description: Represents a contiguous area in a document. 
 type: docs

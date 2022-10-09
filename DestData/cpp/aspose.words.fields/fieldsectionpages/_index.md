@@ -1,5 +1,5 @@
 ---
-title: fieldsectionpages
+title: FieldSectionPages
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SECTIONPAGES field. 
 type: docs

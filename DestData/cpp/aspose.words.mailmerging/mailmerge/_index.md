@@ -1,5 +1,5 @@
 ---
-title: mailmerge
+title: MailMerge
 second_title: Aspose.Words for C++ API Reference
 description: Represents the mail merge functionality. 
 type: docs

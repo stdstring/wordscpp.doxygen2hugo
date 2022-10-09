@@ -1,5 +1,5 @@
 ---
-title: fieldcitation
+title: FieldCitation
 second_title: Aspose.Words for C++ API Reference
 description: Implements the CITATION field. 
 type: docs

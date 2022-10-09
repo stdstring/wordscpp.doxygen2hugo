@@ -1,5 +1,5 @@
 ---
-title: fieldsubject
+title: FieldSubject
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SUBJECT field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: userinformation
+title: UserInformation
 second_title: Aspose.Words for C++ API Reference
 description: Specifies information about the user. 
 type: docs

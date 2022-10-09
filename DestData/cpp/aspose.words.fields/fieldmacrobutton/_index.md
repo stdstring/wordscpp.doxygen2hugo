@@ -1,5 +1,5 @@
 ---
-title: fieldmacrobutton
+title: FieldMacroButton
 second_title: Aspose.Words for C++ API Reference
 description: Implements the MACROBUTTON field. 
 type: docs

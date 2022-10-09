@@ -1,5 +1,5 @@
 ---
-title: fieldautotext
+title: FieldAutoText
 second_title: Aspose.Words for C++ API Reference
 description: Implements the AUTOTEXT field. 
 type: docs

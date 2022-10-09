@@ -1,5 +1,5 @@
 ---
-title: odsorecipientdatacollection
+title: OdsoRecipientDataCollection
 second_title: Aspose.Words for C++ API Reference
 description: A typed collection of OdsoRecipientData
 type: docs

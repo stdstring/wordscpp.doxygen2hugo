@@ -13,7 +13,7 @@ The **Aspose.Words.Math** namespace contains classes that represent Office Math 
 
 | Class | Description |
 | --- | --- |
-| [officemath](./officemath/) | Represents an Office Math object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other OfficeMath instances and some other nodes.  |
+| [OfficeMath](./officemath/) | Represents an Office Math object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other OfficeMath instances and some other nodes.  |
 ## Enums
 
 | Enum | Description |

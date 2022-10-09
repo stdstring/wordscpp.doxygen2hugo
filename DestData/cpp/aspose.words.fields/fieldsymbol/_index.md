@@ -1,5 +1,5 @@
 ---
-title: fieldsymbol
+title: FieldSymbol
 second_title: Aspose.Words for C++ API Reference
 description: Implements a SYMBOL field. 
 type: docs

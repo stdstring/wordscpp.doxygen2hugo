@@ -1,5 +1,5 @@
 ---
-title: listlevel
+title: ListLevel
 second_title: Aspose.Words for C++ API Reference
 description: Defines formatting for a list level. 
 type: docs

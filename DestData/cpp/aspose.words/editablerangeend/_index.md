@@ -1,5 +1,5 @@
 ---
-title: editablerangeend
+title: EditableRangeEnd
 second_title: Aspose.Words for C++ API Reference
 description: Represents an end of an editable range in a Word document. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fontinfo
+title: FontInfo
 second_title: Aspose.Words for C++ API Reference
 description: Specifies information about a font used in the document. 
 type: docs

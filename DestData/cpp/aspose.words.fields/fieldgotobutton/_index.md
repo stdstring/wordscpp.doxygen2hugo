@@ -1,5 +1,5 @@
 ---
-title: fieldgotobutton
+title: FieldGoToButton
 second_title: Aspose.Words for C++ API Reference
 description: Implements the GOTOBUTTON field. 
 type: docs

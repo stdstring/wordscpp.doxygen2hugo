@@ -13,133 +13,133 @@ The **Aspose.Words.Fields** namespace contains classes that represent Microsoft 
 
 | Class | Description |
 | --- | --- |
-| [barcodeparameters](./barcodeparameters/) | Container class for barcode parameters to pass-through to BarcodeGenerator.  |
-| [comparisonevaluationresult](./comparisonevaluationresult/) | The comparison evaluation result.  |
-| [comparisonexpression](./comparisonexpression/) | The comparison expression.  |
-| [dropdownitemcollection](./dropdownitemcollection/) | A collection of strings that represent all the items in a drop-down form field.  |
-| [field](./field/) | Represents a Microsoft Word document field.  |
-| [fieldaddin](./fieldaddin/) | Implements the ADDIN field.  |
-| [fieldaddressblock](./fieldaddressblock/) | Implements the ADDRESSBLOCK field.  |
-| [fieldadvance](./fieldadvance/) | Implements the ADVANCE field.  |
-| [fieldargumentbuilder](./fieldargumentbuilder/) | Builds a complex field argument consisting of fields, nodes, and plain text.  |
-| [fieldask](./fieldask/) | Implements the ASK field.  |
-| [fieldauthor](./fieldauthor/) | Implements the AUTHOR field.  |
-| [fieldautonum](./fieldautonum/) | Implements the AUTONUM field.  |
-| [fieldautonumlgl](./fieldautonumlgl/) | Implements the AUTONUMLGL field.  |
-| [fieldautonumout](./fieldautonumout/) | Implements the AUTONUMOUT field.  |
-| [fieldautotext](./fieldautotext/) | Implements the AUTOTEXT field.  |
-| [fieldautotextlist](./fieldautotextlist/) | Implements the AUTOTEXTLIST field.  |
-| [fieldbarcode](./fieldbarcode/) | Implements the BARCODE field.  |
-| [fieldbibliography](./fieldbibliography/) | Implements the BIBLIOGRAPHY field.  |
-| [fieldbidioutline](./fieldbidioutline/) | Implements the BIDIOUTLINE field.  |
-| [fieldbuilder](./fieldbuilder/) | Builds a field from field code tokens (arguments and switches).  |
-| [fieldchar](./fieldchar/) | Base class for nodes that represent field characters in a document.  |
-| [fieldcitation](./fieldcitation/) | Implements the CITATION field.  |
-| [fieldcollection](./fieldcollection/) | A collection of Field objects that represents the fields in the specified range.  |
-| [fieldcomments](./fieldcomments/) | Implements the COMMENTS field.  |
-| [fieldcompare](./fieldcompare/) | Implements the COMPARE field.  |
-| [fieldcreatedate](./fieldcreatedate/) | Implements the CREATEDATE field.  |
-| [fielddata](./fielddata/) | Implements the DATA field.  |
-| [fielddatabase](./fielddatabase/) | Implements the DATABASE field.  |
-| [fielddatabasedatarow](./fielddatabasedatarow/) | Provides data for the FieldDatabase field result.  |
-| [fielddatabasedatatable](./fielddatabasedatatable/) | Provides data for the FieldDatabase field result.  |
-| [fielddate](./fielddate/) | Implements the DATE field.  |
-| [fielddde](./fielddde/) | Implements the DDE field.  |
-| [fieldddeauto](./fieldddeauto/) | Implements the DDEAUTO field.  |
-| [fielddisplaybarcode](./fielddisplaybarcode/) | Implements the DISPLAYBARCODE field.  |
-| [fielddocproperty](./fielddocproperty/) | Implements the DOCPROPERTY field.  |
-| [fielddocvariable](./fielddocvariable/) | Implements DOCVARIABLE field.  |
-| [fieldedittime](./fieldedittime/) | Implements the EDITTIME field.  |
-| [fieldembed](./fieldembed/) | Implements the EMBED field.  |
-| [fieldend](./fieldend/) | Represents an end of a Word field in a document.  |
-| [fieldeq](./fieldeq/) | Implements the EQ field.  |
-| [fieldfilename](./fieldfilename/) | Implements the FILENAME field.  |
-| [fieldfilesize](./fieldfilesize/) | Implements the FILESIZE field.  |
-| [fieldfillin](./fieldfillin/) | Implements the FILLIN field.  |
-| [fieldfootnoteref](./fieldfootnoteref/) | Implements the FOOTNOTEREF field.  |
-| [fieldformat](./fieldformat/) | Provides typed access to field's numeric, date and time, and general formatting.  |
-| [fieldformcheckbox](./fieldformcheckbox/) | Implements the FORMCHECKBOX field.  |
-| [fieldformdropdown](./fieldformdropdown/) | Implements the FORMDROPDOWN field.  |
-| [fieldformtext](./fieldformtext/) | Implements the FORMTEXT field.  |
-| [fieldformula](./fieldformula/) | Implements the = (formula) field.  |
-| [fieldglossary](./fieldglossary/) | Implements the GLOSSARY field.  |
-| [fieldgotobutton](./fieldgotobutton/) | Implements the GOTOBUTTON field.  |
-| [fieldgreetingline](./fieldgreetingline/) | Implements the GREETINGLINE field.  |
-| [fieldhyperlink](./fieldhyperlink/) | Implements the HYPERLINK field.  |
-| [fieldif](./fieldif/) | Implements the IF field.  |
-| [fieldimport](./fieldimport/) | Implements the IMPORT field.  |
-| [fieldinclude](./fieldinclude/) | Implements the INCLUDE field.  |
-| [fieldincludepicture](./fieldincludepicture/) | Implements the INCLUDEPICTURE field.  |
-| [fieldincludetext](./fieldincludetext/) | Implements the INCLUDETEXT field.  |
-| [fieldindex](./fieldindex/) | Implements the INDEX field.  |
-| [fieldinfo](./fieldinfo/) | Implements the INFO field.  |
-| [fieldkeywords](./fieldkeywords/) | Implements the KEYWORDS field.  |
-| [fieldlastsavedby](./fieldlastsavedby/) | Implements the LASTSAVEDBY field.  |
-| [fieldlink](./fieldlink/) | Implements the LINK field.  |
-| [fieldlistnum](./fieldlistnum/) | Implements the LISTNUM field.  |
-| [fieldmacrobutton](./fieldmacrobutton/) | Implements the MACROBUTTON field.  |
-| [fieldmergebarcode](./fieldmergebarcode/) | Implements the MERGEBARCODE field.  |
-| [fieldmergefield](./fieldmergefield/) | Implements the MERGEFIELD field.  |
-| [fieldmergerec](./fieldmergerec/) | Implements the MERGEREC field.  |
-| [fieldmergeseq](./fieldmergeseq/) | Implements the MERGESEQ field.  |
-| [fieldnext](./fieldnext/) | Implements the NEXT field.  |
-| [fieldnextif](./fieldnextif/) | Implements the NEXTIF field.  |
-| [fieldnoteref](./fieldnoteref/) | Implements the NOTEREF field.  |
-| [fieldnumchars](./fieldnumchars/) | Implements the NUMCHARS field.  |
-| [fieldnumpages](./fieldnumpages/) | Implements the NUMPAGES field.  |
-| [fieldnumwords](./fieldnumwords/) | Implements the NUMWORDS field.  |
-| [fieldocx](./fieldocx/) | Implements the OCX field.  |
-| [fieldoptions](./fieldoptions/) | Represents options to control field handling in a document.  |
-| [fieldpage](./fieldpage/) | Implements the PAGE field.  |
-| [fieldpageref](./fieldpageref/) | Implements the PAGEREF field.  |
-| [fieldprint](./fieldprint/) | Implements the PRINT field.  |
-| [fieldprintdate](./fieldprintdate/) | Implements the PRINTDATE field.  |
-| [fieldprivate](./fieldprivate/) | Implements the PRIVATE field.  |
-| [fieldquote](./fieldquote/) | Implements the QUOTE field.  |
-| [fieldrd](./fieldrd/) | Implements the RD field.  |
-| [fieldref](./fieldref/) | Implements the REF field.  |
-| [fieldrevnum](./fieldrevnum/) | Implements the REVNUM field.  |
-| [fieldsavedate](./fieldsavedate/) | Implements the SAVEDATE field.  |
-| [fieldsection](./fieldsection/) | Implements the SECTION field.  |
-| [fieldsectionpages](./fieldsectionpages/) | Implements the SECTIONPAGES field.  |
-| [fieldseparator](./fieldseparator/) | Represents a Word field separator that separates the field code from the field result.  |
-| [fieldseq](./fieldseq/) | Implements the SEQ field.  |
-| [fieldset](./fieldset/) | Implements the SET field.  |
-| [fieldshape](./fieldshape/) | Implements the SHAPE field.  |
-| [fieldskipif](./fieldskipif/) | Implements the SKIPIF field.  |
-| [fieldstart](./fieldstart/) | Represents a start of a Word field in a document.  |
-| [fieldstyleref](./fieldstyleref/) | Implements the STYLEREF field.  |
-| [fieldsubject](./fieldsubject/) | Implements the SUBJECT field.  |
-| [fieldsymbol](./fieldsymbol/) | Implements a SYMBOL field.  |
-| [fieldta](./fieldta/) | Implements the TA field.  |
-| [fieldtc](./fieldtc/) | Implements the TC field.  |
-| [fieldtemplate](./fieldtemplate/) | Implements the TEMPLATE field.  |
-| [fieldtime](./fieldtime/) | Implements the TIME field.  |
-| [fieldtitle](./fieldtitle/) | Implements the TITLE field.  |
-| [fieldtoa](./fieldtoa/) | Implements the TOA field.  |
-| [fieldtoc](./fieldtoc/) | Implements the TOC field.  |
-| [fieldunknown](./fieldunknown/) | Implements an unknown or unrecognized field.  |
-| [fielduseraddress](./fielduseraddress/) | Implements the USERADDRESS field.  |
-| [fielduserinitials](./fielduserinitials/) | Implements the USERINITIALS field.  |
-| [fieldusername](./fieldusername/) | Implements the USERNAME field.  |
-| [fieldxe](./fieldxe/) | Implements the XE field.  |
-| [formfield](./formfield/) | Represents a single form field.  |
-| [formfieldcollection](./formfieldcollection/) | A collection of **FormField** objects that represent all the form fields in a range.  |
-| [generalformatcollection](./generalformatcollection/) | Represents a typed collection of general formats.  |
-| [mergefieldimagedimension](./mergefieldimagedimension/) | Represents an image dimension (i.e. the width or the height) used across a mail merge process.  |
-| [toacategories](./toacategories/) | Represents a table of authorities categories.  |
-| [userinformation](./userinformation/) | Specifies information about the user.  |
+| [BarcodeParameters](./barcodeparameters/) | Container class for barcode parameters to pass-through to BarcodeGenerator.  |
+| [ComparisonEvaluationResult](./comparisonevaluationresult/) | The comparison evaluation result.  |
+| [ComparisonExpression](./comparisonexpression/) | The comparison expression.  |
+| [DropDownItemCollection](./dropdownitemcollection/) | A collection of strings that represent all the items in a drop-down form field.  |
+| [Field](./field/) | Represents a Microsoft Word document field.  |
+| [FieldAddIn](./fieldaddin/) | Implements the ADDIN field.  |
+| [FieldAddressBlock](./fieldaddressblock/) | Implements the ADDRESSBLOCK field.  |
+| [FieldAdvance](./fieldadvance/) | Implements the ADVANCE field.  |
+| [FieldArgumentBuilder](./fieldargumentbuilder/) | Builds a complex field argument consisting of fields, nodes, and plain text.  |
+| [FieldAsk](./fieldask/) | Implements the ASK field.  |
+| [FieldAuthor](./fieldauthor/) | Implements the AUTHOR field.  |
+| [FieldAutoNum](./fieldautonum/) | Implements the AUTONUM field.  |
+| [FieldAutoNumLgl](./fieldautonumlgl/) | Implements the AUTONUMLGL field.  |
+| [FieldAutoNumOut](./fieldautonumout/) | Implements the AUTONUMOUT field.  |
+| [FieldAutoText](./fieldautotext/) | Implements the AUTOTEXT field.  |
+| [FieldAutoTextList](./fieldautotextlist/) | Implements the AUTOTEXTLIST field.  |
+| [FieldBarcode](./fieldbarcode/) | Implements the BARCODE field.  |
+| [FieldBibliography](./fieldbibliography/) | Implements the BIBLIOGRAPHY field.  |
+| [FieldBidiOutline](./fieldbidioutline/) | Implements the BIDIOUTLINE field.  |
+| [FieldBuilder](./fieldbuilder/) | Builds a field from field code tokens (arguments and switches).  |
+| [FieldChar](./fieldchar/) | Base class for nodes that represent field characters in a document.  |
+| [FieldCitation](./fieldcitation/) | Implements the CITATION field.  |
+| [FieldCollection](./fieldcollection/) | A collection of Field objects that represents the fields in the specified range.  |
+| [FieldComments](./fieldcomments/) | Implements the COMMENTS field.  |
+| [FieldCompare](./fieldcompare/) | Implements the COMPARE field.  |
+| [FieldCreateDate](./fieldcreatedate/) | Implements the CREATEDATE field.  |
+| [FieldData](./fielddata/) | Implements the DATA field.  |
+| [FieldDatabase](./fielddatabase/) | Implements the DATABASE field.  |
+| [FieldDatabaseDataRow](./fielddatabasedatarow/) | Provides data for the FieldDatabase field result.  |
+| [FieldDatabaseDataTable](./fielddatabasedatatable/) | Provides data for the FieldDatabase field result.  |
+| [FieldDate](./fielddate/) | Implements the DATE field.  |
+| [FieldDde](./fielddde/) | Implements the DDE field.  |
+| [FieldDdeAuto](./fieldddeauto/) | Implements the DDEAUTO field.  |
+| [FieldDisplayBarcode](./fielddisplaybarcode/) | Implements the DISPLAYBARCODE field.  |
+| [FieldDocProperty](./fielddocproperty/) | Implements the DOCPROPERTY field.  |
+| [FieldDocVariable](./fielddocvariable/) | Implements DOCVARIABLE field.  |
+| [FieldEditTime](./fieldedittime/) | Implements the EDITTIME field.  |
+| [FieldEmbed](./fieldembed/) | Implements the EMBED field.  |
+| [FieldEnd](./fieldend/) | Represents an end of a Word field in a document.  |
+| [FieldEQ](./fieldeq/) | Implements the EQ field.  |
+| [FieldFileName](./fieldfilename/) | Implements the FILENAME field.  |
+| [FieldFileSize](./fieldfilesize/) | Implements the FILESIZE field.  |
+| [FieldFillIn](./fieldfillin/) | Implements the FILLIN field.  |
+| [FieldFootnoteRef](./fieldfootnoteref/) | Implements the FOOTNOTEREF field.  |
+| [FieldFormat](./fieldformat/) | Provides typed access to field's numeric, date and time, and general formatting.  |
+| [FieldFormCheckBox](./fieldformcheckbox/) | Implements the FORMCHECKBOX field.  |
+| [FieldFormDropDown](./fieldformdropdown/) | Implements the FORMDROPDOWN field.  |
+| [FieldFormText](./fieldformtext/) | Implements the FORMTEXT field.  |
+| [FieldFormula](./fieldformula/) | Implements the = (formula) field.  |
+| [FieldGlossary](./fieldglossary/) | Implements the GLOSSARY field.  |
+| [FieldGoToButton](./fieldgotobutton/) | Implements the GOTOBUTTON field.  |
+| [FieldGreetingLine](./fieldgreetingline/) | Implements the GREETINGLINE field.  |
+| [FieldHyperlink](./fieldhyperlink/) | Implements the HYPERLINK field.  |
+| [FieldIf](./fieldif/) | Implements the IF field.  |
+| [FieldImport](./fieldimport/) | Implements the IMPORT field.  |
+| [FieldInclude](./fieldinclude/) | Implements the INCLUDE field.  |
+| [FieldIncludePicture](./fieldincludepicture/) | Implements the INCLUDEPICTURE field.  |
+| [FieldIncludeText](./fieldincludetext/) | Implements the INCLUDETEXT field.  |
+| [FieldIndex](./fieldindex/) | Implements the INDEX field.  |
+| [FieldInfo](./fieldinfo/) | Implements the INFO field.  |
+| [FieldKeywords](./fieldkeywords/) | Implements the KEYWORDS field.  |
+| [FieldLastSavedBy](./fieldlastsavedby/) | Implements the LASTSAVEDBY field.  |
+| [FieldLink](./fieldlink/) | Implements the LINK field.  |
+| [FieldListNum](./fieldlistnum/) | Implements the LISTNUM field.  |
+| [FieldMacroButton](./fieldmacrobutton/) | Implements the MACROBUTTON field.  |
+| [FieldMergeBarcode](./fieldmergebarcode/) | Implements the MERGEBARCODE field.  |
+| [FieldMergeField](./fieldmergefield/) | Implements the MERGEFIELD field.  |
+| [FieldMergeRec](./fieldmergerec/) | Implements the MERGEREC field.  |
+| [FieldMergeSeq](./fieldmergeseq/) | Implements the MERGESEQ field.  |
+| [FieldNext](./fieldnext/) | Implements the NEXT field.  |
+| [FieldNextIf](./fieldnextif/) | Implements the NEXTIF field.  |
+| [FieldNoteRef](./fieldnoteref/) | Implements the NOTEREF field.  |
+| [FieldNumChars](./fieldnumchars/) | Implements the NUMCHARS field.  |
+| [FieldNumPages](./fieldnumpages/) | Implements the NUMPAGES field.  |
+| [FieldNumWords](./fieldnumwords/) | Implements the NUMWORDS field.  |
+| [FieldOcx](./fieldocx/) | Implements the OCX field.  |
+| [FieldOptions](./fieldoptions/) | Represents options to control field handling in a document.  |
+| [FieldPage](./fieldpage/) | Implements the PAGE field.  |
+| [FieldPageRef](./fieldpageref/) | Implements the PAGEREF field.  |
+| [FieldPrint](./fieldprint/) | Implements the PRINT field.  |
+| [FieldPrintDate](./fieldprintdate/) | Implements the PRINTDATE field.  |
+| [FieldPrivate](./fieldprivate/) | Implements the PRIVATE field.  |
+| [FieldQuote](./fieldquote/) | Implements the QUOTE field.  |
+| [FieldRD](./fieldrd/) | Implements the RD field.  |
+| [FieldRef](./fieldref/) | Implements the REF field.  |
+| [FieldRevNum](./fieldrevnum/) | Implements the REVNUM field.  |
+| [FieldSaveDate](./fieldsavedate/) | Implements the SAVEDATE field.  |
+| [FieldSection](./fieldsection/) | Implements the SECTION field.  |
+| [FieldSectionPages](./fieldsectionpages/) | Implements the SECTIONPAGES field.  |
+| [FieldSeparator](./fieldseparator/) | Represents a Word field separator that separates the field code from the field result.  |
+| [FieldSeq](./fieldseq/) | Implements the SEQ field.  |
+| [FieldSet](./fieldset/) | Implements the SET field.  |
+| [FieldShape](./fieldshape/) | Implements the SHAPE field.  |
+| [FieldSkipIf](./fieldskipif/) | Implements the SKIPIF field.  |
+| [FieldStart](./fieldstart/) | Represents a start of a Word field in a document.  |
+| [FieldStyleRef](./fieldstyleref/) | Implements the STYLEREF field.  |
+| [FieldSubject](./fieldsubject/) | Implements the SUBJECT field.  |
+| [FieldSymbol](./fieldsymbol/) | Implements a SYMBOL field.  |
+| [FieldTA](./fieldta/) | Implements the TA field.  |
+| [FieldTC](./fieldtc/) | Implements the TC field.  |
+| [FieldTemplate](./fieldtemplate/) | Implements the TEMPLATE field.  |
+| [FieldTime](./fieldtime/) | Implements the TIME field.  |
+| [FieldTitle](./fieldtitle/) | Implements the TITLE field.  |
+| [FieldToa](./fieldtoa/) | Implements the TOA field.  |
+| [FieldToc](./fieldtoc/) | Implements the TOC field.  |
+| [FieldUnknown](./fieldunknown/) | Implements an unknown or unrecognized field.  |
+| [FieldUserAddress](./fielduseraddress/) | Implements the USERADDRESS field.  |
+| [FieldUserInitials](./fielduserinitials/) | Implements the USERINITIALS field.  |
+| [FieldUserName](./fieldusername/) | Implements the USERNAME field.  |
+| [FieldXE](./fieldxe/) | Implements the XE field.  |
+| [FormField](./formfield/) | Represents a single form field.  |
+| [FormFieldCollection](./formfieldcollection/) | A collection of **FormField** objects that represent all the form fields in a range.  |
+| [GeneralFormatCollection](./generalformatcollection/) | Represents a typed collection of general formats.  |
+| [MergeFieldImageDimension](./mergefieldimagedimension/) | Represents an image dimension (i.e. the width or the height) used across a mail merge process.  |
+| [ToaCategories](./toacategories/) | Represents a table of authorities categories.  |
+| [UserInformation](./userinformation/) | Specifies information about the user.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [ibarcodegenerator](./ibarcodegenerator/) | Public interface for barcode custom generator. Implementation should be provided by user.  |
-| [icomparisonexpressionevaluator](./icomparisonexpressionevaluator/) | When implemented, allows to override default comparison expressions evaluation for the FieldIf and FieldCompare fields.  |
-| [ifielddatabaseprovider](./ifielddatabaseprovider/) | Implement this interface to provide data for the FieldDatabase field when it's updated.  |
-| [ifieldresultformatter](./ifieldresultformatter/) | Implement this interface if you want to control how the field result is formatted.  |
-| [ifieldupdatecultureprovider](./ifieldupdatecultureprovider/) | When implemented, provides a CultureInfo object that should be used during the update of a particular field.  |
-| [ifieldupdatingcallback](./ifieldupdatingcallback/) | Implement this interface if you want to have your own custom methods called during a field update.  |
-| [ifielduserpromptrespondent](./ifielduserpromptrespondent/) | Represents the respondent to user prompts during field update.  |
+| [IBarcodeGenerator](./ibarcodegenerator/) | Public interface for barcode custom generator. Implementation should be provided by user.  |
+| [IComparisonExpressionEvaluator](./icomparisonexpressionevaluator/) | When implemented, allows to override default comparison expressions evaluation for the FieldIf and FieldCompare fields.  |
+| [IFieldDatabaseProvider](./ifielddatabaseprovider/) | Implement this interface to provide data for the FieldDatabase field when it's updated.  |
+| [IFieldResultFormatter](./ifieldresultformatter/) | Implement this interface if you want to control how the field result is formatted.  |
+| [IFieldUpdateCultureProvider](./ifieldupdatecultureprovider/) | When implemented, provides a CultureInfo object that should be used during the update of a particular field.  |
+| [IFieldUpdatingCallback](./ifieldupdatingcallback/) | Implement this interface if you want to have your own custom methods called during a field update.  |
+| [IFieldUserPromptRespondent](./ifielduserpromptrespondent/) | Represents the respondent to user prompts during field update.  |
 ## Enums
 
 | Enum | Description |

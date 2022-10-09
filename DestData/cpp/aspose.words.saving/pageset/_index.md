@@ -1,5 +1,5 @@
 ---
-title: pageset
+title: PageSet
 second_title: Aspose.Words for C++ API Reference
 description: Describes a random set of pages. 
 type: docs

@@ -13,10 +13,10 @@ The **Aspose.Words.Properties** namespace provides classes to work with custom a
 
 | Class | Description |
 | --- | --- |
-| [builtindocumentproperties](./builtindocumentproperties/) | A collection of built-in document properties.  |
-| [customdocumentproperties](./customdocumentproperties/) | A collection of custom document properties.  |
-| [documentproperty](./documentproperty/) | Represents a custom or built-in document property.  |
-| [documentpropertycollection](./documentpropertycollection/) | Base class for BuiltInDocumentProperties and CustomDocumentProperties collections.  |
+| [BuiltInDocumentProperties](./builtindocumentproperties/) | A collection of built-in document properties.  |
+| [CustomDocumentProperties](./customdocumentproperties/) | A collection of custom document properties.  |
+| [DocumentProperty](./documentproperty/) | Represents a custom or built-in document property.  |
+| [DocumentPropertyCollection](./documentpropertycollection/) | Base class for BuiltInDocumentProperties and CustomDocumentProperties collections.  |
 ## Enums
 
 | Enum | Description |

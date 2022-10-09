@@ -1,5 +1,5 @@
 ---
-title: fieldincludepicture
+title: FieldIncludePicture
 second_title: Aspose.Words for C++ API Reference
 description: Implements the INCLUDEPICTURE field. 
 type: docs

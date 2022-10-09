@@ -1,5 +1,5 @@
 ---
-title: markdownsaveoptions
+title: MarkdownSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Class to specify additional options when saving a document into the Markdown format. 
 type: docs

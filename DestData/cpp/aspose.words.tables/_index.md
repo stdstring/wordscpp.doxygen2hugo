@@ -13,15 +13,15 @@ The **Aspose.Words.Tables** namespace contains classes that represent tables, ro
 
 | Class | Description |
 | --- | --- |
-| [cell](./cell/) | Represents a table cell.  |
-| [cellcollection](./cellcollection/) | Provides typed access to a collection of Cell nodes.  |
-| [cellformat](./cellformat/) | Represents all formatting for a table cell.  |
-| [preferredwidth](./preferredwidth/) | Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell.  |
-| [row](./row/) | Represents a table row.  |
-| [rowcollection](./rowcollection/) | Provides typed access to a collection of Row nodes.  |
-| [rowformat](./rowformat/) | Represents all formatting for a table row.  |
-| [table](./table/) | Represents a table in a Word document.  |
-| [tablecollection](./tablecollection/) | Provides typed access to a collection of Table nodes.  |
+| [Cell](./cell/) | Represents a table cell.  |
+| [CellCollection](./cellcollection/) | Provides typed access to a collection of Cell nodes.  |
+| [CellFormat](./cellformat/) | Represents all formatting for a table cell.  |
+| [PreferredWidth](./preferredwidth/) | Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell.  |
+| [Row](./row/) | Represents a table row.  |
+| [RowCollection](./rowcollection/) | Provides typed access to a collection of Row nodes.  |
+| [RowFormat](./rowformat/) | Represents all formatting for a table row.  |
+| [Table](./table/) | Represents a table in a Word document.  |
+| [TableCollection](./tablecollection/) | Provides typed access to a collection of Table nodes.  |
 ## Enums
 
 | Enum | Description |

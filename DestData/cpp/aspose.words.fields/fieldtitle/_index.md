@@ -1,5 +1,5 @@
 ---
-title: fieldtitle
+title: FieldTitle
 second_title: Aspose.Words for C++ API Reference
 description: Implements the TITLE field. 
 type: docs

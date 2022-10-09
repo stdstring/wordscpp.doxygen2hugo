@@ -1,5 +1,5 @@
 ---
-title: resourceloadingargs
+title: ResourceLoadingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the ResourceLoading() method. 
 type: docs

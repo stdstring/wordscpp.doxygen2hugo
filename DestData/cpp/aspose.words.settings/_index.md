@@ -13,16 +13,16 @@ The **Aspose.Words.Settings** namespace contains classes and enums that are used
 
 | Class | Description |
 | --- | --- |
-| [compatibilityoptions](./compatibilityoptions/) | Contains compatibility options (that is, the user preferences entered on the **Compatibility** tab of the **Options** dialog in Microsoft Word).  |
-| [hyphenationoptions](./hyphenationoptions/) | Allows to configure document hyphenation options.  |
-| [mailmergesettings](./mailmergesettings/) | Specifies all of the mail merge information for a document.  |
-| [odso](./odso/) | Specifies the Office Data Source Object (ODSO) settings for a mail merge data source.  |
-| [odsofieldmapdata](./odsofieldmapdata/) | Specifies how a column in the external data source shall be mapped to the predefined merge fields within the document.  |
-| [odsofieldmapdatacollection](./odsofieldmapdatacollection/) | A typed collection of the OdsoFieldMapData objects.  |
-| [odsorecipientdata](./odsorecipientdata/) | Represents information about a single record within an external data source that is to be excluded from the mail merge.  |
-| [odsorecipientdatacollection](./odsorecipientdatacollection/) | A typed collection of OdsoRecipientData |
-| [viewoptions](./viewoptions/) | Provides various options that control how a document is shown in Microsoft Word.  |
-| [writeprotection](./writeprotection/) | Specifies write protection settings for a document.  |
+| [CompatibilityOptions](./compatibilityoptions/) | Contains compatibility options (that is, the user preferences entered on the **Compatibility** tab of the **Options** dialog in Microsoft Word).  |
+| [HyphenationOptions](./hyphenationoptions/) | Allows to configure document hyphenation options.  |
+| [MailMergeSettings](./mailmergesettings/) | Specifies all of the mail merge information for a document.  |
+| [Odso](./odso/) | Specifies the Office Data Source Object (ODSO) settings for a mail merge data source.  |
+| [OdsoFieldMapData](./odsofieldmapdata/) | Specifies how a column in the external data source shall be mapped to the predefined merge fields within the document.  |
+| [OdsoFieldMapDataCollection](./odsofieldmapdatacollection/) | A typed collection of the OdsoFieldMapData objects.  |
+| [OdsoRecipientData](./odsorecipientdata/) | Represents information about a single record within an external data source that is to be excluded from the mail merge.  |
+| [OdsoRecipientDataCollection](./odsorecipientdatacollection/) | A typed collection of OdsoRecipientData |
+| [ViewOptions](./viewoptions/) | Provides various options that control how a document is shown in Microsoft Word.  |
+| [WriteProtection](./writeprotection/) | Specifies write protection settings for a document.  |
 ## Enums
 
 | Enum | Description |

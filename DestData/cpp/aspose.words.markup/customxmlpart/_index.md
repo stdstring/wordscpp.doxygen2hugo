@@ -1,5 +1,5 @@
 ---
-title: customxmlpart
+title: CustomXmlPart
 second_title: Aspose.Words for C++ API Reference
 description: Represents a Custom XML Data Storage Part (custom XML data within a package). 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: comment
+title: Comment
 second_title: Aspose.Words for C++ API Reference
 description: Represents a container for text of a comment. 
 type: docs

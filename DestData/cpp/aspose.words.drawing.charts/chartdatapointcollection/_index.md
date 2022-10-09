@@ -1,5 +1,5 @@
 ---
-title: chartdatapointcollection
+title: ChartDataPointCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents collection of a ChartDataPoint. 
 type: docs

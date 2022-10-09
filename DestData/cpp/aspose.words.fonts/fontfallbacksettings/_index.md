@@ -1,5 +1,5 @@
 ---
-title: fontfallbacksettings
+title: FontFallbackSettings
 second_title: Aspose.Words for C++ API Reference
 description: Specifies font fallback mechanism settings. 
 type: docs

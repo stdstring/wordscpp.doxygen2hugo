@@ -1,5 +1,5 @@
 ---
-title: chartmarker
+title: ChartMarker
 second_title: Aspose.Words for C++ API Reference
 description: Represents a chart data marker. 
 type: docs

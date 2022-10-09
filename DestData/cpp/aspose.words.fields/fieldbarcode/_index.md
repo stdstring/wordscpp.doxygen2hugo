@@ -1,5 +1,5 @@
 ---
-title: fieldbarcode
+title: FieldBarcode
 second_title: Aspose.Words for C++ API Reference
 description: Implements the BARCODE field. 
 type: docs

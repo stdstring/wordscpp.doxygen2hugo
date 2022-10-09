@@ -1,5 +1,5 @@
 ---
-title: listlabel
+title: ListLabel
 second_title: Aspose.Words for C++ API Reference
 description: Defines properties specific to a list label. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: pagesetup
+title: PageSetup
 second_title: Aspose.Words for C++ API Reference
 description: Represents the page setup properties of a section. 
 type: docs

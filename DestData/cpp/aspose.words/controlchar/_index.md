@@ -1,5 +1,5 @@
 ---
-title: controlchar
+title: ControlChar
 second_title: Aspose.Words for C++ API Reference
 description: Control characters often encountered in documents. 
 type: docs

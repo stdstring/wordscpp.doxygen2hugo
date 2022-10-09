@@ -1,5 +1,5 @@
 ---
-title: downsampleoptions
+title: DownsampleOptions
 second_title: Aspose.Words for C++ API Reference
 description: Allows to specify downsample options. 
 type: docs

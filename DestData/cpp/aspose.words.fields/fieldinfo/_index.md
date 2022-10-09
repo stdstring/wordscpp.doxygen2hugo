@@ -1,5 +1,5 @@
 ---
-title: fieldinfo
+title: FieldInfo
 second_title: Aspose.Words for C++ API Reference
 description: Implements the INFO field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldincludetext
+title: FieldIncludeText
 second_title: Aspose.Words for C++ API Reference
 description: Implements the INCLUDETEXT field. 
 type: docs

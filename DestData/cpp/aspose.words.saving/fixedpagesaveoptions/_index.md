@@ -1,5 +1,5 @@
 ---
-title: fixedpagesaveoptions
+title: FixedPageSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc). 
 type: docs

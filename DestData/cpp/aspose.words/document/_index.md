@@ -1,5 +1,5 @@
 ---
-title: document
+title: Document
 second_title: Aspose.Words for C++ API Reference
 description: Represents a Word document. 
 type: docs

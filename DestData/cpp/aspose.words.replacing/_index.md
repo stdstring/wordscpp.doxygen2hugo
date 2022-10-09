@@ -13,13 +13,13 @@ The **Aspose.Words.Replacing** namespace provides classes to manipulate with fin
 
 | Class | Description |
 | --- | --- |
-| [findreplaceoptions](./findreplaceoptions/) | Specifies options for find/replace operations.  |
-| [replacingargs](./replacingargs/) | Provides data for a custom replace operation.  |
+| [FindReplaceOptions](./findreplaceoptions/) | Specifies options for find/replace operations.  |
+| [ReplacingArgs](./replacingargs/) | Provides data for a custom replace operation.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [ireplacingcallback](./ireplacingcallback/) | Implement this interface if you want to have your own custom method called during a find and replace operation.  |
+| [IReplacingCallback](./ireplacingcallback/) | Implement this interface if you want to have your own custom method called during a find and replace operation.  |
 ## Enums
 
 | Enum | Description |

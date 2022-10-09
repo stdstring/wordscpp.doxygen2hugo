@@ -1,5 +1,5 @@
 ---
-title: odso
+title: Odso
 second_title: Aspose.Words for C++ API Reference
 description: Specifies the Office Data Source Object (ODSO) settings for a mail merge data source. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fielddata
+title: FieldData
 second_title: Aspose.Words for C++ API Reference
 description: Implements the DATA field. 
 type: docs

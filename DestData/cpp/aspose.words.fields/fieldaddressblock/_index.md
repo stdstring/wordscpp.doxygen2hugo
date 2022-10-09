@@ -1,5 +1,5 @@
 ---
-title: fieldaddressblock
+title: FieldAddressBlock
 second_title: Aspose.Words for C++ API Reference
 description: Implements the ADDRESSBLOCK field. 
 type: docs

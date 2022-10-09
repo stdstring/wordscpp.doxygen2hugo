@@ -1,5 +1,5 @@
 ---
-title: pdfsaveoptions
+title: PdfSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Can be used to specify additional options when saving a document into the Pdf format. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldbibliography
+title: FieldBibliography
 second_title: Aspose.Words for C++ API Reference
 description: Implements the BIBLIOGRAPHY field. 
 type: docs

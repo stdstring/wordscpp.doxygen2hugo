@@ -1,5 +1,5 @@
 ---
-title: axisscaling
+title: AxisScaling
 second_title: Aspose.Words for C++ API Reference
 description: Represents the scaling options of the axis. 
 type: docs

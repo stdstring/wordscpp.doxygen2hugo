@@ -1,5 +1,5 @@
 ---
-title: fieldocx
+title: FieldOcx
 second_title: Aspose.Words for C++ API Reference
 description: Implements the OCX field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: commentrangestart
+title: CommentRangeStart
 second_title: Aspose.Words for C++ API Reference
 description: Denotes the start of a region of text that has a comment associated with it. 
 type: docs

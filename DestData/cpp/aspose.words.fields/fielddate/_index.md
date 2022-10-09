@@ -1,5 +1,5 @@
 ---
-title: fielddate
+title: FieldDate
 second_title: Aspose.Words for C++ API Reference
 description: Implements the DATE field. 
 type: docs

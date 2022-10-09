@@ -1,5 +1,5 @@
 ---
-title: fieldnoteref
+title: FieldNoteRef
 second_title: Aspose.Words for C++ API Reference
 description: Implements the NOTEREF field. 
 type: docs

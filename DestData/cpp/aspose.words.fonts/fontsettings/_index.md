@@ -1,5 +1,5 @@
 ---
-title: fontsettings
+title: FontSettings
 second_title: Aspose.Words for C++ API Reference
 description: Specifies font settings for a document. 
 type: docs

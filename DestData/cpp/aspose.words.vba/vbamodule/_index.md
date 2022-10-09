@@ -1,5 +1,5 @@
 ---
-title: vbamodule
+title: VbaModule
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to VBA project module. 
 type: docs

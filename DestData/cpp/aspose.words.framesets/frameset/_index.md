@@ -1,5 +1,5 @@
 ---
-title: frameset
+title: Frameset
 second_title: Aspose.Words for C++ API Reference
 description: Represents a frames page or a single frame on a frames page. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: textwatermarkoptions
+title: TextWatermarkOptions
 second_title: Aspose.Words for C++ API Reference
 description: Contains options that can be specified when adding a watermark with text. 
 type: docs

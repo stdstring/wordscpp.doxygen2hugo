@@ -1,5 +1,5 @@
 ---
-title: groupshape
+title: GroupShape
 second_title: Aspose.Words for C++ API Reference
 description: Represents a group of shapes in a document. 
 type: docs

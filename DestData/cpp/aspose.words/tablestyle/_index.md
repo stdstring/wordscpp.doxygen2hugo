@@ -1,5 +1,5 @@
 ---
-title: tablestyle
+title: TableStyle
 second_title: Aspose.Words for C++ API Reference
 description: Represents a table style. 
 type: docs

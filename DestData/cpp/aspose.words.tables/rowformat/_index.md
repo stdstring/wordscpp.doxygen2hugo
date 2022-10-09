@@ -1,5 +1,5 @@
 ---
-title: rowformat
+title: RowFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents all formatting for a table row. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: documentsavingargs
+title: DocumentSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: An argument passed into Notify(). 
 type: docs

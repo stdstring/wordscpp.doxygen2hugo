@@ -1,5 +1,5 @@
 ---
-title: imagefieldmergingargs
+title: ImageFieldMergingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the ImageFieldMerging() event. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldddeauto
+title: FieldDdeAuto
 second_title: Aspose.Words for C++ API Reference
 description: Implements the DDEAUTO field. 
 type: docs

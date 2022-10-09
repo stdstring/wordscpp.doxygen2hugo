@@ -1,5 +1,5 @@
 ---
-title: chartnumberformat
+title: ChartNumberFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents number formatting of the parent element. 
 type: docs

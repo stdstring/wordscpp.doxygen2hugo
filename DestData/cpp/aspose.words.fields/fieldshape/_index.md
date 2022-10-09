@@ -1,5 +1,5 @@
 ---
-title: fieldshape
+title: FieldShape
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SHAPE field. 
 type: docs

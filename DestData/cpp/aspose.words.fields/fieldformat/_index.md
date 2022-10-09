@@ -1,5 +1,5 @@
 ---
-title: fieldformat
+title: FieldFormat
 second_title: Aspose.Words for C++ API Reference
 description: Provides typed access to field's numeric, date and time, and general formatting. 
 type: docs

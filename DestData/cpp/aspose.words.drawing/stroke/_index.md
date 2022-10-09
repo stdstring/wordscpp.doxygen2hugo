@@ -1,5 +1,5 @@
 ---
-title: stroke
+title: Stroke
 second_title: Aspose.Words for C++ API Reference
 description: Defines a stroke for a shape. 
 type: docs

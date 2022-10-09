@@ -1,5 +1,5 @@
 ---
-title: fontsavingargs
+title: FontSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the FontSaving() event. 
 type: docs

@@ -13,29 +13,29 @@ The **Aspose.Words.Drawing.Charts** namespace provides classes that allow to acc
 
 | Class | Description |
 | --- | --- |
-| [axisbound](./axisbound/) | Represents minimum or maximum bound of axis values.  |
-| [axisdisplayunit](./axisdisplayunit/) | Provides access to the scaling options of the display units for the value axis.  |
-| [axisscaling](./axisscaling/) | Represents the scaling options of the axis.  |
-| [chart](./chart/) | Provides access to the chart shape properties.  |
-| [chartaxis](./chartaxis/) | Represents the axis options of the chart.  |
-| [chartdatalabel](./chartdatalabel/) | Represents data label on a chart point or trendline.  |
-| [chartdatalabelcollection](./chartdatalabelcollection/) | Represents a collection of ChartDataLabel.  |
-| [chartdatapoint](./chartdatapoint/) | Allows to specify formatting of a single data point on the chart.  |
-| [chartdatapointcollection](./chartdatapointcollection/) | Represents collection of a ChartDataPoint.  |
-| [chartformat](./chartformat/) | Represents the formatting of a chart element.  |
-| [chartlegend](./chartlegend/) | Represents chart legend properties.  |
-| [chartlegendentry](./chartlegendentry/) | Represents a chart legend entry.  |
-| [chartlegendentrycollection](./chartlegendentrycollection/) | Represents a collection of chart legend entries.  |
-| [chartmarker](./chartmarker/) | Represents a chart data marker.  |
-| [chartnumberformat](./chartnumberformat/) | Represents number formatting of the parent element.  |
-| [chartseries](./chartseries/) | Represents chart series properties.  |
-| [chartseriescollection](./chartseriescollection/) | Represents collection of a ChartSeries.  |
-| [charttitle](./charttitle/) | Provides access to the chart title properties.  |
+| [AxisBound](./axisbound/) | Represents minimum or maximum bound of axis values.  |
+| [AxisDisplayUnit](./axisdisplayunit/) | Provides access to the scaling options of the display units for the value axis.  |
+| [AxisScaling](./axisscaling/) | Represents the scaling options of the axis.  |
+| [Chart](./chart/) | Provides access to the chart shape properties.  |
+| [ChartAxis](./chartaxis/) | Represents the axis options of the chart.  |
+| [ChartDataLabel](./chartdatalabel/) | Represents data label on a chart point or trendline.  |
+| [ChartDataLabelCollection](./chartdatalabelcollection/) | Represents a collection of ChartDataLabel.  |
+| [ChartDataPoint](./chartdatapoint/) | Allows to specify formatting of a single data point on the chart.  |
+| [ChartDataPointCollection](./chartdatapointcollection/) | Represents collection of a ChartDataPoint.  |
+| [ChartFormat](./chartformat/) | Represents the formatting of a chart element.  |
+| [ChartLegend](./chartlegend/) | Represents chart legend properties.  |
+| [ChartLegendEntry](./chartlegendentry/) | Represents a chart legend entry.  |
+| [ChartLegendEntryCollection](./chartlegendentrycollection/) | Represents a collection of chart legend entries.  |
+| [ChartMarker](./chartmarker/) | Represents a chart data marker.  |
+| [ChartNumberFormat](./chartnumberformat/) | Represents number formatting of the parent element.  |
+| [ChartSeries](./chartseries/) | Represents chart series properties.  |
+| [ChartSeriesCollection](./chartseriescollection/) | Represents collection of a ChartSeries.  |
+| [ChartTitle](./charttitle/) | Provides access to the chart title properties.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [ichartdatapoint](./ichartdatapoint/) | Contains properties of a single data point on the chart.  |
+| [IChartDataPoint](./ichartdatapoint/) | Contains properties of a single data point on the chart.  |
 ## Enums
 
 | Enum | Description |

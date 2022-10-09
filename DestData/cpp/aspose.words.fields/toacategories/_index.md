@@ -1,5 +1,5 @@
 ---
-title: toacategories
+title: ToaCategories
 second_title: Aspose.Words for C++ API Reference
 description: Represents a table of authorities categories. 
 type: docs

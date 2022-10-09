@@ -1,5 +1,5 @@
 ---
-title: sdtlistitemcollection
+title: SdtListItemCollection
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to SdtListItem elements of a structured document tag. 
 type: docs

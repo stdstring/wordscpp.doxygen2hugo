@@ -1,5 +1,5 @@
 ---
-title: fielddde
+title: FieldDde
 second_title: Aspose.Words for C++ API Reference
 description: Implements the DDE field. 
 type: docs

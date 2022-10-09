@@ -1,5 +1,5 @@
 ---
-title: customxmlproperty
+title: CustomXmlProperty
 second_title: Aspose.Words for C++ API Reference
 description: Represents a single custom XML attribute or a smart tag property. 
 type: docs

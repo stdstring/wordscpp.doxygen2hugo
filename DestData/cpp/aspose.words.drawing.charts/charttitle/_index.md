@@ -1,5 +1,5 @@
 ---
-title: charttitle
+title: ChartTitle
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to the chart title properties. 
 type: docs

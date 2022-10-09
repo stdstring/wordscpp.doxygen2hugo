@@ -13,16 +13,16 @@ The **Aspose.Words.Layout** namespace provides classes that allow to access info
 
 | Class | Description |
 | --- | --- |
-| [layoutcollector](./layoutcollector/) | This class allows to compute page numbers of document nodes.  |
-| [layoutenumerator](./layoutenumerator/) | Enumerates page layout entities of a document. You can use this class to walk over the page layout model. Available properties are type, geometry, text and page index where entity is rendered, as well as overall structure and relationships. Use combination of GetEntity() and Current move to the entity which corresponds to a document node.  |
-| [layoutoptions](./layoutoptions/) | Holds the options that allow controlling the document layout process.  |
-| [pagelayoutcallbackargs](./pagelayoutcallbackargs/) | An argument passed into Notify() |
-| [revisionoptions](./revisionoptions/) | Allows to control how document revisions are handled during layout process.  |
+| [LayoutCollector](./layoutcollector/) | This class allows to compute page numbers of document nodes.  |
+| [LayoutEnumerator](./layoutenumerator/) | Enumerates page layout entities of a document. You can use this class to walk over the page layout model. Available properties are type, geometry, text and page index where entity is rendered, as well as overall structure and relationships. Use combination of GetEntity() and Current move to the entity which corresponds to a document node.  |
+| [LayoutOptions](./layoutoptions/) | Holds the options that allow controlling the document layout process.  |
+| [PageLayoutCallbackArgs](./pagelayoutcallbackargs/) | An argument passed into Notify() |
+| [RevisionOptions](./revisionoptions/) | Allows to control how document revisions are handled during layout process.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [ipagelayoutcallback](./ipagelayoutcallback/) | Implement this interface if you want to have your own custom method called during build and rendering of page layout model.  |
+| [IPageLayoutCallback](./ipagelayoutcallback/) | Implement this interface if you want to have your own custom method called during build and rendering of page layout model.  |
 ## Enums
 
 | Enum | Description |

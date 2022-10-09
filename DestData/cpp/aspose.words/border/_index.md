@@ -1,5 +1,5 @@
 ---
-title: border
+title: Border
 second_title: Aspose.Words for C++ API Reference
 description: Represents a border of an object. 
 type: docs

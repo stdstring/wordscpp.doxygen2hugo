@@ -1,5 +1,5 @@
 ---
-title: fieldusername
+title: FieldUserName
 second_title: Aspose.Words for C++ API Reference
 description: Implements the USERNAME field. 
 type: docs

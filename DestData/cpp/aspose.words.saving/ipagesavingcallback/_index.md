@@ -1,5 +1,5 @@
 ---
-title: ipagesavingcallback
+title: IPageSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface if you want to control how Aspose.Words saves separate pages when saving a document to fixed page formats. 
 type: docs

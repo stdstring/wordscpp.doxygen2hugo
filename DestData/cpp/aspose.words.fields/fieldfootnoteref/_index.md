@@ -1,5 +1,5 @@
 ---
-title: fieldfootnoteref
+title: FieldFootnoteRef
 second_title: Aspose.Words for C++ API Reference
 description: Implements the FOOTNOTEREF field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldautonumlgl
+title: FieldAutoNumLgl
 second_title: Aspose.Words for C++ API Reference
 description: Implements the AUTONUMLGL field. 
 type: docs

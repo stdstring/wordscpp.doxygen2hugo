@@ -13,90 +13,90 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 
 | Class | Description |
 | --- | --- |
-| [absolutepositiontab](./absolutepositiontab/) | An absolute position tab is a character which is used to advance the position on the current line of text when displaying this WordprocessingML content.  |
-| [body](./body/) | Represents a container for the main text of a section.  |
-| [bookmark](./bookmark/) | Represents a single bookmark.  |
-| [bookmarkcollection](./bookmarkcollection/) | A collection of Bookmark objects that represent the bookmarks in the specified range.  |
-| [bookmarkend](./bookmarkend/) | Represents an end of a bookmark in a Word document.  |
-| [bookmarkstart](./bookmarkstart/) | Represents a start of a bookmark in a Word document.  |
-| [border](./border/) | Represents a border of an object.  |
-| [bordercollection](./bordercollection/) | A collection of Border objects.  |
-| [buildversioninfo](./buildversioninfo/) | Provides information about the current product name and version.  |
-| [cleanupoptions](./cleanupoptions/) | Allows to specify options for document cleaning.  |
-| [comment](./comment/) | Represents a container for text of a comment.  |
-| [commentcollection](./commentcollection/) | Provides typed access to a collection of Comment nodes.  |
-| [commentrangeend](./commentrangeend/) | Denotes the end of a region of text that has a comment associated with it.  |
-| [commentrangestart](./commentrangestart/) | Denotes the start of a region of text that has a comment associated with it.  |
-| [compositenode](./compositenode/) | Base class for nodes that can contain other nodes.  |
-| [conditionalstyle](./conditionalstyle/) | Represents special formatting applied to some area of a table with assigned table style.  |
-| [conditionalstylecollection](./conditionalstylecollection/) | Represents a collection of ConditionalStyle objects.  |
-| [controlchar](./controlchar/) | Control characters often encountered in documents.  |
-| [convertutil](./convertutil/) | Provides helper functions to convert between various measurement units.  |
-| [document](./document/) | Represents a Word document.  |
-| [documentbase](./documentbase/) | Provides the abstract base class for a main document and a glossary document of a Word document.  |
-| [documentbuilder](./documentbuilder/) | Provides methods to insert text, images and other content, specify font, paragraph and section formatting.  |
-| [documentvisitor](./documentvisitor/) | Base class for custom document visitors.  |
-| [editablerange](./editablerange/) | Represents a single editable range.  |
-| [editablerangeend](./editablerangeend/) | Represents an end of an editable range in a Word document.  |
-| [editablerangestart](./editablerangestart/) | Represents a start of an editable range in a Word document.  |
-| [fileformatinfo](./fileformatinfo/) | Contains data returned by FileFormatUtil document format detection methods.  |
-| [fileformatutil](./fileformatutil/) | Provides utility methods for working with file formats, such as detecting file format or converting file extensions to/from file format enums.  |
-| [font](./font/) | Contains font attributes (font name, font size, color, and so on) for an object.  |
-| [frameformat](./frameformat/) | Represents frame related formatting for a paragraph.  |
-| [headerfooter](./headerfooter/) | Represents a container for the header or footer text of a section.  |
-| [headerfootercollection](./headerfootercollection/) | Provides typed access to HeaderFooter nodes of a **Section**.  |
-| [hyphenation](./hyphenation/) | Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated.  |
-| [imagewatermarkoptions](./imagewatermarkoptions/) | Contains options that can be specified when adding a watermark with image.  |
-| [importformatoptions](./importformatoptions/) | Allows to specify various import options to format output.  |
-| [inline](./inline/) | Base class for inline-level nodes that can have character formatting associated with them, but cannot have child nodes of their own.  |
-| [inlinestory](./inlinestory/) | Base class for inline-level nodes that can contain paragraphs and tables.  |
-| [internablecomplexattr](./internablecomplexattr/) | Base class for internable complex attribute. Internable complex attribute should notify parent collection when going to be changed.  |
-| [license](./license/) | Provides methods to license the component.  |
-| [metered](./metered/) | Provides methods to set metered key.  |
-| [node](./node/) | Base class for all nodes of a Word document.  |
-| [nodechangingargs](./nodechangingargs/) | Provides data for methods of the INodeChangingCallback interface.  |
-| [nodecollection](./nodecollection/) | Represents a collection of nodes of a specific type.  |
-| [nodeimporter](./nodeimporter/) | Allows to efficiently perform repeated import of nodes from one document to another.  |
-| [nodelist](./nodelist/) | Represents a collection of nodes matching an XPath query executed using the SelectNodes() method.  |
-| [pagesetup](./pagesetup/) | Represents the page setup properties of a section.  |
-| [paragraph](./paragraph/) | Represents a paragraph of text.  |
-| [paragraphcollection](./paragraphcollection/) | Provides typed access to a collection of Paragraph nodes.  |
-| [paragraphformat](./paragraphformat/) | Represents all the formatting for a paragraph.  |
-| [plaintextdocument](./plaintextdocument/) | Allows to extract plain-text representation of the document's content.  |
-| [range](./range/) | Represents a contiguous area in a document.  |
-| [revision](./revision/) | Represents a revision (tracked change) in a document node or style. Use RevisionType to check the type of this revision.  |
-| [revisioncollection](./revisioncollection/) | A collection of Revision objects that represent revisions in the document.  |
-| [revisiongroup](./revisiongroup/) | Represents a group of sequential Revision objects.  |
-| [revisiongroupcollection](./revisiongroupcollection/) | A collection of RevisionGroup objects that represent revision groups in the document.  |
-| [run](./run/) | Represents a run of characters with the same font formatting.  |
-| [runcollection](./runcollection/) | Provides typed access to a collection of Run nodes.  |
-| [section](./section/) | Represents a single section in a document.  |
-| [sectioncollection](./sectioncollection/) | A collection of **Section** objects in the document.  |
-| [shading](./shading/) | Contains shading attributes for an object.  |
-| [signaturelineoptions](./signaturelineoptions/) | Allows to specify options for signature line being inserted. Used in DocumentBuilder.  |
-| [specialchar](./specialchar/) | Base class for special characters in the document.  |
-| [story](./story/) | Base class for elements that contain block-level nodes Paragraph and Table.  |
-| [style](./style/) | Represents a single built-in or user-defined style.  |
-| [stylecollection](./stylecollection/) | A collection of Style objects that represent both the built-in and user-defined styles in a document.  |
-| [subdocument](./subdocument/) | Represents a **SubDocument** - which is a reference to an externally stored document.  |
-| [tablestyle](./tablestyle/) | Represents a table style.  |
-| [tabstop](./tabstop/) | Represents a single custom tab stop. The **TabStop** object is a member of the TabStopCollection collection.  |
-| [tabstopcollection](./tabstopcollection/) | A collection of TabStop objects that represent custom tabs for a paragraph or a style.  |
-| [textcolumn](./textcolumn/) | Represents a single text column. **TextColumn** is a member of the TextColumnCollection collection. The **TextColumns** collection includes all the columns in a section of a document.  |
-| [textcolumncollection](./textcolumncollection/) | A collection of TextColumn objects that represent all the columns of text in a section of a document.  |
-| [textwatermarkoptions](./textwatermarkoptions/) | Contains options that can be specified when adding a watermark with text.  |
-| [variablecollection](./variablecollection/) | A collection of document variables.  |
-| [warninginfo](./warninginfo/) | Contains information about a warning that Aspose.Words issued during document loading or saving.  |
-| [warninginfocollection](./warninginfocollection/) | Represents a typed collection of WarningInfo objects.  |
-| [watermark](./watermark/) | Represents class to work with document watermark.  |
+| [AbsolutePositionTab](./absolutepositiontab/) | An absolute position tab is a character which is used to advance the position on the current line of text when displaying this WordprocessingML content.  |
+| [Body](./body/) | Represents a container for the main text of a section.  |
+| [Bookmark](./bookmark/) | Represents a single bookmark.  |
+| [BookmarkCollection](./bookmarkcollection/) | A collection of Bookmark objects that represent the bookmarks in the specified range.  |
+| [BookmarkEnd](./bookmarkend/) | Represents an end of a bookmark in a Word document.  |
+| [BookmarkStart](./bookmarkstart/) | Represents a start of a bookmark in a Word document.  |
+| [Border](./border/) | Represents a border of an object.  |
+| [BorderCollection](./bordercollection/) | A collection of Border objects.  |
+| [BuildVersionInfo](./buildversioninfo/) | Provides information about the current product name and version.  |
+| [CleanupOptions](./cleanupoptions/) | Allows to specify options for document cleaning.  |
+| [Comment](./comment/) | Represents a container for text of a comment.  |
+| [CommentCollection](./commentcollection/) | Provides typed access to a collection of Comment nodes.  |
+| [CommentRangeEnd](./commentrangeend/) | Denotes the end of a region of text that has a comment associated with it.  |
+| [CommentRangeStart](./commentrangestart/) | Denotes the start of a region of text that has a comment associated with it.  |
+| [CompositeNode](./compositenode/) | Base class for nodes that can contain other nodes.  |
+| [ConditionalStyle](./conditionalstyle/) | Represents special formatting applied to some area of a table with assigned table style.  |
+| [ConditionalStyleCollection](./conditionalstylecollection/) | Represents a collection of ConditionalStyle objects.  |
+| [ControlChar](./controlchar/) | Control characters often encountered in documents.  |
+| [ConvertUtil](./convertutil/) | Provides helper functions to convert between various measurement units.  |
+| [Document](./document/) | Represents a Word document.  |
+| [DocumentBase](./documentbase/) | Provides the abstract base class for a main document and a glossary document of a Word document.  |
+| [DocumentBuilder](./documentbuilder/) | Provides methods to insert text, images and other content, specify font, paragraph and section formatting.  |
+| [DocumentVisitor](./documentvisitor/) | Base class for custom document visitors.  |
+| [EditableRange](./editablerange/) | Represents a single editable range.  |
+| [EditableRangeEnd](./editablerangeend/) | Represents an end of an editable range in a Word document.  |
+| [EditableRangeStart](./editablerangestart/) | Represents a start of an editable range in a Word document.  |
+| [FileFormatInfo](./fileformatinfo/) | Contains data returned by FileFormatUtil document format detection methods.  |
+| [FileFormatUtil](./fileformatutil/) | Provides utility methods for working with file formats, such as detecting file format or converting file extensions to/from file format enums.  |
+| [Font](./font/) | Contains font attributes (font name, font size, color, and so on) for an object.  |
+| [FrameFormat](./frameformat/) | Represents frame related formatting for a paragraph.  |
+| [HeaderFooter](./headerfooter/) | Represents a container for the header or footer text of a section.  |
+| [HeaderFooterCollection](./headerfootercollection/) | Provides typed access to HeaderFooter nodes of a **Section**.  |
+| [Hyphenation](./hyphenation/) | Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated.  |
+| [ImageWatermarkOptions](./imagewatermarkoptions/) | Contains options that can be specified when adding a watermark with image.  |
+| [ImportFormatOptions](./importformatoptions/) | Allows to specify various import options to format output.  |
+| [Inline](./inline/) | Base class for inline-level nodes that can have character formatting associated with them, but cannot have child nodes of their own.  |
+| [InlineStory](./inlinestory/) | Base class for inline-level nodes that can contain paragraphs and tables.  |
+| [InternableComplexAttr](./internablecomplexattr/) | Base class for internable complex attribute. Internable complex attribute should notify parent collection when going to be changed.  |
+| [License](./license/) | Provides methods to license the component.  |
+| [Metered](./metered/) | Provides methods to set metered key.  |
+| [Node](./node/) | Base class for all nodes of a Word document.  |
+| [NodeChangingArgs](./nodechangingargs/) | Provides data for methods of the INodeChangingCallback interface.  |
+| [NodeCollection](./nodecollection/) | Represents a collection of nodes of a specific type.  |
+| [NodeImporter](./nodeimporter/) | Allows to efficiently perform repeated import of nodes from one document to another.  |
+| [NodeList](./nodelist/) | Represents a collection of nodes matching an XPath query executed using the SelectNodes() method.  |
+| [PageSetup](./pagesetup/) | Represents the page setup properties of a section.  |
+| [Paragraph](./paragraph/) | Represents a paragraph of text.  |
+| [ParagraphCollection](./paragraphcollection/) | Provides typed access to a collection of Paragraph nodes.  |
+| [ParagraphFormat](./paragraphformat/) | Represents all the formatting for a paragraph.  |
+| [PlainTextDocument](./plaintextdocument/) | Allows to extract plain-text representation of the document's content.  |
+| [Range](./range/) | Represents a contiguous area in a document.  |
+| [Revision](./revision/) | Represents a revision (tracked change) in a document node or style. Use RevisionType to check the type of this revision.  |
+| [RevisionCollection](./revisioncollection/) | A collection of Revision objects that represent revisions in the document.  |
+| [RevisionGroup](./revisiongroup/) | Represents a group of sequential Revision objects.  |
+| [RevisionGroupCollection](./revisiongroupcollection/) | A collection of RevisionGroup objects that represent revision groups in the document.  |
+| [Run](./run/) | Represents a run of characters with the same font formatting.  |
+| [RunCollection](./runcollection/) | Provides typed access to a collection of Run nodes.  |
+| [Section](./section/) | Represents a single section in a document.  |
+| [SectionCollection](./sectioncollection/) | A collection of **Section** objects in the document.  |
+| [Shading](./shading/) | Contains shading attributes for an object.  |
+| [SignatureLineOptions](./signaturelineoptions/) | Allows to specify options for signature line being inserted. Used in DocumentBuilder.  |
+| [SpecialChar](./specialchar/) | Base class for special characters in the document.  |
+| [Story](./story/) | Base class for elements that contain block-level nodes Paragraph and Table.  |
+| [Style](./style/) | Represents a single built-in or user-defined style.  |
+| [StyleCollection](./stylecollection/) | A collection of Style objects that represent both the built-in and user-defined styles in a document.  |
+| [SubDocument](./subdocument/) | Represents a **SubDocument** - which is a reference to an externally stored document.  |
+| [TableStyle](./tablestyle/) | Represents a table style.  |
+| [TabStop](./tabstop/) | Represents a single custom tab stop. The **TabStop** object is a member of the TabStopCollection collection.  |
+| [TabStopCollection](./tabstopcollection/) | A collection of TabStop objects that represent custom tabs for a paragraph or a style.  |
+| [TextColumn](./textcolumn/) | Represents a single text column. **TextColumn** is a member of the TextColumnCollection collection. The **TextColumns** collection includes all the columns in a section of a document.  |
+| [TextColumnCollection](./textcolumncollection/) | A collection of TextColumn objects that represent all the columns of text in a section of a document.  |
+| [TextWatermarkOptions](./textwatermarkoptions/) | Contains options that can be specified when adding a watermark with text.  |
+| [VariableCollection](./variablecollection/) | A collection of document variables.  |
+| [WarningInfo](./warninginfo/) | Contains information about a warning that Aspose.Words issued during document loading or saving.  |
+| [WarningInfoCollection](./warninginfocollection/) | Represents a typed collection of WarningInfo objects.  |
+| [Watermark](./watermark/) | Represents class to work with document watermark.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [idocumentreaderplugin](./idocumentreaderplugin/) | Defines an interface for external reader plugins that can read a file into a document.  |
-| [ihyphenationcallback](./ihyphenationcallback/) | Implemented by classes which can register hyphenation dictionaries.  |
-| [inodechangingcallback](./inodechangingcallback/) | Implement this interface if you want to receive notifications when nodes are inserted or removed in the document.  |
-| [iwarningcallback](./iwarningcallback/) | Implement this interface if you want to have your own custom method called to capture loss of fidelity warnings that can occur during document loading or saving.  |
+| [IDocumentReaderPlugin](./idocumentreaderplugin/) | Defines an interface for external reader plugins that can read a file into a document.  |
+| [IHyphenationCallback](./ihyphenationcallback/) | Implemented by classes which can register hyphenation dictionaries.  |
+| [INodeChangingCallback](./inodechangingcallback/) | Implement this interface if you want to receive notifications when nodes are inserted or removed in the document.  |
+| [IWarningCallback](./iwarningcallback/) | Implement this interface if you want to have your own custom method called to capture loss of fidelity warnings that can occur during document loading or saving.  |
 ## Enums
 
 | Enum | Description |

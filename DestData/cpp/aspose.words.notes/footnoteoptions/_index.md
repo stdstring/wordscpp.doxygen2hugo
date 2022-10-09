@@ -1,5 +1,5 @@
 ---
-title: footnoteoptions
+title: FootnoteOptions
 second_title: Aspose.Words for C++ API Reference
 description: Represents the footnote numbering options for a document or section. 
 type: docs

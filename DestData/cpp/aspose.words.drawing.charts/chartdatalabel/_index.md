@@ -1,5 +1,5 @@
 ---
-title: chartdatalabel
+title: ChartDataLabel
 second_title: Aspose.Words for C++ API Reference
 description: Represents data label on a chart point or trendline. 
 type: docs

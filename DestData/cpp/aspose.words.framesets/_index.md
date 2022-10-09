@@ -13,5 +13,5 @@ The **Aspose.Words.Framesets** namespace provides classes and enumerations that 
 
 | Class | Description |
 | --- | --- |
-| [frameset](./frameset/) | Represents a frames page or a single frame on a frames page.  |
-| [framesetcollection](./framesetcollection/) | Represents a collection of instances of the Frameset class.  |
+| [Frameset](./frameset/) | Represents a frames page or a single frame on a frames page.  |
+| [FramesetCollection](./framesetcollection/) | Represents a collection of instances of the Frameset class.  |

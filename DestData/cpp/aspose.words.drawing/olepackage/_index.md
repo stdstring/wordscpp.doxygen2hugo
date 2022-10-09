@@ -1,5 +1,5 @@
 ---
-title: olepackage
+title: OlePackage
 second_title: Aspose.Words for C++ API Reference
 description: Allows to access OLE Package properties. 
 type: docs

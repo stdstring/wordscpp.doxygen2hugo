@@ -1,5 +1,5 @@
 ---
-title: mailmergesettings
+title: MailMergeSettings
 second_title: Aspose.Words for C++ API Reference
 description: Specifies all of the mail merge information for a document. 
 type: docs

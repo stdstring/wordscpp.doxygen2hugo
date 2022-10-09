@@ -1,5 +1,5 @@
 ---
-title: ifieldresultformatter
+title: IFieldResultFormatter
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface if you want to control how the field result is formatted. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: rtfsaveoptions
+title: RtfSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Can be used to specify additional options when saving a document into the Rtf format. 
 type: docs

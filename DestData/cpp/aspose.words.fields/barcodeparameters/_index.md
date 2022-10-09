@@ -1,5 +1,5 @@
 ---
-title: barcodeparameters
+title: BarcodeParameters
 second_title: Aspose.Words for C++ API Reference
 description: Container class for barcode parameters to pass-through to BarcodeGenerator. 
 type: docs

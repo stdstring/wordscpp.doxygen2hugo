@@ -1,5 +1,5 @@
 ---
-title: fieldnext
+title: FieldNext
 second_title: Aspose.Words for C++ API Reference
 description: Implements the NEXT field. 
 type: docs

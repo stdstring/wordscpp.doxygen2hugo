@@ -1,5 +1,5 @@
 ---
-title: sectioncollection
+title: SectionCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of Section objects in the document. 
 type: docs

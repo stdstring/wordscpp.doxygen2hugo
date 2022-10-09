@@ -1,5 +1,5 @@
 ---
-title: fieldtoc
+title: FieldToc
 second_title: Aspose.Words for C++ API Reference
 description: Implements the TOC field. 
 type: docs

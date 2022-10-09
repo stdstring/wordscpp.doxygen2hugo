@@ -1,5 +1,5 @@
 ---
-title: bordercollection
+title: BorderCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of Border objects. 
 type: docs

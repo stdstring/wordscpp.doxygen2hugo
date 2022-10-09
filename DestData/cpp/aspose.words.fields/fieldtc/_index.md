@@ -1,5 +1,5 @@
 ---
-title: fieldtc
+title: FieldTC
 second_title: Aspose.Words for C++ API Reference
 description: Implements the TC field. 
 type: docs

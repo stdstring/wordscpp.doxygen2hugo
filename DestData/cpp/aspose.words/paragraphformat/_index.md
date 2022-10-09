@@ -1,5 +1,5 @@
 ---
-title: paragraphformat
+title: ParagraphFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents all the formatting for a paragraph. 
 type: docs

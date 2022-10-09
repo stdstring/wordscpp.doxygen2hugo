@@ -1,5 +1,5 @@
 ---
-title: revisionoptions
+title: RevisionOptions
 second_title: Aspose.Words for C++ API Reference
 description: Allows to control how document revisions are handled during layout process. 
 type: docs

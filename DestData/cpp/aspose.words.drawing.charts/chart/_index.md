@@ -1,5 +1,5 @@
 ---
-title: chart
+title: Chart
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to the chart shape properties. 
 type: docs

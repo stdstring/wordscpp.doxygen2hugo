@@ -1,5 +1,5 @@
 ---
-title: structureddocumenttagrangeend
+title: StructuredDocumentTagRangeEnd
 second_title: Aspose.Words for C++ API Reference
 description: Represents an end of ranged structured document tag which accepts multi-sections content. See also StructuredDocumentTagRangeStart node. 
 type: docs

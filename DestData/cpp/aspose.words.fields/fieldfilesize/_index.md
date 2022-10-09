@@ -1,5 +1,5 @@
 ---
-title: fieldfilesize
+title: FieldFileSize
 second_title: Aspose.Words for C++ API Reference
 description: Implements the FILESIZE field. 
 type: docs

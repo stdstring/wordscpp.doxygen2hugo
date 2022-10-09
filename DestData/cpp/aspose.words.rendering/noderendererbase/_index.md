@@ -1,5 +1,5 @@
 ---
-title: noderendererbase
+title: NodeRendererBase
 second_title: Aspose.Words for C++ API Reference
 description: Base class for ShapeRenderer and OfficeMathRenderer. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: table
+title: Table
 second_title: Aspose.Words for C++ API Reference
 description: Represents a table in a Word document. 
 type: docs

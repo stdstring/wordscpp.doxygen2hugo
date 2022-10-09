@@ -1,5 +1,5 @@
 ---
-title: signaturelineoptions
+title: SignatureLineOptions
 second_title: Aspose.Words for C++ API Reference
 description: Allows to specify options for signature line being inserted. Used in DocumentBuilder. 
 type: docs

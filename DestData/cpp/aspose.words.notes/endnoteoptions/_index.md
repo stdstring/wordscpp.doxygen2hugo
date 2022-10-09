@@ -1,5 +1,5 @@
 ---
-title: endnoteoptions
+title: EndnoteOptions
 second_title: Aspose.Words for C++ API Reference
 description: Represents the endnote numbering options for a document or section. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldnumwords
+title: FieldNumWords
 second_title: Aspose.Words for C++ API Reference
 description: Implements the NUMWORDS field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: pagerange
+title: PageRange
 second_title: Aspose.Words for C++ API Reference
 description: Represents a continuous range of pages. 
 type: docs

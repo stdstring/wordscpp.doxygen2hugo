@@ -1,5 +1,5 @@
 ---
-title: chartdatalabelcollection
+title: ChartDataLabelCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a collection of ChartDataLabel. 
 type: docs

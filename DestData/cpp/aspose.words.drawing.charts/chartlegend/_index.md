@@ -1,5 +1,5 @@
 ---
-title: chartlegend
+title: ChartLegend
 second_title: Aspose.Words for C++ API Reference
 description: Represents chart legend properties. 
 type: docs

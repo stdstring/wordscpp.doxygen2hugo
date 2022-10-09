@@ -1,5 +1,5 @@
 ---
-title: fieldlistnum
+title: FieldListNum
 second_title: Aspose.Words for C++ API Reference
 description: Implements the LISTNUM field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldprivate
+title: FieldPrivate
 second_title: Aspose.Words for C++ API Reference
 description: Implements the PRIVATE field. 
 type: docs

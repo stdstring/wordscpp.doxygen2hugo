@@ -13,9 +13,9 @@ The **Aspose.Words.Themes** namespace provides classes that allow to access them
 
 | Class | Description |
 | --- | --- |
-| [theme](./theme/) | Represents document Theme, and provides access to main theme parts including MajorFonts, MinorFonts and Colors |
-| [themecolors](./themecolors/) | Represents the color scheme of the document theme which contains twelve colors. ThemeColors object contains six accent colors, two dark colors, two light colors and a color for each of a hyperlink and followed hyperlink.  |
-| [themefonts](./themefonts/) | Represents a collection of fonts in the font scheme, allowing to specify different fonts for different languages Latin, EastAsian and ComplexScript.  |
+| [Theme](./theme/) | Represents document Theme, and provides access to main theme parts including MajorFonts, MinorFonts and Colors |
+| [ThemeColors](./themecolors/) | Represents the color scheme of the document theme which contains twelve colors. ThemeColors object contains six accent colors, two dark colors, two light colors and a color for each of a hyperlink and followed hyperlink.  |
+| [ThemeFonts](./themefonts/) | Represents a collection of fonts in the font scheme, allowing to specify different fonts for different languages Latin, EastAsian and ComplexScript.  |
 ## Enums
 
 | Enum | Description |

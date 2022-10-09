@@ -13,22 +13,22 @@ The **Aspose.Words.Drawing** namespace provides classes that allow to create and
 
 | Class | Description |
 | --- | --- |
-| [fill](./fill/) | Represents fill formatting for an object.  |
-| [gradientstop](./gradientstop/) | Represents one gradient stop.  |
-| [gradientstopcollection](./gradientstopcollection/) | Contains a collection of GradientStop objects.  |
-| [groupshape](./groupshape/) | Represents a group of shapes in a document.  |
-| [horizontalruleformat](./horizontalruleformat/) | Represents horizontal rule formatting.  |
-| [imagedata](./imagedata/) | Defines an image for a shape.  |
-| [imagesize](./imagesize/) | Contains information about image size and resolution.  |
-| [oleformat](./oleformat/) | Provides access to the data of an OLE object or ActiveX control.  |
-| [olepackage](./olepackage/) | Allows to access OLE Package properties.  |
-| [shadowformat](./shadowformat/) | Represents shadow formatting for an object.  |
-| [shape](./shape/) | Represents an object in the drawing layer, such as an AutoShape, textbox, freeform, OLE object, ActiveX control, or picture.  |
-| [shapebase](./shapebase/) | Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture.  |
-| [signatureline](./signatureline/) | Provides access to signature line properties.  |
-| [stroke](./stroke/) | Defines a stroke for a shape.  |
-| [textbox](./textbox/) | Defines attributes that specify how a text is displayed inside a shape.  |
-| [textpath](./textpath/) | Defines the text and formatting of the text path (of a WordArt object).  |
+| [Fill](./fill/) | Represents fill formatting for an object.  |
+| [GradientStop](./gradientstop/) | Represents one gradient stop.  |
+| [GradientStopCollection](./gradientstopcollection/) | Contains a collection of GradientStop objects.  |
+| [GroupShape](./groupshape/) | Represents a group of shapes in a document.  |
+| [HorizontalRuleFormat](./horizontalruleformat/) | Represents horizontal rule formatting.  |
+| [ImageData](./imagedata/) | Defines an image for a shape.  |
+| [ImageSize](./imagesize/) | Contains information about image size and resolution.  |
+| [OleFormat](./oleformat/) | Provides access to the data of an OLE object or ActiveX control.  |
+| [OlePackage](./olepackage/) | Allows to access OLE Package properties.  |
+| [ShadowFormat](./shadowformat/) | Represents shadow formatting for an object.  |
+| [Shape](./shape/) | Represents an object in the drawing layer, such as an AutoShape, textbox, freeform, OLE object, ActiveX control, or picture.  |
+| [ShapeBase](./shapebase/) | Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture.  |
+| [SignatureLine](./signatureline/) | Provides access to signature line properties.  |
+| [Stroke](./stroke/) | Defines a stroke for a shape.  |
+| [TextBox](./textbox/) | Defines attributes that specify how a text is displayed inside a shape.  |
+| [TextPath](./textpath/) | Defines the text and formatting of the text path (of a WordArt object).  |
 ## Enums
 
 | Enum | Description |

@@ -1,5 +1,5 @@
 ---
-title: fieldif
+title: FieldIf
 second_title: Aspose.Words for C++ API Reference
 description: Implements the IF field. 
 type: docs

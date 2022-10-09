@@ -13,16 +13,16 @@ The **Aspose.Words.WebExtensions** namespace provides classes that allow to cust
 
 | Class | Description |
 | --- | --- |
-| [basewebextensioncollection](./basewebextensioncollection/) | Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and WebExtensionReferenceCollection collections.  |
-| [taskpane](./taskpane/) | Represents an add-in task pane object.  |
-| [taskpanecollection](./taskpanecollection/) | Specifies a list of persisted task pane objects.  |
-| [webextension](./webextension/) | Represents a web extension object.  |
-| [webextensionbinding](./webextensionbinding/) | Specifies a binding relationship between a web extension and the data in the document.  |
-| [webextensionbindingcollection](./webextensionbindingcollection/) | Specifies a list of web extension bindings.  |
-| [webextensionproperty](./webextensionproperty/) | Specifies a web extension custom property.  |
-| [webextensionpropertycollection](./webextensionpropertycollection/) | Specifies a set of web extension custom properties.  |
-| [webextensionreference](./webextensionreference/) | Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.  |
-| [webextensionreferencecollection](./webextensionreferencecollection/) | Specifies a list of web extension references.  |
+| [BaseWebExtensionCollection](./basewebextensioncollection/) | Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and WebExtensionReferenceCollection collections.  |
+| [TaskPane](./taskpane/) | Represents an add-in task pane object.  |
+| [TaskPaneCollection](./taskpanecollection/) | Specifies a list of persisted task pane objects.  |
+| [WebExtension](./webextension/) | Represents a web extension object.  |
+| [WebExtensionBinding](./webextensionbinding/) | Specifies a binding relationship between a web extension and the data in the document.  |
+| [WebExtensionBindingCollection](./webextensionbindingcollection/) | Specifies a list of web extension bindings.  |
+| [WebExtensionProperty](./webextensionproperty/) | Specifies a web extension custom property.  |
+| [WebExtensionPropertyCollection](./webextensionpropertycollection/) | Specifies a set of web extension custom properties.  |
+| [WebExtensionReference](./webextensionreference/) | Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.  |
+| [WebExtensionReferenceCollection](./webextensionreferencecollection/) | Specifies a list of web extension references.  |
 ## Enums
 
 | Enum | Description |

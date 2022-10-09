@@ -1,5 +1,5 @@
 ---
-title: comparisonevaluationresult
+title: ComparisonEvaluationResult
 second_title: Aspose.Words for C++ API Reference
 description: The comparison evaluation result. 
 type: docs

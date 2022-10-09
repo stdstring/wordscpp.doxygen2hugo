@@ -1,5 +1,5 @@
 ---
-title: vbareferencecollection
+title: VbaReferenceCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a collection of VbaReference objects. 
 type: docs

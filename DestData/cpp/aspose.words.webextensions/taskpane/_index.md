@@ -1,5 +1,5 @@
 ---
-title: taskpane
+title: TaskPane
 second_title: Aspose.Words for C++ API Reference
 description: Represents an add-in task pane object. 
 type: docs

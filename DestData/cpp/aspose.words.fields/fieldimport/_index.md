@@ -1,5 +1,5 @@
 ---
-title: fieldimport
+title: FieldImport
 second_title: Aspose.Words for C++ API Reference
 description: Implements the IMPORT field. 
 type: docs

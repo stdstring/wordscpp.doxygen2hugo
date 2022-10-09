@@ -1,5 +1,5 @@
 ---
-title: buildingblock
+title: BuildingBlock
 second_title: Aspose.Words for C++ API Reference
 description: Represents a glossary document entry such as a Building Block, AutoText or an AutoCorrect entry. 
 type: docs

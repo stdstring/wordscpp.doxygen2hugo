@@ -1,5 +1,5 @@
 ---
-title: chartseries
+title: ChartSeries
 second_title: Aspose.Words for C++ API Reference
 description: Represents chart series properties. 
 type: docs

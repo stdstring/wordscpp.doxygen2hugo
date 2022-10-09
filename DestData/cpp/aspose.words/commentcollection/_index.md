@@ -1,5 +1,5 @@
 ---
-title: commentcollection
+title: CommentCollection
 second_title: Aspose.Words for C++ API Reference
 description: Provides typed access to a collection of Comment nodes. 
 type: docs

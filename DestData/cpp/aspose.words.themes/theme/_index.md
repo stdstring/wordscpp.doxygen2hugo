@@ -1,5 +1,5 @@
 ---
-title: theme
+title: Theme
 second_title: Aspose.Words for C++ API Reference
 description: Represents document Theme, and provides access to main theme parts including MajorFonts, MinorFonts and Colors
 type: docs

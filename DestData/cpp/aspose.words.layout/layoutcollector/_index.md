@@ -1,5 +1,5 @@
 ---
-title: layoutcollector
+title: LayoutCollector
 second_title: Aspose.Words for C++ API Reference
 description: This class allows to compute page numbers of document nodes. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: fieldquote
+title: FieldQuote
 second_title: Aspose.Words for C++ API Reference
 description: Implements the QUOTE field. 
 type: docs

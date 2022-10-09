@@ -13,8 +13,8 @@ The **Aspose.Words.Rendering** namespace provides classes that allow to customiz
 
 | Class | Description |
 | --- | --- |
-| [noderendererbase](./noderendererbase/) | Base class for ShapeRenderer and OfficeMathRenderer.  |
-| [officemathrenderer](./officemathrenderer/) | Provides methods to render an individual OfficeMath to a raster or vector image or to a Graphics object.  |
-| [pageinfo](./pageinfo/) | Represents information about a particular document page.  |
-| [shaperenderer](./shaperenderer/) | Provides methods to render an individual Shape or GroupShape to a raster or vector image or to a Graphics object.  |
-| [thumbnailgeneratingoptions](./thumbnailgeneratingoptions/) | Can be used to specify additional options when generating thumbnail for a document.  |
+| [NodeRendererBase](./noderendererbase/) | Base class for ShapeRenderer and OfficeMathRenderer.  |
+| [OfficeMathRenderer](./officemathrenderer/) | Provides methods to render an individual OfficeMath to a raster or vector image or to a Graphics object.  |
+| [PageInfo](./pageinfo/) | Represents information about a particular document page.  |
+| [ShapeRenderer](./shaperenderer/) | Provides methods to render an individual Shape or GroupShape to a raster or vector image or to a Graphics object.  |
+| [ThumbnailGeneratingOptions](./thumbnailgeneratingoptions/) | Can be used to specify additional options when generating thumbnail for a document.  |

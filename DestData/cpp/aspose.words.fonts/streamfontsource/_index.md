@@ -1,5 +1,5 @@
 ---
-title: streamfontsource
+title: StreamFontSource
 second_title: Aspose.Words for C++ API Reference
 description: Base class for user-defined stream font source. 
 type: docs

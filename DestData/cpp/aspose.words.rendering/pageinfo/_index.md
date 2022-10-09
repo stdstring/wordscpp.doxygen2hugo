@@ -1,5 +1,5 @@
 ---
-title: pageinfo
+title: PageInfo
 second_title: Aspose.Words for C++ API Reference
 description: Represents information about a particular document page. 
 type: docs

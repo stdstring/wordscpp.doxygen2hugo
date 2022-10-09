@@ -1,5 +1,5 @@
 ---
-title: odsofieldmapdatacollection
+title: OdsoFieldMapDataCollection
 second_title: Aspose.Words for C++ API Reference
 description: A typed collection of the OdsoFieldMapData objects. 
 type: docs

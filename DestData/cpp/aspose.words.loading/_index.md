@@ -13,21 +13,21 @@ The **Aspose.Words.Loading** namespace provides classes and enumerations that al
 
 | Class | Description |
 | --- | --- |
-| [chmloadoptions](./chmloadoptions/) | Allows to specify additional options when loading CHM document into a Document object.  |
-| [documentloadingargs](./documentloadingargs/) | An argument passed into Notify().  |
-| [htmlloadoptions](./htmlloadoptions/) | Allows to specify additional options when loading HTML document into a Document object.  |
-| [languagepreferences](./languagepreferences/) | Allows to set up language preferences.  |
-| [loadoptions](./loadoptions/) | Allows to specify additional options (such as password or base URI) when loading a document into a Document object.  |
-| [pdfloadoptions](./pdfloadoptions/) | Allows to specify additional options when loading Pdf document into a Document object.  |
-| [resourceloadingargs](./resourceloadingargs/) | Provides data for the ResourceLoading() method.  |
-| [rtfloadoptions](./rtfloadoptions/) | Allows to specify additional options when loading Rtf document into a Document object.  |
-| [txtloadoptions](./txtloadoptions/) | Allows to specify additional options when loading Text document into a Document object.  |
+| [ChmLoadOptions](./chmloadoptions/) | Allows to specify additional options when loading CHM document into a Document object.  |
+| [DocumentLoadingArgs](./documentloadingargs/) | An argument passed into Notify().  |
+| [HtmlLoadOptions](./htmlloadoptions/) | Allows to specify additional options when loading HTML document into a Document object.  |
+| [LanguagePreferences](./languagepreferences/) | Allows to set up language preferences.  |
+| [LoadOptions](./loadoptions/) | Allows to specify additional options (such as password or base URI) when loading a document into a Document object.  |
+| [PdfLoadOptions](./pdfloadoptions/) | Allows to specify additional options when loading Pdf document into a Document object.  |
+| [ResourceLoadingArgs](./resourceloadingargs/) | Provides data for the ResourceLoading() method.  |
+| [RtfLoadOptions](./rtfloadoptions/) | Allows to specify additional options when loading Rtf document into a Document object.  |
+| [TxtLoadOptions](./txtloadoptions/) | Allows to specify additional options when loading Text document into a Document object.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [idocumentloadingcallback](./idocumentloadingcallback/) | Implement this interface if you want to have your own custom method called during loading a document.  |
-| [iresourceloadingcallback](./iresourceloadingcallback/) | Implement this interface if you want to control how Aspose.Words loads external resource when importing a document and inserting images using DocumentBuilder.  |
+| [IDocumentLoadingCallback](./idocumentloadingcallback/) | Implement this interface if you want to have your own custom method called during loading a document.  |
+| [IResourceLoadingCallback](./iresourceloadingcallback/) | Implement this interface if you want to control how Aspose.Words loads external resource when importing a document and inserting images using DocumentBuilder.  |
 ## Enums
 
 | Enum | Description |

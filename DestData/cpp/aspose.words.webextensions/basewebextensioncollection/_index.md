@@ -1,5 +1,5 @@
 ---
-title: basewebextensioncollection
+title: BaseWebExtensionCollection
 second_title: Aspose.Words for C++ API Reference
 description: Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and WebExtensionReferenceCollection collections. 
 type: docs

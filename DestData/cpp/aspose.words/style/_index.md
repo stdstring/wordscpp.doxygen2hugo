@@ -1,5 +1,5 @@
 ---
-title: style
+title: Style
 second_title: Aspose.Words for C++ API Reference
 description: Represents a single built-in or user-defined style. 
 type: docs

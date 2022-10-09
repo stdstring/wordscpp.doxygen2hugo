@@ -1,5 +1,5 @@
 ---
-title: textbox
+title: TextBox
 second_title: Aspose.Words for C++ API Reference
 description: Defines attributes that specify how a text is displayed inside a shape. 
 type: docs

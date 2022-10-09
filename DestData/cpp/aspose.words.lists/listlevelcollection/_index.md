@@ -1,5 +1,5 @@
 ---
-title: listlevelcollection
+title: ListLevelCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of list formatting for each level in a list. 
 type: docs

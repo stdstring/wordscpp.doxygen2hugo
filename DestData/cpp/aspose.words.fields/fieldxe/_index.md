@@ -1,5 +1,5 @@
 ---
-title: fieldxe
+title: FieldXE
 second_title: Aspose.Words for C++ API Reference
 description: Implements the XE field. 
 type: docs

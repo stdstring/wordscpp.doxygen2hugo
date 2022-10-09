@@ -1,5 +1,5 @@
 ---
-title: webextensionproperty
+title: WebExtensionProperty
 second_title: Aspose.Words for C++ API Reference
 description: Specifies a web extension custom property. 
 type: docs

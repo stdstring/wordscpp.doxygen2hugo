@@ -13,55 +13,55 @@ The **Aspose.Words.Saving** namespace provides classes and enumerations that all
 
 | Class | Description |
 | --- | --- |
-| [bookmarksoutlinelevelcollection](./bookmarksoutlinelevelcollection/) | A collection of individual bookmarks outline level.  |
-| [csssavingargs](./csssavingargs/) | Provides data for the CssSaving() event.  |
-| [docsaveoptions](./docsaveoptions/) | Can be used to specify additional options when saving a document into the Doc or Dot format.  |
-| [documentpartsavingargs](./documentpartsavingargs/) | Provides data for the DocumentPartSaving() callback.  |
-| [documentsavingargs](./documentsavingargs/) | An argument passed into Notify().  |
-| [downsampleoptions](./downsampleoptions/) | Allows to specify downsample options.  |
-| [fixedpagesaveoptions](./fixedpagesaveoptions/) | Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc).  |
-| [fontsavingargs](./fontsavingargs/) | Provides data for the FontSaving() event.  |
-| [htmlfixedsaveoptions](./htmlfixedsaveoptions/) | Can be used to specify additional options when saving a document into the HtmlFixed format.  |
-| [htmlsaveoptions](./htmlsaveoptions/) | Can be used to specify additional options when saving a document into the Html, Mhtml, Epub or Azw3 format.  |
-| [imagesaveoptions](./imagesaveoptions/) | Allows to specify additional options when rendering document pages or shapes to images.  |
-| [imagesavingargs](./imagesavingargs/) | Provides data for the ImageSaving() event.  |
-| [markdownsaveoptions](./markdownsaveoptions/) | Class to specify additional options when saving a document into the Markdown format.  |
-| [metafilerenderingoptions](./metafilerenderingoptions/) | Allows to specify additional metafile rendering options.  |
-| [odtsaveoptions](./odtsaveoptions/) | Can be used to specify additional options when saving a document into the Odt or Ott format.  |
-| [ooxmlsaveoptions](./ooxmlsaveoptions/) | Can be used to specify additional options when saving a document into the Docx, Docm, Dotx, Dotm or FlatOpc format.  |
-| [outlineoptions](./outlineoptions/) | Allows to specify outline options.  |
-| [pagerange](./pagerange/) | Represents a continuous range of pages.  |
-| [pagesavingargs](./pagesavingargs/) | Provides data for the PageSaving() event.  |
-| [pageset](./pageset/) | Describes a random set of pages.  |
-| [pclsaveoptions](./pclsaveoptions/) | Can be used to specify additional options when saving a document into the Pcl format.  |
-| [pdfdigitalsignaturedetails](./pdfdigitalsignaturedetails/) | Contains details for signing a PDF document with a digital signature.  |
-| [pdfdigitalsignaturetimestampsettings](./pdfdigitalsignaturetimestampsettings/) | Contains settings of the digital signature timestamp.  |
-| [pdfencryptiondetails](./pdfencryptiondetails/) | Contains details for encrypting and access permissions for a PDF document.  |
-| [pdfsaveoptions](./pdfsaveoptions/) | Can be used to specify additional options when saving a document into the Pdf format.  |
-| [pssaveoptions](./pssaveoptions/) | Can be used to specify additional options when saving a document into the Ps format.  |
-| [resourcesavingargs](./resourcesavingargs/) | Provides data for the ResourceSaving() event.  |
-| [rtfsaveoptions](./rtfsaveoptions/) | Can be used to specify additional options when saving a document into the Rtf format.  |
-| [saveoptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format.  |
-| [saveoutputparameters](./saveoutputparameters/) | This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object.  |
-| [svgsaveoptions](./svgsaveoptions/) | Can be used to specify additional options when saving a document into the Svg format.  |
-| [txtlistindentation](./txtlistindentation/) | Specifies how list levels are indented when document is exporting to Text format.  |
-| [txtsaveoptions](./txtsaveoptions/) | Can be used to specify additional options when saving a document into the Text format.  |
-| [txtsaveoptionsbase](./txtsaveoptionsbase/) | The base class for specifying additional options when saving a document into a text based formats.  |
-| [wordml2003saveoptions](./wordml2003saveoptions/) | Can be used to specify additional options when saving a document into the WordML format.  |
-| [xamlfixedsaveoptions](./xamlfixedsaveoptions/) | Can be used to specify additional options when saving a document into the XamlFixed format.  |
-| [xamlflowsaveoptions](./xamlflowsaveoptions/) | Can be used to specify additional options when saving a document into the XamlFlow or XamlFlowPack format.  |
-| [xpssaveoptions](./xpssaveoptions/) | Can be used to specify additional options when saving a document into the Xps format.  |
+| [BookmarksOutlineLevelCollection](./bookmarksoutlinelevelcollection/) | A collection of individual bookmarks outline level.  |
+| [CssSavingArgs](./csssavingargs/) | Provides data for the CssSaving() event.  |
+| [DocSaveOptions](./docsaveoptions/) | Can be used to specify additional options when saving a document into the Doc or Dot format.  |
+| [DocumentPartSavingArgs](./documentpartsavingargs/) | Provides data for the DocumentPartSaving() callback.  |
+| [DocumentSavingArgs](./documentsavingargs/) | An argument passed into Notify().  |
+| [DownsampleOptions](./downsampleoptions/) | Allows to specify downsample options.  |
+| [FixedPageSaveOptions](./fixedpagesaveoptions/) | Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc).  |
+| [FontSavingArgs](./fontsavingargs/) | Provides data for the FontSaving() event.  |
+| [HtmlFixedSaveOptions](./htmlfixedsaveoptions/) | Can be used to specify additional options when saving a document into the HtmlFixed format.  |
+| [HtmlSaveOptions](./htmlsaveoptions/) | Can be used to specify additional options when saving a document into the Html, Mhtml, Epub or Azw3 format.  |
+| [ImageSaveOptions](./imagesaveoptions/) | Allows to specify additional options when rendering document pages or shapes to images.  |
+| [ImageSavingArgs](./imagesavingargs/) | Provides data for the ImageSaving() event.  |
+| [MarkdownSaveOptions](./markdownsaveoptions/) | Class to specify additional options when saving a document into the Markdown format.  |
+| [MetafileRenderingOptions](./metafilerenderingoptions/) | Allows to specify additional metafile rendering options.  |
+| [OdtSaveOptions](./odtsaveoptions/) | Can be used to specify additional options when saving a document into the Odt or Ott format.  |
+| [OoxmlSaveOptions](./ooxmlsaveoptions/) | Can be used to specify additional options when saving a document into the Docx, Docm, Dotx, Dotm or FlatOpc format.  |
+| [OutlineOptions](./outlineoptions/) | Allows to specify outline options.  |
+| [PageRange](./pagerange/) | Represents a continuous range of pages.  |
+| [PageSavingArgs](./pagesavingargs/) | Provides data for the PageSaving() event.  |
+| [PageSet](./pageset/) | Describes a random set of pages.  |
+| [PclSaveOptions](./pclsaveoptions/) | Can be used to specify additional options when saving a document into the Pcl format.  |
+| [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails/) | Contains details for signing a PDF document with a digital signature.  |
+| [PdfDigitalSignatureTimestampSettings](./pdfdigitalsignaturetimestampsettings/) | Contains settings of the digital signature timestamp.  |
+| [PdfEncryptionDetails](./pdfencryptiondetails/) | Contains details for encrypting and access permissions for a PDF document.  |
+| [PdfSaveOptions](./pdfsaveoptions/) | Can be used to specify additional options when saving a document into the Pdf format.  |
+| [PsSaveOptions](./pssaveoptions/) | Can be used to specify additional options when saving a document into the Ps format.  |
+| [ResourceSavingArgs](./resourcesavingargs/) | Provides data for the ResourceSaving() event.  |
+| [RtfSaveOptions](./rtfsaveoptions/) | Can be used to specify additional options when saving a document into the Rtf format.  |
+| [SaveOptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format.  |
+| [SaveOutputParameters](./saveoutputparameters/) | This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object.  |
+| [SvgSaveOptions](./svgsaveoptions/) | Can be used to specify additional options when saving a document into the Svg format.  |
+| [TxtListIndentation](./txtlistindentation/) | Specifies how list levels are indented when document is exporting to Text format.  |
+| [TxtSaveOptions](./txtsaveoptions/) | Can be used to specify additional options when saving a document into the Text format.  |
+| [TxtSaveOptionsBase](./txtsaveoptionsbase/) | The base class for specifying additional options when saving a document into a text based formats.  |
+| [WordML2003SaveOptions](./wordml2003saveoptions/) | Can be used to specify additional options when saving a document into the WordML format.  |
+| [XamlFixedSaveOptions](./xamlfixedsaveoptions/) | Can be used to specify additional options when saving a document into the XamlFixed format.  |
+| [XamlFlowSaveOptions](./xamlflowsaveoptions/) | Can be used to specify additional options when saving a document into the XamlFlow or XamlFlowPack format.  |
+| [XpsSaveOptions](./xpssaveoptions/) | Can be used to specify additional options when saving a document into the Xps format.  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [icsssavingcallback](./icsssavingcallback/) | Implement this interface if you want to control how Aspose.Words saves CSS (Cascading Style Sheet) when saving a document to HTML.  |
-| [idocumentpartsavingcallback](./idocumentpartsavingcallback/) | Implement this interface if you want to receive notifications and control how Aspose.Words saves document parts when exporting a document to Html or Epub format.  |
-| [idocumentsavingcallback](./idocumentsavingcallback/) | Implement this interface if you want to have your own custom method called during saving a document.  |
-| [ifontsavingcallback](./ifontsavingcallback/) | Implement this interface if you want to receive notifications and control how Aspose.Words saves fonts when exporting a document to HTML format.  |
-| [iimagesavingcallback](./iimagesavingcallback/) | Implement this interface if you want to control how Aspose.Words saves images when saving a document to HTML. May be used by other formats.  |
-| [ipagesavingcallback](./ipagesavingcallback/) | Implement this interface if you want to control how Aspose.Words saves separate pages when saving a document to fixed page formats.  |
-| [iresourcesavingcallback](./iresourcesavingcallback/) | Implement this interface if you want to control how Aspose.Words saves external resources (images, fonts and css) when saving a document to fixed page HTML or SVG.  |
+| [ICssSavingCallback](./icsssavingcallback/) | Implement this interface if you want to control how Aspose.Words saves CSS (Cascading Style Sheet) when saving a document to HTML.  |
+| [IDocumentPartSavingCallback](./idocumentpartsavingcallback/) | Implement this interface if you want to receive notifications and control how Aspose.Words saves document parts when exporting a document to Html or Epub format.  |
+| [IDocumentSavingCallback](./idocumentsavingcallback/) | Implement this interface if you want to have your own custom method called during saving a document.  |
+| [IFontSavingCallback](./ifontsavingcallback/) | Implement this interface if you want to receive notifications and control how Aspose.Words saves fonts when exporting a document to HTML format.  |
+| [IImageSavingCallback](./iimagesavingcallback/) | Implement this interface if you want to control how Aspose.Words saves images when saving a document to HTML. May be used by other formats.  |
+| [IPageSavingCallback](./ipagesavingcallback/) | Implement this interface if you want to control how Aspose.Words saves separate pages when saving a document to fixed page formats.  |
+| [IResourceSavingCallback](./iresourcesavingcallback/) | Implement this interface if you want to control how Aspose.Words saves external resources (images, fonts and css) when saving a document to fixed page HTML or SVG.  |
 ## Enums
 
 | Enum | Description |

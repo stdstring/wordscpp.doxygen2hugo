@@ -1,5 +1,5 @@
 ---
-title: ifielddatabaseprovider
+title: IFieldDatabaseProvider
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface to provide data for the FieldDatabase field when it's updated. 
 type: docs

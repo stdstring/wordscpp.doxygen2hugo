@@ -1,5 +1,5 @@
 ---
-title: fieldhyperlink
+title: FieldHyperlink
 second_title: Aspose.Words for C++ API Reference
 description: Implements the HYPERLINK field. 
 type: docs

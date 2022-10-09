@@ -1,5 +1,5 @@
 ---
-title: conditionalstyle
+title: ConditionalStyle
 second_title: Aspose.Words for C++ API Reference
 description: Represents special formatting applied to some area of a table with assigned table style. 
 type: docs

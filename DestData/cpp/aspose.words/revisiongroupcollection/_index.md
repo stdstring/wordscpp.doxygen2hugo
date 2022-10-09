@@ -1,5 +1,5 @@
 ---
-title: revisiongroupcollection
+title: RevisionGroupCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of RevisionGroup objects that represent revision groups in the document. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: imailmergedatasource
+title: IMailMergeDataSource
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface to allow mail merge from a custom data source, such as a list of objects. Master-detail data is also supported. 
 type: docs

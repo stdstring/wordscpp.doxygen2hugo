@@ -1,5 +1,5 @@
 ---
-title: fieldmergebarcode
+title: FieldMergeBarcode
 second_title: Aspose.Words for C++ API Reference
 description: Implements the MERGEBARCODE field. 
 type: docs

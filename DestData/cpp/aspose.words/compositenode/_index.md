@@ -1,5 +1,5 @@
 ---
-title: compositenode
+title: CompositeNode
 second_title: Aspose.Words for C++ API Reference
 description: Base class for nodes that can contain other nodes. 
 type: docs

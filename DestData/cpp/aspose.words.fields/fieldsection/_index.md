@@ -1,5 +1,5 @@
 ---
-title: fieldsection
+title: FieldSection
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SECTION field. 
 type: docs

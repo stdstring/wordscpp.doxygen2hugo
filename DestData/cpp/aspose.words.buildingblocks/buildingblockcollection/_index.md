@@ -1,5 +1,5 @@
 ---
-title: buildingblockcollection
+title: BuildingBlockCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of BuildingBlock objects in the document. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: ichartdatapoint
+title: IChartDataPoint
 second_title: Aspose.Words for C++ API Reference
 description: Contains properties of a single data point on the chart. 
 type: docs

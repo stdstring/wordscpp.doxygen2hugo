@@ -1,5 +1,5 @@
 ---
-title: webextensionbindingcollection
+title: WebExtensionBindingCollection
 second_title: Aspose.Words for C++ API Reference
 description: Specifies a list of web extension bindings. 
 type: docs

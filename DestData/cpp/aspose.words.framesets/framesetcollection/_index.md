@@ -1,5 +1,5 @@
 ---
-title: framesetcollection
+title: FramesetCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a collection of instances of the Frameset class. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: metered
+title: Metered
 second_title: Aspose.Words for C++ API Reference
 description: Provides methods to set metered key. 
 type: docs

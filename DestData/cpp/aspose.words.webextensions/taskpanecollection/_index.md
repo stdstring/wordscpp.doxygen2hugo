@@ -1,5 +1,5 @@
 ---
-title: taskpanecollection
+title: TaskPaneCollection
 second_title: Aspose.Words for C++ API Reference
 description: Specifies a list of persisted task pane objects. 
 type: docs

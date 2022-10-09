@@ -1,5 +1,5 @@
 ---
-title: fieldset
+title: FieldSet
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SET field. 
 type: docs

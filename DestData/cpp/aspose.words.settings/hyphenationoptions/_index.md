@@ -1,5 +1,5 @@
 ---
-title: hyphenationoptions
+title: HyphenationOptions
 second_title: Aspose.Words for C++ API Reference
 description: Allows to configure document hyphenation options. 
 type: docs
