@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Loading::DocumentLoadingArgs
+title: documentloadingargs
 second_title: Aspose.Words for C++ API Reference
 description: An argument passed into Notify(). 
 type: docs
@@ -9,3 +9,8 @@ url: /cpp/aspose.words.loading/documentloadingargs/
 
 An argument passed into Notify(). 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress.  |

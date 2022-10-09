@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Loading::IDocumentLoadingCallback
+title: idocumentloadingcallback
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface if you want to have your own custom method called during loading a document. 
 type: docs
@@ -9,3 +9,8 @@ url: /cpp/aspose.words.loading/idocumentloadingcallback/
 
 Implement this interface if you want to have your own custom method called during loading a document. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| virtual [Notify](./notify/)(System::SharedPtr< Aspose::Words::Loading::DocumentLoadingArgs >) | This is called to notify of document loading progress.  |

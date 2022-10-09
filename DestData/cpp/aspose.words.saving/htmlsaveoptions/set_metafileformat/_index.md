@@ -1,0 +1,11 @@
+---
+title: set_MetafileFormat
+second_title: Aspose.Words for C++ API Reference
+description: Setter for Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.saving/htmlsaveoptions/set_metafileformat/
+---
+
+Setter for Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat. 
+

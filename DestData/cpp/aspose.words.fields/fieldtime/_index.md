@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldTime
+title: fieldtime
 second_title: Aspose.Words for C++ API Reference
 description: Implements the TIME field. 
 type: docs

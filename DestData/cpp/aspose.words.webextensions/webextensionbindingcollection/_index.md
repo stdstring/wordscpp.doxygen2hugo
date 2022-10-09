@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::WebExtensions::WebExtensionBindingCollection
+title: webextensionbindingcollection
 second_title: Aspose.Words for C++ API Reference
 description: Specifies a list of web extension bindings. 
 type: docs
@@ -9,3 +9,8 @@ url: /cpp/aspose.words.webextensions/webextensionbindingcollection/
 
 Specifies a list of web extension bindings. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |

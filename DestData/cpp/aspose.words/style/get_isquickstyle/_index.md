@@ -1,0 +1,11 @@
+---
+title: get_IsQuickStyle
+second_title: Aspose.Words for C++ API Reference
+description: Specifies whether this style is shown in the Quick Style gallery inside MS Word UI. 
+type: docs
+weight: 0
+url: /cpp/aspose.words/style/get_isquickstyle/
+---
+
+Specifies whether this style is shown in the Quick Style gallery inside MS Word UI. 
+

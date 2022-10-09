@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::IComparisonExpressionEvaluator
+title: icomparisonexpressionevaluator
 second_title: Aspose.Words for C++ API Reference
 description: When implemented, allows to override default comparison expressions evaluation for the FieldIf and FieldCompare fields. 
 type: docs
@@ -9,3 +9,8 @@ url: /cpp/aspose.words.fields/icomparisonexpressionevaluator/
 
 When implemented, allows to override default comparison expressions evaluation for the FieldIf and FieldCompare fields. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| virtual [Evaluate](./evaluate/)(System::SharedPtr< Aspose::Words::Fields::Field >, System::SharedPtr< Aspose::Words::Fields::ComparisonExpression >) | Evaluates comparison expression.  |

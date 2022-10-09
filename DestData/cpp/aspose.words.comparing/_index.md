@@ -13,7 +13,7 @@ The **Aspose.Words.Comparing** namespace provides classes and enumerations that 
 
 | Class | Description |
 | --- | --- |
-| [Aspose::Words::Comparing::CompareOptions](./compareoptions/) | Allows to choose advanced options for document comparison operation.  |
+| [compareoptions](./compareoptions/) | Allows to choose advanced options for document comparison operation.  |
 ## Enums
 
 | Enum | Description |

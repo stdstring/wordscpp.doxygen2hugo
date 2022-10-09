@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldFormula
+title: fieldformula
 second_title: Aspose.Words for C++ API Reference
 description: Implements the = (formula) field. 
 type: docs

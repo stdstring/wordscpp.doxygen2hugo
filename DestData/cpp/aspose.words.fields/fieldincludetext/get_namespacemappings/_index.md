@@ -1,0 +1,11 @@
+---
+title: get_NamespaceMappings
+second_title: Aspose.Words for C++ API Reference
+description: Gets or sets the namespace mappings for XPath queries. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.fields/fieldincludetext/get_namespacemappings/
+---
+
+Gets or sets the namespace mappings for XPath queries. 
+

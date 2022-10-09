@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldNumPages
+title: fieldnumpages
 second_title: Aspose.Words for C++ API Reference
 description: Implements the NUMPAGES field. 
 type: docs

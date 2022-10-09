@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fonts::FontInfoSubstitutionRule
+title: fontinfosubstitutionrule
 second_title: Aspose.Words for C++ API Reference
 description: Font info substitution rule. 
 type: docs

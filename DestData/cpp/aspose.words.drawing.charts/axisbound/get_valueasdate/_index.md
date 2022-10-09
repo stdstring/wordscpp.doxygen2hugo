@@ -1,0 +1,11 @@
+---
+title: get_ValueAsDate
+second_title: Aspose.Words for C++ API Reference
+description: Returns value of axis bound represented as datetime. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.drawing.charts/axisbound/get_valueasdate/
+---
+
+Returns value of axis bound represented as datetime. 
+

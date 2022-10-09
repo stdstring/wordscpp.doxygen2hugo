@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::CommentCollection
+title: commentcollection
 second_title: Aspose.Words for C++ API Reference
 description: Provides typed access to a collection of Comment nodes. 
 type: docs
@@ -9,3 +9,8 @@ url: /cpp/aspose.words/commentcollection/
 
 Provides typed access to a collection of Comment nodes. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [idx_get](./idx_get/)(int32_t) | Retrieves a **Comment** at the given index.  |

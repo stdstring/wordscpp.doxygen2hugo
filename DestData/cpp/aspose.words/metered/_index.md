@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Metered
+title: metered
 second_title: Aspose.Words for C++ API Reference
 description: Provides methods to set metered key. 
 type: docs
@@ -9,3 +9,11 @@ url: /cpp/aspose.words/metered/
 
 Provides methods to set metered key. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [Metered](./metered/)() | Initializes a new instance of this class.  |
+| [SetMeteredKey](./setmeteredkey/)(const System::String &, const System::String &) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again.  |
+| static [GetConsumptionCredit](./getconsumptioncredit/)() | Gets consumption credit.  |
+| static [GetConsumptionQuantity](./getconsumptionquantity/)() | Gets consumption file size.  |

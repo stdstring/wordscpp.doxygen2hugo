@@ -1,0 +1,11 @@
+---
+title: Clone
+second_title: Aspose.Words for C++ API Reference
+description: Returns a deep clone of this object. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.settings/odso/clone/
+---
+
+Returns a deep clone of this object. 
+

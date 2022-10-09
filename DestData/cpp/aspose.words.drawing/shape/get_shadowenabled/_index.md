@@ -1,0 +1,11 @@
+---
+title: get_ShadowEnabled
+second_title: Aspose.Words for C++ API Reference
+description: Returns true if a shadow effect is enabled. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.drawing/shape/get_shadowenabled/
+---
+
+Returns true if a shadow effect is enabled. 
+

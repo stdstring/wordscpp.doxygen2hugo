@@ -1,0 +1,11 @@
+---
+title: SaveSearchCache
+second_title: Aspose.Words for C++ API Reference
+description: Saves the font search cache to the stream. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.fonts/fontsettings/savesearchcache/
+---
+
+Saves the font search cache to the stream. 
+

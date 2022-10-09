@@ -1,0 +1,11 @@
+---
+title: set_HyphenateCaps
+second_title: Aspose.Words for C++ API Reference
+description: Setter for Aspose::Words::Settings::HyphenationOptions::get_HyphenateCaps. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.settings/hyphenationoptions/set_hyphenatecaps/
+---
+
+Setter for Aspose::Words::Settings::HyphenationOptions::get_HyphenateCaps. 
+

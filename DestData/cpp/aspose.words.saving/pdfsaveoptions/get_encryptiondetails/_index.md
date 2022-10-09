@@ -1,0 +1,11 @@
+---
+title: get_EncryptionDetails
+second_title: Aspose.Words for C++ API Reference
+description: Gets or sets the details for encrypting the output PDF document. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.saving/pdfsaveoptions/get_encryptiondetails/
+---
+
+Gets or sets the details for encrypting the output PDF document. 
+

@@ -1,0 +1,11 @@
+---
+title: IsRanged
+second_title: Aspose.Words for C++ API Reference
+description: Returns true if this instance is a ranged structured document tag. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.markup/istructureddocumenttag/isranged/
+---
+
+Returns true if this instance is a ranged structured document tag. 
+

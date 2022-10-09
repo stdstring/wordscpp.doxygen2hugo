@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Vba::VbaReference
+title: vbareference
 second_title: Aspose.Words for C++ API Reference
 description: Implements a reference to an Automation type library or VBA project. 
 type: docs
@@ -9,3 +9,9 @@ url: /cpp/aspose.words.vba/vbareference/
 
 Implements a reference to an Automation type library or VBA project. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| virtual [get_LibId](./get_libid/)() const | Gets a string value containing the identifier of an Automation type library.  |
+| virtual [get_Type](./get_type/)() | Gets VbaReferenceType object that indicates the type of reference that a VbaReference object represents.  |

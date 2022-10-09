@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldSkipIf
+title: fieldskipif
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SKIPIF field. 
 type: docs
@@ -9,3 +9,13 @@ url: /cpp/aspose.words.fields/fieldskipif/
 
 Implements the SKIPIF field. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [get_ComparisonOperator](./get_comparisonoperator/)() | Gets the comparison operator.  |
+| [get_LeftExpression](./get_leftexpression/)() | Gets the left part of the comparison expression.  |
+| [get_RightExpression](./get_rightexpression/)() | Gets the right part of the comparison expression.  |
+| [set_ComparisonOperator](./set_comparisonoperator/)(const System::String &) | Sets the comparison operator.  |
+| [set_LeftExpression](./set_leftexpression/)(const System::String &) | Sets the left part of the comparison expression.  |
+| [set_RightExpression](./set_rightexpression/)(const System::String &) | Sets the right part of the comparison expression.  |

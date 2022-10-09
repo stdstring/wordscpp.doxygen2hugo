@@ -13,16 +13,16 @@ The **Aspose.Words.WebExtensions** namespace provides classes that allow to cust
 
 | Class | Description |
 | --- | --- |
-| [Aspose::Words::WebExtensions::BaseWebExtensionCollection](./basewebextensioncollection/) | Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and WebExtensionReferenceCollection collections.  |
-| [Aspose::Words::WebExtensions::TaskPane](./taskpane/) | Represents an add-in task pane object.  |
-| [Aspose::Words::WebExtensions::TaskPaneCollection](./taskpanecollection/) | Specifies a list of persisted task pane objects.  |
-| [Aspose::Words::WebExtensions::WebExtension](./webextension/) | Represents a web extension object.  |
-| [Aspose::Words::WebExtensions::WebExtensionBinding](./webextensionbinding/) | Specifies a binding relationship between a web extension and the data in the document.  |
-| [Aspose::Words::WebExtensions::WebExtensionBindingCollection](./webextensionbindingcollection/) | Specifies a list of web extension bindings.  |
-| [Aspose::Words::WebExtensions::WebExtensionProperty](./webextensionproperty/) | Specifies a web extension custom property.  |
-| [Aspose::Words::WebExtensions::WebExtensionPropertyCollection](./webextensionpropertycollection/) | Specifies a set of web extension custom properties.  |
-| [Aspose::Words::WebExtensions::WebExtensionReference](./webextensionreference/) | Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.  |
-| [Aspose::Words::WebExtensions::WebExtensionReferenceCollection](./webextensionreferencecollection/) | Specifies a list of web extension references.  |
+| [basewebextensioncollection](./basewebextensioncollection/) | Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and WebExtensionReferenceCollection collections.  |
+| [taskpane](./taskpane/) | Represents an add-in task pane object.  |
+| [taskpanecollection](./taskpanecollection/) | Specifies a list of persisted task pane objects.  |
+| [webextension](./webextension/) | Represents a web extension object.  |
+| [webextensionbinding](./webextensionbinding/) | Specifies a binding relationship between a web extension and the data in the document.  |
+| [webextensionbindingcollection](./webextensionbindingcollection/) | Specifies a list of web extension bindings.  |
+| [webextensionproperty](./webextensionproperty/) | Specifies a web extension custom property.  |
+| [webextensionpropertycollection](./webextensionpropertycollection/) | Specifies a set of web extension custom properties.  |
+| [webextensionreference](./webextensionreference/) | Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.  |
+| [webextensionreferencecollection](./webextensionreferencecollection/) | Specifies a list of web extension references.  |
 ## Enums
 
 | Enum | Description |

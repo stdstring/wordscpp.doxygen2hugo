@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldEQ
+title: fieldeq
 second_title: Aspose.Words for C++ API Reference
 description: Implements the EQ field. 
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fonts::FontConfigSubstitutionRule
+title: fontconfigsubstitutionrule
 second_title: Aspose.Words for C++ API Reference
 description: Font config substitution rule. 
 type: docs
@@ -9,3 +9,10 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/
 
 Font config substitution rule. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [IsFontConfigAvailable](./isfontconfigavailable/)() | Check if fontconfig utility is available or not.  |
+| [ResetCache](./resetcache/)() | Resets the cache of fontconfig calling results.  |
+| [set_Enabled](./set_enabled/)(bool) override | Specifies whether the rule is enabled or not.  |

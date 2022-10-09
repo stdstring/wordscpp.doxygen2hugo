@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldRevNum
+title: fieldrevnum
 second_title: Aspose.Words for C++ API Reference
 description: Implements the REVNUM field. 
 type: docs

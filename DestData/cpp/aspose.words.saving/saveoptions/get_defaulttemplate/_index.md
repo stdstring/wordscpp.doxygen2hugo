@@ -1,0 +1,11 @@
+---
+title: get_DefaultTemplate
+second_title: Aspose.Words for C++ API Reference
+description: Gets or sets path to default template (including filename). Default value for this property is empty string. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.saving/saveoptions/get_defaulttemplate/
+---
+
+Gets or sets path to default template (including filename). Default value for this property is **empty string**. 
+

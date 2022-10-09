@@ -1,0 +1,11 @@
+---
+title: RemoveSmartTags
+second_title: Aspose.Words for C++ API Reference
+description: Removes all SmartTag descendant nodes of the current node. 
+type: docs
+weight: 0
+url: /cpp/aspose.words/compositenode/removesmarttags/
+---
+
+Removes all SmartTag descendant nodes of the current node. 
+

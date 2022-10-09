@@ -13,12 +13,12 @@ The **Aspose.Words.Lists** namespace contains classes for working with bulleted 
 
 | Class | Description |
 | --- | --- |
-| [Aspose::Words::Lists::List](./list/) | Represents formatting of a list.  |
-| [Aspose::Words::Lists::ListCollection](./listcollection/) | Stores and manages formatting of bulleted and numbered lists used in a document.  |
-| [Aspose::Words::Lists::ListFormat](./listformat/) | Allows to control what list formatting is applied to a paragraph.  |
-| [Aspose::Words::Lists::ListLabel](./listlabel/) | Defines properties specific to a list label.  |
-| [Aspose::Words::Lists::ListLevel](./listlevel/) | Defines formatting for a list level.  |
-| [Aspose::Words::Lists::ListLevelCollection](./listlevelcollection/) | A collection of list formatting for each level in a list.  |
+| [list](./list/) | Represents formatting of a list.  |
+| [listcollection](./listcollection/) | Stores and manages formatting of bulleted and numbered lists used in a document.  |
+| [listformat](./listformat/) | Allows to control what list formatting is applied to a paragraph.  |
+| [listlabel](./listlabel/) | Defines properties specific to a list label.  |
+| [listlevel](./listlevel/) | Defines formatting for a list level.  |
+| [listlevelcollection](./listlevelcollection/) | A collection of list formatting for each level in a list.  |
 ## Enums
 
 | Enum | Description |

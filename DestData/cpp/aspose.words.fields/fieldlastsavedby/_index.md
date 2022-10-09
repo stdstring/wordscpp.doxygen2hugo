@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldLastSavedBy
+title: fieldlastsavedby
 second_title: Aspose.Words for C++ API Reference
 description: Implements the LASTSAVEDBY field. 
 type: docs

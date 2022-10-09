@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldEditTime
+title: fieldedittime
 second_title: Aspose.Words for C++ API Reference
 description: Implements the EDITTIME field. 
 type: docs

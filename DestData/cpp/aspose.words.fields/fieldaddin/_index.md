@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldAddIn
+title: fieldaddin
 second_title: Aspose.Words for C++ API Reference
 description: Implements the ADDIN field. 
 type: docs

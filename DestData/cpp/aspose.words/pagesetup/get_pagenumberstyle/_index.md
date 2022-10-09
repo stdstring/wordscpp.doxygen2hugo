@@ -1,0 +1,11 @@
+---
+title: get_PageNumberStyle
+second_title: Aspose.Words for C++ API Reference
+description: Gets or sets the page number format. 
+type: docs
+weight: 0
+url: /cpp/aspose.words/pagesetup/get_pagenumberstyle/
+---
+
+Gets or sets the page number format. 
+

@@ -1,0 +1,11 @@
+---
+title: set_LineUnitAfter
+second_title: Aspose.Words for C++ API Reference
+description: Setter for Aspose::Words::ParagraphFormat::get_LineUnitAfter. 
+type: docs
+weight: 0
+url: /cpp/aspose.words/paragraphformat/set_lineunitafter/
+---
+
+Setter for Aspose::Words::ParagraphFormat::get_LineUnitAfter. 
+

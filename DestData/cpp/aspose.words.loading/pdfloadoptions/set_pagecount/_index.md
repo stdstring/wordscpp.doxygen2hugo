@@ -1,0 +1,11 @@
+---
+title: set_PageCount
+second_title: Aspose.Words for C++ API Reference
+description: Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.loading/pdfloadoptions/set_pagecount/
+---
+
+Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read. 
+

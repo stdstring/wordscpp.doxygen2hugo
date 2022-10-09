@@ -1,0 +1,11 @@
+---
+title: get_TextOutputMode
+second_title: Aspose.Words for C++ API Reference
+description: Gets or sets a value determining how text should be rendered in SVG. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.saving/svgsaveoptions/get_textoutputmode/
+---
+
+Gets or sets a value determining how text should be rendered in SVG. 
+

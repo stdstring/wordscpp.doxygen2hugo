@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Markup::SdtListItemCollection
+title: sdtlistitemcollection
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to SdtListItem elements of a structured document tag. 
 type: docs
@@ -9,3 +9,25 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/
 
 Provides access to SdtListItem elements of a structured document tag. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [Add](./add/)(const System::SharedPtr< Aspose::Words::Markup::SdtListItem > &) | Adds an item to this collection.  |
+| [begin](./begin/)() const |  |
+| [begin](./begin/)() |  |
+| [cbegin](./cbegin/)() const |  |
+| [cend](./cend/)() const |  |
+| [Clear](./clear/)() | Clears all items from this collection.  |
+| [end](./end/)() const |  |
+| [end](./end/)() |  |
+| [get_Count](./get_count/)() | Gets number of items in the collection.  |
+| [get_SelectedValue](./get_selectedvalue/)() | Specifies currently selected value in this list. Null value allowed, meaning that no currently selected entry is associated with this list item collection.  |
+| [GetEnumerator](./getenumerator/)() override | Returns an enumerator object that can be used to iterate over all items in the collection.  |
+| [idx_get](./idx_get/)(int32_t) | Returns a SdtListItem object given its zero-based index in the collection.  |
+| [RemoveAt](./removeat/)(int32_t) | Removes a list item at the specified index.  |
+| [set_SelectedValue](./set_selectedvalue/)(const System::SharedPtr< Aspose::Words::Markup::SdtListItem > &) | Setter for Aspose::Words::Markup::SdtListItemCollection::get_SelectedValue.  |
+| [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override |  |
+| [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
+| [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
+| [virtualizeEndIterator](./virtualizeenditerator/)() override |  |

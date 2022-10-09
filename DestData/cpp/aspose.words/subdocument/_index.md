@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::SubDocument
+title: subdocument
 second_title: Aspose.Words for C++ API Reference
 description: Represents a SubDocument - which is a reference to an externally stored document. 
 type: docs
@@ -9,3 +9,9 @@ url: /cpp/aspose.words/subdocument/
 
 Represents a **SubDocument** - which is a reference to an externally stored document. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [get_NodeType](./get_nodetype/)() const override | Returns **NodeType.SubDocument** |

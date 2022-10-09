@@ -1,0 +1,11 @@
+---
+title: get_DoNotSnapToGridInCell
+second_title: Aspose.Words for C++ API Reference
+description: Do Not Snap to Document Grid in Table Cells with Objects. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsnaptogridincell/
+---
+
+Do Not Snap to Document Grid in Table Cells with Objects. 
+

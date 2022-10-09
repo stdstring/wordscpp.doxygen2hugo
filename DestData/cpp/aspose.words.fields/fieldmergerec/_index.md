@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldMergeRec
+title: fieldmergerec
 second_title: Aspose.Words for C++ API Reference
 description: Implements the MERGEREC field. 
 type: docs

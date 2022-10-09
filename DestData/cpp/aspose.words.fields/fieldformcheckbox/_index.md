@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldFormCheckBox
+title: fieldformcheckbox
 second_title: Aspose.Words for C++ API Reference
 description: Implements the FORMCHECKBOX field. 
 type: docs

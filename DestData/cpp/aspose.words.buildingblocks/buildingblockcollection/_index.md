@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::BuildingBlocks::BuildingBlockCollection
+title: buildingblockcollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of BuildingBlock objects in the document. 
 type: docs
@@ -9,3 +9,9 @@ url: /cpp/aspose.words.buildingblocks/buildingblockcollection/
 
 A collection of BuildingBlock objects in the document. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [idx_get](./idx_get/)(int32_t) | Retrieves a building block at the given index.  |
+| [ToArray](./toarray/)() | Copies all building blocks from the collection to a new array of building blocks.  |

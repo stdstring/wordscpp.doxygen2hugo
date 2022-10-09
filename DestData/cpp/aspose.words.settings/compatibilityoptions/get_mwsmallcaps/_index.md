@@ -1,0 +1,11 @@
+---
+title: get_MWSmallCaps
+second_title: Aspose.Words for C++ API Reference
+description: Emulate Word 5.x for the Macintosh Small Caps Formatting. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.settings/compatibilityoptions/get_mwsmallcaps/
+---
+
+Emulate Word 5.x for the Macintosh Small Caps Formatting. 
+

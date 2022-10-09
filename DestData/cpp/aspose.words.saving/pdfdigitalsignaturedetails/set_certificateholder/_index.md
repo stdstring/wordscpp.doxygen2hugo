@@ -1,0 +1,11 @@
+---
+title: set_CertificateHolder
+second_title: Aspose.Words for C++ API Reference
+description: Returns the certificate holder object that contains the certificate was used to sign the document. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_certificateholder/
+---
+
+Returns the certificate holder object that contains the certificate was used to sign the document. 
+

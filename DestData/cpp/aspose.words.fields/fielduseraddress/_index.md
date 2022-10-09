@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldUserAddress
+title: fielduseraddress
 second_title: Aspose.Words for C++ API Reference
 description: Implements the USERADDRESS field. 
 type: docs
@@ -9,3 +9,9 @@ url: /cpp/aspose.words.fields/fielduseraddress/
 
 Implements the USERADDRESS field. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [get_UserAddress](./get_useraddress/)() | Gets or sets the current user's postal address.  |
+| [set_UserAddress](./set_useraddress/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserAddress::get_UserAddress.  |

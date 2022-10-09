@@ -13,9 +13,9 @@ The **Aspose.Words.Notes** namespace provides classes to work with Microsoft Wor
 
 | Class | Description |
 | --- | --- |
-| [Aspose::Words::Notes::EndnoteOptions](./endnoteoptions/) | Represents the endnote numbering options for a document or section.  |
-| [Aspose::Words::Notes::Footnote](./footnote/) | Represents a container for text of a footnote or endnote.  |
-| [Aspose::Words::Notes::FootnoteOptions](./footnoteoptions/) | Represents the footnote numbering options for a document or section.  |
+| [endnoteoptions](./endnoteoptions/) | Represents the endnote numbering options for a document or section.  |
+| [footnote](./footnote/) | Represents a container for text of a footnote or endnote.  |
+| [footnoteoptions](./footnoteoptions/) | Represents the footnote numbering options for a document or section.  |
 ## Enums
 
 | Enum | Description |

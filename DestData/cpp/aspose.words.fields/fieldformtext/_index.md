@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::Fields::FieldFormText
+title: fieldformtext
 second_title: Aspose.Words for C++ API Reference
 description: Implements the FORMTEXT field. 
 type: docs

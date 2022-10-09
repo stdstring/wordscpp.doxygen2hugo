@@ -13,11 +13,11 @@ The **Aspose.Words.Vba** namespace provides classes to work with VBA projects.
 
 | Class | Description |
 | --- | --- |
-| [Aspose::Words::Vba::VbaModule](./vbamodule/) | Provides access to VBA project module.  |
-| [Aspose::Words::Vba::VbaModuleCollection](./vbamodulecollection/) | Represents a collection of VbaModule objects.  |
-| [Aspose::Words::Vba::VbaProject](./vbaproject/) | Provides access to VBA project information. A VBA project inside the document is defined as a collection of VBA modules.  |
-| [Aspose::Words::Vba::VbaReference](./vbareference/) | Implements a reference to an Automation type library or VBA project.  |
-| [Aspose::Words::Vba::VbaReferenceCollection](./vbareferencecollection/) | Represents a collection of VbaReference objects.  |
+| [vbamodule](./vbamodule/) | Provides access to VBA project module.  |
+| [vbamodulecollection](./vbamodulecollection/) | Represents a collection of VbaModule objects.  |
+| [vbaproject](./vbaproject/) | Provides access to VBA project information. A VBA project inside the document is defined as a collection of VBA modules.  |
+| [vbareference](./vbareference/) | Implements a reference to an Automation type library or VBA project.  |
+| [vbareferencecollection](./vbareferencecollection/) | Represents a collection of VbaReference objects.  |
 ## Enums
 
 | Enum | Description |

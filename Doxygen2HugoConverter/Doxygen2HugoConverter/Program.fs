@@ -24,36 +24,40 @@ type ConfigData = {SourceDirectory: string; DestDirectory: string}
 
 // utils
 
-let getAttributeValue (source: XElement) (attributeName: string) =
-    (source.Attributes(attributeName) |> Seq.exactlyOne).Value
+let getAttributeValue (source: XElement) (attributeName: string) = (source.Attributes(attributeName) |> Seq.exactlyOne).Value
 
 let findAttributeValue (source: XElement) (attributeName: string) =
     match source.Attribute(attributeName) with
     | null -> None
     | attribute -> attribute.Value |> Some
 
-let getElementValue (source: XElement) (elementName: string) =
-    (source.Elements(elementName) |> Seq.exactlyOne).Value
+let getElement (source: XElement) (elementName: string) = source.Elements(elementName) |> Seq.exactlyOne
+
+let getElementValue (source: XElement) (elementName: string) = (elementName |> getElement source).Value
 
 let findElementValue (source: XElement) (elementName: string) =
     match source.Element(elementName) with
     | null -> None
     | element -> element.Value |> Some
 
-let createNamespaceFolderName (name: string) =
-    name.ToLower().Replace("::", ".")
+let getClassName (fullName: string) =
+    match fullName.LastIndexOf(nameDelimiter) with
+    | -1 -> nameDelimiter |> failwithf "Unprocessed class name \"%s\""
+    | lastDelimiterPos -> fullName.Substring(lastDelimiterPos + nameDelimiter.Length).ToLower()
 
-let createClassFolderName (name: string) =
+let createNamespaceFolderName (name: string) = name.ToLower().Replace("::", ".")
+
+let createSimpleFolderName (name: string) = name.ToLower()
+
+(*let createClassFolderName (name: string) =
     match name.LastIndexOf("::") with
     | -1 -> name |> failwithf "Unprocessed class name \"%s\""
     | lastDelimiterPos ->
         name.Substring(lastDelimiterPos + nameDelimiter.Length).ToLower()
 
-let createEnumFolderName (name: string) =
-    name.ToLower()
+let createEnumFolderName (name: string) = name.ToLower()
 
-let createTypedefFolderName (name: string) =
-    name.ToLower()
+let createTypedefFolderName (name: string) = name.ToLower()*)
 
 // ref data
 
@@ -85,6 +89,8 @@ type NamespaceDefRef =
     | TypedefRef of RefData
 
 type NamespaceRefEntry = {RefId: string; Name: string; Defs: NamespaceDefRef list}
+
+type MemberRef = {Name: string; RefId: string}
 
 // parse refs
 
@@ -182,9 +188,17 @@ let parseIndexFile (config: ConfigData) =
     let root = document.Root;
     root.Elements("compound") |> Seq.choose parseCompondElement |> Seq.toArray
 
+let parseMemberRef (source: XElement) =
+    match "prot" |> getAttributeValue source with
+    | "public" ->
+        let refId = "refid" |> getAttributeValue source
+        let name = "name" |> getElementValue source
+        {MemberRef.Name = name; MemberRef.RefId = refId} |> Some
+    | _ -> None
+
 // defs
 
-type MarkupRef = {RefId: string; Text: string}
+type MarkupRef = {RefId: string; Kind: string option; External: string option; Text: string}
 
 type MarkupDef =
     | Text of string
@@ -192,6 +206,10 @@ type MarkupDef =
     | ParagraphEnd
     | BoldStart
     | BoldEnd
+    | Ref of MarkupRef
+
+type TextWithRefs =
+    | Text of string
     | Ref of MarkupRef
 
 type Description = {Brief: MarkupDef list; Detailed: string}
@@ -202,6 +220,7 @@ type EnumValueDef = {Id: string;
                      Description: Description}
 
 type EnumDef = {Id: string;
+                ParentId: string;
                 Name: string;
                 QualifiedName: string;
                 BaseType: string;
@@ -209,11 +228,27 @@ type EnumDef = {Id: string;
                 Values: EnumValueDef list}
 
 type TypedefDef = {Id: string;
+                   ParentId: string;
                    Name: string;
                    QualifiedName: string;
                    SourceType: string;
                    Definition: string;
                    Description: Description}
+
+type MethodParameterDef = {Name: string; Type: TextWithRefs list}
+
+type MethodDef = {Id: string;
+                  ParentId: string;
+                  Name: string;
+                  ClassName: string;
+                  IsStatic: bool;
+                  IsConst: bool;
+                  IsExplicit: bool;
+                  IsVirtual: bool;
+                  IsOverride: bool;
+                  Description: Description;
+                  Parameters: MethodParameterDef list;
+                  ReturnType: TextWithRefs list}
 
 type ClassKind = 
     | Class
@@ -222,11 +257,15 @@ type ClassKind =
 type BaseClassDef = {Access: string; Virtual: bool; QualifiedName: string}
 
 type ClassDef = {Id: string;
+                 ParentId: string;
                  Name: string;
+                 FullName: string;
                  Final: bool;
                  Kind: ClassKind;
                  Description: Description
-                 BaseClasses: BaseClassDef list}
+                 BaseClasses: BaseClassDef list;
+                 DirectMethods: MethodDef list;
+                 MemberRefs: MemberRef list}
 
 type NamespaceDef = {Id: string;
                      Name: string;
@@ -236,7 +275,64 @@ type NamespaceDef = {Id: string;
                      Classes: ClassDef list
                      Interfaces: ClassDef list}
 
+type EntityDef = 
+    | Namespace of NamespaceDef
+    | Class of ClassDef
+    | Interface of ClassDef
+    | Enum of EnumDef
+    | Typedef of TypedefDef
+    | Method of MethodDef
+    // field
+
 // parse defs
+
+(*let getFinalValue (source: XElement) =
+    match "final" |> findAttributeValue source with
+    | None -> false
+    | Some "no" -> false
+    | Some "yes" -> true
+    | _ -> failwith "Unexpected \"final\" attribute value"*)
+
+let getVirtualValue (source: XElement) =
+    match "virt" |> getAttributeValue source with
+    | "virtual" -> true
+    | "pure-virtual" -> true
+    | "non-virtual" -> false
+    | value -> value |> failwithf "Unexpected \"virt\" attribute value \"%s\""
+
+// TODO (std_string) : think about name
+let getYesNoValue (name: string) (source: XElement) =
+    match name |> getAttributeValue source with
+    | "no" -> false
+    | "yes" -> true
+    | _ -> name |> failwithf "Unexpected \"%s\" attribute value"
+
+// TODO (std_string) : think about name
+let findYesNoValue (name: string) (source: XElement) =
+    match name |> findAttributeValue source with
+    | None -> false
+    | Some "no" -> false
+    | Some "yes" -> true
+    | _ -> name |> failwithf "Unexpected \"%s\" attribute value"
+
+let parseMarkupRef (source: XElement) =
+    let refId = "refid" |> getAttributeValue source
+    let kind = "kindref" |> findAttributeValue source
+    let external = "external" |> findAttributeValue source
+    let text = source.Value
+    {MarkupRef.RefId = refId; MarkupRef.Kind = kind; MarkupRef.External = external; MarkupRef.Text = text}
+
+let parseTextWithMarkupRefs (source: XElement) =
+    let parseFun (node: XNode) =
+        match node with
+        | :? XElement ->
+            let element = node :?> XElement
+            match element.Name.LocalName with
+            | "ref" -> element |> parseMarkupRef |> TextWithRefs.Ref
+            | name -> name |> failwithf "Unexpected text with refs XML element with name \"%s\""
+        | :? XText -> (node :?> XText).Value |> TextWithRefs.Text
+        | _ -> node.NodeType |> failwithf "Unexpected text with refs XML node with type %A"
+    source.Nodes() |> Seq.map parseFun |> Seq.toList
 
 let rec parseMarkup (node: XNode) =
     match node with
@@ -251,9 +347,7 @@ let rec parseMarkup (node: XNode) =
         | "computeroutput" ->
             seq {yield MarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseMarkup |> Seq.concat; yield MarkupDef.BoldEnd}
         | "ref" ->
-            let refId = "refid" |> getAttributeValue element
-            let text = element.Value
-            seq {yield {MarkupRef.RefId = refId; MarkupRef.Text = text} |> MarkupDef.Ref}
+            seq {yield element |> parseMarkupRef |> MarkupDef.Ref}
         | name -> name |> failwithf "Unexpected Markup XML element with name \"%s\""
     | :? XText -> (node :?> XText).Value |> MarkupDef.Text |> Seq.singleton
     | _ -> node.NodeType |> failwithf "Unexpected Markup XML node with type %A"
@@ -282,7 +376,7 @@ let parseEnumValueDef (source: XElement) =
      EnumValueDef.Initializer = initializer;
      EnumValueDef.Description = description}
 
-let parseEnumDef (source: XElement) =
+let parseEnumDef (parentId: string) (source: XElement) =
     match "prot" |> getAttributeValue source with
     | "public" ->
         let id = "id" |> getAttributeValue source
@@ -292,6 +386,7 @@ let parseEnumDef (source: XElement) =
         let baseType = "type" |> getElementValue source
         let values = source.Elements("enumvalue") |> Seq.map parseEnumValueDef |> Seq.toList
         {EnumDef.Id = id;
+         EnumDef.ParentId = parentId;
          EnumDef.Name = name;
          EnumDef.QualifiedName = qualifiedName;
          EnumDef.BaseType = baseType;
@@ -299,7 +394,7 @@ let parseEnumDef (source: XElement) =
          EnumDef.Values = values} |> Some
     | _ -> None
 
-let parseTypedefDef (source: XElement) =
+let parseTypedefDef (parentId: string) (source: XElement) =
     match "prot" |> getAttributeValue source with
     | "public" ->
         let id = "id" |> getAttributeValue source
@@ -309,6 +404,7 @@ let parseTypedefDef (source: XElement) =
         let sourceType = "type" |> getElementValue source
         let definition = "definition" |> getElementValue source
         {TypedefDef.Id = id;
+         TypedefDef.ParentId = parentId;
          TypedefDef.Name = name;
          TypedefDef.QualifiedName = qualifiedName;
          TypedefDef.SourceType = sourceType;
@@ -316,18 +412,48 @@ let parseTypedefDef (source: XElement) =
          TypedefDef.Description = description} |> Some
     | _ -> None
 
-let getFinalValue (source: XElement) =
-    match "final" |> findAttributeValue source with
-    | None -> false
-    | Some "no" -> false
-    | Some "yes" -> true
-    | _ -> failwith "Unexpected \"final\" attribute value"
+let parseMethodParameter (source: XElement) =
+    let paramName = "declname" |> getElementValue source
+    let paramType = "type" |> getElement source |> parseTextWithMarkupRefs
+    {MethodParameterDef.Name = paramName; MethodParameterDef.Type = paramType}
 
-let getVirtualValue (source: XElement) =
-    match "virt" |> getAttributeValue source with
-    | "virtual" -> true
-    | "non-virtual" -> false
-    | _ -> failwith "Unexpected \"virt\" attribute value"
+[<Literal>]
+let OverrideSuffix = " override"
+
+let parseMethodDef (parentId: string) (className: string) (source: XElement) =
+    let id = "id" |> getAttributeValue source
+    let staticValue = source |> getYesNoValue "static"
+    let constValue = source |> getYesNoValue "const"
+    let explicitValue = source |> getYesNoValue "explicit"
+    let virtualValue = source |> getVirtualValue
+    let name = "name" |> getElementValue source
+    //let qualifiedName = "qualifiedname" |> getElementValue source
+    let returnType = "type" |> getElement source |> parseTextWithMarkupRefs
+    //let definition = "definition" |> getElementValue source
+    let argString = "argsstring" |> getElementValue source
+    let description = source |> parseDescription
+    let overrideValue = argString.EndsWith(OverrideSuffix)
+    let parameters = source.Elements("param") |> Seq.map parseMethodParameter |> Seq.toList
+    {MethodDef.Id = id;
+     MethodDef.ParentId = parentId;
+     MethodDef.Name = name;
+     MethodDef.ClassName = className;
+     MethodDef.IsStatic = staticValue;
+     MethodDef.IsConst = constValue;
+     MethodDef.IsExplicit = explicitValue;
+     MethodDef.IsVirtual = virtualValue;
+     MethodDef.IsOverride = overrideValue;
+     MethodDef.Description = description;
+     MethodDef.Parameters = parameters;
+     MethodDef.ReturnType = returnType}
+
+let parseDirectMethods (parentId: string) (className: string) (source: XElement) =
+    source.Elements("sectiondef")
+        |> Seq.filter (fun element -> let kind = "kind" |> getAttributeValue element in kind = "public-func" || kind = "public-static-func")
+        |> Seq.map (fun section -> section.Elements("memberdef"))
+        |> Seq.concat
+        |> Seq.map (fun element -> element |> parseMethodDef parentId className)
+        |> Seq.toList
 
 let parseBaseClassDef (source: XElement) =
     let access = "prot" |> getAttributeValue source
@@ -335,7 +461,7 @@ let parseBaseClassDef (source: XElement) =
     let qualifiedName = source.Value
     {BaseClassDef.Access = access; BaseClassDef.Virtual = virtualValue; BaseClassDef.QualifiedName = qualifiedName}
 
-let parseClassDef (source: XElement) =
+let parseClassDef (parentId: string) (source: XElement) =
     match "prot" |> getAttributeValue source with
     | "public" ->
         let id = "id" |> getAttributeValue source
@@ -344,46 +470,64 @@ let parseClassDef (source: XElement) =
                    | "interface" -> ClassKind.Interface
                    | value -> value |> failwithf "Unexpected kind value \"%s\""
         let description = source |> parseDescription
-        let name = "compoundname" |> getElementValue source
-        let finalValue = source |> getFinalValue
+        let fullName = "compoundname" |> getElementValue source
+        let name = fullName |> getClassName
+        let finalValue = source |> findYesNoValue "final"
         let baseClasses = "basecompoundref" |> source.Elements |> Seq.map parseBaseClassDef |> Seq.toList
+        let directMethods = source |> parseDirectMethods parentId name
+        let memberRefs = source.Element("listofallmembers").Elements("member") |> Seq.choose parseMemberRef |> Seq.toList
+        (*for e in source.Descendants("sectiondef") do
+            match "kind" |> getAttributeValue e with
+            | "private-type" -> ()
+            | "private-attrib" -> ()
+            | "private-func" -> ()
+            | "private-static-attrib" -> ()
+            | "public-func" -> ()
+            | "public-static-func" -> ()
+            | "public-static-attrib" -> ()
+            | "public-type" -> ()
+            | value -> value |> failwithf "Unexpected kind value \"%s\""*)
         {ClassDef.Id = id;
+         ClassDef.ParentId = parentId;
          ClassDef.Name = name;
+         ClassDef.FullName = fullName;
          ClassDef.Final = finalValue;
          ClassDef.Kind = kind;
          ClassDef.Description = description;
-         ClassDef.BaseClasses = baseClasses} |> Some
+         ClassDef.BaseClasses = baseClasses;
+         ClassDef.DirectMethods = directMethods;
+         ClassDef.MemberRefs = memberRefs} |> Some
     | _ -> None
 
-let parseEnumSectionDef (source: XElement) =
+let parseEnumSectionDef (parentId: string) (source: XElement) =
     match source.Elements("sectiondef") |> Seq.filter (fun sectionDef -> "kind" |> getAttributeValue sectionDef = "enum") |> Seq.toList with
     | [] -> []
-    | [enumSection] -> enumSection.Elements("memberdef") |> Seq.choose parseEnumDef |> Seq.toList
+    | [enumSection] -> enumSection.Elements("memberdef") |> Seq.choose (fun def -> def |> parseEnumDef parentId) |> Seq.toList
     | _ -> failwith "There are several sectiondef elements with kind = \"enum\""
 
-let parseTypedefSectionDef (source: XElement) =
+let parseTypedefSectionDef (parentId: string) (source: XElement) =
     match source.Elements("sectiondef") |> Seq.filter (fun sectionDef -> "kind" |> getAttributeValue sectionDef = "typedef") |> Seq.toList with
     | [] -> []
-    | [typedefSection] -> typedefSection.Elements("memberdef") |> Seq.choose parseTypedefDef |> Seq.toList
+    | [typedefSection] -> typedefSection.Elements("memberdef") |> Seq.choose (fun def -> def |> parseTypedefDef parentId) |> Seq.toList
     | _ -> failwith "There are several sectiondef elements with kind = \"typedef\""
 
-let parseClassRefEntry (config: ConfigData) (refEntry: XElement) =
+let parseClassRefEntry (parentId: string) (config: ConfigData) (refEntry: XElement) =
     match "prot" |> getAttributeValue refEntry with
     | "public" ->
         let refId = "refid" |> getAttributeValue refEntry
         let document = Path.Combine(config.SourceDirectory, refId + ".xml") |> XDocument.Load
-        document.Root.Elements("compounddef") |> Seq.choose parseClassDef |> Some
+        document.Root.Elements("compounddef") |> Seq.choose (fun def -> def |> parseClassDef parentId) |> Some
     | _ -> None
 
 let parseNamespaceDef (config: ConfigData) (source: XElement) =
     let id = "id" |> getAttributeValue source
     let name = "compoundname" |> getElementValue source
     let description = source |> parseDescription
-    let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry config) |> Seq.concat |> Seq.toList
+    let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry id config) |> Seq.concat |> Seq.toList
     let classDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Class)
     let interfaceDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Interface)
-    let enumDefs = source |> parseEnumSectionDef
-    let typedefs = source |> parseTypedefSectionDef
+    let enumDefs = source |> parseEnumSectionDef id
+    let typedefs = source |> parseTypedefSectionDef id
     {NamespaceDef.Id = id;
      NamespaceDef.Name = name;
      NamespaceDef.Description = description;
@@ -400,7 +544,9 @@ let parseNamespaceFile (config: ConfigData) (refEntry: NamespaceRefEntry) =
 
 type KeyValueEntry = {Key: string; Value: string}
 
-type GenerateResult = {Name: string; RelativeUrl: string; BriefDescription: string}
+type GenerateEntry = {Title: string; BriefDescription: string}
+
+let generateLink (name: string) (url: string) = $"[{name}]({url})"
 
 let generateBriefDescriptionForTitle (description: Description) =
     let result = new StringBuilder()
@@ -477,7 +623,7 @@ let prepareDirectory (config: ConfigData) =
     rootDirectory
 
 let generateForEnum (parentDirectory: string) (parentUrl: string) (enumDef: EnumDef) =
-    let folderName = enumDef.Name |> createEnumFolderName
+    let folderName = enumDef.Name |> createSimpleFolderName
     let enumDirectory = Path.Combine(parentDirectory, folderName)
     enumDirectory |> Directory.CreateDirectory |> ignore
     let classUrl = sprintf $"{parentUrl}{folderName}/"
@@ -489,12 +635,11 @@ let generateForEnum (parentDirectory: string) (parentUrl: string) (enumDef: Enum
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, MarkdownFilename), builder.ToString())
-    {GenerateResult.Name = enumDef.Name;
-     GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
-     GenerateResult.BriefDescription = briefDescription}
+    {GenerateEntry.Title = sprintf $"./{folderName}/" |> generateLink enumDef.Name;
+     GenerateEntry.BriefDescription = briefDescription}
 
 let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef: TypedefDef) =
-    let folderName = typedefDef.Name |> createTypedefFolderName
+    let folderName = typedefDef.Name |> createSimpleFolderName
     let typedefDirectory = Path.Combine(parentDirectory, folderName)
     typedefDirectory |> Directory.CreateDirectory |> ignore
     let classUrl = sprintf $"{parentUrl}{folderName}/"
@@ -506,12 +651,53 @@ let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     File.AppendAllText(Path.Combine(typedefDirectory, MarkdownFilename), builder.ToString())
-    {GenerateResult.Name = typedefDef.Name;
-     GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
-     GenerateResult.BriefDescription = briefDescription}
+    {GenerateEntry.Title = sprintf $"./{folderName}/" |> generateLink typedefDef.Name;
+     GenerateEntry.BriefDescription = briefDescription}
+
+let createMethodEntry (folderName: string) (briefDescription: string) (methodDef: MethodDef) =
+    let generateParameterType (dest: StringBuilder) (parameter: MethodParameterDef) =
+        parameter.Type |> Seq.iter (fun part -> match part with
+                                                | TextWithRefs.Text text -> text |> dest.Append |> ignore
+                                                | TextWithRefs.Ref data -> data.Text |> dest.Append |> ignore)
+    let generateParameterList (dest: StringBuilder) (parameters: MethodParameterDef list) =
+        parameters |> Seq.iteri (fun index parameter -> match index with
+                                                        | 0 -> ()
+                                                        | _ -> ", " |> dest.Append |> ignore
+                                                        parameter |> generateParameterType dest)
+    let builder = new StringBuilder()
+    if methodDef.IsVirtual && (methodDef.IsOverride |> not) then
+        "virtual " |> builder.Append |> ignore
+    if methodDef.IsExplicit then
+        "explicit " |> builder.Append |> ignore
+    if methodDef.IsStatic then
+        "static " |> builder.Append |> ignore
+    sprintf $"./{folderName}/" |> generateLink methodDef.Name |> builder.Append |> ignore
+    "(" |> builder.Append |> ignore
+    methodDef.Parameters |> generateParameterList builder
+    ")" |> builder.Append |> ignore
+    if methodDef.IsConst then
+        " const" |> builder.Append |> ignore
+    if methodDef.IsOverride then
+        " override" |> builder.Append |> ignore
+    {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
+
+let generateForDirectMethod (parentDirectory: string) (parentUrl: string) (methodDef: MethodDef) =
+    let folderName = methodDef.Name |> createSimpleFolderName
+    let methodDirectory = Path.Combine(parentDirectory, folderName)
+    methodDirectory |> Directory.CreateDirectory |> ignore
+    let methodUrl = sprintf $"{parentUrl}{folderName}/"
+    let builder = new StringBuilder()
+    let descriptionForTitle = methodDef.Description |> generateBriefDescriptionForTitle
+    builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
+    let briefDescription = methodDef.Description |> generateBriefDescription
+    builder.AppendLine() |> ignore
+    briefDescription |> builder.AppendLine |> ignore
+    builder.AppendLine() |> ignore
+    File.AppendAllText(Path.Combine(methodDirectory, MarkdownFilename), builder.ToString())
+    methodDef |> createMethodEntry folderName briefDescription
 
 let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: ClassDef) =
-    let folderName = classDef.Name |> createClassFolderName
+    let folderName = classDef.Name |> createSimpleFolderName
     let classDirectory = Path.Combine(parentDirectory, folderName)
     classDirectory |> Directory.CreateDirectory |> ignore
     let classUrl = sprintf $"{parentUrl}{folderName}/"
@@ -522,10 +708,15 @@ let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: Cl
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
+    if classDef.DirectMethods.IsEmpty |> not then
+        builder |> generateHeader "Methods" 2
+        builder |> generateTableHeader ["Method"; "Description"]
+        classDef.DirectMethods
+                |> Seq.map (fun def -> def |> generateForDirectMethod classDirectory classUrl)
+                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
     File.AppendAllText(Path.Combine(classDirectory, MarkdownFilename), builder.ToString())
-    {GenerateResult.Name = classDef.Name;
-     GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
-     GenerateResult.BriefDescription = briefDescription}
+    {GenerateEntry.Title = sprintf $"./{folderName}/" |> generateLink classDef.Name;
+     GenerateEntry.BriefDescription = briefDescription}
 
 let generateForNamespace (parentDirectory: string) (parentUrl: string) (namespaceDef: NamespaceDef) =
     match namespaceDef.Enums.IsEmpty && namespaceDef.Typedefs.IsEmpty && namespaceDef.Classes.IsEmpty && namespaceDef.Interfaces.IsEmpty with
@@ -547,29 +738,28 @@ let generateForNamespace (parentDirectory: string) (parentUrl: string) (namespac
             builder |> generateTableHeader ["Class"; "Description"]
             namespaceDef.Classes
                 |> Seq.map (fun def -> def |> generateForClass namespaceDirectory namespaceUrl)
-                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Interfaces.IsEmpty |> not then
             builder |> generateHeader "Interfaces" 2
             builder |> generateTableHeader ["Interface"; "Description"]
             namespaceDef.Interfaces
                 |> Seq.map (fun def -> def |> generateForClass namespaceDirectory namespaceUrl)
-                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Enums.IsEmpty |> not then
             builder |> generateHeader "Enums" 2
             builder |> generateTableHeader ["Enum"; "Description"]
             namespaceDef.Enums
                 |> Seq.map (fun def -> def |> generateForEnum namespaceDirectory namespaceUrl)
-                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Typedefs.IsEmpty |> not then
             builder |> generateHeader "Typedefs" 2
             builder |> generateTableHeader ["Typedef"; "Description"]
             namespaceDef.Typedefs
                 |> Seq.map (fun def -> def |> generateForTypedef namespaceDirectory namespaceUrl)
-                |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         File.AppendAllText(Path.Combine(namespaceDirectory, MarkdownFilename), builder.ToString())
-        {GenerateResult.Name = namespaceDef.Name;
-         GenerateResult.RelativeUrl = sprintf $"./{folderName}/";
-         GenerateResult.BriefDescription = briefDescription} |> Some
+        {GenerateEntry.Title = sprintf $"./{folderName}/" |> generateLink namespaceDef.Name;
+         GenerateEntry.BriefDescription = briefDescription} |> Some
 
 let generateDest (config: ConfigData) (namespaceDefs: NamespaceDef list) =
     let rootDirectory = config |> prepareDirectory
@@ -581,7 +771,7 @@ let generateDest (config: ConfigData) (namespaceDefs: NamespaceDef list) =
     builder |> generateTableHeader ["Namespace"; "Description"]
     namespaceDefs
         |> Seq.choose (fun def -> def |> generateForNamespace rootDirectory rootUrl)
-        |> Seq.iter (fun result -> sprintf $"| [{result.Name}]({result.RelativeUrl}) | {result.BriefDescription} |" |> builder.AppendLine |> ignore)
+        |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
     File.AppendAllText(Path.Combine(rootDirectory, MarkdownFilename), builder.ToString())
 
 [<EntryPoint>]

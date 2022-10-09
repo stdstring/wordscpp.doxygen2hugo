@@ -1,0 +1,11 @@
+---
+title: get_Appearance
+second_title: Aspose.Words for C++ API Reference
+description: Gets/sets the appearance of a structured document tag. 
+type: docs
+weight: 0
+url: /cpp/aspose.words.markup/structureddocumenttag/get_appearance/
+---
+
+Gets/sets the appearance of a structured document tag. 
+

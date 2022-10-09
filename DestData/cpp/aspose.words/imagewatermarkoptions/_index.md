@@ -1,5 +1,5 @@
 ---
-title: Aspose::Words::ImageWatermarkOptions
+title: imagewatermarkoptions
 second_title: Aspose.Words for C++ API Reference
 description: Contains options that can be specified when adding a watermark with image. 
 type: docs
@@ -9,3 +9,12 @@ url: /cpp/aspose.words/imagewatermarkoptions/
 
 Contains options that can be specified when adding a watermark with image. 
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [ImageWatermarkOptions](./imagewatermarkoptions/)() |  |
+| [get_IsWashout](./get_iswashout/)() const | Gets or sets a boolean value which is responsible for washout effect of the watermark. The default value is True.  |
+| [get_Scale](./get_scale/)() const | Gets or sets the scale factor expressed as a fraction of the image. The default value is 0 - auto.  |
+| [set_IsWashout](./set_iswashout/)(bool) | Setter for Aspose::Words::ImageWatermarkOptions::get_IsWashout.  |
+| [set_Scale](./set_scale/)(double) | Setter for Aspose::Words::ImageWatermarkOptions::get_Scale.  |
