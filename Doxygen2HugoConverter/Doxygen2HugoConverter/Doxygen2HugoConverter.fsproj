@@ -6,6 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Common.fs" />
+    <Compile Include="Config.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="Refs.fs" />
+    <Compile Include="Defs.fs" />
+    <Compile Include="Generator.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
