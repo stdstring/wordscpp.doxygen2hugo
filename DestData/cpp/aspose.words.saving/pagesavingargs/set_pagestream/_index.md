@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pagesavingargs/set_pagestream/
 ---
+## PageSavingArgs.set_PageStream method
+
 
 Setter for Aspose::Words::Saving::PageSavingArgs::get_PageStream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pagesavingargs/set_pagestream/
 ---
+## PageSavingArgs.set_PageStream method
+
 
 
 

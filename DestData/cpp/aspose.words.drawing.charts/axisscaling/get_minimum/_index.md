@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axisscaling/get_minimum/
 ---
+## AxisScaling.get_Minimum method
+
 
 Gets or sets minimum value of the axis. 
 

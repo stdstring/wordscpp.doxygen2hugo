@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/resourcesavingargs/set_keepresourcestreamopen/
 ---
+## ResourceSavingArgs.set_KeepResourceStreamOpen method
+
 
 Setter for Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen. 
 

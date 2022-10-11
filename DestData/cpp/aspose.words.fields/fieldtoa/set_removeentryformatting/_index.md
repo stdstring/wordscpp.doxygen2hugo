@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldtoa/set_removeentryformatting/
 ---
+## FieldToa.set_RemoveEntryFormatting method
+
 
 Setter for Aspose::Words::Fields::FieldToa::get_RemoveEntryFormatting. 
 

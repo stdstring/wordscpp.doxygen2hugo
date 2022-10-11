@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tabstopcollection/get_count/
 ---
+## TabStopCollection.get_Count method
+
 
 Gets the number of tab stops in the collection. 
 

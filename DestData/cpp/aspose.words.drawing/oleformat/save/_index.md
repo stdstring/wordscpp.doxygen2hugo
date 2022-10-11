@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/oleformat/save/
 ---
+## OleFormat.Save method
+
 
 Saves the data of the embedded object into the specified stream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/oleformat/save/
 ---
+## OleFormat.Save method
+
 
 Saves the data of the embedded object into a file with the specified name. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/oleformat/save/
 ---
+## OleFormat.Save method
+
 
 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpropertycollection/idx_get/
 ---
+## CustomXmlPropertyCollection.idx_get method
+
 
 Gets a property with the specified name. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpropertycollection/idx_get/
 ---
+## CustomXmlPropertyCollection.idx_get method
+
 
 Gets a property at the specified index. 
 

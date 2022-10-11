@@ -15,4 +15,4 @@ Implement this interface if you want to receive notifications and control how As
 
 | Method | Description |
 | --- | --- |
-| virtual void [FontSaving](./fontsaving/)(System::SharedPtr< Aspose::Words::Saving::FontSavingArgs >) | Called when Aspose.Words is about to save a font resource.  |
+| virtual [FontSaving](./fontsaving/)(System::SharedPtr< Aspose::Words::Saving::FontSavingArgs >) | Called when Aspose.Words is about to save a font resource.  |

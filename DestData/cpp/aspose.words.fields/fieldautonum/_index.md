@@ -15,5 +15,5 @@ Implements the AUTONUM field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_SeparatorCharacter](./get_separatorcharacter/)() | Gets or sets the separator character to be used.  |
-| void [set_SeparatorCharacter](./set_separatorcharacter/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter.  |
+| [get_SeparatorCharacter](./get_separatorcharacter/)() | Gets or sets the separator character to be used.  |
+| [set_SeparatorCharacter](./set_separatorcharacter/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter.  |

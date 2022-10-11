@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldseq/set_resetnumber/
 ---
+## FieldSeq.set_ResetNumber method
+
 
 Setter for Aspose::Words::Fields::FieldSeq::get_ResetNumber. 
 

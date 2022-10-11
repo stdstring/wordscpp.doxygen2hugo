@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/compositenode/removeallchildren/
 ---
+## CompositeNode.RemoveAllChildren method
+
 
 Removes all the child nodes of the current node. 
 

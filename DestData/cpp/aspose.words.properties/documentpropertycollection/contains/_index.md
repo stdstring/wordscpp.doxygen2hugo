@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/documentpropertycollection/contains/
 ---
+## DocumentPropertyCollection.Contains method
+
 
 Returns true if a property with the specified name exists in the collection. 
 

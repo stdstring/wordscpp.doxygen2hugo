@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/get_resourcesfolder/
 ---
+## XamlFixedSaveOptions.get_ResourcesFolder method
+
 
 Specifies the physical folder where resources (images and fonts) are saved when exporting a document to fixed page Xaml format. Default is **null**. 
 

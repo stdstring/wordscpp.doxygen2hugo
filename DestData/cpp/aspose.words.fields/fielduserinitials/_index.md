@@ -15,5 +15,5 @@ Implements the USERINITIALS field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_UserInitials](./get_userinitials/)() | Gets or sets the current user's initials.  |
-| void [set_UserInitials](./set_userinitials/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserInitials::get_UserInitials.  |
+| [get_UserInitials](./get_userinitials/)() | Gets or sets the current user's initials.  |
+| [set_UserInitials](./set_userinitials/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserInitials::get_UserInitials.  |

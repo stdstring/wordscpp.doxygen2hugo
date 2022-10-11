@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/textbox/set_verticalanchor/
 ---
+## TextBox.set_VerticalAnchor method
+
 
 Setter for Aspose::Words::Drawing::TextBox::get_VerticalAnchor. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/fileformatinfo/get_encoding/
 ---
+## FileFormatInfo.get_Encoding method
+
 
 Gets the detected encoding if applicable to the current document format. At the moment detects encoding only for HTML documents. 
 

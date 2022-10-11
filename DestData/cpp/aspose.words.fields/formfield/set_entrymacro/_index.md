@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/formfield/set_entrymacro/
 ---
+## FormField.set_EntryMacro method
+
 
 Setter for Aspose::Words::Fields::FormField::get_EntryMacro. 
 

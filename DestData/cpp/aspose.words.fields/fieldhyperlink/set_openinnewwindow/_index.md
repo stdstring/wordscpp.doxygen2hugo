@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldhyperlink/set_openinnewwindow/
 ---
+## FieldHyperlink.set_OpenInNewWindow method
+
 
 Setter for Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlabel/get_labelstring/
 ---
+## ListLabel.get_LabelString method
+
 
 Gets a string representation of list label. 
 

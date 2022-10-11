@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/inserthtml/
 ---
+## DocumentBuilder.InsertHtml method
+
 
 Inserts an HTML string into the document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/inserthtml/
 ---
+## DocumentBuilder.InsertHtml method
+
 
 Inserts an HTML string into the document. Allows to specify additional options. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/inserthtml/
 ---
+## DocumentBuilder.InsertHtml method
+
 
 Inserts an HTML string into the document. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.framesets/framesetcollection/begin/
 ---
+## FramesetCollection.begin method
+
 
 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.framesets/framesetcollection/begin/
 ---
+## FramesetCollection.begin method
+
 
 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/custompart/set_name/
 ---
+## CustomPart.set_Name method
+
 
 Setter for Aspose::Words::Markup::CustomPart::get_Name. 
 

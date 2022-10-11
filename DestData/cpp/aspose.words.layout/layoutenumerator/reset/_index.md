@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/reset/
 ---
+## LayoutEnumerator.Reset method
+
 
 Moves the enumerator to the first page of the document. 
 

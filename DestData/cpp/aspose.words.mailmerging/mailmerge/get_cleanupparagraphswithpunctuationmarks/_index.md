@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mailmerge/get_cleanupparagraphswithpunctuationmarks/
 ---
+## MailMerge.get_CleanupParagraphsWithPunctuationMarks method
+
 
 Gets or sets a value indicating whether paragraphs with punctuation marks are considered as empty and should be removed if the RemoveEmptyParagraphs option is specified. 
 

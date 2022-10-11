@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldinfo/get_newvalue/
 ---
+## FieldInfo.get_NewValue method
+
 
 Gets or sets an optional value that updates the property. 
 

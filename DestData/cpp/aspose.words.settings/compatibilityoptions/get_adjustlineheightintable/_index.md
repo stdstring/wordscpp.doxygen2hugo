@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_adjustlineheightintable/
 ---
+## CompatibilityOptions.get_AdjustLineHeightInTable method
+
 
 Add Document Grid Line Pitch To Lines in Table Cells. 
 

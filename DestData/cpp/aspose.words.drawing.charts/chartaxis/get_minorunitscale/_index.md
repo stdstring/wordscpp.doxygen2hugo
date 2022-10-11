@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_minorunitscale/
 ---
+## ChartAxis.get_MinorUnitScale method
+
 
 Returns or sets the scale value for minor tick marks on the time category axis. 
 

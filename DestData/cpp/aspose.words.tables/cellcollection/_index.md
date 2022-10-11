@@ -15,5 +15,5 @@ Provides typed access to a collection of Cell nodes.
 
 | Method | Description |
 | --- | --- |
-| System::SharedPtr< Aspose::Words::Tables::Cell > [idx_get](./idx_get/)(int32_t) | Retrieves a **Cell** at the given index.  |
-| System::ArrayPtr< System::SharedPtr< Aspose::Words::Tables::Cell > > [ToArray](./toarray/)() | Copies all cells from the collection to a new array of cells.  |
+| [idx_get](./idx_get/)(int32_t) | Retrieves a **Cell** at the given index.  |
+| [ToArray](./toarray/)() | Copies all cells from the collection to a new array of cells.  |

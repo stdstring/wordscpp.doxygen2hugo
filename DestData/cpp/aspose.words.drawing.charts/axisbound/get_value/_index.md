@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axisbound/get_value/
 ---
+## AxisBound.get_Value method
+
 
 Returns numeric value of axis bound. 
 

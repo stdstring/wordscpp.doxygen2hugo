@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/formfield/get_dropdownitems/
 ---
+## FormField.get_DropDownItems method
+
 
 Provides access to the items of a dropdown form field. 
 

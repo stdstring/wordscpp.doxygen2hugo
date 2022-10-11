@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttag/get_contentsfont/
 ---
+## StructuredDocumentTag.get_ContentsFont method
+
 
 Font formatting that will be applied to text entered into **SDT**. 
 

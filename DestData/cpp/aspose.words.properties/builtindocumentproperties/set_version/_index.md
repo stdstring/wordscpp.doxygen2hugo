@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_version/
 ---
+## BuiltInDocumentProperties.set_Version method
+
 
 Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Version. 
 

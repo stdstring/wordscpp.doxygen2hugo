@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/cellformat/get_toppadding/
 ---
+## CellFormat.get_TopPadding method
+
 
 Returns or sets the amount of space (in points) to add above the contents of cell. 
 

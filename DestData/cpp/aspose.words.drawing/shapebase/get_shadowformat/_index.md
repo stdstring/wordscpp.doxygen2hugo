@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/get_shadowformat/
 ---
+## ShapeBase.get_ShadowFormat method
+
 
 Gets shadow formatting for the shape. 
 

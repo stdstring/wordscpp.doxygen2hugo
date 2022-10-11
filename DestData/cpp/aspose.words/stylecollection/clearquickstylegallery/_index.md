@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/stylecollection/clearquickstylegallery/
 ---
+## StyleCollection.ClearQuickStyleGallery method
+
 
 Removes all styles from the Quick Style Gallery panel. 
 

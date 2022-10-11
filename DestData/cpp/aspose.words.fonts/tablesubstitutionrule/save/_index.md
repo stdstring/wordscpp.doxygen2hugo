@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/save/
 ---
+## TableSubstitutionRule.Save method
+
 
 Saves the current table substitution settings to stream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/save/
 ---
+## TableSubstitutionRule.Save method
+
 
 Saves the current table substitution settings to file. 
 

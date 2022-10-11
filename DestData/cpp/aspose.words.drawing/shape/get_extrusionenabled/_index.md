@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shape/get_extrusionenabled/
 ---
+## Shape.get_ExtrusionEnabled method
+
 
 Returns true if an extrusion effect is enabled. 
 

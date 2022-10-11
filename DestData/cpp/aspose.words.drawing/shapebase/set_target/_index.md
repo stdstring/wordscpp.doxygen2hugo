@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/set_target/
 ---
+## ShapeBase.set_Target method
+
 
 Setter for Aspose::Words::Drawing::ShapeBase::get_Target. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/set_printbodytextbeforeheader/
 ---
+## CompatibilityOptions.set_PrintBodyTextBeforeHeader method
+
 
 Print Body Text before Header/Footer Contents. 
 

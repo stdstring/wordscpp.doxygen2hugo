@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbamodulecollection/remove/
 ---
+## VbaModuleCollection.Remove method
+
 
 Removes the specified module from the collection. 
 

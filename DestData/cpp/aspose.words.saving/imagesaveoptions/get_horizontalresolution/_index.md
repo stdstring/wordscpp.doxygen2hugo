@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesaveoptions/get_horizontalresolution/
 ---
+## ImageSaveOptions.get_HorizontalResolution method
+
 
 Gets or sets the horizontal resolution for the generated images, in dots per inch. 
 

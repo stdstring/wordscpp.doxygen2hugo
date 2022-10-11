@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/compositenode/getenumerator/
 ---
+## CompositeNode.GetEnumerator method
+
 
 Provides support for the for each style iteration over the child nodes of this node. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkcollection/getenumerator/
 ---
+## BookmarkCollection.GetEnumerator method
+
 
 Returns an enumerator object. 
 

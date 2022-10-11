@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/set_preferredwidth/
 ---
+## Table.set_PreferredWidth method
+
 
 Setter for Aspose::Words::Tables::Table::get_PreferredWidth. 
 

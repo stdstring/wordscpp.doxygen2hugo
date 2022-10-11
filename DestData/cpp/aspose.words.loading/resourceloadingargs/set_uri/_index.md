@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/resourceloadingargs/set_uri/
 ---
+## ResourceLoadingArgs.set_Uri method
+
 
 Setter for Aspose::Words::Loading::ResourceLoadingArgs::get_Uri. 
 

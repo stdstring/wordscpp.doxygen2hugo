@@ -15,6 +15,6 @@ The comparison expression.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_ComparisonOperator](./get_comparisonoperator/)() const | Gets the comparison operator.  |
-| System::String [get_LeftExpression](./get_leftexpression/)() const | Gets the left expression.  |
-| System::String [get_RightExpression](./get_rightexpression/)() const | Gets the right expression.  |
+| [get_ComparisonOperator](./get_comparisonoperator/)() const | Gets the comparison operator.  |
+| [get_LeftExpression](./get_leftexpression/)() const | Gets the left expression.  |
+| [get_RightExpression](./get_rightexpression/)() const | Gets the right expression.  |

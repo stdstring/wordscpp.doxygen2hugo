@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/set_kerning/
 ---
+## Font.set_Kerning method
+
 
 Setter for Aspose::Words::Font::get_Kerning. 
 

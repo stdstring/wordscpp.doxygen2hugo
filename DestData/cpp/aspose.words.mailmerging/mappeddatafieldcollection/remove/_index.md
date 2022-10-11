@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/remove/
 ---
+## MappedDataFieldCollection.Remove method
+
 
 Removes a field mapping. 
 

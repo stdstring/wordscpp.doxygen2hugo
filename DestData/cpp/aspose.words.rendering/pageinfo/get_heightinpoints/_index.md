@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.rendering/pageinfo/get_heightinpoints/
 ---
+## PageInfo.get_HeightInPoints method
+
 
 Gets the height of the page in points. 
 

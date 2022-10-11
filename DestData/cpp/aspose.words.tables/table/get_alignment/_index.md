@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/get_alignment/
 ---
+## Table.get_Alignment method
+
 
 Specifies how an inline table is aligned in the document. 
 

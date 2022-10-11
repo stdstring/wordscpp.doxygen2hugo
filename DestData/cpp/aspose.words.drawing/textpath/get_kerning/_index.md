@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/textpath/get_kerning/
 ---
+## TextPath.get_Kerning method
+
 
 Determines whether kerning is turned on. 
 

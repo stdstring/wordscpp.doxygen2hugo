@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldlink/set_insertaspicture/
 ---
+## FieldLink.set_InsertAsPicture method
+
 
 Setter for Aspose::Words::Fields::FieldLink::get_InsertAsPicture. 
 

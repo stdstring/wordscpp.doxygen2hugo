@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesavingargs/get_isimageavailable/
 ---
+## ImageSavingArgs.get_IsImageAvailable method
+
 
 Returns **true** if the current image is available for export. 
 

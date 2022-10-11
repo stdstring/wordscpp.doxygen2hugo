@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldgotobutton/get_location/
 ---
+## FieldGoToButton.get_Location method
+
 
 Gets or sets the name of a bookmark, a page number, or some other item to jump to. 
 

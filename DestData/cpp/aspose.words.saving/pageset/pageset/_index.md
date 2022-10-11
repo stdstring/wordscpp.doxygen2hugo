@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pageset/pageset/
 ---
+## PageSet.PageSet method
+
 
 Creates a page set based on exact page indices. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pageset/pageset/
 ---
+## PageSet.PageSet method
+
 
 Creates a page set based on ranges. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pageset/pageset/
 ---
+## PageSet.PageSet method
+
 
 Creates an one-page set based on exact page index. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/node/get_previoussibling/
 ---
+## Node.get_PreviousSibling method
+
 
 Gets the node immediately preceding this node. 
 

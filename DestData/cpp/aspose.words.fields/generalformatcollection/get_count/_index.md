@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/generalformatcollection/get_count/
 ---
+## GeneralFormatCollection.get_Count method
+
 
 Gets the total number of the items in the collection. 
 

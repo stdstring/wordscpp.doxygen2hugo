@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/getenumerator/
 ---
+## DigitalSignatureCollection.GetEnumerator method
+
 
 Returns a dictionary enumerator object that can be used to iterate over all items in the collection. 
 

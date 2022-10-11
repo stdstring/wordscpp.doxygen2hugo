@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/commentrangeend/get_nodetype/
 ---
+## CommentRangeEnd.get_NodeType method
+
 
 Returns CommentRangeEnd. 
 

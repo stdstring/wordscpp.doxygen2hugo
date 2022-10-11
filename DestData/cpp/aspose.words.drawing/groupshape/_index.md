@@ -15,6 +15,6 @@ Represents a group of shapes in a document.
 
 | Method | Description |
 | --- | --- |
-|  [GroupShape](./groupshape/)(const System::SharedPtr< Aspose::Words::DocumentBase > &) | Creates a new group shape.  |
-| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| Aspose::Words::NodeType [get_NodeType](./get_nodetype/)() const override | Returns GroupShape.  |
+| [GroupShape](./groupshape/)(const System::SharedPtr< Aspose::Words::DocumentBase > &) | Creates a new group shape.  |
+| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [get_NodeType](./get_nodetype/)() const override | Returns GroupShape.  |

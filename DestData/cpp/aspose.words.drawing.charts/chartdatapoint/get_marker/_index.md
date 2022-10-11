@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/get_marker/
 ---
+## ChartDataPoint.get_Marker method
+
 
 Specifies a data marker. Marker is automatically created when requested. 
 

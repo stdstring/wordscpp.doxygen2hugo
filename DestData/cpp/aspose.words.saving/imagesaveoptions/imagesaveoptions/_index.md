@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesaveoptions/imagesaveoptions/
 ---
+## ImageSaveOptions.ImageSaveOptions method
+
 
 Initializes a new instance of this class that can be used to save rendered images in the Tiff, Png, Bmp, Emf, Jpeg or Svg format. Png, Bmp, Jpeg or Svg format. 
 

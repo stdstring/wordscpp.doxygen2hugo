@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.math/officemath/set_displaytype/
 ---
+## OfficeMath.set_DisplayType method
+
 
 Setter for Aspose::Words::Math::OfficeMath::get_DisplayType. 
 

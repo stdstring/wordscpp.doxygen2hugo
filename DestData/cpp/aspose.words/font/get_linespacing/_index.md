@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_linespacing/
 ---
+## Font.get_LineSpacing method
+
 
 Returns line spacing of this font (in points). 
 

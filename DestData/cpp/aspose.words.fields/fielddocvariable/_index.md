@@ -15,5 +15,5 @@ Implements DOCVARIABLE field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_VariableName](./get_variablename/)() | Gets or sets the name of the document variable to retrieve.  |
-| void [set_VariableName](./set_variablename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDocVariable::get_VariableName.  |
+| [get_VariableName](./get_variablename/)() | Gets or sets the name of the document variable to retrieve.  |
+| [set_VariableName](./set_variablename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDocVariable::get_VariableName.  |

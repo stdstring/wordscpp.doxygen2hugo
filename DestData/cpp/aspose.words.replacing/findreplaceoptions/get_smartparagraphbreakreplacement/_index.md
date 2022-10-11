@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_smartparagraphbreakreplacement/
 ---
+## FindReplaceOptions.get_SmartParagraphBreakReplacement method
+
 
 Gets or sets a boolean value indicating either it is allowed to replace paragraph break when there is no next sibling paragraph. The default value is **false**. 
 

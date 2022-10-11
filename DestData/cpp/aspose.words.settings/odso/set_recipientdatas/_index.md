@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odso/set_recipientdatas/
 ---
+## Odso.set_RecipientDatas method
+
 
 Sets a collection of objects that specify inclusion/exclusion of individual records in the mail merge. This object is never null. 
 

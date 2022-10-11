@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/chmloadoptions/chmloadoptions/
 ---
+## ChmLoadOptions.ChmLoadOptions method
+
 
 Initializes a new instance of this class with default values. 
 

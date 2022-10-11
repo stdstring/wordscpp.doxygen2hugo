@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/getpageinfo/
 ---
+## Document.GetPageInfo method
+
 
 Gets the page size, orientation and other information about a page that might be useful for printing or rendering. 
 

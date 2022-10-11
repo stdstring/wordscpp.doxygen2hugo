@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/controlchar/nonbreakingspace/
 ---
+## ControlChar.NonBreakingSpace method
+
 
 Non-breaking space character: "\x00a0". 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shadowformat/get_type/
 ---
+## ShadowFormat.get_Type method
+
 
 Gets the specified ShadowType for ShadowFormat. 
 

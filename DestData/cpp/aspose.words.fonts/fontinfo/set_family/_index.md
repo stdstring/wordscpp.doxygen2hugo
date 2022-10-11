@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontinfo/set_family/
 ---
+## FontInfo.set_Family method
+
 
 Setter for Aspose::Words::Fonts::FontInfo::get_Family. 
 

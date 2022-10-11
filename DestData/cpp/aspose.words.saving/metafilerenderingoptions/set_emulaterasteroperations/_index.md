@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/metafilerenderingoptions/set_emulaterasteroperations/
 ---
+## MetafileRenderingOptions.set_EmulateRasterOperations method
+
 
 Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_EmulateRasterOperations. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_wordopenxml/
 ---
+## IStructuredDocumentTag.get_WordOpenXML method
+
 
 Gets a string that represents the XML contained within the node in the FlatOpc format. 
 

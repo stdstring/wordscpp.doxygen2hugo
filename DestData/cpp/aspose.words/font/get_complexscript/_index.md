@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_complexscript/
 ---
+## Font.get_ComplexScript method
+
 
 Specifies whether the contents of this run shall be treated as complex script text regardless of their Unicode character values when determining the formatting for this run. 
 

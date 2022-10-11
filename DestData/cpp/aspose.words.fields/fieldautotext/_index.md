@@ -15,5 +15,5 @@ Implements the AUTOTEXT field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_EntryName](./get_entryname/)() override | Gets or sets the name of the AutoText entry.  |
-| void [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoText::get_EntryName.  |
+| [get_EntryName](./get_entryname/)() override | Gets or sets the name of the AutoText entry.  |
+| [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoText::get_EntryName.  |

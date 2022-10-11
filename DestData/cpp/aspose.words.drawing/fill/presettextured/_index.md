@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/presettextured/
 ---
+## Fill.PresetTextured method
+
 
 Sets the fill to a preset texture. 
 

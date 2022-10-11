@@ -15,4 +15,4 @@ Implement this interface if you want to receive notifications and control how As
 
 | Method | Description |
 | --- | --- |
-| virtual void [DocumentPartSaving](./documentpartsaving/)(System::SharedPtr< Aspose::Words::Saving::DocumentPartSavingArgs >) | Called when Aspose.Words is about to save a document part.  |
+| virtual [DocumentPartSaving](./documentpartsaving/)(System::SharedPtr< Aspose::Words::Saving::DocumentPartSavingArgs >) | Called when Aspose.Words is about to save a document part.  |

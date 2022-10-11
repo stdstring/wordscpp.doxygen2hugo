@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldtoa/set_useheading/
 ---
+## FieldToa.set_UseHeading method
+
 
 Setter for Aspose::Words::Fields::FieldToa::get_UseHeading. 
 

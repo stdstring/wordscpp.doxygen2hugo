@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_location/
 ---
+## PdfDigitalSignatureDetails.set_Location method
+
 
 Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location. 
 

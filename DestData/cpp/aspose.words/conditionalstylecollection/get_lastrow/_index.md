@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstylecollection/get_lastrow/
 ---
+## ConditionalStyleCollection.get_LastRow method
+
 
 Gets the last row style. 
 

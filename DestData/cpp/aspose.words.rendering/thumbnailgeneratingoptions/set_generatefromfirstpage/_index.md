@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/set_generatefromfirstpage/
 ---
+## ThumbnailGeneratingOptions.set_GenerateFromFirstPage method
+
 
 Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage. 
 

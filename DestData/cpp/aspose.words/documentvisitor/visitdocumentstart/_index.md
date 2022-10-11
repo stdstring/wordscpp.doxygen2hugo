@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentvisitor/visitdocumentstart/
 ---
+## DocumentVisitor.VisitDocumentStart method
+
 
 Called when enumeration of the document has started. 
 

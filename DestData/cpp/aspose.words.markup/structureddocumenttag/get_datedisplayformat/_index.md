@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttag/get_datedisplayformat/
 ---
+## StructuredDocumentTag.get_DateDisplayFormat method
+
 
 String that represents the format in which dates are displayed. Can not be null. 
 

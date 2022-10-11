@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/add/
 ---
+## OdsoRecipientDataCollection.Add method
+
 
 Adds an object to the end of this collection. 
 

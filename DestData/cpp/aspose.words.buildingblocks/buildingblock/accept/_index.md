@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblock/accept/
 ---
+## BuildingBlock.Accept method
+
 
 Accepts a visitor. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldtoc/get_tableoffigureslabel/
 ---
+## FieldToc.get_TableOfFiguresLabel method
+
 
 Gets or sets the name of the sequence identifier used when building a table of figures. 
 

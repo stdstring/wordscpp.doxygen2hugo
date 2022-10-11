@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlschemacollection/add/
 ---
+## CustomXmlSchemaCollection.Add method
+
 
 Adds an item to the collection. 
 

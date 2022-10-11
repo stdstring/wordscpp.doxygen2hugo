@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/virtualizeenditerator/
 ---
+## DigitalSignatureCollection.virtualizeEndIterator method
+
 
 
 

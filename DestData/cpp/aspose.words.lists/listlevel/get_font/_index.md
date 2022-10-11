@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/get_font/
 ---
+## ListLevel.get_Font method
+
 
 Specifies character formatting used for the list label. 
 

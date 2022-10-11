@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/oleformat/get_olecontrol/
 ---
+## OleFormat.get_OleControl method
+
 
 Gets OleControl objects if this OLE object is an ActiveX control. Otherwise this property is null. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/writeln/
 ---
+## DocumentBuilder.Writeln method
+
 
 Inserts a paragraph break into the document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/writeln/
 ---
+## DocumentBuilder.Writeln method
+
 
 Inserts a string and a paragraph break into the document. 
 

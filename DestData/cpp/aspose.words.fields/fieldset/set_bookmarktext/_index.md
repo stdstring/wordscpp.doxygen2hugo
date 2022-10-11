@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldset/set_bookmarktext/
 ---
+## FieldSet.set_BookmarkText method
+
 
 Setter for Aspose::Words::Fields::FieldSet::get_BookmarkText. 
 

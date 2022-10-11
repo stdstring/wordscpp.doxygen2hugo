@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/taskpane/set_width/
 ---
+## TaskPane.set_Width method
+
 
 Setter for Aspose::Words::WebExtensions::TaskPane::get_Width. 
 

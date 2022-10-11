@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.math/officemath/get_nodetype/
 ---
+## OfficeMath.get_NodeType method
+
 
 Returns **NodeType.OfficeMath**. 
 

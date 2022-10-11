@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_overridetablestylefontsizeandjustification/
 ---
+## CompatibilityOptions.get_OverrideTableStyleFontSizeAndJustification method
+
 
 Specifies how the style hierarchy of the document is evaluated. 
 

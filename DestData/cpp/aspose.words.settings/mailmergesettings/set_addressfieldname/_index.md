@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/mailmergesettings/set_addressfieldname/
 ---
+## MailMergeSettings.set_AddressFieldName method
+
 
 Specifies the column within the data source that contains e-mail addresses. The default value is an empty string. 
 

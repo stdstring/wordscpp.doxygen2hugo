@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ---
+## MailMerge.Execute method
+
 
 Performs a mail merge operation for a single record. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ---
+## MailMerge.Execute method
+
 
 Performs a mail merge from a custom data source. 
 

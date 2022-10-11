@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/set_multiplepages/
 ---
+## PageSetup.set_MultiplePages method
+
 
 Setter for Aspose::Words::PageSetup::get_MultiplePages. 
 

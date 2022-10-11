@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_version/
 ---
+## BuiltInDocumentProperties.get_Version method
+
 
 Represents the version number of the application that created the document. 
 

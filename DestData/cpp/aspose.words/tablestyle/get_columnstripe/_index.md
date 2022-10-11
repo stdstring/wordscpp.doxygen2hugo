@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tablestyle/get_columnstripe/
 ---
+## TableStyle.get_ColumnStripe method
+
 
 Gets or sets a number of columns to include in the banding when the style specifies odd/even columns banding. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/cbegin/
 ---
+## OdsoRecipientDataCollection.cbegin method
+
 
 
 

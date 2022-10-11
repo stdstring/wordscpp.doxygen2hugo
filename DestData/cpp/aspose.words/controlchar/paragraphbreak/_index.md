@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/controlchar/paragraphbreak/
 ---
+## ControlChar.ParagraphBreak method
+
 
 End of paragraph character: "\x000d" or "\r". Same as Cr
 

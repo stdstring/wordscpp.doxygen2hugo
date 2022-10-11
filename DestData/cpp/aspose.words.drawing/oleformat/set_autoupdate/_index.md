@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/oleformat/set_autoupdate/
 ---
+## OleFormat.set_AutoUpdate method
+
 
 Setter for Aspose::Words::Drawing::OleFormat::get_AutoUpdate. 
 

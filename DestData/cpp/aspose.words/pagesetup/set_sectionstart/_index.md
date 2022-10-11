@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/set_sectionstart/
 ---
+## PageSetup.set_SectionStart method
+
 
 Setter for Aspose::Words::PageSetup::get_SectionStart. 
 

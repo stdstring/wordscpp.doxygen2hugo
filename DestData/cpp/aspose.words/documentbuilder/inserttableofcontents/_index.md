@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/inserttableofcontents/
 ---
+## DocumentBuilder.InsertTableOfContents method
+
 
 Inserts a TOC (table of contents) field into the document. 
 

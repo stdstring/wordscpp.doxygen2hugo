@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraph/insertfield/
 ---
+## Paragraph.InsertField method
+
 
 Inserts a field into this paragraph. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraph/insertfield/
 ---
+## Paragraph.InsertField method
+
 
 Inserts a field into this paragraph. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraph/insertfield/
 ---
+## Paragraph.InsertField method
+
 
 Inserts a field into this paragraph. 
 

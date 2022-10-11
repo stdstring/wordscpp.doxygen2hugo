@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/sdtlistitemcollection/idx_get/
 ---
+## SdtListItemCollection.idx_get method
+
 
 Returns a SdtListItem object given its zero-based index in the collection. 
 

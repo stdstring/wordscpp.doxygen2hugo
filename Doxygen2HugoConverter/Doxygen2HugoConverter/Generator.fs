@@ -135,8 +135,8 @@ let createMethodEntry (folderName: string) (briefDescription: string) (methodDef
         "explicit " |> builder.Append |> ignore
     if methodDef.IsStatic then
         "static " |> builder.Append |> ignore
-    let returnTypeRepresentation = methodDef.ReturnType |> generateTypeRepresentation
-    sprintf $"{returnTypeRepresentation} " |> builder.Append |> ignore
+    //let returnTypeRepresentation = methodDef.ReturnType |> generateTypeRepresentation
+    //sprintf $"{returnTypeRepresentation} " |> builder.Append |> ignore
     sprintf $"./{folderName}/" |> generateLink methodDef.Name |> builder.Append |> ignore
     "(" |> builder.Append |> ignore
     methodDef.Parameters |> generateParameterList builder
@@ -155,6 +155,7 @@ let generateForDirectMethod (parentDirectory: string) (parentUrl: string) (metho
     let builder = new StringBuilder()
     let descriptionForTitle = methodDef.Description |> generateBriefDescriptionForTitle
     builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
+    builder |> generateHeader (sprintf $"{methodDef.ClassName}.{methodDef.Name} method") 2
     let briefDescription = methodDef.Description |> generateBriefDescription
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore

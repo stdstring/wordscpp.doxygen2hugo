@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/gradientstopcollection/remove/
 ---
+## GradientStopCollection.Remove method
+
 
 Removes a specified GradientStop from the collection. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/documentproperty/toint/
 ---
+## DocumentProperty.ToInt method
+
 
 Returns the property value as integer. 
 

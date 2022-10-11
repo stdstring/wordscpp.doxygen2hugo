@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldfilesize/get_isinkilobytes/
 ---
+## FieldFileSize.get_IsInKilobytes method
+
 
 Gets or sets whether to display the file size in kilobytes. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_saveformat/
 ---
+## HtmlFixedSaveOptions.set_SaveFormat method
+
 
 Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveFormat. 
 

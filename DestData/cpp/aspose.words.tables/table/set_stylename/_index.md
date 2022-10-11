@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/set_stylename/
 ---
+## Table.set_StyleName method
+
 
 Setter for Aspose::Words::Tables::Table::get_StyleName. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbaproject/set_name/
 ---
+## VbaProject.set_Name method
+
 
 Setter for Aspose::Words::Vba::VbaProject::get_Name. 
 

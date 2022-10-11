@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/get_tabposition/
 ---
+## ListLevel.get_TabPosition method
+
 
 Returns or sets the tab position (in points) for the list level. 
 

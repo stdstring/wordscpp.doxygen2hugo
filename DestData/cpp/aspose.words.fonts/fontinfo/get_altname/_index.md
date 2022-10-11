@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontinfo/get_altname/
 ---
+## FontInfo.get_AltName method
+
 
 Gets or sets the alternate name for the font. 
 

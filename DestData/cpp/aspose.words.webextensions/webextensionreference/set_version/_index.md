@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/webextensionreference/set_version/
 ---
+## WebExtensionReference.set_Version method
+
 
 Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Version. 
 

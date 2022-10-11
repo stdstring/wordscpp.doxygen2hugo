@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpropertycollection/remove/
 ---
+## CustomXmlPropertyCollection.Remove method
+
 
 Removes a property with the specified name from the collection. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/get_color2/
 ---
+## Stroke.get_Color2 method
+
 
 Defines a second color for a stroke. 
 

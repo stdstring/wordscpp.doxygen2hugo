@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontsubstitutionrule/set_enabled/
 ---
+## FontSubstitutionRule.set_Enabled method
+
 
 Setter for Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/convertutil/pointtopixel/
 ---
+## ConvertUtil.PointToPixel method
+
 
 Converts points to pixels at 96 dpi. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/convertutil/pointtopixel/
 ---
+## ConvertUtil.PointToPixel method
+
 
 Converts points to pixels at the specified pixel resolution. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tabstopcollection/add/
 ---
+## TabStopCollection.Add method
+
 
 Adds or replaces a tab stop in the collection. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tabstopcollection/add/
 ---
+## TabStopCollection.Add method
+
 
 Adds or replaces a tab stop in the collection. 
 

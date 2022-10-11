@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/cellformat/get_verticalmerge/
 ---
+## CellFormat.get_VerticalMerge method
+
 
 Specifies how the cell is merged with other cells vertically. 
 

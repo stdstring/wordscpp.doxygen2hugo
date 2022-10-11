@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesaveoptions/get_imagecontrast/
 ---
+## ImageSaveOptions.get_ImageContrast method
+
 
 Gets or sets the contrast for the generated images. 
 

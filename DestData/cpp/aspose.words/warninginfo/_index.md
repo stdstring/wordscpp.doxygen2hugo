@@ -15,6 +15,6 @@ Contains information about a warning that Aspose.Words issued during document lo
 
 | Method | Description |
 | --- | --- |
-| System::String [get_Description](./get_description/)() const | Returns the description of the warning.  |
-| Aspose::Words::WarningSource [get_Source](./get_source/)() const | Returns the source of the warning.  |
-| Aspose::Words::WarningType [get_WarningType](./get_warningtype/)() const | Returns the type of the warning.  |
+| [get_Description](./get_description/)() const | Returns the description of the warning.  |
+| [get_Source](./get_source/)() const | Returns the source of the warning.  |
+| [get_WarningType](./get_warningtype/)() const | Returns the type of the warning.  |

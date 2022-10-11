@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/clone/
 ---
+## Document.Clone method
+
 
 Performs a deep copy of the Document. 
 

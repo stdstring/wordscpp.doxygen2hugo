@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/compositenode/selectnodes/
 ---
+## CompositeNode.SelectNodes method
+
 
 Selects a list of nodes matching the XPath expression. 
 

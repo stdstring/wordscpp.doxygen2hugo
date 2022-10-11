@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/imagewatermarkoptions/set_scale/
 ---
+## ImageWatermarkOptions.set_Scale method
+
 
 Setter for Aspose::Words::ImageWatermarkOptions::get_Scale. 
 

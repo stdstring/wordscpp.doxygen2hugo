@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pssaveoptions/pssaveoptions/
 ---
+## PsSaveOptions.PsSaveOptions method
+
 
 
 

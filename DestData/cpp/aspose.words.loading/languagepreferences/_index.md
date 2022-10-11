@@ -15,8 +15,8 @@ Allows to set up language preferences.
 
 | Method | Description |
 | --- | --- |
-|  [LanguagePreferences](./languagepreferences/)() |  |
-| void [AddEditingLanguage](./addeditinglanguage/)(Aspose::Words::Loading::EditingLanguage) | Adds additional editing language.  |
-| void [AddEditingLanguages](./addeditinglanguages/)(const System::ArrayPtr< Aspose::Words::Loading::EditingLanguage > &) | Adds additional editing languages.  |
-| Aspose::Words::Loading::EditingLanguage [get_DefaultEditingLanguage](./get_defaulteditinglanguage/)() const | Gets or sets default editing language. The default value is EnglishUS.  |
-| void [set_DefaultEditingLanguage](./set_defaulteditinglanguage/)(Aspose::Words::Loading::EditingLanguage) | Setter for Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage.  |
+| [LanguagePreferences](./languagepreferences/)() |  |
+| [AddEditingLanguage](./addeditinglanguage/)(Aspose::Words::Loading::EditingLanguage) | Adds additional editing language.  |
+| [AddEditingLanguages](./addeditinglanguages/)(const System::ArrayPtr< Aspose::Words::Loading::EditingLanguage > &) | Adds additional editing languages.  |
+| [get_DefaultEditingLanguage](./get_defaulteditinglanguage/)() const | Gets or sets default editing language. The default value is EnglishUS.  |
+| [set_DefaultEditingLanguage](./set_defaulteditinglanguage/)(Aspose::Words::Loading::EditingLanguage) | Setter for Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage.  |

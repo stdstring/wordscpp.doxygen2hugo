@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/set_linestyle/
 ---
+## Stroke.set_LineStyle method
+
 
 Setter for Aspose::Words::Drawing::Stroke::get_LineStyle. 
 

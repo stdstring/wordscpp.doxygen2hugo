@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbase/importnode/
 ---
+## DocumentBase.ImportNode method
+
 
 Imports a node from another document to the current document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbase/importnode/
 ---
+## DocumentBase.ImportNode method
+
 
 Imports a node from another document to the current document with an option to control formatting. 
 

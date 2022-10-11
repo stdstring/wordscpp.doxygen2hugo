@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentvisitor/visitsectionend/
 ---
+## DocumentVisitor.VisitSectionEnd method
+
 
 Called when enumeration of a section has ended. 
 

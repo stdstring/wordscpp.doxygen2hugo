@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mailmerge/deletefields/
 ---
+## MailMerge.DeleteFields method
+
 
 Removes mail merge related fields from the document. 
 

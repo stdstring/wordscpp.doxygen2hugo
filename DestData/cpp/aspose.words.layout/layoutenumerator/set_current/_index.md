@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/set_current/
 ---
+## LayoutEnumerator.set_Current method
+
 
 Setter for Aspose::Words::Layout::LayoutEnumerator::get_Current. 
 

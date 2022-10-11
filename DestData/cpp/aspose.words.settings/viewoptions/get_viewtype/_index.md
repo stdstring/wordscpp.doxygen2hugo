@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/viewoptions/get_viewtype/
 ---
+## ViewOptions.get_ViewType method
+
 
 Controls the view mode in Microsoft Word. 
 

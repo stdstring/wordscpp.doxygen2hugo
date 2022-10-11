@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorefootnotes/
 ---
+## CompareOptions.get_IgnoreFootnotes method
+
 
 Specifies whether to compare differences in footnotes and endnotes. By default footnotes are not ignored. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/xmlmapping/get_prefixmappings/
 ---
+## XmlMapping.get_PrefixMappings method
+
 
 Returns XML namespace prefix mappings to evaluate the XPath. 
 

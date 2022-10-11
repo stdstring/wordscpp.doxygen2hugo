@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolder/
 ---
+## HtmlSaveOptions.set_FontsFolder method
+
 
 Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder. 
 

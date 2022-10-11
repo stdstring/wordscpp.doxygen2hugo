@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_reason/
 ---
+## PdfDigitalSignatureDetails.get_Reason method
+
 
 Gets or sets the reason for the signing. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/textbox/breakforwardlink/
 ---
+## TextBox.BreakForwardLink method
+
 
 Breaks the link to the next TextBox. 
 

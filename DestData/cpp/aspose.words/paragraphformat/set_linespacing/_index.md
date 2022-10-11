@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraphformat/set_linespacing/
 ---
+## ParagraphFormat.set_LineSpacing method
+
 
 Setter for Aspose::Words::ParagraphFormat::get_LineSpacing. 
 

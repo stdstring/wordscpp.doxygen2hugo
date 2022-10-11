@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odso/get_firstrowcontainscolumnnames/
 ---
+## Odso.get_FirstRowContainsColumnNames method
+
 
 Specifies that a hosting application shall treat the first row of data in the specified external data source as a header row containing the names of each column in the data source. The default value is **false**. 
 

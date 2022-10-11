@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnote/accept/
 ---
+## Footnote.Accept method
+
 
 Accepts a visitor. 
 

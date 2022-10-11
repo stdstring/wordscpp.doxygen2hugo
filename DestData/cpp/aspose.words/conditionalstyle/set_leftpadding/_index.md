@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstyle/set_leftpadding/
 ---
+## ConditionalStyle.set_LeftPadding method
+
 
 Setter for Aspose::Words::ConditionalStyle::get_LeftPadding. 
 

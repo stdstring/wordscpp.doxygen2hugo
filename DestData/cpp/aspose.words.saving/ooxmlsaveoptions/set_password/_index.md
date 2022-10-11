@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_password/
 ---
+## OoxmlSaveOptions.set_Password method
+
 
 Setter for Aspose::Words::Saving::OoxmlSaveOptions::get_Password. 
 

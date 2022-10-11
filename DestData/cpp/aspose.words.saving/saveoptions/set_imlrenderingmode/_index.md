@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/saveoptions/set_imlrenderingmode/
 ---
+## SaveOptions.set_ImlRenderingMode method
+
 
 Setter for Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode. 
 

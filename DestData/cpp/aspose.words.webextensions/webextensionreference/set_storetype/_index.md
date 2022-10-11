@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/webextensionreference/set_storetype/
 ---
+## WebExtensionReference.set_StoreType method
+
 
 Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/editablerange/get_singleuser/
 ---
+## EditableRange.get_SingleUser method
+
 
 Returns or sets the single user for editable range. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_contenttype/
 ---
+## BuiltInDocumentProperties.get_ContentType method
+
 
 Gets or sets the ContentStatus of the document. 
 

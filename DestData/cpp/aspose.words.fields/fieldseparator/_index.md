@@ -15,5 +15,5 @@ Represents a Word field separator that separates the field code from the field r
 
 | Method | Description |
 | --- | --- |
-| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| Aspose::Words::NodeType [get_NodeType](./get_nodetype/)() const override | Returns FieldSeparator.  |
+| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [get_NodeType](./get_nodetype/)() const override | Returns FieldSeparator.  |

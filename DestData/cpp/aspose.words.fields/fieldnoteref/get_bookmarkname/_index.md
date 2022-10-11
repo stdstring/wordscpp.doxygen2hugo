@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldnoteref/get_bookmarkname/
 ---
+## FieldNoteRef.get_BookmarkName method
+
 
 Gets or sets the name of the bookmark. 
 

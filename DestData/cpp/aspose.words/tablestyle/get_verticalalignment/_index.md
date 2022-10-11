@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tablestyle/get_verticalalignment/
 ---
+## TableStyle.get_VerticalAlignment method
+
 
 Specifies the vertical alignment for the cells. 
 

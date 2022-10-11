@@ -15,5 +15,5 @@ This is an abstract base class for the font substitution rule.
 
 | Method | Description |
 | --- | --- |
-| virtual bool [get_Enabled](./get_enabled/)() | Specifies whether the rule is enabled or not.  |
-| virtual void [set_Enabled](./set_enabled/)(bool) | Setter for Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled.  |
+| virtual [get_Enabled](./get_enabled/)() | Specifies whether the rule is enabled or not.  |
+| virtual [set_Enabled](./set_enabled/)(bool) | Setter for Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled.  |

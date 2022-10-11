@@ -15,4 +15,4 @@ Implement this interface if you want to control how Aspose.Words saves external 
 
 | Method | Description |
 | --- | --- |
-| virtual void [ResourceSaving](./resourcesaving/)(System::SharedPtr< Aspose::Words::Saving::ResourceSavingArgs >) | Called when Aspose.Words saves an external resource to fixed page HTML or SVG formats.  |
+| virtual [ResourceSaving](./resourcesaving/)(System::SharedPtr< Aspose::Words::Saving::ResourceSavingArgs >) | Called when Aspose.Words saves an external resource to fixed page HTML or SVG formats.  |

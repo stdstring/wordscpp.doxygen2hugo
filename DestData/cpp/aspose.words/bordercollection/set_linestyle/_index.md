@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/set_linestyle/
 ---
+## BorderCollection.set_LineStyle method
+
 
 Setter for Aspose::Words::BorderCollection::get_LineStyle. 
 

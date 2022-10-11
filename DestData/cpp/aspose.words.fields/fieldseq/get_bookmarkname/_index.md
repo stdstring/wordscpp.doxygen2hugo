@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldseq/get_bookmarkname/
 ---
+## FieldSeq.get_BookmarkName method
+
 
 Gets or sets a bookmark name that refers to an item elsewhere in the document rather than in the current location. 
 

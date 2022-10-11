@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/documentpropertycollection/get_count/
 ---
+## DocumentPropertyCollection.get_Count method
+
 
 Gets number of items in the collection. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/adjustwitheffects/
 ---
+## ShapeBase.AdjustWithEffects method
+
 
 Adds to the source rectangle values of the effect extent and returns the final rectangle. 
 

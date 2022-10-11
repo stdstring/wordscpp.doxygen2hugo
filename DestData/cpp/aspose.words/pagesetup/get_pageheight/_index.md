@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_pageheight/
 ---
+## PageSetup.get_PageHeight method
+
 
 Returns or sets the height of the page in points. 
 

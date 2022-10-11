@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraph/get_isincell/
 ---
+## Paragraph.get_IsInCell method
+
 
 True if this paragraph is an immediate child of Cell; false otherwise. 
 

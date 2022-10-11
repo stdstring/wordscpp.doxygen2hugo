@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/get_visible/
 ---
+## Stroke.get_Visible method
+
 
 Gets or sets a flag indicating whether the stroke is visible. 
 

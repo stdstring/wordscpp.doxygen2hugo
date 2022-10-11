@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/get_relativeverticalalignment/
 ---
+## Table.get_RelativeVerticalAlignment method
+
 
 Gets or sets floating table relative vertical alignment. 
 

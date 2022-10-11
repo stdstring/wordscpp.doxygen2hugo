@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tablestyle/set_columnstripe/
 ---
+## TableStyle.set_ColumnStripe method
+
 
 Setter for Aspose::Words::TableStyle::get_ColumnStripe. 
 

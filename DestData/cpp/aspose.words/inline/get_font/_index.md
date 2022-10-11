@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/inline/get_font/
 ---
+## Inline.get_Font method
+
 
 Provides access to the font formatting of this object. 
 

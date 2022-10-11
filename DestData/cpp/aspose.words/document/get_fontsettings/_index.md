@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_fontsettings/
 ---
+## Document.get_FontSettings method
+
 
 Gets or sets document font settings. 
 

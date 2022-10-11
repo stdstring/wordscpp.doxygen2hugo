@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_metafilerenderingoptions/
 ---
+## FixedPageSaveOptions.set_MetafileRenderingOptions method
+
 
 Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/style/get_styleidentifier/
 ---
+## Style.get_StyleIdentifier method
+
 
 Gets the locale independent style identifier for a built-in style. 
 

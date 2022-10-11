@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/get_currentsection/
 ---
+## DocumentBuilder.get_CurrentSection method
+
 
 Gets the section that is currently selected in this DocumentBuilder. 
 

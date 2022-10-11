@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstylecollection/idx_get/
 ---
+## ConditionalStyleCollection.idx_get method
+
 
 Retrieves a ConditionalStyle object by conditional style type. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstylecollection/idx_get/
 ---
+## ConditionalStyleCollection.idx_get method
+
 
 Retrieves a ConditionalStyle object by index. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldref/get_insertparagraphnumberinfullcontext/
 ---
+## FieldRef.get_InsertParagraphNumberInFullContext method
+
 
 Gets or sets whether to insert the paragraph number of the referenced paragraph in full context. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartmarker/get_format/
 ---
+## ChartMarker.get_Format method
+
 
 Provides access to fill and line formatting of this marker. 
 

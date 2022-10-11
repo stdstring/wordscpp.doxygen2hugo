@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldchar/getfield/
 ---
+## FieldChar.GetField method
+
 
 Returns a field for the field char. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbamodulecollection/idx_get/
 ---
+## VbaModuleCollection.idx_get method
+
 
 Retrieves a VbaModule object by name, or Null if not found. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbamodulecollection/idx_get/
 ---
+## VbaModuleCollection.idx_get method
+
 
 Retrieves a VbaModule object by index. 
 

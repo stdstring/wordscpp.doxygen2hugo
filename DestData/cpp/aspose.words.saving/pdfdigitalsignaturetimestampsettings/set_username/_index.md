@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_username/
 ---
+## PdfDigitalSignatureTimestampSettings.set_UserName method
+
 
 Timestamp server user name. 
 

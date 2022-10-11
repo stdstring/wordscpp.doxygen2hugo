@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/clearshading/
 ---
+## Table.ClearShading method
+
 
 Removes all shading on the table. 
 

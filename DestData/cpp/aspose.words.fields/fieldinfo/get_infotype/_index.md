@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldinfo/get_infotype/
 ---
+## FieldInfo.get_InfoType method
+
 
 Gets or sets the type of the document property to insert. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_resolvefontnames/
 ---
+## HtmlSaveOptions.get_ResolveFontNames method
+
 
 Specifies whether font family names used in the document are resolved and substituted according to FontSettings when being written into HTML-based formats. 
 

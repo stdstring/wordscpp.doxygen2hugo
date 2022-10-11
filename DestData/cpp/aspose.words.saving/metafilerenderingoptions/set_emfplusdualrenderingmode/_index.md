@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/metafilerenderingoptions/set_emfplusdualrenderingmode/
 ---
+## MetafileRenderingOptions.set_EmfPlusDualRenderingMode method
+
 
 Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_EmfPlusDualRenderingMode. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstyle/get_rightpadding/
 ---
+## ConditionalStyle.get_RightPadding method
+
 
 Gets or sets the amount of space (in points) to add to the right of the contents of table cells. 
 

@@ -15,7 +15,7 @@ Represents all TrueType fonts installed to the system.
 
 | Method | Description |
 | --- | --- |
-|  [SystemFontSource](./systemfontsource/)() | Ctor.  |
-|  [SystemFontSource](./systemfontsource/)(int32_t) | Ctor.  |
-| Aspose::Words::Fonts::FontSourceType [get_Type](./get_type/)() override | Returns the type of the font source.  |
-| static System::ArrayPtr< System::String > [GetSystemFontFolders](./getsystemfontfolders/)() | Returns system font folders or empty array if folders are not accessible.  |
+| [SystemFontSource](./systemfontsource/)() | Ctor.  |
+| [SystemFontSource](./systemfontsource/)(int32_t) | Ctor.  |
+| [get_Type](./get_type/)() override | Returns the type of the font source.  |
+| static [GetSystemFontFolders](./getsystemfontfolders/)() | Returns system font folders or empty array if folders are not accessible.  |

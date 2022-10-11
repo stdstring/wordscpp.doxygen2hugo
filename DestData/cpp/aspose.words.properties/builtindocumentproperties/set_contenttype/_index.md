@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_contenttype/
 ---
+## BuiltInDocumentProperties.set_ContentType method
+
 
 Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType. 
 

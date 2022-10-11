@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/revisionoptions/get_movedfromtextcolor/
 ---
+## RevisionOptions.get_MovedFromTextColor method
+
 
 Allows to specify the color to be used for areas where content was moved from Moving. Default value is ByAuthor. 
 

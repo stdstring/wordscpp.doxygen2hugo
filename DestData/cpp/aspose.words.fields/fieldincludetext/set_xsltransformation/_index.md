@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldincludetext/set_xsltransformation/
 ---
+## FieldIncludeText.set_XslTransformation method
+
 
 Setter for Aspose::Words::Fields::FieldIncludeText::get_XslTransformation. 
 

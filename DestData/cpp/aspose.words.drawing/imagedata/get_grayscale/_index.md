@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/get_grayscale/
 ---
+## ImageData.get_GrayScale method
+
 
 Determines whether a picture will display in grayscale mode. 
 

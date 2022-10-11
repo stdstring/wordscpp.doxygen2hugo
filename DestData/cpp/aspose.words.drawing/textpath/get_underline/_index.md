@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/textpath/get_underline/
 ---
+## TextPath.get_Underline method
+
 
 True if the font is underlined. 
 

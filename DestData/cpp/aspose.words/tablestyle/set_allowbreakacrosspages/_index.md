@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tablestyle/set_allowbreakacrosspages/
 ---
+## TableStyle.set_AllowBreakAcrossPages method
+
 
 Setter for Aspose::Words::TableStyle::get_AllowBreakAcrossPages. 
 

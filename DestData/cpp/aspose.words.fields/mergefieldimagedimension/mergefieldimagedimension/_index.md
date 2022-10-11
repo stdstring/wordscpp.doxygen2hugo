@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/mergefieldimagedimension/mergefieldimagedimension/
 ---
+## MergeFieldImageDimension.MergeFieldImageDimension method
+
 
 Creates an image dimension instance with the given value in points. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/mergefieldimagedimension/mergefieldimagedimension/
 ---
+## MergeFieldImageDimension.MergeFieldImageDimension method
+
 
 Creates an image dimension instance with the given value and the given unit. 
 

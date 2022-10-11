@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/oleformat/get_islocked/
 ---
+## OleFormat.get_IsLocked method
+
 
 Specifies whether the link to the OLE object is locked from updates. 
 

@@ -15,4 +15,4 @@ Implement this interface if you want to control how Aspose.Words saves separate 
 
 | Method | Description |
 | --- | --- |
-| virtual void [PageSaving](./pagesaving/)(System::SharedPtr< Aspose::Words::Saving::PageSavingArgs >) | Called when Aspose.Words saves a separate page to fixed page formats.  |
+| virtual [PageSaving](./pagesaving/)(System::SharedPtr< Aspose::Words::Saving::PageSavingArgs >) | Called when Aspose.Words saves a separate page to fixed page formats.  |

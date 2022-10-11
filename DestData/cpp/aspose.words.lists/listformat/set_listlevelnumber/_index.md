@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listformat/set_listlevelnumber/
 ---
+## ListFormat.set_ListLevelNumber method
+
 
 Setter for Aspose::Words::Lists::ListFormat::get_ListLevelNumber. 
 

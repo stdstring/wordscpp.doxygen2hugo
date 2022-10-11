@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_writeprotection/
 ---
+## Document.get_WriteProtection method
+
 
 Provides access to the document write protection options. 
 

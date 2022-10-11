@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldinclude/set_textconverter/
 ---
+## FieldInclude.set_TextConverter method
+
 
 Setter for Aspose::Words::Fields::FieldInclude::get_TextConverter. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/get_wrapside/
 ---
+## ShapeBase.get_WrapSide method
+
 
 Specifies how the text is wrapped around the shape. 
 

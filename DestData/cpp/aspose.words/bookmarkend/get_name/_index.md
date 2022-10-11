@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkend/get_name/
 ---
+## BookmarkEnd.get_Name method
+
 
 Gets or sets the bookmark name. 
 

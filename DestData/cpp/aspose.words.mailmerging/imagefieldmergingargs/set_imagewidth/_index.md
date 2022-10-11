@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imagewidth/
 ---
+## ImageFieldMergingArgs.set_ImageWidth method
+
 
 Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth. 
 

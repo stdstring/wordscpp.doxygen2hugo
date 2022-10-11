@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_cachedcolbalance/
 ---
+## CompatibilityOptions.get_CachedColBalance method
+
 
 Use Cached Paragraph Information for Column Balancing. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmark/get_text/
 ---
+## Bookmark.get_Text method
+
 
 Gets or sets the text enclosed in the bookmark. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldcompare/set_rightexpression/
 ---
+## FieldCompare.set_RightExpression method
+
 
 Setter for Aspose::Words::Fields::FieldCompare::get_RightExpression. 
 

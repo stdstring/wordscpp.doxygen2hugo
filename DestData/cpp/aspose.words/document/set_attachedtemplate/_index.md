@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/set_attachedtemplate/
 ---
+## Document.set_AttachedTemplate method
+
 
 Setter for Aspose::Words::Document::get_AttachedTemplate. 
 

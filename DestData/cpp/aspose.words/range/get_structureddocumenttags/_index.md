@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/range/get_structureddocumenttags/
 ---
+## Range.get_StructuredDocumentTags method
+
 
 Returns a StructuredDocumentTags collection that represents all structured document tags in the range. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/get_zorder/
 ---
+## ShapeBase.get_ZOrder method
+
 
 Determines the display order of overlapping shapes. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/node/get_parentnode/
 ---
+## Node.get_ParentNode method
+
 
 Gets the immediate parent of this node. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentvisitor/visitshapestart/
 ---
+## DocumentVisitor.VisitShapeStart method
+
 
 Called when enumeration of a shape has started. 
 

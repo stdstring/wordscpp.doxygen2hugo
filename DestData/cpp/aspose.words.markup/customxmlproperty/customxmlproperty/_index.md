@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlproperty/customxmlproperty/
 ---
+## CustomXmlProperty.CustomXmlProperty method
+
 
 Initializes a new instance of this class. 
 

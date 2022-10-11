@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldindex/set_pagenumberlistseparator/
 ---
+## FieldIndex.set_PageNumberListSeparator method
+
 
 Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberListSeparator. 
 

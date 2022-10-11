@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldprint/set_postscriptgroup/
 ---
+## FieldPrint.set_PostScriptGroup method
+
 
 Setter for Aspose::Words::Fields::FieldPrint::get_PostScriptGroup. 
 

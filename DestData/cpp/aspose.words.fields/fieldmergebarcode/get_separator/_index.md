@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldmergebarcode/get_separator/
 ---
+## FieldMergeBarcode.get_Separator method
+
 
 Gets the node that represents the field separator. Can be null. 
 

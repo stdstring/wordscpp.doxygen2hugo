@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevelcollection/get_count/
 ---
+## ListLevelCollection.get_Count method
+
 
 Gets the number of levels in this list. 
 

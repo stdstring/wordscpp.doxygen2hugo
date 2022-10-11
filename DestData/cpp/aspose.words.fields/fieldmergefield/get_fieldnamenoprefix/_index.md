@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldmergefield/get_fieldnamenoprefix/
 ---
+## FieldMergeField.get_FieldNameNoPrefix method
+
 
 Returns just the name of the data field. Any prefix is stripped to the prefix property. 
 

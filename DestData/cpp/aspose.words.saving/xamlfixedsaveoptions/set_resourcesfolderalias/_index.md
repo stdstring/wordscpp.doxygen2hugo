@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesfolderalias/
 ---
+## XamlFixedSaveOptions.set_ResourcesFolderAlias method
+
 
 Setter for Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias. 
 

@@ -15,4 +15,4 @@ Provides methods to render an individual OfficeMath to a raster or vector image 
 
 | Method | Description |
 | --- | --- |
-|  [OfficeMathRenderer](./officemathrenderer/)(const System::SharedPtr< Aspose::Words::Math::OfficeMath > &) | Initializes a new instance of this class.  |
+| [OfficeMathRenderer](./officemathrenderer/)(const System::SharedPtr< Aspose::Words::Math::OfficeMath > &) | Initializes a new instance of this class.  |

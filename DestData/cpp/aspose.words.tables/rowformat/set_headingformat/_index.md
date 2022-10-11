@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/rowformat/set_headingformat/
 ---
+## RowFormat.set_HeadingFormat method
+
 
 Setter for Aspose::Words::Tables::RowFormat::get_HeadingFormat. 
 

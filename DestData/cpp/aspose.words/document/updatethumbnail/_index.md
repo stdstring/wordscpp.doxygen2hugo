@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/updatethumbnail/
 ---
+## Document.UpdateThumbnail method
+
 
 Updates Thumbnail of the document using default options. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/updatethumbnail/
 ---
+## Document.UpdateThumbnail method
+
 
 Updates Thumbnail of the document according to the specified options. 
 

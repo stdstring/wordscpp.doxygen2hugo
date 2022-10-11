@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldtoa/set_sequencename/
 ---
+## FieldToa.set_SequenceName method
+
 
 Setter for Aspose::Words::Fields::FieldToa::get_SequenceName. 
 

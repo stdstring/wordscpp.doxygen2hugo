@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldadvance/set_horizontalposition/
 ---
+## FieldAdvance.set_HorizontalPosition method
+
 
 Setter for Aspose::Words::Fields::FieldAdvance::get_HorizontalPosition. 
 

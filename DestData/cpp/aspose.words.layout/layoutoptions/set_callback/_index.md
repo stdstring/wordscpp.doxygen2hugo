@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutoptions/set_callback/
 ---
+## LayoutOptions.set_Callback method
+
 
 Sets IPageLayoutCallback implementation used by page layout model. 
 

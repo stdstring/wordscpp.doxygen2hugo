@@ -15,5 +15,5 @@ Default font substitution rule.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_DefaultFontName](./get_defaultfontname/)() | Gets or sets the default font name.  |
-| void [set_DefaultFontName](./set_defaultfontname/)(const System::String &) | Setter for Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName.  |
+| [get_DefaultFontName](./get_defaultfontname/)() | Gets or sets the default font name.  |
+| [set_DefaultFontName](./set_defaultfontname/)(const System::String &) | Setter for Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName.  |

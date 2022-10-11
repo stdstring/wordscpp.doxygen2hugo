@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/get_islinkonly/
 ---
+## ImageData.get_IsLinkOnly method
+
 
 Returns true if the image is linked and not stored in the document. 
 

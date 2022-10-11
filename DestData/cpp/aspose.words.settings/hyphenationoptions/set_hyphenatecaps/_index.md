@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/hyphenationoptions/set_hyphenatecaps/
 ---
+## HyphenationOptions.set_HyphenateCaps method
+
 
 Setter for Aspose::Words::Settings::HyphenationOptions::get_HyphenateCaps. 
 

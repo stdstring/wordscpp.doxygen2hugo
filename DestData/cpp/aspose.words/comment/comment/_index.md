@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/comment/comment/
 ---
+## Comment.Comment method
+
 
 Initializes a new instance of the **Comment** class. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/comment/comment/
 ---
+## Comment.Comment method
+
 
 Initializes a new instance of the **Comment** class. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/get_trailingcharacter/
 ---
+## ListLevel.get_TrailingCharacter method
+
 
 Returns or sets the character inserted after the number for the list level. 
 

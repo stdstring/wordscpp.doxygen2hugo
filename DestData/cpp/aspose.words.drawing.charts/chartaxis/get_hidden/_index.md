@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_hidden/
 ---
+## ChartAxis.get_Hidden method
+
 
 Gets or sets a flag indicating whether this axis is hidden or not. 
 

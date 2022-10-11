@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotusehtmlparagraphautospacing/
 ---
+## CompatibilityOptions.get_DoNotUseHTMLParagraphAutoSpacing method
+
 
 Use Fixed Paragraph Spacing for HTML Auto Setting. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/iresourceloadingcallback/resourceloading/
 ---
+## IResourceLoadingCallback.ResourceLoading method
+
 
 Called when Aspose.Words loads any external resource. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_imagesavingcallback/
 ---
+## XamlFlowSaveOptions.set_ImageSavingCallback method
+
 
 Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_ImageSavingCallback. 
 

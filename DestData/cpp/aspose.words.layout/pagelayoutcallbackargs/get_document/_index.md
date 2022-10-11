@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_document/
 ---
+## PageLayoutCallbackArgs.get_Document method
+
 
 Gets document. 
 

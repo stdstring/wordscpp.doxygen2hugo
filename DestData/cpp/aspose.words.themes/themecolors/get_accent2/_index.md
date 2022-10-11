@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themecolors/get_accent2/
 ---
+## ThemeColors.get_Accent2 method
+
 
 Specifies color Accent 2. 
 

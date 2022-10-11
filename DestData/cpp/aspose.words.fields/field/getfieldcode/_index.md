@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/field/getfieldcode/
 ---
+## Field.GetFieldCode method
+
 
 Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/field/getfieldcode/
 ---
+## Field.GetFieldCode method
+
 
 Returns text between field start and field separator (or field end if there is no separator). 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotbreakconstrainedforcedtable/
 ---
+## CompatibilityOptions.set_DoNotBreakConstrainedForcedTable method
+
 
 Don't Break Table Rows Around Floating Tables. 
 

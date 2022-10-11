@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraph/get_isendofcell/
 ---
+## Paragraph.get_IsEndOfCell method
+
 
 True if this paragraph is the last paragraph in a Cell; false otherwise. 
 

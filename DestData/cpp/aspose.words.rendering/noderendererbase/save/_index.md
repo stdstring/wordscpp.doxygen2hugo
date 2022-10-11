@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.rendering/noderendererbase/save/
 ---
+## NodeRendererBase.Save method
+
 
 Renders the shape into an image and saves into a stream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.rendering/noderendererbase/save/
 ---
+## NodeRendererBase.Save method
+
 
 Renders the shape into an image and saves into a file. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.rendering/noderendererbase/save/
 ---
+## NodeRendererBase.Save method
+
 
 
 

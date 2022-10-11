@@ -15,5 +15,5 @@ A collection of **Section** objects in the document.
 
 | Method | Description |
 | --- | --- |
-| System::SharedPtr< Aspose::Words::Section > [idx_get](./idx_get/)(int32_t) | Retrieves a section at the given index.  |
-| System::ArrayPtr< System::SharedPtr< Aspose::Words::Section > > [ToArray](./toarray/)() | Copies all sections from the collection to a new array of sections.  |
+| [idx_get](./idx_get/)(int32_t) | Retrieves a section at the given index.  |
+| [ToArray](./toarray/)() | Copies all sections from the collection to a new array of sections.  |

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/nodelist/idx_get/
 ---
+## NodeList.idx_get method
+
 
 Retrieves a node at the given index. 
 

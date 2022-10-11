@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chart/get_axisy/
 ---
+## Chart.get_AxisY method
+
 
 Provides access to properties of the Y axis of the chart. 
 

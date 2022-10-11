@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chart/get_axisz/
 ---
+## Chart.get_AxisZ method
+
 
 Provides access to properties of the Z axis of the chart. 
 

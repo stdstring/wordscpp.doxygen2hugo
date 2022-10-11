@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbaproject/get_references/
 ---
+## VbaProject.get_References method
+
 
 Gets a collection of VBA project references. 
 

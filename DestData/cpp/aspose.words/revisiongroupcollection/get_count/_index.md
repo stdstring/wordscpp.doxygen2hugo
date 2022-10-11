@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/revisiongroupcollection/get_count/
 ---
+## RevisionGroupCollection.get_Count method
+
 
 Returns the number of revision groups in the collection. 
 

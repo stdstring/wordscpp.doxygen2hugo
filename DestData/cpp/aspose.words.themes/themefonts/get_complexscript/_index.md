@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themefonts/get_complexscript/
 ---
+## ThemeFonts.get_ComplexScript method
+
 
 Specifies font name for ComplexScript characters. 
 

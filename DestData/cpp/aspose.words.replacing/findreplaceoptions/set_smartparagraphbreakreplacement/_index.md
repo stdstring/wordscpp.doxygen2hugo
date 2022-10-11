@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_smartparagraphbreakreplacement/
 ---
+## FindReplaceOptions.set_SmartParagraphBreakReplacement method
+
 
 Setter for Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement. 
 

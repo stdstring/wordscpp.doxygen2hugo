@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentsplitcriteria/
 ---
+## HtmlSaveOptions.get_DocumentSplitCriteria method
+
 
 Specifies how the document should be split when saving to Html, Epub or Azw3 format. Default is None for HTML and HeadingParagraph for EPUB and AZW3. 
 

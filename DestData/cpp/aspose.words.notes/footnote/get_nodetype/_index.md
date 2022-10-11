@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnote/get_nodetype/
 ---
+## Footnote.get_NodeType method
+
 
 Returns **NodeType.Footnote**. 
 

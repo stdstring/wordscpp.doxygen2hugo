@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/textbox/set_internalmarginbottom/
 ---
+## TextBox.set_InternalMarginBottom method
+
 
 Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginBottom. 
 

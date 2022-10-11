@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnoteoptions/set_numberstyle/
 ---
+## FootnoteOptions.set_NumberStyle method
+
 
 Setter for Aspose::Words::Notes::FootnoteOptions::get_NumberStyle. 
 

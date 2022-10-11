@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/smarttag/get_properties/
 ---
+## SmartTag.get_Properties method
+
 
 A collection of the smart tag properties. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odsorecipientdata/clone/
 ---
+## OdsoRecipientData.Clone method
+
 
 Returns a deep clone of this object. 
 

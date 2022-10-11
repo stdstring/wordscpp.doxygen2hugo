@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_sections/
 ---
+## BuildingBlock.get_Sections method
+
 
 Returns a collection that represents all sections in the building block. 
 

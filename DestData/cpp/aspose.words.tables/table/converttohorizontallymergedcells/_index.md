@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/converttohorizontallymergedcells/
 ---
+## Table.ConvertToHorizontallyMergedCells method
+
 
 Converts cells horizontally merged by width to cells merged by HorizontalMerge. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_manager/
 ---
+## BuiltInDocumentProperties.get_Manager method
+
 
 Gets or sets the manager property. 
 

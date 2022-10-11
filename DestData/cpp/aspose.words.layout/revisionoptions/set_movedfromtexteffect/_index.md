@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/revisionoptions/set_movedfromtexteffect/
 ---
+## RevisionOptions.set_MovedFromTextEffect method
+
 
 Setter for Aspose::Words::Layout::RevisionOptions::get_MovedFromTextEffect. 
 

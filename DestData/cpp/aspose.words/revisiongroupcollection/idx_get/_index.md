@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/revisiongroupcollection/idx_get/
 ---
+## RevisionGroupCollection.idx_get method
+
 
 Returns a revision group at the specified index. 
 

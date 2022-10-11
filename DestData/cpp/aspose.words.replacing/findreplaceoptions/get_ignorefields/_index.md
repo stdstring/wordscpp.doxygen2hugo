@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignorefields/
 ---
+## FindReplaceOptions.get_IgnoreFields method
+
 
 Gets or sets a boolean value indicating either to ignore text inside fields. The default value is **false**. 
 

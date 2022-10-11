@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnote/get_footnotetype/
 ---
+## Footnote.get_FootnoteType method
+
 
 Returns a value that specifies whether this is a footnote or endnote. 
 

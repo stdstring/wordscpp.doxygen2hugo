@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/moveprevious/
 ---
+## LayoutEnumerator.MovePrevious method
+
 
 Moves to the previous sibling entity. 
 

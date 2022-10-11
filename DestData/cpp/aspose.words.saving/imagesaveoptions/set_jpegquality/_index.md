@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesaveoptions/set_jpegquality/
 ---
+## ImageSaveOptions.set_JpegQuality method
+
 
 Setter for Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality. 
 

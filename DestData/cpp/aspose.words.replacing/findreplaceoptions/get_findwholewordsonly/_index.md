@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_findwholewordsonly/
 ---
+## FindReplaceOptions.get_FindWholeWordsOnly method
+
 
 True indicates the oldValue must be a standalone word. 
 

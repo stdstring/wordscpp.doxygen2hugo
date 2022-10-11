@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/downsampleoptions/get_resolution/
 ---
+## DownsampleOptions.get_Resolution method
+
 
 Specifies the resolution in pixels per inch which the images should be downsampled to. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldrd/get_filename/
 ---
+## FieldRD.get_FileName method
+
 
 Gets or sets the name of the file to include when generating a table of contents, table of authorities, or index. 
 

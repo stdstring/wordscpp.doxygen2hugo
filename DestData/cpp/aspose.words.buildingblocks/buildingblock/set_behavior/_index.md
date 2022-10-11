@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_behavior/
 ---
+## BuildingBlock.set_Behavior method
+
 
 Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Behavior. 
 

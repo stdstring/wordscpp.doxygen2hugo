@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkend/set_name/
 ---
+## BookmarkEnd.set_Name method
+
 
 Setter for Aspose::Words::BookmarkEnd::get_Name. 
 

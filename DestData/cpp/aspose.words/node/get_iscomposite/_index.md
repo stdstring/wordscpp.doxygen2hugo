@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/node/get_iscomposite/
 ---
+## Node.get_IsComposite method
+
 
 Returns true if this node can contain other nodes. 
 

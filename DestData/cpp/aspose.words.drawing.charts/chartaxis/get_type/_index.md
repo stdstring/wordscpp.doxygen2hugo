@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_type/
 ---
+## ChartAxis.get_Type method
+
 
 Returns type of the axis. 
 

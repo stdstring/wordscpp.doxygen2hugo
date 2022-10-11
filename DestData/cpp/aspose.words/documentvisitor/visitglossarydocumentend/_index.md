@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentvisitor/visitglossarydocumentend/
 ---
+## DocumentVisitor.VisitGlossaryDocumentEnd method
+
 
 Called when enumeration of a glossary document has ended. 
 

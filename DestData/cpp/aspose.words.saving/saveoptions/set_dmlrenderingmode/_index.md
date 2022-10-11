@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/saveoptions/set_dmlrenderingmode/
 ---
+## SaveOptions.set_DmlRenderingMode method
+
 
 Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode. 
 

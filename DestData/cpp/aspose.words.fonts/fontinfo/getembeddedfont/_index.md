@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontinfo/getembeddedfont/
 ---
+## FontInfo.GetEmbeddedFont method
+
 
 Gets a specific embedded font file. 
 

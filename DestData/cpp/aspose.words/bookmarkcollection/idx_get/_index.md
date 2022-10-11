@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkcollection/idx_get/
 ---
+## BookmarkCollection.idx_get method
+
 
 Returns a bookmark by name. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkcollection/idx_get/
 ---
+## BookmarkCollection.idx_get method
+
 
 Returns a bookmark at the specified index. 
 

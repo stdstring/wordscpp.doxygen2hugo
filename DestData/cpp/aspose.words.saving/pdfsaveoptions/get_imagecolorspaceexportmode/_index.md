@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_imagecolorspaceexportmode/
 ---
+## PdfSaveOptions.get_ImageColorSpaceExportMode method
+
 
 Specifies how the color space will be selected for the images in PDF document. 
 

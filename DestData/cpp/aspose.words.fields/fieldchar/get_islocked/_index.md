@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldchar/get_islocked/
 ---
+## FieldChar.get_IsLocked method
+
 
 Gets or sets whether the parent field is locked (should not recalculate its result). 
 

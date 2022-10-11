@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/style/get_styles/
 ---
+## Style.get_Styles method
+
 
 Gets the collection of styles this style belongs to. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_headerfooterbookmarksexportmode/
 ---
+## PdfSaveOptions.get_HeaderFooterBookmarksExportMode method
+
 
 Determines how bookmarks in headers/footers are exported. 
 

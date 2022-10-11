@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/clearformatting/
 ---
+## BorderCollection.ClearFormatting method
+
 
 Removes all borders of an object. 
 

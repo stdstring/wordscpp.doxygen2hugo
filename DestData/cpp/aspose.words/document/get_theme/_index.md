@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_theme/
 ---
+## Document.get_Theme method
+
 
 Gets the Theme object for this document. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/patterned/
 ---
+## Fill.Patterned method
+
 
 Sets the specified fill to a pattern. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/patterned/
 ---
+## Fill.Patterned method
+
 
 Sets the specified fill to a pattern. 
 

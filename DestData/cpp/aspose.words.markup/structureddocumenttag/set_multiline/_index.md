@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttag/set_multiline/
 ---
+## StructuredDocumentTag.set_Multiline method
+
 
 Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Multiline. 
 

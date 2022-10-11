@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/get_pattern/
 ---
+## Fill.get_Pattern method
+
 
 Gets a PatternType for the fill. 
 

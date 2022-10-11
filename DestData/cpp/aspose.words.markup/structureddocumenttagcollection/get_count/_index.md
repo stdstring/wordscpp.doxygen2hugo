@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/get_count/
 ---
+## StructuredDocumentTagCollection.get_Count method
+
 
 Returns the number of structured document tags in the collection. 
 

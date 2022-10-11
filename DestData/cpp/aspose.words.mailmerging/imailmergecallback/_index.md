@@ -15,4 +15,4 @@ Implement this interface if you want to receive notifications while mail merge i
 
 | Method | Description |
 | --- | --- |
-| virtual void [TagsReplaced](./tagsreplaced/)() | Called when "mustache" text tags are replaced with MERGEFIELD fields.  |
+| virtual [TagsReplaced](./tagsreplaced/)() | Called when "mustache" text tags are replaced with MERGEFIELD fields.  |

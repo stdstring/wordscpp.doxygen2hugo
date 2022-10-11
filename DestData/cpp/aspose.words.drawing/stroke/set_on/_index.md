@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/set_on/
 ---
+## Stroke.set_On method
+
 
 Setter for Aspose::Words::Drawing::Stroke::get_On. 
 

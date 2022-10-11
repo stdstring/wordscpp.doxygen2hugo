@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpartcollection/add/
 ---
+## CustomXmlPartCollection.Add method
+
 
 Adds an item to the collection. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpartcollection/add/
 ---
+## CustomXmlPartCollection.Add method
+
 
 Creates a new XML part with the specified XML and adds it to the collection. 
 

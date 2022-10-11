@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/gradientstopcollection/idx_set/
 ---
+## GradientStopCollection.idx_set method
+
 
 Gets or sets a GradientStop object in the collection. 
 

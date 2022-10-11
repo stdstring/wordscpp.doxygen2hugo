@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldauthor/get_authorname/
 ---
+## FieldAuthor.get_AuthorName method
+
 
 Gets or sets the document author's name. 
 

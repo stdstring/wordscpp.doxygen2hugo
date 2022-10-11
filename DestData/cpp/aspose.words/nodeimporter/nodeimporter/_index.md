@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/nodeimporter/nodeimporter/
 ---
+## NodeImporter.NodeImporter method
+
 
 Initializes a new instance of the NodeImporter class. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/nodeimporter/nodeimporter/
 ---
+## NodeImporter.NodeImporter method
+
 
 Initializes a new instance of the NodeImporter class. 
 

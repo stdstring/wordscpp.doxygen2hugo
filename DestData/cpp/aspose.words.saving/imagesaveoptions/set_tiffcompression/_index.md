@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesaveoptions/set_tiffcompression/
 ---
+## ImageSaveOptions.set_TiffCompression method
+
 
 Setter for Aspose::Words::Saving::ImageSaveOptions::get_TiffCompression. 
 

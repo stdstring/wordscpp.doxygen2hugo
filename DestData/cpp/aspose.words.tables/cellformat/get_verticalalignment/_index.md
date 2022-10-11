@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/cellformat/get_verticalalignment/
 ---
+## CellFormat.get_VerticalAlignment method
+
 
 Returns or sets the vertical alignment of text in the cell. 
 

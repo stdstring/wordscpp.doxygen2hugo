@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/save/
 ---
+## ImageData.Save method
+
 
 Saves the image into the specified stream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/save/
 ---
+## ImageData.Save method
+
 
 Saves the image into a file. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/save/
 ---
+## ImageData.Save method
+
 
 
 

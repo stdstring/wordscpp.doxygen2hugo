@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/sdtlistitemcollection/removeat/
 ---
+## SdtListItemCollection.RemoveAt method
+
 
 Removes a list item at the specified index. 
 

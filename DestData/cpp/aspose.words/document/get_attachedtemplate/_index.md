@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_attachedtemplate/
 ---
+## Document.get_AttachedTemplate method
+
 
 Gets or sets the full path of the template attached to the document. 
 

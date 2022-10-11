@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/set_on/
 ---
+## Fill.set_On method
+
 
 
 

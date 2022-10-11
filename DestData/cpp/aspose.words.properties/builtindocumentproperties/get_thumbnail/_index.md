@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_thumbnail/
 ---
+## BuiltInDocumentProperties.get_Thumbnail method
+
 
 Gets or sets the thumbnail of the document. 
 

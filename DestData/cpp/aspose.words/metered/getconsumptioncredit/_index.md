@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/metered/getconsumptioncredit/
 ---
+## Metered.GetConsumptionCredit method
+
 
 Gets consumption credit. 
 

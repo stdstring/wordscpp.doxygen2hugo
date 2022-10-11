@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axisscaling/get_logbase/
 ---
+## AxisScaling.get_LogBase method
+
 
 Gets or sets the logarithmic base for a logarithmic axis. 
 

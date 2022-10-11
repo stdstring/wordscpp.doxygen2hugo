@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpropertycollection/contains/
 ---
+## CustomXmlPropertyCollection.Contains method
+
 
 Determines whether the collection contains a property with the given name. 
 

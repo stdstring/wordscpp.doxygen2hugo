@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttag/set_calendartype/
 ---
+## StructuredDocumentTag.set_CalendarType method
+
 
 Setter for Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType. 
 

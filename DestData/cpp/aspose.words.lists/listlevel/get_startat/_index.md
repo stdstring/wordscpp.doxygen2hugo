@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/get_startat/
 ---
+## ListLevel.get_StartAt method
+
 
 Returns or sets the starting number for this list level. 
 

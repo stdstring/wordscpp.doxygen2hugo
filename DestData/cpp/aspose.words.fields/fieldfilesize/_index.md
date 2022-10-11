@@ -15,7 +15,7 @@ Implements the FILESIZE field.
 
 | Method | Description |
 | --- | --- |
-| bool [get_IsInKilobytes](./get_isinkilobytes/)() | Gets or sets whether to display the file size in kilobytes.  |
-| bool [get_IsInMegabytes](./get_isinmegabytes/)() | Gets or sets whether to display the file size in megabytes.  |
-| void [set_IsInKilobytes](./set_isinkilobytes/)(bool) | Setter for Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes.  |
-| void [set_IsInMegabytes](./set_isinmegabytes/)(bool) | Setter for Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes.  |
+| [get_IsInKilobytes](./get_isinkilobytes/)() | Gets or sets whether to display the file size in kilobytes.  |
+| [get_IsInMegabytes](./get_isinmegabytes/)() | Gets or sets whether to display the file size in megabytes.  |
+| [set_IsInKilobytes](./set_isinkilobytes/)(bool) | Setter for Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes.  |
+| [set_IsInMegabytes](./set_isinmegabytes/)(bool) | Setter for Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes.  |

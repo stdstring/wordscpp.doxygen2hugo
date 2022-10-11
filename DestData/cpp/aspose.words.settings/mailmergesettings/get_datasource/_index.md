@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/mailmergesettings/get_datasource/
 ---
+## MailMergeSettings.get_DataSource method
+
 
 Specifies the path to the mail-merge data source. The default value is an empty string. 
 

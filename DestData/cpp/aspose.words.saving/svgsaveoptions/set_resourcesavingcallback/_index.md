@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/svgsaveoptions/set_resourcesavingcallback/
 ---
+## SvgSaveOptions.set_ResourceSavingCallback method
+
 
 Setter for Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback. 
 

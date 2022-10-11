@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/smarttag/get_nodetype/
 ---
+## SmartTag.get_NodeType method
+
 
 Returns **NodeType.SmartTag**. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/cellformat/set_verticalalignment/
 ---
+## CellFormat.set_VerticalAlignment method
+
 
 Setter for Aspose::Words::Tables::CellFormat::get_VerticalAlignment. 
 

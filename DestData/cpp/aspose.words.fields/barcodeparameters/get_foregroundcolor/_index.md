@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/barcodeparameters/get_foregroundcolor/
 ---
+## BarcodeParameters.get_ForegroundColor method
+
 
 Bar code foreground color (0x000000 - 0xFFFFFF) 
 

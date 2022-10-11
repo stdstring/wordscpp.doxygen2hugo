@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesavingargs/set_imagestream/
 ---
+## ImageSavingArgs.set_ImageStream method
+
 
 Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageStream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesavingargs/set_imagestream/
 ---
+## ImageSavingArgs.set_ImageStream method
+
 
 
 

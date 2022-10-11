@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldnoteref/set_insertreferencemark/
 ---
+## FieldNoteRef.set_InsertReferenceMark method
+
 
 Setter for Aspose::Words::Fields::FieldNoteRef::get_InsertReferenceMark. 
 

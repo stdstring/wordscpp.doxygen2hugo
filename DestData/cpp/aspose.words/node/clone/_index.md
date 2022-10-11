@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/node/clone/
 ---
+## Node.Clone method
+
 
 Creates a duplicate of the node. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_behavior/
 ---
+## BuildingBlock.get_Behavior method
+
 
 Specifies the behavior that shall be applied when the contents of the building block is inserted into the main document. 
 

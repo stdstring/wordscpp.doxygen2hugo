@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/setimage/
 ---
+## ImageData.SetImage method
+
 
 Sets the image that the shape displays. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/setimage/
 ---
+## ImageData.SetImage method
+
 
 Sets the image that the shape displays. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/setimage/
 ---
+## ImageData.SetImage method
+
 
 Sets the image that the shape displays. 
 
@@ -39,6 +45,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/setimage/
 ---
+## ImageData.SetImage method
+
 
 
 

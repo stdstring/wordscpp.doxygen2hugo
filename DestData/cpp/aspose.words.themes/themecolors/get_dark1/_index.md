@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themecolors/get_dark1/
 ---
+## ThemeColors.get_Dark1 method
+
 
 Specifies color Dark 1. 
 

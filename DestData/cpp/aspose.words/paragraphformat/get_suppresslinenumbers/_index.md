@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraphformat/get_suppresslinenumbers/
 ---
+## ParagraphFormat.get_SuppressLineNumbers method
+
 
 Specifies whether the current paragraph's lines should be exempted from line numbering which is applied in the parent section. 
 

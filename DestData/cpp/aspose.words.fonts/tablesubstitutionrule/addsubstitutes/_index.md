@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/addsubstitutes/
 ---
+## TableSubstitutionRule.AddSubstitutes method
+
 
 Adds substitute font names for given original font name. 
 

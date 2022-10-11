@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/resourcesavingargs/get_document/
 ---
+## ResourceSavingArgs.get_Document method
+
 
 Gets the document object that is currently being saved. 
 

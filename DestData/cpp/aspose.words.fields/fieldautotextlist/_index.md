@@ -15,9 +15,9 @@ Implements the AUTOTEXTLIST field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_EntryName](./get_entryname/)() | Gets or sets the name of the AutoText entry.  |
-| System::String [get_ListStyle](./get_liststyle/)() | Gets or sets the name of the style on which the list to contain entries is based.  |
-| System::String [get_ScreenTip](./get_screentip/)() | Gets or sets the text of the ScreenTip to show.  |
-| void [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoTextList::get_EntryName.  |
-| void [set_ListStyle](./set_liststyle/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoTextList::get_ListStyle.  |
-| void [set_ScreenTip](./set_screentip/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip.  |
+| [get_EntryName](./get_entryname/)() | Gets or sets the name of the AutoText entry.  |
+| [get_ListStyle](./get_liststyle/)() | Gets or sets the name of the style on which the list to contain entries is based.  |
+| [get_ScreenTip](./get_screentip/)() | Gets or sets the text of the ScreenTip to show.  |
+| [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoTextList::get_EntryName.  |
+| [set_ListStyle](./set_liststyle/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoTextList::get_ListStyle.  |
+| [set_ScreenTip](./set_screentip/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip.  |

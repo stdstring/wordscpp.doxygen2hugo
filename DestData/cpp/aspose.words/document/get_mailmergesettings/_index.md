@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_mailmergesettings/
 ---
+## Document.get_MailMergeSettings method
+
 
 Gets or sets the object that contains all of the mail merge information for a document. 
 

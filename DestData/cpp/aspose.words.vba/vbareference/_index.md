@@ -15,5 +15,5 @@ Implements a reference to an Automation type library or VBA project.
 
 | Method | Description |
 | --- | --- |
-| virtual System::String [get_LibId](./get_libid/)() const | Gets a string value containing the identifier of an Automation type library.  |
-| virtual Aspose::Words::Vba::VbaReferenceType [get_Type](./get_type/)() | Gets VbaReferenceType object that indicates the type of reference that a VbaReference object represents.  |
+| virtual [get_LibId](./get_libid/)() const | Gets a string value containing the identifier of an Automation type library.  |
+| virtual [get_Type](./get_type/)() | Gets VbaReferenceType object that indicates the type of reference that a VbaReference object represents.  |

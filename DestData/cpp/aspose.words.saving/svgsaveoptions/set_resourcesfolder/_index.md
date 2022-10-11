@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/svgsaveoptions/set_resourcesfolder/
 ---
+## SvgSaveOptions.set_ResourcesFolder method
+
 
 Setter for Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder. 
 

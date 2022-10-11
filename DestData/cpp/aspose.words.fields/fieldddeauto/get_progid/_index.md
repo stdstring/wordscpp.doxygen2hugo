@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldddeauto/get_progid/
 ---
+## FieldDdeAuto.get_ProgId method
+
 
 Gets or sets the application type of the link information. 
 

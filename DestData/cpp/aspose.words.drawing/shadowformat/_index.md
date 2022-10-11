@@ -15,7 +15,7 @@ Represents shadow formatting for an object.
 
 | Method | Description |
 | --- | --- |
-| void [Clear](./clear/)() | Clears shadow format.  |
-| Aspose::Words::Drawing::ShadowType [get_Type](./get_type/)() | Gets the specified ShadowType for ShadowFormat.  |
-| bool [get_Visible](./get_visible/)() | Returns **true** if the formatting applied to this instance is visible.  |
-| void [set_Type](./set_type/)(Aspose::Words::Drawing::ShadowType) | Sets the specified ShadowType for ShadowFormat.  |
+| [Clear](./clear/)() | Clears shadow format.  |
+| [get_Type](./get_type/)() | Gets the specified ShadowType for ShadowFormat.  |
+| [get_Visible](./get_visible/)() | Returns **true** if the formatting applied to this instance is visible.  |
+| [set_Type](./set_type/)(Aspose::Words::Drawing::ShadowType) | Sets the specified ShadowType for ShadowFormat.  |

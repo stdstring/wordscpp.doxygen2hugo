@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontinfocollection/set_embedtruetypefonts/
 ---
+## FontInfoCollection.set_EmbedTrueTypeFonts method
+
 
 Setter for Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/get_startarrowtype/
 ---
+## Stroke.get_StartArrowType method
+
 
 Defines the arrowhead for the start of a stroke. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/get_count/
 ---
+## OdsoRecipientDataCollection.get_Count method
+
 
 Gets the number of elements contained in the collection. 
 

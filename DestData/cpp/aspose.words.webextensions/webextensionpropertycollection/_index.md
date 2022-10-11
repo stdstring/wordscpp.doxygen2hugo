@@ -15,4 +15,4 @@ Specifies a set of web extension custom properties.
 
 | Method | Description |
 | --- | --- |
-| void [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |

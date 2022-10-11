@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/comment/get_done/
 ---
+## Comment.get_Done method
+
 
 Gets or sets flag indicating that the comment has been marked done. 
 

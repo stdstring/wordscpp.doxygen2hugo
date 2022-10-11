@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/clearformat/
 ---
+## ChartDataLabel.ClearFormat method
+
 
 Clears format of this data label. The properties are set to the default values defined in the parent data label collection. 
 

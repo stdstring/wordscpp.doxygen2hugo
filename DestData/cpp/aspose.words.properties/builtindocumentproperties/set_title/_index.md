@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_title/
 ---
+## BuiltInDocumentProperties.set_Title method
+
 
 Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Title. 
 

@@ -15,5 +15,5 @@ Provides typed access to a collection of Table nodes.
 
 | Method | Description |
 | --- | --- |
-| System::SharedPtr< Aspose::Words::Tables::Table > [idx_get](./idx_get/)(int32_t) | Retrieves a **Table** at the given index.  |
-| System::ArrayPtr< System::SharedPtr< Aspose::Words::Tables::Table > > [ToArray](./toarray/)() | Copies all tables from the collection to a new array of tables.  |
+| [idx_get](./idx_get/)(int32_t) | Retrieves a **Table** at the given index.  |
+| [ToArray](./toarray/)() | Copies all tables from the collection to a new array of tables.  |

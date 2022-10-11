@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldddeauto/set_sourceitem/
 ---
+## FieldDdeAuto.set_SourceItem method
+
 
 Setter for Aspose::Words::Fields::FieldDdeAuto::get_SourceItem. 
 

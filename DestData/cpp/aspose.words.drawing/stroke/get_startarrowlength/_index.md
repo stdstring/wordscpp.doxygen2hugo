@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/get_startarrowlength/
 ---
+## Stroke.get_StartArrowLength method
+
 
 Defines the arrowhead length for the start of a stroke. 
 

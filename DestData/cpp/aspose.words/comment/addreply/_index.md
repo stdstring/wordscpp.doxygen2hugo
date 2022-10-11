@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/comment/addreply/
 ---
+## Comment.AddReply method
+
 
 Adds a reply to this comment. 
 

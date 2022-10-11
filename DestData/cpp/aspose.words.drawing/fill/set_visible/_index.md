@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/set_visible/
 ---
+## Fill.set_Visible method
+
 
 Setter for Aspose::Words::Drawing::Fill::get_Visible. 
 

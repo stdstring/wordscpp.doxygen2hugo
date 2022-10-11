@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/get_font/
 ---
+## DocumentBuilder.get_Font method
+
 
 Returns an object that represents current font formatting properties. 
 

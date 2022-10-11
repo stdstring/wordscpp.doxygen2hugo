@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/set_isdecorative/
 ---
+## ShapeBase.set_IsDecorative method
+
 
 Setter for Aspose::Words::Drawing::ShapeBase::get_IsDecorative. 
 

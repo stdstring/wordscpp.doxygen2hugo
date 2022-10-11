@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/fontsavingargs/get_originalfilesize/
 ---
+## FontSavingArgs.get_OriginalFileSize method
+
 
 Gets the original font file size. 
 

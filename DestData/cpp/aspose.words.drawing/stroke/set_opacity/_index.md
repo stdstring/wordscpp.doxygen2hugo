@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/stroke/set_opacity/
 ---
+## Stroke.set_Opacity method
+
 
 Setter for Aspose::Words::Drawing::Stroke::get_Opacity. 
 

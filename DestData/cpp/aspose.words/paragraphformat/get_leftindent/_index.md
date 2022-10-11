@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraphformat/get_leftindent/
 ---
+## ParagraphFormat.get_LeftIndent method
+
 
 Gets or sets the value (in points) that represents the left indent for paragraph. 
 

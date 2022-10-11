@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_boldbi/
 ---
+## Font.get_BoldBi method
+
 
 True if the right-to-left text is formatted as bold. 
 

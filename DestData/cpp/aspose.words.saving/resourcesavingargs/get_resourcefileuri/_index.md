@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcefileuri/
 ---
+## ResourceSavingArgs.get_ResourceFileUri method
+
 
 Gets or sets the uniform resource identifier (URI) used to reference the resource file from the document. 
 

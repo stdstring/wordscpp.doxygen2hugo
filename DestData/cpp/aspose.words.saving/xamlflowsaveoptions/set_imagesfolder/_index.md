@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_imagesfolder/
 ---
+## XamlFlowSaveOptions.set_ImagesFolder method
+
 
 Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_ImagesFolder. 
 

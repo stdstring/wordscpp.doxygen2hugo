@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/hyphenation/set_warningcallback/
 ---
+## Hyphenation.set_WarningCallback method
+
 
 Setter for Aspose::Words::Hyphenation::get_WarningCallback. 
 

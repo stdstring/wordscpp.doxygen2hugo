@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/replacingargs/set_groupname/
 ---
+## ReplacingArgs.set_GroupName method
+
 
 Setter for Aspose::Words::Replacing::ReplacingArgs::get_GroupName. 
 

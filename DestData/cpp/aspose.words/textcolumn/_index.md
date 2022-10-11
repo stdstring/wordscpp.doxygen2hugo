@@ -15,7 +15,7 @@ Represents a single text column. **TextColumn** is a member of the TextColumnCol
 
 | Method | Description |
 | --- | --- |
-| double [get_SpaceAfter](./get_spaceafter/)() | Gets or sets the space between this column and the next column in points. Not required for the last column.  |
-| double [get_Width](./get_width/)() | Gets or sets the width of the text column in points.  |
-| void [set_SpaceAfter](./set_spaceafter/)(double) | Setter for Aspose::Words::TextColumn::get_SpaceAfter.  |
-| void [set_Width](./set_width/)(double) | Setter for Aspose::Words::TextColumn::get_Width.  |
+| [get_SpaceAfter](./get_spaceafter/)() | Gets or sets the space between this column and the next column in points. Not required for the last column.  |
+| [get_Width](./get_width/)() | Gets or sets the width of the text column in points.  |
+| [set_SpaceAfter](./set_spaceafter/)(double) | Setter for Aspose::Words::TextColumn::get_SpaceAfter.  |
+| [set_Width](./set_width/)(double) | Setter for Aspose::Words::TextColumn::get_Width.  |

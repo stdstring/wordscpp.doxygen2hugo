@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/variablecollection/begin/
 ---
+## VariableCollection.begin method
+
 
 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/variablecollection/begin/
 ---
+## VariableCollection.begin method
+
 
 
 

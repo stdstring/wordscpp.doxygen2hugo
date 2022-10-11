@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/get_bounds/
 ---
+## ShapeBase.get_Bounds method
+
 
 Gets or sets the location and size of the containing block of the shape. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/toacategories/idx_set/
 ---
+## ToaCategories.idx_set method
+
 
 Gets or sets the category heading by category number. 
 

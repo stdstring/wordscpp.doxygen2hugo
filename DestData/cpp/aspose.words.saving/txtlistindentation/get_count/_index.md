@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/txtlistindentation/get_count/
 ---
+## TxtListIndentation.get_Count method
+
 
 Gets or sets how many Character to use as indentation per one list level. The default value is 0, that means no indentation. 
 

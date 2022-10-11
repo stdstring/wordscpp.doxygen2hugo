@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/generalformatcollection/remove/
 ---
+## GeneralFormatCollection.Remove method
+
 
 Removes all occurrences of the specified general format from the collection. 
 

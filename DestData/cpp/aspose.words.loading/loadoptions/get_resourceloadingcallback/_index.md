@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/loadoptions/get_resourceloadingcallback/
 ---
+## LoadOptions.get_ResourceLoadingCallback method
+
 
 Allows to control how external resources (images, style sheets) are loaded when a document is imported from HTML, MHTML. 
 

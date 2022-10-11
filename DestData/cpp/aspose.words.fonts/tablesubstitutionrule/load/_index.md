@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/load/
 ---
+## TableSubstitutionRule.Load method
+
 
 Loads table substitution settings from XML stream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/load/
 ---
+## TableSubstitutionRule.Load method
+
 
 Loads table substitution settings from XML file. 
 

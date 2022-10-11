@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/get_anchorlocked/
 ---
+## ShapeBase.get_AnchorLocked method
+
 
 Specifies whether the shape's anchor is locked. 
 

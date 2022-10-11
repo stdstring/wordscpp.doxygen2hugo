@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_chapterpageseparator/
 ---
+## PageSetup.get_ChapterPageSeparator method
+
 
 Gets the separator character that appears between the chapter number and the page number. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/cellformat/set_rightpadding/
 ---
+## CellFormat.set_RightPadding method
+
 
 Setter for Aspose::Words::Tables::CellFormat::get_RightPadding. 
 

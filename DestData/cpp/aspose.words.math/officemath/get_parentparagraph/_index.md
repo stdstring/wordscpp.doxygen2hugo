@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.math/officemath/get_parentparagraph/
 ---
+## OfficeMath.get_ParentParagraph method
+
 
 Retrieves the parent Paragraph of this node. 
 

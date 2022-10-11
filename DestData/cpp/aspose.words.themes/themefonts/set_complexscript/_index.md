@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themefonts/set_complexscript/
 ---
+## ThemeFonts.set_ComplexScript method
+
 
 Setter for Aspose::Words::Themes::ThemeFonts::get_ComplexScript. 
 

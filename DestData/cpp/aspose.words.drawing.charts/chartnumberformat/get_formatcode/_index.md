@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/get_formatcode/
 ---
+## ChartNumberFormat.get_FormatCode method
+
 
 Gets or sets the format code applied to a data label. 
 

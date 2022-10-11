@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/viewoptions/set_formsdesign/
 ---
+## ViewOptions.set_FormsDesign method
+
 
 Setter for Aspose::Words::Settings::ViewOptions::get_FormsDesign. 
 

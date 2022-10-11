@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/writeprotection/set_readonlyrecommended/
 ---
+## WriteProtection.set_ReadOnlyRecommended method
+
 
 Setter for Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended. 
 

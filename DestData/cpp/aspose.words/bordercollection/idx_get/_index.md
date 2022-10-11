@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/idx_get/
 ---
+## BorderCollection.idx_get method
+
 
 Retrieves a Border object by border type. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/idx_get/
 ---
+## BorderCollection.idx_get method
+
 
 Retrieves a Border object by index. 
 

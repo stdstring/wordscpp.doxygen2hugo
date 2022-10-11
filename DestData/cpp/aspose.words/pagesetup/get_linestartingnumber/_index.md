@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_linestartingnumber/
 ---
+## PageSetup.get_LineStartingNumber method
+
 
 Gets or sets the starting line number. 
 

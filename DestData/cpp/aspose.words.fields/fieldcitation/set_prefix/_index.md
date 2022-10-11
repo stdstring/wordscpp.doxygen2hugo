@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldcitation/set_prefix/
 ---
+## FieldCitation.set_Prefix method
+
 
 Setter for Aspose::Words::Fields::FieldCitation::get_Prefix. 
 

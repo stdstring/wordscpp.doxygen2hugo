@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_guid/
 ---
+## BuildingBlock.get_Guid method
+
 
 Gets or sets an identifier (a 128-bit GUID) that uniquely identifies this building block. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/get_top/
 ---
+## BorderCollection.get_Top method
+
 
 Gets the top border. 
 

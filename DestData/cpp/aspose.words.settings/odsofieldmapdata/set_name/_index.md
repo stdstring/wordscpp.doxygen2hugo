@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odsofieldmapdata/set_name/
 ---
+## OdsoFieldMapData.set_Name method
+
 
 Specifies the column name within an external data source for the column whose index is specified by the Column property. The default value is an empty string. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_additionaltextpositioning/
 ---
+## PdfSaveOptions.set_AdditionalTextPositioning method
+
 
 Setter for Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning. 
 

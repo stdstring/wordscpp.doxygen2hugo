@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_count/
 ---
+## ChartDataLabelCollection.get_Count method
+
 
 Returns the number of ChartDataLabel in this collection. 
 

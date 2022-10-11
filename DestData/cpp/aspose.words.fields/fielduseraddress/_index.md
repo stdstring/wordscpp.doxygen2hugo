@@ -15,5 +15,5 @@ Implements the USERADDRESS field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_UserAddress](./get_useraddress/)() | Gets or sets the current user's postal address.  |
-| void [set_UserAddress](./set_useraddress/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserAddress::get_UserAddress.  |
+| [get_UserAddress](./get_useraddress/)() | Gets or sets the current user's postal address.  |
+| [set_UserAddress](./set_useraddress/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserAddress::get_UserAddress.  |

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraphformat/set_hangingpunctuation/
 ---
+## ParagraphFormat.set_HangingPunctuation method
+
 
 Setter for Aspose::Words::ParagraphFormat::get_HangingPunctuation. 
 

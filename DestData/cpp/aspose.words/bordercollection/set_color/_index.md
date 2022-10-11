@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/set_color/
 ---
+## BorderCollection.set_Color method
+
 
 Setter for Aspose::Words::BorderCollection::get_Color. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 Creates a blank Word document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 Opens an existing document from a stream. Automatically detects the file format. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 Opens an existing document from a stream. Allows to specify additional options such as an encryption password. 
 
@@ -39,6 +45,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 Opens an existing document from a file. Automatically detects the file format. 
 
@@ -50,6 +58,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 Opens an existing document from a file. Allows to specify additional options such as an encryption password. 
 
@@ -61,6 +71,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 
 
@@ -72,6 +84,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
+## Document.Document method
+
 
 
 

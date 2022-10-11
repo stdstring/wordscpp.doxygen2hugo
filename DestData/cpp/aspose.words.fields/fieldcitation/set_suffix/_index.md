@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldcitation/set_suffix/
 ---
+## FieldCitation.set_Suffix method
+
 
 Setter for Aspose::Words::Fields::FieldCitation::get_Suffix. 
 

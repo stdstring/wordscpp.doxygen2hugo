@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chart/get_title/
 ---
+## Chart.get_Title method
+
 
 Provides access to the chart title properties. 
 

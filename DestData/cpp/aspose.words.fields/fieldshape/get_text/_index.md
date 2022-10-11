@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldshape/get_text/
 ---
+## FieldShape.get_Text method
+
 
 Gets or sets the text to retrieve. 
 

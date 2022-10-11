@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/glossarydocument/get_nodetype/
 ---
+## GlossaryDocument.get_NodeType method
+
 
 Returns the GlossaryDocument value. 
 

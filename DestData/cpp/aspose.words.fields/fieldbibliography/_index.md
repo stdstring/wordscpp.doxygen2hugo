@@ -15,5 +15,5 @@ Implements the BIBLIOGRAPHY field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_FormatLanguageId](./get_formatlanguageid/)() | Gets or sets the language ID that is used to format the bibliographic sources in the document.  |
-| void [set_FormatLanguageId](./set_formatlanguageid/)(const System::String &) | Setter for Aspose::Words::Fields::FieldBibliography::get_FormatLanguageId.  |
+| [get_FormatLanguageId](./get_formatlanguageid/)() | Gets or sets the language ID that is used to format the bibliographic sources in the document.  |
+| [set_FormatLanguageId](./set_formatlanguageid/)(const System::String &) | Setter for Aspose::Words::Fields::FieldBibliography::get_FormatLanguageId.  |

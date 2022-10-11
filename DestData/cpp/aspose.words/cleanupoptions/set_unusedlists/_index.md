@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/cleanupoptions/set_unusedlists/
 ---
+## CleanupOptions.set_UnusedLists method
+
 
 Setter for Aspose::Words::CleanupOptions::get_UnusedLists. 
 

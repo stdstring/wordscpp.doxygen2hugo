@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldgreetingline/get_nameformat/
 ---
+## FieldGreetingLine.get_NameFormat method
+
 
 Gets the format of the name included in the field. 
 

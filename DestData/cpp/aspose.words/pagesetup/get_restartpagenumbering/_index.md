@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_restartpagenumbering/
 ---
+## PageSetup.get_RestartPageNumbering method
+
 
 **True** if page numbering restarts at the beginning of the section. 
 

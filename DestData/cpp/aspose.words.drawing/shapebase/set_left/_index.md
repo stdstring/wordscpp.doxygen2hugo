@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/set_left/
 ---
+## ShapeBase.set_Left method
+
 
 Setter for Aspose::Words::Drawing::ShapeBase::get_Left. 
 

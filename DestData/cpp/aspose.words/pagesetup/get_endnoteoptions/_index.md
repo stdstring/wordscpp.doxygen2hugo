@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_endnoteoptions/
 ---
+## PageSetup.get_EndnoteOptions method
+
 
 Provides options that control numbering and positioning of endnotes in this section. 
 

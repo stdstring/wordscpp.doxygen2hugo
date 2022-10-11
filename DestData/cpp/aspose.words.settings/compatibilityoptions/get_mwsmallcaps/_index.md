@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_mwsmallcaps/
 ---
+## CompatibilityOptions.get_MWSmallCaps method
+
 
 Emulate Word 5.x for the Macintosh Small Caps Formatting. 
 

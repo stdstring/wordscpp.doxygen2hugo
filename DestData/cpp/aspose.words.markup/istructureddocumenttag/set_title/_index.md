@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/istructureddocumenttag/set_title/
 ---
+## IStructuredDocumentTag.set_Title method
+
 
 Specifies the friendly name associated with this **SDT**. Can not be null. 
 

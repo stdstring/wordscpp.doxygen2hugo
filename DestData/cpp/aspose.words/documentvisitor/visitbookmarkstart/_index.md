@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentvisitor/visitbookmarkstart/
 ---
+## DocumentVisitor.VisitBookmarkStart method
+
 
 Called when a start of a bookmark is encountered in the document. 
 

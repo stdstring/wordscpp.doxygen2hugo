@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fielddate/set_uselunarcalendar/
 ---
+## FieldDate.set_UseLunarCalendar method
+
 
 Setter for Aspose::Words::Fields::FieldDate::get_UseLunarCalendar. 
 

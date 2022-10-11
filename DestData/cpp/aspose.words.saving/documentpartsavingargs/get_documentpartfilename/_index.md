@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/documentpartsavingargs/get_documentpartfilename/
 ---
+## DocumentPartSavingArgs.get_DocumentPartFileName method
+
 
 Gets or sets the file name (without path) where the document part will be saved to. 
 

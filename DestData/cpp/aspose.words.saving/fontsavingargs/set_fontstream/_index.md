@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/fontsavingargs/set_fontstream/
 ---
+## FontSavingArgs.set_FontStream method
+
 
 Setter for Aspose::Words::Saving::FontSavingArgs::get_FontStream. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/fontsavingargs/set_fontstream/
 ---
+## FontSavingArgs.set_FontStream method
+
 
 
 

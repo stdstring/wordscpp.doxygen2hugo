@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/revisionoptions/set_showrevisionbars/
 ---
+## RevisionOptions.set_ShowRevisionBars method
+
 
 Setter for Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars. 
 

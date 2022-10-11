@@ -15,5 +15,5 @@ Implements the GLOSSARY field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_EntryName](./get_entryname/)() override | Gets or sets the name of the glossary entry to insert.  |
-| void [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldGlossary::get_EntryName.  |
+| [get_EntryName](./get_entryname/)() override | Gets or sets the name of the glossary entry to insert.  |
+| [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldGlossary::get_EntryName.  |

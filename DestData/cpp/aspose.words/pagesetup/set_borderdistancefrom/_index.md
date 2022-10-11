@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/set_borderdistancefrom/
 ---
+## PageSetup.set_BorderDistanceFrom method
+
 
 Setter for Aspose::Words::PageSetup::get_BorderDistanceFrom. 
 

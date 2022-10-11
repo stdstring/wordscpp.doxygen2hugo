@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axisscaling/set_minimum/
 ---
+## AxisScaling.set_Minimum method
+
 
 Setter for Aspose::Words::Drawing::Charts::AxisScaling::get_Minimum. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/get_underline/
 ---
+## DocumentBuilder.get_Underline method
+
 
 Gets/sets underline type for the current font. 
 

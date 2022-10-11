@@ -15,6 +15,6 @@ Allows to specify additional options when loading CHM document into a Document o
 
 | Method | Description |
 | --- | --- |
-|  [ChmLoadOptions](./chmloadoptions/)() | Initializes a new instance of this class with default values.  |
-| System::String [get_OriginalFileName](./get_originalfilename/)() const | The name of the CHM file. Default value is **null**.  |
-| void [set_OriginalFileName](./set_originalfilename/)(const System::String &) | Setter for Aspose::Words::Loading::ChmLoadOptions::get_OriginalFileName.  |
+| [ChmLoadOptions](./chmloadoptions/)() | Initializes a new instance of this class with default values.  |
+| [get_OriginalFileName](./get_originalfilename/)() const | The name of the CHM file. Default value is **null**.  |
+| [set_OriginalFileName](./set_originalfilename/)(const System::String &) | Setter for Aspose::Words::Loading::ChmLoadOptions::get_OriginalFileName.  |

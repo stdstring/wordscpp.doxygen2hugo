@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/horizontalruleformat/get_height/
 ---
+## HorizontalRuleFormat.get_Height method
+
 
 Gets or sets the height of the horizontal rule. 
 

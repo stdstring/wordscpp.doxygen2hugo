@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_childnodes/
 ---
+## StructuredDocumentTagRangeStart.get_ChildNodes method
+
 
 Gets all nodes between this range start node and the range end node. 
 

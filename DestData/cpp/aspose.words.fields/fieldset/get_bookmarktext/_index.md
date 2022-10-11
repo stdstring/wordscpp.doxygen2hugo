@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldset/get_bookmarktext/
 ---
+## FieldSet.get_BookmarkText method
+
 
 Gets or sets the new text of the bookmark. 
 

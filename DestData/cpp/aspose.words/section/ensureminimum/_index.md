@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/section/ensureminimum/
 ---
+## Section.EnsureMinimum method
+
 
 Ensures that the section has Body with one Paragraph. 
 

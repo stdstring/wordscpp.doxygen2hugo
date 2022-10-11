@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/pdfloadoptions/set_pagecount/
 ---
+## PdfLoadOptions.set_PageCount method
+
 
 Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read. 
 

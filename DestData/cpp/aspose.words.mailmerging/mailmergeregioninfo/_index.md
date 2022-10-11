@@ -15,10 +15,10 @@ Contains information about a mail merge region.
 
 | Method | Description |
 | --- | --- |
-| const System::SharedPtr< Aspose::Words::Fields::FieldMergeField > & [get_EndField](./get_endfield/)() const | Returns an end field for the region.  |
-| System::SharedPtr< System::Collections::Generic::IList< System::SharedPtr< Aspose::Words::Fields::Field > > > [get_Fields](./get_fields/)() const | Returns a list of child fields.  |
-| int32_t [get_Level](./get_level/)() const | Returns the nesting level for the region.  |
-| System::String [get_Name](./get_name/)() const | Returns the name of region.  |
-| const System::SharedPtr< Aspose::Words::MailMerging::MailMergeRegionInfo > & [get_ParentRegion](./get_parentregion/)() const | Returns parent region info (null for top-level region).  |
-| System::SharedPtr< System::Collections::Generic::IList< System::SharedPtr< Aspose::Words::MailMerging::MailMergeRegionInfo > > > [get_Regions](./get_regions/)() const | Returns a list of child regions.  |
-| const System::SharedPtr< Aspose::Words::Fields::FieldMergeField > & [get_StartField](./get_startfield/)() const | Returns a start field for the region.  |
+| [get_EndField](./get_endfield/)() const | Returns an end field for the region.  |
+| [get_Fields](./get_fields/)() const | Returns a list of child fields.  |
+| [get_Level](./get_level/)() const | Returns the nesting level for the region.  |
+| [get_Name](./get_name/)() const | Returns the name of region.  |
+| [get_ParentRegion](./get_parentregion/)() const | Returns parent region info (null for top-level region).  |
+| [get_Regions](./get_regions/)() const | Returns a list of child regions.  |
+| [get_StartField](./get_startfield/)() const | Returns a start field for the region.  |

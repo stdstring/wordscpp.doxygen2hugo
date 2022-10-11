@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/set_chromakey/
 ---
+## ImageData.set_ChromaKey method
+
 
 Setter for Aspose::Words::Drawing::ImageData::get_ChromaKey. 
 

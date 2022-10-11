@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttag/set_title/
 ---
+## StructuredDocumentTag.set_Title method
+
 
 Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Title. 
 

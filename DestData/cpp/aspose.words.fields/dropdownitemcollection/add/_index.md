@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/dropdownitemcollection/add/
 ---
+## DropDownItemCollection.Add method
+
 
 Adds a string to the end of the collection. 
 

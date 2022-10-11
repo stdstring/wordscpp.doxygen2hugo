@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/headerfootercollection/toarray/
 ---
+## HeaderFooterCollection.ToArray method
+
 
 Copies all **HeaderFoorter**s from the collection to a new array of **HeaderFoorter**s. 
 

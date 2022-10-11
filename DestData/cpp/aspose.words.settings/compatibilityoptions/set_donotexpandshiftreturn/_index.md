@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotexpandshiftreturn/
 ---
+## CompatibilityOptions.set_DoNotExpandShiftReturn method
+
 
 Don't Justify Lines Ending in Soft Line Break. 
 

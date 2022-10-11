@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/saveoptions/get_updatesdtcontent/
 ---
+## SaveOptions.get_UpdateSdtContent method
+
 
 Gets or sets value determining whether content of StructuredDocumentTag is updated before saving. 
 

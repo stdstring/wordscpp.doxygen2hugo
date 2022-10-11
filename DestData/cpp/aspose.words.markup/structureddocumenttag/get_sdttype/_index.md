@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttag/get_sdttype/
 ---
+## StructuredDocumentTag.get_SdtType method
+
 
 Gets type of this **Structured document tag**. 
 

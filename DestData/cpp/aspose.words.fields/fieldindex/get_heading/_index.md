@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldindex/get_heading/
 ---
+## FieldIndex.get_Heading method
+
 
 Gets or sets a heading that appears at the start of each set of entries for any given letter. 
 

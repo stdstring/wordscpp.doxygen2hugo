@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/set_useword2010tablestylerules/
 ---
+## CompatibilityOptions.set_UseWord2010TableStyleRules method
+
 
 
 

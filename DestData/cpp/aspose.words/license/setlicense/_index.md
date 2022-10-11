@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/license/setlicense/
 ---
+## License.SetLicense method
+
 
 Licenses the component. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/license/setlicense/
 ---
+## License.SetLicense method
+
 
 Licenses the component. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/license/setlicense/
 ---
+## License.SetLicense method
+
 
 
 

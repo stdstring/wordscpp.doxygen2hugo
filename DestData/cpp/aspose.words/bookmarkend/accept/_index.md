@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkend/accept/
 ---
+## BookmarkEnd.Accept method
+
 
 Accepts a visitor. 
 

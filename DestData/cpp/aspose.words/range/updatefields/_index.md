@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/range/updatefields/
 ---
+## Range.UpdateFields method
+
 
 Updates the values of document fields in this range. 
 

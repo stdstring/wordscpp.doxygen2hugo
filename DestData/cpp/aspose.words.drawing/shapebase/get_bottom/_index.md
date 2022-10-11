@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/get_bottom/
 ---
+## ShapeBase.get_Bottom method
+
 
 Gets the position of the bottom edge of the containing block of the shape. 
 

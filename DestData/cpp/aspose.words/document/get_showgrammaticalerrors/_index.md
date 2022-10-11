@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_showgrammaticalerrors/
 ---
+## Document.get_ShowGrammaticalErrors method
+
 
 Specifies whether to display grammar errors in this document. 
 

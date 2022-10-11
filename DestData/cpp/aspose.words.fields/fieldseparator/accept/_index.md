@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldseparator/accept/
 ---
+## FieldSeparator.Accept method
+
 
 Accepts a visitor. 
 

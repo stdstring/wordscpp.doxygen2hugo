@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themefonts/set_eastasian/
 ---
+## ThemeFonts.set_EastAsian method
+
 
 Setter for Aspose::Words::Themes::ThemeFonts::get_EastAsian. 
 

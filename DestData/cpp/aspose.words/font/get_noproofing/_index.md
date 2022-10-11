@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_noproofing/
 ---
+## Font.get_NoProofing method
+
 
 True when the formatted characters are not to be spell checked. 
 

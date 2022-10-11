@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/get_current/
 ---
+## LayoutEnumerator.get_Current method
+
 
 Gets or sets current position in the page layout model. This property returns an opaque object which corresponds to the current layout entity. 
 

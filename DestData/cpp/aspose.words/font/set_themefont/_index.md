@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/set_themefont/
 ---
+## Font.set_ThemeFont method
+
 
 Setter for Aspose::Words::Font::get_ThemeFont. 
 

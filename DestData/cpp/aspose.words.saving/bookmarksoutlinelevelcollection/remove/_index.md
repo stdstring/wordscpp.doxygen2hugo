@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/remove/
 ---
+## BookmarksOutlineLevelCollection.Remove method
+
 
 Removes a bookmark with the specified name from the collection. 
 

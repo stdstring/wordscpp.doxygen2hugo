@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldquote/set_text/
 ---
+## FieldQuote.set_Text method
+
 
 Setter for Aspose::Words::Fields::FieldQuote::get_Text. 
 

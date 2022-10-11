@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/svgsaveoptions/get_textoutputmode/
 ---
+## SvgSaveOptions.get_TextOutputMode method
+
 
 Gets or sets a value determining how text should be rendered in SVG. 
 

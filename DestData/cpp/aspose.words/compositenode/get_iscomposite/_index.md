@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/compositenode/get_iscomposite/
 ---
+## CompositeNode.get_IsComposite method
+
 
 Returns true as this node can have child nodes. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fielddde/set_insertasrtf/
 ---
+## FieldDde.set_InsertAsRtf method
+
 
 Setter for Aspose::Words::Fields::FieldDde::get_InsertAsRtf. 
 

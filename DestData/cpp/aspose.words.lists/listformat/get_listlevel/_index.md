@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listformat/get_listlevel/
 ---
+## ListFormat.get_ListLevel method
+
 
 Returns the list level formatting plus any formatting overrides applied to the current paragraph. 
 

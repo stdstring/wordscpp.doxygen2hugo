@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listcollection/get_document/
 ---
+## ListCollection.get_Document method
+
 
 Gets the owner document. 
 

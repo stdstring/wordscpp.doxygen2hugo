@@ -15,4 +15,4 @@ Implement this interface to allow mail merge from a custom data source with mast
 
 | Method | Description |
 | --- | --- |
-| virtual System::SharedPtr< Aspose::Words::MailMerging::IMailMergeDataSource > [GetDataSource](./getdatasource/)(System::String) | The Aspose.Words mail merge engine invokes this method when it encounters a beginning of a top-level mail merge region.  |
+| virtual [GetDataSource](./getdatasource/)(System::String) | The Aspose.Words mail merge engine invokes this method when it encounters a beginning of a top-level mail merge region.  |

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mailmerge/get_regionstarttag/
 ---
+## MailMerge.get_RegionStartTag method
+
 
 Gets or sets a mail merge region start tag. 
 

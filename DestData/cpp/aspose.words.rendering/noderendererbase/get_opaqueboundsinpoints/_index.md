@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.rendering/noderendererbase/get_opaqueboundsinpoints/
 ---
+## NodeRendererBase.get_OpaqueBoundsInPoints method
+
 
 Gets the opaque bounds of the shape in points. 
 

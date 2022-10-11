@@ -15,5 +15,5 @@ Represents a **SubDocument** - which is a reference to an externally stored docu
 
 | Method | Description |
 | --- | --- |
-| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| Aspose::Words::NodeType [get_NodeType](./get_nodetype/)() const override | Returns **NodeType.SubDocument** |
+| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [get_NodeType](./get_nodetype/)() const override | Returns **NodeType.SubDocument** |

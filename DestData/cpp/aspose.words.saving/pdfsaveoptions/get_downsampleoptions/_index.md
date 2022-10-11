@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_downsampleoptions/
 ---
+## PdfSaveOptions.get_DownsampleOptions method
+
 
 Allows to specify downsample options. 
 

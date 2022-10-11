@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_tablesubstitution/
 ---
+## FontSubstitutionSettings.get_TableSubstitution method
+
 
 Settings related to table substitution rule. 
 

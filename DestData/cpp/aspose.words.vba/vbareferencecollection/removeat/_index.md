@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbareferencecollection/removeat/
 ---
+## VbaReferenceCollection.RemoveAt method
+
 
 Removes the VbaReference element at the specified index of the collection. 
 

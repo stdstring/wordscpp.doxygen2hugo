@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentsplitheadinglevel/
 ---
+## HtmlSaveOptions.get_DocumentSplitHeadingLevel method
+
 
 Specifies the maximum level of headings at which to split the document. Default value is **%2**. 
 

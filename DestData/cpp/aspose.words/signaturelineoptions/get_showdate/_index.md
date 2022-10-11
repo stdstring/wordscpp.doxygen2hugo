@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/signaturelineoptions/get_showdate/
 ---
+## SignatureLineOptions.get_ShowDate method
+
 
 Gets or sets a value indicating that sign date is shown in the signature line. Default value for this property is **true**. 
 

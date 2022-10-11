@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesfolder/
 ---
+## HtmlSaveOptions.set_ImagesFolder method
+
 
 Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder. 
 

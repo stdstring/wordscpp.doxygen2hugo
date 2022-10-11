@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/textwatermarkoptions/get_layout/
 ---
+## TextWatermarkOptions.get_Layout method
+
 
 Gets or sets layout of the watermark. The default value is Diagonal. 
 

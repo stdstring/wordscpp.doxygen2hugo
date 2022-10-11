@@ -15,4 +15,4 @@ An absolute position tab is a character which is used to advance the position on
 
 | Method | Description |
 | --- | --- |
-| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |

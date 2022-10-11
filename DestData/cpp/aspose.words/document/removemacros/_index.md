@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/removemacros/
 ---
+## Document.RemoveMacros method
+
 
 Removes all macros (the VBA project) as well as toolbars and command customizations from the document. 
 

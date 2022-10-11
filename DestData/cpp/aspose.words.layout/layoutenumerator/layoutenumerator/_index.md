@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/layoutenumerator/
 ---
+## LayoutEnumerator.LayoutEnumerator method
+
 
 Initializes new instance of this class. 
 

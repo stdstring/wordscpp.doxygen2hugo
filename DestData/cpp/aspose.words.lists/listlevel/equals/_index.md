@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/equals/
 ---
+## ListLevel.Equals method
+
 
 Compares with the specified ListLevel. 
 

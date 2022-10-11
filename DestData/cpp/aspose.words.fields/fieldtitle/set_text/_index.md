@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldtitle/set_text/
 ---
+## FieldTitle.set_Text method
+
 
 Setter for Aspose::Words::Fields::FieldTitle::get_Text. 
 

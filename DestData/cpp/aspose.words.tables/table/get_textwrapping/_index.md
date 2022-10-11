@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/get_textwrapping/
 ---
+## Table.get_TextWrapping method
+
 
 Gets or sets TextWrapping for table. 
 

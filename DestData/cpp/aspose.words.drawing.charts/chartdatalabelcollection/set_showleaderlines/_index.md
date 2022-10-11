@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showleaderlines/
 ---
+## ChartDataLabelCollection.set_ShowLeaderLines method
+
 
 Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowLeaderLines. 
 

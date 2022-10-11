@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/comparisonevaluationresult/get_result/
 ---
+## ComparisonEvaluationResult.get_Result method
+
 
 Gets the comparison evaluation result. 
 

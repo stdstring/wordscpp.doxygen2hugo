@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/border/get_color/
 ---
+## Border.get_Color method
+
 
 Gets or sets the border color. 
 

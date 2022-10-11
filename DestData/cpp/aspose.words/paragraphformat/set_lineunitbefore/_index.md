@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraphformat/set_lineunitbefore/
 ---
+## ParagraphFormat.set_LineUnitBefore method
+
 
 Setter for Aspose::Words::ParagraphFormat::get_LineUnitBefore. 
 

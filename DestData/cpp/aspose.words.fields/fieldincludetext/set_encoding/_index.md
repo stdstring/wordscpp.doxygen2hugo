@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldincludetext/set_encoding/
 ---
+## FieldIncludeText.set_Encoding method
+
 
 Setter for Aspose::Words::Fields::FieldIncludeText::get_Encoding. 
 

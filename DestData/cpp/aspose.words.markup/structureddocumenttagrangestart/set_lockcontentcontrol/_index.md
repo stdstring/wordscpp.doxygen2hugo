@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_lockcontentcontrol/
 ---
+## StructuredDocumentTagRangeStart.set_LockContentControl method
+
 
 Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContentControl. 
 

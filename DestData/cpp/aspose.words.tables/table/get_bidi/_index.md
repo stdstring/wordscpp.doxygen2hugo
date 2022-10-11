@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/table/get_bidi/
 ---
+## Table.get_Bidi method
+
 
 Gets or sets whether this is a right-to-left table. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentvisitor/visiteditablerangeend/
 ---
+## DocumentVisitor.VisitEditableRangeEnd method
+
 
 Called when an end of an editable range is encountered in the document. 
 

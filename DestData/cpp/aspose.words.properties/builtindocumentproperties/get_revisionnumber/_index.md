@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_revisionnumber/
 ---
+## BuiltInDocumentProperties.get_RevisionNumber method
+
 
 Gets or sets the document revision number. 
 

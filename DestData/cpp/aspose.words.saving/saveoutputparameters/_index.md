@@ -15,4 +15,4 @@ This object is returned to the caller after a document is saved and contains add
 
 | Method | Description |
 | --- | --- |
-| System::String [get_ContentType](./get_contenttype/)() const | Returns the Content-Type string (Internet Media Type) that identifies the type of the saved document.  |
+| [get_ContentType](./get_contenttype/)() const | Returns the Content-Type string (Internet Media Type) that identifies the type of the saved document.  |

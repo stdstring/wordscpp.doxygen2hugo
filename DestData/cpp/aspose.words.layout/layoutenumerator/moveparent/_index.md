@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/moveparent/
 ---
+## LayoutEnumerator.MoveParent method
+
 
 Moves to the parent entity. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutenumerator/moveparent/
 ---
+## LayoutEnumerator.MoveParent method
+
 
 Moves to the parent entity of the specified type. 
 

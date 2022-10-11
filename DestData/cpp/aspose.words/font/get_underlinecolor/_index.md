@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_underlinecolor/
 ---
+## Font.get_UnderlineColor method
+
 
 Gets or sets the color of the underline applied to the font. 
 

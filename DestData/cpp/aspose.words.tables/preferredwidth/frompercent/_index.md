@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/preferredwidth/frompercent/
 ---
+## PreferredWidth.FromPercent method
+
 
 A creation method that returns a new instance that represents a preferred width specified as a percentage. 
 

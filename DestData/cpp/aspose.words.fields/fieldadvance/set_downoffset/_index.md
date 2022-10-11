@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldadvance/set_downoffset/
 ---
+## FieldAdvance.set_DownOffset method
+
 
 Setter for Aspose::Words::Fields::FieldAdvance::get_DownOffset. 
 

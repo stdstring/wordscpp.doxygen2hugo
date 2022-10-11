@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/glossarydocument/get_firstbuildingblock/
 ---
+## GlossaryDocument.get_FirstBuildingBlock method
+
 
 Gets the first building block in the glossary document. 
 

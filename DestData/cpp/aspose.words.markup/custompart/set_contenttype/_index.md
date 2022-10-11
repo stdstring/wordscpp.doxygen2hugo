@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/custompart/set_contenttype/
 ---
+## CustomPart.set_ContentType method
+
 
 Setter for Aspose::Words::Markup::CustomPart::get_ContentType. 
 

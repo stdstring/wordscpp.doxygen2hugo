@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/odtsaveoptions/odtsaveoptions/
 ---
+## OdtSaveOptions.OdtSaveOptions method
+
 
 Initializes a new instance of this class that can be used to save a document in the Odt format. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/odtsaveoptions/odtsaveoptions/
 ---
+## OdtSaveOptions.OdtSaveOptions method
+
 
 Initializes a new instance of this class that can be used to save a document in the Odt or Ott format. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/odtsaveoptions/odtsaveoptions/
 ---
+## OdtSaveOptions.OdtSaveOptions method
+
 
 Initializes a new instance of this class that can be used to save a document in the Odt format encrypted with a password. 
 

@@ -15,5 +15,5 @@ Implements the USERNAME field.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_UserName](./get_username/)() | Gest or sets the current user's name.  |
-| void [set_UserName](./set_username/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserName::get_UserName.  |
+| [get_UserName](./get_username/)() | Gest or sets the current user's name.  |
+| [set_UserName](./set_username/)(const System::String &) | Setter for Aspose::Words::Fields::FieldUserName::get_UserName.  |

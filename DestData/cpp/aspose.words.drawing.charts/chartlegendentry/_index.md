@@ -15,6 +15,6 @@ Represents a chart legend entry.
 
 | Method | Description |
 | --- | --- |
-| System::SharedPtr< Aspose::Words::Font > [get_Font](./get_font/)() | Provides access to the font formatting of this legend entry.  |
-| bool [get_IsHidden](./get_ishidden/)() const | Gets a value indicating whether this entry is hidden in the chart legend. The default value is **false**.  |
-| void [set_IsHidden](./set_ishidden/)(bool) | Sets a value indicating whether this entry is hidden in the chart legend. The default value is **false**.  |
+| [get_Font](./get_font/)() | Provides access to the font formatting of this legend entry.  |
+| [get_IsHidden](./get_ishidden/)() const | Gets a value indicating whether this entry is hidden in the chart legend. The default value is **false**.  |
+| [set_IsHidden](./set_ishidden/)(bool) | Sets a value indicating whether this entry is hidden in the chart legend. The default value is **false**.  |

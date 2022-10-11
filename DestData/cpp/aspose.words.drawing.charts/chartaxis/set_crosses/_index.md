@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_crosses/
 ---
+## ChartAxis.set_Crosses method
+
 
 Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Crosses. 
 

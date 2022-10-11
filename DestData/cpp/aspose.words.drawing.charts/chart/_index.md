@@ -15,11 +15,11 @@ Provides access to the chart shape properties.
 
 | Method | Description |
 | --- | --- |
-| System::SharedPtr< Aspose::Words::Drawing::Charts::ChartAxis > [get_AxisX](./get_axisx/)() | Provides access to properties of the X axis of the chart.  |
-| System::SharedPtr< Aspose::Words::Drawing::Charts::ChartAxis > [get_AxisY](./get_axisy/)() | Provides access to properties of the Y axis of the chart.  |
-| System::SharedPtr< Aspose::Words::Drawing::Charts::ChartAxis > [get_AxisZ](./get_axisz/)() | Provides access to properties of the Z axis of the chart.  |
-| System::SharedPtr< Aspose::Words::Drawing::Charts::ChartLegend > [get_Legend](./get_legend/)() | Provides access to the chart legend properties.  |
-| System::SharedPtr< Aspose::Words::Drawing::Charts::ChartSeriesCollection > [get_Series](./get_series/)() | Provides access to series collection.  |
-| System::String [get_SourceFullName](./get_sourcefullname/)() | Gets the path and name of an xls/xlsx file this chart is linked to.  |
-| System::SharedPtr< Aspose::Words::Drawing::Charts::ChartTitle > [get_Title](./get_title/)() | Provides access to the chart title properties.  |
-| void [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Gets the path and name of an xls/xlsx file this chart is linked to.  |
+| [get_AxisX](./get_axisx/)() | Provides access to properties of the X axis of the chart.  |
+| [get_AxisY](./get_axisy/)() | Provides access to properties of the Y axis of the chart.  |
+| [get_AxisZ](./get_axisz/)() | Provides access to properties of the Z axis of the chart.  |
+| [get_Legend](./get_legend/)() | Provides access to the chart legend properties.  |
+| [get_Series](./get_series/)() | Provides access to series collection.  |
+| [get_SourceFullName](./get_sourcefullname/)() | Gets the path and name of an xls/xlsx file this chart is linked to.  |
+| [get_Title](./get_title/)() | Provides access to the chart title properties.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Gets the path and name of an xls/xlsx file this chart is linked to.  |

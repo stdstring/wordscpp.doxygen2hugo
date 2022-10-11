@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/get_sourcefullname/
 ---
+## ImageData.get_SourceFullName method
+
 
 Gets or sets the path and name of the source file for the linked image. 
 

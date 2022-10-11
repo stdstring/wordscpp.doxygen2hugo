@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/formfieldcollection/idx_get/
 ---
+## FormFieldCollection.idx_get method
+
 
 Returns a form field by bookmark name. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/formfieldcollection/idx_get/
 ---
+## FormFieldCollection.idx_get method
+
 
 Returns a form field at the specified index. 
 

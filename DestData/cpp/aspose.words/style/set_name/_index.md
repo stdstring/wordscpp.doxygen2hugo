@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/style/set_name/
 ---
+## Style.set_Name method
+
 
 Setter for Aspose::Words::Style::get_Name. 
 

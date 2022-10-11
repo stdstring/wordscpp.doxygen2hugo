@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/xpssaveoptions/get_outlineoptions/
 ---
+## XpsSaveOptions.get_OutlineOptions method
+
 
 Allows to specify outline options. 
 

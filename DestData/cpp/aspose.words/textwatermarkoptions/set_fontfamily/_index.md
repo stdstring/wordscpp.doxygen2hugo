@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/textwatermarkoptions/set_fontfamily/
 ---
+## TextWatermarkOptions.set_FontFamily method
+
 
 Setter for Aspose::Words::TextWatermarkOptions::get_FontFamily. 
 

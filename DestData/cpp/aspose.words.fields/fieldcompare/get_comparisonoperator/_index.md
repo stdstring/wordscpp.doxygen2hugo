@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldcompare/get_comparisonoperator/
 ---
+## FieldCompare.get_ComparisonOperator method
+
 
 Gets or sets the comparison operator. 
 

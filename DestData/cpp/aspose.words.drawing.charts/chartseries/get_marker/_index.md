@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartseries/get_marker/
 ---
+## ChartSeries.get_Marker method
+
 
 Specifies a data marker. Marker is automatically created when requested. 
 

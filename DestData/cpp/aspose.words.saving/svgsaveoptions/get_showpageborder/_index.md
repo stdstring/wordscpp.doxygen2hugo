@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/svgsaveoptions/get_showpageborder/
 ---
+## SvgSaveOptions.get_ShowPageBorder method
+
 
 Controls whether a border is added to the outline of the page. Default is **true**. 
 

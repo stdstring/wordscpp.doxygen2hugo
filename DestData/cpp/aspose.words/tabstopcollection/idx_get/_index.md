@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tabstopcollection/idx_get/
 ---
+## TabStopCollection.idx_get method
+
 
 Gets a tab stop at the specified position. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tabstopcollection/idx_get/
 ---
+## TabStopCollection.idx_get method
+
 
 Gets a tab stop at the given index. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/get_document/
 ---
+## DocumentBuilder.get_Document method
+
 
 Gets or sets the Document object that this object is attached to. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkcollection/remove/
 ---
+## BookmarkCollection.Remove method
+
 
 Removes the specified bookmark from the document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkcollection/remove/
 ---
+## BookmarkCollection.Remove method
+
 
 Removes a bookmark with the specified name. 
 

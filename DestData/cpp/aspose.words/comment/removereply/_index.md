@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/comment/removereply/
 ---
+## Comment.RemoveReply method
+
 
 Removes the specified reply to this comment. 
 

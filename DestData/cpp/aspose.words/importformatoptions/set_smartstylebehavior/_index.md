@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/importformatoptions/set_smartstylebehavior/
 ---
+## ImportFormatOptions.set_SmartStyleBehavior method
+
 
 Setter for Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbase/get_lists/
 ---
+## DocumentBase.get_Lists method
+
 
 Provides access to the list formatting used in the document. 
 

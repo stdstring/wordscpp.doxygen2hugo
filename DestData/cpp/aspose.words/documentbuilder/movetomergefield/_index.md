@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/movetomergefield/
 ---
+## DocumentBuilder.MoveToMergeField method
+
 
 Moves the cursor to a position just beyond the specified merge field and removes the merge field. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/movetomergefield/
 ---
+## DocumentBuilder.MoveToMergeField method
+
 
 Moves the merge field to the specified merge field. 
 

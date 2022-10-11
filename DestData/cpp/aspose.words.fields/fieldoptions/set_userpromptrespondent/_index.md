@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldoptions/set_userpromptrespondent/
 ---
+## FieldOptions.set_UserPromptRespondent method
+
 
 Setter for Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent. 
 

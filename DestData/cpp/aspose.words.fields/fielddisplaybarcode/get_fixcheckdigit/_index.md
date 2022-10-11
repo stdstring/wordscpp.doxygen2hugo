@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_fixcheckdigit/
 ---
+## FieldDisplayBarcode.get_FixCheckDigit method
+
 
 Gets or sets whether to fix the check digit if it’s invalid. 
 

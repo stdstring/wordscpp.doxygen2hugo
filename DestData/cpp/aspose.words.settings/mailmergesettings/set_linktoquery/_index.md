@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/mailmergesettings/set_linktoquery/
 ---
+## MailMergeSettings.set_LinkToQuery method
+
 
 Setter for Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery. 
 

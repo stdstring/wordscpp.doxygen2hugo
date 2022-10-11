@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/idx_get/
 ---
+## DigitalSignatureCollection.idx_get method
+
 
 Gets a document signature at the specified index. 
 

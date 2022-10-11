@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldgreetingline/get_languageid/
 ---
+## FieldGreetingLine.get_LanguageId method
+
 
 Gets the language id used to format the name. 
 

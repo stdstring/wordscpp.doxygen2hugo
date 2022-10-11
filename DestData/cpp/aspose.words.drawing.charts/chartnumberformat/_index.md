@@ -15,7 +15,7 @@ Represents number formatting of the parent element.
 
 | Method | Description |
 | --- | --- |
-| System::String [get_FormatCode](./get_formatcode/)() | Gets or sets the format code applied to a data label.  |
-| bool [get_IsLinkedToSource](./get_islinkedtosource/)() | Specifies whether the format code is linked to a source cell. Default is true.  |
-| void [set_FormatCode](./set_formatcode/)(const System::String &) | Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode.  |
-| void [set_IsLinkedToSource](./set_islinkedtosource/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource.  |
+| [get_FormatCode](./get_formatcode/)() | Gets or sets the format code applied to a data label.  |
+| [get_IsLinkedToSource](./get_islinkedtosource/)() | Specifies whether the format code is linked to a source cell. Default is true.  |
+| [set_FormatCode](./set_formatcode/)(const System::String &) | Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode.  |
+| [set_IsLinkedToSource](./set_islinkedtosource/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource.  |

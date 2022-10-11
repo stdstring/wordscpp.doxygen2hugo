@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themecolors/set_hyperlink/
 ---
+## ThemeColors.set_Hyperlink method
+
 
 Setter for Aspose::Words::Themes::ThemeColors::get_Hyperlink. 
 

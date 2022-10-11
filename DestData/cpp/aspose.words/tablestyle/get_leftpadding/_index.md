@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tablestyle/get_leftpadding/
 ---
+## TableStyle.get_LeftPadding method
+
 
 Gets or sets the amount of space (in points) to add to the left of the contents of table cells. 
 

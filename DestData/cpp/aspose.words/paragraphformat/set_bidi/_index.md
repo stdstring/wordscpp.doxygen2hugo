@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/paragraphformat/set_bidi/
 ---
+## ParagraphFormat.set_Bidi method
+
 
 Setter for Aspose::Words::ParagraphFormat::get_Bidi. 
 

@@ -15,4 +15,4 @@ An argument passed into Notify().
 
 | Method | Description |
 | --- | --- |
-| double [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress.  |
+| [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress.  |

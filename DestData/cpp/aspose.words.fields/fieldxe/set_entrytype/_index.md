@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldxe/set_entrytype/
 ---
+## FieldXE.set_EntryType method
+
 
 Setter for Aspose::Words::Fields::FieldXE::get_EntryType. 
 

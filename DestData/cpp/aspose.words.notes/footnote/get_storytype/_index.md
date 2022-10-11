@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnote/get_storytype/
 ---
+## Footnote.get_StoryType method
+
 
 Returns **StoryType.Footnotes** or **StoryType.Endnotes**. 
 

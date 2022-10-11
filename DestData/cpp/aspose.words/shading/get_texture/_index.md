@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/shading/get_texture/
 ---
+## Shading.get_Texture method
+
 
 Gets or sets the shading texture. 
 

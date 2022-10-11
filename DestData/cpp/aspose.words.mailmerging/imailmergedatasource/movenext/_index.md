@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/imailmergedatasource/movenext/
 ---
+## IMailMergeDataSource.MoveNext method
+
 
 Advances to the next record in the data source. 
 

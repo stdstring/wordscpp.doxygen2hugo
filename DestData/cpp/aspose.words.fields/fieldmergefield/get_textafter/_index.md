@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldmergefield/get_textafter/
 ---
+## FieldMergeField.get_TextAfter method
+
 
 Gets the text to be inserted after the field if the field is not blank. 
 

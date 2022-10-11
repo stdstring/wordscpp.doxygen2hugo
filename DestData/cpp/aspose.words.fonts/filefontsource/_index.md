@@ -15,9 +15,9 @@ Represents the single TrueType font file stored in the file system.
 
 | Method | Description |
 | --- | --- |
-|  [FileFontSource](./filefontsource/)(const System::String &) | Ctor.  |
-|  [FileFontSource](./filefontsource/)(const System::String &, int32_t) | Ctor.  |
-|  [FileFontSource](./filefontsource/)(const System::String &, int32_t, const System::String &) | Ctor.  |
-| System::String [get_CacheKey](./get_cachekey/)() const | The key of this source in the cache.  |
-| System::String [get_FilePath](./get_filepath/)() const | Path to the font file.  |
-| Aspose::Words::Fonts::FontSourceType [get_Type](./get_type/)() override | Returns the type of the font source.  |
+| [FileFontSource](./filefontsource/)(const System::String &) | Ctor.  |
+| [FileFontSource](./filefontsource/)(const System::String &, int32_t) | Ctor.  |
+| [FileFontSource](./filefontsource/)(const System::String &, int32_t, const System::String &) | Ctor.  |
+| [get_CacheKey](./get_cachekey/)() const | The key of this source in the cache.  |
+| [get_FilePath](./get_filepath/)() const | Path to the font file.  |
+| [get_Type](./get_type/)() override | Returns the type of the font source.  |

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/imagedata/get_cropbottom/
 ---
+## ImageData.get_CropBottom method
+
 
 Defines the fraction of picture removal from the bottom side. 
 

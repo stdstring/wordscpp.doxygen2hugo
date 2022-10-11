@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shape/get_strokeweight/
 ---
+## Shape.get_StrokeWeight method
+
 
 Defines the brush thickness that strokes the path of a shape in points. 
 

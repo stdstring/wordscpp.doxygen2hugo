@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldchar/get_fieldtype/
 ---
+## FieldChar.get_FieldType method
+
 
 Returns the type of the field. 
 

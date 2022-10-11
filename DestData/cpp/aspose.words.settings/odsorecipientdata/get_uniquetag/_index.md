@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/odsorecipientdata/get_uniquetag/
 ---
+## OdsoRecipientData.get_UniqueTag method
+
 
 Specifies the contents of a given record in the column containing unique data. The default value is **null**. 
 

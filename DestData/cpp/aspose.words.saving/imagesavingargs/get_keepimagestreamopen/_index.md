@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagesavingargs/get_keepimagestreamopen/
 ---
+## ImageSavingArgs.get_KeepImageStreamOpen method
+
 
 Specifies whether Aspose.Words should keep the stream open or close it after saving an image. 
 

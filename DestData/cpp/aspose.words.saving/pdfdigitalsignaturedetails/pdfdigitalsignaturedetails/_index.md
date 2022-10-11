@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/
 ---
+## PdfDigitalSignatureDetails.PdfDigitalSignatureDetails method
+
 
 Initializes an instance of this class. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/
 ---
+## PdfDigitalSignatureDetails.PdfDigitalSignatureDetails method
+
 
 Initializes an instance of this class. 
 

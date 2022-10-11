@@ -15,4 +15,4 @@ Provides typed access to a collection of Comment nodes.
 
 | Method | Description |
 | --- | --- |
-| System::SharedPtr< Aspose::Words::Comment > [idx_get](./idx_get/)(int32_t) | Retrieves a **Comment** at the given index.  |
+| [idx_get](./idx_get/)(int32_t) | Retrieves a **Comment** at the given index.  |

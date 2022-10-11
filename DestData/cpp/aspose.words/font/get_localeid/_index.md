@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_localeid/
 ---
+## Font.get_LocaleId method
+
 
 Gets or sets the locale identifier (language) of the formatted characters. 
 

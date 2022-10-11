@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/signatureline/set_defaultinstructions/
 ---
+## SignatureLine.set_DefaultInstructions method
+
 
 Setter for Aspose::Words::Drawing::SignatureLine::get_DefaultInstructions. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/watermark/setimage/
 ---
+## Watermark.SetImage method
+
 
 Adds Image watermark into the document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/watermark/setimage/
 ---
+## Watermark.SetImage method
+
 
 Adds Image watermark into the document. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/watermark/setimage/
 ---
+## Watermark.SetImage method
+
 
 Adds Image watermark into the document. 
 

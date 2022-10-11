@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/set_grammarchecked/
 ---
+## Document.set_GrammarChecked method
+
 
 Setter for Aspose::Words::Document::get_GrammarChecked. 
 

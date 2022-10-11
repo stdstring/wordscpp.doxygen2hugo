@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.comparing/compareoptions/get_ignoretables/
 ---
+## CompareOptions.get_IgnoreTables method
+
 
 Specifies whether to compare the differences in data contained in tables. By default tables are not ignored. 
 

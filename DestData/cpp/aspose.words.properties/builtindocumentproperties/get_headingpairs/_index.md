@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_headingpairs/
 ---
+## BuiltInDocumentProperties.get_HeadingPairs method
+
 
 Specifies document headings and their names. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbase/set_backgroundshape/
 ---
+## DocumentBase.set_BackgroundShape method
+
 
 Setter for Aspose::Words::DocumentBase::get_BackgroundShape. 
 

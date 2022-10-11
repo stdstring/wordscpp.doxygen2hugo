@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontinfocollection/idx_get/
 ---
+## FontInfoCollection.idx_get method
+
 
 Gets a font with the specified name. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontinfocollection/idx_get/
 ---
+## FontInfoCollection.idx_get method
+
 
 Gets a font at the specified index. 
 

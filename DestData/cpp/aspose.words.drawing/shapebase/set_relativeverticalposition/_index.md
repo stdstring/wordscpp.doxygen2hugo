@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapebase/set_relativeverticalposition/
 ---
+## ShapeBase.set_RelativeVerticalPosition method
+
 
 Setter for Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition. 
 

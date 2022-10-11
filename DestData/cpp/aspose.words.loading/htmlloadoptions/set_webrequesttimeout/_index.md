@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/htmlloadoptions/set_webrequesttimeout/
 ---
+## HtmlLoadOptions.set_WebRequestTimeout method
+
 
 Setter for Aspose::Words::Loading::HtmlLoadOptions::get_WebRequestTimeout. 
 

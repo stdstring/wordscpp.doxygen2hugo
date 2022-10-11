@@ -15,7 +15,7 @@ Represents an end of **ranged** structured document tag which accepts multi-sect
 
 | Method | Description |
 | --- | --- |
-|  [StructuredDocumentTagRangeEnd](./structureddocumenttagrangeend/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, int32_t) | Initializes a new instance of the **Structured document tag range end** class.  |
-| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| int32_t [get_Id](./get_id/)() const | Specifies a unique read-only persistent numerical Id for this **StructuredDocumentTagRange** node. Corresponding StructuredDocumentTagRangeStart node has the same Id.  |
-| Aspose::Words::NodeType [get_NodeType](./get_nodetype/)() const override | Gets the type of this node.  |
+| [StructuredDocumentTagRangeEnd](./structureddocumenttagrangeend/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, int32_t) | Initializes a new instance of the **Structured document tag range end** class.  |
+| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [get_Id](./get_id/)() const | Specifies a unique read-only persistent numerical Id for this **StructuredDocumentTagRange** node. Corresponding StructuredDocumentTagRangeStart node has the same Id.  |
+| [get_NodeType](./get_nodetype/)() const override | Gets the type of this node.  |

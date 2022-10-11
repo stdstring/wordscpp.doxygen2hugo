@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldskipif/set_leftexpression/
 ---
+## FieldSkipIf.set_LeftExpression method
+
 
 Sets the left part of the comparison expression. 
 

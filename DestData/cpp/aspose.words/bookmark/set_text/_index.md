@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmark/set_text/
 ---
+## Bookmark.set_Text method
+
 
 Setter for Aspose::Words::Bookmark::get_Text. 
 

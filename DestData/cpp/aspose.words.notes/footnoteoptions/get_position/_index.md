@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnoteoptions/get_position/
 ---
+## FootnoteOptions.get_Position method
+
 
 Specifies the footnotes position. 
 

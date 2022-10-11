@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/get_textposition/
 ---
+## ListLevel.get_TextPosition method
+
 
 Returns or sets the position (in points) for the second line of wrapping text for the list level. 
 

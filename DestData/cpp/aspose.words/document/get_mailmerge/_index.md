@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/get_mailmerge/
 ---
+## Document.get_MailMerge method
+
 
 Returns a **MailMerge** object that represents the mail merge functionality for the document. 
 

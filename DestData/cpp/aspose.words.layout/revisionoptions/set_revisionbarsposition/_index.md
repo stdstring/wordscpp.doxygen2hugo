@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/revisionoptions/set_revisionbarsposition/
 ---
+## RevisionOptions.set_RevisionBarsPosition method
+
 
 Sets rendering position of revision bars. Default value is Outside. 
 

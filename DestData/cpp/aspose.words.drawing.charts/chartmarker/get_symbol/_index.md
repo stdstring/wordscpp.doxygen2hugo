@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartmarker/get_symbol/
 ---
+## ChartMarker.get_Symbol method
+
 
 Gets or sets chart marker symbol. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_leftmargin/
 ---
+## PageSetup.get_LeftMargin method
+
 
 Returns or sets the distance (in points) between the left edge of the page and the left boundary of the body text. 
 

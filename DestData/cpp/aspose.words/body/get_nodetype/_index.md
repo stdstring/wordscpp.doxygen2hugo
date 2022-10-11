@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/body/get_nodetype/
 ---
+## Body.get_NodeType method
+
 
 Returns **NodeType.Body**. 
 

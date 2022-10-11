@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbamodule/clone/
 ---
+## VbaModule.Clone method
+
 
 Performs a copy of the VbaModule. 
 

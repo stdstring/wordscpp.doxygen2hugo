@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fielddde/get_insertaspicture/
 ---
+## FieldDde.get_InsertAsPicture method
+
 
 Gets or sets whether to insert the linked object as a picture. 
 

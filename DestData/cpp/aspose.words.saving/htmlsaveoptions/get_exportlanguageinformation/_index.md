@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportlanguageinformation/
 ---
+## HtmlSaveOptions.get_ExportLanguageInformation method
+
 
 Specifies whether language information is exported to HTML, MHTML or EPUB. Default is **false**. 
 

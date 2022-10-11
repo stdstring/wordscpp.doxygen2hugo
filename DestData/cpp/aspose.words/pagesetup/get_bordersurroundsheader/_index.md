@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/get_bordersurroundsheader/
 ---
+## PageSetup.get_BorderSurroundsHeader method
+
 
 Specifies whether the page border includes or excludes the header. 
 

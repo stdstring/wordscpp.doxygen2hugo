@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/node/remove/
 ---
+## Node.Remove method
+
 
 Removes itself from the parent. 
 

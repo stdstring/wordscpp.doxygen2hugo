@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/txtloadoptions/get_trailingspacesoptions/
 ---
+## TxtLoadOptions.get_TrailingSpacesOptions method
+
 
 Gets or sets preferred option of a trailing space handling. Default value is Trim. 
 

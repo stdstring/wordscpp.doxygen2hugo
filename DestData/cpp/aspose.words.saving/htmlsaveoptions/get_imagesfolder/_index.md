@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_imagesfolder/
 ---
+## HtmlSaveOptions.get_ImagesFolder method
+
 
 Specifies the physical folder where images are saved when exporting a document to HTML format. Default is an empty string. 
 

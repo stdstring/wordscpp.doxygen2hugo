@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlschemacollection/remove/
 ---
+## CustomXmlSchemaCollection.Remove method
+
 
 Removes the specified value from the collection. 
 

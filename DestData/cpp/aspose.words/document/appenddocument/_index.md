@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/appenddocument/
 ---
+## Document.AppendDocument method
+
 
 Appends the specified document to the end of this document. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/appenddocument/
 ---
+## Document.AppendDocument method
+
 
 Appends the specified document to the end of this document. 
 

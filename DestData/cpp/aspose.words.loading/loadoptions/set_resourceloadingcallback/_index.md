@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/loadoptions/set_resourceloadingcallback/
 ---
+## LoadOptions.set_ResourceLoadingCallback method
+
 
 Setter for Aspose::Words::Loading::LoadOptions::get_ResourceLoadingCallback. 
 

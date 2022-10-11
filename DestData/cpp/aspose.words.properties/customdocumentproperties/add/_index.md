@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
+## CustomDocumentProperties.Add method
+
 
 Creates a new custom document property of the **PropertyType.Boolean** data type. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
+## CustomDocumentProperties.Add method
+
 
 Creates a new custom document property of the **PropertyType.String** data type. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
+## CustomDocumentProperties.Add method
+
 
 Creates a new custom document property of the **PropertyType.Float** data type. 
 
@@ -39,6 +45,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
+## CustomDocumentProperties.Add method
+
 
 Creates a new custom document property of the **PropertyType.Number** data type. 
 
@@ -50,6 +58,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
+## CustomDocumentProperties.Add method
+
 
 Creates a new custom document property of the **PropertyType.DateTime** data type. 
 

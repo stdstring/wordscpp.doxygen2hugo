@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/controlchar/sectionbreak/
 ---
+## ControlChar.SectionBreak method
+
 
 End of section character: "\x000c" or "\f". Note it has the same value as PageBreak. 
 

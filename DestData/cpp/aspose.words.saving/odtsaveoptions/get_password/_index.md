@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/odtsaveoptions/get_password/
 ---
+## OdtSaveOptions.get_Password method
+
 
 Gets or sets a password to encrypt document. 
 

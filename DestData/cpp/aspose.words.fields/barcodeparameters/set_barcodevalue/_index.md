@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/barcodeparameters/set_barcodevalue/
 ---
+## BarcodeParameters.set_BarcodeValue method
+
 
 Data to be encoded. 
 

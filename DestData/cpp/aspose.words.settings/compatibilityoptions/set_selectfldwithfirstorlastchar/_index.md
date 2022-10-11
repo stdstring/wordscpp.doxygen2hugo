@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/set_selectfldwithfirstorlastchar/
 ---
+## CompatibilityOptions.set_SelectFldWithFirstOrLastChar method
+
 
 Select Field When First or Last Character Is Selected. 
 

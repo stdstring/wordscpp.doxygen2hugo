@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bordercollection/set_shadow/
 ---
+## BorderCollection.set_Shadow method
+
 
 Setter for Aspose::Words::BorderCollection::get_Shadow. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pagesavingargs/get_pagestream/
 ---
+## PageSavingArgs.get_PageStream method
+
 
 Allows to specify the stream where the document page will be saved to. 
 

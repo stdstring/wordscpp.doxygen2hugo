@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.framesets/frameset/set_isframelinktofile/
 ---
+## Frameset.set_IsFrameLinkToFile method
+
 
 Setter for Aspose::Words::Framesets::Frameset::get_IsFrameLinkToFile. 
 

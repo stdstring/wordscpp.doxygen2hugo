@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpartcollection/clone/
 ---
+## CustomXmlPartCollection.Clone method
+
 
 Makes a deep copy of this collection and its items. 
 

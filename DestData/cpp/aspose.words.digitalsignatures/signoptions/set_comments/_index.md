@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.digitalsignatures/signoptions/set_comments/
 ---
+## SignOptions.set_Comments method
+
 
 Setter for Aspose::Words::DigitalSignatures::SignOptions::get_Comments. 
 

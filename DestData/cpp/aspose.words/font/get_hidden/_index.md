@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/font/get_hidden/
 ---
+## Font.get_Hidden method
+
 
 True if the font is formatted as hidden text. 
 

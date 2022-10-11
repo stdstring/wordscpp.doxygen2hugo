@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ---
+## MemoryFontSource.MemoryFontSource method
+
 
 Ctor. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ---
+## MemoryFontSource.MemoryFontSource method
+
 
 Ctor. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ---
+## MemoryFontSource.MemoryFontSource method
+
 
 Ctor. 
 

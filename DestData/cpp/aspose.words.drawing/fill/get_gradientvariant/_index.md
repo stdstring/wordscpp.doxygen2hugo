@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/fill/get_gradientvariant/
 ---
+## Fill.get_GradientVariant method
+
 
 Gets the gradient variant GradientVariant for the fill. 
 

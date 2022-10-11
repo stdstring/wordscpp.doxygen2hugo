@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_noleading/
 ---
+## CompatibilityOptions.get_NoLeading method
+
 
 Do Not Add Leading Between Lines of Text. 
 

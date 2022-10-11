@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/get_count/
 ---
+## ChartSeriesCollection.get_Count method
+
 
 Returns the number of ChartSeries in this collection. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/signaturelineoptions/set_allowcomments/
 ---
+## SignatureLineOptions.set_AllowComments method
+
 
 Setter for Aspose::Words::SignatureLineOptions::get_AllowComments. 
 

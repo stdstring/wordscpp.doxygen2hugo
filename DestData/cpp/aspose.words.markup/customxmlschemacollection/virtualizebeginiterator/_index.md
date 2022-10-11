@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlschemacollection/virtualizebeginiterator/
 ---
+## CustomXmlSchemaCollection.virtualizeBeginIterator method
+
 
 
 

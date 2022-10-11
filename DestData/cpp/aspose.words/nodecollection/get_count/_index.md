@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/nodecollection/get_count/
 ---
+## NodeCollection.get_Count method
+
 
 Gets the number of nodes in the collection. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/updatefields/
 ---
+## Document.UpdateFields method
+
 
 Updates the values of fields in the whole document. 
 

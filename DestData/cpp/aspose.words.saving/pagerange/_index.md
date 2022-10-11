@@ -15,4 +15,4 @@ Represents a continuous range of pages.
 
 | Method | Description |
 | --- | --- |
-|  [PageRange](./pagerange/)(int32_t, int32_t) | Creates a new page range object.  |
+| [PageRange](./pagerange/)(int32_t, int32_t) | Creates a new page range object.  |

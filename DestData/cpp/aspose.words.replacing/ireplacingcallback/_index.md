@@ -15,4 +15,4 @@ Implement this interface if you want to have your own custom method called durin
 
 | Method | Description |
 | --- | --- |
-| virtual Aspose::Words::Replacing::ReplaceAction [Replacing](./replacing/)(System::SharedPtr< Aspose::Words::Replacing::ReplacingArgs >) | A user defined method that is called during a replace operation for each match found just before a replace is made.  |
+| virtual [Replacing](./replacing/)(System::SharedPtr< Aspose::Words::Replacing::ReplacingArgs >) | A user defined method that is called during a replace operation for each match found just before a replace is made.  |

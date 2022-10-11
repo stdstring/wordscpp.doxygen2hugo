@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/compatibilityoptions/get_splitpgbreakandparamark/
 ---
+## CompatibilityOptions.get_SplitPgBreakAndParaMark method
+
 
 Always Move Paragraph Mark to Page after a Page Break. 
 

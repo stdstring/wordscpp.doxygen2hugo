@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fielddocvariable/set_variablename/
 ---
+## FieldDocVariable.set_VariableName method
+
 
 Setter for Aspose::Words::Fields::FieldDocVariable::get_VariableName. 
 

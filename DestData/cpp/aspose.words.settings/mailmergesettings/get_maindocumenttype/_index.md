@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.settings/mailmergesettings/get_maindocumenttype/
 ---
+## MailMergeSettings.get_MainDocumentType method
+
 
 Specifies the mail-merge main document type. The default value is Default. 
 

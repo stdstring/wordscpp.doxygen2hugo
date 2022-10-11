@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldcollection/idx_get/
 ---
+## FieldCollection.idx_get method
+
 
 Returns a field at the specified index. 
 

@@ -15,4 +15,4 @@ Provides methods to render an individual Shape or GroupShape to a raster or vect
 
 | Method | Description |
 | --- | --- |
-|  [ShapeRenderer](./shaperenderer/)(const System::SharedPtr< Aspose::Words::Drawing::ShapeBase > &) | Initializes a new instance of this class.  |
+| [ShapeRenderer](./shaperenderer/)(const System::SharedPtr< Aspose::Words::Drawing::ShapeBase > &) | Initializes a new instance of this class.  |

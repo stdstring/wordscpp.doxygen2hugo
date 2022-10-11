@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/endrow/
 ---
+## DocumentBuilder.EndRow method
+
 
 Ends a table row in the document. 
 

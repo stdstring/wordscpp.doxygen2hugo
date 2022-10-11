@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/editablerangestart/get_editablerange/
 ---
+## EditableRangeStart.get_EditableRange method
+
 
 Gets the facade object that encapsulates this editable range start and end. 
 

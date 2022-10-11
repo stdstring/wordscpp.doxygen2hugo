@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/saveoptions/get_imlrenderingmode/
 ---
+## SaveOptions.get_ImlRenderingMode method
+
 
 Gets or sets a value determining how ink (InkML) objects are rendered. 
 

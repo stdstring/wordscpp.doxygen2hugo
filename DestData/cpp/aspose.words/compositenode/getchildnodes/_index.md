@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/compositenode/getchildnodes/
 ---
+## CompositeNode.GetChildNodes method
+
 
 Returns a live collection of child nodes that match the specified type. 
 

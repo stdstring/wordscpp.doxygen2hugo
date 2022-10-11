@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldshape/set_text/
 ---
+## FieldShape.set_Text method
+
 
 Setter for Aspose::Words::Fields::FieldShape::get_Text. 
 

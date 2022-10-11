@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstylecollection/get_bottomleftcell/
 ---
+## ConditionalStyleCollection.get_BottomLeftCell method
+
 
 Gets the bottom left cell style. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldcitation/set_anothersourcetag/
 ---
+## FieldCitation.set_AnotherSourceTag method
+
 
 Setter for Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag. 
 

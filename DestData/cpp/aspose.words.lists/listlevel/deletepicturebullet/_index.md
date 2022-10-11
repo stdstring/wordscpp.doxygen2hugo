@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevel/deletepicturebullet/
 ---
+## ListLevel.DeletePictureBullet method
+
 
 Deletes picture bullet for the current list level. 
 

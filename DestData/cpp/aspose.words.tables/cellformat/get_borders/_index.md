@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/cellformat/get_borders/
 ---
+## CellFormat.get_Borders method
+
 
 Gets collection of borders of the cell. 
 

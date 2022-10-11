@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/documentproperty/tostring/
 ---
+## DocumentProperty.ToString method
+
 
 Returns the property value as a string formatted according to the current locale. 
 

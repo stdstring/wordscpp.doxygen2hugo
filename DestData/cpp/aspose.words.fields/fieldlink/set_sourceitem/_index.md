@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldlink/set_sourceitem/
 ---
+## FieldLink.set_SourceItem method
+
 
 Setter for Aspose::Words::Fields::FieldLink::get_SourceItem. 
 

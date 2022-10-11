@@ -15,7 +15,7 @@ Implement this interface to allow mail merge from a custom data source, such as 
 
 | Method | Description |
 | --- | --- |
-| virtual System::String [get_TableName](./get_tablename/)() | Returns the name of the data source.  |
-| virtual System::SharedPtr< Aspose::Words::MailMerging::IMailMergeDataSource > [GetChildDataSource](./getchilddatasource/)(System::String) | The Aspose.Words mail merge engine invokes this method when it encounters a beginning of a nested mail merge region.  |
-| virtual bool [GetValue](./getvalue/)(System::String, System::SharedPtr< System::Object > &) |  |
-| virtual bool [MoveNext](./movenext/)() | Advances to the next record in the data source.  |
+| virtual [get_TableName](./get_tablename/)() | Returns the name of the data source.  |
+| virtual [GetChildDataSource](./getchilddatasource/)(System::String) | The Aspose.Words mail merge engine invokes this method when it encounters a beginning of a nested mail merge region.  |
+| virtual [GetValue](./getvalue/)(System::String, System::SharedPtr< System::Object > &) |  |
+| virtual [MoveNext](./movenext/)() | Advances to the next record in the data source.  |

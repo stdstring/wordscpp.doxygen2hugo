@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/inlinestory/get_font/
 ---
+## InlineStory.get_Font method
+
 
 Provides access to the font formatting of the anchor character of this object. 
 

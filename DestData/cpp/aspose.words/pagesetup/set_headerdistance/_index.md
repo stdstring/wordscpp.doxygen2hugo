@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pagesetup/set_headerdistance/
 ---
+## PageSetup.set_HeaderDistance method
+
 
 Setter for Aspose::Words::PageSetup::get_HeaderDistance. 
 

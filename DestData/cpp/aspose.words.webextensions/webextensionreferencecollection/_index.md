@@ -15,4 +15,4 @@ Specifies a list of web extension references.
 
 | Method | Description |
 | --- | --- |
-| void [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |

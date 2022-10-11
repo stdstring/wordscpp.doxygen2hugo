@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/set_unit/
 ---
+## AxisDisplayUnit.set_Unit method
+
 
 Setter for Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_Unit. 
 

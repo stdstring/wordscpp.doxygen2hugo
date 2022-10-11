@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/border/get_linestyle/
 ---
+## Border.get_LineStyle method
+
 
 Gets or sets the border style. 
 

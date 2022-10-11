@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/movetobookmark/
 ---
+## DocumentBuilder.MoveToBookmark method
+
 
 Moves the cursor to a bookmark. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/documentbuilder/movetobookmark/
 ---
+## DocumentBuilder.MoveToBookmark method
+
 
 Moves the cursor to a bookmark with greater precision. 
 

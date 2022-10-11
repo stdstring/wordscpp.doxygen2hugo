@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_usebookfoldprintingsettings/
 ---
+## PdfSaveOptions.get_UseBookFoldPrintingSettings method
+
 
 Gets or sets a boolean value indicating whether the document should be saved using a booklet printing layout, if it is specified via MultiplePages. 
 

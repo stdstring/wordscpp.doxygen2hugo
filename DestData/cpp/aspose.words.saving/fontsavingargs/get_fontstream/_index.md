@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/fontsavingargs/get_fontstream/
 ---
+## FontSavingArgs.get_FontStream method
+
 
 Allows to specify the stream where the font will be saved to. 
 

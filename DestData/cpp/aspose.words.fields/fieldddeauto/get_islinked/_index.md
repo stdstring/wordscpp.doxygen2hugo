@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldddeauto/get_islinked/
 ---
+## FieldDdeAuto.get_IsLinked method
+
 
 Gets or sets whether to reduce the file size by not storing graphics data with the document. 
 

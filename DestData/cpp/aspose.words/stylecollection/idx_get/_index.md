@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/stylecollection/idx_get/
 ---
+## StyleCollection.idx_get method
+
 
 Gets a built-in style by its locale independent identifier. 
 
@@ -17,6 +19,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/stylecollection/idx_get/
 ---
+## StyleCollection.idx_get method
+
 
 Gets a style by name or alias. 
 
@@ -28,6 +32,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/stylecollection/idx_get/
 ---
+## StyleCollection.idx_get method
+
 
 Gets a style by index. 
 

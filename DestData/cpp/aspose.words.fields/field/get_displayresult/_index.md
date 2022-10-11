@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/field/get_displayresult/
 ---
+## Field.get_DisplayResult method
+
 
 Gets the text that represents the displayed field result. 
 
