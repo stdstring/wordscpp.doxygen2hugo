@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldembed/
 ---
+## FieldEmbed class
+
 
 Implements the EMBED field. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/commentcollection/
 ---
+## CommentCollection class
+
 
 Provides typed access to a collection of Comment nodes. 
 
@@ -13,4 +15,4 @@ Provides typed access to a collection of Comment nodes.
 
 | Method | Description |
 | --- | --- |
-| [idx_get](./idx_get/)(int32_t) | Retrieves a **Comment** at the given index.  |
+| System::SharedPtr< Aspose::Words::Comment > [idx_get](./idx_get/)(int32_t) | Retrieves a **Comment** at the given index.  |

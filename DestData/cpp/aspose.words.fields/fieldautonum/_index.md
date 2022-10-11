@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldautonum/
 ---
+## FieldAutoNum class
+
 
 Implements the AUTONUM field. 
 
@@ -13,5 +15,5 @@ Implements the AUTONUM field.
 
 | Method | Description |
 | --- | --- |
-| [get_SeparatorCharacter](./get_separatorcharacter/)() | Gets or sets the separator character to be used.  |
-| [set_SeparatorCharacter](./set_separatorcharacter/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter.  |
+| System::String [get_SeparatorCharacter](./get_separatorcharacter/)() | Gets or sets the separator character to be used.  |
+| void [set_SeparatorCharacter](./set_separatorcharacter/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter.  |

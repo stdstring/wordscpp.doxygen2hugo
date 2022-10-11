@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/runcollection/
 ---
+## RunCollection class
+
 
 Provides typed access to a collection of Run nodes. 
 
@@ -13,5 +15,5 @@ Provides typed access to a collection of Run nodes.
 
 | Method | Description |
 | --- | --- |
-| [idx_get](./idx_get/)(int32_t) | Retrieves a **Run** at the given index.  |
-| [ToArray](./toarray/)() | Copies all runs from the collection to a new array of runs.  |
+| System::SharedPtr< Aspose::Words::Run > [idx_get](./idx_get/)(int32_t) | Retrieves a **Run** at the given index.  |
+| System::ArrayPtr< System::SharedPtr< Aspose::Words::Run > > [ToArray](./toarray/)() | Copies all runs from the collection to a new array of runs.  |

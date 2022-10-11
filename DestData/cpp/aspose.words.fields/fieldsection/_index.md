@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldsection/
 ---
+## FieldSection class
+
 
 Implements the SECTION field. 
 

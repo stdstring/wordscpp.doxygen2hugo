@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldrd/
 ---
+## FieldRD class
+
 
 Implements the RD field. 
 
@@ -13,7 +15,7 @@ Implements the RD field.
 
 | Method | Description |
 | --- | --- |
-| [get_FileName](./get_filename/)() | Gets or sets the name of the file to include when generating a table of contents, table of authorities, or index.  |
-| [get_IsPathRelative](./get_ispathrelative/)() | Gets or sets whether the path is relative to the current document.  |
-| [set_FileName](./set_filename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldRD::get_FileName.  |
-| [set_IsPathRelative](./set_ispathrelative/)(bool) | Setter for Aspose::Words::Fields::FieldRD::get_IsPathRelative.  |
+| System::String [get_FileName](./get_filename/)() | Gets or sets the name of the file to include when generating a table of contents, table of authorities, or index.  |
+| bool [get_IsPathRelative](./get_ispathrelative/)() | Gets or sets whether the path is relative to the current document.  |
+| void [set_FileName](./set_filename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldRD::get_FileName.  |
+| void [set_IsPathRelative](./set_ispathrelative/)(bool) | Setter for Aspose::Words::Fields::FieldRD::get_IsPathRelative.  |

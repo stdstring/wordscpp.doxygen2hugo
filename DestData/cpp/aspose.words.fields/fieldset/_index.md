@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldset/
 ---
+## FieldSet class
+
 
 Implements the SET field. 
 
@@ -13,7 +15,7 @@ Implements the SET field.
 
 | Method | Description |
 | --- | --- |
-| [get_BookmarkName](./get_bookmarkname/)() | Gets or sets the name of the bookmark.  |
-| [get_BookmarkText](./get_bookmarktext/)() | Gets or sets the new text of the bookmark.  |
-| [set_BookmarkName](./set_bookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldSet::get_BookmarkName.  |
-| [set_BookmarkText](./set_bookmarktext/)(const System::String &) | Setter for Aspose::Words::Fields::FieldSet::get_BookmarkText.  |
+| System::String [get_BookmarkName](./get_bookmarkname/)() | Gets or sets the name of the bookmark.  |
+| System::String [get_BookmarkText](./get_bookmarktext/)() | Gets or sets the new text of the bookmark.  |
+| void [set_BookmarkName](./set_bookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldSet::get_BookmarkName.  |
+| void [set_BookmarkText](./set_bookmarktext/)(const System::String &) | Setter for Aspose::Words::Fields::FieldSet::get_BookmarkText.  |

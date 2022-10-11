@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldautotext/
 ---
+## FieldAutoText class
+
 
 Implements the AUTOTEXT field. 
 
@@ -13,5 +15,5 @@ Implements the AUTOTEXT field.
 
 | Method | Description |
 | --- | --- |
-| [get_EntryName](./get_entryname/)() override | Gets or sets the name of the AutoText entry.  |
-| [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoText::get_EntryName.  |
+| System::String [get_EntryName](./get_entryname/)() override | Gets or sets the name of the AutoText entry.  |
+| void [set_EntryName](./set_entryname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoText::get_EntryName.  |

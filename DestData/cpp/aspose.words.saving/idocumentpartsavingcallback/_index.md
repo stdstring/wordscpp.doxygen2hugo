@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/idocumentpartsavingcallback/
 ---
+## IDocumentPartSavingCallback class
+
 
 Implement this interface if you want to receive notifications and control how Aspose.Words saves document parts when exporting a document to Html or Epub format. 
 
@@ -13,4 +15,4 @@ Implement this interface if you want to receive notifications and control how As
 
 | Method | Description |
 | --- | --- |
-| virtual [DocumentPartSaving](./documentpartsaving/)(System::SharedPtr< Aspose::Words::Saving::DocumentPartSavingArgs >) | Called when Aspose.Words is about to save a document part.  |
+| virtual void [DocumentPartSaving](./documentpartsaving/)(System::SharedPtr< Aspose::Words::Saving::DocumentPartSavingArgs >) | Called when Aspose.Words is about to save a document part.  |

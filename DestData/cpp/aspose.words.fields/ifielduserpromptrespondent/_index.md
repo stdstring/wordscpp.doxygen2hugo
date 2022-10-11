@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ifielduserpromptrespondent/
 ---
+## IFieldUserPromptRespondent class
+
 
 Represents the respondent to user prompts during field update. 
 
@@ -13,4 +15,4 @@ Represents the respondent to user prompts during field update.
 
 | Method | Description |
 | --- | --- |
-| virtual [Respond](./respond/)(System::String, System::String) | When implemented, returns a response from the user on prompting. Your implementation should return **null** to indicate that the user has not responded to the prompt (i.e. the user has pressed the Cancel button in the prompt window).  |
+| virtual System::String [Respond](./respond/)(System::String, System::String) | When implemented, returns a response from the user on prompting. Your implementation should return **null** to indicate that the user has not responded to the prompt (i.e. the user has pressed the Cancel button in the prompt window).  |

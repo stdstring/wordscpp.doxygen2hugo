@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/documentloadingargs/
 ---
+## DocumentLoadingArgs class
+
 
 An argument passed into Notify(). 
 
@@ -13,4 +15,4 @@ An argument passed into Notify().
 
 | Method | Description |
 | --- | --- |
-| [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress.  |
+| double [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress.  |

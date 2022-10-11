@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldunknown/
 ---
+## FieldUnknown class
+
 
 Implements an unknown or unrecognized field. 
 
@@ -13,6 +15,6 @@ Implements an unknown or unrecognized field.
 
 | Method | Description |
 | --- | --- |
-| [get_End](./get_end/)() override | Gets the node that represents the field end.  |
-| [get_Separator](./get_separator/)() override | Gets the node that represents the field separator. Can be null.  |
-| [get_Start](./get_start/)() override | Gets the node that represents the start of the field.  |
+| System::SharedPtr< Aspose::Words::Fields::FieldEnd > [get_End](./get_end/)() override | Gets the node that represents the field end.  |
+| System::SharedPtr< Aspose::Words::Fields::FieldSeparator > [get_Separator](./get_separator/)() override | Gets the node that represents the field separator. Can be null.  |
+| System::SharedPtr< Aspose::Words::Fields::FieldStart > [get_Start](./get_start/)() override | Gets the node that represents the start of the field.  |

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/icsssavingcallback/
 ---
+## ICssSavingCallback class
+
 
 Implement this interface if you want to control how Aspose.Words saves CSS (Cascading Style Sheet) when saving a document to HTML. 
 
@@ -13,4 +15,4 @@ Implement this interface if you want to control how Aspose.Words saves CSS (Casc
 
 | Method | Description |
 | --- | --- |
-| virtual [CssSaving](./csssaving/)(System::SharedPtr< Aspose::Words::Saving::CssSavingArgs >) | Called when Aspose.Words saves an CSS (Cascading Style Sheet).  |
+| virtual void [CssSaving](./csssaving/)(System::SharedPtr< Aspose::Words::Saving::CssSavingArgs >) | Called when Aspose.Words saves an CSS (Cascading Style Sheet).  |

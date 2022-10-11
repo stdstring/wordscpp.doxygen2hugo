@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/webextensionreferencecollection/
 ---
+## WebExtensionReferenceCollection class
+
 
 Specifies a list of web extension references. 
 
@@ -13,4 +15,4 @@ Specifies a list of web extension references.
 
 | Method | Description |
 | --- | --- |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| void [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |

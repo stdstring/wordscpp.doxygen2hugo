@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/webextensionbindingcollection/
 ---
+## WebExtensionBindingCollection class
+
 
 Specifies a list of web extension bindings. 
 
@@ -13,4 +15,4 @@ Specifies a list of web extension bindings.
 
 | Method | Description |
 | --- | --- |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| void [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ibarcodegenerator/
 ---
+## IBarcodeGenerator class
+
 
 Public interface for barcode custom generator. Implementation should be provided by user. 
 
@@ -13,5 +15,5 @@ Public interface for barcode custom generator. Implementation should be provided
 
 | Method | Description |
 | --- | --- |
-| virtual [GetBarcodeImage](./getbarcodeimage/)(System::SharedPtr< Aspose::Words::Fields::BarcodeParameters >) | Generate barcode image using the set of parameters (for DisplayBarcode field).  |
-| virtual [GetOldBarcodeImage](./getoldbarcodeimage/)(System::SharedPtr< Aspose::Words::Fields::BarcodeParameters >) | Generate barcode image using the set of parameters (for old-fashioned Barcode field).  |
+| virtual System::SharedPtr< System::Drawing::Image > [GetBarcodeImage](./getbarcodeimage/)(System::SharedPtr< Aspose::Words::Fields::BarcodeParameters >) | Generate barcode image using the set of parameters (for DisplayBarcode field).  |
+| virtual System::SharedPtr< System::Drawing::Image > [GetOldBarcodeImage](./getoldbarcodeimage/)(System::SharedPtr< Aspose::Words::Fields::BarcodeParameters >) | Generate barcode image using the set of parameters (for old-fashioned Barcode field).  |

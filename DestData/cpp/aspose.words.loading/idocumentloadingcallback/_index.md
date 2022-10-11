@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/idocumentloadingcallback/
 ---
+## IDocumentLoadingCallback class
+
 
 Implement this interface if you want to have your own custom method called during loading a document. 
 
@@ -13,4 +15,4 @@ Implement this interface if you want to have your own custom method called durin
 
 | Method | Description |
 | --- | --- |
-| virtual [Notify](./notify/)(System::SharedPtr< Aspose::Words::Loading::DocumentLoadingArgs >) | This is called to notify of document loading progress.  |
+| virtual void [Notify](./notify/)(System::SharedPtr< Aspose::Words::Loading::DocumentLoadingArgs >) | This is called to notify of document loading progress.  |

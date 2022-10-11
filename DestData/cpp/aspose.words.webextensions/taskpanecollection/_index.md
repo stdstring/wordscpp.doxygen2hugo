@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/taskpanecollection/
 ---
+## TaskPaneCollection class
+
 
 Specifies a list of persisted task pane objects. 
 
@@ -13,4 +15,4 @@ Specifies a list of persisted task pane objects.
 
 | Method | Description |
 | --- | --- |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| void [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |

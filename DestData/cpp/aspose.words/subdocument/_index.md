@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/subdocument/
 ---
+## SubDocument class
+
 
 Represents a **SubDocument** - which is a reference to an externally stored document. 
 
@@ -13,5 +15,5 @@ Represents a **SubDocument** - which is a reference to an externally stored docu
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| [get_NodeType](./get_nodetype/)() const override | Returns **NodeType.SubDocument** |
+| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| Aspose::Words::NodeType [get_NodeType](./get_nodetype/)() const override | Returns **NodeType.SubDocument** |

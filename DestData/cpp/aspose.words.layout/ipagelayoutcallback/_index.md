@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/ipagelayoutcallback/
 ---
+## IPageLayoutCallback class
+
 
 Implement this interface if you want to have your own custom method called during build and rendering of page layout model. 
 
@@ -13,4 +15,4 @@ Implement this interface if you want to have your own custom method called durin
 
 | Method | Description |
 | --- | --- |
-| virtual [Notify](./notify/)(System::SharedPtr< Aspose::Words::Layout::PageLayoutCallbackArgs >) | This is called to notify of layout build and rendering progress.  |
+| virtual void [Notify](./notify/)(System::SharedPtr< Aspose::Words::Layout::PageLayoutCallbackArgs >) | This is called to notify of layout build and rendering progress.  |

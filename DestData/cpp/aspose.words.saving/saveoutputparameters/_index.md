@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/saveoutputparameters/
 ---
+## SaveOutputParameters class
+
 
 This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object. 
 
@@ -13,4 +15,4 @@ This object is returned to the caller after a document is saved and contains add
 
 | Method | Description |
 | --- | --- |
-| [get_ContentType](./get_contenttype/)() const | Returns the Content-Type string (Internet Media Type) that identifies the type of the saved document.  |
+| System::String [get_ContentType](./get_contenttype/)() const | Returns the Content-Type string (Internet Media Type) that identifies the type of the saved document.  |

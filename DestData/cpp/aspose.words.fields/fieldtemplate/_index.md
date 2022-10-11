@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldtemplate/
 ---
+## FieldTemplate class
+
 
 Implements the TEMPLATE field. 
 
@@ -13,5 +15,5 @@ Implements the TEMPLATE field.
 
 | Method | Description |
 | --- | --- |
-| [get_IncludeFullPath](./get_includefullpath/)() | Gets or sets whether to include the full file path name.  |
-| [set_IncludeFullPath](./set_includefullpath/)(bool) | Setter for Aspose::Words::Fields::FieldTemplate::get_IncludeFullPath.  |
+| bool [get_IncludeFullPath](./get_includefullpath/)() | Gets or sets whether to include the full file path name.  |
+| void [set_IncludeFullPath](./set_includefullpath/)(bool) | Setter for Aspose::Words::Fields::FieldTemplate::get_IncludeFullPath.  |

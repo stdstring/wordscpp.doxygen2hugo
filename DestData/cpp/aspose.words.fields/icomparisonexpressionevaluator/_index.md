@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/icomparisonexpressionevaluator/
 ---
+## IComparisonExpressionEvaluator class
+
 
 When implemented, allows to override default comparison expressions evaluation for the FieldIf and FieldCompare fields. 
 
@@ -13,4 +15,4 @@ When implemented, allows to override default comparison expressions evaluation f
 
 | Method | Description |
 | --- | --- |
-| virtual [Evaluate](./evaluate/)(System::SharedPtr< Aspose::Words::Fields::Field >, System::SharedPtr< Aspose::Words::Fields::ComparisonExpression >) | Evaluates comparison expression.  |
+| virtual System::SharedPtr< Aspose::Words::Fields::ComparisonEvaluationResult > [Evaluate](./evaluate/)(System::SharedPtr< Aspose::Words::Fields::Field >, System::SharedPtr< Aspose::Words::Fields::ComparisonExpression >) | Evaluates comparison expression.  |

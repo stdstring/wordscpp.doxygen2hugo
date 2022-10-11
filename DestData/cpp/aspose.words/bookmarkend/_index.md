@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/bookmarkend/
 ---
+## BookmarkEnd class
+
 
 Represents an end of a bookmark in a Word document. 
 
@@ -13,8 +15,8 @@ Represents an end of a bookmark in a Word document.
 
 | Method | Description |
 | --- | --- |
-| [BookmarkEnd](./bookmarkend/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, const System::String &) | Initializes a new instance of the BookmarkEnd class.  |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| [get_Name](./get_name/)() override | Gets or sets the bookmark name.  |
-| [get_NodeType](./get_nodetype/)() const override | Returns BookmarkEnd.  |
-| [set_Name](./set_name/)(System::String) override | Setter for Aspose::Words::BookmarkEnd::get_Name.  |
+|  [BookmarkEnd](./bookmarkend/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, const System::String &) | Initializes a new instance of the BookmarkEnd class.  |
+| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| System::String [get_Name](./get_name/)() override | Gets or sets the bookmark name.  |
+| Aspose::Words::NodeType [get_NodeType](./get_nodetype/)() const override | Returns BookmarkEnd.  |
+| void [set_Name](./set_name/)(System::String) override | Setter for Aspose::Words::BookmarkEnd::get_Name.  |

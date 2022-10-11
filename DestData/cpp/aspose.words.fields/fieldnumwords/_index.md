@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldnumwords/
 ---
+## FieldNumWords class
+
 
 Implements the NUMWORDS field. 
 

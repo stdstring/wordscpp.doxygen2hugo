@@ -2,9 +2,6 @@
 
 open System.IO
 open System.Text
-//open Config
-//open Defs
-//open Utils
 
 type KeyValueEntry = {Key: string; Value: string}
 
@@ -118,16 +115,19 @@ let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef
     {GenerateEntry.Title = sprintf $"./{folderName}/" |> generateLink typedefDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
 
+let generateTypeRepresentation (sourceType: Defs.TextWithRefs list) =
+    let mapFun = fun part -> match part with
+                             | Defs.TextWithRefs.Text text -> text
+                             | Defs.TextWithRefs.Ref data -> data.Text
+    let typeRepresentation = sourceType |> Seq.map mapFun |> String.concat ""
+    typeRepresentation
+
 let createMethodEntry (folderName: string) (briefDescription: string) (methodDef: Defs.MethodDef) =
-    let generateParameterType (dest: StringBuilder) (parameter: Defs.MethodParameterDef) =
-        parameter.Type |> Seq.iter (fun part -> match part with
-                                                | Defs.TextWithRefs.Text text -> text |> dest.Append |> ignore
-                                                | Defs.TextWithRefs.Ref data -> data.Text |> dest.Append |> ignore)
     let generateParameterList (dest: StringBuilder) (parameters: Defs.MethodParameterDef list) =
         parameters |> Seq.iteri (fun index parameter -> match index with
                                                         | 0 -> ()
                                                         | _ -> ", " |> dest.Append |> ignore
-                                                        parameter |> generateParameterType dest)
+                                                        parameter.Type |> generateTypeRepresentation |> dest.Append |> ignore)
     let builder = new StringBuilder()
     if methodDef.IsVirtual && (methodDef.IsOverride |> not) then
         "virtual " |> builder.Append |> ignore
@@ -135,6 +135,8 @@ let createMethodEntry (folderName: string) (briefDescription: string) (methodDef
         "explicit " |> builder.Append |> ignore
     if methodDef.IsStatic then
         "static " |> builder.Append |> ignore
+    let returnTypeRepresentation = methodDef.ReturnType |> generateTypeRepresentation
+    sprintf $"{returnTypeRepresentation} " |> builder.Append |> ignore
     sprintf $"./{folderName}/" |> generateLink methodDef.Name |> builder.Append |> ignore
     "(" |> builder.Append |> ignore
     methodDef.Parameters |> generateParameterList builder
@@ -168,6 +170,7 @@ let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: De
     let builder = new StringBuilder()
     let descriptionForTitle = classDef.Description |> generateBriefDescriptionForTitle
     builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
+    builder |> generateHeader (sprintf $"{classDef.Name} class") 2
     let briefDescription = classDef.Description |> generateBriefDescription
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore

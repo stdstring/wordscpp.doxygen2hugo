@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontnamesubstitutionrule/
 ---
+## FontNameSubstitutionRule class
+
 
 Font substitution rule for processing font name. 
 

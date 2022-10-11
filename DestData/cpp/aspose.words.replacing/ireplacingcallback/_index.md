@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/ireplacingcallback/
 ---
+## IReplacingCallback class
+
 
 Implement this interface if you want to have your own custom method called during a find and replace operation. 
 
@@ -13,4 +15,4 @@ Implement this interface if you want to have your own custom method called durin
 
 | Method | Description |
 | --- | --- |
-| virtual [Replacing](./replacing/)(System::SharedPtr< Aspose::Words::Replacing::ReplacingArgs >) | A user defined method that is called during a replace operation for each match found just before a replace is made.  |
+| virtual Aspose::Words::Replacing::ReplaceAction [Replacing](./replacing/)(System::SharedPtr< Aspose::Words::Replacing::ReplacingArgs >) | A user defined method that is called during a replace operation for each match found just before a replace is made.  |

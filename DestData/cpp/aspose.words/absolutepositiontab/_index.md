@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/absolutepositiontab/
 ---
+## AbsolutePositionTab class
+
 
 An absolute position tab is a character which is used to advance the position on the current line of text when displaying this WordprocessingML content. 
 
@@ -13,4 +15,4 @@ An absolute position tab is a character which is used to advance the position on
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| bool [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |

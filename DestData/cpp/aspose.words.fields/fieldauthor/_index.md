@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldauthor/
 ---
+## FieldAuthor class
+
 
 Implements the AUTHOR field. 
 
@@ -13,5 +15,5 @@ Implements the AUTHOR field.
 
 | Method | Description |
 | --- | --- |
-| [get_AuthorName](./get_authorname/)() | Gets or sets the document author's name.  |
-| [set_AuthorName](./set_authorname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAuthor::get_AuthorName.  |
+| System::String [get_AuthorName](./get_authorname/)() | Gets or sets the document author's name.  |
+| void [set_AuthorName](./set_authorname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAuthor::get_AuthorName.  |

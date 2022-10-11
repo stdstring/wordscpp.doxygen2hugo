@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldeq/
 ---
+## FieldEQ class
+
 
 Implements the EQ field. 
 

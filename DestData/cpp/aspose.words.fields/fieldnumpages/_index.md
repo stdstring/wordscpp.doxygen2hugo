@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldnumpages/
 ---
+## FieldNumPages class
+
 
 Implements the NUMPAGES field. 
 

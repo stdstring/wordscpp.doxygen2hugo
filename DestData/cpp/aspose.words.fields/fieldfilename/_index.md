@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldfilename/
 ---
+## FieldFileName class
+
 
 Implements the FILENAME field. 
 
@@ -13,5 +15,5 @@ Implements the FILENAME field.
 
 | Method | Description |
 | --- | --- |
-| [get_IncludeFullPath](./get_includefullpath/)() | Gets or sets whether to include the full file path name.  |
-| [set_IncludeFullPath](./set_includefullpath/)(bool) | Setter for Aspose::Words::Fields::FieldFileName::get_IncludeFullPath.  |
+| bool [get_IncludeFullPath](./get_includefullpath/)() | Gets or sets whether to include the full file path name.  |
+| void [set_IncludeFullPath](./set_includefullpath/)(bool) | Setter for Aspose::Words::Fields::FieldFileName::get_IncludeFullPath.  |

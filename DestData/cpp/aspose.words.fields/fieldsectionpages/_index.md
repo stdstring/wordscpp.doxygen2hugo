@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldsectionpages/
 ---
+## FieldSectionPages class
+
 
 Implements the SECTIONPAGES field. 
 

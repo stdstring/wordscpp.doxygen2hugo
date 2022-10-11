@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/streamfontsource/
 ---
+## StreamFontSource class
+
 
 Base class for user-defined stream font source. 
 
@@ -13,6 +15,6 @@ Base class for user-defined stream font source.
 
 | Method | Description |
 | --- | --- |
-| [get_CacheKey](./get_cachekey/)() const | The key of this source in the cache.  |
-| [get_Type](./get_type/)() override | Returns the type of the font source.  |
-| virtual [OpenFontDataStream](./openfontdatastream/)() | This method should open the stream with font data on demand.  |
+| System::String [get_CacheKey](./get_cachekey/)() const | The key of this source in the cache.  |
+| Aspose::Words::Fonts::FontSourceType [get_Type](./get_type/)() override | Returns the type of the font source.  |
+| virtual System::SharedPtr< System::IO::Stream > [OpenFontDataStream](./openfontdatastream/)() | This method should open the stream with font data on demand.  |

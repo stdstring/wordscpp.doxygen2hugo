@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldlastsavedby/
 ---
+## FieldLastSavedBy class
+
 
 Implements the LASTSAVEDBY field. 
 

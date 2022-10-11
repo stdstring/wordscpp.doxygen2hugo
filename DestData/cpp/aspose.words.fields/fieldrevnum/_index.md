@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldrevnum/
 ---
+## FieldRevNum class
+
 
 Implements the REVNUM field. 
 

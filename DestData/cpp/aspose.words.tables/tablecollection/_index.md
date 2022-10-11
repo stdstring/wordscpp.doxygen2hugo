@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/tablecollection/
 ---
+## TableCollection class
+
 
 Provides typed access to a collection of Table nodes. 
 
@@ -13,5 +15,5 @@ Provides typed access to a collection of Table nodes.
 
 | Method | Description |
 | --- | --- |
-| [idx_get](./idx_get/)(int32_t) | Retrieves a **Table** at the given index.  |
-| [ToArray](./toarray/)() | Copies all tables from the collection to a new array of tables.  |
+| System::SharedPtr< Aspose::Words::Tables::Table > [idx_get](./idx_get/)(int32_t) | Retrieves a **Table** at the given index.  |
+| System::ArrayPtr< System::SharedPtr< Aspose::Words::Tables::Table > > [ToArray](./toarray/)() | Copies all tables from the collection to a new array of tables.  |

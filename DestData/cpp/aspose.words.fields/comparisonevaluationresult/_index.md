@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/comparisonevaluationresult/
 ---
+## ComparisonEvaluationResult class
+
 
 The comparison evaluation result. 
 
@@ -13,7 +15,7 @@ The comparison evaluation result.
 
 | Method | Description |
 | --- | --- |
-| [ComparisonEvaluationResult](./comparisonevaluationresult/)(bool) | Creates a comparison evaluation result.  |
-| [ComparisonEvaluationResult](./comparisonevaluationresult/)(const System::String &) | Creates a failed comparison evaluation result with the corresponding error message.  |
-| [get_ErrorMessage](./get_errormessage/)() const | Gets the failed comparison evaluation result's error message.  |
-| [get_Result](./get_result/)() const | Gets the comparison evaluation result.  |
+|  [ComparisonEvaluationResult](./comparisonevaluationresult/)(bool) | Creates a comparison evaluation result.  |
+|  [ComparisonEvaluationResult](./comparisonevaluationresult/)(const System::String &) | Creates a failed comparison evaluation result with the corresponding error message.  |
+| System::String [get_ErrorMessage](./get_errormessage/)() const | Gets the failed comparison evaluation result's error message.  |
+| bool [get_Result](./get_result/)() const | Gets the comparison evaluation result.  |

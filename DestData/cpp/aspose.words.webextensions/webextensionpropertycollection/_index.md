@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/webextensionpropertycollection/
 ---
+## WebExtensionPropertyCollection class
+
 
 Specifies a set of web extension custom properties. 
 
@@ -13,4 +15,4 @@ Specifies a set of web extension custom properties.
 
 | Method | Description |
 | --- | --- |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
+| void [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
