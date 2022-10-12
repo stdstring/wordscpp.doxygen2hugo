@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ifielduserpromptrespondent/
 ---
-## IFieldUserPromptRespondent class
+## IFieldUserPromptRespondent interface
 
 
 Represents the respondent to user prompts during field update. 

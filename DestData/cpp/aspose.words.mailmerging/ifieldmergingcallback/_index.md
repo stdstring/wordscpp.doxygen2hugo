@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/ifieldmergingcallback/
 ---
-## IFieldMergingCallback class
+## IFieldMergingCallback interface
 
 
 Implement this interface if you want to control how data is inserted into merge fields during a mail merge operation. 

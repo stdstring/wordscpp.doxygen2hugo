@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/idocumentsavingcallback/
 ---
-## IDocumentSavingCallback class
+## IDocumentSavingCallback interface
 
 
 Implement this interface if you want to have your own custom method called during saving a document. 

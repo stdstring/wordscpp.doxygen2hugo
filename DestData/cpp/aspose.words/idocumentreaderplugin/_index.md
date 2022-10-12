@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/idocumentreaderplugin/
 ---
-## IDocumentReaderPlugin class
+## IDocumentReaderPlugin interface
 
 
 Defines an interface for external reader plugins that can read a file into a document. 

@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/idocumentloadingcallback/
 ---
-## IDocumentLoadingCallback class
+## IDocumentLoadingCallback interface
 
 
 Implement this interface if you want to have your own custom method called during loading a document. 

@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/ihyphenationcallback/
 ---
-## IHyphenationCallback class
+## IHyphenationCallback interface
 
 
 Implemented by classes which can register hyphenation dictionaries. 

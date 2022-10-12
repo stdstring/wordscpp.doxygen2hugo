@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ifieldupdatecultureprovider/
 ---
-## IFieldUpdateCultureProvider class
+## IFieldUpdateCultureProvider interface
 
 
 When implemented, provides a CultureInfo object that should be used during the update of a particular field. 

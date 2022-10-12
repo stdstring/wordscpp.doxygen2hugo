@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ifieldresultformatter/
 ---
-## IFieldResultFormatter class
+## IFieldResultFormatter interface
 
 
 Implement this interface if you want to control how the field result is formatted. 

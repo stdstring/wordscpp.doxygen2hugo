@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/istructureddocumenttag/
 ---
-## IStructuredDocumentTag class
+## IStructuredDocumentTag interface
 
 
 Interface to define a common data for StructuredDocumentTag and StructuredDocumentTagRangeStart. 

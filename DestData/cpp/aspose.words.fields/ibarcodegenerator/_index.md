@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ibarcodegenerator/
 ---
-## IBarcodeGenerator class
+## IBarcodeGenerator interface
 
 
 Public interface for barcode custom generator. Implementation should be provided by user. 

@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/inodechangingcallback/
 ---
-## INodeChangingCallback class
+## INodeChangingCallback interface
 
 
 Implement this interface if you want to receive notifications when nodes are inserted or removed in the document. 

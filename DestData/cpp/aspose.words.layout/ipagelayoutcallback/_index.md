@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/ipagelayoutcallback/
 ---
-## IPageLayoutCallback class
+## IPageLayoutCallback interface
 
 
 Implement this interface if you want to have your own custom method called during build and rendering of page layout model. 

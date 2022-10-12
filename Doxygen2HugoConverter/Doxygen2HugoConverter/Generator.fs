@@ -165,6 +165,11 @@ let generateForDirectMethod (parentDirectory: string) (parentUrl: string) (metho
     File.AppendAllText(Path.Combine(methodDirectory, Common.MarkdownFilename), builder.ToString())
     methodDef |> createMethodEntry folderName briefDescription
 
+let generateClassKind (classDef: Defs.ClassDef) =
+    match classDef.Kind with
+    | Defs.ClassKind.Class -> "class"
+    | Defs.ClassKind.Interface -> "interface"
+
 let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: Defs.ClassDef) =
     let folderName = classDef.Name |> Utils.createSimpleFolderName
     let classDirectory = Path.Combine(parentDirectory, folderName)
@@ -173,7 +178,7 @@ let generateForClass (parentDirectory: string) (parentUrl: string) (classDef: De
     let builder = new StringBuilder()
     let descriptionForTitle = classDef.Description |> generateBriefDescriptionForTitle
     builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
-    builder |> generateHeader (sprintf $"{classDef.Name} class") 2
+    builder |> generateHeader (sprintf $"{classDef.Name} {classDef |> generateClassKind}") 2
     let briefDescription = classDef.Description |> generateBriefDescription
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore

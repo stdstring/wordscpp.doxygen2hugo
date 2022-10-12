@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/ipagesavingcallback/
 ---
-## IPageSavingCallback class
+## IPageSavingCallback interface
 
 
 Implement this interface if you want to control how Aspose.Words saves separate pages when saving a document to fixed page formats. 

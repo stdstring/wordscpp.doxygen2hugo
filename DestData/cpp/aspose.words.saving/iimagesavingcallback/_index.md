@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/iimagesavingcallback/
 ---
-## IImageSavingCallback class
+## IImageSavingCallback interface
 
 
 Implement this interface if you want to control how Aspose.Words saves images when saving a document to HTML. May be used by other formats. 

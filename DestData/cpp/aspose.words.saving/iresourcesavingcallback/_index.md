@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/iresourcesavingcallback/
 ---
-## IResourceSavingCallback class
+## IResourceSavingCallback interface
 
 
 Implement this interface if you want to control how Aspose.Words saves external resources (images, fonts and css) when saving a document to fixed page HTML or SVG. 

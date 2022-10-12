@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/imailmergedatasourceroot/
 ---
-## IMailMergeDataSourceRoot class
+## IMailMergeDataSourceRoot interface
 
 
 Implement this interface to allow mail merge from a custom data source with master-detail data. 

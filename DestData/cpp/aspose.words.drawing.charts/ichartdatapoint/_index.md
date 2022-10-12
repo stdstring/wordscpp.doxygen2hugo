@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/
 ---
-## IChartDataPoint class
+## IChartDataPoint interface
 
 
 Contains properties of a single data point on the chart. 

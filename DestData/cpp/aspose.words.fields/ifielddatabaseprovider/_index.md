@@ -6,7 +6,7 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/ifielddatabaseprovider/
 ---
-## IFieldDatabaseProvider class
+## IFieldDatabaseProvider interface
 
 
 Implement this interface to provide data for the FieldDatabase field when it's updated. 
