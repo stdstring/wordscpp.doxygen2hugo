@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontsourcetype/
 ---
+## FontSourceType enum
+
 
 Specifies the type of a font source. 
 

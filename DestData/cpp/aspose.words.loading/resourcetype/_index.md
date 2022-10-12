@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/resourcetype/
 ---
+## ResourceType enum
+
 
 Type of loaded resource. 
 

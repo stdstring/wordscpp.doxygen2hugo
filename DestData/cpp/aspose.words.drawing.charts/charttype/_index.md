@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/charttype/
 ---
+## ChartType enum
+
 
 Specifies type of a chart. 
 

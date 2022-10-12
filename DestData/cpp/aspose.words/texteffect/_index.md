@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/texteffect/
 ---
+## TextEffect enum
+
 
 Animation effect for text runs. 
 

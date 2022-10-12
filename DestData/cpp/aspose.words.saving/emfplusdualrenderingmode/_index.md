@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/emfplusdualrenderingmode/
 ---
+## EmfPlusDualRenderingMode enum
+
 
 Specifies how Aspose.Words should render EMF+ Dual metafiles. 
 

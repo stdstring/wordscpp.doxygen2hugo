@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/tablecontentalignment/
 ---
+## TableContentAlignment enum
+
 
 Allows to specify the alignment of the content of the table to be used when exporting into Markdown format. 
 

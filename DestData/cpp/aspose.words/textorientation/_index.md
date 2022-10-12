@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/textorientation/
 ---
+## TextOrientation enum
+
 
 Specifies orientation of text on a page, in a table cell or a text frame. 
 

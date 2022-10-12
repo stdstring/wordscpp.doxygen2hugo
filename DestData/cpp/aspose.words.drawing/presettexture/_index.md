@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/presettexture/
 ---
+## PresetTexture enum
+
 
 Specifies texture to be used to fill a shape. 
 

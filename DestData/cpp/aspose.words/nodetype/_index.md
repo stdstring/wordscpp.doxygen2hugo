@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/nodetype/
 ---
+## NodeType enum
+
 
 Specifies the type of a Word document node. 
 

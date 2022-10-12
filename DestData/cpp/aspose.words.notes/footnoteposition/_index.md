@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/footnoteposition/
 ---
+## FootnotePosition enum
+
 
 Defines the footnote position. 
 

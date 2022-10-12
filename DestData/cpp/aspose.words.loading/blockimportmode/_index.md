@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/blockimportmode/
 ---
+## BlockImportMode enum
+
 
 Specifies how properties of block-level elements are imported from HTML-based documents. 
 

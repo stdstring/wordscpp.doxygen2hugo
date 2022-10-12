@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.themes/themefont/
 ---
+## ThemeFont enum
+
 
 Specifies the types of theme font names for document themes. 
 

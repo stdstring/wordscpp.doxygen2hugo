@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/tableader/
 ---
+## TabLeader enum
+
 
 Specifies the type of the leader line displayed under the tab character. 
 

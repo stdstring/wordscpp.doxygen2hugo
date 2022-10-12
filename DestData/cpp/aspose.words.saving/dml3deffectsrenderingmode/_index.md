@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/dml3deffectsrenderingmode/
 ---
+## Dml3DEffectsRenderingMode enum
+
 
 Specifies how 3D shape effects are rendered. 
 

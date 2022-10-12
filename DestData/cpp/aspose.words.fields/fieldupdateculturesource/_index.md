@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldupdateculturesource/
 ---
+## FieldUpdateCultureSource enum
+
 
 Indicates what culture to use during field update. 
 

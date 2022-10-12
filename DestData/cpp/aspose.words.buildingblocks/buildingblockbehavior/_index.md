@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblockbehavior/
 ---
+## BuildingBlockBehavior enum
+
 
 Specifies the behavior that shall be applied to the contents of the building block when it is inserted into the main document. 
 

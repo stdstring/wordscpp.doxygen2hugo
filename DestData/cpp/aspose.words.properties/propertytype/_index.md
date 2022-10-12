@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.properties/propertytype/
 ---
+## PropertyType enum
+
 
 Specifies data type of a document property. 
 

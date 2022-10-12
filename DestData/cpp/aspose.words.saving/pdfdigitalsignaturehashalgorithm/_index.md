@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfdigitalsignaturehashalgorithm/
 ---
+## PdfDigitalSignatureHashAlgorithm enum
+
 
 Specifies a digital hash algorithm used by a digital signature. 
 

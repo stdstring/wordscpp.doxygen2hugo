@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.buildingblocks/buildingblockgallery/
 ---
+## BuildingBlockGallery enum
+
 
 Specifies the predefined gallery into which a building block is classified. 
 

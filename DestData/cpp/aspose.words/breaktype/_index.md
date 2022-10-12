@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/breaktype/
 ---
+## BreakType enum
+
 
 Specifies type of a break inside a document. 
 

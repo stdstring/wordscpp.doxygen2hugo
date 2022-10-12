@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/numberstyle/
 ---
+## NumberStyle enum
+
 
 Specifies the number style for a list, footnotes and endnotes, page numbers. 
 

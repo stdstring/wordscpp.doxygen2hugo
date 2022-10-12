@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfcompliance/
 ---
+## PdfCompliance enum
+
 
 Specifies the PDF standards compliance level. 
 

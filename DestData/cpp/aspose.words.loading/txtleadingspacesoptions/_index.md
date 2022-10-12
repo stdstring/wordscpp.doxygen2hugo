@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/txtleadingspacesoptions/
 ---
+## TxtLeadingSpacesOptions enum
+
 
 Specifies available options for leading space handling during import from Text file. 
 

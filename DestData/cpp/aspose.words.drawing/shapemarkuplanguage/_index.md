@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapemarkuplanguage/
 ---
+## ShapeMarkupLanguage enum
+
 
 Specifies Markup language used for the shape. 
 

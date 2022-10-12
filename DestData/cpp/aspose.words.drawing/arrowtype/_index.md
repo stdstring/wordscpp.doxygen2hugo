@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/arrowtype/
 ---
+## ArrowType enum
+
 
 Specifies the type of an arrow at a line end. 
 

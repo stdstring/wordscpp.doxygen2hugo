@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/wrapside/
 ---
+## WrapSide enum
+
 
 Specifies what side(s) of the shape or picture the text wraps around. 
 

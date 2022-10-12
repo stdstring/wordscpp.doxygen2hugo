@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/styleidentifier/
 ---
+## StyleIdentifier enum
+
 
 Locale independent style identifier. 
 

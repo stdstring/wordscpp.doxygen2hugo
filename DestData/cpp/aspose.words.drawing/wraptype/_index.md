@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/wraptype/
 ---
+## WrapType enum
+
 
 Specifies how text is wrapped around a shape or picture. 
 

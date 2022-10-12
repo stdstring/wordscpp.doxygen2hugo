@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/imagecolormode/
 ---
+## ImageColorMode enum
+
 
 Specifies the color mode for the generated images of document pages. 
 

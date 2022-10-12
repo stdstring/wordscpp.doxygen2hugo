@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axiscategorytype/
 ---
+## AxisCategoryType enum
+
 
 Specifies type of a category axis. 
 

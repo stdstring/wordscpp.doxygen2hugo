@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/conditionalstyletype/
 ---
+## ConditionalStyleType enum
+
 
 Represents possible table areas to which conditional formatting may be defined in a table style. 
 

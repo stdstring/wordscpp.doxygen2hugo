@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.comparing/granularity/
 ---
+## Granularity enum
+
 
 Specifies the granularity of changes to track when comparing two documents. 
 

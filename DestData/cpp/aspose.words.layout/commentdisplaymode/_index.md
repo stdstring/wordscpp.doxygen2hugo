@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/commentdisplaymode/
 ---
+## CommentDisplayMode enum
+
 
 Specifies the rendering mode for document comments. 
 

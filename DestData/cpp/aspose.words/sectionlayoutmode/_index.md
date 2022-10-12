@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/sectionlayoutmode/
 ---
+## SectionLayoutMode enum
+
 
 Specifies the layout mode for a section allowing to define the document grid behavior. 
 

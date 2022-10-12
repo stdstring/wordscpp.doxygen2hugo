@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/horizontalrulealignment/
 ---
+## HorizontalRuleAlignment enum
+
 
 Represents the alignment for the specified horizontal rule. 
 

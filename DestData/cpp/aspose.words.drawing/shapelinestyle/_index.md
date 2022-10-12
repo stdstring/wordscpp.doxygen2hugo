@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shapelinestyle/
 ---
+## ShapeLineStyle enum
+
 
 Specifies the compound line style of a Shape. 
 

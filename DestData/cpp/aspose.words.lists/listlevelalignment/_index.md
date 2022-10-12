@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevelalignment/
 ---
+## ListLevelAlignment enum
+
 
 Specifies alignment for the list number or bullet. 
 

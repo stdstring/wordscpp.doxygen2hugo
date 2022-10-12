@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/fieldifcomparisonresult/
 ---
+## FieldIfComparisonResult enum
+
 
 Specifies the result of the IF field condition evaluation. 
 

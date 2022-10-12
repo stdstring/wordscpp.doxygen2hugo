@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/pageborderdistancefrom/
 ---
+## PageBorderDistanceFrom enum
+
 
 Specifies the positioning of the page border relative to the page margin. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/outlinelevel/
 ---
+## OutlineLevel enum
+
 
 Specifies the outline level of a paragraph in the document. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/tablealignment/
 ---
+## TableAlignment enum
+
 
 Specifies alignment for an inline table. 
 

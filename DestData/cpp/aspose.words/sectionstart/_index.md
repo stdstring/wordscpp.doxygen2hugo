@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/sectionstart/
 ---
+## SectionStart enum
+
 
 The type of break at the beginning of the section. 
 

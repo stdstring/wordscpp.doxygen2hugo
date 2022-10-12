@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/embeddedfontstyle/
 ---
+## EmbeddedFontStyle enum
+
 
 Specifies the style of an embedded font inside a FontInfo object. 
 

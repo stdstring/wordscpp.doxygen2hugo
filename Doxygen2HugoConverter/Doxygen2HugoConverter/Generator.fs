@@ -91,6 +91,7 @@ let generateForEnum (parentDirectory: string) (parentUrl: string) (enumDef: Defs
     let builder = new StringBuilder()
     let descriptionForTitle = enumDef.Description |> generateBriefDescriptionForTitle
     builder |> generateDefPageHeader enumDef.Name descriptionForTitle classUrl
+    builder |> generateHeader (sprintf $"{enumDef.Name} enum") 2
     let briefDescription = enumDef.Description |> generateBriefDescription
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
@@ -107,6 +108,7 @@ let generateForTypedef (parentDirectory: string) (parentUrl: string) (typedefDef
     let builder = new StringBuilder()
     let descriptionForTitle = typedefDef.Description |> generateBriefDescriptionForTitle
     builder |> generateDefPageHeader typedefDef.Name descriptionForTitle classUrl
+    builder |> generateHeader (sprintf $"{typedefDef.Name} typedef") 2
     let briefDescription = typedefDef.Description |> generateBriefDescription
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore

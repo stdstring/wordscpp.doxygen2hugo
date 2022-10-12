@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/visitoraction/
 ---
+## VisitorAction enum
+
 
 Allows the visitor to control the enumeration of nodes. 
 

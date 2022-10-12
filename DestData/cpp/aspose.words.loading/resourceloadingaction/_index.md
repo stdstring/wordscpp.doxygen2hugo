@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/resourceloadingaction/
 ---
+## ResourceLoadingAction enum
+
 
 Specifies the mode of resource loading. 
 

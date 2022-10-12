@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfcustompropertiesexport/
 ---
+## PdfCustomPropertiesExport enum
+
 
 Specifies the way CustomDocumentProperties are exported to PDF file. 
 

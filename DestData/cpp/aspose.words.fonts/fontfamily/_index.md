@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontfamily/
 ---
+## FontFamily enum
+
 
 Represents the font family. 
 

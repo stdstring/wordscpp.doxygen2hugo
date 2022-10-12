@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/linespacingrule/
 ---
+## LineSpacingRule enum
+
 
 Specifies line spacing values for a paragraph. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/htmlinsertoptions/
 ---
+## HtmlInsertOptions enum
+
 
 Specifies options for the InsertHtml() method. 
 

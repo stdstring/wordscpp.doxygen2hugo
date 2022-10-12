@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/revisiontype/
 ---
+## RevisionType enum
+
 
 Specifies the type of change being tracked in Revision. 
 

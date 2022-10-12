@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/preferredwidthtype/
 ---
+## PreferredWidthType enum
+
 
 Specifies the unit of measurement for the preferred width of a table or cell. 
 

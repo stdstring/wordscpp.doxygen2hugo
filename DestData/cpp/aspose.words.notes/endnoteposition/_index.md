@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.notes/endnoteposition/
 ---
+## EndnotePosition enum
+
 
 Defines the endnote position. 
 

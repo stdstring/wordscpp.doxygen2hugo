@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/watermarklayout/
 ---
+## WatermarkLayout enum
+
 
 Defines layout of the watermark relative to the watermark center. 
 

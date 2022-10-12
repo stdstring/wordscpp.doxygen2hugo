@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/axisscaletype/
 ---
+## AxisScaleType enum
+
 
 Specifies the possible scale types for an axis. 
 

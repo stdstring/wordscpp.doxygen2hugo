@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/layoutentitytype/
 ---
+## LayoutEntityType enum
+
 
 Types of the layout entities. 
 

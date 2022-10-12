@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/protectiontype/
 ---
+## ProtectionType enum
+
 
 Protection type for a document. 
 

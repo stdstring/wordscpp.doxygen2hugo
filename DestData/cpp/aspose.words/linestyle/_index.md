@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/linestyle/
 ---
+## LineStyle enum
+
 
 Specifies line style of a Border. 
 

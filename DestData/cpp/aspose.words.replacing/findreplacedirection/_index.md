@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.replacing/findreplacedirection/
 ---
+## FindReplaceDirection enum
+
 
 Specifies direction for replace operations. 
 

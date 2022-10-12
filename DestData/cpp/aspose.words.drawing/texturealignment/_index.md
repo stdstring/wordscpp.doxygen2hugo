@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/texturealignment/
 ---
+## TextureAlignment enum
+
 
 Specifies the alignment for the tiling of the texture fill. 
 

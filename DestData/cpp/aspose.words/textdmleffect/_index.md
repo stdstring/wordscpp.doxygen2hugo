@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/textdmleffect/
 ---
+## TextDmlEffect enum
+
 
 Dml text effect for text runs. 
 

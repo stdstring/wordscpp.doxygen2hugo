@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.layout/revisiontexteffect/
 ---
+## RevisionTextEffect enum
+
 
 Allows to specify decoration effect for revisions of document text. 
 

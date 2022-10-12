@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/markersymbol/
 ---
+## MarkerSymbol enum
+
 
 Specifies marker symbol style. 
 

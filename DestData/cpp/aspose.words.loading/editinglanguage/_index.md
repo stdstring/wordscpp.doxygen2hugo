@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.loading/editinglanguage/
 ---
+## EditingLanguage enum
+
 
 Specifies the editing language. 
 

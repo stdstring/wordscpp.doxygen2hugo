@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/nodechangingaction/
 ---
+## NodeChangingAction enum
+
 
 Specifies the type of node change. 
 

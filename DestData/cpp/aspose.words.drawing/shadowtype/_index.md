@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing/shadowtype/
 ---
+## ShadowType enum
+
 
 Specifies the type of a shape shadow. 
 

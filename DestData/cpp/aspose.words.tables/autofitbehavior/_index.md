@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/autofitbehavior/
 ---
+## AutoFitBehavior enum
+
 
 Determines how Aspose.Words resizes the table when you invoke the AutoFit() method. 
 

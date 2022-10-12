@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.tables/tablestyleoptions/
 ---
+## TableStyleOptions enum
+
 
 Specifies how table style is applied to a table. 
 

@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/pdfimagecompression/
 ---
+## PdfImageCompression enum
+
 
 Specifies the type of compression applied to images in the PDF file. 
 

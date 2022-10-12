@@ -6,6 +6,8 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.drawing.charts/legendposition/
 ---
+## LegendPosition enum
+
 
 Specifies the possible positions for a chart legend. 
 
