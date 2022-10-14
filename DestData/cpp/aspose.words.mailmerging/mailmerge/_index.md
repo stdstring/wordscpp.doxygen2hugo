@@ -16,8 +16,8 @@ Represents the mail merge functionality.
 | Method | Description |
 | --- | --- |
 | [DeleteFields](./deletefields/)() | Removes mail merge related fields from the document.  |
-| [Execute](./execute/)(const System::ArrayPtr< System::String > &, const System::ArrayPtr< System::SharedPtr< System::Object > > &) | Performs a mail merge operation for a single record.  |
 | [Execute](./execute/)(const System::SharedPtr< Aspose::Words::MailMerging::IMailMergeDataSource > &) | Performs a mail merge from a custom data source.  |
+| [Execute](./execute/)(const System::ArrayPtr< System::String > &, const System::ArrayPtr< System::SharedPtr< System::Object > > &) | Performs a mail merge operation for a single record.  |
 | [ExecuteWithRegions](./executewithregions/)(const System::SharedPtr< Aspose::Words::MailMerging::IMailMergeDataSource > &) | Performs a mail merge from a custom data source with mail merge regions.  |
 | [ExecuteWithRegions](./executewithregions/)(const System::SharedPtr< Aspose::Words::MailMerging::IMailMergeDataSourceRoot > &) | Performs a mail merge from a custom data source with mail merge regions.  |
 | [get_CleanupOptions](./get_cleanupoptions/)() const | Gets a set of flags that specify what items should be removed during mail merge.  |

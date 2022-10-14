@@ -26,7 +26,7 @@ A collection of TabStop objects that represent custom tabs for a paragraph or a 
 | [GetHashCode](./gethashcode/)() const override | Serves as a hash function for this type.  |
 | [GetIndexByPosition](./getindexbyposition/)(double) | Gets the index of a tab stop with the specified position in points.  |
 | [GetPositionByIndex](./getpositionbyindex/)(int32_t) | Gets the position (in points) of the tab stop at the specified index.  |
-| [idx_get](./idx_get/)(double) | Gets a tab stop at the specified position.  |
 | [idx_get](./idx_get/)(int32_t) | Gets a tab stop at the given index.  |
+| [idx_get](./idx_get/)(double) | Gets a tab stop at the specified position.  |
 | [RemoveByIndex](./removebyindex/)(int32_t) | Removes a tab stop at the specified index from the collection.  |
 | [RemoveByPosition](./removebyposition/)(double) | Removes a tab stop at the specified position from the collection.  |

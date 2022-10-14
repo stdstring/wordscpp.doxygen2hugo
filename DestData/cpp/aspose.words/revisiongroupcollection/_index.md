@@ -15,12 +15,12 @@ A collection of RevisionGroup objects that represent revision groups in the docu
 
 | Method | Description |
 | --- | --- |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Returns the number of revision groups in the collection.  |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator object.  |
 | [idx_get](./idx_get/)(int32_t) | Returns a revision group at the specified index.  |

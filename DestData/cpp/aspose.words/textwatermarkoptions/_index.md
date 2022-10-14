@@ -15,7 +15,6 @@ Contains options that can be specified when adding a watermark with text.
 
 | Method | Description |
 | --- | --- |
-| [TextWatermarkOptions](./textwatermarkoptions/)() |  |
 | [get_Color](./get_color/)() const | Gets or sets font color. The default value is Color.Silver.  |
 | [get_FontFamily](./get_fontfamily/)() const | Gets or sets font family name. The default value is "Calibri".  |
 | [get_FontSize](./get_fontsize/)() const | Gets or sets a font size. The default value is 0 - auto.  |
@@ -26,3 +25,4 @@ Contains options that can be specified when adding a watermark with text.
 | [set_FontSize](./set_fontsize/)(float) | Setter for Aspose::Words::TextWatermarkOptions::get_FontSize.  |
 | [set_IsSemitrasparent](./set_issemitrasparent/)(bool) | Setter for Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent.  |
 | [set_Layout](./set_layout/)(Aspose::Words::WatermarkLayout) | Setter for Aspose::Words::TextWatermarkOptions::get_Layout.  |
+| [TextWatermarkOptions](./textwatermarkoptions/)() |  |

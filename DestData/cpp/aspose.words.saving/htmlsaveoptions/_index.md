@@ -15,13 +15,19 @@ Can be used to specify additional options when saving a document into the Html, 
 
 | Method | Description |
 | --- | --- |
-| [HtmlSaveOptions](./htmlsaveoptions/)() | Initializes a new instance of this class that can be used to save a document in the Html format.  |
-| [HtmlSaveOptions](./htmlsaveoptions/)(Aspose::Words::SaveFormat) | Initializes a new instance of this class that can be used to save a document in the Html, Mhtml, Epub or Azw3 format.  |
+| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(Aspose::Words::SaveFormat) | Creates a save options object of a class suitable for the specified save format.  |
+| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String &) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
+| [get_AllowEmbeddingPostScriptFonts](../saveoptions/get_allowembeddingpostscriptfonts/)() const | Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is **false**.  |
 | [get_AllowNegativeIndent](./get_allownegativeindent/)() const | Specifies whether negative left and right indents of paragraphs are normalized when saving to HTML, MHTML or EPUB. Default value is **false**.  |
 | [get_CssClassNamePrefix](./get_cssclassnameprefix/)() const | Specifies a prefix which is added to all CSS class names. Default value is an empty string and generated CSS class names have no common prefix.  |
 | [get_CssSavingCallback](./get_csssavingcallback/)() const | Allows to control how CSS styles are saved when a document is saved to HTML, MHTML or EPUB.  |
 | [get_CssStyleSheetFileName](./get_cssstylesheetfilename/)() const | Specifies the path and the name of the Cascading Style Sheet (CSS) file written when a document is exported to HTML. Default is an empty string.  |
 | [get_CssStyleSheetType](./get_cssstylesheettype/)() const | Specifies how CSS (Cascading Style Sheet) styles are exported to HTML, MHTML or EPUB. Default value is Inline for HTML/MHTML and External for EPUB.  |
+| [get_CustomTimeZoneInfo](../saveoptions/get_customtimezoneinfo/)() const |  |
+| [get_DefaultTemplate](../saveoptions/get_defaulttemplate/)() const | Gets or sets path to default template (including filename). Default value for this property is **empty string**.  |
+| [get_Dml3DEffectsRenderingMode](../saveoptions/get_dml3deffectsrenderingmode/)() const | Gets a value determining how 3D effects are rendered.  |
+| virtual [get_DmlEffectsRenderingMode](../saveoptions/get_dmleffectsrenderingmode/)() | Gets or sets a value determining how DrawingML effects are rendered.  |
+| [get_DmlRenderingMode](../saveoptions/get_dmlrenderingmode/)() const | Gets or sets a value determining how DrawingML shapes are rendered.  |
 | [get_DocumentPartSavingCallback](./get_documentpartsavingcallback/)() const | Allows to control how document parts are saved when a document is saved to HTML or EPUB.  |
 | [get_DocumentSplitCriteria](./get_documentsplitcriteria/)() const | Specifies how the document should be split when saving to Html, Epub or Azw3 format. Default is None for HTML and HeadingParagraph for EPUB and AZW3.  |
 | [get_DocumentSplitHeadingLevel](./get_documentsplitheadinglevel/)() const | Specifies the maximum level of headings at which to split the document. Default value is **%2**.  |
@@ -32,6 +38,7 @@ Can be used to specify additional options when saving a document into the Html, 
 | [get_ExportDropDownFormFieldAsText](./get_exportdropdownformfieldastext/)() const | Controls how drop-down form fields are saved to HTML or MHTML. Default value is **false**.  |
 | [get_ExportFontResources](./get_exportfontresources/)() const | Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is **false**.  |
 | [get_ExportFontsAsBase64](./get_exportfontsasbase64/)() const | Specifies whether fonts resources should be embedded to HTML in Base64 encoding. Default is **false**.  |
+| [get_ExportGeneratorName](../saveoptions/get_exportgeneratorname/)() const | When true, causes the name and version of Aspose.Words to be embedded into produced files. Default value is **true**.  |
 | [get_ExportHeadersFootersMode](./get_exportheadersfootersmode/)() const | Specifies how headers and footers are output to HTML, MHTML or EPUB. Default value is PerSection for HTML/MHTML and None for EPUB.  |
 | [get_ExportImagesAsBase64](./get_exportimagesasbase64/)() const | Specifies whether images are saved in Base64 format to the output HTML, MHTML or EPUB. Default is **false**.  |
 | [get_ExportLanguageInformation](./get_exportlanguageinformation/)() const | Specifies whether language information is exported to HTML, MHTML or EPUB. Default is **false**.  |
@@ -45,6 +52,7 @@ Can be used to specify additional options when saving a document into the Html, 
 | [get_ExportTextInputFormFieldAsText](./get_exporttextinputformfieldastext/)() const | Controls how text input form fields are saved to HTML or MHTML. Default value is **false**.  |
 | [get_ExportTocPageNumbers](./get_exporttocpagenumbers/)() const | Specifies whether to write page numbers to table of contents when saving HTML, MHTML and EPUB. Default value is **false**.  |
 | [get_ExportXhtmlTransitional](./get_exportxhtmltransitional/)() const | Specifies whether to write the DOCTYPE declaration when saving to HTML or MHTML. When **true**, writes a DOCTYPE declaration in the document prior to the root element. Default value is **false**. When saving to EPUB or HTML5 (Html5) the DOCTYPE declaration is always written.  |
+| [get_FlatOpcXmlMappingOnly](../saveoptions/get_flatopcxmlmappingonly/)() const | Gets or sets value determining which document formats are allowed to be mapped by XmlMapping. By default only FlatOpc document format is allowed to be mapped.  |
 | [get_FontResourcesSubsettingSizeThreshold](./get_fontresourcessubsettingsizethreshold/)() const | Controls which font resources need subsetting when saving to HTML, MHTML or EPUB. Default is **%0**.  |
 | [get_FontSavingCallback](./get_fontsavingcallback/)() const | Allows to control how fonts are saved when a document is saved to HTML, MHTML or EPUB.  |
 | [get_FontsFolder](./get_fontsfolder/)() const | Specifies the physical folder where fonts are saved when exporting a document to HTML. Default is an empty string.  |
@@ -54,19 +62,39 @@ Can be used to specify additional options when saving a document into the Html, 
 | [get_ImageSavingCallback](./get_imagesavingcallback/)() const | Allows to control how images are saved when a document is saved to HTML, MHTML or EPUB.  |
 | [get_ImagesFolder](./get_imagesfolder/)() const | Specifies the physical folder where images are saved when exporting a document to HTML format. Default is an empty string.  |
 | [get_ImagesFolderAlias](./get_imagesfolderalias/)() const | Specifies the name of the folder used to construct image URIs written into an HTML document. Default is an empty string.  |
+| [get_ImlRenderingMode](../saveoptions/get_imlrenderingmode/)() const | Gets or sets a value determining how ink (InkML) objects are rendered.  |
+| [get_MemoryOptimization](../saveoptions/get_memoryoptimization/)() const | Gets or sets value determining if memory optimization should be performed before saving the document. Default value for this property is **false**.  |
 | [get_MetafileFormat](./get_metafileformat/)() const | Specifies in what format metafiles are saved when exporting to HTML, MHTML, or EPUB. Default value is Png, meaning that metafiles are rendered to raster PNG images.  |
 | [get_OfficeMathOutputMode](./get_officemathoutputmode/)() const | Controls how OfficeMath objects are exported to HTML, MHTML or EPUB. Default value is **HtmlOfficeMathOutputMode.Image**.  |
+| [get_PrettyFormat](../saveoptions/get_prettyformat/)() const | When **true**, pretty formats output where applicable. Default value is **false**.  |
+| [get_ProgressCallback](../saveoptions/get_progresscallback/)() const | Called during saving a document and accepts data about saving progress.  |
 | [get_ResolveFontNames](./get_resolvefontnames/)() const | Specifies whether font family names used in the document are resolved and substituted according to FontSettings when being written into HTML-based formats.  |
 | [get_ResourceFolder](./get_resourcefolder/)() const | Specifies a physical folder where all resources like images, fonts, and external CSS are saved when a document is exported to HTML. Default is an empty string.  |
 | [get_ResourceFolderAlias](./get_resourcefolderalias/)() const | Specifies the name of the folder used to construct URIs of all resources written into an HTML document. Default is an empty string.  |
 | [get_SaveFormat](./get_saveformat/)() override | Specifies the format in which the document will be saved if this save options object is used. Can be Html, Mhtml, Epub or Azw3.  |
 | [get_ScaleImageToShapeSize](./get_scaleimagetoshapesize/)() const | Specifies whether images are scaled by Aspose.Words to the bounding shape size when exporting to HTML, MHTML or EPUB. Default value is **true**.  |
 | [get_TableWidthOutputMode](./get_tablewidthoutputmode/)() const | Controls how table, row and cell widths are exported to HTML, MHTML or EPUB. Default value is All.  |
+| [get_TempFolder](../saveoptions/get_tempfolder/)() const | Specifies the folder for temporary files used when saving to a DOC or DOCX file. By default this property is **null** and no temporary files are used.  |
+| [get_UpdateCreatedTimeProperty](../saveoptions/get_updatecreatedtimeproperty/)() const | Gets a value determining whether the CreatedTime property is updated before saving. Default value is false;.  |
+| [get_UpdateFields](../saveoptions/get_updatefields/)() const | Gets or sets a value determining if fields of certain types should be updated before saving the document to a fixed page format. Default value for this property is **true**.  |
+| [get_UpdateLastPrintedProperty](../saveoptions/get_updatelastprintedproperty/)() const | Gets or sets a value determining whether the LastPrinted property is updated before saving.  |
+| [get_UpdateLastSavedTimeProperty](../saveoptions/get_updatelastsavedtimeproperty/)() const | Gets or sets a value determining whether the LastSavedTime property is updated before saving.  |
+| [get_UpdateSdtContent](../saveoptions/get_updatesdtcontent/)() const | Gets or sets value determining whether content of StructuredDocumentTag is updated before saving.  |
+| [get_UseAntiAliasing](../saveoptions/get_useantialiasing/)() const | Gets or sets a value determining whether or not to use anti-aliasing for rendering.  |
+| [get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/)() const | Gets or sets a value determining whether or not to use high quality (i.e. slow) rendering algorithms.  |
+| [HtmlSaveOptions](./htmlsaveoptions/)() | Initializes a new instance of this class that can be used to save a document in the Html format.  |
+| [HtmlSaveOptions](./htmlsaveoptions/)(Aspose::Words::SaveFormat) | Initializes a new instance of this class that can be used to save a document in the Html, Mhtml, Epub or Azw3 format.  |
+| [set_AllowEmbeddingPostScriptFonts](../saveoptions/set_allowembeddingpostscriptfonts/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts.  |
 | [set_AllowNegativeIndent](./set_allownegativeindent/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent.  |
 | [set_CssClassNamePrefix](./set_cssclassnameprefix/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssClassNamePrefix.  |
 | [set_CssSavingCallback](./set_csssavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::ICssSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback.  |
 | [set_CssStyleSheetFileName](./set_cssstylesheetfilename/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetFileName.  |
 | [set_CssStyleSheetType](./set_cssstylesheettype/)(Aspose::Words::Saving::CssStyleSheetType) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType.  |
+| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr< System::TimeZoneInfo > &) |  |
+| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
+| [set_Dml3DEffectsRenderingMode](../saveoptions/set_dml3deffectsrenderingmode/)(Aspose::Words::Saving::Dml3DEffectsRenderingMode) | Sets a value determining how 3D effects are rendered.  |
+| virtual [set_DmlEffectsRenderingMode](../saveoptions/set_dmleffectsrenderingmode/)(Aspose::Words::Saving::DmlEffectsRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode.  |
+| [set_DmlRenderingMode](../saveoptions/set_dmlrenderingmode/)(Aspose::Words::Saving::DmlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode.  |
 | [set_DocumentPartSavingCallback](./set_documentpartsavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentPartSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback.  |
 | [set_DocumentSplitCriteria](./set_documentsplitcriteria/)(Aspose::Words::Saving::DocumentSplitCriteria) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria.  |
 | [set_DocumentSplitHeadingLevel](./set_documentsplitheadinglevel/)(int32_t) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel.  |
@@ -77,6 +105,7 @@ Can be used to specify additional options when saving a document into the Html, 
 | [set_ExportDropDownFormFieldAsText](./set_exportdropdownformfieldastext/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportDropDownFormFieldAsText.  |
 | [set_ExportFontResources](./set_exportfontresources/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources.  |
 | [set_ExportFontsAsBase64](./set_exportfontsasbase64/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontsAsBase64.  |
+| [set_ExportGeneratorName](../saveoptions/set_exportgeneratorname/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName.  |
 | [set_ExportHeadersFootersMode](./set_exportheadersfootersmode/)(Aspose::Words::Saving::ExportHeadersFootersMode) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode.  |
 | [set_ExportImagesAsBase64](./set_exportimagesasbase64/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportImagesAsBase64.  |
 | [set_ExportLanguageInformation](./set_exportlanguageinformation/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportLanguageInformation.  |
@@ -90,6 +119,7 @@ Can be used to specify additional options when saving a document into the Html, 
 | [set_ExportTextInputFormFieldAsText](./set_exporttextinputformfieldastext/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportTextInputFormFieldAsText.  |
 | [set_ExportTocPageNumbers](./set_exporttocpagenumbers/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportTocPageNumbers.  |
 | [set_ExportXhtmlTransitional](./set_exportxhtmltransitional/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional.  |
+| [set_FlatOpcXmlMappingOnly](../saveoptions/set_flatopcxmlmappingonly/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly.  |
 | [set_FontResourcesSubsettingSizeThreshold](./set_fontresourcessubsettingsizethreshold/)(int32_t) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold.  |
 | [set_FontSavingCallback](./set_fontsavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IFontSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback.  |
 | [set_FontsFolder](./set_fontsfolder/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder.  |
@@ -99,11 +129,23 @@ Can be used to specify additional options when saving a document into the Html, 
 | [set_ImageSavingCallback](./set_imagesavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IImageSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback.  |
 | [set_ImagesFolder](./set_imagesfolder/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder.  |
 | [set_ImagesFolderAlias](./set_imagesfolderalias/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias.  |
+| [set_ImlRenderingMode](../saveoptions/set_imlrenderingmode/)(Aspose::Words::Saving::ImlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode.  |
+| [set_MemoryOptimization](../saveoptions/set_memoryoptimization/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_MemoryOptimization.  |
 | [set_MetafileFormat](./set_metafileformat/)(Aspose::Words::Saving::HtmlMetafileFormat) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat.  |
 | [set_OfficeMathOutputMode](./set_officemathoutputmode/)(Aspose::Words::Saving::HtmlOfficeMathOutputMode) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_OfficeMathOutputMode.  |
+| [set_PrettyFormat](../saveoptions/set_prettyformat/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_PrettyFormat.  |
+| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentSavingCallback > &) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
 | [set_ResolveFontNames](./set_resolvefontnames/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames.  |
 | [set_ResourceFolder](./set_resourcefolder/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolder.  |
 | [set_ResourceFolderAlias](./set_resourcefolderalias/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias.  |
 | [set_SaveFormat](./set_saveformat/)(Aspose::Words::SaveFormat) override | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_SaveFormat.  |
 | [set_ScaleImageToShapeSize](./set_scaleimagetoshapesize/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize.  |
 | [set_TableWidthOutputMode](./set_tablewidthoutputmode/)(Aspose::Words::Saving::HtmlElementSizeOutputMode) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode.  |
+| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
+| [set_UpdateCreatedTimeProperty](../saveoptions/set_updatecreatedtimeproperty/)(bool) | Sets a value determining whether the CreatedTime property is updated before saving. Default value is false;.  |
+| [set_UpdateFields](../saveoptions/set_updatefields/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateFields.  |
+| [set_UpdateLastPrintedProperty](../saveoptions/set_updatelastprintedproperty/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty.  |
+| [set_UpdateLastSavedTimeProperty](../saveoptions/set_updatelastsavedtimeproperty/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty.  |
+| [set_UpdateSdtContent](../saveoptions/set_updatesdtcontent/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent.  |
+| [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing.  |
+| [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering.  |

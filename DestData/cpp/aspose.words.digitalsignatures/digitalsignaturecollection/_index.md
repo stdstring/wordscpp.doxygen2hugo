@@ -15,13 +15,13 @@ Provides a read-only collection of digital signatures attached to a document.
 
 | Method | Description |
 | --- | --- |
-| [DigitalSignatureCollection](./digitalsignaturecollection/)() |  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
-| [end](./end/)() const |  |
+| [DigitalSignatureCollection](./digitalsignaturecollection/)() |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the number of elements contained in the collection.  |
 | [get_IsValid](./get_isvalid/)() | Returns **true** if all digital signatures in this collection are valid and the document has not been tampered with Also returns **true** if there are no digital signatures. Returns **false** if at least one digital signature is invalid.  |
 | [GetEnumerator](./getenumerator/)() override | Returns a dictionary enumerator object that can be used to iterate over all items in the collection.  |

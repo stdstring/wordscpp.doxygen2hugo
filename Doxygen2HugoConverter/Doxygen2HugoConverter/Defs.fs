@@ -1,5 +1,6 @@
 ﻿module Defs
 
+open System.Collections.Generic
 open System.IO
 open System.Xml.Linq
 
@@ -89,14 +90,12 @@ type EntityDef =
     | Method of MethodDef
     // field
 
-// parse defs
+type Context = {ParentId: string; ParentName: string; CommonEntityRepo: IDictionary<string, EntityDef>}
 
-(*let getFinalValue (source: XElement) =
-    match "final" |> findAttributeValue source with
-    | None -> false
-    | Some "no" -> false
-    | Some "yes" -> true
-    | _ -> failwith "Unexpected \"final\" attribute value"*)
+let createEmptyContext() =
+    {Context.ParentId = ""; Context.ParentName = ""; Context.CommonEntityRepo = new Dictionary<string, EntityDef>()}
+
+// parse defs
 
 let getVirtualValue (source: XElement) =
     match "virt" |> Utils.getAttributeValue source with
@@ -181,7 +180,7 @@ let parseEnumValueDef (source: XElement) =
      EnumValueDef.Initializer = initializer;
      EnumValueDef.Description = description}
 
-let parseEnumDef (parentId: string) (source: XElement) =
+let parseEnumDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
         let id = "id" |> Utils.getAttributeValue source
@@ -190,16 +189,18 @@ let parseEnumDef (parentId: string) (source: XElement) =
         let qualifiedName = "qualifiedname" |> Utils.getElementValue source
         let baseType = "type" |> Utils.getElementValue source
         let values = source.Elements("enumvalue") |> Seq.map parseEnumValueDef |> Seq.toList
-        {EnumDef.Id = id;
-         EnumDef.ParentId = parentId;
-         EnumDef.Name = name;
-         EnumDef.QualifiedName = qualifiedName;
-         EnumDef.BaseType = baseType;
-         EnumDef.Description = description;
-         EnumDef.Values = values} |> Some
+        let enumDef = {EnumDef.Id = id;
+                       EnumDef.ParentId = context.ParentId;
+                       EnumDef.Name = name;
+                       EnumDef.QualifiedName = qualifiedName;
+                       EnumDef.BaseType = baseType;
+                       EnumDef.Description = description;
+                       EnumDef.Values = values}
+        context.CommonEntityRepo.Add(id, enumDef |> EntityDef.Enum)
+        enumDef |> Some
     | _ -> None
 
-let parseTypedefDef (parentId: string) (source: XElement) =
+let parseTypedefDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
         let id = "id" |> Utils.getAttributeValue source
@@ -208,13 +209,15 @@ let parseTypedefDef (parentId: string) (source: XElement) =
         let qualifiedName = "qualifiedname" |> Utils.getElementValue source
         let sourceType = "type" |> Utils.getElementValue source
         let definition = "definition" |> Utils.getElementValue source
-        {TypedefDef.Id = id;
-         TypedefDef.ParentId = parentId;
-         TypedefDef.Name = name;
-         TypedefDef.QualifiedName = qualifiedName;
-         TypedefDef.SourceType = sourceType;
-         TypedefDef.Definition = definition;
-         TypedefDef.Description = description} |> Some
+        let typedefDef = {TypedefDef.Id = id;
+                          TypedefDef.ParentId = context.ParentId;
+                          TypedefDef.Name = name;
+                          TypedefDef.QualifiedName = qualifiedName;
+                          TypedefDef.SourceType = sourceType;
+                          TypedefDef.Definition = definition;
+                          TypedefDef.Description = description}
+        context.CommonEntityRepo.Add(id, typedefDef |> EntityDef.Typedef)
+        typedefDef |> Some
     | _ -> None
 
 let parseMethodParameter (source: XElement) =
@@ -225,7 +228,7 @@ let parseMethodParameter (source: XElement) =
 [<Literal>]
 let OverrideSuffix = " override"
 
-let parseMethodDef (parentId: string) (className: string) (source: XElement) =
+let parseMethodDef (context: Context) (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
     let staticValue = source |> getYesNoValue "static"
     let constValue = source |> getYesNoValue "const"
@@ -239,25 +242,27 @@ let parseMethodDef (parentId: string) (className: string) (source: XElement) =
     let description = source |> parseDescription
     let overrideValue = argString.EndsWith(OverrideSuffix)
     let parameters = source.Elements("param") |> Seq.map parseMethodParameter |> Seq.toList
-    {MethodDef.Id = id;
-     MethodDef.ParentId = parentId;
-     MethodDef.Name = name;
-     MethodDef.ClassName = className;
-     MethodDef.IsStatic = staticValue;
-     MethodDef.IsConst = constValue;
-     MethodDef.IsExplicit = explicitValue;
-     MethodDef.IsVirtual = virtualValue;
-     MethodDef.IsOverride = overrideValue;
-     MethodDef.Description = description;
-     MethodDef.Parameters = parameters;
-     MethodDef.ReturnType = returnType}
+    let methodDef = {MethodDef.Id = id;
+                     MethodDef.ParentId = context.ParentId;
+                     MethodDef.Name = name;
+                     MethodDef.ClassName = context.ParentName;
+                     MethodDef.IsStatic = staticValue;
+                     MethodDef.IsConst = constValue;
+                     MethodDef.IsExplicit = explicitValue;
+                     MethodDef.IsVirtual = virtualValue;
+                     MethodDef.IsOverride = overrideValue;
+                     MethodDef.Description = description;
+                     MethodDef.Parameters = parameters;
+                     MethodDef.ReturnType = returnType}
+    context.CommonEntityRepo.Add(id, methodDef |> EntityDef.Method)
+    methodDef
 
-let parseDirectMethods (parentId: string) (className: string) (source: XElement) =
+let parseDirectMethods (context: Context) (source: XElement) =
     source.Elements("sectiondef")
         |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "public-func" || kind = "public-static-func")
         |> Seq.map (fun section -> section.Elements("memberdef"))
         |> Seq.concat
-        |> Seq.map (fun element -> element |> parseMethodDef parentId className)
+        |> Seq.map (fun element -> element |> parseMethodDef context)
         |> Seq.toList
 
 let parseBaseClassDef (source: XElement) =
@@ -266,7 +271,7 @@ let parseBaseClassDef (source: XElement) =
     let qualifiedName = source.Value
     {BaseClassDef.Access = access; BaseClassDef.Virtual = virtualValue; BaseClassDef.QualifiedName = qualifiedName}
 
-let parseClassDef (parentId: string) (source: XElement) =
+let parseClassDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
         let id = "id" |> Utils.getAttributeValue source
@@ -279,7 +284,7 @@ let parseClassDef (parentId: string) (source: XElement) =
         let name = fullName |> Utils.getClassName
         let finalValue = source |> findYesNoValue "final"
         let baseClasses = "basecompoundref" |> source.Elements |> Seq.map parseBaseClassDef |> Seq.toList
-        let directMethods = source |> parseDirectMethods parentId name
+        let directMethods = source |> parseDirectMethods {context with ParentId = id; ParentName = name}
         let memberRefs = source.Element("listofallmembers").Elements("member") |> Seq.choose Refs.parseMemberRef |> Seq.toList
         (*for e in source.Descendants("sectiondef") do
             match "kind" |> getAttributeValue e with
@@ -292,55 +297,63 @@ let parseClassDef (parentId: string) (source: XElement) =
             | "public-static-attrib" -> ()
             | "public-type" -> ()
             | value -> value |> failwithf "Unexpected kind value \"%s\""*)
-        {ClassDef.Id = id;
-         ClassDef.ParentId = parentId;
-         ClassDef.Name = name;
-         ClassDef.FullName = fullName;
-         ClassDef.Final = finalValue;
-         ClassDef.Kind = kind;
-         ClassDef.Description = description;
-         ClassDef.BaseClasses = baseClasses;
-         ClassDef.DirectMethods = directMethods;
-         ClassDef.MemberRefs = memberRefs} |> Some
+        let classDef = {ClassDef.Id = id;
+                        ClassDef.ParentId = context.ParentId;
+                        ClassDef.Name = name;
+                        ClassDef.FullName = fullName;
+                        ClassDef.Final = finalValue;
+                        ClassDef.Kind = kind;
+                        ClassDef.Description = description;
+                        ClassDef.BaseClasses = baseClasses;
+                        ClassDef.DirectMethods = directMethods;
+                        ClassDef.MemberRefs = memberRefs}
+        let entityConstructor = match kind with
+                                | ClassKind.Class -> EntityDef.Class
+                                | ClassKind.Interface -> EntityDef.Interface
+        context.CommonEntityRepo.Add(id, classDef |> entityConstructor)
+        classDef |> Some
     | _ -> None
 
-let parseEnumSectionDef (parentId: string) (source: XElement) =
+let parseEnumSectionDef (context: Context) (source: XElement) =
     match source.Elements("sectiondef") |> Seq.filter (fun sectionDef -> "kind" |> Utils.getAttributeValue sectionDef = "enum") |> Seq.toList with
     | [] -> []
-    | [enumSection] -> enumSection.Elements("memberdef") |> Seq.choose (fun def -> def |> parseEnumDef parentId) |> Seq.toList
+    | [enumSection] -> enumSection.Elements("memberdef") |> Seq.choose (fun def -> def |> parseEnumDef context) |> Seq.toList
     | _ -> failwith "There are several sectiondef elements with kind = \"enum\""
 
-let parseTypedefSectionDef (parentId: string) (source: XElement) =
+let parseTypedefSectionDef (context: Context) (source: XElement) =
     match source.Elements("sectiondef") |> Seq.filter (fun sectionDef -> "kind" |> Utils.getAttributeValue sectionDef = "typedef") |> Seq.toList with
     | [] -> []
-    | [typedefSection] -> typedefSection.Elements("memberdef") |> Seq.choose (fun def -> def |> parseTypedefDef parentId) |> Seq.toList
+    | [typedefSection] -> typedefSection.Elements("memberdef") |> Seq.choose (fun def -> def |> parseTypedefDef context) |> Seq.toList
     | _ -> failwith "There are several sectiondef elements with kind = \"typedef\""
 
-let parseClassRefEntry (parentId: string) (config: Config.ConfigData) (refEntry: XElement) =
+let parseClassRefEntry (context: Context) (config: Config.ConfigData) (refEntry: XElement) =
     match "prot" |> Utils.getAttributeValue refEntry with
     | "public" ->
         let refId = "refid" |> Utils.getAttributeValue refEntry
         let document = Path.Combine(config.SourceDirectory, refId + ".xml") |> XDocument.Load
-        document.Root.Elements("compounddef") |> Seq.choose (fun def -> def |> parseClassDef parentId) |> Some
+        document.Root.Elements("compounddef") |> Seq.choose (fun def -> def |> parseClassDef context) |> Some
     | _ -> None
 
-let parseNamespaceDef (config: Config.ConfigData) (source: XElement) =
+let parseNamespaceDef (config: Config.ConfigData) (context: Context) (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
     let name = "compoundname" |> Utils.getElementValue source
     let description = source |> parseDescription
-    let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry id config) |> Seq.concat |> Seq.toList
+    let currentContext = {context with ParentId = id; ParentName = name}
+    let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry currentContext config) |> Seq.concat |> Seq.toList
     let classDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Class)
     let interfaceDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Interface)
-    let enumDefs = source |> parseEnumSectionDef id
-    let typedefs = source |> parseTypedefSectionDef id
-    {NamespaceDef.Id = id;
-     NamespaceDef.Name = name;
-     NamespaceDef.Description = description;
-     NamespaceDef.Enums = enumDefs;
-     NamespaceDef.Typedefs = typedefs;
-     NamespaceDef.Classes = classDefs;
-     NamespaceDef.Interfaces = interfaceDefs;}
+    let enumDefs = source |> parseEnumSectionDef currentContext
+    let typedefs = source |> parseTypedefSectionDef currentContext
+    let namespaceDef = {NamespaceDef.Id = id;
+                        NamespaceDef.Name = name;
+                        NamespaceDef.Description = description;
+                        NamespaceDef.Enums = enumDefs;
+                        NamespaceDef.Typedefs = typedefs;
+                        NamespaceDef.Classes = classDefs;
+                        NamespaceDef.Interfaces = interfaceDefs}
+    context.CommonEntityRepo.Add(id, namespaceDef |> EntityDef.Namespace)
+    namespaceDef
 
-let parseNamespaceFile (config: Config.ConfigData) (refEntry: Refs.NamespaceRefEntry) =
+let parseNamespaceFile (config: Config.ConfigData) (context: Context) (refEntry: Refs.NamespaceRefEntry) =
     let document = Path.Combine(config.SourceDirectory, refEntry.RefId + ".xml") |> XDocument.Load
-    document.Root.Elements("compounddef") |> Seq.exactlyOne |> parseNamespaceDef config
+    document.Root.Elements("compounddef") |> Seq.exactlyOne |> parseNamespaceDef config context

@@ -18,12 +18,12 @@ Stores and manages formatting of bulleted and numbered lists used in a document.
 | [Add](./add/)(Aspose::Words::Lists::ListTemplate) | Creates a new list based on a predefined template and adds it to the collection of lists in the document.  |
 | [Add](./add/)(const System::SharedPtr< Aspose::Words::Style > &) | Creates a new list that references a list style and adds it to the collection of lists in the document.  |
 | [AddCopy](./addcopy/)(const System::SharedPtr< Aspose::Words::Lists::List > &) | Creates a new list by copying the specified list and adding it to the collection of lists in the document.  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the count of numbered and bulleted lists in the document.  |
 | [get_Document](./get_document/)() const | Gets the owner document.  |
 | [GetEnumerator](./getenumerator/)() override | Gets the enumerator object that will enumerate lists in the document.  |

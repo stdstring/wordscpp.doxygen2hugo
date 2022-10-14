@@ -15,15 +15,15 @@ Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPr
 
 | Method | Description |
 | --- | --- |
-| [BaseWebExtensionCollection](./basewebextensioncollection/)() |  |
 | [Add](./add/)(T) | Adds specified item to the collection.  |
-| [begin](./begin/)() const |  |
+| [BaseWebExtensionCollection](./basewebextensioncollection/)() |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
 | [Clear](./clear/)() | Removes all elements from the collection.  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the number of elements contained in the collection.  |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator that can iterate through a collection.  |
 | [idx_get](./idx_get/)(int32_t) | Gets or sets an item at the specified index.  |

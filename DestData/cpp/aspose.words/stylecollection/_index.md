@@ -23,6 +23,6 @@ A collection of Style objects that represent both the built-in and user-defined 
 | [get_DefaultParagraphFormat](./get_defaultparagraphformat/)() | Gets document default paragraph formatting.  |
 | [get_Document](./get_document/)() const | Gets the owner document.  |
 | [GetEnumerator](./getenumerator/)() override | Gets an enumerator object that will enumerate styles in the alphabetical order of their names.  |
-| [idx_get](./idx_get/)(Aspose::Words::StyleIdentifier) | Gets a built-in style by its locale independent identifier.  |
 | [idx_get](./idx_get/)(const System::String &) | Gets a style by name or alias.  |
+| [idx_get](./idx_get/)(Aspose::Words::StyleIdentifier) | Gets a built-in style by its locale independent identifier.  |
 | [idx_get](./idx_get/)(int32_t) | Gets a style by index.  |

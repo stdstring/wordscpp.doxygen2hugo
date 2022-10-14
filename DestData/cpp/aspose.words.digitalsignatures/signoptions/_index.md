@@ -15,7 +15,6 @@ Allows to specify options for document signing.
 
 | Method | Description |
 | --- | --- |
-| [SignOptions](./signoptions/)() |  |
 | [get_Comments](./get_comments/)() const | Specifies comments on the digital signature. Default value is **empty string**.  |
 | [get_DecryptionPassword](./get_decryptionpassword/)() const | The password to decrypt source document. Default value is **empty string**.  |
 | [get_ProviderId](./get_providerid/)() const | Specifies the class ID of the signature provider. Default value is **Empty (all zeroes) Guid**.  |
@@ -28,3 +27,4 @@ Allows to specify options for document signing.
 | [set_SignatureLineId](./set_signaturelineid/)(System::Guid) | Setter for Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId.  |
 | [set_SignatureLineImage](./set_signaturelineimage/)(const System::ArrayPtr< uint8_t > &) | Setter for Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineImage.  |
 | [set_SignTime](./set_signtime/)(System::DateTime) | Setter for Aspose::Words::DigitalSignatures::SignOptions::get_SignTime.  |
+| [SignOptions](./signoptions/)() |  |

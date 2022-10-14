@@ -15,6 +15,8 @@ A collection of built-in document properties.
 
 | Method | Description |
 | --- | --- |
+| [Clear](../documentpropertycollection/clear/)() | Removes all properties from the collection.  |
+| [Contains](../documentpropertycollection/contains/)(const System::String &) | Returns true if a property with the specified name exists in the collection.  |
 | [get_Author](./get_author/)() | Gets or sets the name of the document's author.  |
 | [get_Bytes](./get_bytes/)() | Represents an estimate of the number of bytes in the document.  |
 | [get_Category](./get_category/)() | Gets or sets the category of the document.  |
@@ -24,6 +26,7 @@ A collection of built-in document properties.
 | [get_Company](./get_company/)() | Gets or sets the company property.  |
 | [get_ContentStatus](./get_contentstatus/)() | Gets or sets the ContentStatus of the document.  |
 | [get_ContentType](./get_contenttype/)() | Gets or sets the ContentStatus of the document.  |
+| [get_Count](../documentpropertycollection/get_count/)() | Gets number of items in the collection.  |
 | [get_CreatedTime](./get_createdtime/)() | Gets or sets date of the document creation in UTC.  |
 | [get_HeadingPairs](./get_headingpairs/)() | Specifies document headings and their names.  |
 | [get_HyperlinkBase](./get_hyperlinkbase/)() | Specifies the base string used for evaluating relative hyperlinks in this document.  |
@@ -47,7 +50,12 @@ A collection of built-in document properties.
 | [get_TotalEditingTime](./get_totaleditingtime/)() | Gets or sets the total editing time in minutes.  |
 | [get_Version](./get_version/)() | Represents the version number of the application that created the document.  |
 | [get_Words](./get_words/)() | Represents an estimate of the number of words in the document.  |
+| [GetEnumerator](../documentpropertycollection/getenumerator/)() override | Returns an enumerator object that can be used to iterate over all items in the collection.  |
 | [idx_get](./idx_get/)(System::String) override | Returns a DocumentProperty object by the name of the property.  |
+| [idx_get](../documentpropertycollection/idx_get/)(int32_t) | Returns a DocumentProperty object by index.  |
+| [IndexOf](../documentpropertycollection/indexof/)(const System::String &) | Gets the index of a property by name.  |
+| [Remove](../documentpropertycollection/remove/)(const System::String &) | Removes a property with the specified name from the collection.  |
+| [RemoveAt](../documentpropertycollection/removeat/)(int32_t) | Removes a property at the specified index.  |
 | [set_Author](./set_author/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Author.  |
 | [set_Bytes](./set_bytes/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes.  |
 | [set_Category](./set_category/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Category.  |

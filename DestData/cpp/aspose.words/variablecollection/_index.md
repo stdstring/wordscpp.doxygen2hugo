@@ -16,14 +16,14 @@ A collection of document variables.
 | Method | Description |
 | --- | --- |
 | [Add](./add/)(const System::String &, const System::String &) | Adds a document variable to the collection.  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
 | [Clear](./clear/)() | Removes all elements from the collection.  |
 | [Contains](./contains/)(const System::String &) | Determines whether the collection contains a document variable with the given name.  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the number of elements contained in the collection.  |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator object that can be used to iterate over all variable in the collection.  |
 | [idx_get](./idx_get/)(const System::String &) | Gets or a sets a document variable by the case-insensitive name. null values are not allowed as a right hand side of the assignment and will be replaced by empty string.  |

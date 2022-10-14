@@ -15,16 +15,16 @@ A collection of individual bookmarks outline level.
 
 | Method | Description |
 | --- | --- |
-| [BookmarksOutlineLevelCollection](./bookmarksoutlinelevelcollection/)() |  |
 | [Add](./add/)(const System::String &, int32_t) | Adds a bookmark to the collection.  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
+| [BookmarksOutlineLevelCollection](./bookmarksoutlinelevelcollection/)() |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
 | [Clear](./clear/)() | Removes all elements from the collection.  |
 | [Contains](./contains/)(const System::String &) | Determines whether the collection contains a bookmark with the given name.  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the number of elements contained in the collection.  |
 | [GetEnumerator](./getenumerator/)() override |  |
 | [idx_get](./idx_get/)(const System::String &) | Gets or a sets a bookmark outline level by the bookmark name.  |

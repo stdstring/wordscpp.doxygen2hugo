@@ -16,13 +16,13 @@ Provides access to SdtListItem elements of a structured document tag.
 | Method | Description |
 | --- | --- |
 | [Add](./add/)(const System::SharedPtr< Aspose::Words::Markup::SdtListItem > &) | Adds an item to this collection.  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
 | [Clear](./clear/)() | Clears all items from this collection.  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets number of items in the collection.  |
 | [get_SelectedValue](./get_selectedvalue/)() | Specifies currently selected value in this list. Null value allowed, meaning that no currently selected entry is associated with this list item collection.  |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator object that can be used to iterate over all items in the collection.  |

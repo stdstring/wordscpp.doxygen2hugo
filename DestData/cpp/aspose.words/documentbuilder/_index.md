@@ -15,9 +15,9 @@ Provides methods to insert text, images and other content, specify font, paragra
 
 | Method | Description |
 | --- | --- |
+| [DeleteRow](./deleterow/)(int32_t, int32_t) | Deletes a row from a table.  |
 | [DocumentBuilder](./documentbuilder/)() | Initializes a new instance of this class.  |
 | [DocumentBuilder](./documentbuilder/)(const System::SharedPtr< Aspose::Words::Document > &) | Initializes a new instance of this class.  |
-| [DeleteRow](./deleterow/)(int32_t, int32_t) | Deletes a row from a table.  |
 | [EndBookmark](./endbookmark/)(const System::String &) | Marks the current position in the document as a bookmark end.  |
 | [EndColumnBookmark](./endcolumnbookmark/)(const System::String &) | Marks the current position in the document as a column bookmark end. The position must be in a table cell.  |
 | [EndEditableRange](./endeditablerange/)() | Marks the current position in the document as an editable range end.  |
@@ -42,8 +42,8 @@ Provides methods to insert text, images and other content, specify font, paragra
 | [get_Underline](./get_underline/)() | Gets/sets underline type for the current font.  |
 | [InsertBreak](./insertbreak/)(Aspose::Words::BreakType) | Inserts a break of the specified type into the document.  |
 | [InsertCell](./insertcell/)() | Inserts a table cell into the document.  |
-| [InsertChart](./insertchart/)(Aspose::Words::Drawing::Charts::ChartType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an chart object into the document and scales it to the specified size.  |
 | [InsertChart](./insertchart/)(Aspose::Words::Drawing::Charts::ChartType, double, double) | Inserts an chart object into the document and scales it to the specified size.  |
+| [InsertChart](./insertchart/)(Aspose::Words::Drawing::Charts::ChartType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an chart object into the document and scales it to the specified size.  |
 | [InsertCheckBox](./insertcheckbox/)(const System::String &, bool, int32_t) | Inserts a checkbox form field at the current position.  |
 | [InsertCheckBox](./insertcheckbox/)(const System::String &, bool, bool, int32_t) | Inserts a checkbox form field at the current position.  |
 | [InsertComboBox](./insertcombobox/)(const System::String &, const System::ArrayPtr< System::String > &, int32_t) | Inserts a combobox form field at the current position.  |
@@ -56,24 +56,24 @@ Provides methods to insert text, images and other content, specify font, paragra
 | [InsertFootnote](./insertfootnote/)(Aspose::Words::Notes::FootnoteType, const System::String &, const System::String &) | Inserts a footnote or endnote into the document.  |
 | [InsertHorizontalRule](./inserthorizontalrule/)() | Inserts a horizontal rule shape into the document.  |
 | [InsertHtml](./inserthtml/)(const System::String &) | Inserts an HTML string into the document.  |
-| [InsertHtml](./inserthtml/)(const System::String &, Aspose::Words::HtmlInsertOptions) | Inserts an HTML string into the document. Allows to specify additional options.  |
 | [InsertHtml](./inserthtml/)(const System::String &, bool) | Inserts an HTML string into the document.  |
+| [InsertHtml](./inserthtml/)(const System::String &, Aspose::Words::HtmlInsertOptions) | Inserts an HTML string into the document. Allows to specify additional options.  |
 | [InsertHyperlink](./inserthyperlink/)(const System::String &, const System::String &, bool) | Inserts a hyperlink into the document.  |
-| [InsertImage](./insertimage/)(const System::ArrayPtr< uint8_t > &) | Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale.  |
-| [InsertImage](./insertimage/)(const System::ArrayPtr< uint8_t > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a byte array at the specified position and size.  |
-| [InsertImage](./insertimage/)(const System::ArrayPtr< uint8_t > &, double, double) | Inserts an inline image from a byte array into the document and scales it to the specified size.  |
 | [InsertImage](./insertimage/)(const System::SharedPtr< System::Drawing::Image > &) | Inserts an image from a Image object into the document. The image is inserted inline and at 100% scale.  |
-| [InsertImage](./insertimage/)(const System::SharedPtr< System::Drawing::Image > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a Image object at the specified position and size.  |
-| [InsertImage](./insertimage/)(const System::SharedPtr< System::Drawing::Image > &, double, double) | Inserts an inline image from a Image object into the document and scales it to the specified size.  |
-| [InsertImage](./insertimage/)(const System::SharedPtr< System::IO::Stream > &) | Inserts an image from a stream into the document. The image is inserted inline and at 100% scale.  |
-| [InsertImage](./insertimage/)(const System::SharedPtr< System::IO::Stream > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a stream at the specified position and size.  |
-| [InsertImage](./insertimage/)(const System::SharedPtr< System::IO::Stream > &, double, double) | Inserts an inline image from a stream into the document and scales it to the specified size.  |
 | [InsertImage](./insertimage/)(const System::String &) | Inserts an image from a file or URL into the document. The image is inserted inline and at 100% scale.  |
-| [InsertImage](./insertimage/)(const System::String &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a file or URL at the specified position and size.  |
+| [InsertImage](./insertimage/)(const System::SharedPtr< System::IO::Stream > &) | Inserts an image from a stream into the document. The image is inserted inline and at 100% scale.  |
+| [InsertImage](./insertimage/)(const System::ArrayPtr< uint8_t > &) | Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale.  |
+| [InsertImage](./insertimage/)(const System::SharedPtr< System::Drawing::Image > &, double, double) | Inserts an inline image from a Image object into the document and scales it to the specified size.  |
 | [InsertImage](./insertimage/)(const System::String &, double, double) | Inserts an inline image from a file or URL into the document and scales it to the specified size.  |
+| [InsertImage](./insertimage/)(const System::SharedPtr< System::IO::Stream > &, double, double) | Inserts an inline image from a stream into the document and scales it to the specified size.  |
+| [InsertImage](./insertimage/)(const System::ArrayPtr< uint8_t > &, double, double) | Inserts an inline image from a byte array into the document and scales it to the specified size.  |
+| [InsertImage](./insertimage/)(const System::SharedPtr< System::Drawing::Image > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a Image object at the specified position and size.  |
+| [InsertImage](./insertimage/)(const System::String &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a file or URL at the specified position and size.  |
+| [InsertImage](./insertimage/)(const System::SharedPtr< System::IO::Stream > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a stream at the specified position and size.  |
+| [InsertImage](./insertimage/)(const System::ArrayPtr< uint8_t > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an image from a byte array at the specified position and size.  |
 | [InsertImage](./insertimage/)(std::basic_istream< CharType, Traits > &) |  |
-| [InsertImage](./insertimage/)(std::basic_istream< CharType, Traits > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) |  |
 | [InsertImage](./insertimage/)(std::basic_istream< CharType, Traits > &, double, double) |  |
+| [InsertImage](./insertimage/)(std::basic_istream< CharType, Traits > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) |  |
 | [InsertNode](./insertnode/)(const System::SharedPtr< Aspose::Words::Node > &) | Inserts a text level node inside the current paragraph before the cursor.  |
 | [InsertOleObject](./insertoleobject/)(const System::SharedPtr< System::IO::Stream > &, const System::String &, bool, const System::SharedPtr< System::IO::Stream > &) | Inserts an embedded OLE object from a stream into the document.  |
 | [InsertOleObject](./insertoleobject/)(const System::String &, bool, bool, const System::SharedPtr< System::IO::Stream > &) | Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using file extension.  |
@@ -81,17 +81,17 @@ Provides methods to insert text, images and other content, specify font, paragra
 | [InsertOleObject](./insertoleobject/)(std::basic_istream< CharType, Traits > &, System::String, bool, std::basic_istream< CharType, Traits > &) |  |
 | [InsertOleObject](./insertoleobject/)(System::String, bool, bool, std::basic_istream< CharType, Traits > &) |  |
 | [InsertOleObject](./insertoleobject/)(System::String, System::String, bool, bool, std::basic_istream< CharType, Traits > &) |  |
-| [InsertOleObjectAsIcon](./insertoleobjectasicon/)(const System::SharedPtr< System::IO::Stream > &, const System::String &, const System::String &, const System::String &) | Inserts an embedded OLE object as icon from a stream into the document. Allows to specify icon file and caption. Detects OLE object type using given progID parameter.  |
 | [InsertOleObjectAsIcon](./insertoleobjectasicon/)(const System::String &, bool, const System::String &, const System::String &) | Inserts an embedded or linked OLE object as icon into the document. Allows to specify icon file and caption. Detects OLE object type using file extension.  |
 | [InsertOleObjectAsIcon](./insertoleobjectasicon/)(const System::String &, const System::String &, bool, const System::String &, const System::String &) | Inserts an embedded or linked OLE object as icon into the document. Allows to specify icon file and caption. Detects OLE object type using given progID parameter.  |
+| [InsertOleObjectAsIcon](./insertoleobjectasicon/)(const System::SharedPtr< System::IO::Stream > &, const System::String &, const System::String &, const System::String &) | Inserts an embedded OLE object as icon from a stream into the document. Allows to specify icon file and caption. Detects OLE object type using given progID parameter.  |
 | [InsertOleObjectAsIcon](./insertoleobjectasicon/)(std::basic_istream< CharType, Traits > &, System::String, System::String, System::String) |  |
-| [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an online video object into the document and scales it to the specified size.  |
-| [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, const System::String &, const System::ArrayPtr< uint8_t > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an online video object into the document and scales it to the specified size.  |
-| [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, const System::String &, const System::ArrayPtr< uint8_t > &, double, double) | Inserts an online video object into the document and scales it to the specified size.  |
 | [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, double, double) | Inserts an online video object into the document and scales it to the specified size.  |
+| [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an online video object into the document and scales it to the specified size.  |
+| [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, const System::String &, const System::ArrayPtr< uint8_t > &, double, double) | Inserts an online video object into the document and scales it to the specified size.  |
+| [InsertOnlineVideo](./insertonlinevideo/)(const System::String &, const System::String &, const System::ArrayPtr< uint8_t > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts an online video object into the document and scales it to the specified size.  |
 | [InsertParagraph](./insertparagraph/)() | Inserts a paragraph break into the document.  |
-| [InsertShape](./insertshape/)(Aspose::Words::Drawing::ShapeType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts free-floating shape with specified position, size and text wrap type.  |
 | [InsertShape](./insertshape/)(Aspose::Words::Drawing::ShapeType, double, double) | Inserts inline shape with specified type and size.  |
+| [InsertShape](./insertshape/)(Aspose::Words::Drawing::ShapeType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) | Inserts free-floating shape with specified position, size and text wrap type.  |
 | [InsertSignatureLine](./insertsignatureline/)(const System::SharedPtr< Aspose::Words::SignatureLineOptions > &) | Inserts a signature line at the current position.  |
 | [InsertSignatureLine](./insertsignatureline/)(const System::SharedPtr< Aspose::Words::SignatureLineOptions > &, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, Aspose::Words::Drawing::WrapType) | Inserts a signature line at the specified position.  |
 | [InsertStyleSeparator](./insertstyleseparator/)() | Inserts style separator into the document.  |
@@ -120,5 +120,5 @@ Provides methods to insert text, images and other content, specify font, paragra
 | [StartEditableRange](./starteditablerange/)() | Marks the current position in the document as an editable range start.  |
 | [StartTable](./starttable/)() | Starts a table in the document.  |
 | [Write](./write/)(const System::String &) | Inserts a string into the document at the current insert position.  |
-| [Writeln](./writeln/)() | Inserts a paragraph break into the document.  |
 | [Writeln](./writeln/)(const System::String &) | Inserts a string and a paragraph break into the document.  |
+| [Writeln](./writeln/)() | Inserts a paragraph break into the document.  |

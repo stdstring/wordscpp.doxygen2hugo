@@ -15,7 +15,6 @@ Represents the reference to a web extension. The reference is used to identify t
 
 | Method | Description |
 | --- | --- |
-| [WebExtensionReference](./webextensionreference/)() |  |
 | [get_Id](./get_id/)() const | Identifier associated with the web extension within a catalog provider.  |
 | [get_Store](./get_store/)() const | Specifies the instance of the marketplace where the web extension is stored.  |
 | [get_StoreType](./get_storetype/)() const | Specifies the type of marketplace.  |
@@ -24,3 +23,4 @@ Represents the reference to a web extension. The reference is used to identify t
 | [set_Store](./set_store/)(const System::String &) | Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Store.  |
 | [set_StoreType](./set_storetype/)(Aspose::Words::WebExtensions::WebExtensionStoreType) | Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType.  |
 | [set_Version](./set_version/)(const System::String &) | Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Version.  |
+| [WebExtensionReference](./webextensionreference/)() |  |

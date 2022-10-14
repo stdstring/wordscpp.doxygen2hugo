@@ -15,7 +15,6 @@ Represents an add-in task pane object.
 
 | Method | Description |
 | --- | --- |
-| [TaskPane](./taskpane/)() |  |
 | [get_DockState](./get_dockstate/)() const | Specifies the last-docked location of this task pane object.  |
 | [get_IsLocked](./get_islocked/)() const | Specifies whether the task pane is locked to the document in the UI and cannot be closed by the user.  |
 | [get_IsVisible](./get_isvisible/)() const | Specifies whether the task pane shows as visible by default when the document opens.  |
@@ -27,3 +26,4 @@ Represents an add-in task pane object.
 | [set_IsVisible](./set_isvisible/)(bool) | Setter for Aspose::Words::WebExtensions::TaskPane::get_IsVisible.  |
 | [set_Row](./set_row/)(int32_t) | Setter for Aspose::Words::WebExtensions::TaskPane::get_Row.  |
 | [set_Width](./set_width/)(double) | Setter for Aspose::Words::WebExtensions::TaskPane::get_Width.  |
+| [TaskPane](./taskpane/)() |  |

@@ -15,16 +15,16 @@ Represents a collection of CustomPart objects.
 
 | Method | Description |
 | --- | --- |
-| [CustomPartCollection](./custompartcollection/)() |  |
 | [Add](./add/)(const System::SharedPtr< Aspose::Words::Markup::CustomPart > &) | Adds an item to the collection.  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
 | [Clear](./clear/)() | Removes all elements from the collection.  |
 | [Clone](./clone/)() | Makes a deep copy of this collection and its items.  |
-| [end](./end/)() const |  |
+| [CustomPartCollection](./custompartcollection/)() |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the number of elements contained in the collection.  |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator object that can be used to iterate over all items in the collection.  |
 | [idx_get](./idx_get/)(int32_t) | Gets or sets an item at the specified index.  |

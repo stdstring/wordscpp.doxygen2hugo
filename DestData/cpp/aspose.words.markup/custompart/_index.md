@@ -15,8 +15,8 @@ Represents a custom (arbitrary content) part, that is not defined by the ISO/IEC
 
 | Method | Description |
 | --- | --- |
-| [CustomPart](./custompart/)() |  |
 | [Clone](./clone/)() | Makes a "deep enough" copy of the object. Does not duplicate the bytes of the Data value.  |
+| [CustomPart](./custompart/)() |  |
 | [get_ContentType](./get_contenttype/)() const | Specifies the content type of this custom part.  |
 | [get_Data](./get_data/)() const | Contains the data of this custom part.  |
 | [get_IsExternal](./get_isexternal/)() const | **False** if this custom part is stored inside the OOXML package. **True** if this custom part is an external target.  |

@@ -15,7 +15,6 @@ Allows to specify options for signature line being inserted. Used in DocumentBui
 
 | Method | Description |
 | --- | --- |
-| [SignatureLineOptions](./signaturelineoptions/)() |  |
 | [get_AllowComments](./get_allowcomments/)() const | Gets or sets a value indicating that the signer can add comments in the Sign dialog. Default value for this property is **false**.  |
 | [get_DefaultInstructions](./get_defaultinstructions/)() const | Gets or sets a value indicating that default instructions is shown in the Sign dialog. Default value for this property is **true**.  |
 | [get_Email](./get_email/)() const | Gets or sets suggested signer's e-mail address. Default value for this property is **empty string**.  |
@@ -30,3 +29,4 @@ Allows to specify options for signature line being inserted. Used in DocumentBui
 | [set_ShowDate](./set_showdate/)(bool) | Setter for Aspose::Words::SignatureLineOptions::get_ShowDate.  |
 | [set_Signer](./set_signer/)(const System::String &) | Setter for Aspose::Words::SignatureLineOptions::get_Signer.  |
 | [set_SignerTitle](./set_signertitle/)(const System::String &) | Setter for Aspose::Words::SignatureLineOptions::get_SignerTitle.  |
+| [SignatureLineOptions](./signaturelineoptions/)() |  |

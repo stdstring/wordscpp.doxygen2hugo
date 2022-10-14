@@ -15,8 +15,8 @@ Represents a Custom XML Data Storage Part (custom XML data within a package).
 
 | Method | Description |
 | --- | --- |
-| [CustomXmlPart](./customxmlpart/)() |  |
 | [Clone](./clone/)() | Makes a "deep enough" copy of the object. Does not duplicate the bytes of the Data value.  |
+| [CustomXmlPart](./customxmlpart/)() |  |
 | [get_Data](./get_data/)() const | Gets or sets the XML content of this Custom XML Data Storage Part.  |
 | [get_DataChecksum](./get_datachecksum/)() | Specifies a cyclic redundancy check (CRC) checksum of the Data content.  |
 | [get_Id](./get_id/)() const | Gets or sets the string that identifies this custom XML part within an OOXML document.  |

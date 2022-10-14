@@ -15,8 +15,6 @@ Represents a single custom tab stop. The **TabStop** object is a member of the T
 
 | Method | Description |
 | --- | --- |
-| [TabStop](./tabstop/)(double) | Initializes a new instance of this class.  |
-| [TabStop](./tabstop/)(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) | Initializes a new instance of this class.  |
 | [Equals](./equals/)(const System::SharedPtr< Aspose::Words::TabStop > &) | Compares with the specified TabStop.  |
 | [get_Alignment](./get_alignment/)() const | Gets or sets the alignment of text at this tab stop.  |
 | [get_IsClear](./get_isclear/)() | Returns true if this tab stop clears any existing tab stops in this position.  |
@@ -25,3 +23,5 @@ Represents a single custom tab stop. The **TabStop** object is a member of the T
 | [GetHashCode](./gethashcode/)() const override | Calculates hash code for this object.  |
 | [set_Alignment](./set_alignment/)(Aspose::Words::TabAlignment) | Setter for Aspose::Words::TabStop::get_Alignment.  |
 | [set_Leader](./set_leader/)(Aspose::Words::TabLeader) | Setter for Aspose::Words::TabStop::get_Leader.  |
+| [TabStop](./tabstop/)(double) | Initializes a new instance of this class.  |
+| [TabStop](./tabstop/)(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) | Initializes a new instance of this class.  |

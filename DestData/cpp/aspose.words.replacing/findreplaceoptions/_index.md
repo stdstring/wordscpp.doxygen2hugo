@@ -17,8 +17,8 @@ Specifies options for find/replace operations.
 | --- | --- |
 | [FindReplaceOptions](./findreplaceoptions/)() |  |
 | [FindReplaceOptions](./findreplaceoptions/)(Aspose::Words::Replacing::FindReplaceDirection) |  |
-| [FindReplaceOptions](./findreplaceoptions/)(Aspose::Words::Replacing::FindReplaceDirection, const System::SharedPtr< Aspose::Words::Replacing::IReplacingCallback > &) |  |
 | [FindReplaceOptions](./findreplaceoptions/)(const System::SharedPtr< Aspose::Words::Replacing::IReplacingCallback > &) |  |
+| [FindReplaceOptions](./findreplaceoptions/)(Aspose::Words::Replacing::FindReplaceDirection, const System::SharedPtr< Aspose::Words::Replacing::IReplacingCallback > &) |  |
 | [get_ApplyFont](./get_applyfont/)() const | Text formatting applied to new content.  |
 | [get_ApplyParagraphFormat](./get_applyparagraphformat/)() const | Paragraph formatting applied to new content.  |
 | [get_Direction](./get_direction/)() const | Selects direction for replace. Default value is Forward.  |

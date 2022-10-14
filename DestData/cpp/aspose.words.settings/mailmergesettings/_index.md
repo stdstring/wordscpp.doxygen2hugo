@@ -15,7 +15,6 @@ Specifies all of the mail merge information for a document.
 
 | Method | Description |
 | --- | --- |
-| [MailMergeSettings](./mailmergesettings/)() |  |
 | [Clear](./clear/)() | Clears the mail merge settings in such a way that when the document is saved, no mail merge settings will be saved and it will become a normal document.  |
 | [Clone](./clone/)() | Returns a deep clone of this object.  |
 | [get_ActiveRecord](./get_activerecord/)() const | Specifies the one-based index of the record from the data source which shall be displayed in Microsoft Word. The default value is 1.  |
@@ -34,6 +33,7 @@ Specifies all of the mail merge information for a document.
 | [get_Odso](./get_odso/)() const | Gets the object that specifies the Office Data Source Object (ODSO) settings.  |
 | [get_Query](./get_query/)() const | Contains the Structured Query Language string that shall be run against the specified external data source to return the set of records which shall be imported into the document when the mail merge operation is performed. The default value is an empty string.  |
 | [get_ViewMergedData](./get_viewmergeddata/)() const | Specifies that Microsoft Word shall display the data from the specified external data source where merge fields have been inserted (e.g. preview merged data). The default value is **false**.  |
+| [MailMergeSettings](./mailmergesettings/)() |  |
 | [set_ActiveRecord](./set_activerecord/)(int32_t) | Specifies the one-based index of the record from the data source which shall be displayed in Microsoft Word. The default value is 1.  |
 | [set_AddressFieldName](./set_addressfieldname/)(const System::String &) | Specifies the column within the data source that contains e-mail addresses. The default value is an empty string.  |
 | [set_CheckErrors](./set_checkerrors/)(Aspose::Words::Settings::MailMergeCheckErrors) | Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is Default.  |

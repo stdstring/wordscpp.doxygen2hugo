@@ -16,8 +16,8 @@ Specifies font fallback mechanism settings.
 | Method | Description |
 | --- | --- |
 | [BuildAutomatic](./buildautomatic/)() | Automatically builds the fallback settings by scanning available fonts.  |
-| [Load](./load/)(const System::SharedPtr< System::IO::Stream > &) | Loads fallback settings from XML stream.  |
 | [Load](./load/)(const System::String &) | Loads font fallback settings from XML file.  |
+| [Load](./load/)(const System::SharedPtr< System::IO::Stream > &) | Loads fallback settings from XML stream.  |
 | [Load](./load/)(std::basic_istream< CharType, Traits > &) |  |
 | [LoadMsOfficeFallbackSettings](./loadmsofficefallbacksettings/)() | Loads predefined fallback settings which mimics the Microsoft Word fallback and uses Microsoft office fonts.  |
 | [LoadNotoFallbackSettings](./loadnotofallbacksettings/)() | Loads predefined fallback settings which uses Google Noto fonts.  |

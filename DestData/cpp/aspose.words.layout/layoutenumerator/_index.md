@@ -15,7 +15,6 @@ Enumerates page layout entities of a document. You can use this class to walk ov
 
 | Method | Description |
 | --- | --- |
-| [LayoutEnumerator](./layoutenumerator/)(const System::SharedPtr< Aspose::Words::Document > &) | Initializes new instance of this class.  |
 | [get_Current](./get_current/)() const | Gets or sets current position in the page layout model. This property returns an opaque object which corresponds to the current layout entity.  |
 | [get_Document](./get_document/)() const | Gets document this instance enumerates.  |
 | [get_Kind](./get_kind/)() | Gets the kind of the current entity. This can be an empty string but never null.  |
@@ -24,6 +23,7 @@ Enumerates page layout entities of a document. You can use this class to walk ov
 | [get_Text](./get_text/)() | Gets text of the current span entity. Throws for other entity types.  |
 | [get_Type](./get_type/)() | Gets the type of the current entity.  |
 | [idx_get](./idx_get/)(const System::String &) | Gets a named property of the entity.  |
+| [LayoutEnumerator](./layoutenumerator/)(const System::SharedPtr< Aspose::Words::Document > &) | Initializes new instance of this class.  |
 | [MoveFirstChild](./movefirstchild/)() | Moves to the first child entity.  |
 | [MoveLastChild](./movelastchild/)() | Moves to the last child entity.  |
 | [MoveNext](./movenext/)() | Moves to the next sibling entity in visual order. When iterating lines of a paragraph broken across pages this method will not move to the next page but rather move to the next entity on the same page.  |

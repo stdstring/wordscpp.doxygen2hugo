@@ -15,8 +15,8 @@ Specifies font settings for a document.
 
 | Method | Description |
 | --- | --- |
-| static [get_DefaultInstance](./get_defaultinstance/)() | Static default font settings.  |
 | [FontSettings](./fontsettings/)() |  |
+| static [get_DefaultInstance](./get_defaultinstance/)() | Static default font settings.  |
 | [get_FallbackSettings](./get_fallbacksettings/)() const | Settings related to font fallback mechanism.  |
 | [get_SubstitutionSettings](./get_substitutionsettings/)() const | Settings related to font substitution mechanism.  |
 | [GetFontsSources](./getfontssources/)() | Gets a copy of the array that contains the list of sources where Aspose.Words looks for TrueType fonts.  |

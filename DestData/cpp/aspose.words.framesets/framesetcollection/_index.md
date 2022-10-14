@@ -15,13 +15,13 @@ Represents a collection of instances of the Frameset class.
 
 | Method | Description |
 | --- | --- |
-| [FramesetCollection](./framesetcollection/)() |  |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
+| [FramesetCollection](./framesetcollection/)() |  |
 | [get_Count](./get_count/)() | Gets the number of frames or frames pages contained in the collection.  |
 | [GetEnumerator](./getenumerator/)() override |  |
 | [idx_get](./idx_get/)(int32_t) | Gets a frame or frames page at the specified index.  |

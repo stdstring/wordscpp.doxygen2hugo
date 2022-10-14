@@ -15,13 +15,13 @@ Represents a collection of fonts used in a document.
 
 | Method | Description |
 | --- | --- |
-| [begin](./begin/)() const |  |
 | [begin](./begin/)() |  |
+| [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
 | [cend](./cend/)() const |  |
 | [Contains](./contains/)(const System::String &) | Determines whether the collection contains a font with the given name.  |
-| [end](./end/)() const |  |
 | [end](./end/)() |  |
+| [end](./end/)() const |  |
 | [get_Count](./get_count/)() | Gets the number of elements contained in the collection.  |
 | [get_EmbedSystemFonts](./get_embedsystemfonts/)() const | Specifies whether or not to embed System fonts into the document. Default value for this property is **false**. This option works only when EmbedTrueTypeFonts option is set to **true**.  |
 | [get_EmbedTrueTypeFonts](./get_embedtruetypefonts/)() const | Specifies whether or not to embed TrueType fonts in a document when it is saved. Default value for this property is **false**.  |

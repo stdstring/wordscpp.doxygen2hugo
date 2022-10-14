@@ -15,7 +15,6 @@ Provides access to VBA project information. A VBA project inside the document is
 
 | Method | Description |
 | --- | --- |
-| [VbaProject](./vbaproject/)() | Creates a blank VbaProject.  |
 | [Clone](./clone/)() | Performs a copy of the VbaProject.  |
 | [get_CodePage](./get_codepage/)() const | Returns the VBA project’s code page.  |
 | [get_IsSigned](./get_issigned/)() | Shows whether the VbaProject is signed or not.  |
@@ -23,3 +22,4 @@ Provides access to VBA project information. A VBA project inside the document is
 | [get_Name](./get_name/)() const | Gets or sets VBA project name.  |
 | [get_References](./get_references/)() | Gets a collection of VBA project references.  |
 | [set_Name](./set_name/)(const System::String &) | Setter for Aspose::Words::Vba::VbaProject::get_Name.  |
+| [VbaProject](./vbaproject/)() | Creates a blank VbaProject.  |
