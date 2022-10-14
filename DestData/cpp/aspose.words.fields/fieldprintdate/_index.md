@@ -36,7 +36,7 @@ Implements the PRINTDATE field.
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
 | [set_UseLunarCalendar](./set_uselunarcalendar/)(bool) | Setter for Aspose::Words::Fields::FieldPrintDate::get_UseLunarCalendar.  |
 | [set_UseSakaEraCalendar](./set_usesakaeracalendar/)(bool) | Setter for Aspose::Words::Fields::FieldPrintDate::get_UseSakaEraCalendar.  |
 | [set_UseUmAlQuraCalendar](./set_useumalquracalendar/)(bool) | Setter for Aspose::Words::Fields::FieldPrintDate::get_UseUmAlQuraCalendar.  |

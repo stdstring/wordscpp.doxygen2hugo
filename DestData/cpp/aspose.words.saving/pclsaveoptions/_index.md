@@ -15,10 +15,10 @@ Can be used to specify additional options when saving a document into the Pcl fo
 
 | Method | Description |
 | --- | --- |
-| [AddPrinterFont](./addprinterfont/)(const System::String &, const System::String &) | Adds information about font that is uploaded to the printer by manufacturer.  |
+| [AddPrinterFont](./addprinterfont/)(const System::String\&, const System::String\&) | Adds information about font that is uploaded to the printer by manufacturer.  |
 | static [CreateSaveOptions](../saveoptions/createsaveoptions/)(Aspose::Words::SaveFormat) | Creates a save options object of a class suitable for the specified save format.  |
-| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String &) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
-| [Equals](../fixedpagesaveoptions/equals/)(System::SharedPtr< System::Object >) override | Determines whether the specified object is equal in value to the current object.  |
+| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String\&) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
+| [Equals](../fixedpagesaveoptions/equals/)(System::SharedPtr\<System::Object\>) override | Determines whether the specified object is equal in value to the current object.  |
 | [get_AllowEmbeddingPostScriptFonts](../saveoptions/get_allowembeddingpostscriptfonts/)() const | Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is **false**.  |
 | [get_ColorMode](../fixedpagesaveoptions/get_colormode/)() const | Gets or sets a value determining how colors are rendered.  |
 | [get_CustomTimeZoneInfo](../saveoptions/get_customtimezoneinfo/)() const |  |
@@ -52,27 +52,27 @@ Can be used to specify additional options when saving a document into the Pcl fo
 | [PclSaveOptions](./pclsaveoptions/)() |  |
 | [set_AllowEmbeddingPostScriptFonts](../saveoptions/set_allowembeddingpostscriptfonts/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts.  |
 | [set_ColorMode](../fixedpagesaveoptions/set_colormode/)(Aspose::Words::Saving::ColorMode) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode.  |
-| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr< System::TimeZoneInfo > &) |  |
-| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
+| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr\<System::TimeZoneInfo\>\&) |  |
+| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
 | [set_Dml3DEffectsRenderingMode](../saveoptions/set_dml3deffectsrenderingmode/)(Aspose::Words::Saving::Dml3DEffectsRenderingMode) | Sets a value determining how 3D effects are rendered.  |
 | virtual [set_DmlEffectsRenderingMode](../saveoptions/set_dmleffectsrenderingmode/)(Aspose::Words::Saving::DmlEffectsRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode.  |
 | [set_DmlRenderingMode](../saveoptions/set_dmlrenderingmode/)(Aspose::Words::Saving::DmlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode.  |
 | [set_ExportGeneratorName](../saveoptions/set_exportgeneratorname/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName.  |
-| [set_FallbackFontName](./set_fallbackfontname/)(const System::String &) | Setter for Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName.  |
+| [set_FallbackFontName](./set_fallbackfontname/)(const System::String\&) | Setter for Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName.  |
 | [set_FlatOpcXmlMappingOnly](../saveoptions/set_flatopcxmlmappingonly/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly.  |
 | [set_ImlRenderingMode](../saveoptions/set_imlrenderingmode/)(Aspose::Words::Saving::ImlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode.  |
 | [set_JpegQuality](../fixedpagesaveoptions/set_jpegquality/)(int32_t) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality.  |
 | [set_MemoryOptimization](../saveoptions/set_memoryoptimization/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_MemoryOptimization.  |
-| [set_MetafileRenderingOptions](../fixedpagesaveoptions/set_metafilerenderingoptions/)(const System::SharedPtr< Aspose::Words::Saving::MetafileRenderingOptions > &) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions.  |
+| [set_MetafileRenderingOptions](../fixedpagesaveoptions/set_metafilerenderingoptions/)(const System::SharedPtr\<Aspose::Words::Saving::MetafileRenderingOptions\>\&) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions.  |
 | [set_NumeralFormat](../fixedpagesaveoptions/set_numeralformat/)(Aspose::Words::Saving::NumeralFormat) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat.  |
 | virtual [set_OptimizeOutput](../fixedpagesaveoptions/set_optimizeoutput/)(bool) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput.  |
-| [set_PageSavingCallback](../fixedpagesaveoptions/set_pagesavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IPageSavingCallback > &) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback.  |
-| [set_PageSet](../fixedpagesaveoptions/set_pageset/)(const System::SharedPtr< Aspose::Words::Saving::PageSet > &) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet.  |
+| [set_PageSavingCallback](../fixedpagesaveoptions/set_pagesavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::IPageSavingCallback\>\&) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback.  |
+| [set_PageSet](../fixedpagesaveoptions/set_pageset/)(const System::SharedPtr\<Aspose::Words::Saving::PageSet\>\&) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet.  |
 | [set_PrettyFormat](../saveoptions/set_prettyformat/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_PrettyFormat.  |
-| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentSavingCallback > &) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
+| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr\<Aspose::Words::Saving::IDocumentSavingCallback\>\&) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
 | [set_RasterizeTransformedElements](./set_rasterizetransformedelements/)(bool) | Setter for Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements.  |
 | [set_SaveFormat](./set_saveformat/)(Aspose::Words::SaveFormat) override | Setter for Aspose::Words::Saving::PclSaveOptions::get_SaveFormat.  |
-| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
+| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
 | [set_UpdateCreatedTimeProperty](../saveoptions/set_updatecreatedtimeproperty/)(bool) | Sets a value determining whether the CreatedTime property is updated before saving. Default value is false;.  |
 | [set_UpdateFields](../saveoptions/set_updatefields/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateFields.  |
 | [set_UpdateLastPrintedProperty](../saveoptions/set_updatelastprintedproperty/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty.  |

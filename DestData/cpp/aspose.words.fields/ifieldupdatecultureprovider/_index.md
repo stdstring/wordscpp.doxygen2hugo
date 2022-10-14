@@ -15,4 +15,4 @@ When implemented, provides a CultureInfo object that should be used during the u
 
 | Method | Description |
 | --- | --- |
-| virtual [GetCulture](./getculture/)(System::String, System::SharedPtr< Aspose::Words::Fields::Field >) | Returns a CultureInfo object to be used during the field's update.  |
+| virtual [GetCulture](./getculture/)(System::String, System::SharedPtr\<Aspose::Words::Fields::Field\>) | Returns a CultureInfo object to be used during the field's update.  |

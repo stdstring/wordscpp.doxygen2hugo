@@ -24,10 +24,10 @@ Holds the options that allow controlling the document layout process.
 | [get_ShowParagraphMarks](./get_showparagraphmarks/)() const | Gets or sets indication of whether paragraph marks are rendered. Default is False.  |
 | [get_TextShaperFactory](./get_textshaperfactory/)() const | Gets or sets ITextShaperFactory implementation used for Advanced Typography rendering features.  |
 | [LayoutOptions](./layoutoptions/)() |  |
-| [set_Callback](./set_callback/)(const System::SharedPtr< Aspose::Words::Layout::IPageLayoutCallback > &) | Sets IPageLayoutCallback implementation used by page layout model.  |
+| [set_Callback](./set_callback/)(const System::SharedPtr\<Aspose::Words::Layout::IPageLayoutCallback\>\&) | Sets IPageLayoutCallback implementation used by page layout model.  |
 | [set_CommentDisplayMode](./set_commentdisplaymode/)(Aspose::Words::Layout::CommentDisplayMode) | Setter for Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode.  |
 | [set_ContinuousSectionPageNumberingRestart](./set_continuoussectionpagenumberingrestart/)(Aspose::Words::Layout::ContinuousSectionRestart) | Setter for Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart.  |
 | [set_IgnorePrinterMetrics](./set_ignoreprintermetrics/)(bool) | Setter for Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics.  |
 | [set_ShowHiddenText](./set_showhiddentext/)(bool) | Setter for Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText.  |
 | [set_ShowParagraphMarks](./set_showparagraphmarks/)(bool) | Setter for Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks.  |
-| [set_TextShaperFactory](./set_textshaperfactory/)(const System::SharedPtr< Aspose::Words::Shaping::ITextShaperFactory > &) | Setter for Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory.  |
+| [set_TextShaperFactory](./set_textshaperfactory/)(const System::SharedPtr\<Aspose::Words::Shaping::ITextShaperFactory\>\&) | Setter for Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory.  |

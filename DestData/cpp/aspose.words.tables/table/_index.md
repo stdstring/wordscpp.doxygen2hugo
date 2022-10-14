@@ -15,8 +15,8 @@ Represents a table in a Word document.
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| [AppendChild](../../aspose.words/compositenode/appendchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the end of the list of child nodes for this node.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
+| [AppendChild](../../aspose.words/compositenode/appendchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the end of the list of child nodes for this node.  |
 | [AutoFit](./autofit/)(Aspose::Words::Tables::AutoFitBehavior) | Resizes the table and cells according to the specified auto fit behavior.  |
 | [ClearBorders](./clearborders/)() | Removes all table and cell borders on this table.  |
 | [ClearShading](./clearshading/)() | Removes all shading on the table.  |
@@ -74,19 +74,19 @@ Represents a table in a Word document.
 | [GetChildNodes](../../aspose.words/compositenode/getchildnodes/)(Aspose::Words::NodeType, bool) | Returns a live collection of child nodes that match the specified type.  |
 | [GetEnumerator](../../aspose.words/compositenode/getenumerator/)() override | Provides support for the for each style iteration over the child nodes of this node.  |
 | [GetText](../../aspose.words/compositenode/gettext/)() override | Gets the text of this node and of all its children.  |
-| [IndexOf](../../aspose.words/compositenode/indexof/)(const System::SharedPtr< Aspose::Words::Node > &) | Returns the index of the specified child node in the child node array.  |
-| [InsertAfter](../../aspose.words/compositenode/insertafter/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately after the specified reference node.  |
-| [InsertBefore](../../aspose.words/compositenode/insertbefore/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately before the specified reference node.  |
-| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [IndexOf](../../aspose.words/compositenode/indexof/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Returns the index of the specified child node in the child node array.  |
+| [InsertAfter](../../aspose.words/compositenode/insertafter/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately after the specified reference node.  |
+| [InsertBefore](../../aspose.words/compositenode/insertbefore/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately before the specified reference node.  |
+| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../../aspose.words/node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PrependChild](../../aspose.words/compositenode/prependchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the beginning of the list of child nodes for this node.  |
-| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PrependChild](../../aspose.words/compositenode/prependchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the beginning of the list of child nodes for this node.  |
+| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../../aspose.words/node/remove/)() | Removes itself from the parent.  |
 | [RemoveAllChildren](../../aspose.words/compositenode/removeallchildren/)() | Removes all the child nodes of the current node.  |
-| [RemoveChild](../../aspose.words/compositenode/removechild/)(const System::SharedPtr< Aspose::Words::Node > &) | Removes the specified child node.  |
+| [RemoveChild](../../aspose.words/compositenode/removechild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the specified child node.  |
 | [RemoveSmartTags](../../aspose.words/compositenode/removesmarttags/)() | Removes all SmartTag descendant nodes of the current node.  |
-| [SelectNodes](../../aspose.words/compositenode/selectnodes/)(const System::String &) | Selects a list of nodes matching the XPath expression.  |
-| [SelectSingleNode](../../aspose.words/compositenode/selectsinglenode/)(const System::String &) | Selects the first Node that matches the XPath expression.  |
+| [SelectNodes](../../aspose.words/compositenode/selectnodes/)(const System::String\&) | Selects a list of nodes matching the XPath expression.  |
+| [SelectSingleNode](../../aspose.words/compositenode/selectsinglenode/)(const System::String\&) | Selects the first Node that matches the XPath expression.  |
 | [set_AbsoluteHorizontalDistance](./set_absolutehorizontaldistance/)(double) | Setter for Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance.  |
 | [set_AbsoluteVerticalDistance](./set_absoluteverticaldistance/)(double) | Setter for Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance.  |
 | [set_Alignment](./set_alignment/)(Aspose::Words::Tables::TableAlignment) | Setter for Aspose::Words::Tables::Table::get_Alignment.  |
@@ -96,26 +96,26 @@ Represents a table in a Word document.
 | [set_BottomPadding](./set_bottompadding/)(double) | Setter for Aspose::Words::Tables::Table::get_BottomPadding.  |
 | [set_CellSpacing](./set_cellspacing/)(double) | Setter for Aspose::Words::Tables::Table::get_CellSpacing.  |
 | [set_CustomNodeId](../../aspose.words/node/set_customnodeid/)(int32_t) | Setter for Aspose::Words::Node::get_CustomNodeId.  |
-| [set_Description](./set_description/)(const System::String &) | Setter for Aspose::Words::Tables::Table::get_Description.  |
+| [set_Description](./set_description/)(const System::String\&) | Setter for Aspose::Words::Tables::Table::get_Description.  |
 | [set_HorizontalAnchor](./set_horizontalanchor/)(Aspose::Words::Drawing::RelativeHorizontalPosition) | Setter for Aspose::Words::Tables::Table::get_HorizontalAnchor.  |
 | [set_LeftIndent](./set_leftindent/)(double) | Setter for Aspose::Words::Tables::Table::get_LeftIndent.  |
 | [set_LeftPadding](./set_leftpadding/)(double) | Setter for Aspose::Words::Tables::Table::get_LeftPadding.  |
-| [set_PreferredWidth](./set_preferredwidth/)(const System::SharedPtr< Aspose::Words::Tables::PreferredWidth > &) | Setter for Aspose::Words::Tables::Table::get_PreferredWidth.  |
+| [set_PreferredWidth](./set_preferredwidth/)(const System::SharedPtr\<Aspose::Words::Tables::PreferredWidth\>\&) | Setter for Aspose::Words::Tables::Table::get_PreferredWidth.  |
 | [set_RelativeHorizontalAlignment](./set_relativehorizontalalignment/)(Aspose::Words::Drawing::HorizontalAlignment) | Setter for Aspose::Words::Tables::Table::get_RelativeHorizontalAlignment.  |
 | [set_RelativeVerticalAlignment](./set_relativeverticalalignment/)(Aspose::Words::Drawing::VerticalAlignment) | Setter for Aspose::Words::Tables::Table::get_RelativeVerticalAlignment.  |
 | [set_RightPadding](./set_rightpadding/)(double) | Setter for Aspose::Words::Tables::Table::get_RightPadding.  |
-| [set_Style](./set_style/)(const System::SharedPtr< Aspose::Words::Style > &) | Setter for Aspose::Words::Tables::Table::get_Style.  |
+| [set_Style](./set_style/)(const System::SharedPtr\<Aspose::Words::Style\>\&) | Setter for Aspose::Words::Tables::Table::get_Style.  |
 | [set_StyleIdentifier](./set_styleidentifier/)(Aspose::Words::StyleIdentifier) | Setter for Aspose::Words::Tables::Table::get_StyleIdentifier.  |
-| [set_StyleName](./set_stylename/)(const System::String &) | Setter for Aspose::Words::Tables::Table::get_StyleName.  |
+| [set_StyleName](./set_stylename/)(const System::String\&) | Setter for Aspose::Words::Tables::Table::get_StyleName.  |
 | [set_StyleOptions](./set_styleoptions/)(Aspose::Words::Tables::TableStyleOptions) | Setter for Aspose::Words::Tables::Table::get_StyleOptions.  |
 | [set_TextWrapping](./set_textwrapping/)(Aspose::Words::Tables::TextWrapping) | Setter for Aspose::Words::Tables::Table::get_TextWrapping.  |
-| [set_Title](./set_title/)(const System::String &) | Setter for Aspose::Words::Tables::Table::get_Title.  |
+| [set_Title](./set_title/)(const System::String\&) | Setter for Aspose::Words::Tables::Table::get_Title.  |
 | [set_TopPadding](./set_toppadding/)(double) | Setter for Aspose::Words::Tables::Table::get_TopPadding.  |
 | [set_VerticalAnchor](./set_verticalanchor/)(Aspose::Words::Drawing::RelativeVerticalPosition) | Setter for Aspose::Words::Tables::Table::get_VerticalAnchor.  |
 | [SetBorder](./setborder/)(Aspose::Words::BorderType, Aspose::Words::LineStyle, double, System::Drawing::Color, bool) | Sets the specified table border to the specified line style, width and color.  |
 | [SetBorders](./setborders/)(Aspose::Words::LineStyle, double, System::Drawing::Color) | Sets all table borders to the specified line style, width and color.  |
 | [SetShading](./setshading/)(Aspose::Words::TextureIndex, System::Drawing::Color, System::Drawing::Color) | Sets shading to the specified values on whole table.  |
 | [SetTemplateWeakPtr](../../aspose.words/compositenode/settemplateweakptr/)(uint32_t) override |  |
-| [Table](./table/)(const System::SharedPtr< Aspose::Words::DocumentBase > &) | Initializes a new instance of the **Table** class.  |
+| [Table](./table/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) | Initializes a new instance of the **Table** class.  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

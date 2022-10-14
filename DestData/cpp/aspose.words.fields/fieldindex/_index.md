@@ -46,23 +46,23 @@ Implements the INDEX field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_BookmarkName](./set_bookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_BookmarkName.  |
-| [set_CrossReferenceSeparator](./set_crossreferenceseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator.  |
-| [set_EntryType](./set_entrytype/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_EntryType.  |
-| [set_Heading](./set_heading/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_Heading.  |
+| [set_BookmarkName](./set_bookmarkname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_BookmarkName.  |
+| [set_CrossReferenceSeparator](./set_crossreferenceseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator.  |
+| [set_EntryType](./set_entrytype/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_EntryType.  |
+| [set_Heading](./set_heading/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_Heading.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
-| [set_LanguageId](./set_languageid/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_LanguageId.  |
-| [set_LetterRange](./set_letterrange/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_LetterRange.  |
+| [set_LanguageId](./set_languageid/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_LanguageId.  |
+| [set_LetterRange](./set_letterrange/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_LetterRange.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_NumberOfColumns](./set_numberofcolumns/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_NumberOfColumns.  |
-| [set_PageNumberListSeparator](./set_pagenumberlistseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberListSeparator.  |
-| [set_PageNumberSeparator](./set_pagenumberseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator.  |
-| [set_PageRangeSeparator](./set_pagerangeseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_PageRangeSeparator.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_NumberOfColumns](./set_numberofcolumns/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_NumberOfColumns.  |
+| [set_PageNumberListSeparator](./set_pagenumberlistseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberListSeparator.  |
+| [set_PageNumberSeparator](./set_pagenumberseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator.  |
+| [set_PageRangeSeparator](./set_pagerangeseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_PageRangeSeparator.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
 | [set_RunSubentriesOnSameLine](./set_runsubentriesonsameline/)(bool) | Setter for Aspose::Words::Fields::FieldIndex::get_RunSubentriesOnSameLine.  |
-| [set_SequenceName](./set_sequencename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_SequenceName.  |
-| [set_SequenceSeparator](./set_sequenceseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator.  |
+| [set_SequenceName](./set_sequencename/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_SequenceName.  |
+| [set_SequenceSeparator](./set_sequenceseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator.  |
 | [set_UseYomi](./set_useyomi/)(bool) | Setter for Aspose::Words::Fields::FieldIndex::get_UseYomi.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |

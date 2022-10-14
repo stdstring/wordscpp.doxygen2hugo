@@ -28,10 +28,10 @@ Provides access to signature line properties.
 | [get_SignerTitle](./get_signertitle/)() | Gets or sets suggested signer's title (for example, Manager). Default value for this property is **empty string**.  |
 | [set_AllowComments](./set_allowcomments/)(bool) | Setter for Aspose::Words::Drawing::SignatureLine::get_AllowComments.  |
 | [set_DefaultInstructions](./set_defaultinstructions/)(bool) | Setter for Aspose::Words::Drawing::SignatureLine::get_DefaultInstructions.  |
-| [set_Email](./set_email/)(const System::String &) | Setter for Aspose::Words::Drawing::SignatureLine::get_Email.  |
+| [set_Email](./set_email/)(const System::String\&) | Setter for Aspose::Words::Drawing::SignatureLine::get_Email.  |
 | [set_Id](./set_id/)(System::Guid) | Setter for Aspose::Words::Drawing::SignatureLine::get_Id.  |
-| [set_Instructions](./set_instructions/)(const System::String &) | Setter for Aspose::Words::Drawing::SignatureLine::get_Instructions.  |
+| [set_Instructions](./set_instructions/)(const System::String\&) | Setter for Aspose::Words::Drawing::SignatureLine::get_Instructions.  |
 | [set_ProviderId](./set_providerid/)(System::Guid) | Setter for Aspose::Words::Drawing::SignatureLine::get_ProviderId.  |
 | [set_ShowDate](./set_showdate/)(bool) | Setter for Aspose::Words::Drawing::SignatureLine::get_ShowDate.  |
-| [set_Signer](./set_signer/)(const System::String &) | Setter for Aspose::Words::Drawing::SignatureLine::get_Signer.  |
-| [set_SignerTitle](./set_signertitle/)(const System::String &) | Setter for Aspose::Words::Drawing::SignatureLine::get_SignerTitle.  |
+| [set_Signer](./set_signer/)(const System::String\&) | Setter for Aspose::Words::Drawing::SignatureLine::get_Signer.  |
+| [set_SignerTitle](./set_signertitle/)(const System::String\&) | Setter for Aspose::Words::Drawing::SignatureLine::get_SignerTitle.  |

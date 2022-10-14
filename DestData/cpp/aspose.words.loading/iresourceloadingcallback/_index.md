@@ -15,4 +15,4 @@ Implement this interface if you want to control how Aspose.Words loads external 
 
 | Method | Description |
 | --- | --- |
-| virtual [ResourceLoading](./resourceloading/)(System::SharedPtr< Aspose::Words::Loading::ResourceLoadingArgs >) | Called when Aspose.Words loads any external resource.  |
+| virtual [ResourceLoading](./resourceloading/)(System::SharedPtr\<Aspose::Words::Loading::ResourceLoadingArgs\>) | Called when Aspose.Words loads any external resource.  |

@@ -15,7 +15,7 @@ Represents a Word field separator that separates the field code from the field r
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
 | [Clone](../../aspose.words/node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_CustomNodeId](../../aspose.words/node/get_customnodeid/)() const | Specifies custom node identifier.  |
 | virtual [get_Document](../../aspose.words/node/get_document/)() const | Gets the document to which this node belongs.  |
@@ -39,12 +39,12 @@ Represents a Word field separator that separates the field code from the field r
 | [GetAncestorOf](../../aspose.words/node/getancestorof/)() |  |
 | [GetField](../fieldchar/getfield/)() | Returns a field for the field char.  |
 | [GetText](../../aspose.words/specialchar/gettext/)() override | Gets the special character that this node represents.  |
-| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../../aspose.words/node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../../aspose.words/node/remove/)() | Removes itself from the parent.  |
 | [set_CustomNodeId](../../aspose.words/node/set_customnodeid/)(int32_t) | Setter for Aspose::Words::Node::get_CustomNodeId.  |
 | [set_IsDirty](../fieldchar/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::FieldChar::get_IsDirty.  |
 | [set_IsLocked](../fieldchar/set_islocked/)(bool) | Setter for Aspose::Words::Fields::FieldChar::get_IsLocked.  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

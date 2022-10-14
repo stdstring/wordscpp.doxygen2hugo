@@ -38,7 +38,7 @@ Defines the text and formatting of the text path (of a WordArt object).
 | [set_Bold](./set_bold/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_Bold.  |
 | [set_FitPath](./set_fitpath/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_FitPath.  |
 | [set_FitShape](./set_fitshape/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_FitShape.  |
-| [set_FontFamily](./set_fontfamily/)(const System::String &) | Setter for Aspose::Words::Drawing::TextPath::get_FontFamily.  |
+| [set_FontFamily](./set_fontfamily/)(const System::String\&) | Setter for Aspose::Words::Drawing::TextPath::get_FontFamily.  |
 | [set_Italic](./set_italic/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_Italic.  |
 | [set_Kerning](./set_kerning/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_Kerning.  |
 | [set_On](./set_on/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_On.  |
@@ -50,7 +50,7 @@ Defines the text and formatting of the text path (of a WordArt object).
 | [set_SmallCaps](./set_smallcaps/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_SmallCaps.  |
 | [set_Spacing](./set_spacing/)(double) | Setter for Aspose::Words::Drawing::TextPath::get_Spacing.  |
 | [set_StrikeThrough](./set_strikethrough/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_StrikeThrough.  |
-| [set_Text](./set_text/)(const System::String &) | Setter for Aspose::Words::Drawing::TextPath::get_Text.  |
+| [set_Text](./set_text/)(const System::String\&) | Setter for Aspose::Words::Drawing::TextPath::get_Text.  |
 | [set_TextPathAlignment](./set_textpathalignment/)(Aspose::Words::Drawing::TextPathAlignment) | Setter for Aspose::Words::Drawing::TextPath::get_TextPathAlignment.  |
 | [set_Trim](./set_trim/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_Trim.  |
 | [set_Underline](./set_underline/)(bool) | Setter for Aspose::Words::Drawing::TextPath::get_Underline.  |

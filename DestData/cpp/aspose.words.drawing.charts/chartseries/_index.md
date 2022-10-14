@@ -30,5 +30,5 @@ Represents chart series properties.
 | [set_Explosion](./set_explosion/)(int32_t) override | Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion.  |
 | [set_HasDataLabels](./set_hasdatalabels/)(bool) | Sets a flag indicating whether data labels are displayed for the series.  |
 | [set_InvertIfNegative](./set_invertifnegative/)(bool) override | Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative.  |
-| [set_Name](./set_name/)(const System::String &) | Setter for Aspose::Words::Drawing::Charts::ChartSeries::get_Name.  |
+| [set_Name](./set_name/)(const System::String\&) | Setter for Aspose::Words::Drawing::Charts::ChartSeries::get_Name.  |
 | [set_Smooth](./set_smooth/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartSeries::get_Smooth.  |

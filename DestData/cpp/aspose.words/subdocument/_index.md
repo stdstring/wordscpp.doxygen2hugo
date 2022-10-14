@@ -15,7 +15,7 @@ Represents a **SubDocument** - which is a reference to an externally stored docu
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
 | [Clone](../node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_CustomNodeId](../node/get_customnodeid/)() const | Specifies custom node identifier.  |
 | virtual [get_Document](../node/get_document/)() const | Gets the document to which this node belongs.  |
@@ -28,10 +28,10 @@ Represents a **SubDocument** - which is a reference to an externally stored docu
 | [GetAncestor](../node/getancestor/)(Aspose::Words::NodeType) | Gets the first ancestor of the specified NodeType.  |
 | [GetAncestorOf](../node/getancestorof/)() |  |
 | virtual [GetText](../node/gettext/)() | Gets the text of this node and of all its children.  |
-| [NextPreOrder](../node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [NextPreOrder](../node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PreviousPreOrder](../node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PreviousPreOrder](../node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../node/remove/)() | Removes itself from the parent.  |
 | [set_CustomNodeId](../node/set_customnodeid/)(int32_t) | Setter for Aspose::Words::Node::get_CustomNodeId.  |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

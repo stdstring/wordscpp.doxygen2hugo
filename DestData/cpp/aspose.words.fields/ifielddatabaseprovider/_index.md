@@ -15,4 +15,4 @@ Implement this interface to provide data for the FieldDatabase field when it's u
 
 | Method | Description |
 | --- | --- |
-| virtual [GetQueryResult](./getqueryresult/)(System::String, System::String, System::String, System::SharedPtr< Aspose::Words::Fields::FieldDatabase >) | Returns query result.  |
+| virtual [GetQueryResult](./getqueryresult/)(System::String, System::String, System::String, System::SharedPtr\<Aspose::Words::Fields::FieldDatabase\>) | Returns query result.  |

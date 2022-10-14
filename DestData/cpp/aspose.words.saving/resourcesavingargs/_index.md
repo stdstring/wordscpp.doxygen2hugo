@@ -21,7 +21,7 @@ Provides data for the ResourceSaving() event.
 | [get_ResourceFileUri](./get_resourcefileuri/)() const | Gets or sets the uniform resource identifier (URI) used to reference the resource file from the document.  |
 | [get_ResourceStream](./get_resourcestream/)() const | Allows to specify the stream where the resource will be saved to.  |
 | [set_KeepResourceStreamOpen](./set_keepresourcestreamopen/)(bool) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen.  |
-| [set_ResourceFileName](./set_resourcefilename/)(const System::String &) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName.  |
-| [set_ResourceFileUri](./set_resourcefileuri/)(const System::String &) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri.  |
-| [set_ResourceStream](./set_resourcestream/)(const System::SharedPtr< System::IO::Stream > &) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream.  |
-| [set_ResourceStream](./set_resourcestream/)(std::basic_ostream< CharType, Traits > &) |  |
+| [set_ResourceFileName](./set_resourcefilename/)(const System::String\&) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName.  |
+| [set_ResourceFileUri](./set_resourcefileuri/)(const System::String\&) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri.  |
+| [set_ResourceStream](./set_resourcestream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream.  |
+| [set_ResourceStream](./set_resourcestream/)(std::basic_ostream\<CharType, Traits\>\&) |  |

@@ -16,7 +16,7 @@ Can be used to specify additional options when saving a document into the Text f
 | Method | Description |
 | --- | --- |
 | static [CreateSaveOptions](../saveoptions/createsaveoptions/)(Aspose::Words::SaveFormat) | Creates a save options object of a class suitable for the specified save format.  |
-| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String &) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
+| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String\&) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
 | [get_AddBidiMarks](./get_addbidimarks/)() const | Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is **false**.  |
 | [get_AllowEmbeddingPostScriptFonts](../saveoptions/get_allowembeddingpostscriptfonts/)() const | Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is **false**.  |
 | [get_CustomTimeZoneInfo](../saveoptions/get_customtimezoneinfo/)() const |  |
@@ -49,12 +49,12 @@ Can be used to specify additional options when saving a document into the Text f
 | [get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/)() const | Gets or sets a value determining whether or not to use high quality (i.e. slow) rendering algorithms.  |
 | [set_AddBidiMarks](./set_addbidimarks/)(bool) | Setter for Aspose::Words::Saving::TxtSaveOptions::get_AddBidiMarks.  |
 | [set_AllowEmbeddingPostScriptFonts](../saveoptions/set_allowembeddingpostscriptfonts/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts.  |
-| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr< System::TimeZoneInfo > &) |  |
-| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
+| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr\<System::TimeZoneInfo\>\&) |  |
+| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
 | [set_Dml3DEffectsRenderingMode](../saveoptions/set_dml3deffectsrenderingmode/)(Aspose::Words::Saving::Dml3DEffectsRenderingMode) | Sets a value determining how 3D effects are rendered.  |
 | virtual [set_DmlEffectsRenderingMode](../saveoptions/set_dmleffectsrenderingmode/)(Aspose::Words::Saving::DmlEffectsRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode.  |
 | [set_DmlRenderingMode](../saveoptions/set_dmlrenderingmode/)(Aspose::Words::Saving::DmlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode.  |
-| [set_Encoding](../txtsaveoptionsbase/set_encoding/)(const System::SharedPtr< System::Text::Encoding > &) | Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding.  |
+| [set_Encoding](../txtsaveoptionsbase/set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding.  |
 | [set_ExportGeneratorName](../saveoptions/set_exportgeneratorname/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName.  |
 | [set_ExportHeadersFootersMode](../txtsaveoptionsbase/set_exportheadersfootersmode/)(Aspose::Words::Saving::TxtExportHeadersFootersMode) | Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode.  |
 | [set_FlatOpcXmlMappingOnly](../saveoptions/set_flatopcxmlmappingonly/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly.  |
@@ -62,13 +62,13 @@ Can be used to specify additional options when saving a document into the Text f
 | [set_ImlRenderingMode](../saveoptions/set_imlrenderingmode/)(Aspose::Words::Saving::ImlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode.  |
 | [set_MaxCharactersPerLine](./set_maxcharactersperline/)(int32_t) | Setter for Aspose::Words::Saving::TxtSaveOptions::get_MaxCharactersPerLine.  |
 | [set_MemoryOptimization](../saveoptions/set_memoryoptimization/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_MemoryOptimization.  |
-| [set_ParagraphBreak](../txtsaveoptionsbase/set_paragraphbreak/)(const System::String &) | Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak.  |
+| [set_ParagraphBreak](../txtsaveoptionsbase/set_paragraphbreak/)(const System::String\&) | Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak.  |
 | [set_PreserveTableLayout](./set_preservetablelayout/)(bool) | Setter for Aspose::Words::Saving::TxtSaveOptions::get_PreserveTableLayout.  |
 | [set_PrettyFormat](../saveoptions/set_prettyformat/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_PrettyFormat.  |
-| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentSavingCallback > &) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
+| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr\<Aspose::Words::Saving::IDocumentSavingCallback\>\&) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
 | [set_SaveFormat](./set_saveformat/)(Aspose::Words::SaveFormat) override | Setter for Aspose::Words::Saving::TxtSaveOptions::get_SaveFormat.  |
 | [set_SimplifyListLabels](./set_simplifylistlabels/)(bool) | Setter for Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels.  |
-| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
+| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
 | [set_UpdateCreatedTimeProperty](../saveoptions/set_updatecreatedtimeproperty/)(bool) | Sets a value determining whether the CreatedTime property is updated before saving. Default value is false;.  |
 | [set_UpdateFields](../saveoptions/set_updatefields/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateFields.  |
 | [set_UpdateLastPrintedProperty](../saveoptions/set_updatelastprintedproperty/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty.  |

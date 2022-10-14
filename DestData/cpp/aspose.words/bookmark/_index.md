@@ -23,5 +23,5 @@ Represents a single bookmark.
 | [get_Name](./get_name/)() | Gets or sets the name of the bookmark.  |
 | [get_Text](./get_text/)() | Gets or sets the text enclosed in the bookmark.  |
 | [Remove](./remove/)() | Removes the bookmark from the document. Does not remove text inside the bookmark.  |
-| [set_Name](./set_name/)(const System::String &) | Setter for Aspose::Words::Bookmark::get_Name.  |
-| [set_Text](./set_text/)(const System::String &) | Setter for Aspose::Words::Bookmark::get_Text.  |
+| [set_Name](./set_name/)(const System::String\&) | Setter for Aspose::Words::Bookmark::get_Name.  |
+| [set_Text](./set_text/)(const System::String\&) | Setter for Aspose::Words::Bookmark::get_Text.  |

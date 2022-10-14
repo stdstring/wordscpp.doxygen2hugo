@@ -15,8 +15,8 @@ Represents a structured document tag (SDT or content control) in a document.
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| [AppendChild](../../aspose.words/compositenode/appendchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the end of the list of child nodes for this node.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
+| [AppendChild](../../aspose.words/compositenode/appendchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the end of the list of child nodes for this node.  |
 | [Clear](./clear/)() | Clears contents of this structured document tag and displays a placeholder if it is defined.  |
 | [Clone](../../aspose.words/node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_Appearance](./get_appearance/)() const | Gets/sets the appearance of a structured document tag.  |
@@ -67,28 +67,28 @@ Represents a structured document tag (SDT or content control) in a document.
 | [GetChildNodes](../../aspose.words/compositenode/getchildnodes/)(Aspose::Words::NodeType, bool) | Returns a live collection of child nodes that match the specified type.  |
 | [GetEnumerator](../../aspose.words/compositenode/getenumerator/)() override | Provides support for the for each style iteration over the child nodes of this node.  |
 | [GetText](../../aspose.words/compositenode/gettext/)() override | Gets the text of this node and of all its children.  |
-| [IndexOf](../../aspose.words/compositenode/indexof/)(const System::SharedPtr< Aspose::Words::Node > &) | Returns the index of the specified child node in the child node array.  |
-| [InsertAfter](../../aspose.words/compositenode/insertafter/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately after the specified reference node.  |
-| [InsertBefore](../../aspose.words/compositenode/insertbefore/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately before the specified reference node.  |
-| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [IndexOf](../../aspose.words/compositenode/indexof/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Returns the index of the specified child node in the child node array.  |
+| [InsertAfter](../../aspose.words/compositenode/insertafter/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately after the specified reference node.  |
+| [InsertBefore](../../aspose.words/compositenode/insertbefore/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately before the specified reference node.  |
+| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../../aspose.words/node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PrependChild](../../aspose.words/compositenode/prependchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the beginning of the list of child nodes for this node.  |
-| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PrependChild](../../aspose.words/compositenode/prependchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the beginning of the list of child nodes for this node.  |
+| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../../aspose.words/node/remove/)() | Removes itself from the parent.  |
 | [RemoveAllChildren](../../aspose.words/compositenode/removeallchildren/)() | Removes all the child nodes of the current node.  |
-| [RemoveChild](../../aspose.words/compositenode/removechild/)(const System::SharedPtr< Aspose::Words::Node > &) | Removes the specified child node.  |
+| [RemoveChild](../../aspose.words/compositenode/removechild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the specified child node.  |
 | [RemoveSelfOnly](./removeselfonly/)() | Removes just this SDT node itself, but keeps the content of it inside the document tree.  |
 | [RemoveSmartTags](../../aspose.words/compositenode/removesmarttags/)() | Removes all SmartTag descendant nodes of the current node.  |
-| [SelectNodes](../../aspose.words/compositenode/selectnodes/)(const System::String &) | Selects a list of nodes matching the XPath expression.  |
-| [SelectSingleNode](../../aspose.words/compositenode/selectsinglenode/)(const System::String &) | Selects the first Node that matches the XPath expression.  |
+| [SelectNodes](../../aspose.words/compositenode/selectnodes/)(const System::String\&) | Selects a list of nodes matching the XPath expression.  |
+| [SelectSingleNode](../../aspose.words/compositenode/selectsinglenode/)(const System::String\&) | Selects the first Node that matches the XPath expression.  |
 | [set_Appearance](./set_appearance/)(Aspose::Words::Markup::SdtAppearance) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Appearance.  |
-| [set_BuildingBlockCategory](./set_buildingblockcategory/)(const System::String &) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory.  |
-| [set_BuildingBlockGallery](./set_buildingblockgallery/)(const System::String &) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGallery.  |
+| [set_BuildingBlockCategory](./set_buildingblockcategory/)(const System::String\&) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory.  |
+| [set_BuildingBlockGallery](./set_buildingblockgallery/)(const System::String\&) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGallery.  |
 | [set_CalendarType](./set_calendartype/)(Aspose::Words::Markup::SdtCalendarType) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType.  |
 | [set_Checked](./set_checked/)(bool) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Checked.  |
 | [set_Color](./set_color/)(System::Drawing::Color) override | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Color.  |
 | [set_CustomNodeId](../../aspose.words/node/set_customnodeid/)(int32_t) | Setter for Aspose::Words::Node::get_CustomNodeId.  |
-| [set_DateDisplayFormat](./set_datedisplayformat/)(const System::String &) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayFormat.  |
+| [set_DateDisplayFormat](./set_datedisplayformat/)(const System::String\&) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayFormat.  |
 | [set_DateDisplayLocale](./set_datedisplaylocale/)(int32_t) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale.  |
 | [set_DateStorageFormat](./set_datestorageformat/)(Aspose::Words::Markup::SdtDateStorageFormat) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_DateStorageFormat.  |
 | [set_FullDate](./set_fulldate/)(System::DateTime) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_FullDate.  |
@@ -98,13 +98,13 @@ Represents a structured document tag (SDT or content control) in a document.
 | [set_LockContents](./set_lockcontents/)(bool) override | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_LockContents.  |
 | [set_Multiline](./set_multiline/)(bool) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Multiline.  |
 | [set_PlaceholderName](./set_placeholdername/)(System::String) override | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_PlaceholderName.  |
-| [set_Style](./set_style/)(const System::SharedPtr< Aspose::Words::Style > &) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Style.  |
-| [set_StyleName](./set_stylename/)(const System::String &) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_StyleName.  |
+| [set_Style](./set_style/)(const System::SharedPtr\<Aspose::Words::Style\>\&) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Style.  |
+| [set_StyleName](./set_stylename/)(const System::String\&) | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_StyleName.  |
 | [set_Tag](./set_tag/)(System::String) override | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Tag.  |
 | [set_Title](./set_title/)(System::String) override | Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Title.  |
-| [SetCheckedSymbol](./setcheckedsymbol/)(int32_t, const System::String &) | Sets the symbol used to represent the checked state of a check box content control.  |
+| [SetCheckedSymbol](./setcheckedsymbol/)(int32_t, const System::String\&) | Sets the symbol used to represent the checked state of a check box content control.  |
 | [SetTemplateWeakPtr](../../aspose.words/compositenode/settemplateweakptr/)(uint32_t) override |  |
-| [SetUncheckedSymbol](./setuncheckedsymbol/)(int32_t, const System::String &) | Sets the symbol used to represent the unchecked state of a check box content control.  |
-| [StructuredDocumentTag](./structureddocumenttag/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, Aspose::Words::Markup::SdtType, Aspose::Words::Markup::MarkupLevel) | Initializes a new instance of the **Structured document tag** class.  |
+| [SetUncheckedSymbol](./setuncheckedsymbol/)(int32_t, const System::String\&) | Sets the symbol used to represent the unchecked state of a check box content control.  |
+| [StructuredDocumentTag](./structureddocumenttag/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::Markup::SdtType, Aspose::Words::Markup::MarkupLevel) | Initializes a new instance of the **Structured document tag** class.  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

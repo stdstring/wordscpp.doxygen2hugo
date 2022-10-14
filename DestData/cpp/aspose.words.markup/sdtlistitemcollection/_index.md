@@ -15,7 +15,7 @@ Provides access to SdtListItem elements of a structured document tag.
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(const System::SharedPtr< Aspose::Words::Markup::SdtListItem > &) | Adds an item to this collection.  |
+| [Add](./add/)(const System::SharedPtr\<Aspose::Words::Markup::SdtListItem\>\&) | Adds an item to this collection.  |
 | [begin](./begin/)() |  |
 | [begin](./begin/)() const |  |
 | [cbegin](./cbegin/)() const |  |
@@ -28,7 +28,7 @@ Provides access to SdtListItem elements of a structured document tag.
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator object that can be used to iterate over all items in the collection.  |
 | [idx_get](./idx_get/)(int32_t) | Returns a SdtListItem object given its zero-based index in the collection.  |
 | [RemoveAt](./removeat/)(int32_t) | Removes a list item at the specified index.  |
-| [set_SelectedValue](./set_selectedvalue/)(const System::SharedPtr< Aspose::Words::Markup::SdtListItem > &) | Setter for Aspose::Words::Markup::SdtListItemCollection::get_SelectedValue.  |
+| [set_SelectedValue](./set_selectedvalue/)(const System::SharedPtr\<Aspose::Words::Markup::SdtListItem\>\&) | Setter for Aspose::Words::Markup::SdtListItemCollection::get_SelectedValue.  |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override |  |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |

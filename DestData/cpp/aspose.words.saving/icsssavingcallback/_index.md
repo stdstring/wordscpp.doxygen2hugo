@@ -15,4 +15,4 @@ Implement this interface if you want to control how Aspose.Words saves CSS (Casc
 
 | Method | Description |
 | --- | --- |
-| virtual [CssSaving](./csssaving/)(System::SharedPtr< Aspose::Words::Saving::CssSavingArgs >) | Called when Aspose.Words saves an CSS (Cascading Style Sheet).  |
+| virtual [CssSaving](./csssaving/)(System::SharedPtr\<Aspose::Words::Saving::CssSavingArgs\>) | Called when Aspose.Words saves an CSS (Cascading Style Sheet).  |

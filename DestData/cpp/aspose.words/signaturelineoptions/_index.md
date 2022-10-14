@@ -24,9 +24,9 @@ Allows to specify options for signature line being inserted. Used in DocumentBui
 | [get_SignerTitle](./get_signertitle/)() const | Gets or sets suggested signer's title. Default value for this property is **empty string**.  |
 | [set_AllowComments](./set_allowcomments/)(bool) | Setter for Aspose::Words::SignatureLineOptions::get_AllowComments.  |
 | [set_DefaultInstructions](./set_defaultinstructions/)(bool) | Setter for Aspose::Words::SignatureLineOptions::get_DefaultInstructions.  |
-| [set_Email](./set_email/)(const System::String &) | Setter for Aspose::Words::SignatureLineOptions::get_Email.  |
-| [set_Instructions](./set_instructions/)(const System::String &) | Setter for Aspose::Words::SignatureLineOptions::get_Instructions.  |
+| [set_Email](./set_email/)(const System::String\&) | Setter for Aspose::Words::SignatureLineOptions::get_Email.  |
+| [set_Instructions](./set_instructions/)(const System::String\&) | Setter for Aspose::Words::SignatureLineOptions::get_Instructions.  |
 | [set_ShowDate](./set_showdate/)(bool) | Setter for Aspose::Words::SignatureLineOptions::get_ShowDate.  |
-| [set_Signer](./set_signer/)(const System::String &) | Setter for Aspose::Words::SignatureLineOptions::get_Signer.  |
-| [set_SignerTitle](./set_signertitle/)(const System::String &) | Setter for Aspose::Words::SignatureLineOptions::get_SignerTitle.  |
+| [set_Signer](./set_signer/)(const System::String\&) | Setter for Aspose::Words::SignatureLineOptions::get_Signer.  |
+| [set_SignerTitle](./set_signertitle/)(const System::String\&) | Setter for Aspose::Words::SignatureLineOptions::get_SignerTitle.  |
 | [SignatureLineOptions](./signaturelineoptions/)() |  |

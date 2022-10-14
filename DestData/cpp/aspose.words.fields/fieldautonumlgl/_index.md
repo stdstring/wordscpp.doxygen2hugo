@@ -36,8 +36,8 @@ Implements the AUTONUMLGL field.
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
 | [set_RemoveTrailingPeriod](./set_removetrailingperiod/)(bool) | Setter for Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SeparatorCharacter](./set_separatorcharacter/)(const System::String &) | Setter for Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SeparatorCharacter](./set_separatorcharacter/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

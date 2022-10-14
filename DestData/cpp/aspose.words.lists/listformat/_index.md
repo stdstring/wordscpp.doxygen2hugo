@@ -24,5 +24,5 @@ Allows to control what list formatting is applied to a paragraph.
 | [ListIndent](./listindent/)() | Increases the list level of the current paragraph by one level.  |
 | [ListOutdent](./listoutdent/)() | Decreases the list level of the current paragraph by one level.  |
 | [RemoveNumbers](./removenumbers/)() | Removes numbers or bullets from the current paragraph and sets list level to zero.  |
-| [set_List](./set_list/)(const System::SharedPtr< Aspose::Words::Lists::List > &) | Setter for Aspose::Words::Lists::ListFormat::get_List.  |
+| [set_List](./set_list/)(const System::SharedPtr\<Aspose::Words::Lists::List\>\&) | Setter for Aspose::Words::Lists::ListFormat::get_List.  |
 | [set_ListLevelNumber](./set_listlevelnumber/)(int32_t) | Setter for Aspose::Words::Lists::ListFormat::get_ListLevelNumber.  |

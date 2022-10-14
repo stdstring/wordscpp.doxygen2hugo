@@ -50,10 +50,10 @@ Implements the DDEAUTO field.
 | [set_IsLinked](./set_islinked/)(bool) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_IsLinked.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_ProgId](./set_progid/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_ProgId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_SourceFullName.  |
-| [set_SourceItem](./set_sourceitem/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_SourceItem.  |
+| [set_ProgId](./set_progid/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_ProgId.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_SourceFullName.  |
+| [set_SourceItem](./set_sourceitem/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDdeAuto::get_SourceItem.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

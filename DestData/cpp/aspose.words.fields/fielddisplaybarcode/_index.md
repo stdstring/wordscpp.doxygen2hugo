@@ -44,22 +44,22 @@ Implements the DISPLAYBARCODE field.
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
 | [set_AddStartStopChar](./set_addstartstopchar/)(bool) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_AddStartStopChar.  |
-| [set_BackgroundColor](./set_backgroundcolor/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor.  |
-| [set_BarcodeType](./set_barcodetype/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType.  |
-| [set_BarcodeValue](./set_barcodevalue/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue.  |
-| [set_CaseCodeStyle](./set_casecodestyle/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle.  |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor.  |
+| [set_BarcodeType](./set_barcodetype/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType.  |
+| [set_BarcodeValue](./set_barcodevalue/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue.  |
+| [set_CaseCodeStyle](./set_casecodestyle/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle.  |
 | [set_DisplayText](./set_displaytext/)(bool) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText.  |
-| [set_ErrorCorrectionLevel](./set_errorcorrectionlevel/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel.  |
+| [set_ErrorCorrectionLevel](./set_errorcorrectionlevel/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel.  |
 | [set_FixCheckDigit](./set_fixcheckdigit/)(bool) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_FixCheckDigit.  |
-| [set_ForegroundColor](./set_foregroundcolor/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor.  |
+| [set_ForegroundColor](./set_foregroundcolor/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_PosCodeStyle](./set_poscodestyle/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_ScalingFactor](./set_scalingfactor/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor.  |
-| [set_SymbolHeight](./set_symbolheight/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight.  |
-| [set_SymbolRotation](./set_symbolrotation/)(const System::String &) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation.  |
+| [set_PosCodeStyle](./set_poscodestyle/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_ScalingFactor](./set_scalingfactor/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor.  |
+| [set_SymbolHeight](./set_symbolheight/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight.  |
+| [set_SymbolRotation](./set_symbolrotation/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

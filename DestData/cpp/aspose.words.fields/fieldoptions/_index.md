@@ -35,23 +35,23 @@ Represents options to control field handling in a document.
 | [get_ToaCategories](./get_toacategories/)() const | Gets or sets the table of authorities categories.  |
 | [get_UseInvariantCultureNumberFormat](./get_useinvariantculturenumberformat/)() const | Gets or sets the value indicating that number format is parsed using invariant culture or not.  |
 | [get_UserPromptRespondent](./get_userpromptrespondent/)() const | Gets or sets the respondent to user prompts during field update.  |
-| [set_BarcodeGenerator](./set_barcodegenerator/)(const System::SharedPtr< Aspose::Words::Fields::IBarcodeGenerator > &) | Gets or set custom barcode generator.  |
-| [set_BuiltInTemplatesPaths](./set_builtintemplatespaths/)(const System::ArrayPtr< System::String > &) | Setter for Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths.  |
-| [set_ComparisonExpressionEvaluator](./set_comparisonexpressionevaluator/)(const System::SharedPtr< Aspose::Words::Fields::IComparisonExpressionEvaluator > &) | Setter for Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator.  |
-| [set_CurrentUser](./set_currentuser/)(const System::SharedPtr< Aspose::Words::Fields::UserInformation > &) | Setter for Aspose::Words::Fields::FieldOptions::get_CurrentUser.  |
-| [set_CustomTocStyleSeparator](./set_customtocstyleseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator.  |
-| [set_DefaultDocumentAuthor](./set_defaultdocumentauthor/)(const System::String &) | Setter for Aspose::Words::Fields::FieldOptions::get_DefaultDocumentAuthor.  |
-| [set_FieldDatabaseProvider](./set_fielddatabaseprovider/)(const System::SharedPtr< Aspose::Words::Fields::IFieldDatabaseProvider > &) | Sets a provider that returns a query result for the FieldDatabase field.  |
+| [set_BarcodeGenerator](./set_barcodegenerator/)(const System::SharedPtr\<Aspose::Words::Fields::IBarcodeGenerator\>\&) | Gets or set custom barcode generator.  |
+| [set_BuiltInTemplatesPaths](./set_builtintemplatespaths/)(const System::ArrayPtr\<System::String\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths.  |
+| [set_ComparisonExpressionEvaluator](./set_comparisonexpressionevaluator/)(const System::SharedPtr\<Aspose::Words::Fields::IComparisonExpressionEvaluator\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator.  |
+| [set_CurrentUser](./set_currentuser/)(const System::SharedPtr\<Aspose::Words::Fields::UserInformation\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_CurrentUser.  |
+| [set_CustomTocStyleSeparator](./set_customtocstyleseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator.  |
+| [set_DefaultDocumentAuthor](./set_defaultdocumentauthor/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldOptions::get_DefaultDocumentAuthor.  |
+| [set_FieldDatabaseProvider](./set_fielddatabaseprovider/)(const System::SharedPtr\<Aspose::Words::Fields::IFieldDatabaseProvider\>\&) | Sets a provider that returns a query result for the FieldDatabase field.  |
 | [set_FieldIndexFormat](./set_fieldindexformat/)(Aspose::Words::Fields::FieldIndexFormat) | Setter for Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat.  |
-| [set_FieldUpdateCultureProvider](./set_fieldupdatecultureprovider/)(const System::SharedPtr< Aspose::Words::Fields::IFieldUpdateCultureProvider > &) | Setter for Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider.  |
+| [set_FieldUpdateCultureProvider](./set_fieldupdatecultureprovider/)(const System::SharedPtr\<Aspose::Words::Fields::IFieldUpdateCultureProvider\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider.  |
 | [set_FieldUpdateCultureSource](./set_fieldupdateculturesource/)(Aspose::Words::Fields::FieldUpdateCultureSource) | Setter for Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource.  |
-| [set_FieldUpdatingCallback](./set_fieldupdatingcallback/)(const System::SharedPtr< Aspose::Words::Fields::IFieldUpdatingCallback > &) | Sets IFieldUpdatingCallback implementation.  |
-| [set_FileName](./set_filename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldOptions::get_FileName.  |
+| [set_FieldUpdatingCallback](./set_fieldupdatingcallback/)(const System::SharedPtr\<Aspose::Words::Fields::IFieldUpdatingCallback\>\&) | Sets IFieldUpdatingCallback implementation.  |
+| [set_FileName](./set_filename/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldOptions::get_FileName.  |
 | [set_IsBidiTextSupportedOnUpdate](./set_isbiditextsupportedonupdate/)(bool) | Setter for Aspose::Words::Fields::FieldOptions::get_IsBidiTextSupportedOnUpdate.  |
 | [set_LegacyNumberFormat](./set_legacynumberformat/)(bool) | Setter for Aspose::Words::Fields::FieldOptions::get_LegacyNumberFormat.  |
-| [set_PreProcessCulture](./set_preprocessculture/)(const System::SharedPtr< System::Globalization::CultureInfo > &) | Setter for Aspose::Words::Fields::FieldOptions::get_PreProcessCulture.  |
-| [set_ResultFormatter](./set_resultformatter/)(const System::SharedPtr< Aspose::Words::Fields::IFieldResultFormatter > &) | Setter for Aspose::Words::Fields::FieldOptions::get_ResultFormatter.  |
-| [set_TemplateName](./set_templatename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldOptions::get_TemplateName.  |
-| [set_ToaCategories](./set_toacategories/)(const System::SharedPtr< Aspose::Words::Fields::ToaCategories > &) | Setter for Aspose::Words::Fields::FieldOptions::get_ToaCategories.  |
+| [set_PreProcessCulture](./set_preprocessculture/)(const System::SharedPtr\<System::Globalization::CultureInfo\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_PreProcessCulture.  |
+| [set_ResultFormatter](./set_resultformatter/)(const System::SharedPtr\<Aspose::Words::Fields::IFieldResultFormatter\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_ResultFormatter.  |
+| [set_TemplateName](./set_templatename/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldOptions::get_TemplateName.  |
+| [set_ToaCategories](./set_toacategories/)(const System::SharedPtr\<Aspose::Words::Fields::ToaCategories\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_ToaCategories.  |
 | [set_UseInvariantCultureNumberFormat](./set_useinvariantculturenumberformat/)(bool) | Setter for Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat.  |
-| [set_UserPromptRespondent](./set_userpromptrespondent/)(const System::SharedPtr< Aspose::Words::Fields::IFieldUserPromptRespondent > &) | Setter for Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent.  |
+| [set_UserPromptRespondent](./set_userpromptrespondent/)(const System::SharedPtr\<Aspose::Words::Fields::IFieldUserPromptRespondent\>\&) | Setter for Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent.  |

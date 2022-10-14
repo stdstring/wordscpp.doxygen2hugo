@@ -15,4 +15,4 @@ Implement this interface if you want to have your own custom method called durin
 
 | Method | Description |
 | --- | --- |
-| virtual [Notify](./notify/)(System::SharedPtr< Aspose::Words::Saving::DocumentSavingArgs >) | This is called to notify of document saving progress.  |
+| virtual [Notify](./notify/)(System::SharedPtr\<Aspose::Words::Saving::DocumentSavingArgs\>) | This is called to notify of document saving progress.  |

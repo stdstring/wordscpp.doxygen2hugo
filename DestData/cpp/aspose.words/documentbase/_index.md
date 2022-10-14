@@ -15,8 +15,8 @@ Provides the abstract base class for a main document and a glossary document of 
 
 | Method | Description |
 | --- | --- |
-| virtual [Accept](../node/accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) | Accepts a visitor.  |
-| [AppendChild](../compositenode/appendchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the end of the list of child nodes for this node.  |
+| virtual [Accept](../node/accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) | Accepts a visitor.  |
+| [AppendChild](../compositenode/appendchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the end of the list of child nodes for this node.  |
 | [Clone](../node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_BackgroundShape](./get_backgroundshape/)() const | Gets or sets the background shape of the document. Can be null.  |
 | [get_ChildNodes](../compositenode/get_childnodes/)() | Gets all immediate child nodes of this node.  |
@@ -45,27 +45,27 @@ Provides the abstract base class for a main document and a glossary document of 
 | [GetChildNodes](../compositenode/getchildnodes/)(Aspose::Words::NodeType, bool) | Returns a live collection of child nodes that match the specified type.  |
 | [GetEnumerator](../compositenode/getenumerator/)() override | Provides support for the for each style iteration over the child nodes of this node.  |
 | [GetText](../compositenode/gettext/)() override | Gets the text of this node and of all its children.  |
-| [ImportNode](./importnode/)(const System::SharedPtr< Aspose::Words::Node > &, bool) | Imports a node from another document to the current document.  |
-| [ImportNode](./importnode/)(const System::SharedPtr< Aspose::Words::Node > &, bool, Aspose::Words::ImportFormatMode) | Imports a node from another document to the current document with an option to control formatting.  |
-| [IndexOf](../compositenode/indexof/)(const System::SharedPtr< Aspose::Words::Node > &) | Returns the index of the specified child node in the child node array.  |
-| [InsertAfter](../compositenode/insertafter/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately after the specified reference node.  |
-| [InsertBefore](../compositenode/insertbefore/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately before the specified reference node.  |
-| [NextPreOrder](../node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [ImportNode](./importnode/)(const System::SharedPtr\<Aspose::Words::Node\>\&, bool) | Imports a node from another document to the current document.  |
+| [ImportNode](./importnode/)(const System::SharedPtr\<Aspose::Words::Node\>\&, bool, Aspose::Words::ImportFormatMode) | Imports a node from another document to the current document with an option to control formatting.  |
+| [IndexOf](../compositenode/indexof/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Returns the index of the specified child node in the child node array.  |
+| [InsertAfter](../compositenode/insertafter/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately after the specified reference node.  |
+| [InsertBefore](../compositenode/insertbefore/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately before the specified reference node.  |
+| [NextPreOrder](../node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PrependChild](../compositenode/prependchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the beginning of the list of child nodes for this node.  |
-| [PreviousPreOrder](../node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PrependChild](../compositenode/prependchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the beginning of the list of child nodes for this node.  |
+| [PreviousPreOrder](../node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../node/remove/)() | Removes itself from the parent.  |
 | [RemoveAllChildren](../compositenode/removeallchildren/)() | Removes all the child nodes of the current node.  |
-| [RemoveChild](../compositenode/removechild/)(const System::SharedPtr< Aspose::Words::Node > &) | Removes the specified child node.  |
+| [RemoveChild](../compositenode/removechild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the specified child node.  |
 | [RemoveSmartTags](../compositenode/removesmarttags/)() | Removes all SmartTag descendant nodes of the current node.  |
-| [SelectNodes](../compositenode/selectnodes/)(const System::String &) | Selects a list of nodes matching the XPath expression.  |
-| [SelectSingleNode](../compositenode/selectsinglenode/)(const System::String &) | Selects the first Node that matches the XPath expression.  |
-| [set_BackgroundShape](./set_backgroundshape/)(const System::SharedPtr< Aspose::Words::Drawing::Shape > &) | Setter for Aspose::Words::DocumentBase::get_BackgroundShape.  |
+| [SelectNodes](../compositenode/selectnodes/)(const System::String\&) | Selects a list of nodes matching the XPath expression.  |
+| [SelectSingleNode](../compositenode/selectsinglenode/)(const System::String\&) | Selects the first Node that matches the XPath expression.  |
+| [set_BackgroundShape](./set_backgroundshape/)(const System::SharedPtr\<Aspose::Words::Drawing::Shape\>\&) | Setter for Aspose::Words::DocumentBase::get_BackgroundShape.  |
 | [set_CustomNodeId](../node/set_customnodeid/)(int32_t) | Setter for Aspose::Words::Node::get_CustomNodeId.  |
-| [set_NodeChangingCallback](./set_nodechangingcallback/)(const System::SharedPtr< Aspose::Words::INodeChangingCallback > &) | Setter for Aspose::Words::DocumentBase::get_NodeChangingCallback.  |
+| [set_NodeChangingCallback](./set_nodechangingcallback/)(const System::SharedPtr\<Aspose::Words::INodeChangingCallback\>\&) | Setter for Aspose::Words::DocumentBase::get_NodeChangingCallback.  |
 | [set_PageColor](./set_pagecolor/)(System::Drawing::Color) | Setter for Aspose::Words::DocumentBase::get_PageColor.  |
-| [set_ResourceLoadingCallback](./set_resourceloadingcallback/)(const System::SharedPtr< Aspose::Words::Loading::IResourceLoadingCallback > &) | Setter for Aspose::Words::DocumentBase::get_ResourceLoadingCallback.  |
-| [set_WarningCallback](./set_warningcallback/)(const System::SharedPtr< Aspose::Words::IWarningCallback > &) | Setter for Aspose::Words::DocumentBase::get_WarningCallback.  |
+| [set_ResourceLoadingCallback](./set_resourceloadingcallback/)(const System::SharedPtr\<Aspose::Words::Loading::IResourceLoadingCallback\>\&) | Setter for Aspose::Words::DocumentBase::get_ResourceLoadingCallback.  |
+| [set_WarningCallback](./set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for Aspose::Words::DocumentBase::get_WarningCallback.  |
 | [SetTemplateWeakPtr](../compositenode/settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

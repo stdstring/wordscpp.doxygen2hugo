@@ -15,7 +15,7 @@ Represents a table style.
 
 | Method | Description |
 | --- | --- |
-| [Equals](../style/equals/)(const System::SharedPtr< Aspose::Words::Style > &) | Compares with the specified style. Styles Istds are compared for built-in styles only. Styles defaults are not included in comparison. Base style, linked style and next paragraph style are recursively compared.  |
+| [Equals](../style/equals/)(const System::SharedPtr\<Aspose::Words::Style\>\&) | Compares with the specified style. Styles Istds are compared for built-in styles only. Styles defaults are not included in comparison. Base style, linked style and next paragraph style are recursively compared.  |
 | [get_Aliases](../style/get_aliases/)() | Gets all aliases of this style. If style has no aliases then empty array of string is returned.  |
 | [get_Alignment](./get_alignment/)() | Specifies the alignment for the table style.  |
 | [get_AllowBreakAcrossPages](./get_allowbreakacrosspages/)() | Gets or sets a flag indicating whether text in a table row is allowed to split across a page break.  |
@@ -50,7 +50,7 @@ Represents a table style.
 | [Remove](../style/remove/)() | Removes the specified style from the document.  |
 | [set_Alignment](./set_alignment/)(Aspose::Words::Tables::TableAlignment) | Setter for Aspose::Words::TableStyle::get_Alignment.  |
 | [set_AllowBreakAcrossPages](./set_allowbreakacrosspages/)(bool) | Setter for Aspose::Words::TableStyle::get_AllowBreakAcrossPages.  |
-| [set_BaseStyleName](../style/set_basestylename/)(const System::String &) | Setter for Aspose::Words::Style::get_BaseStyleName.  |
+| [set_BaseStyleName](../style/set_basestylename/)(const System::String\&) | Setter for Aspose::Words::Style::get_BaseStyleName.  |
 | [set_Bidi](./set_bidi/)(bool) | Setter for Aspose::Words::TableStyle::get_Bidi.  |
 | [set_BottomPadding](./set_bottompadding/)(double) | Setter for Aspose::Words::TableStyle::get_BottomPadding.  |
 | [set_CellSpacing](./set_cellspacing/)(double) | Setter for Aspose::Words::TableStyle::get_CellSpacing.  |
@@ -58,8 +58,8 @@ Represents a table style.
 | [set_IsQuickStyle](../style/set_isquickstyle/)(bool) | Setter for Aspose::Words::Style::get_IsQuickStyle.  |
 | [set_LeftIndent](./set_leftindent/)(double) | Setter for Aspose::Words::TableStyle::get_LeftIndent.  |
 | [set_LeftPadding](./set_leftpadding/)(double) | Setter for Aspose::Words::TableStyle::get_LeftPadding.  |
-| [set_Name](../style/set_name/)(const System::String &) | Setter for Aspose::Words::Style::get_Name.  |
-| [set_NextParagraphStyleName](../style/set_nextparagraphstylename/)(const System::String &) | Setter for Aspose::Words::Style::get_NextParagraphStyleName.  |
+| [set_Name](../style/set_name/)(const System::String\&) | Setter for Aspose::Words::Style::get_Name.  |
+| [set_NextParagraphStyleName](../style/set_nextparagraphstylename/)(const System::String\&) | Setter for Aspose::Words::Style::get_NextParagraphStyleName.  |
 | [set_RightPadding](./set_rightpadding/)(double) | Setter for Aspose::Words::TableStyle::get_RightPadding.  |
 | [set_RowStripe](./set_rowstripe/)(int32_t) | Setter for Aspose::Words::TableStyle::get_RowStripe.  |
 | [set_TopPadding](./set_toppadding/)(double) | Setter for Aspose::Words::TableStyle::get_TopPadding.  |

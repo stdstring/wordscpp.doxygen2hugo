@@ -30,7 +30,7 @@ Represents data label on a chart point or trendline.
 | [get_ShowSeriesName](./get_showseriesname/)() | Returns or sets a Boolean to indicate the series name display behavior for the data labels on a chart. True to show the series name. False to hide. By default false.  |
 | [get_ShowValue](./get_showvalue/)() | Allows to specify if values are to be displayed in the data labels. Default value is false.  |
 | [set_IsHidden](./set_ishidden/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsHidden.  |
-| [set_Separator](./set_separator/)(const System::String &) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_Separator.  |
+| [set_Separator](./set_separator/)(const System::String\&) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_Separator.  |
 | [set_ShowBubbleSize](./set_showbubblesize/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowBubbleSize.  |
 | [set_ShowCategoryName](./set_showcategoryname/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowCategoryName.  |
 | [set_ShowDataLabelsRange](./set_showdatalabelsrange/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowDataLabelsRange.  |

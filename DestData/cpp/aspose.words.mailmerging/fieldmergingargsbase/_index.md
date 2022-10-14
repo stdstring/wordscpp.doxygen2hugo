@@ -22,4 +22,4 @@ Base class for FieldMergingArgs and ImageFieldMergingArgs.
 | [get_FieldValue](./get_fieldvalue/)() const | Gets the value of the field from the data source.  |
 | [get_RecordIndex](./get_recordindex/)() const | Gets the zero based index of the record that is being merged.  |
 | [get_TableName](./get_tablename/)() const | Gets the name of the data table for the current merge operation or empty string if the name is not available.  |
-| [set_FieldValue](./set_fieldvalue/)(const System::SharedPtr< System::Object > &) | Sets the value of the field from the data source.  |
+| [set_FieldValue](./set_fieldvalue/)(const System::SharedPtr\<System::Object\>\&) | Sets the value of the field from the data source.  |

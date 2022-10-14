@@ -36,15 +36,15 @@ Implements the MERGEFIELD field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_FieldName](./set_fieldname/)(const System::String &) | Sets the name of a data field.  |
+| [set_FieldName](./set_fieldname/)(const System::String\&) | Sets the name of a data field.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_IsMapped](./set_ismapped/)(bool) | Sets whether this field is a mapped field.  |
 | [set_IsVerticalFormatting](./set_isverticalformatting/)(bool) | Sets whether to enable character conversion for vertical formatting.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_TextAfter](./set_textafter/)(const System::String &) | Sets the text to be inserted after the field if the field is not blank.  |
-| [set_TextBefore](./set_textbefore/)(const System::String &) | Sets the text to be inserted before the field if the field is not blank.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_TextAfter](./set_textafter/)(const System::String\&) | Sets the text to be inserted after the field if the field is not blank.  |
+| [set_TextBefore](./set_textbefore/)(const System::String\&) | Sets the text to be inserted before the field if the field is not blank.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

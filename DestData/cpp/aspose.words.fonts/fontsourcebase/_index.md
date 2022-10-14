@@ -19,4 +19,4 @@ This is an abstract base class for the classes that allow the user to specify va
 | virtual [get_Type](./get_type/)() | Returns the type of the font source.  |
 | [get_WarningCallback](./get_warningcallback/)() const | Called during processing of font source when an issue is detected that might result in formatting fidelity loss.  |
 | [GetAvailableFonts](./getavailablefonts/)() | Returns list of fonts available via this source.  |
-| [set_WarningCallback](./set_warningcallback/)(const System::SharedPtr< Aspose::Words::IWarningCallback > &) | Setter for Aspose::Words::Fonts::FontSourceBase::get_WarningCallback.  |
+| [set_WarningCallback](./set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for Aspose::Words::Fonts::FontSourceBase::get_WarningCallback.  |

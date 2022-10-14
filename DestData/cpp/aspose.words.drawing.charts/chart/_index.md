@@ -22,4 +22,4 @@ Provides access to the chart shape properties.
 | [get_Series](./get_series/)() | Provides access to series collection.  |
 | [get_SourceFullName](./get_sourcefullname/)() | Gets the path and name of an xls/xlsx file this chart is linked to.  |
 | [get_Title](./get_title/)() | Provides access to the chart title properties.  |
-| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Gets the path and name of an xls/xlsx file this chart is linked to.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String\&) | Gets the path and name of an xls/xlsx file this chart is linked to.  |

@@ -15,5 +15,5 @@ Public interface for barcode custom generator. Implementation should be provided
 
 | Method | Description |
 | --- | --- |
-| virtual [GetBarcodeImage](./getbarcodeimage/)(System::SharedPtr< Aspose::Words::Fields::BarcodeParameters >) | Generate barcode image using the set of parameters (for DisplayBarcode field).  |
-| virtual [GetOldBarcodeImage](./getoldbarcodeimage/)(System::SharedPtr< Aspose::Words::Fields::BarcodeParameters >) | Generate barcode image using the set of parameters (for old-fashioned Barcode field).  |
+| virtual [GetBarcodeImage](./getbarcodeimage/)(System::SharedPtr\<Aspose::Words::Fields::BarcodeParameters\>) | Generate barcode image using the set of parameters (for DisplayBarcode field).  |
+| virtual [GetOldBarcodeImage](./getoldbarcodeimage/)(System::SharedPtr\<Aspose::Words::Fields::BarcodeParameters\>) | Generate barcode image using the set of parameters (for old-fashioned Barcode field).  |

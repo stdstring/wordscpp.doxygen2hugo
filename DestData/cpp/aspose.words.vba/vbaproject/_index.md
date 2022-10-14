@@ -21,5 +21,5 @@ Provides access to VBA project information. A VBA project inside the document is
 | [get_Modules](./get_modules/)() | Returns collection of VBA project modules.  |
 | [get_Name](./get_name/)() const | Gets or sets VBA project name.  |
 | [get_References](./get_references/)() | Gets a collection of VBA project references.  |
-| [set_Name](./set_name/)(const System::String &) | Setter for Aspose::Words::Vba::VbaProject::get_Name.  |
+| [set_Name](./set_name/)(const System::String\&) | Setter for Aspose::Words::Vba::VbaProject::get_Name.  |
 | [VbaProject](./vbaproject/)() | Creates a blank VbaProject.  |

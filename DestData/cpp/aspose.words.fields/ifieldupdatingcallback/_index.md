@@ -15,5 +15,5 @@ Implement this interface if you want to have your own custom methods called duri
 
 | Method | Description |
 | --- | --- |
-| virtual [FieldUpdated](./fieldupdated/)(System::SharedPtr< Aspose::Words::Fields::Field >) | A user defined method that is called just after a field is updated.  |
-| virtual [FieldUpdating](./fieldupdating/)(System::SharedPtr< Aspose::Words::Fields::Field >) | A user defined method that is called just before a field is updated.  |
+| virtual [FieldUpdated](./fieldupdated/)(System::SharedPtr\<Aspose::Words::Fields::Field\>) | A user defined method that is called just after a field is updated.  |
+| virtual [FieldUpdating](./fieldupdating/)(System::SharedPtr\<Aspose::Words::Fields::Field\>) | A user defined method that is called just before a field is updated.  |

@@ -28,13 +28,13 @@ Provides access to the data of an OLE object or ActiveX control.
 | [get_SourceItem](./get_sourceitem/)() | Gets or sets a string that is used to identify the portion of the source file that is being linked.  |
 | [get_SuggestedExtension](./get_suggestedextension/)() | Gets the file extension suggested for the current embedded object if you want to save it into a file.  |
 | [get_SuggestedFileName](./get_suggestedfilename/)() | Gets the file name suggested for the current embedded object if you want to save it into a file.  |
-| [GetOleEntry](./getoleentry/)(const System::String &) | Gets OLE object data entry.  |
+| [GetOleEntry](./getoleentry/)(const System::String\&) | Gets OLE object data entry.  |
 | [GetRawData](./getrawdata/)() | Gets OLE object raw data.  |
-| [Save](./save/)(const System::SharedPtr< System::IO::Stream > &) | Saves the data of the embedded object into the specified stream.  |
-| [Save](./save/)(const System::String &) | Saves the data of the embedded object into a file with the specified name.  |
-| [Save](./save/)(std::basic_ostream< CharType, Traits > &) |  |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves the data of the embedded object into the specified stream.  |
+| [Save](./save/)(const System::String\&) | Saves the data of the embedded object into a file with the specified name.  |
+| [Save](./save/)(std::basic_ostream\<CharType, Traits\>\&) |  |
 | [set_AutoUpdate](./set_autoupdate/)(bool) | Setter for Aspose::Words::Drawing::OleFormat::get_AutoUpdate.  |
 | [set_IsLocked](./set_islocked/)(bool) | Setter for Aspose::Words::Drawing::OleFormat::get_IsLocked.  |
-| [set_ProgId](./set_progid/)(const System::String &) | Setter for Aspose::Words::Drawing::OleFormat::get_ProgId.  |
-| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Setter for Aspose::Words::Drawing::OleFormat::get_SourceFullName.  |
-| [set_SourceItem](./set_sourceitem/)(const System::String &) | Setter for Aspose::Words::Drawing::OleFormat::get_SourceItem.  |
+| [set_ProgId](./set_progid/)(const System::String\&) | Setter for Aspose::Words::Drawing::OleFormat::get_ProgId.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String\&) | Setter for Aspose::Words::Drawing::OleFormat::get_SourceFullName.  |
+| [set_SourceItem](./set_sourceitem/)(const System::String\&) | Setter for Aspose::Words::Drawing::OleFormat::get_SourceItem.  |

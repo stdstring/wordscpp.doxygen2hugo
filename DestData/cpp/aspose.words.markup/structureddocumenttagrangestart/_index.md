@@ -15,8 +15,8 @@ Represents a start of **ranged** structured document tag which accepts multi-sec
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| [AppendChild](./appendchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the end of the stdContent range.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
+| [AppendChild](./appendchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the end of the stdContent range.  |
 | [Clone](../../aspose.words/node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_ChildNodes](./get_childnodes/)() | Gets all nodes between this range start node and the range end node.  |
 | [get_Color](./get_color/)() override | Gets or sets the color of the structured document tag.  |
@@ -47,9 +47,9 @@ Represents a start of **ranged** structured document tag which accepts multi-sec
 | [GetChildNodes](./getchildnodes/)(Aspose::Words::NodeType, bool) | Returns a live collection of child nodes that match the specified types.  |
 | [GetEnumerator](./getenumerator/)() override | Provides support for the for each style iteration over the child nodes of this node.  |
 | virtual [GetText](../../aspose.words/node/gettext/)() | Gets the text of this node and of all its children.  |
-| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../../aspose.words/node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../../aspose.words/node/remove/)() | Removes itself from the parent.  |
 | [RemoveAllChildren](./removeallchildren/)() | Removes all the nodes between this range start node and the range end node.  |
 | [RemoveSelfOnly](./removeselfonly/)() | Removes this range start and appropriate range end nodes of the structured document tag, but keeps its content inside the document tree.  |
@@ -62,6 +62,6 @@ Represents a start of **ranged** structured document tag which accepts multi-sec
 | [set_Tag](./set_tag/)(System::String) override | Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Tag.  |
 | [set_Title](./set_title/)(System::String) override | Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title.  |
 | [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
-| [StructuredDocumentTagRangeStart](./structureddocumenttagrangestart/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, Aspose::Words::Markup::SdtType) | Initializes a new instance of the **Structured document tag range start** class.  |
+| [StructuredDocumentTagRangeStart](./structureddocumenttagrangestart/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::Markup::SdtType) | Initializes a new instance of the **Structured document tag range start** class.  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

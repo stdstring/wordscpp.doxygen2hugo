@@ -34,8 +34,8 @@ Implements the QUOTE field.
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_Text](./set_text/)(const System::String &) | Setter for Aspose::Words::Fields::FieldQuote::get_Text.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_Text](./set_text/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldQuote::get_Text.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

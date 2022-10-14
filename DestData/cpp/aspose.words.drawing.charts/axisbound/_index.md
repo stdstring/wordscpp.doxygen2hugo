@@ -18,7 +18,7 @@ Represents minimum or maximum bound of axis values.
 | [AxisBound](./axisbound/)() | Creates a new instance indicating that axis bound should be determined automatically by a word-processing application.  |
 | [AxisBound](./axisbound/)(double) | Creates an axis bound represented as a number.  |
 | [AxisBound](./axisbound/)(System::DateTime) | Creates an axis bound represented as datetime value.  |
-| [Equals](./equals/)(System::SharedPtr< System::Object >) override | Determines whether the specified object is equal in value to the current object.  |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines whether the specified object is equal in value to the current object.  |
 | [get_IsAuto](./get_isauto/)() const | Returns a flag indicating that axis bound should be determined automatically.  |
 | [get_Value](./get_value/)() const | Returns numeric value of axis bound.  |
 | [get_ValueAsDate](./get_valueasdate/)() | Returns value of axis bound represented as datetime.  |

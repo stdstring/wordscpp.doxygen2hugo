@@ -22,5 +22,5 @@ Provides data for a custom replace operation.
 | [get_MatchOffset](./get_matchoffset/)() const | Gets the zero-based starting position of the match from the start of the node that contains the beginning of the match.  |
 | [get_Replacement](./get_replacement/)() const | Gets or sets the replacement string.  |
 | [set_GroupIndex](./set_groupindex/)(int32_t) | Setter for Aspose::Words::Replacing::ReplacingArgs::get_GroupIndex.  |
-| [set_GroupName](./set_groupname/)(const System::String &) | Setter for Aspose::Words::Replacing::ReplacingArgs::get_GroupName.  |
-| [set_Replacement](./set_replacement/)(const System::String &) | Setter for Aspose::Words::Replacing::ReplacingArgs::get_Replacement.  |
+| [set_GroupName](./set_groupname/)(const System::String\&) | Setter for Aspose::Words::Replacing::ReplacingArgs::get_GroupName.  |
+| [set_Replacement](./set_replacement/)(const System::String\&) | Setter for Aspose::Words::Replacing::ReplacingArgs::get_Replacement.  |

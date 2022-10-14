@@ -21,6 +21,6 @@ Provides data for the PageSaving() event.
 | [get_PageStream](./get_pagestream/)() const | Allows to specify the stream where the document page will be saved to.  |
 | [PageSavingArgs](./pagesavingargs/)() |  |
 | [set_KeepPageStreamOpen](./set_keeppagestreamopen/)(bool) | Setter for Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen.  |
-| [set_PageFileName](./set_pagefilename/)(const System::String &) | Setter for Aspose::Words::Saving::PageSavingArgs::get_PageFileName.  |
-| [set_PageStream](./set_pagestream/)(const System::SharedPtr< System::IO::Stream > &) | Setter for Aspose::Words::Saving::PageSavingArgs::get_PageStream.  |
-| [set_PageStream](./set_pagestream/)(std::basic_ostream< CharType, Traits > &) |  |
+| [set_PageFileName](./set_pagefilename/)(const System::String\&) | Setter for Aspose::Words::Saving::PageSavingArgs::get_PageFileName.  |
+| [set_PageStream](./set_pagestream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Setter for Aspose::Words::Saving::PageSavingArgs::get_PageStream.  |
+| [set_PageStream](./set_pagestream/)(std::basic_ostream\<CharType, Traits\>\&) |  |

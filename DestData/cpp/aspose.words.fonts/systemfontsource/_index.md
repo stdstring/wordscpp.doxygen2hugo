@@ -20,6 +20,6 @@ Represents all TrueType fonts installed to the system.
 | [get_WarningCallback](../fontsourcebase/get_warningcallback/)() const | Called during processing of font source when an issue is detected that might result in formatting fidelity loss.  |
 | [GetAvailableFonts](../fontsourcebase/getavailablefonts/)() | Returns list of fonts available via this source.  |
 | static [GetSystemFontFolders](./getsystemfontfolders/)() | Returns system font folders or empty array if folders are not accessible.  |
-| [set_WarningCallback](../fontsourcebase/set_warningcallback/)(const System::SharedPtr< Aspose::Words::IWarningCallback > &) | Setter for Aspose::Words::Fonts::FontSourceBase::get_WarningCallback.  |
+| [set_WarningCallback](../fontsourcebase/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for Aspose::Words::Fonts::FontSourceBase::get_WarningCallback.  |
 | [SystemFontSource](./systemfontsource/)() | Ctor.  |
 | [SystemFontSource](./systemfontsource/)(int32_t) | Ctor.  |

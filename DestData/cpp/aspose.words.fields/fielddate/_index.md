@@ -37,7 +37,7 @@ Implements the DATE field.
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
 | [set_UseLastFormat](./set_uselastformat/)(bool) | Setter for Aspose::Words::Fields::FieldDate::get_UseLastFormat.  |
 | [set_UseLunarCalendar](./set_uselunarcalendar/)(bool) | Setter for Aspose::Words::Fields::FieldDate::get_UseLunarCalendar.  |
 | [set_UseSakaEraCalendar](./set_usesakaeracalendar/)(bool) | Setter for Aspose::Words::Fields::FieldDate::get_UseSakaEraCalendar.  |

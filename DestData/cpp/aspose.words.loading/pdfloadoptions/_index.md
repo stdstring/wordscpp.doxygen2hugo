@@ -35,24 +35,24 @@ Allows to specify additional options when loading Pdf document into a Document o
 | [get_UpdateDirtyFields](../loadoptions/get_updatedirtyfields/)() const | Specifies whether to update the fields with the **dirty** attribute.  |
 | [get_WarningCallback](../loadoptions/get_warningcallback/)() const | Called during a load operation, when an issue is detected that might result in data or formatting fidelity loss.  |
 | [LoadOptions](../loadoptions/loadoptions/)() | Initializes a new instance of this class with default values.  |
-| [LoadOptions](../loadoptions/loadoptions/)(const System::String &) | A shortcut to initialize a new instance of this class with the specified password to load an encrypted document.  |
-| [LoadOptions](../loadoptions/loadoptions/)(Aspose::Words::LoadFormat, const System::String &, const System::String &) | A shortcut to initialize a new instance of this class with properties set to the specified values.  |
+| [LoadOptions](../loadoptions/loadoptions/)(const System::String\&) | A shortcut to initialize a new instance of this class with the specified password to load an encrypted document.  |
+| [LoadOptions](../loadoptions/loadoptions/)(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) | A shortcut to initialize a new instance of this class with properties set to the specified values.  |
 | [PdfLoadOptions](./pdfloadoptions/)() |  |
-| [set_BaseUri](../loadoptions/set_baseuri/)(const System::String &) | Setter for Aspose::Words::Loading::LoadOptions::get_BaseUri.  |
+| [set_BaseUri](../loadoptions/set_baseuri/)(const System::String\&) | Setter for Aspose::Words::Loading::LoadOptions::get_BaseUri.  |
 | [set_ConvertMetafilesToPng](../loadoptions/set_convertmetafilestopng/)(bool) | Setter for Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng.  |
 | [set_ConvertShapeToOfficeMath](../loadoptions/set_convertshapetoofficemath/)(bool) | Setter for Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath.  |
-| [set_Encoding](../loadoptions/set_encoding/)(const System::SharedPtr< System::Text::Encoding > &) | Setter for Aspose::Words::Loading::LoadOptions::get_Encoding.  |
+| [set_Encoding](../loadoptions/set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Setter for Aspose::Words::Loading::LoadOptions::get_Encoding.  |
 | [set_FlatOpcXmlMappingOnly](../loadoptions/set_flatopcxmlmappingonly/)(bool) | Sets value determining which document formats are allowed to be mapped by XmlMapping. By default only FlatOpc document format is allowed to be mapped.  |
-| [set_FontSettings](../loadoptions/set_fontsettings/)(const System::SharedPtr< Aspose::Words::Fonts::FontSettings > &) | Setter for Aspose::Words::Loading::LoadOptions::get_FontSettings.  |
+| [set_FontSettings](../loadoptions/set_fontsettings/)(const System::SharedPtr\<Aspose::Words::Fonts::FontSettings\>\&) | Setter for Aspose::Words::Loading::LoadOptions::get_FontSettings.  |
 | [set_LoadFormat](../loadoptions/set_loadformat/)(Aspose::Words::LoadFormat) | Setter for Aspose::Words::Loading::LoadOptions::get_LoadFormat.  |
 | [set_MswVersion](../loadoptions/set_mswversion/)(Aspose::Words::Settings::MsWordVersion) | Setter for Aspose::Words::Loading::LoadOptions::get_MswVersion.  |
 | [set_PageCount](./set_pagecount/)(int32_t) | Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read.  |
 | [set_PageIndex](./set_pageindex/)(int32_t) | Sets the 0-based index of the first page to read. Default is 0.  |
-| [set_Password](../loadoptions/set_password/)(const System::String &) | Setter for Aspose::Words::Loading::LoadOptions::get_Password.  |
+| [set_Password](../loadoptions/set_password/)(const System::String\&) | Setter for Aspose::Words::Loading::LoadOptions::get_Password.  |
 | [set_PreserveIncludePictureField](../loadoptions/set_preserveincludepicturefield/)(bool) | Setter for Aspose::Words::Loading::LoadOptions::get_PreserveIncludePictureField.  |
-| [set_ProgressCallback](../loadoptions/set_progresscallback/)(const System::SharedPtr< Aspose::Words::Loading::IDocumentLoadingCallback > &) | Called during loading a document and accepts data about loading progress.  |
-| [set_ResourceLoadingCallback](../loadoptions/set_resourceloadingcallback/)(const System::SharedPtr< Aspose::Words::Loading::IResourceLoadingCallback > &) | Setter for Aspose::Words::Loading::LoadOptions::get_ResourceLoadingCallback.  |
+| [set_ProgressCallback](../loadoptions/set_progresscallback/)(const System::SharedPtr\<Aspose::Words::Loading::IDocumentLoadingCallback\>\&) | Called during loading a document and accepts data about loading progress.  |
+| [set_ResourceLoadingCallback](../loadoptions/set_resourceloadingcallback/)(const System::SharedPtr\<Aspose::Words::Loading::IResourceLoadingCallback\>\&) | Setter for Aspose::Words::Loading::LoadOptions::get_ResourceLoadingCallback.  |
 | [set_SkipPdfImages](./set_skippdfimages/)(bool) | Sets the flag indicating whether images must be skipped while loading PDF document. Default is False.  |
-| [set_TempFolder](../loadoptions/set_tempfolder/)(const System::String &) | Setter for Aspose::Words::Loading::LoadOptions::get_TempFolder.  |
+| [set_TempFolder](../loadoptions/set_tempfolder/)(const System::String\&) | Setter for Aspose::Words::Loading::LoadOptions::get_TempFolder.  |
 | [set_UpdateDirtyFields](../loadoptions/set_updatedirtyfields/)(bool) | Setter for Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields.  |
-| [set_WarningCallback](../loadoptions/set_warningcallback/)(const System::SharedPtr< Aspose::Words::IWarningCallback > &) | Setter for Aspose::Words::Loading::LoadOptions::get_WarningCallback.  |
+| [set_WarningCallback](../loadoptions/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for Aspose::Words::Loading::LoadOptions::get_WarningCallback.  |

@@ -181,7 +181,7 @@ let generateTypeRepresentation (sourceType: Defs.TextWithRefs list) =
                              | Defs.TextWithRefs.Text text -> text
                              | Defs.TextWithRefs.Ref data -> data.Text
     let typeRepresentation = sourceType |> Seq.map mapFun |> String.concat ""
-    typeRepresentation
+    typeRepresentation.Replace("< ", "\\<").Replace(" >", "\\>").Replace(" &", "\\&")
 
 (*let createMethodEntry (folderName: string) (briefDescription: string) (methodDef: Defs.MethodDef) =
     let generateParameterList (dest: StringBuilder) (parameters: Defs.MethodParameterDef list) =

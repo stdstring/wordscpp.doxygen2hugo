@@ -33,7 +33,7 @@ Represents a Microsoft Word document field.
 | [set_IsDirty](./set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](./set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](./set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](./set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_Result](./set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
 | [Unlink](./unlink/)() | Performs the field unlink.  |
 | [Update](./update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](./update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

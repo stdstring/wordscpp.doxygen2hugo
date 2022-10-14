@@ -17,7 +17,7 @@ Defines formatting for a list level.
 | --- | --- |
 | [CreatePictureBullet](./createpicturebullet/)() | Creates picture bullet shape for the current list level.  |
 | [DeletePictureBullet](./deletepicturebullet/)() | Deletes picture bullet for the current list level.  |
-| [Equals](./equals/)(const System::SharedPtr< Aspose::Words::Lists::ListLevel > &) | Compares with the specified ListLevel.  |
+| [Equals](./equals/)(const System::SharedPtr\<Aspose::Words::Lists::ListLevel\>\&) | Compares with the specified ListLevel.  |
 | [get_Alignment](./get_alignment/)() const | Gets or sets the justification of the actual number of the list item.  |
 | [get_CustomNumberStyleFormat](./get_customnumberstyleformat/)() | Gets the custom number style format for this list level. For example: "a, ç, ĝ, ...".  |
 | [get_Font](./get_font/)() | Specifies character formatting used for the list label.  |
@@ -32,12 +32,12 @@ Defines formatting for a list level.
 | [get_TabPosition](./get_tabposition/)() const | Returns or sets the tab position (in points) for the list level.  |
 | [get_TextPosition](./get_textposition/)() const | Returns or sets the position (in points) for the second line of wrapping text for the list level.  |
 | [get_TrailingCharacter](./get_trailingcharacter/)() const | Returns or sets the character inserted after the number for the list level.  |
-| static [GetEffectiveValue](./geteffectivevalue/)(int32_t, Aspose::Words::NumberStyle, const System::String &) | Reports the string representation of the ListLevel object for the specified index of the list item. Parameters specify the NumberStyle and an optional format string used when Custom is specified.  |
+| static [GetEffectiveValue](./geteffectivevalue/)(int32_t, Aspose::Words::NumberStyle, const System::String\&) | Reports the string representation of the ListLevel object for the specified index of the list item. Parameters specify the NumberStyle and an optional format string used when Custom is specified.  |
 | [GetHashCode](./gethashcode/)() const override | Calculates hash code for this object.  |
 | [set_Alignment](./set_alignment/)(Aspose::Words::Lists::ListLevelAlignment) | Setter for Aspose::Words::Lists::ListLevel::get_Alignment.  |
 | [set_IsLegal](./set_islegal/)(bool) | Setter for Aspose::Words::Lists::ListLevel::get_IsLegal.  |
-| [set_LinkedStyle](./set_linkedstyle/)(const System::SharedPtr< Aspose::Words::Style > &) | Setter for Aspose::Words::Lists::ListLevel::get_LinkedStyle.  |
-| [set_NumberFormat](./set_numberformat/)(const System::String &) | Setter for Aspose::Words::Lists::ListLevel::get_NumberFormat.  |
+| [set_LinkedStyle](./set_linkedstyle/)(const System::SharedPtr\<Aspose::Words::Style\>\&) | Setter for Aspose::Words::Lists::ListLevel::get_LinkedStyle.  |
+| [set_NumberFormat](./set_numberformat/)(const System::String\&) | Setter for Aspose::Words::Lists::ListLevel::get_NumberFormat.  |
 | [set_NumberPosition](./set_numberposition/)(double) | Setter for Aspose::Words::Lists::ListLevel::get_NumberPosition.  |
 | [set_NumberStyle](./set_numberstyle/)(Aspose::Words::NumberStyle) | Setter for Aspose::Words::Lists::ListLevel::get_NumberStyle.  |
 | [set_RestartAfterLevel](./set_restartafterlevel/)(int32_t) | Setter for Aspose::Words::Lists::ListLevel::get_RestartAfterLevel.  |

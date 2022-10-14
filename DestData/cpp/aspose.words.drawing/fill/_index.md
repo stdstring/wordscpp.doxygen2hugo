@@ -47,9 +47,9 @@ Represents fill formatting for an object.
 | [set_TextureAlignment](./set_texturealignment/)(Aspose::Words::Drawing::TextureAlignment) | Setter for Aspose::Words::Drawing::Fill::get_TextureAlignment.  |
 | [set_Transparency](./set_transparency/)(double) | Sets the degree of transparency of the specified fill as a value between 0.0 (opaque) and 1.0 (clear).  |
 | [set_Visible](./set_visible/)(bool) | Setter for Aspose::Words::Drawing::Fill::get_Visible.  |
-| [SetImage](./setimage/)(const System::String &) | Changes the fill type to single image.  |
-| [SetImage](./setimage/)(const System::SharedPtr< System::IO::Stream > &) | Changes the fill type to single image.  |
-| [SetImage](./setimage/)(const System::ArrayPtr< uint8_t > &) | Changes the fill type to single image.  |
+| [SetImage](./setimage/)(const System::String\&) | Changes the fill type to single image.  |
+| [SetImage](./setimage/)(const System::SharedPtr\<System::IO::Stream\>\&) | Changes the fill type to single image.  |
+| [SetImage](./setimage/)(const System::ArrayPtr\<uint8_t\>\&) | Changes the fill type to single image.  |
 | [Solid](./solid/)() | Sets the fill to a uniform color.  |
 | [Solid](./solid/)(System::Drawing::Color) | Sets the fill to a specified uniform color.  |
 | [TwoColorGradient](./twocolorgradient/)(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant) | Sets the specified fill to a two-color gradient.  |

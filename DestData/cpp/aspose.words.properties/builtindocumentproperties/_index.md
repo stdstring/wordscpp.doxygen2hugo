@@ -16,7 +16,7 @@ A collection of built-in document properties.
 | Method | Description |
 | --- | --- |
 | [Clear](../documentpropertycollection/clear/)() | Removes all properties from the collection.  |
-| [Contains](../documentpropertycollection/contains/)(const System::String &) | Returns true if a property with the specified name exists in the collection.  |
+| [Contains](../documentpropertycollection/contains/)(const System::String\&) | Returns true if a property with the specified name exists in the collection.  |
 | [get_Author](./get_author/)() | Gets or sets the name of the document's author.  |
 | [get_Bytes](./get_bytes/)() | Represents an estimate of the number of bytes in the document.  |
 | [get_Category](./get_category/)() | Gets or sets the category of the document.  |
@@ -53,38 +53,38 @@ A collection of built-in document properties.
 | [GetEnumerator](../documentpropertycollection/getenumerator/)() override | Returns an enumerator object that can be used to iterate over all items in the collection.  |
 | [idx_get](./idx_get/)(System::String) override | Returns a DocumentProperty object by the name of the property.  |
 | [idx_get](../documentpropertycollection/idx_get/)(int32_t) | Returns a DocumentProperty object by index.  |
-| [IndexOf](../documentpropertycollection/indexof/)(const System::String &) | Gets the index of a property by name.  |
-| [Remove](../documentpropertycollection/remove/)(const System::String &) | Removes a property with the specified name from the collection.  |
+| [IndexOf](../documentpropertycollection/indexof/)(const System::String\&) | Gets the index of a property by name.  |
+| [Remove](../documentpropertycollection/remove/)(const System::String\&) | Removes a property with the specified name from the collection.  |
 | [RemoveAt](../documentpropertycollection/removeat/)(int32_t) | Removes a property at the specified index.  |
-| [set_Author](./set_author/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Author.  |
+| [set_Author](./set_author/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Author.  |
 | [set_Bytes](./set_bytes/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes.  |
-| [set_Category](./set_category/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Category.  |
+| [set_Category](./set_category/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Category.  |
 | [set_Characters](./set_characters/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Characters.  |
 | [set_CharactersWithSpaces](./set_characterswithspaces/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_CharactersWithSpaces.  |
-| [set_Comments](./set_comments/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments.  |
-| [set_Company](./set_company/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Company.  |
-| [set_ContentStatus](./set_contentstatus/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus.  |
-| [set_ContentType](./set_contenttype/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType.  |
+| [set_Comments](./set_comments/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments.  |
+| [set_Company](./set_company/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Company.  |
+| [set_ContentStatus](./set_contentstatus/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus.  |
+| [set_ContentType](./set_contenttype/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType.  |
 | [set_CreatedTime](./set_createdtime/)(System::DateTime) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime.  |
-| [set_HeadingPairs](./set_headingpairs/)(const System::ArrayPtr< System::SharedPtr< System::Object > > &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs.  |
-| [set_HyperlinkBase](./set_hyperlinkbase/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase.  |
-| [set_Keywords](./set_keywords/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords.  |
+| [set_HeadingPairs](./set_headingpairs/)(const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs.  |
+| [set_HyperlinkBase](./set_hyperlinkbase/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase.  |
+| [set_Keywords](./set_keywords/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords.  |
 | [set_LastPrinted](./set_lastprinted/)(System::DateTime) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LastPrinted.  |
-| [set_LastSavedBy](./set_lastsavedby/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy.  |
+| [set_LastSavedBy](./set_lastsavedby/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy.  |
 | [set_LastSavedTime](./set_lastsavedtime/)(System::DateTime) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedTime.  |
 | [set_Lines](./set_lines/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines.  |
 | [set_LinksUpToDate](./set_linksuptodate/)(bool) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LinksUpToDate.  |
-| [set_Manager](./set_manager/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Manager.  |
-| [set_NameOfApplication](./set_nameofapplication/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfApplication.  |
+| [set_Manager](./set_manager/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Manager.  |
+| [set_NameOfApplication](./set_nameofapplication/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfApplication.  |
 | [set_Pages](./set_pages/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Pages.  |
 | [set_Paragraphs](./set_paragraphs/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Paragraphs.  |
 | [set_RevisionNumber](./set_revisionnumber/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber.  |
 | [set_Security](./set_security/)(Aspose::Words::Properties::DocumentSecurity) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Security.  |
-| [set_Subject](./set_subject/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject.  |
-| [set_Template](./set_template/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Template.  |
-| [set_Thumbnail](./set_thumbnail/)(const System::ArrayPtr< uint8_t > &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail.  |
-| [set_Title](./set_title/)(const System::String &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Title.  |
-| [set_TitlesOfParts](./set_titlesofparts/)(const System::ArrayPtr< System::String > &) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts.  |
+| [set_Subject](./set_subject/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject.  |
+| [set_Template](./set_template/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Template.  |
+| [set_Thumbnail](./set_thumbnail/)(const System::ArrayPtr\<uint8_t\>\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail.  |
+| [set_Title](./set_title/)(const System::String\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Title.  |
+| [set_TitlesOfParts](./set_titlesofparts/)(const System::ArrayPtr\<System::String\>\&) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts.  |
 | [set_TotalEditingTime](./set_totaleditingtime/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TotalEditingTime.  |
 | [set_Version](./set_version/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Version.  |
 | [set_Words](./set_words/)(int32_t) | Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Words.  |

@@ -15,7 +15,7 @@ Represents a single form field.
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
 | [Clone](../../aspose.words/node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_CalculateOnExit](./get_calculateonexit/)() | True if references to the specified form field are automatically updated whenever the field is exited.  |
 | [get_CheckBoxSize](./get_checkboxsize/)() | Gets or sets the size of the checkbox in points. Has effect only when IsCheckBoxExactSize is true.  |
@@ -56,9 +56,9 @@ Represents a single form field.
 | [GetAncestor](../../aspose.words/node/getancestor/)(Aspose::Words::NodeType) | Gets the first ancestor of the specified NodeType.  |
 | [GetAncestorOf](../../aspose.words/node/getancestorof/)() |  |
 | [GetText](../../aspose.words/specialchar/gettext/)() override | Gets the special character that this node represents.  |
-| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../../aspose.words/node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../../aspose.words/node/remove/)() | Removes itself from the parent.  |
 | [RemoveField](./removefield/)() | Removes the complete form field, not just the form field special character.  |
 | [set_CalculateOnExit](./set_calculateonexit/)(bool) | Setter for Aspose::Words::Fields::FormField::get_CalculateOnExit.  |
@@ -68,19 +68,19 @@ Represents a single form field.
 | [set_Default](./set_default/)(bool) | Setter for Aspose::Words::Fields::FormField::get_Default.  |
 | [set_DropDownSelectedIndex](./set_dropdownselectedindex/)(int32_t) | Setter for Aspose::Words::Fields::FormField::get_DropDownSelectedIndex.  |
 | [set_Enabled](./set_enabled/)(bool) | Setter for Aspose::Words::Fields::FormField::get_Enabled.  |
-| [set_EntryMacro](./set_entrymacro/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_EntryMacro.  |
-| [set_ExitMacro](./set_exitmacro/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_ExitMacro.  |
-| [set_HelpText](./set_helptext/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_HelpText.  |
+| [set_EntryMacro](./set_entrymacro/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_EntryMacro.  |
+| [set_ExitMacro](./set_exitmacro/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_ExitMacro.  |
+| [set_HelpText](./set_helptext/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_HelpText.  |
 | [set_IsCheckBoxExactSize](./set_ischeckboxexactsize/)(bool) | Setter for Aspose::Words::Fields::FormField::get_IsCheckBoxExactSize.  |
 | [set_MaxLength](./set_maxlength/)(int32_t) | Setter for Aspose::Words::Fields::FormField::get_MaxLength.  |
-| [set_Name](./set_name/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_Name.  |
+| [set_Name](./set_name/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_Name.  |
 | [set_OwnHelp](./set_ownhelp/)(bool) | Setter for Aspose::Words::Fields::FormField::get_OwnHelp.  |
 | [set_OwnStatus](./set_ownstatus/)(bool) | Setter for Aspose::Words::Fields::FormField::get_OwnStatus.  |
-| [set_Result](./set_result/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_Result.  |
-| [set_StatusText](./set_statustext/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_StatusText.  |
-| [set_TextInputDefault](./set_textinputdefault/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_TextInputDefault.  |
-| [set_TextInputFormat](./set_textinputformat/)(const System::String &) | Setter for Aspose::Words::Fields::FormField::get_TextInputFormat.  |
+| [set_Result](./set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_Result.  |
+| [set_StatusText](./set_statustext/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_StatusText.  |
+| [set_TextInputDefault](./set_textinputdefault/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_TextInputDefault.  |
+| [set_TextInputFormat](./set_textinputformat/)(const System::String\&) | Setter for Aspose::Words::Fields::FormField::get_TextInputFormat.  |
 | [set_TextInputType](./set_textinputtype/)(Aspose::Words::Fields::TextFormFieldType) | Setter for Aspose::Words::Fields::FormField::get_TextInputType.  |
-| [SetTextInputValue](./settextinputvalue/)(const System::SharedPtr< System::Object > &) | Applies the text format specified in TextInputFormat and stores the value in Result.  |
+| [SetTextInputValue](./settextinputvalue/)(const System::SharedPtr\<System::Object\>\&) | Applies the text format specified in TextInputFormat and stores the value in Result.  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

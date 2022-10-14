@@ -16,8 +16,8 @@ Contains shading attributes for an object.
 | Method | Description |
 | --- | --- |
 | [ClearFormatting](./clearformatting/)() | Removes shading from the object.  |
-| [Equals](./equals/)(const System::SharedPtr< Aspose::Words::Shading > &) | Determines whether the specified Shading is equal in value to the current Shading.  |
-| [Equals](./equals/)(System::SharedPtr< System::Object >) override | Determines whether the specified object is equal in value to the current object.  |
+| [Equals](./equals/)(const System::SharedPtr\<Aspose::Words::Shading\>\&) | Determines whether the specified Shading is equal in value to the current Shading.  |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines whether the specified object is equal in value to the current object.  |
 | [get_BackgroundPatternColor](./get_backgroundpatterncolor/)() | Gets or sets the color that's applied to the background of the Shading object.  |
 | [get_ForegroundPatternColor](./get_foregroundpatterncolor/)() | Gets or sets the color that's applied to the foreground of the Shading object.  |
 | [get_Texture](./get_texture/)() | Gets or sets the shading texture.  |

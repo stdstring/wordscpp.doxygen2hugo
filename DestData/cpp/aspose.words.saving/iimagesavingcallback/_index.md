@@ -15,4 +15,4 @@ Implement this interface if you want to control how Aspose.Words saves images wh
 
 | Method | Description |
 | --- | --- |
-| virtual [ImageSaving](./imagesaving/)(System::SharedPtr< Aspose::Words::Saving::ImageSavingArgs >) | Called when Aspose.Words saves an image to HTML.  |
+| virtual [ImageSaving](./imagesaving/)(System::SharedPtr\<Aspose::Words::Saving::ImageSavingArgs\>) | Called when Aspose.Words saves an image to HTML.  |

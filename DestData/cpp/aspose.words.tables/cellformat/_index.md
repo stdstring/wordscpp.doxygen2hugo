@@ -35,7 +35,7 @@ Represents all formatting for a table cell.
 | [set_HorizontalMerge](./set_horizontalmerge/)(Aspose::Words::Tables::CellMerge) | Setter for Aspose::Words::Tables::CellFormat::get_HorizontalMerge.  |
 | [set_LeftPadding](./set_leftpadding/)(double) | Setter for Aspose::Words::Tables::CellFormat::get_LeftPadding.  |
 | [set_Orientation](./set_orientation/)(Aspose::Words::TextOrientation) | Setter for Aspose::Words::Tables::CellFormat::get_Orientation.  |
-| [set_PreferredWidth](./set_preferredwidth/)(const System::SharedPtr< Aspose::Words::Tables::PreferredWidth > &) | Setter for Aspose::Words::Tables::CellFormat::get_PreferredWidth.  |
+| [set_PreferredWidth](./set_preferredwidth/)(const System::SharedPtr\<Aspose::Words::Tables::PreferredWidth\>\&) | Setter for Aspose::Words::Tables::CellFormat::get_PreferredWidth.  |
 | [set_RightPadding](./set_rightpadding/)(double) | Setter for Aspose::Words::Tables::CellFormat::get_RightPadding.  |
 | [set_TopPadding](./set_toppadding/)(double) | Setter for Aspose::Words::Tables::CellFormat::get_TopPadding.  |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Words::Tables::CellVerticalAlignment) | Setter for Aspose::Words::Tables::CellFormat::get_VerticalAlignment.  |

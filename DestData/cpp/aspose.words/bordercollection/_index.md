@@ -16,7 +16,7 @@ A collection of Border objects.
 | Method | Description |
 | --- | --- |
 | [ClearFormatting](./clearformatting/)() | Removes all borders of an object.  |
-| [Equals](./equals/)(const System::SharedPtr< Aspose::Words::BorderCollection > &) | Compares collections of borders.  |
+| [Equals](./equals/)(const System::SharedPtr\<Aspose::Words::BorderCollection\>\&) | Compares collections of borders.  |
 | [get_Bottom](./get_bottom/)() | Gets the bottom border.  |
 | [get_Color](./get_color/)() | Gets or sets the border color.  |
 | [get_Count](./get_count/)() | Gets the number of borders in the collection.  |

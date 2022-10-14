@@ -24,4 +24,4 @@ Represents information about a single record within an external data source that
 | [set_Active](./set_active/)(bool) | Specifies whether the record from the data source shall be imported into a document when the mail merge is performed. The default value is **true**.  |
 | [set_Column](./set_column/)(int32_t) | Specifies the column within the data source that contains unique data for the current record. The default value is 0.  |
 | [set_Hash](./set_hash/)(int32_t) | Represents the hash code for this record. Sometimes Microsoft Word uses Hash of a whole record instead of a UniqueTag value. The default value is 0.  |
-| [set_UniqueTag](./set_uniquetag/)(const System::ArrayPtr< uint8_t > &) | Specifies the contents of a given record in the column containing unique data. The default value is **null**.  |
+| [set_UniqueTag](./set_uniquetag/)(const System::ArrayPtr\<uint8_t\>\&) | Specifies the contents of a given record in the column containing unique data. The default value is **null**.  |

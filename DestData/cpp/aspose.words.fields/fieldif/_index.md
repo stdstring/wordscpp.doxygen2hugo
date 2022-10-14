@@ -38,15 +38,15 @@ Implements the IF field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_ComparisonOperator](./set_comparisonoperator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIf::get_ComparisonOperator.  |
-| [set_FalseText](./set_falsetext/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIf::get_FalseText.  |
+| [set_ComparisonOperator](./set_comparisonoperator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIf::get_ComparisonOperator.  |
+| [set_FalseText](./set_falsetext/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIf::get_FalseText.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
-| [set_LeftExpression](./set_leftexpression/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIf::get_LeftExpression.  |
+| [set_LeftExpression](./set_leftexpression/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIf::get_LeftExpression.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_RightExpression](./set_rightexpression/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIf::get_RightExpression.  |
-| [set_TrueText](./set_truetext/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIf::get_TrueText.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_RightExpression](./set_rightexpression/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIf::get_RightExpression.  |
+| [set_TrueText](./set_truetext/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIf::get_TrueText.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

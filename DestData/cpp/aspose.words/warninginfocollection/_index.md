@@ -29,5 +29,5 @@ Represents a typed collection of WarningInfo objects.
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
-| [Warning](./warning/)(System::SharedPtr< Aspose::Words::WarningInfo >) override | Implements the IWarningCallback interface. Adds a warning to this collection.  |
+| [Warning](./warning/)(System::SharedPtr\<Aspose::Words::WarningInfo\>) override | Implements the IWarningCallback interface. Adds a warning to this collection.  |
 | [WarningInfoCollection](./warninginfocollection/)() |  |

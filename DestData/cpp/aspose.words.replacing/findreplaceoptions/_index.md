@@ -17,8 +17,8 @@ Specifies options for find/replace operations.
 | --- | --- |
 | [FindReplaceOptions](./findreplaceoptions/)() |  |
 | [FindReplaceOptions](./findreplaceoptions/)(Aspose::Words::Replacing::FindReplaceDirection) |  |
-| [FindReplaceOptions](./findreplaceoptions/)(const System::SharedPtr< Aspose::Words::Replacing::IReplacingCallback > &) |  |
-| [FindReplaceOptions](./findreplaceoptions/)(Aspose::Words::Replacing::FindReplaceDirection, const System::SharedPtr< Aspose::Words::Replacing::IReplacingCallback > &) |  |
+| [FindReplaceOptions](./findreplaceoptions/)(const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) |  |
+| [FindReplaceOptions](./findreplaceoptions/)(Aspose::Words::Replacing::FindReplaceDirection, const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) |  |
 | [get_ApplyFont](./get_applyfont/)() const | Text formatting applied to new content.  |
 | [get_ApplyParagraphFormat](./get_applyparagraphformat/)() const | Paragraph formatting applied to new content.  |
 | [get_Direction](./get_direction/)() const | Selects direction for replace. Default value is Forward.  |
@@ -43,7 +43,7 @@ Specifies options for find/replace operations.
 | [set_IgnoreInserted](./set_ignoreinserted/)(bool) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreInserted.  |
 | [set_LegacyMode](./set_legacymode/)(bool) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode.  |
 | [set_MatchCase](./set_matchcase/)(bool) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase.  |
-| [set_ReplacingCallback](./set_replacingcallback/)(const System::SharedPtr< Aspose::Words::Replacing::IReplacingCallback > &) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback.  |
+| [set_ReplacingCallback](./set_replacingcallback/)(const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback.  |
 | [set_SmartParagraphBreakReplacement](./set_smartparagraphbreakreplacement/)(bool) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement.  |
 | [set_UseLegacyOrder](./set_uselegacyorder/)(bool) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder.  |
 | [set_UseSubstitutions](./set_usesubstitutions/)(bool) | Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions.  |

@@ -36,16 +36,16 @@ Implements the TA field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_EntryCategory](./set_entrycategory/)(const System::String &) | Setter for Aspose::Words::Fields::FieldTA::get_EntryCategory.  |
+| [set_EntryCategory](./set_entrycategory/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldTA::get_EntryCategory.  |
 | [set_IsBold](./set_isbold/)(bool) | Setter for Aspose::Words::Fields::FieldTA::get_IsBold.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsItalic](./set_isitalic/)(bool) | Setter for Aspose::Words::Fields::FieldTA::get_IsItalic.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_LongCitation](./set_longcitation/)(const System::String &) | Setter for Aspose::Words::Fields::FieldTA::get_LongCitation.  |
-| [set_PageRangeBookmarkName](./set_pagerangebookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_ShortCitation](./set_shortcitation/)(const System::String &) | Setter for Aspose::Words::Fields::FieldTA::get_ShortCitation.  |
+| [set_LongCitation](./set_longcitation/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldTA::get_LongCitation.  |
+| [set_PageRangeBookmarkName](./set_pagerangebookmarkname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_ShortCitation](./set_shortcitation/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldTA::get_ShortCitation.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

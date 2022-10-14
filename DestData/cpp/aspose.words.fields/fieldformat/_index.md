@@ -18,5 +18,5 @@ Provides typed access to field's numeric, date and time, and general formatting.
 | [get_DateTimeFormat](./get_datetimeformat/)() | Gets or sets a formatting that is applied to a date and time field result. Corresponds to the \@ switch.  |
 | [get_GeneralFormats](./get_generalformats/)() | Gets a collection of general formats that are applied to a numeric, text or any field result. Corresponds to the \* switches.  |
 | [get_NumericFormat](./get_numericformat/)() | Gets or sets a formatting that is applied to a numeric field result. Corresponds to the \# switch.  |
-| [set_DateTimeFormat](./set_datetimeformat/)(const System::String &) | Setter for Aspose::Words::Fields::FieldFormat::get_DateTimeFormat.  |
-| [set_NumericFormat](./set_numericformat/)(const System::String &) | Setter for Aspose::Words::Fields::FieldFormat::get_NumericFormat.  |
+| [set_DateTimeFormat](./set_datetimeformat/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldFormat::get_DateTimeFormat.  |
+| [set_NumericFormat](./set_numericformat/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldFormat::get_NumericFormat.  |

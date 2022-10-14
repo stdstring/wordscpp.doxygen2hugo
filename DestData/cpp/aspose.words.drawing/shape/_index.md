@@ -15,9 +15,9 @@ Represents an object in the drawing layer, such as an AutoShape, textbox, freefo
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
 | [AdjustWithEffects](../shapebase/adjustwitheffects/)(System::Drawing::RectangleF) | Adds to the source rectangle values of the effect extent and returns the final rectangle.  |
-| [AppendChild](../../aspose.words/compositenode/appendchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the end of the list of child nodes for this node.  |
+| [AppendChild](../../aspose.words/compositenode/appendchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the end of the list of child nodes for this node.  |
 | [Clone](../../aspose.words/node/clone/)(bool) | Creates a duplicate of the node.  |
 | [get_AllowOverlap](../shapebase/get_allowoverlap/)() | Gets or sets a value that specifies whether this shape can overlap other shapes.  |
 | [get_AlternativeText](../shapebase/get_alternativetext/)() | Defines alternative text to be displayed instead of a graphic.  |
@@ -115,22 +115,22 @@ Represents an object in the drawing layer, such as an AutoShape, textbox, freefo
 | [GetEnumerator](../../aspose.words/compositenode/getenumerator/)() override | Provides support for the for each style iteration over the child nodes of this node.  |
 | [GetShapeRenderer](../shapebase/getshaperenderer/)() | Creates and returns an object that can be used to render this shape into an image.  |
 | [GetText](../../aspose.words/compositenode/gettext/)() override | Gets the text of this node and of all its children.  |
-| [IndexOf](../../aspose.words/compositenode/indexof/)(const System::SharedPtr< Aspose::Words::Node > &) | Returns the index of the specified child node in the child node array.  |
-| [InsertAfter](../../aspose.words/compositenode/insertafter/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately after the specified reference node.  |
-| [InsertBefore](../../aspose.words/compositenode/insertbefore/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately before the specified reference node.  |
+| [IndexOf](../../aspose.words/compositenode/indexof/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Returns the index of the specified child node in the child node array.  |
+| [InsertAfter](../../aspose.words/compositenode/insertafter/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately after the specified reference node.  |
+| [InsertBefore](../../aspose.words/compositenode/insertbefore/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately before the specified reference node.  |
 | [LocalToParent](../shapebase/localtoparent/)(System::Drawing::PointF) | Converts a value from the local coordinate space into the coordinate space of the parent shape.  |
-| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [NextPreOrder](../../aspose.words/node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../../aspose.words/node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PrependChild](../../aspose.words/compositenode/prependchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the beginning of the list of child nodes for this node.  |
-| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PrependChild](../../aspose.words/compositenode/prependchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the beginning of the list of child nodes for this node.  |
+| [PreviousPreOrder](../../aspose.words/node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../../aspose.words/node/remove/)() | Removes itself from the parent.  |
 | [RemoveAllChildren](../../aspose.words/compositenode/removeallchildren/)() | Removes all the child nodes of the current node.  |
-| [RemoveChild](../../aspose.words/compositenode/removechild/)(const System::SharedPtr< Aspose::Words::Node > &) | Removes the specified child node.  |
+| [RemoveChild](../../aspose.words/compositenode/removechild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the specified child node.  |
 | [RemoveSmartTags](../../aspose.words/compositenode/removesmarttags/)() | Removes all SmartTag descendant nodes of the current node.  |
-| [SelectNodes](../../aspose.words/compositenode/selectnodes/)(const System::String &) | Selects a list of nodes matching the XPath expression.  |
-| [SelectSingleNode](../../aspose.words/compositenode/selectsinglenode/)(const System::String &) | Selects the first Node that matches the XPath expression.  |
+| [SelectNodes](../../aspose.words/compositenode/selectnodes/)(const System::String\&) | Selects a list of nodes matching the XPath expression.  |
+| [SelectSingleNode](../../aspose.words/compositenode/selectsinglenode/)(const System::String\&) | Selects the first Node that matches the XPath expression.  |
 | [set_AllowOverlap](../shapebase/set_allowoverlap/)(bool) | Setter for Aspose::Words::Drawing::ShapeBase::get_AllowOverlap.  |
-| [set_AlternativeText](../shapebase/set_alternativetext/)(const System::String &) | Setter for Aspose::Words::Drawing::ShapeBase::get_AlternativeText.  |
+| [set_AlternativeText](../shapebase/set_alternativetext/)(const System::String\&) | Setter for Aspose::Words::Drawing::ShapeBase::get_AlternativeText.  |
 | [set_AnchorLocked](../shapebase/set_anchorlocked/)(bool) | Setter for Aspose::Words::Drawing::ShapeBase::get_AnchorLocked.  |
 | [set_AspectRatioLocked](../shapebase/set_aspectratiolocked/)(bool) | Setter for Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked.  |
 | [set_BehindText](../shapebase/set_behindtext/)(bool) | Setter for Aspose::Words::Drawing::ShapeBase::get_BehindText.  |
@@ -147,20 +147,20 @@ Represents an object in the drawing layer, such as an AutoShape, textbox, freefo
 | [set_FlipOrientation](../shapebase/set_fliporientation/)(Aspose::Words::Drawing::FlipOrientation) | Setter for Aspose::Words::Drawing::ShapeBase::get_FlipOrientation.  |
 | [set_Height](../shapebase/set_height/)(double) | Setter for Aspose::Words::Drawing::ShapeBase::get_Height.  |
 | [set_HorizontalAlignment](../shapebase/set_horizontalalignment/)(Aspose::Words::Drawing::HorizontalAlignment) | Setter for Aspose::Words::Drawing::ShapeBase::get_HorizontalAlignment.  |
-| [set_HRef](../shapebase/set_href/)(const System::String &) | Setter for Aspose::Words::Drawing::ShapeBase::get_HRef.  |
+| [set_HRef](../shapebase/set_href/)(const System::String\&) | Setter for Aspose::Words::Drawing::ShapeBase::get_HRef.  |
 | [set_IsDecorative](../shapebase/set_isdecorative/)(bool) | Setter for Aspose::Words::Drawing::ShapeBase::get_IsDecorative.  |
 | [set_IsLayoutInCell](../shapebase/set_islayoutincell/)(bool) | Setter for Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell.  |
 | [set_Left](../shapebase/set_left/)(double) | Setter for Aspose::Words::Drawing::ShapeBase::get_Left.  |
-| [set_Name](../shapebase/set_name/)(const System::String &) | Setter for Aspose::Words::Drawing::ShapeBase::get_Name.  |
+| [set_Name](../shapebase/set_name/)(const System::String\&) | Setter for Aspose::Words::Drawing::ShapeBase::get_Name.  |
 | [set_RelativeHorizontalPosition](../shapebase/set_relativehorizontalposition/)(Aspose::Words::Drawing::RelativeHorizontalPosition) | Setter for Aspose::Words::Drawing::ShapeBase::get_RelativeHorizontalPosition.  |
 | [set_RelativeVerticalPosition](../shapebase/set_relativeverticalposition/)(Aspose::Words::Drawing::RelativeVerticalPosition) | Setter for Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition.  |
 | [set_Rotation](../shapebase/set_rotation/)(double) | Setter for Aspose::Words::Drawing::ShapeBase::get_Rotation.  |
-| [set_ScreenTip](../shapebase/set_screentip/)(const System::String &) | Setter for Aspose::Words::Drawing::ShapeBase::get_ScreenTip.  |
+| [set_ScreenTip](../shapebase/set_screentip/)(const System::String\&) | Setter for Aspose::Words::Drawing::ShapeBase::get_ScreenTip.  |
 | [set_StrokeColor](./set_strokecolor/)(System::Drawing::Color) | Setter for Aspose::Words::Drawing::Shape::get_StrokeColor.  |
 | [set_Stroked](./set_stroked/)(bool) | Setter for Aspose::Words::Drawing::Shape::get_Stroked.  |
 | [set_StrokeWeight](./set_strokeweight/)(double) | Setter for Aspose::Words::Drawing::Shape::get_StrokeWeight.  |
-| [set_Target](../shapebase/set_target/)(const System::String &) | Setter for Aspose::Words::Drawing::ShapeBase::get_Target.  |
-| [set_Title](../shapebase/set_title/)(const System::String &) | Setter for Aspose::Words::Drawing::ShapeBase::get_Title.  |
+| [set_Target](../shapebase/set_target/)(const System::String\&) | Setter for Aspose::Words::Drawing::ShapeBase::get_Target.  |
+| [set_Title](../shapebase/set_title/)(const System::String\&) | Setter for Aspose::Words::Drawing::ShapeBase::get_Title.  |
 | [set_Top](../shapebase/set_top/)(double) | Setter for Aspose::Words::Drawing::ShapeBase::get_Top.  |
 | [set_VerticalAlignment](../shapebase/set_verticalalignment/)(Aspose::Words::Drawing::VerticalAlignment) | Setter for Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment.  |
 | [set_Width](../shapebase/set_width/)(double) | Setter for Aspose::Words::Drawing::ShapeBase::get_Width.  |
@@ -168,7 +168,7 @@ Represents an object in the drawing layer, such as an AutoShape, textbox, freefo
 | [set_WrapType](../shapebase/set_wraptype/)(Aspose::Words::Drawing::WrapType) | Setter for Aspose::Words::Drawing::ShapeBase::get_WrapType.  |
 | [set_ZOrder](../shapebase/set_zorder/)(int32_t) | Setter for Aspose::Words::Drawing::ShapeBase::get_ZOrder.  |
 | [SetTemplateWeakPtr](../../aspose.words/compositenode/settemplateweakptr/)(uint32_t) override |  |
-| [Shape](./shape/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, Aspose::Words::Drawing::ShapeType) | Creates a new shape object.  |
+| [Shape](./shape/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::Drawing::ShapeType) | Creates a new shape object.  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |
 | [UpdateSmartArtDrawing](./updatesmartartdrawing/)() | Updates SmartArt pre-rendered drawing by using Aspose.Words's SmartArt cold rendering engine.  |

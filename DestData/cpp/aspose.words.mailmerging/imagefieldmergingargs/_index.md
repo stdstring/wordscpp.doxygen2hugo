@@ -28,11 +28,11 @@ Provides data for the ImageFieldMerging() event.
 | [get_RecordIndex](../fieldmergingargsbase/get_recordindex/)() const | Gets the zero based index of the record that is being merged.  |
 | [get_Shape](./get_shape/)() const | Specifies the shape that the mail merge engine must insert into the document.  |
 | [get_TableName](../fieldmergingargsbase/get_tablename/)() const | Gets the name of the data table for the current merge operation or empty string if the name is not available.  |
-| [set_FieldValue](../fieldmergingargsbase/set_fieldvalue/)(const System::SharedPtr< System::Object > &) | Sets the value of the field from the data source.  |
-| [set_Image](./set_image/)(const System::SharedPtr< System::Drawing::Image > &) | Specifies the image that the mail merge engine must insert into the document.  |
-| [set_ImageFileName](./set_imagefilename/)(const System::String &) | Sets the file name of the image that the mail merge engine must insert into the document.  |
-| [set_ImageHeight](./set_imageheight/)(const System::SharedPtr< Aspose::Words::Fields::MergeFieldImageDimension > &) | Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight.  |
-| [set_ImageStream](./set_imagestream/)(const System::SharedPtr< System::IO::Stream > &) | Specifies the stream for the mail merge engine to read an image from.  |
-| [set_ImageStream](./set_imagestream/)(std::basic_istream< CharType, Traits > &) |  |
-| [set_ImageWidth](./set_imagewidth/)(const System::SharedPtr< Aspose::Words::Fields::MergeFieldImageDimension > &) | Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth.  |
-| [set_Shape](./set_shape/)(const System::SharedPtr< Aspose::Words::Drawing::Shape > &) | Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape.  |
+| [set_FieldValue](../fieldmergingargsbase/set_fieldvalue/)(const System::SharedPtr\<System::Object\>\&) | Sets the value of the field from the data source.  |
+| [set_Image](./set_image/)(const System::SharedPtr\<System::Drawing::Image\>\&) | Specifies the image that the mail merge engine must insert into the document.  |
+| [set_ImageFileName](./set_imagefilename/)(const System::String\&) | Sets the file name of the image that the mail merge engine must insert into the document.  |
+| [set_ImageHeight](./set_imageheight/)(const System::SharedPtr\<Aspose::Words::Fields::MergeFieldImageDimension\>\&) | Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight.  |
+| [set_ImageStream](./set_imagestream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Specifies the stream for the mail merge engine to read an image from.  |
+| [set_ImageStream](./set_imagestream/)(std::basic_istream\<CharType, Traits\>\&) |  |
+| [set_ImageWidth](./set_imagewidth/)(const System::SharedPtr\<Aspose::Words::Fields::MergeFieldImageDimension\>\&) | Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth.  |
+| [set_Shape](./set_shape/)(const System::SharedPtr\<Aspose::Words::Drawing::Shape\>\&) | Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape.  |

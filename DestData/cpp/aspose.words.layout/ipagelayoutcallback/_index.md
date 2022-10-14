@@ -15,4 +15,4 @@ Implement this interface if you want to have your own custom method called durin
 
 | Method | Description |
 | --- | --- |
-| virtual [Notify](./notify/)(System::SharedPtr< Aspose::Words::Layout::PageLayoutCallbackArgs >) | This is called to notify of layout build and rendering progress.  |
+| virtual [Notify](./notify/)(System::SharedPtr\<Aspose::Words::Layout::PageLayoutCallbackArgs\>) | This is called to notify of layout build and rendering progress.  |

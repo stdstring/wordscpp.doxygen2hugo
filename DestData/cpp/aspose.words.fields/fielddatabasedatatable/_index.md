@@ -15,7 +15,7 @@ Provides data for the FieldDatabase field result.
 
 | Method | Description |
 | --- | --- |
-| static [CreateFrom](./createfrom/)(const System::SharedPtr< System::Data::DataTable > &) | Initializes a new instance of the FieldDatabaseDataTable class from the DataTable instance.  |
-| [FieldDatabaseDataTable](./fielddatabasedatatable/)(const System::ArrayPtr< System::String > &) | Initializes a new instance of the FieldDatabaseDataTable class.  |
+| static [CreateFrom](./createfrom/)(const System::SharedPtr\<System::Data::DataTable\>\&) | Initializes a new instance of the FieldDatabaseDataTable class from the DataTable instance.  |
+| [FieldDatabaseDataTable](./fielddatabasedatatable/)(const System::ArrayPtr\<System::String\>\&) | Initializes a new instance of the FieldDatabaseDataTable class.  |
 | [get_ColumnNames](./get_columnnames/)() const | Gets columns that belong to this table.  |
 | [get_Rows](./get_rows/)() const | Gets rows that belong to this table.  |

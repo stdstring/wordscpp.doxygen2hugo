@@ -15,4 +15,4 @@ Implement this interface if you want to have your own custom method called to ca
 
 | Method | Description |
 | --- | --- |
-| virtual [Warning](./warning/)(System::SharedPtr< Aspose::Words::WarningInfo >) | Aspose.Words invokes this method when it encounters some issue during document loading or saving that might result in loss of formatting or data fidelity.  |
+| virtual [Warning](./warning/)(System::SharedPtr\<Aspose::Words::WarningInfo\>) | Aspose.Words invokes this method when it encounters some issue during document loading or saving that might result in loss of formatting or data fidelity.  |

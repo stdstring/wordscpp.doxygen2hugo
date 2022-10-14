@@ -26,9 +26,9 @@ Provides data for the FontSaving() event.
 | [get_KeepFontStreamOpen](./get_keepfontstreamopen/)() const | Specifies whether Aspose.Words should keep the stream open or close it after saving a font.  |
 | [get_OriginalFileName](./get_originalfilename/)() const | Gets the original font file name with an extension.  |
 | [get_OriginalFileSize](./get_originalfilesize/)() const | Gets the original font file size.  |
-| [set_FontFileName](./set_fontfilename/)(const System::String &) | Setter for Aspose::Words::Saving::FontSavingArgs::get_FontFileName.  |
-| [set_FontStream](./set_fontstream/)(const System::SharedPtr< System::IO::Stream > &) | Setter for Aspose::Words::Saving::FontSavingArgs::get_FontStream.  |
-| [set_FontStream](./set_fontstream/)(std::basic_ostream< CharType, Traits > &) |  |
+| [set_FontFileName](./set_fontfilename/)(const System::String\&) | Setter for Aspose::Words::Saving::FontSavingArgs::get_FontFileName.  |
+| [set_FontStream](./set_fontstream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Setter for Aspose::Words::Saving::FontSavingArgs::get_FontStream.  |
+| [set_FontStream](./set_fontstream/)(std::basic_ostream\<CharType, Traits\>\&) |  |
 | [set_IsExportNeeded](./set_isexportneeded/)(bool) | Setter for Aspose::Words::Saving::FontSavingArgs::get_IsExportNeeded.  |
 | [set_IsSubsettingNeeded](./set_issubsettingneeded/)(bool) | Setter for Aspose::Words::Saving::FontSavingArgs::get_IsSubsettingNeeded.  |
 | [set_KeepFontStreamOpen](./set_keepfontstreamopen/)(bool) | Setter for Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen.  |

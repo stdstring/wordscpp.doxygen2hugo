@@ -16,8 +16,8 @@ Represents a border of an object.
 | Method | Description |
 | --- | --- |
 | [ClearFormatting](./clearformatting/)() | Resets border properties to default values.  |
-| [Equals](./equals/)(const System::SharedPtr< Aspose::Words::Border > &) | Determines whether the specified border is equal in value to the current border.  |
-| [Equals](./equals/)(System::SharedPtr< System::Object >) override | Determines whether the specified object is equal in value to the current object.  |
+| [Equals](./equals/)(const System::SharedPtr\<Aspose::Words::Border\>\&) | Determines whether the specified border is equal in value to the current border.  |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines whether the specified object is equal in value to the current object.  |
 | [get_Color](./get_color/)() | Gets or sets the border color.  |
 | [get_DistanceFromText](./get_distancefromtext/)() | Gets or sets distance of the border from text or from the page edge in points.  |
 | [get_IsVisible](./get_isvisible/)() | Returns true if the LineStyle is not LineStyle.None.  |

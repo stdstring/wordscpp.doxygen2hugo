@@ -40,20 +40,20 @@ Implements the CITATION field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_AnotherSourceTag](./set_anothersourcetag/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag.  |
-| [set_FormatLanguageId](./set_formatlanguageid/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_FormatLanguageId.  |
+| [set_AnotherSourceTag](./set_anothersourcetag/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag.  |
+| [set_FormatLanguageId](./set_formatlanguageid/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_FormatLanguageId.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_PageNumber](./set_pagenumber/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_PageNumber.  |
-| [set_Prefix](./set_prefix/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_Prefix.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SourceTag](./set_sourcetag/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_SourceTag.  |
-| [set_Suffix](./set_suffix/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_Suffix.  |
+| [set_PageNumber](./set_pagenumber/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_PageNumber.  |
+| [set_Prefix](./set_prefix/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_Prefix.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SourceTag](./set_sourcetag/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_SourceTag.  |
+| [set_Suffix](./set_suffix/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_Suffix.  |
 | [set_SuppressAuthor](./set_suppressauthor/)(bool) | Setter for Aspose::Words::Fields::FieldCitation::get_SuppressAuthor.  |
 | [set_SuppressTitle](./set_suppresstitle/)(bool) | Setter for Aspose::Words::Fields::FieldCitation::get_SuppressTitle.  |
 | [set_SuppressYear](./set_suppressyear/)(bool) | Setter for Aspose::Words::Fields::FieldCitation::get_SuppressYear.  |
-| [set_VolumeNumber](./set_volumenumber/)(const System::String &) | Setter for Aspose::Words::Fields::FieldCitation::get_VolumeNumber.  |
+| [set_VolumeNumber](./set_volumenumber/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldCitation::get_VolumeNumber.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

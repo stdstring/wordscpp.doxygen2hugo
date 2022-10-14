@@ -20,4 +20,4 @@ Provides access to the chart title properties.
 | [get_Text](./get_text/)() | Gets or sets the text of the chart title. If null or empty value is specified, auto generated title will be shown.  |
 | [set_Overlay](./set_overlay/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Overlay.  |
 | [set_Show](./set_show/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Show.  |
-| [set_Text](./set_text/)(const System::String &) | Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Text.  |
+| [set_Text](./set_text/)(const System::String\&) | Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Text.  |

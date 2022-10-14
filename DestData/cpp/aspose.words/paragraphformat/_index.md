@@ -84,9 +84,9 @@ Represents all the formatting for a paragraph.
 | [set_SpaceAfterAuto](./set_spaceafterauto/)(bool) | Setter for Aspose::Words::ParagraphFormat::get_SpaceAfterAuto.  |
 | [set_SpaceBefore](./set_spacebefore/)(double) | Setter for Aspose::Words::ParagraphFormat::get_SpaceBefore.  |
 | [set_SpaceBeforeAuto](./set_spacebeforeauto/)(bool) | Setter for Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto.  |
-| [set_Style](./set_style/)(const System::SharedPtr< Aspose::Words::Style > &) | Setter for Aspose::Words::ParagraphFormat::get_Style.  |
+| [set_Style](./set_style/)(const System::SharedPtr\<Aspose::Words::Style\>\&) | Setter for Aspose::Words::ParagraphFormat::get_Style.  |
 | [set_StyleIdentifier](./set_styleidentifier/)(Aspose::Words::StyleIdentifier) | Setter for Aspose::Words::ParagraphFormat::get_StyleIdentifier.  |
-| [set_StyleName](./set_stylename/)(const System::String &) | Setter for Aspose::Words::ParagraphFormat::get_StyleName.  |
+| [set_StyleName](./set_stylename/)(const System::String\&) | Setter for Aspose::Words::ParagraphFormat::get_StyleName.  |
 | [set_SuppressAutoHyphens](./set_suppressautohyphens/)(bool) | Setter for Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens.  |
 | [set_SuppressLineNumbers](./set_suppresslinenumbers/)(bool) | Setter for Aspose::Words::ParagraphFormat::get_SuppressLineNumbers.  |
 | [set_WidowControl](./set_widowcontrol/)(bool) | Setter for Aspose::Words::ParagraphFormat::get_WidowControl.  |

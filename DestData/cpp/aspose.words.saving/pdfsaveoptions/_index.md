@@ -17,8 +17,8 @@ Can be used to specify additional options when saving a document into the Pdf fo
 | --- | --- |
 | [Clone](./clone/)() | Creates a deep clone of this object.  |
 | static [CreateSaveOptions](../saveoptions/createsaveoptions/)(Aspose::Words::SaveFormat) | Creates a save options object of a class suitable for the specified save format.  |
-| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String &) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
-| [Equals](../fixedpagesaveoptions/equals/)(System::SharedPtr< System::Object >) override | Determines whether the specified object is equal in value to the current object.  |
+| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String\&) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
+| [Equals](../fixedpagesaveoptions/equals/)(System::SharedPtr\<System::Object\>) override | Determines whether the specified object is equal in value to the current object.  |
 | [get_AdditionalTextPositioning](./get_additionaltextpositioning/)() const | A flag specifying whether to write additional text positioning operators or not.  |
 | [get_AllowEmbeddingPostScriptFonts](../saveoptions/get_allowembeddingpostscriptfonts/)() const | Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is **false**.  |
 | [get_ColorMode](../fixedpagesaveoptions/get_colormode/)() const | Gets or sets a value determining how colors are rendered.  |
@@ -81,16 +81,16 @@ Can be used to specify additional options when saving a document into the Pdf fo
 | [set_Compliance](./set_compliance/)(Aspose::Words::Saving::PdfCompliance) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_Compliance.  |
 | [set_CreateNoteHyperlinks](./set_createnotehyperlinks/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_CreateNoteHyperlinks.  |
 | [set_CustomPropertiesExport](./set_custompropertiesexport/)(Aspose::Words::Saving::PdfCustomPropertiesExport) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_CustomPropertiesExport.  |
-| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr< System::TimeZoneInfo > &) |  |
-| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
-| [set_DigitalSignatureDetails](./set_digitalsignaturedetails/)(const System::SharedPtr< Aspose::Words::Saving::PdfDigitalSignatureDetails > &) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails.  |
+| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr\<System::TimeZoneInfo\>\&) |  |
+| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
+| [set_DigitalSignatureDetails](./set_digitalsignaturedetails/)(const System::SharedPtr\<Aspose::Words::Saving::PdfDigitalSignatureDetails\>\&) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails.  |
 | [set_DisplayDocTitle](./set_displaydoctitle/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_DisplayDocTitle.  |
 | [set_Dml3DEffectsRenderingMode](../saveoptions/set_dml3deffectsrenderingmode/)(Aspose::Words::Saving::Dml3DEffectsRenderingMode) | Sets a value determining how 3D effects are rendered.  |
 | [set_DmlEffectsRenderingMode](./set_dmleffectsrenderingmode/)(Aspose::Words::Saving::DmlEffectsRenderingMode) override | Setter for Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode.  |
 | [set_DmlRenderingMode](../saveoptions/set_dmlrenderingmode/)(Aspose::Words::Saving::DmlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode.  |
-| [set_DownsampleOptions](./set_downsampleoptions/)(const System::SharedPtr< Aspose::Words::Saving::DownsampleOptions > &) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_DownsampleOptions.  |
+| [set_DownsampleOptions](./set_downsampleoptions/)(const System::SharedPtr\<Aspose::Words::Saving::DownsampleOptions\>\&) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_DownsampleOptions.  |
 | [set_EmbedFullFonts](./set_embedfullfonts/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_EmbedFullFonts.  |
-| [set_EncryptionDetails](./set_encryptiondetails/)(const System::SharedPtr< Aspose::Words::Saving::PdfEncryptionDetails > &) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails.  |
+| [set_EncryptionDetails](./set_encryptiondetails/)(const System::SharedPtr\<Aspose::Words::Saving::PdfEncryptionDetails\>\&) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails.  |
 | [set_ExportDocumentStructure](./set_exportdocumentstructure/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_ExportDocumentStructure.  |
 | [set_ExportGeneratorName](../saveoptions/set_exportgeneratorname/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName.  |
 | [set_ExportLanguageToSpanTag](./set_exportlanguagetospantag/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_ExportLanguageToSpanTag.  |
@@ -103,19 +103,19 @@ Can be used to specify additional options when saving a document into the Pdf fo
 | [set_InterpolateImages](./set_interpolateimages/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_InterpolateImages.  |
 | [set_JpegQuality](./set_jpegquality/)(int32_t) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality.  |
 | [set_MemoryOptimization](../saveoptions/set_memoryoptimization/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_MemoryOptimization.  |
-| [set_MetafileRenderingOptions](../fixedpagesaveoptions/set_metafilerenderingoptions/)(const System::SharedPtr< Aspose::Words::Saving::MetafileRenderingOptions > &) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions.  |
+| [set_MetafileRenderingOptions](../fixedpagesaveoptions/set_metafilerenderingoptions/)(const System::SharedPtr\<Aspose::Words::Saving::MetafileRenderingOptions\>\&) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions.  |
 | [set_NumeralFormat](../fixedpagesaveoptions/set_numeralformat/)(Aspose::Words::Saving::NumeralFormat) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat.  |
 | [set_OpenHyperlinksInNewWindow](./set_openhyperlinksinnewwindow/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_OpenHyperlinksInNewWindow.  |
 | virtual [set_OptimizeOutput](../fixedpagesaveoptions/set_optimizeoutput/)(bool) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput.  |
 | [set_PageMode](./set_pagemode/)(Aspose::Words::Saving::PdfPageMode) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_PageMode.  |
-| [set_PageSavingCallback](../fixedpagesaveoptions/set_pagesavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IPageSavingCallback > &) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback.  |
-| [set_PageSet](../fixedpagesaveoptions/set_pageset/)(const System::SharedPtr< Aspose::Words::Saving::PageSet > &) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet.  |
+| [set_PageSavingCallback](../fixedpagesaveoptions/set_pagesavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::IPageSavingCallback\>\&) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback.  |
+| [set_PageSet](../fixedpagesaveoptions/set_pageset/)(const System::SharedPtr\<Aspose::Words::Saving::PageSet\>\&) | Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet.  |
 | [set_PreblendImages](./set_preblendimages/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages.  |
 | [set_PreserveFormFields](./set_preserveformfields/)(bool) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_PreserveFormFields.  |
 | [set_PrettyFormat](../saveoptions/set_prettyformat/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_PrettyFormat.  |
-| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentSavingCallback > &) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
+| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr\<Aspose::Words::Saving::IDocumentSavingCallback\>\&) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
 | [set_SaveFormat](./set_saveformat/)(Aspose::Words::SaveFormat) override | Setter for Aspose::Words::Saving::PdfSaveOptions::get_SaveFormat.  |
-| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
+| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
 | [set_TextCompression](./set_textcompression/)(Aspose::Words::Saving::PdfTextCompression) | Setter for Aspose::Words::Saving::PdfSaveOptions::get_TextCompression.  |
 | [set_UpdateCreatedTimeProperty](../saveoptions/set_updatecreatedtimeproperty/)(bool) | Sets a value determining whether the CreatedTime property is updated before saving. Default value is false;.  |
 | [set_UpdateFields](../saveoptions/set_updatefields/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateFields.  |

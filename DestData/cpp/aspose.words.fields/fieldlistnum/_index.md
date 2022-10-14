@@ -36,11 +36,11 @@ Implements the LISTNUM field.
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
-| [set_ListLevel](./set_listlevel/)(const System::String &) | Setter for Aspose::Words::Fields::FieldListNum::get_ListLevel.  |
-| [set_ListName](./set_listname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldListNum::get_ListName.  |
+| [set_ListLevel](./set_listlevel/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldListNum::get_ListLevel.  |
+| [set_ListName](./set_listname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldListNum::get_ListName.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_StartingNumber](./set_startingnumber/)(const System::String &) | Setter for Aspose::Words::Fields::FieldListNum::get_StartingNumber.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_StartingNumber](./set_startingnumber/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldListNum::get_StartingNumber.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

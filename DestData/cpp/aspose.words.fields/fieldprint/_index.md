@@ -35,9 +35,9 @@ Implements the PRINT field.
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_PostScriptGroup](./set_postscriptgroup/)(const System::String &) | Setter for Aspose::Words::Fields::FieldPrint::get_PostScriptGroup.  |
-| [set_PrinterInstructions](./set_printerinstructions/)(const System::String &) | Setter for Aspose::Words::Fields::FieldPrint::get_PrinterInstructions.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_PostScriptGroup](./set_postscriptgroup/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldPrint::get_PostScriptGroup.  |
+| [set_PrinterInstructions](./set_printerinstructions/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldPrint::get_PrinterInstructions.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

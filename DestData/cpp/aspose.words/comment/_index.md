@@ -15,12 +15,12 @@ Represents a container for text of a comment.
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr< Aspose::Words::DocumentVisitor >) override | Accepts a visitor.  |
-| [AddReply](./addreply/)(const System::String &, const System::String &, System::DateTime, const System::String &) | Adds a reply to this comment.  |
-| [AppendChild](../compositenode/appendchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the end of the list of child nodes for this node.  |
+| [Accept](./accept/)(System::SharedPtr\<Aspose::Words::DocumentVisitor\>) override | Accepts a visitor.  |
+| [AddReply](./addreply/)(const System::String\&, const System::String\&, System::DateTime, const System::String\&) | Adds a reply to this comment.  |
+| [AppendChild](../compositenode/appendchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the end of the list of child nodes for this node.  |
 | [Clone](../node/clone/)(bool) | Creates a duplicate of the node.  |
-| [Comment](./comment/)(const System::SharedPtr< Aspose::Words::DocumentBase > &) | Initializes a new instance of the **Comment** class.  |
-| [Comment](./comment/)(const System::SharedPtr< Aspose::Words::DocumentBase > &, const System::String &, const System::String &, System::DateTime) | Initializes a new instance of the **Comment** class.  |
+| [Comment](./comment/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) | Initializes a new instance of the **Comment** class.  |
+| [Comment](./comment/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&, const System::String\&, System::DateTime) | Initializes a new instance of the **Comment** class.  |
 | [EnsureMinimum](../inlinestory/ensureminimum/)() | If the last child is not a paragraph, creates and appends one empty paragraph.  |
 | [get_Ancestor](./get_ancestor/)() | Returns the parent Comment object. Returns null for top-level comments.  |
 | [get_Author](./get_author/)() const | Returns or sets the author name for a comment.  |
@@ -59,27 +59,27 @@ Represents a container for text of a comment.
 | [GetChildNodes](../compositenode/getchildnodes/)(Aspose::Words::NodeType, bool) | Returns a live collection of child nodes that match the specified type.  |
 | [GetEnumerator](../compositenode/getenumerator/)() override | Provides support for the for each style iteration over the child nodes of this node.  |
 | [GetText](../compositenode/gettext/)() override | Gets the text of this node and of all its children.  |
-| [IndexOf](../compositenode/indexof/)(const System::SharedPtr< Aspose::Words::Node > &) | Returns the index of the specified child node in the child node array.  |
-| [InsertAfter](../compositenode/insertafter/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately after the specified reference node.  |
-| [InsertBefore](../compositenode/insertbefore/)(const System::SharedPtr< Aspose::Words::Node > &, const System::SharedPtr< Aspose::Words::Node > &) | Inserts the specified node immediately before the specified reference node.  |
-| [NextPreOrder](../node/nextpreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets next node according to the pre-order tree traversal algorithm.  |
+| [IndexOf](../compositenode/indexof/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Returns the index of the specified child node in the child node array.  |
+| [InsertAfter](../compositenode/insertafter/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately after the specified reference node.  |
+| [InsertBefore](../compositenode/insertbefore/)(const System::SharedPtr\<Aspose::Words::Node\>\&, const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts the specified node immediately before the specified reference node.  |
+| [NextPreOrder](../node/nextpreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets next node according to the pre-order tree traversal algorithm.  |
 | static [NodeTypeToString](../node/nodetypetostring/)(Aspose::Words::NodeType) | A utility method that converts a node type enum value into a user friendly string.  |
-| [PrependChild](../compositenode/prependchild/)(const System::SharedPtr< Aspose::Words::Node > &) | Adds the specified node to the beginning of the list of child nodes for this node.  |
-| [PreviousPreOrder](../node/previouspreorder/)(const System::SharedPtr< Aspose::Words::Node > &) | Gets the previous node according to the pre-order tree traversal algorithm.  |
+| [PrependChild](../compositenode/prependchild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Adds the specified node to the beginning of the list of child nodes for this node.  |
+| [PreviousPreOrder](../node/previouspreorder/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets the previous node according to the pre-order tree traversal algorithm.  |
 | [Remove](../node/remove/)() | Removes itself from the parent.  |
 | [RemoveAllChildren](../compositenode/removeallchildren/)() | Removes all the child nodes of the current node.  |
 | [RemoveAllReplies](./removeallreplies/)() | Removes all replies to this comment.  |
-| [RemoveChild](../compositenode/removechild/)(const System::SharedPtr< Aspose::Words::Node > &) | Removes the specified child node.  |
-| [RemoveReply](./removereply/)(const System::SharedPtr< Aspose::Words::Comment > &) | Removes the specified reply to this comment.  |
+| [RemoveChild](../compositenode/removechild/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the specified child node.  |
+| [RemoveReply](./removereply/)(const System::SharedPtr\<Aspose::Words::Comment\>\&) | Removes the specified reply to this comment.  |
 | [RemoveSmartTags](../compositenode/removesmarttags/)() | Removes all SmartTag descendant nodes of the current node.  |
-| [SelectNodes](../compositenode/selectnodes/)(const System::String &) | Selects a list of nodes matching the XPath expression.  |
-| [SelectSingleNode](../compositenode/selectsinglenode/)(const System::String &) | Selects the first Node that matches the XPath expression.  |
-| [set_Author](./set_author/)(const System::String &) | Setter for Aspose::Words::Comment::get_Author.  |
+| [SelectNodes](../compositenode/selectnodes/)(const System::String\&) | Selects a list of nodes matching the XPath expression.  |
+| [SelectSingleNode](../compositenode/selectsinglenode/)(const System::String\&) | Selects the first Node that matches the XPath expression.  |
+| [set_Author](./set_author/)(const System::String\&) | Setter for Aspose::Words::Comment::get_Author.  |
 | [set_CustomNodeId](../node/set_customnodeid/)(int32_t) | Setter for Aspose::Words::Node::get_CustomNodeId.  |
 | [set_DateTime](./set_datetime/)(System::DateTime) | Setter for Aspose::Words::Comment::get_DateTime.  |
 | [set_Done](./set_done/)(bool) | Setter for Aspose::Words::Comment::get_Done.  |
-| [set_Initial](./set_initial/)(const System::String &) | Setter for Aspose::Words::Comment::get_Initial.  |
+| [set_Initial](./set_initial/)(const System::String\&) | Setter for Aspose::Words::Comment::get_Initial.  |
 | [SetTemplateWeakPtr](../compositenode/settemplateweakptr/)(uint32_t) override |  |
-| [SetText](./settext/)(const System::String &) | This is a convenience method that allows to easily set text of the comment.  |
+| [SetText](./settext/)(const System::String\&) | This is a convenience method that allows to easily set text of the comment.  |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format.  |
-| [ToString](../node/tostring/)(const System::SharedPtr< Aspose::Words::Saving::SaveOptions > &) | Exports the content of the node into a string using the specified save options.  |
+| [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options.  |

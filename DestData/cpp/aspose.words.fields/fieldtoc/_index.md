@@ -49,25 +49,25 @@ Implements the TOC field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_BookmarkName](./set_bookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_BookmarkName.  |
-| [set_CaptionlessTableOfFiguresLabel](./set_captionlesstableoffigureslabel/)(const System::String &) | Sets the name of the sequence identifier used when building a table of figures that does not include caption's label and number.  |
-| [set_CustomStyles](./set_customstyles/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_CustomStyles.  |
-| [set_EntryIdentifier](./set_entryidentifier/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_EntryIdentifier.  |
-| [set_EntryLevelRange](./set_entrylevelrange/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_EntryLevelRange.  |
-| [set_EntrySeparator](./set_entryseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_EntrySeparator.  |
-| [set_HeadingLevelRange](./set_headinglevelrange/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_HeadingLevelRange.  |
+| [set_BookmarkName](./set_bookmarkname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_BookmarkName.  |
+| [set_CaptionlessTableOfFiguresLabel](./set_captionlesstableoffigureslabel/)(const System::String\&) | Sets the name of the sequence identifier used when building a table of figures that does not include caption's label and number.  |
+| [set_CustomStyles](./set_customstyles/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_CustomStyles.  |
+| [set_EntryIdentifier](./set_entryidentifier/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_EntryIdentifier.  |
+| [set_EntryLevelRange](./set_entrylevelrange/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_EntryLevelRange.  |
+| [set_EntrySeparator](./set_entryseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_EntrySeparator.  |
+| [set_HeadingLevelRange](./set_headinglevelrange/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_HeadingLevelRange.  |
 | [set_HideInWebLayout](./set_hideinweblayout/)(bool) | Setter for Aspose::Words::Fields::FieldToc::get_HideInWebLayout.  |
 | [set_InsertHyperlinks](./set_inserthyperlinks/)(bool) | Setter for Aspose::Words::Fields::FieldToc::get_InsertHyperlinks.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_PageNumberOmittingLevelRange](./set_pagenumberomittinglevelrange/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_PageNumberOmittingLevelRange.  |
-| [set_PrefixedSequenceIdentifier](./set_prefixedsequenceidentifier/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier.  |
+| [set_PageNumberOmittingLevelRange](./set_pagenumberomittinglevelrange/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_PageNumberOmittingLevelRange.  |
+| [set_PrefixedSequenceIdentifier](./set_prefixedsequenceidentifier/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier.  |
 | [set_PreserveLineBreaks](./set_preservelinebreaks/)(bool) | Setter for Aspose::Words::Fields::FieldToc::get_PreserveLineBreaks.  |
 | [set_PreserveTabs](./set_preservetabs/)(bool) | Setter for Aspose::Words::Fields::FieldToc::get_PreserveTabs.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SequenceSeparator](./set_sequenceseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_SequenceSeparator.  |
-| [set_TableOfFiguresLabel](./set_tableoffigureslabel/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SequenceSeparator](./set_sequenceseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_SequenceSeparator.  |
+| [set_TableOfFiguresLabel](./set_tableoffigureslabel/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel.  |
 | [set_UseParagraphOutlineLevel](./set_useparagraphoutlinelevel/)(bool) | Setter for Aspose::Words::Fields::FieldToc::get_UseParagraphOutlineLevel.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |

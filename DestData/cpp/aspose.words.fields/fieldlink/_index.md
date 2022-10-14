@@ -43,7 +43,7 @@ Implements the LINK field.
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
 | [set_AutoUpdate](./set_autoupdate/)(bool) | Setter for Aspose::Words::Fields::FieldLink::get_AutoUpdate.  |
-| [set_FormatUpdateType](./set_formatupdatetype/)(const System::String &) | Setter for Aspose::Words::Fields::FieldLink::get_FormatUpdateType.  |
+| [set_FormatUpdateType](./set_formatupdatetype/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldLink::get_FormatUpdateType.  |
 | [set_InsertAsBitmap](./set_insertasbitmap/)(bool) | Setter for Aspose::Words::Fields::FieldLink::get_InsertAsBitmap.  |
 | [set_InsertAsHtml](./set_insertashtml/)(bool) | Setter for Aspose::Words::Fields::FieldLink::get_InsertAsHtml.  |
 | [set_InsertAsPicture](./set_insertaspicture/)(bool) | Setter for Aspose::Words::Fields::FieldLink::get_InsertAsPicture.  |
@@ -54,10 +54,10 @@ Implements the LINK field.
 | [set_IsLinked](./set_islinked/)(bool) | Setter for Aspose::Words::Fields::FieldLink::get_IsLinked.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_ProgId](./set_progid/)(const System::String &) | Setter for Aspose::Words::Fields::FieldLink::get_ProgId.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldLink::get_SourceFullName.  |
-| [set_SourceItem](./set_sourceitem/)(const System::String &) | Setter for Aspose::Words::Fields::FieldLink::get_SourceItem.  |
+| [set_ProgId](./set_progid/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldLink::get_ProgId.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldLink::get_SourceFullName.  |
+| [set_SourceItem](./set_sourceitem/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldLink::get_SourceItem.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

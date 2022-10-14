@@ -40,19 +40,19 @@ Implements the DATABASE field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_Connection](./set_connection/)(const System::String &) | Sets a connection to the data.  |
-| [set_FileName](./set_filename/)(const System::String &) | Sets the complete path and file name of the database.  |
-| [set_FirstRecord](./set_firstrecord/)(const System::String &) | Sets the integral record number of the first data record to insert.  |
-| [set_FormatAttributes](./set_formatattributes/)(const System::String &) | Sets which attributes of the format are to be applied to the table.  |
+| [set_Connection](./set_connection/)(const System::String\&) | Sets a connection to the data.  |
+| [set_FileName](./set_filename/)(const System::String\&) | Sets the complete path and file name of the database.  |
+| [set_FirstRecord](./set_firstrecord/)(const System::String\&) | Sets the integral record number of the first data record to insert.  |
+| [set_FormatAttributes](./set_formatattributes/)(const System::String\&) | Sets which attributes of the format are to be applied to the table.  |
 | [set_InsertHeadings](./set_insertheadings/)(bool) | Sets whether to insert the field names from the database as column headings in the resulting table.  |
 | [set_InsertOnceOnMailMerge](./set_insertonceonmailmerge/)(bool) | Sets whether to insert data at the beginning of a merge.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
-| [set_LastRecord](./set_lastrecord/)(const System::String &) | Sets the integral record number of the last data record to insert.  |
+| [set_LastRecord](./set_lastrecord/)(const System::String\&) | Sets the integral record number of the last data record to insert.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_Query](./set_query/)(const System::String &) | Sets a set of SQL instructions that query the database.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_TableFormat](./set_tableformat/)(const System::String &) | Sets the format that is to be applied to the result of the database query.  |
+| [set_Query](./set_query/)(const System::String\&) | Sets a set of SQL instructions that query the database.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_TableFormat](./set_tableformat/)(const System::String\&) | Sets the format that is to be applied to the result of the database query.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

@@ -29,7 +29,7 @@ Represents a collection of ChartDataLabel.
 | [get_ShowValue](./get_showvalue/)() | Allows to specify whether values are to be displayed in the data labels of the entire series. Default value is **false**.  |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator object.  |
 | [idx_get](./idx_get/)(int32_t) | Returns ChartDataLabel for the specified index.  |
-| [set_Separator](./set_separator/)(const System::String &) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Separator.  |
+| [set_Separator](./set_separator/)(const System::String\&) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Separator.  |
 | [set_ShowBubbleSize](./set_showbubblesize/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowBubbleSize.  |
 | [set_ShowCategoryName](./set_showcategoryname/)(bool) | Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowCategoryName.  |
 | [set_ShowDataLabelsRange](./set_showdatalabelsrange/)(bool) | Allows to specify whether values from data labels range to be displayed in the data labels of the entire series. Default value is **false**.  |

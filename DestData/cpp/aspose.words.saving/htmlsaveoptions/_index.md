@@ -16,7 +16,7 @@ Can be used to specify additional options when saving a document into the Html, 
 | Method | Description |
 | --- | --- |
 | static [CreateSaveOptions](../saveoptions/createsaveoptions/)(Aspose::Words::SaveFormat) | Creates a save options object of a class suitable for the specified save format.  |
-| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String &) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
+| static [CreateSaveOptions](../saveoptions/createsaveoptions/)(const System::String\&) | Creates a save options object of a class suitable for the file extension specified in the given file name.  |
 | [get_AllowEmbeddingPostScriptFonts](../saveoptions/get_allowembeddingpostscriptfonts/)() const | Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is **false**.  |
 | [get_AllowNegativeIndent](./get_allownegativeindent/)() const | Specifies whether negative left and right indents of paragraphs are normalized when saving to HTML, MHTML or EPUB. Default value is **false**.  |
 | [get_CssClassNamePrefix](./get_cssclassnameprefix/)() const | Specifies a prefix which is added to all CSS class names. Default value is an empty string and generated CSS class names have no common prefix.  |
@@ -86,19 +86,19 @@ Can be used to specify additional options when saving a document into the Html, 
 | [HtmlSaveOptions](./htmlsaveoptions/)(Aspose::Words::SaveFormat) | Initializes a new instance of this class that can be used to save a document in the Html, Mhtml, Epub or Azw3 format.  |
 | [set_AllowEmbeddingPostScriptFonts](../saveoptions/set_allowembeddingpostscriptfonts/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts.  |
 | [set_AllowNegativeIndent](./set_allownegativeindent/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent.  |
-| [set_CssClassNamePrefix](./set_cssclassnameprefix/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssClassNamePrefix.  |
-| [set_CssSavingCallback](./set_csssavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::ICssSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback.  |
-| [set_CssStyleSheetFileName](./set_cssstylesheetfilename/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetFileName.  |
+| [set_CssClassNamePrefix](./set_cssclassnameprefix/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssClassNamePrefix.  |
+| [set_CssSavingCallback](./set_csssavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::ICssSavingCallback\>\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback.  |
+| [set_CssStyleSheetFileName](./set_cssstylesheetfilename/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetFileName.  |
 | [set_CssStyleSheetType](./set_cssstylesheettype/)(Aspose::Words::Saving::CssStyleSheetType) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType.  |
-| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr< System::TimeZoneInfo > &) |  |
-| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
+| [set_CustomTimeZoneInfo](../saveoptions/set_customtimezoneinfo/)(const System::SharedPtr\<System::TimeZoneInfo\>\&) |  |
+| [set_DefaultTemplate](../saveoptions/set_defaulttemplate/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.  |
 | [set_Dml3DEffectsRenderingMode](../saveoptions/set_dml3deffectsrenderingmode/)(Aspose::Words::Saving::Dml3DEffectsRenderingMode) | Sets a value determining how 3D effects are rendered.  |
 | virtual [set_DmlEffectsRenderingMode](../saveoptions/set_dmleffectsrenderingmode/)(Aspose::Words::Saving::DmlEffectsRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode.  |
 | [set_DmlRenderingMode](../saveoptions/set_dmlrenderingmode/)(Aspose::Words::Saving::DmlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode.  |
-| [set_DocumentPartSavingCallback](./set_documentpartsavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentPartSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback.  |
+| [set_DocumentPartSavingCallback](./set_documentpartsavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::IDocumentPartSavingCallback\>\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback.  |
 | [set_DocumentSplitCriteria](./set_documentsplitcriteria/)(Aspose::Words::Saving::DocumentSplitCriteria) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria.  |
 | [set_DocumentSplitHeadingLevel](./set_documentsplitheadinglevel/)(int32_t) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel.  |
-| [set_Encoding](./set_encoding/)(const System::SharedPtr< System::Text::Encoding > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_Encoding.  |
+| [set_Encoding](./set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_Encoding.  |
 | [set_EpubNavigationMapLevel](./set_epubnavigationmaplevel/)(int32_t) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_EpubNavigationMapLevel.  |
 | [set_ExportCidUrlsForMhtmlResources](./set_exportcidurlsformhtmlresources/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources.  |
 | [set_ExportDocumentProperties](./set_exportdocumentproperties/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties.  |
@@ -121,27 +121,27 @@ Can be used to specify additional options when saving a document into the Html, 
 | [set_ExportXhtmlTransitional](./set_exportxhtmltransitional/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional.  |
 | [set_FlatOpcXmlMappingOnly](../saveoptions/set_flatopcxmlmappingonly/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly.  |
 | [set_FontResourcesSubsettingSizeThreshold](./set_fontresourcessubsettingsizethreshold/)(int32_t) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold.  |
-| [set_FontSavingCallback](./set_fontsavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IFontSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback.  |
-| [set_FontsFolder](./set_fontsfolder/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder.  |
-| [set_FontsFolderAlias](./set_fontsfolderalias/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias.  |
+| [set_FontSavingCallback](./set_fontsavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::IFontSavingCallback\>\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback.  |
+| [set_FontsFolder](./set_fontsfolder/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder.  |
+| [set_FontsFolderAlias](./set_fontsfolderalias/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias.  |
 | [set_HtmlVersion](./set_htmlversion/)(Aspose::Words::Saving::HtmlVersion) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_HtmlVersion.  |
 | [set_ImageResolution](./set_imageresolution/)(int32_t) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImageResolution.  |
-| [set_ImageSavingCallback](./set_imagesavingcallback/)(const System::SharedPtr< Aspose::Words::Saving::IImageSavingCallback > &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback.  |
-| [set_ImagesFolder](./set_imagesfolder/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder.  |
-| [set_ImagesFolderAlias](./set_imagesfolderalias/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias.  |
+| [set_ImageSavingCallback](./set_imagesavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::IImageSavingCallback\>\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback.  |
+| [set_ImagesFolder](./set_imagesfolder/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder.  |
+| [set_ImagesFolderAlias](./set_imagesfolderalias/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias.  |
 | [set_ImlRenderingMode](../saveoptions/set_imlrenderingmode/)(Aspose::Words::Saving::ImlRenderingMode) | Setter for Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode.  |
 | [set_MemoryOptimization](../saveoptions/set_memoryoptimization/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_MemoryOptimization.  |
 | [set_MetafileFormat](./set_metafileformat/)(Aspose::Words::Saving::HtmlMetafileFormat) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat.  |
 | [set_OfficeMathOutputMode](./set_officemathoutputmode/)(Aspose::Words::Saving::HtmlOfficeMathOutputMode) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_OfficeMathOutputMode.  |
 | [set_PrettyFormat](../saveoptions/set_prettyformat/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_PrettyFormat.  |
-| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr< Aspose::Words::Saving::IDocumentSavingCallback > &) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
+| [set_ProgressCallback](../saveoptions/set_progresscallback/)(const System::SharedPtr\<Aspose::Words::Saving::IDocumentSavingCallback\>\&) | Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback.  |
 | [set_ResolveFontNames](./set_resolvefontnames/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames.  |
-| [set_ResourceFolder](./set_resourcefolder/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolder.  |
-| [set_ResourceFolderAlias](./set_resourcefolderalias/)(const System::String &) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias.  |
+| [set_ResourceFolder](./set_resourcefolder/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolder.  |
+| [set_ResourceFolderAlias](./set_resourcefolderalias/)(const System::String\&) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias.  |
 | [set_SaveFormat](./set_saveformat/)(Aspose::Words::SaveFormat) override | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_SaveFormat.  |
 | [set_ScaleImageToShapeSize](./set_scaleimagetoshapesize/)(bool) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize.  |
 | [set_TableWidthOutputMode](./set_tablewidthoutputmode/)(Aspose::Words::Saving::HtmlElementSizeOutputMode) | Setter for Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode.  |
-| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String &) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
+| [set_TempFolder](../saveoptions/set_tempfolder/)(const System::String\&) | Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.  |
 | [set_UpdateCreatedTimeProperty](../saveoptions/set_updatecreatedtimeproperty/)(bool) | Sets a value determining whether the CreatedTime property is updated before saving. Default value is false;.  |
 | [set_UpdateFields](../saveoptions/set_updatefields/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateFields.  |
 | [set_UpdateLastPrintedProperty](../saveoptions/set_updatelastprintedproperty/)(bool) | Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty.  |

@@ -25,9 +25,9 @@ Provides methods to render an individual OfficeMath to a raster or vector image 
 | [GetSizeInPixels](../noderendererbase/getsizeinpixels/)(float, float) | Calculates the size of the shape in pixels for a specified zoom factor and resolution.  |
 | [GetSizeInPixels](../noderendererbase/getsizeinpixels/)(float, float, float) | Calculates the size of the shape in pixels for a specified zoom factor and resolution.  |
 | [NodeRendererBase](../noderendererbase/noderendererbase/)() |  |
-| [OfficeMathRenderer](./officemathrenderer/)(const System::SharedPtr< Aspose::Words::Math::OfficeMath > &) | Initializes a new instance of this class.  |
-| [RenderToScale](../noderendererbase/rendertoscale/)(const System::SharedPtr< System::Drawing::Graphics > &, float, float, float) | Renders the shape into a Graphics object to a specified scale.  |
-| [RenderToSize](../noderendererbase/rendertosize/)(const System::SharedPtr< System::Drawing::Graphics > &, float, float, float, float) | Renders the shape into a Graphics object to a specified size.  |
-| [Save](../noderendererbase/save/)(const System::String &, System::SharedPtr< Aspose::Words::Saving::ImageSaveOptions >) | Renders the shape into an image and saves into a file.  |
-| [Save](../noderendererbase/save/)(const System::SharedPtr< System::IO::Stream > &, System::SharedPtr< Aspose::Words::Saving::ImageSaveOptions >) | Renders the shape into an image and saves into a stream.  |
-| [Save](../noderendererbase/save/)(std::basic_ostream< CharType, Traits > &, System::SharedPtr< Aspose::Words::Saving::ImageSaveOptions >) |  |
+| [OfficeMathRenderer](./officemathrenderer/)(const System::SharedPtr\<Aspose::Words::Math::OfficeMath\>\&) | Initializes a new instance of this class.  |
+| [RenderToScale](../noderendererbase/rendertoscale/)(const System::SharedPtr\<System::Drawing::Graphics\>\&, float, float, float) | Renders the shape into a Graphics object to a specified scale.  |
+| [RenderToSize](../noderendererbase/rendertosize/)(const System::SharedPtr\<System::Drawing::Graphics\>\&, float, float, float, float) | Renders the shape into a Graphics object to a specified size.  |
+| [Save](../noderendererbase/save/)(const System::String\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) | Renders the shape into an image and saves into a file.  |
+| [Save](../noderendererbase/save/)(const System::SharedPtr\<System::IO::Stream\>\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) | Renders the shape into an image and saves into a stream.  |
+| [Save](../noderendererbase/save/)(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) |  |

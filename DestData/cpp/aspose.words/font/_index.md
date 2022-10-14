@@ -89,11 +89,11 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 | [set_LocaleId](./set_localeid/)(int32_t) | Setter for Aspose::Words::Font::get_LocaleId.  |
 | [set_LocaleIdBi](./set_localeidbi/)(int32_t) | Setter for Aspose::Words::Font::get_LocaleIdBi.  |
 | [set_LocaleIdFarEast](./set_localeidfareast/)(int32_t) | Setter for Aspose::Words::Font::get_LocaleIdFarEast.  |
-| [set_Name](./set_name/)(const System::String &) | Setter for Aspose::Words::Font::get_Name.  |
-| [set_NameAscii](./set_nameascii/)(const System::String &) | Setter for Aspose::Words::Font::get_NameAscii.  |
-| [set_NameBi](./set_namebi/)(const System::String &) | Setter for Aspose::Words::Font::get_NameBi.  |
-| [set_NameFarEast](./set_namefareast/)(const System::String &) | Setter for Aspose::Words::Font::get_NameFarEast.  |
-| [set_NameOther](./set_nameother/)(const System::String &) | Setter for Aspose::Words::Font::get_NameOther.  |
+| [set_Name](./set_name/)(const System::String\&) | Setter for Aspose::Words::Font::get_Name.  |
+| [set_NameAscii](./set_nameascii/)(const System::String\&) | Setter for Aspose::Words::Font::get_NameAscii.  |
+| [set_NameBi](./set_namebi/)(const System::String\&) | Setter for Aspose::Words::Font::get_NameBi.  |
+| [set_NameFarEast](./set_namefareast/)(const System::String\&) | Setter for Aspose::Words::Font::get_NameFarEast.  |
+| [set_NameOther](./set_nameother/)(const System::String\&) | Setter for Aspose::Words::Font::get_NameOther.  |
 | [set_NoProofing](./set_noproofing/)(bool) | Setter for Aspose::Words::Font::get_NoProofing.  |
 | [set_Outline](./set_outline/)(bool) | Setter for Aspose::Words::Font::get_Outline.  |
 | [set_Position](./set_position/)(double) | Setter for Aspose::Words::Font::get_Position.  |
@@ -105,9 +105,9 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 | [set_SnapToGrid](./set_snaptogrid/)(bool) | Specifies whether the current font should use the document grid characters per line settings when laying out.  |
 | [set_Spacing](./set_spacing/)(double) | Setter for Aspose::Words::Font::get_Spacing.  |
 | [set_StrikeThrough](./set_strikethrough/)(bool) | Setter for Aspose::Words::Font::get_StrikeThrough.  |
-| [set_Style](./set_style/)(const System::SharedPtr< Aspose::Words::Style > &) | Setter for Aspose::Words::Font::get_Style.  |
+| [set_Style](./set_style/)(const System::SharedPtr\<Aspose::Words::Style\>\&) | Setter for Aspose::Words::Font::get_Style.  |
 | [set_StyleIdentifier](./set_styleidentifier/)(Aspose::Words::StyleIdentifier) | Setter for Aspose::Words::Font::get_StyleIdentifier.  |
-| [set_StyleName](./set_stylename/)(const System::String &) | Setter for Aspose::Words::Font::get_StyleName.  |
+| [set_StyleName](./set_stylename/)(const System::String\&) | Setter for Aspose::Words::Font::get_StyleName.  |
 | [set_Subscript](./set_subscript/)(bool) | Setter for Aspose::Words::Font::get_Subscript.  |
 | [set_Superscript](./set_superscript/)(bool) | Setter for Aspose::Words::Font::get_Superscript.  |
 | [set_TextEffect](./set_texteffect/)(Aspose::Words::TextEffect) | Setter for Aspose::Words::Font::get_TextEffect.  |

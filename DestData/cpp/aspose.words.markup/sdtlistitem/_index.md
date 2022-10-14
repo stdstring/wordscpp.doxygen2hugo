@@ -17,5 +17,5 @@ This element specifies a single list item within a parent ComboBox or DropDownLi
 | --- | --- |
 | [get_DisplayText](./get_displaytext/)() const | Gets the text to display in the run content in place of the Value attribute contents for this list item.  |
 | [get_Value](./get_value/)() const | Gets the value of this list item.  |
-| [SdtListItem](./sdtlistitem/)(const System::String &, const System::String &) | Initializes a new instance of this class.  |
-| [SdtListItem](./sdtlistitem/)(const System::String &) | Initializes a new instance of this class.  |
+| [SdtListItem](./sdtlistitem/)(const System::String\&, const System::String\&) | Initializes a new instance of this class.  |
+| [SdtListItem](./sdtlistitem/)(const System::String\&) | Initializes a new instance of this class.  |

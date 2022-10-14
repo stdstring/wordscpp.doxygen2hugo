@@ -18,5 +18,5 @@ Represents a collection of nodes matching an XPath query executed using the Sele
 | [get_Count](./get_count/)() const | Gets the number of nodes in the list.  |
 | [GetEnumerator](./getenumerator/)() override | Provides a simple "foreach" style iteration over the collection of nodes.  |
 | [idx_get](./idx_get/)(int32_t) const | Retrieves a node at the given index.  |
-| [NodeList](./nodelist/)(const System::SharedPtr< Aspose::Words::NodeCollection > &) |  |
+| [NodeList](./nodelist/)(const System::SharedPtr\<Aspose::Words::NodeCollection\>\&) |  |
 | [ToArray](./toarray/)() const | Copies all nodes from the collection to a new array of nodes.  |

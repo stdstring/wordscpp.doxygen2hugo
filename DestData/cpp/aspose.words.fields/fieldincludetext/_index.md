@@ -39,19 +39,19 @@ Implements the INCLUDETEXT field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_BookmarkName](./set_bookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_BookmarkName.  |
-| [set_Encoding](./set_encoding/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_Encoding.  |
+| [set_BookmarkName](./set_bookmarkname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_BookmarkName.  |
+| [set_Encoding](./set_encoding/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_Encoding.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
 | [set_LockFields](./set_lockfields/)(bool) | Setter for Aspose::Words::Fields::FieldIncludeText::get_LockFields.  |
-| [set_MimeType](./set_mimetype/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_MimeType.  |
-| [set_NamespaceMappings](./set_namespacemappings/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_SourceFullName.  |
-| [set_TextConverter](./set_textconverter/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_TextConverter.  |
-| [set_XPath](./set_xpath/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_XPath.  |
-| [set_XslTransformation](./set_xsltransformation/)(const System::String &) | Setter for Aspose::Words::Fields::FieldIncludeText::get_XslTransformation.  |
+| [set_MimeType](./set_mimetype/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_MimeType.  |
+| [set_NamespaceMappings](./set_namespacemappings/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_SourceFullName.  |
+| [set_TextConverter](./set_textconverter/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_TextConverter.  |
+| [set_XPath](./set_xpath/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_XPath.  |
+| [set_XslTransformation](./set_xsltransformation/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldIncludeText::get_XslTransformation.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already.  |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already.  |

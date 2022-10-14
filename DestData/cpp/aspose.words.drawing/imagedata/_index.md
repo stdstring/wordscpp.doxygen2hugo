@@ -33,9 +33,9 @@ Defines an image for a shape.
 | [get_IsLinkOnly](./get_islinkonly/)() | Returns true if the image is linked and not stored in the document.  |
 | [get_SourceFullName](./get_sourcefullname/)() | Gets or sets the path and name of the source file for the linked image.  |
 | [get_Title](./get_title/)() | Defines the title of an image.  |
-| [Save](./save/)(const System::SharedPtr< System::IO::Stream > &) | Saves the image into the specified stream.  |
-| [Save](./save/)(const System::String &) | Saves the image into a file.  |
-| [Save](./save/)(std::basic_ostream< CharType, Traits > &) |  |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves the image into the specified stream.  |
+| [Save](./save/)(const System::String\&) | Saves the image into a file.  |
+| [Save](./save/)(std::basic_ostream\<CharType, Traits\>\&) |  |
 | [set_BiLevel](./set_bilevel/)(bool) | Setter for Aspose::Words::Drawing::ImageData::get_BiLevel.  |
 | [set_Brightness](./set_brightness/)(double) | Setter for Aspose::Words::Drawing::ImageData::get_Brightness.  |
 | [set_ChromaKey](./set_chromakey/)(System::Drawing::Color) | Setter for Aspose::Words::Drawing::ImageData::get_ChromaKey.  |
@@ -45,13 +45,13 @@ Defines an image for a shape.
 | [set_CropRight](./set_cropright/)(double) | Setter for Aspose::Words::Drawing::ImageData::get_CropRight.  |
 | [set_CropTop](./set_croptop/)(double) | Setter for Aspose::Words::Drawing::ImageData::get_CropTop.  |
 | [set_GrayScale](./set_grayscale/)(bool) | Setter for Aspose::Words::Drawing::ImageData::get_GrayScale.  |
-| [set_ImageBytes](./set_imagebytes/)(const System::ArrayPtr< uint8_t > &) | Setter for Aspose::Words::Drawing::ImageData::get_ImageBytes.  |
-| [set_SourceFullName](./set_sourcefullname/)(const System::String &) | Setter for Aspose::Words::Drawing::ImageData::get_SourceFullName.  |
-| [set_Title](./set_title/)(const System::String &) | Setter for Aspose::Words::Drawing::ImageData::get_Title.  |
-| [SetImage](./setimage/)(const System::SharedPtr< System::Drawing::Image > &) | Sets the image that the shape displays.  |
-| [SetImage](./setimage/)(const System::SharedPtr< System::IO::Stream > &) | Sets the image that the shape displays.  |
-| [SetImage](./setimage/)(const System::String &) | Sets the image that the shape displays.  |
-| [SetImage](./setimage/)(std::basic_istream< CharType, Traits > &) |  |
+| [set_ImageBytes](./set_imagebytes/)(const System::ArrayPtr\<uint8_t\>\&) | Setter for Aspose::Words::Drawing::ImageData::get_ImageBytes.  |
+| [set_SourceFullName](./set_sourcefullname/)(const System::String\&) | Setter for Aspose::Words::Drawing::ImageData::get_SourceFullName.  |
+| [set_Title](./set_title/)(const System::String\&) | Setter for Aspose::Words::Drawing::ImageData::get_Title.  |
+| [SetImage](./setimage/)(const System::SharedPtr\<System::Drawing::Image\>\&) | Sets the image that the shape displays.  |
+| [SetImage](./setimage/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets the image that the shape displays.  |
+| [SetImage](./setimage/)(const System::String\&) | Sets the image that the shape displays.  |
+| [SetImage](./setimage/)(std::basic_istream\<CharType, Traits\>\&) |  |
 | [ToByteArray](./tobytearray/)() | Returns image bytes for any image regardless whether the image is stored or linked.  |
 | [ToImage](./toimage/)() | Gets the image stored in the shape as a Image object.  |
 | [ToStream](./tostream/)() | Creates and returns a stream that contains the image bytes.  |

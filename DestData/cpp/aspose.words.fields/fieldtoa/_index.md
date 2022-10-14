@@ -40,18 +40,18 @@ Implements the TOA field.
 | [GetFieldCode](../field/getfieldcode/)() | Returns text between field start and field separator (or field end if there is no separator). Both field code and field result of child fields are included.  |
 | [GetFieldCode](../field/getfieldcode/)(bool) | Returns text between field start and field separator (or field end if there is no separator).  |
 | [Remove](../field/remove/)() | Removes the field from the document. Returns a node right after the field. If the field's end is the last child of its parent node, returns its parent paragraph. If the field is already removed, returns **null**.  |
-| [set_BookmarkName](./set_bookmarkname/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_BookmarkName.  |
-| [set_EntryCategory](./set_entrycategory/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_EntryCategory.  |
-| [set_EntrySeparator](./set_entryseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator.  |
+| [set_BookmarkName](./set_bookmarkname/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_BookmarkName.  |
+| [set_EntryCategory](./set_entrycategory/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_EntryCategory.  |
+| [set_EntrySeparator](./set_entryseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator.  |
 | [set_IsDirty](../field/set_isdirty/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsDirty.  |
 | [set_IsLocked](../field/set_islocked/)(bool) | Setter for Aspose::Words::Fields::Field::get_IsLocked.  |
 | [set_LocaleId](../field/set_localeid/)(int32_t) | Setter for Aspose::Words::Fields::Field::get_LocaleId.  |
-| [set_PageNumberListSeparator](./set_pagenumberlistseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_PageNumberListSeparator.  |
-| [set_PageRangeSeparator](./set_pagerangeseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_PageRangeSeparator.  |
+| [set_PageNumberListSeparator](./set_pagenumberlistseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_PageNumberListSeparator.  |
+| [set_PageRangeSeparator](./set_pagerangeseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_PageRangeSeparator.  |
 | [set_RemoveEntryFormatting](./set_removeentryformatting/)(bool) | Setter for Aspose::Words::Fields::FieldToa::get_RemoveEntryFormatting.  |
-| [set_Result](../field/set_result/)(const System::String &) | Setter for Aspose::Words::Fields::Field::get_Result.  |
-| [set_SequenceName](./set_sequencename/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_SequenceName.  |
-| [set_SequenceSeparator](./set_sequenceseparator/)(const System::String &) | Setter for Aspose::Words::Fields::FieldToa::get_SequenceSeparator.  |
+| [set_Result](../field/set_result/)(const System::String\&) | Setter for Aspose::Words::Fields::Field::get_Result.  |
+| [set_SequenceName](./set_sequencename/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_SequenceName.  |
+| [set_SequenceSeparator](./set_sequenceseparator/)(const System::String\&) | Setter for Aspose::Words::Fields::FieldToa::get_SequenceSeparator.  |
 | [set_UseHeading](./set_useheading/)(bool) | Setter for Aspose::Words::Fields::FieldToa::get_UseHeading.  |
 | [set_UsePassim](./set_usepassim/)(bool) | Setter for Aspose::Words::Fields::FieldToa::get_UsePassim.  |
 | [Unlink](../field/unlink/)() | Performs the field unlink.  |

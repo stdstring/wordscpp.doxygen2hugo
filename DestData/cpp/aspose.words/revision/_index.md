@@ -23,5 +23,5 @@ Represents a revision (tracked change) in a document node or style. Use Revision
 | [get_ParentStyle](./get_parentstyle/)() | Gets the immediate parent style (owner) of this revision. This property will work for only for the StyleDefinitionChange revision type.  |
 | [get_RevisionType](./get_revisiontype/)() const | Gets the type of this revision.  |
 | [Reject](./reject/)() | Reject this revision.  |
-| [set_Author](./set_author/)(const System::String &) | Setter for Aspose::Words::Revision::get_Author.  |
+| [set_Author](./set_author/)(const System::String\&) | Setter for Aspose::Words::Revision::get_Author.  |
 | [set_DateTime](./set_datetime/)(System::DateTime) | Setter for Aspose::Words::Revision::get_DateTime.  |

@@ -21,7 +21,7 @@ Contains options that can be specified when adding a watermark with text.
 | [get_IsSemitrasparent](./get_issemitrasparent/)() const | Gets or sets a boolean value which is responsible for opacity of the watermark. The default value is True.  |
 | [get_Layout](./get_layout/)() const | Gets or sets layout of the watermark. The default value is Diagonal.  |
 | [set_Color](./set_color/)(System::Drawing::Color) | Setter for Aspose::Words::TextWatermarkOptions::get_Color.  |
-| [set_FontFamily](./set_fontfamily/)(const System::String &) | Setter for Aspose::Words::TextWatermarkOptions::get_FontFamily.  |
+| [set_FontFamily](./set_fontfamily/)(const System::String\&) | Setter for Aspose::Words::TextWatermarkOptions::get_FontFamily.  |
 | [set_FontSize](./set_fontsize/)(float) | Setter for Aspose::Words::TextWatermarkOptions::get_FontSize.  |
 | [set_IsSemitrasparent](./set_issemitrasparent/)(bool) | Setter for Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent.  |
 | [set_Layout](./set_layout/)(Aspose::Words::WatermarkLayout) | Setter for Aspose::Words::TextWatermarkOptions::get_Layout.  |
