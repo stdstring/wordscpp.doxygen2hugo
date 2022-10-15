@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/getchildnodes/
 ## StructuredDocumentTagRangeStart.GetChildNodes method
 
 
-Returns a live collection of child nodes that match the specified types. 
+Returns a live collection of child nodes that match the specified types.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/story/get_firstparagraph/
 ## Story.get_FirstParagraph method
 
 
-Gets the first paragraph in the story. 
+Gets the first paragraph in the story.
 

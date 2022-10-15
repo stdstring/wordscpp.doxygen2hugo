@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotexpandshiftreturn/
 ## CompatibilityOptions.set_DoNotExpandShiftReturn method
 
 
-Don't Justify Lines Ending in Soft Line Break. 
+Don't Justify Lines Ending in Soft Line Break.
 

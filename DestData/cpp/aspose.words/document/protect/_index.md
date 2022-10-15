@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/protect/
 ## Document.Protect method
 
 
-Protects the document from changes without changing the existing password or assigns a random password. 
+Protects the document from changes without changing the existing password or assigns a random password.
 
 ---
 title: Protect
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/protect/
 ## Document.Protect method
 
 
-Protects the document from changes and optionally sets a protection password. 
+Protects the document from changes and optionally sets a protection password.
 

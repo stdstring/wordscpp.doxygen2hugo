@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/set_initial/
 ## Comment.set_Initial method
 
 
-Setter for Aspose::Words::Comment::get_Initial. 
+Setter for [Aspose::Words::Comment::get_Initial](./get_initial/).
 

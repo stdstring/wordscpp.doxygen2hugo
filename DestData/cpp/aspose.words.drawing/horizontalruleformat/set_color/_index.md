@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/set_color/
 ## HorizontalRuleFormat.set_Color method
 
 
-Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_Color. 
+Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Color](./get_color/).
 

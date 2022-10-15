@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_coordsize/
 ## ShapeBase.set_CoordSize method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_CoordSize. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_CoordSize](./get_coordsize/).
 

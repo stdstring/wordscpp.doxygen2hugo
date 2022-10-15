@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_metafilerenderingoptions/
 ## FixedPageSaveOptions.get_MetafileRenderingOptions method
 
 
-Allows to specify metafile rendering options. 
+Allows to specify metafile rendering options.
 

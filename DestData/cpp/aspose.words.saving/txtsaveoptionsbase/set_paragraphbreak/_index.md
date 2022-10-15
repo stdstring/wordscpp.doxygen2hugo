@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_paragraphbreak/
 ## TxtSaveOptionsBase.set_ParagraphBreak method
 
 
-Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak. 
+Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak](./get_paragraphbreak/).
 

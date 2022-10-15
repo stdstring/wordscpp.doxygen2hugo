@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/insert/
 ## NodeCollection.Insert method
 
 
-Inserts a node into the collection at the specified index. 
+Inserts a node into the collection at the specified index.
 

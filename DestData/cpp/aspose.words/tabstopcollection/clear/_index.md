@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstopcollection/clear/
 ## TabStopCollection.Clear method
 
 
-Deletes all tab stop positions. 
+Deletes all tab stop positions.
 

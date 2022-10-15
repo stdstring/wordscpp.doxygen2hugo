@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/set_underline/
 ## DocumentBuilder.set_Underline method
 
 
-Setter for Aspose::Words::DocumentBuilder::get_Underline. 
+Setter for [Aspose::Words::DocumentBuilder::get_Underline](./get_underline/).
 

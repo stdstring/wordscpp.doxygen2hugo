@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_next/
 ## TextBox.get_Next method
 
 
-Returns or sets a TextBox that represents the next TextBox in a sequence of shapes. 
+Returns or sets a [TextBox](./) that represents the next [TextBox](./) in a sequence of shapes.
 

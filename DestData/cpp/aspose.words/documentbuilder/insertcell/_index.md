@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/insertcell/
 ## DocumentBuilder.InsertCell method
 
 
-Inserts a table cell into the document. 
+Inserts a table cell into the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/ifieldmergingcallback/fieldmerging/
 ## IFieldMergingCallback.FieldMerging method
 
 
-Called when the Aspose.Words mail merge engine is about to insert data into a merge field in the document. 
+Called when the Aspose.Words mail merge engine is about to insert data into a merge field in the document.
 

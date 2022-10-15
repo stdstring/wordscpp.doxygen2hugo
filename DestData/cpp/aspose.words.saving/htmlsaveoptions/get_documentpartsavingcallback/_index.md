@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentpartsavingcallback/
 ## HtmlSaveOptions.get_DocumentPartSavingCallback method
 
 
-Allows to control how document parts are saved when a document is saved to HTML or EPUB. 
+Allows to control how document parts are saved when a document is saved to HTML or EPUB.
 

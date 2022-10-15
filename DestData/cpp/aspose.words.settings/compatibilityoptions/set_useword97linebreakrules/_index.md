@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_useword97linebreakrules
 ## CompatibilityOptions.set_UseWord97LineBreakRules method
 
 
-Emulate Word 97 East Asian Line Breaking. 
+Emulate Word 97 East Asian Line Breaking.
 

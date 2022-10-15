@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpart/set_data/
 ## CustomXmlPart.set_Data method
 
 
-Setter for Aspose::Words::Markup::CustomXmlPart::get_Data. 
+Setter for [Aspose::Words::Markup::CustomXmlPart::get_Data](./get_data/).
 

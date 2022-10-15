@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertshape/
 ## DocumentBuilder.InsertShape method
 
 
-Inserts free-floating shape with specified position, size and text wrap type. 
+Inserts free-floating shape with specified position, size and text wrap type.
 
 ---
 title: InsertShape
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/insertshape/
 ## DocumentBuilder.InsertShape method
 
 
-Inserts inline shape with specified type and size. 
+Inserts inline shape with specified type and size.
 

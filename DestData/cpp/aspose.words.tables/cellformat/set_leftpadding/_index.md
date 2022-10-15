@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellformat/set_leftpadding/
 ## CellFormat.set_LeftPadding method
 
 
-Setter for Aspose::Words::Tables::CellFormat::get_LeftPadding. 
+Setter for [Aspose::Words::Tables::CellFormat::get_LeftPadding](./get_leftpadding/).
 

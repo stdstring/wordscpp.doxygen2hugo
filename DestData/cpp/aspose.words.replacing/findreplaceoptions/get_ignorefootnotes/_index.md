@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignorefootnotes/
 ## FindReplaceOptions.get_IgnoreFootnotes method
 
 
-Gets or sets a boolean value indicating either to ignore footnotes. The default value is **false**. 
+Gets or sets a boolean value indicating either to ignore footnotes. The default value is **false**.
 

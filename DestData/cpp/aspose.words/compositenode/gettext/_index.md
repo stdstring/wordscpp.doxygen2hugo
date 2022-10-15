@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/gettext/
 ## CompositeNode.GetText method
 
 
-Gets the text of this node and of all its children. 
+Gets the text of this node and of all its children.
 

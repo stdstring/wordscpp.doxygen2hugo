@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showbubblesiz
 ## ChartDataLabelCollection.set_ShowBubbleSize method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowBubbleSize. 
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowBubbleSize](./get_showbubblesize/).
 

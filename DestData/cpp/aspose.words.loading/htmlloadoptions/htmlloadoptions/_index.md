@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/htmlloadoptions/
 ## HtmlLoadOptions.HtmlLoadOptions method
 
 
-Initializes a new instance of this class with default values. 
+Initializes a new instance of this class with default values.
 
 ---
 title: HtmlLoadOptions
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/htmlloadoptions/
 ## HtmlLoadOptions.HtmlLoadOptions method
 
 
-A shortcut to initialize a new instance of this class with properties set to the specified values. 
+A shortcut to initialize a new instance of this class with properties set to the specified values.
 
 ---
 title: HtmlLoadOptions
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.loading/htmlloadoptions/htmlloadoptions/
 ## HtmlLoadOptions.HtmlLoadOptions method
 
 
-A shortcut to initialize a new instance of this class with the specified password to load an encrypted document. 
+A shortcut to initialize a new instance of this class with the specified password to load an encrypted document.
 

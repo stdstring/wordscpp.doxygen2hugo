@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/set_prefixedsequenceidentifier/
 ## FieldToc.set_PrefixedSequenceIdentifier method
 
 
-Setter for Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier. 
+Setter for [Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier](./get_prefixedsequenceidentifier/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignorefieldcodes/
 ## FindReplaceOptions.set_IgnoreFieldCodes method
 
 
-Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFieldCodes. 
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFieldCodes](./get_ignorefieldcodes/).
 

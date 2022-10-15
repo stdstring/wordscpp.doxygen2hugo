@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/ipagesavingcallback/pagesaving/
 ## IPageSavingCallback.PageSaving method
 
 
-Called when Aspose.Words saves a separate page to fixed page formats. 
+Called when Aspose.Words saves a separate page to fixed page formats.
 

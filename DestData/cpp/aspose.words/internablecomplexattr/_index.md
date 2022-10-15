@@ -9,5 +9,5 @@ url: /cpp/aspose.words/internablecomplexattr/
 ## InternableComplexAttr class
 
 
-Base class for internable complex attribute. Internable complex attribute should notify parent collection when going to be changed. 
+Base class for internable complex attribute. Internable complex attribute should notify parent collection when going to be changed.
 

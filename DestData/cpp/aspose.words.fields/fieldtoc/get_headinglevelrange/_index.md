@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/get_headinglevelrange/
 ## FieldToc.get_HeadingLevelRange method
 
 
-Gets or sets a range of heading levels to include. 
+Gets or sets a range of heading levels to include.
 

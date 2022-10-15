@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/set_stylename/
 ## Table.set_StyleName method
 
 
-Setter for Aspose::Words::Tables::Table::get_StyleName. 
+Setter for [Aspose::Words::Tables::Table::get_StyleName](./get_stylename/).
 

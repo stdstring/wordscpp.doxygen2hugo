@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielduserinitials/get_userinitials/
 ## FieldUserInitials.get_UserInitials method
 
 
-Gets or sets the current user's initials. 
+Gets or sets the current user's initials.
 

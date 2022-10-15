@@ -9,5 +9,5 @@ url: /cpp/aspose.words/license/license/
 ## License.License method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

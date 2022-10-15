@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_nodetype/
 ## StructuredDocumentTag.get_NodeType method
 
 
-Returns **NodeType.StructuredDocumentTag**. 
+Returns **NodeType.StructuredDocumentTag**.
 

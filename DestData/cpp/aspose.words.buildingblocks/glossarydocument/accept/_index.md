@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/accept/
 ## GlossaryDocument.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

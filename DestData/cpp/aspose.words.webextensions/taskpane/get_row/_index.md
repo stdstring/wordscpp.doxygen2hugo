@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/taskpane/get_row/
 ## TaskPane.get_Row method
 
 
-Specifies the index, enumerating from the outside to the inside, of this task pane among other persisted task panes docked in the same default location. 
+Specifies the index, enumerating from the outside to the inside, of this task pane among other persisted task panes docked in the same default location.
 

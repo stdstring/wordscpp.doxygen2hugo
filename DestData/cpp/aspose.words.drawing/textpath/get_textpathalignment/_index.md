@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_textpathalignment/
 ## TextPath.get_TextPathAlignment method
 
 
-Defines the alignment of text. 
+Defines the alignment of text.
 

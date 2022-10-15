@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisiongroup/get_revisiontype/
 ## RevisionGroup.get_RevisionType method
 
 
-Gets the type of revisions included in this group. 
+Gets the type of revisions included in this group.
 

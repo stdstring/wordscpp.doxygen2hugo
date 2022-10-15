@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_numberformat/
 ## ChartAxis.get_NumberFormat method
 
 
-Returns a ChartNumberFormat object that allows defining number formats for the axis. 
+Returns a [ChartNumberFormat](../chartnumberformat/) object that allows defining number formats for the axis.
 

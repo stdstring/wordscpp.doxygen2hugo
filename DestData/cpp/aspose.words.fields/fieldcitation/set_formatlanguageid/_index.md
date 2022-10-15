@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/set_formatlanguageid/
 ## FieldCitation.set_FormatLanguageId method
 
 
-Setter for Aspose::Words::Fields::FieldCitation::get_FormatLanguageId. 
+Setter for [Aspose::Words::Fields::FieldCitation::get_FormatLanguageId](./get_formatlanguageid/).
 

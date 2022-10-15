@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/get_emfplusdualrenderingm
 ## MetafileRenderingOptions.get_EmfPlusDualRenderingMode method
 
 
-Gets or sets a value determining how EMF+ Dual metafiles should be rendered. 
+Gets or sets a value determining how EMF+ Dual metafiles should be rendered.
 

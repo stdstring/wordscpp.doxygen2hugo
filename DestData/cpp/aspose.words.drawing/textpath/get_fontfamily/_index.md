@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_fontfamily/
 ## TextPath.get_FontFamily method
 
 
-Defines the family of the textpath font. 
+Defines the family of the textpath font.
 

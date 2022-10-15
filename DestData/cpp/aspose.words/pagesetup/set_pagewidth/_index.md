@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_pagewidth/
 ## PageSetup.set_PageWidth method
 
 
-Setter for Aspose::Words::PageSetup::get_PageWidth. 
+Setter for [Aspose::Words::PageSetup::get_PageWidth](./get_pagewidth/).
 

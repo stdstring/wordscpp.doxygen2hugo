@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldta/set_isitalic/
 ## FieldTA.set_IsItalic method
 
 
-Setter for Aspose::Words::Fields::FieldTA::get_IsItalic. 
+Setter for [Aspose::Words::Fields::FieldTA::get_IsItalic](./get_isitalic/).
 

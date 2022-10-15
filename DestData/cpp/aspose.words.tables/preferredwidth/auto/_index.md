@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/preferredwidth/auto/
 ## PreferredWidth.Auto method
 
 
-Returns an instance that represents the "preferred width is not specified" value. 
+Returns an instance that represents the "preferred width is not specified" value.
 

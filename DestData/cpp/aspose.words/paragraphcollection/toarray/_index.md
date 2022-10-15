@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphcollection/toarray/
 ## ParagraphCollection.ToArray method
 
 
-Copies all paragraphs from the collection to a new array of paragraphs. 
+Copies all paragraphs from the collection to a new array of paragraphs.
 

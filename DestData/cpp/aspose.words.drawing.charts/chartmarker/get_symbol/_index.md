@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/get_symbol/
 ## ChartMarker.get_Symbol method
 
 
-Gets or sets chart marker symbol. 
+Gets or sets chart marker symbol.
 

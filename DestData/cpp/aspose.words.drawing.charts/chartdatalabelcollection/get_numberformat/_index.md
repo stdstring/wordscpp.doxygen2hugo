@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_numberformat/
 ## ChartDataLabelCollection.get_NumberFormat method
 
 
-Gets an ChartNumberFormat instance allowing to set number format for the data labels of the entire series. 
+Gets an [ChartNumberFormat](../chartnumberformat/) instance allowing to set number format for the data labels of the entire series.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_thumbnail/
 ## BuiltInDocumentProperties.set_Thumbnail method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail](./get_thumbnail/).
 

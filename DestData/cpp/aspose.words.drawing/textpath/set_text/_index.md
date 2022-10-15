@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_text/
 ## TextPath.set_Text method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_Text. 
+Setter for [Aspose::Words::Drawing::TextPath::get_Text](./get_text/).
 

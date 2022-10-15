@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlevel/gethashcode/
 ## ListLevel.GetHashCode method
 
 
-Calculates hash code for this object. 
+Calculates hash code for this object.
 

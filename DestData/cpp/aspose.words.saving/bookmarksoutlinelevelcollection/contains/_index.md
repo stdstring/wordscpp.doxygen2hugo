@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/contains/
 ## BookmarksOutlineLevelCollection.Contains method
 
 
-Determines whether the collection contains a bookmark with the given name. 
+Determines whether the collection contains a bookmark with the given name.
 

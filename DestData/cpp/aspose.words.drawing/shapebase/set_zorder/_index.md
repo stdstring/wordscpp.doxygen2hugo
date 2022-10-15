@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_zorder/
 ## ShapeBase.set_ZOrder method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_ZOrder. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_ZOrder](./get_zorder/).
 

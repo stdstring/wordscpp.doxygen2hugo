@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/selectnodes/
 ## CompositeNode.SelectNodes method
 
 
-Selects a list of nodes matching the XPath expression. 
+Selects a list of nodes matching the XPath expression.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/hyphenationoptions/set_hyphenationzone/
 ## HyphenationOptions.set_HyphenationZone method
 
 
-Setter for Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone. 
+Setter for [Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone](./get_hyphenationzone/).
 

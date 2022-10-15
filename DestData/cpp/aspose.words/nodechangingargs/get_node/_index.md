@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodechangingargs/get_node/
 ## NodeChangingArgs.get_Node method
 
 
-Gets the Node that is being added or removed. 
+Gets the [Node](./get_node/) that is being added or removed.
 

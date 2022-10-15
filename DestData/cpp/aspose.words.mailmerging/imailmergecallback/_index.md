@@ -9,10 +9,10 @@ url: /cpp/aspose.words.mailmerging/imailmergecallback/
 ## IMailMergeCallback interface
 
 
-Implement this interface if you want to receive notifications while mail merge is performed. 
+Implement this interface if you want to receive notifications while mail merge is performed.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| virtual [TagsReplaced](./tagsreplaced/)() | Called when "mustache" text tags are replaced with MERGEFIELD fields.  |
+| virtual [TagsReplaced](./tagsreplaced/)() | Called when "mustache" text tags are replaced with MERGEFIELD fields. |

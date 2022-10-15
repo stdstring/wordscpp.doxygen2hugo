@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_endarrowtype/
 ## Stroke.set_EndArrowType method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_EndArrowType. 
+Setter for [Aspose::Words::Drawing::Stroke::get_EndArrowType](./get_endarrowtype/).
 

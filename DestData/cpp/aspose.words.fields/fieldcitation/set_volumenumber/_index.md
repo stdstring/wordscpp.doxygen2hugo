@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/set_volumenumber/
 ## FieldCitation.set_VolumeNumber method
 
 
-Setter for Aspose::Words::Fields::FieldCitation::get_VolumeNumber. 
+Setter for [Aspose::Words::Fields::FieldCitation::get_VolumeNumber](./get_volumenumber/).
 

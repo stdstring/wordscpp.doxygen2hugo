@@ -9,5 +9,5 @@ url: /cpp/aspose.words/fileformatinfo/get_isencrypted/
 ## FileFormatInfo.get_IsEncrypted method
 
 
-Returns true if the document is encrypted and requires a password to open. 
+Returns true if the document is encrypted and requires a password to open.
 

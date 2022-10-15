@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themecolors/get_accent3/
 ## ThemeColors.get_Accent3 method
 
 
-Specifies color Accent 3. 
+Specifies color Accent 3.
 

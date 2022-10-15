@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_charactercode/
 ## FieldSymbol.get_CharacterCode method
 
 
-Gets or sets the character's code point value in decimal or hexadecimal. 
+Gets or sets the character's code point value in decimal or hexadecimal.
 

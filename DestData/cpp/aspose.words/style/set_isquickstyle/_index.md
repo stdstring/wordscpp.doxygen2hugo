@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/set_isquickstyle/
 ## Style.set_IsQuickStyle method
 
 
-Setter for Aspose::Words::Style::get_IsQuickStyle. 
+Setter for [Aspose::Words::Style::get_IsQuickStyle](./get_isquickstyle/).
 

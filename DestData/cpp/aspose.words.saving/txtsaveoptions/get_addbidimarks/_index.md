@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtsaveoptions/get_addbidimarks/
 ## TxtSaveOptions.get_AddBidiMarks method
 
 
-Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is **false**. 
+Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is **false**.
 

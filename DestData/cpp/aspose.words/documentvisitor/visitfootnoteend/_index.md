@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitfootnoteend/
 ## DocumentVisitor.VisitFootnoteEnd method
 
 
-Called when enumeration of a footnote or endnote text has ended. 
+Called when enumeration of a footnote or endnote text has ended.
 

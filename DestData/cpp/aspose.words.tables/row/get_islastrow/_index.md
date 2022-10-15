@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/row/get_islastrow/
 ## Row.get_IsLastRow method
 
 
-True if this is the last row in a table; false otherwise. 
+True if this is the last row in a table; false otherwise.
 

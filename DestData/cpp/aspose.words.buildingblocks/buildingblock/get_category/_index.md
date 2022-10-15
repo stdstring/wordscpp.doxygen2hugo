@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_category/
 ## BuildingBlock.get_Category method
 
 
-Specifies the second-level categorization for the building block. 
+Specifies the second-level categorization for the building block.
 

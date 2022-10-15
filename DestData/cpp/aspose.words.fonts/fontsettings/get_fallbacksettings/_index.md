@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsettings/get_fallbacksettings/
 ## FontSettings.get_FallbackSettings method
 
 
-Settings related to font fallback mechanism. 
+[Settings](../../aspose.words.settings/) related to font fallback mechanism.
 

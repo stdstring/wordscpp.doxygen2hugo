@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_casecodestyle/
 ## BarcodeParameters.set_CaseCodeStyle method
 
 
-Style of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD]. 
+[Style](../../aspose.words/style/) of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD].
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_signaturelineimage/
 ## SignOptions.get_SignatureLineImage method
 
 
-The image that will be shown in associated SignatureLine. Default value is **null**. 
+The image that will be shown in associated [SignatureLine](../../aspose.words.drawing/signatureline/). Default value is **null**.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/pdfdigitalsig
 ## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 
 ---
 title: PdfDigitalSignatureTimestampSettings
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/pdfdigitalsig
 ## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 
 ---
 title: PdfDigitalSignatureTimestampSettings
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/pdfdigitalsig
 ## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 

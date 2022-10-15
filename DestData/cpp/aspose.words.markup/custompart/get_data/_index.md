@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/custompart/get_data/
 ## CustomPart.get_Data method
 
 
-Contains the data of this custom part. 
+Contains the data of this custom part.
 

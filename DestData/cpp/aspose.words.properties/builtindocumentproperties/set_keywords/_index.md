@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_keywords/
 ## BuiltInDocumentProperties.set_Keywords method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords](./get_keywords/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_visible/
 ## Stroke.set_Visible method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_Visible. 
+Setter for [Aspose::Words::Drawing::Stroke::get_Visible](./get_visible/).
 

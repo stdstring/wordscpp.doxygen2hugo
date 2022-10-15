@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/get_suppressyear/
 ## FieldCitation.get_SuppressYear method
 
 
-Gets or sets whether the year information is suppressed from the citation. 
+Gets or sets whether the year information is suppressed from the citation.
 

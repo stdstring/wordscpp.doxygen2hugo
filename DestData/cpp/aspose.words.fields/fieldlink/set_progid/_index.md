@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlink/set_progid/
 ## FieldLink.set_ProgId method
 
 
-Setter for Aspose::Words::Fields::FieldLink::get_ProgId. 
+Setter for [Aspose::Words::Fields::FieldLink::get_ProgId](./get_progid/).
 

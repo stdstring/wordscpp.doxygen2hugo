@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldhyperlink/set_address/
 ## FieldHyperlink.set_Address method
 
 
-Setter for Aspose::Words::Fields::FieldHyperlink::get_Address. 
+Setter for [Aspose::Words::Fields::FieldHyperlink::get_Address](./get_address/).
 

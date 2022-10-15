@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_oddandevenpagesheaderfooter/
 ## PageSetup.set_OddAndEvenPagesHeaderFooter method
 
 
-Setter for Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter. 
+Setter for [Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter](./get_oddandevenpagesheaderfooter/).
 

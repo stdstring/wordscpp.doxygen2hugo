@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdatecultureprovider/
 ## FieldOptions.get_FieldUpdateCultureProvider method
 
 
-Gets or sets a provider that returns a culture object specific for each particular field. 
+Gets or sets a provider that returns a culture object specific for each particular field.
 

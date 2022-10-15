@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_textwrapping/
 ## Table.get_TextWrapping method
 
 
-Gets or sets TextWrapping for table. 
+Gets or sets [TextWrapping](./get_textwrapping/) for table.
 

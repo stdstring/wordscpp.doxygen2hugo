@@ -9,5 +9,5 @@ url: /cpp/aspose.words/runcollection/toarray/
 ## RunCollection.ToArray method
 
 
-Copies all runs from the collection to a new array of runs. 
+Copies all runs from the collection to a new array of runs.
 

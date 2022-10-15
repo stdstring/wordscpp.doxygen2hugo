@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_xscale/
 ## TextPath.get_XScale method
 
 
-Determines whether a straight textpath will be used instead of the shape path. 
+Determines whether a straight textpath will be used instead of the shape path.
 

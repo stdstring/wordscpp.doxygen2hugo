@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_distancebottom/
 ## Table.get_DistanceBottom method
 
 
-Gets distance between table bottom and the surrounding text, in points. 
+Gets distance between table bottom and the surrounding text, in points.
 

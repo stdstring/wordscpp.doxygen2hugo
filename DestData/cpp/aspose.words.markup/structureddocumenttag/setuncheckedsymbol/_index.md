@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/setuncheckedsymbol/
 ## StructuredDocumentTag.SetUncheckedSymbol method
 
 
-Sets the symbol used to represent the unchecked state of a check box content control. 
+Sets the symbol used to represent the unchecked state of a check box content control.
 

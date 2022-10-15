@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/get_imagesize/
 ## ImageData.get_ImageSize method
 
 
-Gets the information about image size and resolution. 
+Gets the information about image size and resolution.
 

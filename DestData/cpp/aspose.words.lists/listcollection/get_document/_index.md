@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listcollection/get_document/
 ## ListCollection.get_Document method
 
 
-Gets the owner document. 
+Gets the owner document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotleavebackslashalon
 ## CompatibilityOptions.get_DoNotLeaveBackslashAlone method
 
 
-Convert Backslash To Yen Sign When Entered. 
+Convert Backslash To Yen Sign When Entered.
 

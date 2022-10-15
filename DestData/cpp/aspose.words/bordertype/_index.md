@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordertype/
 ## BorderType enum
 
 
-Specifies sides of a border. 
+Specifies sides of a border.
 

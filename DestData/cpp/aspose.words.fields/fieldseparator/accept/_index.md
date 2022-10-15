@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldseparator/accept/
 ## FieldSeparator.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

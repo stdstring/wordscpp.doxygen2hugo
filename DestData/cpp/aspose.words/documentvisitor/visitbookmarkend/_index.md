@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitbookmarkend/
 ## DocumentVisitor.VisitBookmarkEnd method
 
 
-Called when an end of a bookmark is encountered in the document. 
+Called when an end of a bookmark is encountered in the document.
 

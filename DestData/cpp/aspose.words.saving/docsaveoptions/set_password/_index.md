@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/docsaveoptions/set_password/
 ## DocSaveOptions.set_Password method
 
 
-Setter for Aspose::Words::Saving::DocSaveOptions::get_Password. 
+Setter for [Aspose::Words::Saving::DocSaveOptions::get_Password](./get_password/).
 

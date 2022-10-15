@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_borderalwaysinfront/
 ## PageSetup.set_BorderAlwaysInFront method
 
 
-Setter for Aspose::Words::PageSetup::get_BorderAlwaysInFront. 
+Setter for [Aspose::Words::PageSetup::get_BorderAlwaysInFront](./get_borderalwaysinfront/).
 

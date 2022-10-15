@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/gradientstop/gradientstop/
 ## GradientStop.GradientStop method
 
 
-Initializes a new instance of the GradientStop class. 
+Initializes a new instance of the [GradientStop](./) class.
 
 ---
 title: GradientStop
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.drawing/gradientstop/gradientstop/
 ## GradientStop.GradientStop method
 
 
-Initializes a new instance of the GradientStop class. 
+Initializes a new instance of the [GradientStop](./) class.
 

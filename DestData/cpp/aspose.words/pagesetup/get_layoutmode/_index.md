@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_layoutmode/
 ## PageSetup.get_LayoutMode method
 
 
-Gets or sets the layout mode of this section. 
+Gets or sets the layout mode of this section.
 

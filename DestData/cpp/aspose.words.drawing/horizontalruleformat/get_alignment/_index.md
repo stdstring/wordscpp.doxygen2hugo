@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/get_alignment/
 ## HorizontalRuleFormat.get_Alignment method
 
 
-Gets or sets the alignment of the horizontal rule. 
+Gets or sets the alignment of the horizontal rule.
 

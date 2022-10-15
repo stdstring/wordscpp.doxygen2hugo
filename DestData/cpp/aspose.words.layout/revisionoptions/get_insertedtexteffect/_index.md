@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/get_insertedtexteffect/
 ## RevisionOptions.get_InsertedTextEffect method
 
 
-Allows to specify the effect to be applied to the inserted content Insertion. Default value is Underline. 
+Allows to specify the effect to be applied to the inserted content **Insertion**. Default value is **Underline**.
 

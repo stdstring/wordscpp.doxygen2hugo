@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/set_dropdownselectedindex/
 ## FormField.set_DropDownSelectedIndex method
 
 
-Setter for Aspose::Words::Fields::FormField::get_DropDownSelectedIndex. 
+Setter for [Aspose::Words::Fields::FormField::get_DropDownSelectedIndex](./get_dropdownselectedindex/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/removechild/
 ## CompositeNode.RemoveChild method
 
 
-Removes the specified child node. 
+Removes the specified child node.
 

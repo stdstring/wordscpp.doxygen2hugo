@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfcompliance/
 ## PdfCompliance enum
 
 
-Specifies the PDF standards compliance level. 
+Specifies the PDF standards compliance level.
 

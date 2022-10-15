@@ -9,5 +9,5 @@ url: /cpp/aspose.words/linenumberrestartmode/
 ## LineNumberRestartMode enum
 
 
-Determines when automatic line numbering restarts. 
+Determines when automatic line numbering restarts.
 

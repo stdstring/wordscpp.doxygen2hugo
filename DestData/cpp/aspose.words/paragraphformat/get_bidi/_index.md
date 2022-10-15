@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_bidi/
 ## ParagraphFormat.get_Bidi method
 
 
-Gets or sets whether this is a right-to-left paragraph. 
+Gets or sets whether this is a right-to-left paragraph.
 

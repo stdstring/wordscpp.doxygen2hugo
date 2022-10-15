@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/removeexternalschemareferences/
 ## Document.RemoveExternalSchemaReferences method
 
 
-Removes external XML schema references from this document. 
+Removes external XML schema references from this document.
 

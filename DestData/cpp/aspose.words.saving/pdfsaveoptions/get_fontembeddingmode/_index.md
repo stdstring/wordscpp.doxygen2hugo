@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_fontembeddingmode/
 ## PdfSaveOptions.get_FontEmbeddingMode method
 
 
-Specifies the font embedding mode. 
+Specifies the font embedding mode.
 

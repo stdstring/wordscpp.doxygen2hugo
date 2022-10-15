@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/folderfontsource/get_type/
 ## FolderFontSource.get_Type method
 
 
-Returns the type of the font source. 
+Returns the type of the font source.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapemarkuplanguage/
 ## ShapeMarkupLanguage enum
 
 
-Specifies Markup language used for the shape. 
+Specifies [Markup](../aspose.words.markup/) language used for the shape.
 

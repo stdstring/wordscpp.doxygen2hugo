@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldddeauto/get_sourcefullname/
 ## FieldDdeAuto.get_SourceFullName method
 
 
-Gets or sets the name and location of the source file. 
+Gets or sets the name and location of the source file.
 

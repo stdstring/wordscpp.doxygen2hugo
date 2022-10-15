@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/removeat/
 ## CustomXmlPartCollection.RemoveAt method
 
 
-Removes an item at the specified index. 
+Removes an item at the specified index.
 

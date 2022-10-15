@@ -9,5 +9,5 @@ url: /cpp/aspose.words/run/get_text/
 ## Run.get_Text method
 
 
-Gets or sets the text of the run. 
+Gets or sets the text of the run.
 

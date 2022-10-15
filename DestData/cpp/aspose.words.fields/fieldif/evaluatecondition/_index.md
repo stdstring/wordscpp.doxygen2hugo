@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldif/evaluatecondition/
 ## FieldIf.EvaluateCondition method
 
 
-Evaluates the condition. 
+Evaluates the condition.
 

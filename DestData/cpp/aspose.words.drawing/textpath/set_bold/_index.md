@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_bold/
 ## TextPath.set_Bold method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_Bold. 
+Setter for [Aspose::Words::Drawing::TextPath::get_Bold](./get_bold/).
 

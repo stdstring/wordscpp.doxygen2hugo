@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/set_result/
 ## FormField.set_Result method
 
 
-Setter for Aspose::Words::Fields::FormField::get_Result. 
+Setter for [Aspose::Words::Fields::FormField::get_Result](./get_result/).
 

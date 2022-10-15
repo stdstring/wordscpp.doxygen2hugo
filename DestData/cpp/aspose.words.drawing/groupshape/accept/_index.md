@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/groupshape/accept/
 ## GroupShape.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

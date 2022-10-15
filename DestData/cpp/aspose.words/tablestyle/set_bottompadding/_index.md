@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/set_bottompadding/
 ## TableStyle.set_BottomPadding method
 
 
-Setter for Aspose::Words::TableStyle::get_BottomPadding. 
+Setter for [Aspose::Words::TableStyle::get_BottomPadding](./get_bottompadding/).
 

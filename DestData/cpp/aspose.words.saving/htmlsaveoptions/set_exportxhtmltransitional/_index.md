@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportxhtmltransitional/
 ## HtmlSaveOptions.set_ExportXhtmlTransitional method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional](./get_exportxhtmltransitional/).
 

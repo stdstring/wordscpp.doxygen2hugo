@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportdocumentproperties/
 ## HtmlSaveOptions.get_ExportDocumentProperties method
 
 
-Specifies whether to export built-in and custom document properties to HTML, MHTML or EPUB. Default value is **false**. 
+Specifies whether to export built-in and custom document properties to HTML, MHTML or EPUB. Default value is **false**.
 

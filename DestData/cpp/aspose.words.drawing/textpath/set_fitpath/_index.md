@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_fitpath/
 ## TextPath.set_FitPath method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_FitPath. 
+Setter for [Aspose::Words::Drawing::TextPath::get_FitPath](./get_fitpath/).
 

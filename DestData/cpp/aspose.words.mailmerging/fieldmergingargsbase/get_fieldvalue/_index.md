@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_fieldvalue/
 ## FieldMergingArgsBase.get_FieldValue method
 
 
-Gets the value of the field from the data source. 
+Gets the value of the field from the data source.
 

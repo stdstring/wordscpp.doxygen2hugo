@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_useinvariantculturenumberformat/
 ## FieldOptions.get_UseInvariantCultureNumberFormat method
 
 
-Gets or sets the value indicating that number format is parsed using invariant culture or not. 
+Gets or sets the value indicating that number format is parsed using invariant culture or not.
 

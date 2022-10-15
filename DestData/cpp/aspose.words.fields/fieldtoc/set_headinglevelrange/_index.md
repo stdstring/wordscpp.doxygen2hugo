@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/set_headinglevelrange/
 ## FieldToc.set_HeadingLevelRange method
 
 
-Setter for Aspose::Words::Fields::FieldToc::get_HeadingLevelRange. 
+Setter for [Aspose::Words::Fields::FieldToc::get_HeadingLevelRange](./get_headinglevelrange/).
 

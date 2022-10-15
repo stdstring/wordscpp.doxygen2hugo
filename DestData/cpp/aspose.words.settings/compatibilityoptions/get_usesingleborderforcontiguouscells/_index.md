@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_usesingleborderforconti
 ## CompatibilityOptions.get_UseSingleBorderforContiguousCells method
 
 
-Use Simplified Rules For Table Border Conflicts. 
+Use Simplified Rules For Table [Border](../../aspose.words/border/) Conflicts.
 

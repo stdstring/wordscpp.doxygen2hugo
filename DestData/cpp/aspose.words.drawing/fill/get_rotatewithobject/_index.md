@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_rotatewithobject/
 ## Fill.get_RotateWithObject method
 
 
-Gets whether the fill rotates with the specified object. 
+Gets whether the fill rotates with the specified object.
 

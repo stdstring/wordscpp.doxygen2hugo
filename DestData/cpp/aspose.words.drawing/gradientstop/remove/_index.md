@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/gradientstop/remove/
 ## GradientStop.Remove method
 
 
-Removes the gradient stop from the parent GradientStopCollection. 
+Removes the gradient stop from the parent [GradientStopCollection](../gradientstopcollection/).
 

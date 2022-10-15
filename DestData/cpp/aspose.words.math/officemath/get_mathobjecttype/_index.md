@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemath/get_mathobjecttype/
 ## OfficeMath.get_MathObjectType method
 
 
-Gets type MathObjectType of this Office Math object. 
+Gets type [MathObjectType](./get_mathobjecttype/) of this Office [Math](../) object.
 

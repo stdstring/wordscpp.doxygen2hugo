@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbaproject/vbaproject/
 ## VbaProject.VbaProject method
 
 
-Creates a blank VbaProject. 
+Creates a blank [VbaProject](./).
 

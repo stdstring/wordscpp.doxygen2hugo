@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/get_count/
 ## CompositeNode.get_Count method
 
 
-Gets the number of immediate children of this node. 
+Gets the number of immediate children of this node.
 

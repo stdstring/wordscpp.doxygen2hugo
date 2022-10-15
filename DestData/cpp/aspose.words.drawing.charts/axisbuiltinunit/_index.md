@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisbuiltinunit/
 ## AxisBuiltInUnit enum
 
 
-Specifies the display units for an axis. 
+Specifies the display units for an axis.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/set_updatelastsavedtimeproperty/
 ## SaveOptions.set_UpdateLastSavedTimeProperty method
 
 
-Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty. 
+Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty](./get_updatelastsavedtimeproperty/).
 

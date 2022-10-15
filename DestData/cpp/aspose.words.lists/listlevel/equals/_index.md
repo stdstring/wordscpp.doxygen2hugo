@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlevel/equals/
 ## ListLevel.Equals method
 
 
-Compares with the specified ListLevel. 
+Compares with the specified [ListLevel](./).
 

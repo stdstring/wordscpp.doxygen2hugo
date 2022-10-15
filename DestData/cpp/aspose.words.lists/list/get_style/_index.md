@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/list/get_style/
 ## List.get_Style method
 
 
-Gets the list style that this list references or defines. 
+Gets the list style that this list references or defines.
 

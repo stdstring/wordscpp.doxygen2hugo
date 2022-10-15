@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/get_builtin/
 ## Style.get_BuiltIn method
 
 
-True if this style is one of the built-in styles in MS Word. 
+True if this style is one of the built-in styles in MS Word.
 

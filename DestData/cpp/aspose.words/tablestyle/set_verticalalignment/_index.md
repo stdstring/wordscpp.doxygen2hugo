@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/set_verticalalignment/
 ## TableStyle.set_VerticalAlignment method
 
 
-Setter for Aspose::Words::TableStyle::get_VerticalAlignment. 
+Setter for [Aspose::Words::TableStyle::get_VerticalAlignment](./get_verticalalignment/).
 

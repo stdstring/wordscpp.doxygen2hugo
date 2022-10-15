@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_interpolateimages/
 ## PdfSaveOptions.set_InterpolateImages method
 
 
-Setter for Aspose::Words::Saving::PdfSaveOptions::get_InterpolateImages. 
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_InterpolateImages](./get_interpolateimages/).
 

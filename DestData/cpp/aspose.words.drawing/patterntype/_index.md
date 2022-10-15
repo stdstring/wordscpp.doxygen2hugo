@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/patterntype/
 ## PatternType enum
 
 
-Specifies the fill pattern to be used to fill a shape. 
+Specifies the fill pattern to be used to fill a shape.
 

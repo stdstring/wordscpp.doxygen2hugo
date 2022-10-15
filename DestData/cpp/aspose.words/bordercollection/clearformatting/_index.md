@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/clearformatting/
 ## BorderCollection.ClearFormatting method
 
 
-Removes all borders of an object. 
+Removes all borders of an object.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlversion/
 ## HtmlVersion enum
 
 
-Indicates the version of HTML is used when saving the document to Html and Mhtml formats. 
+Indicates the version of HTML is used when saving the document to **Html** and **Mhtml** formats.
 

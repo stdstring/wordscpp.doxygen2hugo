@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblockgallery/
 ## BuildingBlockGallery enum
 
 
-Specifies the predefined gallery into which a building block is classified. 
+Specifies the predefined gallery into which a building block is classified.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/runcollection/idx_get/
 ## RunCollection.idx_get method
 
 
-Retrieves a **Run** at the given index. 
+Retrieves a **Run** at the given index.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/set_suppressauthor/
 ## FieldCitation.set_SuppressAuthor method
 
 
-Setter for Aspose::Words::Fields::FieldCitation::get_SuppressAuthor. 
+Setter for [Aspose::Words::Fields::FieldCitation::get_SuppressAuthor](./get_suppressauthor/).
 

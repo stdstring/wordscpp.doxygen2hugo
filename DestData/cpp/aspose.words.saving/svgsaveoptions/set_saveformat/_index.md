@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_saveformat/
 ## SvgSaveOptions.set_SaveFormat method
 
 
-Setter for Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat. 
+Setter for [Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat](./get_saveformat/).
 

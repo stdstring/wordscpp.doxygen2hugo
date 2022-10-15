@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/get_encoding/
 ## TxtSaveOptionsBase.get_Encoding method
 
 
-Specifies the encoding to use when exporting in text formats. Default value is **Encoding.UTF8**. 
+Specifies the encoding to use when exporting in text formats. Default value is **Encoding.UTF8**.
 

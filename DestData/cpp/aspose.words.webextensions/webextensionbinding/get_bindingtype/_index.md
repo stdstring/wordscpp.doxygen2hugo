@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionbinding/get_bindingtype/
 ## WebExtensionBinding.get_BindingType method
 
 
-Specifies the binding type. 
+Specifies the binding type.
 

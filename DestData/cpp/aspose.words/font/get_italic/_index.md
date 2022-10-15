@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_italic/
 ## Font.get_Italic method
 
 
-True if the font is formatted as italic. 
+True if the font is formatted as italic.
 

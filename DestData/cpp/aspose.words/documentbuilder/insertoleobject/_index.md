@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertoleobject/
 ## DocumentBuilder.InsertOleObject method
 
 
-Inserts an embedded OLE object from a stream into the document. 
+Inserts an embedded OLE object from a stream into the document.
 
 ---
 title: InsertOleObject
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/documentbuilder/insertoleobject/
 ## DocumentBuilder.InsertOleObject method
 
 
-Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using file extension. 
+Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using file extension.
 
 ---
 title: InsertOleObject
@@ -35,7 +35,7 @@ url: /cpp/aspose.words/documentbuilder/insertoleobject/
 ## DocumentBuilder.InsertOleObject method
 
 
-Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using given progID parameter. 
+Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using given progID parameter.
 
 ---
 title: InsertOleObject

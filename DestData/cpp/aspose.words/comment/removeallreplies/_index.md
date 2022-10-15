@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/removeallreplies/
 ## Comment.RemoveAllReplies method
 
 
-Removes all replies to this comment. 
+Removes all replies to this comment.
 

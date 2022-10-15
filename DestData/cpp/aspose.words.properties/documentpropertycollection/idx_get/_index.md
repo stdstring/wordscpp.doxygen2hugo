@@ -9,7 +9,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/idx_get/
 ## DocumentPropertyCollection.idx_get method
 
 
-Returns a DocumentProperty object by index. 
+Returns a [DocumentProperty](../documentproperty/) object by index.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.properties/documentpropertycollection/idx_get/
 ## DocumentPropertyCollection.idx_get method
 
 
-Returns a DocumentProperty object by the name of the property. 
+Returns a [DocumentProperty](../documentproperty/) object by the name of the property.
 

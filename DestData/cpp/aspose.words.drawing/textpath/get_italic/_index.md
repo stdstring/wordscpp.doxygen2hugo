@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_italic/
 ## TextPath.get_Italic method
 
 
-True if the font is formatted as italic. 
+True if the font is formatted as italic.
 

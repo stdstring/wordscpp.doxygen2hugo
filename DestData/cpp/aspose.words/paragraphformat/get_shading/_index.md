@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_shading/
 ## ParagraphFormat.get_Shading method
 
 
-Returns a Shading object that refers to the shading formatting for the paragraph. 
+Returns a [Shading](../shading/) object that refers to the shading formatting for the paragraph.
 

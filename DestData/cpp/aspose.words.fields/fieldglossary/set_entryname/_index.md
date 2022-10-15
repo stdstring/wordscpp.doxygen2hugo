@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldglossary/set_entryname/
 ## FieldGlossary.set_EntryName method
 
 
-Setter for Aspose::Words::Fields::FieldGlossary::get_EntryName. 
+Setter for [Aspose::Words::Fields::FieldGlossary::get_EntryName](./get_entryname/).
 

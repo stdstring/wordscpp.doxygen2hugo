@@ -9,7 +9,7 @@ url: /cpp/aspose.words/conditionalstylecollection/idx_get/
 ## ConditionalStyleCollection.idx_get method
 
 
-Retrieves a ConditionalStyle object by conditional style type. 
+Retrieves a [ConditionalStyle](../conditionalstyle/) object by conditional style type.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/conditionalstylecollection/idx_get/
 ## ConditionalStyleCollection.idx_get method
 
 
-Retrieves a ConditionalStyle object by index. 
+Retrieves a [ConditionalStyle](../conditionalstyle/) object by index.
 

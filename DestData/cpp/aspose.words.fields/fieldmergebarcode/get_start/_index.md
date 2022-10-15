@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_start/
 ## FieldMergeBarcode.get_Start method
 
 
-Gets the node that represents the start of the field. 
+Gets the node that represents the start of the field.
 

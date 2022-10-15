@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkcollection/getenumerator/
 ## BookmarkCollection.GetEnumerator method
 
 
-Returns an enumerator object. 
+Returns an enumerator object.
 

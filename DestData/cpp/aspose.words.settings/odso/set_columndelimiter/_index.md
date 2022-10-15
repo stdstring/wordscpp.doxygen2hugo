@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odso/set_columndelimiter/
 ## Odso.set_ColumnDelimiter method
 
 
-Setter for Aspose::Words::Settings::Odso::get_ColumnDelimiter. 
+Setter for [Aspose::Words::Settings::Odso::get_ColumnDelimiter](./get_columndelimiter/).
 

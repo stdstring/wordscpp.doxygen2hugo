@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/list/compareto/
 ## List.CompareTo method
 
 
-Compares the specified list to the current list. 
+Compares the specified list to the current list.
 

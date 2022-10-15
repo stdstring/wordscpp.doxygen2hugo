@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/set_current/
 ## LayoutEnumerator.set_Current method
 
 
-Setter for Aspose::Words::Layout::LayoutEnumerator::get_Current. 
+Setter for [Aspose::Words::Layout::LayoutEnumerator::get_Current](./get_current/).
 

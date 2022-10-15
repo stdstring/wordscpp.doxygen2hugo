@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/odtsaveoptions/set_saveformat/
 ## OdtSaveOptions.set_SaveFormat method
 
 
-Setter for Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat. 
+Setter for [Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat](./get_saveformat/).
 

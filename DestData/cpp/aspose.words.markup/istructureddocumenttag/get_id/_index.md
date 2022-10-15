@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/get_id/
 ## IStructuredDocumentTag.get_Id method
 
 
-Specifies a unique read-only persistent numerical Id for this **SDT**. 
+Specifies a unique read-only persistent numerical Id for this **SDT**.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_dropcapposition/
 ## ParagraphFormat.get_DropCapPosition method
 
 
-Gets or sets the position for a drop cap text. 
+Gets or sets the position for a drop cap text.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_imageheight/
 ## ImageFieldMergingArgs.get_ImageHeight method
 
 
-Specifies the image height for the image to insert into the document. 
+Specifies the image height for the image to insert into the document.
 

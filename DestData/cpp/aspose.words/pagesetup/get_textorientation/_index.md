@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_textorientation/
 ## PageSetup.get_TextOrientation method
 
 
-Allows to specify TextOrientation for the whole page. Default value is Horizontal
+Allows to specify [TextOrientation](./get_textorientation/) for the whole page. Default value is **Horizontal**
 

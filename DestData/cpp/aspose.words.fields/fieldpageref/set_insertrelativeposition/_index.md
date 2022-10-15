@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldpageref/set_insertrelativeposition/
 ## FieldPageRef.set_InsertRelativePosition method
 
 
-Setter for Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition. 
+Setter for [Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition](./get_insertrelativeposition/).
 

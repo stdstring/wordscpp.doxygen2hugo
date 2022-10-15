@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_listitems/
 ## StructuredDocumentTag.get_ListItems method
 
 
-Gets SdtListItemCollection associated with this **SDT**. 
+Gets [SdtListItemCollection](../sdtlistitemcollection/) associated with this **SDT**.
 

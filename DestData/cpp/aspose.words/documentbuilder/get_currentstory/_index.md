@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/get_currentstory/
 ## DocumentBuilder.get_CurrentStory method
 
 
-Gets the story that is currently selected in this DocumentBuilder. 
+Gets the story that is currently selected in this [DocumentBuilder](./).
 

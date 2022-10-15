@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_fulldate/
 ## StructuredDocumentTag.get_FullDate method
 
 
-Specifies the full date and time last entered into this **SDT**. 
+Specifies the full date and time last entered into this **SDT**.
 

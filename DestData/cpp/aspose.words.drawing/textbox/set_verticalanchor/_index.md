@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/set_verticalanchor/
 ## TextBox.set_VerticalAnchor method
 
 
-Setter for Aspose::Words::Drawing::TextBox::get_VerticalAnchor. 
+Setter for [Aspose::Words::Drawing::TextBox::get_VerticalAnchor](./get_verticalanchor/).
 

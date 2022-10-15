@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odso/set_firstrowcontainscolumnnames/
 ## Odso.set_FirstRowContainsColumnNames method
 
 
-Setter for Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames. 
+Setter for [Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames](./get_firstrowcontainscolumnnames/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_insertastext/
 ## FieldDdeAuto.set_InsertAsText method
 
 
-Setter for Aspose::Words::Fields::FieldDdeAuto::get_InsertAsText. 
+Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsText](./get_insertastext/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_showseriesnam
 ## ChartDataLabelCollection.get_ShowSeriesName method
 
 
-Returns or sets a Boolean to indicate the series name display behavior for the data labels of the entire series. **True** to show the series name. **False** to hide. By default **false**. 
+Returns or sets a Boolean to indicate the series name display behavior for the data labels of the entire series. **True** to show the series name. **False** to hide. By default **false**.
 

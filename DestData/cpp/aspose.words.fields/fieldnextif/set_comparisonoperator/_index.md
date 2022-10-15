@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldnextif/set_comparisonoperator/
 ## FieldNextIf.set_ComparisonOperator method
 
 
-Sets the comparison operator. 
+Sets the comparison operator.
 

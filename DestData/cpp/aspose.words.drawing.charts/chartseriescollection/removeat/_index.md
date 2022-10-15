@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/removeat/
 ## ChartSeriesCollection.RemoveAt method
 
 
-Removes a ChartSeries at the specified index. 
+Removes a [ChartSeries](../chartseries/) at the specified index.
 

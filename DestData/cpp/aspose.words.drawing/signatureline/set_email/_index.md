@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/set_email/
 ## SignatureLine.set_Email method
 
 
-Setter for Aspose::Words::Drawing::SignatureLine::get_Email. 
+Setter for [Aspose::Words::Drawing::SignatureLine::get_Email](./get_email/).
 

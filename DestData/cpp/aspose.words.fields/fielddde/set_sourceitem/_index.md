@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddde/set_sourceitem/
 ## FieldDde.set_SourceItem method
 
 
-Setter for Aspose::Words::Fields::FieldDde::get_SourceItem. 
+Setter for [Aspose::Words::Fields::FieldDde::get_SourceItem](./get_sourceitem/).
 

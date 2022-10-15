@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/get_imagetype/
 ## ImageData.get_ImageType method
 
 
-Gets the type of the image. 
+Gets the type of the image.
 

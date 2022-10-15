@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/set_type/
 ## BuildingBlock.set_Type method
 
 
-Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Type. 
+Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Type](./get_type/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/add/
 ## MappedDataFieldCollection.Add method
 
 
-Adds a new field mapping. 
+Adds a new field mapping.
 

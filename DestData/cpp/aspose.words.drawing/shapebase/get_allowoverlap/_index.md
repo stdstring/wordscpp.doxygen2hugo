@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_allowoverlap/
 ## ShapeBase.get_AllowOverlap method
 
 
-Gets or sets a value that specifies whether this shape can overlap other shapes. 
+Gets or sets a value that specifies whether this shape can overlap other shapes.
 

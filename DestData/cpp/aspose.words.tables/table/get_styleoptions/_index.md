@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_styleoptions/
 ## Table.get_StyleOptions method
 
 
-Gets or sets bit flags that specify how a table style is applied to this table. 
+Gets or sets bit flags that specify how a table style is applied to this table.
 

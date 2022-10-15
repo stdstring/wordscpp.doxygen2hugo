@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/indexofkey/
 ## CustomXmlPropertyCollection.IndexOfKey method
 
 
-Returns the zero-based index of the specified property in the collection. 
+Returns the zero-based index of the specified property in the collection.
 

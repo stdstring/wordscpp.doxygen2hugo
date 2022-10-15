@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentsecurity/
 ## DocumentSecurity enum
 
 
-Used as a value for the Security property. Specifies the security level of a document as a numeric value. 
+Used as a value for the [Security](./builtindocumentproperties/get_security/) property. Specifies the security level of a document as a numeric value.
 

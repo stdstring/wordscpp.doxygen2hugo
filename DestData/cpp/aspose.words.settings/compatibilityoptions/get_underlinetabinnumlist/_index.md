@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_underlinetabinnumlist/
 ## CompatibilityOptions.get_UnderlineTabInNumList method
 
 
-Underline Following Character Following Numbering. 
+Underline Following Character Following Numbering.
 

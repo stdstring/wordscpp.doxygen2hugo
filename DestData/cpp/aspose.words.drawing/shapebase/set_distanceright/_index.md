@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_distanceright/
 ## ShapeBase.set_DistanceRight method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_DistanceRight. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceRight](./get_distanceright/).
 

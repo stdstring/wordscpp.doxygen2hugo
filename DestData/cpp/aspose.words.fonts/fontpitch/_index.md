@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontpitch/
 ## FontPitch enum
 
 
-Represents the font pitch. 
+Represents the font pitch.
 

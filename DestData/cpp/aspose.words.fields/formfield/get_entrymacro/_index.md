@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/get_entrymacro/
 ## FormField.get_EntryMacro method
 
 
-Returns or sets an entry macro name for the form field. 
+Returns or sets an entry macro name for the form field.
 

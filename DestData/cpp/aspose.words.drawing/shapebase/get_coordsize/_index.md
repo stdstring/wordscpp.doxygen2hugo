@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_coordsize/
 ## ShapeBase.get_CoordSize method
 
 
-The width and height of the coordinate space inside the containing block of this shape. 
+The width and height of the coordinate space inside the containing block of this shape.
 

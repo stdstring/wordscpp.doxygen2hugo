@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldimport/get_graphicfilter/
 ## FieldImport.get_GraphicFilter method
 
 
-Gets or sets the name of the filter for the format of the graphic that is to be inserted. 
+Gets or sets the name of the filter for the format of the graphic that is to be inserted.
 

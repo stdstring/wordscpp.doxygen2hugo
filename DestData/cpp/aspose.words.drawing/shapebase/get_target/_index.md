@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_target/
 ## ShapeBase.get_Target method
 
 
-Gets or sets the target frame for the shape hyperlink. 
+Gets or sets the target frame for the shape hyperlink.
 

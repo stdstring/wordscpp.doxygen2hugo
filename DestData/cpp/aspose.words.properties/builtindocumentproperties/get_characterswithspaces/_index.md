@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_characterswithsp
 ## BuiltInDocumentProperties.get_CharactersWithSpaces method
 
 
-Represents an estimate of the number of characters (including spaces) in the document. 
+Represents an estimate of the number of characters (including spaces) in the document.
 

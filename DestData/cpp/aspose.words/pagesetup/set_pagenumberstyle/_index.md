@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_pagenumberstyle/
 ## PageSetup.set_PageNumberStyle method
 
 
-Setter for Aspose::Words::PageSetup::get_PageNumberStyle. 
+Setter for [Aspose::Words::PageSetup::get_PageNumberStyle](./get_pagenumberstyle/).
 

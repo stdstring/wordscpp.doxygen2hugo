@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_engrave/
 ## Font.get_Engrave method
 
 
-True if the font is formatted as engraved. 
+True if the font is formatted as engraved.
 

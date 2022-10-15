@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/idx_get/
 ## FontInfoCollection.idx_get method
 
 
-Gets a font with the specified name. 
+Gets a font with the specified name.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fonts/fontinfocollection/idx_get/
 ## FontInfoCollection.idx_get method
 
 
-Gets a font at the specified index. 
+Gets a font at the specified index.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_color/
 ## Font.set_Color method
 
 
-Setter for Aspose::Words::Font::get_Color. 
+Setter for [Aspose::Words::Font::get_Color](./get_color/).
 

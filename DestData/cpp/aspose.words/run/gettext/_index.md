@@ -9,5 +9,5 @@ url: /cpp/aspose.words/run/gettext/
 ## Run.GetText method
 
 
-Gets the text of the run. 
+Gets the text of the run.
 

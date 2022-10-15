@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldend/get_hasseparator/
 ## FieldEnd.get_HasSeparator method
 
 
-Returns **true** if this field has a separator. 
+Returns **true** if this field has a separator.
 

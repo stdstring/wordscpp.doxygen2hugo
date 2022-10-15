@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldif/get_rightexpression/
 ## FieldIf.get_RightExpression method
 
 
-Gets or sets the right part of the comparison expression. 
+Gets or sets the right part of the comparison expression.
 

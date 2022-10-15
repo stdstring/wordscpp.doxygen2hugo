@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsettings/savesearchcache/
 ## FontSettings.SaveSearchCache method
 
 
-Saves the font search cache to the stream. 
+Saves the font search cache to the stream.
 

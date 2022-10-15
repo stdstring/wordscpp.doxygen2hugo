@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/set_documentpartfilename/
 ## DocumentPartSavingArgs.set_DocumentPartFileName method
 
 
-Setter for Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName. 
+Setter for [Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName](./get_documentpartfilename/).
 

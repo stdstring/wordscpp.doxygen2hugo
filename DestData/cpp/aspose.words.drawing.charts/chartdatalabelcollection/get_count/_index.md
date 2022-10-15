@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_count/
 ## ChartDataLabelCollection.get_Count method
 
 
-Returns the number of ChartDataLabel in this collection. 
+Returns the number of [ChartDataLabel](../chartdatalabel/) in this collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldhyperlink/set_openinnewwindow/
 ## FieldHyperlink.set_OpenInNewWindow method
 
 
-Setter for Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow. 
+Setter for [Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow](./get_openinnewwindow/).
 

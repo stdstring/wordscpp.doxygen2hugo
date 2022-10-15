@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_hashalgorithm/
 ## PdfDigitalSignatureDetails.set_HashAlgorithm method
 
 
-Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm. 
+Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm](./get_hashalgorithm/).
 

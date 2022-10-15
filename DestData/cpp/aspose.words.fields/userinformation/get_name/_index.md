@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/userinformation/get_name/
 ## UserInformation.get_Name method
 
 
-Gets or sets the user's name. 
+Gets or sets the user's name.
 

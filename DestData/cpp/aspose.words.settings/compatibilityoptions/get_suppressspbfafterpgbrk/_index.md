@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_suppressspbfafterpgbrk/
 ## CompatibilityOptions.get_SuppressSpBfAfterPgBrk method
 
 
-Do Not Use Space Before On First Line After a Page Break. 
+Do Not Use Space Before On First Line After a Page Break.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/get_showparagraphmarks/
 ## LayoutOptions.get_ShowParagraphMarks method
 
 
-Gets or sets indication of whether paragraph marks are rendered. Default is False. 
+Gets or sets indication of whether paragraph marks are rendered. Default is False.
 

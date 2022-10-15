@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revision/set_author/
 ## Revision.set_Author method
 
 
-Setter for Aspose::Words::Revision::get_Author. 
+Setter for [Aspose::Words::Revision::get_Author](./get_author/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/get_font/
 ## ConditionalStyle.get_Font method
 
 
-Gets the character formatting of the conditional style. 
+Gets the character formatting of the conditional style.
 

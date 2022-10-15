@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/getenumerator/
 ## ChartLegendEntryCollection.GetEnumerator method
 
 
-Returns an enumerator object. 
+Returns an enumerator object.
 

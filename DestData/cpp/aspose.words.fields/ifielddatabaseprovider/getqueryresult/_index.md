@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/ifielddatabaseprovider/getqueryresult/
 ## IFieldDatabaseProvider.GetQueryResult method
 
 
-Returns query result. 
+Returns query result.
 

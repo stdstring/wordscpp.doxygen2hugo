@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturetype/
 ## DigitalSignatureType enum
 
 
-Specifies the type of a digital signature. 
+Specifies the type of a digital signature.
 

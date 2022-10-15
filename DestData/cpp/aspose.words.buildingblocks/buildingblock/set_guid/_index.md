@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/set_guid/
 ## BuildingBlock.set_Guid method
 
 
-Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid. 
+Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid](./get_guid/).
 

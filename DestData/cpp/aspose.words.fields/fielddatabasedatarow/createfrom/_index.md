@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabasedatarow/createfrom/
 ## FieldDatabaseDataRow.CreateFrom method
 
 
-Initializes a new instance of the FieldDatabaseDataRow class from the DataRow instance. 
+Initializes a new instance of the [FieldDatabaseDataRow](./) class from the **DataRow** instance.
 

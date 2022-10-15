@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/csssavingargs/get_cssstream/
 ## CssSavingArgs.get_CssStream method
 
 
-Allows to specify the stream where the CSS information will be saved to. 
+Allows to specify the stream where the CSS information will be saved to.
 

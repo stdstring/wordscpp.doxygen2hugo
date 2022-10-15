@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_endcap/
 ## Stroke.get_EndCap method
 
 
-Defines the cap style for the end of a stroke. 
+Defines the cap style for the end of a stroke.
 

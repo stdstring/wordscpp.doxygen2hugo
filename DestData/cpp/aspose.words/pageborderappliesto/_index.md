@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pageborderappliesto/
 ## PageBorderAppliesTo enum
 
 
-Specifies which pages the page border is printed on. 
+Specifies which pages the page border is printed on.
 

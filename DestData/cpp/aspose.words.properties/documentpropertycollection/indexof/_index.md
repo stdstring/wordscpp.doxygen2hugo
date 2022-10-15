@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentpropertycollection/indexof/
 ## DocumentPropertyCollection.IndexOf method
 
 
-Gets the index of a property by name. 
+Gets the index of a property by name.
 

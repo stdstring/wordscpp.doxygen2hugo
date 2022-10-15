@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_anchorlocked/
 ## ShapeBase.set_AnchorLocked method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_AnchorLocked. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_AnchorLocked](./get_anchorlocked/).
 

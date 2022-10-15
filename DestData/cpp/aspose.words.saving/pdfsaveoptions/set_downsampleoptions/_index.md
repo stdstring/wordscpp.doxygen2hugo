@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_downsampleoptions/
 ## PdfSaveOptions.set_DownsampleOptions method
 
 
-Setter for Aspose::Words::Saving::PdfSaveOptions::get_DownsampleOptions. 
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DownsampleOptions](./get_downsampleoptions/).
 

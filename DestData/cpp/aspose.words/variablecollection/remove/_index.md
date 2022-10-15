@@ -9,5 +9,5 @@ url: /cpp/aspose.words/variablecollection/remove/
 ## VariableCollection.Remove method
 
 
-Removes a document variable with the specified name from the collection. 
+Removes a document variable with the specified name from the collection.
 

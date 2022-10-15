@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/compare/
 ## Document.Compare method
 
 
-Compares this document with another document producing changes as number of edit and format revisions Revision. 
+Compares this document with another document producing changes as number of edit and format revisions [Revision](../revision/).
 
 ---
 title: Compare
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/compare/
 ## Document.Compare method
 
 
-Compares this document with another document producing changes as a number of edit and format revisions Revision. Allows to specify comparison options using CompareOptions. 
+Compares this document with another document producing changes as a number of edit and format revisions [Revision](../revision/). Allows to specify comparison options using [CompareOptions](../../aspose.words.comparing/compareoptions/).
 

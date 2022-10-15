@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnotetype/
 ## FootnoteType enum
 
 
-Specifies whether this is a footnote or an endnote. 
+Specifies whether this is a footnote or an endnote.
 

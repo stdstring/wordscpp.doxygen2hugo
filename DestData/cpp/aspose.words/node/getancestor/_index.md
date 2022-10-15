@@ -9,5 +9,5 @@ url: /cpp/aspose.words/node/getancestor/
 ## Node.GetAncestor method
 
 
-Gets the first ancestor of the specified NodeType. 
+Gets the first ancestor of the specified [NodeType](../nodetype/).
 

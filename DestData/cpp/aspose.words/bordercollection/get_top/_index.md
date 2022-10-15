@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_top/
 ## BorderCollection.get_Top method
 
 
-Gets the top border. 
+Gets the top border.
 

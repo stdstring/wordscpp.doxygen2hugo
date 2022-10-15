@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/save/
 ## NodeRendererBase.Save method
 
 
-Renders the shape into an image and saves into a stream. 
+Renders the shape into an image and saves into a stream.
 
 ---
 title: Save
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/save/
 ## NodeRendererBase.Save method
 
 
-Renders the shape into an image and saves into a file. 
+Renders the shape into an image and saves into a file.
 
 ---
 title: Save

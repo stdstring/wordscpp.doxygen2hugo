@@ -9,5 +9,5 @@ url: /cpp/aspose.words/frameformat/get_heightrule/
 ## FrameFormat.get_HeightRule method
 
 
-Gets the rule for determining the height of the specified frame. 
+Gets the rule for determining the height of the specified frame.
 

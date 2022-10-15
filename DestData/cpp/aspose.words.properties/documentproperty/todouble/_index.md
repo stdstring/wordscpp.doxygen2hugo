@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentproperty/todouble/
 ## DocumentProperty.ToDouble method
 
 
-Returns the property value as double. 
+Returns the property value as double.
 

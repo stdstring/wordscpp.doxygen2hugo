@@ -9,5 +9,5 @@ url: /cpp/aspose.words/controlchar/cr/
 ## ControlChar.Cr method
 
 
-Carriage return character: "\x000d" or "\r". Same as ParagraphBreak. 
+Carriage return character: "\x000d" or "\r". Same as [ParagraphBreak](./paragraphbreak/).
 

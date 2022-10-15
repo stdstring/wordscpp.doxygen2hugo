@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/save/
 ## ImageData.Save method
 
 
-Saves the image into the specified stream. 
+Saves the image into the specified stream.
 
 ---
 title: Save
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.drawing/imagedata/save/
 ## ImageData.Save method
 
 
-Saves the image into a file. 
+Saves the image into a file.
 
 ---
 title: Save

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/set_stroked/
 ## Shape.set_Stroked method
 
 
-Setter for Aspose::Words::Drawing::Shape::get_Stroked. 
+Setter for [Aspose::Words::Drawing::Shape::get_Stroked](./get_stroked/).
 

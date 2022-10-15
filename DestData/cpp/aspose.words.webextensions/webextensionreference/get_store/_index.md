@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionreference/get_store/
 ## WebExtensionReference.get_Store method
 
 
-Specifies the instance of the marketplace where the web extension is stored. 
+Specifies the instance of the marketplace where the web extension is stored.
 

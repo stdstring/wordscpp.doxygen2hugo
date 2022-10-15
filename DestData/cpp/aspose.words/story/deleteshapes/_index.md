@@ -9,5 +9,5 @@ url: /cpp/aspose.words/story/deleteshapes/
 ## Story.DeleteShapes method
 
 
-Deletes all shapes from the text of this story. 
+Deletes all shapes from the text of this story.
 

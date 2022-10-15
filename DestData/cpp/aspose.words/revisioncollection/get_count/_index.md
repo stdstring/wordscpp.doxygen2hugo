@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisioncollection/get_count/
 ## RevisionCollection.get_Count method
 
 
-Returns the number of revisions in the collection. 
+Returns the number of revisions in the collection.
 

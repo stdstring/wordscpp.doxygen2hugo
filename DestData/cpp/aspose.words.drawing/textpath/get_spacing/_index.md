@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_spacing/
 ## TextPath.get_Spacing method
 
 
-Defines the amount of spacing for text. 1 means 100%. 
+Defines the amount of spacing for text. 1 means 100%.
 

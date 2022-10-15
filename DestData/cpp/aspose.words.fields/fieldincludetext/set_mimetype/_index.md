@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_mimetype/
 ## FieldIncludeText.set_MimeType method
 
 
-Setter for Aspose::Words::Fields::FieldIncludeText::get_MimeType. 
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_MimeType](./get_mimetype/).
 

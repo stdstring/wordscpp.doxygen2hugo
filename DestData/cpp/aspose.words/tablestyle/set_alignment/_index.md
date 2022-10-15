@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/set_alignment/
 ## TableStyle.set_Alignment method
 
 
-Setter for Aspose::Words::TableStyle::get_Alignment. 
+Setter for [Aspose::Words::TableStyle::get_Alignment](./get_alignment/).
 

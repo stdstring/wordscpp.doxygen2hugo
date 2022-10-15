@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldprint/get_postscriptgroup/
 ## FieldPrint.get_PostScriptGroup method
 
 
-Gets or sets the drawing rectangle that the PostScript instructions operate on. 
+Gets or sets the drawing rectangle that the PostScript instructions operate on.
 

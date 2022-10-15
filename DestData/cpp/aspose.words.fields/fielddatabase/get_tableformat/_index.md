@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/get_tableformat/
 ## FieldDatabase.get_TableFormat method
 
 
-Gets the format that is to be applied to the result of the database query. 
+Gets the format that is to be applied to the result of the database query.
 

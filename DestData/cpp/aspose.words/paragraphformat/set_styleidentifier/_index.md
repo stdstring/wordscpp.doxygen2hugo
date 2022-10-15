@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_styleidentifier/
 ## ParagraphFormat.set_StyleIdentifier method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_StyleIdentifier. 
+Setter for [Aspose::Words::ParagraphFormat::get_StyleIdentifier](./get_styleidentifier/).
 

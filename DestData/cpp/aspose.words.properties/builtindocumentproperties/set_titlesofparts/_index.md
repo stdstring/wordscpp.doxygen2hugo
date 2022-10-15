@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_titlesofparts/
 ## BuiltInDocumentProperties.set_TitlesOfParts method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts](./get_titlesofparts/).
 

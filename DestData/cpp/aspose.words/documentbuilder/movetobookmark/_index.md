@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/movetobookmark/
 ## DocumentBuilder.MoveToBookmark method
 
 
-Moves the cursor to a bookmark. 
+Moves the cursor to a bookmark.
 
 ---
 title: MoveToBookmark
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/movetobookmark/
 ## DocumentBuilder.MoveToBookmark method
 
 
-Moves the cursor to a bookmark with greater precision. 
+Moves the cursor to a bookmark with greater precision.
 

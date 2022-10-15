@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_usesubstitutions/
 ## FindReplaceOptions.set_UseSubstitutions method
 
 
-Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions. 
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions](./get_usesubstitutions/).
 

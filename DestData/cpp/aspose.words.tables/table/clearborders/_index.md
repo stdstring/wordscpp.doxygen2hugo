@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/clearborders/
 ## Table.ClearBorders method
 
 
-Removes all table and cell borders on this table. 
+Removes all table and cell borders on this table.
 

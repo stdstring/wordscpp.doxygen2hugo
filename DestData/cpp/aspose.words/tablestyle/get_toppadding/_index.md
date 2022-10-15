@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/get_toppadding/
 ## TableStyle.get_TopPadding method
 
 
-Gets or sets the amount of space (in points) to add above the contents of table cells. 
+Gets or sets the amount of space (in points) to add above the contents of table cells.
 

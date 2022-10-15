@@ -9,5 +9,5 @@ url: /cpp/aspose.words/headerfooter/accept/
 ## HeaderFooter.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

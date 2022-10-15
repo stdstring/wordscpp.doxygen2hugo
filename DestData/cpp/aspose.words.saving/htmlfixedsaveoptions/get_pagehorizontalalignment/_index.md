@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_pagehorizontalalignment/
 ## HtmlFixedSaveOptions.get_PageHorizontalAlignment method
 
 
-Specifies the horizontal alignment of pages in an HTML document. Default value is **HtmlFixedHorizontalPageAlignment.Center**. 
+Specifies the horizontal alignment of pages in an HTML document. Default value is **HtmlFixedHorizontalPageAlignment.Center**.
 

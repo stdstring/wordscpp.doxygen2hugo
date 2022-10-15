@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/tablealignment/
 ## TableAlignment enum
 
 
-Specifies alignment for an inline table. 
+Specifies alignment for an inline table.
 

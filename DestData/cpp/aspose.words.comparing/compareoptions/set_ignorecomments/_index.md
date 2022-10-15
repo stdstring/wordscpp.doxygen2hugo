@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignorecomments/
 ## CompareOptions.set_IgnoreComments method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreComments. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreComments](./get_ignorecomments/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/set_query/
 ## FieldDatabase.set_Query method
 
 
-Sets a set of SQL instructions that query the database. 
+Sets a set of SQL instructions that query the database.
 

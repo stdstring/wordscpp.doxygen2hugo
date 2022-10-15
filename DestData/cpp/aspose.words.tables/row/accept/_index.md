@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/row/accept/
 ## Row.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

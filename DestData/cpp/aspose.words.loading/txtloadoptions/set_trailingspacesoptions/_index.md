@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/txtloadoptions/set_trailingspacesoptions/
 ## TxtLoadOptions.set_TrailingSpacesOptions method
 
 
-Setter for Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions. 
+Setter for [Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions](./get_trailingspacesoptions/).
 

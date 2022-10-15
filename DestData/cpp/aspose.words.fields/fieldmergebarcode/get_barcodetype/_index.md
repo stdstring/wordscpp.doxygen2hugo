@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_barcodetype/
 ## FieldMergeBarcode.get_BarcodeType method
 
 
-Gets the barcode type (QR, etc.) 
+Gets the barcode type (QR, etc.)
 

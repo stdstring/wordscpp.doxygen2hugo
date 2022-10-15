@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_hashalgorithm/
 ## PdfDigitalSignatureDetails.get_HashAlgorithm method
 
 
-Gets or sets the hash algorithm. 
+Gets or sets the hash algorithm.
 

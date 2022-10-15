@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/markdownsaveoptions/set_imagesavingcallback/
 ## MarkdownSaveOptions.set_ImageSavingCallback method
 
 
-Setter for Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback. 
+Setter for [Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback](./get_imagesavingcallback/).
 

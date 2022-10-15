@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_officemathoutputmode/
 ## HtmlSaveOptions.get_OfficeMathOutputMode method
 
 
-Controls how OfficeMath objects are exported to HTML, MHTML or EPUB. Default value is **HtmlOfficeMathOutputMode.Image**. 
+Controls how OfficeMath objects are exported to HTML, MHTML or EPUB. Default value is **HtmlOfficeMathOutputMode.Image**.
 

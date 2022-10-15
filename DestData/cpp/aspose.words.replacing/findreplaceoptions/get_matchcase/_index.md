@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_matchcase/
 ## FindReplaceOptions.get_MatchCase method
 
 
-True indicates case-sensitive comparison, false indicates case-insensitive comparison. 
+True indicates case-sensitive comparison, false indicates case-insensitive comparison.
 

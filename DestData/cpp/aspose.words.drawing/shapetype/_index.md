@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapetype/
 ## ShapeType enum
 
 
-Specifies the type of shape in a Microsoft Word document. 
+Specifies the type of shape in a Microsoft Word document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/outlineoptions/set_expandedoutlinelevels/
 ## OutlineOptions.set_ExpandedOutlineLevels method
 
 
-Setter for Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels. 
+Setter for [Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels](./get_expandedoutlinelevels/).
 

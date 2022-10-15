@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbase/importnode/
 ## DocumentBase.ImportNode method
 
 
-Imports a node from another document to the current document. 
+Imports a node from another document to the current document.
 
 ---
 title: ImportNode
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbase/importnode/
 ## DocumentBase.ImportNode method
 
 
-Imports a node from another document to the current document with an option to control formatting. 
+Imports a node from another document to the current document with an option to control formatting.
 

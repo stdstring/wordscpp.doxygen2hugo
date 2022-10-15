@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_cachedcolbalance/
 ## CompatibilityOptions.set_CachedColBalance method
 
 
-Use Cached Paragraph Information for Column Balancing. 
+Use Cached [Paragraph](../../aspose.words/paragraph/) Information for Column Balancing.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/idx_get/
 ## CustomXmlPropertyCollection.idx_get method
 
 
-Gets a property with the specified name. 
+Gets a property with the specified name.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/idx_get/
 ## CustomXmlPropertyCollection.idx_get method
 
 
-Gets a property at the specified index. 
+Gets a property at the specified index.
 

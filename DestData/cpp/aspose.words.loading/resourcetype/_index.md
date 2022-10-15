@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/resourcetype/
 ## ResourceType enum
 
 
-Type of loaded resource. 
+Type of loaded resource.
 

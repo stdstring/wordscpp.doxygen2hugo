@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_sheetsperbooklet/
 ## PageSetup.set_SheetsPerBooklet method
 
 
-Setter for Aspose::Words::PageSetup::get_SheetsPerBooklet. 
+Setter for [Aspose::Words::PageSetup::get_SheetsPerBooklet](./get_sheetsperbooklet/).
 

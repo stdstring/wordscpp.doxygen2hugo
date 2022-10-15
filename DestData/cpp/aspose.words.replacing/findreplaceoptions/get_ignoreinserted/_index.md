@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignoreinserted/
 ## FindReplaceOptions.get_IgnoreInserted method
 
 
-Gets or sets a boolean value indicating either to ignore text inside insert revisions. The default value is **false**. 
+Gets or sets a boolean value indicating either to ignore text inside insert revisions. The default value is **false**.
 

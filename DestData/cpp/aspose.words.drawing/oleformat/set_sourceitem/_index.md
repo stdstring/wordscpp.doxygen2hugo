@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/oleformat/set_sourceitem/
 ## OleFormat.set_SourceItem method
 
 
-Setter for Aspose::Words::Drawing::OleFormat::get_SourceItem. 
+Setter for [Aspose::Words::Drawing::OleFormat::get_SourceItem](./get_sourceitem/).
 

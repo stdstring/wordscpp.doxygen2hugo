@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_format/
 ## ChartSeries.get_Format method
 
 
-Provides access to fill and line formatting of the series. 
+Provides access to fill and line formatting of the series.
 

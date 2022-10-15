@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mailmergesettings/get_odso/
 ## MailMergeSettings.get_Odso method
 
 
-Gets the object that specifies the Office Data Source Object (ODSO) settings. 
+Gets the object that specifies the Office Data Source Object (ODSO) settings.
 

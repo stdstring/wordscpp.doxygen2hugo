@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_linestyle/
 ## Stroke.set_LineStyle method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_LineStyle. 
+Setter for [Aspose::Words::Drawing::Stroke::get_LineStyle](./get_linestyle/).
 

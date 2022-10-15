@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textcolumncollection/set_spacing/
 ## TextColumnCollection.set_Spacing method
 
 
-Setter for Aspose::Words::TextColumnCollection::get_Spacing. 
+Setter for [Aspose::Words::TextColumnCollection::get_Spacing](./get_spacing/).
 

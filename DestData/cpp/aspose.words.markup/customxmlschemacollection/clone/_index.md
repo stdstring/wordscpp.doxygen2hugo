@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/clone/
 ## CustomXmlSchemaCollection.Clone method
 
 
-Makes a deep clone of this object. 
+Makes a deep clone of this object.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/markersymbol/
 ## MarkerSymbol enum
 
 
-Specifies marker symbol style. 
+Specifies marker symbol style.
 

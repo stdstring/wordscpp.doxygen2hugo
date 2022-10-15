@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/endeditablerange/
 ## DocumentBuilder.EndEditableRange method
 
 
-Marks the current position in the document as an editable range end. 
+Marks the current position in the document as an editable range end.
 
 ---
 title: EndEditableRange
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/endeditablerange/
 ## DocumentBuilder.EndEditableRange method
 
 
-Marks the current position in the document as an editable range end. 
+Marks the current position in the document as an editable range end.
 

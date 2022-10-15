@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_dashstyle/
 ## Stroke.get_DashStyle method
 
 
-Specifies the dot and dash pattern for a stroke. 
+Specifies the dot and dash pattern for a stroke.
 

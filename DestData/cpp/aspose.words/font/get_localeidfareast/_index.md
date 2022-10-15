@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_localeidfareast/
 ## Font.get_LocaleIdFarEast method
 
 
-Gets or sets the locale identifier (language) of the formatted Asian characters. 
+Gets or sets the locale identifier (language) of the formatted Asian characters.
 

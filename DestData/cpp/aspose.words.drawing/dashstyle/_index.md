@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/dashstyle/
 ## DashStyle enum
 
 
-Dashed line style. 
+Dashed line style.
 

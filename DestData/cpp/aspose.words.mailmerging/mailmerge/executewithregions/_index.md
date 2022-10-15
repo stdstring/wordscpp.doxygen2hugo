@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/executewithregions/
 ## MailMerge.ExecuteWithRegions method
 
 
-Performs a mail merge from a custom data source with mail merge regions. 
+Performs a mail merge from a custom data source with mail merge regions.
 
 ---
 title: ExecuteWithRegions
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/executewithregions/
 ## MailMerge.ExecuteWithRegions method
 
 
-Performs a mail merge from a custom data source with mail merge regions. 
+Performs a mail merge from a custom data source with mail merge regions.
 

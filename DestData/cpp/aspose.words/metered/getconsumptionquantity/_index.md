@@ -9,5 +9,5 @@ url: /cpp/aspose.words/metered/getconsumptionquantity/
 ## Metered.GetConsumptionQuantity method
 
 
-Gets consumption file size. 
+Gets consumption file size.
 

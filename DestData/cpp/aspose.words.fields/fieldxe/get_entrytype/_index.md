@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldxe/get_entrytype/
 ## FieldXE.get_EntryType method
 
 
-Gets or sets an index entry type. 
+Gets or sets an index entry type.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_charactersperline/
 ## PageSetup.set_CharactersPerLine method
 
 
-Setter for Aspose::Words::PageSetup::get_CharactersPerLine. 
+Setter for [Aspose::Words::PageSetup::get_CharactersPerLine](./get_charactersperline/).
 

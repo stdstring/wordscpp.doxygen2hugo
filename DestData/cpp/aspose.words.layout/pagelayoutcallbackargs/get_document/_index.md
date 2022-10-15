@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_document/
 ## PageLayoutCallbackArgs.get_Document method
 
 
-Gets document. 
+Gets document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/orientation/
 ## Orientation enum
 
 
-Specifies page orientation. 
+Specifies page orientation.
 

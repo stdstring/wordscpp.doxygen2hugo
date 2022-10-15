@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/idx_set/
 ## CustomXmlPartCollection.idx_set method
 
 
-Gets or sets an item at the specified index. 
+Gets or sets an item at the specified index.
 

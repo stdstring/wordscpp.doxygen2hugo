@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/set_permissions/
 ## PdfEncryptionDetails.set_Permissions method
 
 
-Setter for Aspose::Words::Saving::PdfEncryptionDetails::get_Permissions. 
+Setter for [Aspose::Words::Saving::PdfEncryptionDetails::get_Permissions](./get_permissions/).
 

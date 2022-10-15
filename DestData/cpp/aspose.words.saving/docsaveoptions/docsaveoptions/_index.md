@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/docsaveoptions/docsaveoptions/
 ## DocSaveOptions.DocSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the Doc format. 
+Initializes a new instance of this class that can be used to save a document in the **Doc** format.
 
 ---
 title: DocSaveOptions
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.saving/docsaveoptions/docsaveoptions/
 ## DocSaveOptions.DocSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the Doc or Dot format. 
+Initializes a new instance of this class that can be used to save a document in the **Doc** or **Dot** format.
 

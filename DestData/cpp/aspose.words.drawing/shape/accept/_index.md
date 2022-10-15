@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/accept/
 ## Shape.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

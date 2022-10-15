@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoa/set_removeentryformatting/
 ## FieldToa.set_RemoveEntryFormatting method
 
 
-Setter for Aspose::Words::Fields::FieldToa::get_RemoveEntryFormatting. 
+Setter for [Aspose::Words::Fields::FieldToa::get_RemoveEntryFormatting](./get_removeentryformatting/).
 

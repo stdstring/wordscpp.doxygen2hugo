@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_name/
 ## ShapeBase.get_Name method
 
 
-Gets or sets the optional shape name. 
+Gets or sets the optional shape name.
 

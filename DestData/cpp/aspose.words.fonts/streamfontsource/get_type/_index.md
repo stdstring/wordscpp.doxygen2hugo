@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/streamfontsource/get_type/
 ## StreamFontSource.get_Type method
 
 
-Returns the type of the font source. 
+Returns the type of the font source.
 

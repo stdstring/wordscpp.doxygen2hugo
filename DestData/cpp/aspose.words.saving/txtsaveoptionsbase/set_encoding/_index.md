@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_encoding/
 ## TxtSaveOptionsBase.set_Encoding method
 
 
-Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding. 
+Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding](./get_encoding/).
 

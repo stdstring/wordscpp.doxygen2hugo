@@ -9,5 +9,5 @@ url: /cpp/aspose.words/variablecollection/add/
 ## VariableCollection.Add method
 
 
-Adds a document variable to the collection. 
+Adds a document variable to the collection.
 

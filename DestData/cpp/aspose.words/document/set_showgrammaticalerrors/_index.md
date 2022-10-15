@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_showgrammaticalerrors/
 ## Document.set_ShowGrammaticalErrors method
 
 
-Setter for Aspose::Words::Document::get_ShowGrammaticalErrors. 
+Setter for [Aspose::Words::Document::get_ShowGrammaticalErrors](./get_showgrammaticalerrors/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_linewraplikeword6/
 ## CompatibilityOptions.get_LineWrapLikeWord6 method
 
 
-Emulate Word 6.0 Line Wrapping for East Asian Text. 
+Emulate Word 6.0 Line Wrapping for East Asian Text.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_footnoteoptions/
 ## Document.get_FootnoteOptions method
 
 
-Provides options that control numbering and positioning of footnotes in this document. 
+Provides options that control numbering and positioning of footnotes in this document.
 

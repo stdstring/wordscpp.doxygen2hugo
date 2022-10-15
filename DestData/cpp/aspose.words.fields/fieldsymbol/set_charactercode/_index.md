@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsymbol/set_charactercode/
 ## FieldSymbol.set_CharacterCode method
 
 
-Setter for Aspose::Words::Fields::FieldSymbol::get_CharacterCode. 
+Setter for [Aspose::Words::Fields::FieldSymbol::get_CharacterCode](./get_charactercode/).
 

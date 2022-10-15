@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/idocumentloadingcallback/notify/
 ## IDocumentLoadingCallback.Notify method
 
 
-This is called to notify of document loading progress. 
+This is called to notify of document loading progress.
 

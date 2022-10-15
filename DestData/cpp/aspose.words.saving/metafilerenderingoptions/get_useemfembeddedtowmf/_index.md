@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/get_useemfembeddedtowmf/
 ## MetafileRenderingOptions.get_UseEmfEmbeddedToWmf method
 
 
-Gets or sets a value determining how WMF metafiles with embedded EMF metafiles should be rendered. 
+Gets or sets a value determining how WMF metafiles with embedded EMF metafiles should be rendered.
 

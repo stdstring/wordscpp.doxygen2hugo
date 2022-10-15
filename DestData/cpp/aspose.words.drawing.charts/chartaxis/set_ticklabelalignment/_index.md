@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_ticklabelalignment/
 ## ChartAxis.set_TickLabelAlignment method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment](./get_ticklabelalignment/).
 

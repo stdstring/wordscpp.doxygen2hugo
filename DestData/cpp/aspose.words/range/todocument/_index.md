@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/todocument/
 ## Range.ToDocument method
 
 
-Constructs a new fully formed document that contains the range. 
+Constructs a new fully formed document that contains the range.
 

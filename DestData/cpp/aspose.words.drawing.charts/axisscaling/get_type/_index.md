@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisscaling/get_type/
 ## AxisScaling.get_Type method
 
 
-Gets or sets scaling type of the axis. 
+Gets or sets scaling type of the axis.
 

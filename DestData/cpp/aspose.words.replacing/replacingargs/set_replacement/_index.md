@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replacingargs/set_replacement/
 ## ReplacingArgs.set_Replacement method
 
 
-Setter for Aspose::Words::Replacing::ReplacingArgs::get_Replacement. 
+Setter for [Aspose::Words::Replacing::ReplacingArgs::get_Replacement](./get_replacement/).
 

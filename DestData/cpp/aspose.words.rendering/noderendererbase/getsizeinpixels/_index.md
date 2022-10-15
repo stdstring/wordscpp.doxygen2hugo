@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/getsizeinpixels/
 ## NodeRendererBase.GetSizeInPixels method
 
 
-Calculates the size of the shape in pixels for a specified zoom factor and resolution. 
+Calculates the size of the shape in pixels for a specified zoom factor and resolution.
 
 ---
 title: GetSizeInPixels
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.rendering/noderendererbase/getsizeinpixels/
 ## NodeRendererBase.GetSizeInPixels method
 
 
-Calculates the size of the shape in pixels for a specified zoom factor and resolution. 
+Calculates the size of the shape in pixels for a specified zoom factor and resolution.
 

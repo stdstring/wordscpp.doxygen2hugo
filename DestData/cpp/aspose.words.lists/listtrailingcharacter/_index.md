@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listtrailingcharacter/
 ## ListTrailingCharacter enum
 
 
-Specifies the character that separates the list label from the text of the paragraph. 
+Specifies the character that separates the list label from the text of the paragraph.
 

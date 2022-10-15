@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldfillin/set_promptonceonmailmerge/
 ## FieldFillIn.set_PromptOnceOnMailMerge method
 
 
-Setter for Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge. 
+Setter for [Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge](./get_promptonceonmailmerge/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_distanceleft/
 ## Table.get_DistanceLeft method
 
 
-Gets distance between table left and the surrounding text, in points. 
+Gets distance between table left and the surrounding text, in points.
 

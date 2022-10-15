@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/cleanup/
 ## Document.Cleanup method
 
 
-Cleans unused styles and lists from the document. 
+Cleans unused styles and lists from the document.
 
 ---
 title: Cleanup
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/cleanup/
 ## Document.Cleanup method
 
 
-Cleans unused styles and lists from the document depending on given CleanupOptions. 
+Cleans unused styles and lists from the document depending on given [CleanupOptions](../cleanupoptions/).
 

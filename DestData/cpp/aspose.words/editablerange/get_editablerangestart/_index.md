@@ -9,5 +9,5 @@ url: /cpp/aspose.words/editablerange/get_editablerangestart/
 ## EditableRange.get_EditableRangeStart method
 
 
-Gets the node that represents the start of the editable range. 
+Gets the node that represents the start of the editable range.
 

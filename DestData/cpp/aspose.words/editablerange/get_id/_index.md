@@ -9,5 +9,5 @@ url: /cpp/aspose.words/editablerange/get_id/
 ## EditableRange.get_Id method
 
 
-Gets the editable range identifier. 
+Gets the editable range identifier.
 

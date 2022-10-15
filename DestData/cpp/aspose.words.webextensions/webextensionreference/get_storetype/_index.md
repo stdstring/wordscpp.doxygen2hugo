@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionreference/get_storetype/
 ## WebExtensionReference.get_StoreType method
 
 
-Specifies the type of marketplace. 
+Specifies the type of marketplace.
 

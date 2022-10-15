@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldargumentbuilder/addtext/
 ## FieldArgumentBuilder.AddText method
 
 
-Adds a plain text to the argument. 
+Adds a plain text to the argument.
 

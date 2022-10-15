@@ -9,7 +9,7 @@ url: /cpp/aspose.words/headerfootercollection/linktoprevious/
 ## HeaderFooterCollection.LinkToPrevious method
 
 
-Links or unlinks the specified header or footer to the corresponding header or footer in the previous section. 
+Links or unlinks the specified header or footer to the corresponding header or footer in the previous section.
 
 ---
 title: LinkToPrevious
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/headerfootercollection/linktoprevious/
 ## HeaderFooterCollection.LinkToPrevious method
 
 
-Links or unlinks all headers and footers to the corresponding headers and footers in the previous section. 
+Links or unlinks all headers and footers to the corresponding headers and footers in the previous section.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/getenumerator/
 ## MappedDataFieldCollection.GetEnumerator method
 
 
-Returns a dictionary enumerator object that can be used to iterate over all items in the collection. 
+Returns a dictionary enumerator object that can be used to iterate over all items in the collection.
 

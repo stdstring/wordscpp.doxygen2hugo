@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/set_unit/
 ## MergeFieldImageDimension.set_Unit method
 
 
-The unit. 
+The unit.
 

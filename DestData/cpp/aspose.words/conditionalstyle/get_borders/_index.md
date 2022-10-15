@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/get_borders/
 ## ConditionalStyle.get_Borders method
 
 
-Gets the collection of default cell borders for the conditional style. 
+Gets the collection of default cell borders for the conditional style.
 

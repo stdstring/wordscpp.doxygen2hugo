@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/set_flatopcxmlmappingonly/
 ## SaveOptions.set_FlatOpcXmlMappingOnly method
 
 
-Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly. 
+Setter for [Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly](./get_flatopcxmlmappingonly/).
 

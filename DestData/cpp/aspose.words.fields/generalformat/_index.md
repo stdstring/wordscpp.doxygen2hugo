@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/generalformat/
 ## GeneralFormat enum
 
 
-Specifies a general format that is applied to a numeric, text, or any field result. A field may have a combination of general formats. 
+Specifies a general format that is applied to a numeric, text, or any field result. A field may have a combination of general formats.
 

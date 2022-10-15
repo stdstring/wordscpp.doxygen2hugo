@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplacedirection/
 ## FindReplaceDirection enum
 
 
-Specifies direction for replace operations. 
+Specifies direction for replace operations.
 

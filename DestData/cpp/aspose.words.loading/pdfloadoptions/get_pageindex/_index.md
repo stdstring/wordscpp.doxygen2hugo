@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/pdfloadoptions/get_pageindex/
 ## PdfLoadOptions.get_PageIndex method
 
 
-Gets the 0-based index of the first page to read. Default is 0. 
+Gets the 0-based index of the first page to read. Default is 0.
 

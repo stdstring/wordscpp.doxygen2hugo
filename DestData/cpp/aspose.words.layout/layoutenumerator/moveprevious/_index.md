@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/moveprevious/
 ## LayoutEnumerator.MovePrevious method
 
 
-Moves to the previous sibling entity. 
+Moves to the previous sibling entity.
 

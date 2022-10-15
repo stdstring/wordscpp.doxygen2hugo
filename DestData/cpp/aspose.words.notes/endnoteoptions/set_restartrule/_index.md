@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/endnoteoptions/set_restartrule/
 ## EndnoteOptions.set_RestartRule method
 
 
-Setter for Aspose::Words::Notes::EndnoteOptions::get_RestartRule. 
+Setter for [Aspose::Words::Notes::EndnoteOptions::get_RestartRule](./get_restartrule/).
 

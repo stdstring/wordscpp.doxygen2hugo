@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcollection/getenumerator/
 ## FieldCollection.GetEnumerator method
 
 
-Returns an enumerator object. 
+Returns an enumerator object.
 

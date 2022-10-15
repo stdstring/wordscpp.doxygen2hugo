@@ -9,5 +9,5 @@ url: /cpp/aspose.words/border/set_shadow/
 ## Border.set_Shadow method
 
 
-Setter for Aspose::Words::Border::get_Shadow. 
+Setter for [Aspose::Words::Border::get_Shadow](./get_shadow/).
 

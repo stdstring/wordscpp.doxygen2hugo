@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/get_entrylevelrange/
 ## FieldToc.get_EntryLevelRange method
 
 
-Gets or sets a range of levels of the table of contents entries to be included. 
+Gets or sets a range of levels of the table of contents entries to be included.
 

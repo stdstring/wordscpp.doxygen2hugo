@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/csssavingargs/set_cssstream/
 ## CssSavingArgs.set_CssStream method
 
 
-Setter for Aspose::Words::Saving::CssSavingArgs::get_CssStream. 
+Setter for [Aspose::Words::Saving::CssSavingArgs::get_CssStream](./get_cssstream/).
 
 ---
 title: set_CssStream

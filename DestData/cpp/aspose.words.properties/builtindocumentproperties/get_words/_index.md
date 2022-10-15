@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_words/
 ## BuiltInDocumentProperties.get_Words method
 
 
-Represents an estimate of the number of words in the document. 
+Represents an estimate of the number of words in the document.
 

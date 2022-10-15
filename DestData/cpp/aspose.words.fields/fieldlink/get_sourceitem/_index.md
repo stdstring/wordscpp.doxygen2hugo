@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlink/get_sourceitem/
 ## FieldLink.get_SourceItem method
 
 
-Gets or sets the portion of the source file that's being linked. 
+Gets or sets the portion of the source file that's being linked.
 

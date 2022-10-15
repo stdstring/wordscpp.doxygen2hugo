@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_certificateholder/
 ## PdfDigitalSignatureDetails.set_CertificateHolder method
 
 
-Returns the certificate holder object that contains the certificate was used to sign the document. 
+Returns the certificate holder object that contains the certificate was used to sign the document.
 

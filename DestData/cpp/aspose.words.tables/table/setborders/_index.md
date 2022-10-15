@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/setborders/
 ## Table.SetBorders method
 
 
-Sets all table borders to the specified line style, width and color. 
+Sets all table borders to the specified line style, width and color.
 

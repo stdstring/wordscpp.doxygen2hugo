@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_color/
 ## StructuredDocumentTagRangeStart.set_Color method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Color. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Color](./get_color/).
 

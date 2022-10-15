@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pageset/get_odd/
 ## PageSet.get_Odd method
 
 
-Gets a set with all the odd pages of the document in their original order. 
+Gets a set with all the odd pages of the document in their original order.
 

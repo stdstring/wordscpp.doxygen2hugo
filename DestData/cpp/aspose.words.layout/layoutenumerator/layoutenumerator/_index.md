@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/layoutenumerator/
 ## LayoutEnumerator.LayoutEnumerator method
 
 
-Initializes new instance of this class. 
+Initializes new instance of this class.
 

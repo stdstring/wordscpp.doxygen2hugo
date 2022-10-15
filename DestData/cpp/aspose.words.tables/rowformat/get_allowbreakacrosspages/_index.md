@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/rowformat/get_allowbreakacrosspages/
 ## RowFormat.get_AllowBreakAcrossPages method
 
 
-True if the text in a table row is allowed to split across a page break. 
+True if the text in a table row is allowed to split across a page break.
 

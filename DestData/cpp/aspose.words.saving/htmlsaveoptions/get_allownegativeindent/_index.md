@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_allownegativeindent/
 ## HtmlSaveOptions.get_AllowNegativeIndent method
 
 
-Specifies whether negative left and right indents of paragraphs are normalized when saving to HTML, MHTML or EPUB. Default value is **false**. 
+Specifies whether negative left and right indents of paragraphs are normalized when saving to HTML, MHTML or EPUB. Default value is **false**.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutcollector/layoutcollector/
 ## LayoutCollector.LayoutCollector method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 

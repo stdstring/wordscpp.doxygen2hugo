@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/get_firstchild/
 ## CompositeNode.get_FirstChild method
 
 
-Gets the first child of the node. 
+Gets the first child of the node.
 

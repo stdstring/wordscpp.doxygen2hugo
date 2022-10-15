@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/clear/
 ## ChartSeriesCollection.Clear method
 
 
-Removes all ChartSeries from this collection. 
+Removes all [ChartSeries](../chartseries/) from this collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_isincell/
 ## Paragraph.get_IsInCell method
 
 
-True if this paragraph is an immediate child of Cell; false otherwise. 
+True if this paragraph is an immediate child of [Cell](../../aspose.words.tables/cell/); false otherwise.
 

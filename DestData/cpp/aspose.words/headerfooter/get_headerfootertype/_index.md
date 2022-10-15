@@ -9,5 +9,5 @@ url: /cpp/aspose.words/headerfooter/get_headerfootertype/
 ## HeaderFooter.get_HeaderFooterType method
 
 
-Gets the type of this header/footer. 
+Gets the type of this header/footer.
 

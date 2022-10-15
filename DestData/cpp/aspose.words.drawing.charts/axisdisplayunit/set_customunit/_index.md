@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/set_customunit/
 ## AxisDisplayUnit.set_CustomUnit method
 
 
-Setter for Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit. 
+Setter for [Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit](./get_customunit/).
 

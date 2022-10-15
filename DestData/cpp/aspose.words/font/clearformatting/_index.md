@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/clearformatting/
 ## Font.ClearFormatting method
 
 
-Resets to default font formatting. 
+Resets to default font formatting.
 

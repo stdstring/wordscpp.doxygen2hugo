@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_autofittofirstfixedwidt
 ## CompatibilityOptions.set_AutofitToFirstFixedWidthCell method
 
 
-Allow Table Columns To Exceed Preferred Widths of Constituent Cells. 
+Allow Table Columns To Exceed Preferred Widths of Constituent Cells.
 

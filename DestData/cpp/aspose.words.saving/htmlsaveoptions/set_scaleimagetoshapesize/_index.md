@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_scaleimagetoshapesize/
 ## HtmlSaveOptions.set_ScaleImageToShapeSize method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize](./get_scaleimagetoshapesize/).
 

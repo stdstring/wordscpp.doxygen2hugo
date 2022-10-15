@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/ifieldupdatecultureprovider/getculture/
 ## IFieldUpdateCultureProvider.GetCulture method
 
 
-Returns a CultureInfo object to be used during the field's update. 
+Returns a **CultureInfo** object to be used during the field's update.
 

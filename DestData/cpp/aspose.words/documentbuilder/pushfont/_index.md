@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/pushfont/
 ## DocumentBuilder.PushFont method
 
 
-Saves current character formatting onto the stack. 
+Saves current character formatting onto the stack.
 

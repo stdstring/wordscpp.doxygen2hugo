@@ -9,5 +9,5 @@ url: /cpp/aspose.words/warningsource/
 ## WarningSource enum
 
 
-Specifies the module that produces a warning during document loading or saving. 
+Specifies the module that produces a warning during document loading or saving.
 

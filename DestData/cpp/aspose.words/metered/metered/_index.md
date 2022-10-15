@@ -9,5 +9,5 @@ url: /cpp/aspose.words/metered/metered/
 ## Metered.Metered method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_trim/
 ## TextPath.set_Trim method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_Trim. 
+Setter for [Aspose::Words::Drawing::TextPath::get_Trim](./get_trim/).
 

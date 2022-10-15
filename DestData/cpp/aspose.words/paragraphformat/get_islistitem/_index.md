@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_islistitem/
 ## ParagraphFormat.get_IsListItem method
 
 
-True when the paragraph is an item in a bulleted or numbered list. 
+True when the paragraph is an item in a bulleted or numbered list.
 

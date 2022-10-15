@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mailmergedestination/
 ## MailMergeDestination enum
 
 
-Specifies the possible results which may be generated when a mail merge is carried out on a document. 
+Specifies the possible results which may be generated when a mail merge is carried out on a document.
 

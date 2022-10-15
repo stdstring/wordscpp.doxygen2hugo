@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themecolors/set_followedhyperlink/
 ## ThemeColors.set_FollowedHyperlink method
 
 
-Setter for Aspose::Words::Themes::ThemeColors::get_FollowedHyperlink. 
+Setter for [Aspose::Words::Themes::ThemeColors::get_FollowedHyperlink](./get_followedhyperlink/).
 

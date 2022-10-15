@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/equals/
 ## BorderCollection.Equals method
 
 
-Compares collections of borders. 
+Compares collections of borders.
 

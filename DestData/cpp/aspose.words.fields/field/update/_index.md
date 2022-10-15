@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/field/update/
 ## Field.Update method
 
 
-Performs the field update. Throws if the field is being updated already. 
+Performs the field update. Throws if the field is being updated already.
 
 ---
 title: Update
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fields/field/update/
 ## Field.Update method
 
 
-Performs a field update. Throws if the field is being updated already. 
+Performs a field update. Throws if the field is being updated already.
 

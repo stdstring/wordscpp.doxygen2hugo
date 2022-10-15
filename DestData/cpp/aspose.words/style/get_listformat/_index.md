@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/get_listformat/
 ## Style.get_ListFormat method
 
 
-Provides access to the list formatting properties of a paragraph style. 
+Provides access to the list formatting properties of a paragraph style.
 

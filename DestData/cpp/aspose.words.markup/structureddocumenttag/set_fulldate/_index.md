@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_fulldate/
 ## StructuredDocumentTag.set_FullDate method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_FullDate. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_FullDate](./get_fulldate/).
 

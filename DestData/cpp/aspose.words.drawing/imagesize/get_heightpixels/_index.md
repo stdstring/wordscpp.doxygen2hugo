@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagesize/get_heightpixels/
 ## ImageSize.get_HeightPixels method
 
 
-Gets the height of the image in pixels. 
+Gets the height of the image in pixels.
 

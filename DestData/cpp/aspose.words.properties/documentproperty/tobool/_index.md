@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentproperty/tobool/
 ## DocumentProperty.ToBool method
 
 
-Returns the property value as bool. 
+Returns the property value as bool.
 

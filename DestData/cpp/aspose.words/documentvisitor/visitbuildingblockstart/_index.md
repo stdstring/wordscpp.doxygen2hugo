@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitbuildingblockstart/
 ## DocumentVisitor.VisitBuildingBlockStart method
 
 
-Called when enumeration of a building block has started. 
+Called when enumeration of a building block has started.
 

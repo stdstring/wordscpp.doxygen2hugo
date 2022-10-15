@@ -9,5 +9,5 @@ url: /cpp/aspose.words/node/nodetypetostring/
 ## Node.NodeTypeToString method
 
 
-A utility method that converts a node type enum value into a user friendly string. 
+A utility method that converts a node type enum value into a user friendly string.
 

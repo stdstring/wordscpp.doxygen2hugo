@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/removeat/
 ## GradientStopCollection.RemoveAt method
 
 
-Removes a GradientStop from the collection at a specified index. 
+Removes a [GradientStop](../gradientstop/) from the collection at a specified index.
 

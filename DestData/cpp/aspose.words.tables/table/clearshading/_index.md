@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/clearshading/
 ## Table.ClearShading method
 
 
-Removes all shading on the table. 
+Removes all shading on the table.
 

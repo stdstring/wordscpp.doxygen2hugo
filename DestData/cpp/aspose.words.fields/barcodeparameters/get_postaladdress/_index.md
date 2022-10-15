@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_postaladdress/
 ## BarcodeParameters.get_PostalAddress method
 
 
-Barcode postal address. 
+Barcode postal address.
 

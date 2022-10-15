@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_signtime/
 ## SignOptions.get_SignTime method
 
 
-The date of signing. Default value is **current time** (Now). 
+The date of signing. Default value is **current time** (**Now**).
 

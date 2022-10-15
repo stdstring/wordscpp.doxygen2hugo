@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shadowformat/get_type/
 ## ShadowFormat.get_Type method
 
 
-Gets the specified ShadowType for ShadowFormat. 
+Gets the specified [ShadowType](../shadowtype/) for [ShadowFormat](./).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_styleidentifier/
 ## Table.get_StyleIdentifier method
 
 
-Gets or sets the locale independent style identifier of the table style applied to this table. 
+Gets or sets the locale independent style identifier of the table style applied to this table.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_imagebytes/
 ## Fill.get_ImageBytes method
 
 
-Gets the raw bytes of the fill texture or pattern. 
+Gets the raw bytes of the fill texture or pattern.
 

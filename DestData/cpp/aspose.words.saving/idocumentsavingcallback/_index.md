@@ -9,10 +9,10 @@ url: /cpp/aspose.words.saving/idocumentsavingcallback/
 ## IDocumentSavingCallback interface
 
 
-Implement this interface if you want to have your own custom method called during saving a document. 
+Implement this interface if you want to have your own custom method called during saving a document.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| virtual [Notify](./notify/)(System::SharedPtr\<Aspose::Words::Saving::DocumentSavingArgs\>) | This is called to notify of document saving progress.  |
+| virtual [Notify](./notify/)(System::SharedPtr\<Aspose::Words::Saving::DocumentSavingArgs\>) | This is called to notify of document saving progress. |

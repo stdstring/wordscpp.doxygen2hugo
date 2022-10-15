@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/oleformat/save/
 ## OleFormat.Save method
 
 
-Saves the data of the embedded object into the specified stream. 
+Saves the data of the embedded object into the specified stream.
 
 ---
 title: Save
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.drawing/oleformat/save/
 ## OleFormat.Save method
 
 
-Saves the data of the embedded object into a file with the specified name. 
+Saves the data of the embedded object into a file with the specified name.
 
 ---
 title: Save

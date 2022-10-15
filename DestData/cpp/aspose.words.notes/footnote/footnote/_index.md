@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnote/footnote/
 ## Footnote.Footnote method
 
 
-Initializes an instance of the **Footnote** class. 
+Initializes an instance of the **Footnote** class.
 

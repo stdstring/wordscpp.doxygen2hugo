@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_opacity/
 ## Stroke.set_Opacity method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_Opacity. 
+Setter for [Aspose::Words::Drawing::Stroke::get_Opacity](./get_opacity/).
 

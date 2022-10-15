@@ -9,5 +9,5 @@ url: /cpp/aspose.words/editablerangeend/get_editablerangestart/
 ## EditableRangeEnd.get_EditableRangeStart method
 
 
-Corresponding EditableRangeStart, received by ID. 
+Corresponding [EditableRangeStart](../editablerangestart/), received by ID.
 

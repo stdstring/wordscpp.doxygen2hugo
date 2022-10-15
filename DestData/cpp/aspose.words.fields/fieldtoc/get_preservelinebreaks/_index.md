@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/get_preservelinebreaks/
 ## FieldToc.get_PreserveLineBreaks method
 
 
-Gets or sets whether to preserve newline characters within table entries. 
+Gets or sets whether to preserve newline characters within table entries.
 

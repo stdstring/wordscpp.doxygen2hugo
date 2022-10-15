@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_style/
 ## ParagraphFormat.set_Style method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_Style. 
+Setter for [Aspose::Words::ParagraphFormat::get_Style](./get_style/).
 

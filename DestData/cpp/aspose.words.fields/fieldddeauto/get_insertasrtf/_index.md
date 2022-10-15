@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldddeauto/get_insertasrtf/
 ## FieldDdeAuto.get_InsertAsRtf method
 
 
-Gets or sets whether to insert the linked object in rich-text format (RTF). 
+Gets or sets whether to insert the linked object in rich-text format (RTF).
 

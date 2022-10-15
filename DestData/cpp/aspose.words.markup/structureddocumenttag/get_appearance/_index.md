@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_appearance/
 ## StructuredDocumentTag.get_Appearance method
 
 
-Gets/sets the appearance of a structured document tag. 
+Gets/sets the appearance of a structured document tag.
 

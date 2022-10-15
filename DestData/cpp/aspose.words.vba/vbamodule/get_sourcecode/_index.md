@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbamodule/get_sourcecode/
 ## VbaModule.get_SourceCode method
 
 
-Gets or sets VBA project module source code. 
+Gets or sets VBA project module source code.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldadvance/get_upoffset/
 ## FieldAdvance.get_UpOffset method
 
 
-Gets or sets the number of points by which the text that follows the field should be moved up. 
+Gets or sets the number of points by which the text that follows the field should be moved up.
 

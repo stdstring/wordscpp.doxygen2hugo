@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_paragraphs/
 ## BuiltInDocumentProperties.get_Paragraphs method
 
 
-Represents an estimate of the number of paragraphs in the document. 
+Represents an estimate of the number of paragraphs in the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabasedatarow/get_values/
 ## FieldDatabaseDataRow.get_Values method
 
 
-Gets values that belong to this row. 
+Gets values that belong to this row.
 

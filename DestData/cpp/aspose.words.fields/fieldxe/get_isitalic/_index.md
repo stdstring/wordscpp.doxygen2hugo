@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldxe/get_isitalic/
 ## FieldXE.get_IsItalic method
 
 
-Gets or sets whether to apply italic formatting to the entry's page number. 
+Gets or sets whether to apply italic formatting to the entry's page number.
 

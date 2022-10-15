@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_tabstops/
 ## ParagraphFormat.get_TabStops method
 
 
-Gets the collection of custom tab stops defined for this object. 
+Gets the collection of custom tab stops defined for this object.
 

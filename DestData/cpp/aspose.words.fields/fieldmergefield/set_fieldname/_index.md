@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergefield/set_fieldname/
 ## FieldMergeField.set_FieldName method
 
 
-Sets the name of a data field. 
+Sets the name of a data field.
 

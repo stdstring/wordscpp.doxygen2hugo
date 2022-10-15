@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_layoutoptions/
 ## Document.get_LayoutOptions method
 
 
-Gets a **LayoutOptions** object that represents options to control the layout process of this document. 
+Gets a **LayoutOptions** object that represents options to control the layout process of this document.
 

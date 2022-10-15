@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbamodule/vbamodule/
 ## VbaModule.VbaModule method
 
 
-Creates an empty module. 
+Creates an empty module.
 

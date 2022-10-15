@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/set_ownstatus/
 ## FormField.set_OwnStatus method
 
 
-Setter for Aspose::Words::Fields::FormField::get_OwnStatus. 
+Setter for [Aspose::Words::Fields::FormField::get_OwnStatus](./get_ownstatus/).
 

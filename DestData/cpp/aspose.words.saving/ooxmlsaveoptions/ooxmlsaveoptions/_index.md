@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/ooxmlsaveoptions/
 ## OoxmlSaveOptions.OoxmlSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the Docx format. 
+Initializes a new instance of this class that can be used to save a document in the **Docx** format.
 
 ---
 title: OoxmlSaveOptions
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/ooxmlsaveoptions/
 ## OoxmlSaveOptions.OoxmlSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the Docx, Docm, Dotx, Dotm or FlatOpc format. 
+Initializes a new instance of this class that can be used to save a document in the **Docx**, **Docm**, **Dotx**, **Dotm** or **FlatOpc** format.
 

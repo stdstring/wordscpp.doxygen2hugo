@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_hidden/
 ## ChartAxis.set_Hidden method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden](./get_hidden/).
 

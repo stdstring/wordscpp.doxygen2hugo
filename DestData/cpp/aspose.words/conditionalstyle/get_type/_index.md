@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/get_type/
 ## ConditionalStyle.get_Type method
 
 
-Gets table area to which this conditional style relates. 
+Gets table area to which this conditional style relates.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldta/get_isitalic/
 ## FieldTA.get_IsItalic method
 
 
-Gets or sets whether to apply italic formatting to the page number for the entry. 
+Gets or sets whether to apply italic formatting to the page number for the entry.
 

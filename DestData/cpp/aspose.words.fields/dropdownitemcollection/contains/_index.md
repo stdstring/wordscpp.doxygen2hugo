@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/contains/
 ## DropDownItemCollection.Contains method
 
 
-Determines whether the collection contains the specified value. 
+Determines whether the collection contains the specified value.
 

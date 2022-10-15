@@ -9,5 +9,5 @@ url: /cpp/aspose.words/headerfooter/headerfooter/
 ## HeaderFooter.HeaderFooter method
 
 
-Creates a new header or footer of the specified type. 
+Creates a new header or footer of the specified type.
 

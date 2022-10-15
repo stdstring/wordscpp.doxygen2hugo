@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedeta
 ## PdfDigitalSignatureDetails.PdfDigitalSignatureDetails method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 
 ---
 title: PdfDigitalSignatureDetails
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedeta
 ## PdfDigitalSignatureDetails.PdfDigitalSignatureDetails method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 

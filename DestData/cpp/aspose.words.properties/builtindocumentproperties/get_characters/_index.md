@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_characters/
 ## BuiltInDocumentProperties.get_Characters method
 
 
-Represents an estimate of the number of characters in the document. 
+Represents an estimate of the number of characters in the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_allowcellspacing/
 ## Table.get_AllowCellSpacing method
 
 
-Gets or sets the "Allow spacing between cells" option. 
+Gets or sets the "Allow spacing between cells" option.
 

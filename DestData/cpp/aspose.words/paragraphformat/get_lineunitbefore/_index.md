@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_lineunitbefore/
 ## ParagraphFormat.get_LineUnitBefore method
 
 
-Gets or sets the amount of spacing (in gridlines) before the paragraphs. 
+Gets or sets the amount of spacing (in gridlines) before the paragraphs.
 

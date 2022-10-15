@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_rotateletters/
 ## TextPath.set_RotateLetters method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_RotateLetters. 
+Setter for [Aspose::Words::Drawing::TextPath::get_RotateLetters](./get_rotateletters/).
 

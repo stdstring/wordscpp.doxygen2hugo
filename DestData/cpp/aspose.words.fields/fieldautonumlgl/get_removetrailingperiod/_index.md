@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldautonumlgl/get_removetrailingperiod/
 ## FieldAutoNumLgl.get_RemoveTrailingPeriod method
 
 
-Gets or sets whether to display the number without a trailing period. 
+Gets or sets whether to display the number without a trailing period.
 

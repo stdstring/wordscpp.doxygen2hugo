@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/starttrackrevisions/
 ## Document.StartTrackRevisions method
 
 
-Starts automatically marking all further changes you make to the document programmatically as revision changes. 
+Starts automatically marking all further changes you make to the document programmatically as revision changes.
 
 ---
 title: StartTrackRevisions
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/starttrackrevisions/
 ## Document.StartTrackRevisions method
 
 
-Starts automatically marking all further changes you make to the document programmatically as revision changes. 
+Starts automatically marking all further changes you make to the document programmatically as revision changes.
 

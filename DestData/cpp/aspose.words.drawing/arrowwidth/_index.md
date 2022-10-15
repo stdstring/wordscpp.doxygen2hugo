@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/arrowwidth/
 ## ArrowWidth enum
 
 
-Width of the arrow at the end of a line. 
+Width of the arrow at the end of a line.
 

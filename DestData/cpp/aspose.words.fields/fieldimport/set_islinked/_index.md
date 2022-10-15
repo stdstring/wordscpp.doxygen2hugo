@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldimport/set_islinked/
 ## FieldImport.set_IsLinked method
 
 
-Setter for Aspose::Words::Fields::FieldImport::get_IsLinked. 
+Setter for [Aspose::Words::Fields::FieldImport::get_IsLinked](./get_islinked/).
 

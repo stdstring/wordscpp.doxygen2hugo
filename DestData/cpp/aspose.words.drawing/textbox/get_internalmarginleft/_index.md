@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_internalmarginleft/
 ## TextBox.get_InternalMarginLeft method
 
 
-Specifies the inner left margin in points for a shape. 
+Specifies the inner left margin in points for a shape.
 

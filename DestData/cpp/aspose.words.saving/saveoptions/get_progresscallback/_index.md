@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/get_progresscallback/
 ## SaveOptions.get_ProgressCallback method
 
 
-Called during saving a document and accepts data about saving progress. 
+Called during saving a document and accepts data about saving progress.
 

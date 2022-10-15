@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_keeplegacycontrolchars/
 ## OoxmlSaveOptions.get_KeepLegacyControlChars method
 
 
-Keeps original representation of legacy control characters. 
+Keeps original representation of legacy control characters.
 

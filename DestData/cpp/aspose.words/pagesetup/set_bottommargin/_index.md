@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_bottommargin/
 ## PageSetup.set_BottomMargin method
 
 
-Setter for Aspose::Words::PageSetup::get_BottomMargin. 
+Setter for [Aspose::Words::PageSetup::get_BottomMargin](./get_bottommargin/).
 

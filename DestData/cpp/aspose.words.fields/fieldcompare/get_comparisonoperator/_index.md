@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcompare/get_comparisonoperator/
 ## FieldCompare.get_ComparisonOperator method
 
 
-Gets or sets the comparison operator. 
+Gets or sets the comparison operator.
 

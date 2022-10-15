@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlink/get_formatupdatetype/
 ## FieldLink.get_FormatUpdateType method
 
 
-Gets or sets a way the linked object updates its formatting. 
+Gets or sets a way the linked object updates its formatting.
 

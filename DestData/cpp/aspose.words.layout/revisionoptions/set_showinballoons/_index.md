@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_showinballoons/
 ## RevisionOptions.set_ShowInBalloons method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons](./get_showinballoons/).
 

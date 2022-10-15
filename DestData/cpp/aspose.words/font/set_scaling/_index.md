@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_scaling/
 ## Font.set_Scaling method
 
 
-Setter for Aspose::Words::Font::get_Scaling. 
+Setter for [Aspose::Words::Font::get_Scaling](./get_scaling/).
 

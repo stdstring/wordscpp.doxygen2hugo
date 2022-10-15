@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_revisionnumber/
 ## BuiltInDocumentProperties.set_RevisionNumber method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber](./get_revisionnumber/).
 

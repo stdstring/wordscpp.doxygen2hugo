@@ -9,5 +9,5 @@ url: /cpp/aspose.words/commentrangestart/get_id/
 ## CommentRangeStart.get_Id method
 
 
-Specifies the identifier of the comment to which this region is linked. 
+Specifies the identifier of the comment to which this region is linked.
 

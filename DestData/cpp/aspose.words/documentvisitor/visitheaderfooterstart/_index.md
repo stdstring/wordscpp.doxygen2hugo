@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitheaderfooterstart/
 ## DocumentVisitor.VisitHeaderFooterStart method
 
 
-Called when enumeration of a header or footer in a section has started. 
+Called when enumeration of a header or footer in a section has started.
 

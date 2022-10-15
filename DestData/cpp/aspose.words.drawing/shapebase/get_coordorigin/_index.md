@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_coordorigin/
 ## ShapeBase.get_CoordOrigin method
 
 
-The coordinates at the top-left corner of the containing block of this shape. 
+The coordinates at the top-left corner of the containing block of this shape.
 

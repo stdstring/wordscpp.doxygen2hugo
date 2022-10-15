@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themecolors/get_light2/
 ## ThemeColors.get_Light2 method
 
 
-Specifies color Light 2. 
+Specifies color Light 2.
 

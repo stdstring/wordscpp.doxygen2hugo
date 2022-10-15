@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_image/
 ## ImageFieldMergingArgs.get_Image method
 
 
-Specifies the image that the mail merge engine must insert into the document. 
+Specifies the image that the mail merge engine must insert into the document.
 

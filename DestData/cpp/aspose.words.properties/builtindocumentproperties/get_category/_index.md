@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_category/
 ## BuiltInDocumentProperties.get_Category method
 
 
-Gets or sets the category of the document. 
+Gets or sets the category of the document.
 

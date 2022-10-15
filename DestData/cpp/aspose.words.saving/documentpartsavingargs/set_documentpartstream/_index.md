@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/set_documentpartstream/
 ## DocumentPartSavingArgs.set_DocumentPartStream method
 
 
-Setter for Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream. 
+Setter for [Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream](./get_documentpartstream/).
 
 ---
 title: set_DocumentPartStream

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_count/
 ## BorderCollection.get_Count method
 
 
-Gets the number of borders in the collection. 
+Gets the number of borders in the collection.
 

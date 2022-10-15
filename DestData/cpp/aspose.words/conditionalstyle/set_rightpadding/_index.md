@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/set_rightpadding/
 ## ConditionalStyle.set_RightPadding method
 
 
-Setter for Aspose::Words::ConditionalStyle::get_RightPadding. 
+Setter for [Aspose::Words::ConditionalStyle::get_RightPadding](./get_rightpadding/).
 

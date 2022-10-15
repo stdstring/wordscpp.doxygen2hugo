@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/get_nodechangingcallback/
 ## DocumentBase.get_NodeChangingCallback method
 
 
-Called when a node is inserted or removed in the document. 
+Called when a node is inserted or removed in the document.
 

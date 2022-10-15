@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chart/set_sourcefullname/
 ## Chart.set_SourceFullName method
 
 
-Gets the path and name of an xls/xlsx file this chart is linked to. 
+Gets the path and name of an xls/xlsx file this chart is linked to.
 

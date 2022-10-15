@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/get_shading/
 ## TableStyle.get_Shading method
 
 
-Gets a Shading object that refers to the shading formatting for table cells. 
+Gets a [Shading](../shading/) object that refers to the shading formatting for table cells.
 

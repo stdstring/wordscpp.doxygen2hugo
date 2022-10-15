@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_resourcefolderalias/
 ## HtmlSaveOptions.get_ResourceFolderAlias method
 
 
-Specifies the name of the folder used to construct URIs of all resources written into an HTML document. Default is an empty string. 
+Specifies the name of the folder used to construct URIs of all resources written into an HTML document. Default is an empty string.
 

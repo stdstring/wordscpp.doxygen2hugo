@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldinfo/set_infotype/
 ## FieldInfo.set_InfoType method
 
 
-Setter for Aspose::Words::Fields::FieldInfo::get_InfoType. 
+Setter for [Aspose::Words::Fields::FieldInfo::get_InfoType](./get_infotype/).
 

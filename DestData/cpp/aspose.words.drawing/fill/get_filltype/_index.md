@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_filltype/
 ## Fill.get_FillType method
 
 
-Gets a fill type. 
+Gets a fill type.
 

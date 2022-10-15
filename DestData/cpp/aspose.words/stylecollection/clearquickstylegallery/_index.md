@@ -9,5 +9,5 @@ url: /cpp/aspose.words/stylecollection/clearquickstylegallery/
 ## StyleCollection.ClearQuickStyleGallery method
 
 
-Removes all styles from the Quick Style Gallery panel. 
+Removes all styles from the Quick [Style](../style/) Gallery panel.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odsorecipientdata/clone/
 ## OdsoRecipientData.Clone method
 
 
-Returns a deep clone of this object. 
+Returns a deep clone of this object.
 

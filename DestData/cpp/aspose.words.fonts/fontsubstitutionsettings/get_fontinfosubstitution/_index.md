@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_fontinfosubstitution/
 ## FontSubstitutionSettings.get_FontInfoSubstitution method
 
 
-Settings related to font info substitution rule. 
+[Settings](../../aspose.words.settings/) related to font info substitution rule.
 

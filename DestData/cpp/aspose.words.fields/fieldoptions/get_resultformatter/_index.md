@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_resultformatter/
 ## FieldOptions.get_ResultFormatter method
 
 
-Allows to control how the field result is formatted. 
+Allows to control how the field result is formatted.
 

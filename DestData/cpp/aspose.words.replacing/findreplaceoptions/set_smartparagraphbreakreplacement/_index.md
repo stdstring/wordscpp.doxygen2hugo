@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_smartparagraphbreakrepla
 ## FindReplaceOptions.set_SmartParagraphBreakReplacement method
 
 
-Setter for Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement. 
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement](./get_smartparagraphbreakreplacement/).
 

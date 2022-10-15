@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportdocumentproperties/
 ## HtmlSaveOptions.set_ExportDocumentProperties method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties](./get_exportdocumentproperties/).
 

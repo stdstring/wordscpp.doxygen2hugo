@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldgotobutton/get_displaytext/
 ## FieldGoToButton.get_DisplayText method
 
 
-Gets or sets the text of the "button" that appears in the document, such that it can be selected to activate the jump. 
+Gets or sets the text of the "button" that appears in the document, such that it can be selected to activate the jump.
 

@@ -9,13 +9,13 @@ url: /cpp/aspose.words.themes/theme/
 ## Theme class
 
 
-Represents document Theme, and provides access to main theme parts including MajorFonts, MinorFonts and Colors
+Represents document [Theme](./theme/), and provides access to main theme parts including [MajorFonts](./theme/get_majorfonts/), [MinorFonts](./theme/get_minorfonts/) and [Colors](./theme/get_colors/)
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [get_Colors](./get_colors/)() const | Allows to specify the set of theme colors for the document.  |
-| [get_MajorFonts](./get_majorfonts/)() const | Allows to specify the set of major fonts for different languages.  |
-| [get_MinorFonts](./get_minorfonts/)() const | Allows to specify the set of minor fonts for different languages.  |
+| [get_Colors](./get_colors/)() const | Allows to specify the set of theme colors for the document. |
+| [get_MajorFonts](./get_majorfonts/)() const | Allows to specify the set of major fonts for different languages. |
+| [get_MinorFonts](./get_minorfonts/)() const | Allows to specify the set of minor fonts for different languages. |
 | [Theme](./theme/)() |  |

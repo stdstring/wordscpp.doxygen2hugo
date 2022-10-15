@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_endnoteoptions/
 ## Document.get_EndnoteOptions method
 
 
-Provides options that control numbering and positioning of endnotes in this document. 
+Provides options that control numbering and positioning of endnotes in this document.
 

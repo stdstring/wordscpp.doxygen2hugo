@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdffontembeddingmode/
 ## PdfFontEmbeddingMode enum
 
 
-Specifies how Aspose.Words should embed fonts. 
+Specifies how Aspose.Words should embed fonts.
 

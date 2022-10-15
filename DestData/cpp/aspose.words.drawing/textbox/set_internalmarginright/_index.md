@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/set_internalmarginright/
 ## TextBox.set_InternalMarginRight method
 
 
-Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginRight. 
+Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginRight](./get_internalmarginright/).
 

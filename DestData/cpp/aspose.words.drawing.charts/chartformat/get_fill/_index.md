@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartformat/get_fill/
 ## ChartFormat.get_Fill method
 
 
-Gets fill formatting for the parent chart element. 
+Gets fill formatting for the parent chart element.
 

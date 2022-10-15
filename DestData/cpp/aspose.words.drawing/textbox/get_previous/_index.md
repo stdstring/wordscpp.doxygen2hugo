@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_previous/
 ## TextBox.get_Previous method
 
 
-Returns a TextBox that represents the previous TextBox in a sequence of shapes. 
+Returns a [TextBox](./) that represents the previous [TextBox](./) in a sequence of shapes.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/get_hasimage/
 ## ImageData.get_HasImage method
 
 
-Returns true if the shape has image bytes or links an image. 
+Returns true if the shape has image bytes or links an image.
 

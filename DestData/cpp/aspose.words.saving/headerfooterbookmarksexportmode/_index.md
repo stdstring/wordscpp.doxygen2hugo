@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/headerfooterbookmarksexportmode/
 ## HeaderFooterBookmarksExportMode enum
 
 
-Specifies how bookmarks in headers/footers are exported. 
+Specifies how bookmarks in headers/footers are exported.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/get_revisedpropertieseffect/
 ## RevisionOptions.get_RevisedPropertiesEffect method
 
 
-Allows to specify the effect for content areas with changes of formatting properties FormatChange Default value is None
+Allows to specify the effect for content areas with changes of formatting properties **FormatChange** Default value is **None**
 

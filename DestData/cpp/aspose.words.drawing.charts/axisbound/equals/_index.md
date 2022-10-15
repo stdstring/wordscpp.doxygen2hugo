@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisbound/equals/
 ## AxisBound.Equals method
 
 
-Determines whether the specified object is equal in value to the current object. 
+Determines whether the specified object is equal in value to the current object.
 

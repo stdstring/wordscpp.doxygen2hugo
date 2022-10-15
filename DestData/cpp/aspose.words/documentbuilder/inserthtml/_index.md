@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/inserthtml/
 ## DocumentBuilder.InsertHtml method
 
 
-Inserts an HTML string into the document. 
+Inserts an HTML string into the document.
 
 ---
 title: InsertHtml
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/documentbuilder/inserthtml/
 ## DocumentBuilder.InsertHtml method
 
 
-Inserts an HTML string into the document. Allows to specify additional options. 
+Inserts an HTML string into the document. Allows to specify additional options.
 
 ---
 title: InsertHtml
@@ -35,5 +35,5 @@ url: /cpp/aspose.words/documentbuilder/inserthtml/
 ## DocumentBuilder.InsertHtml method
 
 
-Inserts an HTML string into the document. 
+Inserts an HTML string into the document.
 

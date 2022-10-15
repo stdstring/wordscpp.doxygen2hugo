@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/axisbound/
 ## AxisBound.AxisBound method
 
 
-Creates a new instance indicating that axis bound should be determined automatically by a word-processing application. 
+Creates a new instance indicating that axis bound should be determined automatically by a word-processing application.
 
 ---
 title: AxisBound
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/axisbound/
 ## AxisBound.AxisBound method
 
 
-Creates an axis bound represented as a number. 
+Creates an axis bound represented as a number.
 
 ---
 title: AxisBound
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.drawing.charts/axisbound/axisbound/
 ## AxisBound.AxisBound method
 
 
-Creates an axis bound represented as datetime value. 
+Creates an axis bound represented as datetime value.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_noproofing/
 ## Font.set_NoProofing method
 
 
-Setter for Aspose::Words::Font::get_NoProofing. 
+Setter for [Aspose::Words::Font::get_NoProofing](./get_noproofing/).
 

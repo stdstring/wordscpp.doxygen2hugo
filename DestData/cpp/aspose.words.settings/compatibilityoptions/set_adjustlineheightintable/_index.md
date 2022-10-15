@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_adjustlineheightintable
 ## CompatibilityOptions.set_AdjustLineHeightInTable method
 
 
-Add Document Grid Line Pitch To Lines in Table Cells. 
+Add [Document](../../aspose.words/document/) Grid Line Pitch To Lines in Table Cells.
 

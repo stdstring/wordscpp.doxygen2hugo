@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_revisionsview/
 ## Document.get_RevisionsView method
 
 
-Gets or sets a value indicating whether to work with the original or revised version of a document. 
+Gets or sets a value indicating whether to work with the original or revised version of a document.
 

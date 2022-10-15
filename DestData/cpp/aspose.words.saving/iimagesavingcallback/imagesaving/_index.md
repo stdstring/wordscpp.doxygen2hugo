@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/iimagesavingcallback/imagesaving/
 ## IImageSavingCallback.ImageSaving method
 
 
-Called when Aspose.Words saves an image to HTML. 
+Called when Aspose.Words saves an image to HTML.
 

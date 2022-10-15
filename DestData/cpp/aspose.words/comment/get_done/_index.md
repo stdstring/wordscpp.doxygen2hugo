@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/get_done/
 ## Comment.get_Done method
 
 
-Gets or sets flag indicating that the comment has been marked done. 
+Gets or sets flag indicating that the comment has been marked done.
 

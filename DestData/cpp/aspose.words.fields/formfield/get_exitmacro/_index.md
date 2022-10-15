@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/get_exitmacro/
 ## FormField.get_ExitMacro method
 
 
-Returns or sets an exit macro name for the form field. 
+Returns or sets an exit macro name for the form field.
 

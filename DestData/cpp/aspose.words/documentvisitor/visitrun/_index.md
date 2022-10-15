@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitrun/
 ## DocumentVisitor.VisitRun method
 
 
-Called when a run of text in the is encountered. 
+Called when a run of text in the is encountered.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_text/
 ## TextPath.get_Text method
 
 
-Defines the text of the text path. 
+Defines the text of the text path.
 

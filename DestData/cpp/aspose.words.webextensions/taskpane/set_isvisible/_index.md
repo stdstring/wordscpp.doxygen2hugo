@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/taskpane/set_isvisible/
 ## TaskPane.set_IsVisible method
 
 
-Setter for Aspose::Words::WebExtensions::TaskPane::get_IsVisible. 
+Setter for [Aspose::Words::WebExtensions::TaskPane::get_IsVisible](./get_isvisible/).
 

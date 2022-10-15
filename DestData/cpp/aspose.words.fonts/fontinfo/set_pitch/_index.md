@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfo/set_pitch/
 ## FontInfo.set_Pitch method
 
 
-Setter for Aspose::Words::Fonts::FontInfo::get_Pitch. 
+Setter for [Aspose::Words::Fonts::FontInfo::get_Pitch](./get_pitch/).
 

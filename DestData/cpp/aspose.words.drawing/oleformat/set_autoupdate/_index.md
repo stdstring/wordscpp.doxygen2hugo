@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/oleformat/set_autoupdate/
 ## OleFormat.set_AutoUpdate method
 
 
-Setter for Aspose::Words::Drawing::OleFormat::get_AutoUpdate. 
+Setter for [Aspose::Words::Drawing::OleFormat::get_AutoUpdate](./get_autoupdate/).
 

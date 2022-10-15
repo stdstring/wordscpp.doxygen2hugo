@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_papersize/
 ## PageSetup.get_PaperSize method
 
 
-Returns or sets the paper size. 
+Returns or sets the paper size.
 

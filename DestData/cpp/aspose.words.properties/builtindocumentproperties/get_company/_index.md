@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_company/
 ## BuiltInDocumentProperties.get_Company method
 
 
-Gets or sets the company property. 
+Gets or sets the company property.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbamodulecollection/get_count/
 ## VbaModuleCollection.get_Count method
 
 
-Returns the number of VBA modules in the collection. 
+Returns the number of VBA modules in the collection.
 

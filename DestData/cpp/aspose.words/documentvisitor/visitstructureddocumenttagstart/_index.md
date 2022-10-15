@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagstart/
 ## DocumentVisitor.VisitStructuredDocumentTagStart method
 
 
-Called when enumeration of a structured document tag has started. 
+Called when enumeration of a structured document tag has started.
 

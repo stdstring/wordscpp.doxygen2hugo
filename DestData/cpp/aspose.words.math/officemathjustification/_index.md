@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemathjustification/
 ## OfficeMathJustification enum
 
 
-Specifies the justification of the equation. 
+Specifies the justification of the equation.
 

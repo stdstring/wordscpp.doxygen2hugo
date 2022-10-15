@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentry/get_font/
 ## ChartLegendEntry.get_Font method
 
 
-Provides access to the font formatting of this legend entry. 
+Provides access to the font formatting of this legend entry.
 

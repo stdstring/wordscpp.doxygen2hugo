@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/clone/
 ## PdfSaveOptions.Clone method
 
 
-Creates a deep clone of this object. 
+Creates a deep clone of this object.
 

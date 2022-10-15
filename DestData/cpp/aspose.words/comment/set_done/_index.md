@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/set_done/
 ## Comment.set_Done method
 
 
-Setter for Aspose::Words::Comment::get_Done. 
+Setter for [Aspose::Words::Comment::get_Done](./get_done/).
 

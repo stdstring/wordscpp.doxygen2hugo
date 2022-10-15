@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/theme/get_colors/
 ## Theme.get_Colors method
 
 
-Allows to specify the set of theme colors for the document. 
+Allows to specify the set of theme colors for the document.
 

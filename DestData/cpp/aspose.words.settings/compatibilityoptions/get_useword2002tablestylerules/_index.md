@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_useword2002tablestyleru
 ## CompatibilityOptions.get_UseWord2002TableStyleRules method
 
 
-Emulate Word 2002 Table Style Rules. 
+Emulate Word 2002 Table [Style](../../aspose.words/style/) Rules.
 

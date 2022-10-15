@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldchar/set_isdirty/
 ## FieldChar.set_IsDirty method
 
 
-Setter for Aspose::Words::Fields::FieldChar::get_IsDirty. 
+Setter for [Aspose::Words::Fields::FieldChar::get_IsDirty](./get_isdirty/).
 

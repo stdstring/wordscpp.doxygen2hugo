@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/set_fieldindexformat/
 ## FieldOptions.set_FieldIndexFormat method
 
 
-Setter for Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat. 
+Setter for [Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat](./get_fieldindexformat/).
 

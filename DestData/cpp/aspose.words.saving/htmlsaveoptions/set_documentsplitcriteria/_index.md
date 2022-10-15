@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentsplitcriteria/
 ## HtmlSaveOptions.set_DocumentSplitCriteria method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria](./get_documentsplitcriteria/).
 

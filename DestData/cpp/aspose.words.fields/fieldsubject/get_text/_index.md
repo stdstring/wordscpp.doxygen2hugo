@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsubject/get_text/
 ## FieldSubject.get_Text method
 
 
-Gets or sets the text of the subject. 
+Gets or sets the text of the subject.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlofficemathoutputmode/
 ## HtmlOfficeMathOutputMode enum
 
 
-Specifies how Aspose.Words exports OfficeMath to HTML, MHTML and EPUB. 
+Specifies how Aspose.Words exports OfficeMath to HTML, MHTML and EPUB.
 

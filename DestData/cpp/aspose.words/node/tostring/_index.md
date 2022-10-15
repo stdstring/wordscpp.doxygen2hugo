@@ -9,7 +9,7 @@ url: /cpp/aspose.words/node/tostring/
 ## Node.ToString method
 
 
-Exports the content of the node into a string in the specified format. 
+Exports the content of the node into a string in the specified format.
 
 ---
 title: ToString
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/node/tostring/
 ## Node.ToString method
 
 
-Exports the content of the node into a string using the specified save options. 
+Exports the content of the node into a string using the specified save options.
 

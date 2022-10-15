@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtype/
 ## FieldType enum
 
 
-Specifies Microsoft Word field types. 
+Specifies Microsoft Word field types.
 

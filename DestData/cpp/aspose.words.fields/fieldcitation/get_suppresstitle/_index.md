@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/get_suppresstitle/
 ## FieldCitation.get_SuppressTitle method
 
 
-Gets or sets whether the title information is suppressed from the citation. 
+Gets or sets whether the title information is suppressed from the citation.
 

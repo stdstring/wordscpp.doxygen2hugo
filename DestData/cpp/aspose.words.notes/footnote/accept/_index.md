@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnote/accept/
 ## Footnote.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

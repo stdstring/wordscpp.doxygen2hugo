@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/ichartdatapoint/set_explosion/
 ## IChartDataPoint.set_Explosion method
 
 
-Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion. 
+Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion](./get_explosion/).
 

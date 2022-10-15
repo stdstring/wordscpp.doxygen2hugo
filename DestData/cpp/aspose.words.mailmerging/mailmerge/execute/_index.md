@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ## MailMerge.Execute method
 
 
-Performs a mail merge operation for a single record. 
+Performs a mail merge operation for a single record.
 
 ---
 title: Execute
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ## MailMerge.Execute method
 
 
-Performs a mail merge from a custom data source. 
+Performs a mail merge from a custom data source.
 

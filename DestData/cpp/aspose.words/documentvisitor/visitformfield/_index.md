@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitformfield/
 ## DocumentVisitor.VisitFormField method
 
 
-Called when a form field is encountered in the document. 
+Called when a form field is encountered in the document.
 

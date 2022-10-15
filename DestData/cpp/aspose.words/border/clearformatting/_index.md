@@ -9,5 +9,5 @@ url: /cpp/aspose.words/border/clearformatting/
 ## Border.ClearFormatting method
 
 
-Resets border properties to default values. 
+Resets border properties to default values.
 

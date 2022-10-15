@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontfamily/
 ## FontFamily enum
 
 
-Represents the font family. 
+Represents the font family.
 

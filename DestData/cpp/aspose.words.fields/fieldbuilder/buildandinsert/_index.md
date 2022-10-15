@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/buildandinsert/
 ## FieldBuilder.BuildAndInsert method
 
 
-Builds and inserts a field into the document before the specified inline node. 
+Builds and inserts a field into the document before the specified inline node.
 
 ---
 title: BuildAndInsert
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fields/fieldbuilder/buildandinsert/
 ## FieldBuilder.BuildAndInsert method
 
 
-Builds and inserts a field into the document to the end of the specified paragraph. 
+Builds and inserts a field into the document to the end of the specified paragraph.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfo/set_charset/
 ## FontInfo.set_Charset method
 
 
-Setter for Aspose::Words::Fonts::FontInfo::get_Charset. 
+Setter for [Aspose::Words::Fonts::FontInfo::get_Charset](./get_charset/).
 

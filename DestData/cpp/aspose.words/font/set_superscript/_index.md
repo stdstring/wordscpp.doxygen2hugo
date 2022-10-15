@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_superscript/
 ## Font.set_Superscript method
 
 
-Setter for Aspose::Words::Font::get_Superscript. 
+Setter for [Aspose::Words::Font::get_Superscript](./get_superscript/).
 

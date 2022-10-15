@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_totaleditingtime
 ## BuiltInDocumentProperties.set_TotalEditingTime method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TotalEditingTime. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_TotalEditingTime](./get_totaleditingtime/).
 

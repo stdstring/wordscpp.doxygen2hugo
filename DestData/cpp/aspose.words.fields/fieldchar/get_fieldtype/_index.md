@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldchar/get_fieldtype/
 ## FieldChar.get_FieldType method
 
 
-Returns the type of the field. 
+Returns the type of the field.
 

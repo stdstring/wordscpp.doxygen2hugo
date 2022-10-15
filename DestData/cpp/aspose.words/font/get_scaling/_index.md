@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_scaling/
 ## Font.get_Scaling method
 
 
-Gets or sets character width scaling in percent. 
+Gets or sets character width scaling in percent.
 

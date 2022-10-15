@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlevel/set_trailingcharacter/
 ## ListLevel.set_TrailingCharacter method
 
 
-Setter for Aspose::Words::Lists::ListLevel::get_TrailingCharacter. 
+Setter for [Aspose::Words::Lists::ListLevel::get_TrailingCharacter](./get_trailingcharacter/).
 

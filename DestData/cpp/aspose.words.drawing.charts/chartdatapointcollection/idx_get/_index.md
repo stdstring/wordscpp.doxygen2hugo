@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/idx_get/
 ## ChartDataPointCollection.idx_get method
 
 
-Returns ChartDataPoint for the specified index. 
+Returns [ChartDataPoint](../chartdatapoint/) for the specified index.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/getenumerator/
 ## GradientStopCollection.GetEnumerator method
 
 
-Returns an enumerator that iterates through the collection. 
+Returns an enumerator that iterates through the collection.
 

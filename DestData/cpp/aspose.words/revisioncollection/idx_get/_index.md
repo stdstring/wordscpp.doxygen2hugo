@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisioncollection/idx_get/
 ## RevisionCollection.idx_get method
 
 
-Returns a Revision at the specified index. 
+Returns a [Revision](../revision/) at the specified index.
 

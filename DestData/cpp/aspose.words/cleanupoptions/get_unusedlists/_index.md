@@ -9,5 +9,5 @@ url: /cpp/aspose.words/cleanupoptions/get_unusedlists/
 ## CleanupOptions.get_UnusedLists method
 
 
-Specifies whether unused list and list definitions should be removed from document. Default value is **true**. 
+Specifies whether unused list and list definitions should be removed from document. Default value is **true**.
 

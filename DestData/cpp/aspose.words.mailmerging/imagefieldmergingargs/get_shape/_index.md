@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_shape/
 ## ImageFieldMergingArgs.get_Shape method
 
 
-Specifies the shape that the mail merge engine must insert into the document. 
+Specifies the shape that the mail merge engine must insert into the document.
 

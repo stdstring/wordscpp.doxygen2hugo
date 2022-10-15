@@ -9,7 +9,7 @@ url: /cpp/aspose.words.webextensions/webextensionbindingcollection/
 ## WebExtensionBindingCollection class
 
 
-Specifies a list of web extension bindings. 
+Specifies a list of web extension bindings.
 
 ## Methods
 

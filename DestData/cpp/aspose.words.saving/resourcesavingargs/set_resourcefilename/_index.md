@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcefilename/
 ## ResourceSavingArgs.set_ResourceFileName method
 
 
-Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName. 
+Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName](./get_resourcefilename/).
 

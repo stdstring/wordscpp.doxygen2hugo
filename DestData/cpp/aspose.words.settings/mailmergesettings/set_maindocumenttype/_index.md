@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mailmergesettings/set_maindocumenttype/
 ## MailMergeSettings.set_MainDocumentType method
 
 
-Setter for Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType. 
+Setter for [Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType](./get_maindocumenttype/).
 

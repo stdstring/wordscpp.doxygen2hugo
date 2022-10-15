@@ -9,5 +9,5 @@ url: /cpp/aspose.words/texteffect/
 ## TextEffect enum
 
 
-Animation effect for text runs. 
+Animation effect for text runs.
 

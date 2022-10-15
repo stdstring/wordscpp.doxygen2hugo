@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/rowformat/get_headingformat/
 ## RowFormat.get_HeadingFormat method
 
 
-True if the row is repeated as a table heading on every page when the table spans more than one page. 
+True if the row is repeated as a table heading on every page when the table spans more than one page.
 

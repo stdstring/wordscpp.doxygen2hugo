@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_usenonmergefields/
 ## MailMerge.get_UseNonMergeFields method
 
 
-When true, specifies that in addition to MERGEFIELD fields, mail merge is performed into some other types of fields and also into "{{fieldName}}" tags. 
+When true, specifies that in addition to MERGEFIELD fields, mail merge is performed into some other types of fields and also into "{{fieldName}}" tags.
 

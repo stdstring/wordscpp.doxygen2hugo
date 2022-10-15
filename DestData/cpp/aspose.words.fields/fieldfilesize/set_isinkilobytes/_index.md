@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldfilesize/set_isinkilobytes/
 ## FieldFileSize.set_IsInKilobytes method
 
 
-Setter for Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes. 
+Setter for [Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes](./get_isinkilobytes/).
 

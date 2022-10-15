@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/contains/
 ## NodeCollection.Contains method
 
 
-Determines whether a node is in the collection. 
+Determines whether a node is in the collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themefonts/get_latin/
 ## ThemeFonts.get_Latin method
 
 
-Specifies font name for Latin characters. 
+Specifies font name for Latin characters.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/getenumerator/
 ## NodeCollection.GetEnumerator method
 
 
-Provides a simple "foreach" style iteration over the collection of nodes. 
+Provides a simple "foreach" style iteration over the collection of nodes.
 

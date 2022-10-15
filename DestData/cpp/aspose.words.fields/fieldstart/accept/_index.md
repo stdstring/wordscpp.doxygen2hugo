@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldstart/accept/
 ## FieldStart.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

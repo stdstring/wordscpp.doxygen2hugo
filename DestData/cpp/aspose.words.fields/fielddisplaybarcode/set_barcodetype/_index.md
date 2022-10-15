@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_barcodetype/
 ## FieldDisplayBarcode.set_BarcodeType method
 
 
-Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType. 
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType](./get_barcodetype/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldformat/set_numericformat/
 ## FieldFormat.set_NumericFormat method
 
 
-Setter for Aspose::Words::Fields::FieldFormat::get_NumericFormat. 
+Setter for [Aspose::Words::Fields::FieldFormat::get_NumericFormat](./get_numericformat/).
 

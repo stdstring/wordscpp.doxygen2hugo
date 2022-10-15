@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/endrow/
 ## DocumentBuilder.EndRow method
 
 
-Ends a table row in the document. 
+Ends a table row in the document.
 

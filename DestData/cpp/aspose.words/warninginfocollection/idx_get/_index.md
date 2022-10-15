@@ -9,5 +9,5 @@ url: /cpp/aspose.words/warninginfocollection/idx_get/
 ## WarningInfoCollection.idx_get method
 
 
-Gets an item at the specified index. 
+Gets an item at the specified index.
 

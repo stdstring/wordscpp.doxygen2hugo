@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisioncollection/rejectall/
 ## RevisionCollection.RejectAll method
 
 
-Rejects all revisions in this collection. 
+Rejects all revisions in this collection.
 

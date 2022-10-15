@@ -9,5 +9,5 @@ url: /cpp/aspose.words/hyphenation/get_callback/
 ## Hyphenation.get_Callback method
 
 
-Gets or sets callback interface used to request dictionaries when page layout of the document is built. This allows delay loading of dictionaries which may be useful when processing documents in many languages. 
+Gets or sets callback interface used to request dictionaries when page layout of the document is built. This allows delay loading of dictionaries which may be useful when processing documents in many languages.
 

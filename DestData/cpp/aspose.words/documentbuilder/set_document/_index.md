@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/set_document/
 ## DocumentBuilder.set_Document method
 
 
-Setter for Aspose::Words::DocumentBuilder::get_Document. 
+Setter for [Aspose::Words::DocumentBuilder::get_Document](./get_document/).
 

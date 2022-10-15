@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/toacategories/idx_get/
 ## ToaCategories.idx_get method
 
 
-Gets or sets the category heading by category number. 
+Gets or sets the category heading by category number.
 

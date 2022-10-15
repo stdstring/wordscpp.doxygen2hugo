@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/copystylesfromtemplate/
 ## Document.CopyStylesFromTemplate method
 
 
-Copies styles from the specified template to a document. 
+Copies styles from the specified template to a document.
 
 ---
 title: CopyStylesFromTemplate
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/copystylesfromtemplate/
 ## Document.CopyStylesFromTemplate method
 
 
-Copies styles from the specified template to a document. 
+Copies styles from the specified template to a document.
 

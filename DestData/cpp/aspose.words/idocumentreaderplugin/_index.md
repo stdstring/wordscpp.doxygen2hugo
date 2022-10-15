@@ -9,10 +9,10 @@ url: /cpp/aspose.words/idocumentreaderplugin/
 ## IDocumentReaderPlugin interface
 
 
-Defines an interface for external reader plugins that can read a file into a document. 
+Defines an interface for external reader plugins that can read a file into a document.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| virtual [Read](./read/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>, System::SharedPtr\<Aspose::Words::Document\>) | Reads the data from the specified stream into the Document instance.  |
+| virtual [Read](./read/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>, System::SharedPtr\<Aspose::Words::Document\>) | Reads the data from the specified stream into the [Document](../document/) instance. |

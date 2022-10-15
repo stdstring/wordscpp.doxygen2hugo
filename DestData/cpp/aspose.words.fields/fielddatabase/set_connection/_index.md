@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/set_connection/
 ## FieldDatabase.set_Connection method
 
 
-Sets a connection to the data. 
+Sets a connection to the data.
 

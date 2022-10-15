@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/set_absoluteverticaldistance/
 ## Table.set_AbsoluteVerticalDistance method
 
 
-Setter for Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance. 
+Setter for [Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance](./get_absoluteverticaldistance/).
 

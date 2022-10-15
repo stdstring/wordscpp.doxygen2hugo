@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindexformat/
 ## FieldIndexFormat enum
 
 
-Specifies the formatting for the FieldIndex fields in a document. 
+Specifies the formatting for the [FieldIndex](./fieldindex/) fields in a document.
 

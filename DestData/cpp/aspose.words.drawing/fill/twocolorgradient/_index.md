@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/fill/twocolorgradient/
 ## Fill.TwoColorGradient method
 
 
-Sets the specified fill to a two-color gradient. 
+Sets the specified fill to a two-color gradient.
 
 ---
 title: TwoColorGradient
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.drawing/fill/twocolorgradient/
 ## Fill.TwoColorGradient method
 
 
-Sets the specified fill to a two-color gradient. 
+Sets the specified fill to a two-color gradient.
 

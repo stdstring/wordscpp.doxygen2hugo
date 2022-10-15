@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/unprotect/
 ## Document.Unprotect method
 
 
-Removes protection from the document regardless of the password. 
+Removes protection from the document regardless of the password.
 
 ---
 title: Unprotect
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/unprotect/
 ## Document.Unprotect method
 
 
-Removes protection from the document if a correct password is specified. 
+Removes protection from the document if a correct password is specified.
 

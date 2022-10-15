@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/get_count/
 ## ChartSeriesCollection.get_Count method
 
 
-Returns the number of ChartSeries in this collection. 
+Returns the number of [ChartSeries](../chartseries/) in this collection.
 

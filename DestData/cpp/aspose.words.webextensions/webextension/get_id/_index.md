@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextension/get_id/
 ## WebExtension.get_Id method
 
 
-Uniquely identifies the web extension instance in the current document. 
+Uniquely identifies the web extension instance in the current document.
 

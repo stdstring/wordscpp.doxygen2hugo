@@ -9,5 +9,5 @@ url: /cpp/aspose.words/shading/clearformatting/
 ## Shading.ClearFormatting method
 
 
-Removes shading from the object. 
+Removes shading from the object.
 

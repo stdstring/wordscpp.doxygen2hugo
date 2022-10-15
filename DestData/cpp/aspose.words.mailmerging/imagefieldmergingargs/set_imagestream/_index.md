@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imagestream/
 ## ImageFieldMergingArgs.set_ImageStream method
 
 
-Specifies the stream for the mail merge engine to read an image from. 
+Specifies the stream for the mail merge engine to read an image from.
 
 ---
 title: set_ImageStream

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/xpssaveoptions/get_outlineoptions/
 ## XpsSaveOptions.get_OutlineOptions method
 
 
-Allows to specify outline options. 
+Allows to specify outline options.
 

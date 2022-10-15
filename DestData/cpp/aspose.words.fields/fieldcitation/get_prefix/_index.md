@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/get_prefix/
 ## FieldCitation.get_Prefix method
 
 
-Gets or sets a prefix that is prepended to the citation. 
+Gets or sets a prefix that is prepended to the citation.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfocollection/set_embedsystemfonts/
 ## FontInfoCollection.set_EmbedSystemFonts method
 
 
-Setter for Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts. 
+Setter for [Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts](./get_embedsystemfonts/).
 

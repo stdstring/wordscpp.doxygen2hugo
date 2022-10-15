@@ -9,7 +9,7 @@ url: /cpp/aspose.words/license/setlicense/
 ## License.SetLicense method
 
 
-Licenses the component. 
+Licenses the component.
 
 ---
 title: SetLicense
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/license/setlicense/
 ## License.SetLicense method
 
 
-Licenses the component. 
+Licenses the component.
 
 ---
 title: SetLicense

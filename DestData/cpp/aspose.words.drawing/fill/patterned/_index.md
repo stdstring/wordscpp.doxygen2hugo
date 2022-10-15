@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/fill/patterned/
 ## Fill.Patterned method
 
 
-Sets the specified fill to a pattern. 
+Sets the specified fill to a pattern.
 
 ---
 title: Patterned
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.drawing/fill/patterned/
 ## Fill.Patterned method
 
 
-Sets the specified fill to a pattern. 
+Sets the specified fill to a pattern.
 

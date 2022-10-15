@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/clearformat/
 ## ChartDataLabelCollection.ClearFormat method
 
 
-Clears format of all ChartDataLabel in this collection. 
+Clears format of all [ChartDataLabel](../chartdatalabel/) in this collection.
 

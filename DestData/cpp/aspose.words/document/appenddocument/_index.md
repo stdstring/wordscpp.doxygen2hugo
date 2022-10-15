@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/appenddocument/
 ## Document.AppendDocument method
 
 
-Appends the specified document to the end of this document. 
+Appends the specified document to the end of this document.
 
 ---
 title: AppendDocument
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/appenddocument/
 ## Document.AppendDocument method
 
 
-Appends the specified document to the end of this document. 
+Appends the specified document to the end of this document.
 

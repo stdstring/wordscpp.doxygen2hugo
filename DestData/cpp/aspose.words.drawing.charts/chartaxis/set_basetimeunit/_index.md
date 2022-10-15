@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_basetimeunit/
 ## ChartAxis.set_BaseTimeUnit method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_BaseTimeUnit. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_BaseTimeUnit](./get_basetimeunit/).
 

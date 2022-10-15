@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/xpssaveoptions/xpssaveoptions/
 ## XpsSaveOptions.XpsSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the Xps format. 
+Initializes a new instance of this class that can be used to save a document in the **Xps** format.
 
 ---
 title: XpsSaveOptions
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.saving/xpssaveoptions/xpssaveoptions/
 ## XpsSaveOptions.XpsSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the Xps or OpenXps format. 
+Initializes a new instance of this class that can be used to save a document in the **Xps** or **OpenXps** format.
 

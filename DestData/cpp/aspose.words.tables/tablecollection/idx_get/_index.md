@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/tablecollection/idx_get/
 ## TableCollection.idx_get method
 
 
-Retrieves a **Table** at the given index. 
+Retrieves a **Table** at the given index.
 

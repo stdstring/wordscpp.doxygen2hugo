@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_barcodevalue/
 ## FieldDisplayBarcode.get_BarcodeValue method
 
 
-Gets or sets the barcode value. 
+Gets or sets the barcode value.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotuseeastasianbreakr
 ## CompatibilityOptions.set_DoNotUseEastAsianBreakRules method
 
 
-Do Not Compress Compressible Characters When Using Document Grid. 
+Do Not Compress Compressible Characters When Using [Document](../../aspose.words/document/) Grid.
 

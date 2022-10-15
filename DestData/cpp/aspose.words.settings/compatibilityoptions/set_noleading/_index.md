@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_noleading/
 ## CompatibilityOptions.set_NoLeading method
 
 
-Do Not Add Leading Between Lines of Text. 
+Do Not Add Leading Between Lines of Text.
 

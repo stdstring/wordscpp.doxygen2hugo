@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitshapestart/
 ## DocumentVisitor.VisitShapeStart method
 
 
-Called when enumeration of a shape has started. 
+Called when enumeration of a shape has started.
 

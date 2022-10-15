@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlfixedpagehorizontalalignment/
 ## HtmlFixedPageHorizontalAlignment enum
 
 
-Specifies the horizontal alignment for pages in output HTML document. 
+Specifies the horizontal alignment for pages in output HTML document.
 

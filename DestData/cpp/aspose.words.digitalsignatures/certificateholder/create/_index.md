@@ -9,7 +9,7 @@ url: /cpp/aspose.words.digitalsignatures/certificateholder/create/
 ## CertificateHolder.Create method
 
 
-Creates CertificateHolder object using byte array of PKCS12 store and its password. 
+Creates [CertificateHolder](./) object using byte array of PKCS12 store and its password.
 
 ---
 title: Create
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.digitalsignatures/certificateholder/create/
 ## CertificateHolder.Create method
 
 
-Creates CertificateHolder object using byte array of PKCS12 store and its password. 
+Creates [CertificateHolder](./) object using byte array of PKCS12 store and its password.
 
 ---
 title: Create
@@ -35,7 +35,7 @@ url: /cpp/aspose.words.digitalsignatures/certificateholder/create/
 ## CertificateHolder.Create method
 
 
-Creates CertificateHolder object using path to PKCS12 store and its password. 
+Creates [CertificateHolder](./) object using path to PKCS12 store and its password.
 
 ---
 title: Create
@@ -48,5 +48,5 @@ url: /cpp/aspose.words.digitalsignatures/certificateholder/create/
 ## CertificateHolder.Create method
 
 
-Creates CertificateHolder object using path to PKCS12 store, its password and the alias by using which private key and certificate will be found. 
+Creates [CertificateHolder](./) object using path to PKCS12 store, its password and the alias by using which private key and certificate will be found.
 

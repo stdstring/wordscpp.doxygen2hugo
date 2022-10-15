@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_usenonmergefields/
 ## MailMerge.set_UseNonMergeFields method
 
 
-Setter for Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields. 
+Setter for [Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields](./get_usenonmergefields/).
 

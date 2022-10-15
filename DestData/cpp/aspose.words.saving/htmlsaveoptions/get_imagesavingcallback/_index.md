@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_imagesavingcallback/
 ## HtmlSaveOptions.get_ImageSavingCallback method
 
 
-Allows to control how images are saved when a document is saved to HTML, MHTML or EPUB. 
+Allows to control how images are saved when a document is saved to HTML, MHTML or EPUB.
 

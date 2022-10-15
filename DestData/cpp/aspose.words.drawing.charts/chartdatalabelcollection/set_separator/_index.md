@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_separator/
 ## ChartDataLabelCollection.set_Separator method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Separator. 
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Separator](./get_separator/).
 

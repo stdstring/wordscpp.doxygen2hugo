@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_endcap/
 ## Stroke.set_EndCap method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_EndCap. 
+Setter for [Aspose::Words::Drawing::Stroke::get_EndCap](./get_endcap/).
 

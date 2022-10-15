@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisscaletype/
 ## AxisScaleType enum
 
 
-Specifies the possible scale types for an axis. 
+Specifies the possible scale types for an axis.
 

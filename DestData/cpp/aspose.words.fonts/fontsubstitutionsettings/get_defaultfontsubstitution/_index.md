@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_defaultfontsubstitutio
 ## FontSubstitutionSettings.get_DefaultFontSubstitution method
 
 
-Settings related to default font substitution rule. 
+[Settings](../../aspose.words.settings/) related to default font substitution rule.
 

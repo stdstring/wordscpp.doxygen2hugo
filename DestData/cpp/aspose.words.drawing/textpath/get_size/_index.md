@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_size/
 ## TextPath.get_Size method
 
 
-Defines the size of the font in points. 
+Defines the size of the font in points.
 

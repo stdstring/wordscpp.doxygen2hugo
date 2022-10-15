@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_headinglevelforchapter/
 ## PageSetup.set_HeadingLevelForChapter method
 
 
-Setter for Aspose::Words::PageSetup::get_HeadingLevelForChapter. 
+Setter for [Aspose::Words::PageSetup::get_HeadingLevelForChapter](./get_headinglevelforchapter/).
 

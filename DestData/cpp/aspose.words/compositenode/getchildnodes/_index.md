@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/getchildnodes/
 ## CompositeNode.GetChildNodes method
 
 
-Returns a live collection of child nodes that match the specified type. 
+Returns a live collection of child nodes that match the specified type.
 

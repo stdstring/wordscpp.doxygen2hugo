@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_tablewidthoutputmode/
 ## HtmlSaveOptions.set_TableWidthOutputMode method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode](./get_tablewidthoutputmode/).
 

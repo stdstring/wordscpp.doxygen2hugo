@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/idx_set/
 ## CustomXmlSchemaCollection.idx_set method
 
 
-Gets or sets the element at the specified index. 
+Gets or sets the element at the specified index.
 

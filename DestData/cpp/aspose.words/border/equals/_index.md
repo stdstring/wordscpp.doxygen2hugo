@@ -9,7 +9,7 @@ url: /cpp/aspose.words/border/equals/
 ## Border.Equals method
 
 
-Determines whether the specified border is equal in value to the current border. 
+Determines whether the specified border is equal in value to the current border.
 
 ---
 title: Equals
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/border/equals/
 ## Border.Equals method
 
 
-Determines whether the specified object is equal in value to the current object. 
+Determines whether the specified object is equal in value to the current object.
 

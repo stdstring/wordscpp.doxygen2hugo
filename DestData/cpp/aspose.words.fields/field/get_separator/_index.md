@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/field/get_separator/
 ## Field.get_Separator method
 
 
-Gets the node that represents the field separator. Can be null. 
+Gets the node that represents the field separator. Can be null.
 

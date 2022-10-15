@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldaddressblock/get_languageid/
 ## FieldAddressBlock.get_LanguageId method
 
 
-Gets or sets the language ID used to format the address. 
+Gets or sets the language ID used to format the address.
 

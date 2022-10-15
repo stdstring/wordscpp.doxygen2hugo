@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pclsaveoptions/get_rasterizetransformedelements/
 ## PclSaveOptions.get_RasterizeTransformedElements method
 
 
-Gets or sets a value determining whether or not complex transformed elements should be rasterized before saving to PCL document. Default is **true**. 
+Gets or sets a value determining whether or not complex transformed elements should be rasterized before saving to PCL document. Default is **true**.
 

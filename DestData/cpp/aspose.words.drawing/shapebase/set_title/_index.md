@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_title/
 ## ShapeBase.set_Title method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_Title. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_Title](./get_title/).
 

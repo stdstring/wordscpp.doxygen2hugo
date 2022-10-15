@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/set_currentuser/
 ## FieldOptions.set_CurrentUser method
 
 
-Setter for Aspose::Words::Fields::FieldOptions::get_CurrentUser. 
+Setter for [Aspose::Words::Fields::FieldOptions::get_CurrentUser](./get_currentuser/).
 

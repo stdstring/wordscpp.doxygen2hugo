@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/fill/solid/
 ## Fill.Solid method
 
 
-Sets the fill to a uniform color. 
+Sets the fill to a uniform color.
 
 ---
 title: Solid
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.drawing/fill/solid/
 ## Fill.Solid method
 
 
-Sets the fill to a specified uniform color. 
+Sets the fill to a specified uniform color.
 

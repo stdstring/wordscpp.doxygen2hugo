@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_overridetablestylefonts
 ## CompatibilityOptions.get_OverrideTableStyleFontSizeAndJustification method
 
 
-Specifies how the style hierarchy of the document is evaluated. 
+Specifies how the style hierarchy of the document is evaluated.
 

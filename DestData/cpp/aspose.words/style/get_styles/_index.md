@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/get_styles/
 ## Style.get_Styles method
 
 
-Gets the collection of styles this style belongs to. 
+Gets the collection of styles this style belongs to.
 

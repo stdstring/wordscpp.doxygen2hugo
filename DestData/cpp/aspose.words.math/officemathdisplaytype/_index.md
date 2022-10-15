@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemathdisplaytype/
 ## OfficeMathDisplayType enum
 
 
-Specifies the display format type of the equation. 
+Specifies the display format type of the equation.
 

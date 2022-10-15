@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/set_bold/
 ## DocumentBuilder.set_Bold method
 
 
-Setter for Aspose::Words::DocumentBuilder::get_Bold. 
+Setter for [Aspose::Words::DocumentBuilder::get_Bold](./get_bold/).
 

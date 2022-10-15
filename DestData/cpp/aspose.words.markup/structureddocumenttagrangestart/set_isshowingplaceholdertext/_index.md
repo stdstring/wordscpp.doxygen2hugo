@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_isshowingplace
 ## StructuredDocumentTagRangeStart.set_IsShowingPlaceholderText method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_IsShowingPlaceholderText. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_IsShowingPlaceholderText](./get_isshowingplaceholdertext/).
 

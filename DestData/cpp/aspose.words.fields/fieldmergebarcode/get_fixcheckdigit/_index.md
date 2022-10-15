@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_fixcheckdigit/
 ## FieldMergeBarcode.get_FixCheckDigit method
 
 
-Gets whether to fix the check digit if it’s invalid. 
+Gets whether to fix the check digit if it’s invalid.
 

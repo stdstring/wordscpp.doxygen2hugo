@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/insertbreak/
 ## DocumentBuilder.InsertBreak method
 
 
-Inserts a break of the specified type into the document. 
+Inserts a break of the specified type into the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/isfontconfigavailable/
 ## FontConfigSubstitutionRule.IsFontConfigAvailable method
 
 
-Check if fontconfig utility is available or not. 
+Check if fontconfig utility is available or not.
 

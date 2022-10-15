@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_htmlversion/
 ## HtmlSaveOptions.set_HtmlVersion method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_HtmlVersion. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_HtmlVersion](./get_htmlversion/).
 

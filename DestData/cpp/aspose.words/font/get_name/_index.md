@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_name/
 ## Font.get_Name method
 
 
-Gets or sets the name of the font. 
+Gets or sets the name of the font.
 

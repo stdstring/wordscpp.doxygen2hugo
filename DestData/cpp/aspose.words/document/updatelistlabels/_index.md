@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/updatelistlabels/
 ## Document.UpdateListLabels method
 
 
-Updates list labels for all list items in the document. 
+Updates list labels for all list items in the document.
 

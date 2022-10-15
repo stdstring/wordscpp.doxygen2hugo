@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_addspacebetweenfareastandalpha/
 ## ParagraphFormat.set_AddSpaceBetweenFarEastAndAlpha method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndAlpha. 
+Setter for [Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndAlpha](./get_addspacebetweenfareastandalpha/).
 

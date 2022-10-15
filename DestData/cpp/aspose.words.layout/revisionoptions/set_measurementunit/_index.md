@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_measurementunit/
 ## RevisionOptions.set_MeasurementUnit method
 
 
-Allows to specify the measurement units for revision comments. Default value is Centimeters
+Allows to specify the measurement units for revision comments. Default value is **Centimeters**
 

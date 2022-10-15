@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_symbolrotation/
 ## FieldDisplayBarcode.set_SymbolRotation method
 
 
-Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation. 
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation](./get_symbolrotation/).
 

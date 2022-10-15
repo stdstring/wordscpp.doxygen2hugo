@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/set_scalewmffontstometafi
 ## MetafileRenderingOptions.set_ScaleWmfFontsToMetafileSize method
 
 
-Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_ScaleWmfFontsToMetafileSize. 
+Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_ScaleWmfFontsToMetafileSize](./get_scalewmffontstometafilesize/).
 

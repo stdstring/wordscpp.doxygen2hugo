@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/set_absolutehorizontaldistance/
 ## Table.set_AbsoluteHorizontalDistance method
 
 
-Setter for Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance. 
+Setter for [Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance](./get_absolutehorizontaldistance/).
 

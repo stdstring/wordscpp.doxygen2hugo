@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetodocumentend/
 ## DocumentBuilder.MoveToDocumentEnd method
 
 
-Moves the cursor to the end of the document. 
+Moves the cursor to the end of the document.
 

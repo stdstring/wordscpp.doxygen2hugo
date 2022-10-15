@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_revisedpropertiescolor/
 ## RevisionOptions.set_RevisedPropertiesColor method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesColor. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesColor](./get_revisedpropertiescolor/).
 

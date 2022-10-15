@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_symbolheight/
 ## FieldMergeBarcode.get_SymbolHeight method
 
 
-Gets the height of the symbol. The units are in TWIPS (1/1440 inch). 
+Gets the height of the symbol. The units are in TWIPS (1/1440 inch).
 

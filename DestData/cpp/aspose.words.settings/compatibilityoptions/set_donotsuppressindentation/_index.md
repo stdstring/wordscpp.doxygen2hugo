@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotsuppressindentatio
 ## CompatibilityOptions.set_DoNotSuppressIndentation method
 
 
-Do Not Ignore Floating Objects When Calculating Paragraph Indentation. 
+Do Not Ignore Floating Objects When Calculating [Paragraph](../../aspose.words/paragraph/) Indentation.
 

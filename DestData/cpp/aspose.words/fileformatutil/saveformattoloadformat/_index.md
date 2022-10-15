@@ -9,5 +9,5 @@ url: /cpp/aspose.words/fileformatutil/saveformattoloadformat/
 ## FileFormatUtil.SaveFormatToLoadFormat method
 
 
-Converts a SaveFormat value to a LoadFormat value if possible. 
+Converts a [SaveFormat](../saveformat/) value to a [LoadFormat](../loadformat/) value if possible.
 

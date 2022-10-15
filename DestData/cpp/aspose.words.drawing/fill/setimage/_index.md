@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/fill/setimage/
 ## Fill.SetImage method
 
 
-Changes the fill type to single image. 
+Changes the fill type to single image.
 
 ---
 title: SetImage
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.drawing/fill/setimage/
 ## Fill.SetImage method
 
 
-Changes the fill type to single image. 
+Changes the fill type to single image.
 
 ---
 title: SetImage
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.drawing/fill/setimage/
 ## Fill.SetImage method
 
 
-Changes the fill type to single image. 
+Changes the fill type to single image.
 

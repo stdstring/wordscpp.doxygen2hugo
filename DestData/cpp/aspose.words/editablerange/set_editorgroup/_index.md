@@ -9,5 +9,5 @@ url: /cpp/aspose.words/editablerange/set_editorgroup/
 ## EditableRange.set_EditorGroup method
 
 
-Setter for Aspose::Words::EditableRange::get_EditorGroup. 
+Setter for [Aspose::Words::EditableRange::get_EditorGroup](./get_editorgroup/).
 

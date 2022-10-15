@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/htmlloadoptions/get_supportvml/
 ## HtmlLoadOptions.get_SupportVml method
 
 
-Gets or sets a value indicating whether to support VML images. 
+Gets or sets a value indicating whether to support VML images.
 

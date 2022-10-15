@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/get_anothersourcetag/
 ## FieldCitation.get_AnotherSourceTag method
 
 
-Gets or sets a value that mathes the **Tag** element's value of another source to be included in the citation. 
+Gets or sets a value that mathes the **Tag** element's value of another source to be included in the citation.
 

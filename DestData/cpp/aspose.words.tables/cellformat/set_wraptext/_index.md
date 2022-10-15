@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellformat/set_wraptext/
 ## CellFormat.set_WrapText method
 
 
-Setter for Aspose::Words::Tables::CellFormat::get_WrapText. 
+Setter for [Aspose::Words::Tables::CellFormat::get_WrapText](./get_wraptext/).
 

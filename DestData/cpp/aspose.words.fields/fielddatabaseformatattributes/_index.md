@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabaseformatattributes/
 ## FieldDatabaseFormatAttributes enum
 
 
-FieldDatabaseFormatAttributes enumeration. 
+FieldDatabaseFormatAttributes enumeration.
 

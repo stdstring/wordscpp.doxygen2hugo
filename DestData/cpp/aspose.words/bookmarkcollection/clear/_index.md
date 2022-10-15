@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkcollection/clear/
 ## BookmarkCollection.Clear method
 
 
-Removes all bookmarks from this collection and from the document. 
+Removes all bookmarks from this collection and from the document.
 

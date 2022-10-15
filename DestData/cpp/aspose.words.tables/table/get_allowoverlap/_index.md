@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_allowoverlap/
 ## Table.get_AllowOverlap method
 
 
-Gets whether a floating table shall allow other floating objects in the document to overlap its extents when displayed. Default value is **true**. 
+Gets whether a floating table shall allow other floating objects in the document to overlap its extents when displayed. Default value is **true**.
 

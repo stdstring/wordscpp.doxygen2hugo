@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/get_imagedata/
 ## Shape.get_ImageData method
 
 
-Provides access to the image of the shape. Returns null if the shape cannot have an image. 
+Provides access to the image of the shape. Returns null if the shape cannot have an image.
 

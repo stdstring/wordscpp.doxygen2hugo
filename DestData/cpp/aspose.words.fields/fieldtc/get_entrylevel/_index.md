@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtc/get_entrylevel/
 ## FieldTC.get_EntryLevel method
 
 
-Gets or sets the level of the entry. 
+Gets or sets the level of the entry.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_color/
 ## Font.get_Color method
 
 
-Gets or sets the color of the font. 
+Gets or sets the color of the font.
 

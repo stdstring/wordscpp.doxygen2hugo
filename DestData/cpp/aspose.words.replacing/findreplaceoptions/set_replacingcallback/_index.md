@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_replacingcallback/
 ## FindReplaceOptions.set_ReplacingCallback method
 
 
-Setter for Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback. 
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback](./get_replacingcallback/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_on/
 ## TextPath.set_On method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_On. 
+Setter for [Aspose::Words::Drawing::TextPath::get_On](./get_on/).
 

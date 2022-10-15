@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/idx_get/
 ## SdtListItemCollection.idx_get method
 
 
-Returns a SdtListItem object given its zero-based index in the collection. 
+Returns a [SdtListItem](../sdtlistitem/) object given its zero-based index in the collection.
 

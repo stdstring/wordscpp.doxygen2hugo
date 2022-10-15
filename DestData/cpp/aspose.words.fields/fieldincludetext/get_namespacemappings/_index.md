@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_namespacemappings/
 ## FieldIncludeText.get_NamespaceMappings method
 
 
-Gets or sets the namespace mappings for XPath queries. 
+Gets or sets the namespace mappings for XPath queries.
 

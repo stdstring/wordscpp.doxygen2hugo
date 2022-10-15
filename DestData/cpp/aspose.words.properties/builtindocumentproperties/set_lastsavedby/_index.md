@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_lastsavedby/
 ## BuiltInDocumentProperties.set_LastSavedBy method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy](./get_lastsavedby/).
 

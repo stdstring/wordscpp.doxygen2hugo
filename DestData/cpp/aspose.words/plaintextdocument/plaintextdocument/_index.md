@@ -9,7 +9,7 @@ url: /cpp/aspose.words/plaintextdocument/plaintextdocument/
 ## PlainTextDocument.PlainTextDocument method
 
 
-Creates a plain text document from a stream. Automatically detects the file format. 
+Creates a plain text document from a stream. Automatically detects the file format.
 
 ---
 title: PlainTextDocument
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/plaintextdocument/plaintextdocument/
 ## PlainTextDocument.PlainTextDocument method
 
 
-Creates a plain text document from a stream. Allows to specify additional options such as an encryption password. 
+Creates a plain text document from a stream. Allows to specify additional options such as an encryption password.
 
 ---
 title: PlainTextDocument
@@ -35,7 +35,7 @@ url: /cpp/aspose.words/plaintextdocument/plaintextdocument/
 ## PlainTextDocument.PlainTextDocument method
 
 
-Creates a plain text document from a file. Automatically detects the file format. 
+Creates a plain text document from a file. Automatically detects the file format.
 
 ---
 title: PlainTextDocument
@@ -48,7 +48,7 @@ url: /cpp/aspose.words/plaintextdocument/plaintextdocument/
 ## PlainTextDocument.PlainTextDocument method
 
 
-Creates a plain text document from a file. Allows to specify additional options such as an encryption password. 
+Creates a plain text document from a file. Allows to specify additional options such as an encryption password.
 
 ---
 title: PlainTextDocument

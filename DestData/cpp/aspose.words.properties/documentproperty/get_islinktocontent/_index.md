@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentproperty/get_islinktocontent/
 ## DocumentProperty.get_IsLinkToContent method
 
 
-Shows whether this property is linked to content or not. 
+Shows whether this property is linked to content or not.
 

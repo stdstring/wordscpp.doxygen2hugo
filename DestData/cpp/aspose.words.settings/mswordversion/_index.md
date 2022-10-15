@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mswordversion/
 ## MsWordVersion enum
 
 
-Allows Aspose.Wods to mimic MS Word version-specific application behavior. 
+Allows Aspose.Wods to mimic MS Word version-specific application behavior.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfimagecolorspaceexportmode/
 ## PdfImageColorSpaceExportMode enum
 
 
-Specifies how the color space will be selected for the images in PDF document. 
+Specifies how the color space will be selected for the images in PDF document.
 

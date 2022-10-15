@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replacingargs/get_groupindex/
 ## ReplacingArgs.get_GroupIndex method
 
 
-Identifies, by index, a captured group in the Match that is to be replaced with the Replacement string. 
+Identifies, by index, a captured group in the [Match](./get_match/) that is to be replaced with the [Replacement](./get_replacement/) string.
 

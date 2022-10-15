@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunitscale/
 ## ChartAxis.set_MinorUnitScale method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale](./get_minorunitscale/).
 

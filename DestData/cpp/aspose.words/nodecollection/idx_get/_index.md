@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/idx_get/
 ## NodeCollection.idx_get method
 
 
-Retrieves a node at the given index. 
+Retrieves a node at the given index.
 

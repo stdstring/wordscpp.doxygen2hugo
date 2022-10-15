@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_leftindent/
 ## Table.get_LeftIndent method
 
 
-Gets or sets the value that represents the left indent of the table. 
+Gets or sets the value that represents the left indent of the table.
 

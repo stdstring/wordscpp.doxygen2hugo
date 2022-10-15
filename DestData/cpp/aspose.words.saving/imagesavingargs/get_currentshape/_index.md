@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesavingargs/get_currentshape/
 ## ImageSavingArgs.get_CurrentShape method
 
 
-Gets the ShapeBase object corresponding to the shape or group shape that is about to be saved. 
+Gets the [ShapeBase](../../aspose.words.drawing/shapebase/) object corresponding to the shape or group shape that is about to be saved.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/clearcontent/
 ## Section.ClearContent method
 
 
-Clears the section. 
+Clears the section.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcestream/
 ## ResourceSavingArgs.get_ResourceStream method
 
 
-Allows to specify the stream where the resource will be saved to. 
+Allows to specify the stream where the resource will be saved to.
 

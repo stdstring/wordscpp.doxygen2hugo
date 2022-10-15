@@ -22,7 +22,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/removeallsignature
 ## DigitalSignatureUtil.RemoveAllSignatures method
 
 
-Removes all digital signatures from source file and writes unsigned file to destination file. 
+Removes all digital signatures from source file and writes unsigned file to destination file.
 
 ---
 title: RemoveAllSignatures

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstylecollection/get_evenrowbanding/
 ## ConditionalStyleCollection.get_EvenRowBanding method
 
 
-Gets the even row banding style. 
+Gets the even row banding style.
 

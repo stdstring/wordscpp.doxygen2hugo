@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/documentdirection/
 ## DocumentDirection enum
 
 
-Allows to specify the direction to flow the text in a document. 
+Allows to specify the direction to flow the text in a document.
 

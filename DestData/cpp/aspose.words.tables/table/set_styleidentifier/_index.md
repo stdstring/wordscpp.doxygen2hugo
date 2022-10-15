@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/set_styleidentifier/
 ## Table.set_StyleIdentifier method
 
 
-Setter for Aspose::Words::Tables::Table::get_StyleIdentifier. 
+Setter for [Aspose::Words::Tables::Table::get_StyleIdentifier](./get_styleidentifier/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/removeat/
 ## NodeCollection.RemoveAt method
 
 
-Removes the node at the specified index from the collection and from the document. 
+Removes the node at the specified index from the collection and from the document.
 

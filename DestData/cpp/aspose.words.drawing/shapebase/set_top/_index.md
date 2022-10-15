@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_top/
 ## ShapeBase.set_Top method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_Top. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_Top](./get_top/).
 

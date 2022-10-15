@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/loadnotofallbacksettings/
 ## FontFallbackSettings.LoadNotoFallbackSettings method
 
 
-Loads predefined fallback settings which uses Google Noto fonts. 
+Loads predefined fallback settings which uses Google Noto fonts.
 

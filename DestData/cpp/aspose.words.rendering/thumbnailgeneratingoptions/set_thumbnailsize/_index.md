@@ -9,5 +9,5 @@ url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/set_thumbnailsize/
 ## ThumbnailGeneratingOptions.set_ThumbnailSize method
 
 
-Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_ThumbnailSize. 
+Setter for [Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_ThumbnailSize](./get_thumbnailsize/).
 

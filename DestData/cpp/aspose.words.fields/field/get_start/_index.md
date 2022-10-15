@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/field/get_start/
 ## Field.get_Start method
 
 
-Gets the node that represents the start of the field. 
+Gets the node that represents the start of the field.
 

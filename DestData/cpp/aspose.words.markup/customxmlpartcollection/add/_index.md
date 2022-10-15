@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/add/
 ## CustomXmlPartCollection.Add method
 
 
-Adds an item to the collection. 
+Adds an item to the collection.
 
 ---
 title: Add
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/add/
 ## CustomXmlPartCollection.Add method
 
 
-Creates a new XML part with the specified XML and adds it to the collection. 
+Creates a new XML part with the specified XML and adds it to the collection.
 

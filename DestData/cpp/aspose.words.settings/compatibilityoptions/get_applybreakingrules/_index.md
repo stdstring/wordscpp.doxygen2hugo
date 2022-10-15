@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_applybreakingrules/
 ## CompatibilityOptions.get_ApplyBreakingRules method
 
 
-Use Legacy Ethiopic and Amharic Line Breaking Rules. 
+Use Legacy Ethiopic and Amharic Line Breaking Rules.
 

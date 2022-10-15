@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/set_numberofcolumns/
 ## FieldIndex.set_NumberOfColumns method
 
 
-Setter for Aspose::Words::Fields::FieldIndex::get_NumberOfColumns. 
+Setter for [Aspose::Words::Fields::FieldIndex::get_NumberOfColumns](./get_numberofcolumns/).
 

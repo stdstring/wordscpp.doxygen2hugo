@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_allcaps/
 ## Font.get_AllCaps method
 
 
-True if the font is formatted as all capital letters. 
+True if the font is formatted as all capital letters.
 

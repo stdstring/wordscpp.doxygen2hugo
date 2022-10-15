@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcompare/set_comparisonoperator/
 ## FieldCompare.set_ComparisonOperator method
 
 
-Setter for Aspose::Words::Fields::FieldCompare::get_ComparisonOperator. 
+Setter for [Aspose::Words::Fields::FieldCompare::get_ComparisonOperator](./get_comparisonoperator/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mailmergecheckerrors/
 ## MailMergeCheckErrors enum
 
 
-Specifies how Microsoft Word will report errors detected during mail merge. 
+Specifies how Microsoft Word will report errors detected during mail merge.
 

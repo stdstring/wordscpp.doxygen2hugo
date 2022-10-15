@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentproperty/tobytearray/
 ## DocumentProperty.ToByteArray method
 
 
-Returns the property value as byte array. 
+Returns the property value as byte array.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_issignatureline/
 ## ShapeBase.get_IsSignatureLine method
 
 
-Indicates that shape is a SignatureLine. 
+Indicates that shape is a [SignatureLine](../signatureline/).
 

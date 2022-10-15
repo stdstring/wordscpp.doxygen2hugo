@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbaproject/get_name/
 ## VbaProject.get_Name method
 
 
-Gets or sets VBA project name. 
+Gets or sets VBA project name.
 

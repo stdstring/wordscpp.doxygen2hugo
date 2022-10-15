@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/field/get_end/
 ## Field.get_End method
 
 
-Gets the node that represents the field end. 
+Gets the node that represents the field end.
 

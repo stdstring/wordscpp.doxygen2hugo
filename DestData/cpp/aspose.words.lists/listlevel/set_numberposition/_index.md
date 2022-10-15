@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlevel/set_numberposition/
 ## ListLevel.set_NumberPosition method
 
 
-Setter for Aspose::Words::Lists::ListLevel::get_NumberPosition. 
+Setter for [Aspose::Words::Lists::ListLevel::get_NumberPosition](./get_numberposition/).
 

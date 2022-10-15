@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/get_leftpadding/
 ## ConditionalStyle.get_LeftPadding method
 
 
-Gets or sets the amount of space (in points) to add to the left of the contents of table cells. 
+Gets or sets the amount of space (in points) to add to the left of the contents of table cells.
 

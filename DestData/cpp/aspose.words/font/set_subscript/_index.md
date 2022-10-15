@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_subscript/
 ## Font.set_Subscript method
 
 
-Setter for Aspose::Words::Font::get_Subscript. 
+Setter for [Aspose::Words::Font::get_Subscript](./get_subscript/).
 

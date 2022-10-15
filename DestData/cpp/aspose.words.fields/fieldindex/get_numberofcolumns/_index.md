@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_numberofcolumns/
 ## FieldIndex.get_NumberOfColumns method
 
 
-Gets or sets the number of columns per page used when building the index. 
+Gets or sets the number of columns per page used when building the index.
 

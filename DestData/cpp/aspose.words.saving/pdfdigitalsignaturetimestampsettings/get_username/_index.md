@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_username/
 ## PdfDigitalSignatureTimestampSettings.get_UserName method
 
 
-Timestamp server user name. 
+Timestamp server user name.
 

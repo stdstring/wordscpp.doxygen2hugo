@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/xamlfixedsaveoptions/get_saveformat/
 ## XamlFixedSaveOptions.get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can only be XamlFixed. 
+Specifies the format in which the document will be saved if this save options object is used. Can only be **XamlFixed**.
 

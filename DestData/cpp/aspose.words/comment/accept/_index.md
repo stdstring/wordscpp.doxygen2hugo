@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/accept/
 ## Comment.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

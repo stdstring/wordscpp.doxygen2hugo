@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_symbolheight/
 ## FieldDisplayBarcode.set_SymbolHeight method
 
 
-Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight. 
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight](./get_symbolheight/).
 

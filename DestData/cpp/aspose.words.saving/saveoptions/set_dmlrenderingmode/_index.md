@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/set_dmlrenderingmode/
 ## SaveOptions.set_DmlRenderingMode method
 
 
-Setter for Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode. 
+Setter for [Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode](./get_dmlrenderingmode/).
 

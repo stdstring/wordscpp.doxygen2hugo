@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/updatesmartartdrawing/
 ## Shape.UpdateSmartArtDrawing method
 
 
-Updates SmartArt pre-rendered drawing by using Aspose.Words's SmartArt cold rendering engine. 
+Updates SmartArt pre-rendered drawing by using [Aspose.Words](../../aspose.words/)'s SmartArt cold rendering engine.
 

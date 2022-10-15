@@ -9,5 +9,5 @@ url: /cpp/aspose.words.framesets/framesetcollection/get_count/
 ## FramesetCollection.get_Count method
 
 
-Gets the number of frames or frames pages contained in the collection. 
+Gets the number of frames or frames pages contained in the collection.
 

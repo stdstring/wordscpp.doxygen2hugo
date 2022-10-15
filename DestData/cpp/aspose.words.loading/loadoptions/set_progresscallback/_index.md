@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/loadoptions/set_progresscallback/
 ## LoadOptions.set_ProgressCallback method
 
 
-Called during loading a document and accepts data about loading progress. 
+Called during loading a document and accepts data about loading progress.
 

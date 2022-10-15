@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionreference/set_storetype/
 ## WebExtensionReference.set_StoreType method
 
 
-Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType. 
+Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType](./get_storetype/).
 

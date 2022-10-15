@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/formfieldcollection/idx_get/
 ## FormFieldCollection.idx_get method
 
 
-Returns a form field by bookmark name. 
+Returns a form field by bookmark name.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fields/formfieldcollection/idx_get/
 ## FormFieldCollection.idx_get method
 
 
-Returns a form field at the specified index. 
+Returns a form field at the specified index.
 

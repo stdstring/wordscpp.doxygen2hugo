@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/rendertoscale/
 ## Document.RenderToScale method
 
 
-Renders a document page into a object to a specified scale. 
+Renders a document page into a object to a specified scale.
 

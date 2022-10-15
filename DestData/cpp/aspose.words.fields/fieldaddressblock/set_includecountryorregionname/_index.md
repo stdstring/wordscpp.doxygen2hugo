@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldaddressblock/set_includecountryorregionname/
 ## FieldAddressBlock.set_IncludeCountryOrRegionName method
 
 
-Setter for Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName. 
+Setter for [Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName](./get_includecountryorregionname/).
 

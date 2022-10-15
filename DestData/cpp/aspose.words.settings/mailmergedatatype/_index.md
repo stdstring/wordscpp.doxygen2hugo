@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mailmergedatatype/
 ## MailMergeDataType enum
 
 
-Specifies the type of an external mail merge data source. 
+Specifies the type of an external mail merge data source.
 

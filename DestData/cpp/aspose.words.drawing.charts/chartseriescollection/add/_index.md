@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/add/
 ## ChartSeriesCollection.Add method
 
 
-Adds new ChartSeries to this collection. Use this method to add series to any type of Scatter charts. 
+Adds new [ChartSeries](../chartseries/) to this collection. Use this method to add series to any type of Scatter charts.
 
 ---
 title: Add
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/add/
 ## ChartSeriesCollection.Add method
 
 
-Adds new ChartSeries to this collection. Use this method to add series to any type of Bubble charts. 
+Adds new [ChartSeries](../chartseries/) to this collection. Use this method to add series to any type of Bubble charts.
 
 ---
 title: Add
@@ -35,7 +35,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/add/
 ## ChartSeriesCollection.Add method
 
 
-Adds new ChartSeries to this collection. Use this method to add series to any type of Area, Radar and Stock charts. 
+Adds new [ChartSeries](../chartseries/) to this collection. Use this method to add series to any type of Area, Radar and Stock charts.
 
 ---
 title: Add
@@ -48,5 +48,5 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/add/
 ## ChartSeriesCollection.Add method
 
 
-Adds new ChartSeries to this collection. Use this method to add series to any type of Bar, Column, Line and Surface charts. 
+Adds new [ChartSeries](../chartseries/) to this collection. Use this method to add series to any type of Bar, Column, Line and Surface charts.
 

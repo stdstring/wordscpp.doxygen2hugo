@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_usefelayout/
 ## CompatibilityOptions.set_UseFELayout method
 
 
-Do Not Bypass East Asian/Complex Script Layout Code. 
+Do Not Bypass East Asian/Complex Script [Layout](../../aspose.words.layout/) Code.
 

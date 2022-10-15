@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/indexof/
 ## NodeCollection.IndexOf method
 
 
-Returns the zero-based index of the specified node. 
+Returns the zero-based index of the specified node.
 

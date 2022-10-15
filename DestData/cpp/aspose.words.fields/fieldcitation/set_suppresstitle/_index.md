@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/set_suppresstitle/
 ## FieldCitation.set_SuppressTitle method
 
 
-Setter for Aspose::Words::Fields::FieldCitation::get_SuppressTitle. 
+Setter for [Aspose::Words::Fields::FieldCitation::get_SuppressTitle](./get_suppresstitle/).
 

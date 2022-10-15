@@ -9,5 +9,5 @@ url: /cpp/aspose.words/plaintextdocument/get_customdocumentproperties/
 ## PlainTextDocument.get_CustomDocumentProperties method
 
 
-Gets CustomDocumentProperties of the document. 
+Gets [CustomDocumentProperties](./get_customdocumentproperties/) of the document.
 

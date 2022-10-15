@@ -9,7 +9,7 @@ url: /cpp/aspose.words/tabstopcollection/equals/
 ## TabStopCollection.Equals method
 
 
-Determines whether the specified TabStopCollection is equal in value to the current TabStopCollection. 
+Determines whether the specified [TabStopCollection](./) is equal in value to the current [TabStopCollection](./).
 
 ---
 title: Equals
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/tabstopcollection/equals/
 ## TabStopCollection.Equals method
 
 
-Determines whether the specified object is equal in value to the current object. 
+Determines whether the specified object is equal in value to the current object.
 

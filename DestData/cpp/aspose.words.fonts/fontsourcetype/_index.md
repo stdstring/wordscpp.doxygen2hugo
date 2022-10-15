@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsourcetype/
 ## FontSourceType enum
 
 
-Specifies the type of a font source. 
+Specifies the type of a font source.
 

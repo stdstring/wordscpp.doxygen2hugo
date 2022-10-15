@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_colormode/
 ## FixedPageSaveOptions.set_ColorMode method
 
 
-Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode. 
+Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode](./get_colormode/).
 

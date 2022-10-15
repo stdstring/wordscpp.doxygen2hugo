@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_defaultdocumentauthor/
 ## FieldOptions.get_DefaultDocumentAuthor method
 
 
-Gets or sets default document author's name. If author's name is already specified in built-in document properties, this option is not considered. 
+Gets or sets default document author's name. If author's name is already specified in built-in document properties, this option is not considered.
 

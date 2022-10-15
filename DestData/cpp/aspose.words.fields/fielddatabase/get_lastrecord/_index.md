@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/get_lastrecord/
 ## FieldDatabase.get_LastRecord method
 
 
-Gets the integral record number of the last data record to insert. 
+Gets the integral record number of the last data record to insert.
 

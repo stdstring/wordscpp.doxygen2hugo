@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textcolumncollection/set_evenlyspaced/
 ## TextColumnCollection.set_EvenlySpaced method
 
 
-Setter for Aspose::Words::TextColumnCollection::get_EvenlySpaced. 
+Setter for [Aspose::Words::TextColumnCollection::get_EvenlySpaced](./get_evenlyspaced/).
 

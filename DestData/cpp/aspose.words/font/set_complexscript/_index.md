@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_complexscript/
 ## Font.set_ComplexScript method
 
 
-Setter for Aspose::Words::Font::get_ComplexScript. 
+Setter for [Aspose::Words::Font::get_ComplexScript](./get_complexscript/).
 

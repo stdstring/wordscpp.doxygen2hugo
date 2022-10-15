@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_alignment/
 ## ParagraphFormat.get_Alignment method
 
 
-Gets or sets text alignment for the paragraph. 
+Gets or sets text alignment for the paragraph.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnoteposition/
 ## FootnotePosition enum
 
 
-Defines the footnote position. 
+Defines the footnote position.
 

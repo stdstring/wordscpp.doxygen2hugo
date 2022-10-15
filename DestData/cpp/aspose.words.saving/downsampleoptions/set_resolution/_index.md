@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/downsampleoptions/set_resolution/
 ## DownsampleOptions.set_Resolution method
 
 
-Setter for Aspose::Words::Saving::DownsampleOptions::get_Resolution. 
+Setter for [Aspose::Words::Saving::DownsampleOptions::get_Resolution](./get_resolution/).
 

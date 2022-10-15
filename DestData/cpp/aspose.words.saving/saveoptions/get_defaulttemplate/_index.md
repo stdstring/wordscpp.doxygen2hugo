@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/get_defaulttemplate/
 ## SaveOptions.get_DefaultTemplate method
 
 
-Gets or sets path to default template (including filename). Default value for this property is **empty string**. 
+Gets or sets path to default template (including filename). Default value for this property is **empty string**.
 

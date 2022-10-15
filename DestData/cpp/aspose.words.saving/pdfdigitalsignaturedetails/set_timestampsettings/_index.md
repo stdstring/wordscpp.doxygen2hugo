@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_timestampsettings/
 ## PdfDigitalSignatureDetails.set_TimestampSettings method
 
 
-Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings. 
+Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings](./get_timestampsettings/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldautotextlist/set_screentip/
 ## FieldAutoTextList.set_ScreenTip method
 
 
-Setter for Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip. 
+Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip](./get_screentip/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcreatedate/get_uselunarcalendar/
 ## FieldCreateDate.get_UseLunarCalendar method
 
 
-Gets or sets whether to use the Hijri Lunar or Hebrew Lunar calendar. 
+Gets or sets whether to use the Hijri Lunar or Hebrew Lunar calendar.
 

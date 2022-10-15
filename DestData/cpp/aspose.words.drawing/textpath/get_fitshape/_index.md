@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_fitshape/
 ## TextPath.get_FitShape method
 
 
-Defines whether the text fits bounding box of a shape. 
+Defines whether the text fits bounding box of a shape.
 

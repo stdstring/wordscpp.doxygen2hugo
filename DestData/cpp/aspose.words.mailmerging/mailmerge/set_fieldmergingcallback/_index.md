@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_fieldmergingcallback/
 ## MailMerge.set_FieldMergingCallback method
 
 
-Setter for Aspose::Words::MailMerging::MailMerge::get_FieldMergingCallback. 
+Setter for [Aspose::Words::MailMerging::MailMerge::get_FieldMergingCallback](./get_fieldmergingcallback/).
 

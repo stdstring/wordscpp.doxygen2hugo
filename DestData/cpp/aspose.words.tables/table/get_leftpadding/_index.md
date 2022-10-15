@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_leftpadding/
 ## Table.get_LeftPadding method
 
 
-Gets or sets the amount of space (in points) to add to the left of the contents of cells. 
+Gets or sets the amount of space (in points) to add to the left of the contents of cells.
 

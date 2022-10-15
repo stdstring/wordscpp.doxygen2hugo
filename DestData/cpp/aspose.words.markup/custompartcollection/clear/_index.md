@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/custompartcollection/clear/
 ## CustomPartCollection.Clear method
 
 
-Removes all elements from the collection. 
+Removes all elements from the collection.
 

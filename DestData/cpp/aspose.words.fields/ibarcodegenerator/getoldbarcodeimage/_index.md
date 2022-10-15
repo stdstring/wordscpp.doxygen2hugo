@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/ibarcodegenerator/getoldbarcodeimage/
 ## IBarcodeGenerator.GetOldBarcodeImage method
 
 
-Generate barcode image using the set of parameters (for old-fashioned Barcode field). 
+Generate barcode image using the set of parameters (for old-fashioned Barcode field).
 

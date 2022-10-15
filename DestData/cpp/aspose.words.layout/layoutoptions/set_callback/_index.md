@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/set_callback/
 ## LayoutOptions.set_Callback method
 
 
-Sets IPageLayoutCallback implementation used by page layout model. 
+Sets [IPageLayoutCallback](../ipagelayoutcallback/) implementation used by page layout model.
 

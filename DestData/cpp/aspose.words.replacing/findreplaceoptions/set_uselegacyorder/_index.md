@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_uselegacyorder/
 ## FindReplaceOptions.set_UseLegacyOrder method
 
 
-Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder. 
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder](./get_uselegacyorder/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/txtloadoptions/txtloadoptions/
 ## TxtLoadOptions.TxtLoadOptions method
 
 
-Initializes a new instance of this class with default values. 
+Initializes a new instance of this class with default values.
 

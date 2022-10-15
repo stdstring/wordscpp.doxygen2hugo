@@ -9,7 +9,7 @@ url: /cpp/aspose.words/paragraph/appendfield/
 ## Paragraph.AppendField method
 
 
-Appends a field to this paragraph. 
+Appends a field to this paragraph.
 
 ---
 title: AppendField
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/paragraph/appendfield/
 ## Paragraph.AppendField method
 
 
-Appends a field to this paragraph. 
+Appends a field to this paragraph.
 
 ---
 title: AppendField
@@ -35,5 +35,5 @@ url: /cpp/aspose.words/paragraph/appendfield/
 ## Paragraph.AppendField method
 
 
-Appends a field to this paragraph. 
+Appends a field to this paragraph.
 

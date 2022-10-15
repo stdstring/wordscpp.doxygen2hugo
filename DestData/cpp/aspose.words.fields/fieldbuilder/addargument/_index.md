@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addargument/
 ## FieldBuilder.AddArgument method
 
 
-Adds a field's argument represented by FieldArgumentBuilder to the field's code. 
+Adds a field's argument represented by [FieldArgumentBuilder](../fieldargumentbuilder/) to the field's code.
 
 ---
 title: AddArgument
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addargument/
 ## FieldBuilder.AddArgument method
 
 
-Adds a child field represented by another FieldBuilder to the field's code. 
+Adds a child field represented by another [FieldBuilder](./) to the field's code.
 
 ---
 title: AddArgument
@@ -35,7 +35,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addargument/
 ## FieldBuilder.AddArgument method
 
 
-Adds a field's argument. 
+Adds a field's argument.
 
 ---
 title: AddArgument
@@ -48,7 +48,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addargument/
 ## FieldBuilder.AddArgument method
 
 
-Adds a field's argument. 
+Adds a field's argument.
 
 ---
 title: AddArgument
@@ -61,5 +61,5 @@ url: /cpp/aspose.words.fields/fieldbuilder/addargument/
 ## FieldBuilder.AddArgument method
 
 
-Adds a field's argument. 
+Adds a field's argument.
 

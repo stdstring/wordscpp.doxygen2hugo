@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_target/
 ## CompareOptions.set_Target method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_Target. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_Target](./get_target/).
 

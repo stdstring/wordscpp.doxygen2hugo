@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_top/
 ## ShapeBase.get_Top method
 
 
-Gets or sets the position of the top edge of the containing block of the shape. 
+Gets or sets the position of the top edge of the containing block of the shape.
 

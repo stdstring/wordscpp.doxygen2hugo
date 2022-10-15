@@ -9,5 +9,5 @@ url: /cpp/aspose.words/inodechangingcallback/nodeinserting/
 ## INodeChangingCallback.NodeInserting method
 
 
-Called just before a node belonging to this document is about to be inserted into another node. 
+Called just before a node belonging to this document is about to be inserted into another node.
 

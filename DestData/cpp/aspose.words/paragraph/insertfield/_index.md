@@ -9,7 +9,7 @@ url: /cpp/aspose.words/paragraph/insertfield/
 ## Paragraph.InsertField method
 
 
-Inserts a field into this paragraph. 
+Inserts a field into this paragraph.
 
 ---
 title: InsertField
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/paragraph/insertfield/
 ## Paragraph.InsertField method
 
 
-Inserts a field into this paragraph. 
+Inserts a field into this paragraph.
 
 ---
 title: InsertField
@@ -35,5 +35,5 @@ url: /cpp/aspose.words/paragraph/insertfield/
 ## Paragraph.InsertField method
 
 
-Inserts a field into this paragraph. 
+Inserts a field into this paragraph.
 

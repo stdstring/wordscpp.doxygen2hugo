@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_versionscount/
 ## Document.get_VersionsCount method
 
 
-Gets the number of document versions that was stored in the DOC document. 
+Gets the number of document versions that was stored in the DOC document.
 

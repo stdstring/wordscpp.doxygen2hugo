@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_datedisplayformat/
 ## StructuredDocumentTag.set_DateDisplayFormat method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayFormat. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayFormat](./get_datedisplayformat/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/idx_get/
 ## DropDownItemCollection.idx_get method
 
 
-Gets or sets the element at the specified index. 
+Gets or sets the element at the specified index.
 

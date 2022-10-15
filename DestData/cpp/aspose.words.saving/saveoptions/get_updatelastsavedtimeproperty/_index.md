@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/get_updatelastsavedtimeproperty/
 ## SaveOptions.get_UpdateLastSavedTimeProperty method
 
 
-Gets or sets a value determining whether the LastSavedTime property is updated before saving. 
+Gets or sets a value determining whether the [LastSavedTime](../../aspose.words.properties/builtindocumentproperties/get_lastsavedtime/) property is updated before saving.
 

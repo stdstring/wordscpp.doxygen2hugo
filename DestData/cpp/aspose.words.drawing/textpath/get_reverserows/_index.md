@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_reverserows/
 ## TextPath.get_ReverseRows method
 
 
-Determines whether the layout order of rows is reversed. 
+Determines whether the layout order of rows is reversed.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_pageheight/
 ## PageSetup.set_PageHeight method
 
 
-Setter for Aspose::Words::PageSetup::get_PageHeight. 
+Setter for [Aspose::Words::PageSetup::get_PageHeight](./get_pageheight/).
 

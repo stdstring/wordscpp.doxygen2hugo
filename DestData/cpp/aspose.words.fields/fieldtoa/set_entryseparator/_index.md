@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoa/set_entryseparator/
 ## FieldToa.set_EntrySeparator method
 
 
-Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator. 
+Setter for [Aspose::Words::Fields::FieldToa::get_EntrySeparator](./get_entryseparator/).
 

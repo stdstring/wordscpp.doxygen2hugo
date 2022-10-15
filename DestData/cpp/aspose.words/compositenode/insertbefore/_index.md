@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/insertbefore/
 ## CompositeNode.InsertBefore method
 
 
-Inserts the specified node immediately before the specified reference node. 
+Inserts the specified node immediately before the specified reference node.
 

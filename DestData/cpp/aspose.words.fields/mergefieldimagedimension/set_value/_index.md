@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/set_value/
 ## MergeFieldImageDimension.set_Value method
 
 
-The value. 
+The value.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_outlineoptions/
 ## PdfSaveOptions.get_OutlineOptions method
 
 
-Allows to specify outline options. 
+Allows to specify outline options.
 

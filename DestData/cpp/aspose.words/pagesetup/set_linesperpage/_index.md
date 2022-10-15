@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_linesperpage/
 ## PageSetup.set_LinesPerPage method
 
 
-Setter for Aspose::Words::PageSetup::get_LinesPerPage. 
+Setter for [Aspose::Words::PageSetup::get_LinesPerPage](./get_linesperpage/).
 

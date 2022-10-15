@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/tablestyleoptions/
 ## TableStyleOptions enum
 
 
-Specifies how table style is applied to a table. 
+Specifies how table style is applied to a table.
 

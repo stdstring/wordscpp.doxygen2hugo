@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/get_type/
 ## FormField.get_Type method
 
 
-Returns the form field type. 
+Returns the form field type.
 

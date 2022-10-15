@@ -9,5 +9,5 @@ url: /cpp/aspose.words/node/remove/
 ## Node.Remove method
 
 
-Removes itself from the parent. 
+Removes itself from the parent.
 

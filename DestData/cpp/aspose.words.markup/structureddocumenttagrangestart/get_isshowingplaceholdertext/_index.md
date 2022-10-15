@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_isshowingplace
 ## StructuredDocumentTagRangeStart.get_IsShowingPlaceholderText method
 
 
-Specifies whether the content of this structured document tag shall be interpreted to contain placeholder text (as opposed to regular text contents within the structured document tag). if set to true, this state shall be resumed (showing placeholder text) upon opening this document. 
+Specifies whether the content of this structured document tag shall be interpreted to contain placeholder text (as opposed to regular text contents within the structured document tag). if set to true, this state shall be resumed (showing placeholder text) upon opening this document.
 

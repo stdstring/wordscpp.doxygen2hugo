@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_relativehorizontalalignment/
 ## Table.get_RelativeHorizontalAlignment method
 
 
-Gets or sets floating table relative horizontal alignment. 
+Gets or sets floating table relative horizontal alignment.
 

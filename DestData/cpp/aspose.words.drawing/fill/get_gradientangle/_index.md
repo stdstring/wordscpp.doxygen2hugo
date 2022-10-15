@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_gradientangle/
 ## Fill.get_GradientAngle method
 
 
-Gets or sets the angle of the gradient fill. 
+Gets or sets the angle of the gradient fill.
 

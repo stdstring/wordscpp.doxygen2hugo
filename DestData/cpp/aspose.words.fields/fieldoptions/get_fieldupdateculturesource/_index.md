@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdateculturesource/
 ## FieldOptions.get_FieldUpdateCultureSource method
 
 
-Specifies what culture to use to format the field result. 
+Specifies what culture to use to format the field result.
 

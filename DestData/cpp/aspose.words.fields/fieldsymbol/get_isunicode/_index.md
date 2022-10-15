@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_isunicode/
 ## FieldSymbol.get_IsUnicode method
 
 
-Gets or sets whether the character code is interpreted as the value of a Unicode character. 
+Gets or sets whether the character code is interpreted as the value of a Unicode character.
 

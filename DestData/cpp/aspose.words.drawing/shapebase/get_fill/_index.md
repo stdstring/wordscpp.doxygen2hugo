@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_fill/
 ## ShapeBase.get_Fill method
 
 
-Gets fill formatting for the shape. 
+Gets fill formatting for the shape.
 

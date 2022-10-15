@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/get_type/
 ## Style.get_Type method
 
 
-Gets the style type (paragraph or character). 
+Gets the style type (paragraph or character).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_imagebrightness/
 ## ImageSaveOptions.get_ImageBrightness method
 
 
-Gets or sets the brightness for the generated images. 
+Gets or sets the brightness for the generated images.
 

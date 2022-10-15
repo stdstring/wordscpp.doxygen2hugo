@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_regionendtag/
 ## MailMerge.get_RegionEndTag method
 
 
-Gets or sets a mail merge region end tag. 
+Gets or sets a mail merge region end tag.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstop/get_position/
 ## TabStop.get_Position method
 
 
-Gets the position of the tab stop in points. 
+Gets the position of the tab stop in points.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/row/get_isfirstrow/
 ## Row.get_IsFirstRow method
 
 
-True if this is the first row in a table; false otherwise. 
+True if this is the first row in a table; false otherwise.
 

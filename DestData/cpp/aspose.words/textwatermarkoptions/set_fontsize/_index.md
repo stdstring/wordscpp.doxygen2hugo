@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textwatermarkoptions/set_fontsize/
 ## TextWatermarkOptions.set_FontSize method
 
 
-Setter for Aspose::Words::TextWatermarkOptions::get_FontSize. 
+Setter for [Aspose::Words::TextWatermarkOptions::get_FontSize](./get_fontsize/).
 

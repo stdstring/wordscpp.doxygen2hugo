@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/xmlmapping/get_prefixmappings/
 ## XmlMapping.get_PrefixMappings method
 
 
-Returns XML namespace prefix mappings to evaluate the XPath. 
+Returns XML namespace prefix mappings to evaluate the [XPath](./get_xpath/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_displaydoctitle/
 ## PdfSaveOptions.get_DisplayDocTitle method
 
 
-A flag specifying whether the window’s title bar should display the document title taken from the Title entry of the document information dictionary. 
+A flag specifying whether the window’s title bar should display the document title taken from the Title entry of the document information dictionary.
 

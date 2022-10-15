@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listtemplate/
 ## ListTemplate enum
 
 
-Specifies one of the predefined list formats available in Microsoft Word. 
+Specifies one of the predefined list formats available in Microsoft Word.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_lastsection/
 ## Document.get_LastSection method
 
 
-Gets the last section in the document. 
+Gets the last section in the document.
 

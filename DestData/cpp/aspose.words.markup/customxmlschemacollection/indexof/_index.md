@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/indexof/
 ## CustomXmlSchemaCollection.IndexOf method
 
 
-Returns the zero-based index of the specified value in the collection. 
+Returns the zero-based index of the specified value in the collection.
 

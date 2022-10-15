@@ -9,5 +9,5 @@ url: /cpp/aspose.words/linespacingrule/
 ## LineSpacingRule enum
 
 
-Specifies line spacing values for a paragraph. 
+Specifies line spacing values for a paragraph.
 

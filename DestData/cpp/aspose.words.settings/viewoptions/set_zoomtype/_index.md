@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/viewoptions/set_zoomtype/
 ## ViewOptions.set_ZoomType method
 
 
-Setter for Aspose::Words::Settings::ViewOptions::get_ZoomType. 
+Setter for [Aspose::Words::Settings::ViewOptions::get_ZoomType](./get_zoomtype/).
 

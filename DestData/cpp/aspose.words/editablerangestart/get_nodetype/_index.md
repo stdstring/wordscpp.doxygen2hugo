@@ -9,5 +9,5 @@ url: /cpp/aspose.words/editablerangestart/get_nodetype/
 ## EditableRangeStart.get_NodeType method
 
 
-Returns EditableRangeStart. 
+Returns **EditableRangeStart**.
 

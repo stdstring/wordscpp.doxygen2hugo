@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlistnum/get_startingnumber/
 ## FieldListNum.get_StartingNumber method
 
 
-Gets or sets the starting value for this field. 
+Gets or sets the starting value for this field.
 

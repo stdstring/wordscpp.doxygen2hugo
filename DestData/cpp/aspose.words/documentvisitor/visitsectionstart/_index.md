@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitsectionstart/
 ## DocumentVisitor.VisitSectionStart method
 
 
-Called when enumeration of a section has started. 
+Called when enumeration of a section has started.
 

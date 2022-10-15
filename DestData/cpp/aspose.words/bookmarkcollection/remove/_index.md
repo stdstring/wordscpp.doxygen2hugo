@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmarkcollection/remove/
 ## BookmarkCollection.Remove method
 
 
-Removes the specified bookmark from the document. 
+Removes the specified bookmark from the document.
 
 ---
 title: Remove
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/bookmarkcollection/remove/
 ## BookmarkCollection.Remove method
 
 
-Removes a bookmark with the specified name. 
+Removes a bookmark with the specified name.
 

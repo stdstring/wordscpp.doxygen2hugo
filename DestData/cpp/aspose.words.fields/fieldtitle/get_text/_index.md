@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtitle/get_text/
 ## FieldTitle.get_Text method
 
 
-Gets or sets the text of the title. 
+Gets or sets the text of the title.
 

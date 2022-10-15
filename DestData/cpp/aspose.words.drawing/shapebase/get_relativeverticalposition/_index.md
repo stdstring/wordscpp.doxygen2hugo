@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_relativeverticalposition/
 ## ShapeBase.get_RelativeVerticalPosition method
 
 
-Specifies relative to what the shape is positioned vertically. 
+Specifies relative to what the shape is positioned vertically.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.vba/vbareferencecollection/
 ## VbaReferenceCollection class
 
 
-Represents a collection of VbaReference objects. 
+Represents a collection of [VbaReference](./vbareference/) objects.
 
 ## Methods
 
@@ -21,10 +21,10 @@ Represents a collection of VbaReference objects.
 | [cend](./cend/)() const |  |
 | [end](./end/)() |  |
 | [end](./end/)() const |  |
-| [get_Count](./get_count/)() | Returns the number of VBA references in the collection.  |
-| [idx_get](./idx_get/)(int32_t) | Gets VbaReference object at the specified index.  |
-| [Remove](./remove/)(const System::SharedPtr\<Aspose::Words::Vba::VbaReference\>\&) | Removes the first occurrence of a specified VbaReference item from the collection.  |
-| [RemoveAt](./removeat/)(int32_t) | Removes the VbaReference element at the specified index of the collection.  |
+| [get_Count](./get_count/)() | Returns the number of VBA references in the collection. |
+| [idx_get](./idx_get/)(int32_t) | Gets [VbaReference](../vbareference/) object at the specified index. |
+| [Remove](./remove/)(const System::SharedPtr\<Aspose::Words::Vba::VbaReference\>\&) | Removes the first occurrence of a specified [VbaReference](../vbareference/) item from the collection. |
+| [RemoveAt](./removeat/)(int32_t) | Removes the [VbaReference](../vbareference/) element at the specified index of the collection. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override |  |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |

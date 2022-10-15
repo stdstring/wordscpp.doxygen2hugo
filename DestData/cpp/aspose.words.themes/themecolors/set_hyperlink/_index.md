@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themecolors/set_hyperlink/
 ## ThemeColors.set_Hyperlink method
 
 
-Setter for Aspose::Words::Themes::ThemeColors::get_Hyperlink. 
+Setter for [Aspose::Words::Themes::ThemeColors::get_Hyperlink](./get_hyperlink/).
 

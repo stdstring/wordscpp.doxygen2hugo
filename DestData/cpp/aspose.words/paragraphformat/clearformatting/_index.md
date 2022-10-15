@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/clearformatting/
 ## ParagraphFormat.ClearFormatting method
 
 
-Resets to default paragraph formatting. 
+Resets to default paragraph formatting.
 

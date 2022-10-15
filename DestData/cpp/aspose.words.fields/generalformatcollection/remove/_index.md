@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/generalformatcollection/remove/
 ## GeneralFormatCollection.Remove method
 
 
-Removes all occurrences of the specified general format from the collection. 
+Removes all occurrences of the specified general format from the collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cell/ensureminimum/
 ## Cell.EnsureMinimum method
 
 
-If the last child is not a paragraph, creates and appends one empty paragraph. 
+If the last child is not a paragraph, creates and appends one empty paragraph.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitcommentend/
 ## DocumentVisitor.VisitCommentEnd method
 
 
-Called when enumeration of a comment text has ended. 
+Called when enumeration of a comment text has ended.
 

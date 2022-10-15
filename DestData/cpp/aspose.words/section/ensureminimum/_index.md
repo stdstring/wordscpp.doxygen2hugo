@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/ensureminimum/
 ## Section.EnsureMinimum method
 
 
-Ensures that the section has Body with one Paragraph. 
+Ensures that the section has [Body](../body/) with one [Paragraph](../paragraph/).
 

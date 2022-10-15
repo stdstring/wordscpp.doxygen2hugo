@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldhyperlink/set_isimagemap/
 ## FieldHyperlink.set_IsImageMap method
 
 
-Setter for Aspose::Words::Fields::FieldHyperlink::get_IsImageMap. 
+Setter for [Aspose::Words::Fields::FieldHyperlink::get_IsImageMap](./get_isimagemap/).
 

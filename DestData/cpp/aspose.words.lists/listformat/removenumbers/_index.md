@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listformat/removenumbers/
 ## ListFormat.RemoveNumbers method
 
 
-Removes numbers or bullets from the current paragraph and sets list level to zero. 
+Removes numbers or bullets from the current paragraph and sets list level to zero.
 

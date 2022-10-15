@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_document/
 ## LayoutEnumerator.get_Document method
 
 
-Gets document this instance enumerates. 
+Gets document this instance enumerates.
 

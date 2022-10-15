@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldnoteref/set_inserthyperlink/
 ## FieldNoteRef.set_InsertHyperlink method
 
 
-Setter for Aspose::Words::Fields::FieldNoteRef::get_InsertHyperlink. 
+Setter for [Aspose::Words::Fields::FieldNoteRef::get_InsertHyperlink](./get_inserthyperlink/).
 

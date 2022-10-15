@@ -9,7 +9,7 @@ url: /cpp/aspose.words/fileformatutil/detectfileformat/
 ## FileFormatUtil.DetectFileFormat method
 
 
-Detects and returns the information about a format of a document stored in a stream. 
+Detects and returns the information about a format of a document stored in a stream.
 
 ---
 title: DetectFileFormat
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/fileformatutil/detectfileformat/
 ## FileFormatUtil.DetectFileFormat method
 
 
-Detects and returns the information about a format of a document stored in a disk file. 
+Detects and returns the information about a format of a document stored in a disk file.
 
 ---
 title: DetectFileFormat

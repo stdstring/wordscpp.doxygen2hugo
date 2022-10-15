@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellverticalalignment/
 ## CellVerticalAlignment enum
 
 
-Specifies vertical justification of text inside a table cell. 
+Specifies vertical justification of text inside a table cell.
 

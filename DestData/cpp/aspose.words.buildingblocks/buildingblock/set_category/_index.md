@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/set_category/
 ## BuildingBlock.set_Category method
 
 
-Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Category. 
+Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Category](./get_category/).
 

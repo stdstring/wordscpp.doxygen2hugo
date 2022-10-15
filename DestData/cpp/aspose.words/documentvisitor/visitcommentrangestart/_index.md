@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitcommentrangestart/
 ## DocumentVisitor.VisitCommentRangeStart method
 
 
-Called when the start of a commented range of text is encountered. 
+Called when the start of a commented range of text is encountered.
 

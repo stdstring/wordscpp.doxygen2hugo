@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatapoint/get_format/
 ## ChartDataPoint.get_Format method
 
 
-Provides access to fill and line formatting of this data point. 
+Provides access to fill and line formatting of this data point.
 

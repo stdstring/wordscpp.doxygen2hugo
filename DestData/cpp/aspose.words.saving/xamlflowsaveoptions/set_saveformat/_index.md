@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_saveformat/
 ## XamlFlowSaveOptions.set_SaveFormat method
 
 
-Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_SaveFormat. 
+Setter for [Aspose::Words::Saving::XamlFlowSaveOptions::get_SaveFormat](./get_saveformat/).
 

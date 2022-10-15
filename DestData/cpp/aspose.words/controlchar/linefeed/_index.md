@@ -9,5 +9,5 @@ url: /cpp/aspose.words/controlchar/linefeed/
 ## ControlChar.LineFeed method
 
 
-Line feed character: "\x000a" or "\n". Same as Lf. 
+Line feed character: "\x000a" or "\n". Same as [Lf](./lf/).
 

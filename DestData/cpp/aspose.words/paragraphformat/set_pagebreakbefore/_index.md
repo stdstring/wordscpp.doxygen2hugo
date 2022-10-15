@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_pagebreakbefore/
 ## ParagraphFormat.set_PageBreakBefore method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_PageBreakBefore. 
+Setter for [Aspose::Words::ParagraphFormat::get_PageBreakBefore](./get_pagebreakbefore/).
 

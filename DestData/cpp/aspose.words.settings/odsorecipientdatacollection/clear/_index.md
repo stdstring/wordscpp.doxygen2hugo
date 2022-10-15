@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/clear/
 ## OdsoRecipientDataCollection.Clear method
 
 
-Removes all elements from this collection. 
+Removes all elements from this collection.
 

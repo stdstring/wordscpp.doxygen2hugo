@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/gradientstyle/
 ## GradientStyle enum
 
 
-Specifies the style for a gradient fill. 
+Specifies the style for a gradient fill.
 

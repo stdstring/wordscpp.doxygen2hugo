@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_convmailmergeesc/
 ## CompatibilityOptions.get_ConvMailMergeEsc method
 
 
-Treat Backslash Quotation Delimiter as Two Quotation Marks. 
+Treat Backslash Quotation Delimiter as Two Quotation Marks.
 

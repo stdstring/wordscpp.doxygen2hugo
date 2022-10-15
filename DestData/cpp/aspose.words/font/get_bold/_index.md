@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_bold/
 ## Font.get_Bold method
 
 
-True if the font is formatted as bold. 
+True if the font is formatted as bold.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_imagecolorspaceexportmode/
 ## PdfSaveOptions.set_ImageColorSpaceExportMode method
 
 
-Setter for Aspose::Words::Saving::PdfSaveOptions::get_ImageColorSpaceExportMode. 
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ImageColorSpaceExportMode](./get_imagecolorspaceexportmode/).
 

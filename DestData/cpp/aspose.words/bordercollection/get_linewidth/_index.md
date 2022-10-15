@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_linewidth/
 ## BorderCollection.get_LineWidth method
 
 
-Gets or sets the border width in points. 
+Gets or sets the border width in points.
 

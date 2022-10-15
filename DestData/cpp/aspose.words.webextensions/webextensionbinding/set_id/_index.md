@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionbinding/set_id/
 ## WebExtensionBinding.set_Id method
 
 
-Specifies the binding identifier. 
+Specifies the binding identifier.
 

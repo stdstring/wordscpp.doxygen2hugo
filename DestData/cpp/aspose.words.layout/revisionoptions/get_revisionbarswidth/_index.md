@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarswidth/
 ## RevisionOptions.get_RevisionBarsWidth method
 
 
-Gets or sets width of revision bars, points. 
+Gets or sets width of revision bars, points.
 

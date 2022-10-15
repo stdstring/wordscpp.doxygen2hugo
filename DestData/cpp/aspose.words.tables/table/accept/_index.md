@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/accept/
 ## Table.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_categorytype/
 ## ChartAxis.set_CategoryType method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType](./get_categorytype/).
 

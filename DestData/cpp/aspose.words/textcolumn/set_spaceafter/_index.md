@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textcolumn/set_spaceafter/
 ## TextColumn.set_SpaceAfter method
 
 
-Setter for Aspose::Words::TextColumn::get_SpaceAfter. 
+Setter for [Aspose::Words::TextColumn::get_SpaceAfter](./get_spaceafter/).
 

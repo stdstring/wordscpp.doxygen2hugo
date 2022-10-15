@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportfontresources/
 ## HtmlSaveOptions.set_ExportFontResources method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources](./get_exportfontresources/).
 

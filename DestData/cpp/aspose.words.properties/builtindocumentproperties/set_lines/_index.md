@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_lines/
 ## BuiltInDocumentProperties.set_Lines method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines](./get_lines/).
 

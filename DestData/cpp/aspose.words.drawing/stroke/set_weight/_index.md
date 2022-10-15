@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_weight/
 ## Stroke.set_Weight method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_Weight. 
+Setter for [Aspose::Words::Drawing::Stroke::get_Weight](./get_weight/).
 

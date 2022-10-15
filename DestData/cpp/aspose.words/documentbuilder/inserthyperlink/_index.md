@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/inserthyperlink/
 ## DocumentBuilder.InsertHyperlink method
 
 
-Inserts a hyperlink into the document. 
+Inserts a hyperlink into the document.
 

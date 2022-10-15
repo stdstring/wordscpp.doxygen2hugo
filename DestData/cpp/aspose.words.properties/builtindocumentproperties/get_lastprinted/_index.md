@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_lastprinted/
 ## BuiltInDocumentProperties.get_LastPrinted method
 
 
-Gets or sets the date when the document was last printed in UTC. 
+Gets or sets the date when the document was last printed in UTC.
 

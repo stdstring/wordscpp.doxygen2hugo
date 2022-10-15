@@ -9,5 +9,5 @@ url: /cpp/aspose.words/stylecollection/get_defaultparagraphformat/
 ## StyleCollection.get_DefaultParagraphFormat method
 
 
-Gets document default paragraph formatting. 
+Gets document default paragraph formatting.
 

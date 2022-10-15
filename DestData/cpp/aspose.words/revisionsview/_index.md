@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisionsview/
 ## RevisionsView enum
 
 
-Allows to specify whether to work with the original or revised version of a document. 
+Allows to specify whether to work with the original or revised version of a document.
 

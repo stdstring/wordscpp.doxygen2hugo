@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstylecollection/get_lastrow/
 ## ConditionalStyleCollection.get_LastRow method
 
 
-Gets the last row style. 
+Gets the last row style.
 

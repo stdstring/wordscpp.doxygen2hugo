@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_showbreaksinframes/
 ## CompatibilityOptions.set_ShowBreaksInFrames method
 
 
-Display Page/Column Breaks Present in Frames. 
+Display Page/Column Breaks Present in Frames.
 

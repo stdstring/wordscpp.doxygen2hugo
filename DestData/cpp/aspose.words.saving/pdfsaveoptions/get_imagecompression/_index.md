@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_imagecompression/
 ## PdfSaveOptions.get_ImageCompression method
 
 
-Specifies compression type to be used for all images in the document. 
+Specifies compression type to be used for all images in the document.
 

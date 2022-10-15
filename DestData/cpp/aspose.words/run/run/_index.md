@@ -9,7 +9,7 @@ url: /cpp/aspose.words/run/run/
 ## Run.Run method
 
 
-Initializes a new instance of the **Run** class. 
+Initializes a new instance of the **Run** class.
 
 ---
 title: Run
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/run/run/
 ## Run.Run method
 
 
-Initializes a new instance of the **Run** class. 
+Initializes a new instance of the **Run** class.
 

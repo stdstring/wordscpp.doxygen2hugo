@@ -9,7 +9,7 @@ url: /cpp/aspose.words.webextensions/webextensionpropertycollection/
 ## WebExtensionPropertyCollection class
 
 
-Specifies a set of web extension custom properties. 
+Specifies a set of web extension custom properties.
 
 ## Methods
 

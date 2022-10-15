@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_nameofapplicatio
 ## BuiltInDocumentProperties.set_NameOfApplication method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfApplication. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfApplication](./get_nameofapplication/).
 

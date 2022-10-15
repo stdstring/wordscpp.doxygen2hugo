@@ -9,5 +9,5 @@ url: /cpp/aspose.words/metered/getconsumptioncredit/
 ## Metered.GetConsumptionCredit method
 
 
-Gets consumption credit. 
+Gets consumption credit.
 

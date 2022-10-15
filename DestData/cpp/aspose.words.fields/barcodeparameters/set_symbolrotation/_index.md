@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_symbolrotation/
 ## BarcodeParameters.set_SymbolRotation method
 
 
-Rotation of the barcode symbol. Valid values are [0, 3]. 
+Rotation of the barcode symbol. Valid values are [0, 3].
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldkeywords/get_text/
 ## FieldKeywords.get_Text method
 
 
-Gets or sets the text of the keywords. 
+Gets or sets the text of the keywords.
 

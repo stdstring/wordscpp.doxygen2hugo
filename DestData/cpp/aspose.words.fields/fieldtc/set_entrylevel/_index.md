@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtc/set_entrylevel/
 ## FieldTC.set_EntryLevel method
 
 
-Setter for Aspose::Words::Fields::FieldTC::get_EntryLevel. 
+Setter for [Aspose::Words::Fields::FieldTC::get_EntryLevel](./get_entrylevel/).
 

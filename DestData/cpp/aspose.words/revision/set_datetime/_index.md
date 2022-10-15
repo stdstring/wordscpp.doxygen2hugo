@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revision/set_datetime/
 ## Revision.set_DateTime method
 
 
-Setter for Aspose::Words::Revision::get_DateTime. 
+Setter for [Aspose::Words::Revision::get_DateTime](./get_datetime/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/set_columnstripe/
 ## TableStyle.set_ColumnStripe method
 
 
-Setter for Aspose::Words::TableStyle::get_ColumnStripe. 
+Setter for [Aspose::Words::TableStyle::get_ColumnStripe](./get_columnstripe/).
 

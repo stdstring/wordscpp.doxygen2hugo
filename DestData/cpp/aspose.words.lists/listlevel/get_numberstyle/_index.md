@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlevel/get_numberstyle/
 ## ListLevel.get_NumberStyle method
 
 
-Returns or sets the number style for this list level. 
+Returns or sets the number style for this list level.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignorecasechanges/
 ## CompareOptions.set_IgnoreCaseChanges method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges](./get_ignorecasechanges/).
 

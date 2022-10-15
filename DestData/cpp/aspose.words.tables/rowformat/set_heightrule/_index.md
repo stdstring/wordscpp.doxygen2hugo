@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/rowformat/set_heightrule/
 ## RowFormat.set_HeightRule method
 
 
-Setter for Aspose::Words::Tables::RowFormat::get_HeightRule. 
+Setter for [Aspose::Words::Tables::RowFormat::get_HeightRule](./get_heightrule/).
 

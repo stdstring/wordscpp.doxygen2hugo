@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_barcodevalue/
 ## BarcodeParameters.set_BarcodeValue method
 
 
-Data to be encoded. 
+Data to be encoded.
 

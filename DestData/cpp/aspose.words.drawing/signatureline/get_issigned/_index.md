@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/get_issigned/
 ## SignatureLine.get_IsSigned method
 
 
-Indicates that signature line is signed by digital signature. 
+Indicates that signature line is signed by digital signature.
 

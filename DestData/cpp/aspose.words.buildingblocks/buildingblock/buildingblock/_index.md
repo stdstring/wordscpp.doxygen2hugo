@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/buildingblock/
 ## BuildingBlock.BuildingBlock method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

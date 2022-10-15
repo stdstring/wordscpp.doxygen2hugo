@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/set_fielddatabaseprovider/
 ## FieldOptions.set_FieldDatabaseProvider method
 
 
-Sets a provider that returns a query result for the FieldDatabase field. 
+Sets a provider that returns a query result for the [FieldDatabase](../fielddatabase/) field.
 

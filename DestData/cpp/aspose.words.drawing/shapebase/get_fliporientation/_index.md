@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_fliporientation/
 ## ShapeBase.get_FlipOrientation method
 
 
-Switches the orientation of a shape. 
+Switches the orientation of a shape.
 

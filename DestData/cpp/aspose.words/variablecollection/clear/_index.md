@@ -9,5 +9,5 @@ url: /cpp/aspose.words/variablecollection/clear/
 ## VariableCollection.Clear method
 
 
-Removes all elements from the collection. 
+Removes all elements from the collection.
 

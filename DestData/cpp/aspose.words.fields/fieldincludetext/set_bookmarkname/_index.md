@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_bookmarkname/
 ## FieldIncludeText.set_BookmarkName method
 
 
-Setter for Aspose::Words::Fields::FieldIncludeText::get_BookmarkName. 
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_BookmarkName](./get_bookmarkname/).
 

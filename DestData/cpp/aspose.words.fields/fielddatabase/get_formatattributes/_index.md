@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/get_formatattributes/
 ## FieldDatabase.get_FormatAttributes method
 
 
-Gets which attributes of the format are to be applied to the table. 
+Gets which attributes of the format are to be applied to the table.
 

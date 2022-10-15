@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/systemfontsource/getsystemfontfolders/
 ## SystemFontSource.GetSystemFontFolders method
 
 
-Returns system font folders or empty array if folders are not accessible. 
+Returns system font folders or empty array if folders are not accessible.
 

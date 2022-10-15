@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/filefontsource/get_filepath/
 ## FileFontSource.get_FilePath method
 
 
-Path to the font file. 
+Path to the font file.
 

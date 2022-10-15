@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/viewoptions/set_viewtype/
 ## ViewOptions.set_ViewType method
 
 
-Setter for Aspose::Words::Settings::ViewOptions::get_ViewType. 
+Setter for [Aspose::Words::Settings::ViewOptions::get_ViewType](./get_viewtype/).
 

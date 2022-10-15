@@ -9,5 +9,5 @@ url: /cpp/aspose.words/controlchar/linebreak/
 ## ControlChar.LineBreak method
 
 
-Line break character: "\x000b" or "\v". 
+Line break character: "\x000b" or "\v".
 

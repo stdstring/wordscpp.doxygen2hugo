@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_nameascii/
 ## Font.set_NameAscii method
 
 
-Setter for Aspose::Words::Font::get_NameAscii. 
+Setter for [Aspose::Words::Font::get_NameAscii](./get_nameascii/).
 

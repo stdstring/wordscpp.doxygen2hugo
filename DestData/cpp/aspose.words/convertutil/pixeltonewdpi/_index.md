@@ -9,5 +9,5 @@ url: /cpp/aspose.words/convertutil/pixeltonewdpi/
 ## ConvertUtil.PixelToNewDpi method
 
 
-Converts pixels from one resolution to another. 
+Converts pixels from one resolution to another.
 

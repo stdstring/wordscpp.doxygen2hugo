@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_packagecustomparts/
 ## Document.set_PackageCustomParts method
 
 
-Setter for Aspose::Words::Document::get_PackageCustomParts. 
+Setter for [Aspose::Words::Document::get_PackageCustomParts](./get_packagecustomparts/).
 

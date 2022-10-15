@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldif/set_rightexpression/
 ## FieldIf.set_RightExpression method
 
 
-Setter for Aspose::Words::Fields::FieldIf::get_RightExpression. 
+Setter for [Aspose::Words::Fields::FieldIf::get_RightExpression](./get_rightexpression/).
 

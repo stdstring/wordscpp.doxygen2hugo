@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_xsltransformation/
 ## FieldIncludeText.set_XslTransformation method
 
 
-Setter for Aspose::Words::Fields::FieldIncludeText::get_XslTransformation. 
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_XslTransformation](./get_xsltransformation/).
 

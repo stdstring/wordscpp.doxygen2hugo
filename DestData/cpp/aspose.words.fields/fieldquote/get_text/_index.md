@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldquote/get_text/
 ## FieldQuote.get_Text method
 
 
-Gets or sets the text to retrieve. 
+Gets or sets the text to retrieve.
 

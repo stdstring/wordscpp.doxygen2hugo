@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/taskpane/get_width/
 ## TaskPane.get_Width method
 
 
-Specifies the default width value for this task pane instance. 
+Specifies the default width value for this task pane instance.
 

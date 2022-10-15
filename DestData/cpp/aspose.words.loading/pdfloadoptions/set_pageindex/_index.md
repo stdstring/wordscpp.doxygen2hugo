@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/pdfloadoptions/set_pageindex/
 ## PdfLoadOptions.set_PageIndex method
 
 
-Sets the 0-based index of the first page to read. Default is 0. 
+Sets the 0-based index of the first page to read. Default is 0.
 

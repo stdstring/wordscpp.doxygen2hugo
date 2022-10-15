@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_barcodetype/
 ## BarcodeParameters.get_BarcodeType method
 
 
-Bar code type. 
+Bar code type.
 

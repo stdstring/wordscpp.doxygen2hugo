@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/clear/
 ## CustomXmlSchemaCollection.Clear method
 
 
-Removes all elements from the collection. 
+Removes all elements from the collection.
 

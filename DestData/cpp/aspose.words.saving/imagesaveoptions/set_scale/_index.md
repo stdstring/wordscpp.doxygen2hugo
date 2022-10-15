@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_scale/
 ## ImageSaveOptions.set_Scale method
 
 
-Setter for Aspose::Words::Saving::ImageSaveOptions::get_Scale. 
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_Scale](./get_scale/).
 

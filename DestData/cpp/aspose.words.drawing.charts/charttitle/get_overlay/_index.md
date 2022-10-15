@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/charttitle/get_overlay/
 ## ChartTitle.get_Overlay method
 
 
-Determines whether other chart elements shall be allowed to overlap title. By default overlay is false. 
+Determines whether other chart elements shall be allowed to overlap title. By default overlay is false.
 

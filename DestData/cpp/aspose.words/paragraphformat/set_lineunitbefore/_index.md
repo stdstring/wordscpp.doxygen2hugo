@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_lineunitbefore/
 ## ParagraphFormat.set_LineUnitBefore method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_LineUnitBefore. 
+Setter for [Aspose::Words::ParagraphFormat::get_LineUnitBefore](./get_lineunitbefore/).
 

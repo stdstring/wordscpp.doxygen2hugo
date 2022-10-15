@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtsaveoptions/set_simplifylistlabels/
 ## TxtSaveOptions.set_SimplifyListLabels method
 
 
-Setter for Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels. 
+Setter for [Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels](./get_simplifylistlabels/).
 

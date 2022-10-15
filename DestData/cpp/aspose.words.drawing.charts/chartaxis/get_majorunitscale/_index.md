@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_majorunitscale/
 ## ChartAxis.get_MajorUnitScale method
 
 
-Returns or sets the scale value for major tick marks on the time category axis. 
+Returns or sets the scale value for major tick marks on the time category axis.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.webextensions/taskpanecollection/
 ## TaskPaneCollection class
 
 
-Specifies a list of persisted task pane objects. 
+Specifies a list of persisted task pane objects.
 
 ## Methods
 

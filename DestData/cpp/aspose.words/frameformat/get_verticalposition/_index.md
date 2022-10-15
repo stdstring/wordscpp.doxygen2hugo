@@ -9,5 +9,5 @@ url: /cpp/aspose.words/frameformat/get_verticalposition/
 ## FrameFormat.get_VerticalPosition method
 
 
-Gets vertical distance between the edge of the frame and the item specified by the RelativeVerticalPosition property. 
+Gets vertical distance between the edge of the frame and the item specified by the [RelativeVerticalPosition](./get_relativeverticalposition/) property.
 

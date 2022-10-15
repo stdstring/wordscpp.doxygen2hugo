@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_usenormalstyleforlist/
 ## CompatibilityOptions.set_UseNormalStyleForList method
 
 
-Do Not Automatically Apply List ParagraphStyle To Bulleted/Numbered Text. 
+Do Not Automatically Apply List [Paragraph](../../aspose.words/paragraph/)[Style](../../aspose.words/style/) To Bulleted/Numbered Text.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_on/
 ## Stroke.get_On method
 
 
-Defines whether the path will be stroked. 
+Defines whether the path will be stroked.
 

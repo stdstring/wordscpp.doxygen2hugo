@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/get_cropleft/
 ## ImageData.get_CropLeft method
 
 
-Defines the fraction of picture removal from the left side. 
+Defines the fraction of picture removal from the left side.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/set_gradientangle/
 ## Fill.set_GradientAngle method
 
 
-Setter for Aspose::Words::Drawing::Fill::get_GradientAngle. 
+Setter for [Aspose::Words::Drawing::Fill::get_GradientAngle](./get_gradientangle/).
 

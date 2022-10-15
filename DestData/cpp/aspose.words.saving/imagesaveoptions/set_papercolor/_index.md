@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_papercolor/
 ## ImageSaveOptions.set_PaperColor method
 
 
-Setter for Aspose::Words::Saving::ImageSaveOptions::get_PaperColor. 
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PaperColor](./get_papercolor/).
 

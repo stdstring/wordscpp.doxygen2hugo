@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/comparisonevaluationresult/get_errormessage/
 ## ComparisonEvaluationResult.get_ErrorMessage method
 
 
-Gets the failed comparison evaluation result's error message. 
+Gets the failed comparison evaluation result's error message.
 

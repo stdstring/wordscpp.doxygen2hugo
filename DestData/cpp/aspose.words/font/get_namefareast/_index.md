@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_namefareast/
 ## Font.get_NameFarEast method
 
 
-Returns or sets an East Asian font name. 
+Returns or sets an East Asian font name.
 

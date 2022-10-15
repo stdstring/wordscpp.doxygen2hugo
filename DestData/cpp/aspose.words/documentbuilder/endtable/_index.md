@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/endtable/
 ## DocumentBuilder.EndTable method
 
 
-Ends a table in the document. 
+Ends a table in the document.
 

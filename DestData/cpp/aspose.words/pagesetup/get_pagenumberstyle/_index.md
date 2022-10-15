@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_pagenumberstyle/
 ## PageSetup.get_PageNumberStyle method
 
 
-Gets or sets the page number format. 
+Gets or sets the page number format.
 

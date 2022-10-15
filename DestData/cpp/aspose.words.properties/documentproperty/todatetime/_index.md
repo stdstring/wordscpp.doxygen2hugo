@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentproperty/todatetime/
 ## DocumentProperty.ToDateTime method
 
 
-Returns the property value as DateTime in UTC. 
+Returns the property value as DateTime in UTC.
 

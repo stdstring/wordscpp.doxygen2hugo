@@ -9,5 +9,5 @@ url: /cpp/aspose.words/licensestate/
 ## LicenseState enum
 
 
-LicenseState enumeration. 
+LicenseState enumeration.
 

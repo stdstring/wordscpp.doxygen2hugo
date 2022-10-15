@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shadowformat/clear/
 ## ShadowFormat.Clear method
 
 
-Clears shadow format. 
+Clears shadow format.
 

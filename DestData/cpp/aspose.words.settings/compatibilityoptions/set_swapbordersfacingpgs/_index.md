@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_swapbordersfacingpgs/
 ## CompatibilityOptions.set_SwapBordersFacingPgs method
 
 
-Swap Paragraph Borders on Odd Numbered Pages. 
+Swap [Paragraph](../../aspose.words/paragraph/) Borders on Odd Numbered Pages.
 

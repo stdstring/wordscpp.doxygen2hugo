@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addswitch/
 ## FieldBuilder.AddSwitch method
 
 
-Adds a field's switch. 
+Adds a field's switch.
 
 ---
 title: AddSwitch
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addswitch/
 ## FieldBuilder.AddSwitch method
 
 
-Adds a field's switch. 
+Adds a field's switch.
 
 ---
 title: AddSwitch
@@ -35,7 +35,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/addswitch/
 ## FieldBuilder.AddSwitch method
 
 
-Adds a field's switch. 
+Adds a field's switch.
 
 ---
 title: AddSwitch
@@ -48,5 +48,5 @@ url: /cpp/aspose.words.fields/fieldbuilder/addswitch/
 ## FieldBuilder.AddSwitch method
 
 
-Adds a field's switch. 
+Adds a field's switch.
 

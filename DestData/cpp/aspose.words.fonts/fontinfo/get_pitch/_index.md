@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfo/get_pitch/
 ## FontInfo.get_Pitch method
 
 
-The pitch indicates if the font is fixed pitch, proportionally spaced, or relies on a default setting. 
+The pitch indicates if the font is fixed pitch, proportionally spaced, or relies on a default setting.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/olepackage/get_filename/
 ## OlePackage.get_FileName method
 
 
-Gets or sets OLE Package file name. 
+Gets or sets OLE Package file name.
 

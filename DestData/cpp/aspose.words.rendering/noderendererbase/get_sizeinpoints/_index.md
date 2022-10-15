@@ -9,5 +9,5 @@ url: /cpp/aspose.words.rendering/noderendererbase/get_sizeinpoints/
 ## NodeRendererBase.get_SizeInPoints method
 
 
-Gets the actual size of the shape in points. 
+Gets the actual size of the shape in points.
 

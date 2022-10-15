@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_entrytype/
 ## FieldIndex.get_EntryType method
 
 
-Gets or sets an index entry type used to build the index. 
+Gets or sets an index entry type used to build the index.
 

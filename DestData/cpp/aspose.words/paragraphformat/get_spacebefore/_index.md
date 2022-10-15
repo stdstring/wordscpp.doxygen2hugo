@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_spacebefore/
 ## ParagraphFormat.get_SpaceBefore method
 
 
-Gets or sets the amount of spacing (in points) before the paragraph. 
+Gets or sets the amount of spacing (in points) before the paragraph.
 

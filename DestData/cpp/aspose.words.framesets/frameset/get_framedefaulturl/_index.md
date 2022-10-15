@@ -9,5 +9,5 @@ url: /cpp/aspose.words.framesets/frameset/get_framedefaulturl/
 ## Frameset.get_FrameDefaultUrl method
 
 
-Gets or sets the web page URL or document file name to display in this frame. 
+Gets or sets the web page URL or document file name to display in this frame.
 

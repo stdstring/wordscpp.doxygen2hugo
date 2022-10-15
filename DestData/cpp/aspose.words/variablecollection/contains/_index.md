@@ -9,5 +9,5 @@ url: /cpp/aspose.words/variablecollection/contains/
 ## VariableCollection.Contains method
 
 
-Determines whether the collection contains a document variable with the given name. 
+Determines whether the collection contains a document variable with the given name.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/add/
 ## SdtListItemCollection.Add method
 
 
-Adds an item to this collection. 
+Adds an item to this collection.
 

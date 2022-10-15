@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetoparagraph/
 ## DocumentBuilder.MoveToParagraph method
 
 
-Moves the cursor to a paragraph in the current section. 
+Moves the cursor to a paragraph in the current section.
 

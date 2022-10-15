@@ -9,5 +9,5 @@ url: /cpp/aspose.words/sectionstart/
 ## SectionStart enum
 
 
-The type of break at the beginning of the section. 
+The type of break at the beginning of the section.
 

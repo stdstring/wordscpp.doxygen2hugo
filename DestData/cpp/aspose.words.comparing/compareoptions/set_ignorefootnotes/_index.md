@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignorefootnotes/
 ## CompareOptions.set_IgnoreFootnotes method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes](./get_ignorefootnotes/).
 

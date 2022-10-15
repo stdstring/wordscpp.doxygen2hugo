@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/set_pagecolor/
 ## DocumentBase.set_PageColor method
 
 
-Setter for Aspose::Words::DocumentBase::get_PageColor. 
+Setter for [Aspose::Words::DocumentBase::get_PageColor](./get_pagecolor/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/list/get_listid/
 ## List.get_ListId method
 
 
-Gets the unique identifier of the list. 
+Gets the unique identifier of the list.
 

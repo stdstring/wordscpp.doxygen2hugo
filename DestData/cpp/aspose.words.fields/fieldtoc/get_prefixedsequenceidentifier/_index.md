@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/get_prefixedsequenceidentifier/
 ## FieldToc.get_PrefixedSequenceIdentifier method
 
 
-Gets or sets the identifier of a sequence for which a prefix should be added to the entry's page number. 
+Gets or sets the identifier of a sequence for which a prefix should be added to the entry's page number.
 

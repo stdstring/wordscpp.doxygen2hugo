@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsourcebase/set_warningcallback/
 ## FontSourceBase.set_WarningCallback method
 
 
-Setter for Aspose::Words::Fonts::FontSourceBase::get_WarningCallback. 
+Setter for [Aspose::Words::Fonts::FontSourceBase::get_WarningCallback](./get_warningcallback/).
 

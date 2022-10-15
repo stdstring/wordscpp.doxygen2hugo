@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldgreetingline/set_alternatetext/
 ## FieldGreetingLine.set_AlternateText method
 
 
-Sets the text to include in the field if the name is blank. 
+Sets the text to include in the field if the name is blank.
 

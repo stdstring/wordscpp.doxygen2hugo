@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_linenumberdistancefromtext/
 ## PageSetup.set_LineNumberDistanceFromText method
 
 
-Setter for Aspose::Words::PageSetup::get_LineNumberDistanceFromText. 
+Setter for [Aspose::Words::PageSetup::get_LineNumberDistanceFromText](./get_linenumberdistancefromtext/).
 

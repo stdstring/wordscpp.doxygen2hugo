@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/get_fontinfos/
 ## DocumentBase.get_FontInfos method
 
 
-Provides access to properties of fonts used in this document. 
+Provides access to properties of fonts used in this document.
 

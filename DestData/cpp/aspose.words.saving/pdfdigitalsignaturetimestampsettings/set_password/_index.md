@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_password/
 ## PdfDigitalSignatureTimestampSettings.set_Password method
 
 
-Timestamp server password. 
+Timestamp server password.
 

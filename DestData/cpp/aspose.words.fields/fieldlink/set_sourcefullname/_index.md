@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlink/set_sourcefullname/
 ## FieldLink.set_SourceFullName method
 
 
-Setter for Aspose::Words::Fields::FieldLink::get_SourceFullName. 
+Setter for [Aspose::Words::Fields::FieldLink::get_SourceFullName](./get_sourcefullname/).
 

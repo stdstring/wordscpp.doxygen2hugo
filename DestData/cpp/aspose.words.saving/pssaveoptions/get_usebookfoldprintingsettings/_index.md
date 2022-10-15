@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pssaveoptions/get_usebookfoldprintingsettings/
 ## PsSaveOptions.get_UseBookFoldPrintingSettings method
 
 
-Gets or sets a boolean value indicating whether the document should be saved using a booklet printing layout, if it is specified via MultiplePages. 
+Gets or sets a boolean value indicating whether the document should be saved using a booklet printing layout, if it is specified via [MultiplePages](../../aspose.words/pagesetup/get_multiplepages/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkend/get_nodetype/
 ## BookmarkEnd.get_NodeType method
 
 
-Returns BookmarkEnd. 
+Returns **BookmarkEnd**.
 

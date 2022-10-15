@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsubstitutionrule/set_enabled/
 ## FontSubstitutionRule.set_Enabled method
 
 
-Setter for Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled. 
+Setter for [Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled](./get_enabled/).
 

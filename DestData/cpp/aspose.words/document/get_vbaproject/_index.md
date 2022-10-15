@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_vbaproject/
 ## Document.get_VbaProject method
 
 
-Gets or sets a VbaProject. 
+Gets or sets a [VbaProject](./get_vbaproject/).
 

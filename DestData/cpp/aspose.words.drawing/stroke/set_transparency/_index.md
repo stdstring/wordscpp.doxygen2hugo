@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_transparency/
 ## Stroke.set_Transparency method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_Transparency. 
+Setter for [Aspose::Words::Drawing::Stroke::get_Transparency](./get_transparency/).
 

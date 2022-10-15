@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_saveformat/
 ## HtmlFixedSaveOptions.get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can only be HtmlFixed. 
+Specifies the format in which the document will be saved if this save options object is used. Can only be **HtmlFixed**.
 

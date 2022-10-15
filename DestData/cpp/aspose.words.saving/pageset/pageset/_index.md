@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pageset/pageset/
 ## PageSet.PageSet method
 
 
-Creates a page set based on exact page indices. 
+Creates a page set based on exact page indices.
 
 ---
 title: PageSet
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.saving/pageset/pageset/
 ## PageSet.PageSet method
 
 
-Creates a page set based on ranges. 
+Creates a page set based on ranges.
 
 ---
 title: PageSet
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.saving/pageset/pageset/
 ## PageSet.PageSet method
 
 
-Creates an one-page set based on exact page index. 
+Creates an one-page set based on exact page index.
 

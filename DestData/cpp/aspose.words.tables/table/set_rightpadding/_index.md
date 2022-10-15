@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/set_rightpadding/
 ## Table.set_RightPadding method
 
 
-Setter for Aspose::Words::Tables::Table::get_RightPadding. 
+Setter for [Aspose::Words::Tables::Table::get_RightPadding](./get_rightpadding/).
 

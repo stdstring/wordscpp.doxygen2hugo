@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_superscript/
 ## Font.get_Superscript method
 
 
-True if the font is formatted as superscript. 
+True if the font is formatted as superscript.
 

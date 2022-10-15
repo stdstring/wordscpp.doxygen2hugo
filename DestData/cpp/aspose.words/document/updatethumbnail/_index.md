@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/updatethumbnail/
 ## Document.UpdateThumbnail method
 
 
-Updates Thumbnail of the document using default options. 
+Updates [Thumbnail](../../aspose.words.properties/builtindocumentproperties/get_thumbnail/) of the document using default options.
 
 ---
 title: UpdateThumbnail
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/updatethumbnail/
 ## Document.UpdateThumbnail method
 
 
-Updates Thumbnail of the document according to the specified options. 
+Updates [Thumbnail](../../aspose.words.properties/builtindocumentproperties/get_thumbnail/) of the document according to the specified options.
 

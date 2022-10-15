@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listcollection/getenumerator/
 ## ListCollection.GetEnumerator method
 
 
-Gets the enumerator object that will enumerate lists in the document. 
+Gets the enumerator object that will enumerate lists in the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_highlightcolor/
 ## Font.get_HighlightColor method
 
 
-Gets or sets the highlight (marker) color. 
+Gets or sets the highlight (marker) color.
 

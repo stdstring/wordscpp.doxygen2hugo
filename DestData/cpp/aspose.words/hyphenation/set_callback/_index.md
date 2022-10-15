@@ -9,5 +9,5 @@ url: /cpp/aspose.words/hyphenation/set_callback/
 ## Hyphenation.set_Callback method
 
 
-Setter for Aspose::Words::Hyphenation::get_Callback. 
+Setter for [Aspose::Words::Hyphenation::get_Callback](./get_callback/).
 

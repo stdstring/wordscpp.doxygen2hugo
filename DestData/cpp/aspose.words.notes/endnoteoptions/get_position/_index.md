@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/endnoteoptions/get_position/
 ## EndnoteOptions.get_Position method
 
 
-Specifies the endnotes position. 
+Specifies the endnotes position.
 

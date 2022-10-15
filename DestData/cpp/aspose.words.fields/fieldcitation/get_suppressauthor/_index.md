@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/get_suppressauthor/
 ## FieldCitation.get_SuppressAuthor method
 
 
-Gets or sets whether the author information is suppressed from the citation. 
+Gets or sets whether the author information is suppressed from the citation.
 

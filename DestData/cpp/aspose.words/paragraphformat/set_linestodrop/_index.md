@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_linestodrop/
 ## ParagraphFormat.set_LinesToDrop method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_LinesToDrop. 
+Setter for [Aspose::Words::ParagraphFormat::get_LinesToDrop](./get_linestodrop/).
 

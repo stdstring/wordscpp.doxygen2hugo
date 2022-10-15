@@ -9,5 +9,5 @@ url: /cpp/aspose.words/specialchar/accept/
 ## SpecialChar.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

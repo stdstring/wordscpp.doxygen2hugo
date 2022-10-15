@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldprint/get_printerinstructions/
 ## FieldPrint.get_PrinterInstructions method
 
 
-Gets or sets the printer-specific control code characters or PostScript instructions. 
+Gets or sets the printer-specific control code characters or PostScript instructions.
 

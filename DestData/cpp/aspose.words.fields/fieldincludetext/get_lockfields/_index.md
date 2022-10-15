@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_lockfields/
 ## FieldIncludeText.get_LockFields method
 
 
-Gets or sets whether to prevent fields in the included document from being updated. 
+Gets or sets whether to prevent fields in the included document from being updated.
 

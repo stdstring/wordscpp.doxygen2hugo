@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_shadow/
 ## BorderCollection.get_Shadow method
 
 
-Gets or sets a value indicating whether the border has a shadow. 
+Gets or sets a value indicating whether the border has a shadow.
 

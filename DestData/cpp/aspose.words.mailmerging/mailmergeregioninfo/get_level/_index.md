@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_level/
 ## MailMergeRegionInfo.get_Level method
 
 
-Returns the nesting level for the region. 
+Returns the nesting level for the region.
 

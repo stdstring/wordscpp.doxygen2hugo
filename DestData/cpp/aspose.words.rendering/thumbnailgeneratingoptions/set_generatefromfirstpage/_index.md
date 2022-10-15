@@ -9,5 +9,5 @@ url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/set_generatefromfirs
 ## ThumbnailGeneratingOptions.set_GenerateFromFirstPage method
 
 
-Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage. 
+Setter for [Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage](./get_generatefromfirstpage/).
 

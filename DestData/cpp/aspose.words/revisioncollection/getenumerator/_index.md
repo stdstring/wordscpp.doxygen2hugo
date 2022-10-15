@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisioncollection/getenumerator/
 ## RevisionCollection.GetEnumerator method
 
 
-Returns an enumerator object. 
+Returns an enumerator object.
 

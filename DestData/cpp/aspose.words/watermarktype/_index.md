@@ -9,5 +9,5 @@ url: /cpp/aspose.words/watermarktype/
 ## WatermarkType enum
 
 
-Specifies the watermark type. 
+Specifies the watermark type.
 

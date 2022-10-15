@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/generalformatcollection/add/
 ## GeneralFormatCollection.Add method
 
 
-Adds a general format to the collection. 
+Adds a general format to the collection.
 

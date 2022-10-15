@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldprint/set_printerinstructions/
 ## FieldPrint.set_PrinterInstructions method
 
 
-Setter for Aspose::Words::Fields::FieldPrint::get_PrinterInstructions. 
+Setter for [Aspose::Words::Fields::FieldPrint::get_PrinterInstructions](./get_printerinstructions/).
 

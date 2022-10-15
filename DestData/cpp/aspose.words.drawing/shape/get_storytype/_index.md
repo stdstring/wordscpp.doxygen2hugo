@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/get_storytype/
 ## Shape.get_StoryType method
 
 
-Returns Textbox. 
+Returns **Textbox**.
 

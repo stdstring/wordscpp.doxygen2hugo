@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportfontsasbase64/
 ## HtmlSaveOptions.get_ExportFontsAsBase64 method
 
 
-Specifies whether fonts resources should be embedded to HTML in Base64 encoding. Default is **false**. 
+Specifies whether fonts resources should be embedded to HTML in Base64 encoding. Default is **false**.
 

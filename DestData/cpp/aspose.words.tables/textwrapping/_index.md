@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/textwrapping/
 ## TextWrapping enum
 
 
-Specifies how text is wrapped around the table. 
+Specifies how text is wrapped around the table.
 

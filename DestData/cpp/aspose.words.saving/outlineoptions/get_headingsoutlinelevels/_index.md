@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/outlineoptions/get_headingsoutlinelevels/
 ## OutlineOptions.get_HeadingsOutlineLevels method
 
 
-Specifies how many levels of headings (paragraphs formatted with the Heading styles) to include in the document outline. 
+Specifies how many levels of headings (paragraphs formatted with the Heading styles) to include in the document outline.
 

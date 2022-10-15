@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/getenumerator/
 ## DropDownItemCollection.GetEnumerator method
 
 
-Returns an enumerator object that can be used to iterate over all items in the collection. 
+Returns an enumerator object that can be used to iterate over all items in the collection.
 

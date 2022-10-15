@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_bookmarkname/
 ## FieldIncludeText.get_BookmarkName method
 
 
-Gets or sets the name of the bookmark in the document to include. 
+Gets or sets the name of the bookmark in the document to include.
 

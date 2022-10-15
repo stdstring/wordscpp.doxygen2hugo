@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldta/set_entrycategory/
 ## FieldTA.set_EntryCategory method
 
 
-Setter for Aspose::Words::Fields::FieldTA::get_EntryCategory. 
+Setter for [Aspose::Words::Fields::FieldTA::get_EntryCategory](./get_entrycategory/).
 

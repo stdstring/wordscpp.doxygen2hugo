@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/settext/
 ## Comment.SetText method
 
 
-This is a convenience method that allows to easily set text of the comment. 
+This is a convenience method that allows to easily set text of the comment.
 

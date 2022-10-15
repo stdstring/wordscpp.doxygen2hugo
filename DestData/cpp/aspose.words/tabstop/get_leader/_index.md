@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstop/get_leader/
 ## TabStop.get_Leader method
 
 
-Gets or sets the type of the leader line displayed under the tab character. 
+Gets or sets the type of the leader line displayed under the tab character.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldif/set_leftexpression/
 ## FieldIf.set_LeftExpression method
 
 
-Setter for Aspose::Words::Fields::FieldIf::get_LeftExpression. 
+Setter for [Aspose::Words::Fields::FieldIf::get_LeftExpression](./get_leftexpression/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportshapesassvg/
 ## HtmlSaveOptions.set_ExportShapesAsSvg method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportShapesAsSvg. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportShapesAsSvg](./get_exportshapesassvg/).
 

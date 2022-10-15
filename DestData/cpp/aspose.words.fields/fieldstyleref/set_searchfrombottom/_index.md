@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldstyleref/set_searchfrombottom/
 ## FieldStyleRef.set_SearchFromBottom method
 
 
-Setter for Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom. 
+Setter for [Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom](./get_searchfrombottom/).
 

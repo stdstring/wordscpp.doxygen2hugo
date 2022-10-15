@@ -9,5 +9,5 @@ url: /cpp/aspose.words/body/get_nodetype/
 ## Body.get_NodeType method
 
 
-Returns **NodeType.Body**. 
+Returns **NodeType.Body**.
 

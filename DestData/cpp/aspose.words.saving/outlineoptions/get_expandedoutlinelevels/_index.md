@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/outlineoptions/get_expandedoutlinelevels/
 ## OutlineOptions.get_ExpandedOutlineLevels method
 
 
-Specifies how many levels in the document outline to show expanded when the file is viewed. 
+Specifies how many levels in the document outline to show expanded when the file is viewed.
 

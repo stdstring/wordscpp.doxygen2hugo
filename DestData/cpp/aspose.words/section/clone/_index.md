@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/clone/
 ## Section.Clone method
 
 
-Creates a duplicate of this section. 
+Creates a duplicate of this section.
 

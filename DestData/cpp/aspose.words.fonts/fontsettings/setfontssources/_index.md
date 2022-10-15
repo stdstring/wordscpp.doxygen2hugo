@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontsettings/setfontssources/
 ## FontSettings.SetFontsSources method
 
 
-Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. 
+Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts.
 
 ---
 title: SetFontsSources
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fonts/fontsettings/setfontssources/
 ## FontSettings.SetFontsSources method
 
 
-Sets the sources where Aspose.Words looks for TrueType fonts and additionally loads previously saved font search cache. 
+Sets the sources where Aspose.Words looks for TrueType fonts and additionally loads previously saved font search cache.
 

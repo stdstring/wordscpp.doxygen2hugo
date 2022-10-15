@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/load/
 ## TableSubstitutionRule.Load method
 
 
-Loads table substitution settings from XML stream. 
+Loads table substitution settings from XML stream.
 
 ---
 title: Load
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/load/
 ## TableSubstitutionRule.Load method
 
 
-Loads table substitution settings from XML file. 
+Loads table substitution settings from XML file.
 

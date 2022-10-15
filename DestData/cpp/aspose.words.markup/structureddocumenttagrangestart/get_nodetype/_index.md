@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_nodetype/
 ## StructuredDocumentTagRangeStart.get_NodeType method
 
 
-Gets the type of this node. 
+Gets the type of this node.
 

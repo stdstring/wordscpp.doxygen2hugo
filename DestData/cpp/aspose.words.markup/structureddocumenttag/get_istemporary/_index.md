@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_istemporary/
 ## StructuredDocumentTag.get_IsTemporary method
 
 
-Specifies whether this **SDT** shall be removed from the WordProcessingML document when its contents are modified. 
+Specifies whether this **SDT** shall be removed from the WordProcessingML document when its contents are modified.
 

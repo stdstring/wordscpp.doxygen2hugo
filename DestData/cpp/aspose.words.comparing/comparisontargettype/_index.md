@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/comparisontargettype/
 ## ComparisonTargetType enum
 
 
-Allows to specify base document which will be used during comparison. Default value is Current. 
+Allows to specify base document which will be used during comparison. Default value is **Current**.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/documentsavingargs/get_estimatedprogress/
 ## DocumentSavingArgs.get_EstimatedProgress method
 
 
-Overall estimated percentage progress. 
+Overall estimated percentage progress.
 

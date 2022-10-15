@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetosection/
 ## DocumentBuilder.MoveToSection method
 
 
-Moves the cursor to the beginning of the body in a specified section. 
+Moves the cursor to the beginning of the body in a specified section.
 

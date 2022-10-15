@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_borderappliesto/
 ## PageSetup.get_BorderAppliesTo method
 
 
-Specifies which pages the page border is printed on. 
+Specifies which pages the page border is printed on.
 

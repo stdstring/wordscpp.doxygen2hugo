@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/set_backgroundshape/
 ## DocumentBase.set_BackgroundShape method
 
 
-Setter for Aspose::Words::DocumentBase::get_BackgroundShape. 
+Setter for [Aspose::Words::DocumentBase::get_BackgroundShape](./get_backgroundshape/).
 

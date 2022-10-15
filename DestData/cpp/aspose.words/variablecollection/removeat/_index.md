@@ -9,5 +9,5 @@ url: /cpp/aspose.words/variablecollection/removeat/
 ## VariableCollection.RemoveAt method
 
 
-Removes a document variable at the specified index. 
+Removes a document variable at the specified index.
 

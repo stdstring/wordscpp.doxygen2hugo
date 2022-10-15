@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/gradientstop/set_transparency/
 ## GradientStop.set_Transparency method
 
 
-Setter for Aspose::Words::Drawing::GradientStop::get_Transparency. 
+Setter for [Aspose::Words::Drawing::GradientStop::get_Transparency](./get_transparency/).
 

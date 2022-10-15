@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnoteoptions/set_position/
 ## FootnoteOptions.set_Position method
 
 
-Setter for Aspose::Words::Notes::FootnoteOptions::get_Position. 
+Setter for [Aspose::Words::Notes::FootnoteOptions::get_Position](./get_position/).
 

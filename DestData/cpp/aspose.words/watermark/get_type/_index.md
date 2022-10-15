@@ -9,5 +9,5 @@ url: /cpp/aspose.words/watermark/get_type/
 ## Watermark.get_Type method
 
 
-Gets the watermark type. 
+Gets the watermark type.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/icsssavingcallback/csssaving/
 ## ICssSavingCallback.CssSaving method
 
 
-Called when Aspose.Words saves an CSS (Cascading Style Sheet). 
+Called when Aspose.Words saves an CSS (Cascading [Style](../../aspose.words/style/) Sheet).
 

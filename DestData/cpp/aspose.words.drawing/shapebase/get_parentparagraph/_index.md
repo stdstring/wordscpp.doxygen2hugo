@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_parentparagraph/
 ## ShapeBase.get_ParentParagraph method
 
 
-Returns the immediate parent paragraph. 
+Returns the immediate parent paragraph.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_granularity/
 ## CompareOptions.set_Granularity method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_Granularity. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_Granularity](./get_granularity/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/metafilerenderingmode/
 ## MetafileRenderingMode enum
 
 
-Specifies how Aspose.Words should render WMF and EMF metafiles. 
+Specifies how Aspose.Words should render WMF and EMF metafiles.
 

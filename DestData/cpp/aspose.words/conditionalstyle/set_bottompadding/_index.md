@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/set_bottompadding/
 ## ConditionalStyle.set_BottomPadding method
 
 
-Setter for Aspose::Words::ConditionalStyle::get_BottomPadding. 
+Setter for [Aspose::Words::ConditionalStyle::get_BottomPadding](./get_bottompadding/).
 

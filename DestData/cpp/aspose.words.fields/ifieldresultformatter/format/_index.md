@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/ifieldresultformatter/format/
 ## IFieldResultFormatter.Format method
 
 
-Called when Aspose.Words applies a number format switch, i.e. \* Ordinal. 
+Called when Aspose.Words applies a number format switch, i.e. \* Ordinal.
 
 ---
 title: Format
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fields/ifieldresultformatter/format/
 ## IFieldResultFormatter.Format method
 
 
-Called when Aspose.Words applies a capitalization format switch, i.e. \* Upper. 
+Called when Aspose.Words applies a capitalization format switch, i.e. \* Upper.
 

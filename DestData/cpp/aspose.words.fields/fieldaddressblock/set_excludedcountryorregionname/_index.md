@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldaddressblock/set_excludedcountryorregionname/
 ## FieldAddressBlock.set_ExcludedCountryOrRegionName method
 
 
-Setter for Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName. 
+Setter for [Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName](./get_excludedcountryorregionname/).
 

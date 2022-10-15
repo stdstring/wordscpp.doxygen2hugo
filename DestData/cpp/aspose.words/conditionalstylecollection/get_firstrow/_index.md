@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstylecollection/get_firstrow/
 ## ConditionalStyleCollection.get_FirstRow method
 
 
-Gets the first row style. 
+Gets the first row style.
 

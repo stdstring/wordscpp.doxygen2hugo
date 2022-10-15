@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/set_color/
 ## IStructuredDocumentTag.set_Color method
 
 
-Sets the color of the structured document tag. 
+Sets the color of the structured document tag.
 

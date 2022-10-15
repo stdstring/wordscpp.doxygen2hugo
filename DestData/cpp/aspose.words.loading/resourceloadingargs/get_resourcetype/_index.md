@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/resourceloadingargs/get_resourcetype/
 ## ResourceLoadingArgs.get_ResourceType method
 
 
-Type of resource. 
+Type of resource.
 

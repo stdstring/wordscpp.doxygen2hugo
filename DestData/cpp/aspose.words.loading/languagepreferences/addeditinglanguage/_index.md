@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/languagepreferences/addeditinglanguage/
 ## LanguagePreferences.AddEditingLanguage method
 
 
-Adds additional editing language. 
+Adds additional editing language.
 

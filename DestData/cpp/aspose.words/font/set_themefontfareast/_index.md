@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_themefontfareast/
 ## Font.set_ThemeFontFarEast method
 
 
-Setter for Aspose::Words::Font::get_ThemeFontFarEast. 
+Setter for [Aspose::Words::Font::get_ThemeFontFarEast](./get_themefontfareast/).
 

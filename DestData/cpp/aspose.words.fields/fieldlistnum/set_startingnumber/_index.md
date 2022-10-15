@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlistnum/set_startingnumber/
 ## FieldListNum.set_StartingNumber method
 
 
-Setter for Aspose::Words::Fields::FieldListNum::get_StartingNumber. 
+Setter for [Aspose::Words::Fields::FieldListNum::get_StartingNumber](./get_startingnumber/).
 

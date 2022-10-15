@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_rtlgutter/
 ## PageSetup.get_RtlGutter method
 
 
-Gets or sets whether Microsoft Word uses gutters for the section based on a right-to-left language or a left-to-right language. 
+Gets or sets whether Microsoft Word uses gutters for the section based on a right-to-left language or a left-to-right language.
 

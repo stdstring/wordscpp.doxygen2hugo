@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_fittoviewport/
 ## SvgSaveOptions.set_FitToViewPort method
 
 
-Setter for Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort. 
+Setter for [Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort](./get_fittoviewport/).
 

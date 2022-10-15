@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/inserthorizontalrule/
 ## DocumentBuilder.InsertHorizontalRule method
 
 
-Inserts a horizontal rule shape into the document. 
+Inserts a horizontal rule shape into the document.
 

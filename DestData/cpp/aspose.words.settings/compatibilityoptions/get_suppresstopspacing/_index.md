@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_suppresstopspacing/
 ## CompatibilityOptions.get_SuppressTopSpacing method
 
 
-Ignore Minimum and Exact Line Height for First Line on Page. 
+Ignore Minimum and Exact Line Height for First Line on Page.
 

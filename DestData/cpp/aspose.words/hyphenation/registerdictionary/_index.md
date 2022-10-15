@@ -9,7 +9,7 @@ url: /cpp/aspose.words/hyphenation/registerdictionary/
 ## Hyphenation.RegisterDictionary method
 
 
-Registers and loads a hyphenation dictionary for the specified language from a stream. Throws if dictionary cannot be read or has invalid format. 
+Registers and loads a hyphenation dictionary for the specified language from a stream. Throws if dictionary cannot be read or has invalid format.
 
 ---
 title: RegisterDictionary
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/hyphenation/registerdictionary/
 ## Hyphenation.RegisterDictionary method
 
 
-Registers and loads a hyphenation dictionary for the specified language from file. Throws if dictionary cannot be read or has invalid format. This method can also be used to register Null dictionary to prevent Callback from being called repeatedly for the same language. 
+Registers and loads a hyphenation dictionary for the specified language from file. Throws if dictionary cannot be read or has invalid format. This method can also be used to register Null dictionary to prevent [Callback](./get_callback/) from being called repeatedly for the same language.
 
 ---
 title: RegisterDictionary

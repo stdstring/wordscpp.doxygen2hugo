@@ -9,5 +9,5 @@ url: /cpp/aspose.words/styleidentifier/
 ## StyleIdentifier enum
 
 
-Locale independent style identifier. 
+Locale independent style identifier.
 

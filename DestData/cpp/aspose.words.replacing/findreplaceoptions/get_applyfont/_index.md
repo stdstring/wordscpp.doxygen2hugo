@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyfont/
 ## FindReplaceOptions.get_ApplyFont method
 
 
-Text formatting applied to new content. 
+Text formatting applied to new content.
 

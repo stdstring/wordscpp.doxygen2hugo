@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_frameset/
 ## Document.get_Frameset method
 
 
-Returns a Frameset instance if this document represents a frames page. 
+Returns a [Frameset](./get_frameset/) instance if this document represents a frames page.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/styletype/
 ## StyleType enum
 
 
-Represents type of the style. 
+Represents type of the style.
 

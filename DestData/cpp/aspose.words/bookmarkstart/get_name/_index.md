@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkstart/get_name/
 ## BookmarkStart.get_Name method
 
 
-Gets or sets the bookmark name. 
+Gets or sets the bookmark name.
 

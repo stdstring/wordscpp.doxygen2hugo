@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_distancefromtext/
 ## BorderCollection.get_DistanceFromText method
 
 
-Gets or sets distance of the border from text in points. 
+Gets or sets distance of the border from text in points.
 

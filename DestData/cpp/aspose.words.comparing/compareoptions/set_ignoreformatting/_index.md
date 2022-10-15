@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignoreformatting/
 ## CompareOptions.set_IgnoreFormatting method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting](./get_ignoreformatting/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/get_name/
 ## Style.get_Name method
 
 
-Gets or sets the name of the style. 
+Gets or sets the name of the style.
 

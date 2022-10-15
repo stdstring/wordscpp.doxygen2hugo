@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_endcharacterfont/
 ## StructuredDocumentTag.get_EndCharacterFont method
 
 
-Font formatting that will be applied to the last character of text entered into **SDT**. 
+[Font](../../aspose.words/font/) formatting that will be applied to the last character of text entered into **SDT**.
 

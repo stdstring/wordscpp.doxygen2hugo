@@ -9,5 +9,5 @@ url: /cpp/aspose.words/fileformatinfo/get_loadformat/
 ## FileFormatInfo.get_LoadFormat method
 
 
-Gets the detected document format. 
+Gets the detected document format.
 

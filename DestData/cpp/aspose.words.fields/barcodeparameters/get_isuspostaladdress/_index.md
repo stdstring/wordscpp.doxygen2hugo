@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_isuspostaladdress/
 ## BarcodeParameters.get_IsUSPostalAddress method
 
 
-Whether PostalAddress is a U.S. postal address. 
+Whether [PostalAddress](./get_postaladdress/) is a U.S. postal address.
 

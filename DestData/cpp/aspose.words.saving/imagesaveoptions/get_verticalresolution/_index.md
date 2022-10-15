@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_verticalresolution/
 ## ImageSaveOptions.get_VerticalResolution method
 
 
-Gets or sets the vertical resolution for the generated images, in dots per inch. 
+Gets or sets the vertical resolution for the generated images, in dots per inch.
 

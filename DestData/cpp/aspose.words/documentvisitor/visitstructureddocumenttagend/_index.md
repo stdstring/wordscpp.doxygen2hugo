@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagend/
 ## DocumentVisitor.VisitStructuredDocumentTagEnd method
 
 
-Called when enumeration of a structured document tag has ended. 
+Called when enumeration of a structured document tag has ended.
 

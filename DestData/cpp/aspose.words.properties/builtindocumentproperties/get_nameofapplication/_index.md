@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_nameofapplicatio
 ## BuiltInDocumentProperties.get_NameOfApplication method
 
 
-Gets or sets the name of the application. 
+Gets or sets the name of the application.
 

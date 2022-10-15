@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_barcodetype/
 ## FieldDisplayBarcode.get_BarcodeType method
 
 
-Gets or sets the barcode type (QR, etc.) 
+Gets or sets the barcode type (QR, etc.)
 

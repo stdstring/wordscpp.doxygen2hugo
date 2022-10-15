@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellcollection/toarray/
 ## CellCollection.ToArray method
 
 
-Copies all cells from the collection to a new array of cells. 
+Copies all cells from the collection to a new array of cells.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.rendering/officemathrenderer/officemathrenderer/
 ## OfficeMathRenderer.OfficeMathRenderer method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

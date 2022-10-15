@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstylecollection/get_oddcolumnbanding/
 ## ConditionalStyleCollection.get_OddColumnBanding method
 
 
-Gets the odd column banding style. 
+Gets the odd column banding style.
 

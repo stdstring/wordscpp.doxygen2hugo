@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_checked/
 ## StructuredDocumentTag.set_Checked method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Checked. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Checked](./get_checked/).
 

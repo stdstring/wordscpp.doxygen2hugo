@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontresourcessubsettingsizethr
 ## HtmlSaveOptions.set_FontResourcesSubsettingSizeThreshold method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold](./get_fontresourcessubsettingsizethreshold/).
 

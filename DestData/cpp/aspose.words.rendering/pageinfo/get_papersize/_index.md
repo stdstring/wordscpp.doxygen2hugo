@@ -9,5 +9,5 @@ url: /cpp/aspose.words.rendering/pageinfo/get_papersize/
 ## PageInfo.get_PaperSize method
 
 
-Gets the paper size as enumeration. 
+Gets the paper size as enumeration.
 

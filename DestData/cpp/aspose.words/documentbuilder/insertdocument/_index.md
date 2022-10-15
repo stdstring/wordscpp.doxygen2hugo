@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertdocument/
 ## DocumentBuilder.InsertDocument method
 
 
-Inserts a document at the cursor position. 
+Inserts a document at the cursor position.
 
 ---
 title: InsertDocument
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/insertdocument/
 ## DocumentBuilder.InsertDocument method
 
 
-Inserts a document at the cursor position. 
+Inserts a document at the cursor position.
 

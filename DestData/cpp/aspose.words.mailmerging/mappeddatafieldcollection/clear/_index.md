@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/clear/
 ## MappedDataFieldCollection.Clear method
 
 
-Removes all elements from the collection. 
+Removes all elements from the collection.
 

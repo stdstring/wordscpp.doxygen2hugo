@@ -9,5 +9,5 @@ url: /cpp/aspose.words/commentcollection/idx_get/
 ## CommentCollection.idx_get method
 
 
-Retrieves a **Comment** at the given index. 
+Retrieves a **Comment** at the given index.
 

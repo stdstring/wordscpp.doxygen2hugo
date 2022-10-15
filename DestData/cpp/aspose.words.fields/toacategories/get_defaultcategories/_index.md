@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/toacategories/get_defaultcategories/
 ## ToaCategories.get_DefaultCategories method
 
 
-Gets the default table of authorities categories. 
+Gets the default table of authorities categories.
 

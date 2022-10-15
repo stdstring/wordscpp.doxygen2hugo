@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagesize/imagesize/
 ## ImageSize.ImageSize method
 
 
-Initializes width and height to the given values in pixels. Initializes resolution to 96 dpi. 
+Initializes width and height to the given values in pixels. Initializes resolution to 96 dpi.
 
 ---
 title: ImageSize
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.drawing/imagesize/imagesize/
 ## ImageSize.ImageSize method
 
 
-Initializes width, height and resolution to the given values. 
+Initializes width, height and resolution to the given values.
 

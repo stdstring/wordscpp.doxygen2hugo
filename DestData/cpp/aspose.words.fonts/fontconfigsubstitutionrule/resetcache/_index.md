@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/resetcache/
 ## FontConfigSubstitutionRule.ResetCache method
 
 
-Resets the cache of fontconfig calling results. 
+Resets the cache of fontconfig calling results.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadlinuxsettings/
 ## TableSubstitutionRule.LoadLinuxSettings method
 
 
-Loads predefined table substitution settings for Linux platform. 
+Loads predefined table substitution settings for Linux platform.
 

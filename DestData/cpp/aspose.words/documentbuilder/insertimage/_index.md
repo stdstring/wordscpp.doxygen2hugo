@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale. 
+Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale.
 
 ---
 title: InsertImage
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a byte array at the specified position and size. 
+Inserts an image from a byte array at the specified position and size.
 
 ---
 title: InsertImage
@@ -35,7 +35,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an inline image from a byte array into the document and scales it to the specified size. 
+Inserts an inline image from a byte array into the document and scales it to the specified size.
 
 ---
 title: InsertImage
@@ -48,7 +48,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a Image object into the document. The image is inserted inline and at 100% scale. 
+Inserts an image from a **Image** object into the document. The image is inserted inline and at 100% scale.
 
 ---
 title: InsertImage
@@ -61,7 +61,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a Image object at the specified position and size. 
+Inserts an image from a **Image** object at the specified position and size.
 
 ---
 title: InsertImage
@@ -74,7 +74,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an inline image from a Image object into the document and scales it to the specified size. 
+Inserts an inline image from a **Image** object into the document and scales it to the specified size.
 
 ---
 title: InsertImage
@@ -87,7 +87,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a stream into the document. The image is inserted inline and at 100% scale. 
+Inserts an image from a stream into the document. The image is inserted inline and at 100% scale.
 
 ---
 title: InsertImage
@@ -100,7 +100,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a stream at the specified position and size. 
+Inserts an image from a stream at the specified position and size.
 
 ---
 title: InsertImage
@@ -113,7 +113,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an inline image from a stream into the document and scales it to the specified size. 
+Inserts an inline image from a stream into the document and scales it to the specified size.
 
 ---
 title: InsertImage
@@ -126,7 +126,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a file or URL into the document. The image is inserted inline and at 100% scale. 
+Inserts an image from a file or URL into the document. The image is inserted inline and at 100% scale.
 
 ---
 title: InsertImage
@@ -139,7 +139,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an image from a file or URL at the specified position and size. 
+Inserts an image from a file or URL at the specified position and size.
 
 ---
 title: InsertImage
@@ -152,7 +152,7 @@ url: /cpp/aspose.words/documentbuilder/insertimage/
 ## DocumentBuilder.InsertImage method
 
 
-Inserts an inline image from a file or URL into the document and scales it to the specified size. 
+Inserts an inline image from a file or URL into the document and scales it to the specified size.
 
 ---
 title: InsertImage

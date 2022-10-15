@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_category/
 ## BuiltInDocumentProperties.set_Category method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Category. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Category](./get_category/).
 

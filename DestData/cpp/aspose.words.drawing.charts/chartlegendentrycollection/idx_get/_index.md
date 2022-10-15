@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/idx_get/
 ## ChartLegendEntryCollection.idx_get method
 
 
-Returns ChartLegendEntry for the specified index. 
+Returns [ChartLegendEntry](../chartlegendentry/) for the specified index.
 

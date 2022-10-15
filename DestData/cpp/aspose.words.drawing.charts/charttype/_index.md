@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/charttype/
 ## ChartType enum
 
 
-Specifies type of a chart. 
+Specifies type of a chart.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_spacebeforeauto/
 ## ParagraphFormat.get_SpaceBeforeAuto method
 
 
-True if the amount of spacing before the paragraph is set automatically. 
+True if the amount of spacing before the paragraph is set automatically.
 

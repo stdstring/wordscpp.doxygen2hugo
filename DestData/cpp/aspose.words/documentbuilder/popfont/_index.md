@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/popfont/
 ## DocumentBuilder.PopFont method
 
 
-Retrieves character formatting previously saved on the stack. 
+Retrieves character formatting previously saved on the stack.
 

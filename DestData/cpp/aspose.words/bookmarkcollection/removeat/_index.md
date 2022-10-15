@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkcollection/removeat/
 ## BookmarkCollection.RemoveAt method
 
 
-Removes a bookmark at the specified index. 
+Removes a bookmark at the specified index.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_facingidentificationmark/
 ## BarcodeParameters.set_FacingIdentificationMark method
 
 
-Type of a Facing Identification Mark (FIM). 
+Type of a Facing Identification Mark (FIM).
 

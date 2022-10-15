@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/removeselfonly/
 ## StructuredDocumentTag.RemoveSelfOnly method
 
 
-Removes just this SDT node itself, but keeps the content of it inside the document tree. 
+Removes just this SDT node itself, but keeps the content of it inside the document tree.
 

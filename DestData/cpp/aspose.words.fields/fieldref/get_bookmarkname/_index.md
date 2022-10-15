@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldref/get_bookmarkname/
 ## FieldRef.get_BookmarkName method
 
 
-Gets or sets the referenced bookmark's name. 
+Gets or sets the referenced bookmark's name.
 

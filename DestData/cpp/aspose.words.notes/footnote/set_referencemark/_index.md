@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnote/set_referencemark/
 ## Footnote.set_ReferenceMark method
 
 
-Setter for Aspose::Words::Notes::Footnote::get_ReferenceMark. 
+Setter for [Aspose::Words::Notes::Footnote::get_ReferenceMark](./get_referencemark/).
 

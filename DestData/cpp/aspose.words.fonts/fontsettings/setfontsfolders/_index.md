@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsettings/setfontsfolders/
 ## FontSettings.SetFontsFolders method
 
 
-Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. 
+Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts.
 

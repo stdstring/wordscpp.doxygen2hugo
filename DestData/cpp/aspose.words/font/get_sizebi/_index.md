@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_sizebi/
 ## Font.get_SizeBi method
 
 
-Gets or sets the font size in points used in a right-to-left document. 
+Gets or sets the font size in points used in a right-to-left document.
 

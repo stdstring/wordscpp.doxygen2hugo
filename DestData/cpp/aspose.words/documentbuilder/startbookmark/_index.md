@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/startbookmark/
 ## DocumentBuilder.StartBookmark method
 
 
-Marks the current position in the document as a bookmark start. 
+Marks the current position in the document as a bookmark start.
 

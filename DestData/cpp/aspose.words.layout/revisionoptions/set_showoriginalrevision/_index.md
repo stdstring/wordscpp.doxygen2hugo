@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_showoriginalrevision/
 ## RevisionOptions.set_ShowOriginalRevision method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_ShowOriginalRevision. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowOriginalRevision](./get_showoriginalrevision/).
 

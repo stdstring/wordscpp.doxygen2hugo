@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangeend/structureddocumentta
 ## StructuredDocumentTagRangeEnd.StructuredDocumentTagRangeEnd method
 
 
-Initializes a new instance of the **Structured document tag range end** class. 
+Initializes a new instance of the **Structured document tag range end** class.
 

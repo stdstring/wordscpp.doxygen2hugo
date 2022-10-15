@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/fontsavingargs/set_keepfontstreamopen/
 ## FontSavingArgs.set_KeepFontStreamOpen method
 
 
-Setter for Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen. 
+Setter for [Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen](./get_keepfontstreamopen/).
 

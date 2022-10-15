@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_mailmergecallback/
 ## MailMerge.get_MailMergeCallback method
 
 
-Allows to handle particular events during mail merge. 
+Allows to handle particular events during mail merge.
 

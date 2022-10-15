@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldstyleref/get_insertparagraphnumber/
 ## FieldStyleRef.get_InsertParagraphNumber method
 
 
-Gets or sets whether to insert the paragraph number of the referenced paragraph exactly as it appears in the document. 
+Gets or sets whether to insert the paragraph number of the referenced paragraph exactly as it appears in the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axistickmark/
 ## AxisTickMark enum
 
 
-Specifies the possible positions for tick marks. 
+Specifies the possible positions for tick marks.
 

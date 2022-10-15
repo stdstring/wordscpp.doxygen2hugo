@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_replacingcallback/
 ## FindReplaceOptions.get_ReplacingCallback method
 
 
-The user-defined method which is called before every replace occurrence. 
+The user-defined method which is called before every replace occurrence.
 

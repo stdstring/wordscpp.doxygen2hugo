@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlabel/get_font/
 ## ListLabel.get_Font method
 
 
-Gets the list label font. 
+Gets the list label font.
 

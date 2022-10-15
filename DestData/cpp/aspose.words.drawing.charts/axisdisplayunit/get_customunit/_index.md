@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/get_customunit/
 ## AxisDisplayUnit.get_CustomUnit method
 
 
-Gets or sets a user-defined divisor to scale display units on the value axis. 
+Gets or sets a user-defined divisor to scale display units on the value axis.
 

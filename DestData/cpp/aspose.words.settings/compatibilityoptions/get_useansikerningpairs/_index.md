@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_useansikerningpairs/
 ## CompatibilityOptions.get_UseAnsiKerningPairs method
 
 
-Use ANSI Kerning Pairs from Fonts. 
+Use ANSI Kerning Pairs from [Fonts](../../aspose.words.fonts/).
 

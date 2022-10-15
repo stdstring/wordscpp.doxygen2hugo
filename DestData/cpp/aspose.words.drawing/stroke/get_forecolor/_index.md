@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_forecolor/
 ## Stroke.get_ForeColor method
 
 
-Gets or sets the foreground color of the stroke. 
+Gets or sets the foreground color of the stroke.
 

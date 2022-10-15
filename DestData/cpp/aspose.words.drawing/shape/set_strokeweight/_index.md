@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/set_strokeweight/
 ## Shape.set_StrokeWeight method
 
 
-Setter for Aspose::Words::Drawing::Shape::get_StrokeWeight. 
+Setter for [Aspose::Words::Drawing::Shape::get_StrokeWeight](./get_strokeweight/).
 

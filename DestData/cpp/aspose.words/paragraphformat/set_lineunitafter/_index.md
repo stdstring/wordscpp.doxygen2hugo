@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_lineunitafter/
 ## ParagraphFormat.set_LineUnitAfter method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_LineUnitAfter. 
+Setter for [Aspose::Words::ParagraphFormat::get_LineUnitAfter](./get_lineunitafter/).
 

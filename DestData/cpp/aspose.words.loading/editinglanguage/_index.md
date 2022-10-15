@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/editinglanguage/
 ## EditingLanguage enum
 
 
-Specifies the editing language. 
+Specifies the editing language.
 

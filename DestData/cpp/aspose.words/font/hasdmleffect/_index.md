@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/hasdmleffect/
 ## Font.HasDmlEffect method
 
 
-Checks if particular DrawingML text effect is applied. 
+Checks if particular DrawingML text effect is applied.
 

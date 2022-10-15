@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkstart/get_bookmark/
 ## BookmarkStart.get_Bookmark method
 
 
-Gets the facade object that encapsulates this bookmark start and end. 
+Gets the facade object that encapsulates this bookmark start and end.
 

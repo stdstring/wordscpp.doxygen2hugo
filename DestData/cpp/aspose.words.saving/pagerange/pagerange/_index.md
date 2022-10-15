@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pagerange/pagerange/
 ## PageRange.PageRange method
 
 
-Creates a new page range object. 
+Creates a new page range object.
 

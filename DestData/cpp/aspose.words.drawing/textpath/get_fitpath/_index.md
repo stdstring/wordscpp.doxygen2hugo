@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_fitpath/
 ## TextPath.get_FitPath method
 
 
-Defines whether the text fits the path of a shape. 
+Defines whether the text fits the path of a shape.
 

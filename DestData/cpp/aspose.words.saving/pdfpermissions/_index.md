@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfpermissions/
 ## PdfPermissions enum
 
 
-Specifies the operations that are allowed to a user on an encrypted PDF document. 
+Specifies the operations that are allowed to a user on an encrypted PDF document.
 

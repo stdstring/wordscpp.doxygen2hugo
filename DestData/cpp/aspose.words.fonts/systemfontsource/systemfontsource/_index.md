@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/systemfontsource/systemfontsource/
 ## SystemFontSource.SystemFontSource method
 
 
-Ctor. 
+Ctor.
 
 ---
 title: SystemFontSource
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fonts/systemfontsource/systemfontsource/
 ## SystemFontSource.SystemFontSource method
 
 
-Ctor. 
+Ctor.
 

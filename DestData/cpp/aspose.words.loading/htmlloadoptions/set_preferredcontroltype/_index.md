@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/htmlloadoptions/set_preferredcontroltype/
 ## HtmlLoadOptions.set_PreferredControlType method
 
 
-Setter for Aspose::Words::Loading::HtmlLoadOptions::get_PreferredControlType. 
+Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_PreferredControlType](./get_preferredcontroltype/).
 

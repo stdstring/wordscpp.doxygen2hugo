@@ -9,10 +9,10 @@ url: /cpp/aspose.words.saving/documentsavingargs/
 ## DocumentSavingArgs class
 
 
-An argument passed into Notify(). 
+An argument passed into [Notify()](./idocumentsavingcallback/notify/).
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress.  |
+| [get_EstimatedProgress](./get_estimatedprogress/)() const | Overall estimated percentage progress. |

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitrowend/
 ## DocumentVisitor.VisitRowEnd method
 
 
-Called when enumeration of a table row has ended. 
+Called when enumeration of a table row has ended.
 

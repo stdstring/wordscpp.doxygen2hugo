@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldaddressblock/get_nameandaddressformat/
 ## FieldAddressBlock.get_NameAndAddressFormat method
 
 
-Gets or sets the name and address format. 
+Gets or sets the name and address format.
 

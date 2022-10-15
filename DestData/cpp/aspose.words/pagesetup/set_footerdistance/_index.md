@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_footerdistance/
 ## PageSetup.set_FooterDistance method
 
 
-Setter for Aspose::Words::PageSetup::get_FooterDistance. 
+Setter for [Aspose::Words::PageSetup::get_FooterDistance](./get_footerdistance/).
 

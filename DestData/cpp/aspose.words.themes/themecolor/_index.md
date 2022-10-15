@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themecolor/
 ## ThemeColor enum
 
 
-Specifies the theme colors for document themes. 
+Specifies the theme colors for document themes.
 

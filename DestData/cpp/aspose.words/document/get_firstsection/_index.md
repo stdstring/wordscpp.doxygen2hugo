@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_firstsection/
 ## Document.get_FirstSection method
 
 
-Gets the first section in the document. 
+Gets the first section in the document.
 

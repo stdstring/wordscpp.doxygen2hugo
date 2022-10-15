@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtlistindentation/set_count/
 ## TxtListIndentation.set_Count method
 
 
-Setter for Aspose::Words::Saving::TxtListIndentation::get_Count. 
+Setter for [Aspose::Words::Saving::TxtListIndentation::get_Count](./get_count/).
 

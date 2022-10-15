@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldpageref/set_bookmarkname/
 ## FieldPageRef.set_BookmarkName method
 
 
-Setter for Aspose::Words::Fields::FieldPageRef::get_BookmarkName. 
+Setter for [Aspose::Words::Fields::FieldPageRef::get_BookmarkName](./get_bookmarkname/).
 

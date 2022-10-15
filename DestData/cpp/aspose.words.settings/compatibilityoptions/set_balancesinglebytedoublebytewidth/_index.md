@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_balancesinglebytedouble
 ## CompatibilityOptions.set_BalanceSingleByteDoubleByteWidth method
 
 
-Balance Single Byte and Double Byte Characters. 
+Balance Single Byte and Double Byte Characters.
 

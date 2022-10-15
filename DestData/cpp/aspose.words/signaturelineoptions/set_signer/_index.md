@@ -9,5 +9,5 @@ url: /cpp/aspose.words/signaturelineoptions/set_signer/
 ## SignatureLineOptions.set_Signer method
 
 
-Setter for Aspose::Words::SignatureLineOptions::get_Signer. 
+Setter for [Aspose::Words::SignatureLineOptions::get_Signer](./get_signer/).
 

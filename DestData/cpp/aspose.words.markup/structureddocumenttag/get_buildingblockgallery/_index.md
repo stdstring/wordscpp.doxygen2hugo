@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_buildingblockgallery/
 ## StructuredDocumentTag.get_BuildingBlockGallery method
 
 
-Specifies type of building block for this **SDT**. Can not be null. 
+Specifies type of building block for this **SDT**. Can not be null.
 

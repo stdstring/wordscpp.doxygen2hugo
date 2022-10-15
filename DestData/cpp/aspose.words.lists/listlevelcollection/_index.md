@@ -9,7 +9,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/
 ## ListLevelCollection class
 
 
-A collection of list formatting for each level in a list. 
+A collection of list formatting for each level in a list.
 
 ## Methods
 
@@ -21,10 +21,10 @@ A collection of list formatting for each level in a list.
 | [cend](./cend/)() const |  |
 | [end](./end/)() |  |
 | [end](./end/)() const |  |
-| [get_Count](./get_count/)() | Gets the number of levels in this list.  |
-| [GetEnumerator](./getenumerator/)() override | Gets the enumerator object that will enumerate levels in this list.  |
-| [idx_get](./idx_get/)(int32_t) | Gets a list level by index.  |
-| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<Aspose::Words::Lists::ListLevel\>\&) | Gets a list level by index.  |
+| [get_Count](./get_count/)() | Gets the number of levels in this list. |
+| [GetEnumerator](./getenumerator/)() override | Gets the enumerator object that will enumerate levels in this list. |
+| [idx_get](./idx_get/)(int32_t) | Gets a list level by index. |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<Aspose::Words::Lists::ListLevel\>\&) | Gets a list level by index. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override |  |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |

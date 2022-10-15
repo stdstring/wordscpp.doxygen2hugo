@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_trackrevisions/
 ## Document.get_TrackRevisions method
 
 
-**True** if changes are tracked when this document is edited in Microsoft Word. 
+**True** if changes are tracked when this document is edited in Microsoft Word.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_istoplevel/
 ## ShapeBase.get_IsTopLevel method
 
 
-Returns true if this shape is not a child of a group shape. 
+Returns true if this shape is not a child of a group shape.
 

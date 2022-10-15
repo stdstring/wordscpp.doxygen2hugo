@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_fontsettings/
 ## Document.get_FontSettings method
 
 
-Gets or sets document font settings. 
+Gets or sets document font settings.
 

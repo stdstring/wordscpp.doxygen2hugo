@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellmerge/
 ## CellMerge enum
 
 
-Specifies how a cell in a table is merged with other cells. 
+Specifies how a cell in a table is merged with other cells.
 

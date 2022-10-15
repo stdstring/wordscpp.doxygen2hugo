@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_presettexture/
 ## Fill.get_PresetTexture method
 
 
-Gets a PresetTexture for the fill. 
+Gets a [PresetTexture](../presettexture/) for the fill.
 

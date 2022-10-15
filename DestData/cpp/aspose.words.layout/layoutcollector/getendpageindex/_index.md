@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutcollector/getendpageindex/
 ## LayoutCollector.GetEndPageIndex method
 
 
-Gets 1-based index of the page where node ends. Returns 0 if node cannot be mapped to a page. 
+Gets 1-based index of the page where node ends. Returns 0 if node cannot be mapped to a page.
 

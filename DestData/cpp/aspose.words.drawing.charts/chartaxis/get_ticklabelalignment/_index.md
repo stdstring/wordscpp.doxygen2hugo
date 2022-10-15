@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelalignment/
 ## ChartAxis.get_TickLabelAlignment method
 
 
-Gets or sets text alignment of axis tick labels. 
+Gets or sets text alignment of axis tick labels.
 

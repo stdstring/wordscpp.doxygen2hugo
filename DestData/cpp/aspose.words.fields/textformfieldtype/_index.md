@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/textformfieldtype/
 ## TextFormFieldType enum
 
 
-Specifies the type of a text form field. 
+Specifies the type of a text form field.
 

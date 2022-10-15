@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/get_borders/
 ## ImageData.get_Borders method
 
 
-Gets the collection of borders of the image. Borders only have effect for inline images. 
+Gets the collection of borders of the image. Borders only have effect for inline images.
 

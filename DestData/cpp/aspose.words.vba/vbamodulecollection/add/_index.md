@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbamodulecollection/add/
 ## VbaModuleCollection.Add method
 
 
-Adds a module to the collection. 
+Adds a module to the collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_progid/
 ## FieldDdeAuto.set_ProgId method
 
 
-Setter for Aspose::Words::Fields::FieldDdeAuto::get_ProgId. 
+Setter for [Aspose::Words::Fields::FieldDdeAuto::get_ProgId](./get_progid/).
 

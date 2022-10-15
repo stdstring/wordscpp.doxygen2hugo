@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertonlinevideo/
 ## DocumentBuilder.InsertOnlineVideo method
 
 
-Inserts an online video object into the document and scales it to the specified size. 
+Inserts an online video object into the document and scales it to the specified size.
 
 ---
 title: InsertOnlineVideo
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/documentbuilder/insertonlinevideo/
 ## DocumentBuilder.InsertOnlineVideo method
 
 
-Inserts an online video object into the document and scales it to the specified size. 
+Inserts an online video object into the document and scales it to the specified size.
 
 ---
 title: InsertOnlineVideo
@@ -35,7 +35,7 @@ url: /cpp/aspose.words/documentbuilder/insertonlinevideo/
 ## DocumentBuilder.InsertOnlineVideo method
 
 
-Inserts an online video object into the document and scales it to the specified size. 
+Inserts an online video object into the document and scales it to the specified size.
 
 ---
 title: InsertOnlineVideo
@@ -48,5 +48,5 @@ url: /cpp/aspose.words/documentbuilder/insertonlinevideo/
 ## DocumentBuilder.InsertOnlineVideo method
 
 
-Inserts an online video object into the document and scales it to the specified size. 
+Inserts an online video object into the document and scales it to the specified size.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/set_sequenceseparator/
 ## FieldIndex.set_SequenceSeparator method
 
 
-Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator. 
+Setter for [Aspose::Words::Fields::FieldIndex::get_SequenceSeparator](./get_sequenceseparator/).
 

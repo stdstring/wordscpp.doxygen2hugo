@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/get_query/
 ## FieldDatabase.get_Query method
 
 
-Gets a set of SQL instructions that query the database. 
+Gets a set of SQL instructions that query the database.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_xpath/
 ## FieldIncludeText.get_XPath method
 
 
-Gets or sets XPath for the desired portion of the XML file. 
+Gets or sets XPath for the desired portion of the XML file.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisioncollection/acceptall/
 ## RevisionCollection.AcceptAll method
 
 
-Accepts all revisions in this collection. 
+Accepts all revisions in this collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/stylecollection/addcopy/
 ## StyleCollection.AddCopy method
 
 
-Copies a style into this collection. 
+Copies a style into this collection.
 

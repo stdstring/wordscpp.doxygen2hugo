@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/mergefieldimagedimensionunit/
 ## MergeFieldImageDimensionUnit enum
 
 
-Specifies an unit of an image dimension (i.e. the width or the height) used across a mail merge process. 
+Specifies an unit of an image dimension (i.e. the width or the height) used across a mail merge process.
 

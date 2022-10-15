@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revision/get_author/
 ## Revision.get_Author method
 
 
-Gets or sets the author of this revision. Can not be empty string or null. 
+Gets or sets the author of this revision. Can not be empty string or null.
 

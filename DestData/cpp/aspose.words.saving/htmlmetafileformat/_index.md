@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlmetafileformat/
 ## HtmlMetafileFormat enum
 
 
-Indicates the format in which metafiles are saved to HTML documents. 
+Indicates the format in which metafiles are saved to HTML documents.
 

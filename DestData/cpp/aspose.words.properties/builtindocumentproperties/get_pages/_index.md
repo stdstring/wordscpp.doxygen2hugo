@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_pages/
 ## BuiltInDocumentProperties.get_Pages method
 
 
-Represents an estimate of the number of pages in the document. 
+Represents an estimate of the number of pages in the document.
 

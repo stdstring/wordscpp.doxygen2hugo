@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoa/set_sequencename/
 ## FieldToa.set_SequenceName method
 
 
-Setter for Aspose::Words::Fields::FieldToa::get_SequenceName. 
+Setter for [Aspose::Words::Fields::FieldToa::get_SequenceName](./get_sequencename/).
 

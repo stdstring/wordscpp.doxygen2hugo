@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotvertaligncellwiths
 ## CompatibilityOptions.get_DoNotVertAlignCellWithSp method
 
 
-Don't Vertically Align Cells Containing Floating Objects. 
+Don't Vertically Align Cells Containing Floating Objects.
 

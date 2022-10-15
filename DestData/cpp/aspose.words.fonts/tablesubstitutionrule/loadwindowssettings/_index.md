@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadwindowssettings/
 ## TableSubstitutionRule.LoadWindowsSettings method
 
 
-Loads predefined table substitution settings for Windows platform. 
+Loads predefined table substitution settings for Windows platform.
 

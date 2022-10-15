@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/idx_get/
 ## ChartSeriesCollection.idx_get method
 
 
-Returns a ChartSeries at the specified index. 
+Returns a [ChartSeries](../chartseries/) at the specified index.
 

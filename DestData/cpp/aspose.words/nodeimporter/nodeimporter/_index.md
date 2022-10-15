@@ -9,7 +9,7 @@ url: /cpp/aspose.words/nodeimporter/nodeimporter/
 ## NodeImporter.NodeImporter method
 
 
-Initializes a new instance of the NodeImporter class. 
+Initializes a new instance of the [NodeImporter](./) class.
 
 ---
 title: NodeImporter
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/nodeimporter/nodeimporter/
 ## NodeImporter.NodeImporter method
 
 
-Initializes a new instance of the NodeImporter class. 
+Initializes a new instance of the [NodeImporter](./) class.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/controlchar/cell/
 ## ControlChar.Cell method
 
 
-End of a table cell or end of a table row character: "\x0007" or "\a". 
+End of a table cell or end of a table row character: "\x0007" or "\a".
 

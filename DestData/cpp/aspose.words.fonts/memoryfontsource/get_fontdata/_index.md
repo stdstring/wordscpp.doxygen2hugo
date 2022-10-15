@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/memoryfontsource/get_fontdata/
 ## MemoryFontSource.get_FontData method
 
 
-Binary font data. 
+Binary font data.
 

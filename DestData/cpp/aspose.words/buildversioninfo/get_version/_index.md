@@ -9,5 +9,5 @@ url: /cpp/aspose.words/buildversioninfo/get_version/
 ## BuildVersionInfo.get_Version method
 
 
-Gets the product version. 
+Gets the product version.
 

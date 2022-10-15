@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_suppressendnotes/
 ## PageSetup.set_SuppressEndnotes method
 
 
-Setter for Aspose::Words::PageSetup::get_SuppressEndnotes. 
+Setter for [Aspose::Words::PageSetup::get_SuppressEndnotes](./get_suppressendnotes/).
 

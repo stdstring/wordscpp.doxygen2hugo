@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_bidi/
 ## Font.set_Bidi method
 
 
-Setter for Aspose::Words::Font::get_Bidi. 
+Setter for [Aspose::Words::Font::get_Bidi](./get_bidi/).
 

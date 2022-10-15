@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_mimetype/
 ## FieldIncludeText.get_MimeType method
 
 
-Gets or sets the MIME type of the referenced file. 
+Gets or sets the MIME type of the referenced file.
 

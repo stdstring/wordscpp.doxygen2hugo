@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_optimizeoutput/
 ## FixedPageSaveOptions.set_OptimizeOutput method
 
 
-Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput. 
+Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput](./get_optimizeoutput/).
 

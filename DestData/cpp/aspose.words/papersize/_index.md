@@ -9,5 +9,5 @@ url: /cpp/aspose.words/papersize/
 ## PaperSize enum
 
 
-Specifies paper size. 
+Specifies paper size.
 

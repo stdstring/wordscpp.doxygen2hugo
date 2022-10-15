@@ -9,5 +9,5 @@ url: /cpp/aspose.words/signaturelineoptions/get_instructions/
 ## SignatureLineOptions.get_Instructions method
 
 
-Gets or sets instructions to the signer that are displayed on signing the signature line. Default value for this property is **empty string**. 
+Gets or sets instructions to the signer that are displayed on signing the signature line. Default value for this property is **empty string**.
 

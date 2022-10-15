@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/physicalfontinfo/get_fullfontname/
 ## PhysicalFontInfo.get_FullFontName method
 
 
-Full name of the font. 
+Full name of the font.
 

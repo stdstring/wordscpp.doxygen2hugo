@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_usealtkinsokulinebreakr
 ## CompatibilityOptions.set_UseAltKinsokuLineBreakRules method
 
 
-Use Alternate Set of East Asian Line Breaking Rules. 
+Use Alternate Set of East Asian Line Breaking Rules.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_webextensiontaskpanes/
 ## Document.get_WebExtensionTaskPanes method
 
 
-Returns a collection that represents a list of task pane add-ins. 
+Returns a collection that represents a list of task pane add-ins.
 

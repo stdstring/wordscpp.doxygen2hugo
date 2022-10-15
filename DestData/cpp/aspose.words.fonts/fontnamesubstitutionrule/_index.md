@@ -9,11 +9,11 @@ url: /cpp/aspose.words.fonts/fontnamesubstitutionrule/
 ## FontNameSubstitutionRule class
 
 
-Font substitution rule for processing font name. 
+[Font](../aspose.words/font/) substitution rule for processing font name.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| virtual [get_Enabled](../fontsubstitutionrule/get_enabled/)() | Specifies whether the rule is enabled or not.  |
-| virtual [set_Enabled](../fontsubstitutionrule/set_enabled/)(bool) | Setter for Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled.  |
+| virtual [get_Enabled](../fontsubstitutionrule/get_enabled/)() | Specifies whether the rule is enabled or not. |
+| virtual [set_Enabled](../fontsubstitutionrule/set_enabled/)(bool) | Setter for [Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled](../fontsubstitutionrule/get_enabled/). |

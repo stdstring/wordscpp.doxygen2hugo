@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmark/set_name/
 ## Bookmark.set_Name method
 
 
-Setter for Aspose::Words::Bookmark::get_Name. 
+Setter for [Aspose::Words::Bookmark::get_Name](./get_name/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_movedtotexteffect/
 ## RevisionOptions.set_MovedToTextEffect method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_MovedToTextEffect. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_MovedToTextEffect](./get_movedtotexteffect/).
 

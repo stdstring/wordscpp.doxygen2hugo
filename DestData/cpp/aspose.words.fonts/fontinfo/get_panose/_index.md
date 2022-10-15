@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfo/get_panose/
 ## FontInfo.get_Panose method
 
 
-Gets or sets the PANOSE typeface classification number. 
+Gets or sets the PANOSE typeface classification number.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/movefirstchild/
 ## LayoutEnumerator.MoveFirstChild method
 
 
-Moves to the first child entity. 
+Moves to the first child entity.
 

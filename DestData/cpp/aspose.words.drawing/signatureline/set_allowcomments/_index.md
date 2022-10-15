@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/set_allowcomments/
 ## SignatureLine.set_AllowComments method
 
 
-Setter for Aspose::Words::Drawing::SignatureLine::get_AllowComments. 
+Setter for [Aspose::Words::Drawing::SignatureLine::get_AllowComments](./get_allowcomments/).
 

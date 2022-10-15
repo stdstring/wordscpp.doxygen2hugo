@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/resourceloadingargs/setdata/
 ## ResourceLoadingArgs.SetData method
 
 
-Sets user provided data of the resource which is used if ResourceLoading() returns UserProvided. 
+Sets user provided data of the resource which is used if [ResourceLoading()](../iresourceloadingcallback/resourceloading/) returns **UserProvided**.
 

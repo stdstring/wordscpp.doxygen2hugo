@@ -9,5 +9,5 @@ url: /cpp/aspose.words/specialchar/get_nodetype/
 ## SpecialChar.get_NodeType method
 
 
-Returns **NodeType.SpecialChar**. 
+Returns **NodeType.SpecialChar**.
 

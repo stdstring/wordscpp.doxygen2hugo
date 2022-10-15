@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/removeat/
 ## CustomXmlSchemaCollection.RemoveAt method
 
 
-Removes a value at the specified index. 
+Removes a value at the specified index.
 

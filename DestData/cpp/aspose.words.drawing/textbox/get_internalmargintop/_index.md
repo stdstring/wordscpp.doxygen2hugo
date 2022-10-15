@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_internalmargintop/
 ## TextBox.get_InternalMarginTop method
 
 
-Specifies the inner top margin in points for a shape. 
+Specifies the inner top margin in points for a shape.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textureindex/
 ## TextureIndex enum
 
 
-Specifies shading texture. 
+Specifies shading texture.
 

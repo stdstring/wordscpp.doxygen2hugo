@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shadowformat/set_type/
 ## ShadowFormat.set_Type method
 
 
-Sets the specified ShadowType for ShadowFormat. 
+Sets the specified [ShadowType](../shadowtype/) for [ShadowFormat](./).
 

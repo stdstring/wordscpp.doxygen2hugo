@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/documentbuilder/
 ## DocumentBuilder.DocumentBuilder method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 
 ---
 title: DocumentBuilder
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/documentbuilder/
 ## DocumentBuilder.DocumentBuilder method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

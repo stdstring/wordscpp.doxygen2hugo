@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldref/set_includenoteorcomment/
 ## FieldRef.set_IncludeNoteOrComment method
 
 
-Setter for Aspose::Words::Fields::FieldRef::get_IncludeNoteOrComment. 
+Setter for [Aspose::Words::Fields::FieldRef::get_IncludeNoteOrComment](./get_includenoteorcomment/).
 

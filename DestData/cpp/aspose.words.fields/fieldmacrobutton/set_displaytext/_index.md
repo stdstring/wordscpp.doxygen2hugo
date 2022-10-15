@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/set_displaytext/
 ## FieldMacroButton.set_DisplayText method
 
 
-Setter for Aspose::Words::Fields::FieldMacroButton::get_DisplayText. 
+Setter for [Aspose::Words::Fields::FieldMacroButton::get_DisplayText](./get_displaytext/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionreference/get_id/
 ## WebExtensionReference.get_Id method
 
 
-Identifier associated with the web extension within a catalog provider. 
+Identifier associated with the web extension within a catalog provider.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_foregroundcolor/
 ## FieldDisplayBarcode.set_ForegroundColor method
 
 
-Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor. 
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor](./get_foregroundcolor/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldstyleref/set_insertparagraphnumber/
 ## FieldStyleRef.set_InsertParagraphNumber method
 
 
-Setter for Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumber. 
+Setter for [Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumber](./get_insertparagraphnumber/).
 

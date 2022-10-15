@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_stylename/
 ## Font.get_StyleName method
 
 
-Gets or sets the name of the character style applied to this formatting. 
+Gets or sets the name of the character style applied to this formatting.
 

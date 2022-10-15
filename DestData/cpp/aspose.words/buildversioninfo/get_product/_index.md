@@ -9,5 +9,5 @@ url: /cpp/aspose.words/buildversioninfo/get_product/
 ## BuildVersionInfo.get_Product method
 
 
-Gets the full name of the product. 
+Gets the full name of the product.
 

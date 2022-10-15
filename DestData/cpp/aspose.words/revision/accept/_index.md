@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revision/accept/
 ## Revision.Accept method
 
 
-Accepts this revision. 
+Accepts this revision.
 

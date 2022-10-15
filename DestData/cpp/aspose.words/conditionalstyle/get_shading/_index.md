@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/get_shading/
 ## ConditionalStyle.get_Shading method
 
 
-Gets a Shading object that refers to the shading formatting for this conditional style. 
+Gets a [Shading](../shading/) object that refers to the shading formatting for this conditional style.
 

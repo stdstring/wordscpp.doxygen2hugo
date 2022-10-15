@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shadowtype/
 ## ShadowType enum
 
 
-Specifies the type of a shape shadow. 
+Specifies the type of a shape shadow.
 

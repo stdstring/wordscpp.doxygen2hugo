@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_distancetop/
 ## ShapeBase.set_DistanceTop method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_DistanceTop. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceTop](./get_distancetop/).
 

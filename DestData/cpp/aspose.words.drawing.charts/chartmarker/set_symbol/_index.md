@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/set_symbol/
 ## ChartMarker.set_Symbol method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol. 
+Setter for [Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol](./get_symbol/).
 

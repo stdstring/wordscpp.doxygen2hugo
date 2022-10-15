@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertsignatureline/
 ## DocumentBuilder.InsertSignatureLine method
 
 
-Inserts a signature line at the current position. 
+Inserts a signature line at the current position.
 
 ---
 title: InsertSignatureLine
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/insertsignatureline/
 ## DocumentBuilder.InsertSignatureLine method
 
 
-Inserts a signature line at the specified position. 
+Inserts a signature line at the specified position.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_displayunit/
 ## ChartAxis.get_DisplayUnit method
 
 
-Specifies the scaling value of the display units for the value axis. 
+Specifies the scaling value of the display units for the value axis.
 

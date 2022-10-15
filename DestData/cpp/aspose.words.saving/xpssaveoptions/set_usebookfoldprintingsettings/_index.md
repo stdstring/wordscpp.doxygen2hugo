@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/xpssaveoptions/set_usebookfoldprintingsettings/
 ## XpsSaveOptions.set_UseBookFoldPrintingSettings method
 
 
-Setter for Aspose::Words::Saving::XpsSaveOptions::get_UseBookFoldPrintingSettings. 
+Setter for [Aspose::Words::Saving::XpsSaveOptions::get_UseBookFoldPrintingSettings](./get_usebookfoldprintingsettings/).
 

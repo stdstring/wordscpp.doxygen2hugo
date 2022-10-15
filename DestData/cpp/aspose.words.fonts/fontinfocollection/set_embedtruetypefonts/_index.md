@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfocollection/set_embedtruetypefonts/
 ## FontInfoCollection.set_EmbedTrueTypeFonts method
 
 
-Setter for Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts. 
+Setter for [Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts](./get_embedtruetypefonts/).
 

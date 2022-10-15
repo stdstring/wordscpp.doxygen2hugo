@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/selectsinglenode/
 ## CompositeNode.SelectSingleNode method
 
 
-Selects the first Node that matches the XPath expression. 
+Selects the first [Node](../node/) that matches the XPath expression.
 

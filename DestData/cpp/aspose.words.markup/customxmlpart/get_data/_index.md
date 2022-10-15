@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpart/get_data/
 ## CustomXmlPart.get_Data method
 
 
-Gets or sets the XML content of this Custom XML Data Storage Part. 
+Gets or sets the XML content of this Custom XML Data Storage Part.
 

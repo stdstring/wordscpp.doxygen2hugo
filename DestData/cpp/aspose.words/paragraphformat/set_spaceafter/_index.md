@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_spaceafter/
 ## ParagraphFormat.set_SpaceAfter method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_SpaceAfter. 
+Setter for [Aspose::Words::ParagraphFormat::get_SpaceAfter](./get_spaceafter/).
 

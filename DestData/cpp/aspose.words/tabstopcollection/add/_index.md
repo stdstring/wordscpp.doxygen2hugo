@@ -9,7 +9,7 @@ url: /cpp/aspose.words/tabstopcollection/add/
 ## TabStopCollection.Add method
 
 
-Adds or replaces a tab stop in the collection. 
+Adds or replaces a tab stop in the collection.
 
 ---
 title: Add
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/tabstopcollection/add/
 ## TabStopCollection.Add method
 
 
-Adds or replaces a tab stop in the collection. 
+Adds or replaces a tab stop in the collection.
 

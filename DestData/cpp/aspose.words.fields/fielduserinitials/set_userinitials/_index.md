@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielduserinitials/set_userinitials/
 ## FieldUserInitials.set_UserInitials method
 
 
-Setter for Aspose::Words::Fields::FieldUserInitials::get_UserInitials. 
+Setter for [Aspose::Words::Fields::FieldUserInitials::get_UserInitials](./get_userinitials/).
 

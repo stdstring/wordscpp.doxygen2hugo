@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpathalignment/
 ## TextPathAlignment enum
 
 
-WordArt alignment. 
+WordArt alignment.
 

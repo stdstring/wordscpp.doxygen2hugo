@@ -9,5 +9,5 @@ url: /cpp/aspose.words/emphasismark/
 ## EmphasisMark enum
 
 
-Specifies possible types of emphasis mark. 
+Specifies possible types of emphasis mark.
 

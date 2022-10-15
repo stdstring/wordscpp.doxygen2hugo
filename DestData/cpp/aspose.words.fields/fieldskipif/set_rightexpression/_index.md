@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldskipif/set_rightexpression/
 ## FieldSkipIf.set_RightExpression method
 
 
-Sets the right part of the comparison expression. 
+Sets the right part of the comparison expression.
 

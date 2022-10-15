@@ -9,7 +9,7 @@ url: /cpp/aspose.words.webextensions/webextensionreferencecollection/
 ## WebExtensionReferenceCollection class
 
 
-Specifies a list of web extension references. 
+Specifies a list of web extension references.
 
 ## Methods
 

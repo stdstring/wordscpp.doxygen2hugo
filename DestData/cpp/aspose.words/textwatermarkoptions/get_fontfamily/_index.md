@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textwatermarkoptions/get_fontfamily/
 ## TextWatermarkOptions.get_FontFamily method
 
 
-Gets or sets font family name. The default value is "Calibri". 
+Gets or sets font family name. The default value is "Calibri".
 

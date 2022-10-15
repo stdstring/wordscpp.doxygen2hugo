@@ -9,12 +9,12 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/
 ## ChartLegendEntryCollection class
 
 
-Represents a collection of chart legend entries. 
+Represents a collection of chart legend entries.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [get_Count](./get_count/)() | Returns the number of ChartLegendEntry in this collection.  |
-| [GetEnumerator](./getenumerator/)() override | Returns an enumerator object.  |
-| [idx_get](./idx_get/)(int32_t) | Returns ChartLegendEntry for the specified index.  |
+| [get_Count](./get_count/)() | Returns the number of [ChartLegendEntry](../chartlegendentry/) in this collection. |
+| [GetEnumerator](./getenumerator/)() override | Returns an enumerator object. |
+| [idx_get](./idx_get/)(int32_t) | Returns [ChartLegendEntry](../chartlegendentry/) for the specified index. |

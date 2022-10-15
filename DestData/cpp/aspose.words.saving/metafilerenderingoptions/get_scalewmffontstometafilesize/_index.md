@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/get_scalewmffontstometafi
 ## MetafileRenderingOptions.get_ScaleWmfFontsToMetafileSize method
 
 
-Gets or sets a value determining whether or not to scale fonts in WMF metafile according to metafile size on the page. 
+Gets or sets a value determining whether or not to scale fonts in WMF metafile according to metafile size on the page.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludepicture/get_islinked/
 ## FieldIncludePicture.get_IsLinked method
 
 
-Gets or sets whether to reduce the file size by not storing graphics data with the document. 
+Gets or sets whether to reduce the file size by not storing graphics data with the document.
 

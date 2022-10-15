@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldimport/get_sourcefullname/
 ## FieldImport.get_SourceFullName method
 
 
-Gets or sets the location of the picture. 
+Gets or sets the location of the picture.
 

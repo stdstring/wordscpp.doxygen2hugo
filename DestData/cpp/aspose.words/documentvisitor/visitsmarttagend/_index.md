@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitsmarttagend/
 ## DocumentVisitor.VisitSmartTagEnd method
 
 
-Called when enumeration of a smart tag has ended. 
+Called when enumeration of a smart tag has ended.
 

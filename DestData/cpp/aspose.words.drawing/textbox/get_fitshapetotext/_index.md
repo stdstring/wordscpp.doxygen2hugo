@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_fitshapetotext/
 ## TextBox.get_FitShapeToText method
 
 
-Determines whether Microsoft Word will grow the shape to fit text. 
+Determines whether Microsoft Word will grow the shape to fit text.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listformat/get_list/
 ## ListFormat.get_List method
 
 
-Gets or sets the list this paragraph is a member of. 
+Gets or sets the list this paragraph is a member of.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/get_hideinweblayout/
 ## FieldToc.get_HideInWebLayout method
 
 
-Gets or sets whether to hide tab leader and page numbers in Web layout view. 
+Gets or sets whether to hide tab leader and page numbers in Web layout view.
 

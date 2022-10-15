@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axistimeunit/
 ## AxisTimeUnit enum
 
 
-Specifies the unit of time for axes. 
+Specifies the unit of time for axes.
 

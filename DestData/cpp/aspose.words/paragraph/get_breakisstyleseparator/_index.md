@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_breakisstyleseparator/
 ## Paragraph.get_BreakIsStyleSeparator method
 
 
-True if this paragraph break is a Style Separator. A style separator allows one paragraph to consist of parts that have different paragraph styles. 
+True if this paragraph break is a [Style](../style/) Separator. A style separator allows one paragraph to consist of parts that have different paragraph styles.
 

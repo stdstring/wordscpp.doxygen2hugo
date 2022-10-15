@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/remove/
 ## BaseWebExtensionCollection.Remove method
 
 
-Removes the item at the specified index from the collection. 
+Removes the item at the specified index from the collection.
 

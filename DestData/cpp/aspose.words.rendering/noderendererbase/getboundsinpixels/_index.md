@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/getboundsinpixels/
 ## NodeRendererBase.GetBoundsInPixels method
 
 
-Calculates the bounds of the shape in pixels for a specified zoom factor and resolution. 
+Calculates the bounds of the shape in pixels for a specified zoom factor and resolution.
 
 ---
 title: GetBoundsInPixels
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.rendering/noderendererbase/getboundsinpixels/
 ## NodeRendererBase.GetBoundsInPixels method
 
 
-Calculates the bounds of the shape in pixels for a specified zoom factor and resolution. 
+Calculates the bounds of the shape in pixels for a specified zoom factor and resolution.
 

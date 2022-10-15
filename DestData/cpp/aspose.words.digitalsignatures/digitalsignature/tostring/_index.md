@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignature/tostring/
 ## DigitalSignature.ToString method
 
 
-Returns a user-friendly string that displays the value of this object. 
+Returns a user-friendly string that displays the value of this object.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_crosses/
 ## ChartAxis.set_Crosses method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Crosses. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_Crosses](./get_crosses/).
 

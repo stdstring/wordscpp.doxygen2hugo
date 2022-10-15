@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitsmarttagstart/
 ## DocumentVisitor.VisitSmartTagStart method
 
 
-Called when enumeration of a smart tag has started. 
+Called when enumeration of a smart tag has started.
 

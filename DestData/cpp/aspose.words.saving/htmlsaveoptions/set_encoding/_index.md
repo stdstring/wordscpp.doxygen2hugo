@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_encoding/
 ## HtmlSaveOptions.set_Encoding method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_Encoding. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_Encoding](./get_encoding/).
 

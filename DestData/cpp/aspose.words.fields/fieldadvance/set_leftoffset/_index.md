@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldadvance/set_leftoffset/
 ## FieldAdvance.set_LeftOffset method
 
 
-Setter for Aspose::Words::Fields::FieldAdvance::get_LeftOffset. 
+Setter for [Aspose::Words::Fields::FieldAdvance::get_LeftOffset](./get_leftoffset/).
 

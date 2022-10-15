@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtc/get_text/
 ## FieldTC.get_Text method
 
 
-Gets or sets the text of the entry. 
+Gets or sets the text of the entry.
 

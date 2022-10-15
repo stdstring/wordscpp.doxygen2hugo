@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergefield/get_ismapped/
 ## FieldMergeField.get_IsMapped method
 
 
-Gets whether this field is a mapped field. 
+Gets whether this field is a mapped field.
 

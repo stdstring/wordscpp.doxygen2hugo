@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/mailmergesettings/set_destination/
 ## MailMergeSettings.set_Destination method
 
 
-Specifies how Microsoft Word will output the results of a mail merge. The default value is Default. 
+Specifies how Microsoft Word will output the results of a mail merge. The default value is **Default**.
 

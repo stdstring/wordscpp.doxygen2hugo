@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/generalformatcollection/getenumerator/
 ## GeneralFormatCollection.GetEnumerator method
 
 
-Returns an enumerator object. 
+Returns an enumerator object.
 

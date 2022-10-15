@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/set_cellspacing/
 ## Table.set_CellSpacing method
 
 
-Setter for Aspose::Words::Tables::Table::get_CellSpacing. 
+Setter for [Aspose::Words::Tables::Table::get_CellSpacing](./get_cellspacing/).
 

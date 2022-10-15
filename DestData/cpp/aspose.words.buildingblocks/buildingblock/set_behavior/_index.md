@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/set_behavior/
 ## BuildingBlock.set_Behavior method
 
 
-Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Behavior. 
+Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Behavior](./get_behavior/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_isimage/
 ## ShapeBase.get_IsImage method
 
 
-Returns true if this shape is an image shape. 
+Returns true if this shape is an image shape.
 

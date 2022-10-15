@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_runs/
 ## Paragraph.get_Runs method
 
 
-Provides access to the typed collection of pieces of text inside the paragraph. 
+Provides access to the typed collection of pieces of text inside the paragraph.
 

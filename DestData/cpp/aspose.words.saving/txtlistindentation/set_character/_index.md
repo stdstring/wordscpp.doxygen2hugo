@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/txtlistindentation/set_character/
 ## TxtListIndentation.set_Character method
 
 
-Setter for Aspose::Words::Saving::TxtListIndentation::get_Character. 
+Setter for [Aspose::Words::Saving::TxtListIndentation::get_Character](./get_character/).
 

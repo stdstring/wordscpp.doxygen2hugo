@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_dmleffectsrenderingmode/
 ## PdfSaveOptions.set_DmlEffectsRenderingMode method
 
 
-Setter for Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode. 
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode](./get_dmleffectsrenderingmode/).
 

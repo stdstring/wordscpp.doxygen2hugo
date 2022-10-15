@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/get_rowstripe/
 ## TableStyle.get_RowStripe method
 
 
-Gets or sets a number of rows to include in the banding when the style specifies odd/even row banding. 
+Gets or sets a number of rows to include in the banding when the style specifies odd/even row banding.
 

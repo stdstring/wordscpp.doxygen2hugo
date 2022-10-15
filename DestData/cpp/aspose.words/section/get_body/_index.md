@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/get_body/
 ## Section.get_Body method
 
 
-Returns the **Body** child node of the section. 
+Returns the **Body** child node of the section.
 

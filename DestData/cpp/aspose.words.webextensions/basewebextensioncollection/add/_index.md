@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/add/
 ## BaseWebExtensionCollection.Add method
 
 
-Adds specified item to the collection. 
+Adds specified item to the collection.
 

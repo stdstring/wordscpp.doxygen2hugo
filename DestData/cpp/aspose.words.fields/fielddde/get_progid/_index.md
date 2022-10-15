@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddde/get_progid/
 ## FieldDde.get_ProgId method
 
 
-Gets or sets the application type of the link information. 
+Gets or sets the application type of the link information.
 

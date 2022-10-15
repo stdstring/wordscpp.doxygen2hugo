@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsnaptogridincell/
 ## CompatibilityOptions.get_DoNotSnapToGridInCell method
 
 
-Do Not Snap to Document Grid in Table Cells with Objects. 
+Do Not Snap to [Document](../../aspose.words/document/) Grid in Table Cells with Objects.
 

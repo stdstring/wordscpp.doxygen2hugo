@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_originalloadformat/
 ## Document.get_OriginalLoadFormat method
 
 
-Gets the format of the original document that was loaded into this object. 
+Gets the format of the original document that was loaded into this object.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_isdeleterevision/
 ## ShapeBase.get_IsDeleteRevision method
 
 
-Returns true if this object was deleted in Microsoft Word while change tracking was enabled. 
+Returns true if this object was deleted in Microsoft Word while change tracking was enabled.
 

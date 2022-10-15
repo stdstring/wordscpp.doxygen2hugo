@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/taskpane/set_row/
 ## TaskPane.set_Row method
 
 
-Setter for Aspose::Words::WebExtensions::TaskPane::get_Row. 
+Setter for [Aspose::Words::WebExtensions::TaskPane::get_Row](./get_row/).
 

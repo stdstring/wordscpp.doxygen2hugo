@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/custompart/set_contenttype/
 ## CustomPart.set_ContentType method
 
 
-Setter for Aspose::Words::Markup::CustomPart::get_ContentType. 
+Setter for [Aspose::Words::Markup::CustomPart::get_ContentType](./get_contenttype/).
 

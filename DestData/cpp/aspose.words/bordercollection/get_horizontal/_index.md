@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_horizontal/
 ## BorderCollection.get_Horizontal method
 
 
-Gets the horizontal border that is used between cells or conforming paragraphs. 
+Gets the horizontal border that is used between cells or conforming paragraphs.
 

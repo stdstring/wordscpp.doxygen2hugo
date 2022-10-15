@@ -9,5 +9,5 @@ url: /cpp/aspose.words/body/accept/
 ## Body.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

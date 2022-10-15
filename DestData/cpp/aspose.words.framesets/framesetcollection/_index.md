@@ -9,7 +9,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/
 ## FramesetCollection class
 
 
-Represents a collection of instances of the Frameset class. 
+Represents a collection of instances of the [Frameset](./frameset/) class.
 
 ## Methods
 
@@ -22,9 +22,9 @@ Represents a collection of instances of the Frameset class.
 | [end](./end/)() |  |
 | [end](./end/)() const |  |
 | [FramesetCollection](./framesetcollection/)() |  |
-| [get_Count](./get_count/)() | Gets the number of frames or frames pages contained in the collection.  |
+| [get_Count](./get_count/)() | Gets the number of frames or frames pages contained in the collection. |
 | [GetEnumerator](./getenumerator/)() override |  |
-| [idx_get](./idx_get/)(int32_t) | Gets a frame or frames page at the specified index.  |
+| [idx_get](./idx_get/)(int32_t) | Gets a frame or frames page at the specified index. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override |  |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |

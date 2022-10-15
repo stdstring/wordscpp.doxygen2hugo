@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_shape/
 ## ImageFieldMergingArgs.set_Shape method
 
 
-Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape. 
+Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape](./get_shape/).
 

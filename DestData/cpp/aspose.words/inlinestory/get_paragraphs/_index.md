@@ -9,5 +9,5 @@ url: /cpp/aspose.words/inlinestory/get_paragraphs/
 ## InlineStory.get_Paragraphs method
 
 
-Gets a collection of paragraphs that are immediate children of the story. 
+Gets a collection of paragraphs that are immediate children of the story.
 

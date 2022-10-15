@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_compliance/
 ## PdfSaveOptions.get_Compliance method
 
 
-Specifies the PDF standards compliance level for output documents. 
+Specifies the PDF standards compliance level for output documents.
 

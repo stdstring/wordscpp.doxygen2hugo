@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/setimage/
 ## ImageData.SetImage method
 
 
-Sets the image that the shape displays. 
+Sets the image that the shape displays.
 
 ---
 title: SetImage
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.drawing/imagedata/setimage/
 ## ImageData.SetImage method
 
 
-Sets the image that the shape displays. 
+Sets the image that the shape displays.
 
 ---
 title: SetImage
@@ -35,7 +35,7 @@ url: /cpp/aspose.words.drawing/imagedata/setimage/
 ## ImageData.SetImage method
 
 
-Sets the image that the shape displays. 
+Sets the image that the shape displays.
 
 ---
 title: SetImage

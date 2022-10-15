@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesavingcallback/
 ## HtmlSaveOptions.set_ImageSavingCallback method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback](./get_imagesavingcallback/).
 

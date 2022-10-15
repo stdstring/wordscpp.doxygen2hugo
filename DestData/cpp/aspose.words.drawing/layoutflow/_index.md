@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/layoutflow/
 ## LayoutFlow enum
 
 
-Determines the flow of the text layout in a textbox. 
+Determines the flow of the text layout in a textbox.
 

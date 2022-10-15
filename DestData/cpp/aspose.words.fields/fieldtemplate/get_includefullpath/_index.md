@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtemplate/get_includefullpath/
 ## FieldTemplate.get_IncludeFullPath method
 
 
-Gets or sets whether to include the full file path name. 
+Gets or sets whether to include the full file path name.
 

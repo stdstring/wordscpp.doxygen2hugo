@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldfillin/get_defaultresponse/
 ## FieldFillIn.get_DefaultResponse method
 
 
-Gets or sets default user response (initial value contained in the prompt window). 
+Gets or sets default user response (initial value contained in the prompt window).
 

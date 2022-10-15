@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_differentfirstpageheaderfooter/
 ## PageSetup.set_DifferentFirstPageHeaderFooter method
 
 
-Setter for Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter. 
+Setter for [Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter](./get_differentfirstpageheaderfooter/).
 

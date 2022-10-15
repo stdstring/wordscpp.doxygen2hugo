@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_categorytype/
 ## ChartAxis.get_CategoryType method
 
 
-Gets or sets type of the category axis. 
+Gets or sets type of the category axis.
 

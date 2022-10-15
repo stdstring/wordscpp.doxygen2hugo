@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textdmleffect/
 ## TextDmlEffect enum
 
 
-Dml text effect for text runs. 
+Dml text effect for text runs.
 

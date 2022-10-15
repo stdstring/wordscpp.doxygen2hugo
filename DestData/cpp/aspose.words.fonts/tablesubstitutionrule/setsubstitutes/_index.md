@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/setsubstitutes/
 ## TableSubstitutionRule.SetSubstitutes method
 
 
-Override substitute font names for given original font name. 
+Override substitute font names for given original font name.
 

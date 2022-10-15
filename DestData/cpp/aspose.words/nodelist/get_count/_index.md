@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodelist/get_count/
 ## NodeList.get_Count method
 
 
-Gets the number of nodes in the list. 
+Gets the number of nodes in the list.
 

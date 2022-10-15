@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_sequencename/
 ## FieldIndex.get_SequenceName method
 
 
-Gets or sets the name of a sequence whose number is included with the page number. 
+Gets or sets the name of a sequence whose number is included with the page number.
 

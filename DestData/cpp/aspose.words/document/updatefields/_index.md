@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/updatefields/
 ## Document.UpdateFields method
 
 
-Updates the values of fields in the whole document. 
+Updates the values of fields in the whole document.
 

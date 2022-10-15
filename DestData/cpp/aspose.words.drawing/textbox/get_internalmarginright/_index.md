@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_internalmarginright/
 ## TextBox.get_InternalMarginRight method
 
 
-Specifies the inner right margin in points for a shape. 
+Specifies the inner right margin in points for a shape.
 

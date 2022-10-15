@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitabsolutepositiontab/
 ## DocumentVisitor.VisitAbsolutePositionTab method
 
 
-Called when a AbsolutePositionTab node is encountered in the document. 
+Called when a [AbsolutePositionTab](../absolutepositiontab/) node is encountered in the document.
 

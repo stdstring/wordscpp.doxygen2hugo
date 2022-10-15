@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/get_signertitle/
 ## SignatureLine.get_SignerTitle method
 
 
-Gets or sets suggested signer's title (for example, Manager). Default value for this property is **empty string**. 
+Gets or sets suggested signer's title (for example, Manager). Default value for this property is **empty string**.
 

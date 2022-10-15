@@ -9,5 +9,5 @@ url: /cpp/aspose.words.framesets/frameset/set_framedefaulturl/
 ## Frameset.set_FrameDefaultUrl method
 
 
-Setter for Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl. 
+Setter for [Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl](./get_framedefaulturl/).
 

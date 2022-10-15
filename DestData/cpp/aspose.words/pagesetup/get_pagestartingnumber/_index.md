@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_pagestartingnumber/
 ## PageSetup.get_PageStartingNumber method
 
 
-Gets or sets the starting page number of the section. 
+Gets or sets the starting page number of the section.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/taskpane/get_webextension/
 ## TaskPane.get_WebExtension method
 
 
-Represents an web extension object. 
+Represents an web extension object.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesavingargs/set_imagestream/
 ## ImageSavingArgs.set_ImageStream method
 
 
-Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageStream. 
+Setter for [Aspose::Words::Saving::ImageSavingArgs::get_ImageStream](./get_imagestream/).
 
 ---
 title: set_ImageStream

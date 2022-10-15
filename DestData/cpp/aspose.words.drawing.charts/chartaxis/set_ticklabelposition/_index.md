@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_ticklabelposition/
 ## ChartAxis.set_TickLabelPosition method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelPosition. 
+Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelPosition](./get_ticklabelposition/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listformat/listoutdent/
 ## ListFormat.ListOutdent method
 
 
-Decreases the list level of the current paragraph by one level. 
+Decreases the list level of the current paragraph by one level.
 

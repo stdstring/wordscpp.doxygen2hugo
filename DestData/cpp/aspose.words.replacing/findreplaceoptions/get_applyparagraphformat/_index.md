@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyparagraphformat/
 ## FindReplaceOptions.get_ApplyParagraphFormat method
 
 
-Paragraph formatting applied to new content. 
+[Paragraph](../../aspose.words/paragraph/) formatting applied to new content.
 

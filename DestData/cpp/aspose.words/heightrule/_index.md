@@ -9,5 +9,5 @@ url: /cpp/aspose.words/heightrule/
 ## HeightRule enum
 
 
-Specifies the rule for determining the height of an object. 
+Specifies the rule for determining the height of an object.
 

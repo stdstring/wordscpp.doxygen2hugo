@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/loadoptions/set_resourceloadingcallback/
 ## LoadOptions.set_ResourceLoadingCallback method
 
 
-Setter for Aspose::Words::Loading::LoadOptions::get_ResourceLoadingCallback. 
+Setter for [Aspose::Words::Loading::LoadOptions::get_ResourceLoadingCallback](./get_resourceloadingcallback/).
 

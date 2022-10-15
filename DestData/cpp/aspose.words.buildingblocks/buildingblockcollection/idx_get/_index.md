@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblockcollection/idx_get/
 ## BuildingBlockCollection.idx_get method
 
 
-Retrieves a building block at the given index. 
+Retrieves a building block at the given index.
 

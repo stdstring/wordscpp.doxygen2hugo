@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replacingargs/get_matchoffset/
 ## ReplacingArgs.get_MatchOffset method
 
 
-Gets the zero-based starting position of the match from the start of the node that contains the beginning of the match. 
+Gets the zero-based starting position of the match from the start of the node that contains the beginning of the match.
 

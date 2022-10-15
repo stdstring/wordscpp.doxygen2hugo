@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/hyphenationoptions/get_hyphenatecaps/
 ## HyphenationOptions.get_HyphenateCaps method
 
 
-Gets or sets value determining whether words written in all capital letters are hyphenated. Default value for this property is **true**. 
+Gets or sets value determining whether words written in all capital letters are hyphenated. Default value for this property is **true**.
 

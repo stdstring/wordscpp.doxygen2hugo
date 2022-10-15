@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/getchild/
 ## CompositeNode.GetChild method
 
 
-Returns an Nth child node that matches the specified type. 
+Returns an Nth child node that matches the specified type.
 

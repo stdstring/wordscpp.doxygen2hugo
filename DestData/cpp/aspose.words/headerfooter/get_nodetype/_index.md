@@ -9,5 +9,5 @@ url: /cpp/aspose.words/headerfooter/get_nodetype/
 ## HeaderFooter.get_NodeType method
 
 
-Returns **NodeType.HeaderFooter**. 
+Returns **NodeType.HeaderFooter**.
 

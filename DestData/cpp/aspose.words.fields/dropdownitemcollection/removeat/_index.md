@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/removeat/
 ## DropDownItemCollection.RemoveAt method
 
 
-Removes a value at the specified index. 
+Removes a value at the specified index.
 

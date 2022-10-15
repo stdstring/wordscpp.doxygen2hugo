@@ -9,5 +9,5 @@ url: /cpp/aspose.words/border/set_linestyle/
 ## Border.set_LineStyle method
 
 
-Setter for Aspose::Words::Border::get_LineStyle. 
+Setter for [Aspose::Words::Border::get_LineStyle](./get_linestyle/).
 

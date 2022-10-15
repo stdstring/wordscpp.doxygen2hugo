@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/set_pagerangeseparator/
 ## FieldIndex.set_PageRangeSeparator method
 
 
-Setter for Aspose::Words::Fields::FieldIndex::get_PageRangeSeparator. 
+Setter for [Aspose::Words::Fields::FieldIndex::get_PageRangeSeparator](./get_pagerangeseparator/).
 

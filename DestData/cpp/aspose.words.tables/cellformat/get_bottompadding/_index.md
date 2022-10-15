@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellformat/get_bottompadding/
 ## CellFormat.get_BottomPadding method
 
 
-Returns or sets the amount of space (in points) to add below the contents of cell. 
+Returns or sets the amount of space (in points) to add below the contents of cell.
 

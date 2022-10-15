@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionproperty/get_value/
 ## WebExtensionProperty.get_Value method
 
 
-Specifies a custom property value. 
+Specifies a custom property value.
 

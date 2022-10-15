@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/set_shadow/
 ## TextPath.set_Shadow method
 
 
-Setter for Aspose::Words::Drawing::TextPath::get_Shadow. 
+Setter for [Aspose::Words::Drawing::TextPath::get_Shadow](./get_shadow/).
 

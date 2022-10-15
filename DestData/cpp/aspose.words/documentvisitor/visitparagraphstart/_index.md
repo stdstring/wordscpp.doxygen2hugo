@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitparagraphstart/
 ## DocumentVisitor.VisitParagraphStart method
 
 
-Called when enumeration of a paragraph has started. 
+Called when enumeration of a paragraph has started.
 

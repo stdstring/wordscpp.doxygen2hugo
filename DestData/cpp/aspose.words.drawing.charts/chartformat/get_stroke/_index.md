@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartformat/get_stroke/
 ## ChartFormat.get_Stroke method
 
 
-Gets line formatting for the parent chart element. 
+Gets line formatting for the parent chart element.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/compositenode/get_haschildnodes/
 ## CompositeNode.get_HasChildNodes method
 
 
-Returns true if this node has any child nodes. 
+Returns true if this node has any child nodes.
 

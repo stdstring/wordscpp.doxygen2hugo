@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_automaticallyupdatestyles/
 ## Document.set_AutomaticallyUpdateStyles method
 
 
-Setter for Aspose::Words::Document::get_AutomaticallyUpdateStyles. 
+Setter for [Aspose::Words::Document::get_AutomaticallyUpdateStyles](./get_automaticallyupdatestyles/).
 

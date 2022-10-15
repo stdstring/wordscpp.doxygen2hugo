@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/set_decryptionpassword/
 ## SignOptions.set_DecryptionPassword method
 
 
-Setter for Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword. 
+Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword](./get_decryptionpassword/).
 

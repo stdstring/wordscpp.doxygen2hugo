@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_canhaveimage/
 ## ShapeBase.get_CanHaveImage method
 
 
-Returns true if the shape type allows the shape to have an image. 
+Returns true if the shape type allows the shape to have an image.
 

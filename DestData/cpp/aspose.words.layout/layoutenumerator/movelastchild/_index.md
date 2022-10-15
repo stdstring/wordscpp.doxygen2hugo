@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/movelastchild/
 ## LayoutEnumerator.MoveLastChild method
 
 
-Moves to the last child entity. 
+Moves to the last child entity.
 

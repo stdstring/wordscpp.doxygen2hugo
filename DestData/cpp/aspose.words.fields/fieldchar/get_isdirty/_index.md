@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldchar/get_isdirty/
 ## FieldChar.get_IsDirty method
 
 
-Gets or sets whether the current result of the field is no longer correct (stale) due to other modifications made to the document. 
+Gets or sets whether the current result of the field is no longer correct (stale) due to other modifications made to the document.
 

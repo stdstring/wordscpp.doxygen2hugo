@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_optimizeoutput/
 ## HtmlFixedSaveOptions.set_OptimizeOutput method
 
 
-Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_OptimizeOutput. 
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_OptimizeOutput](./get_optimizeoutput/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_isshiftjis/
 ## FieldSymbol.get_IsShiftJis method
 
 
-Gets or sets whether the character code is interpreted as the value of a SHIFT-JIS character. 
+Gets or sets whether the character code is interpreted as the value of a SHIFT-JIS character.
 

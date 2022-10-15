@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/userinformation/get_address/
 ## UserInformation.get_Address method
 
 
-Gets or sets the user's postal address. 
+Gets or sets the user's postal address.
 

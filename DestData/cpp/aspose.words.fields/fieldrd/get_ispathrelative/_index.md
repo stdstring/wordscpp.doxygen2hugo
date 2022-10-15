@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldrd/get_ispathrelative/
 ## FieldRD.get_IsPathRelative method
 
 
-Gets or sets whether the path is relative to the current document. 
+Gets or sets whether the path is relative to the current document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_dontaffectslinespacing/
 ## FieldSymbol.get_DontAffectsLineSpacing method
 
 
-Gets or sets whether the character retrieved by the field affects the line spacing of the paragraph. 
+Gets or sets whether the character retrieved by the field affects the line spacing of the paragraph.
 

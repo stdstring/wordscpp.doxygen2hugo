@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_casecodestyle/
 ## FieldDisplayBarcode.set_CaseCodeStyle method
 
 
-Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle. 
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle](./get_casecodestyle/).
 

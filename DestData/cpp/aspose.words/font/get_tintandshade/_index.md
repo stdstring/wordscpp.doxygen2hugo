@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_tintandshade/
 ## Font.get_TintAndShade method
 
 
-Gets or sets a double value that lightens or darkens a color. 
+Gets or sets a double value that lightens or darkens a color.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/exportlistlabels/
 ## ExportListLabels enum
 
 
-Specifies how list labels are exported to HTML, MHTML and EPUB. 
+Specifies how list labels are exported to HTML, MHTML and EPUB.
 

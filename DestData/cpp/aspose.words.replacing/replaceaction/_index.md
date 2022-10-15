@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replaceaction/
 ## ReplaceAction enum
 
 
-Allows the user to specify what happens to the current match during a replace operation. 
+Allows the user to specify what happens to the current match during a replace operation.
 

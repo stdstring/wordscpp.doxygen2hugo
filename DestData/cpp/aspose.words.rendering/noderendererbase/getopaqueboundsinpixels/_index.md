@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/getopaqueboundsinpixels/
 ## NodeRendererBase.GetOpaqueBoundsInPixels method
 
 
-Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution. 
+Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution.
 
 ---
 title: GetOpaqueBoundsInPixels
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.rendering/noderendererbase/getopaqueboundsinpixels/
 ## NodeRendererBase.GetOpaqueBoundsInPixels method
 
 
-Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution. 
+Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution.
 

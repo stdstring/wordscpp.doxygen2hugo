@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/get_backgroundshape/
 ## DocumentBase.get_BackgroundShape method
 
 
-Gets or sets the background shape of the document. Can be null. 
+Gets or sets the background shape of the document. Can be null.
 

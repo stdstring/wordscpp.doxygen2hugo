@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisscaling/get_maximum/
 ## AxisScaling.get_Maximum method
 
 
-Gets or sets the maximum value of the axis. 
+Gets or sets the maximum value of the axis.
 

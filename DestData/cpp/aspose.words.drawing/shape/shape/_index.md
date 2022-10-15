@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/shape/
 ## Shape.Shape method
 
 
-Creates a new shape object. 
+Creates a new shape object.
 

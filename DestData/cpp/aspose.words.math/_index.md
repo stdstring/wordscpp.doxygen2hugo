@@ -7,17 +7,17 @@ weight: 0
 url: /cpp/aspose.words.math/
 ---
 
-The **Aspose.Words.Math** namespace contains classes that represent Office Math elements. 
+The **Aspose.Words.Math** namespace contains classes that represent Office [Math](./aspose.words.math/) elements.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [OfficeMath](./officemath/) | Represents an Office Math object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other OfficeMath instances and some other nodes.  |
+| [OfficeMath](./officemath/) | Represents an Office [Math](./) object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other [OfficeMath](./officemath/) instances and some other nodes. |
 ## Enums
 
 | Enum | Description |
 | --- | --- |
-| [MathObjectType](./mathobjecttype/) | Specifies type of an Office Math object.  |
-| [OfficeMathDisplayType](./officemathdisplaytype/) | Specifies the display format type of the equation.  |
-| [OfficeMathJustification](./officemathjustification/) | Specifies the justification of the equation.  |
+| [MathObjectType](./mathobjecttype/) | Specifies type of an Office [Math](./) object. |
+| [OfficeMathDisplayType](./officemathdisplaytype/) | Specifies the display format type of the equation. |
+| [OfficeMathJustification](./officemathjustification/) | Specifies the justification of the equation. |

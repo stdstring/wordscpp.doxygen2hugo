@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/get_calculateonexit/
 ## FormField.get_CalculateOnExit method
 
 
-True if references to the specified form field are automatically updated whenever the field is exited. 
+True if references to the specified form field are automatically updated whenever the field is exited.
 

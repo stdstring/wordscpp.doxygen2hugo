@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_nodetype/
 ## Document.get_NodeType method
 
 
-Returns **NodeType.Document**. 
+Returns **NodeType.Document**.
 

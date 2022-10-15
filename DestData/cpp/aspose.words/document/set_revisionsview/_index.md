@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_revisionsview/
 ## Document.set_RevisionsView method
 
 
-Setter for Aspose::Words::Document::get_RevisionsView. 
+Setter for [Aspose::Words::Document::get_RevisionsView](./get_revisionsview/).
 

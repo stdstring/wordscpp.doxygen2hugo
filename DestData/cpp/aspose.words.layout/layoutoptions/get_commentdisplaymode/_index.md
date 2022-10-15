@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/get_commentdisplaymode/
 ## LayoutOptions.get_CommentDisplayMode method
 
 
-Gets or sets the way comments are rendered. Default value is ShowInBalloons. 
+Gets or sets the way comments are rendered. Default value is **ShowInBalloons**.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/shading/equals/
 ## Shading.Equals method
 
 
-Determines whether the specified Shading is equal in value to the current Shading. 
+Determines whether the specified [Shading](./) is equal in value to the current [Shading](./).
 
 ---
 title: Equals
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/shading/equals/
 ## Shading.Equals method
 
 
-Determines whether the specified object is equal in value to the current object. 
+Determines whether the specified object is equal in value to the current object.
 

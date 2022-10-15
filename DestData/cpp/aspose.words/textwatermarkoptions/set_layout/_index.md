@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textwatermarkoptions/set_layout/
 ## TextWatermarkOptions.set_Layout method
 
 
-Setter for Aspose::Words::TextWatermarkOptions::get_Layout. 
+Setter for [Aspose::Words::TextWatermarkOptions::get_Layout](./get_layout/).
 

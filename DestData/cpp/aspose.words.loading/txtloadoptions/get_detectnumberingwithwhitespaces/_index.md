@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/txtloadoptions/get_detectnumberingwithwhitespaces
 ## TxtLoadOptions.get_DetectNumberingWithWhitespaces method
 
 
-Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is true. 
+Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is true.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/commentrangestart/accept/
 ## CommentRangeStart.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

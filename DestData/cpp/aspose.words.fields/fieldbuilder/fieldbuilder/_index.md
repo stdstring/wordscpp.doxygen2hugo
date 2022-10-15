@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldbuilder/fieldbuilder/
 ## FieldBuilder.FieldBuilder method
 
 
-Initializes an instance of the FieldBuilder class. 
+Initializes an instance of the [FieldBuilder](./) class.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_haspagenumberseparator/
 ## FieldIndex.get_HasPageNumberSeparator method
 
 
-Gets a value indicating whether a page number separator is overridden through the field's code. 
+Gets a value indicating whether a page number separator is overridden through the field's code.
 

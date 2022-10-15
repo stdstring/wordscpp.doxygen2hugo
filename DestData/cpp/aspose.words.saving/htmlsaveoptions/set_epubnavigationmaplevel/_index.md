@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_epubnavigationmaplevel/
 ## HtmlSaveOptions.set_EpubNavigationMapLevel method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_EpubNavigationMapLevel. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_EpubNavigationMapLevel](./get_epubnavigationmaplevel/).
 

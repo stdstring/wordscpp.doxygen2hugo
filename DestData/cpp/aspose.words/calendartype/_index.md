@@ -9,5 +9,5 @@ url: /cpp/aspose.words/calendartype/
 ## CalendarType enum
 
 
-Specifies the type of a calendar. 
+Specifies the type of a calendar.
 

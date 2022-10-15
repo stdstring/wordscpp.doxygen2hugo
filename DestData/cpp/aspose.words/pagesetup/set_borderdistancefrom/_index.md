@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/set_borderdistancefrom/
 ## PageSetup.set_BorderDistanceFrom method
 
 
-Setter for Aspose::Words::PageSetup::get_BorderDistanceFrom. 
+Setter for [Aspose::Words::PageSetup::get_BorderDistanceFrom](./get_borderdistancefrom/).
 

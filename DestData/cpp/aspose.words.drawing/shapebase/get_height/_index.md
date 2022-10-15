@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_height/
 ## ShapeBase.get_Height method
 
 
-Gets or sets the height of the containing block of the shape. 
+Gets or sets the height of the containing block of the shape.
 

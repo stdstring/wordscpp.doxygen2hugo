@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/set_signtime/
 ## SignOptions.set_SignTime method
 
 
-Setter for Aspose::Words::DigitalSignatures::SignOptions::get_SignTime. 
+Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_SignTime](./get_signtime/).
 

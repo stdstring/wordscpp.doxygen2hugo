@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_contentsfont/
 ## StructuredDocumentTag.get_ContentsFont method
 
 
-Font formatting that will be applied to text entered into **SDT**. 
+[Font](../../aspose.words/font/) formatting that will be applied to text entered into **SDT**.
 

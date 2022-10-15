@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/rowformat/get_height/
 ## RowFormat.get_Height method
 
 
-Gets or sets the height of the table row in points. 
+Gets or sets the height of the table row in points.
 

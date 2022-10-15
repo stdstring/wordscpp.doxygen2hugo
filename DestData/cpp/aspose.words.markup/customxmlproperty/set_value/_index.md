@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlproperty/set_value/
 ## CustomXmlProperty.set_Value method
 
 
-Setter for Aspose::Words::Markup::CustomXmlProperty::get_Value. 
+Setter for [Aspose::Words::Markup::CustomXmlProperty::get_Value](./get_value/).
 

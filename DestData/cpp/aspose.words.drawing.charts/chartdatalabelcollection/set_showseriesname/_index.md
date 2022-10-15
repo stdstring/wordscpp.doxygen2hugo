@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showseriesnam
 ## ChartDataLabelCollection.set_ShowSeriesName method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowSeriesName. 
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowSeriesName](./get_showseriesname/).
 

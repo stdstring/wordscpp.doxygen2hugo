@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtc/set_omitpagenumber/
 ## FieldTC.set_OmitPageNumber method
 
 
-Setter for Aspose::Words::Fields::FieldTC::get_OmitPageNumber. 
+Setter for [Aspose::Words::Fields::FieldTC::get_OmitPageNumber](./get_omitpagenumber/).
 

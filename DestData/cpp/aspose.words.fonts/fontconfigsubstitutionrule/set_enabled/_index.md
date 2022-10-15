@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/set_enabled/
 ## FontConfigSubstitutionRule.set_Enabled method
 
 
-Specifies whether the rule is enabled or not. 
+Specifies whether the rule is enabled or not.
 

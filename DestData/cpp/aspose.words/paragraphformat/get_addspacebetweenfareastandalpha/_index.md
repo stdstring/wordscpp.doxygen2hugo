@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_addspacebetweenfareastandalpha/
 ## ParagraphFormat.get_AddSpaceBetweenFarEastAndAlpha method
 
 
-Gets or sets a flag indicating whether inter-character spacing is automatically adjusted between regions of Latin text and regions of East Asian text in the current paragraph. 
+Gets or sets a flag indicating whether inter-character spacing is automatically adjusted between regions of Latin text and regions of East Asian text in the current paragraph.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/setshading/
 ## Table.SetShading method
 
 
-Sets shading to the specified values on whole table. 
+Sets shading to the specified values on whole table.
 

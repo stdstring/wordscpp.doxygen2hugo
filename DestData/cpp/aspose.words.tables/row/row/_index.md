@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/row/row/
 ## Row.Row method
 
 
-Initializes a new instance of the **Row** class. 
+Initializes a new instance of the **Row** class.
 

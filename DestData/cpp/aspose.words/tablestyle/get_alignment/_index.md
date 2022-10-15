@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/get_alignment/
 ## TableStyle.get_Alignment method
 
 
-Specifies the alignment for the table style. 
+Specifies the alignment for the table style.
 

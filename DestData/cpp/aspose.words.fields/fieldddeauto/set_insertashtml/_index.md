@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_insertashtml/
 ## FieldDdeAuto.set_InsertAsHtml method
 
 
-Setter for Aspose::Words::Fields::FieldDdeAuto::get_InsertAsHtml. 
+Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsHtml](./get_insertashtml/).
 

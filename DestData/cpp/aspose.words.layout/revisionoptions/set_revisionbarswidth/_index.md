@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_revisionbarswidth/
 ## RevisionOptions.set_RevisionBarsWidth method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth](./get_revisionbarswidth/).
 

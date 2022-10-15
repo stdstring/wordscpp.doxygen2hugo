@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/set_emfplusdualrenderingm
 ## MetafileRenderingOptions.set_EmfPlusDualRenderingMode method
 
 
-Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_EmfPlusDualRenderingMode. 
+Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_EmfPlusDualRenderingMode](./get_emfplusdualrenderingmode/).
 

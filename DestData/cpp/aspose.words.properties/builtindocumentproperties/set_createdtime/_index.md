@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_createdtime/
 ## BuiltInDocumentProperties.set_CreatedTime method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime](./get_createdtime/).
 

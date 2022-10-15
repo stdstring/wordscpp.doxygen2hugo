@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemath/get_justification/
 ## OfficeMath.get_Justification method
 
 
-Gets/sets Office Math justification. 
+Gets/sets Office [Math](../) justification.
 

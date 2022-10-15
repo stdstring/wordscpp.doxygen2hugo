@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/txtloadoptions/set_documentdirection/
 ## TxtLoadOptions.set_DocumentDirection method
 
 
-Setter for Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection. 
+Setter for [Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection](./get_documentdirection/).
 

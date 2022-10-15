@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_spellingchecked/
 ## Document.set_SpellingChecked method
 
 
-Setter for Aspose::Words::Document::get_SpellingChecked. 
+Setter for [Aspose::Words::Document::get_SpellingChecked](./get_spellingchecked/).
 

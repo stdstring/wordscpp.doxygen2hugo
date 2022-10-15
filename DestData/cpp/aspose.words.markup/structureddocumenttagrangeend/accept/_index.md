@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangeend/accept/
 ## StructuredDocumentTagRangeEnd.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

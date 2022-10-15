@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlistnum/get_haslistname/
 ## FieldListNum.get_HasListName method
 
 
-Returns a value indicating whether the name of an abstract numbering definition is provided by the field's code. 
+Returns a value indicating whether the name of an abstract numbering definition is provided by the field's code.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoa/set_sequenceseparator/
 ## FieldToa.set_SequenceSeparator method
 
 
-Setter for Aspose::Words::Fields::FieldToa::get_SequenceSeparator. 
+Setter for [Aspose::Words::Fields::FieldToa::get_SequenceSeparator](./get_sequenceseparator/).
 

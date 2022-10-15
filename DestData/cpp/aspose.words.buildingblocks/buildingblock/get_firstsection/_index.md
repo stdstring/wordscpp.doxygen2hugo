@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_firstsection/
 ## BuildingBlock.get_FirstSection method
 
 
-Gets the first section in the building block. 
+Gets the first section in the building block.
 

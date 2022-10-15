@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcollection/clear/
 ## FieldCollection.Clear method
 
 
-Removes all fields of this collection from the document and from this collection itself. 
+Removes all fields of this collection from the document and from this collection itself.
 

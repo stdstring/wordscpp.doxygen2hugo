@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportlistlabels/
 ## HtmlSaveOptions.get_ExportListLabels method
 
 
-Controls how list labels are output to HTML, MHTML or EPUB. Default value is Auto. 
+Controls how list labels are output to HTML, MHTML or EPUB. Default value is **Auto**.
 

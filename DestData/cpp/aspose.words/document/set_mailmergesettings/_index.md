@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_mailmergesettings/
 ## Document.set_MailMergeSettings method
 
 
-Setter for Aspose::Words::Document::get_MailMergeSettings. 
+Setter for [Aspose::Words::Document::get_MailMergeSettings](./get_mailmergesettings/).
 

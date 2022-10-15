@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/get_displaytext/
 ## FieldMacroButton.get_DisplayText method
 
 
-Gets or sets the text to appear as the "button" that is selected to run the macro or command. 
+Gets or sets the text to appear as the "button" that is selected to run the macro or command.
 

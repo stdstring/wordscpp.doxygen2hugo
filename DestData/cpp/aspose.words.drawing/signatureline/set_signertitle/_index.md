@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/set_signertitle/
 ## SignatureLine.set_SignerTitle method
 
 
-Setter for Aspose::Words::Drawing::SignatureLine::get_SignerTitle. 
+Setter for [Aspose::Words::Drawing::SignatureLine::get_SignerTitle](./get_signertitle/).
 

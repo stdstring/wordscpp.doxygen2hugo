@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/autofit/
 ## Table.AutoFit method
 
 
-Resizes the table and cells according to the specified auto fit behavior. 
+Resizes the table and cells according to the specified auto fit behavior.
 

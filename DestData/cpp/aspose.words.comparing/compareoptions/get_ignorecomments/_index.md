@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignorecomments/
 ## CompareOptions.get_IgnoreComments method
 
 
-Specifies whether to compare differences in comments. By default comments are not ignored. 
+Specifies whether to compare differences in comments. By default comments are not ignored.
 

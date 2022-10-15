@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_dashstyle/
 ## Stroke.set_DashStyle method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_DashStyle. 
+Setter for [Aspose::Words::Drawing::Stroke::get_DashStyle](./get_dashstyle/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_hangingpunctuation/
 ## ParagraphFormat.set_HangingPunctuation method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_HangingPunctuation. 
+Setter for [Aspose::Words::ParagraphFormat::get_HangingPunctuation](./get_hangingpunctuation/).
 

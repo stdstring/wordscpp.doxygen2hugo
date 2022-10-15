@@ -9,5 +9,5 @@ url: /cpp/aspose.words/underline/
 ## Underline enum
 
 
-Indicates type of the underline applied to a font. 
+Indicates type of the underline applied to a font.
 

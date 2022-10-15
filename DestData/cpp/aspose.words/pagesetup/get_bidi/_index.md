@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_bidi/
 ## PageSetup.get_Bidi method
 
 
-Specifies that this section contains bidirectional (complex scripts) text. 
+Specifies that this section contains bidirectional (complex scripts) text.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartlegend/set_position/
 ## ChartLegend.set_Position method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartLegend::get_Position. 
+Setter for [Aspose::Words::Drawing::Charts::ChartLegend::get_Position](./get_position/).
 

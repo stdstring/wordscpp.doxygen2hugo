@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnotenumberingrule/
 ## FootnoteNumberingRule enum
 
 
-Determines when automatic footnote or endnote numbering restarts. 
+Determines when automatic footnote or endnote numbering restarts.
 

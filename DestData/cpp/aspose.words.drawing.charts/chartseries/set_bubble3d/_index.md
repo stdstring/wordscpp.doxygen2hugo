@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartseries/set_bubble3d/
 ## ChartSeries.set_Bubble3D method
 
 
-Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D. 
+Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D](../ichartdatapoint/get_bubble3d/).
 

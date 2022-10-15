@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/xamlflowsaveoptions/
 ## XamlFlowSaveOptions.XamlFlowSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the XamlFlow format. 
+Initializes a new instance of this class that can be used to save a document in the **XamlFlow** format.
 
 ---
 title: XamlFlowSaveOptions
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/xamlflowsaveoptions/
 ## XamlFlowSaveOptions.XamlFlowSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the XamlFlow or XamlFlowPack format. 
+Initializes a new instance of this class that can be used to save a document in the **XamlFlow** or **XamlFlowPack** format.
 

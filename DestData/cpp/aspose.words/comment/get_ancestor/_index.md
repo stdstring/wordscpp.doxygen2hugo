@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/get_ancestor/
 ## Comment.get_Ancestor method
 
 
-Returns the parent Comment object. Returns null for top-level comments. 
+Returns the parent [Comment](./) object. Returns null for top-level comments.
 

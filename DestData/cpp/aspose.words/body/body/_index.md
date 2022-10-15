@@ -9,5 +9,5 @@ url: /cpp/aspose.words/body/body/
 ## Body.Body method
 
 
-Initializes a new instance of the **Body** class. 
+Initializes a new instance of the **Body** class.
 

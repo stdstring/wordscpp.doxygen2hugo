@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/expandtablestylestodirectformatting/
 ## Document.ExpandTableStylesToDirectFormatting method
 
 
-Converts formatting specified in table styles into direct formatting on tables in the document. 
+Converts formatting specified in table styles into direct formatting on tables in the document.
 

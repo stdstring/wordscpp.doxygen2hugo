@@ -9,5 +9,5 @@ url: /cpp/aspose.words/shading/set_texture/
 ## Shading.set_Texture method
 
 
-Setter for Aspose::Words::Shading::get_Texture. 
+Setter for [Aspose::Words::Shading::get_Texture](./get_texture/).
 

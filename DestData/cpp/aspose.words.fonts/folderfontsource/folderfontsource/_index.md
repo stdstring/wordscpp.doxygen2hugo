@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/folderfontsource/folderfontsource/
 ## FolderFontSource.FolderFontSource method
 
 
-Ctor. 
+Ctor.
 
 ---
 title: FolderFontSource
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fonts/folderfontsource/folderfontsource/
 ## FolderFontSource.FolderFontSource method
 
 
-Ctor. 
+Ctor.
 

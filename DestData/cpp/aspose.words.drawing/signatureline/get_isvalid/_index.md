@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/get_isvalid/
 ## SignatureLine.get_IsValid method
 
 
-Indicates that signature line is signed by digital signature and this digital signature is valid. 
+Indicates that signature line is signed by digital signature and this digital signature is valid.
 

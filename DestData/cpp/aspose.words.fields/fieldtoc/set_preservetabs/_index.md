@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/set_preservetabs/
 ## FieldToc.set_PreserveTabs method
 
 
-Setter for Aspose::Words::Fields::FieldToc::get_PreserveTabs. 
+Setter for [Aspose::Words::Fields::FieldToc::get_PreserveTabs](./get_preservetabs/).
 

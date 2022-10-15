@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_contentstatus/
 ## BuiltInDocumentProperties.set_ContentStatus method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus](./get_contentstatus/).
 

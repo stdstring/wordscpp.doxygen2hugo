@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replacingargs/get_match/
 ## ReplacingArgs.get_Match method
 
 
-The Match resulting from a single regular expression match during a **Replace**. 
+The **Match** resulting from a single regular expression match during a **Replace**.
 

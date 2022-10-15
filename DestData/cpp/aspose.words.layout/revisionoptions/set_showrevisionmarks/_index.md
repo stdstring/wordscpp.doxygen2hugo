@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_showrevisionmarks/
 ## RevisionOptions.set_ShowRevisionMarks method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_ShowRevisionMarks. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowRevisionMarks](./get_showrevisionmarks/).
 

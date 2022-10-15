@@ -9,14 +9,14 @@ url: /cpp/aspose.words.fonts/fontsubstitutionsettings/
 ## FontSubstitutionSettings class
 
 
-Specifies font substitution mechanism settings. 
+Specifies font substitution mechanism settings.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [get_DefaultFontSubstitution](./get_defaultfontsubstitution/)() const | Settings related to default font substitution rule.  |
-| [get_FontConfigSubstitution](./get_fontconfigsubstitution/)() const | Settings related to font config substitution rule.  |
-| [get_FontInfoSubstitution](./get_fontinfosubstitution/)() const | Settings related to font info substitution rule.  |
-| [get_FontNameSubstitution](./get_fontnamesubstitution/)() const | Settings related to font name substitution rule.  |
-| [get_TableSubstitution](./get_tablesubstitution/)() const | Settings related to table substitution rule.  |
+| [get_DefaultFontSubstitution](./get_defaultfontsubstitution/)() const | [Settings](../../aspose.words.settings/) related to default font substitution rule. |
+| [get_FontConfigSubstitution](./get_fontconfigsubstitution/)() const | [Settings](../../aspose.words.settings/) related to font config substitution rule. |
+| [get_FontInfoSubstitution](./get_fontinfosubstitution/)() const | [Settings](../../aspose.words.settings/) related to font info substitution rule. |
+| [get_FontNameSubstitution](./get_fontnamesubstitution/)() const | [Settings](../../aspose.words.settings/) related to font name substitution rule. |
+| [get_TableSubstitution](./get_tablesubstitution/)() const | [Settings](../../aspose.words.settings/) related to table substitution rule. |

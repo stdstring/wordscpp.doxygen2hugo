@@ -9,5 +9,5 @@ url: /cpp/aspose.words/story/get_tables/
 ## Story.get_Tables method
 
 
-Gets a collection of tables that are immediate children of the story. 
+Gets a collection of tables that are immediate children of the story.
 

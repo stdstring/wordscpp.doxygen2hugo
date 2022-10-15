@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/clone/
 ## Document.Clone method
 
 
-Performs a deep copy of the Document. 
+Performs a deep copy of the [Document](./).
 

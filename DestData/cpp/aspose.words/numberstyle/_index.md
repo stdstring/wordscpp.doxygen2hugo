@@ -9,5 +9,5 @@ url: /cpp/aspose.words/numberstyle/
 ## NumberStyle enum
 
 
-Specifies the number style for a list, footnotes and endnotes, page numbers. 
+Specifies the number style for a list, footnotes and endnotes, page numbers.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbaproject/get_modules/
 ## VbaProject.get_Modules method
 
 
-Returns collection of VBA project modules. 
+Returns collection of VBA project modules.
 

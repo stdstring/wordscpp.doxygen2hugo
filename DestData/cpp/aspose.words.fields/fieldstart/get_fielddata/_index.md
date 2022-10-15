@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldstart/get_fielddata/
 ## FieldStart.get_FieldData method
 
 
-Gets custom field data which is associated with the field. 
+Gets custom field data which is associated with the field.
 

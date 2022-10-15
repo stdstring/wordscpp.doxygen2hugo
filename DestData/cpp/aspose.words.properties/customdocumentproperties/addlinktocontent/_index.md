@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/customdocumentproperties/addlinktocontent/
 ## CustomDocumentProperties.AddLinkToContent method
 
 
-Creates a new linked to content custom document property. 
+Creates a new linked to content custom document property.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_color/
 ## Stroke.get_Color method
 
 
-Defines the color of a stroke. 
+Defines the color of a stroke.
 

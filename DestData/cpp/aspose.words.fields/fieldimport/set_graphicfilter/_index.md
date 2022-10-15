@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldimport/set_graphicfilter/
 ## FieldImport.set_GraphicFilter method
 
 
-Setter for Aspose::Words::Fields::FieldImport::get_GraphicFilter. 
+Setter for [Aspose::Words::Fields::FieldImport::get_GraphicFilter](./get_graphicfilter/).
 

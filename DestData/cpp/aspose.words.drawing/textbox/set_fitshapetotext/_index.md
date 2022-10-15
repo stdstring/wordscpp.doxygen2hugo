@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/set_fitshapetotext/
 ## TextBox.set_FitShapeToText method
 
 
-Setter for Aspose::Words::Drawing::TextBox::get_FitShapeToText. 
+Setter for [Aspose::Words::Drawing::TextBox::get_FitShapeToText](./get_fitshapetotext/).
 

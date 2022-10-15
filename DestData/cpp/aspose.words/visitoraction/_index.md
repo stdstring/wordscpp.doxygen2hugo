@@ -9,5 +9,5 @@ url: /cpp/aspose.words/visitoraction/
 ## VisitorAction enum
 
 
-Allows the visitor to control the enumeration of nodes. 
+Allows the visitor to control the enumeration of nodes.
 

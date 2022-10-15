@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/set_protectedforforms/
 ## Section.set_ProtectedForForms method
 
 
-Setter for Aspose::Words::Section::get_ProtectedForForms. 
+Setter for [Aspose::Words::Section::get_ProtectedForForms](./get_protectedforforms/).
 

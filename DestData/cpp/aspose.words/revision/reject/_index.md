@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revision/reject/
 ## Revision.Reject method
 
 
-Reject this revision. 
+Reject this revision.
 

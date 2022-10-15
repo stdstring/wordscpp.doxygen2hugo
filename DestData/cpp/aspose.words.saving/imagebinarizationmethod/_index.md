@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagebinarizationmethod/
 ## ImageBinarizationMethod enum
 
 
-Specifies the method used to binarize image. 
+Specifies the method used to binarize image.
 

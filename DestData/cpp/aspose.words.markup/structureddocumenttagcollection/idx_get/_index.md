@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/idx_get/
 ## StructuredDocumentTagCollection.idx_get method
 
 
-Returns the structured document tag at the specified index. 
+Returns the structured document tag at the specified index.
 

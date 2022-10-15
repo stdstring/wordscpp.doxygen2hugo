@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_errorcorrectionlevel/
 ## BarcodeParameters.set_ErrorCorrectionLevel method
 
 
-Error correction level of QR Code. Valid values are [0, 3]. 
+Error correction level of QR Code. Valid values are [0, 3].
 

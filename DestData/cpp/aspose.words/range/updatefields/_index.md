@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/updatefields/
 ## Range.UpdateFields method
 
 
-Updates the values of document fields in this range. 
+Updates the values of document fields in this range.
 

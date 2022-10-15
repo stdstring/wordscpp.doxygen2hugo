@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsourcebase/get_priority/
 ## FontSourceBase.get_Priority method
 
 
-Returns the font source priority. 
+Returns the font source priority.
 

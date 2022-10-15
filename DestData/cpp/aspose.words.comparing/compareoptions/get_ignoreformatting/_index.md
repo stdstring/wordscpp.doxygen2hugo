@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignoreformatting/
 ## CompareOptions.get_IgnoreFormatting method
 
 
-True indicates that formatting is ignored. By default document formatting is not ignored. 
+True indicates that formatting is ignored. By default document formatting is not ignored.
 

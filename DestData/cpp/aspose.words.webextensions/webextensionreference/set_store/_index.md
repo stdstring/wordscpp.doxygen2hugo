@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionreference/set_store/
 ## WebExtensionReference.set_Store method
 
 
-Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Store. 
+Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_Store](./get_store/).
 

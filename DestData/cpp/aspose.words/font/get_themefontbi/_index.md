@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_themefontbi/
 ## Font.get_ThemeFontBi method
 
 
-Gets or sets the theme font in the applied font scheme that is associated with this Font object in a right-to-left language document. 
+Gets or sets the theme font in the applied font scheme that is associated with this [Font](./) object in a right-to-left language document.
 

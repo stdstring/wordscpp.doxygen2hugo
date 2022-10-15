@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/numeralformat/
 ## NumeralFormat enum
 
 
-Indicates the symbol set that is used to represent numbers while rendering to fixed page formats. 
+Indicates the symbol set that is used to represent numbers while rendering to fixed page formats.
 

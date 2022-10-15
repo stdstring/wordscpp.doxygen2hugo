@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/clearformatting/
 ## ConditionalStyle.ClearFormatting method
 
 
-Clears formatting of this conditional style. 
+Clears formatting of this conditional style.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_texturealignment/
 ## Fill.get_TextureAlignment method
 
 
-Gets or sets the alignment for tile texture fill. 
+Gets or sets the alignment for tile texture fill.
 

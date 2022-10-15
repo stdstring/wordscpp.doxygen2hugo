@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/get_dropdownselectedindex/
 ## FormField.get_DropDownSelectedIndex method
 
 
-Gets or sets the index specifying the currently selected item in a dropdown form field. 
+Gets or sets the index specifying the currently selected item in a dropdown form field.
 

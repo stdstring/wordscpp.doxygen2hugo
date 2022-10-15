@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/get_documentpartstream/
 ## DocumentPartSavingArgs.get_DocumentPartStream method
 
 
-Allows to specify the stream where the document part will be saved to. 
+Allows to specify the stream where the document part will be saved to.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/insert/
 ## DropDownItemCollection.Insert method
 
 
-Inserts a string into the collection at the specified index. 
+Inserts a string into the collection at the specified index.
 

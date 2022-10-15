@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldref/set_numberseparator/
 ## FieldRef.set_NumberSeparator method
 
 
-Setter for Aspose::Words::Fields::FieldRef::get_NumberSeparator. 
+Setter for [Aspose::Words::Fields::FieldRef::get_NumberSeparator](./get_numberseparator/).
 

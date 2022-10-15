@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/get_saveimagesaswmf/
 ## RtfSaveOptions.get_SaveImagesAsWmf method
 
 
-When true all images will be saved as WMF. 
+When true all images will be saved as WMF.
 

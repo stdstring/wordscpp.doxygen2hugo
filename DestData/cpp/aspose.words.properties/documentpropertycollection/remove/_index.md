@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentpropertycollection/remove/
 ## DocumentPropertyCollection.Remove method
 
 
-Removes a property with the specified name from the collection. 
+Removes a property with the specified name from the collection.
 

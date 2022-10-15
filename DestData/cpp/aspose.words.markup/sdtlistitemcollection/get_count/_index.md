@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/get_count/
 ## SdtListItemCollection.get_Count method
 
 
-Gets number of items in the collection. 
+Gets number of items in the collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_spaceafterauto/
 ## ParagraphFormat.get_SpaceAfterAuto method
 
 
-True if the amount of spacing after the paragraph is set automatically. 
+True if the amount of spacing after the paragraph is set automatically.
 

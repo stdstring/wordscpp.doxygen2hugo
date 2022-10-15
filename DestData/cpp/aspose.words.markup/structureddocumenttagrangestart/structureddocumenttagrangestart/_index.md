@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/structureddocument
 ## StructuredDocumentTagRangeStart.StructuredDocumentTagRangeStart method
 
 
-Initializes a new instance of the **Structured document tag range start** class. 
+Initializes a new instance of the **Structured document tag range start** class.
 

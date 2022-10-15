@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/groupshape/groupshape/
 ## GroupShape.GroupShape method
 
 
-Creates a new group shape. 
+Creates a new group shape.
 

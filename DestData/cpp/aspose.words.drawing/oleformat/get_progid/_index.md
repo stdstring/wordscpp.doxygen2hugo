@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/oleformat/get_progid/
 ## OleFormat.get_ProgId method
 
 
-Gets or sets the ProgID of the OLE object. 
+Gets or sets the ProgID of the OLE object.
 

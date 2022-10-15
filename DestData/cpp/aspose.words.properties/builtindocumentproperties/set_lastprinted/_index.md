@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_lastprinted/
 ## BuiltInDocumentProperties.set_LastPrinted method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LastPrinted. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_LastPrinted](./get_lastprinted/).
 

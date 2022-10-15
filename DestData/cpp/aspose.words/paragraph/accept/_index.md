@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/accept/
 ## Paragraph.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

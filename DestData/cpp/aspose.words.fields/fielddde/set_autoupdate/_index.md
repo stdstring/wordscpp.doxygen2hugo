@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddde/set_autoupdate/
 ## FieldDde.set_AutoUpdate method
 
 
-Setter for Aspose::Words::Fields::FieldDde::get_AutoUpdate. 
+Setter for [Aspose::Words::Fields::FieldDde::get_AutoUpdate](./get_autoupdate/).
 

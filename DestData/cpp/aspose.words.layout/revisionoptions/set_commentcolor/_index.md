@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/set_commentcolor/
 ## RevisionOptions.set_CommentColor method
 
 
-Setter for Aspose::Words::Layout::RevisionOptions::get_CommentColor. 
+Setter for [Aspose::Words::Layout::RevisionOptions::get_CommentColor](./get_commentcolor/).
 

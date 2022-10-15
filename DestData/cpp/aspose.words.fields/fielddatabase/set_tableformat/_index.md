@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/set_tableformat/
 ## FieldDatabase.set_TableFormat method
 
 
-Sets the format that is to be applied to the result of the database query. 
+Sets the format that is to be applied to the result of the database query.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/comparisonexpression/get_leftexpression/
 ## ComparisonExpression.get_LeftExpression method
 
 
-Gets the left expression. 
+Gets the left expression.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemath/set_displaytype/
 ## OfficeMath.set_DisplayType method
 
 
-Setter for Aspose::Words::Math::OfficeMath::get_DisplayType. 
+Setter for [Aspose::Words::Math::OfficeMath::get_DisplayType](./get_displaytype/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbytag/
 ## StructuredDocumentTagCollection.GetByTag method
 
 
-Returns the first structured document tag encountered in the collection with the specified tag. 
+Returns the first structured document tag encountered in the collection with the specified tag.
 

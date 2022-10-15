@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkend/bookmarkend/
 ## BookmarkEnd.BookmarkEnd method
 
 
-Initializes a new instance of the BookmarkEnd class. 
+Initializes a new instance of the [BookmarkEnd](./) class.
 

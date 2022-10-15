@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/idocumentsavingcallback/notify/
 ## IDocumentSavingCallback.Notify method
 
 
-This is called to notify of document saving progress. 
+This is called to notify of document saving progress.
 

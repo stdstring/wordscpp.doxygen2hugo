@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/getsubstitutes/
 ## TableSubstitutionRule.GetSubstitutes method
 
 
-Returns array containing substitute font names for the specified original font name. 
+Returns array containing substitute font names for the specified original font name.
 

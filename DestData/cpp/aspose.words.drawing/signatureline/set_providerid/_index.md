@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/signatureline/set_providerid/
 ## SignatureLine.set_ProviderId method
 
 
-Setter for Aspose::Words::Drawing::SignatureLine::get_ProviderId. 
+Setter for [Aspose::Words::Drawing::SignatureLine::get_ProviderId](./get_providerid/).
 

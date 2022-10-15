@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/ensureminimum/
 ## Table.EnsureMinimum method
 
 
-If the table has no rows, creates and appends one **Row**. 
+If the table has no rows, creates and appends one **Row**.
 

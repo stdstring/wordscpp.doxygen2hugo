@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_minorunit/
 ## ChartAxis.get_MinorUnit method
 
 
-Returns or sets the distance between minor tick marks. 
+Returns or sets the distance between minor tick marks.
 

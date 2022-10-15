@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/add/
 ## CustomXmlPropertyCollection.Add method
 
 
-Adds a property to the collection. 
+Adds a property to the collection.
 

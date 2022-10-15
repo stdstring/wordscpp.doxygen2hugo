@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_mergewholedocument/
 ## MailMerge.set_MergeWholeDocument method
 
 
-Sets a value indicating whether fields in whole document are updated while executing of a mail merge with regions. 
+Sets a value indicating whether fields in whole document are updated while executing of a mail merge with regions.
 

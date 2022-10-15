@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertfootnote/
 ## DocumentBuilder.InsertFootnote method
 
 
-Inserts a footnote or endnote into the document. 
+Inserts a footnote or endnote into the document.
 
 ---
 title: InsertFootnote
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/insertfootnote/
 ## DocumentBuilder.InsertFootnote method
 
 
-Inserts a footnote or endnote into the document. 
+Inserts a footnote or endnote into the document.
 

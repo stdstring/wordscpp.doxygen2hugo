@@ -9,5 +9,5 @@ url: /cpp/aspose.words/stylecollection/get_count/
 ## StyleCollection.get_Count method
 
 
-Gets the number of styles in the collection. 
+Gets the number of styles in the collection.
 

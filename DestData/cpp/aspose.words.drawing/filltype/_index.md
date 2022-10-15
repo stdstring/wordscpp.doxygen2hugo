@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/filltype/
 ## FillType enum
 
 
-Specifies fill type for a fillable object. 
+Specifies fill type for a fillable object.
 

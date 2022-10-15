@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetocell/
 ## DocumentBuilder.MoveToCell method
 
 
-Moves the cursor to a table cell in the current section. 
+Moves the cursor to a table cell in the current section.
 

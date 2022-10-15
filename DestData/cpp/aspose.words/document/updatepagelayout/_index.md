@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/updatepagelayout/
 ## Document.UpdatePageLayout method
 
 
-Rebuilds the page layout of the document. 
+Rebuilds the page layout of the document.
 

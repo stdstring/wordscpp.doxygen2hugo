@@ -9,5 +9,5 @@ url: /cpp/aspose.words/cleanupoptions/get_unusedbuiltinstyles/
 ## CleanupOptions.get_UnusedBuiltinStyles method
 
 
-Specifies that unused BuiltIn styles should be removed from document. 
+Specifies that unused [BuiltIn](../style/get_builtin/) styles should be removed from document.
 

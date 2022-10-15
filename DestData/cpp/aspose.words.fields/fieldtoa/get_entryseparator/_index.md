@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoa/get_entryseparator/
 ## FieldToa.get_EntrySeparator method
 
 
-Gets or sets the character sequence that is used to separate a table of authorities entry and its page number. 
+Gets or sets the character sequence that is used to separate a table of authorities entry and its page number.
 

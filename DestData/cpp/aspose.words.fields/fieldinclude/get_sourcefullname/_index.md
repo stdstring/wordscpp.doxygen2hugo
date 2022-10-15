@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldinclude/get_sourcefullname/
 ## FieldInclude.get_SourceFullName method
 
 
-Gets or sets the location of the document. 
+Gets or sets the location of the document.
 

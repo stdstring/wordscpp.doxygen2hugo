@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_defaulttabstop/
 ## Document.set_DefaultTabStop method
 
 
-Setter for Aspose::Words::Document::get_DefaultTabStop. 
+Setter for [Aspose::Words::Document::get_DefaultTabStop](./get_defaulttabstop/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/saveformat/
 ## SaveFormat enum
 
 
-Indicates the format in which the document is saved. 
+Indicates the format in which the document is saved.
 

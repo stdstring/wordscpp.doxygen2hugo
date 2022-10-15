@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/insertcheckbox/
 ## DocumentBuilder.InsertCheckBox method
 
 
-Inserts a checkbox form field at the current position. 
+Inserts a checkbox form field at the current position.
 
 ---
 title: InsertCheckBox
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/insertcheckbox/
 ## DocumentBuilder.InsertCheckBox method
 
 
-Inserts a checkbox form field at the current position. 
+Inserts a checkbox form field at the current position.
 

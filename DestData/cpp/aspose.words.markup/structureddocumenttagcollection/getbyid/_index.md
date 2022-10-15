@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbyid/
 ## StructuredDocumentTagCollection.GetById method
 
 
-Returns the structured document tag by identifier. 
+Returns the structured document tag by identifier.
 

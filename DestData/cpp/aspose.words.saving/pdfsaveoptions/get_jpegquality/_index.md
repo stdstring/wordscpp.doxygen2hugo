@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_jpegquality/
 ## PdfSaveOptions.get_JpegQuality method
 
 
-Gets or sets a value determining the quality of the JPEG images inside PDF document. 
+Gets or sets a value determining the quality of the JPEG images inside PDF document.
 

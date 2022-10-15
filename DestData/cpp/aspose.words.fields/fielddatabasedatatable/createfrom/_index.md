@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabasedatatable/createfrom/
 ## FieldDatabaseDataTable.CreateFrom method
 
 
-Initializes a new instance of the FieldDatabaseDataTable class from the DataTable instance. 
+Initializes a new instance of the [FieldDatabaseDataTable](./) class from the **DataTable** instance.
 

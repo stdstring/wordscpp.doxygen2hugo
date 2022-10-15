@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/verticalalignment/
 ## VerticalAlignment enum
 
 
-Specifies vertical alignment of a floating shape, text frame or a floating table. 
+Specifies vertical alignment of a floating shape, text frame or a floating table.
 

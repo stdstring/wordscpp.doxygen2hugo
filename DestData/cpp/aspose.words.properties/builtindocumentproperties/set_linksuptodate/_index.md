@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_linksuptodate/
 ## BuiltInDocumentProperties.set_LinksUpToDate method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_LinksUpToDate. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_LinksUpToDate](./get_linksuptodate/).
 

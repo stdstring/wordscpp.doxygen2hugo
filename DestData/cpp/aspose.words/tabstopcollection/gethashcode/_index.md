@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstopcollection/gethashcode/
 ## TabStopCollection.GetHashCode method
 
 
-Serves as a hash function for this type. 
+Serves as a hash function for this type.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/controlchar/tab/
 ## ControlChar.Tab method
 
 
-Tab character: "\x0009" or "\t". 
+Tab character: "\x0009" or "\t".
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_right/
 ## BorderCollection.get_Right method
 
 
-Gets the right border. 
+Gets the right border.
 

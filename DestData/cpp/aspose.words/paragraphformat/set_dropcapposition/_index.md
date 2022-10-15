@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_dropcapposition/
 ## ParagraphFormat.set_DropCapPosition method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_DropCapPosition. 
+Setter for [Aspose::Words::ParagraphFormat::get_DropCapPosition](./get_dropcapposition/).
 

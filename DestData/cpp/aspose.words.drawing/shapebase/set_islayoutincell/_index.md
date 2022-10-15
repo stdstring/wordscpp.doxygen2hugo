@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_islayoutincell/
 ## ShapeBase.set_IsLayoutInCell method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell](./get_islayoutincell/).
 

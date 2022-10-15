@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/starttable/
 ## DocumentBuilder.StartTable method
 
 
-Starts a table in the document. 
+Starts a table in the document.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/watermark/settext/
 ## Watermark.SetText method
 
 
-Adds Text watermark into the document. 
+Adds Text watermark into the document.
 
 ---
 title: SetText
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/watermark/settext/
 ## Watermark.SetText method
 
 
-Adds Text watermark into the document. 
+Adds Text watermark into the document.
 

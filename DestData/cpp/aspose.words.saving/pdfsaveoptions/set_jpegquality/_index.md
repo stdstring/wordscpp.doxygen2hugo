@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_jpegquality/
 ## PdfSaveOptions.set_JpegQuality method
 
 
-Setter for Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality. 
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality](./get_jpegquality/).
 

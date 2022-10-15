@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagetype/
 ## ImageType enum
 
 
-Specifies the type (format) of an image in a Microsoft Word document. 
+Specifies the type (format) of an image in a Microsoft Word document.
 

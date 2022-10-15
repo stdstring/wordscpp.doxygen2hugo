@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/set_entryidentifier/
 ## FieldToc.set_EntryIdentifier method
 
 
-Setter for Aspose::Words::Fields::FieldToc::get_EntryIdentifier. 
+Setter for [Aspose::Words::Fields::FieldToc::get_EntryIdentifier](./get_entryidentifier/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_end/
 ## FieldMergeBarcode.get_End method
 
 
-Gets the node that represents the field end. 
+Gets the node that represents the field end.
 

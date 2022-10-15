@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/horizontalrulealignment/
 ## HorizontalRuleAlignment enum
 
 
-Represents the alignment for the specified horizontal rule. 
+Represents the alignment for the specified horizontal rule.
 

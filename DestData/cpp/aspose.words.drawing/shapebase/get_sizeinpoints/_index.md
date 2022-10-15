@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_sizeinpoints/
 ## ShapeBase.get_SizeInPoints method
 
 
-Gets the size of the shape in points. 
+Gets the size of the shape in points.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/set_displaytext/
 ## FieldMergeBarcode.set_DisplayText method
 
 
-Sets whether to display barcode data (text) along with image. 
+Sets whether to display barcode data (text) along with image.
 

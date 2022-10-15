@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_pagenumberseparator/
 ## FieldIndex.get_PageNumberSeparator method
 
 
-Gets or sets the character sequence that is used to separate an index entry and its page number. 
+Gets or sets the character sequence that is used to separate an index entry and its page number.
 

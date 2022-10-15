@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/olepackage/set_displayname/
 ## OlePackage.set_DisplayName method
 
 
-Setter for Aspose::Words::Drawing::OlePackage::get_DisplayName. 
+Setter for [Aspose::Words::Drawing::OlePackage::get_DisplayName](./get_displayname/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/row/get_nodetype/
 ## Row.get_NodeType method
 
 
-Returns **NodeType.Row**. 
+Returns **NodeType.Row**.
 

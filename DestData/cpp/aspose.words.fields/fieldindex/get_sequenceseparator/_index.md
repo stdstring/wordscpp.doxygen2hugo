@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_sequenceseparator/
 ## FieldIndex.get_SequenceSeparator method
 
 
-Gets or sets the character sequence that is used to separate sequence numbers and page numbers. 
+Gets or sets the character sequence that is used to separate sequence numbers and page numbers.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listlevelalignment/
 ## ListLevelAlignment enum
 
 
-Specifies alignment for the list number or bullet. 
+Specifies alignment for the list number or bullet.
 

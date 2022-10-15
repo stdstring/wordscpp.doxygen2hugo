@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkstart/bookmarkstart/
 ## BookmarkStart.BookmarkStart method
 
 
-Initializes a new instance of the BookmarkStart class. 
+Initializes a new instance of the [BookmarkStart](./) class.
 

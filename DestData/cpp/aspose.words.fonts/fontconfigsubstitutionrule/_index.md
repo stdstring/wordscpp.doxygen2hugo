@@ -9,13 +9,13 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/
 ## FontConfigSubstitutionRule class
 
 
-Font config substitution rule. 
+[Font](../aspose.words/font/) config substitution rule.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| virtual [get_Enabled](../fontsubstitutionrule/get_enabled/)() | Specifies whether the rule is enabled or not.  |
-| [IsFontConfigAvailable](./isfontconfigavailable/)() | Check if fontconfig utility is available or not.  |
-| [ResetCache](./resetcache/)() | Resets the cache of fontconfig calling results.  |
-| [set_Enabled](./set_enabled/)(bool) override | Specifies whether the rule is enabled or not.  |
+| virtual [get_Enabled](../fontsubstitutionrule/get_enabled/)() | Specifies whether the rule is enabled or not. |
+| [IsFontConfigAvailable](./isfontconfigavailable/)() | Check if fontconfig utility is available or not. |
+| [ResetCache](./resetcache/)() | Resets the cache of fontconfig calling results. |
+| [set_Enabled](./set_enabled/)(bool) override | Specifies whether the rule is enabled or not. |

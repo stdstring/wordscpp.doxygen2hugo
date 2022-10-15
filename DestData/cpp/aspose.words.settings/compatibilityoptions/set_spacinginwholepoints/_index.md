@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_spacinginwholepoints/
 ## CompatibilityOptions.set_SpacingInWholePoints method
 
 
-Only Expand/Condense Text By Whole Points. 
+Only Expand/Condense Text By Whole Points.
 

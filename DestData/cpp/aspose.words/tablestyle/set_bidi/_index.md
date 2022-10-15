@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/set_bidi/
 ## TableStyle.set_Bidi method
 
 
-Setter for Aspose::Words::TableStyle::get_Bidi. 
+Setter for [Aspose::Words::TableStyle::get_Bidi](./get_bidi/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/idx_get/
 ## BuiltInDocumentProperties.idx_get method
 
 
-Returns a DocumentProperty object by the name of the property. 
+Returns a [DocumentProperty](../documentproperty/) object by the name of the property.
 

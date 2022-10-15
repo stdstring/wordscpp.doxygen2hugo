@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odsofieldmapdata/get_type/
 ## OdsoFieldMapData.get_Type method
 
 
-Specifies if a given mail merge field has been mapped to a column in the given external data source or not. The default value is Default. 
+Specifies if a given mail merge field has been mapped to a column in the given external data source or not. The default value is **Default**.
 

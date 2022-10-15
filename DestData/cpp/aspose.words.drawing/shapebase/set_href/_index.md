@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_href/
 ## ShapeBase.set_HRef method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_HRef. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_HRef](./get_href/).
 

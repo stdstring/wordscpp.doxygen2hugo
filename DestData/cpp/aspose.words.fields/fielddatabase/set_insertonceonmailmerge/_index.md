@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/set_insertonceonmailmerge/
 ## FieldDatabase.set_InsertOnceOnMailMerge method
 
 
-Sets whether to insert data at the beginning of a merge. 
+Sets whether to insert data at the beginning of a merge.
 

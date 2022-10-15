@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_thresholdforfloydsteinbergdit
 ## ImageSaveOptions.set_ThresholdForFloydSteinbergDithering method
 
 
-Setter for Aspose::Words::Saving::ImageSaveOptions::get_ThresholdForFloydSteinbergDithering. 
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_ThresholdForFloydSteinbergDithering](./get_thresholdforfloydsteinbergdithering/).
 

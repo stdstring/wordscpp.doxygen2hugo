@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoa/get_bookmarkname/
 ## FieldToa.get_BookmarkName method
 
 
-Gets or sets the name of the bookmark that marks the portion of the document used to build the table. 
+Gets or sets the name of the bookmark that marks the portion of the document used to build the table.
 

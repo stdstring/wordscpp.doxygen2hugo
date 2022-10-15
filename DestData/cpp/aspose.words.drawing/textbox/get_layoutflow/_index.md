@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/get_layoutflow/
 ## TextBox.get_LayoutFlow method
 
 
-Determines the flow of the text layout in a shape. 
+Determines the flow of the text layout in a shape.
 

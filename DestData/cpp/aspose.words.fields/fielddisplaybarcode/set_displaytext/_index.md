@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_displaytext/
 ## FieldDisplayBarcode.set_DisplayText method
 
 
-Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText. 
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText](./get_displaytext/).
 

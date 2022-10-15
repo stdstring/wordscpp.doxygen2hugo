@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldskipif/get_comparisonoperator/
 ## FieldSkipIf.get_ComparisonOperator method
 
 
-Gets the comparison operator. 
+Gets the comparison operator.
 

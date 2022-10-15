@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/appendcontent/
 ## Section.AppendContent method
 
 
-Inserts a copy of content of the source section at the end of this section. 
+Inserts a copy of content of the source section at the end of this section.
 

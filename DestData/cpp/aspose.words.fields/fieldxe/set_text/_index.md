@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldxe/set_text/
 ## FieldXE.set_Text method
 
 
-Setter for Aspose::Words::Fields::FieldXE::get_Text. 
+Setter for [Aspose::Words::Fields::FieldXE::get_Text](./get_text/).
 

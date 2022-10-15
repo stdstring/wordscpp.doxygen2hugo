@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_snaptogrid/
 ## ParagraphFormat.set_SnapToGrid method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_SnapToGrid. 
+Setter for [Aspose::Words::ParagraphFormat::get_SnapToGrid](./get_snaptogrid/).
 

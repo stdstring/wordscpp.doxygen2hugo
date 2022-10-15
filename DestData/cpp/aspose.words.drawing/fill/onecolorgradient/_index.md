@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/fill/onecolorgradient/
 ## Fill.OneColorGradient method
 
 
-Sets the specified fill to a one-color gradient. 
+Sets the specified fill to a one-color gradient.
 
 ---
 title: OneColorGradient
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.drawing/fill/onecolorgradient/
 ## Fill.OneColorGradient method
 
 
-Sets the specified fill to a one-color gradient using the specified color. 
+Sets the specified fill to a one-color gradient using the specified color.
 

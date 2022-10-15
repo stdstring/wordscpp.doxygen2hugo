@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolder/
 ## HtmlSaveOptions.set_FontsFolder method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder](./get_fontsfolder/).
 

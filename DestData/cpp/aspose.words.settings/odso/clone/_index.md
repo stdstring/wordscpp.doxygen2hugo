@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odso/clone/
 ## Odso.Clone method
 
 
-Returns a deep clone of this object. 
+Returns a deep clone of this object.
 

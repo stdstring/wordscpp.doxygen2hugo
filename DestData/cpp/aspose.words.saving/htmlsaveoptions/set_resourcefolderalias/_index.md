@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_resourcefolderalias/
 ## HtmlSaveOptions.set_ResourceFolderAlias method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias](./get_resourcefolderalias/).
 

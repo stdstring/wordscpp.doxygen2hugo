@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/gradientvariant/
 ## GradientVariant enum
 
 
-Specifies the variant for a gradient fill. 
+Specifies the variant for a gradient fill.
 

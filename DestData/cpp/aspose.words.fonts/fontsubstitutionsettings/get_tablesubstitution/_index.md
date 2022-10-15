@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_tablesubstitution/
 ## FontSubstitutionSettings.get_TableSubstitution method
 
 
-Settings related to table substitution rule. 
+[Settings](../../aspose.words.settings/) related to table substitution rule.
 

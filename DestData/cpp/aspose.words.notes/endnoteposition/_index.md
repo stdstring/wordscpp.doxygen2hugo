@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/endnoteposition/
 ## EndnotePosition enum
 
 
-Defines the endnote position. 
+Defines the endnote position.
 

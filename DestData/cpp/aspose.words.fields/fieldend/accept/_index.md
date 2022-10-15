@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldend/accept/
 ## FieldEnd.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

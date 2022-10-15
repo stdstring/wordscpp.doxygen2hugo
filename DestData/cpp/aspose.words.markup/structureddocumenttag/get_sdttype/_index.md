@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_sdttype/
 ## StructuredDocumentTag.get_SdtType method
 
 
-Gets type of this **Structured document tag**. 
+Gets type of this **Structured document tag**.
 

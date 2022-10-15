@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_endarrowwidth/
 ## Stroke.get_EndArrowWidth method
 
 
-Defines the arrowhead width for the end of a stroke. 
+Defines the arrowhead width for the end of a stroke.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/set_textboxwrapmode/
 ## TextBox.set_TextBoxWrapMode method
 
 
-Setter for Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode. 
+Setter for [Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode](./get_textboxwrapmode/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutcollector/set_document/
 ## LayoutCollector.set_Document method
 
 
-Setter for Aspose::Words::Layout::LayoutCollector::get_Document. 
+Setter for [Aspose::Words::Layout::LayoutCollector::get_Document](./get_document/).
 

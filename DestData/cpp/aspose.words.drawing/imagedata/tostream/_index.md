@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/tostream/
 ## ImageData.ToStream method
 
 
-Creates and returns a stream that contains the image bytes. 
+Creates and returns a stream that contains the image bytes.
 

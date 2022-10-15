@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_crosses/
 ## ChartAxis.get_Crosses method
 
 
-Specifies how this axis crosses the perpendicular axis. 
+Specifies how this axis crosses the perpendicular axis.
 

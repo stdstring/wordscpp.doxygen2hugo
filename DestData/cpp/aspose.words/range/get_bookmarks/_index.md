@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/get_bookmarks/
 ## Range.get_Bookmarks method
 
 
-Returns a Bookmarks collection that represents all bookmarks in the range. 
+Returns a [Bookmarks](./get_bookmarks/) collection that represents all bookmarks in the range.
 

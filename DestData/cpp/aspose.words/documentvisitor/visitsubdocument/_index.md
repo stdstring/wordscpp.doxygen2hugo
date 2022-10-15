@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitsubdocument/
 ## DocumentVisitor.VisitSubDocument method
 
 
-Called when a subDocument is encountered. 
+Called when a subDocument is encountered.
 

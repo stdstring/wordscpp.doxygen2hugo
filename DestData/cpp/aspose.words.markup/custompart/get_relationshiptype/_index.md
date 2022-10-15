@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/custompart/get_relationshiptype/
 ## CustomPart.get_RelationshipType method
 
 
-Gets or sets the relationship type from the parent part to this custom part. 
+Gets or sets the relationship type from the parent part to this custom part.
 

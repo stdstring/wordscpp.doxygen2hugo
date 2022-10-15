@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_wraptrailspaces/
 ## CompatibilityOptions.set_WrapTrailSpaces method
 
 
-Line Wrap Trailing Spaces. 
+Line Wrap Trailing Spaces.
 

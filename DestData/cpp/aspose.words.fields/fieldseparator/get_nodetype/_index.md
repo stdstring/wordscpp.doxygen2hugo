@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldseparator/get_nodetype/
 ## FieldSeparator.get_NodeType method
 
 
-Returns FieldSeparator. 
+Returns **FieldSeparator**.
 

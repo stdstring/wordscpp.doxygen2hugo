@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/insertstyleseparator/
 ## DocumentBuilder.InsertStyleSeparator method
 
 
-Inserts style separator into the document. 
+Inserts style separator into the document.
 

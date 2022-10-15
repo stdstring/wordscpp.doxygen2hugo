@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_headingpairs/
 ## BuiltInDocumentProperties.set_HeadingPairs method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs](./get_headingpairs/).
 

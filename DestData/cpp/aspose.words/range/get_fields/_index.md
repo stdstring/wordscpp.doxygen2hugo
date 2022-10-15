@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/get_fields/
 ## Range.get_Fields method
 
 
-Returns a Fields collection that represents all fields in the range. 
+Returns a [Fields](./get_fields/) collection that represents all fields in the range.
 

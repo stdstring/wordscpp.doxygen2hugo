@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/get_text/
 ## Range.get_Text method
 
 
-Gets the text of the range. 
+Gets the text of the range.
 

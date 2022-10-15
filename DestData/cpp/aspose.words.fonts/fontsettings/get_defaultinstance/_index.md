@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontsettings/get_defaultinstance/
 ## FontSettings.get_DefaultInstance method
 
 
-Static default font settings. 
+Static default font settings.
 

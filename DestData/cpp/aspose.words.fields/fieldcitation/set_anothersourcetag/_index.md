@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcitation/set_anothersourcetag/
 ## FieldCitation.set_AnotherSourceTag method
 
 
-Setter for Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag. 
+Setter for [Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag](./get_anothersourcetag/).
 

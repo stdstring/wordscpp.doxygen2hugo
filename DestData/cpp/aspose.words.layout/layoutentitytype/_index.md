@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutentitytype/
 ## LayoutEntityType enum
 
 
-Types of the layout entities. 
+Types of the layout entities.
 

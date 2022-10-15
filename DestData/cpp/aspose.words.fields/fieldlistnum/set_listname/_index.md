@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlistnum/set_listname/
 ## FieldListNum.set_ListName method
 
 
-Setter for Aspose::Words::Fields::FieldListNum::get_ListName. 
+Setter for [Aspose::Words::Fields::FieldListNum::get_ListName](./get_listname/).
 

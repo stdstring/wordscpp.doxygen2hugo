@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_pageheight/
 ## PageSetup.get_PageHeight method
 
 
-Returns or sets the height of the page in points. 
+Returns or sets the height of the page in points.
 

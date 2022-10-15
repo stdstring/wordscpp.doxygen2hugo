@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_texteffect/
 ## Font.set_TextEffect method
 
 
-Setter for Aspose::Words::Font::get_TextEffect. 
+Setter for [Aspose::Words::Font::get_TextEffect](./get_texteffect/).
 

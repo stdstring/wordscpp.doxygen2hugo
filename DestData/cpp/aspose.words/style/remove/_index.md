@@ -9,5 +9,5 @@ url: /cpp/aspose.words/style/remove/
 ## Style.Remove method
 
 
-Removes the specified style from the document. 
+Removes the specified style from the document.
 

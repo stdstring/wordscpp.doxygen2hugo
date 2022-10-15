@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/unlinkfields/
 ## Range.UnlinkFields method
 
 
-Unlinks fields in this range. 
+Unlinks fields in this range.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/getfieldnames/
 ## MailMerge.GetFieldNames method
 
 
-Returns a collection of mail merge field names available in the document. 
+Returns a collection of mail merge field names available in the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/preferredwidth/tostring/
 ## PreferredWidth.ToString method
 
 
-Returns a user-friendly string that displays the value of this object. 
+Returns a user-friendly string that displays the value of this object.
 

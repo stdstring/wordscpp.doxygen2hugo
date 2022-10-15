@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_emphasismark/
 ## Font.set_EmphasisMark method
 
 
-Setter for Aspose::Words::Font::get_EmphasisMark. 
+Setter for [Aspose::Words::Font::get_EmphasisMark](./get_emphasismark/).
 

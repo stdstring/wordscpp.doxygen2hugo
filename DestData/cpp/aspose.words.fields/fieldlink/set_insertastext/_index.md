@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlink/set_insertastext/
 ## FieldLink.set_InsertAsText method
 
 
-Setter for Aspose::Words::Fields::FieldLink::get_InsertAsText. 
+Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsText](./get_insertastext/).
 

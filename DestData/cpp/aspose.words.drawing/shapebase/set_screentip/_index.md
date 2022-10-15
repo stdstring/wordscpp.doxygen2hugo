@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_screentip/
 ## ShapeBase.set_ScreenTip method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_ScreenTip. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_ScreenTip](./get_screentip/).
 

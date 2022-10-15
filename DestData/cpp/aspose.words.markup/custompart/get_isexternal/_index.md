@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/custompart/get_isexternal/
 ## CustomPart.get_IsExternal method
 
 
-**False** if this custom part is stored inside the OOXML package. **True** if this custom part is an external target. 
+**False** if this custom part is stored inside the OOXML package. **True** if this custom part is an external target.
 

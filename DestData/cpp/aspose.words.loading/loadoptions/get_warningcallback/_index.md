@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/loadoptions/get_warningcallback/
 ## LoadOptions.get_WarningCallback method
 
 
-Called during a load operation, when an issue is detected that might result in data or formatting fidelity loss. 
+Called during a load operation, when an issue is detected that might result in data or formatting fidelity loss.
 

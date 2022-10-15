@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_poscodestyle/
 ## FieldDisplayBarcode.get_PosCodeStyle method
 
 
-Gets or sets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE]. 
+Gets or sets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE].
 

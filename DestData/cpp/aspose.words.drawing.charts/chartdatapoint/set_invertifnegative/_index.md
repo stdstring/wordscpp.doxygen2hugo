@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatapoint/set_invertifnegative/
 ## ChartDataPoint.set_InvertIfNegative method
 
 
-Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative. 
+Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative](../ichartdatapoint/get_invertifnegative/).
 

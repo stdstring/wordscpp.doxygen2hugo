@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_suppressautohyphens/
 ## ParagraphFormat.set_SuppressAutoHyphens method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens. 
+Setter for [Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens](./get_suppressautohyphens/).
 

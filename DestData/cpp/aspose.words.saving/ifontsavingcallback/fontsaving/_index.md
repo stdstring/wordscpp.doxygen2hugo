@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/ifontsavingcallback/fontsaving/
 ## IFontSavingCallback.FontSaving method
 
 
-Called when Aspose.Words is about to save a font resource. 
+Called when Aspose.Words is about to save a font resource.
 

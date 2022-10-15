@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replacingargs/get_groupname/
 ## ReplacingArgs.get_GroupName method
 
 
-Identifies, by name, a captured group in the Match that is to be replaced with the Replacement string. 
+Identifies, by name, a captured group in the [Match](./get_match/) that is to be replaced with the [Replacement](./get_replacement/) string.
 

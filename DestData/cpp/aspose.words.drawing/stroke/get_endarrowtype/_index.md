@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_endarrowtype/
 ## Stroke.get_EndArrowType method
 
 
-Defines the arrowhead for the end of a stroke. 
+Defines the arrowhead for the end of a stroke.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_cssstylesheettype/
 ## HtmlSaveOptions.set_CssStyleSheetType method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType](./get_cssstylesheettype/).
 

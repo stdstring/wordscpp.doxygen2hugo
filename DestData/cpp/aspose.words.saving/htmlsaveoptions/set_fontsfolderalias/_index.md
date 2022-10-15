@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolderalias/
 ## HtmlSaveOptions.set_FontsFolderAlias method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias](./get_fontsfolderalias/).
 

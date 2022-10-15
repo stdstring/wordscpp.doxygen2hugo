@@ -9,7 +9,7 @@ url: /cpp/aspose.words/comment/comment/
 ## Comment.Comment method
 
 
-Initializes a new instance of the **Comment** class. 
+Initializes a new instance of the **Comment** class.
 
 ---
 title: Comment
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/comment/comment/
 ## Comment.Comment method
 
 
-Initializes a new instance of the **Comment** class. 
+Initializes a new instance of the **Comment** class.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_color/
 ## BorderCollection.get_Color method
 
 
-Gets or sets the border color. 
+Gets or sets the border color.
 

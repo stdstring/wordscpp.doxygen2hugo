@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextension/get_properties/
 ## WebExtension.get_Properties method
 
 
-Represents a set of web extension custom properties. 
+Represents a set of web extension custom properties.
 

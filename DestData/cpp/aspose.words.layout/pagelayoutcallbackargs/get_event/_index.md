@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_event/
 ## PageLayoutCallbackArgs.get_Event method
 
 
-Gets event. 
+Gets event.
 

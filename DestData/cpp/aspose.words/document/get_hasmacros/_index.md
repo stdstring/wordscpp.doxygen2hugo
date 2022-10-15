@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_hasmacros/
 ## Document.get_HasMacros method
 
 
-Returns **true** if the document has a VBA project (macros). 
+Returns **true** if the document has a VBA project (macros).
 

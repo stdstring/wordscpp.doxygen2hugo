@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentpropertycollection/clear/
 ## DocumentPropertyCollection.Clear method
 
 
-Removes all properties from the collection. 
+Removes all properties from the collection.
 

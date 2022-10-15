@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/get_connection/
 ## FieldDatabase.get_Connection method
 
 
-Gets a connection to the data. 
+Gets a connection to the data.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_visible/
 ## Fill.get_Visible method
 
 
-Gets or sets value that is **true** if the formatting applied to this instance, is visible. 
+Gets or sets value that is **true** if the formatting applied to this instance, is visible.
 

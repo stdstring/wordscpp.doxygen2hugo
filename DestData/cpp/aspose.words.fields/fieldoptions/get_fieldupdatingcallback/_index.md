@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdatingcallback/
 ## FieldOptions.get_FieldUpdatingCallback method
 
 
-Gets IFieldUpdatingCallback implementation. 
+Gets [IFieldUpdatingCallback](../ifieldupdatingcallback/) implementation.
 

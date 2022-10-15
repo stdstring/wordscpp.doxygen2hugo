@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldgreetingline/set_languageid/
 ## FieldGreetingLine.set_LanguageId method
 
 
-Sets the language id used to format the name. 
+Sets the language id used to format the name.
 

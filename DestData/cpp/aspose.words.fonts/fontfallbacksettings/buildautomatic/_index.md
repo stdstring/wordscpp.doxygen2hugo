@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/buildautomatic/
 ## FontFallbackSettings.BuildAutomatic method
 
 
-Automatically builds the fallback settings by scanning available fonts. 
+Automatically builds the fallback settings by scanning available fonts.
 

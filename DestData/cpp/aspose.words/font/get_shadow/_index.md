@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_shadow/
 ## Font.get_Shadow method
 
 
-True if the font is formatted as shadowed. 
+True if the font is formatted as shadowed.
 

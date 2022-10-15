@@ -9,5 +9,5 @@ url: /cpp/aspose.words/signaturelineoptions/set_showdate/
 ## SignatureLineOptions.set_ShowDate method
 
 
-Setter for Aspose::Words::SignatureLineOptions::get_ShowDate. 
+Setter for [Aspose::Words::SignatureLineOptions::get_ShowDate](./get_showdate/).
 

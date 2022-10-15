@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldref/get_insertparagraphnumberinrelativecontex
 ## FieldRef.get_InsertParagraphNumberInRelativeContext method
 
 
-Gets or sets whether to insert the paragraph number of the referenced paragraph in relative context. 
+Gets or sets whether to insert the paragraph number of the referenced paragraph in relative context.
 

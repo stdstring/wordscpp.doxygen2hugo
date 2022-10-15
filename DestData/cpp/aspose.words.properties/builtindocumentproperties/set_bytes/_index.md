@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_bytes/
 ## BuiltInDocumentProperties.set_Bytes method
 
 
-Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes. 
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes](./get_bytes/).
 

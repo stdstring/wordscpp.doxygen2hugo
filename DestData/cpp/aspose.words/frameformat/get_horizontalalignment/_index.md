@@ -9,5 +9,5 @@ url: /cpp/aspose.words/frameformat/get_horizontalalignment/
 ## FrameFormat.get_HorizontalAlignment method
 
 
-Gets horizontal alignment of the specified frame. 
+Gets horizontal alignment of the specified frame.
 

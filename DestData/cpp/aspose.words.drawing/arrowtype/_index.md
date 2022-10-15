@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/arrowtype/
 ## ArrowType enum
 
 
-Specifies the type of an arrow at a line end. 
+Specifies the type of an arrow at a line end.
 

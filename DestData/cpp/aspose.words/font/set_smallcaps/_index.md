@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_smallcaps/
 ## Font.set_SmallCaps method
 
 
-Setter for Aspose::Words::Font::get_SmallCaps. 
+Setter for [Aspose::Words::Font::get_SmallCaps](./get_smallcaps/).
 

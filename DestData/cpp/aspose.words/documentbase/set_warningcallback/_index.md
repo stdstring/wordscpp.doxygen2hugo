@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/set_warningcallback/
 ## DocumentBase.set_WarningCallback method
 
 
-Setter for Aspose::Words::DocumentBase::get_WarningCallback. 
+Setter for [Aspose::Words::DocumentBase::get_WarningCallback](./get_warningcallback/).
 

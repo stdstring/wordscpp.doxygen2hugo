@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldgreetingline/set_nameformat/
 ## FieldGreetingLine.set_NameFormat method
 
 
-Sets the format of the name included in the field. 
+Sets the format of the name included in the field.
 

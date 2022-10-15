@@ -9,5 +9,5 @@ url: /cpp/aspose.words/run/get_nodetype/
 ## Run.get_NodeType method
 
 
-Returns **NodeType.Run**. 
+Returns **NodeType.Run**.
 

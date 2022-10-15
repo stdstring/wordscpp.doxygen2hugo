@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_wraptype/
 ## ShapeBase.set_WrapType method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_WrapType. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_WrapType](./get_wraptype/).
 

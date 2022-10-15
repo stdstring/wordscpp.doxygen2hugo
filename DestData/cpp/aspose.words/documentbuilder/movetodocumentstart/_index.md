@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetodocumentstart/
 ## DocumentBuilder.MoveToDocumentStart method
 
 
-Moves the cursor to the beginning of the document. 
+Moves the cursor to the beginning of the document.
 

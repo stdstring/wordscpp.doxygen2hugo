@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedfonts/
 ## HtmlFixedSaveOptions.set_ExportEmbeddedFonts method
 
 
-Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedFonts. 
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedFonts](./get_exportembeddedfonts/).
 

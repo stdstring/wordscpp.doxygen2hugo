@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitparagraphend/
 ## DocumentVisitor.VisitParagraphEnd method
 
 
-Called when enumeration of a paragraph has ended. 
+Called when enumeration of a paragraph has ended.
 

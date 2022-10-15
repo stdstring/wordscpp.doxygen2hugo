@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstopcollection/after/
 ## TabStopCollection.After method
 
 
-Gets a first tab stop to the right of the specified position. 
+Gets a first tab stop to the right of the specified position.
 

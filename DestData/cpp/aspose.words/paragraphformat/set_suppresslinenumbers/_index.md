@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_suppresslinenumbers/
 ## ParagraphFormat.set_SuppressLineNumbers method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_SuppressLineNumbers. 
+Setter for [Aspose::Words::ParagraphFormat::get_SuppressLineNumbers](./get_suppresslinenumbers/).
 

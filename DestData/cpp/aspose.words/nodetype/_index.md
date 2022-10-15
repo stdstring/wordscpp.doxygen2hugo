@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodetype/
 ## NodeType enum
 
 
-Specifies the type of a Word document node. 
+Specifies the type of a Word document node.
 

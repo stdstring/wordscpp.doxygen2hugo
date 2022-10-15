@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_calendartype/
 ## StructuredDocumentTag.set_CalendarType method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType](./get_calendartype/).
 

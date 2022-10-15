@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_sameletterheights/
 ## TextPath.get_SameLetterHeights method
 
 
-Determines whether all letters will be the same height regardless of initial case. 
+Determines whether all letters will be the same height regardless of initial case.
 

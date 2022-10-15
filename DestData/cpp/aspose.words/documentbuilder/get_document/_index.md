@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/get_document/
 ## DocumentBuilder.get_Document method
 
 
-Gets or sets the Document object that this object is attached to. 
+Gets or sets the [Document](./get_document/) object that this object is attached to.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkstart/gettext/
 ## BookmarkStart.GetText method
 
 
-Returns an empty string. 
+Returns an empty string.
 

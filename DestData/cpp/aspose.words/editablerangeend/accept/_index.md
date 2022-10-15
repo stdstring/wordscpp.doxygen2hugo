@@ -9,5 +9,5 @@ url: /cpp/aspose.words/editablerangeend/accept/
 ## EditableRangeEnd.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

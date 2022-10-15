@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/paragraph/
 ## Paragraph.Paragraph method
 
 
-Initializes a new instance of the **Paragraph** class. 
+Initializes a new instance of the **Paragraph** class.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/set_color/
 ## BorderCollection.set_Color method
 
 
-Setter for Aspose::Words::BorderCollection::get_Color. 
+Setter for [Aspose::Words::BorderCollection::get_Color](./get_color/).
 

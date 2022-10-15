@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/get_rowformat/
 ## DocumentBuilder.get_RowFormat method
 
 
-Returns an object that represents current table row formatting properties. 
+Returns an object that represents current table row formatting properties.
 

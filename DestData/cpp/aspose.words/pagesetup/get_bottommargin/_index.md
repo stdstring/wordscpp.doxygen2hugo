@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_bottommargin/
 ## PageSetup.get_BottomMargin method
 
 
-Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text. 
+Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text.
 

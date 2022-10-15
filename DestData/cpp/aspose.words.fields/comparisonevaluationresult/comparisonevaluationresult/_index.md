@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationres
 ## ComparisonEvaluationResult.ComparisonEvaluationResult method
 
 
-Creates a comparison evaluation result. 
+Creates a comparison evaluation result.
 
 ---
 title: ComparisonEvaluationResult
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationres
 ## ComparisonEvaluationResult.ComparisonEvaluationResult method
 
 
-Creates a failed comparison evaluation result with the corresponding error message. 
+Creates a failed comparison evaluation result with the corresponding error message.
 

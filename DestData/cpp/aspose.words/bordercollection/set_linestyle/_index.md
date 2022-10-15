@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/set_linestyle/
 ## BorderCollection.set_LineStyle method
 
 
-Setter for Aspose::Words::BorderCollection::get_LineStyle. 
+Setter for [Aspose::Words::BorderCollection::get_LineStyle](./get_linestyle/).
 

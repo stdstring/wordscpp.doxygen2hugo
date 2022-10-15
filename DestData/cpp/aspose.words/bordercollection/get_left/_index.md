@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bordercollection/get_left/
 ## BorderCollection.get_Left method
 
 
-Gets the left border. 
+Gets the left border.
 

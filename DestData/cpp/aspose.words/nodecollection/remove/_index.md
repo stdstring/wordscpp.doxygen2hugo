@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodecollection/remove/
 ## NodeCollection.Remove method
 
 
-Removes the node from the collection and from the document. 
+Removes the node from the collection and from the document.
 

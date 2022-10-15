@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revision/get_group/
 ## Revision.get_Group method
 
 
-Gets the revision group. Returns null if the revision does not belong to any group. 
+Gets the revision group. Returns null if the revision does not belong to any group.
 

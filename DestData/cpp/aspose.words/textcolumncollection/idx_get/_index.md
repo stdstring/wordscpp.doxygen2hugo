@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textcolumncollection/idx_get/
 ## TextColumnCollection.idx_get method
 
 
-Returns a text column at the specified index. 
+Returns a text column at the specified index.
 

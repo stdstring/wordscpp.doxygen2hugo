@@ -9,5 +9,5 @@ url: /cpp/aspose.words/signaturelineoptions/set_instructions/
 ## SignatureLineOptions.set_Instructions method
 
 
-Setter for Aspose::Words::SignatureLineOptions::get_Instructions. 
+Setter for [Aspose::Words::SignatureLineOptions::get_Instructions](./get_instructions/).
 

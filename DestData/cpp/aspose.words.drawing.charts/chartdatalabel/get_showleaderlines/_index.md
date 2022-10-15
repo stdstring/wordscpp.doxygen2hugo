@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_showleaderlines/
 ## ChartDataLabel.get_ShowLeaderLines method
 
 
-Allows to specify if data label leader lines need be shown. Default value is false. 
+Allows to specify if data label leader lines need be shown. Default value is false.
 

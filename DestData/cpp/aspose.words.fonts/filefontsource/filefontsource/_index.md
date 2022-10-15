@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/filefontsource/filefontsource/
 ## FileFontSource.FileFontSource method
 
 
-Ctor. 
+Ctor.
 
 ---
 title: FileFontSource
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.fonts/filefontsource/filefontsource/
 ## FileFontSource.FileFontSource method
 
 
-Ctor. 
+Ctor.
 
 ---
 title: FileFontSource
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.fonts/filefontsource/filefontsource/
 ## FileFontSource.FileFontSource method
 
 
-Ctor. 
+Ctor.
 

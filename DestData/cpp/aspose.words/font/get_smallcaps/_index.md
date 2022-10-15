@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_smallcaps/
 ## Font.get_SmallCaps method
 
 
-True if the font is formatted as small capital letters. 
+True if the font is formatted as small capital letters.
 

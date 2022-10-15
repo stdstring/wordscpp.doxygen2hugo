@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/add/
 ## BookmarksOutlineLevelCollection.Add method
 
 
-Adds a bookmark to the collection. 
+Adds a bookmark to the collection.
 

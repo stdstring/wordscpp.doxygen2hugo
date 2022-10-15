@@ -9,7 +9,7 @@ url: /cpp/aspose.words/tabstopcollection/idx_get/
 ## TabStopCollection.idx_get method
 
 
-Gets a tab stop at the specified position. 
+Gets a tab stop at the specified position.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/tabstopcollection/idx_get/
 ## TabStopCollection.idx_get method
 
 
-Gets a tab stop at the given index. 
+Gets a tab stop at the given index.
 

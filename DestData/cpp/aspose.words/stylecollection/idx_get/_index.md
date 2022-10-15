@@ -9,7 +9,7 @@ url: /cpp/aspose.words/stylecollection/idx_get/
 ## StyleCollection.idx_get method
 
 
-Gets a built-in style by its locale independent identifier. 
+Gets a built-in style by its locale independent identifier.
 
 ---
 title: idx_get
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/stylecollection/idx_get/
 ## StyleCollection.idx_get method
 
 
-Gets a style by name or alias. 
+Gets a style by name or alias.
 
 ---
 title: idx_get
@@ -35,5 +35,5 @@ url: /cpp/aspose.words/stylecollection/idx_get/
 ## StyleCollection.idx_get method
 
 
-Gets a style by index. 
+Gets a style by index.
 

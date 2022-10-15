@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/unlinkfields/
 ## Document.UnlinkFields method
 
 
-Unlinks fields in the whole document. 
+Unlinks fields in the whole document.
 

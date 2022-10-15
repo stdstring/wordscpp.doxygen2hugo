@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_sourcefullname/
 ## FieldIncludeText.get_SourceFullName method
 
 
-Gets or sets the location of the document using an IRI. 
+Gets or sets the location of the document using an IRI.
 

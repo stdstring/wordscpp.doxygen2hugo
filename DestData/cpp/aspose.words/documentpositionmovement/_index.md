@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentpositionmovement/
 ## DocumentPositionMovement enum
 
 
-DocumentPositionMovement enumeration. 
+DocumentPositionMovement enumeration.
 

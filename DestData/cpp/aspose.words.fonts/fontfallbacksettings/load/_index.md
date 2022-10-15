@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/load/
 ## FontFallbackSettings.Load method
 
 
-Loads fallback settings from XML stream. 
+Loads fallback settings from XML stream.
 
 ---
 title: Load
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/load/
 ## FontFallbackSettings.Load method
 
 
-Loads font fallback settings from XML file. 
+Loads font fallback settings from XML file.
 
 ---
 title: Load

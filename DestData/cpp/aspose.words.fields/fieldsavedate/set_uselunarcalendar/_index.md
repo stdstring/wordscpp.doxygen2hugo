@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsavedate/set_uselunarcalendar/
 ## FieldSaveDate.set_UseLunarCalendar method
 
 
-Setter for Aspose::Words::Fields::FieldSaveDate::get_UseLunarCalendar. 
+Setter for [Aspose::Words::Fields::FieldSaveDate::get_UseLunarCalendar](./get_uselunarcalendar/).
 

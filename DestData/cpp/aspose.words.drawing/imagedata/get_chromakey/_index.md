@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/get_chromakey/
 ## ImageData.get_ChromaKey method
 
 
-Defines the color value of the image that will be treated as transparent. 
+Defines the color value of the image that will be treated as transparent.
 

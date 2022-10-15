@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsavingcallback/
 ## HtmlSaveOptions.set_FontSavingCallback method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback](./get_fontsavingcallback/).
 

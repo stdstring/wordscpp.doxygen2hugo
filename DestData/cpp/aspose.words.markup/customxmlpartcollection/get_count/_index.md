@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/get_count/
 ## CustomXmlPartCollection.get_Count method
 
 
-Gets the number of elements contained in the collection. 
+Gets the number of elements contained in the collection.
 

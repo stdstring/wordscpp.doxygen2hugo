@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/set_ignoreprintermetrics/
 ## LayoutOptions.set_IgnorePrinterMetrics method
 
 
-Setter for Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics. 
+Setter for [Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics](./get_ignoreprintermetrics/).
 

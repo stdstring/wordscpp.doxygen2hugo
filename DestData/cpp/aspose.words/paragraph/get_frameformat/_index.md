@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_frameformat/
 ## Paragraph.get_FrameFormat method
 
 
-Provides access to the paragraph formatting properties. 
+Provides access to the paragraph formatting properties.
 

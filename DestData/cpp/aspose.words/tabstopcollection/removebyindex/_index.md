@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstopcollection/removebyindex/
 ## TabStopCollection.RemoveByIndex method
 
 
-Removes a tab stop at the specified index from the collection. 
+Removes a tab stop at the specified index from the collection.
 

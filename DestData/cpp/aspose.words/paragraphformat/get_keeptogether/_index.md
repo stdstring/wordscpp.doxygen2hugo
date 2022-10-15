@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_keeptogether/
 ## ParagraphFormat.get_KeepTogether method
 
 
-True if all lines in the paragraph are to remain on the same page. 
+True if all lines in the paragraph are to remain on the same page.
 

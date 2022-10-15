@@ -9,5 +9,5 @@ url: /cpp/aspose.words/revisioncollection/get_groups/
 ## RevisionCollection.get_Groups method
 
 
-Collection of revision groups. 
+Collection of revision groups.
 

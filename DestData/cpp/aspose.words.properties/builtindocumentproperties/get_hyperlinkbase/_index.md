@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_hyperlinkbase/
 ## BuiltInDocumentProperties.get_HyperlinkBase method
 
 
-Specifies the base string used for evaluating relative hyperlinks in this document. 
+Specifies the base string used for evaluating relative hyperlinks in this document.
 

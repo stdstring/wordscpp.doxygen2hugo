@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/resourceloadingaction/
 ## ResourceLoadingAction enum
 
 
-Specifies the mode of resource loading. 
+Specifies the mode of resource loading.
 

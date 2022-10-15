@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tablestyle/get_verticalalignment/
 ## TableStyle.get_VerticalAlignment method
 
 
-Specifies the vertical alignment for the cells. 
+Specifies the vertical alignment for the cells.
 

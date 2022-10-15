@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/get_imagesavingcallback/
 ## XamlFlowSaveOptions.get_ImageSavingCallback method
 
 
-Allows to control how images are saved when a document is saved to XAML. 
+Allows to control how images are saved when a document is saved to XAML.
 

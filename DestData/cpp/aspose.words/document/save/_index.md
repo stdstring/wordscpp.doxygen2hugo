@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/save/
 ## Document.Save method
 
 
-Saves the document to a stream using the specified format. 
+Saves the document to a stream using the specified format.
 
 ---
 title: Save
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/document/save/
 ## Document.Save method
 
 
-Saves the document to a stream using the specified save options. 
+Saves the document to a stream using the specified save options.
 
 ---
 title: Save
@@ -35,7 +35,7 @@ url: /cpp/aspose.words/document/save/
 ## Document.Save method
 
 
-Saves the document to a file. Automatically determines the save format from the extension. 
+Saves the document to a file. Automatically determines the save format from the extension.
 
 ---
 title: Save
@@ -48,7 +48,7 @@ url: /cpp/aspose.words/document/save/
 ## Document.Save method
 
 
-Saves the document to a file in the specified format. 
+Saves the document to a file in the specified format.
 
 ---
 title: Save
@@ -61,7 +61,7 @@ url: /cpp/aspose.words/document/save/
 ## Document.Save method
 
 
-Saves the document to a file using the specified save options. 
+Saves the document to a file using the specified save options.
 
 ---
 title: Save

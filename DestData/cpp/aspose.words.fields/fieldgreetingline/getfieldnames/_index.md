@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldgreetingline/getfieldnames/
 ## FieldGreetingLine.GetFieldNames method
 
 
-Returns a collection of mail merge field names used by the field. 
+Returns a collection of mail merge field names used by the field.
 

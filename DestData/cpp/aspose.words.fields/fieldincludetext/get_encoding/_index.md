@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_encoding/
 ## FieldIncludeText.get_Encoding method
 
 
-Gets or sets the encoding applied to the data within the referenced file. 
+Gets or sets the encoding applied to the data within the referenced file.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/table/
 ## Table.Table method
 
 
-Initializes a new instance of the **Table** class. 
+Initializes a new instance of the **Table** class.
 

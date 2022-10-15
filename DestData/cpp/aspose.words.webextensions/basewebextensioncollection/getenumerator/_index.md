@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/getenumerator/
 ## BaseWebExtensionCollection.GetEnumerator method
 
 
-Returns an enumerator that can iterate through a collection. 
+Returns an enumerator that can iterate through a collection.
 

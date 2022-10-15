@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/endnoteoptions/get_restartrule/
 ## EndnoteOptions.get_RestartRule method
 
 
-Determines when automatic numbering restarts. 
+Determines when automatic numbering restarts.
 

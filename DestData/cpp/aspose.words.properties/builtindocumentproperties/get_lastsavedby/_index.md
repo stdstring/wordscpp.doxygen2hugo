@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_lastsavedby/
 ## BuiltInDocumentProperties.get_LastSavedBy method
 
 
-Gets or sets the name of the last author. 
+Gets or sets the name of the last author.
 

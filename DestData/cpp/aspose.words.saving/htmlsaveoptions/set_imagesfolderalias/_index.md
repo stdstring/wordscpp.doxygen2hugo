@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesfolderalias/
 ## HtmlSaveOptions.set_ImagesFolderAlias method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias](./get_imagesfolderalias/).
 

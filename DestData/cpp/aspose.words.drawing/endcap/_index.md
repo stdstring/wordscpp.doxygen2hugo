@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/endcap/
 ## EndCap enum
 
 
-Specifies line cap style. 
+Specifies line cap style.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkstart/accept/
 ## BookmarkStart.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldoptions/get_preprocessculture/
 ## FieldOptions.get_PreProcessCulture method
 
 
-Gets or sets the culture to preprocess field values. 
+Gets or sets the culture to preprocess field values.
 

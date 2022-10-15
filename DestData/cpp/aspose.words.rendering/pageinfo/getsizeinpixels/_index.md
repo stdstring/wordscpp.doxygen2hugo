@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/pageinfo/getsizeinpixels/
 ## PageInfo.GetSizeInPixels method
 
 
-Calculates the page size in pixels for a specified zoom factor and resolution. 
+Calculates the page size in pixels for a specified zoom factor and resolution.
 
 ---
 title: GetSizeInPixels
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.rendering/pageinfo/getsizeinpixels/
 ## PageInfo.GetSizeInPixels method
 
 
-Calculates the page size in pixels for a specified zoom factor and resolution. 
+Calculates the page size in pixels for a specified zoom factor and resolution.
 

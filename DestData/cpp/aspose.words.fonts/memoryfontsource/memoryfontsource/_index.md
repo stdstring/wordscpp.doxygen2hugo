@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ## MemoryFontSource.MemoryFontSource method
 
 
-Ctor. 
+Ctor.
 
 ---
 title: MemoryFontSource
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ## MemoryFontSource.MemoryFontSource method
 
 
-Ctor. 
+Ctor.
 
 ---
 title: MemoryFontSource
@@ -35,5 +35,5 @@ url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ## MemoryFontSource.MemoryFontSource method
 
 
-Ctor. 
+Ctor.
 

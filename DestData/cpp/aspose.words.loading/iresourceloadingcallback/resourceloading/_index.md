@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/iresourceloadingcallback/resourceloading/
 ## IResourceLoadingCallback.ResourceLoading method
 
 
-Called when Aspose.Words loads any external resource. 
+Called when Aspose.Words loads any external resource.
 

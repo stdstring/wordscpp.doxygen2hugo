@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_lastsection/
 ## BuildingBlock.get_LastSection method
 
 
-Gets the last section in the building block. 
+Gets the last section in the building block.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/resourcesavingargs/set_keepresourcestreamopen/
 ## ResourceSavingArgs.set_KeepResourceStreamOpen method
 
 
-Setter for Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen. 
+Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen](./get_keepresourcestreamopen/).
 

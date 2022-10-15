@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cell/get_lastparagraph/
 ## Cell.get_LastParagraph method
 
 
-Gets the last paragraph among the immediate children. 
+Gets the last paragraph among the immediate children.
 

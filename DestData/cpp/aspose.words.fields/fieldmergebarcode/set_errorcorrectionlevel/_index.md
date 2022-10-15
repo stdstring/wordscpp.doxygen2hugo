@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/set_errorcorrectionlevel/
 ## FieldMergeBarcode.set_ErrorCorrectionLevel method
 
 
-Sets an error correction level of QR Code. Valid values are [0, 3]. 
+Sets an error correction level of QR Code. Valid values are [0, 3].
 

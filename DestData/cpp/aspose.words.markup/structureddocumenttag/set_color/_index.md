@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_color/
 ## StructuredDocumentTag.set_Color method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Color. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Color](./get_color/).
 

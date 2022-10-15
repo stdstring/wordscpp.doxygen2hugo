@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxistype/
 ## ChartAxisType enum
 
 
-Specifies type of chart axis. 
+Specifies type of chart axis.
 

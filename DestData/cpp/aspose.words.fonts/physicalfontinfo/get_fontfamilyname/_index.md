@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/physicalfontinfo/get_fontfamilyname/
 ## PhysicalFontInfo.get_FontFamilyName method
 
 
-Family name of the font. 
+Family name of the font.
 

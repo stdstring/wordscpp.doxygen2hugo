@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnoteoptions/set_restartrule/
 ## FootnoteOptions.set_RestartRule method
 
 
-Setter for Aspose::Words::Notes::FootnoteOptions::get_RestartRule. 
+Setter for [Aspose::Words::Notes::FootnoteOptions::get_RestartRule](./get_restartrule/).
 

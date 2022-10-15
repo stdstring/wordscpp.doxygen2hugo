@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldseq/set_resetnumber/
 ## FieldSeq.set_ResetNumber method
 
 
-Setter for Aspose::Words::Fields::FieldSeq::get_ResetNumber. 
+Setter for [Aspose::Words::Fields::FieldSeq::get_ResetNumber](./get_resetnumber/).
 

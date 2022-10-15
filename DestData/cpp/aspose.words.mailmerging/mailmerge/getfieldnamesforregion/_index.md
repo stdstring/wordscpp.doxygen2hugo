@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/getfieldnamesforregion/
 ## MailMerge.GetFieldNamesForRegion method
 
 
-Returns a collection of mail merge field names available in the region. 
+Returns a collection of mail merge field names available in the region.
 
 ---
 title: GetFieldNamesForRegion
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.mailmerging/mailmerge/getfieldnamesforregion/
 ## MailMerge.GetFieldNamesForRegion method
 
 
-Returns a collection of mail merge field names available in the region. 
+Returns a collection of mail merge field names available in the region.
 

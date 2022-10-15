@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/get_dml3deffectsrenderingmode/
 ## SaveOptions.get_Dml3DEffectsRenderingMode method
 
 
-Gets a value determining how 3D effects are rendered. 
+Gets a value determining how 3D effects are rendered.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.lists/list/equals/
 ## List.Equals method
 
 
-Compares with the specified list. 
+Compares with the specified list.
 
 ---
 title: Equals

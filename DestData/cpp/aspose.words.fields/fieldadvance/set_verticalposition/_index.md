@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldadvance/set_verticalposition/
 ## FieldAdvance.set_VerticalPosition method
 
 
-Setter for Aspose::Words::Fields::FieldAdvance::get_VerticalPosition. 
+Setter for [Aspose::Words::Fields::FieldAdvance::get_VerticalPosition](./get_verticalposition/).
 

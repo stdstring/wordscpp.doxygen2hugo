@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_resolvefontnames/
 ## HtmlSaveOptions.set_ResolveFontNames method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames](./get_resolvefontnames/).
 

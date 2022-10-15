@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbamodule/clone/
 ## VbaModule.Clone method
 
 
-Performs a copy of the VbaModule. 
+Performs a copy of the [VbaModule](./).
 

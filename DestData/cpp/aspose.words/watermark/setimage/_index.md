@@ -9,7 +9,7 @@ url: /cpp/aspose.words/watermark/setimage/
 ## Watermark.SetImage method
 
 
-Adds Image watermark into the document. 
+Adds Image watermark into the document.
 
 ---
 title: SetImage
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/watermark/setimage/
 ## Watermark.SetImage method
 
 
-Adds Image watermark into the document. 
+Adds Image watermark into the document.
 
 ---
 title: SetImage
@@ -35,5 +35,5 @@ url: /cpp/aspose.words/watermark/setimage/
 ## Watermark.SetImage method
 
 
-Adds Image watermark into the document. 
+Adds Image watermark into the document.
 

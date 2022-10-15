@@ -9,5 +9,5 @@ url: /cpp/aspose.words/convertutil/pointtoinch/
 ## ConvertUtil.PointToInch method
 
 
-Converts points to inches. 
+Converts points to inches.
 

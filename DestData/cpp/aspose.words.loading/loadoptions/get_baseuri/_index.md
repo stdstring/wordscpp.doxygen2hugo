@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/loadoptions/get_baseuri/
 ## LoadOptions.get_BaseUri method
 
 
-Gets or sets the string that will be used to resolve relative URIs found in the document into absolute URIs when required. Can be null or empty string. Default is null. 
+Gets or sets the string that will be used to resolve relative URIs found in the document into absolute URIs when required. Can be null or empty string. Default is null.
 

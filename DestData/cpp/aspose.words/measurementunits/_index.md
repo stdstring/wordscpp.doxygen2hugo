@@ -9,5 +9,5 @@ url: /cpp/aspose.words/measurementunits/
 ## MeasurementUnits enum
 
 
-Specifies the unit of measurement. 
+Specifies the unit of measurement.
 

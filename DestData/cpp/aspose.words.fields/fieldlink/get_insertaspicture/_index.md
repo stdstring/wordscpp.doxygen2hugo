@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldlink/get_insertaspicture/
 ## FieldLink.get_InsertAsPicture method
 
 
-Gets or sets whether to insert the linked object as a picture. 
+Gets or sets whether to insert the linked object as a picture.
 

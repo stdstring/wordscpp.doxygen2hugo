@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_nodetype/
 ## Paragraph.get_NodeType method
 
 
-Returns **NodeType.Paragraph**. 
+Returns **NodeType.Paragraph**.
 

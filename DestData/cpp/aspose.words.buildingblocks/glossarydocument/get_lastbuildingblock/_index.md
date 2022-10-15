@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/get_lastbuildingblock/
 ## GlossaryDocument.get_LastBuildingBlock method
 
 
-Gets the last building block in the glossary document. 
+Gets the last building block in the glossary document.
 

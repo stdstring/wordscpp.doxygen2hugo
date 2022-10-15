@@ -9,5 +9,5 @@ url: /cpp/aspose.words.vba/vbamoduletype/
 ## VbaModuleType enum
 
 
-Specifies the type of a model in a VBA project. 
+Specifies the type of a model in a VBA project.
 

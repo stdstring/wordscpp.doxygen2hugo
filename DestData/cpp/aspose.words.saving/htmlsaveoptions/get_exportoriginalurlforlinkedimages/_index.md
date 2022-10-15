@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportoriginalurlforlinkedimag
 ## HtmlSaveOptions.get_ExportOriginalUrlForLinkedImages method
 
 
-Specifies whether original URL should be used as the URL of the linked images. Default value is **false**. 
+Specifies whether original URL should be used as the URL of the linked images. Default value is **false**.
 

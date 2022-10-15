@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/remove/
 ## DropDownItemCollection.Remove method
 
 
-Removes the specified value from the collection. 
+Removes the specified value from the collection.
 

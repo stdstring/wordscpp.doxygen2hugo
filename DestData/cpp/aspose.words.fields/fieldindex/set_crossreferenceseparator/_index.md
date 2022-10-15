@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/set_crossreferenceseparator/
 ## FieldIndex.set_CrossReferenceSeparator method
 
 
-Setter for Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator. 
+Setter for [Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator](./get_crossreferenceseparator/).
 

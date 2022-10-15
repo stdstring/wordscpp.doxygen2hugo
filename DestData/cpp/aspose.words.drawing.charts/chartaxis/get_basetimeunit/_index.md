@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_basetimeunit/
 ## ChartAxis.get_BaseTimeUnit method
 
 
-Returns or sets the smallest time unit that is represented on the time category axis. 
+Returns or sets the smallest time unit that is represented on the time category axis.
 

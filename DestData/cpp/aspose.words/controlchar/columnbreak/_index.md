@@ -9,5 +9,5 @@ url: /cpp/aspose.words/controlchar/columnbreak/
 ## ControlChar.ColumnBreak method
 
 
-End of column character: "\x000e". 
+End of column character: "\x000e".
 

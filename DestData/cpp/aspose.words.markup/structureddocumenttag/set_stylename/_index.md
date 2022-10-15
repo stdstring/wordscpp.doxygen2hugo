@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_stylename/
 ## StructuredDocumentTag.set_StyleName method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_StyleName. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_StyleName](./get_stylename/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_widowcontrol/
 ## ParagraphFormat.set_WidowControl method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_WidowControl. 
+Setter for [Aspose::Words::ParagraphFormat::get_WidowControl](./get_widowcontrol/).
 

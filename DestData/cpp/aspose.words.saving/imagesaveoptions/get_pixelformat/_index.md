@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_pixelformat/
 ## ImageSaveOptions.get_PixelFormat method
 
 
-Gets or sets the pixel format for the generated images. 
+Gets or sets the pixel format for the generated images.
 

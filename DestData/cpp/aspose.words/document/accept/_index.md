@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/accept/
 ## Document.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

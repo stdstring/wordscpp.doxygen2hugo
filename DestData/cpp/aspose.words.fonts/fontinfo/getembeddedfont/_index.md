@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfo/getembeddedfont/
 ## FontInfo.GetEmbeddedFont method
 
 
-Gets a specific embedded font file. 
+Gets a specific embedded font file.
 

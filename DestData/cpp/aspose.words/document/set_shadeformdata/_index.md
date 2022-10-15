@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_shadeformdata/
 ## Document.set_ShadeFormData method
 
 
-Setter for Aspose::Words::Document::get_ShadeFormData. 
+Setter for [Aspose::Words::Document::get_ShadeFormData](./get_shadeformdata/).
 

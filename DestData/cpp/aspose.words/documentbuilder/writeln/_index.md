@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/writeln/
 ## DocumentBuilder.Writeln method
 
 
-Inserts a paragraph break into the document. 
+Inserts a paragraph break into the document.
 
 ---
 title: Writeln
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/documentbuilder/writeln/
 ## DocumentBuilder.Writeln method
 
 
-Inserts a string and a paragraph break into the document. 
+Inserts a string and a paragraph break into the document.
 

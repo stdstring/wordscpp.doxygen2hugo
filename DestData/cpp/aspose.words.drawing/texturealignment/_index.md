@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/texturealignment/
 ## TextureAlignment enum
 
 
-Specifies the alignment for the tiling of the texture fill. 
+Specifies the alignment for the tiling of the texture fill.
 

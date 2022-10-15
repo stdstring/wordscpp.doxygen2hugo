@@ -9,5 +9,5 @@ url: /cpp/aspose.words/absolutepositiontab/accept/
 ## AbsolutePositionTab.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

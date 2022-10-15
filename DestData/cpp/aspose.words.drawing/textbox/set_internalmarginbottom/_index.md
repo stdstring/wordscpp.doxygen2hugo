@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textbox/set_internalmarginbottom/
 ## TextBox.set_InternalMarginBottom method
 
 
-Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginBottom. 
+Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginBottom](./get_internalmarginbottom/).
 

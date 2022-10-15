@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/defaultfontsubstitutionrule/set_defaultfontname/
 ## DefaultFontSubstitutionRule.set_DefaultFontName method
 
 
-Setter for Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName. 
+Setter for [Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName](./get_defaultfontname/).
 

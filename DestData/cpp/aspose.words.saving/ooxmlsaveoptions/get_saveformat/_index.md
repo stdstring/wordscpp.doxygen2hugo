@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_saveformat/
 ## OoxmlSaveOptions.get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can be Docx, Docm, Dotx, Dotm or FlatOpc. 
+Specifies the format in which the document will be saved if this save options object is used. Can be **Docx**, **Docm**, **Dotx**, **Dotm** or **FlatOpc**.
 

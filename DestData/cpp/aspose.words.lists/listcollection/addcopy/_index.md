@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listcollection/addcopy/
 ## ListCollection.AddCopy method
 
 
-Creates a new list by copying the specified list and adding it to the collection of lists in the document. 
+Creates a new list by copying the specified list and adding it to the collection of lists in the document.
 

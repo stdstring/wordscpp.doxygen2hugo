@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/sdtlistitem/get_displaytext/
 ## SdtListItem.get_DisplayText method
 
 
-Gets the text to display in the run content in place of the Value attribute contents for this list item. 
+Gets the text to display in the run content in place of the [Value](./get_value/) attribute contents for this list item.
 

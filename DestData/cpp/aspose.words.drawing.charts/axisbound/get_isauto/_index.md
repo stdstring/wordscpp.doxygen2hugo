@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisbound/get_isauto/
 ## AxisBound.get_IsAuto method
 
 
-Returns a flag indicating that axis bound should be determined automatically. 
+Returns a flag indicating that axis bound should be determined automatically.
 

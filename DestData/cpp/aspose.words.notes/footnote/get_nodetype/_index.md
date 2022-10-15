@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnote/get_nodetype/
 ## Footnote.get_NodeType method
 
 
-Returns **NodeType.Footnote**. 
+Returns **NodeType.Footnote**.
 

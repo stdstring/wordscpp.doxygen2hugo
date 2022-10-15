@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddde/set_insertasrtf/
 ## FieldDde.set_InsertAsRtf method
 
 
-Setter for Aspose::Words::Fields::FieldDde::get_InsertAsRtf. 
+Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsRtf](./get_insertasrtf/).
 

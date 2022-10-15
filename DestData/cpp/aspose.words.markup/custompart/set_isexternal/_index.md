@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/custompart/set_isexternal/
 ## CustomPart.set_IsExternal method
 
 
-Setter for Aspose::Words::Markup::CustomPart::get_IsExternal. 
+Setter for [Aspose::Words::Markup::CustomPart::get_IsExternal](./get_isexternal/).
 

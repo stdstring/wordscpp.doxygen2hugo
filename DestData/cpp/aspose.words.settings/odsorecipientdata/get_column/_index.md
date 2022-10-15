@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odsorecipientdata/get_column/
 ## OdsoRecipientData.get_Column method
 
 
-Specifies the column within the data source that contains unique data for the current record. The default value is 0. 
+Specifies the column within the data source that contains unique data for the current record. The default value is 0.
 

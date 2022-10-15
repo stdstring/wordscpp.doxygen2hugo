@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/loadoptions/set_preserveincludepicturefield/
 ## LoadOptions.set_PreserveIncludePictureField method
 
 
-Setter for Aspose::Words::Loading::LoadOptions::get_PreserveIncludePictureField. 
+Setter for [Aspose::Words::Loading::LoadOptions::get_PreserveIncludePictureField](./get_preserveincludepicturefield/).
 

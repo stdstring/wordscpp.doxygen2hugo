@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldta/get_shortcitation/
 ## FieldTA.get_ShortCitation method
 
 
-Gets or sets the short citation for the entry. 
+Gets or sets the short citation for the entry.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_digitalsignatures/
 ## Document.get_DigitalSignatures method
 
 
-Gets the collection of digital signatures for this document and their validation results. 
+Gets the collection of digital signatures for this document and their validation results.
 

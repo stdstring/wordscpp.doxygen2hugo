@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedsvg/
 ## HtmlFixedSaveOptions.set_ExportEmbeddedSvg method
 
 
-Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedSvg. 
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedSvg](./get_exportembeddedsvg/).
 

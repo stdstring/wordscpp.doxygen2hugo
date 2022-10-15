@@ -9,5 +9,5 @@ url: /cpp/aspose.words/protectiontype/
 ## ProtectionType enum
 
 
-Protection type for a document. 
+Protection type for a document.
 

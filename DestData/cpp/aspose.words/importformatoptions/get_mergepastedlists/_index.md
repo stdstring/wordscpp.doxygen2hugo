@@ -9,5 +9,5 @@ url: /cpp/aspose.words/importformatoptions/get_mergepastedlists/
 ## ImportFormatOptions.get_MergePastedLists method
 
 
-Gets or sets a boolean value that specifies whether pasted lists will be merged with surrounding lists. The default value is **false**. 
+Gets or sets a boolean value that specifies whether pasted lists will be merged with surrounding lists. The default value is **false**.
 

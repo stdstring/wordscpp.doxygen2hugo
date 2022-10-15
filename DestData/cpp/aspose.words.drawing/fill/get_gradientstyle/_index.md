@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/fill/get_gradientstyle/
 ## Fill.get_GradientStyle method
 
 
-Gets the gradient style GradientStyle for the fill. 
+Gets the gradient style [GradientStyle](../gradientstyle/) for the fill.
 

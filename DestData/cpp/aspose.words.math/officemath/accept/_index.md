@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemath/accept/
 ## OfficeMath.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/idx_set/
 ## OdsoFieldMapDataCollection.idx_set method
 
 
-Gets or sets an item in this collection. 
+Gets or sets an item in this collection.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/accept/
 ## FormField.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetoheaderfooter/
 ## DocumentBuilder.MoveToHeaderFooter method
 
 
-Moves the cursor to the beginning of a header or footer in the current section. 
+Moves the cursor to the beginning of a header or footer in the current section.
 

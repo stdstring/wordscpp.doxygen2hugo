@@ -9,7 +9,7 @@ url: /cpp/aspose.words/range/replace/
 ## Range.Replace method
 
 
-Replaces all occurrences of a character pattern specified by a regular expression with another string. 
+Replaces all occurrences of a character pattern specified by a regular expression with another string.
 
 ---
 title: Replace
@@ -22,7 +22,7 @@ url: /cpp/aspose.words/range/replace/
 ## Range.Replace method
 
 
-Replaces all occurrences of a character pattern specified by a regular expression with another string. 
+Replaces all occurrences of a character pattern specified by a regular expression with another string.
 
 ---
 title: Replace
@@ -35,7 +35,7 @@ url: /cpp/aspose.words/range/replace/
 ## Range.Replace method
 
 
-Replaces all occurrences of a specified character string pattern with a replacement string. 
+Replaces all occurrences of a specified character string pattern with a replacement string.
 
 ---
 title: Replace
@@ -48,5 +48,5 @@ url: /cpp/aspose.words/range/replace/
 ## Range.Replace method
 
 
-Replaces all occurrences of a specified character string pattern with a replacement string. 
+Replaces all occurrences of a specified character string pattern with a replacement string.
 

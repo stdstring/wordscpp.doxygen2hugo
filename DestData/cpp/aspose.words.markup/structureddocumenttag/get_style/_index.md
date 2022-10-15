@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_style/
 ## StructuredDocumentTag.get_Style method
 
 
-Gets or sets the Style of the structured document tag. 
+Gets or sets the [Style](../../aspose.words/style/) of the structured document tag.
 

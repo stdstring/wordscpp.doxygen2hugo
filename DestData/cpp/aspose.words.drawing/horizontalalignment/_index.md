@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/horizontalalignment/
 ## HorizontalAlignment enum
 
 
-Specifies horizontal alignment of a floating shape, text frame or floating table. 
+Specifies horizontal alignment of a floating shape, text frame or floating table.
 

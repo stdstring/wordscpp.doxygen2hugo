@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/add/
 ## CustomXmlSchemaCollection.Add method
 
 
-Adds an item to the collection. 
+Adds an item to the collection.
 

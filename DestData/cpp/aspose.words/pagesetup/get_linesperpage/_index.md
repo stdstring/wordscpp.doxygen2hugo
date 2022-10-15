@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_linesperpage/
 ## PageSetup.get_LinesPerPage method
 
 
-Gets or sets the number of lines per page in the document grid. 
+Gets or sets the number of lines per page in the document grid.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_pagerangeseparator/
 ## FieldIndex.get_PageRangeSeparator method
 
 
-Gets or sets the character sequence that is used to separate the start and end of a page range. 
+Gets or sets the character sequence that is used to separate the start and end of a page range.
 

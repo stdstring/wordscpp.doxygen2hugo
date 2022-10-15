@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/sdttype/
 ## SdtType enum
 
 
-Specifies the type of a structured document tag (SDT) node. 
+Specifies the type of a structured document tag (SDT) node.
 

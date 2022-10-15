@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstopcollection/getpositionbyindex/
 ## TabStopCollection.GetPositionByIndex method
 
 
-Gets the position (in points) of the tab stop at the specified index. 
+Gets the position (in points) of the tab stop at the specified index.
 

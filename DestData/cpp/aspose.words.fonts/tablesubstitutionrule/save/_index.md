@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/save/
 ## TableSubstitutionRule.Save method
 
 
-Saves the current table substitution settings to stream. 
+Saves the current table substitution settings to stream.
 
 ---
 title: Save
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/save/
 ## TableSubstitutionRule.Save method
 
 
-Saves the current table substitution settings to file. 
+Saves the current table substitution settings to file.
 

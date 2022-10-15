@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmarkcollection/idx_get/
 ## BookmarkCollection.idx_get method
 
 
-Returns a bookmark by name. 
+Returns a bookmark by name.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/bookmarkcollection/idx_get/
 ## BookmarkCollection.idx_get method
 
 
-Returns a bookmark at the specified index. 
+Returns a bookmark at the specified index.
 

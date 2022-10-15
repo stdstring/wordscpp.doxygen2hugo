@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignoretables/
 ## CompareOptions.set_IgnoreTables method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreTables. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreTables](./get_ignoretables/).
 

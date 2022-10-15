@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/textpath/get_underline/
 ## TextPath.get_Underline method
 
 
-True if the font is underlined. 
+True if the font is underlined.
 

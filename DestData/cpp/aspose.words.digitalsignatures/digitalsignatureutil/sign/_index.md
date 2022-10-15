@@ -9,7 +9,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/sign/
 ## DigitalSignatureUtil.Sign method
 
 
-Signs source document using given CertificateHolder with digital signature and writes signed document to destination stream. Document should be either Doc or Docx.**Output will be written to the start of stream and stream size will be updated with content length.**
+Signs source document using given [CertificateHolder](../certificateholder/) with digital signature and writes signed document to destination stream. [Document](../../aspose.words/document/) should be either **Doc** or **Docx**.**Output will be written to the start of stream and stream size will be updated with content length.**
 
 ---
 title: Sign
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/sign/
 ## DigitalSignatureUtil.Sign method
 
 
-Signs source document using given CertificateHolder and SignOptions with digital signature and writes signed document to destination stream. Document should be either Doc or Docx.**Output will be written to the start of stream and stream size will be updated with content length.**
+Signs source document using given [CertificateHolder](../certificateholder/) and [SignOptions](../signoptions/) with digital signature and writes signed document to destination stream. [Document](../../aspose.words/document/) should be either **Doc** or **Docx**.**Output will be written to the start of stream and stream size will be updated with content length.**
 
 ---
 title: Sign
@@ -35,7 +35,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/sign/
 ## DigitalSignatureUtil.Sign method
 
 
-Signs source document using given CertificateHolder with digital signature and writes signed document to destination file. Document should be either Doc or Docx. 
+Signs source document using given [CertificateHolder](../certificateholder/) with digital signature and writes signed document to destination file. [Document](../../aspose.words/document/) should be either **Doc** or **Docx**.
 
 ---
 title: Sign
@@ -48,7 +48,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/sign/
 ## DigitalSignatureUtil.Sign method
 
 
-Signs source document using given CertificateHolder and SignOptions with digital signature and writes signed document to destination file. Document should be either Doc or Docx. 
+Signs source document using given [CertificateHolder](../certificateholder/) and [SignOptions](../signoptions/) with digital signature and writes signed document to destination file. [Document](../../aspose.words/document/) should be either **Doc** or **Docx**.
 
 ---
 title: Sign

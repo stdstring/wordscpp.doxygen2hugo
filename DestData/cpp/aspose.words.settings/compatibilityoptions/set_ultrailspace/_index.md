@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_ultrailspace/
 ## CompatibilityOptions.set_UlTrailSpace method
 
 
-Underline All Trailing Spaces. 
+Underline All Trailing Spaces.
 

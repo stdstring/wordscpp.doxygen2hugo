@@ -9,12 +9,12 @@ url: /cpp/aspose.words/buildversioninfo/
 ## BuildVersionInfo class
 
 
-Provides information about the current product name and version. 
+Provides information about the current product name and version.
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [BuildVersionInfo](./buildversioninfo/)() |  |
-| static [get_Product](./get_product/)() | Gets the full name of the product.  |
-| static [get_Version](./get_version/)() | Gets the product version.  |
+| static [get_Product](./get_product/)() | Gets the full name of the product. |
+| static [get_Version](./get_version/)() | Gets the product version. |

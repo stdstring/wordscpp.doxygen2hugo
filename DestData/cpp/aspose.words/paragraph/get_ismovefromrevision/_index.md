@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_ismovefromrevision/
 ## Paragraph.get_IsMoveFromRevision method
 
 
-Returns **true** if this object was moved (deleted) in Microsoft Word while change tracking was enabled. 
+Returns **true** if this object was moved (deleted) in Microsoft Word while change tracking was enabled.
 

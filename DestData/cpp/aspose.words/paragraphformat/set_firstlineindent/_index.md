@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_firstlineindent/
 ## ParagraphFormat.set_FirstLineIndent method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_FirstLineIndent. 
+Setter for [Aspose::Words::ParagraphFormat::get_FirstLineIndent](./get_firstlineindent/).
 

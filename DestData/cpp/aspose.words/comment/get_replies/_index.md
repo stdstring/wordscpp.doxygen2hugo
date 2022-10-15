@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/get_replies/
 ## Comment.get_Replies method
 
 
-Returns a collection of Comment objects that are immediate children of the specified comment. 
+Returns a collection of [Comment](./) objects that are immediate children of the specified comment.
 

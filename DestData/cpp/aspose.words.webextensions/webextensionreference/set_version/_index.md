@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/webextensionreference/set_version/
 ## WebExtensionReference.set_Version method
 
 
-Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Version. 
+Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_Version](./get_version/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/cleanupoptions/get_unusedstyles/
 ## CleanupOptions.get_UnusedStyles method
 
 
-Specifies whether unused styles should be removed from document. Default value is **true**. 
+Specifies whether unused styles should be removed from document. Default value is **true**.
 

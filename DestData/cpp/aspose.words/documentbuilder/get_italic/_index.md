@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/get_italic/
 ## DocumentBuilder.get_Italic method
 
 
-True if the font is formatted as italic. 
+True if the font is formatted as italic.
 

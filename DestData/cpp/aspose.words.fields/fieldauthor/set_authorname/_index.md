@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldauthor/set_authorname/
 ## FieldAuthor.set_AuthorName method
 
 
-Setter for Aspose::Words::Fields::FieldAuthor::get_AuthorName. 
+Setter for [Aspose::Words::Fields::FieldAuthor::get_AuthorName](./get_authorname/).
 

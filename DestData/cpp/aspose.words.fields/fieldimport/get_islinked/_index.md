@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldimport/get_islinked/
 ## FieldImport.get_IsLinked method
 
 
-Gets or sets whether to reduce the file size by not storing graphics data with the document. 
+Gets or sets whether to reduce the file size by not storing graphics data with the document.
 

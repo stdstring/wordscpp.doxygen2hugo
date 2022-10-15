@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_matchcase/
 ## FindReplaceOptions.set_MatchCase method
 
 
-Setter for Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase. 
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase](./get_matchcase/).
 

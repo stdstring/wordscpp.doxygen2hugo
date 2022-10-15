@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/table/get_preferredwidth/
 ## Table.get_PreferredWidth method
 
 
-Gets or sets the table preferred width. 
+Gets or sets the table preferred width.
 

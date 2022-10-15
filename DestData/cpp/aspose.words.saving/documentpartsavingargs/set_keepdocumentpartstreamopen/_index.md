@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/set_keepdocumentpartstreamo
 ## DocumentPartSavingArgs.set_KeepDocumentPartStreamOpen method
 
 
-Setter for Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen. 
+Setter for [Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen](./get_keepdocumentpartstreamopen/).
 

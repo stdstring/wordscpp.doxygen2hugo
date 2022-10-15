@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_sourcefullname/
 ## FieldIncludeText.set_SourceFullName method
 
 
-Setter for Aspose::Words::Fields::FieldIncludeText::get_SourceFullName. 
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_SourceFullName](./get_sourcefullname/).
 

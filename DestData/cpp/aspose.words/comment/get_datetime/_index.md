@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/get_datetime/
 ## Comment.get_DateTime method
 
 
-Gets the date and time that the comment was made. 
+Gets the date and time that the comment was made.
 

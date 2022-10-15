@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcomments/get_text/
 ## FieldComments.get_Text method
 
 
-Gets or sets the text of the comments. 
+Gets or sets the text of the comments.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listcollection/getlistbylistid/
 ## ListCollection.GetListByListId method
 
 
-Gets a list by a list identifier. 
+Gets a list by a list identifier.
 

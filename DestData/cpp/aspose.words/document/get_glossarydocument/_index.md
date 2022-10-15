@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/get_glossarydocument/
 ## Document.get_GlossaryDocument method
 
 
-Gets or sets the glossary document within this document or template. A glossary document is a storage for AutoText, AutoCorrect and Building Block entries defined in a document. 
+Gets or sets the glossary document within this document or template. A glossary document is a storage for AutoText, AutoCorrect and Building Block entries defined in a document.
 

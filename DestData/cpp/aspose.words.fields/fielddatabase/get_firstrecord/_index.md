@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/get_firstrecord/
 ## FieldDatabase.get_FirstRecord method
 
 
-Gets the integral record number of the first data record to insert. 
+Gets the integral record number of the first data record to insert.
 

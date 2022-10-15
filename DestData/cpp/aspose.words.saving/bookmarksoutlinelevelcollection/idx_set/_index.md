@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/idx_set/
 ## BookmarksOutlineLevelCollection.idx_set method
 
 
-Gets or a sets a bookmark outline level by the bookmark name. 
+Gets or a sets a bookmark outline level by the bookmark name.
 
 ---
 title: idx_set
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/idx_set/
 ## BookmarksOutlineLevelCollection.idx_set method
 
 
-Gets or sets a bookmark outline level at the specified index. 
+Gets or sets a bookmark outline level at the specified index.
 

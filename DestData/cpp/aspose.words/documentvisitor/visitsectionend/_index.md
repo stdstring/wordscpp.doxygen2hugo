@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitsectionend/
 ## DocumentVisitor.VisitSectionEnd method
 
 
-Called when enumeration of a section has ended. 
+Called when enumeration of a section has ended.
 

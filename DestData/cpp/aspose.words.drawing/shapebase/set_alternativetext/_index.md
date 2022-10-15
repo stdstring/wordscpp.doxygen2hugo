@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_alternativetext/
 ## ShapeBase.set_AlternativeText method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_AlternativeText. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_AlternativeText](./get_alternativetext/).
 

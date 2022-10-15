@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitcellstart/
 ## DocumentVisitor.VisitCellStart method
 
 
-Called when enumeration of a table cell has started. 
+Called when enumeration of a table cell has started.
 

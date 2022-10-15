@@ -9,5 +9,5 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignoredmluniqueid/
 ## CompareOptions.set_IgnoreDmlUniqueId method
 
 
-Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreDmlUniqueId. 
+Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreDmlUniqueId](./get_ignoredmluniqueid/).
 

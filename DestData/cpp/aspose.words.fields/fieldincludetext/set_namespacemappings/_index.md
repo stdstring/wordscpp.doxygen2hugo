@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_namespacemappings/
 ## FieldIncludeText.set_NamespaceMappings method
 
 
-Setter for Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings. 
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings](./get_namespacemappings/).
 

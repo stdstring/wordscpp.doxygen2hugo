@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/icomparisonexpressionevaluator/evaluate/
 ## IComparisonExpressionEvaluator.Evaluate method
 
 
-Evaluates comparison expression. 
+Evaluates comparison expression.
 

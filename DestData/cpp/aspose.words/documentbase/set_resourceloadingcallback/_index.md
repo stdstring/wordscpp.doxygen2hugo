@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbase/set_resourceloadingcallback/
 ## DocumentBase.set_ResourceLoadingCallback method
 
 
-Setter for Aspose::Words::DocumentBase::get_ResourceLoadingCallback. 
+Setter for [Aspose::Words::DocumentBase::get_ResourceLoadingCallback](./get_resourceloadingcallback/).
 

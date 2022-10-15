@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_namebi/
 ## Font.get_NameBi method
 
 
-Returns or sets the name of the font in a right-to-left language document. 
+Returns or sets the name of the font in a right-to-left language document.
 

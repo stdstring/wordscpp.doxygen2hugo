@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/colormode/
 ## ColorMode enum
 
 
-Specifies how colors are rendered. 
+Specifies how colors are rendered.
 

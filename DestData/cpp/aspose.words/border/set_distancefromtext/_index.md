@@ -9,5 +9,5 @@ url: /cpp/aspose.words/border/set_distancefromtext/
 ## Border.set_DistanceFromText method
 
 
-Setter for Aspose::Words::Border::get_DistanceFromText. 
+Setter for [Aspose::Words::Border::get_DistanceFromText](./get_distancefromtext/).
 

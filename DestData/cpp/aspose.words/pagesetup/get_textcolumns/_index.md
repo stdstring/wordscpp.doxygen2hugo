@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_textcolumns/
 ## PageSetup.get_TextColumns method
 
 
-Returns a collection that represents the set of text columns. 
+Returns a collection that represents the set of text columns.
 

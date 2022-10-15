@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellcollection/idx_get/
 ## CellCollection.idx_get method
 
 
-Retrieves a **Cell** at the given index. 
+Retrieves a **Cell** at the given index.
 

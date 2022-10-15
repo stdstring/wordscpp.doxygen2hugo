@@ -9,5 +9,5 @@ url: /cpp/aspose.words/bookmarkend/accept/
 ## BookmarkEnd.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

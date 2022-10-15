@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldask/set_prompttext/
 ## FieldAsk.set_PromptText method
 
 
-Sets the prompt text (the title of the prompt window). 
+Sets the prompt text (the title of the prompt window).
 

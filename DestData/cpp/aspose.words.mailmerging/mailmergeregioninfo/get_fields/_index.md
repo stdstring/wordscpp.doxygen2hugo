@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_fields/
 ## MailMergeRegionInfo.get_Fields method
 
 
-Returns a list of child fields. 
+Returns a list of child fields.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldcomments/set_text/
 ## FieldComments.set_Text method
 
 
-Setter for Aspose::Words::Fields::FieldComments::get_Text. 
+Setter for [Aspose::Words::Fields::FieldComments::get_Text](./get_text/).
 

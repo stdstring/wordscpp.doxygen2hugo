@@ -9,5 +9,5 @@ url: /cpp/aspose.words/tabstop/equals/
 ## TabStop.Equals method
 
 
-Compares with the specified TabStop. 
+Compares with the specified [TabStop](./).
 

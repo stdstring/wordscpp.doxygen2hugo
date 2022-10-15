@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/get_imagesfolderalias/
 ## XamlFlowSaveOptions.get_ImagesFolderAlias method
 
 
-Specifies the name of the folder used to construct image URIs written into an XAML document. Default is an empty string. 
+Specifies the name of the folder used to construct image URIs written into an XAML document. Default is an empty string.
 

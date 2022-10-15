@@ -9,5 +9,5 @@ url: /cpp/aspose.words/specialchar/gettext/
 ## SpecialChar.GetText method
 
 
-Gets the special character that this node represents. 
+Gets the special character that this node represents.
 

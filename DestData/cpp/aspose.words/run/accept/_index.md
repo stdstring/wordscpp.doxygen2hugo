@@ -9,5 +9,5 @@ url: /cpp/aspose.words/run/accept/
 ## Run.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

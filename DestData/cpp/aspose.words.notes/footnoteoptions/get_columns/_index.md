@@ -9,5 +9,5 @@ url: /cpp/aspose.words.notes/footnoteoptions/get_columns/
 ## FootnoteOptions.get_Columns method
 
 
-Specifies the number of columns with which the footnotes area is formatted. 
+Specifies the number of columns with which the footnotes area is formatted.
 

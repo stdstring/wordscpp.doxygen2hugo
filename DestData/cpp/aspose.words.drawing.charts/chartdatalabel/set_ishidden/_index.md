@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_ishidden/
 ## ChartDataLabel.set_IsHidden method
 
 
-Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsHidden. 
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsHidden](./get_ishidden/).
 

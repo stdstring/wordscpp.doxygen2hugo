@@ -9,5 +9,5 @@ url: /cpp/aspose.words/comment/get_storytype/
 ## Comment.get_StoryType method
 
 
-Returns **StoryType.Comments**. 
+Returns **StoryType.Comments**.
 

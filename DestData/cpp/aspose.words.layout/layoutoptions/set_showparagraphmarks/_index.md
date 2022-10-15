@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/set_showparagraphmarks/
 ## LayoutOptions.set_ShowParagraphMarks method
 
 
-Setter for Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks. 
+Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks](./get_showparagraphmarks/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/rowcollection/toarray/
 ## RowCollection.ToArray method
 
 
-Copies all rows from the collection to a new array of rows. 
+Copies all rows from the collection to a new array of rows.
 

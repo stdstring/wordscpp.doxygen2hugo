@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/get_headersfooters/
 ## Section.get_HeadersFooters method
 
 
-Provides access to the headers and footers nodes of the section. 
+Provides access to the headers and footers nodes of the section.
 

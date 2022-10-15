@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cell/get_parentrow/
 ## Cell.get_ParentRow method
 
 
-Returns the parent row of the cell. 
+Returns the parent row of the cell.
 

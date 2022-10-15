@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/formfield/set_textinputtype/
 ## FormField.set_TextInputType method
 
 
-Setter for Aspose::Words::Fields::FormField::get_TextInputType. 
+Setter for [Aspose::Words::Fields::FormField::get_TextInputType](./get_textinputtype/).
 

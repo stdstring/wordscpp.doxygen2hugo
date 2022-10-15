@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
 ## FontFallbackSettings.Save method
 
 
-Saves the current fallback settings to stream. 
+Saves the current fallback settings to stream.
 
 ---
 title: Save
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
 ## FontFallbackSettings.Save method
 
 
-Saves the current fallback settings to file. 
+Saves the current fallback settings to file.
 
 ---
 title: Save

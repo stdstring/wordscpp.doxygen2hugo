@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/moveparent/
 ## LayoutEnumerator.MoveParent method
 
 
-Moves to the parent entity. 
+Moves to the parent entity.
 
 ---
 title: MoveParent
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/moveparent/
 ## LayoutEnumerator.MoveParent method
 
 
-Moves to the parent entity of the specified type. 
+Moves to the parent entity of the specified type.
 

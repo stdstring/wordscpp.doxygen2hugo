@@ -9,5 +9,5 @@ url: /cpp/aspose.words/node/accept/
 ## Node.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

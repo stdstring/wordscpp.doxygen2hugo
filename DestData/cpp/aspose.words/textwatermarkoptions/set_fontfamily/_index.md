@@ -9,5 +9,5 @@ url: /cpp/aspose.words/textwatermarkoptions/set_fontfamily/
 ## TextWatermarkOptions.set_FontFamily method
 
 
-Setter for Aspose::Words::TextWatermarkOptions::get_FontFamily. 
+Setter for [Aspose::Words::TextWatermarkOptions::get_FontFamily](./get_fontfamily/).
 

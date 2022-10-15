@@ -9,5 +9,5 @@ url: /cpp/aspose.words/inlinestory/get_parentparagraph/
 ## InlineStory.get_ParentParagraph method
 
 
-Retrieves the parent Paragraph of this node. 
+Retrieves the parent [Paragraph](../paragraph/) of this node.
 

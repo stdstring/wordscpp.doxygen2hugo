@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsavedate/set_usesakaeracalendar/
 ## FieldSaveDate.set_UseSakaEraCalendar method
 
 
-Setter for Aspose::Words::Fields::FieldSaveDate::get_UseSakaEraCalendar. 
+Setter for [Aspose::Words::Fields::FieldSaveDate::get_UseSakaEraCalendar](./get_usesakaeracalendar/).
 

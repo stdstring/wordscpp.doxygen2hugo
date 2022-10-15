@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/get_selectedvalue/
 ## SdtListItemCollection.get_SelectedValue method
 
 
-Specifies currently selected value in this list. Null value allowed, meaning that no currently selected entry is associated with this list item collection. 
+Specifies currently selected value in this list. Null value allowed, meaning that no currently selected entry is associated with this list item collection.
 

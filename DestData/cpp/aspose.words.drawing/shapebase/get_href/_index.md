@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_href/
 ## ShapeBase.get_HRef method
 
 
-Gets or sets the full hyperlink address for a shape. 
+Gets or sets the full hyperlink address for a shape.
 

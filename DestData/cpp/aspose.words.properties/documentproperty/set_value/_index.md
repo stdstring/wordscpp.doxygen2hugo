@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/documentproperty/set_value/
 ## DocumentProperty.set_Value method
 
 
-Setter for Aspose::Words::Properties::DocumentProperty::get_Value. 
+Setter for [Aspose::Words::Properties::DocumentProperty::get_Value](./get_value/).
 

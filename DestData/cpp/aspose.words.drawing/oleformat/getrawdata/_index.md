@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/oleformat/getrawdata/
 ## OleFormat.GetRawData method
 
 
-Gets OLE object raw data. 
+Gets OLE object raw data.
 

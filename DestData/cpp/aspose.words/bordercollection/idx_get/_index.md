@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bordercollection/idx_get/
 ## BorderCollection.idx_get method
 
 
-Retrieves a Border object by border type. 
+Retrieves a [Border](../border/) object by border type.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/bordercollection/idx_get/
 ## BorderCollection.idx_get method
 
 
-Retrieves a Border object by index. 
+Retrieves a [Border](../border/) object by index.
 

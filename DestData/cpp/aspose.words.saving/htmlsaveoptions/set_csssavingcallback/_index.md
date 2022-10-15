@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_csssavingcallback/
 ## HtmlSaveOptions.set_CssSavingCallback method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback](./get_csssavingcallback/).
 

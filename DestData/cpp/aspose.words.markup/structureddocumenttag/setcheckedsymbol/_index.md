@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/setcheckedsymbol/
 ## StructuredDocumentTag.SetCheckedSymbol method
 
 
-Sets the symbol used to represent the checked state of a check box content control. 
+Sets the symbol used to represent the checked state of a check box content control.
 

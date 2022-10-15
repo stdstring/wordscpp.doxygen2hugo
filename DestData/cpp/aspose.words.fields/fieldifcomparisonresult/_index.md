@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldifcomparisonresult/
 ## FieldIfComparisonResult enum
 
 
-Specifies the result of the IF field condition evaluation. 
+Specifies the result of the IF field condition evaluation.
 

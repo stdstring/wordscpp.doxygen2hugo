@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_differentfirstpageheaderfooter/
 ## PageSetup.get_DifferentFirstPageHeaderFooter method
 
 
-**True** if a different header or footer is used on the first page. 
+**True** if a different header or footer is used on the first page.
 

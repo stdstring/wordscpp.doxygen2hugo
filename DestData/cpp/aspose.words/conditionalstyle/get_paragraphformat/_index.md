@@ -9,5 +9,5 @@ url: /cpp/aspose.words/conditionalstyle/get_paragraphformat/
 ## ConditionalStyle.get_ParagraphFormat method
 
 
-Gets the paragraph formatting of the conditional style. 
+Gets the paragraph formatting of the conditional style.
 

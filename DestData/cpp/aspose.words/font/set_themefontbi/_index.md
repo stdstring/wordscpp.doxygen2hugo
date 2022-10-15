@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_themefontbi/
 ## Font.set_ThemeFontBi method
 
 
-Setter for Aspose::Words::Font::get_ThemeFontBi. 
+Setter for [Aspose::Words::Font::get_ThemeFontBi](./get_themefontbi/).
 

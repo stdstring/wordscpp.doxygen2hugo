@@ -9,7 +9,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/idx_get/
 ## VbaModuleCollection.idx_get method
 
 
-Retrieves a VbaModule object by name, or Null if not found. 
+Retrieves a [VbaModule](../vbamodule/) object by name, or Null if not found.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.vba/vbamodulecollection/idx_get/
 ## VbaModuleCollection.idx_get method
 
 
-Retrieves a VbaModule object by index. 
+Retrieves a [VbaModule](../vbamodule/) object by index.
 

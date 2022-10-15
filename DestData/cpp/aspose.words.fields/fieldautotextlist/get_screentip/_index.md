@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldautotextlist/get_screentip/
 ## FieldAutoTextList.get_ScreenTip method
 
 
-Gets or sets the text of the ScreenTip to show. 
+Gets or sets the text of the ScreenTip to show.
 

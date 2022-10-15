@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_linenumberdistancefromtext/
 ## PageSetup.get_LineNumberDistanceFromText method
 
 
-Gets or sets distance between the right edge of line numbers and the left edge of the document. 
+Gets or sets distance between the right edge of line numbers and the left edge of the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraph/get_parentstory/
 ## Paragraph.get_ParentStory method
 
 
-Retrieves the parent section-level story that can be Body or HeaderFooter. 
+Retrieves the parent section-level story that can be [Body](../body/) or [HeaderFooter](../headerfooter/).
 

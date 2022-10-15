@@ -9,5 +9,5 @@ url: /cpp/aspose.words/cleanupoptions/set_unusedbuiltinstyles/
 ## CleanupOptions.set_UnusedBuiltinStyles method
 
 
-Setter for Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles. 
+Setter for [Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles](./get_unusedbuiltinstyles/).
 

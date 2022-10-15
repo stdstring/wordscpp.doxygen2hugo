@@ -9,5 +9,5 @@ url: /cpp/aspose.words/plaintextdocument/get_builtindocumentproperties/
 ## PlainTextDocument.get_BuiltInDocumentProperties method
 
 
-Gets BuiltInDocumentProperties of the document. 
+Gets [BuiltInDocumentProperties](./get_builtindocumentproperties/) of the document.
 

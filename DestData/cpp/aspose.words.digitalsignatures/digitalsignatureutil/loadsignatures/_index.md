@@ -9,7 +9,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/
 ## DigitalSignatureUtil.LoadSignatures method
 
 
-Loads digital signatures from document using stream. 
+Loads digital signatures from document using stream.
 
 ---
 title: LoadSignatures
@@ -22,7 +22,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/
 ## DigitalSignatureUtil.LoadSignatures method
 
 
-Loads digital signatures from document. 
+Loads digital signatures from document.
 
 ---
 title: LoadSignatures

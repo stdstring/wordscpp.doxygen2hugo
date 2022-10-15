@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/section/
 ## Section.Section method
 
 
-Initializes a new instance of the Section class. 
+Initializes a new instance of the [Section](./) class.
 

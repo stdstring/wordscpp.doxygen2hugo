@@ -9,5 +9,5 @@ url: /cpp/aspose.words/frameformat/get_relativeverticalposition/
 ## FrameFormat.get_RelativeVerticalPosition method
 
 
-Gets the relative vertical position of a frame. 
+Gets the relative vertical position of a frame.
 

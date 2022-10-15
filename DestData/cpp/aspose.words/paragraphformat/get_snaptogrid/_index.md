@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/get_snaptogrid/
 ## ParagraphFormat.get_SnapToGrid method
 
 
-Specifies whether the current paragraph should use the document grid lines per page settings when laying out the contents in the paragraph. 
+Specifies whether the current paragraph should use the document grid lines per page settings when laying out the contents in the paragraph.
 

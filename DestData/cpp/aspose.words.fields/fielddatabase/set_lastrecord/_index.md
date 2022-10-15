@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddatabase/set_lastrecord/
 ## FieldDatabase.set_LastRecord method
 
 
-Sets the integral record number of the last data record to insert. 
+Sets the integral record number of the last data record to insert.
 

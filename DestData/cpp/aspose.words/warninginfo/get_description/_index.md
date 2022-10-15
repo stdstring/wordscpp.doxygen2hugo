@@ -9,5 +9,5 @@ url: /cpp/aspose.words/warninginfo/get_description/
 ## WarningInfo.get_Description method
 
 
-Returns the description of the warning. 
+Returns the description of the warning.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitglossarydocumentstart/
 ## DocumentVisitor.VisitGlossaryDocumentStart method
 
 
-Called when enumeration of a glossary document has started. 
+Called when enumeration of a glossary document has started.
 

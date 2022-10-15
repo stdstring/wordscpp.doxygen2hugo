@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/localtoparent/
 ## ShapeBase.LocalToParent method
 
 
-Converts a value from the local coordinate space into the coordinate space of the parent shape. 
+Converts a value from the local coordinate space into the coordinate space of the parent shape.
 

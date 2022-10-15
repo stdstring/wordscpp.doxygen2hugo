@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/write/
 ## DocumentBuilder.Write method
 
 
-Inserts a string into the document at the current insert position. 
+Inserts a string into the document at the current insert position.
 

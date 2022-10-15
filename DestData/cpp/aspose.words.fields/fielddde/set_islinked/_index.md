@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddde/set_islinked/
 ## FieldDde.set_IsLinked method
 
 
-Setter for Aspose::Words::Fields::FieldDde::get_IsLinked. 
+Setter for [Aspose::Words::Fields::FieldDde::get_IsLinked](./get_islinked/).
 

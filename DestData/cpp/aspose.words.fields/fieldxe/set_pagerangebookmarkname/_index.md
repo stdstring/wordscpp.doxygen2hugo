@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldxe/set_pagerangebookmarkname/
 ## FieldXE.set_PageRangeBookmarkName method
 
 
-Setter for Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName. 
+Setter for [Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName](./get_pagerangebookmarkname/).
 

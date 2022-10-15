@@ -9,5 +9,5 @@ url: /cpp/aspose.words.mailmerging/imailmergecallback/tagsreplaced/
 ## IMailMergeCallback.TagsReplaced method
 
 
-Called when "mustache" text tags are replaced with MERGEFIELD fields. 
+Called when "mustache" text tags are replaced with MERGEFIELD fields.
 

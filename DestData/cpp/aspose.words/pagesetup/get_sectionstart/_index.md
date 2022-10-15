@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_sectionstart/
 ## PageSetup.get_SectionStart method
 
 
-Returns or sets the type of section break for the specified object. 
+Returns or sets the type of section break for the specified object.
 

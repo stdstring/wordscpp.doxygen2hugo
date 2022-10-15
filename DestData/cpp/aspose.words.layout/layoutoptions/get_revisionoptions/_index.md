@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/get_revisionoptions/
 ## LayoutOptions.get_RevisionOptions method
 
 
-Gets revision options. 
+Gets revision options.
 

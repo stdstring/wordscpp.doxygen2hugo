@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_type/
 ## ChartAxis.get_Type method
 
 
-Returns type of the axis. 
+Returns type of the axis.
 

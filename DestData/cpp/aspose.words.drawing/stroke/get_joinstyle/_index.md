@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/get_joinstyle/
 ## Stroke.get_JoinStyle method
 
 
-Defines the join style of a polyline. 
+Defines the join style of a polyline.
 

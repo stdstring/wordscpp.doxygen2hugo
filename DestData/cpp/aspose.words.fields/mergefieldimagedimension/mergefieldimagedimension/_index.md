@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/mergefieldimagedimension/
 ## MergeFieldImageDimension.MergeFieldImageDimension method
 
 
-Creates an image dimension instance with the given value in points. 
+Creates an image dimension instance with the given value in points.
 
 ---
 title: MergeFieldImageDimension
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/mergefieldimagedimension/
 ## MergeFieldImageDimension.MergeFieldImageDimension method
 
 
-Creates an image dimension instance with the given value and the given unit. 
+Creates an image dimension instance with the given value and the given unit.
 

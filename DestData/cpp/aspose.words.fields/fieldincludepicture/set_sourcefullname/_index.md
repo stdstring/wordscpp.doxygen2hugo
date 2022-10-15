@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludepicture/set_sourcefullname/
 ## FieldIncludePicture.set_SourceFullName method
 
 
-Setter for Aspose::Words::Fields::FieldIncludePicture::get_SourceFullName. 
+Setter for [Aspose::Words::Fields::FieldIncludePicture::get_SourceFullName](./get_sourcefullname/).
 

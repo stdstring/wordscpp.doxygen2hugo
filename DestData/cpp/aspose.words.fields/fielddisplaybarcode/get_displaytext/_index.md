@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_displaytext/
 ## FieldDisplayBarcode.get_DisplayText method
 
 
-Gets or sets whether to display barcode data (text) along with image. 
+Gets or sets whether to display barcode data (text) along with image.
 

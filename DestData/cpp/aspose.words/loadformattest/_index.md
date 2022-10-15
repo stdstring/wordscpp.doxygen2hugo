@@ -9,5 +9,5 @@ url: /cpp/aspose.words/loadformattest/
 ## LoadFormatTest enum
 
 
-LoadFormatTest enumeration. 
+LoadFormatTest enumeration.
 

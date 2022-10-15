@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_numeralformat/
 ## FixedPageSaveOptions.set_NumeralFormat method
 
 
-Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat. 
+Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat](./get_numeralformat/).
 

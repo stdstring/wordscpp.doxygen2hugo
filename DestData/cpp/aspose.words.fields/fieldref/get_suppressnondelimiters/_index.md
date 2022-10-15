@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldref/get_suppressnondelimiters/
 ## FieldRef.get_SuppressNonDelimiters method
 
 
-Gets or sets whether to suppress non-delimiter characters. 
+Gets or sets whether to suppress non-delimiter characters.
 

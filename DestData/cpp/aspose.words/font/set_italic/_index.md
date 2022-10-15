@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/set_italic/
 ## Font.set_Italic method
 
 
-Setter for Aspose::Words::Font::get_Italic. 
+Setter for [Aspose::Words::Font::get_Italic](./get_italic/).
 

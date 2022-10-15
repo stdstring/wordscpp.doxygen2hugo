@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_backcolor/
 ## Stroke.set_BackColor method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_BackColor. 
+Setter for [Aspose::Words::Drawing::Stroke::get_BackColor](./get_backcolor/).
 

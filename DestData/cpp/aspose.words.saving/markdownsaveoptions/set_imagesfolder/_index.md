@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/markdownsaveoptions/set_imagesfolder/
 ## MarkdownSaveOptions.set_ImagesFolder method
 
 
-Setter for Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder. 
+Setter for [Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder](./get_imagesfolder/).
 

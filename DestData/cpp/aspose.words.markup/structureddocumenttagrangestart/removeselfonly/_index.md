@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/removeselfonly/
 ## StructuredDocumentTagRangeStart.RemoveSelfOnly method
 
 
-Removes this range start and appropriate range end nodes of the structured document tag, but keeps its content inside the document tree. 
+Removes this range start and appropriate range end nodes of the structured document tag, but keeps its content inside the document tree.
 

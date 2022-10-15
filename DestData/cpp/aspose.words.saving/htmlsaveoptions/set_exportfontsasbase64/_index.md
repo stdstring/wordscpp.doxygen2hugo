@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportfontsasbase64/
 ## HtmlSaveOptions.set_ExportFontsAsBase64 method
 
 
-Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontsAsBase64. 
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontsAsBase64](./get_exportfontsasbase64/).
 

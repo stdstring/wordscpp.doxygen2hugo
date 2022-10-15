@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/endbookmark/
 ## DocumentBuilder.EndBookmark method
 
 
-Marks the current position in the document as a bookmark end. 
+Marks the current position in the document as a bookmark end.
 

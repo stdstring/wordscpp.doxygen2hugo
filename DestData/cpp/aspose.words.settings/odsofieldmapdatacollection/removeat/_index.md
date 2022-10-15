@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/removeat/
 ## OdsoFieldMapDataCollection.RemoveAt method
 
 
-Removes the element at the specified index. 
+Removes the element at the specified index.
 

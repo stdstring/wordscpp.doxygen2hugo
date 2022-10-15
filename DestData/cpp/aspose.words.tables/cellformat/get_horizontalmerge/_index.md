@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellformat/get_horizontalmerge/
 ## CellFormat.get_HorizontalMerge method
 
 
-Specifies how the cell is merged horizontally with other cells in the row. 
+Specifies how the cell is merged horizontally with other cells in the row.
 

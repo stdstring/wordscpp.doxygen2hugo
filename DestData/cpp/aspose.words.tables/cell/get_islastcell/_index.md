@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cell/get_islastcell/
 ## Cell.get_IsLastCell method
 
 
-True if this is the last cell inside a row; false otherwise. 
+True if this is the last cell inside a row; false otherwise.
 

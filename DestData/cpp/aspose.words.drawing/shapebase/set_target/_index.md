@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_target/
 ## ShapeBase.set_Target method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_Target. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_Target](./get_target/).
 

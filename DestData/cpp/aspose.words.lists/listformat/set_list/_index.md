@@ -9,5 +9,5 @@ url: /cpp/aspose.words.lists/listformat/set_list/
 ## ListFormat.set_List method
 
 
-Setter for Aspose::Words::Lists::ListFormat::get_List. 
+Setter for [Aspose::Words::Lists::ListFormat::get_List](./get_list/).
 

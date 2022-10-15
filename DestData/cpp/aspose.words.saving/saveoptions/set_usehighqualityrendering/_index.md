@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/set_usehighqualityrendering/
 ## SaveOptions.set_UseHighQualityRendering method
 
 
-Setter for Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering. 
+Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](./get_usehighqualityrendering/).
 

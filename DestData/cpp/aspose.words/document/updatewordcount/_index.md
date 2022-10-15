@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/updatewordcount/
 ## Document.UpdateWordCount method
 
 
-Updates word count properties of the document. 
+Updates word count properties of the document.
 
 ---
 title: UpdateWordCount
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/document/updatewordcount/
 ## Document.UpdateWordCount method
 
 
-Updates word count properties of the document, optionally updates Lines property. 
+Updates word count properties of the document, optionally updates [Lines](../../aspose.words.properties/builtindocumentproperties/get_lines/) property.
 

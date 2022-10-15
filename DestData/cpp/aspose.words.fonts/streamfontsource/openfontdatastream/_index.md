@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/streamfontsource/openfontdatastream/
 ## StreamFontSource.OpenFontDataStream method
 
 
-This method should open the stream with font data on demand. 
+This method should open the stream with font data on demand.
 

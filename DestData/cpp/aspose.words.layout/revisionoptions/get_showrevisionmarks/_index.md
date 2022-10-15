@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisionoptions/get_showrevisionmarks/
 ## RevisionOptions.get_ShowRevisionMarks method
 
 
-Allow to specify whether revision text should be marked with special formatting markup. Default value is True. 
+Allow to specify whether revision text should be marked with special formatting markup. Default value is True.
 

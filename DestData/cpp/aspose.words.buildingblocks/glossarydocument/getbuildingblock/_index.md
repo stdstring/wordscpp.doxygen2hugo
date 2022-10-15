@@ -9,5 +9,5 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/getbuildingblock/
 ## GlossaryDocument.GetBuildingBlock method
 
 
-Finds a building block using the specified gallery, category and name. 
+Finds a building block using the specified gallery, category and name.
 

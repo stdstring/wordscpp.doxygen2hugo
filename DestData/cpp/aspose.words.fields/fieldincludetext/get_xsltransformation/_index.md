@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_xsltransformation/
 ## FieldIncludeText.get_XslTransformation method
 
 
-Gets or sets the location of XSL Transformation to format XML data. 
+Gets or sets the location of XSL Transformation to format XML data.
 

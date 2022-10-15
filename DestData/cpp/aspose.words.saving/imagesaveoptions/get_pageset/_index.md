@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_pageset/
 ## ImageSaveOptions.get_PageSet method
 
 
-Gets or sets the pages to render. Default is all the pages in the document. 
+Gets or sets the pages to render. Default is all the pages in the document.
 

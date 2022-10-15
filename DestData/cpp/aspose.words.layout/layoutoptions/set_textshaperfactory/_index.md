@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutoptions/set_textshaperfactory/
 ## LayoutOptions.set_TextShaperFactory method
 
 
-Setter for Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory. 
+Setter for [Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory](./get_textshaperfactory/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_subscript/
 ## Font.get_Subscript method
 
 
-True if the font is formatted as subscript. 
+True if the font is formatted as subscript.
 

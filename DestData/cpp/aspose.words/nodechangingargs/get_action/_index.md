@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodechangingargs/get_action/
 ## NodeChangingArgs.get_Action method
 
 
-Gets a value indicating what type of node change event is occurring. 
+Gets a value indicating what type of node change event is occurring.
 

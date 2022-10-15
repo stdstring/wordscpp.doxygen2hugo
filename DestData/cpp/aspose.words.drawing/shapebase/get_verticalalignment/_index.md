@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_verticalalignment/
 ## ShapeBase.get_VerticalAlignment method
 
 
-Specifies how the shape is positioned vertically. 
+Specifies how the shape is positioned vertically.
 

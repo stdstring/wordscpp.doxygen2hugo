@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitbuildingblockend/
 ## DocumentVisitor.VisitBuildingBlockEnd method
 
 
-Called when enumeration of a building block has ended. 
+Called when enumeration of a building block has ended.
 

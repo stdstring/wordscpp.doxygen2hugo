@@ -9,5 +9,5 @@ url: /cpp/aspose.words/range/get_structureddocumenttags/
 ## Range.get_StructuredDocumentTags method
 
 
-Returns a StructuredDocumentTags collection that represents all structured document tags in the range. 
+Returns a [StructuredDocumentTags](./get_structureddocumenttags/) collection that represents all structured document tags in the range.
 

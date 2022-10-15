@@ -9,5 +9,5 @@ url: /cpp/aspose.words/document/set_glossarydocument/
 ## Document.set_GlossaryDocument method
 
 
-Setter for Aspose::Words::Document::get_GlossaryDocument. 
+Setter for [Aspose::Words::Document::get_GlossaryDocument](./get_glossarydocument/).
 

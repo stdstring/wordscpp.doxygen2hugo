@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/pdfencryptiondetails/
 ## PdfEncryptionDetails.PdfEncryptionDetails method
 
 
-Initializes an instance of this class. 
+Initializes an instance of this class.
 

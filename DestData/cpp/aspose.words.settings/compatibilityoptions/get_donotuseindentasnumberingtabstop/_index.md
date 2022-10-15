@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotuseindentasnumberi
 ## CompatibilityOptions.get_DoNotUseIndentAsNumberingTabStop method
 
 
-Ignore Hanging Indent When Creating Tab Stop After Numbering. 
+Ignore Hanging Indent When Creating Tab Stop After Numbering.
 

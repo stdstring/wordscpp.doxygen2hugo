@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/pagesavingargs/get_pageindex/
 ## PageSavingArgs.get_PageIndex method
 
 
-Current page index. 
+Current page index.
 

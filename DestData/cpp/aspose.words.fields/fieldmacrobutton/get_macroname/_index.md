@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/get_macroname/
 ## FieldMacroButton.get_MacroName method
 
 
-Gets or sets the name of the macro or command to run. 
+Gets or sets the name of the macro or command to run.
 

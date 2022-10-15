@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldta/get_isbold/
 ## FieldTA.get_IsBold method
 
 
-Gets or sets whether to apply bold formatting to the page number for the entry. 
+Gets or sets whether to apply bold formatting to the page number for the entry.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/writeprotection/setpassword/
 ## WriteProtection.SetPassword method
 
 
-Sets the write protection password for the document. 
+Sets the write protection password for the document.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/convertutil/millimetertopoint/
 ## ConvertUtil.MillimeterToPoint method
 
 
-Converts millimeters to points. 
+Converts millimeters to points.
 

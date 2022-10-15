@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/revisioncolor/
 ## RevisionColor enum
 
 
-Allows to specify color of document revisions. 
+Allows to specify color of document revisions.
 

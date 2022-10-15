@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_lockcontentcontrol/
 ## StructuredDocumentTag.set_LockContentControl method
 
 
-Setter for Aspose::Words::Markup::StructuredDocumentTag::get_LockContentControl. 
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_LockContentControl](./get_lockcontentcontrol/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/viewoptions/get_formsdesign/
 ## ViewOptions.get_FormsDesign method
 
 
-Specifies whether the document is in forms design mode. 
+Specifies whether the document is in forms design mode.
 

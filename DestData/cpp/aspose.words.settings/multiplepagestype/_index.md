@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/multiplepagestype/
 ## MultiplePagesType enum
 
 
-Specifies how document is printed out. 
+Specifies how document is printed out.
 

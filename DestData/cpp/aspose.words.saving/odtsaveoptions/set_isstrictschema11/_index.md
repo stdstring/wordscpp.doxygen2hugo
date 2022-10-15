@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/odtsaveoptions/set_isstrictschema11/
 ## OdtSaveOptions.set_IsStrictSchema11 method
 
 
-Setter for Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11. 
+Setter for [Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11](./get_isstrictschema11/).
 

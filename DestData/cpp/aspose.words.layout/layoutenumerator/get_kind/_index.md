@@ -9,5 +9,5 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_kind/
 ## LayoutEnumerator.get_Kind method
 
 
-Gets the kind of the current entity. This can be an empty string but never null. 
+Gets the kind of the current entity. This can be an empty string but never null.
 

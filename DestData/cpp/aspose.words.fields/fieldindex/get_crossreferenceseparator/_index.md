@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldindex/get_crossreferenceseparator/
 ## FieldIndex.get_CrossReferenceSeparator method
 
 
-Gets or sets the character sequence that is used to separate cross references and other entries. 
+Gets or sets the character sequence that is used to separate cross references and other entries.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/headerfootercollection/idx_get/
 ## HeaderFooterCollection.idx_get method
 
 
-Retrieves a **HeaderFooter** of the specified type. 
+Retrieves a **HeaderFooter** of the specified type.
 
 ---
 title: idx_get
@@ -22,5 +22,5 @@ url: /cpp/aspose.words/headerfootercollection/idx_get/
 ## HeaderFooterCollection.idx_get method
 
 
-Retrieves a **HeaderFooter** at the given index. 
+Retrieves a **HeaderFooter** at the given index.
 

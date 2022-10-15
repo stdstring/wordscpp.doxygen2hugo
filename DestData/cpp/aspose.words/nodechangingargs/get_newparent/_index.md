@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodechangingargs/get_newparent/
 ## NodeChangingArgs.get_NewParent method
 
 
-Gets the node's parent that will be set after the operation completes. 
+Gets the node's parent that will be set after the operation completes.
 

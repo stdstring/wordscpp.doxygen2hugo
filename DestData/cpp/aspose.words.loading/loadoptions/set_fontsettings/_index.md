@@ -9,5 +9,5 @@ url: /cpp/aspose.words.loading/loadoptions/set_fontsettings/
 ## LoadOptions.set_FontSettings method
 
 
-Setter for Aspose::Words::Loading::LoadOptions::get_FontSettings. 
+Setter for [Aspose::Words::Loading::LoadOptions::get_FontSettings](./get_fontsettings/).
 

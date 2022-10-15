@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldta/set_pagerangebookmarkname/
 ## FieldTA.set_PageRangeBookmarkName method
 
 
-Setter for Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName. 
+Setter for [Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName](./get_pagerangebookmarkname/).
 

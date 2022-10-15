@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_fontname/
 ## FieldSymbol.get_FontName method
 
 
-Gets or sets the name of the font of the character retrieved by the field. 
+Gets or sets the name of the font of the character retrieved by the field.
 

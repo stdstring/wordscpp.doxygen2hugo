@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shape/get_textbox/
 ## Shape.get_TextBox method
 
 
-Defines attributes that specify how text is displayed in a shape. 
+Defines attributes that specify how text is displayed in a shape.
 

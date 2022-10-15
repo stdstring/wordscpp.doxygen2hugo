@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing.charts/axisticklabelposition/
 ## AxisTickLabelPosition enum
 
 
-Specifies the possible positions for tick labels. 
+Specifies the possible positions for tick labels.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_template/
 ## BuiltInDocumentProperties.get_Template method
 
 
-Gets or sets the informational name of the document template. 
+Gets or sets the informational name of the document template.
 

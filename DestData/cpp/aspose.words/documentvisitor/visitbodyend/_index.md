@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitbodyend/
 ## DocumentVisitor.VisitBodyEnd method
 
 
-Called when enumeration of the main text story in a section has ended. 
+Called when enumeration of the main text story in a section has ended.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldinclude/set_textconverter/
 ## FieldInclude.set_TextConverter method
 
 
-Setter for Aspose::Words::Fields::FieldInclude::get_TextConverter. 
+Setter for [Aspose::Words::Fields::FieldInclude::get_TextConverter](./get_textconverter/).
 

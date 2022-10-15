@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_isinline/
 ## ShapeBase.get_IsInline method
 
 
-A quick way to determine if this shape is positioned inline with text. 
+A quick way to determine if this shape is positioned inline with text.
 

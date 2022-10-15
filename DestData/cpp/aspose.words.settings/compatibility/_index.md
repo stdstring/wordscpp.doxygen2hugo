@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibility/
 ## Compatibility enum
 
 
-Specifies names of compatibility options. 
+Specifies names of compatibility options.
 

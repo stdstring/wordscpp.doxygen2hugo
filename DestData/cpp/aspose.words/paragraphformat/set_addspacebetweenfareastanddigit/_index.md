@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_addspacebetweenfareastanddigit/
 ## ParagraphFormat.set_AddSpaceBetweenFarEastAndDigit method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndDigit. 
+Setter for [Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndDigit](./get_addspacebetweenfareastanddigit/).
 

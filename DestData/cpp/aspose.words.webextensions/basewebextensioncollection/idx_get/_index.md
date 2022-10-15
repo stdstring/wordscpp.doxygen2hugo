@@ -9,5 +9,5 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/idx_get/
 ## BaseWebExtensionCollection.idx_get method
 
 
-Gets or sets an item at the specified index. 
+Gets or sets an item at the specified index.
 

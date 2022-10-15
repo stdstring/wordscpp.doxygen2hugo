@@ -9,5 +9,5 @@ url: /cpp/aspose.words.themes/themecolors/set_accent1/
 ## ThemeColors.set_Accent1 method
 
 
-Setter for Aspose::Words::Themes::ThemeColors::get_Accent1. 
+Setter for [Aspose::Words::Themes::ThemeColors::get_Accent1](./get_accent1/).
 

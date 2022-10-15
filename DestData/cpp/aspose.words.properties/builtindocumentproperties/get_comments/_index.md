@@ -9,5 +9,5 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_comments/
 ## BuiltInDocumentProperties.get_Comments method
 
 
-Gets or sets the document comments. 
+Gets or sets the document comments.
 

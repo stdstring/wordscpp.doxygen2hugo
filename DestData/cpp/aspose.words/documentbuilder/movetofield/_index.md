@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentbuilder/movetofield/
 ## DocumentBuilder.MoveToField method
 
 
-Moves the cursor to a field in the document. 
+Moves the cursor to a field in the document.
 

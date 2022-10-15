@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotbreakwrappedtables
 ## CompatibilityOptions.get_DoNotBreakWrappedTables method
 
 
-Do Not Allow Floating Tables To Break Across Pages. 
+Do Not Allow Floating [Tables](../../aspose.words.tables/) To Break Across Pages.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/saveoptions/set_tempfolder/
 ## SaveOptions.set_TempFolder method
 
 
-Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder. 
+Setter for [Aspose::Words::Saving::SaveOptions::get_TempFolder](./get_tempfolder/).
 

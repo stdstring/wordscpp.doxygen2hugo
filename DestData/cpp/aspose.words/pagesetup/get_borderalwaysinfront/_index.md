@@ -9,5 +9,5 @@ url: /cpp/aspose.words/pagesetup/get_borderalwaysinfront/
 ## PageSetup.get_BorderAlwaysInFront method
 
 
-Specifies where the page border is positioned relative to intersecting texts and objects. 
+Specifies where the page border is positioned relative to intersecting texts and objects.
 

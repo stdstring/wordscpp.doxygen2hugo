@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/joinstyle/
 ## JoinStyle enum
 
 
-Line join style. 
+Line join style.
 

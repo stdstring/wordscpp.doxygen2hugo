@@ -9,5 +9,5 @@ url: /cpp/aspose.words/inodechangingcallback/nodeinserted/
 ## INodeChangingCallback.NodeInserted method
 
 
-Called when a node belonging to this document has been inserted into another node. 
+Called when a node belonging to this document has been inserted into another node.
 

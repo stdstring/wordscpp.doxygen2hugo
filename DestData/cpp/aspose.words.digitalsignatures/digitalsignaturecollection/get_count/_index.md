@@ -9,5 +9,5 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/get_count/
 ## DigitalSignatureCollection.get_Count method
 
 
-Gets the number of elements contained in the collection. 
+Gets the number of elements contained in the collection.
 

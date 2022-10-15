@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/physicalfontinfo/get_version/
 ## PhysicalFontInfo.get_Version method
 
 
-Version string of the font. 
+Version string of the font.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fielduseraddress/get_useraddress/
 ## FieldUserAddress.get_UserAddress method
 
 
-Gets or sets the current user's postal address. 
+Gets or sets the current user's postal address.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/importformatoptions/set_ignoreheaderfooter/
 ## ImportFormatOptions.set_IgnoreHeaderFooter method
 
 
-Setter for Aspose::Words::ImportFormatOptions::get_IgnoreHeaderFooter. 
+Setter for [Aspose::Words::ImportFormatOptions::get_IgnoreHeaderFooter](./get_ignoreheaderfooter/).
 

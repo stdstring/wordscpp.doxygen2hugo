@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/oleformat/get_sourceitem/
 ## OleFormat.get_SourceItem method
 
 
-Gets or sets a string that is used to identify the portion of the source file that is being linked. 
+Gets or sets a string that is used to identify the portion of the source file that is being linked.
 

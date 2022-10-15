@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/sdtlistitem/sdtlistitem/
 ## SdtListItem.SdtListItem method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 
 ---
 title: SdtListItem
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.markup/sdtlistitem/sdtlistitem/
 ## SdtListItem.SdtListItem method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

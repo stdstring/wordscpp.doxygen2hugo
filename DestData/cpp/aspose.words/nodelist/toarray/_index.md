@@ -9,5 +9,5 @@ url: /cpp/aspose.words/nodelist/toarray/
 ## NodeList.ToArray method
 
 
-Copies all nodes from the collection to a new array of nodes. 
+Copies all nodes from the collection to a new array of nodes.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.saving/wordml2003saveoptions/set_saveformat/
 ## WordML2003SaveOptions.set_SaveFormat method
 
 
-Setter for Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat. 
+Setter for [Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat](./get_saveformat/).
 

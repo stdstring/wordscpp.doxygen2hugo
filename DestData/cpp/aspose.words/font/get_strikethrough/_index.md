@@ -9,5 +9,5 @@ url: /cpp/aspose.words/font/get_strikethrough/
 ## Font.get_StrikeThrough method
 
 
-True if the font is formatted as strikethrough text. 
+True if the font is formatted as strikethrough text.
 

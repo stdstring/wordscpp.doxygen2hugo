@@ -9,5 +9,5 @@ url: /cpp/aspose.words.math/officemath/get_parentparagraph/
 ## OfficeMath.get_ParentParagraph method
 
 
-Retrieves the parent Paragraph of this node. 
+Retrieves the parent [Paragraph](../../aspose.words/paragraph/) of this node.
 

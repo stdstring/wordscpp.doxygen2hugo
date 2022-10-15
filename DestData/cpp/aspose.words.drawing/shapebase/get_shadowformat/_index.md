@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/get_shadowformat/
 ## ShapeBase.get_ShadowFormat method
 
 
-Gets shadow formatting for the shape. 
+Gets shadow formatting for the shape.
 

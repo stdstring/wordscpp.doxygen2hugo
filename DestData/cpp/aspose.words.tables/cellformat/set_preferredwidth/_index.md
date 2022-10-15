@@ -9,5 +9,5 @@ url: /cpp/aspose.words.tables/cellformat/set_preferredwidth/
 ## CellFormat.set_PreferredWidth method
 
 
-Setter for Aspose::Words::Tables::CellFormat::get_PreferredWidth. 
+Setter for [Aspose::Words::Tables::CellFormat::get_PreferredWidth](./get_preferredwidth/).
 

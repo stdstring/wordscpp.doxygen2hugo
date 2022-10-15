@@ -9,5 +9,5 @@ url: /cpp/aspose.words.replacing/replacingargs/set_groupname/
 ## ReplacingArgs.set_GroupName method
 
 
-Setter for Aspose::Words::Replacing::ReplacingArgs::get_GroupName. 
+Setter for [Aspose::Words::Replacing::ReplacingArgs::get_GroupName](./get_groupname/).
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_relativeverticalposition/
 ## ShapeBase.set_RelativeVerticalPosition method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition](./get_relativeverticalposition/).
 

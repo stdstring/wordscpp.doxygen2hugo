@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/shapebase/set_allowoverlap/
 ## ShapeBase.set_AllowOverlap method
 
 
-Setter for Aspose::Words::Drawing::ShapeBase::get_AllowOverlap. 
+Setter for [Aspose::Words::Drawing::ShapeBase::get_AllowOverlap](./get_allowoverlap/).
 

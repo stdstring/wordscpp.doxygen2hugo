@@ -9,5 +9,5 @@ url: /cpp/aspose.words.markup/xmlmapping/get_xpath/
 ## XmlMapping.get_XPath method
 
 
-Returns the XPath expression, which is evaluated to find the custom XML node that is mapped to the parent structured document tag. 
+Returns the XPath expression, which is evaluated to find the custom XML node that is mapped to the parent structured document tag.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/section/accept/
 ## Section.Accept method
 
 
-Accepts a visitor. 
+Accepts a visitor.
 

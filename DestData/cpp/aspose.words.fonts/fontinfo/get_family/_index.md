@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fonts/fontinfo/get_family/
 ## FontInfo.get_Family method
 
 
-Gets or sets the font family this font belongs to. 
+Gets or sets the font family this font belongs to.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/imagedata/set_bilevel/
 ## ImageData.set_BiLevel method
 
 
-Setter for Aspose::Words::Drawing::ImageData::get_BiLevel. 
+Setter for [Aspose::Words::Drawing::ImageData::get_BiLevel](./get_bilevel/).
 

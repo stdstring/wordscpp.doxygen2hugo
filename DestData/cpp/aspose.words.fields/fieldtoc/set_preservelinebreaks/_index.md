@@ -9,5 +9,5 @@ url: /cpp/aspose.words.fields/fieldtoc/set_preservelinebreaks/
 ## FieldToc.set_PreserveLineBreaks method
 
 
-Setter for Aspose::Words::Fields::FieldToc::get_PreserveLineBreaks. 
+Setter for [Aspose::Words::Fields::FieldToc::get_PreserveLineBreaks](./get_preservelinebreaks/).
 

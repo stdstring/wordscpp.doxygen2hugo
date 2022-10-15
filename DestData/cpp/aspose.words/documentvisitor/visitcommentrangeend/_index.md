@@ -9,5 +9,5 @@ url: /cpp/aspose.words/documentvisitor/visitcommentrangeend/
 ## DocumentVisitor.VisitCommentRangeEnd method
 
 
-Called when the end of a commented range of text is encountered. 
+Called when the end of a commented range of text is encountered.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words.drawing/stroke/set_endarrowwidth/
 ## Stroke.set_EndArrowWidth method
 
 
-Setter for Aspose::Words::Drawing::Stroke::get_EndArrowWidth. 
+Setter for [Aspose::Words::Drawing::Stroke::get_EndArrowWidth](./get_endarrowwidth/).
 

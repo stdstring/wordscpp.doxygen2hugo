@@ -9,5 +9,5 @@ url: /cpp/aspose.words/commentrangeend/get_nodetype/
 ## CommentRangeEnd.get_NodeType method
 
 
-Returns CommentRangeEnd. 
+Returns **CommentRangeEnd**.
 

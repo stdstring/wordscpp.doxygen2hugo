@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/preferredwidth/equals/
 ## PreferredWidth.Equals method
 
 
-Determines whether the specified PreferredWidth is equal in value to the current PreferredWidth. 
+Determines whether the specified [PreferredWidth](./) is equal in value to the current [PreferredWidth](./).
 
 ---
 title: Equals
@@ -22,5 +22,5 @@ url: /cpp/aspose.words.tables/preferredwidth/equals/
 ## PreferredWidth.Equals method
 
 
-Determines whether the specified object is equal in value to the current object. 
+Determines whether the specified object is equal in value to the current object.
 

@@ -9,5 +9,5 @@ url: /cpp/aspose.words/commentrangestart/commentrangestart/
 ## CommentRangeStart.CommentRangeStart method
 
 
-Initializes a new instance of this class. 
+Initializes a new instance of this class.
 

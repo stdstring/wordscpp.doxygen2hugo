@@ -9,5 +9,5 @@ url: /cpp/aspose.words/paragraphformat/set_alignment/
 ## ParagraphFormat.set_Alignment method
 
 
-Setter for Aspose::Words::ParagraphFormat::get_Alignment. 
+Setter for [Aspose::Words::ParagraphFormat::get_Alignment](./get_alignment/).
 

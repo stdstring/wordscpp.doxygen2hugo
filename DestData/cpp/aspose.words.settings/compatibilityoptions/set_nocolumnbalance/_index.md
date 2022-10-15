@@ -9,5 +9,5 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_nocolumnbalance/
 ## CompatibilityOptions.set_NoColumnBalance method
 
 
-Do Not Balance Text Columns within a Section. 
+Do Not Balance Text Columns within a [Section](../../aspose.words/section/).
 

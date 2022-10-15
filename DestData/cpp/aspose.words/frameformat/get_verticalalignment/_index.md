@@ -9,5 +9,5 @@ url: /cpp/aspose.words/frameformat/get_verticalalignment/
 ## FrameFormat.get_VerticalAlignment method
 
 
-Gets vertical alignment of the specified frame. 
+Gets vertical alignment of the specified frame.
 
