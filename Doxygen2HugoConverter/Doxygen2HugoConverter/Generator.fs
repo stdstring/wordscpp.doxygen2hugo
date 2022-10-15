@@ -3,6 +3,8 @@
 open System.Collections.Generic
 open System.IO
 open System.Text
+open GeneratorUtils
+open MarkupGenerator
 
 type KeyValueEntry = {Key: string; Value: string}
 
@@ -59,8 +61,6 @@ let generateUrl (isRelative: bool) (url: string[]) =
     | true -> sprintf $"{result}/"
     | false -> sprintf $"/{result}/"
 
-let generateChildUrl (folderName: string) = sprintf $"./{folderName}/"
-
 let generateRelativeUrlForEntity (context: Context) (entityId: string) =
     match entityId |> context.CommonEntityRepo.ContainsKey with
     | false -> None
@@ -68,39 +68,6 @@ let generateRelativeUrlForEntity (context: Context) (entityId: string) =
         let entityUrl = entityId |> createUrlForEntity context
         let relativeUrl = createRelativeUrl context.Url entityUrl
         relativeUrl |> generateUrl true |> Some
-
-let generateLink (name: string) (url: string) = $"[{name}]({url})"
-
-let generateBriefDescriptionForTitle (description: Defs.Description) =
-    let result = new StringBuilder()
-    for markupEntry in description.Brief do
-        match markupEntry with
-        | Defs.MarkupDef.Text text -> text |> result.Append |> ignore
-        | Defs.MarkupDef.Ref data -> data.Text |> result.Append |> ignore
-        | _ -> ()
-    result.ToString()
-
-let generateBriefDescription (context: Context) (description: Defs.Description) =
-    let result = new StringBuilder()
-    for markupEntry in description.Brief do
-        match markupEntry with
-        | Defs.MarkupDef.Text text -> text |> result.Append |> ignore
-        | Defs.MarkupDef.Ref data ->
-            match data.RefId |> generateRelativeUrlForEntity context with
-            | Some relativeUrl ->
-                relativeUrl |> generateLink data.Text |> result.Append |> ignore
-            | None ->
-                "**" |> result.Append |> ignore
-                data.Text |> result.Append |> ignore
-                "**" |> result.Append |> ignore
-        //| MarkupDef.ParagraphStart -> result.AppendLine() |> ignore
-        //| MarkupDef.ParagraphEnd -> result.AppendLine() |> ignore
-        | Defs.MarkupDef.ParagraphStart -> ()
-        | Defs.MarkupDef.ParagraphEnd -> ()
-        | Defs.MarkupDef.BoldStart -> "**" |> result.Append |> ignore
-        | Defs.MarkupDef.BoldEnd -> "**" |> result.Append |> ignore
-    // TODO (std_string) : think about removing call of Trim method
-    result.ToString().Trim()
 
 let generatePageHeader (dest: StringBuilder) (data: seq<KeyValueEntry>) =
     "---" |> dest.AppendLine |> ignore
@@ -158,15 +125,15 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
     enumDirectory |> Directory.CreateDirectory |> ignore
     let enumUrl = [|folderName|] |> Array.append context.Url
     let builder = new StringBuilder()
-    let descriptionForTitle = enumDef.Description |> generateBriefDescriptionForTitle
+    let descriptionForTitle = enumDef.Description |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader enumDef.Name descriptionForTitle enumUrl
     builder |> generateHeader (sprintf $"{enumDef.Name} enum") 2
-    let briefDescription = enumDef.Description |> generateBriefDescription context
+    let briefDescription = enumDef.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())
-    {GenerateEntry.Title = folderName |> generateChildUrl |> generateLink enumDef.Name;
+    {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink enumDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
 
 let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
@@ -175,21 +142,22 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     typedefDirectory |> Directory.CreateDirectory |> ignore
     let typedefUrl = [|folderName|] |> Array.append context.Url
     let builder = new StringBuilder()
-    let descriptionForTitle = typedefDef.Description |> generateBriefDescriptionForTitle
+    let descriptionForTitle = typedefDef.Description |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader typedefDef.Name descriptionForTitle typedefUrl
     builder |> generateHeader (sprintf $"{typedefDef.Name} typedef") 2
-    let briefDescription = typedefDef.Description |> generateBriefDescription context
+    let briefDescription = typedefDef.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     File.AppendAllText(Path.Combine(typedefDirectory, Common.MarkdownFilename), builder.ToString())
-    {GenerateEntry.Title = folderName |> generateChildUrl |> generateLink typedefDef.Name;
+    {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink typedefDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
 
-let generateTypeRepresentation (sourceType: Defs.TextWithRefs list) =
+let generateTypeRepresentation (sourceType: Markup.SimpleMarkupDef list) =
     let mapFun = fun part -> match part with
-                             | Defs.TextWithRefs.Text text -> text
-                             | Defs.TextWithRefs.Ref data -> data.Text
+                             | Markup.SimpleMarkupDef.Text text -> text
+                             | Markup.SimpleMarkupDef.Ref data -> data.Text
+                             | _ -> failwith "Unsupported markup element for type"
     let typeRepresentation = sourceType |> Seq.map mapFun |> String.concat ""
     typeRepresentation.Replace("< ", "\\<").Replace(" >", "\\>").Replace(" &", "\\&")
 
@@ -206,7 +174,7 @@ let createMethodEntry (context: Context) (relativeUrl: string) (methodDef: Defs.
         "explicit " |> builder.Append |> ignore
     if methodDef.IsStatic then
         "static " |> builder.Append |> ignore
-    relativeUrl |> generateLink methodDef.Name |> builder.Append |> ignore
+    relativeUrl |> GenerateLink methodDef.Name |> builder.Append |> ignore
     "(" |> builder.Append |> ignore
     methodDef.Parameters |> generateParameterList builder
     ")" |> builder.Append |> ignore
@@ -214,7 +182,7 @@ let createMethodEntry (context: Context) (relativeUrl: string) (methodDef: Defs.
         " const" |> builder.Append |> ignore
     if methodDef.IsOverride then
         " override" |> builder.Append |> ignore
-    let briefDescription = methodDef.Description |> generateBriefDescription context
+    let briefDescription = methodDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
     {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
 
 let createMemberEntry (context: Context) (memberRef: Refs.MemberRef) =
@@ -235,10 +203,10 @@ let generateForDirectMethod (context: Context) (methodDef: Defs.MethodDef) =
     methodDirectory |> Directory.CreateDirectory |> ignore
     let methodUrl = [|folderName|] |> Array.append context.Url
     let builder = new StringBuilder()
-    let descriptionForTitle = methodDef.Description |> generateBriefDescriptionForTitle
+    let descriptionForTitle = methodDef.Description |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
     builder |> generateHeader (sprintf $"{methodDef.ClassName}.{methodDef.Name} method") 2
-    let briefDescription = methodDef.Description |> generateBriefDescription context
+    let briefDescription = methodDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
@@ -256,10 +224,10 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     let classUrl = [|folderName|] |> Array.append context.Url
     let currentContext = {context with Directory = classDirectory; Url = classUrl}
     let builder = new StringBuilder()
-    let descriptionForTitle = classDef.Description |> generateBriefDescriptionForTitle
+    let descriptionForTitle = classDef.Description |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
     builder |> generateHeader (sprintf $"{classDef.Name} {classDef |> generateClassKind}") 2
-    let briefDescription = classDef.Description |> generateBriefDescription context
+    let briefDescription = classDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
@@ -271,7 +239,7 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
                 |> Seq.choose (fun memberRef -> memberRef |> createMemberEntry currentContext)
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())
-    {GenerateEntry.Title = folderName |> generateChildUrl |> generateLink classDef.Name;
+    {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink classDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
 
 let generateForNamespace (context: Context) (namespaceDef: Defs.NamespaceDef) =
@@ -284,9 +252,9 @@ let generateForNamespace (context: Context) (namespaceDef: Defs.NamespaceDef) =
         let namespaceUrl = [|folderName|] |> Array.append context.Url
         let currentContext = {context with Directory = namespaceDirectory; Url = namespaceUrl}
         let builder = new StringBuilder()
-        let descriptionForTitle = namespaceDef.Description |> generateBriefDescriptionForTitle
+        let descriptionForTitle = namespaceDef.Description |> GenerateBriefDescriptionForTitle
         builder |> generateDefPageHeader namespaceDef.Name descriptionForTitle namespaceUrl
-        let briefDescription = namespaceDef.Description |> generateBriefDescription context
+        let briefDescription = namespaceDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
         builder.AppendLine() |> ignore
         briefDescription |> builder.AppendLine |> ignore
         builder.AppendLine() |> ignore
@@ -315,7 +283,7 @@ let generateForNamespace (context: Context) (namespaceDef: Defs.NamespaceDef) =
                 |> Seq.map (fun def -> def |> generateForTypedef currentContext)
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         File.AppendAllText(Path.Combine(namespaceDirectory, Common.MarkdownFilename), builder.ToString())
-        {GenerateEntry.Title = folderName |> generateChildUrl |> generateLink namespaceDef.Name;
+        {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink namespaceDef.Name;
          GenerateEntry.BriefDescription = briefDescription} |> Some
 
 let generateDest (config: Config.ConfigData) (repo: IDictionary<string, Defs.EntityDef>) (namespaceDefs: Defs.NamespaceDef list) =

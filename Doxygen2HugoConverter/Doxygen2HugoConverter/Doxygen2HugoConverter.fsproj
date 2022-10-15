@@ -10,7 +10,10 @@
     <Compile Include="Config.fs" />
     <Compile Include="Utils.fs" />
     <Compile Include="Refs.fs" />
+    <Compile Include="Markup.fs" />
     <Compile Include="Defs.fs" />
+    <Compile Include="GeneratorUtils.fs" />
+    <Compile Include="MarkupGenerator.fs" />
     <Compile Include="Generator.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>

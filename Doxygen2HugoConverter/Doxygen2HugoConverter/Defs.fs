@@ -3,22 +3,9 @@
 open System.Collections.Generic
 open System.IO
 open System.Xml.Linq
+open Markup
 
-type MarkupRef = {RefId: string; Kind: string option; External: string option; Text: string}
-
-type MarkupDef =
-    | Text of string
-    | ParagraphStart
-    | ParagraphEnd
-    | BoldStart
-    | BoldEnd
-    | Ref of MarkupRef
-
-type TextWithRefs =
-    | Text of string
-    | Ref of MarkupRef
-
-type Description = {Brief: MarkupDef list; Detailed: string}
+type Description = {Brief: SimpleMarkupDef list; Detailed: string}
 
 type EnumValueDef = {Id: string;
                      Name: string;
@@ -41,7 +28,7 @@ type TypedefDef = {Id: string;
                    Definition: string;
                    Description: Description}
 
-type MethodParameterDef = {Name: string; Type: TextWithRefs list}
+type MethodParameterDef = {Name: string; Type: SimpleMarkupDef list}
 
 type MethodDef = {Id: string;
                   ParentId: string;
@@ -54,7 +41,7 @@ type MethodDef = {Id: string;
                   IsOverride: bool;
                   Description: Description;
                   Parameters: MethodParameterDef list;
-                  ReturnType: TextWithRefs list}
+                  ReturnType: SimpleMarkupDef list}
 
 type ClassKind = 
     | Class
@@ -119,50 +106,7 @@ let findYesNoValue (name: string) (source: XElement) =
     | Some "yes" -> true
     | _ -> name |> failwithf "Unexpected \"%s\" attribute value"
 
-let parseMarkupRef (source: XElement) =
-    let refId = "refid" |> Utils.getAttributeValue source
-    let kind = "kindref" |> Utils.findAttributeValue source
-    let external = "external" |> Utils.findAttributeValue source
-    let text = source.Value
-    {MarkupRef.RefId = refId; MarkupRef.Kind = kind; MarkupRef.External = external; MarkupRef.Text = text}
-
-let parseTextWithMarkupRefs (source: XElement) =
-    let parseFun (node: XNode) =
-        match node with
-        | :? XElement ->
-            let element = node :?> XElement
-            match element.Name.LocalName with
-            | "ref" -> element |> parseMarkupRef |> TextWithRefs.Ref
-            | name -> name |> failwithf "Unexpected text with refs XML element with name \"%s\""
-        | :? XText -> (node :?> XText).Value |> TextWithRefs.Text
-        | _ -> node.NodeType |> failwithf "Unexpected text with refs XML node with type %A"
-    source.Nodes() |> Seq.map parseFun |> Seq.toList
-
-let rec parseMarkup (node: XNode) =
-    match node with
-    | :? XElement ->
-        let element = node :?> XElement
-        match element.Name.LocalName with
-        | "para" ->
-            seq {yield MarkupDef.ParagraphStart; yield! element.Nodes() |> Seq.map parseMarkup |> Seq.concat; yield MarkupDef.ParagraphEnd}
-        | "bold" ->
-            seq {yield MarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseMarkup |> Seq.concat; yield MarkupDef.BoldEnd}
-        // TODO (std_string) : think about processing of computeroutput node
-        | "computeroutput" ->
-            seq {yield MarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseMarkup |> Seq.concat; yield MarkupDef.BoldEnd}
-        | "ref" ->
-            seq {yield element |> parseMarkupRef |> MarkupDef.Ref}
-        | name -> name |> failwithf "Unexpected Markup XML element with name \"%s\""
-    | :? XText -> (node :?> XText).Value |> MarkupDef.Text |> Seq.singleton
-    | _ -> node.NodeType |> failwithf "Unexpected Markup XML node with type %A"
-
-let parseBriefDescription (briefDescriptionElement: XElement) =
-    match briefDescriptionElement.IsEmpty with
-    | true -> []
-    | false ->
-        match briefDescriptionElement.Nodes() |> Seq.toList with
-        | [] -> []
-        | nodes -> nodes |> Seq.map parseMarkup |> Seq.concat |>  Seq.toList
+let parseBriefDescription (briefDescriptionElement: XElement) = briefDescriptionElement |> Markup.parseMarkup
 
 let parseDescription (source: XElement) =
     let brief = source.Element("briefdescription") |> parseBriefDescription
@@ -222,7 +166,7 @@ let parseTypedefDef (context: Context) (source: XElement) =
 
 let parseMethodParameter (source: XElement) =
     let paramName = "declname" |> Utils.getElementValue source
-    let paramType = "type" |> Utils.getElement source |> parseTextWithMarkupRefs
+    let paramType = "type" |> Utils.getElement source |> Markup.parseMarkup
     {MethodParameterDef.Name = paramName; MethodParameterDef.Type = paramType}
 
 [<Literal>]
@@ -236,7 +180,7 @@ let parseMethodDef (context: Context) (source: XElement) =
     let virtualValue = source |> getVirtualValue
     let name = "name" |> Utils.getElementValue source
     //let qualifiedName = "qualifiedname" |> getElementValue source
-    let returnType = "type" |> Utils.getElement source |> parseTextWithMarkupRefs
+    let returnType = "type" |> Utils.getElement source |> Markup.parseMarkup
     //let definition = "definition" |> getElementValue source
     let argString = "argsstring" |> Utils.getElementValue source
     let description = source |> parseDescription
