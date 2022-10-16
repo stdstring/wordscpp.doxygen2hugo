@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/htmlversion/
 
 Indicates the version of HTML is used when saving the document to **Html** and **Mhtml** formats.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Xhtml | `0` | Saves the document in compliance with the XHTML 1.0 Transitional standard. |
+| Html5 | `0` | Saves the document in compliance with the HTML 5 standard. |
+
 
 ## Examples
 

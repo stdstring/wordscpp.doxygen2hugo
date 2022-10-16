@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/imlrenderingmode/
 
 Specifies how ink (InkML) objects are rendered to fixed page formats.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Fallback | `0` | If fall-back shape is available for ink (InkML) object, Aspose.Words renders fall-back shape instead of the InkML. |
+| InkML | `0` | Aspose.Words ignores fall-back shape of ink (InkML) object and renders InkML itself. This is the default mode. |
+
 
 ## Examples
 

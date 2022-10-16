@@ -11,6 +11,21 @@ url: /cpp/aspose.words.drawing/textboxanchor/
 
 Specifies values used for shape text vertical alignment.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Top | `0` | Text is aligned to the top of the textbox. |
+| Middle | `0` | Text is aligned to the middle of the textbox. |
+| Bottom | `0` | Text is aligned to the bottom of the textbox. |
+| TopCentered | `0` | Text is aligned to the top centered of the textbox. |
+| MiddleCentered | `0` | Text is aligned to the middle centered of the textbox. |
+| BottomCentered | `0` | Text is aligned to the bottom centered of the textbox. |
+| TopBaseline | `0` | Text is aligned to the top baseline of the textbox. |
+| BottomBaseline | `0` | Text is aligned to the bottom baseline of the textbox. |
+| TopCenteredBaseline | `0` | Text is aligned to the top centered baseline of the textbox. |
+| BottomCenteredBaseline | `0` | Text is aligned to the bottom centered baseline of the textbox. |
+
 
 ## Examples
 

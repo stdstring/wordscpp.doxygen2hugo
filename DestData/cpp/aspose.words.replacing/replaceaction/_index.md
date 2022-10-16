@@ -11,6 +11,14 @@ url: /cpp/aspose.words.replacing/replaceaction/
 
 Allows the user to specify what happens to the current match during a replace operation.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Replace | `0` | Replace the current match. |
+| Skip | `0` | Skip the current match. |
+| Stop | `0` | Terminate the replace operation. |
+
 
 ## Examples
 

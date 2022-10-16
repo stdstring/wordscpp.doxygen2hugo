@@ -11,6 +11,15 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturehashalgorithm/
 
 Specifies a digital hash algorithm used by a digital signature.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Sha256 | `0` | SHA-256 hash algorithm. |
+| Sha384 | `0` | SHA-384 hash algorithm. |
+| Sha512 | `0` | SHA-512 hash algorithm. |
+| RipeMD160 | `0` | RIPEMD-160 hash algorithm. |
+
 
 ## Examples
 

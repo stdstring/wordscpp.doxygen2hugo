@@ -11,6 +11,13 @@ url: /cpp/aspose.words/watermarklayout/
 
 Defines layout of the watermark relative to the watermark center.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Horizontal | `0` | Horizontal watermark layout. Corresponds to 0 degrees of rotation. |
+| Diagonal | `0` | Diagonal watermark layout. Corresponds to 315 degrees of rotation. |
+
 
 ## Examples
 

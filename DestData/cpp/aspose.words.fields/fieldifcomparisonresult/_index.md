@@ -11,6 +11,14 @@ url: /cpp/aspose.words.fields/fieldifcomparisonresult/
 
 Specifies the result of the IF field condition evaluation.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Error | `0` | There is an error in the condition. |
+| True | `0` | The condition is **true**. |
+| False | `0` | The condition is **false**. |
+
 
 ## Examples
 

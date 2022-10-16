@@ -11,3 +11,11 @@ url: /cpp/aspose.words.drawing/horizontalrulealignment/
 
 Represents the alignment for the specified horizontal rule.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Left | `0` | Aligned to the left. |
+| Center | `0` | Aligned to the center. |
+| Right | `0` | Aligned to the right. |
+

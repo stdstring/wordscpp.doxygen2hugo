@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/odtsavemeasureunit/
 
 Specified units of measure to apply to measurable document content such as shape, widths and other during saving.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Centimeters | `0` | Specifies that the document content is saved using centimeters. |
+| Inches | `0` | Specifies that the document content is saved using inches. |
+
 
 ## Examples
 

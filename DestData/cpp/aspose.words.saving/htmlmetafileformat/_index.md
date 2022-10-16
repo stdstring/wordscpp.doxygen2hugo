@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/htmlmetafileformat/
 
 Indicates the format in which metafiles are saved to HTML documents.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Png | `0` | Metafiles are rendered to raster PNG images. |
+| Svg | `0` | Metafiles are converted to vector SVG images. |
+| EmfOrWmf | `0` | Metafiles are saved as is, without conversion. |
+
 
 ## Examples
 

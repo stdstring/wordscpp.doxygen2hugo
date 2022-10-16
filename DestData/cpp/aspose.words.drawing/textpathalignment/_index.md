@@ -11,6 +11,17 @@ url: /cpp/aspose.words.drawing/textpathalignment/
 
 WordArt alignment.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Stretch | `0` | Stretch each line of text to fit width. |
+| Center | `0` | Center text on width. |
+| Left | `0` | Left justify. |
+| Right | `0` | Right justify. |
+| LetterJustify | `0` | Spread letters out to fit width. |
+| WordJustify | `0` | Spread words out to fit width. |
+
 
 ## Examples
 

@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/imagebinarizationmethod/
 
 Specifies the method used to binarize image.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Threshold | `0` | Specifies threshold method. |
+| FloydSteinbergDithering | `0` | Specifies dithering using Floyd-Steinberg error diffusion method. |
+
 
 ## Examples
 

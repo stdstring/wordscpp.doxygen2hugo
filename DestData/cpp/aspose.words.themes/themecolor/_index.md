@@ -11,6 +11,28 @@ url: /cpp/aspose.words.themes/themecolor/
 
 Specifies the theme colors for document themes.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No color. |
+| Dark1 | `0` | Dark main color 1. |
+| Light1 | `0` | Light main color 1. |
+| Dark2 | `0` | Dark main color 2. |
+| Light2 | `0` | Light main color 2. |
+| Accent1 | `0` | Accent color 1. |
+| Accent2 | `0` | Accent color 2. |
+| Accent3 | `0` | Accent color 3. |
+| Accent4 | `0` | Accent color 4. |
+| Accent5 | `0` | Accent color 5. |
+| Accent6 | `0` | Accent color 6. |
+| Hyperlink | `0` | Hyperlink color. |
+| FollowedHyperlink | `0` | Followed hyperlink color. |
+| Text1 | `0` | Text color 1. |
+| Text2 | `0` | Text color 2. |
+| Background1 | `0` | Background color 1. |
+| Background2 | `0` | Background color 2. |
+
 
 ## Examples
 

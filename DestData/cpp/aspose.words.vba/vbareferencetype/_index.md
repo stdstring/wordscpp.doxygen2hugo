@@ -11,6 +11,15 @@ url: /cpp/aspose.words.vba/vbareferencetype/
 
 Allows to specify the type of a [VbaReference](../vbareference/) object.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Registered | `0` | Specifies an Automation type library reference type. |
+| Project | `0` | Specified an external VBA project reference type. |
+| Original | `0` | Specifies an original Automation type library reference type. |
+| Control | `0` | Specifies a twiddled type library reference type. |
+
 
 ## Examples
 

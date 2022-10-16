@@ -11,6 +11,73 @@ url: /cpp/aspose.words/numberstyle/
 
 Specifies the number style for a list, footnotes and endnotes, page numbers.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Arabic | `0` | Arabic numbering (1, 2, 3, ...) |
+| UppercaseRoman | `0` | Upper case Roman (I, II, III, ...) |
+| LowercaseRoman | `0` | Lower case Roman (i, ii, iii, ...) |
+| UppercaseLetter | `0` | Upper case Letter (A, B, C, ...) |
+| LowercaseLetter | `0` | Lower case letter (a, b, c, ...) |
+| Ordinal | `0` | Ordinal (1st, 2nd, 3rd, ...) |
+| Number | `0` | Numbered (One, Two, Three, ...) |
+| OrdinalText | `0` | Ordinal (text) (First, Second, Third, ...) |
+| Hex | `0` | Hexadecimal: 8, 9, A, B, C, D, E, F, 10, 11, 12. |
+| ChicagoManual | `0` | Chicago Manual of [Style](../style/): *, †, † |
+| Kanji | `0` | Ideograph-digital. |
+| KanjiDigit | `0` | Japanese counting. |
+| AiueoHalfWidth | `0` | Aiueo. |
+| IrohaHalfWidth | `0` | Iroha. |
+| ArabicFullWidth | `0` | Full-width Arabic: 1, 2, 3, 4. |
+| ArabicHalfWidth | `0` | Half-width Arabic: 1, 2, 3, 4. |
+| KanjiTraditional | `0` | Japanese legal. |
+| KanjiTraditional2 | `0` | Japanese digital ten thousand. |
+| NumberInCircle | `0` | Enclosed circles. |
+| DecimalFullWidth | `0` | Decimal full width: 1, 2, 3, 4. |
+| Aiueo | `0` | Aiueo full width. |
+| Iroha | `0` | Iroha full width. |
+| LeadingZero | `0` | Leading Zero (01, 02,..., 09, 10, 11,..., 99, 100, 101,...) |
+| Bullet | `0` | Bullet (check the character code in the text) |
+| Ganada | `0` | Korean Ganada. |
+| Chosung | `0` | Korea Chosung. |
+| GB1 | `0` | Enclosed full stop. |
+| GB2 | `0` | Enclosed parenthesis. |
+| GB3 | `0` | Enclosed circle Chinese. |
+| GB4 | `0` | Ideograph enclosed circle. |
+| Zodiac1 | `0` | Ideograph traditional. |
+| Zodiac2 | `0` | Ideograph Zodiac. |
+| Zodiac3 | `0` | Ideograph Zodiac traditional. |
+| TradChinNum1 | `0` | Taiwanese counting. |
+| TradChinNum2 | `0` | Ideograph legal traditional. |
+| TradChinNum3 | `0` | Taiwanese counting thousand. |
+| TradChinNum4 | `0` | Taiwanese digital. |
+| SimpChinNum1 | `0` | Chinese counting. |
+| SimpChinNum2 | `0` | Chinese legal simplified. |
+| SimpChinNum3 | `0` | Chinese counting thousand. |
+| SimpChinNum4 | `0` | Chinese (not implemented) |
+| HanjaRead | `0` | Korean digital. |
+| HanjaReadDigit | `0` | Korean counting. |
+| Hangul | `0` | Korea legal. |
+| Hanja | `0` | Korea digital2. |
+| Hebrew1 | `0` | Hebrew-1. |
+| Arabic1 | `0` | Arabic alpha. |
+| Hebrew2 | `0` | Hebrew-2. |
+| Arabic2 | `0` | Arabic abjad. |
+| HindiLetter1 | `0` | Hindi vowels. |
+| HindiLetter2 | `0` | Hindi consonants. |
+| HindiArabic | `0` | Hindi numbers. |
+| HindiCardinalText | `0` | Hindi descriptive (cardinals) |
+| ThaiLetter | `0` | Thai letters. |
+| ThaiArabic | `0` | Thai numbers. |
+| ThaiCardinalText | `0` | Thai descriptive (cardinals) |
+| VietCardinalText | `0` | Vietnamese descriptive (cardinals) |
+| NumberInDash | `0` | Page number format: - 1 -, - 2 -, - 3 -, - 4 -. |
+| LowercaseRussian | `0` | Lowercase Russian alphabet. |
+| UppercaseRussian | `0` | Uppercase Russian alphabet. |
+| None | `0` | No bullet or number. |
+| Custom | `0` | Custom number format. It is supported by DOCX format only. |
+
 
 ## Examples
 

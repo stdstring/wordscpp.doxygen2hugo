@@ -11,6 +11,20 @@ url: /cpp/aspose.words/breaktype/
 
 Specifies type of a break inside a document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| ParagraphBreak | `0` | Break between paragraphs. |
+| PageBreak | `0` | Explicit page break. |
+| ColumnBreak | `0` | Explicit column break. |
+| SectionBreakContinuous | `0` | Specifies start of new section on the same page as the previous section. |
+| SectionBreakNewColumn | `0` | Specifies start of new section in the new column. |
+| SectionBreakNewPage | `0` | Specifies start of new section on a new page. |
+| SectionBreakEvenPage | `0` | Specifies start of new section on a new even page. |
+| SectionBreakOddPage | `0` | Specifies start of new section on a odd page. |
+| LineBreak | `0` | Explicit line break. |
+
 
 ## Examples
 

@@ -11,3 +11,13 @@ url: /cpp/aspose.words/measurementunits/
 
 Specifies the unit of measurement.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Inches | `0` | Inches. |
+| Centimeters | `0` | Centimeters. |
+| Millimeters | `0` | Millimeters. |
+| Points | `0` | Points. |
+| Picas | `0` | Picas (commonly used in traditional typewriter font spacing). |
+

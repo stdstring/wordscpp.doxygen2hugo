@@ -11,6 +11,13 @@ url: /cpp/aspose.words.notes/footnoteposition/
 
 Defines the footnote position.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| BottomOfPage | `0` | Footnotes are output at the bottom of each page. |
+| BeneathText | `0` | Footnotes are output beneath text on each page. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words/dropcapposition/
 
 Specifies the position for a drop cap text.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | The paragraph does not have a drop cap. |
+| Normal | `0` | The drop cap is positioned inside the text margin on the anchor paragraph. |
+| Margin | `0` | The drop cap is positioned outside the text margin on the anchor paragraph. |
+
 
 ## Examples
 

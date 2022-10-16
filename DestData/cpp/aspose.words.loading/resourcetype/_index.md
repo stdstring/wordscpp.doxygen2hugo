@@ -11,6 +11,14 @@ url: /cpp/aspose.words.loading/resourcetype/
 
 Type of loaded resource.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Image | `0` | Image. |
+| CssStyleSheet | `0` | Css style sheet. |
+| Document | `0` | [Document](../../aspose.words/document/). |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.drawing.charts/chartaxistype/
 
 Specifies type of chart axis.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Category | `0` | Category axis of a chart. |
+| Series | `0` | Series axis of a chart. |
+| Value | `0` | Value axis of a chart. |
+
 
 ## Examples
 

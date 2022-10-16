@@ -11,6 +11,16 @@ url: /cpp/aspose.words.drawing.charts/axisticklabelposition/
 
 Specifies the possible positions for tick labels.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| High | `0` | Specifies the axis labels shall be at the high end of the perpendicular axis. |
+| Low | `0` | Specifies the axis labels shall be at the low end of the perpendicular axis. |
+| NextToAxis | `0` | Specifies the axis labels shall be next to the axis. |
+| None | `0` | Specifies the axis labels are not drawn. |
+| Default | `0` | Specifies default value of tick labels position. |
+
 
 ## Examples
 

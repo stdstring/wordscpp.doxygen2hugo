@@ -11,6 +11,15 @@ url: /cpp/aspose.words.drawing.charts/axistickmark/
 
 Specifies the possible positions for tick marks.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Cross | `0` | Specifies that the tick marks shall cross the axis. |
+| Inside | `0` | Specifies that the tick marks shall be inside the plot area. |
+| Outside | `0` | Specifies that the tick marks shall be outside the plot area. |
+| None | `0` | Specifies that there shall be no tick marks. |
+
 
 ## Examples
 

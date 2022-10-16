@@ -11,6 +11,14 @@ url: /cpp/aspose.words.tables/tablealignment/
 
 Specifies alignment for an inline table.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Left | `0` | The table is aligned to the left. |
+| Center | `0` | The table is centered. |
+| Right | `0` | The table is aligned to the right. |
+
 
 ## Examples
 

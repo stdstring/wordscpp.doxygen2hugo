@@ -11,6 +11,13 @@ url: /cpp/aspose.words.loading/txttrailingspacesoptions/
 
 Specifies available options for trailing spaces handling during import from **Text** file.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Trim | `0` |  |
+| Preserve | `0` |  |
+
 
 ## Examples
 

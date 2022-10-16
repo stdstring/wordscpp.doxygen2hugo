@@ -11,6 +11,14 @@ url: /cpp/aspose.words.themes/themefont/
 
 Specifies the types of theme font names for document themes.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No theme font. |
+| Major | `0` | Major theme font. |
+| Minor | `0` | Minor theme font. |
+
 
 ## Examples
 

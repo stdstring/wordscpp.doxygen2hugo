@@ -11,6 +11,15 @@ url: /cpp/aspose.words.drawing/endcap/
 
 Specifies line cap style.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Round | `0` | Rounded ends. |
+| Square | `0` | Square protrudes by half line width. |
+| Flat | `0` | Line ends at end point. |
+| Default | `0` | Default value is **Flat**. |
+
 
 ## Examples
 

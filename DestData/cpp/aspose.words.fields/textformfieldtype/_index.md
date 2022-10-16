@@ -11,6 +11,17 @@ url: /cpp/aspose.words.fields/textformfieldtype/
 
 Specifies the type of a text form field.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Regular | `0` | The text form field can contain any text. |
+| Number | `0` | The text form field can contain only numbers. |
+| Date | `0` | The text form field can contain only a valid date value. |
+| CurrentDate | `0` | The text form field value is the current date when the field is updated. |
+| CurrentTime | `0` | The text form field value is the current time when the field is updated. |
+| Calculated | `0` | The text form field value is calculated from the expression specified in the [TextInputDefault](../formfield/get_textinputdefault/) property. |
+
 
 ## Examples
 

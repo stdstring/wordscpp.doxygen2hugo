@@ -11,3 +11,15 @@ url: /cpp/aspose.words/texteffect/
 
 Animation effect for text runs.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` |  |
+| LasVegasLights | `0` |  |
+| BlinkingBackground | `0` |  |
+| SparkleText | `0` |  |
+| MarchingBlackAnts | `0` |  |
+| MarchingRedAnts | `0` |  |
+| Shimmer | `0` |  |
+

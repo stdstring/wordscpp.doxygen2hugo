@@ -11,6 +11,67 @@ url: /cpp/aspose.words.fields/generalformat/
 
 Specifies a general format that is applied to a numeric, text, or any field result. A field may have a combination of general formats.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | Used to specify a missing general format. |
+| Aiueo | `0` | Numeric formatting. Formats a numeric result using hiragana characters in the traditional a-i-u-e-o order. |
+| UppercaseAlphabetic | `0` | Numeric formatting. Formats a numeric result as one or more occurrences of an uppercase alphabetic Latin character. |
+| LowercaseAlphabetic | `0` | Numeric formatting. Formats a numeric result as one or more occurrences of an lowercase alphabetic Latin character. |
+| Arabic | `0` | Numeric formatting. Formats a numeric result using Arabic cardinal numerals. |
+| ArabicAbjad | `0` | Numeric formatting. Formats a numeric result using ascending Abjad numerals. |
+| ArabicAlpha | `0` | Numeric formatting. Formats a numeric result using characters in the Arabic alphabet. |
+| ArabicDash | `0` | Numeric formatting. Formats a numeric result using Arabic cardinal numerals, with a prefix of "- " and a suffix of " -". |
+| BahtText | `0` | Numeric formatting. Formats a numeric result in the Thai counting system. |
+| CardText | `0` | Numeric formatting. Cardinal text (One, Two, Three, ...). |
+| ChineseNum1 | `0` | Numeric formatting. Formats a numeric result using ascending numbers from the appropriate counting system. |
+| ChineseNum2 | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the appropriate legal format. |
+| ChineseNum3 | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the appropriate counting thousand system. |
+| Chosung | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the Korean Chosung format. |
+| CircleNum | `0` | Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle, using the enclosed alphanumeric glyph character for numbers in the range 1–20. |
+| DBChar | `0` | Numeric formatting. Formats a numeric result using double-byte Arabic numbering. |
+| DBNum1 | `0` | Numeric formatting. Formats a numeric result using sequential digital ideographs, using the appropriate character. |
+| DBNum2 | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the appropriate counting system. |
+| DBNum3 | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the appropriate legal counting system. |
+| DBNum4 | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the appropriate digital counting system. |
+| DollarText | `0` | Numeric formatting. Dollar text (One, Two, Three, ... + AND 55/100). |
+| Ganada | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the Korean Ganada format. |
+| GB1 | `0` | Numeric formatting. Formats a numeric result using decimal numbering followed by a period, using the enclosed alphanumeric glyph character. |
+| GB2 | `0` | Numeric formatting. Formats a numeric result using decimal numbering enclosed in parenthesis, using the enclosed alphanumeric glyph character. |
+| GB3 | `0` | Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle, using the enclosed alphanumeric glyph character. |
+| GB4 | `0` | Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle, using the enclosed alphanumeric glyph character. |
+| Hebrew1 | `0` | Numeric formatting. Formats a numeric result using Hebrew numerals. |
+| Hebrew2 | `0` | Numeric formatting. Formats a numeric result using the Hebrew alphabet. |
+| Hex | `0` | Numeric formatting. Formats the numeric result using uppercase hexadecimal digits. |
+| HindiArabic | `0` | Numeric formatting. Formats a numeric result using Hindi numbers. |
+| HindiCardText | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the Hindi counting system. |
+| HindiLetter1 | `0` | Numeric formatting. Formats a numeric result using Hindi vowels. |
+| HindiLetter2 | `0` | Numeric formatting. Formats a numeric result using Hindi consonants. |
+| Iroha | `0` | Numeric formatting. Formats a numeric result using the Japanese iroha. |
+| KanjiNum1 | `0` | Numeric formatting. Formats a numeric result using a Japanese style using the appropriate counting system. |
+| KanjiNum2 | `0` | Numeric formatting. Formats a numeric result using the appropriate counting system. |
+| KanjiNum3 | `0` | Numeric formatting. Formats a numeric result using the appropriate counting system. |
+| Ordinal | `0` | Numeric formatting. Ordinal (1st, 2nd, 3rd, ...). |
+| OrdText | `0` | Numeric formatting. Ordinal text (First, Second, Third, ...). |
+| UppercaseRoman | `0` | Numeric formatting. Uppercase Roman (I, II, III, ...). |
+| LowercaseRoman | `0` | Numeric formatting. Lowercase Roman (i, ii, iii, ...). |
+| SBChar | `0` | Numeric formatting. Formats a numeric result using single-byte Arabic numbering. |
+| ThaiArabic | `0` | Numeric formatting. Formats a numeric result using Thai numbers. |
+| ThaiCardText | `0` | Numeric formatting. Formats a numeric result using sequential numbers from the Thai counting system. |
+| ThaiLetter | `0` | Numeric formatting. Formats a numeric result using Thai letters. |
+| VietCardText | `0` | Numeric formatting. Formats a numeric result using Vietnamese numerals. |
+| Zodiac1 | `0` | Numeric formatting. Formats a numeric result using sequential numerical traditional ideographs. |
+| Zodiac2 | `0` | Numeric formatting. Formats a numeric result using sequential zodiac ideographs. |
+| Zodiac3 | `0` | Numeric formatting. Formats a numeric result using sequential traditional zodiac ideographs. |
+| Caps | `0` | Text formatting. Capitalizes the first letter of each word. |
+| FirstCap | `0` | Text formatting. Capitalizes the first letter of the first word. |
+| Lower | `0` | Text formatting. All letters are lowercase. |
+| Upper | `0` | Text formatting. All letters are uppercase. |
+| CharFormat | `0` | [Field](../field/) result formatting. The CHARFORMAT instruction. |
+| MergeFormat | `0` | [Field](../field/) result formatting. The MERGEFORMAT instruction. |
+| MergeFormatInet | `0` | [Field](../field/) result formatting. The MERGEFORMATINET instruction. |
+
 
 ## Examples
 

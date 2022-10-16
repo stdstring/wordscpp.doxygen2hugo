@@ -11,6 +11,14 @@ url: /cpp/aspose.words/pageborderappliesto/
 
 Specifies which pages the page border is printed on.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| AllPages | `0` | Page border is shown on all pages of the section. |
+| FirstPage | `0` | Page border is shown on the first page of the section only. |
+| OtherPages | `0` | Page border is shown on all pages except the first page of the section. |
+
 
 ## Examples
 

@@ -11,6 +11,13 @@ url: /cpp/aspose.words.drawing/shapemarkuplanguage/
 
 Specifies [Markup](../../aspose.words.markup/) language used for the shape.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Dml | `0` | [Drawing](../)[Markup](../../aspose.words.markup/) Language is used to define the shape. |
+| Vml | `0` | Vector [Markup](../../aspose.words.markup/) Language is used to define the shape. |
+
 
 ## Examples
 

@@ -11,6 +11,15 @@ url: /cpp/aspose.words/styletype/
 
 Represents type of the style.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Paragraph | `0` | The style is a paragraph style. |
+| Character | `0` | The style is a character style. |
+| Table | `0` | The style is a table style. |
+| List | `0` | The style is a list style. |
+
 
 ## Examples
 

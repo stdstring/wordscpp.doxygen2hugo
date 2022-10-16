@@ -11,6 +11,23 @@ url: /cpp/aspose.words.drawing/dashstyle/
 
 Dashed line style.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Solid | `0` | Solid (continuous) pen. |
+| ShortDash | `0` | System dash style. |
+| ShortDot | `0` | System dash style. |
+| ShortDashDot | `0` | System dash style. |
+| ShortDashDotDot | `0` | System dash style. |
+| Dot | `0` | Square dot style. |
+| Dash | `0` | Dash style. |
+| LongDash | `0` | Long dash style. |
+| DashDot | `0` | Dash short dash. |
+| LongDashDot | `0` | Long dash short dash. |
+| LongDashDotDot | `0` | Long dash short dash short dash. |
+| Default | `0` | Same as **Solid**. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturetype/
 
 Specifies the type of a digital signature.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Unknown | `0` | Indicates an error, unknown digital signature type. |
+| CryptoApi | `0` | The Crypto API signature method used in Microsoft Word 97-2003 .DOC binary documents. |
+| XmlDsig | `0` | The XmlDsig signature method used in OOXML and OpenDocument documents. |
+
 
 ## Examples
 

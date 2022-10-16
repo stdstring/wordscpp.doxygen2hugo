@@ -11,6 +11,15 @@ url: /cpp/aspose.words.notes/footnotenumberingrule/
 
 Determines when automatic footnote or endnote numbering restarts.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Continuous | `0` | Numbering continuous throughout the document. |
+| RestartSection | `0` | Numbering restarts at each section. |
+| RestartPage | `0` | Numbering restarts at each page. Valid for footnotes only. |
+| Default | `0` | Equals **Continuous**. |
+
 
 ## Examples
 

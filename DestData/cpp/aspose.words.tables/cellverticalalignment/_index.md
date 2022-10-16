@@ -11,6 +11,14 @@ url: /cpp/aspose.words.tables/cellverticalalignment/
 
 Specifies vertical justification of text inside a table cell.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Top | `0` | Text is aligned at the top of a cell. |
+| Center | `0` | Text is aligned in the middle of a cell. |
+| Bottom | `0` | Text is aligned at the bottom of the cell. |
+
 
 ## Examples
 

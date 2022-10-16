@@ -11,3 +11,15 @@ url: /cpp/aspose.words.fields/fieldindexformat/
 
 Specifies the formatting for the [FieldIndex](../fieldindex/) fields in a document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Template | `0` | From template. |
+| Classic | `0` | Classic. |
+| Fancy | `0` | Fancy. |
+| Modern | `0` | Modern. |
+| Bulleted | `0` | Bulleted. |
+| Formal | `0` | Formal. |
+| Simple | `0` | Simple. |
+

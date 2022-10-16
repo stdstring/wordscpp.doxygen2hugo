@@ -11,6 +11,16 @@ url: /cpp/aspose.words.drawing/gradientvariant/
 
 Specifies the variant for a gradient fill.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | Gradient variant 'None'. |
+| Variant1 | `0` | Gradient variant 1. |
+| Variant2 | `0` | Gradient variant 2. |
+| Variant3 | `0` | Gradient variant 3. |
+| Variant4 | `0` | Gradient variant 4. |
+
 
 ## Examples
 

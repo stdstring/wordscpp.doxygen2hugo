@@ -11,6 +11,15 @@ url: /cpp/aspose.words.saving/compressionlevel/
 
 Compression level for OOXML files. (DOCX and DOTX files are internally a ZIP-archive, this property controls the compression level of the archive. Note, that FlatOpc file is not a ZIP-archive, therefore, this property does not affect the FlatOpc files.)
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Normal | `0` | Normal compression level. Default compression level used by [Aspose.Words](../../aspose.words/). |
+| Maximum | `0` | Maximum compression level. |
+| Fast | `0` | Fast compression level. |
+| SuperFast | `0` | Super Fast compression level. Microsoft Word uses this compression level. |
+
 
 ## Examples
 

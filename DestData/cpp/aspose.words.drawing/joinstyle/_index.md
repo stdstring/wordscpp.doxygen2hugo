@@ -11,6 +11,14 @@ url: /cpp/aspose.words.drawing/joinstyle/
 
 Line join style.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Bevel | `0` | Join edges by a straight line. |
+| Miter | `0` | Extend edges until they join. |
+| Round | `0` | Draw an arc between the two edges. |
+
 
 ## Examples
 

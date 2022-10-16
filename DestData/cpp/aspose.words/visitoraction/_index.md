@@ -11,3 +11,11 @@ url: /cpp/aspose.words/visitoraction/
 
 Allows the visitor to control the enumeration of nodes.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Continue | `0` | The visitor requests the enumeration to continue. |
+| SkipThisNode | `0` | The visitor requests to skip the current node and continue enumeration. |
+| Stop | `0` | The visitor requests the enumeration of nodes to stop. |
+

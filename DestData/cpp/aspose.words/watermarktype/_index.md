@@ -11,6 +11,14 @@ url: /cpp/aspose.words/watermarktype/
 
 Specifies the watermark type.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Text | `0` | Indicates that the text will be used as a watermark. Such a watermark corresponds to a WordArt object. |
+| Image | `0` | Indicates that the image will be used as a watermark. Such a watermark corresponds to a shape with image. |
+| None | `0` | Indicates watermark is no set. |
+
 
 ## Examples
 

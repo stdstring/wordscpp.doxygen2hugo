@@ -11,6 +11,14 @@ url: /cpp/aspose.words/importformatmode/
 
 Specifies how formatting is merged when importing content from another document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| UseDestinationStyles | `0` | Use the destination document styles and copy new styles. This is the default option. |
+| KeepSourceFormatting | `0` | Copy all required styles to the destination document, generate unique style names if needed. |
+| KeepDifferentStyles | `0` | Only copy styles that are different from those in the source document. |
+
 
 When you copy nodes from one document to another, this option specifies how formatting is resolved when both documents have a style with the same name, but different formatting.
 

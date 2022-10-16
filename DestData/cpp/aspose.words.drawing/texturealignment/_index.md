@@ -11,6 +11,21 @@ url: /cpp/aspose.words.drawing/texturealignment/
 
 Specifies the alignment for the tiling of the texture fill.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| TopLeft | `0` | Top left texture alignment. |
+| Top | `0` | Top texture alignment. |
+| TopRight | `0` | Top right texture alignment. |
+| Left | `0` | Left texture alignment. |
+| Center | `0` | Center texture alignment. |
+| Right | `0` | Right texture alignment. |
+| BottomLeft | `0` | Bottom left texture alignment. |
+| Bottom | `0` | Bottom texture alignment. |
+| BottomRight | `0` | Bottom right texture alignment. |
+| None | `0` | None texture alignment. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/ooxmlcompliance/
 
 Allows to specify which OOXML specification will be used when saving in the DOCX format.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Ecma376_2006 | `0` | ECMA-376 1st Edition, 2006. |
+| Iso29500_2008_Transitional | `0` | ISO/IEC 29500:2008 Transitional compliance level. |
+| Iso29500_2008_Strict | `0` | ISO/IEC 29500:2008 Strict compliance level. |
+
 
 ## Examples
 

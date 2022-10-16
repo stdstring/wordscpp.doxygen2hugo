@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/imagecolormode/
 
 Specifies the color mode for the generated images of document pages.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | The pages of the document will be rendered as color images. |
+| Grayscale | `0` | The pages of the document will be rendered as grayscale images. |
+| BlackAndWhite | `0` | The pages of the document will be rendered as black and white images. |
+
 
 ## Examples
 

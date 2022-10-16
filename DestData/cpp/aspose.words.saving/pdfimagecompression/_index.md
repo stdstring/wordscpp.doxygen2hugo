@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/pdfimagecompression/
 
 Specifies the type of compression applied to images in the PDF file.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Auto | `0` | Automatically selects the most appropriate compression for each image. |
+| Jpeg | `0` | Jpeg compression. Does not support transparency. |
+
 
 ## Examples
 

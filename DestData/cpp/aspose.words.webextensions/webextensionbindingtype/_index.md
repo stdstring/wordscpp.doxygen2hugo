@@ -11,6 +11,15 @@ url: /cpp/aspose.words.webextensions/webextensionbindingtype/
 
 Enumerates available types of binding between a web extension and the data in the document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Matrix | `0` | Tabular data without a header row. |
+| Table | `0` | Tabular data with a header row. |
+| Text | `0` | Plain text. |
+| Default | `0` |  |
+
 
 ## Examples
 

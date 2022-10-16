@@ -11,6 +11,17 @@ url: /cpp/aspose.words/headerfootertype/
 
 Identifies the type of header or footer found in a Word file.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| HeaderEven | `0` | Header for even numbered pages. |
+| HeaderPrimary | `0` | Primary header, also used for odd numbered pages. |
+| FooterEven | `0` | Footer for even numbered pages. |
+| FooterPrimary | `0` | Primary footer, also used for odd numbered pages. |
+| HeaderFirst | `0` | Header for the first page of the section. |
+| FooterFirst | `0` | Footer for the first page of the section. |
+
 
 ## Examples
 

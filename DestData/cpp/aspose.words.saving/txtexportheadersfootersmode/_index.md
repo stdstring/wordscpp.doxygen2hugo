@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/txtexportheadersfootersmode/
 
 Specifies the way headers and footers are exported to plain text format.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No headers and footers are exported. |
+| PrimaryOnly | `0` | Only primary headers and footers are exported at the beginning and end of each section. |
+| AllAtEnd | `0` | All headers and footers are placed after all section bodies at the very end of a document. |
+
 
 ## Examples
 

@@ -11,6 +11,17 @@ url: /cpp/aspose.words.saving/pdfzoombehavior/
 
 Specifies the type of zoom applied to a PDF document when it is opened in a PDF viewer.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | How the document is displayed is left to the PDF viewer. Usually the viewer displays the document to fit page width. |
+| ZoomFactor | `0` | Displays the page using the specified zoom factor. |
+| FitPage | `0` | Displays the page so it visible entirely. |
+| FitWidth | `0` | Fits the width of the page. |
+| FitHeight | `0` | Fits the height of the page. |
+| FitBox | `0` | Fits the bounding box (rectangle containing all visible elements on the page). |
+
 
 ## Examples
 

@@ -11,6 +11,18 @@ url: /cpp/aspose.words.drawing/horizontalalignment/
 
 Specifies horizontal alignment of a floating shape, text frame or floating table.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | The object is explicitly positioned, usually using its **Left** property. |
+| Default | `0` | Same as **None**. |
+| Left | `0` | Specifies that the object shall be left aligned to the horizontal alignment base. |
+| Center | `0` | Specifies that the object shall be centered with respect to the horizontal alignment base. |
+| Right | `0` | Specifies that the object shall be right aligned to the horizontal alignment base. |
+| Inside | `0` | Specifies that the object shall be inside of the horizontal alignment base. |
+| Outside | `0` | Specifies that the object shall be outside of the horizontal alignment base. |
+
 
 ## Examples
 

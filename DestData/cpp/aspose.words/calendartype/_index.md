@@ -11,6 +11,16 @@ url: /cpp/aspose.words/calendartype/
 
 Specifies the type of a calendar.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Gregorian | `0` | The Gregorian calendar. |
+| Hijri | `0` | The Hijri Lunar calendar. |
+| Hebrew | `0` | The Hebrew Lunar calendar. |
+| SakaEra | `0` | The Saka Era calendar. |
+| UmAlQura | `0` | The Um-al-Qura calendar. |
+
 
 ## Examples
 

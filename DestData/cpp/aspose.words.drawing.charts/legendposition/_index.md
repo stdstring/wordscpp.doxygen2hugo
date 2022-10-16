@@ -11,6 +11,17 @@ url: /cpp/aspose.words.drawing.charts/legendposition/
 
 Specifies the possible positions for a chart legend.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No legend will be shown for the chart. |
+| Bottom | `0` | Specifies that the legend shall be drawn at the bottom of the chart. |
+| Left | `0` | Specifies that the legend shall be drawn at the left of the chart. |
+| Right | `0` | Specifies that the legend shall be drawn at the right of the chart. |
+| Top | `0` | Specifies that the legend shall be drawn at the top of the chart. |
+| TopRight | `0` | Specifies that the legend shall be drawn at the top right of the chart. |
+
 
 ## Examples
 

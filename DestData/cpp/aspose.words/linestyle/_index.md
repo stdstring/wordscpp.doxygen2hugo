@@ -11,6 +11,38 @@ url: /cpp/aspose.words/linestyle/
 
 Specifies line style of a [Border](../border/).
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` |  |
+| Single | `0` |  |
+| Thick | `0` |  |
+| Double | `0` |  |
+| Hairline | `0` |  |
+| Dot | `0` |  |
+| DashLargeGap | `0` |  |
+| DotDash | `0` |  |
+| DotDotDash | `0` |  |
+| Triple | `0` |  |
+| ThinThickSmallGap | `0` |  |
+| ThickThinSmallGap | `0` |  |
+| ThinThickThinSmallGap | `0` |  |
+| ThinThickMediumGap | `0` |  |
+| ThickThinMediumGap | `0` |  |
+| ThinThickThinMediumGap | `0` |  |
+| ThinThickLargeGap | `0` |  |
+| ThickThinLargeGap | `0` |  |
+| ThinThickThinLargeGap | `0` |  |
+| Wave | `0` |  |
+| DoubleWave | `0` |  |
+| DashSmallGap | `0` |  |
+| DashDotStroker | `0` |  |
+| Emboss3D | `0` |  |
+| Engrave3D | `0` |  |
+| Outset | `0` |  |
+| Inset | `0` |  |
+
 
 ## Examples
 

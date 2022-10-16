@@ -11,6 +11,20 @@ url: /cpp/aspose.words.buildingblocks/buildingblocktype/
 
 Specifies a building block type. The type might affect the visibility and behavior of the building block in Microsoft Word.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No type information is specified for the building block. |
+| AutomaticallyReplaceNameWithContent | `0` | Allows the building block to be automatically inserted into the document whenever its name is entered into an application. |
+| StructuredDocumentTagPlaceholderText | `0` | The building block is a structured document tag placeholder text. |
+| FormFieldHelpText | `0` | The building block is a form field help text. |
+| Normal | `0` | The building block is a normal (i.e. regular) glossary document entry. |
+| AutoCorrect | `0` | The building block is associated with the spelling and grammar tools. |
+| AutoText | `0` | The building block is an AutoText entry. |
+| All | `0` | The building block is associated with all types. |
+| Default | `0` | Save as **None**. |
+
 
 Corresponds to the **ST_DocPartType** type in OOXML.
 

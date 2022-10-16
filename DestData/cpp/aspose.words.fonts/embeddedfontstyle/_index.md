@@ -11,6 +11,15 @@ url: /cpp/aspose.words.fonts/embeddedfontstyle/
 
 Specifies the style of an embedded font inside a [FontInfo](../fontinfo/) object.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Regular | `0` | Specifies the Regular embedded font. |
+| Bold | `0` | Specifies the Bold embedded font. |
+| Italic | `0` | Specifies the Italic embedded font. |
+| BoldItalic | `0` | Specifies the Bold-Italic embedded font. |
+
 
 ## Examples
 

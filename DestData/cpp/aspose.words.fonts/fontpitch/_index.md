@@ -11,6 +11,14 @@ url: /cpp/aspose.words.fonts/fontpitch/
 
 Represents the font pitch.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Default | `0` | Specifies that no information is available about the pitch of a font. |
+| Fixed | `0` | Specifies that this is a fixed width font. |
+| Variable | `0` | Specifies that this is a proportional width font. |
+
 
 ## Examples
 

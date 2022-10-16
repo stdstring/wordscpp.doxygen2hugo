@@ -11,3 +11,9 @@ url: /cpp/aspose.words/loadformattest/
 
 LoadFormatTest enumeration.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| TestDocxDml | `0` |  |
+

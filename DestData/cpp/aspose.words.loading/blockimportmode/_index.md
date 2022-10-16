@@ -11,3 +11,10 @@ url: /cpp/aspose.words.loading/blockimportmode/
 
 Specifies how properties of block-level elements are imported from HTML-based documents.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Merge | `0` | [Properties](../../aspose.words.properties/) of parent blocks are merged and stored on child elements (i.e. paragraphs or tables). |
+| Preserve | `0` | [Properties](../../aspose.words.properties/) of parent blocks are imported to a special logical structure and are stored separately from document nodes. |
+

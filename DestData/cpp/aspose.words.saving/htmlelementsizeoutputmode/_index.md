@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/htmlelementsizeoutputmode/
 
 Specifies how Aspose.Words exports element widths and heights to HTML, MHTML and EPUB.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| All | `0` | All element sizes, both in absolute and relative units, specified in the document are exported. |
+| RelativeOnly | `0` | Element sizes are exported only if they are specified in relative units in the document. Fixed sizes are not exported in this mode. Visual agents will calculate missing sizes to make document layout more natural. |
+| None | `0` | Element sizes are not exported. Visual agents will build layout automatically according to relationship between elements. |
+
 
 ## Examples
 

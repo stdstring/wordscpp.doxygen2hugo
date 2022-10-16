@@ -11,3 +11,10 @@ url: /cpp/aspose.words.loading/htmlcontroltype/
 
 Type of document nodes that represent <input> and <select> elements imported from HTML.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| FormField | `0` |  |
+| StructuredDocumentTag | `0` |  |
+

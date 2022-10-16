@@ -11,6 +11,15 @@ url: /cpp/aspose.words.drawing/arrowwidth/
 
 Width of the arrow at the end of a line.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Narrow | `0` |  |
+| Medium | `0` |  |
+| Wide | `0` |  |
+| Default | `0` | Same as **Narrow**. |
+
 
 ## Examples
 

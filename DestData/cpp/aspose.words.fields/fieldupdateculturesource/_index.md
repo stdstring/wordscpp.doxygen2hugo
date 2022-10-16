@@ -11,3 +11,10 @@ url: /cpp/aspose.words.fields/fieldupdateculturesource/
 
 Indicates what culture to use during field update.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| CurrentThread | `0` | The culture of the current execution thread is used to update fields. |
+| FieldCode | `0` | The culture specified in the field formatting properties via language setting is used. |
+

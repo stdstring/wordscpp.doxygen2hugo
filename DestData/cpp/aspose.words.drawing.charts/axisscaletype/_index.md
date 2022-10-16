@@ -11,6 +11,13 @@ url: /cpp/aspose.words.drawing.charts/axisscaletype/
 
 Specifies the possible scale types for an axis.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Linear | `0` | Linear scaling. |
+| Logarithmic | `0` | Logarithmic scaling. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/cssstylesheettype/
 
 Specifies how CSS (Cascading [Style](../../aspose.words/style/) Sheet) styles are exported to HTML.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Inline | `0` | CSS styles are written inline (as a value of the **style** attribute on every element). |
+| Embedded | `0` | CSS styles are written separately from the content in a style sheet embedded in the HTML file. |
+| External | `0` | CSS styles are written separately from the content in a style sheet in an external file. The HTML file links the style sheet. |
+
 
 ## Examples
 

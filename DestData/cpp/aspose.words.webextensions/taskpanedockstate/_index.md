@@ -11,6 +11,13 @@ url: /cpp/aspose.words.webextensions/taskpanedockstate/
 
 Enumerates available locations of task pane object.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Right | `0` | Dock the task pane on the right side of the document window. |
+| Left | `0` | Dock the task pane on the left side of the document window. |
+
 
 ## Examples
 

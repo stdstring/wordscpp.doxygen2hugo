@@ -11,6 +11,29 @@ url: /cpp/aspose.words/underline/
 
 Indicates type of the underline applied to a font.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` |  |
+| Single | `0` |  |
+| Words | `0` |  |
+| Double | `0` |  |
+| Dotted | `0` |  |
+| Thick | `0` |  |
+| Dash | `0` |  |
+| DashLong | `0` |  |
+| DotDash | `0` |  |
+| DotDotDash | `0` |  |
+| Wavy | `0` |  |
+| DottedHeavy | `0` |  |
+| DashHeavy | `0` |  |
+| DashLongHeavy | `0` |  |
+| DotDashHeavy | `0` |  |
+| DotDotDashHeavy | `0` |  |
+| WavyHeavy | `0` |  |
+| WavyDouble | `0` |  |
+
 
 ## Examples
 

@@ -11,6 +11,17 @@ url: /cpp/aspose.words.drawing/wraptype/
 
 Specifies how text is wrapped around a shape or picture.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No text wrapping around the shape. The shape is placed behind or in front of text. |
+| Inline | `0` | The shape remains on the same layer as text and treated as a character. |
+| TopBottom | `0` | The text stops at the top of the shape and restarts on the line below the shape. |
+| Square | `0` | Wraps text around all sides of the square bounding box of the shape. |
+| Tight | `0` | Wraps tightly around the edges of the shape, instead of wrapping around the bounding box. |
+| Through | `0` | Same as Tight, but wraps inside any parts of the shape that are open. |
+
 
 ## Examples
 

@@ -11,3 +11,14 @@ url: /cpp/aspose.words/textdmleffect/
 
 Dml text effect for text runs.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Glow | `0` | Glow effect, in which a color blurred outline is added outside the edges of the object. |
+| Fill | `0` | Fill overlay effect. |
+| Shadow | `0` | Shadow effect. |
+| Outline | `0` | Outline effect. |
+| Effect3D | `0` | 3D effect. |
+| Reflection | `0` | Reflection effect. |
+

@@ -11,6 +11,23 @@ url: /cpp/aspose.words.drawing.charts/axisbuiltinunit/
 
 Specifies the display units for an axis.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | Specifies the values on the chart shall displayed as is. |
+| Custom | `0` | Specifies the values on the chart shall be divided by a user-defined divisor. This value is not supported by the new chart types of MS Office 2016. |
+| Billions | `0` | Specifies the values on the chart shall be divided by 1,000,000,000. |
+| HundredMillions | `0` | Specifies the values on the chart shall be divided by 100,000,000. |
+| Hundreds | `0` | Specifies the values on the chart shall be divided by 100. |
+| HundredThousands | `0` | Specifies the values on the chart shall be divided by 100,000. |
+| Millions | `0` | Specifies the values on the chart shall be divided by 1,000,000. |
+| TenMillions | `0` | Specifies the values on the chart shall be divided by 10,000,000. |
+| TenThousands | `0` | Specifies the values on the chart shall be divided by 10,000. |
+| Thousands | `0` | Specifies the values on the chart shall be divided by 1,000. |
+| Trillions | `0` | Specifies the values on the chart shall be divided by 1,000,000,000,0000. |
+| Percentage | `0` | Specifies the values on the chart shall be divided by 0.01. This value is supported only by the new chart types of MS Office 2016. |
+
 
 ## Examples
 

@@ -11,6 +11,17 @@ url: /cpp/aspose.words.drawing/layoutflow/
 
 Determines the flow of the text layout in a textbox.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Horizontal | `0` | Text is displayed horizontally. |
+| TopToBottomIdeographic | `0` | Ideographic text is displayed vertically. |
+| BottomToTop | `0` | Text is displayed vertically. |
+| TopToBottom | `0` | Text is displayed vertically. |
+| HorizontalIdeographic | `0` | Ideographic text is displayed horizontally. |
+| Vertical | `0` | Text is displayed vertically. |
+
 
 ## Examples
 

@@ -11,6 +11,19 @@ url: /cpp/aspose.words.webextensions/webextensionstoretype/
 
 Enumerates available types of a web extension store.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| SPCatalog | `0` | Specifies that the store type is SharePoint corporate catalog. |
+| OMEX | `0` | Specifies that the store type is Office.com. |
+| SPApp | `0` | Specifies that the store type is a SharePoint web application. |
+| Exchange | `0` | Specifies that the store type is an Exchange server. |
+| FileSystem | `0` | Specifies that the store type is a file system share. |
+| Registry | `0` | Specifies that the store type is the system registry. |
+| ExCatalog | `0` | Specifies that the store type is Centralized Deployment via Exchange. |
+| Default | `0` | Default value. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.lists/listtrailingcharacter/
 
 Specifies the character that separates the list label from the text of the paragraph.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Tab | `0` | A tab character is placed between the list label and text of the paragraph. |
+| Space | `0` | A space character is placed between the list label and text of the paragraph. |
+| Nothing | `0` | There is no separator character between the list label and text of the paragraph. |
+
 
 Used as a value for the [TrailingCharacter](../listlevel/get_trailingcharacter/) property.
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.tables/cellmerge/
 
 Specifies how a cell in a table is merged with other cells.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | The cell is not merged. |
+| First | `0` | The cell is the first cell in a range of merged cells. |
+| Previous | `0` | The cell is merged to the previous cell horizontally or vertically. |
+
 
 ## Examples
 

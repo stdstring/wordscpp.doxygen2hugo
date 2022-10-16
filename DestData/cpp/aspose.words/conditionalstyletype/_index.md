@@ -11,6 +11,23 @@ url: /cpp/aspose.words/conditionalstyletype/
 
 Represents possible table areas to which conditional formatting may be defined in a table style.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| FirstRow | `0` | Specifies formatting of the first row of a table. |
+| FirstColumn | `0` | Specifies formatting of the first column of a table. |
+| LastRow | `0` | Specifies formatting of the last row of a table. |
+| LastColumn | `0` | Specifies formatting of the last column of a table. |
+| OddRowBanding | `0` | Specifies formatting of odd-numbered row stripe. |
+| OddColumnBanding | `0` | Specifies formatting of odd-numbered column stripe. |
+| EvenRowBanding | `0` | Specifies formatting of even-numbered row stripe. |
+| EvenColumnBanding | `0` | Specifies formatting of even-numbered column stripe. |
+| TopLeftCell | `0` | Specifies formatting of the top left cell of a table. |
+| TopRightCell | `0` | Specifies formatting of the top right cell of a table. |
+| BottomLeftCell | `0` | Specifies formatting of the bottom left cell of a table. |
+| BottomRightCell | `0` | Specifies formatting of the bottom right cell of a table. |
+
 
 ## Examples
 

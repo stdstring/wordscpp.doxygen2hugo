@@ -11,6 +11,17 @@ url: /cpp/aspose.words.fonts/fontfamily/
 
 Represents the font family.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Auto | `0` | Specifies a generic family name. This name is used when information about a font does not exist or does not matter. The default font is used. |
+| Roman | `0` | Specifies a proportional font with serifs. An example is Times New Roman. |
+| Swiss | `0` | Specifies a proportional font without serifs. An example is Arial. |
+| Modern | `0` | Specifies a monospace font with or without serifs. Monospace fonts are usually modern; examples include Pica, Elite, and Courier New. |
+| Script | `0` | Specifies a font that is designed to look like handwriting; examples include Script and Cursive. |
+| Decorative | `0` | Specifies a novelty font. An example is Old English. |
+
 
 A font family is a set of fonts having common stroke width and serif characteristics.
 

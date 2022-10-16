@@ -11,6 +11,20 @@ url: /cpp/aspose.words.properties/propertytype/
 
 Specifies data type of a document property.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Boolean | `0` | The property is a boolean value. |
+| DateTime | `0` | The property is a date time value. |
+| Double | `0` | The property is a floating number. |
+| Number | `0` | The property is an integer number. |
+| String | `0` | The property is a string value. |
+| StringArray | `0` | The property is an array of strings. |
+| ObjectArray | `0` | The property is an array of objects. |
+| ByteArray | `0` | The property is an array of bytes. |
+| Other | `0` | The property is some other type. |
+
 
 ## Examples
 

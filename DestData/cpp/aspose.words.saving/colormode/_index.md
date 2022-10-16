@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/colormode/
 
 Specifies how colors are rendered.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Normal | `0` | [Rendering](../../aspose.words.rendering/) with unmodified colors. |
+| Grayscale | `0` | [Rendering](../../aspose.words.rendering/) with colors in a range of gray shades from white to black. |
+
 
 ## Examples
 

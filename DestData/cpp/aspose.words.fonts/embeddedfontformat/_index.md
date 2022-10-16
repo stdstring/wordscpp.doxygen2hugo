@@ -11,6 +11,13 @@ url: /cpp/aspose.words.fonts/embeddedfontformat/
 
 Specifies format of particular embedded font inside [FontInfo](../fontinfo/) object. When saving a document to a file, only embedded fonts of corresponding format are written down.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| EmbeddedOpenType | `0` | Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files. |
+| OpenType | `0` | Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded fonts used in Open Office XML format, including DOCX files. |
+
 
 ## Examples
 

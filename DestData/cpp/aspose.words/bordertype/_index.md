@@ -11,6 +11,20 @@ url: /cpp/aspose.words/bordertype/
 
 Specifies sides of a border.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | Default value. |
+| Bottom | `0` | Specifies the bottom border of a paragraph or a table cell. |
+| Left | `0` | Specifies the left border of a paragraph or a table cell. |
+| Right | `0` | Specifies the right border of a paragraph or a table cell. |
+| Top | `0` | Specifies the top border of a paragraph or a table cell. |
+| Horizontal | `0` | Specifies the horizontal border between cells in a table or between conforming paragraphs. |
+| Vertical | `0` | Specifies the vertical border between cells in a table. |
+| DiagonalDown | `0` | Specifies the diagonal border in a table cell. |
+| DiagonalUp | `0` | Specifies the diagonal border in a table cell. |
+
 
 ## Examples
 

@@ -11,6 +11,13 @@ url: /cpp/aspose.words.saving/exportfontformat/
 
 Indicates the format that is used to export fonts while rendering to HTML fixed format.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Woff | `0` | WOFF (Web Open [Font](../../aspose.words/font/) Format). |
+| Ttf | `0` | TTF (TrueType [Font](../../aspose.words/font/) format). |
+
 
 ## Examples
 

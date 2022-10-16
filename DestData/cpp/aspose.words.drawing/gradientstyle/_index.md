@@ -11,6 +11,18 @@ url: /cpp/aspose.words.drawing/gradientstyle/
 
 Specifies the style for a gradient fill.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No gradient. |
+| Horizontal | `0` | Gradient running horizontally across an object. |
+| Vertical | `0` | Gradient running vertically down an object. |
+| DiagonalUp | `0` | Diagonal gradient moving from a bottom corner up to the opposite corner. |
+| DiagonalDown | `0` | Diagonal gradient moving from a top corner down to the opposite corner. |
+| FromCorner | `0` | Gradient running from a corner to the other three corners. |
+| FromCenter | `0` | Gradient running from the center out to the corners. |
+
 
 ## Examples
 

@@ -11,6 +11,15 @@ url: /cpp/aspose.words.drawing.charts/axiscrosses/
 
 Specifies the possible crossing points for an axis.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Automatic | `0` | The category axis crosses at the zero point of the value axis (if possible), or at the minimum value if the minimum is greater than zero, or at the maximum if the maximum is less than zero. |
+| Maximum | `0` | A perpendicular axis crosses at the maximum value of the axis. |
+| Minimum | `0` | A perpendicular axis crosses at the minimum value of the axis. |
+| Custom | `0` | A perpendicular axis crosses at the specified value of the axis. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words/linenumberrestartmode/
 
 Determines when automatic line numbering restarts.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| RestartPage | `0` | Line numbering restarts at the start of every page. |
+| RestartSection | `0` | Line numbering restarts at the section start. |
+| Continuous | `0` | Line numbering continuous from the previous section. |
+
 
 ## Examples
 

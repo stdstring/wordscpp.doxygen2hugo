@@ -11,6 +11,14 @@ url: /cpp/aspose.words.tables/textwrapping/
 
 Specifies how text is wrapped around the table.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | Text and table is displayed in the order of their appearance in the document. |
+| Around | `0` | Text is wrapped around the table occupying available side space. |
+| Default | `0` | Default value. |
+
 
 ## Examples
 

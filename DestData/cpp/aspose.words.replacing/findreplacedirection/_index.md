@@ -11,6 +11,13 @@ url: /cpp/aspose.words.replacing/findreplacedirection/
 
 Specifies direction for replace operations.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Forward | `0` | Matched items are replaced from first to last. |
+| Backward | `0` | Matched items are replaced from last back to first. |
+
 
 ## Examples
 

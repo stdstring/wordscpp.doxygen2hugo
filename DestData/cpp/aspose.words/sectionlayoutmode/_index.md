@@ -11,6 +11,15 @@ url: /cpp/aspose.words/sectionlayoutmode/
 
 Specifies the layout mode for a section allowing to define the document grid behavior.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Default | `0` | Specifies that no document grid shall be applied to the contents of the corresponding section in the document. |
+| Grid | `0` | Specifies that the corresponding section shall have both the additional line pitch and character pitch added to each line and character within it in order to maintain a specific number of lines per page and characters per line. Characters will not be automatically aligned with gridlines on typing. |
+| LineGrid | `0` | Specifies that the corresponding section shall have additional line pitch added to each line within it in order to maintain the specified number of lines per page. |
+| SnapToChars | `0` | Specifies that the corresponding section shall have both the additional line pitch and character pitch added to each line and character within it in order to maintain a specific number of lines per page and characters per line. Characters will be automatically aligned with gridlines on typing. |
+
 
 ## Examples
 

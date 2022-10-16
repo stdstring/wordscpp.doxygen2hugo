@@ -11,6 +11,13 @@ url: /cpp/aspose.words.notes/endnoteposition/
 
 Defines the endnote position.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| EndOfSection | `0` | Endnotes are output at the end of the section. |
+| EndOfDocument | `0` | Endnotes are output at the end of the document. |
+
 
 ## Examples
 

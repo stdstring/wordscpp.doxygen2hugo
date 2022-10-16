@@ -11,6 +11,28 @@ url: /cpp/aspose.words.markup/sdttype/
 
 Specifies the type of a structured document tag (SDT) node.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | No type is assigned to the SDT. |
+| Bibliography | `0` | The SDT represents a bibliography entry. |
+| Citation | `0` | The SDT represents a citation. |
+| Equation | `0` | The SDT represents an equation. |
+| DropDownList | `0` | The SDT represents a drop down list when displayed in the document. |
+| ComboBox | `0` | The SDT represents a combo box when displayed in the document. |
+| Date | `0` | The SDT represents a date picker when displayed in the document. |
+| BuildingBlockGallery | `0` | The SDT represents a building block gallery type. |
+| DocPartObj | `0` | The SDT represents a document part type. |
+| Group | `0` | The SDT represents a restricted grouping when displayed in the document. |
+| Picture | `0` | The SDT represents a picture when displayed in the document. |
+| RichText | `0` | The SDT represents a rich text box when displayed in the document. |
+| PlainText | `0` | The SDT represents a plain text box when displayed in the document. |
+| Checkbox | `0` | The SDT represents a checkbox when displayed in the document. |
+| RepeatingSection | `0` | The SDT represents repeating section type when displayed in the document. |
+| RepeatingSectionItem | `0` | The SDT represents repeating section item. |
+| EntityPicker | `0` | The SDT represents an entity picker that allows the user to select an instance of an external content type. |
+
 
 ## Examples
 

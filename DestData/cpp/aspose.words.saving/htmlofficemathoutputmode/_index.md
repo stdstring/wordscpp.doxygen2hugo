@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/htmlofficemathoutputmode/
 
 Specifies how Aspose.Words exports OfficeMath to HTML, MHTML and EPUB.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Image | `0` | OfficeMath is converted to HTML as image specified by <img> tag. |
+| MathML | `0` | OfficeMath is converted to HTML using MathML. |
+| Text | `0` | OfficeMath is converted to HTML as sequence of runs specified by <span> tags. |
+
 
 ## Examples
 

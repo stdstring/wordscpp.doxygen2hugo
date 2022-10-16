@@ -127,6 +127,12 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
+    GenerateHeader "Values" 3 |> builder.Append |> ignore
+    builder |> generateTableHeader ["Name"; "Value"; "Description"]
+    for enumValueDef in enumDef.Values do
+        let valueBriefDescription = enumValueDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
+        sprintf $"| {enumValueDef.Name} | `0` | {valueBriefDescription} |" |> builder.AppendLine |> ignore
+    builder.AppendLine() |> ignore
     let detailedDescription = enumDef.DetailedDescription |> GenerateEnumDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())

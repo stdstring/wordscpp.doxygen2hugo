@@ -11,6 +11,13 @@ url: /cpp/aspose.words.math/officemathdisplaytype/
 
 Specifies the display format type of the equation.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Display | `0` | The Office [Math](../) is displayed on its own line. |
+| Inline | `0` | The Office [Math](../) is displayed inline with the text. |
+
 
 ## Examples
 

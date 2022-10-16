@@ -11,6 +11,13 @@ url: /cpp/aspose.words/orientation/
 
 Specifies page orientation.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Portrait | `0` | Portrait page orientation (narrow and tall). |
+| Landscape | `0` | Landscape page orientation (wide and short). |
+
 
 ## Examples
 

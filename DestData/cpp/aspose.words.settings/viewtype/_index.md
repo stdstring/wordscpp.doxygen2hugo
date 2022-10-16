@@ -11,6 +11,17 @@ url: /cpp/aspose.words.settings/viewtype/
 
 Possible values for the view mode in Microsoft Word.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | The document shall be rendered in the default view of the application. |
+| Reading | `0` | The document shall be rendered in the default view of the application. |
+| PageLayout | `0` | The document shall be opened in a view that displays the document as it will print. |
+| Outline | `0` | The document shall be rendered in a view optimized for outlining or creating long documents. |
+| Normal | `0` | The document shall be rendered in a view optimized for outlining or creating long documents. |
+| Web | `0` | The document shall be rendered in a view mimicking the way this document would be displayed in a web page. |
+
 
 ## Examples
 

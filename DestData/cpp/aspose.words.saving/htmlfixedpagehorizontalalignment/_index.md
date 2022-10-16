@@ -11,6 +11,14 @@ url: /cpp/aspose.words.saving/htmlfixedpagehorizontalalignment/
 
 Specifies the horizontal alignment for pages in output HTML document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Left | `0` | Align pages to the left. |
+| Center | `0` | Center pages. This is the default value. |
+| Right | `0` | Align pages to the right. |
+
 
 ## Examples
 

@@ -11,6 +11,16 @@ url: /cpp/aspose.words/protectiontype/
 
 Protection type for a document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| AllowOnlyComments | `0` | User can only modify comments in the document. |
+| AllowOnlyFormFields | `0` | User can only enter data in the form fields in the document. |
+| AllowOnlyRevisions | `0` | User can only add revision marks to the document. |
+| ReadOnly | `0` | No changes are allowed to the document. Available since Microsoft Word 2003. |
+| NoProtection | `0` | The document is not protected. |
+
 
 ## Examples
 

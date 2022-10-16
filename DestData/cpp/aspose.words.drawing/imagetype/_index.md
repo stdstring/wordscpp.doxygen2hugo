@@ -11,6 +11,19 @@ url: /cpp/aspose.words.drawing/imagetype/
 
 Specifies the type (format) of an image in a Microsoft Word document.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| NoImage | `0` | The is no image data. |
+| Unknown | `0` | An unknown image type or image type that cannot be directly stored inside a Microsoft Word document. |
+| Emf | `0` | Windows Enhanced Metafile. |
+| Wmf | `0` | Windows Metafile. |
+| Pict | `0` | Macintosh PICT. An existing image will be preserved in a document, but inserting new PICT images into a document is not supported. |
+| Jpeg | `0` | JPEG JFIF. |
+| Png | `0` | Portable Network Graphics. |
+| Bmp | `0` | Windows Bitmap. |
+
 
 ## Examples
 

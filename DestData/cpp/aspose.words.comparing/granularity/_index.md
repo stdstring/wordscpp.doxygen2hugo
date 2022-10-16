@@ -11,6 +11,13 @@ url: /cpp/aspose.words.comparing/granularity/
 
 Specifies the granularity of changes to track when comparing two documents.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| CharLevel | `0` |  |
+| WordLevel | `0` |  |
+
 
 ## Examples
 

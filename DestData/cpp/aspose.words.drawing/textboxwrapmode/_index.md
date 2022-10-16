@@ -11,6 +11,13 @@ url: /cpp/aspose.words.drawing/textboxwrapmode/
 
 Specifies how text wraps inside a shape.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Square | `0` | Text wraps inside a shape. |
+| None | `0` | Text does not wrap inside a shape. |
+
 
 ## Examples
 

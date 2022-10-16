@@ -11,6 +11,13 @@ url: /cpp/aspose.words/nodechangingaction/
 
 Specifies the type of node change.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Insert | `0` | A node is being inserted in the tree. |
+| Remove | `0` | A node is being removed from the tree. |
+
 
 ## Examples
 

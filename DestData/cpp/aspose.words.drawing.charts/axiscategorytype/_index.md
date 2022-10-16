@@ -11,6 +11,14 @@ url: /cpp/aspose.words.drawing.charts/axiscategorytype/
 
 Specifies type of a category axis.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Automatic | `0` | Specifies that type of a category axis is determined automatically based on data. |
+| Category | `0` | Specifies an axis of an arbitrary set of categories. |
+| Time | `0` | Specifies a time category axis. |
+
 
 ## Examples
 

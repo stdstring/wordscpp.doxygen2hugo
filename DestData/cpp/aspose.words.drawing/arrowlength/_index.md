@@ -11,6 +11,15 @@ url: /cpp/aspose.words.drawing/arrowlength/
 
 Length of the arrow at the end of a line.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Short | `0` |  |
+| Medium | `0` |  |
+| Long | `0` |  |
+| Default | `0` | Same as **Short**. |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.tables/preferredwidthtype/
 
 Specifies the unit of measurement for the preferred width of a table or cell.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Auto | `0` | The preferred width is not specified. The actual width of the table or cell is either specified using the explicit width or will be determined automatically by the table layout algorithm when the table is displayed, depending on the table auto fit setting. |
+| Percent | `0` | Measure the current item width using a specified percentage. |
+| Points | `0` | Measure the current item width using a specified number of points (1/72 inch). |
+
 
 ## Examples
 

@@ -11,6 +11,14 @@ url: /cpp/aspose.words.layout/showinballoons/
 
 Specifies which revisions are rendered in balloons.
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | `0` | Renders insert, delete and format revisions inline. |
+| Format | `0` | Renders insert and delete revisions inline, format revisions in balloons. |
+| FormatAndDelete | `0` | Renders insert revisions inline, delete and format revisions in balloons. |
+
 
 ## Examples
 

@@ -11,6 +11,17 @@ url: /cpp/aspose.words.drawing/shapelinestyle/
 
 Specifies the compound line style of a [Shape](../shape/).
 
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Single | `0` | Single line. |
+| Double | `0` | Double lines of equal width. |
+| ThickThin | `0` | Double lines, one thick, one thin. |
+| ThinThick | `0` | Double lines, one thin, one thick. |
+| Triple | `0` | Three lines, thin, thick, thin. |
+| Default | `0` | Default value is **Single**. |
+
 
 ## Examples
 
