@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsodatasourcetype/
 
 Specifies the type of the external data source to be connected to as part of the ODSO connection information.
 
+
+The OOXML specification is very vague for this enum. I guess it might correspond to the WdMergeSubType enumeration [http://msdn.microsoft.com/en-us/library/bb237801.aspx](http://msdn.microsoft.com/en-us/library/bb237801.aspx).
+
+

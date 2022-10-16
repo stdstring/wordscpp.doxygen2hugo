@@ -11,3 +11,5 @@ url: /cpp/aspose.words.settings/mailmergemaindocumenttype/
 
 Specifies the possible types for a mail merge source document.
 
+
+

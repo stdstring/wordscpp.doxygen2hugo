@@ -11,3 +11,16 @@ url: /cpp/aspose.words/saveformat/
 
 Indicates the format in which the document is saved.
 
+
+## Examples
+
+
+
+
+Shows how to convert from DOCX to HTML format. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Document.docx");
+
+doc->Save(ArtifactsDir + u"Document.ConvertToHtml.html", SaveFormat::Html);
+```
+

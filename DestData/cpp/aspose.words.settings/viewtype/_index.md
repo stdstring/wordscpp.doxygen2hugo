@@ -11,3 +11,24 @@ url: /cpp/aspose.words.settings/viewtype/
 
 Possible values for the view mode in Microsoft Word.
 
+
+## Examples
+
+
+
+
+Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+builder->Writeln(u"Hello world!");
+
+doc->get_ViewOptions()->set_ViewType(ViewType::PageLayout);
+doc->get_ViewOptions()->set_ZoomPercent(50);
+
+ASSERT_EQ(ZoomType::Custom, doc->get_ViewOptions()->get_ZoomType());
+ASSERT_EQ(ZoomType::None, doc->get_ViewOptions()->get_ZoomType());
+
+doc->Save(ArtifactsDir + u"ViewOptions.SetZoomPercentage.doc");
+```
+

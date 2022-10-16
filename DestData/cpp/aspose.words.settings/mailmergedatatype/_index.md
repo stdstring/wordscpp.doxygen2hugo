@@ -11,3 +11,5 @@ url: /cpp/aspose.words.settings/mailmergedatatype/
 
 Specifies the type of an external mail merge data source.
 
+
+

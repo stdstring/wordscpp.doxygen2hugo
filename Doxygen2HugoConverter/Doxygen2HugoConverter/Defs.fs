@@ -5,19 +5,21 @@ open System.IO
 open System.Xml.Linq
 open Markup
 
-type Description = {Brief: SimpleMarkupDef list; Detailed: string}
+//type Description = {Brief: SimpleMarkupDef list; Detailed: string}
 
 type EnumValueDef = {Id: string;
                      Name: string;
                      Initializer: string option;
-                     Description: Description}
+                     BriefDescription: SimpleMarkupDef list;
+                     DetailedDescription: string}
 
 type EnumDef = {Id: string;
                 ParentId: string;
                 Name: string;
                 QualifiedName: string;
                 BaseType: string;
-                Description: Description;
+                BriefDescription: SimpleMarkupDef list;
+                DetailedDescription: EnumDetailedDescription;
                 Values: EnumValueDef list}
 
 type TypedefDef = {Id: string;
@@ -26,7 +28,8 @@ type TypedefDef = {Id: string;
                    QualifiedName: string;
                    SourceType: string;
                    Definition: string;
-                   Description: Description}
+                   BriefDescription: SimpleMarkupDef list;
+                   DetailedDescription: string}
 
 type MethodParameterDef = {Name: string; Type: SimpleMarkupDef list}
 
@@ -39,7 +42,8 @@ type MethodDef = {Id: string;
                   IsExplicit: bool;
                   IsVirtual: bool;
                   IsOverride: bool;
-                  Description: Description;
+                  BriefDescription: SimpleMarkupDef list;
+                  DetailedDescription: string;
                   Parameters: MethodParameterDef list;
                   ReturnType: SimpleMarkupDef list}
 
@@ -55,14 +59,16 @@ type ClassDef = {Id: string;
                  FullName: string;
                  Final: bool;
                  Kind: ClassKind;
-                 Description: Description
+                 BriefDescription: SimpleMarkupDef list;
+                 DetailedDescription: string;
                  BaseClasses: BaseClassDef list;
                  DirectMethods: MethodDef list;
                  MemberRefs: Refs.MemberRef list}
 
 type NamespaceDef = {Id: string;
                      Name: string;
-                     Description: Description;
+                     BriefDescription: SimpleMarkupDef list;
+                     DetailedDescription: string;
                      Enums: EnumDef list;
                      Typedefs: TypedefDef list;
                      Classes: ClassDef list
@@ -106,29 +112,37 @@ let findYesNoValue (name: string) (source: XElement) =
     | Some "yes" -> true
     | _ -> name |> failwithf "Unexpected \"%s\" attribute value"
 
-let parseBriefDescription (briefDescriptionElement: XElement) = briefDescriptionElement |> Markup.parseMarkup
+//let parseDescription (source: XElement) =
+//    let brief = source.Element("briefdescription") |> parseBriefDescription
+//    //let detailed = "detaileddescription" |> getElementValue source
+//    let detailed = ""
+//    {Description.Brief = brief; Description.Detailed = detailed}
 
-let parseDescription (source: XElement) =
-    let brief = source.Element("briefdescription") |> parseBriefDescription
-    //let detailed = "detaileddescription" |> getElementValue source
-    let detailed = ""
-    {Description.Brief = brief; Description.Detailed = detailed}
+let parseBriefDescription (source: XElement) =
+    source.Element("briefdescription") |> Markup.parseMarkup
+
+let parseDetailedDescription (source: XElement) = ""
+
+let parseEnumDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseEnumDetailedDescription
 
 let parseEnumValueDef (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
-    let description = source |> parseDescription
+    let briefDescription = source |> parseBriefDescription
+    let detailedDescription = source |> parseDetailedDescription
     let name = "name" |> Utils.getElementValue source
     let initializer = "initializer" |> Utils.findElementValue source
     {EnumValueDef.Id = id;
      EnumValueDef.Name = name;
      EnumValueDef.Initializer = initializer;
-     EnumValueDef.Description = description}
+     EnumValueDef.BriefDescription = briefDescription;
+     EnumValueDef.DetailedDescription = detailedDescription;}
 
 let parseEnumDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
         let id = "id" |> Utils.getAttributeValue source
-        let description = source |> parseDescription
+        let briefDescription = source |> parseBriefDescription
+        let detailedDescription = source |> parseEnumDetailedDescription
         let name = "name" |> Utils.getElementValue source
         let qualifiedName = "qualifiedname" |> Utils.getElementValue source
         let baseType = "type" |> Utils.getElementValue source
@@ -138,7 +152,8 @@ let parseEnumDef (context: Context) (source: XElement) =
                        EnumDef.Name = name;
                        EnumDef.QualifiedName = qualifiedName;
                        EnumDef.BaseType = baseType;
-                       EnumDef.Description = description;
+                       EnumDef.BriefDescription = briefDescription;
+                       EnumDef.DetailedDescription = detailedDescription;
                        EnumDef.Values = values}
         context.CommonEntityRepo.Add(id, enumDef |> EntityDef.Enum)
         enumDef |> Some
@@ -148,7 +163,8 @@ let parseTypedefDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
         let id = "id" |> Utils.getAttributeValue source
-        let description = source |> parseDescription
+        let briefDescription = source |> parseBriefDescription
+        let detailedDescription = source |> parseDetailedDescription
         let name = "name" |> Utils.getElementValue source
         let qualifiedName = "qualifiedname" |> Utils.getElementValue source
         let sourceType = "type" |> Utils.getElementValue source
@@ -159,7 +175,8 @@ let parseTypedefDef (context: Context) (source: XElement) =
                           TypedefDef.QualifiedName = qualifiedName;
                           TypedefDef.SourceType = sourceType;
                           TypedefDef.Definition = definition;
-                          TypedefDef.Description = description}
+                          TypedefDef.BriefDescription = briefDescription;
+                          TypedefDef.DetailedDescription = detailedDescription;}
         context.CommonEntityRepo.Add(id, typedefDef |> EntityDef.Typedef)
         typedefDef |> Some
     | _ -> None
@@ -183,7 +200,8 @@ let parseMethodDef (context: Context) (source: XElement) =
     let returnType = "type" |> Utils.getElement source |> Markup.parseMarkup
     //let definition = "definition" |> getElementValue source
     let argString = "argsstring" |> Utils.getElementValue source
-    let description = source |> parseDescription
+    let briefDescription = source |> parseBriefDescription
+    let detailedDescription = source |> parseDetailedDescription
     let overrideValue = argString.EndsWith(OverrideSuffix)
     let parameters = source.Elements("param") |> Seq.map parseMethodParameter |> Seq.toList
     let methodDef = {MethodDef.Id = id;
@@ -195,7 +213,8 @@ let parseMethodDef (context: Context) (source: XElement) =
                      MethodDef.IsExplicit = explicitValue;
                      MethodDef.IsVirtual = virtualValue;
                      MethodDef.IsOverride = overrideValue;
-                     MethodDef.Description = description;
+                     MethodDef.BriefDescription = briefDescription;
+                     MethodDef.DetailedDescription = detailedDescription;
                      MethodDef.Parameters = parameters;
                      MethodDef.ReturnType = returnType}
     context.CommonEntityRepo.Add(id, methodDef |> EntityDef.Method)
@@ -223,7 +242,8 @@ let parseClassDef (context: Context) (source: XElement) =
                    | "class" -> ClassKind.Class
                    | "interface" -> ClassKind.Interface
                    | value -> value |> failwithf "Unexpected kind value \"%s\""
-        let description = source |> parseDescription
+        let briefDescription = source |> parseBriefDescription
+        let detailedDescription = source |> parseDetailedDescription
         let fullName = "compoundname" |> Utils.getElementValue source
         let name = fullName |> Utils.getClassName
         let finalValue = source |> findYesNoValue "final"
@@ -247,7 +267,8 @@ let parseClassDef (context: Context) (source: XElement) =
                         ClassDef.FullName = fullName;
                         ClassDef.Final = finalValue;
                         ClassDef.Kind = kind;
-                        ClassDef.Description = description;
+                        ClassDef.BriefDescription = briefDescription;
+                        ClassDef.DetailedDescription = detailedDescription;
                         ClassDef.BaseClasses = baseClasses;
                         ClassDef.DirectMethods = directMethods;
                         ClassDef.MemberRefs = memberRefs}
@@ -281,7 +302,8 @@ let parseClassRefEntry (context: Context) (config: Config.ConfigData) (refEntry:
 let parseNamespaceDef (config: Config.ConfigData) (context: Context) (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
     let name = "compoundname" |> Utils.getElementValue source
-    let description = source |> parseDescription
+    let briefDescription = source |> parseBriefDescription
+    let detailedDescription = source |> parseDetailedDescription
     let currentContext = {context with ParentId = id; ParentName = name}
     let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry currentContext config) |> Seq.concat |> Seq.toList
     let classDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Class)
@@ -290,7 +312,8 @@ let parseNamespaceDef (config: Config.ConfigData) (context: Context) (source: XE
     let typedefs = source |> parseTypedefSectionDef currentContext
     let namespaceDef = {NamespaceDef.Id = id;
                         NamespaceDef.Name = name;
-                        NamespaceDef.Description = description;
+                        NamespaceDef.BriefDescription = briefDescription;
+                        NamespaceDef.DetailedDescription = detailedDescription;
                         NamespaceDef.Enums = enumDefs;
                         NamespaceDef.Typedefs = typedefs;
                         NamespaceDef.Classes = classDefs;

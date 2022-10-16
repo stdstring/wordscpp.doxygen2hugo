@@ -94,12 +94,6 @@ let generateDefPageHeader (title: string) (description: string) (url: string[]) 
      {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = "0"};
      {KeyValueEntry.Key = "url"; KeyValueEntry.Value = url |> generateUrl false}] |> generatePageHeader dest
 
-let generateHeader (headerText: string) (headerLevel: int) (dest: StringBuilder) =
-    "#" |> String.replicate headerLevel |> dest.Append |> ignore
-    " " |> dest.Append |> ignore
-    headerText |> dest.AppendLine |> ignore
-    dest.AppendLine() |> ignore
-
 let generateTableHeader (columnHeaders: string list) (dest: StringBuilder) =
     "|" |> dest.Append |> ignore
     for columnHeader in columnHeaders do
@@ -125,13 +119,15 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
     enumDirectory |> Directory.CreateDirectory |> ignore
     let enumUrl = [|folderName|] |> Array.append context.Url
     let builder = new StringBuilder()
-    let descriptionForTitle = enumDef.Description |> GenerateBriefDescriptionForTitle
+    let descriptionForTitle = enumDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader enumDef.Name descriptionForTitle enumUrl
-    builder |> generateHeader (sprintf $"{enumDef.Name} enum") 2
-    let briefDescription = enumDef.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+    GenerateHeader (sprintf $"{enumDef.Name} enum") 2 |> builder.Append |> ignore
+    let briefDescription = enumDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
+    let detailedDescription = enumDef.DetailedDescription |> GenerateEnumDetailedDescription (generateRelativeUrlForEntity context)
+    detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())
     {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink enumDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
@@ -142,10 +138,10 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     typedefDirectory |> Directory.CreateDirectory |> ignore
     let typedefUrl = [|folderName|] |> Array.append context.Url
     let builder = new StringBuilder()
-    let descriptionForTitle = typedefDef.Description |> GenerateBriefDescriptionForTitle
+    let descriptionForTitle = typedefDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader typedefDef.Name descriptionForTitle typedefUrl
-    builder |> generateHeader (sprintf $"{typedefDef.Name} typedef") 2
-    let briefDescription = typedefDef.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+    GenerateHeader (sprintf $"{typedefDef.Name} typedef") 2 |> builder.Append |> ignore
+    let briefDescription = typedefDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
@@ -182,7 +178,7 @@ let createMethodEntry (context: Context) (relativeUrl: string) (methodDef: Defs.
         " const" |> builder.Append |> ignore
     if methodDef.IsOverride then
         " override" |> builder.Append |> ignore
-    let briefDescription = methodDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
+    let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
     {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
 
 let createMemberEntry (context: Context) (memberRef: Refs.MemberRef) =
@@ -203,10 +199,10 @@ let generateForDirectMethod (context: Context) (methodDef: Defs.MethodDef) =
     methodDirectory |> Directory.CreateDirectory |> ignore
     let methodUrl = [|folderName|] |> Array.append context.Url
     let builder = new StringBuilder()
-    let descriptionForTitle = methodDef.Description |> GenerateBriefDescriptionForTitle
+    let descriptionForTitle = methodDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
-    builder |> generateHeader (sprintf $"{methodDef.ClassName}.{methodDef.Name} method") 2
-    let briefDescription = methodDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
+    GenerateHeader (sprintf $"{methodDef.ClassName}.{methodDef.Name} method") 2 |> builder.Append |> ignore
+    let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
@@ -224,16 +220,16 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     let classUrl = [|folderName|] |> Array.append context.Url
     let currentContext = {context with Directory = classDirectory; Url = classUrl}
     let builder = new StringBuilder()
-    let descriptionForTitle = classDef.Description |> GenerateBriefDescriptionForTitle
+    let descriptionForTitle = classDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
-    builder |> generateHeader (sprintf $"{classDef.Name} {classDef |> generateClassKind}") 2
-    let briefDescription = classDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
+    GenerateHeader (sprintf $"{classDef.Name} {classDef |> generateClassKind}") 2 |> builder.Append |> ignore
+    let briefDescription = classDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     classDef.DirectMethods |> Seq.iter (fun def -> def |> generateForDirectMethod currentContext)
     if classDef.MemberRefs.IsEmpty |> not then
-        builder |> generateHeader "Methods" 2
+        GenerateHeader "Methods" 2 |> builder.Append |> ignore
         builder |> generateTableHeader ["Method"; "Description"]
         classDef.MemberRefs
                 |> Seq.choose (fun memberRef -> memberRef |> createMemberEntry currentContext)
@@ -252,32 +248,32 @@ let generateForNamespace (context: Context) (namespaceDef: Defs.NamespaceDef) =
         let namespaceUrl = [|folderName|] |> Array.append context.Url
         let currentContext = {context with Directory = namespaceDirectory; Url = namespaceUrl}
         let builder = new StringBuilder()
-        let descriptionForTitle = namespaceDef.Description |> GenerateBriefDescriptionForTitle
+        let descriptionForTitle = namespaceDef.BriefDescription |> GenerateBriefDescriptionForTitle
         builder |> generateDefPageHeader namespaceDef.Name descriptionForTitle namespaceUrl
-        let briefDescription = namespaceDef.Description |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
+        let briefDescription = namespaceDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
         builder.AppendLine() |> ignore
         briefDescription |> builder.AppendLine |> ignore
         builder.AppendLine() |> ignore
         if namespaceDef.Classes.IsEmpty |> not then
-            builder |> generateHeader "Classes" 2
+            GenerateHeader "Classes" 2 |> builder.Append |> ignore
             builder |> generateTableHeader ["Class"; "Description"]
             namespaceDef.Classes
                 |> Seq.map (fun def -> def |> generateForClass currentContext)
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Interfaces.IsEmpty |> not then
-            builder |> generateHeader "Interfaces" 2
+            GenerateHeader "Interfaces" 2 |> builder.Append |> ignore
             builder |> generateTableHeader ["Interface"; "Description"]
             namespaceDef.Interfaces
                 |> Seq.map (fun def -> def |> generateForClass currentContext)
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Enums.IsEmpty |> not then
-            builder |> generateHeader "Enums" 2
+            GenerateHeader "Enums" 2 |> builder.Append |> ignore
             builder |> generateTableHeader ["Enum"; "Description"]
             namespaceDef.Enums
                 |> Seq.map (fun def -> def |> generateForEnum currentContext)
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Typedefs.IsEmpty |> not then
-            builder |> generateHeader "Typedefs" 2
+            GenerateHeader "Typedefs" 2 |> builder.Append |> ignore
             builder |> generateTableHeader ["Typedef"; "Description"]
             namespaceDef.Typedefs
                 |> Seq.map (fun def -> def |> generateForTypedef currentContext)
@@ -293,7 +289,7 @@ let generateDest (config: Config.ConfigData) (repo: IDictionary<string, Defs.Ent
     let builder = new StringBuilder()
     builder |> generateRootPageHeader rootUrl
     builder.AppendLine() |> ignore
-    builder |> generateHeader "Namespaces" 2
+    GenerateHeader "Namespaces" 2 |> builder.Append |> ignore
     builder |> generateTableHeader ["Namespace"; "Description"]
     namespaceDefs
         |> Seq.choose (fun def -> def |> generateForNamespace context)
