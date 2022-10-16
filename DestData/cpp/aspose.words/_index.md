@@ -117,7 +117,7 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 | [LicenseState](./licensestate/) | LicenseState enumeration. |
 | [LineNumberRestartMode](./linenumberrestartmode/) | Determines when automatic line numbering restarts. |
 | [LineSpacingRule](./linespacingrule/) | Specifies line spacing values for a paragraph. |
-| [LineStyle](./linestyle/) | Specifies line style of a [Border](./border/). |
+| [LineStyle](./linestyle/) | Specifies line style of a [Border](../border/). |
 | [LoadFormat](./loadformat/) | Indicates the format of the document that is to be loaded. |
 | [LoadFormatTest](./loadformattest/) | LoadFormatTest enumeration. |
 | [MeasurementUnits](./measurementunits/) | Specifies the unit of measurement. |
@@ -133,7 +133,7 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 | [ParagraphAlignment](./paragraphalignment/) | Specifies text alignment in a paragraph. |
 | [ProtectionType](./protectiontype/) | Protection type for a document. |
 | [RevisionsView](./revisionsview/) | Allows to specify whether to work with the original or revised version of a document. |
-| [RevisionType](./revisiontype/) | Specifies the type of change being tracked in [Revision](./revision/). |
+| [RevisionType](./revisiontype/) | Specifies the type of change being tracked in [Revision](../revision/). |
 | [SaveFormat](./saveformat/) | Indicates the format in which the document is saved. |
 | [SectionLayoutMode](./sectionlayoutmode/) | Specifies the layout mode for a section allowing to define the document grid behavior. |
 | [SectionStart](./sectionstart/) | The type of break at the beginning of the section. |
@@ -159,4 +159,4 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 | [DocumentReaderPluginLoadException](./documentreaderpluginloadexception/) | Thrown during document load, when the plugin required for reading the document format cannot be loaded. |
 | [FileCorruptedException](./filecorruptedexception/) | Thrown during document load, when the document appears to be corrupted and impossible to load. |
 | [IncorrectPasswordException](./incorrectpasswordexception/) | Thrown if a document is encrypted with a password and the password specified when opening the document is incorrect or missing. |
-| [UnsupportedFileFormatException](./unsupportedfileformatexception/) | Thrown during document load, when the document format is not recognized or not supported by [Aspose.Words](./). |
+| [UnsupportedFileFormatException](./unsupportedfileformatexception/) | Thrown during document load, when the document format is not recognized or not supported by [Aspose.Words](../). |

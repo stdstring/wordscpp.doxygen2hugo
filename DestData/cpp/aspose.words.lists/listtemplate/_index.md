@@ -12,7 +12,7 @@ url: /cpp/aspose.words.lists/listtemplate/
 Specifies one of the predefined list formats available in Microsoft Word.
 
 
-A list template value is used as a parameter into the [Add()](./listcollection/add/) method.
+A list template value is used as a parameter into the [Add()](../listcollection/add/) method.
 
 Aspose.Words list templates correspond to the 21 list templates available in the Bullets and Numbering dialog box in Microsoft Word 2003.
 

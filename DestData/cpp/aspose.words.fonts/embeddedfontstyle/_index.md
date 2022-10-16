@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/embeddedfontstyle/
 ## EmbeddedFontStyle enum
 
 
-Specifies the style of an embedded font inside a [FontInfo](./fontinfo/) object.
+Specifies the style of an embedded font inside a [FontInfo](../fontinfo/) object.
 
 
 ## Examples

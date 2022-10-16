@@ -32,7 +32,7 @@ ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - Syst
 ```
 
 
-Shows how to work with a [FieldStart](./fieldstart/) node. 
+Shows how to work with a [FieldStart](../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();
 auto builder = MakeObject<DocumentBuilder>(doc);

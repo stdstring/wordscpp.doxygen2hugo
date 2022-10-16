@@ -9,7 +9,7 @@ url: /cpp/aspose.words.math/mathobjecttype/
 ## MathObjectType enum
 
 
-Specifies type of an Office [Math](./) object.
+Specifies type of an Office [Math](../) object.
 
 
 ## Examples

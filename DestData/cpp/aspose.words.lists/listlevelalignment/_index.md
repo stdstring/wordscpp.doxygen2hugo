@@ -12,14 +12,14 @@ url: /cpp/aspose.words.lists/listlevelalignment/
 Specifies alignment for the list number or bullet.
 
 
-Used as a value for the [Alignment](./listlevel/get_alignment/) property.
+Used as a value for the [Alignment](../listlevel/get_alignment/) property.
 
 ## Examples
 
 
 
 
-Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../aspose.words/documentbuilder/). 
+Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();
 

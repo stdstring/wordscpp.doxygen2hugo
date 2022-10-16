@@ -9,7 +9,7 @@ url: /cpp/aspose.words/linestyle/
 ## LineStyle enum
 
 
-Specifies line style of a [Border](./border/).
+Specifies line style of a [Border](../border/).
 
 
 ## Examples

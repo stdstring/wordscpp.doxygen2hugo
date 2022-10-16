@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/cssstylesheettype/
 ## CssStyleSheetType enum
 
 
-Specifies how CSS (Cascading [Style](../aspose.words/style/) Sheet) styles are exported to HTML.
+Specifies how CSS (Cascading [Style](../../aspose.words/style/) Sheet) styles are exported to HTML.
 
 
 ## Examples

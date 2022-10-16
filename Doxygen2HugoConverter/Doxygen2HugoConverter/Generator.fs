@@ -118,15 +118,16 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
     let enumDirectory = Path.Combine(context.Directory, folderName)
     enumDirectory |> Directory.CreateDirectory |> ignore
     let enumUrl = [|folderName|] |> Array.append context.Url
+    let currentContext = {context with Directory = enumDirectory; Url = enumUrl}
     let builder = new StringBuilder()
     let descriptionForTitle = enumDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader enumDef.Name descriptionForTitle enumUrl
     GenerateHeader (sprintf $"{enumDef.Name} enum") 2 |> builder.Append |> ignore
-    let briefDescription = enumDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+    let briefDescription = enumDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
-    let detailedDescription = enumDef.DetailedDescription |> GenerateEnumDetailedDescription (generateRelativeUrlForEntity context)
+    let detailedDescription = enumDef.DetailedDescription |> GenerateEnumDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())
     {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink enumDef.Name;
@@ -137,11 +138,12 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     let typedefDirectory = Path.Combine(context.Directory, folderName)
     typedefDirectory |> Directory.CreateDirectory |> ignore
     let typedefUrl = [|folderName|] |> Array.append context.Url
+    let currentContext = {context with Directory = typedefDirectory; Url = typedefUrl}
     let builder = new StringBuilder()
     let descriptionForTitle = typedefDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader typedefDef.Name descriptionForTitle typedefUrl
     GenerateHeader (sprintf $"{typedefDef.Name} typedef") 2 |> builder.Append |> ignore
-    let briefDescription = typedefDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+    let briefDescription = typedefDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/shapelinestyle/
 ## ShapeLineStyle enum
 
 
-Specifies the compound line style of a [Shape](./shape/).
+Specifies the compound line style of a [Shape](../shape/).
 
 
 ## Examples

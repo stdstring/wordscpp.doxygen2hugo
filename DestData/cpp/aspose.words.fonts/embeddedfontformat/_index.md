@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/embeddedfontformat/
 ## EmbeddedFontFormat enum
 
 
-Specifies format of particular embedded font inside [FontInfo](./fontinfo/) object. When saving a document to a file, only embedded fonts of corresponding format are written down.
+Specifies format of particular embedded font inside [FontInfo](../fontinfo/) object. When saving a document to a file, only embedded fonts of corresponding format are written down.
 
 
 ## Examples

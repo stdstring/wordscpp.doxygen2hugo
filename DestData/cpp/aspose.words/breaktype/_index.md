@@ -17,7 +17,7 @@ Specifies type of a break inside a document.
 
 
 
-Shows how to create headers and footers in a document using [DocumentBuilder](./documentbuilder/). 
+Shows how to create headers and footers in a document using [DocumentBuilder](../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();
 auto builder = MakeObject<DocumentBuilder>(doc);

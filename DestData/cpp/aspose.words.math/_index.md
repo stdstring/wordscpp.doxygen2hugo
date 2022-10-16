@@ -18,6 +18,6 @@ The **Aspose.Words.Math** namespace contains classes that represent Office [Math
 
 | Enum | Description |
 | --- | --- |
-| [MathObjectType](./mathobjecttype/) | Specifies type of an Office [Math](./) object. |
+| [MathObjectType](./mathobjecttype/) | Specifies type of an Office [Math](../) object. |
 | [OfficeMathDisplayType](./officemathdisplaytype/) | Specifies the display format type of the equation. |
 | [OfficeMathJustification](./officemathjustification/) | Specifies the justification of the equation. |

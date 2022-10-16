@@ -12,14 +12,14 @@ url: /cpp/aspose.words.lists/listtrailingcharacter/
 Specifies the character that separates the list label from the text of the paragraph.
 
 
-Used as a value for the [TrailingCharacter](./listlevel/get_trailingcharacter/) property.
+Used as a value for the [TrailingCharacter](../listlevel/get_trailingcharacter/) property.
 
 ## Examples
 
 
 
 
-Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../aspose.words/documentbuilder/). 
+Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();
 

@@ -35,8 +35,8 @@ The **Aspose.Words.Fonts** namespace provides classes and enumerations to access
 
 | Enum | Description |
 | --- | --- |
-| [EmbeddedFontFormat](./embeddedfontformat/) | Specifies format of particular embedded font inside [FontInfo](./fontinfo/) object. When saving a document to a file, only embedded fonts of corresponding format are written down. |
-| [EmbeddedFontStyle](./embeddedfontstyle/) | Specifies the style of an embedded font inside a [FontInfo](./fontinfo/) object. |
+| [EmbeddedFontFormat](./embeddedfontformat/) | Specifies format of particular embedded font inside [FontInfo](../fontinfo/) object. When saving a document to a file, only embedded fonts of corresponding format are written down. |
+| [EmbeddedFontStyle](./embeddedfontstyle/) | Specifies the style of an embedded font inside a [FontInfo](../fontinfo/) object. |
 | [FontFamily](./fontfamily/) | Represents the font family. |
 | [FontPitch](./fontpitch/) | Represents the font pitch. |
 | [FontSourceType](./fontsourcetype/) | Specifies the type of a font source. |
