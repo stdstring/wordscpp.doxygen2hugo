@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/
 
 Can be used to specify additional options when saving a document into the **Html**, **Mhtml**, **Epub** or **Azw3** format.
 
+```cpp
+class HtmlSaveOptions : public Aspose::Words::Saving::SaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -149,3 +154,171 @@ Can be used to specify additional options when saving a document into the **Html
 | [set_UpdateSdtContent](../saveoptions/set_updatesdtcontent/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent](../saveoptions/get_updatesdtcontent/). |
 | [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](../saveoptions/get_useantialiasing/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
+
+## Examples
+
+
+
+
+Shows how to use a specific encoding when saving a document to .epub. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+// Use a SaveOptions object to specify the encoding for a document that we will save.
+auto saveOptions = MakeObject<HtmlSaveOptions>();
+saveOptions->set_SaveFormat(SaveFormat::Epub);
+saveOptions->set_Encoding(System::Text::Encoding::get_UTF8());
+
+// By default, an output .epub document will have all its contents in one HTML part.
+// A split criterion allows us to segment the document into several HTML parts.
+// We will set the criteria to split the document into heading paragraphs.
+// This is useful for readers who cannot read HTML files more significant than a specific size.
+saveOptions->set_DocumentSplitCriteria(DocumentSplitCriteria::HeadingParagraph);
+
+// Specify that we want to export document properties.
+saveOptions->set_ExportDocumentProperties(true);
+
+doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOptions);
+```
+
+
+Shows how to specify the folder for storing linked images after saving to .html. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+String imagesDir = System::IO::Path::Combine(ArtifactsDir, u"SaveHtmlWithOptions");
+
+if (System::IO::Directory::Exists(imagesDir))
+{
+    System::IO::Directory::Delete(imagesDir, true);
+}
+
+System::IO::Directory::CreateDirectory_(imagesDir);
+
+// Set an option to export form fields as plain text instead of HTML input elements.
+auto options = MakeObject<HtmlSaveOptions>(SaveFormat::Html);
+options->set_ExportTextInputFormFieldAsText(true);
+options->set_ImagesFolder(imagesDir);
+
+doc->Save(ArtifactsDir + u"HtmlSaveOptions.SaveHtmlWithOptions.html", options);
+```
+
+
+Shows how to split a document into parts and save them. 
+```cpp
+void DocumentPartsFileNames()
+{
+    auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+    String outFileName = u"SavingCallback.DocumentPartsFileNames.html";
+
+    // Create an "HtmlFixedSaveOptions" object, which we can pass to the document's "Save" method
+    // to modify how we convert the document to HTML.
+    auto options = MakeObject<HtmlSaveOptions>();
+
+    // If we save the document normally, there will be one output HTML
+    // document with all the source document's contents.
+    // Set the "DocumentSplitCriteria" property to "DocumentSplitCriteria.SectionBreak" to
+    // save our document to multiple HTML files: one for each section.
+    options->set_DocumentSplitCriteria(DocumentSplitCriteria::SectionBreak);
+
+    // Assign a custom callback to the "DocumentPartSavingCallback" property to alter the document part saving logic.
+    options->set_DocumentPartSavingCallback(MakeObject<ExSavingCallback::SavedDocumentPartRename>(outFileName, options->get_DocumentSplitCriteria()));
+
+    // If we convert a document that contains images into html, we will end up with one html file which links to several images.
+    // Each image will be in the form of a file in the local file system.
+    // There is also a callback that can customize the name and file system location of each image.
+    options->set_ImageSavingCallback(MakeObject<ExSavingCallback::SavedImageRename>(outFileName));
+
+    doc->Save(ArtifactsDir + outFileName, options);
+}
+
+class SavedDocumentPartRename : public IDocumentPartSavingCallback
+{
+public:
+    SavedDocumentPartRename(String outFileName, DocumentSplitCriteria documentSplitCriteria)
+        : mCount(0), mDocumentSplitCriteria(((Aspose::Words::Saving::DocumentSplitCriteria)0))
+    {
+        mOutFileName = outFileName;
+        mDocumentSplitCriteria = documentSplitCriteria;
+    }
+
+private:
+    int mCount;
+    String mOutFileName;
+    DocumentSplitCriteria mDocumentSplitCriteria;
+
+    void DocumentPartSaving(SharedPtr<DocumentPartSavingArgs> args) override
+    {
+        // We can access the entire source document via the "Document" property.
+        ASSERT_TRUE(args->get_Document()->get_OriginalFileName().EndsWith(u"Rendering.docx"));
+
+        String partType = String::Empty;
+
+        switch (mDocumentSplitCriteria)
+        {
+        case DocumentSplitCriteria::PageBreak:
+            partType = u"Page";
+            break;
+
+        case DocumentSplitCriteria::ColumnBreak:
+            partType = u"Column";
+            break;
+
+        case DocumentSplitCriteria::SectionBreak:
+            partType = u"Section";
+            break;
+
+        case DocumentSplitCriteria::HeadingParagraph:
+            partType = u"Paragraph from heading";
+            break;
+
+        default:
+            break;
+        }
+
+        String partFileName = String::Format(u"{0} part {1}, of type {2}{3}", mOutFileName, ++mCount, partType,
+                                             System::IO::Path::GetExtension(args->get_DocumentPartFileName()));
+
+        // Below are two ways of specifying where Aspose.Words will save each part of the document.
+        // 1 -  Set a filename for the output part file:
+        args->set_DocumentPartFileName(partFileName);
+
+        // 2 -  Create a custom stream for the output part file:
+        args->set_DocumentPartStream(MakeObject<System::IO::FileStream>(ArtifactsDir + partFileName, System::IO::FileMode::Create));
+
+        ASSERT_TRUE(args->get_DocumentPartStream()->get_CanWrite());
+        ASSERT_FALSE(args->get_KeepDocumentPartStreamOpen());
+    }
+};
+
+class SavedImageRename : public IImageSavingCallback
+{
+public:
+    SavedImageRename(String outFileName) : mCount(0)
+    {
+        mOutFileName = outFileName;
+    }
+
+private:
+    int mCount;
+    String mOutFileName;
+
+    void ImageSaving(SharedPtr<ImageSavingArgs> args) override
+    {
+        String imageFileName = String::Format(u"{0} shape {1}, of type {2}{3}", mOutFileName, ++mCount, args->get_CurrentShape()->get_ShapeType(),
+                                              System::IO::Path::GetExtension(args->get_ImageFileName()));
+
+        // Below are two ways of specifying where Aspose.Words will save each part of the document.
+        // 1 -  Set a filename for the output image file:
+        args->set_ImageFileName(imageFileName);
+
+        // 2 -  Create a custom stream for the output image file:
+        args->set_ImageStream(MakeObject<System::IO::FileStream>(ArtifactsDir + imageFileName, System::IO::FileMode::Create));
+
+        ASSERT_TRUE(args->get_ImageStream()->get_CanWrite());
+        ASSERT_TRUE(args->get_IsImageAvailable());
+        ASSERT_FALSE(args->get_KeepImageStreamOpen());
+    }
+};
+```
+

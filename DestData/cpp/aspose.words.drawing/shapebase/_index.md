@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing/shapebase/
 
 Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture.
 
+```cpp
+class ShapeBase : public Aspose::Words::CompositeNode, public Aspose::Words::IInline, public Aspose::Words::Drawing::Core::IShape, public Aspose::Words::IShapeAttrSource, public Aspose::Words::Revisions::ITrackableNode, public Aspose::Words::Drawing::Core::IFillable
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -144,3 +149,40 @@ Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE
 | [SetTemplateWeakPtr](../../aspose.words/compositenode/settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+This is an abstract class. The two derived classes that you can instantiate are [Shape](../shape/) and [GroupShape](../groupshape/).
+
+A shape is a node in the document tree.
+
+If the shape is a child of a [Paragraph](../../aspose.words/paragraph/) object, then the shape is said to be "top-level". Top-level shapes are measured and positioned in points.
+
+A shape can also occur as a child of a [GroupShape](../groupshape/) object when several shapes are grouped. Child shapes of a group shape are positioned in the coordinate space and units defined by the [CoordSize](./get_coordsize/) and [CoordOrigin](./get_coordorigin/) properties of the parent group shape.
+
+A shape can be positioned inline with text or floating. The positioning method is controlled using the [WrapType](./get_wraptype/) property.
+
+When a shape is floating, it is positioned relative to something (e.g the current paragraph, the margin or the page). The relative positioning of the shape is specified using the [RelativeHorizontalPosition](./get_relativehorizontalposition/) and [RelativeVerticalPosition](./get_relativeverticalposition/) properties.
+
+A floating shape be positioned explicitly using the [Left](./get_left/) and [Top](./get_top/) properties or aligned relative to some other object using the [HorizontalAlignment](./get_horizontalalignment/) and [VerticalAlignment](./get_verticalalignment/) properties.
+
+## Examples
+
+
+
+
+Shows how to insert a floating image to the center of a page. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert a floating image that will appear behind the overlapping text and align it to the page's center.
+SharedPtr<Shape> shape = builder->InsertImage(ImageDir + u"Logo.jpg");
+shape->set_WrapType(WrapType::None);
+shape->set_BehindText(true);
+shape->set_RelativeHorizontalPosition(RelativeHorizontalPosition::Page);
+shape->set_RelativeVerticalPosition(RelativeVerticalPosition::Page);
+shape->set_HorizontalAlignment(HorizontalAlignment::Center);
+shape->set_VerticalAlignment(VerticalAlignment::Center);
+
+doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
+```
+

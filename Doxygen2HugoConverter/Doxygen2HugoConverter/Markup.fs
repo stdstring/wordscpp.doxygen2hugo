@@ -38,6 +38,10 @@ type DetailedDescriptionPart =
 
 type DetailedDescription = DetailedDescriptionPart list
 
+type TemplateParameter = {Name: string; Description: SimpleMarkup}
+
+type ClassDetailedDescription = {TemplateParameters: TemplateParameter list; Description: DetailedDescription}
+
 let parseMarkupRef (source: XElement) =
     let refId = "refid" |> Utils.getAttributeValue source
     let kind = "kindref" |> Utils.findAttributeValue source
@@ -128,14 +132,35 @@ let parseDetailedDescription (source: XElement): DetailedDescription =
             | "title" -> seq {yield element.Value |> DetailedDescriptionPart.Title}
             | "simplesect" ->
                 match "kind" |> Utils.getAttributeValue element with
-                | "par" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
+                | "par"
+                | "note" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
                 | "see" -> Seq.empty
                 | kind -> kind |> failwithf "Unexpected \"simplesect\" XML element with kind \"%s\""
             | "orderedlist"
             | "itemizedlist" -> element |> parseMarkupList |> DetailedDescriptionPart.List |> Seq.singleton
             | "programlisting" -> seq {yield element |> parseCodeBlock |> DetailedDescriptionPart.CodeBlock}
             | "ulink" -> element |> parseExternalLink |> DetailedDescriptionPart.ExternalLink |> Seq.singleton
+            | "emphasis" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
+            // special processing for outer code
+            | "parameterlist" -> Seq.empty
             | name -> name |> failwithf "Unexpected enum detailed description XML element with name \"%s\""
         | :? XText -> (node :?> XText).Value |> SimpleMarkupDef.Text |> DetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
         | _ -> node.NodeType |> failwithf "Unexpected enum detailed description XML node with type %A"
     source.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat |> Seq.toList
+
+let parseTemplateParameter (source: XElement) =
+    let name = (source.Descendants("parametername") |> Seq.exactlyOne).Value
+    let description = source.Descendants("parameterdescription") |> Seq.exactlyOne |> parseMarkup
+    {TemplateParameter.Name = name; TemplateParameter.Description = description}
+
+let parseTemplateParameters (source: XElement) =
+    source.Elements("parameteritem") |> Seq.map parseTemplateParameter |> Seq.toList
+
+let parseClassDetailedDescription (source: XElement) =
+    let detailedDescription = source |> parseDetailedDescription
+    let templateParameters = match source.Descendants("parameterlist") |> Seq.toList with
+                             | [] -> []
+                             | [parameterListElement] -> parameterListElement |> parseTemplateParameters
+                             | _ -> failwith "Several sections \"parameterlist\" found"
+    {ClassDetailedDescription.TemplateParameters = templateParameters;
+     ClassDetailedDescription.Description = detailedDescription}

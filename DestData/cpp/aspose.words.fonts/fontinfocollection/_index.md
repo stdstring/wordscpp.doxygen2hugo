@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fonts/fontinfocollection/
 
 Represents a collection of fonts used in a document.
 
+```cpp
+class FontInfoCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Fonts::FontInfo>>
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -36,3 +41,50 @@ Represents a collection of fonts used in a document.
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+
+Items are [FontInfo](../fontinfo/) objects.
+
+You do not create instances of this class directly. Use the [FontInfos](../../aspose.words/documentbase/get_fontinfos/) property to access the collection of fonts defined in the document.
+
+## Examples
+
+
+
+
+Shows how to print the details of what fonts are present in a document. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");
+
+SharedPtr<Aspose::Words::Fonts::FontInfoCollection> allFonts = doc->get_FontInfos();
+
+// Print all the used and unused fonts in the document.
+for (int i = 0; i < allFonts->get_Count(); i++)
+{
+    std::cout << "Font index #" << i << std::endl;
+    std::cout << "\tName: " << allFonts->idx_get(i)->get_Name() << std::endl;
+    std::cout << "\tIs " << (allFonts->idx_get(i)->get_IsTrueType() ? String(u"") : String(u"not ")) << "a trueType font" << std::endl;
+}
+```
+
+
+Shows how to save a document with embedded TrueType fonts. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Document.docx");
+
+SharedPtr<Aspose::Words::Fonts::FontInfoCollection> fontInfos = doc->get_FontInfos();
+fontInfos->set_EmbedTrueTypeFonts(embedAllFonts);
+fontInfos->set_EmbedSystemFonts(embedAllFonts);
+fontInfos->set_SaveSubsetFonts(embedAllFonts);
+
+doc->Save(ArtifactsDir + u"Font.FontInfoCollection.docx");
+
+if (embedAllFonts)
+{
+    ASSERT_LT(25000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Font.FontInfoCollection.docx")->get_Length());
+}
+else
+{
+    ASSERT_GE(15000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Font.FontInfoCollection.docx")->get_Length());
+}
+```
+

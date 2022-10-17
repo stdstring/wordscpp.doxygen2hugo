@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing/stroke/
 
 Defines a stroke for a shape.
 
+```cpp
+class Stroke : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -54,3 +59,37 @@ Defines a stroke for a shape.
 | [set_Transparency](./set_transparency/)(double) | Setter for [Aspose::Words::Drawing::Stroke::get_Transparency](./get_transparency/). |
 | [set_Visible](./set_visible/)(bool) | Setter for [Aspose::Words::Drawing::Stroke::get_Visible](./get_visible/). |
 | [set_Weight](./set_weight/)(double) | Setter for [Aspose::Words::Drawing::Stroke::get_Weight](./get_weight/). |
+
+Use the [Stroke](../shape/get_stroke/) property to access stroke properties of a shape. You do not create instances of the [Stroke](./) class directly.
+
+## Examples
+
+
+
+
+Shows how change stroke properties. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+SharedPtr<Shape> shape = builder->InsertShape(ShapeType::Rectangle, RelativeHorizontalPosition::LeftMargin, 100, RelativeVerticalPosition::TopMargin,
+                                              100, 200, 200, WrapType::None);
+
+// Basic shapes, such as the rectangle, have two visible parts.
+// 1 -  The fill, which applies to the area within the outline of the shape:
+shape->get_Fill()->set_ForeColor(System::Drawing::Color::get_White());
+
+// 2 -  The stroke, which marks the outline of the shape:
+// Modify various properties of this shape's stroke.
+SharedPtr<Stroke> stroke = shape->get_Stroke();
+stroke->set_On(true);
+stroke->set_Weight(5);
+stroke->set_Color(System::Drawing::Color::get_Red());
+stroke->set_DashStyle(DashStyle::ShortDashDotDot);
+stroke->set_JoinStyle(JoinStyle::Miter);
+stroke->set_EndCap(EndCap::Square);
+stroke->set_LineStyle(ShapeLineStyle::Triple);
+
+doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
+```
+

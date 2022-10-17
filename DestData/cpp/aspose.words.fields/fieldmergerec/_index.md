@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldmergerec/
 
 Implements the MERGEREC field.
 
+```cpp
+class FieldMergeRec : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |

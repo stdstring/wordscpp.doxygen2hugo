@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldincludepicture/
 
 Implements the INCLUDEPICTURE field.
 
+```cpp
+class FieldIncludePicture : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludePictureCode
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -47,3 +52,39 @@ Implements the INCLUDEPICTURE field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to insert images using IMPORT and INCLUDEPICTURE fields. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Below are two similar field types that we can use to display images linked from the local file system.
+// 1 -  The INCLUDEPICTURE field:
+auto fieldIncludePicture = System::DynamicCast<FieldIncludePicture>(builder->InsertField(FieldType::FieldIncludePicture, true));
+fieldIncludePicture->set_SourceFullName(ImageDir + u"Transparent background logo.png");
+
+ASSERT_TRUE(System::Text::RegularExpressions::Regex::Match(fieldIncludePicture->GetFieldCode(), u" INCLUDEPICTURE  .*")->get_Success());
+
+// Apply the PNG32.FLT filter.
+fieldIncludePicture->set_GraphicFilter(u"PNG32");
+fieldIncludePicture->set_IsLinked(true);
+fieldIncludePicture->set_ResizeHorizontally(true);
+fieldIncludePicture->set_ResizeVertically(true);
+
+// 2 -  The IMPORT field:
+auto fieldImport = System::DynamicCast<FieldImport>(builder->InsertField(FieldType::FieldImport, true));
+fieldImport->set_SourceFullName(ImageDir + u"Transparent background logo.png");
+fieldImport->set_GraphicFilter(u"PNG32");
+fieldImport->set_IsLinked(true);
+
+ASSERT_TRUE(System::Text::RegularExpressions::Regex::Match(fieldImport->GetFieldCode(), u" IMPORT  .* \\\\c PNG32 \\\\d")->get_Success());
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.IMPORT.INCLUDEPICTURE.docx");
+```
+

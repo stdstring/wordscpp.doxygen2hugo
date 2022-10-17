@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldocx/
 
 Implements the OCX field.
 
+```cpp
+class FieldOcx : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,19 @@ Implements the OCX field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to insert an OCX field. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+auto field = System::DynamicCast<FieldOcx>(builder->InsertField(FieldType::FieldOcx, true));
+
+ASSERT_EQ(u" OCX ", field->GetFieldCode());
+```
+

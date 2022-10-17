@@ -11,6 +11,11 @@ url: /cpp/aspose.words/documentbase/
 
 Provides the abstract base class for a main document and a glossary document of a Word document.
 
+```cpp
+class DocumentBase : public Aspose::Words::CompositeNode
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -69,3 +74,25 @@ Provides the abstract base class for a main document and a glossary document of 
 | [SetTemplateWeakPtr](../compositenode/settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+Aspose.Words represents a Word document as a tree of nodes. [DocumentBase](./) is a root node of the tree that contains all other nodes of the document.
+
+[DocumentBase](./) also stores document-wide information such as [Styles](./get_styles/) and [Lists](./get_lists/) that the tree nodes might refer to.
+
+## Examples
+
+
+
+
+Shows how to initialize the subclasses of [DocumentBase](./). 
+```cpp
+auto doc = MakeObject<Document>();
+
+ASPOSE_ASSERT_EQ(System::ObjectExt::GetType<DocumentBase>(), System::ObjectExt::GetType(doc).get_BaseType());
+
+auto glossaryDoc = MakeObject<GlossaryDocument>();
+doc->set_GlossaryDocument(glossaryDoc);
+
+ASPOSE_ASSERT_EQ(System::ObjectExt::GetType<DocumentBase>(), System::ObjectExt::GetType(glossaryDoc).get_BaseType());
+```
+

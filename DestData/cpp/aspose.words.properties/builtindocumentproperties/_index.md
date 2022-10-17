@@ -11,6 +11,11 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/
 
 A collection of built-in document properties.
 
+```cpp
+class BuiltInDocumentProperties : public Aspose::Words::Properties::DocumentPropertyCollection
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -88,3 +93,46 @@ A collection of built-in document properties.
 | [set_TotalEditingTime](./set_totaleditingtime/)(int32_t) | Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_TotalEditingTime](./get_totaleditingtime/). |
 | [set_Version](./set_version/)(int32_t) | Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Version](./get_version/). |
 | [set_Words](./set_words/)(int32_t) | Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Words](./get_words/). |
+
+Provides access to [DocumentProperty](../documentproperty/) objects by their names (using an indexer) and via a set of typed properties that return values of appropriate types.
+
+The names of the properties are case-insensitive.
+
+The properties in the collection are sorted alphabetically by name.
+
+## Examples
+
+
+
+
+Shows how to work with built-in document properties. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Properties.docx");
+
+// The "Document" object contains some of its metadata in its members.
+std::cout << "Document filename:\n\t \"" << doc->get_OriginalFileName() << "\"" << std::endl;
+
+// The document also stores metadata in its built-in properties.
+// Each built-in property is a member of the document's "BuiltInDocumentProperties" object.
+std::cout << "Built-in Properties:" << std::endl;
+for (const auto& docProperty : System::IterateOver(doc->get_BuiltInDocumentProperties()))
+{
+    std::cout << docProperty->get_Name() << std::endl;
+    std::cout << String::Format(u"\tType:\t{0}", docProperty->get_Type()) << std::endl;
+
+    // Some properties may store multiple values.
+    if (System::ObjectExt::Is<System::Collections::Generic::ICollection<SharedPtr<System::Object>>>(docProperty->get_Value()))
+    {
+        for (const auto& value : System::IterateOver(
+                 System::DynamicCast_noexcept<System::Collections::Generic::ICollection<SharedPtr<System::Object>>>(docProperty->get_Value())))
+        {
+            std::cout << "\tValue:\t\"" << value << "\"" << std::endl;
+        }
+    }
+    else
+    {
+        std::cout << "\tValue:\t\"" << docProperty->get_Value() << "\"" << std::endl;
+    }
+}
+```
+

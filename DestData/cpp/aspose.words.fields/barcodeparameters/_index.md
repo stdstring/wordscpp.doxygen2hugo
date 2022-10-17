@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/barcodeparameters/
 
 Container class for barcode parameters to pass-through to BarcodeGenerator.
 
+```cpp
+class BarcodeParameters : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

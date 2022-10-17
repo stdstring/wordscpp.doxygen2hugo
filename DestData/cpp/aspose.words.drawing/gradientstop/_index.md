@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing/gradientstop/
 
 Represents one gradient stop.
 
+```cpp
+class GradientStop : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

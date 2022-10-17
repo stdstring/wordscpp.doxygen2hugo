@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldnext/
 
 Implements the NEXT field.
 
+```cpp
+class FieldNext : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |

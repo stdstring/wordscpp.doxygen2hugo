@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/loadoptions/
 
 Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../aspose.words/document/) object.
 
+```cpp
+class LoadOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -49,3 +54,30 @@ Allows to specify additional options (such as password or base URI) when loading
 | [set_TempFolder](./set_tempfolder/)(const System::String\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_TempFolder](./get_tempfolder/). |
 | [set_UpdateDirtyFields](./set_updatedirtyfields/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields](./get_updatedirtyfields/). |
 | [set_WarningCallback](./set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](./get_warningcallback/). |
+
+## Examples
+
+
+
+
+Shows how to load an encrypted Microsoft Word document. 
+```cpp
+SharedPtr<Document> doc;
+
+// Aspose.Words throw an exception if we try to open an encrypted document without its password.
+ASSERT_THROW(doc = MakeObject<Document>(MyDir + u"Encrypted.docx"), IncorrectPasswordException);
+
+// When loading such a document, the password is passed to the document's constructor using a LoadOptions object.
+auto options = MakeObject<LoadOptions>(u"docPassword");
+
+// There are two ways of loading an encrypted document with a LoadOptions object.
+// 1 -  Load the document from the local file system by filename:
+doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
+
+// 2 -  Load the document from a stream:
+{
+    SharedPtr<System::IO::Stream> stream = System::IO::File::OpenRead(MyDir + u"Encrypted.docx");
+    doc = MakeObject<Document>(stream, options);
+}
+```
+

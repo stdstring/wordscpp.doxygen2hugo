@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldinclude/
 
 Implements the INCLUDE field.
 
+```cpp
+class FieldInclude : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludeTextCode
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -45,3 +50,28 @@ Implements the INCLUDE field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to create an INCLUDE field, and set its properties. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// We can use an INCLUDE field to import a portion of another document in the local file system.
+// The bookmark from the other document that we reference with this field contains this imported portion.
+auto field = System::DynamicCast<FieldInclude>(builder->InsertField(FieldType::FieldInclude, true));
+field->set_SourceFullName(MyDir + u"Bookmarks.docx");
+field->set_BookmarkName(u"MyBookmark1");
+field->set_LockFields(false);
+field->set_TextConverter(u"Microsoft Word");
+
+ASSERT_TRUE(System::Text::RegularExpressions::Regex::Match(field->GetFieldCode(), u" INCLUDE .* MyBookmark1 \\\\c \"Microsoft Word\"")->get_Success());
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.INCLUDE.docx");
+```
+

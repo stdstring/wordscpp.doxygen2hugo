@@ -64,8 +64,9 @@ type ClassDef = {Id: string;
                  Final: bool;
                  Kind: ClassKind;
                  BriefDescription: SimpleMarkupDef list;
-                 DetailedDescription: string;
+                 DetailedDescription: ClassDetailedDescription;
                  BaseClasses: BaseClassDef list;
+                 TemplateParameters: string list;
                  DirectMethods: MethodDef list;
                  MemberRefs: Refs.MemberRef list}
 
@@ -128,6 +129,10 @@ let parseBriefDescription (source: XElement) =
 let parseEnumDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
 
 let parseTypedefDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
+
+let parseClassDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseClassDetailedDescription
+
+let parseNamespaceDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
 
 (*let parseEnumValueInitializer (source: XElement) =
     match "initializer" |> Utils.findElementValue source with
@@ -302,6 +307,12 @@ let parseBaseClassDef (source: XElement) =
     let qualifiedName = source.Value
     {BaseClassDef.Access = access; BaseClassDef.Virtual = virtualValue; BaseClassDef.QualifiedName = qualifiedName}
 
+let parseClassTemplateParameters (source: XElement) =
+    match source.Elements("templateparamlist") |> Seq.toList with
+    | [] -> []
+    | [parametersElement] -> parametersElement.Elements("param") |> Seq.map (fun element -> (element.Descendants("type") |> Seq.exactlyOne).Value) |> Seq.toList
+    | _ -> failwith "Several sections \"templateparamlist\" found"
+
 let parseClassDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
@@ -311,11 +322,12 @@ let parseClassDef (context: Context) (source: XElement) =
                    | "interface" -> ClassKind.Interface
                    | value -> value |> failwithf "Unexpected kind value \"%s\""
         let briefDescription = source |> parseBriefDescription
-        let detailedDescription = ""
+        let detailedDescription = source |> parseClassDetailedDescription
         let fullName = "compoundname" |> Utils.getElementValue source
         let name = fullName |> Utils.getClassName
         let finalValue = source |> findYesNoValue "final"
         let baseClasses = "basecompoundref" |> source.Elements |> Seq.map parseBaseClassDef |> Seq.toList
+        let templateParameters = source |> parseClassTemplateParameters
         let directMethods = source |> parseDirectMethods {context with ParentId = id; ParentName = name}
         let memberRefs = source.Element("listofallmembers").Elements("member") |> Seq.choose Refs.parseMemberRef |> Seq.toList
         (*for e in source.Descendants("sectiondef") do
@@ -338,6 +350,7 @@ let parseClassDef (context: Context) (source: XElement) =
                         ClassDef.BriefDescription = briefDescription;
                         ClassDef.DetailedDescription = detailedDescription;
                         ClassDef.BaseClasses = baseClasses;
+                        ClassDef.TemplateParameters = templateParameters;
                         ClassDef.DirectMethods = directMethods;
                         ClassDef.MemberRefs = memberRefs}
         let entityConstructor = match kind with
@@ -371,7 +384,7 @@ let parseNamespaceDef (config: Config.ConfigData) (context: Context) (source: XE
     let id = "id" |> Utils.getAttributeValue source
     let name = "compoundname" |> Utils.getElementValue source
     let briefDescription = source |> parseBriefDescription
-    let detailedDescription = source |> parseEnumDetailedDescription
+    let detailedDescription = source |> parseNamespaceDetailedDescription
     let currentContext = {context with ParentId = id; ParentName = name}
     let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry currentContext config) |> Seq.concat |> Seq.toList
     let classDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Class)

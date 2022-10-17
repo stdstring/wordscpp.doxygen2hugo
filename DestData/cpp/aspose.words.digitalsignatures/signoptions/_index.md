@@ -11,6 +11,11 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/
 
 Allows to specify options for document signing.
 
+```cpp
+class SignOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

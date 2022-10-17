@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/pagerange/
 
 Represents a continuous range of pages.
 
+```cpp
+class PageRange : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

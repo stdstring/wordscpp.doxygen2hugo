@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldtoc/
 
 Implements the TOC field.
 
+```cpp
+class FieldToc : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::ITocEntryExtractorOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -73,3 +78,156 @@ Implements the TOC field.
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
 | [UpdatePageNumbers](./updatepagenumbers/)() | Updates the page numbers for items in this table of contents. |
+
+## Examples
+
+
+
+
+Shows how to insert a TOC, and populate it with entries based on heading styles. 
+```cpp
+void FieldToc_()
+{
+    auto doc = MakeObject<Document>();
+    auto builder = MakeObject<DocumentBuilder>(doc);
+
+    builder->StartBookmark(u"MyBookmark");
+
+    // Insert a TOC field, which will compile all headings into a table of contents.
+    // For each heading, this field will create a line with the text in that heading style to the left,
+    // and the page the heading appears on to the right.
+    auto field = System::DynamicCast<FieldToc>(builder->InsertField(FieldType::FieldTOC, true));
+
+    // Use the BookmarkName property to only list headings
+    // that appear within the bounds of a bookmark with the "MyBookmark" name.
+    field->set_BookmarkName(u"MyBookmark");
+
+    // Text with a built-in heading style, such as "Heading 1", applied to it will count as a heading.
+    // We can name additional styles to be picked up as headings by the TOC in this property and their TOC levels.
+    field->set_CustomStyles(u"Quote; 6; Intense Quote; 7");
+
+    // By default, Styles/TOC levels are separated in the CustomStyles property by a comma,
+    // but we can set a custom delimiter in this property.
+    doc->get_FieldOptions()->set_CustomTocStyleSeparator(u";");
+
+    // Configure the field to exclude any headings that have TOC levels outside of this range.
+    field->set_HeadingLevelRange(u"1-3");
+
+    // The TOC will not display the page numbers of headings whose TOC levels are within this range.
+    field->set_PageNumberOmittingLevelRange(u"2-5");
+
+    // Set a custom string that will separate every heading from its page number.
+    field->set_EntrySeparator(u"-");
+    field->set_InsertHyperlinks(true);
+    field->set_HideInWebLayout(false);
+    field->set_PreserveLineBreaks(true);
+    field->set_PreserveTabs(true);
+    field->set_UseParagraphOutlineLevel(false);
+
+    InsertNewPageWithHeading(builder, u"First entry", u"Heading 1");
+    builder->Writeln(u"Paragraph text.");
+    InsertNewPageWithHeading(builder, u"Second entry", u"Heading 1");
+    InsertNewPageWithHeading(builder, u"Third entry", u"Quote");
+    InsertNewPageWithHeading(builder, u"Fourth entry", u"Intense Quote");
+
+    // These two headings will have the page numbers omitted because they are within the "2-5" range.
+    InsertNewPageWithHeading(builder, u"Fifth entry", u"Heading 2");
+    InsertNewPageWithHeading(builder, u"Sixth entry", u"Heading 3");
+
+    // This entry does not appear because "Heading 4" is outside of the "1-3" range that we have set earlier.
+    InsertNewPageWithHeading(builder, u"Seventh entry", u"Heading 4");
+
+    builder->EndBookmark(u"MyBookmark");
+    builder->Writeln(u"Paragraph text.");
+
+    // This entry does not appear because it is outside the bookmark specified by the TOC.
+    InsertNewPageWithHeading(builder, u"Eighth entry", u"Heading 1");
+
+    ASSERT_EQ(u" TOC  \\b MyBookmark \\t \"Quote; 6; Intense Quote; 7\" \\o 1-3 \\n 2-5 \\p - \\h \\x \\w", field->GetFieldCode());
+
+    field->UpdatePageNumbers();
+    doc->UpdateFields();
+    doc->Save(ArtifactsDir + u"Field.TOC.docx");
+}
+
+void InsertNewPageWithHeading(SharedPtr<DocumentBuilder> builder, String captionText, String styleName)
+{
+    builder->InsertBreak(BreakType::PageBreak);
+    String originalStyle = builder->get_ParagraphFormat()->get_StyleName();
+    builder->get_ParagraphFormat()->set_Style(builder->get_Document()->get_Styles()->idx_get(styleName));
+    builder->Writeln(captionText);
+    builder->get_ParagraphFormat()->set_Style(builder->get_Document()->get_Styles()->idx_get(originalStyle));
+}
+```
+
+
+Shows how to populate a TOC field with entries using SEQ fields. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// A TOC field can create an entry in its table of contents for each SEQ field found in the document.
+// Each entry contains the paragraph that includes the SEQ field and the page's number that the field appears on.
+auto fieldToc = System::DynamicCast<FieldToc>(builder->InsertField(FieldType::FieldTOC, true));
+
+// SEQ fields display a count that increments at each SEQ field.
+// These fields also maintain separate counts for each unique named sequence
+// identified by the SEQ field's "SequenceIdentifier" property.
+// Use the "TableOfFiguresLabel" property to name a main sequence for the TOC.
+// Now, this TOC will only create entries out of SEQ fields with their "SequenceIdentifier" set to "MySequence".
+fieldToc->set_TableOfFiguresLabel(u"MySequence");
+
+// We can name another SEQ field sequence in the "PrefixedSequenceIdentifier" property.
+// SEQ fields from this prefix sequence will not create TOC entries.
+// Every TOC entry created from a main sequence SEQ field will now also display the count that
+// the prefix sequence is currently on at the primary sequence SEQ field that made the entry.
+fieldToc->set_PrefixedSequenceIdentifier(u"PrefixSequence");
+
+// Each TOC entry will display the prefix sequence count immediately to the left
+// of the page number that the main sequence SEQ field appears on.
+// We can specify a custom separator that will appear between these two numbers.
+fieldToc->set_SequenceSeparator(u">");
+
+ASSERT_EQ(u" TOC  \\c MySequence \\s PrefixSequence \\d >", fieldToc->GetFieldCode());
+
+builder->InsertBreak(BreakType::PageBreak);
+
+// There are two ways of using SEQ fields to populate this TOC.
+// 1 -  Inserting a SEQ field that belongs to the TOC's prefix sequence:
+// This field will increment the SEQ sequence count for the "PrefixSequence" by 1.
+// Since this field does not belong to the main sequence identified
+// by the "TableOfFiguresLabel" property of the TOC, it will not appear as an entry.
+auto fieldSeq = System::DynamicCast<FieldSeq>(builder->InsertField(FieldType::FieldSequence, true));
+fieldSeq->set_SequenceIdentifier(u"PrefixSequence");
+builder->InsertParagraph();
+
+ASSERT_EQ(u" SEQ  PrefixSequence", fieldSeq->GetFieldCode());
+
+// 2 -  Inserting a SEQ field that belongs to the TOC's main sequence:
+// This SEQ field will create an entry in the TOC.
+// The TOC entry will contain the paragraph that the SEQ field is in and the number of the page that it appears on.
+// This entry will also display the count that the prefix sequence is currently at,
+// separated from the page number by the value in the TOC's SeqenceSeparator property.
+// The "PrefixSequence" count is at 1, this main sequence SEQ field is on page 2,
+// and the separator is ">", so entry will display "1>2".
+builder->Write(u"First TOC entry, MySequence #");
+fieldSeq = System::DynamicCast<FieldSeq>(builder->InsertField(FieldType::FieldSequence, true));
+fieldSeq->set_SequenceIdentifier(u"MySequence");
+
+ASSERT_EQ(u" SEQ  MySequence", fieldSeq->GetFieldCode());
+
+// Insert a page, advance the prefix sequence by 2, and insert a SEQ field to create a TOC entry afterwards.
+// The prefix sequence is now at 2, and the main sequence SEQ field is on page 3,
+// so the TOC entry will display "2>3" at its page count.
+builder->InsertBreak(BreakType::PageBreak);
+fieldSeq = System::DynamicCast<FieldSeq>(builder->InsertField(FieldType::FieldSequence, true));
+fieldSeq->set_SequenceIdentifier(u"PrefixSequence");
+builder->InsertParagraph();
+fieldSeq = System::DynamicCast<FieldSeq>(builder->InsertField(FieldType::FieldSequence, true));
+builder->Write(u"Second TOC entry, MySequence #");
+fieldSeq->set_SequenceIdentifier(u"MySequence");
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.TOC.SEQ.docx");
+```
+

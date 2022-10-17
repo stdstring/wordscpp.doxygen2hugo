@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldaddin/
 
 Implements the ADDIN field.
 
+```cpp
+class FieldAddIn : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,19 @@ Implements the ADDIN field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to process an ADDIN field. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Field sample - ADDIN.docx");
+
+// Aspose.Words does not support inserting ADDIN fields, but we can still load and read them.
+auto field = System::DynamicCast<FieldAddIn>(doc->get_Range()->get_Fields()->idx_get(0));
+
+ASSERT_EQ(u" ADDIN \"My value\" ", field->GetFieldCode());
+```
+

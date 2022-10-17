@@ -11,6 +11,11 @@ url: /cpp/aspose.words/controlchar/
 
 Control characters often encountered in documents.
 
+```cpp
+class ControlChar
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -28,3 +33,28 @@ Control characters often encountered in documents.
 | static [ParagraphBreak](./paragraphbreak/)() | End of paragraph character: "\x000d" or "\r". Same as [Cr](./cr/) |
 | static [SectionBreak](./sectionbreak/)() | End of section character: "\x000c" or "\f". Note it has the same value as [PageBreak](./pagebreak/). |
 | static [Tab](./tab/)() | Tab character: "\x0009" or "\t". |
+
+## Examples
+
+
+
+
+Shows how to use control characters. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert paragraphs with text with DocumentBuilder.
+builder->Writeln(u"Hello world!");
+builder->Writeln(u"Hello again!");
+
+// Converting the document to text form reveals that control characters
+// represent some of the document's structural elements, such as page breaks.
+ASSERT_EQ(String::Format(u"Hello world!{0}", ControlChar::Cr()) + String::Format(u"Hello again!{0}", ControlChar::Cr()) + ControlChar::PageBreak(),
+          doc->GetText());
+
+// When converting a document to string form,
+// we can omit some of the control characters with the Trim method.
+ASSERT_EQ(String::Format(u"Hello world!{0}", ControlChar::Cr()) + u"Hello again!", doc->GetText().Trim());
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldunknown/
 
 Implements an unknown or unrecognized field.
 
+```cpp
+class FieldUnknown : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -39,3 +44,25 @@ Implements an unknown or unrecognized field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to work with 'FieldNone' field in a document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert a field that does not denote an objective field type in its field code.
+SharedPtr<Field> field = builder->InsertField(u" NOTAREALFIELD //a");
+
+// The "FieldNone" field type is reserved for fields such as these.
+ASSERT_EQ(FieldType::FieldNone, field->get_Type());
+
+// We can also still work with these fields and assign them as instances of the FieldUnknown class.
+auto fieldUnknown = System::DynamicCast<FieldUnknown>(field);
+ASSERT_EQ(u" NOTAREALFIELD //a", fieldUnknown->GetFieldCode());
+```
+

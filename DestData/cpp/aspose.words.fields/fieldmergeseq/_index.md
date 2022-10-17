@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldmergeseq/
 
 Implements the MERGESEQ field.
 
+```cpp
+class FieldMergeSeq : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |

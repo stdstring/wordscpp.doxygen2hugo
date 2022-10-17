@@ -11,6 +11,11 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/
 
 Interface to define a common data for [StructuredDocumentTag](./structureddocumenttag/) and [StructuredDocumentTagRangeStart](./structureddocumenttagrangestart/).
 
+```cpp
+class IStructuredDocumentTag : public virtual System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

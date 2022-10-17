@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/
 
 Represents horizontal rule formatting.
 
+```cpp
+class HorizontalRuleFormat : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -25,3 +30,26 @@ Represents horizontal rule formatting.
 | [set_Height](./set_height/)(double) | Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Height](./get_height/). |
 | [set_NoShade](./set_noshade/)(bool) | Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade](./get_noshade/). |
 | [set_WidthPercent](./set_widthpercent/)(double) | Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent](./get_widthpercent/). |
+
+## Examples
+
+
+
+
+Shows how to insert a horizontal rule shape, and customize its formatting. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+SharedPtr<Shape> shape = builder->InsertHorizontalRule();
+
+SharedPtr<HorizontalRuleFormat> horizontalRuleFormat = shape->get_HorizontalRuleFormat();
+horizontalRuleFormat->set_Alignment(HorizontalRuleAlignment::Center);
+horizontalRuleFormat->set_WidthPercent(70);
+horizontalRuleFormat->set_Height(3);
+horizontalRuleFormat->set_Color(System::Drawing::Color::get_Blue());
+horizontalRuleFormat->set_NoShade(true);
+
+ASSERT_TRUE(shape->get_IsHorizontalRule());
+ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
+```
+

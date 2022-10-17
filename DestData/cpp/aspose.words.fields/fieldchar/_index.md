@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldchar/
 
 Base class for nodes that represent field characters in a document.
 
+```cpp
+class FieldChar : public Aspose::Words::SpecialChar
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -48,3 +53,38 @@ Base class for nodes that represent field characters in a document.
 | [set_IsLocked](./set_islocked/)(bool) | Setter for [Aspose::Words::Fields::FieldChar::get_IsLocked](./get_islocked/). |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+A complete field in a Microsoft Word document is a complex structure consisting of a field start character, field code, field separator character, field result and field end character. Some fields only have field start, field code and field end.
+
+To easily insert a new field into a document, use the **InsertField()** method.
+
+## Examples
+
+
+
+
+Shows how to work with a [FieldStart](../fieldstart/) node. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+auto field = System::DynamicCast<FieldDate>(builder->InsertField(FieldType::FieldDate, true));
+field->get_Format()->set_DateTimeFormat(u"dddd, MMMM dd, yyyy");
+field->Update();
+
+SharedPtr<FieldChar> fieldStart = field->get_Start();
+
+ASSERT_EQ(FieldType::FieldDate, fieldStart->get_FieldType());
+ASPOSE_ASSERT_EQ(false, fieldStart->get_IsDirty());
+ASPOSE_ASSERT_EQ(false, fieldStart->get_IsLocked());
+
+// Retrieve the facade object which represents the field in the document.
+field = System::DynamicCast<FieldDate>(fieldStart->GetField());
+
+ASPOSE_ASSERT_EQ(false, field->get_IsLocked());
+ASSERT_EQ(u" DATE  \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
+
+// Update the field to show the current date.
+field->Update();
+```
+

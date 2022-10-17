@@ -11,6 +11,11 @@ url: /cpp/aspose.words.settings/mailmergesettings/
 
 Specifies all of the mail merge information for a document.
 
+```cpp
+class MailMergeSettings : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -50,3 +55,17 @@ Specifies all of the mail merge information for a document.
 | [set_Odso](./set_odso/)(const System::SharedPtr\<Aspose::Words::Settings::Odso\>\&) | Sets the object that specifies the Office Data Source Object (ODSO) settings. |
 | [set_Query](./set_query/)(const System::String\&) | Contains the Structured Query Language string that shall be run against the specified external data source to return the set of records which shall be imported into the document when the mail merge operation is performed. The default value is an empty string. |
 | [set_ViewMergedData](./set_viewmergeddata/)(bool) | Specifies that Microsoft Word shall display the data from the specified external data source where merge fields have been inserted (e.g. preview merged data). The default value is **false**. |
+
+You can use this object to specify a mail merge data source for a document and this information (along with the available data fields) will appear in Microsoft Word when the user opens this document. Or you can use this object to query mail merge settings that the user has specified in Microsoft Word for this document.
+
+You do not normally need to create objects of this class directly because Mail merge settings of a document are always available via the [MailMergeSettings](../../aspose.words/document/get_mailmergesettings/) property.
+
+To detect whether this document is a mail merge main document, check the value of the [MainDocumentType](./get_maindocumenttype/) property.
+
+To remove mail merge settings and data source information from a document you can use the [Clear](./clear/) method. Aspose.Words will not write mail merge settings to a document if the [MainDocumentType](./get_maindocumenttype/) property is set to **NotAMergeDocument** or the [DataType](./get_datatype/) property is set to **None**.
+
+The best way to learn how to use the properties of this object is to create a document with a desired data source manually in Microsoft Word and then open that document using Aspose.Words and examine the properties of the [MailMergeSettings](../../aspose.words/document/get_mailmergesettings/) and [Odso](./get_odso/) objects. This is a good approach to take if you want to learn how to programmatically configure a data source, for example.
+
+Aspose.Words preserves mail merge information when loading, saving and converting documents between different formats, but does not use this information when performing its own mail merge using the [MailMerge](../../aspose.words.mailmerging/mailmerge/) object.
+
+

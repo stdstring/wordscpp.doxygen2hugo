@@ -11,6 +11,11 @@ url: /cpp/aspose.words/bordercollection/
 
 A collection of [Border](./border/) objects.
 
+```cpp
+class BorderCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Border>>
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,24 @@ A collection of [Border](./border/) objects.
 | [set_LineStyle](./set_linestyle/)(Aspose::Words::LineStyle) | Setter for [Aspose::Words::BorderCollection::get_LineStyle](./get_linestyle/). |
 | [set_LineWidth](./set_linewidth/)(double) | Setter for [Aspose::Words::BorderCollection::get_LineWidth](./get_linewidth/). |
 | [set_Shadow](./set_shadow/)(bool) | Setter for [Aspose::Words::BorderCollection::get_Shadow](./get_shadow/). |
+
+## Examples
+
+
+
+
+Shows how to insert a paragraph with a top border. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+SharedPtr<Border> topBorder = builder->get_ParagraphFormat()->get_Borders()->idx_get(BorderType::Top);
+topBorder->set_Color(System::Drawing::Color::get_Red());
+topBorder->set_LineWidth(4.0);
+topBorder->set_LineStyle(LineStyle::DashSmallGap);
+
+builder->Writeln(u"Text with a red top border.");
+
+doc->Save(ArtifactsDir + u"Border.ParagraphTopBorder.docx");
+```
+

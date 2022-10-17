@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldask/
 
 Implements the ASK field.
 
+```cpp
+class FieldAsk : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+```
+
+
 ## Methods
 
 | Method | Description |

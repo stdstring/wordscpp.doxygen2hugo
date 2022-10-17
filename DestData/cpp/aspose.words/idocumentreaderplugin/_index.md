@@ -11,6 +11,11 @@ url: /cpp/aspose.words/idocumentreaderplugin/
 
 Defines an interface for external reader plugins that can read a file into a document.
 
+```cpp
+class IDocumentReaderPlugin : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

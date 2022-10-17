@@ -11,6 +11,11 @@ url: /cpp/aspose.words/comment/
 
 Represents a container for text of a comment.
 
+```cpp
+class Comment : public Aspose::Words::InlineStory, public Aspose::Words::INodeWithAnnotationId, public Aspose::Words::Revisions::IMoveTrackableNode
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -83,3 +88,65 @@ Represents a container for text of a comment.
 | [SetText](./settext/)(const System::String\&) | This is a convenience method that allows to easily set text of the comment. |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+A comment is an annotation which is anchored to a region of text or to a position in text. A comment can contain an arbitrary amount of block-level content.
+
+If a [Comment](./) object occurs on its own, the comment is anchored to the position of the [Comment](./) object.
+
+To anchor a comment to a region of text three objects are required: [Comment](./), [CommentRangeStart](../commentrangestart/) and [CommentRangeEnd](../commentrangeend/). All three objects need to share the same [Id](./get_id/) value.
+
+[Comment](./) is an inline-level node and can only be a child of [Paragraph](../paragraph/).
+
+[Comment](./) can contain [Paragraph](../paragraph/) and [Table](../../aspose.words.tables/table/) child nodes.
+
+## Examples
+
+
+
+
+Shows how to add a comment to a document, and then reply to it. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+auto comment = MakeObject<Comment>(doc, u"John Doe", u"J.D.", System::DateTime::get_Now());
+comment->SetText(u"My comment.");
+
+// Place the comment at a node in the document's body.
+// This comment will show up at the location of its paragraph,
+// outside the right-side margin of the page, and with a dotted line connecting it to its paragraph.
+builder->get_CurrentParagraph()->AppendChild(comment);
+
+// Add a reply, which will show up under its parent comment.
+comment->AddReply(u"Joe Bloggs", u"J.B.", System::DateTime::get_Now(), u"New reply");
+
+// Comments and replies are both Comment nodes.
+ASSERT_EQ(2, doc->GetChildNodes(NodeType::Comment, true)->get_Count());
+
+// Comments that do not reply to other comments are "top-level". They have no ancestor comments.
+ASSERT_TRUE(comment->get_Ancestor() == nullptr);
+
+// Replies have an ancestor top-level comment.
+ASPOSE_ASSERT_EQ(comment, comment->get_Replies()->idx_get(0)->get_Ancestor());
+
+doc->Save(ArtifactsDir + u"Comment.AddCommentWithReply.docx");
+```
+
+
+Shows how to add a comment to a paragraph. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+builder->Write(u"Hello world!");
+
+auto comment = MakeObject<Comment>(doc, u"John Doe", u"JD", System::DateTime::get_Today());
+builder->get_CurrentParagraph()->AppendChild(comment);
+builder->MoveTo(comment->AppendChild(MakeObject<Paragraph>(doc)));
+builder->Write(u"Comment text.");
+
+ASSERT_EQ(System::DateTime::get_Today(), comment->get_DateTime());
+
+// In Microsoft Word, we can right-click this comment in the document body to edit it, or reply to it.
+doc->Save(ArtifactsDir + u"InlineStory.AddComment.docx");
+```
+

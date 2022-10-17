@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/idocumentloadingcallback/
 
 Implement this interface if you want to have your own custom method called during loading a document.
 
+```cpp
+class IDocumentLoadingCallback : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

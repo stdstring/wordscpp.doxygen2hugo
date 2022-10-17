@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldautonumout/
 
 Implements the AUTONUMOUT field.
 
+```cpp
+class FieldAutoNumOut : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,36 @@ Implements the AUTONUMOUT field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to number paragraphs using AUTONUMOUT fields. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// AUTONUMOUT fields display a number that increments at each AUTONUMOUT field.
+// Unlike AUTONUM fields, AUTONUMOUT fields use the outline numbering scheme,
+// which we can define in Microsoft Word via Format -> Bullets & Numbering -> "Outline Numbered".
+// This allows us to automatically number items like a numbered list.
+// LISTNUM fields are a newer alternative to AUTONUMOUT fields.
+// This field will display "1.".
+builder->InsertField(FieldType::FieldAutoNumOutline, true);
+builder->Writeln(u"\tParagraph 1.");
+
+// This field will display "2.".
+builder->InsertField(FieldType::FieldAutoNumOutline, true);
+builder->Writeln(u"\tParagraph 2.");
+
+for (auto field : System::IterateOver<FieldAutoNumOut>(
+         doc->get_Range()->get_Fields()->LINQ_Where([](SharedPtr<Field> f) { return f->get_Type() == FieldType::FieldAutoNumOutline; })))
+{
+    ASSERT_EQ(u" AUTONUMOUT ", field->GetFieldCode());
+}
+
+doc->Save(ArtifactsDir + u"Field.AUTONUMOUT.docx");
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/
 
 Implements the MERGEBARCODE field.
 
+```cpp
+class FieldMergeBarcode : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IMergeFieldSurrogate
+```
+
+
 ## Methods
 
 | Method | Description |

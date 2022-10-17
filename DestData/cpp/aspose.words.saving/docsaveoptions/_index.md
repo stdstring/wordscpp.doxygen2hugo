@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/docsaveoptions/
 
 Can be used to specify additional options when saving a document into the **Doc** or **Dot** format.
 
+```cpp
+class DocSaveOptions : public Aspose::Words::Saving::SaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -69,3 +74,38 @@ Can be used to specify additional options when saving a document into the **Doc*
 | [set_UpdateSdtContent](../saveoptions/set_updatesdtcontent/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent](../saveoptions/get_updatesdtcontent/). |
 | [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](../saveoptions/get_useantialiasing/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
+
+At the moment provides only the [SaveFormat](./get_saveformat/) property, but in the future will have other options added, such as an encryption password or digital signature settings.
+
+## Examples
+
+
+
+
+Shows how to set save options for older Microsoft Word formats. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+builder->Write(u"Hello world!");
+
+auto options = MakeObject<DocSaveOptions>(SaveFormat::Doc);
+
+// Set a password which will protect the loading of the document by Microsoft Word or Aspose.Words.
+// Note that this does not encrypt the contents of the document in any way.
+options->set_Password(u"MyPassword");
+
+// If the document contains a routing slip, we can preserve it while saving by setting this flag to true.
+options->set_SaveRoutingSlip(true);
+
+doc->Save(ArtifactsDir + u"DocSaveOptions.SaveAsDoc.doc", options);
+
+// To be able to load the document,
+// we will need to apply the password we specified in the DocSaveOptions object in a LoadOptions object.
+ASSERT_THROW(doc = MakeObject<Document>(ArtifactsDir + u"DocSaveOptions.SaveAsDoc.doc"), IncorrectPasswordException);
+
+auto loadOptions = MakeObject<LoadOptions>(u"MyPassword");
+doc = MakeObject<Document>(ArtifactsDir + u"DocSaveOptions.SaveAsDoc.doc", loadOptions);
+
+ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
+```
+

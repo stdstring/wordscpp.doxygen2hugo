@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldtemplate/
 
 Implements the TEMPLATE field.
 
+```cpp
+class FieldTemplate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -39,3 +44,31 @@ Implements the TEMPLATE field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use a TEMPLATE field to display the local file system location of a document's template. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// We can set a template name using by the fields. This property is used when the "doc.AttachedTemplate" is empty.
+// If this property is empty the default template file name "Normal.dotm" is used.
+doc->get_FieldOptions()->set_TemplateName(String::Empty);
+
+auto field = System::DynamicCast<FieldTemplate>(builder->InsertField(FieldType::FieldTemplate, false));
+ASSERT_EQ(u" TEMPLATE ", field->GetFieldCode());
+
+builder->Writeln();
+field = System::DynamicCast<FieldTemplate>(builder->InsertField(FieldType::FieldTemplate, false));
+field->set_IncludeFullPath(true);
+
+ASSERT_EQ(u" TEMPLATE  \\p", field->GetFieldCode());
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.TEMPLATE.docx");
+```
+

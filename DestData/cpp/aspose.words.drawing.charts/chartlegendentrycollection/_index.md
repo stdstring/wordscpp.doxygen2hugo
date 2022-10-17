@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/
 
 Represents a collection of chart legend entries.
 
+```cpp
+class ChartLegendEntryCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry>>
+```
+
+
 ## Methods
 
 | Method | Description |

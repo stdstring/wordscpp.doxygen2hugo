@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fonts/fontnamesubstitutionrule/
 
 [Font](../aspose.words/font/) substitution rule for processing font name.
 
+```cpp
+class FontNameSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule
+```
+
+
 ## Methods
 
 | Method | Description |

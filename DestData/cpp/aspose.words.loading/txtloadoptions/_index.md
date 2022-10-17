@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/txtloadoptions/
 
 Allows to specify additional options when loading **Text** document into a [Document](../aspose.words/document/) object.
 
+```cpp
+class TxtLoadOptions : public Aspose::Words::Loading::LoadOptions
+```
+
+
 ## Methods
 
 | Method | Description |

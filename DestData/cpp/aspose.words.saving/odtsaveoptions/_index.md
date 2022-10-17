@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/odtsaveoptions/
 
 Can be used to specify additional options when saving a document into the **Odt** or **Ott** format.
 
+```cpp
+class OdtSaveOptions : public Aspose::Words::Saving::SaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -68,3 +73,38 @@ Can be used to specify additional options when saving a document into the **Odt*
 | [set_UpdateSdtContent](../saveoptions/set_updatesdtcontent/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent](../saveoptions/get_updatesdtcontent/). |
 | [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](../saveoptions/get_useantialiasing/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
+
+At the moment provides only the [SaveFormat](./get_saveformat/) property, but in the future will have other options added, such as an encryption password or digital signature settings.
+
+## Examples
+
+
+
+
+Shows how to make a saved document conform to an older ODT schema. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+auto saveOptions = MakeObject<OdtSaveOptions>();
+saveOptions->set_MeasureUnit(OdtSaveMeasureUnit::Centimeters);
+saveOptions->set_IsStrictSchema11(exportToOdt11Specs);
+
+doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
+```
+
+
+Shows how to use different measurement units to define style parameters of a saved ODT document. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+// When we export the document to .odt, we can use an OdtSaveOptions object to modify how we save the document.
+// We can set the "MeasureUnit" property to "OdtSaveMeasureUnit.Centimeters"
+// to define content such as style parameters using the metric system, which Open Office uses.
+// We can set the "MeasureUnit" property to "OdtSaveMeasureUnit.Inches"
+// to define content such as style parameters using the imperial system, which Microsoft Word uses.
+auto saveOptions = MakeObject<OdtSaveOptions>();
+saveOptions->set_MeasureUnit(odtSaveMeasureUnit);
+
+doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
+```
+

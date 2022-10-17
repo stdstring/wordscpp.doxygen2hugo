@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/chmloadoptions/
 
 Allows to specify additional options when loading CHM document into a [Document](../aspose.words/document/) object.
 
+```cpp
+class ChmLoadOptions : public Aspose::Words::Loading::LoadOptions
+```
+
+
 ## Methods
 
 | Method | Description |

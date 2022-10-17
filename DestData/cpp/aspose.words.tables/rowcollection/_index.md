@@ -11,6 +11,11 @@ url: /cpp/aspose.words.tables/rowcollection/
 
 Provides typed access to a collection of [Row](./row/) nodes.
 
+```cpp
+class RowCollection : public Aspose::Words::NodeCollection
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -26,3 +31,49 @@ Provides typed access to a collection of [Row](./row/) nodes.
 | [Remove](../../aspose.words/nodecollection/remove/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the node from the collection and from the document. |
 | [RemoveAt](../../aspose.words/nodecollection/removeat/)(int32_t) | Removes the node at the specified index from the collection and from the document. |
 | [ToArray](./toarray/)() | Copies all rows from the collection to a new array of rows. |
+
+## Examples
+
+
+
+
+Shows how to iterate through all tables in the document and print the contents of each cell. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
+SharedPtr<TableCollection> tables = doc->get_FirstSection()->get_Body()->get_Tables();
+
+ASSERT_EQ(2, tables->ToArray()->get_Length());
+
+for (int i = 0; i < tables->get_Count(); i++)
+{
+    std::cout << "Start of Table " << i << std::endl;
+
+    SharedPtr<RowCollection> rows = tables->idx_get(i)->get_Rows();
+
+    // We can use the "ToArray" method on a row collection to clone it into an array.
+    ASPOSE_ASSERT_EQ(rows, rows->ToArray());
+    ASPOSE_ASSERT_NS(rows, rows->ToArray());
+
+    for (int j = 0; j < rows->get_Count(); j++)
+    {
+        std::cout << "\tStart of Row " << j << std::endl;
+
+        SharedPtr<CellCollection> cells = rows->idx_get(j)->get_Cells();
+
+        // We can use the "ToArray" method on a cell collection to clone it into an array.
+        ASPOSE_ASSERT_EQ(cells, cells->ToArray());
+        ASPOSE_ASSERT_NS(cells, cells->ToArray());
+
+        for (int k = 0; k < cells->get_Count(); k++)
+        {
+            String cellText = cells->idx_get(k)->ToString(SaveFormat::Text).Trim();
+            std::cout << "\t\tContents of Cell:" << k << " = \"" << cellText << "\"" << std::endl;
+        }
+
+        std::cout << "\tEnd of Row " << j << std::endl;
+    }
+
+    std::cout << "End of Table " << i << "\n" << std::endl;
+}
+```
+

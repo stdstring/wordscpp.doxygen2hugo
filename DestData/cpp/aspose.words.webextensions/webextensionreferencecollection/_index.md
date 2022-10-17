@@ -11,6 +11,11 @@ url: /cpp/aspose.words.webextensions/webextensionreferencecollection/
 
 Specifies a list of web extension references.
 
+```cpp
+class WebExtensionReferenceCollection : public Aspose::Words::WebExtensions::BaseWebExtensionCollection<System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionReference>>
+```
+
+
 ## Methods
 
 | Method | Description |

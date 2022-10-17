@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing/shadowformat/
 
 Represents shadow formatting for an object.
 
+```cpp
+class ShadowFormat : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

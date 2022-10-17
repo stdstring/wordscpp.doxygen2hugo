@@ -11,6 +11,11 @@ url: /cpp/aspose.words/watermark/
 
 Represents class to work with document watermark.
 
+```cpp
+class Watermark : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.settings/compatibilityoptions/
 
 Contains compatibility options (that is, the user preferences entered on the **Compatibility** tab of the **Options** dialog in Microsoft Word).
 
+```cpp
+class CompatibilityOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -158,3 +163,60 @@ Contains compatibility options (that is, the user preferences entered on the **C
 | [set_WPJustification](./set_wpjustification/)(bool) | Emulate WordPerfect 6.x [Paragraph](../../aspose.words/paragraph/) Justification. |
 | [set_WPSpaceWidth](./set_wpspacewidth/)(bool) | Specifies whether to set the width of a space as is done in WordPerfect 5.x. |
 | [set_WrapTrailSpaces](./set_wraptrailspaces/)(bool) | Line Wrap Trailing Spaces. |
+
+## Examples
+
+
+
+
+Shows how to set an OOXML compliance specification for a saved document to adhere to. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// If we configure compatibility options to comply with Microsoft Word 2003,
+// inserting an image will define its shape using VML.
+doc->get_CompatibilityOptions()->OptimizeFor(MsWordVersion::Word2003);
+builder->InsertImage(ImageDir + u"Transparent background logo.png");
+
+ASSERT_EQ(ShapeMarkupLanguage::Vml, (System::DynamicCast<Shape>(doc->GetChild(NodeType::Shape, 0, true)))->get_MarkupLanguage());
+
+// The "ISO/IEC 29500:2008" OOXML standard does not support VML shapes.
+// If we set the "Compliance" property of the SaveOptions object to "OoxmlCompliance.Iso29500_2008_Strict",
+// any document we save while passing this object will have to follow that standard.
+auto saveOptions = MakeObject<OoxmlSaveOptions>();
+saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);
+saveOptions->set_SaveFormat(SaveFormat::Docx);
+
+doc->Save(ArtifactsDir + u"OoxmlSaveOptions.Iso29500Strict.docx", saveOptions);
+
+// Our saved document defines the shape using DML to adhere to the "ISO/IEC 29500:2008" OOXML standard.
+doc = MakeObject<Document>(ArtifactsDir + u"OoxmlSaveOptions.Iso29500Strict.docx");
+
+ASSERT_EQ(ShapeMarkupLanguage::Dml, (System::DynamicCast<Shape>(doc->GetChild(NodeType::Shape, 0, true)))->get_MarkupLanguage());
+```
+
+
+Shows how to vertically align the text contents of a text box. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+SharedPtr<Shape> shape = builder->InsertShape(ShapeType::TextBox, 200, 200);
+
+// Set the "VerticalAnchor" property to "TextBoxAnchor.Top" to
+// align the text in this text box with the top side of the shape.
+// Set the "VerticalAnchor" property to "TextBoxAnchor.Middle" to
+// align the text in this text box to the center of the shape.
+// Set the "VerticalAnchor" property to "TextBoxAnchor.Bottom" to
+// align the text in this text box to the bottom of the shape.
+shape->get_TextBox()->set_VerticalAnchor(verticalAnchor);
+
+builder->MoveTo(shape->get_FirstParagraph());
+builder->Write(u"Hello world!");
+
+// The vertical aligning of text inside text boxes is available from Microsoft Word 2007 onwards.
+doc->get_CompatibilityOptions()->OptimizeFor(MsWordVersion::Word2007);
+doc->Save(ArtifactsDir + u"Shape.VerticalAnchor.docx");
+```
+

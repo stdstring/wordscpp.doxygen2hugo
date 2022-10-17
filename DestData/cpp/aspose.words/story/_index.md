@@ -11,6 +11,11 @@ url: /cpp/aspose.words/story/
 
 Base class for elements that contain block-level nodes [Paragraph](./paragraph/) and [Table](../aspose.words.tables/table/).
 
+```cpp
+class Story : public Aspose::Words::CompositeNode
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -61,3 +66,29 @@ Base class for elements that contain block-level nodes [Paragraph](./paragraph/)
 | [SetTemplateWeakPtr](../compositenode/settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+Text of a Word document is said to consist of several stories. The main text is stored in the main text story represented by [Body](../body/), each header and footer is stored in a separate story represented by [HeaderFooter](../headerfooter/).
+
+## Examples
+
+
+
+
+Shows how to remove all shapes from a node. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Use a DocumentBuilder to insert a shape. This is an inline shape,
+// which has a parent Paragraph, which is a child node of the first section's Body.
+builder->InsertShape(ShapeType::Cube, 100.0, 100.0);
+
+ASSERT_EQ(1, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
+
+// We can delete all shapes from the child paragraphs of this Body.
+ASSERT_EQ(StoryType::MainText, doc->get_FirstSection()->get_Body()->get_StoryType());
+doc->get_FirstSection()->get_Body()->DeleteShapes();
+
+ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
+```
+

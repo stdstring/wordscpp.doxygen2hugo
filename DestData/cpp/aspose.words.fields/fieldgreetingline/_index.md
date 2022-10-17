@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldgreetingline/
 
 Implements the GREETINGLINE field.
 
+```cpp
+class FieldGreetingLine : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFormattableMergeField
+```
+
+
 ## Methods
 
 | Method | Description |

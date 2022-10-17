@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldoptions/
 
 Represents options to control field handling in a document.
 
+```cpp
+class FieldOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

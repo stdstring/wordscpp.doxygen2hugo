@@ -11,6 +11,11 @@ url: /cpp/aspose.words.webextensions/webextensionproperty/
 
 Specifies a web extension custom property.
 
+```cpp
+class WebExtensionProperty : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

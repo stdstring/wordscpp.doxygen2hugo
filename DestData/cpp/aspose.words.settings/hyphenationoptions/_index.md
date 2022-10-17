@@ -11,6 +11,11 @@ url: /cpp/aspose.words.settings/hyphenationoptions/
 
 Allows to configure document hyphenation options.
 
+```cpp
+class HyphenationOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -24,3 +29,26 @@ Allows to configure document hyphenation options.
 | [set_ConsecutiveHyphenLimit](./set_consecutivehyphenlimit/)(int32_t) | Setter for [Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit](./get_consecutivehyphenlimit/). |
 | [set_HyphenateCaps](./set_hyphenatecaps/)(bool) | Setter for [Aspose::Words::Settings::HyphenationOptions::get_HyphenateCaps](./get_hyphenatecaps/). |
 | [set_HyphenationZone](./set_hyphenationzone/)(int32_t) | Setter for [Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone](./get_hyphenationzone/). |
+
+## Examples
+
+
+
+
+Shows how to configure automatic hyphenation. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->set_Size(24);
+builder->Writeln(String(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, ") +
+                 u"sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
+
+doc->get_HyphenationOptions()->set_AutoHyphenation(true);
+doc->get_HyphenationOptions()->set_ConsecutiveHyphenLimit(2);
+doc->get_HyphenationOptions()->set_HyphenationZone(720);
+doc->get_HyphenationOptions()->set_HyphenateCaps(true);
+
+doc->Save(ArtifactsDir + u"Document.HyphenationOptions.docx");
+```
+

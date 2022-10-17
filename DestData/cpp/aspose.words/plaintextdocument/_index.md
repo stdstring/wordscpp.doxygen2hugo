@@ -11,6 +11,11 @@ url: /cpp/aspose.words/plaintextdocument/
 
 Allows to extract plain-text representation of the document's content.
 
+```cpp
+class PlainTextDocument : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -24,3 +29,22 @@ Allows to extract plain-text representation of the document's content.
 | [PlainTextDocument](./plaintextdocument/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) | Creates a plain text document from a stream. Allows to specify additional options such as an encryption password. |
 | [PlainTextDocument](./plaintextdocument/)(std::istream\&) |  |
 | [PlainTextDocument](./plaintextdocument/)(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) |  |
+
+## Examples
+
+
+
+
+Shows how to load the contents of a Microsoft Word document in plaintext. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+builder->Writeln(u"Hello world!");
+
+doc->Save(ArtifactsDir + u"PlainTextDocument.Load.docx");
+
+auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocument.Load.docx");
+
+ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.drawing/shape/
 
 Represents an object in the drawing layer, such as an AutoShape, textbox, freeform, OLE object, ActiveX control, or picture.
 
+```cpp
+class Shape : public Aspose::Words::Drawing::ShapeBase, public Aspose::Words::Drawing::Core::ITextBox, public Aspose::Words::Drawing::Core::IStrokable
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -172,3 +177,100 @@ Represents an object in the drawing layer, such as an AutoShape, textbox, freefo
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
 | [UpdateSmartArtDrawing](./updatesmartartdrawing/)() | Updates SmartArt pre-rendered drawing by using [Aspose.Words](../../aspose.words/)'s SmartArt cold rendering engine. |
+
+Using the [Shape](./) class you can create or modify shapes in a Microsoft Word document.
+
+An important property of a shape is its [ShapeType](../shapebase/get_shapetype/). Shapes of different types can have different capabilities in a Word document. For example, only image and OLE shapes can have images inside them. Most of the shapes can have text, but not all.
+
+Shapes that can have text, can contain [Paragraph](../../aspose.words/paragraph/) and [Table](../../aspose.words.tables/table/) nodes as children.
+
+## Examples
+
+
+
+
+Shows how to extract images from a document, and save them to the local file system as individual files. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Images.docx");
+
+// Get the collection of shapes from the document,
+// and save the image data of every shape with an image as a file to the local file system.
+SharedPtr<NodeCollection> shapes = doc->GetChildNodes(NodeType::Shape, true);
+
+ASSERT_EQ(9, shapes->LINQ_Count([](SharedPtr<Node> s) { return (System::DynamicCast<Shape>(s))->get_HasImage(); }));
+
+int imageIndex = 0;
+for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape>>()))
+{
+    if (shape->get_HasImage())
+    {
+        // The image data of shapes may contain images of many possible image formats.
+        // We can determine a file extension for each image automatically, based on its format.
+        String imageFileName =
+            String::Format(u"File.ExtractImages.{0}{1}", imageIndex, FileFormatUtil::ImageTypeToExtension(shape->get_ImageData()->get_ImageType()));
+        shape->get_ImageData()->Save(ArtifactsDir + imageFileName);
+        imageIndex++;
+    }
+}
+```
+
+
+Shows how to insert a floating image to the center of a page. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert a floating image that will appear behind the overlapping text and align it to the page's center.
+SharedPtr<Shape> shape = builder->InsertImage(ImageDir + u"Logo.jpg");
+shape->set_WrapType(WrapType::None);
+shape->set_BehindText(true);
+shape->set_RelativeHorizontalPosition(RelativeHorizontalPosition::Page);
+shape->set_RelativeVerticalPosition(RelativeVerticalPosition::Page);
+shape->set_HorizontalAlignment(HorizontalAlignment::Center);
+shape->set_VerticalAlignment(VerticalAlignment::Center);
+
+doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
+```
+
+
+Shows how to delete all shapes from a document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert two shapes along with a group shape with another shape inside it.
+builder->InsertShape(ShapeType::Rectangle, 400, 200);
+builder->InsertShape(ShapeType::Star, 300, 300);
+
+auto group = MakeObject<GroupShape>(doc);
+group->set_Bounds(System::Drawing::RectangleF(100.0f, 50.0f, 200.0f, 100.0f));
+group->set_CoordOrigin(System::Drawing::Point(-1000, -500));
+
+auto subShape = MakeObject<Shape>(doc, ShapeType::Cube);
+subShape->set_Width(500);
+subShape->set_Height(700);
+subShape->set_Left(0);
+subShape->set_Top(0);
+
+group->AppendChild(subShape);
+builder->InsertNode(group);
+
+ASSERT_EQ(3, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
+ASSERT_EQ(1, doc->GetChildNodes(NodeType::GroupShape, true)->get_Count());
+
+// Remove all Shape nodes from the document.
+SharedPtr<NodeCollection> shapes = doc->GetChildNodes(NodeType::Shape, true);
+shapes->Clear();
+
+// All shapes are gone, but the group shape is still in the document.
+ASSERT_EQ(1, doc->GetChildNodes(NodeType::GroupShape, true)->get_Count());
+ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
+
+// Remove all group shapes separately.
+SharedPtr<NodeCollection> groupShapes = doc->GetChildNodes(NodeType::GroupShape, true);
+groupShapes->Clear();
+
+ASSERT_EQ(0, doc->GetChildNodes(NodeType::GroupShape, true)->get_Count());
+ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
+```
+

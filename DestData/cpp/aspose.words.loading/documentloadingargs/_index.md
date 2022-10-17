@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/documentloadingargs/
 
 An argument passed into [Notify()](./idocumentloadingcallback/notify/).
 
+```cpp
+class DocumentLoadingArgs : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldrd/
 
 Implements the RD field.
 
+```cpp
+class FieldRD : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -41,3 +46,41 @@ Implements the RD field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows to use the RD field to create a table of contents entries from headings in other documents. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Use a document builder to insert a table of contents,
+// and then add one entry for the table of contents on the following page.
+builder->InsertField(FieldType::FieldTOC, true);
+builder->InsertBreak(BreakType::PageBreak);
+builder->get_CurrentParagraph()->get_ParagraphFormat()->set_StyleName(u"Heading 1");
+builder->Writeln(u"TOC entry from within this document");
+
+// Insert an RD field, which references another local file system document in its FileName property.
+// The TOC will also now accept all headings from the referenced document as entries for its table.
+auto field = System::DynamicCast<FieldRD>(builder->InsertField(FieldType::FieldRefDoc, true));
+field->set_FileName(u"ReferencedDocument.docx");
+field->set_IsPathRelative(true);
+
+ASSERT_EQ(u" RD  ReferencedDocument.docx \\f", field->GetFieldCode());
+
+// Create the document that the RD field is referencing and insert a heading.
+// This heading will show up as an entry in the TOC field in our first document.
+auto referencedDoc = MakeObject<Document>();
+auto refDocBuilder = MakeObject<DocumentBuilder>(referencedDoc);
+refDocBuilder->get_CurrentParagraph()->get_ParagraphFormat()->set_StyleName(u"Heading 1");
+refDocBuilder->Writeln(u"TOC entry from referenced document");
+referencedDoc->Save(ArtifactsDir + u"ReferencedDocument.docx");
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.RD.docx");
+```
+

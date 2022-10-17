@@ -11,6 +11,11 @@ url: /cpp/aspose.words.webextensions/webextensionbinding/
 
 Specifies a binding relationship between a web extension and the data in the document.
 
+```cpp
+class WebExtensionBinding : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

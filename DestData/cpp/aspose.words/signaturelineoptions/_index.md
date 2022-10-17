@@ -11,6 +11,11 @@ url: /cpp/aspose.words/signaturelineoptions/
 
 Allows to specify options for signature line being inserted. Used in [DocumentBuilder](./documentbuilder/).
 
+```cpp
+class SignatureLineOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

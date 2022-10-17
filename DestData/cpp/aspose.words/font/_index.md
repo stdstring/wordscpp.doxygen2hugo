@@ -11,6 +11,11 @@ url: /cpp/aspose.words/font/
 
 Contains font attributes (font name, font size, color, and so on) for an object.
 
+```cpp
+class Font : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource, public Aspose::Words::Drawing::Core::IFillable
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -120,3 +125,67 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 | [set_TintAndShade](./set_tintandshade/)(double) | Setter for [Aspose::Words::Font::get_TintAndShade](./get_tintandshade/). |
 | [set_Underline](./set_underline/)(Aspose::Words::Underline) | Setter for [Aspose::Words::Font::get_Underline](./get_underline/). |
 | [set_UnderlineColor](./set_underlinecolor/)(System::Drawing::Color) | Setter for [Aspose::Words::Font::get_UnderlineColor](./get_underlinecolor/). |
+
+You do not create instances of the [Font](./) class directly. You just use [Font](./) to access the font properties of the various objects such as [Run](../run/), [Paragraph](../paragraph/), [Style](../style/), [DocumentBuilder](../documentbuilder/).
+
+## Examples
+
+
+
+
+Shows how to insert a string surrounded by a border into a document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->get_Border()->set_Color(System::Drawing::Color::get_Green());
+builder->get_Font()->get_Border()->set_LineWidth(2.5);
+builder->get_Font()->get_Border()->set_LineStyle(LineStyle::DashDotStroker);
+
+builder->Write(u"Text surrounded by green border.");
+
+doc->Save(ArtifactsDir + u"Border.FontBorder.docx");
+```
+
+
+Shows how to format a run of text using its font property. 
+```cpp
+auto doc = MakeObject<Document>();
+auto run = MakeObject<Run>(doc, u"Hello world!");
+
+SharedPtr<Aspose::Words::Font> font = run->get_Font();
+font->set_Name(u"Courier New");
+font->set_Size(36);
+font->set_HighlightColor(System::Drawing::Color::get_Yellow());
+
+doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(run);
+doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
+```
+
+
+Shows how to create and use a paragraph style with list formatting. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Create a custom paragraph style.
+SharedPtr<Style> style = doc->get_Styles()->Add(StyleType::Paragraph, u"MyStyle1");
+style->get_Font()->set_Size(24);
+style->get_Font()->set_Name(u"Verdana");
+style->get_ParagraphFormat()->set_SpaceAfter(12);
+
+// Create a list and make sure the paragraphs that use this style will use this list.
+style->get_ListFormat()->set_List(doc->get_Lists()->Add(ListTemplate::BulletDefault));
+style->get_ListFormat()->set_ListLevelNumber(0);
+
+// Apply the paragraph style to the document builder's current paragraph, and then add some text.
+builder->get_ParagraphFormat()->set_Style(style);
+builder->Writeln(u"Hello World: MyStyle1, bulleted list.");
+
+// Change the document builder's style to one that has no list formatting and write another paragraph.
+builder->get_ParagraphFormat()->set_Style(doc->get_Styles()->idx_get(u"Normal"));
+builder->Writeln(u"Hello World: Normal.");
+
+builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList.docx");
+```
+

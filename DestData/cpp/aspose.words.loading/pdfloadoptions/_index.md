@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/pdfloadoptions/
 
 Allows to specify additional options when loading Pdf document into a [Document](../aspose.words/document/) object.
 
+```cpp
+class PdfLoadOptions : public Aspose::Words::Loading::LoadOptions
+```
+
+
 ## Methods
 
 | Method | Description |

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldsectionpages/
 
 Implements the SECTIONPAGES field.
 
+```cpp
+class FieldSectionPages : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,55 @@ Implements the SECTIONPAGES field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use SECTION and SECTIONPAGES fields to number pages by sections. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->MoveToHeaderFooter(HeaderFooterType::HeaderPrimary);
+builder->get_ParagraphFormat()->set_Alignment(ParagraphAlignment::Right);
+
+// A SECTION field displays the number of the section it is in.
+builder->Write(u"Section ");
+auto fieldSection = System::DynamicCast<FieldSection>(builder->InsertField(FieldType::FieldSection, true));
+
+ASSERT_EQ(u" SECTION ", fieldSection->GetFieldCode());
+
+// A PAGE field displays the number of the page it is in.
+builder->Write(u"\nPage ");
+auto fieldPage = System::DynamicCast<FieldPage>(builder->InsertField(FieldType::FieldPage, true));
+
+ASSERT_EQ(u" PAGE ", fieldPage->GetFieldCode());
+
+// A SECTIONPAGES field displays the number of pages that the section it is in spans across.
+builder->Write(u" of ");
+auto fieldSectionPages = System::DynamicCast<FieldSectionPages>(builder->InsertField(FieldType::FieldSectionPages, true));
+
+ASSERT_EQ(u" SECTIONPAGES ", fieldSectionPages->GetFieldCode());
+
+// Move out of the header back into the main document and insert two pages.
+// All these pages will be in the first section. Our fields, which appear once every header,
+// will number the current/total pages of this section.
+builder->MoveToDocumentEnd();
+builder->InsertBreak(BreakType::PageBreak);
+builder->InsertBreak(BreakType::PageBreak);
+
+// We can insert a new section with the document builder like this.
+// This will affect the values displayed in the SECTION and SECTIONPAGES fields in all upcoming headers.
+builder->InsertBreak(BreakType::SectionBreakNewPage);
+
+// The PAGE field will keep counting pages across the whole document.
+// We can manually reset its count at each section to keep track of pages section-by-section.
+builder->get_CurrentSection()->get_PageSetup()->set_RestartPageNumbering(true);
+builder->InsertBreak(BreakType::PageBreak);
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.SECTION.SECTIONPAGES.docx");
+```
+

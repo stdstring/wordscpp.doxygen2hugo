@@ -11,6 +11,11 @@ url: /cpp/aspose.words.framesets/framesetcollection/
 
 Represents a collection of instances of the [Frameset](./frameset/) class.
 
+```cpp
+class FramesetCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Framesets::Frameset>>
+```
+
+
 ## Methods
 
 | Method | Description |

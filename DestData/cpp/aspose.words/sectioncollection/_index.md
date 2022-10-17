@@ -11,6 +11,11 @@ url: /cpp/aspose.words/sectioncollection/
 
 A collection of **Section** objects in the document.
 
+```cpp
+class SectionCollection : public Aspose::Words::NodeCollection
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -26,3 +31,41 @@ A collection of **Section** objects in the document.
 | [Remove](../nodecollection/remove/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the node from the collection and from the document. |
 | [RemoveAt](../nodecollection/removeat/)(int32_t) | Removes the node at the specified index from the collection and from the document. |
 | [ToArray](./toarray/)() | Copies all sections from the collection to a new array of sections. |
+
+A Microsoft Word document can contain multiple sections. To create a section in a Microsoft Word, select the Insert/Break command and select a break type. The break specifies whether section starts on a new page or on the same page.
+
+Programmatically inserting and removing sections can be used to customize documents produced during mail merge. If a document needs to have different content or parts of the content depending on some criteria, then you can create a "master" document that contains multiple sections and delete some of the sections before or after mail merge.
+
+## Examples
+
+
+
+
+Shows how to add and remove sections in a document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Write(u"Section 1");
+builder->InsertBreak(BreakType::SectionBreakNewPage);
+builder->Write(u"Section 2");
+
+ASSERT_EQ(u"Section 1\x000c"
+          u"Section 2",
+          doc->GetText().Trim());
+
+// Delete the first section from the document.
+doc->get_Sections()->RemoveAt(0);
+
+ASSERT_EQ(u"Section 2", doc->GetText().Trim());
+
+// Append a copy of what is now the first section to the end of the document.
+int lastSectionIdx = doc->get_Sections()->get_Count() - 1;
+SharedPtr<Section> newSection = doc->get_Sections()->idx_get(lastSectionIdx)->Clone();
+doc->get_Sections()->Add(newSection);
+
+ASSERT_EQ(u"Section 2\x000c"
+          u"Section 2",
+          doc->GetText().Trim());
+```
+

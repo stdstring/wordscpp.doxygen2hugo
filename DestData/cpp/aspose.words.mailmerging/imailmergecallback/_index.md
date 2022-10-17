@@ -11,6 +11,11 @@ url: /cpp/aspose.words.mailmerging/imailmergecallback/
 
 Implement this interface if you want to receive notifications while mail merge is performed.
 
+```cpp
+class IMailMergeCallback : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

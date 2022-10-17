@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldgotobutton/
 
 Implements the GOTOBUTTON field.
 
+```cpp
+class FieldGoToButton : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -41,3 +46,32 @@ Implements the GOTOBUTTON field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows to insert a GOTOBUTTON field. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Add a GOTOBUTTON field. When we double-click this field in Microsoft Word,
+// it will take the text cursor to the bookmark whose name the Location property references.
+auto field = System::DynamicCast<FieldGoToButton>(builder->InsertField(FieldType::FieldGoToButton, true));
+field->set_DisplayText(u"My Button");
+field->set_Location(u"MyBookmark");
+
+ASSERT_EQ(u" GOTOBUTTON  MyBookmark My Button", field->GetFieldCode());
+
+// Insert a valid bookmark for the field to reference.
+builder->InsertBreak(BreakType::PageBreak);
+builder->StartBookmark(field->get_Location());
+builder->Writeln(u"Bookmark text contents.");
+builder->EndBookmark(field->get_Location());
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.GOTOBUTTON.docx");
+```
+

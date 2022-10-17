@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldsubject/
 
 Implements the SUBJECT field.
 
+```cpp
+class FieldSubject : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -39,3 +44,38 @@ Implements the SUBJECT field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use the SUBJECT field. 
+```cpp
+auto doc = MakeObject<Document>();
+
+// Set a value for the document's "Subject" built-in property.
+doc->get_BuiltInDocumentProperties()->set_Subject(u"My subject");
+
+// Create a SUBJECT field to display the value of that built-in property.
+auto builder = MakeObject<DocumentBuilder>(doc);
+auto field = System::DynamicCast<FieldSubject>(builder->InsertField(FieldType::FieldSubject, true));
+field->Update();
+
+ASSERT_EQ(u" SUBJECT ", field->GetFieldCode());
+ASSERT_EQ(u"My subject", field->get_Result());
+
+// If we give the SUBJECT field's Text property value and update it, the field will
+// overwrite the current value of the "Subject" built-in property with the value of its Text property,
+// and then display the new value.
+field->set_Text(u"My new subject");
+field->Update();
+
+ASSERT_EQ(u" SUBJECT  \"My new subject\"", field->GetFieldCode());
+ASSERT_EQ(u"My new subject", field->get_Result());
+
+ASSERT_EQ(u"My new subject", doc->get_BuiltInDocumentProperties()->get_Subject());
+
+doc->Save(ArtifactsDir + u"Field.SUBJECT.docx");
+```
+

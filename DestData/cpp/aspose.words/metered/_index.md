@@ -11,6 +11,11 @@ url: /cpp/aspose.words/metered/
 
 Provides methods to set metered key.
 
+```cpp
+class Metered : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

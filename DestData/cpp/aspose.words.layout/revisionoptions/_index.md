@@ -11,6 +11,11 @@ url: /cpp/aspose.words.layout/revisionoptions/
 
 Allows to control how document revisions are handled during layout process.
 
+```cpp
+class RevisionOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -53,3 +58,28 @@ Allows to control how document revisions are handled during layout process.
 | [set_ShowOriginalRevision](./set_showoriginalrevision/)(bool) | Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowOriginalRevision](./get_showoriginalrevision/). |
 | [set_ShowRevisionBars](./set_showrevisionbars/)(bool) | Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars](./get_showrevisionbars/). |
 | [set_ShowRevisionMarks](./set_showrevisionmarks/)(bool) | Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowRevisionMarks](./get_showrevisionmarks/). |
+
+## Examples
+
+
+
+
+Shows how to alter the appearance of revisions in a rendered output document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert a revision, then change the color of all revisions to green.
+builder->Writeln(u"This is not a revision.");
+doc->StartTrackRevisions(u"John Doe", System::DateTime::get_Now());
+builder->Writeln(u"This is a revision.");
+doc->StopTrackRevisions();
+builder->Writeln(u"This is not a revision.");
+
+// Remove the bar that appears to the left of every revised line.
+doc->get_LayoutOptions()->get_RevisionOptions()->set_InsertedTextColor(RevisionColor::BrightGreen);
+doc->get_LayoutOptions()->get_RevisionOptions()->set_ShowRevisionBars(false);
+
+doc->Save(ArtifactsDir + u"Document.LayoutOptionsRevisions.pdf");
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldkeywords/
 
 Implements the KEYWORDS field.
 
+```cpp
+class FieldKeywords : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -39,3 +44,36 @@ Implements the KEYWORDS field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows to insert a KEYWORDS field. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Add some keywords, also referred to as "tags" in File Explorer.
+doc->get_BuiltInDocumentProperties()->set_Keywords(u"Keyword1, Keyword2");
+
+// The KEYWORDS field displays the value of this property.
+auto field = System::DynamicCast<FieldKeywords>(builder->InsertField(FieldType::FieldKeyword, true));
+field->Update();
+
+ASSERT_EQ(u" KEYWORDS ", field->GetFieldCode());
+ASSERT_EQ(u"Keyword1, Keyword2", field->get_Result());
+
+// Setting a value for the field's Text property,
+// and then updating the field will also overwrite the corresponding built-in property with the new value.
+field->set_Text(u"OverridingKeyword");
+field->Update();
+
+ASSERT_EQ(u" KEYWORDS  OverridingKeyword", field->GetFieldCode());
+ASSERT_EQ(u"OverridingKeyword", field->get_Result());
+ASSERT_EQ(u"OverridingKeyword", doc->get_BuiltInDocumentProperties()->get_Keywords());
+
+doc->Save(ArtifactsDir + u"Field.KEYWORDS.docx");
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.webextensions/webextensionreference/
 
 Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.
 
+```cpp
+class WebExtensionReference : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

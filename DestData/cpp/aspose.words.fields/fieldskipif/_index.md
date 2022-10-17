@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldskipif/
 
 Implements the SKIPIF field.
 
+```cpp
+class FieldSkipIf : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |

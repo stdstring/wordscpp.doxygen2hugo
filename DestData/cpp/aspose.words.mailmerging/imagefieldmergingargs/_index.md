@@ -11,6 +11,11 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/
 
 Provides data for the [ImageFieldMerging()](./ifieldmergingcallback/imagefieldmerging/) event.
 
+```cpp
+class ImageFieldMergingArgs : public Aspose::Words::MailMerging::FieldMergingArgsBase
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -36,3 +41,11 @@ Provides data for the [ImageFieldMerging()](./ifieldmergingcallback/imagefieldme
 | [set_ImageStream](./set_imagestream/)(std::basic_istream\<CharType, Traits\>\&) |  |
 | [set_ImageWidth](./set_imagewidth/)(const System::SharedPtr\<Aspose::Words::Fields::MergeFieldImageDimension\>\&) | Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth](./get_imagewidth/). |
 | [set_Shape](./set_shape/)(const System::SharedPtr\<Aspose::Words::Drawing::Shape\>\&) | Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape](./get_shape/). |
+
+This event occurs during mail merge when an image mail merge field is encountered in the document. You can respond to this event to return a file name, stream, or an **Image** object to the mail merge engine so it is inserted into the document.
+
+There are three properties available [ImageFileName](./get_imagefilename/), [ImageStream](./get_imagestream/) and [Image](./get_image/) to specify where the image must be taken from. Set only one of these properties.
+
+To insert an image mail merge field into a document in Word, select Insert/Field command, then select MergeField and type Image:MyFieldName.
+
+

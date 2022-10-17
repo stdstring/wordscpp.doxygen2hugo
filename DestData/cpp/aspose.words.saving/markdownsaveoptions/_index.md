@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/markdownsaveoptions/
 
 Class to specify additional options when saving a document into the **Markdown** format.
 
+```cpp
+class MarkdownSaveOptions : public Aspose::Words::Saving::TxtSaveOptionsBase
+```
+
+
 ## Methods
 
 | Method | Description |

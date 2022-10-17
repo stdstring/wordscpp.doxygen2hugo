@@ -11,6 +11,11 @@ url: /cpp/aspose.words.layout/layoutoptions/
 
 Holds the options that allow controlling the document layout process.
 
+```cpp
+class LayoutOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -31,3 +36,64 @@ Holds the options that allow controlling the document layout process.
 | [set_ShowHiddenText](./set_showhiddentext/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText](./get_showhiddentext/). |
 | [set_ShowParagraphMarks](./set_showparagraphmarks/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks](./get_showparagraphmarks/). |
 | [set_TextShaperFactory](./set_textshaperfactory/)(const System::SharedPtr\<Aspose::Words::Shaping::ITextShaperFactory\>\&) | Setter for [Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory](./get_textshaperfactory/). |
+
+You do not create instances of this class directly. Use the [LayoutOptions](../../aspose.words/document/get_layoutoptions/) property to access layout options for this document.
+
+Note that after changing any of the options present in this class, [UpdatePageLayout](../../aspose.words/document/updatepagelayout/) method should be called in order for the changed options to be applied to the layout.
+
+## Examples
+
+
+
+
+Shows how to alter the appearance of revisions in a rendered output document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert a revision, then change the color of all revisions to green.
+builder->Writeln(u"This is not a revision.");
+doc->StartTrackRevisions(u"John Doe", System::DateTime::get_Now());
+builder->Writeln(u"This is a revision.");
+doc->StopTrackRevisions();
+builder->Writeln(u"This is not a revision.");
+
+// Remove the bar that appears to the left of every revised line.
+doc->get_LayoutOptions()->get_RevisionOptions()->set_InsertedTextColor(RevisionColor::BrightGreen);
+doc->get_LayoutOptions()->get_RevisionOptions()->set_ShowRevisionBars(false);
+
+doc->Save(ArtifactsDir + u"Document.LayoutOptionsRevisions.pdf");
+```
+
+
+Shows how to hide text in a rendered output document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert hidden text, then specify whether we wish to omit it from a rendered document.
+builder->Writeln(u"This text is not hidden.");
+builder->get_Font()->set_Hidden(true);
+builder->Writeln(u"This text is hidden.");
+
+doc->get_LayoutOptions()->set_ShowHiddenText(showHiddenText);
+
+doc->Save(ArtifactsDir + u"Document.LayoutOptionsHiddenText.pdf");
+```
+
+
+Shows how to show paragraph marks in a rendered output document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Add some paragraphs, then enable paragraph marks to show the ends of paragraphs
+// with a pilcrow (¶) symbol when we render the document.
+builder->Writeln(u"Hello world!");
+builder->Writeln(u"Hello again!");
+
+doc->get_LayoutOptions()->set_ShowParagraphMarks(showParagraphMarks);
+
+doc->Save(ArtifactsDir + u"Document.LayoutOptionsParagraphMarks.pdf");
+```
+

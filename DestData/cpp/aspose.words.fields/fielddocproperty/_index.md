@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fielddocproperty/
 
 Implements the DOCPROPERTY field.
 
+```cpp
+class FieldDocProperty : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,42 @@ Implements the DOCPROPERTY field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use DOCPROPERTY fields to display document properties and variables. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Below are two ways of using DOCPROPERTY fields.
+// 1 -  Display a built-in property:
+// Set a custom value for the "Category" built-in property, then insert a DOCPROPERTY field that references it.
+doc->get_BuiltInDocumentProperties()->set_Category(u"My category");
+
+auto fieldDocProperty = System::DynamicCast<FieldDocProperty>(builder->InsertField(u" DOCPROPERTY Category "));
+fieldDocProperty->Update();
+
+ASSERT_EQ(u" DOCPROPERTY Category ", fieldDocProperty->GetFieldCode());
+ASSERT_EQ(u"My category", fieldDocProperty->get_Result());
+
+builder->InsertParagraph();
+
+// 2 -  Display a custom document variable:
+// Define a custom variable, then reference that variable with a DOCPROPERTY field.
+ASSERT_EQ(0, doc->get_Variables()->get_Count());
+doc->get_Variables()->Add(u"My variable", u"My variable's value");
+
+auto fieldDocVariable = System::DynamicCast<FieldDocVariable>(builder->InsertField(FieldType::FieldDocVariable, true));
+fieldDocVariable->set_VariableName(u"My Variable");
+fieldDocVariable->Update();
+
+ASSERT_EQ(u" DOCVARIABLE  \"My Variable\"", fieldDocVariable->GetFieldCode());
+ASSERT_EQ(u"My variable's value", fieldDocVariable->get_Result());
+
+doc->Save(ArtifactsDir + u"Field.DOCPROPERTY.DOCVARIABLE.docx");
+```
+

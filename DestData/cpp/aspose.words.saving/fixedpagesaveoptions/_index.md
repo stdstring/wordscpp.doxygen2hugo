@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/
 
 Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc).
 
+```cpp
+class FixedPageSaveOptions : public Aspose::Words::Saving::SaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -74,3 +79,62 @@ Contains common options that can be specified when saving a document into fixed 
 | [set_UpdateSdtContent](../saveoptions/set_updatesdtcontent/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent](../saveoptions/get_updatesdtcontent/). |
 | [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](../saveoptions/get_useantialiasing/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
+
+## Examples
+
+
+
+
+Shows how to render one page from a document to a JPEG image. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Writeln(u"Page 1.");
+builder->InsertBreak(BreakType::PageBreak);
+builder->Writeln(u"Page 2.");
+builder->InsertImage(ImageDir + u"Logo.jpg");
+builder->InsertBreak(BreakType::PageBreak);
+builder->Writeln(u"Page 3.");
+
+// Create an "ImageSaveOptions" object which we can pass to the document's "Save" method
+// to modify the way in which that method renders the document into an image.
+auto options = MakeObject<ImageSaveOptions>(SaveFormat::Jpeg);
+
+// Set the "PageSet" to "1" to select the second page via
+// the zero-based index to start rendering the document from.
+options->set_PageSet(MakeObject<PageSet>(1));
+
+// When we save the document to the JPEG format, Aspose.Words only renders one page.
+// This image will contain one page starting from page two,
+// which will just be the second page of the original document.
+doc->Save(ArtifactsDir + u"ImageSaveOptions.OnePage.jpg", options);
+```
+
+
+Shows how to render every page of a document to a separate TIFF image. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Writeln(u"Page 1.");
+builder->InsertBreak(BreakType::PageBreak);
+builder->Writeln(u"Page 2.");
+builder->InsertImage(ImageDir + u"Logo.jpg");
+builder->InsertBreak(BreakType::PageBreak);
+builder->Writeln(u"Page 3.");
+
+// Create an "ImageSaveOptions" object which we can pass to the document's "Save" method
+// to modify the way in which that method renders the document into an image.
+auto options = MakeObject<ImageSaveOptions>(SaveFormat::Tiff);
+
+for (int i = 0; i < doc->get_PageCount(); i++)
+{
+    // Set the "PageSet" property to the number of the first page from
+    // which to start rendering the document from.
+    options->set_PageSet(MakeObject<PageSet>(i));
+
+    doc->Save(ArtifactsDir + String::Format(u"ImageSaveOptions.PageByPage.{0}.tiff", i + 1), options);
+}
+```
+

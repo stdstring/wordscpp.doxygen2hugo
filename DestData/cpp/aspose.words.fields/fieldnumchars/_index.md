@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldnumchars/
 
 Implements the NUMCHARS field.
 
+```cpp
+class FieldNumChars : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,46 @@ Implements the NUMCHARS field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use NUMCHARS, NUMWORDS, NUMPAGES and PAGE fields to track the size of our documents. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->MoveToHeaderFooter(HeaderFooterType::FooterPrimary);
+builder->get_ParagraphFormat()->set_Alignment(ParagraphAlignment::Center);
+
+// Below are three types of fields that we can use to track the size of our documents.
+// 1 -  Track the character count with a NUMCHARS field:
+auto fieldNumChars = System::DynamicCast<FieldNumChars>(builder->InsertField(FieldType::FieldNumChars, true));
+builder->Writeln(u" characters");
+
+// 2 -  Track the word count with a NUMWORDS field:
+auto fieldNumWords = System::DynamicCast<FieldNumWords>(builder->InsertField(FieldType::FieldNumWords, true));
+builder->Writeln(u" words");
+
+// 3 -  Use both PAGE and NUMPAGES fields to display what page the field is on,
+// and the total number of pages in the document:
+builder->get_ParagraphFormat()->set_Alignment(ParagraphAlignment::Right);
+builder->Write(u"Page ");
+auto fieldPage = System::DynamicCast<FieldPage>(builder->InsertField(FieldType::FieldPage, true));
+builder->Write(u" of ");
+auto fieldNumPages = System::DynamicCast<FieldNumPages>(builder->InsertField(FieldType::FieldNumPages, true));
+
+ASSERT_EQ(u" NUMCHARS ", fieldNumChars->GetFieldCode());
+ASSERT_EQ(u" NUMWORDS ", fieldNumWords->GetFieldCode());
+ASSERT_EQ(u" NUMPAGES ", fieldNumPages->GetFieldCode());
+ASSERT_EQ(u" PAGE ", fieldPage->GetFieldCode());
+
+// These fields will not maintain accurate values in real time
+// while we edit the document programmatically using Aspose.Words, or in Microsoft Word.
+// We need to update them every we need to see an up-to-date value.
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.NUMCHARS.NUMWORDS.NUMPAGES.PAGE.docx");
+```
+

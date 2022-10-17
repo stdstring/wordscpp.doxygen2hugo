@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/pageset/
 
 Describes a random set of pages.
 
+```cpp
+class PageSet : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

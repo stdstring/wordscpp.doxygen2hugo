@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/pclsaveoptions/
 
 Can be used to specify additional options when saving a document into the **Pcl** format.
 
+```cpp
+class PclSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -80,3 +85,20 @@ Can be used to specify additional options when saving a document into the **Pcl*
 | [set_UpdateSdtContent](../saveoptions/set_updatesdtcontent/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent](../saveoptions/get_updatesdtcontent/). |
 | [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](../saveoptions/get_useantialiasing/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
+
+## Examples
+
+
+
+
+Shows how to rasterize complex elements while saving a document to PCL. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+auto saveOptions = MakeObject<PclSaveOptions>();
+saveOptions->set_SaveFormat(SaveFormat::Pcl);
+saveOptions->set_RasterizeTransformedElements(true);
+
+doc->Save(ArtifactsDir + u"PclSaveOptions.RasterizeElements.pcl", saveOptions);
+```
+

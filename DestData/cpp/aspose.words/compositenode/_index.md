@@ -11,6 +11,11 @@ url: /cpp/aspose.words/compositenode/
 
 Base class for nodes that can contain other nodes.
 
+```cpp
+class CompositeNode : public Aspose::Words::Node, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>, public Aspose::Words::INodeCollection
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -54,3 +59,68 @@ Base class for nodes that can contain other nodes.
 | [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+A document is represented as a tree of nodes, similar to DOM or XmlDocument.
+
+For more info see the Composite design pattern.
+
+The [CompositeNode](./) class:
+
+* Provides access to the child nodes.
+* Implements Composite operations such as insert and remove children.
+* Provides methods for XPath navigation.
+
+
+
+## Examples
+
+
+
+
+Shows how to traverse through a composite node's collection of child nodes. 
+```cpp
+auto doc = MakeObject<Document>();
+
+// Add two runs and one shape as child nodes to the first paragraph of this document.
+auto paragraph = System::DynamicCast<Paragraph>(doc->GetChild(NodeType::Paragraph, 0, true));
+paragraph->AppendChild(MakeObject<Run>(doc, u"Hello world! "));
+
+auto shape = MakeObject<Shape>(doc, ShapeType::Rectangle);
+shape->set_Width(200);
+shape->set_Height(200);
+// Note that the 'CustomNodeId' is not saved to an output file and exists only during the node lifetime.
+shape->set_CustomNodeId(100);
+shape->set_WrapType(WrapType::Inline);
+paragraph->AppendChild(shape);
+
+paragraph->AppendChild(MakeObject<Run>(doc, u"Hello again!"));
+
+// Iterate through the paragraph's collection of immediate children,
+// and print any runs or shapes that we find within.
+SharedPtr<NodeCollection> children = paragraph->get_ChildNodes();
+
+ASSERT_EQ(3, paragraph->get_ChildNodes()->get_Count());
+
+for (const auto& child : System::IterateOver(children))
+{
+    switch (child->get_NodeType())
+    {
+    case NodeType::Run:
+        std::cout << "Run contents:" << std::endl;
+        std::cout << "\t\"" << child->GetText().Trim() << "\"" << std::endl;
+        break;
+
+    case NodeType::Shape: {
+        auto childShape = System::DynamicCast<Shape>(child);
+        std::cout << "Shape:" << std::endl;
+        std::cout << String::Format(u"\t{0}, {1}x{2}", childShape->get_ShapeType(), childShape->get_Width(), childShape->get_Height()) << std::endl;
+        ASSERT_EQ(100, shape->get_CustomNodeId());
+        break;
+    }
+
+    default:
+        break;
+    }
+}
+```
+

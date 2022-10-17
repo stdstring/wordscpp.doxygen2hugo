@@ -11,6 +11,11 @@ url: /cpp/aspose.words/border/
 
 Represents a border of an object.
 
+```cpp
+class Border : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IComplexAttr
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -30,3 +35,41 @@ Represents a border of an object.
 | [set_LineStyle](./set_linestyle/)(Aspose::Words::LineStyle) | Setter for [Aspose::Words::Border::get_LineStyle](./get_linestyle/). |
 | [set_LineWidth](./set_linewidth/)(double) | Setter for [Aspose::Words::Border::get_LineWidth](./get_linewidth/). |
 | [set_Shadow](./set_shadow/)(bool) | Setter for [Aspose::Words::Border::get_Shadow](./get_shadow/). |
+
+Borders can be applied to various document elements including paragraph, run of text inside a paragraph or a table cell.
+
+## Examples
+
+
+
+
+Shows how to insert a string surrounded by a border into a document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->get_Border()->set_Color(System::Drawing::Color::get_Green());
+builder->get_Font()->get_Border()->set_LineWidth(2.5);
+builder->get_Font()->get_Border()->set_LineStyle(LineStyle::DashDotStroker);
+
+builder->Write(u"Text surrounded by green border.");
+
+doc->Save(ArtifactsDir + u"Border.FontBorder.docx");
+```
+
+
+Shows how to insert a paragraph with a top border. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+SharedPtr<Border> topBorder = builder->get_ParagraphFormat()->get_Borders()->idx_get(BorderType::Top);
+topBorder->set_Color(System::Drawing::Color::get_Red());
+topBorder->set_LineWidth(4.0);
+topBorder->set_LineStyle(LineStyle::DashSmallGap);
+
+builder->Writeln(u"Text with a red top border.");
+
+doc->Save(ArtifactsDir + u"Border.ParagraphTopBorder.docx");
+```
+

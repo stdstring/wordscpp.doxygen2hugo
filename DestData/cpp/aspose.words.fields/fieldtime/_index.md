@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldtime/
 
 Implements the TIME field.
 
+```cpp
+class FieldTime : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,46 @@ Implements the TIME field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to display the current time using the TIME field. 
+```cpp
+void FieldTime_()
+{
+    auto doc = MakeObject<Document>();
+    auto builder = MakeObject<DocumentBuilder>(doc);
+
+    // By default, time is displayed in the "h:mm am/pm" format.
+    SharedPtr<FieldTime> field = InsertFieldTime(builder, u"");
+
+    ASSERT_EQ(u" TIME ", field->GetFieldCode());
+
+    // We can use the \@ flag to change the format of our displayed time.
+    field = InsertFieldTime(builder, u"\\@ HHmm");
+
+    ASSERT_EQ(u" TIME \\@ HHmm", field->GetFieldCode());
+
+    // We can adjust the format to get TIME field to also display the date, according to the Gregorian calendar.
+    field = InsertFieldTime(builder, u"\\@ \"M/d/yyyy h mm:ss am/pm\"");
+
+    ASSERT_EQ(u" TIME \\@ \"M/d/yyyy h mm:ss am/pm\"", field->GetFieldCode());
+
+    doc->Save(ArtifactsDir + u"Field.TIME.docx");
+}
+
+static SharedPtr<FieldTime> InsertFieldTime(SharedPtr<DocumentBuilder> builder, String format)
+{
+    auto field = System::DynamicCast<FieldTime>(builder->InsertField(FieldType::FieldTime, true));
+    builder->MoveTo(field->get_Separator());
+    builder->Write(format);
+    builder->MoveTo(field->get_Start()->get_ParentNode());
+
+    builder->InsertParagraph();
+    return field;
+}
+```
+

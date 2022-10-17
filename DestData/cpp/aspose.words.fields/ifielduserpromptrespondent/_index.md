@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/ifielduserpromptrespondent/
 
 Represents the respondent to user prompts during field update.
 
+```cpp
+class IFieldUserPromptRespondent : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

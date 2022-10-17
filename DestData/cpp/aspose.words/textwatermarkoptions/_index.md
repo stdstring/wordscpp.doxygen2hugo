@@ -11,6 +11,11 @@ url: /cpp/aspose.words/textwatermarkoptions/
 
 Contains options that can be specified when adding a watermark with text.
 
+```cpp
+class TextWatermarkOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

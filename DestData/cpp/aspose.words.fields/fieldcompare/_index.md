@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldcompare/
 
 Implements the COMPARE field.
 
+```cpp
+class FieldCompare : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -43,3 +48,41 @@ Implements the COMPARE field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to compare expressions using a COMPARE field. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+auto field = System::DynamicCast<FieldCompare>(builder->InsertField(FieldType::FieldCompare, true));
+field->set_LeftExpression(u"3");
+field->set_ComparisonOperator(u"<");
+field->set_RightExpression(u"2");
+field->Update();
+
+// The COMPARE field displays a "0" or a "1", depending on its statement's truth.
+// The result of this statement is false so that this field will display a "0".
+ASSERT_EQ(u" COMPARE  3 < 2", field->GetFieldCode());
+ASSERT_EQ(u"0", field->get_Result());
+
+builder->Writeln();
+
+field = System::DynamicCast<FieldCompare>(builder->InsertField(FieldType::FieldCompare, true));
+field->set_LeftExpression(u"5");
+field->set_ComparisonOperator(u"=");
+field->set_RightExpression(u"2 + 3");
+field->Update();
+
+// This field displays a "1" since the statement is true.
+ASSERT_EQ(u" COMPARE  5 = \"2 + 3\"", field->GetFieldCode());
+ASSERT_EQ(u"1", field->get_Result());
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.COMPARE.docx");
+```
+

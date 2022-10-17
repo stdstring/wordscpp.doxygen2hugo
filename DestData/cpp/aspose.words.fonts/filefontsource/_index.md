@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fonts/filefontsource/
 
 Represents the single TrueType font file stored in the file system.
 
+```cpp
+class FileFontSource : public Aspose::Words::Fonts::FontSourceBase
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -25,3 +30,22 @@ Represents the single TrueType font file stored in the file system.
 | [get_WarningCallback](../fontsourcebase/get_warningcallback/)() const | Called during processing of font source when an issue is detected that might result in formatting fidelity loss. |
 | [GetAvailableFonts](../fontsourcebase/getavailablefonts/)() | Returns list of fonts available via this source. |
 | [set_WarningCallback](../fontsourcebase/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for [Aspose::Words::Fonts::FontSourceBase::get_WarningCallback](../fontsourcebase/get_warningcallback/). |
+
+## Examples
+
+
+
+
+Shows how to use a font file in the local file system as a font source. 
+```cpp
+auto fileFontSource = MakeObject<FileFontSource>(MyDir + u"Alte DIN 1451 Mittelschrift.ttf", 0);
+
+auto doc = MakeObject<Document>();
+doc->set_FontSettings(MakeObject<FontSettings>());
+doc->get_FontSettings()->SetFontsSources(MakeArray<SharedPtr<FontSourceBase>>({fileFontSource}));
+
+ASSERT_EQ(MyDir + u"Alte DIN 1451 Mittelschrift.ttf", fileFontSource->get_FilePath());
+ASSERT_EQ(FontSourceType::FontFile, fileFontSource->get_Type());
+ASSERT_EQ(0, fileFontSource->get_Priority());
+```
+

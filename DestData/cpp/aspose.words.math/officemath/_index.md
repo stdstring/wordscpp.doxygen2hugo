@@ -11,6 +11,11 @@ url: /cpp/aspose.words.math/officemath/
 
 Represents an Office [Math](./) object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other [OfficeMath](./officemath/) instances and some other nodes.
 
+```cpp
+class OfficeMath : public Aspose::Words::CompositeNode, public Aspose::Words::IInline, public Aspose::Words::Revisions::ITrackableNode
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -63,3 +68,35 @@ Represents an Office [Math](./) object such as function, equation, matrix or ali
 | [SetTemplateWeakPtr](../../aspose.words/compositenode/settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+In this version of Aspose.Words, [OfficeMath](./) nodes do not provide public methods and properties to create or modify a [OfficeMath](./) object. In this version you are not able to instantiate [Math](../) nodes or modify existing except deleting them.
+
+[OfficeMath](./) can only be a child of [Paragraph](../../aspose.words/paragraph/).
+
+## Examples
+
+
+
+
+Shows how to set office math display formatting. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Office math.docx");
+
+auto officeMath = System::DynamicCast<OfficeMath>(doc->GetChild(NodeType::OfficeMath, 0, true));
+
+// OfficeMath nodes that are children of other OfficeMath nodes are always inline.
+// The node we are working with is the base node to change its location and display type.
+ASSERT_EQ(MathObjectType::OMathPara, officeMath->get_MathObjectType());
+ASSERT_EQ(NodeType::OfficeMath, officeMath->get_NodeType());
+ASPOSE_ASSERT_EQ(officeMath->get_ParentNode(), officeMath->get_ParentParagraph());
+
+// OOXML and WML formats use the "EquationXmlEncoding" property.
+ASSERT_TRUE(officeMath->get_EquationXmlEncoding() == nullptr);
+
+// Change the location and display type of the OfficeMath node.
+officeMath->set_DisplayType(OfficeMathDisplayType::Display);
+officeMath->set_Justification(OfficeMathJustification::Left);
+
+doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
+```
+

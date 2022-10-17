@@ -11,6 +11,11 @@ url: /cpp/aspose.words/subdocument/
 
 Represents a **SubDocument** - which is a reference to an externally stored document.
 
+```cpp
+class SubDocument : public Aspose::Words::Node
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -35,3 +40,25 @@ Represents a **SubDocument** - which is a reference to an externally stored docu
 | [set_CustomNodeId](../node/set_customnodeid/)(int32_t) | Setter for [Aspose::Words::Node::get_CustomNodeId](../node/get_customnodeid/). |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+In this version of Aspose.Words, [SubDocument](./) nodes do not provide public methods and properties to create or modify a subdocument. In this version you are not able to instantiate [SubDocument](./) nodes or modify existing except deleting them.
+
+[SubDocument](./) can only be a child of [Paragraph](../paragraph/).
+
+## Examples
+
+
+
+
+Shows how to access a master document's subdocument. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Master document.docx");
+
+SharedPtr<NodeCollection> subDocuments = doc->GetChildNodes(NodeType::SubDocument, true);
+
+// This node serves as a reference to an external document, and its contents cannot be accessed.
+auto subDocument = System::DynamicCast<SubDocument>(subDocuments->idx_get(0));
+
+ASSERT_FALSE(subDocument->get_IsComposite());
+```
+

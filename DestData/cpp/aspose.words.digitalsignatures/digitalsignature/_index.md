@@ -11,6 +11,11 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignature/
 
 Represents a digital signature on a document and the result of its verification.
 
+```cpp
+class DigitalSignature : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -23,3 +28,25 @@ Represents a digital signature on a document and the result of its verification.
 | [get_SignTime](./get_signtime/)() const | Gets the time the document was signed. |
 | [get_SubjectName](./get_subjectname/)() | Returns the subject distinguished name of the certificate that was used to sign the document. |
 | [ToString](./tostring/)() const override | Returns a user-friendly string that displays the value of this object. |
+
+## Examples
+
+
+
+
+Shows how to validate and display information about each signature in a document. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Digitally signed.docx");
+
+for (const auto& signature : doc->get_DigitalSignatures())
+{
+    std::cout << (signature->get_IsValid() ? String(u"Valid") : String(u"Invalid")) << " signature: " << std::endl;
+    std::cout << "\tReason:\t" << signature->get_Comments() << std::endl;
+    std::cout << String::Format(u"\tType:\t{0}", signature->get_SignatureType()) << std::endl;
+    std::cout << "\tSign time:\t" << signature->get_SignTime() << std::endl;
+    std::cout << "\tSubject name:\t" << signature->get_CertificateHolder()->get_Certificate()->get_SubjectName() << std::endl;
+    std::cout << "\tIssuer name:\t" << signature->get_CertificateHolder()->get_Certificate()->get_IssuerName()->get_Name() << std::endl;
+    std::cout << std::endl;
+}
+```
+

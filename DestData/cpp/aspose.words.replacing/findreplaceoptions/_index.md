@@ -11,6 +11,11 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/
 
 Specifies options for find/replace operations.
 
+```cpp
+class FindReplaceOptions : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -47,3 +52,48 @@ Specifies options for find/replace operations.
 | [set_SmartParagraphBreakReplacement](./set_smartparagraphbreakreplacement/)(bool) | Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement](./get_smartparagraphbreakreplacement/). |
 | [set_UseLegacyOrder](./set_uselegacyorder/)(bool) | Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder](./get_uselegacyorder/). |
 | [set_UseSubstitutions](./set_usesubstitutions/)(bool) | Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions](./get_usesubstitutions/). |
+
+## Examples
+
+
+
+
+Shows how to toggle case sensitivity when performing a find-and-replace operation. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Writeln(u"Ruby bought a ruby necklace.");
+
+// We can use a "FindReplaceOptions" object to modify the find-and-replace process.
+auto options = MakeObject<FindReplaceOptions>();
+
+// Set the "MatchCase" flag to "true" to apply case sensitivity while finding strings to replace.
+// Set the "MatchCase" flag to "false" to ignore character case while searching for text to replace.
+options->set_MatchCase(matchCase);
+
+doc->get_Range()->Replace(u"Ruby", u"Jade", options);
+
+ASSERT_EQ(matchCase ? String(u"Jade bought a ruby necklace.") : String(u"Jade bought a Jade necklace."), doc->GetText().Trim());
+```
+
+
+Shows how to toggle standalone word-only find-and-replace operations. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Writeln(u"Jackson will meet you in Jacksonville.");
+
+// We can use a "FindReplaceOptions" object to modify the find-and-replace process.
+auto options = MakeObject<FindReplaceOptions>();
+
+// Set the "FindWholeWordsOnly" flag to "true" to replace the found text if it is not a part of another word.
+// Set the "FindWholeWordsOnly" flag to "false" to replace all text regardless of its surroundings.
+options->set_FindWholeWordsOnly(findWholeWordsOnly);
+
+doc->get_Range()->Replace(u"Jackson", u"Louis", options);
+
+ASSERT_EQ(findWholeWordsOnly ? String(u"Louis will meet you in Jacksonville.") : String(u"Louis will meet you in Louisville."), doc->GetText().Trim());
+```
+

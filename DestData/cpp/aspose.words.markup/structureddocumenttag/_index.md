@@ -11,6 +11,11 @@ url: /cpp/aspose.words.markup/structureddocumenttag/
 
 Represents a structured document tag (SDT or content control) in a document.
 
+```cpp
+class StructuredDocumentTag : public Aspose::Words::CompositeNode, public Aspose::Words::Markup::IMarkupNode, public Aspose::Words::Revisions::ITrackableNode, public Aspose::Words::IRunAttrSource, public Aspose::Words::Markup::IStructuredDocumentTag
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -108,3 +113,54 @@ Represents a structured document tag (SDT or content control) in a document.
 | [StructuredDocumentTag](./structureddocumenttag/)(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::Markup::SdtType, Aspose::Words::Markup::MarkupLevel) | Initializes a new instance of the **Structured document tag** class. |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+Structured document tags (SDTs) allow to embed customer-defined semantics as well as its behavior and appearance into a document.
+
+In this version Aspose.Words provides a number of public methods and properties to manipulate the behavior and content of [StructuredDocumentTag](./). Mapping of SDT nodes to custom XML packages within a document can be performed with using the [XmlMapping](./get_xmlmapping/) property.
+
+[StructuredDocumentTag](./) can occur in a document in the following places:
+
+* Block-level - Among paragraphs and tables, as a child of a [Body](../../aspose.words/body/), [HeaderFooter](../../aspose.words/headerfooter/), [Comment](../../aspose.words/comment/), [Footnote](../../aspose.words.notes/footnote/) or a [Shape](../../aspose.words.drawing/shape/) node.
+* Row-level - Among rows in a table, as a child of a [Table](../../aspose.words.tables/table/) node.
+* Cell-level - Among cells in a table row, as a child of a [Row](../../aspose.words.tables/row/) node.
+* Inline-level - Among inline content inside, as a child of a [Paragraph](../../aspose.words/paragraph/).
+* Nested inside another [StructuredDocumentTag](./).
+
+
+
+## Examples
+
+
+
+
+Shows how to work with styles for content control elements. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Below are two ways to apply a style from the document to a structured document tag.
+// 1 -  Apply a style object from the document's style collection:
+SharedPtr<Style> quoteStyle = doc->get_Styles()->idx_get(StyleIdentifier::Quote);
+auto sdtPlainText = MakeObject<StructuredDocumentTag>(doc, SdtType::PlainText, MarkupLevel::Inline);
+sdtPlainText->set_Style(quoteStyle);
+
+// 2 -  Reference a style in the document by name:
+auto sdtRichText = MakeObject<StructuredDocumentTag>(doc, SdtType::RichText, MarkupLevel::Inline);
+sdtRichText->set_StyleName(u"Quote");
+
+builder->InsertNode(sdtPlainText);
+builder->InsertNode(sdtRichText);
+
+ASSERT_EQ(NodeType::StructuredDocumentTag, sdtPlainText->get_NodeType());
+
+SharedPtr<NodeCollection> tags = doc->GetChildNodes(NodeType::StructuredDocumentTag, true);
+
+for (const auto& node : System::IterateOver(tags))
+{
+    auto sdt = System::DynamicCast<StructuredDocumentTag>(node);
+
+    ASSERT_EQ(StyleIdentifier::Quote, sdt->get_Style()->get_StyleIdentifier());
+    ASSERT_EQ(u"Quote", sdt->get_StyleName());
+}
+```
+

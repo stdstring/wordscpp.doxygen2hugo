@@ -11,6 +11,11 @@ url: /cpp/aspose.words/document/
 
 Represents a Word document.
 
+```cpp
+class Document : public Aspose::Words::DocumentBase, public Aspose::Words::ISectionAttrSource, public Aspose::Words::IWatermarkProvider
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -181,3 +186,32 @@ Represents a Word document.
 | [UpdateThumbnail](./updatethumbnail/)() | Updates [Thumbnail](../../aspose.words.properties/builtindocumentproperties/get_thumbnail/) of the document using default options. |
 | [UpdateWordCount](./updatewordcount/)() | Updates word count properties of the document. |
 | [UpdateWordCount](./updatewordcount/)(bool) | Updates word count properties of the document, optionally updates [Lines](../../aspose.words.properties/builtindocumentproperties/get_lines/) property. |
+
+The **Document** is a central object in the Aspose.Words library.
+
+To load an existing document in any of the [LoadFormat](../loadformat/) formats, pass a file name or a stream into one of the **Document** constructors. To create a blank document, call the constructor without parameters.
+
+Use one of the Save method overloads to save the document in any of the [SaveFormat](../saveformat/) formats.
+
+To draw document pages directly onto a **Graphics** object use **RenderToScale()** or **RenderToSize()** method.
+
+To print the document, use one of the **Print()** methods.
+
+[MailMerge](./get_mailmerge/) is the [Aspose.Words](../)'s reporting engine that allows to populate reports designed in Microsoft Word with data from various data sources quickly and easily. The data can be from a or an array of values. **MailMerge** will go through the records found in the data source and insert them into mail merge fields in the document growing it as necessary.
+
+**Document** stores document-wide information such as [Styles](../documentbase/get_styles/), [BuiltInDocumentProperties](./get_builtindocumentproperties/), [CustomDocumentProperties](./get_customdocumentproperties/), lists and macros. Most of these objects are accessible via the corresponding properties of the **Document**.
+
+The **Document** is a root node of a tree that contains all other nodes of the document. The tree is a Composite design pattern and in many ways similar to XmlDocument. The content of the document can be manipulated freely programmatically:
+
+* The nodes of the document can be accessed via typed collections, for example [Sections](./get_sections/), [ParagraphCollection](../paragraphcollection/) etc.
+* The nodes of the document can be selected by their node type using [GetChildNodes()](../compositenode/getchildnodes/) or using an XPath query with **SelectNodes()** or **SelectSingleNode()**.
+* Content nodes can be added or removed from anywhere in the document using **InsertBefore()**, **InsertAfter()**, **RemoveChild()** and other methods provided by the base class [CompositeNode](../compositenode/).
+* The formatting attributes of each node can be changed via the properties of that node.
+
+
+
+Consider using [DocumentBuilder](../documentbuilder/) that simplifies the task of programmatically creating or populating the document tree.
+
+The **Document** can contain only [Section](../section/) objects.
+
+In Microsoft Word, a valid document needs to have at least one section. 

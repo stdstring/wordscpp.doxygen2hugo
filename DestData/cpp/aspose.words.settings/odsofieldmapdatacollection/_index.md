@@ -11,6 +11,11 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/
 
 A typed collection of the [OdsoFieldMapData](./odsofieldmapdata/) objects.
 
+```cpp
+class OdsoFieldMapDataCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData>>
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -33,3 +38,5 @@ A typed collection of the [OdsoFieldMapData](./odsofieldmapdata/) objects.
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+
+

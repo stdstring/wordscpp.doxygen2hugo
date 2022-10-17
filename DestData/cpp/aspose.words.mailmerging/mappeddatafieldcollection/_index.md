@@ -11,6 +11,11 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/
 
 Allows to automatically map between names of fields in your data source and names of mail merge fields in the document.
 
+```cpp
+class MappedDataFieldCollection : public System::Collections::Generic::IEnumerable<System::Collections::Generic::KeyValuePair<System::String, System::String>>
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -34,3 +39,7 @@ Allows to automatically map between names of fields in your data source and name
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+
+This is implemented as a collection of string keys into string values. The keys are the names of mail merge fields in the document and the values are the names of fields in your data source.
+
+

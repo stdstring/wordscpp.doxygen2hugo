@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fielddatabasedatatable/
 
 Provides data for the [FieldDatabase](./fielddatabase/) field result.
 
+```cpp
+class FieldDatabaseDataTable : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

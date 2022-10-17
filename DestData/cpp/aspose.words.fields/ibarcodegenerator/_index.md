@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/ibarcodegenerator/
 
 Public interface for barcode custom generator. Implementation should be provided by user.
 
+```cpp
+class IBarcodeGenerator : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

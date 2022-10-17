@@ -11,6 +11,11 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/
 
 A typed collection of [OdsoRecipientData](./odsorecipientdata/)
 
+```cpp
+class OdsoRecipientDataCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData>>
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -33,3 +38,5 @@ A typed collection of [OdsoRecipientData](./odsorecipientdata/)
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+
+

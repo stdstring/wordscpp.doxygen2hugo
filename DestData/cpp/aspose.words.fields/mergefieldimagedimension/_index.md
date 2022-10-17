@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/
 
 Represents an image dimension (i.e. the width or the height) used across a mail merge process.
 
+```cpp
+class MergeFieldImageDimension : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -21,3 +26,5 @@ Represents an image dimension (i.e. the width or the height) used across a mail 
 | [MergeFieldImageDimension](./mergefieldimagedimension/)(double, Aspose::Words::Fields::MergeFieldImageDimensionUnit) | Creates an image dimension instance with the given value and the given unit. |
 | [set_Unit](./set_unit/)(Aspose::Words::Fields::MergeFieldImageDimensionUnit) | The unit. |
 | [set_Value](./set_value/)(double) | The value. |
+
+

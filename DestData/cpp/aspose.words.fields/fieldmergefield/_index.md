@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldmergefield/
 
 Implements the MERGEFIELD field.
 
+```cpp
+class FieldMergeField : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+```
+
+
 ## Methods
 
 | Method | Description |

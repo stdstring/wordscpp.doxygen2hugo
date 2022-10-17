@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fonts/fontinfo/
 
 Specifies information about a font used in the document.
 
+```cpp
+class FontInfo : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -30,3 +35,26 @@ Specifies information about a font used in the document.
 | [set_IsTrueType](./set_istruetype/)(bool) | Setter for [Aspose::Words::Fonts::FontInfo::get_IsTrueType](./get_istruetype/). |
 | [set_Panose](./set_panose/)(const System::ArrayPtr\<uint8_t\>\&) | Setter for [Aspose::Words::Fonts::FontInfo::get_Panose](./get_panose/). |
 | [set_Pitch](./set_pitch/)(Aspose::Words::Fonts::FontPitch) | Setter for [Aspose::Words::Fonts::FontInfo::get_Pitch](./get_pitch/). |
+
+You do not create instances of this class directly. Use the [FontInfos](../../aspose.words/documentbase/get_fontinfos/) property to access the collection of fonts defined in a document.
+
+## Examples
+
+
+
+
+Shows how to print the details of what fonts are present in a document. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");
+
+SharedPtr<Aspose::Words::Fonts::FontInfoCollection> allFonts = doc->get_FontInfos();
+
+// Print all the used and unused fonts in the document.
+for (int i = 0; i < allFonts->get_Count(); i++)
+{
+    std::cout << "Font index #" << i << std::endl;
+    std::cout << "\tName: " << allFonts->idx_get(i)->get_Name() << std::endl;
+    std::cout << "\tIs " << (allFonts->idx_get(i)->get_IsTrueType() ? String(u"") : String(u"not ")) << "a trueType font" << std::endl;
+}
+```
+

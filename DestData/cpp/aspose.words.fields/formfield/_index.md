@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/formfield/
 
 Represents a single form field.
 
+```cpp
+class FormField : public Aspose::Words::SpecialChar
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -84,3 +89,57 @@ Represents a single form field.
 | [SetTextInputValue](./settextinputvalue/)(const System::SharedPtr\<System::Object\>\&) | Applies the text format specified in [TextInputFormat](./get_textinputformat/) and stores the value in [Result](./get_result/). |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+
+Microsoft Word provides the following form fields: checkbox, text input and dropdown (combobox).
+
+**FormField** is an inline-node and can only be a child of **Paragraph**.
+
+**FormField** is represented in a document by a special character and positioned as a character within a line of text.
+
+A complete form field in a Word document is a complex structure represented by several nodes: field start, field code such as FORMTEXT, form field data, field separator, field result, field end and a bookmark. To programmatically create form fields in a Word document use **DocumentBuilder.InsertCheckBox**, **DocumentBuilder.InsertTextInput** and **DocumentBuilder.InsertComboBox** which make sure all of the form field nodes are created in a correct order and in a suitable state.
+
+## Examples
+
+
+
+
+Shows how to insert a combo box. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Write(u"Please select a fruit: ");
+
+// Insert a combo box which will allow a user to choose an option from a collection of strings.
+SharedPtr<FormField> comboBox = builder->InsertComboBox(u"MyComboBox", MakeArray<String>({u"Apple", u"Banana", u"Cherry"}), 0);
+
+ASSERT_EQ(u"MyComboBox", comboBox->get_Name());
+ASSERT_EQ(FieldType::FieldFormDropDown, comboBox->get_Type());
+ASSERT_EQ(u"Apple", comboBox->get_Result());
+
+// The form field will appear in the form of a "select" html tag.
+doc->Save(ArtifactsDir + u"FormFields.Create.html");
+```
+
+
+Shows how to formatting the entire [FormField](./), including the field value. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Form fields.docx");
+
+SharedPtr<FormField> formField = doc->get_Range()->get_FormFields()->idx_get(0);
+formField->get_Font()->set_Bold(true);
+formField->get_Font()->set_Size(24);
+formField->get_Font()->set_Color(System::Drawing::Color::get_Red());
+
+formField->set_Result(u"Aspose.FormField");
+
+doc = DocumentHelper::SaveOpen(doc);
+
+SharedPtr<Run> formFieldRun = doc->get_FirstSection()->get_Body()->get_FirstParagraph()->get_Runs()->idx_get(1);
+
+ASSERT_EQ(u"Aspose.FormField", formFieldRun->get_Text());
+ASPOSE_ASSERT_EQ(true, formFieldRun->get_Font()->get_Bold());
+ASPOSE_ASSERT_EQ(24, formFieldRun->get_Font()->get_Size());
+ASSERT_EQ(System::Drawing::Color::get_Red().ToArgb(), formFieldRun->get_Font()->get_Color().ToArgb());
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/imagesaveoptions/
 
 Allows to specify additional options when rendering document pages or shapes to images.
 
+```cpp
+class ImageSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -104,3 +109,96 @@ Allows to specify additional options when rendering document pages or shapes to 
 | [set_UseGdiEmfRenderer](./set_usegdiemfrenderer/)(bool) | Setter for [Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer](./get_usegdiemfrenderer/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
 | [set_VerticalResolution](./set_verticalresolution/)(float) | Setter for [Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution](./get_verticalresolution/). |
+
+## Examples
+
+
+
+
+Renders a page of a Word document into an image with transparent or colored background. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->set_Name(u"Times New Roman");
+builder->get_Font()->set_Size(24);
+builder->Writeln(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
+
+builder->InsertImage(ImageDir + u"Logo.jpg");
+
+// Create an "ImageSaveOptions" object which we can pass to the document's "Save" method
+// to modify the way in which that method renders the document into an image.
+auto imgOptions = MakeObject<ImageSaveOptions>(SaveFormat::Png);
+
+// Set the "PaperColor" property to a transparent color to apply a transparent
+// background to the document while rendering it to an image.
+imgOptions->set_PaperColor(System::Drawing::Color::get_Transparent());
+
+doc->Save(ArtifactsDir + u"ImageSaveOptions.PaperColor.Transparent.png", imgOptions);
+
+// Set the "PaperColor" property to an opaque color to apply that color
+// as the background of the document as we render it to an image.
+imgOptions->set_PaperColor(System::Drawing::Color::get_LightCoral());
+
+doc->Save(ArtifactsDir + u"ImageSaveOptions.PaperColor.LightCoral.png", imgOptions);
+```
+
+
+Shows how to configure compression while saving a document as a JPEG. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+builder->InsertImage(ImageDir + u"Logo.jpg");
+
+// Create an "ImageSaveOptions" object which we can pass to the document's "Save" method
+// to modify the way in which that method renders the document into an image.
+auto imageOptions = MakeObject<ImageSaveOptions>(SaveFormat::Jpeg);
+
+// Set the "JpegQuality" property to "10" to use stronger compression when rendering the document.
+// This will reduce the file size of the document, but the image will display more prominent compression artifacts.
+imageOptions->set_JpegQuality(10);
+
+doc->Save(ArtifactsDir + u"ImageSaveOptions.JpegQuality.HighCompression.jpg", imageOptions);
+
+ASSERT_GE(20000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOptions.JpegQuality.HighCompression.jpg")->get_Length());
+
+// Set the "JpegQuality" property to "100" to use weaker compression when rending the document.
+// This will improve the quality of the image at the cost of an increased file size.
+imageOptions->set_JpegQuality(100);
+
+doc->Save(ArtifactsDir + u"ImageSaveOptions.JpegQuality.HighQuality.jpg", imageOptions);
+
+ASSERT_LT(60000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOptions.JpegQuality.HighQuality.jpg")->get_Length());
+```
+
+
+Shows how to specify a resolution while rendering a document to PNG. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->set_Name(u"Times New Roman");
+builder->get_Font()->set_Size(24);
+builder->Writeln(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
+
+builder->InsertImage(ImageDir + u"Logo.jpg");
+
+// Create an "ImageSaveOptions" object which we can pass to the document's "Save" method
+// to modify the way in which that method renders the document into an image.
+auto options = MakeObject<ImageSaveOptions>(SaveFormat::Png);
+
+// Set the "Resolution" property to "72" to render the document in 72dpi.
+options->set_Resolution(72.0f);
+
+doc->Save(ArtifactsDir + u"ImageSaveOptions.Resolution.72dpi.png", options);
+
+ASSERT_GE(120000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOptions.Resolution.72dpi.png")->get_Length());
+
+// Set the "Resolution" property to "300" to render the document in 300dpi.
+options->set_Resolution(300.0f);
+
+doc->Save(ArtifactsDir + u"ImageSaveOptions.Resolution.300dpi.png", options);
+
+ASSERT_LT(700000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOptions.Resolution.300dpi.png")->get_Length());
+```
+

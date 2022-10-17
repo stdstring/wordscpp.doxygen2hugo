@@ -11,6 +11,11 @@ url: /cpp/aspose.words/tabstop/
 
 Represents a single custom tab stop. The **TabStop** object is a member of the [TabStopCollection](./tabstopcollection/) collection.
 
+```cpp
+class TabStop : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -25,3 +30,35 @@ Represents a single custom tab stop. The **TabStop** object is a member of the [
 | [set_Leader](./set_leader/)(Aspose::Words::TabLeader) | Setter for [Aspose::Words::TabStop::get_Leader](./get_leader/). |
 | [TabStop](./tabstop/)(double) | Initializes a new instance of this class. |
 | [TabStop](./tabstop/)(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) | Initializes a new instance of this class. |
+
+Normally, a tab stop specifies a position where a tab stop exists. But because tab stops can be inherited from parent styles, it might be needed for the child object to define explicitly that there is no tab stop at a given position. To clear an inherited tab stop at a given position, create a **TabStop** object and set [Alignment](./get_alignment/) to **TabAlignment.Clear**.
+
+For more information see [TabStopCollection](../tabstopcollection/).
+
+## Examples
+
+
+
+
+Shows how to modify the position of the right tab stop in TOC related paragraphs. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Table of contents.docx");
+
+// Iterate through all paragraphs with TOC result-based styles; this is any style between TOC and TOC9.
+for (const auto& para : System::IterateOver(doc->GetChildNodes(NodeType::Paragraph, true)->LINQ_OfType<SharedPtr<Paragraph>>()))
+{
+    if (para->get_ParagraphFormat()->get_Style()->get_StyleIdentifier() >= StyleIdentifier::Toc1 &&
+        para->get_ParagraphFormat()->get_Style()->get_StyleIdentifier() <= StyleIdentifier::Toc9)
+    {
+        // Get the first tab used in this paragraph, this should be the tab used to align the page numbers.
+        SharedPtr<TabStop> tab = para->get_ParagraphFormat()->get_TabStops()->idx_get(0);
+
+        // Replace the first default tab, stop with a custom tab stop.
+        para->get_ParagraphFormat()->get_TabStops()->RemoveByPosition(tab->get_Position());
+        para->get_ParagraphFormat()->get_TabStops()->Add(tab->get_Position() - 50, tab->get_Alignment(), tab->get_Leader());
+    }
+}
+
+doc->Save(ArtifactsDir + u"Styles.ChangeTocsTabStops.docx");
+```
+

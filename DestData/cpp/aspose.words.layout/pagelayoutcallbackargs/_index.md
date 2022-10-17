@@ -11,6 +11,11 @@ url: /cpp/aspose.words.layout/pagelayoutcallbackargs/
 
 An argument passed into [Notify()](./ipagelayoutcallback/notify/)
 
+```cpp
+class PageLayoutCallbackArgs : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

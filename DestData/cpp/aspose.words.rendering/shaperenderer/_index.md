@@ -11,6 +11,11 @@ url: /cpp/aspose.words.rendering/shaperenderer/
 
 Provides methods to render an individual [Shape](../aspose.words.drawing/shape/) or [GroupShape](../aspose.words.drawing/groupshape/) to a raster or vector image or to a Graphics object.
 
+```cpp
+class ShapeRenderer : public Aspose::Words::Rendering::NodeRendererBase
+```
+
+
 ## Methods
 
 | Method | Description |

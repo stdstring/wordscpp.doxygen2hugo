@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldfootnoteref/
 
 Implements the FOOTNOTEREF field.
 
+```cpp
+class FieldFootnoteRef : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,37 @@ Implements the FOOTNOTEREF field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to cross-reference footnotes with the FOOTNOTEREF field. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->StartBookmark(u"CrossRefBookmark");
+builder->Write(u"Hello world!");
+builder->InsertFootnote(FootnoteType::Footnote, u"Cross referenced footnote.");
+builder->EndBookmark(u"CrossRefBookmark");
+builder->InsertParagraph();
+
+// Insert a FOOTNOTEREF field, which lets us reference a footnote more than once while re-using the same footnote marker.
+builder->Write(u"CrossReference: ");
+auto field = System::DynamicCast<FieldFootnoteRef>(builder->InsertField(FieldType::FieldFootnoteRef, true));
+
+// Reference the bookmark that we have created with the FOOTNOTEREF field. That bookmark contains a footnote marker
+// belonging to the footnote we inserted. The field will display that footnote marker.
+builder->MoveTo(field->get_Separator());
+builder->Write(u"CrossRefBookmark");
+
+ASSERT_EQ(u" FOOTNOTEREF CrossRefBookmark", field->GetFieldCode());
+
+doc->UpdateFields();
+
+// This field works only in older versions of Microsoft Word.
+doc->Save(ArtifactsDir + u"Field.FOOTNOTEREF.doc");
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.loading/htmlloadoptions/
 
 Allows to specify additional options when loading HTML document into a [Document](../aspose.words/document/) object.
 
+```cpp
+class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
+```
+
+
 ## Methods
 
 | Method | Description |

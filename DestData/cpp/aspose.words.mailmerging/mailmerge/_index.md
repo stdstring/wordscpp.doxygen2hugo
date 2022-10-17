@@ -11,6 +11,11 @@ url: /cpp/aspose.words.mailmerging/mailmerge/
 
 Represents the mail merge functionality.
 
+```cpp
+class MailMerge : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -56,3 +61,17 @@ Represents the mail merge functionality.
 | [set_UnconditionalMergeFieldsAndRegions](./set_unconditionalmergefieldsandregions/)(bool) | Sets a value indicating whether merge fields and merge regions are merged regardless of the parent IF field's condition. |
 | [set_UseNonMergeFields](./set_usenonmergefields/)(bool) | Setter for [Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields](./get_usenonmergefields/). |
 | [set_UseWholeParagraphAsRegion](./set_usewholeparagraphasregion/)(bool) | Sets a value indicating whether whole paragraph with TableStart or TableEnd field or particular range between TableStart and TableEnd fields should be included into mail merge region. |
+
+For mail merge operation to work, the document should contain Word MERGEFIELD and optionally NEXT fields. During mail merge operation, merge fields in the document are replaced with values from your data source.
+
+There are two distinct ways to use mail merge: with mail merge regions and without.
+
+The simplest mail merge is without regions and it is very similar to how mail merge works in Word. Use **Execute** methods to merge information from some data source such as **DataTable**, **DataSet** or an array of objects into your document. The **MailMerge** object processes all records of the data source and copies and appends content of the whole document for each record.
+
+Note that when **MailMerge** object encounters a NEXT field, it selects next record in the data source and continues merging without copying any content.
+
+Use **ExecuteWithRegions** methods to merge information into a document with mail merge regions defined. You can use as data sources for this operation.
+
+You need to use mail merge regions if you want to dynamically grow portions inside the document. Without mail merge regions whole document will be repeated for every record of the data source.
+
+

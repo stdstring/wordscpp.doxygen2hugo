@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldbidioutline/
 
 Implements the BIDIOUTLINE field.
 
+```cpp
+class FieldBidiOutline : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,39 @@ Implements the BIDIOUTLINE field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to create right-to-left language-compatible lists with BIDIOUTLINE fields. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// The BIDIOUTLINE field numbers paragraphs like the AUTONUM/LISTNUM fields,
+// but is only visible when a right-to-left editing language is enabled, such as Hebrew or Arabic.
+// The following field will display ".1", the RTL equivalent of list number "1.".
+auto field = System::DynamicCast<FieldBidiOutline>(builder->InsertField(FieldType::FieldBidiOutline, true));
+builder->Writeln(u"שלום");
+
+ASSERT_EQ(u" BIDIOUTLINE ", field->GetFieldCode());
+
+// Add two more BIDIOUTLINE fields, which will display ".2" and ".3".
+builder->InsertField(FieldType::FieldBidiOutline, true);
+builder->Writeln(u"שלום");
+builder->InsertField(FieldType::FieldBidiOutline, true);
+builder->Writeln(u"שלום");
+
+// Set the horizontal text alignment for every paragraph in the document to RTL.
+for (const auto& para : System::IterateOver<Paragraph>(doc->GetChildNodes(NodeType::Paragraph, true)))
+{
+    para->get_ParagraphFormat()->set_Bidi(true);
+}
+
+// If we enable a right-to-left editing language in Microsoft Word, our fields will display numbers.
+// Otherwise, they will display "###".
+doc->Save(ArtifactsDir + u"Field.BIDIOUTLINE.docx");
+```
+

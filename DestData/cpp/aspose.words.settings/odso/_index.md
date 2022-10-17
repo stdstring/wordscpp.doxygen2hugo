@@ -11,6 +11,11 @@ url: /cpp/aspose.words.settings/odso/
 
 Specifies the Office Data Source Object (ODSO) settings for a mail merge data source.
 
+```cpp
+class Odso : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -33,3 +38,11 @@ Specifies the Office Data Source Object (ODSO) settings for a mail merge data so
 | [set_RecipientDatas](./set_recipientdatas/)(const System::SharedPtr\<Aspose::Words::Settings::OdsoRecipientDataCollection\>\&) | Sets a collection of objects that specify inclusion/exclusion of individual records in the mail merge. This object is never null. |
 | [set_TableName](./set_tablename/)(const System::String\&) | Specifies the particular set of data that a source shall be connected to within an external data source. The default value is an empty string. |
 | [set_UdlConnectString](./set_udlconnectstring/)(const System::String\&) | Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string. |
+
+ODSO seems to be the "new" way the newer Microsoft Word versions prefer to use when specifying certain types of data sources for a mail merge document. ODSO probably first appeared in Microsoft Word 2000.
+
+The use of ODSO is poorly documented and the best way to learn how to use the properties of this object is to create a document with a desired data source manually in Microsoft Word and then open that document using Aspose.Words and examine the properties of the [MailMergeSettings](../../aspose.words/document/get_mailmergesettings/) and [Odso](../mailmergesettings/get_odso/) objects. This is a good approach to take if you want to learn how to programmatically configure a data source, for example.
+
+You do not normally need to create objects of this class directly because ODSO settings are always available via the [Odso](../mailmergesettings/get_odso/) property.
+
+

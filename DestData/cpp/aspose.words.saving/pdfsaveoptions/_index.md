@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/
 
 Can be used to specify additional options when saving a document into the **Pdf** format.
 
+```cpp
+class PdfSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -128,3 +133,103 @@ Can be used to specify additional options when saving a document into the **Pdf*
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
 | [set_ZoomBehavior](./set_zoombehavior/)(Aspose::Words::Saving::PdfZoomBehavior) | Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ZoomBehavior](./get_zoombehavior/). |
 | [set_ZoomFactor](./set_zoomfactor/)(int32_t) | Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ZoomFactor](./get_zoomfactor/). |
+
+## Examples
+
+
+
+
+Shows how to convert a whole document to PDF with three levels in the document outline. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// Insert headings of levels 1 to 5.
+builder->get_ParagraphFormat()->set_StyleIdentifier(StyleIdentifier::Heading1);
+
+ASSERT_TRUE(builder->get_ParagraphFormat()->get_IsHeading());
+
+builder->Writeln(u"Heading 1");
+
+builder->get_ParagraphFormat()->set_StyleIdentifier(StyleIdentifier::Heading2);
+
+builder->Writeln(u"Heading 1.1");
+builder->Writeln(u"Heading 1.2");
+
+builder->get_ParagraphFormat()->set_StyleIdentifier(StyleIdentifier::Heading3);
+
+builder->Writeln(u"Heading 1.2.1");
+builder->Writeln(u"Heading 1.2.2");
+
+builder->get_ParagraphFormat()->set_StyleIdentifier(StyleIdentifier::Heading4);
+
+builder->Writeln(u"Heading 1.2.2.1");
+builder->Writeln(u"Heading 1.2.2.2");
+
+builder->get_ParagraphFormat()->set_StyleIdentifier(StyleIdentifier::Heading5);
+
+builder->Writeln(u"Heading 1.2.2.2.1");
+builder->Writeln(u"Heading 1.2.2.2.2");
+
+// Create a "PdfSaveOptions" object that we can pass to the document's "Save" method
+// to modify how that method converts the document to .PDF.
+auto options = MakeObject<PdfSaveOptions>();
+
+// The output PDF document will contain an outline, which is a table of contents that lists headings in the document body.
+// Clicking on an entry in this outline will take us to the location of its respective heading.
+// Set the "HeadingsOutlineLevels" property to "4" to exclude all headings whose levels are above 4 from the outline.
+options->get_OutlineOptions()->set_HeadingsOutlineLevels(4);
+
+// If an outline entry has subsequent entries of a higher level inbetween itself and the next entry of the same or lower level,
+// an arrow will appear to the left of the entry. This entry is the "owner" of several such "sub-entries".
+// In our document, the outline entries from the 5th heading level are sub-entries of the second 4th level outline entry,
+// the 4th and 5th heading level entries are sub-entries of the second 3rd level entry, and so on.
+// In the outline, we can click on the arrow of the "owner" entry to collapse/expand all its sub-entries.
+// Set the "ExpandedOutlineLevels" property to "2" to automatically expand all heading level 2 and lower outline entries
+// and collapse all level and 3 and higher entries when we open the document.
+options->get_OutlineOptions()->set_ExpandedOutlineLevels(2);
+
+doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
+```
+
+
+Shows how to apply text compression when saving a document to PDF. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+for (int i = 0; i < 100; i++)
+{
+    builder->Writeln(String(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, ") +
+                     u"sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
+}
+
+// Create a "PdfSaveOptions" object that we can pass to the document's "Save" method
+// to modify how that method converts the document to .PDF.
+auto options = MakeObject<PdfSaveOptions>();
+
+// Set the "TextCompression" property to "PdfTextCompression.None" to not apply any
+// compression to text when we save the document to PDF.
+// Set the "TextCompression" property to "PdfTextCompression.Flate" to apply ZIP compression
+// to text when we save the document to PDF. The larger the document, the bigger the impact that this will have.
+options->set_TextCompression(pdfTextCompression);
+
+doc->Save(ArtifactsDir + u"PdfSaveOptions.TextCompression.pdf", options);
+```
+
+
+Shows how to change image color with saving options property. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Images.docx");
+
+// Create a "PdfSaveOptions" object that we can pass to the document's "Save" method
+// to modify how that method converts the document to .PDF.
+// Set the "ColorMode" property to "Grayscale" to render all images from the document in black and white.
+// The size of the output document may be larger with this setting.
+// Set the "ColorMode" property to "Normal" to render all images in color.
+auto pdfSaveOptions = MakeObject<PdfSaveOptions>();
+pdfSaveOptions->set_ColorMode(colorMode);
+
+doc->Save(ArtifactsDir + u"PdfSaveOptions.ColorRendering.pdf", pdfSaveOptions);
+```
+

@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldlastsavedby/
 
 Implements the LASTSAVEDBY field.
 
+```cpp
+class FieldLastSavedBy : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,27 @@ Implements the LASTSAVEDBY field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use the LASTSAVEDBY field. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+// If we create a document in Microsoft Word, it will have the user's name in the "Last saved by" built-in property.
+// If we make a document programmatically, this property will be null, and we will need to assign a value.
+doc->get_BuiltInDocumentProperties()->set_LastSavedBy(u"John Doe");
+
+// We can use the LASTSAVEDBY field to display the value of this property in the document.
+auto field = System::DynamicCast<FieldLastSavedBy>(builder->InsertField(FieldType::FieldLastSavedBy, true));
+
+ASSERT_EQ(u" LASTSAVEDBY ", field->GetFieldCode());
+ASSERT_EQ(u"John Doe", field->get_Result());
+
+doc->Save(ArtifactsDir + u"Field.LASTSAVEDBY.docx");
+```
+

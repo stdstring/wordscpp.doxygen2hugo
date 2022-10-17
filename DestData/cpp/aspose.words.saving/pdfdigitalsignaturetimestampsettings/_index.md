@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/
 
 Contains settings of the digital signature timestamp.
 
+```cpp
+class PdfDigitalSignatureTimestampSettings : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

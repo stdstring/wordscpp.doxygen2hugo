@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldformula/
 
 Implements the = (formula) field.
 
+```cpp
+class FieldFormula : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,30 @@ Implements the = (formula) field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to use the formula field to display the result of an equation. 
+```cpp
+auto doc = MakeObject<Document>();
+
+// Use a field builder to construct a mathematical equation,
+// then create a formula field to display the equation's result in the document.
+auto fieldBuilder = MakeObject<FieldBuilder>(FieldType::FieldFormula);
+fieldBuilder->AddArgument(2);
+fieldBuilder->AddArgument(u"*");
+fieldBuilder->AddArgument(5);
+
+auto field = System::DynamicCast<FieldFormula>(fieldBuilder->BuildAndInsert(doc->get_FirstSection()->get_Body()->get_FirstParagraph()));
+field->Update();
+
+ASSERT_EQ(u" = 2 * 5 ", field->GetFieldCode());
+ASSERT_EQ(u"10", field->get_Result());
+
+doc->UpdateFields();
+doc->Save(ArtifactsDir + u"Field.FORMULA.docx");
+```
+

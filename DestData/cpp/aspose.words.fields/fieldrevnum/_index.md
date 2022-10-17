@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldrevnum/
 
 Implements the REVNUM field.
 
+```cpp
+class FieldRevNum : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,32 @@ Implements the REVNUM field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to work with REVNUM fields. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Write(u"Current revision #");
+
+// Insert a REVNUM field, which displays the document's current revision number property.
+auto field = System::DynamicCast<FieldRevNum>(builder->InsertField(FieldType::FieldRevisionNum, true));
+
+ASSERT_EQ(u" REVNUM ", field->GetFieldCode());
+ASSERT_EQ(u"1", field->get_Result());
+ASSERT_EQ(1, doc->get_BuiltInDocumentProperties()->get_RevisionNumber());
+
+// This property counts how many times a document has been saved in Microsoft Word,
+// and is unrelated to tracked revisions. We can find it by right clicking the document in Windows Explorer
+// via Properties -> Details. We can update this property manually.
+doc->get_BuiltInDocumentProperties()->set_RevisionNumber(doc->get_BuiltInDocumentProperties()->get_RevisionNumber() + 1);
+field->Update();
+
+ASSERT_EQ(u"2", field->get_Result());
+```
+

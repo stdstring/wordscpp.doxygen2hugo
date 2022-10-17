@@ -11,6 +11,11 @@ url: /cpp/aspose.words.saving/idocumentsavingcallback/
 
 Implement this interface if you want to have your own custom method called during saving a document.
 
+```cpp
+class IDocumentSavingCallback : public System::Object
+```
+
+
 ## Methods
 
 | Method | Description |

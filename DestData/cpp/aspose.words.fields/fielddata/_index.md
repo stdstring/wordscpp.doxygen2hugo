@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fielddata/
 
 Implements the DATA field.
 
+```cpp
+class FieldData : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -37,3 +42,18 @@ Implements the DATA field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to insert a DATA field into a document. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+auto field = System::DynamicCast<FieldData>(builder->InsertField(FieldType::FieldData, true));
+ASSERT_EQ(u" DATA ", field->GetFieldCode());
+```
+

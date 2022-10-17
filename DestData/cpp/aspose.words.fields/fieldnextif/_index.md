@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldnextif/
 
 Implements the NEXTIF field.
 
+```cpp
+class FieldNextIf : public Aspose::Words::Fields::Field
+```
+
+
 ## Methods
 
 | Method | Description |

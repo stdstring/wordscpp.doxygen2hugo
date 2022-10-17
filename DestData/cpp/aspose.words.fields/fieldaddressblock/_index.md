@@ -11,6 +11,11 @@ url: /cpp/aspose.words.fields/fieldaddressblock/
 
 Implements the ADDRESSBLOCK field.
 
+```cpp
+class FieldAddressBlock : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFormattableMergeField
+```
+
+
 ## Methods
 
 | Method | Description |
@@ -49,3 +54,20 @@ Implements the ADDRESSBLOCK field.
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+
+## Examples
+
+
+
+
+Shows how to get mail merge field names used by a field. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Field sample - ADDRESSBLOCK.docx");
+
+ArrayPtr<String> addressFieldsExpect = MakeArray<String>(
+    {u"Company", u"First Name", u"Middle Name", u"Last Name", u"Suffix", u"Address 1", u"City", u"State", u"Country or Region", u"Postal Code"});
+
+auto addressBlockField = System::DynamicCast<FieldAddressBlock>(doc->get_Range()->get_Fields()->idx_get(0));
+ArrayPtr<String> addressBlockFieldNames = addressBlockField->GetFieldNames();
+```
+

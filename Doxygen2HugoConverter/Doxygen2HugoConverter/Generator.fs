@@ -233,6 +233,30 @@ let generateClassKind (classDef: Defs.ClassDef) =
     | Defs.ClassKind.Class -> "class"
     | Defs.ClassKind.Interface -> "interface"
 
+let generateBaseClass (baseClassDef: Defs.BaseClassDef) =
+    let result = new StringBuilder()
+    baseClassDef.Access |> result.Append |> ignore
+    " "|> result.Append |> ignore
+    if baseClassDef.Virtual then
+        "virtual "|> result.Append |> ignore
+    baseClassDef.QualifiedName.Replace("< ", "<").Replace(" >", ">") |> result.Append |> ignore
+    result.ToString()
+
+let generateClassDefinition (classDef: Defs.ClassDef) (dest: StringBuilder) =
+    "```cpp" |> dest.AppendLine |> ignore
+    if classDef.TemplateParameters.IsEmpty |> not then
+        "template<" |> dest.Append |> ignore
+        classDef.TemplateParameters |> String.concat "," |> dest.Append |> ignore
+        "> " |> dest.Append |> ignore
+    "class " |> dest.Append |> ignore
+    classDef.Name |> dest.Append |> ignore
+    if classDef.BaseClasses.IsEmpty |> not then
+        " : " |> dest.Append |> ignore
+        classDef.BaseClasses |> Seq.map generateBaseClass |> String.concat ", " |> dest.Append |> ignore
+    dest.AppendLine() |> ignore
+    "```" |> dest.AppendLine |> ignore
+    dest.AppendLine() |> ignore
+
 let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     let folderName = classDef.Name |> Utils.createSimpleFolderName
     let classDirectory = Path.Combine(context.Directory, folderName)
@@ -243,10 +267,17 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     let descriptionForTitle = classDef.BriefDescription |> GenerateBriefDescriptionForTitle
     builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
     GenerateHeader (sprintf $"{classDef.Name} {classDef |> generateClassKind}") 2 |> builder.Append |> ignore
-    let briefDescription = classDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
+    let briefDescription = classDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
+    builder |> generateClassDefinition classDef
+    builder.AppendLine() |> ignore
+    if classDef.DetailedDescription.TemplateParameters.IsEmpty |> not then
+        builder |> generateTableHeader ["Parameter"; "Description"]
+        for templateParameter in classDef.DetailedDescription.TemplateParameters do
+            let parameterDescription = templateParameter.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+            sprintf $"| {templateParameter.Name} | {parameterDescription} |" |> builder.AppendLine |> ignore
     classDef.DirectMethods |> Seq.iter (fun def -> def |> generateForDirectMethod currentContext)
     if classDef.MemberRefs.IsEmpty |> not then
         GenerateHeader "Methods" 2 |> builder.Append |> ignore
@@ -254,6 +285,8 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
         classDef.MemberRefs
                 |> Seq.choose (fun memberRef -> memberRef |> createMemberEntry currentContext)
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
+    let detailedDescription = classDef.DetailedDescription.Description |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
+    detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())
     {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink classDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
