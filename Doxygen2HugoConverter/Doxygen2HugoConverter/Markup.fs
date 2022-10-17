@@ -158,7 +158,8 @@ let parseTemplateParameters (source: XElement) =
 
 let parseClassDetailedDescription (source: XElement) =
     let detailedDescription = source |> parseDetailedDescription
-    let templateParameters = match source.Descendants("parameterlist") |> Seq.toList with
+    let parametersSource = source.Descendants("parameterlist") |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "templateparam")
+    let templateParameters = match parametersSource |> Seq.toList with
                              | [] -> []
                              | [parameterListElement] -> parameterListElement |> parseTemplateParameters
                              | _ -> failwith "Several sections \"parameterlist\" found"
