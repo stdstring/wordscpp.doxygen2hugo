@@ -72,7 +72,7 @@ type ClassDef = {Id: string;
 type NamespaceDef = {Id: string;
                      Name: string;
                      BriefDescription: SimpleMarkupDef list;
-                     DetailedDescription: string;
+                     DetailedDescription: DetailedDescription;
                      Enums: EnumDef list;
                      Typedefs: TypedefDef list;
                      Classes: ClassDef list
@@ -371,7 +371,7 @@ let parseNamespaceDef (config: Config.ConfigData) (context: Context) (source: XE
     let id = "id" |> Utils.getAttributeValue source
     let name = "compoundname" |> Utils.getElementValue source
     let briefDescription = source |> parseBriefDescription
-    let detailedDescription = ""
+    let detailedDescription = source |> parseEnumDetailedDescription
     let currentContext = {context with ParentId = id; ParentName = name}
     let classDefSources = source.Elements("innerclass") |> Seq.choose (fun refEntry -> refEntry |> parseClassRefEntry currentContext config) |> Seq.concat |> Seq.toList
     let classDefs = classDefSources |> List.filter (fun def -> def.Kind = ClassKind.Class)
