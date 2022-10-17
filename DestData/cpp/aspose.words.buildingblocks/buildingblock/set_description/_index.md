@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/set_description/
 
 Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Description](./get_description/).
 
+```cpp
+void Aspose::Words::BuildingBlocks::BuildingBlock::set_Description(const System::String &value)
+```
+

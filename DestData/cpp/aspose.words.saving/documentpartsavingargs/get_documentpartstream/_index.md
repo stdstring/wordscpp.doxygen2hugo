@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/get_documentpartstream/
 
 Allows to specify the stream where the document part will be saved to.
 
+```cpp
+System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream() const
+```
+

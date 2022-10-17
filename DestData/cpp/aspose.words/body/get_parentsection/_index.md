@@ -11,3 +11,7 @@ url: /cpp/aspose.words/body/get_parentsection/
 
 Gets the parent section of this story.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::Body::get_ParentSection()
+```
+

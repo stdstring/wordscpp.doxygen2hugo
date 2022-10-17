@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_namespacemappings/
 
 Gets or sets the namespace mappings for XPath queries.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings() override
+```
+

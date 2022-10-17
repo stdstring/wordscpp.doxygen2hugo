@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/clearshading/
 
 Removes all shading on the table.
 
+```cpp
+void Aspose::Words::Tables::Table::ClearShading()
+```
+

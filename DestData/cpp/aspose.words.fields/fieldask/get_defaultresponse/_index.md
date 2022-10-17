@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldask/get_defaultresponse/
 
 Gets default user response (initial value contained in the prompt window).
 
+```cpp
+System::String Aspose::Words::Fields::FieldAsk::get_DefaultResponse()
+```
+

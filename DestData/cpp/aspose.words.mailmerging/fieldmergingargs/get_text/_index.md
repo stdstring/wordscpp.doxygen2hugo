@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargs/get_text/
 
 Gets or sets the text that will be inserted into the document for the current merge field.
 
+```cpp
+System::String Aspose::Words::MailMerging::FieldMergingArgs::get_Text() const
+```
+

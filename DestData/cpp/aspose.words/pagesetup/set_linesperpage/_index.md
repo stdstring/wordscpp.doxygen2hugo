@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_linesperpage/
 
 Setter for [Aspose::Words::PageSetup::get_LinesPerPage](./get_linesperpage/).
 
+```cpp
+void Aspose::Words::PageSetup::set_LinesPerPage(int32_t value)
+```
+

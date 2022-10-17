@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/isfontconfigavailable/
 
 Check if fontconfig utility is available or not.
 
+```cpp
+bool Aspose::Words::Fonts::FontConfigSubstitutionRule::IsFontConfigAvailable()
+```
+

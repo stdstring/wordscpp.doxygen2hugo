@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/get_xmlmapping/
 
 Gets an object that represents the mapping of this structured document tag to XML data in a custom XML part of the current document.
 
+```cpp
+virtual System::SharedPtr<Aspose::Words::Markup::XmlMapping> Aspose::Words::Markup::IStructuredDocumentTag::get_XmlMapping()=0
+```
+

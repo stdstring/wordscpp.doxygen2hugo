@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldta/get_shortcitation/
 
 Gets or sets the short citation for the entry.
 
+```cpp
+System::String Aspose::Words::Fields::FieldTA::get_ShortCitation()
+```
+

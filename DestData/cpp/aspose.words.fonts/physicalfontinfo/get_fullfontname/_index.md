@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/physicalfontinfo/get_fullfontname/
 
 Full name of the font.
 
+```cpp
+System::String Aspose::Words::Fonts::PhysicalFontInfo::get_FullFontName() const
+```
+

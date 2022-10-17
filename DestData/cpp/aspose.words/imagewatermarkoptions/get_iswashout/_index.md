@@ -11,3 +11,7 @@ url: /cpp/aspose.words/imagewatermarkoptions/get_iswashout/
 
 Gets or sets a boolean value which is responsible for washout effect of the watermark. The default value is True.
 
+```cpp
+bool Aspose::Words::ImageWatermarkOptions::get_IsWashout() const
+```
+

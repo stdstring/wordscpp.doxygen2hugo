@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_verticalalignment/
 
 Setter for [Aspose::Words::PageSetup::get_VerticalAlignment](./get_verticalalignment/).
 
+```cpp
+void Aspose::Words::PageSetup::set_VerticalAlignment(Aspose::Words::PageVerticalAlignment value)
+```
+

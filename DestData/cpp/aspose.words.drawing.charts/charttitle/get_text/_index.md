@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/charttitle/get_text/
 
 Gets or sets the text of the chart title. If null or empty value is specified, auto generated title will be shown.
 
+```cpp
+System::String Aspose::Words::Drawing::Charts::ChartTitle::get_Text()
+```
+

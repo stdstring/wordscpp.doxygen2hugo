@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddde/get_insertasunicode/
 
 Gets or sets whether to insert the linked object as Unicode text.
 
+```cpp
+bool Aspose::Words::Fields::FieldDde::get_InsertAsUnicode()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/idx_get/
 
 Retrieves a node at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeCollection::idx_get(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/get_suppressnondelimiters/
 
 Gets or sets whether to suppress non-delimiter characters.
 
+```cpp
+bool Aspose::Words::Fields::FieldRef::get_SuppressNonDelimiters()
+```
+

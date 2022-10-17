@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldif/get_separator/
 
 Gets the node that represents the field separator. Can be null.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldSeparator> Aspose::Words::Fields::FieldIf::get_Separator() override
+```
+

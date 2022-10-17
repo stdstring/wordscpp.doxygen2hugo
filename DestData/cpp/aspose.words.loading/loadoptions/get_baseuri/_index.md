@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_baseuri/
 
 Gets or sets the string that will be used to resolve relative URIs found in the document into absolute URIs when required. Can be null or empty string. Default is null.
 
+```cpp
+System::String Aspose::Words::Loading::LoadOptions::get_BaseUri() const
+```
+

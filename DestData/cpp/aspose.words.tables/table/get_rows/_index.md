@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_rows/
 
 Provides typed access to the rows of the table.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::RowCollection> Aspose::Words::Tables::Table::get_Rows()
+```
+

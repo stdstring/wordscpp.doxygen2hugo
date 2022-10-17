@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Settings::OdsoFieldMapDataCollection::cbegin() const noexcept
+```
+

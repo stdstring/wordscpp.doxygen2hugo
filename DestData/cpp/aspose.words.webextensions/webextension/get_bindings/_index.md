@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextension/get_bindings/
 
 Specifies a list of web extension bindings.
 
+```cpp
+System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionBindingCollection> Aspose::Words::WebExtensions::WebExtension::get_Bindings() const
+```
+

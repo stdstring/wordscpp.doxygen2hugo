@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_outlinelevel/
 
 Specifies the outline level of the paragraph in the document.
 
+```cpp
+Aspose::Words::OutlineLevel Aspose::Words::ParagraphFormat::get_OutlineLevel()
+```
+

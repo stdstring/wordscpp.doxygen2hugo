@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/get_startnumber/
 
 Specifies the starting number or character for the first automatically numbered footnotes.
 
+```cpp
+int32_t Aspose::Words::Notes::FootnoteOptions::get_StartNumber() override
+```
+

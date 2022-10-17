@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/get_connection/
 
 Gets a connection to the data.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDatabase::get_Connection()
+```
+

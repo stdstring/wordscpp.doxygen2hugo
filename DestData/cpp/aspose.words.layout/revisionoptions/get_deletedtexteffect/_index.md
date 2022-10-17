@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_deletedtexteffect/
 
 Allows to specify the effect to be applied to the deleted content **Deletion**. Default value is **StrikeThrough**
 
+```cpp
+Aspose::Words::Layout::RevisionTextEffect Aspose::Words::Layout::RevisionOptions::get_DeletedTextEffect()
+```
+

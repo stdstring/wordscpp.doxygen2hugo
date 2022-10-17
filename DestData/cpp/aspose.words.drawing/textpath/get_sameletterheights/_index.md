@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_sameletterheights/
 
 Determines whether all letters will be the same height regardless of initial case.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_SameLetterHeights()
+```
+

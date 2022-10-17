@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/outlineoptions/outlineoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::OutlineOptions::OutlineOptions()
+```
+

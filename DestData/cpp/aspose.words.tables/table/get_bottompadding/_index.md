@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_bottompadding/
 
 Gets or sets the amount of space (in points) to add below the contents of cells.
 
+```cpp
+double Aspose::Words::Tables::Table::get_BottomPadding()
+```
+

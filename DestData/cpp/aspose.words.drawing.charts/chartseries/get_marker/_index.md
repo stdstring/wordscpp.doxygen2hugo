@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_marker/
 
 Specifies a data marker. Marker is automatically created when requested.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartMarker> Aspose::Words::Drawing::Charts::ChartSeries::get_Marker() override
+```
+

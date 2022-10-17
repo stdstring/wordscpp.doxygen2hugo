@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/set_fontfamily/
 
 Setter for [Aspose::Words::TextWatermarkOptions::get_FontFamily](./get_fontfamily/).
 
+```cpp
+void Aspose::Words::TextWatermarkOptions::set_FontFamily(const System::String &value)
+```
+

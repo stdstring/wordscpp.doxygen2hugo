@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_textoutputmode/
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_TextOutputMode](./get_textoutputmode/).
 
+```cpp
+void Aspose::Words::Saving::SvgSaveOptions::set_TextOutputMode(Aspose::Words::Saving::SvgTextOutputMode value)
+```
+

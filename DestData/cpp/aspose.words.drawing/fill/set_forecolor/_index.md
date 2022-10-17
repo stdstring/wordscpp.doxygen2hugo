@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_forecolor/
 
 Setter for [Aspose::Words::Drawing::Fill::get_ForeColor](./get_forecolor/).
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_ForeColor(System::Drawing::Color value)
+```
+

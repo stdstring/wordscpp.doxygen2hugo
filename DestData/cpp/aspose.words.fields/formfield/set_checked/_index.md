@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_checked/
 
 Setter for [Aspose::Words::Fields::FormField::get_Checked](./get_checked/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_Checked(bool value)
+```
+

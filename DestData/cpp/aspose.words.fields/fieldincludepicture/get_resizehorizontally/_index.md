@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludepicture/get_resizehorizontally/
 
 Gets or sets whether to resize the picture horizontally from the source.
 
+```cpp
+bool Aspose::Words::Fields::FieldIncludePicture::get_ResizeHorizontally()
+```
+

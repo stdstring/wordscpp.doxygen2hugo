@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_sequencename/
 
 Setter for [Aspose::Words::Fields::FieldToa::get_SequenceName](./get_sequencename/).
 
+```cpp
+void Aspose::Words::Fields::FieldToa::set_SequenceName(const System::String &value)
+```
+

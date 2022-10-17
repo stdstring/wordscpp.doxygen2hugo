@@ -11,3 +11,7 @@ url: /cpp/aspose.words/sectioncollection/toarray/
 
 Copies all sections from the collection to a new array of sections.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Section>> Aspose::Words::SectionCollection::ToArray()
+```
+

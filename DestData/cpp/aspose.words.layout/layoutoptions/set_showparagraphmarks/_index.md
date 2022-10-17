@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/set_showparagraphmarks/
 
 Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks](./get_showparagraphmarks/).
 
+```cpp
+void Aspose::Words::Layout::LayoutOptions::set_ShowParagraphMarks(bool value)
+```
+

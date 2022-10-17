@@ -11,3 +11,7 @@ url: /cpp/aspose.words/shading/gethashcode/
 
 Serves as a hash function for this type.
 
+```cpp
+int32_t Aspose::Words::Shading::GetHashCode() const override
+```
+

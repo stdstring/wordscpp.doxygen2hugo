@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_firstcolumn/
 
 Gets the first column style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalStyleCollection::get_FirstColumn()
+```
+

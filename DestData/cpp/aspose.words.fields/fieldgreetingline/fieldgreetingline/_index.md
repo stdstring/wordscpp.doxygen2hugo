@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgreetingline/fieldgreetingline/
 
 
 
+```cpp
+Aspose::Words::Fields::FieldGreetingLine::FieldGreetingLine()
+```
+

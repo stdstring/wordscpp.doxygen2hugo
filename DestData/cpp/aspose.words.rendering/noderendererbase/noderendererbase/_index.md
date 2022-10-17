@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/noderendererbase/
 
 
 
+```cpp
+Aspose::Words::Rendering::NodeRendererBase::NodeRendererBase()
+```
+

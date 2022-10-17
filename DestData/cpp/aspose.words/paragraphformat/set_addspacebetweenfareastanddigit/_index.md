@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_addspacebetweenfareastanddigit/
 
 Setter for [Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndDigit](./get_addspacebetweenfareastanddigit/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_AddSpaceBetweenFarEastAndDigit(bool value)
+```
+

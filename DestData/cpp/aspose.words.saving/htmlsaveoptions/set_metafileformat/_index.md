@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_metafileformat/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat](./get_metafileformat/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_MetafileFormat(Aspose::Words::Saving::HtmlMetafileFormat value)
+```
+

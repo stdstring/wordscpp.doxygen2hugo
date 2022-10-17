@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_datapoints/
 
 Returns a collection of formatting objects for all data points in this series.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataPointCollection> Aspose::Words::Drawing::Charts::ChartSeries::get_DataPoints() const
+```
+

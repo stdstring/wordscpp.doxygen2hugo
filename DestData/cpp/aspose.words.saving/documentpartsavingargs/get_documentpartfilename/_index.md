@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/get_documentpartfilename/
 
 Gets or sets the file name (without path) where the document part will be saved to.
 
+```cpp
+System::String Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName() const
+```
+

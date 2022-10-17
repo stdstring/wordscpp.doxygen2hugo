@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_haspagenumberseparator/
 
 Gets a value indicating whether a page number separator is overridden through the field's code.
 
+```cpp
+bool Aspose::Words::Fields::FieldIndex::get_HasPageNumberSeparator()
+```
+

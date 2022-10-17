@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfootercollection/toarray/
 
 Copies all **HeaderFoorter**s from the collection to a new array of **HeaderFoorter**s.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::HeaderFooter>> Aspose::Words::HeaderFooterCollection::ToArray()
+```
+

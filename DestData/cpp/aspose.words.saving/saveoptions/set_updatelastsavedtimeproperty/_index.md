@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_updatelastsavedtimeproperty/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty](./get_updatelastsavedtimeproperty/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_UpdateLastSavedTimeProperty(bool value)
+```
+

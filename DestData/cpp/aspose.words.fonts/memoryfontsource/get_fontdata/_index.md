@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/memoryfontsource/get_fontdata/
 
 Binary font data.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Fonts::MemoryFontSource::get_FontData() const
+```
+

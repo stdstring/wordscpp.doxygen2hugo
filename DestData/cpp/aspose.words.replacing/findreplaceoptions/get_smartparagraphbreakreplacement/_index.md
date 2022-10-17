@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_smartparagraphbreakrepla
 
 Gets or sets a boolean value indicating either it is allowed to replace paragraph break when there is no next sibling paragraph. The default value is **false**.
 
+```cpp
+bool Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement() const
+```
+

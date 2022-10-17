@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_topmargin/
 
 Setter for [Aspose::Words::PageSetup::get_TopMargin](./get_topmargin/).
 
+```cpp
+void Aspose::Words::PageSetup::set_TopMargin(double value)
+```
+

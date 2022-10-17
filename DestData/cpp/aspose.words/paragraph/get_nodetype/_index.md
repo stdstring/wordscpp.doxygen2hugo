@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_nodetype/
 
 Returns **NodeType.Paragraph**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Paragraph::get_NodeType() const override
+```
+

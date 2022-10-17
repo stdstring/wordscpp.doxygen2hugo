@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/set_resourceloadingcallback/
 
 Setter for [Aspose::Words::DocumentBase::get_ResourceLoadingCallback](./get_resourceloadingcallback/).
 
+```cpp
+void Aspose::Words::DocumentBase::set_ResourceLoadingCallback(const System::SharedPtr<Aspose::Words::Loading::IResourceLoadingCallback> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_imagecolormode/
 
 Gets or sets the color mode for the generated images.
 
+```cpp
+Aspose::Words::Saving::ImageColorMode Aspose::Words::Saving::ImageSaveOptions::get_ImageColorMode() const
+```
+

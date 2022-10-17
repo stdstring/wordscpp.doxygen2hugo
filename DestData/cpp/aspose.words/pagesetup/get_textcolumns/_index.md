@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_textcolumns/
 
 Returns a collection that represents the set of text columns.
 
+```cpp
+System::SharedPtr<Aspose::Words::TextColumnCollection> Aspose::Words::PageSetup::get_TextColumns()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_fittext/
 
 If true, fits text in the cell, compressing each paragraph to the width of the cell.
 
+```cpp
+bool Aspose::Words::Tables::CellFormat::get_FitText()
+```
+

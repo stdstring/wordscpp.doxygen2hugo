@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizeenditerator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeEndIterator() override
+```
+

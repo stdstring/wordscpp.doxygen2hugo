@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/physicalfontinfo/get_fontfamilyname/
 
 Family name of the font.
 
+```cpp
+System::String Aspose::Words::Fonts::PhysicalFontInfo::get_FontFamilyName() const
+```
+

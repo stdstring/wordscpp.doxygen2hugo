@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/get_nodetype/
 
 Returns **NodeType.OfficeMath**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Math::OfficeMath::get_NodeType() const override
+```
+

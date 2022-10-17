@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_password/
 
 Timestamp server password.
 
+```cpp
+System::String Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Password() const
+```
+

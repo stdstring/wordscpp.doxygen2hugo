@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/add/
 
 Adds a bookmark to the collection.
 
+```cpp
+void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add(const System::String &name, int32_t outlineLevel)
+```
+

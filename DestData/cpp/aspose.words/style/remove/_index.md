@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/remove/
 
 Removes the specified style from the document.
 
+```cpp
+void Aspose::Words::Style::Remove()
+```
+

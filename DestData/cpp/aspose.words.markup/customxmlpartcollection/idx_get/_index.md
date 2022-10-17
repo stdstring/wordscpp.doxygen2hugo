@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/idx_get/
 
 Gets or sets an item at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::CustomXmlPartCollection::idx_get(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/textwatermarkoptions/
 
 
 
+```cpp
+Aspose::Words::TextWatermarkOptions::TextWatermarkOptions()
+```
+

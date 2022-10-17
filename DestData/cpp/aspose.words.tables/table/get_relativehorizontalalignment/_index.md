@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_relativehorizontalalignment/
 
 Gets or sets floating table relative horizontal alignment.
 
+```cpp
+Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::Tables::Table::get_RelativeHorizontalAlignment()
+```
+

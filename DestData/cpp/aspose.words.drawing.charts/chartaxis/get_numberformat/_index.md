@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_numberformat/
 
 Returns a [ChartNumberFormat](../chartnumberformat/) object that allows defining number formats for the axis.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartNumberFormat> Aspose::Words::Drawing::Charts::ChartAxis::get_NumberFormat()
+```
+

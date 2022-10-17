@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/get_defaultfont/
 
 Gets document default text formatting.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::StyleCollection::get_DefaultFont()
+```
+

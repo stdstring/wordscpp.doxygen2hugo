@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/set_bold/
 
 Setter for [Aspose::Words::DocumentBuilder::get_Bold](./get_bold/).
 
+```cpp
+void Aspose::Words::DocumentBuilder::set_Bold(bool value)
+```
+

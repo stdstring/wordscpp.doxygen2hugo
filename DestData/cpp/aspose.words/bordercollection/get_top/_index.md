@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_top/
 
 Gets the top border.
 
+```cpp
+System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::get_Top()
+```
+

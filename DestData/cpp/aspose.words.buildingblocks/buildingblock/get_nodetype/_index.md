@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_nodetype/
 
 Returns the **BuildingBlock** value.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::BuildingBlocks::BuildingBlock::get_NodeType() const override
+```
+

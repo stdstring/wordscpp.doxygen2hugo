@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_numberformat/
 
 Returns or sets the number format for the list level.
 
+```cpp
+System::String Aspose::Words::Lists::ListLevel::get_NumberFormat() const
+```
+

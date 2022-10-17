@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_resourcesfolderalias/
 
 Specifies the name of the folder used to construct image URIs written into an Html document. Default is **null**.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourcesFolderAlias() const
+```
+

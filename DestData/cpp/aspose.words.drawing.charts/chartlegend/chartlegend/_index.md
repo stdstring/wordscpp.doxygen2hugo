@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegend/chartlegend/
 
 
 
+```cpp
+Aspose::Words::Drawing::Charts::ChartLegend::ChartLegend()
+```
+

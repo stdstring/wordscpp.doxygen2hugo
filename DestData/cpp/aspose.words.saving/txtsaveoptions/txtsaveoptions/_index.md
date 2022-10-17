@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/txtsaveoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::TxtSaveOptions::TxtSaveOptions()
+```
+

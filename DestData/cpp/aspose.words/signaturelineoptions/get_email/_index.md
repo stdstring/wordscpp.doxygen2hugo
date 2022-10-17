@@ -11,3 +11,7 @@ url: /cpp/aspose.words/signaturelineoptions/get_email/
 
 Gets or sets suggested signer's e-mail address. Default value for this property is **empty string**.
 
+```cpp
+System::String Aspose::Words::SignatureLineOptions::get_Email() const
+```
+

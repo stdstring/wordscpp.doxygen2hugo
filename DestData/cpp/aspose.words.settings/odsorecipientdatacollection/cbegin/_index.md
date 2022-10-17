@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::cbegin() const noexcept
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_horizontalmerge/
 
 Specifies how the cell is merged horizontally with other cells in the row.
 
+```cpp
+Aspose::Words::Tables::CellMerge Aspose::Words::Tables::CellFormat::get_HorizontalMerge()
+```
+

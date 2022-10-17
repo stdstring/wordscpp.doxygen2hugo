@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_text/
 
 Defines the text of the text path.
 
+```cpp
+System::String Aspose::Words::Drawing::TextPath::get_Text()
+```
+

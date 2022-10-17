@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_displaytext/
 
 Whether to display barcode data (text) along with image.
 
+```cpp
+bool Aspose::Words::Fields::BarcodeParameters::get_DisplayText() const
+```
+

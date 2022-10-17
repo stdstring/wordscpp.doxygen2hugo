@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_widowcontrol/
 
 Setter for [Aspose::Words::ParagraphFormat::get_WidowControl](./get_widowcontrol/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_WidowControl(bool value)
+```
+

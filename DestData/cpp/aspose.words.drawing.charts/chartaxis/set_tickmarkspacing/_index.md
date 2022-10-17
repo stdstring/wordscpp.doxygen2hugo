@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_tickmarkspacing/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickMarkSpacing](./get_tickmarkspacing/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_TickMarkSpacing(int32_t value)
+```
+

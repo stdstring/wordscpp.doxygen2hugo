@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/removeat/
 
 Removes a list item at the specified index.
 
+```cpp
+void Aspose::Words::Markup::SdtListItemCollection::RemoveAt(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_storytype/
 
 Returns **Textbox**.
 
+```cpp
+Aspose::Words::StoryType Aspose::Words::Drawing::Shape::get_StoryType()
+```
+

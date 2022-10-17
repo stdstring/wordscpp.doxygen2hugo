@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetofield/
 
 Moves the cursor to a field in the document.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToField(const System::SharedPtr<Aspose::Words::Fields::Field> &field, bool isAfter)
+```
+

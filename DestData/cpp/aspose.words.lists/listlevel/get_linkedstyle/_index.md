@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_linkedstyle/
 
 Gets or sets the paragraph style that is linked to this list level.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::Lists::ListLevel::get_LinkedStyle()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/get_columns/
 
 Specifies the number of columns with which the footnotes area is formatted.
 
+```cpp
+int32_t Aspose::Words::Notes::FootnoteOptions::get_Columns()
+```
+

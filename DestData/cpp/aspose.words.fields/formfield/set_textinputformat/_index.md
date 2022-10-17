@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_textinputformat/
 
 Setter for [Aspose::Words::Fields::FormField::get_TextInputFormat](./get_textinputformat/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_TextInputFormat(const System::String &value)
+```
+

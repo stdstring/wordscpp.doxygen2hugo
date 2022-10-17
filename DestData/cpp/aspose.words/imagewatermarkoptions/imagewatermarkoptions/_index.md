@@ -11,3 +11,7 @@ url: /cpp/aspose.words/imagewatermarkoptions/imagewatermarkoptions/
 
 
 
+```cpp
+Aspose::Words::ImageWatermarkOptions::ImageWatermarkOptions()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_preserveincludepicturefield/
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_PreserveIncludePictureField](./get_preserveincludepicturefield/).
 
+```cpp
+void Aspose::Words::Loading::LoadOptions::set_PreserveIncludePictureField(bool value)
+```
+

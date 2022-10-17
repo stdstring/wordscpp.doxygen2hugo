@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesfolderalias/
 
 Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias](./get_resourcesfolderalias/).
 
+```cpp
+void Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolderAlias(const System::String &value)
+```
+

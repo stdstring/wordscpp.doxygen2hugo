@@ -11,3 +11,7 @@ url: /cpp/aspose.words/border/set_shadow/
 
 Setter for [Aspose::Words::Border::get_Shadow](./get_shadow/).
 
+```cpp
+void Aspose::Words::Border::set_Shadow(bool value)
+```
+

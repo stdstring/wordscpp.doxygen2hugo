@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/indexofkey/
 
 Returns the zero-based index of the specified bookmark in the collection.
 
+```cpp
+int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey(const System::String &name)
+```
+

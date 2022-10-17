@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_color/
 
 Gets or sets the border color.
 
+```cpp
+System::Drawing::Color Aspose::Words::BorderCollection::get_Color()
+```
+

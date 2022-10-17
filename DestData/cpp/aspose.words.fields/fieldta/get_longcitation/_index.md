@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldta/get_longcitation/
 
 Gets or sets the long citation for the entry.
 
+```cpp
+System::String Aspose::Words::Fields::FieldTA::get_LongCitation()
+```
+

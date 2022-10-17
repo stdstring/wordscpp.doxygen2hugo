@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/get_customunit/
 
 Gets or sets a user-defined divisor to scale display units on the value axis.
 
+```cpp
+double Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit() const
+```
+

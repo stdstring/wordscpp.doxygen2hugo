@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_font/
 
 Specifies character formatting used for the list label.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Lists::ListLevel::get_Font()
+```
+

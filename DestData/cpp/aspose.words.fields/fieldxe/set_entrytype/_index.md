@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/set_entrytype/
 
 Setter for [Aspose::Words::Fields::FieldXE::get_EntryType](./get_entrytype/).
 
+```cpp
+void Aspose::Words::Fields::FieldXE::set_EntryType(const System::String &value)
+```
+

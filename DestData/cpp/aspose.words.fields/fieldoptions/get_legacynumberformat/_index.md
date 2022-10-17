@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_legacynumberformat/
 
 Gets or sets the value indicating whether legacy (early than AW 13.10) number format for fields is enabled or not.
 
+```cpp
+bool Aspose::Words::Fields::FieldOptions::get_LegacyNumberFormat() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/theme/get_colors/
 
 Allows to specify the set of theme colors for the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Themes::ThemeColors> Aspose::Words::Themes::Theme::get_Colors() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_majortickmark/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MajorTickMark](./get_majortickmark/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_MajorTickMark(Aspose::Words::Drawing::Charts::AxisTickMark value)
+```
+

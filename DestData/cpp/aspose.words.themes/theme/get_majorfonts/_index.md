@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/theme/get_majorfonts/
 
 Allows to specify the set of major fonts for different languages.
 
+```cpp
+System::SharedPtr<Aspose::Words::Themes::ThemeFonts> Aspose::Words::Themes::Theme::get_MajorFonts() const
+```
+

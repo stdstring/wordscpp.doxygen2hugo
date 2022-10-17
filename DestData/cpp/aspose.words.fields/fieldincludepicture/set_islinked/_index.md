@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludepicture/set_islinked/
 
 Setter for [Aspose::Words::Fields::FieldIncludePicture::get_IsLinked](./get_islinked/).
 
+```cpp
+void Aspose::Words::Fields::FieldIncludePicture::set_IsLinked(bool value)
+```
+

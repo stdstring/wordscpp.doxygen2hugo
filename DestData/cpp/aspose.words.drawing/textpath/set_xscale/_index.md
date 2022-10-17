@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_xscale/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_XScale](./get_xscale/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_XScale(bool value)
+```
+

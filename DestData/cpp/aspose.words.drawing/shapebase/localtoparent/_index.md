@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/localtoparent/
 
 Converts a value from the local coordinate space into the coordinate space of the parent shape.
 
+```cpp
+System::Drawing::PointF Aspose::Words::Drawing::ShapeBase::LocalToParent(System::Drawing::PointF value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/get_footnotetype/
 
 Returns a value that specifies whether this is a footnote or endnote.
 
+```cpp
+Aspose::Words::Notes::FootnoteType Aspose::Words::Notes::Footnote::get_FootnoteType() const
+```
+

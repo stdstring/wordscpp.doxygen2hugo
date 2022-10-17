@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_rectangle/
 
 Returns the bounding rectangle of the current entity relative to the page top left corner (in points).
 
+```cpp
+System::Drawing::RectangleF Aspose::Words::Layout::LayoutEnumerator::get_Rectangle()
+```
+

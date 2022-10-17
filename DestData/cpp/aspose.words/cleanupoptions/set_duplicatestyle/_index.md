@@ -11,3 +11,7 @@ url: /cpp/aspose.words/cleanupoptions/set_duplicatestyle/
 
 Setter for [Aspose::Words::CleanupOptions::get_DuplicateStyle](./get_duplicatestyle/).
 
+```cpp
+void Aspose::Words::CleanupOptions::set_DuplicateStyle(bool value)
+```
+

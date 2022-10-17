@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldprintdate/set_uselunarcalendar/
 
 Setter for [Aspose::Words::Fields::FieldPrintDate::get_UseLunarCalendar](./get_uselunarcalendar/).
 
+```cpp
+void Aspose::Words::Fields::FieldPrintDate::set_UseLunarCalendar(bool value)
+```
+

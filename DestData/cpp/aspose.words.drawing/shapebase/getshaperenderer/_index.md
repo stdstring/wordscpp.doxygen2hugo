@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/getshaperenderer/
 
 Creates and returns an object that can be used to render this shape into an image.
 
+```cpp
+System::SharedPtr<Aspose::Words::Rendering::ShapeRenderer> Aspose::Words::Drawing::ShapeBase::GetShapeRenderer()
+```
+

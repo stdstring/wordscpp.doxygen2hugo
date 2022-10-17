@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_swapinsideandoutsidefor
 
 
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning()
+```
+

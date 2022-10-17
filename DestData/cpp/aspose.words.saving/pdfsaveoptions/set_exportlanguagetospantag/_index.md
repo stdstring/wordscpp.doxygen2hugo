@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_exportlanguagetospantag/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ExportLanguageToSpanTag](./get_exportlanguagetospantag/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_ExportLanguageToSpanTag(bool value)
+```
+

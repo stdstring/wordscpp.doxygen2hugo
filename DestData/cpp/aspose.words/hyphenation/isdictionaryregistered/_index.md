@@ -11,3 +11,7 @@ url: /cpp/aspose.words/hyphenation/isdictionaryregistered/
 
 Returns False if for the specified language there is no dictionary registered or if registered is Null dictionary, True otherwise.
 
+```cpp
+static bool Aspose::Words::Hyphenation::IsDictionaryRegistered(const System::String &language)
+```
+

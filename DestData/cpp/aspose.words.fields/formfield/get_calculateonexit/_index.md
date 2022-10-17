@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_calculateonexit/
 
 True if references to the specified form field are automatically updated whenever the field is exited.
 
+```cpp
+bool Aspose::Words::Fields::FormField::get_CalculateOnExit()
+```
+

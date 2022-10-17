@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_absolutehorizontaldistance/
 
 Setter for [Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance](./get_absolutehorizontaldistance/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_AbsoluteHorizontalDistance(double value)
+```
+

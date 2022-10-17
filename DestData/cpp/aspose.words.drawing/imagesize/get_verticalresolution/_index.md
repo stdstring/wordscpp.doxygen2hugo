@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagesize/get_verticalresolution/
 
 Gets the vertical resolution in DPI.
 
+```cpp
+double Aspose::Words::Drawing::ImageSize::get_VerticalResolution() const
+```
+

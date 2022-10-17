@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_differentfirstpageheaderfooter/
 
 Setter for [Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter](./get_differentfirstpageheaderfooter/).
 
+```cpp
+void Aspose::Words::PageSetup::set_DifferentFirstPageHeaderFooter(bool value)
+```
+

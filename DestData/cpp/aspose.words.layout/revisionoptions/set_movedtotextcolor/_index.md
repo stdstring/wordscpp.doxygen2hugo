@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_movedtotextcolor/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_MovedToTextColor](./get_movedtotextcolor/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_MovedToTextColor(Aspose::Words::Layout::RevisionColor value)
+```
+

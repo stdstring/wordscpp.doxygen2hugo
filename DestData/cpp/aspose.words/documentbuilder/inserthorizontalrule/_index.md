@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/inserthorizontalrule/
 
 Inserts a horizontal rule shape into the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertHorizontalRule()
+```
+

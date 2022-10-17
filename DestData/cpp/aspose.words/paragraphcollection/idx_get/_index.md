@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphcollection/idx_get/
 
 Retrieves a **Paragraph** at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::ParagraphCollection::idx_get(int32_t index)
+```
+

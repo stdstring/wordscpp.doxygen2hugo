@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/getenumerator/
 
 Returns an enumerator that can iterate through a collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<T>> Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::GetEnumerator() override
+```
+

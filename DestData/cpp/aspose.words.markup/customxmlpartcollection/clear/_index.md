@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlPartCollection::Clear()
+```
+

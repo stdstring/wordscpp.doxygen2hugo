@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/appendchild/
 
 Adds the specified node to the end of the stdContent range.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::StructuredDocumentTagRangeStart::AppendChild(const System::SharedPtr<Aspose::Words::Node> &newChild)
+```
+

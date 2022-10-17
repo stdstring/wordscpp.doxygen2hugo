@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/loadformattoextension/
 
 Converts a load format enumerated value into a file extension. The returned extension is a lower-case string with a leading dot.
 
+```cpp
+static System::String Aspose::Words::FileFormatUtil::LoadFormatToExtension(Aspose::Words::LoadFormat loadFormat)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/userinformation/get_address/
 
 Gets or sets the user's postal address.
 
+```cpp
+System::String Aspose::Words::Fields::UserInformation::get_Address() const
+```
+

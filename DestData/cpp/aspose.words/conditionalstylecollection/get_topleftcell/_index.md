@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_topleftcell/
 
 Gets the top left cell style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalStyleCollection::get_TopLeftCell()
+```
+

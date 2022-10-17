@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::cbegin() const noexcept
+```
+

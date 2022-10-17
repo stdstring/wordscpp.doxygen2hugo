@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/folderfontsource/get_type/
 
 Returns the type of the font source.
 
+```cpp
+Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::FolderFontSource::get_Type() override
+```
+

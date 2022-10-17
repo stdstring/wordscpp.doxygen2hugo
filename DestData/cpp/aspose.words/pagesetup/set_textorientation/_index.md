@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_textorientation/
 
 Setter for [Aspose::Words::PageSetup::get_TextOrientation](./get_textorientation/).
 
+```cpp
+void Aspose::Words::PageSetup::set_TextOrientation(Aspose::Words::TextOrientation value)
+```
+

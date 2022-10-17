@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/set_odso/
 
 Sets the object that specifies the Office Data Source Object (ODSO) settings.
 
+```cpp
+void Aspose::Words::Settings::MailMergeSettings::set_Odso(const System::SharedPtr<Aspose::Words::Settings::Odso> &value)
+```
+

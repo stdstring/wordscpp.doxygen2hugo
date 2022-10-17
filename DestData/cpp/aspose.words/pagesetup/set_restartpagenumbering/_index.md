@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_restartpagenumbering/
 
 Setter for [Aspose::Words::PageSetup::get_RestartPageNumbering](./get_restartpagenumbering/).
 
+```cpp
+void Aspose::Words::PageSetup::set_RestartPageNumbering(bool value)
+```
+

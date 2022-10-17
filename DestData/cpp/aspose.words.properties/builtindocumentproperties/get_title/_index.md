@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_title/
 
 Gets or sets the title of the document.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Title()
+```
+

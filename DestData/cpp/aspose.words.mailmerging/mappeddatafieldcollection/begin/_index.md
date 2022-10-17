@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
 ---
-## MappedDataFieldCollection.begin method
+## MappedDataFieldCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
----
-## MappedDataFieldCollection.begin method
+```cpp
+const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() const noexcept
+```
+
+## MappedDataFieldCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() noexcept
+```
 

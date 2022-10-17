@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_childnodes/
 
 Gets all nodes between this range start node and the range end node.
 
+```cpp
+System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_ChildNodes()
+```
+

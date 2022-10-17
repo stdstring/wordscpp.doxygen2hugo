@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_backgroundcolor/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor](./get_backgroundcolor/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_BackgroundColor(const System::String &value)
+```
+

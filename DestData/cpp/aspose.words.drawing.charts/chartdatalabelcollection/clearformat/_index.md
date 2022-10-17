@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/clearformat/
 
 Clears format of all [ChartDataLabel](../chartdatalabel/) in this collection.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataLabelCollection::ClearFormat()
+```
+

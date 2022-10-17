@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_toppadding/
 
 Setter for [Aspose::Words::Tables::Table::get_TopPadding](./get_toppadding/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_TopPadding(double value)
+```
+

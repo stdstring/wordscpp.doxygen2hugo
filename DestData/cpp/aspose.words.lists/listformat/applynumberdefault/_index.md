@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/applynumberdefault/
 
 Starts a new default numbered list and applies it to the paragraph.
 
+```cpp
+void Aspose::Words::Lists::ListFormat::ApplyNumberDefault()
+```
+

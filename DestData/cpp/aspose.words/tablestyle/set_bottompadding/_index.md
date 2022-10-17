@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/set_bottompadding/
 
 Setter for [Aspose::Words::TableStyle::get_BottomPadding](./get_bottompadding/).
 
+```cpp
+void Aspose::Words::TableStyle::set_BottomPadding(double value)
+```
+

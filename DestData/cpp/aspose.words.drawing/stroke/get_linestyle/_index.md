@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_linestyle/
 
 Defines the line style of the stroke.
 
+```cpp
+Aspose::Words::Drawing::ShapeLineStyle Aspose::Words::Drawing::Stroke::get_LineStyle()
+```
+

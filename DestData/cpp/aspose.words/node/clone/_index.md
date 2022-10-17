@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/clone/
 
 Creates a duplicate of the node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::Clone(bool isCloneChildren)
+```
+

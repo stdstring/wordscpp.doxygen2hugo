@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_suppressauthor/
 
 Gets or sets whether the author information is suppressed from the citation.
 
+```cpp
+bool Aspose::Words::Fields::FieldCitation::get_SuppressAuthor()
+```
+

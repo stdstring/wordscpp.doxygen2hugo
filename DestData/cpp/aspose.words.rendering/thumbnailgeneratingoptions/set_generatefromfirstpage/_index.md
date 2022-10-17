@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/set_generatefromfirs
 
 Setter for [Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage](./get_generatefromfirstpage/).
 
+```cpp
+void Aspose::Words::Rendering::ThumbnailGeneratingOptions::set_GenerateFromFirstPage(bool value)
+```
+

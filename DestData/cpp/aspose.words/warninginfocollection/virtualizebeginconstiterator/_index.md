@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/virtualizebeginconstiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeBeginConstIterator() const override
+```
+

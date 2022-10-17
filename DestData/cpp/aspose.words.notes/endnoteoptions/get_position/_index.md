@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/endnoteoptions/get_position/
 
 Specifies the endnotes position.
 
+```cpp
+Aspose::Words::Notes::EndnotePosition Aspose::Words::Notes::EndnoteOptions::get_Position()
+```
+

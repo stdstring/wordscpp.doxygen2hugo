@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/idx_get/
 
 Returns [ChartDataPoint](../chartdatapoint/) for the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataPoint> Aspose::Words::Drawing::Charts::ChartDataPointCollection::idx_get(int32_t index)
+```
+

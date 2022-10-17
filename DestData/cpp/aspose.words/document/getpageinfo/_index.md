@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/getpageinfo/
 
 Gets the page size, orientation and other information about a page that might be useful for printing or rendering.
 
+```cpp
+System::SharedPtr<Aspose::Words::Rendering::PageInfo> Aspose::Words::Document::GetPageInfo(int32_t pageIndex)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_fulldate/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_FullDate](./get_fulldate/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_FullDate(System::DateTime value)
+```
+

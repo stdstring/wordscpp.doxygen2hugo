@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_italic/
 
 Indicates whether the current font is italic.
 
+```cpp
+bool Aspose::Words::Saving::FontSavingArgs::get_Italic() const
+```
+

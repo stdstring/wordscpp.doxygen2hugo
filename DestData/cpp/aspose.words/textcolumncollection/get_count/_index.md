@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/get_count/
 
 Gets the number of columns in the section of a document.
 
+```cpp
+int32_t Aspose::Words::TextColumnCollection::get_Count()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_direction/
 
 Selects direction for replace. Default value is **Forward**.
 
+```cpp
+Aspose::Words::Replacing::FindReplaceDirection Aspose::Words::Replacing::FindReplaceOptions::get_Direction() const
+```
+

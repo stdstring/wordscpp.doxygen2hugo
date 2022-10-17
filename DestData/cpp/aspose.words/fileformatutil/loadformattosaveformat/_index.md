@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/loadformattosaveformat/
 
 Converts a [LoadFormat](../loadformat/) value to a [SaveFormat](../saveformat/) value if possible.
 
+```cpp
+static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::LoadFormatToSaveFormat(Aspose::Words::LoadFormat loadFormat)
+```
+

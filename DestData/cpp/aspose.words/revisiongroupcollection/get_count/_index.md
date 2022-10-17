@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisiongroupcollection/get_count/
 
 Returns the number of revision groups in the collection.
 
+```cpp
+int32_t Aspose::Words::RevisionGroupCollection::get_Count()
+```
+

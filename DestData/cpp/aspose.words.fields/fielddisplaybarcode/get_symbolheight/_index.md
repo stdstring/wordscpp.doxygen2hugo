@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_symbolheight/
 
 Gets or sets the height of the symbol. The units are in TWIPS (1/1440 inch).
 
+```cpp
+System::String Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight()
+```
+

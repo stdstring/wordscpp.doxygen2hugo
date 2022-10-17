@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_themecolor/
 
 Gets or sets the theme color in the applied color scheme that is associated with this [Font](./) object.
 
+```cpp
+Aspose::Words::Themes::ThemeColor Aspose::Words::Font::get_ThemeColor()
+```
+

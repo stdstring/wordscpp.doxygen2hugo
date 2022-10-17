@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelalignment/
 
 Gets or sets text alignment of axis tick labels.
 
+```cpp
+Aspose::Words::ParagraphAlignment Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment()
+```
+

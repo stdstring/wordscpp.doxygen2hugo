@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_granularity/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_Granularity](./get_granularity/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_Granularity(Aspose::Words::Comparing::Granularity value)
+```
+

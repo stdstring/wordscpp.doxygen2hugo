@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_totaleditingtime
 
 Gets or sets the total editing time in minutes.
 
+```cpp
+int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_TotalEditingTime()
+```
+

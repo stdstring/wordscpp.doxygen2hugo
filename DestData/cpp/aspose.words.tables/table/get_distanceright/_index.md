@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_distanceright/
 
 Gets distance between table right and the surrounding text, in points.
 
+```cpp
+double Aspose::Words::Tables::Table::get_DistanceRight()
+```
+

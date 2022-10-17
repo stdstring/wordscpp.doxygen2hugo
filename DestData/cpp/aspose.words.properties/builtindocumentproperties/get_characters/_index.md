@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_characters/
 
 Represents an estimate of the number of characters in the document.
 
+```cpp
+int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Characters()
+```
+

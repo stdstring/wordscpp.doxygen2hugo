@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_isinline/
 
 A quick way to determine if this shape is positioned inline with text.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_IsInline()
+```
+

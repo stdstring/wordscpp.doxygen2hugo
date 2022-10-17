@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_left/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_Left](./get_left/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_Left(double value)
+```
+

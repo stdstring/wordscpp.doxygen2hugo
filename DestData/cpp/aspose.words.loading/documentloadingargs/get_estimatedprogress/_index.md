@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/documentloadingargs/get_estimatedprogress/
 
 Overall estimated percentage progress.
 
+```cpp
+double Aspose::Words::Loading::DocumentLoadingArgs::get_EstimatedProgress() const
+```
+

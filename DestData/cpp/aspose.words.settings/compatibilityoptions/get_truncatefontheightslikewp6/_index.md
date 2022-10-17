@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_truncatefontheightslike
 
 Emulate WordPerfect 6.x [Font](../../aspose.words/font/) Height Calculation.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_TruncateFontHeightsLikeWP6()
+```
+

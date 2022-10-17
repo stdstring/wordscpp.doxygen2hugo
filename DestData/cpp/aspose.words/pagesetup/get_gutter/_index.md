@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_gutter/
 
 Gets or sets the amount of extra space added to the margin for document binding.
 
+```cpp
+double Aspose::Words::PageSetup::get_Gutter()
+```
+

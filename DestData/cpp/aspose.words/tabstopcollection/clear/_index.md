@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstopcollection/clear/
 
 Deletes all tab stop positions.
 
+```cpp
+void Aspose::Words::TabStopCollection::Clear()
+```
+

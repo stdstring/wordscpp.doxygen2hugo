@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/get_pagerangebookmarkname/
 
 Gets or sets the name of the bookmark that marks a range of pages that is inserted as the entry's page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName()
+```
+

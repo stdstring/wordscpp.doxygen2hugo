@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_isendofheaderfooter/
 
 True if this paragraph is the last paragraph in the **HeaderFooter** (main text story) of a **Section**; false otherwise.
 
+```cpp
+bool Aspose::Words::Paragraph::get_IsEndOfHeaderFooter()
+```
+

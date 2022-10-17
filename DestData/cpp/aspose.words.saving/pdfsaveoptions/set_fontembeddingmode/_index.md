@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_fontembeddingmode/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_FontEmbeddingMode](./get_fontembeddingmode/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_FontEmbeddingMode(Aspose::Words::Saving::PdfFontEmbeddingMode value)
+```
+

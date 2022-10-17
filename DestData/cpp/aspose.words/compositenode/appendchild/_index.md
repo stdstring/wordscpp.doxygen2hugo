@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/appendchild/
 
 Adds the specified node to the end of the list of child nodes for this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::AppendChild(const System::SharedPtr<Aspose::Words::Node> &newChild)
+```
+

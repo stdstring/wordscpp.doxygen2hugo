@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstop/remove/
 
 Removes the gradient stop from the parent [GradientStopCollection](../gradientstopcollection/).
 
+```cpp
+void Aspose::Words::Drawing::GradientStop::Remove()
+```
+

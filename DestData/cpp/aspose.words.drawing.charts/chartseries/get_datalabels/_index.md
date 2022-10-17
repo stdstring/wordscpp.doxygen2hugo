@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_datalabels/
 
 Specifies the settings for the data labels for the entire series.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataLabelCollection> Aspose::Words::Drawing::Charts::ChartSeries::get_DataLabels()
+```
+

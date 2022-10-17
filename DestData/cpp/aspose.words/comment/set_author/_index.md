@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/set_author/
 
 Setter for [Aspose::Words::Comment::get_Author](./get_author/).
 
+```cpp
+void Aspose::Words::Comment::set_Author(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/outlineoptions/get_defaultbookmarksoutlinelevel/
 
 Specifies the default level in the document outline at which to display Word bookmarks.
 
+```cpp
+int32_t Aspose::Words::Saving::OutlineOptions::get_DefaultBookmarksOutlineLevel() const
+```
+

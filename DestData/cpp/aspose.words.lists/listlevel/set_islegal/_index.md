@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/set_islegal/
 
 Setter for [Aspose::Words::Lists::ListLevel::get_IsLegal](./get_islegal/).
 
+```cpp
+void Aspose::Words::Lists::ListLevel::set_IsLegal(bool value)
+```
+

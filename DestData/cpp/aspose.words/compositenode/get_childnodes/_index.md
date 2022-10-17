@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/get_childnodes/
 
 Gets all immediate child nodes of this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::CompositeNode::get_ChildNodes()
+```
+

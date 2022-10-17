@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_type/
 
 Returns the form field type.
 
+```cpp
+Aspose::Words::Fields::FieldType Aspose::Words::Fields::FormField::get_Type()
+```
+

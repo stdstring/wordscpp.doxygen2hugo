@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/get_activerecord/
 
 Specifies the one-based index of the record from the data source which shall be displayed in Microsoft Word. The default value is 1.
 
+```cpp
+int32_t Aspose::Words::Settings::MailMergeSettings::get_ActiveRecord() const
+```
+

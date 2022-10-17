@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/add/
 
 Adds an object to the end of this collection.
 
+```cpp
+int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::Add(const System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_shading/
 
 Returns a [Shading](../shading/) object that refers to the shading formatting for the font.
 
+```cpp
+System::SharedPtr<Aspose::Words::Shading> Aspose::Words::Font::get_Shading()
+```
+

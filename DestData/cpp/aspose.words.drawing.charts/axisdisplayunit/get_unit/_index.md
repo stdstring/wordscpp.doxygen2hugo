@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/get_unit/
 
 Gets or sets the scaling value of the display units as one of the predefined values.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisBuiltInUnit Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_Unit() const
+```
+

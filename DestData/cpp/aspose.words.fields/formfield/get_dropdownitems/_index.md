@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_dropdownitems/
 
 Provides access to the items of a dropdown form field.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::DropDownItemCollection> Aspose::Words::Fields::FormField::get_DropDownItems()
+```
+

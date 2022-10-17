@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/olepackage/set_filename/
 
 Setter for [Aspose::Words::Drawing::OlePackage::get_FileName](./get_filename/).
 
+```cpp
+void Aspose::Words::Drawing::OlePackage::set_FileName(System::String value)
+```
+

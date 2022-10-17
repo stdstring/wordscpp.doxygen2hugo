@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitrowend/
 
 Called when enumeration of a table row has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitRowEnd(System::SharedPtr<Aspose::Words::Tables::Row> row)
+```
+

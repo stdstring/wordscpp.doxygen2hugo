@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/warning/
 
 Implements the [IWarningCallback](../iwarningcallback/) interface. Adds a warning to this collection.
 
+```cpp
+void Aspose::Words::WarningInfoCollection::Warning(System::SharedPtr<Aspose::Words::WarningInfo> info) override
+```
+

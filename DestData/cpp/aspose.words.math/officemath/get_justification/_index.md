@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/get_justification/
 
 Gets/sets Office [Math](../) justification.
 
+```cpp
+Aspose::Words::Math::OfficeMathJustification Aspose::Words::Math::OfficeMath::get_Justification()
+```
+

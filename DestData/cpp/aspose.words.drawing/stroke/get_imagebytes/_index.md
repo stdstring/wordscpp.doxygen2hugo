@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_imagebytes/
 
 Defines the image for a stroke image or pattern fill.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Drawing::Stroke::get_ImageBytes()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shadowformat/clear/
 
 Clears shadow format.
 
+```cpp
+void Aspose::Words::Drawing::ShadowFormat::Clear()
+```
+

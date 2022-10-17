@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/get_screentip/
 
 Gets or sets the ScreenTip text for the hyperlink.
 
+```cpp
+System::String Aspose::Words::Fields::FieldHyperlink::get_ScreenTip()
+```
+

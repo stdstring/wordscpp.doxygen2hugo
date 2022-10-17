@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/set_isitalic/
 
 Setter for [Aspose::Words::Fields::FieldXE::get_IsItalic](./get_isitalic/).
 
+```cpp
+void Aspose::Words::Fields::FieldXE::set_IsItalic(bool value)
+```
+

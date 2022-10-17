@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/clearformat/
 
 Clears format of this data label. The properties are set to the default values defined in the parent data label collection.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataLabel::ClearFormat()
+```
+

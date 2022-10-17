@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_styleidentifier/
 
 Gets or sets the locale independent style identifier of the character style applied to this formatting.
 
+```cpp
+Aspose::Words::StyleIdentifier Aspose::Words::Font::get_StyleIdentifier()
+```
+

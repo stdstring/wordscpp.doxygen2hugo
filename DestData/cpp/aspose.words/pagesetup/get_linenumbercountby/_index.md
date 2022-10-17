@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_linenumbercountby/
 
 Returns or sets the numeric increment for line numbers.
 
+```cpp
+int32_t Aspose::Words::PageSetup::get_LineNumberCountBy()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/get_listid/
 
 Gets the unique identifier of the list.
 
+```cpp
+int32_t Aspose::Words::Lists::List::get_ListId() const
+```
+

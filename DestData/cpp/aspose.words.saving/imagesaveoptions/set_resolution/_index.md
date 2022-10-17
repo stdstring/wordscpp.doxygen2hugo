@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_resolution/
 
 Sets both horizontal and vertical resolution for the generated images, in dots per inch.
 
+```cpp
+void Aspose::Words::Saving::ImageSaveOptions::set_Resolution(float value)
+```
+

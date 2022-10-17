@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkcollection/get_count/
 
 Returns the number of bookmarks in the collection.
 
+```cpp
+int32_t Aspose::Words::BookmarkCollection::get_Count()
+```
+

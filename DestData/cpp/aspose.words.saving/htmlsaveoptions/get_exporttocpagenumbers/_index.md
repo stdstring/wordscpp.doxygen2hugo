@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exporttocpagenumbers/
 
 Specifies whether to write page numbers to table of contents when saving HTML, MHTML and EPUB. Default value is **false**.
 
+```cpp
+bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportTocPageNumbers() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_imagesfolder/
 
 Specifies the physical folder where images are saved when exporting a document to HTML format. Default is an empty string.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder() const
+```
+

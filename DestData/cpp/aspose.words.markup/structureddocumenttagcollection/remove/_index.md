@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/remove/
 
 Removes the structured document tag with the specified identifier.
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagCollection::Remove(int32_t id)
+```
+

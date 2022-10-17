@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdata/clone/
 
 Returns a deep clone of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData> Aspose::Words::Settings::OdsoFieldMapData::Clone()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_useansikerningpairs/
 
 Use ANSI Kerning Pairs from [Fonts](../../aspose.words.fonts/).
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_UseAnsiKerningPairs()
+```
+

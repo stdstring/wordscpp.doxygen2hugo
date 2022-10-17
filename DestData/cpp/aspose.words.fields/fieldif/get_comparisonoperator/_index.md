@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldif/get_comparisonoperator/
 
 Gets or sets the comparison operator.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIf::get_ComparisonOperator()
+```
+

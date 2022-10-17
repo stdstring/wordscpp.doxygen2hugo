@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_texturealignment/
 
 Setter for [Aspose::Words::Drawing::Fill::get_TextureAlignment](./get_texturealignment/).
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_TextureAlignment(Aspose::Words::Drawing::TextureAlignment value)
+```
+

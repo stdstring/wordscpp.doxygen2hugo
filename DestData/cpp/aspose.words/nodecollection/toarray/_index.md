@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/toarray/
 
 Copies all nodes from the collection to a new array of nodes.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Node>> Aspose::Words::NodeCollection::ToArray()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcestream/
 
 Allows to specify the stream where the resource will be saved to.
 
+```cpp
+System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream() const
+```
+

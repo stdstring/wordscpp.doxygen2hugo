@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/set_charset/
 
 Setter for [Aspose::Words::Fonts::FontInfo::get_Charset](./get_charset/).
 
+```cpp
+void Aspose::Words::Fonts::FontInfo::set_Charset(int32_t value)
+```
+

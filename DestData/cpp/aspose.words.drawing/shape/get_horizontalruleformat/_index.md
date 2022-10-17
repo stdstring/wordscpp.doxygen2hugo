@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_horizontalruleformat/
 
 Provides access to the properties of the horizontal rule shape. For a shape that is not a horizontal rule, returns null.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::HorizontalRuleFormat> Aspose::Words::Drawing::Shape::get_HorizontalRuleFormat()
+```
+

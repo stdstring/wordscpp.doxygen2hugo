@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/set_linewidth/
 
 Setter for [Aspose::Words::BorderCollection::get_LineWidth](./get_linewidth/).
 
+```cpp
+void Aspose::Words::BorderCollection::set_LineWidth(double value)
+```
+

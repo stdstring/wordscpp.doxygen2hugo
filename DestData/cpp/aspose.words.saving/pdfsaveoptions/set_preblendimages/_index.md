@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_preblendimages/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages](./get_preblendimages/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_PreblendImages(bool value)
+```
+

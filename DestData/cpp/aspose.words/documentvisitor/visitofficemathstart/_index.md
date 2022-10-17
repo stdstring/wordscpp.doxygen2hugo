@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitofficemathstart/
 
 Called when enumeration of a Office [Math](../../aspose.words.math/) object has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitOfficeMathStart(System::SharedPtr<Aspose::Words::Math::OfficeMath> officeMath)
+```
+

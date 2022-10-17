@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/set_strokecolor/
 
 Setter for [Aspose::Words::Drawing::Shape::get_StrokeColor](./get_strokecolor/).
 
+```cpp
+void Aspose::Words::Drawing::Shape::set_StrokeColor(System::Drawing::Color value)
+```
+

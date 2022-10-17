@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_sizeinpoints/
 
 Gets the size of the shape in points.
 
+```cpp
+System::Drawing::SizeF Aspose::Words::Drawing::ShapeBase::get_SizeInPoints()
+```
+

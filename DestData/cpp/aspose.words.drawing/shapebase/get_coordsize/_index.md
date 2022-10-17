@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_coordsize/
 
 The width and height of the coordinate space inside the containing block of this shape.
 
+```cpp
+System::Drawing::Size Aspose::Words::Drawing::ShapeBase::get_CoordSize()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/get_type/
 
 Gets the data type of the property.
 
+```cpp
+Aspose::Words::Properties::PropertyType Aspose::Words::Properties::DocumentProperty::get_Type() const
+```
+

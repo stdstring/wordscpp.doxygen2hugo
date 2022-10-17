@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportformfields/
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportFormFields](./get_exportformfields/).
 
+```cpp
+void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportFormFields(bool value)
+```
+

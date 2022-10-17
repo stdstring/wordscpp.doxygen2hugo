@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_zorder/
 
 Determines the display order of overlapping shapes.
 
+```cpp
+int32_t Aspose::Words::Drawing::ShapeBase::get_ZOrder()
+```
+

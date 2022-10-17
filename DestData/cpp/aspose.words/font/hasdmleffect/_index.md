@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/hasdmleffect/
 
 Checks if particular DrawingML text effect is applied.
 
+```cpp
+bool Aspose::Words::Font::HasDmlEffect(Aspose::Words::TextDmlEffect dmlEffectType)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerange/get_editablerangestart/
 
 Gets the node that represents the start of the editable range.
 
+```cpp
+System::SharedPtr<Aspose::Words::EditableRangeStart> Aspose::Words::EditableRange::get_EditableRangeStart() const
+```
+

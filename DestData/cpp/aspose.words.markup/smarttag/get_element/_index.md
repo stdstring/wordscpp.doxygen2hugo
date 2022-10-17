@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/smarttag/get_element/
 
 Specifies the name of the smart tag within the document.
 
+```cpp
+System::String Aspose::Words::Markup::SmartTag::get_Element() const
+```
+

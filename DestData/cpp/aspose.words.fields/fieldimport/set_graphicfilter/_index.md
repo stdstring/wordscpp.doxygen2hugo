@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldimport/set_graphicfilter/
 
 Setter for [Aspose::Words::Fields::FieldImport::get_GraphicFilter](./get_graphicfilter/).
 
+```cpp
+void Aspose::Words::Fields::FieldImport::set_GraphicFilter(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_hangingpunctuation/
 
 Setter for [Aspose::Words::ParagraphFormat::get_HangingPunctuation](./get_hangingpunctuation/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_HangingPunctuation(bool value)
+```
+

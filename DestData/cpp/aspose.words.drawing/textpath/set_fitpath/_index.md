@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_fitpath/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_FitPath](./get_fitpath/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_FitPath(bool value)
+```
+

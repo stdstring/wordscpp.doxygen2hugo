@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/set_isunicode/
 
 Setter for [Aspose::Words::Fields::FieldSymbol::get_IsUnicode](./get_isunicode/).
 
+```cpp
+void Aspose::Words::Fields::FieldSymbol::set_IsUnicode(bool value)
+```
+

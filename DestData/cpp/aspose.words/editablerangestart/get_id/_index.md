@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerangestart/get_id/
 
 Specifies the identifier of the editable range.
 
+```cpp
+int32_t Aspose::Words::EditableRangeStart::get_Id() const
+```
+

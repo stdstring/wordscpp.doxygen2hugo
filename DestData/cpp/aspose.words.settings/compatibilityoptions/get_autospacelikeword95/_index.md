@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_autospacelikeword95/
 
 Emulate Word 95 Full-Width Character Spacing.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_AutoSpaceLikeWord95()
+```
+

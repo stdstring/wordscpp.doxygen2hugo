@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_contentstatus/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus](./get_contentstatus/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_ContentStatus(const System::String &value)
+```
+

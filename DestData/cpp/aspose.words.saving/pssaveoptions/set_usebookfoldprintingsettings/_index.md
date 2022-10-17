@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pssaveoptions/set_usebookfoldprintingsettings/
 
 Setter for [Aspose::Words::Saving::PsSaveOptions::get_UseBookFoldPrintingSettings](./get_usebookfoldprintingsettings/).
 
+```cpp
+void Aspose::Words::Saving::PsSaveOptions::set_UseBookFoldPrintingSettings(bool value)
+```
+

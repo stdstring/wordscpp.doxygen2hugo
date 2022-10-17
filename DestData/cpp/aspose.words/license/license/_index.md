@@ -11,3 +11,7 @@ url: /cpp/aspose.words/license/license/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::License::License()
+```
+

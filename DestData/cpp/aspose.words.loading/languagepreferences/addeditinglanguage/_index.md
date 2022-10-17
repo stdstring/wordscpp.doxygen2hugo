@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/languagepreferences/addeditinglanguage/
 
 Adds additional editing language.
 
+```cpp
+void Aspose::Words::Loading::LanguagePreferences::AddEditingLanguage(Aspose::Words::Loading::EditingLanguage language)
+```
+

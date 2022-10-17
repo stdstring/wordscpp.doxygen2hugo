@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/xmlmapping/delete/
 
 Deletes mapping of the parent structured document to XML data.
 
+```cpp
+void Aspose::Words::Markup::XmlMapping::Delete()
+```
+

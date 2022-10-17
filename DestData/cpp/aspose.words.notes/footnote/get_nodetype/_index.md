@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/get_nodetype/
 
 Returns **NodeType.Footnote**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Notes::Footnote::get_NodeType() const override
+```
+

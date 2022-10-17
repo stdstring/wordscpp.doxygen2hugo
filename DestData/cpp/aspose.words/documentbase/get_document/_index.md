@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_document/
 
 Gets the document to which this node belongs.
 
+```cpp
+System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::DocumentBase::get_Document() const override
+```
+

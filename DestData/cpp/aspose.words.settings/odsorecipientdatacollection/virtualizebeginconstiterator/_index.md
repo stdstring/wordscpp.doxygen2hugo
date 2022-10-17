@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizebeginconst
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginConstIterator() const override
+```
+

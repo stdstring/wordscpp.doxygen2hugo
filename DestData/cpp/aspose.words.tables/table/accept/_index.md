@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Tables::Table::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

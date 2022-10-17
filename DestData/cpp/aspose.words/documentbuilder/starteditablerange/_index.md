@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/starteditablerange/
 
 Marks the current position in the document as an editable range start.
 
+```cpp
+System::SharedPtr<Aspose::Words::EditableRangeStart> Aspose::Words::DocumentBuilder::StartEditableRange()
+```
+

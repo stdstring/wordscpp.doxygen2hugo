@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/txtloadoptions/
 
 Initializes a new instance of this class with default values.
 
+```cpp
+Aspose::Words::Loading::TxtLoadOptions::TxtLoadOptions()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/get_font/
 
 Gets the character formatting of the conditional style.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::ConditionalStyle::get_Font()
+```
+

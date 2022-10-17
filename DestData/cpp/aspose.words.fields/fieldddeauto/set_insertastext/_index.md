@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_insertastext/
 
 Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsText](./get_insertastext/).
 
+```cpp
+void Aspose::Words::Fields::FieldDdeAuto::set_InsertAsText(bool value)
+```
+

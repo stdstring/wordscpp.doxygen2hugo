@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/remove/
 
 Removes the node from the collection and from the document.
 
+```cpp
+void Aspose::Words::NodeCollection::Remove(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmark/get_bookmarkstart/
 
 Gets the node that represents the start of the bookmark.
 
+```cpp
+System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::Bookmark::get_BookmarkStart() const
+```
+

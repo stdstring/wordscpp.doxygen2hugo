@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/pagebreak/
 
 Page break character: "\x000c" or "\f". Note it has the same value as [SectionBreak](./sectionbreak/).
 
+```cpp
+static System::String & Aspose::Words::ControlChar::PageBreak()
+```
+

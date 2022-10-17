@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/getenumerator/
 
 Returns an enumerator object that can be used to iterate over all items in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Fonts::FontInfo>>> Aspose::Words::Fonts::FontInfoCollection::GetEnumerator() override
+```
+

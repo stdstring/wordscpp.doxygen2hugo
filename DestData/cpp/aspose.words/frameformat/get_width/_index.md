@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_width/
 
 Gets the width of the specified frame, in points.
 
+```cpp
+double Aspose::Words::FrameFormat::get_Width()
+```
+

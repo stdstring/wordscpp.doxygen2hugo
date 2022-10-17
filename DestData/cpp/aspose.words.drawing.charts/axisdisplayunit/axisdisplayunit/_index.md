@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/axisdisplayunit/
 
 
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisDisplayUnit::AxisDisplayUnit()
+```
+

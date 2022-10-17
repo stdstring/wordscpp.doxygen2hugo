@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_signtime/
 
 Gets the time the document was signed.
 
+```cpp
+System::DateTime Aspose::Words::DigitalSignatures::DigitalSignature::get_SignTime() const
+```
+

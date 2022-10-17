@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/getenumerator/
 
 Gets an enumerator object that will enumerate styles in the alphabetical order of their names.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Style>>> Aspose::Words::StyleCollection::GetEnumerator() override
+```
+

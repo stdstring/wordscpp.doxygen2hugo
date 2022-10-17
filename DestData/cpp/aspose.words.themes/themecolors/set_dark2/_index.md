@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/set_dark2/
 
 Setter for [Aspose::Words::Themes::ThemeColors::get_Dark2](./get_dark2/).
 
+```cpp
+void Aspose::Words::Themes::ThemeColors::set_Dark2(System::Drawing::Color value)
+```
+

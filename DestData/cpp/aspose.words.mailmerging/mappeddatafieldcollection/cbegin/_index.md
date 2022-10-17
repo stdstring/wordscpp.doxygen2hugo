@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::cbegin() const noexcept
+```
+

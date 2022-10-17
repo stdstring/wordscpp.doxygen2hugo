@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_headerfooterbookmarksexportmode
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_HeaderFooterBookmarksExportMode](./get_headerfooterbookmarksexportmode/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_HeaderFooterBookmarksExportMode(Aspose::Words::Saving::HeaderFooterBookmarksExportMode value)
+```
+

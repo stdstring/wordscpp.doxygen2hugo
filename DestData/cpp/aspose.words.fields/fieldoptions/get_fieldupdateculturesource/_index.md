@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdateculturesource/
 
 Specifies what culture to use to format the field result.
 
+```cpp
+Aspose::Words::Fields::FieldUpdateCultureSource Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource() const
+```
+

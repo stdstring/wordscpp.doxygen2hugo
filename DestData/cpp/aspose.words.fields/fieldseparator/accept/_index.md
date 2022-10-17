@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseparator/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Fields::FieldSeparator::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

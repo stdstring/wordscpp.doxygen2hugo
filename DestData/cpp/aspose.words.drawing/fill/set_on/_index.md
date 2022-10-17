@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_on/
 
 
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_On(bool value)
+```
+

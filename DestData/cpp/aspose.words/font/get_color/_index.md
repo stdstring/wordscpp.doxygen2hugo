@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_color/
 
 Gets or sets the color of the font.
 
+```cpp
+System::Drawing::Color Aspose::Words::Font::get_Color()
+```
+

@@ -17,12 +17,14 @@ let generateSimpleMarkup (dest: StringBuilder) (relativeUrlGenerator: UrlGenerat
             "**" |> dest.Append |> ignore
             data.Text |> dest.Append |> ignore
             "**" |> dest.Append |> ignore
+    | SimpleMarkupDef.ExternalLink link -> link.Url |> GenerateLink link.Text |> dest.Append |> ignore
     | SimpleMarkupDef.ParagraphStart -> dest.AppendLine() |> ignore
     | SimpleMarkupDef.ParagraphEnd -> dest.AppendLine() |> ignore
     //| SimpleMarkupDef.ParagraphStart -> ()
     //| SimpleMarkupDef.ParagraphEnd -> ()
     | SimpleMarkupDef.BoldStart -> "**" |> dest.Append |> ignore
     | SimpleMarkupDef.BoldEnd -> "**" |> dest.Append |> ignore
+    | SimpleMarkupDef.LineBreak -> dest.AppendLine() |> ignore
 
 let GenerateBriefDescriptionForTitle (description: SimpleMarkupDef list) =
     let result = new StringBuilder()
@@ -69,11 +71,10 @@ let GenerateDetailedDescription (relativeUrlGenerator: UrlGenerator) (detailedDe
     let result = new StringBuilder()
     for part in detailedDescription do
         match part with
-        | SimpleMarkupPart markupEntry -> markupEntry |> generateSimpleMarkup result relativeUrlGenerator
-        | Title title -> GenerateHeader title 2 |> result.Append |> ignore
-        | CodeBlock codeBlock ->
+        | DetailedDescriptionPart.SimpleMarkupPart markupEntry -> markupEntry |> generateSimpleMarkup result relativeUrlGenerator
+        | DetailedDescriptionPart.Title title -> GenerateHeader title 2 |> result.Append |> ignore
+        | DetailedDescriptionPart.CodeBlock codeBlock ->
             result.AppendLine() |> ignore
             codeBlock |> generateCodeBlock |> result.Append |> ignore
-        | List listData -> listData |> generateList result relativeUrlGenerator
-        | ExternalLink link -> link.Url |> GenerateLink link.Text |> result.Append |> ignore
+        | DetailedDescriptionPart.List listData -> listData |> generateList result relativeUrlGenerator
     result.ToString()

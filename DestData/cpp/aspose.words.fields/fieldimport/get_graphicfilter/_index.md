@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldimport/get_graphicfilter/
 
 Gets or sets the name of the filter for the format of the graphic that is to be inserted.
 
+```cpp
+System::String Aspose::Words::Fields::FieldImport::get_GraphicFilter()
+```
+

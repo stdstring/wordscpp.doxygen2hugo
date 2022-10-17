@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldinclude/get_sourcefullname/
 
 Gets or sets the location of the document.
 
+```cpp
+System::String Aspose::Words::Fields::FieldInclude::get_SourceFullName() override
+```
+

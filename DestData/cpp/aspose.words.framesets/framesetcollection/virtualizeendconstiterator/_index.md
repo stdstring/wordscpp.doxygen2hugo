@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/virtualizeendconstiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeEndConstIterator() const override
+```
+

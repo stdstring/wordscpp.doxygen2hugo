@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_symbolrotation/
 
 Gets or sets the rotation of the barcode symbol. Valid values are [0, 3].
 
+```cpp
+System::String Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation()
+```
+

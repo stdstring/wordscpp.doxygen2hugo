@@ -11,3 +11,7 @@ url: /cpp/aspose.words/run/get_nodetype/
 
 Returns **NodeType.Run**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Run::get_NodeType() const override
+```
+

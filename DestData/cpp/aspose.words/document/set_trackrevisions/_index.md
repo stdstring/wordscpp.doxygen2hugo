@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_trackrevisions/
 
 Setter for [Aspose::Words::Document::get_TrackRevisions](./get_trackrevisions/).
 
+```cpp
+void Aspose::Words::Document::set_TrackRevisions(bool value)
+```
+

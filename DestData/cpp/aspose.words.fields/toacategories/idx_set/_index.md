@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/toacategories/idx_set/
 
 Gets or sets the category heading by category number.
 
+```cpp
+void Aspose::Words::Fields::ToaCategories::idx_set(int32_t number, const System::String &value)
+```
+

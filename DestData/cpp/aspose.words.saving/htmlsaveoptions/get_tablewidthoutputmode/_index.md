@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_tablewidthoutputmode/
 
 Controls how table, row and cell widths are exported to HTML, MHTML or EPUB. Default value is **All**.
 
+```cpp
+Aspose::Words::Saving::HtmlElementSizeOutputMode Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode() const
+```
+

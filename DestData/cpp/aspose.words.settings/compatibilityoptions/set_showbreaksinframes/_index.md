@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_showbreaksinframes/
 
 Display Page/Column Breaks Present in Frames.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_ShowBreaksInFrames(bool value)
+```
+

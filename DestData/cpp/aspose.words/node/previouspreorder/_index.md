@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/previouspreorder/
 
 Gets the previous node according to the pre-order tree traversal algorithm.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::PreviousPreOrder(const System::SharedPtr<Aspose::Words::Node> &rootNode)
+```
+

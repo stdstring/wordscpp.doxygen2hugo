@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_updatelastprintedproperty/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty](./get_updatelastprintedproperty/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_UpdateLastPrintedProperty(bool value)
+```
+

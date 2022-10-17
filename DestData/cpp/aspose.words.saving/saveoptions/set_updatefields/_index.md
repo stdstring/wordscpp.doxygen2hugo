@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_updatefields/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateFields](./get_updatefields/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_UpdateFields(bool value)
+```
+

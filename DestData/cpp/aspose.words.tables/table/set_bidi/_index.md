@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_bidi/
 
 Setter for [Aspose::Words::Tables::Table::get_Bidi](./get_bidi/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_Bidi(bool value)
+```
+

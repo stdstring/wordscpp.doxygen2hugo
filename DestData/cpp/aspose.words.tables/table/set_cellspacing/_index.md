@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_cellspacing/
 
 Setter for [Aspose::Words::Tables::Table::get_CellSpacing](./get_cellspacing/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_CellSpacing(double value)
+```
+

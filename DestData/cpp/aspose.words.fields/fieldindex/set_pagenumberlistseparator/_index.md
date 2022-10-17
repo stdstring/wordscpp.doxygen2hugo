@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_pagenumberlistseparator/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_PageNumberListSeparator](./get_pagenumberlistseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_PageNumberListSeparator(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitbuildingblockstart/
 
 Called when enumeration of a building block has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBuildingBlockStart(System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> block)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_preserveunusedtags/
 
 Sets a value indicating whether the unused "mustache" tags should be preserved.
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_PreserveUnusedTags(bool value)
+```
+

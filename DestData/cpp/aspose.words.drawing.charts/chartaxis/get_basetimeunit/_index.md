@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_basetimeunit/
 
 Returns or sets the smallest time unit that is represented on the time category axis.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisTimeUnit Aspose::Words::Drawing::Charts::ChartAxis::get_BaseTimeUnit()
+```
+

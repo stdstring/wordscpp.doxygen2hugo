@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_reverserows/
 
 Determines whether the layout order of rows is reversed.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_ReverseRows()
+```
+

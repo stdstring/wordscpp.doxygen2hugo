@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/get_evenlyspaced/
 
 **True** if text columns are of equal width and evenly spaced.
 
+```cpp
+bool Aspose::Words::TextColumnCollection::get_EvenlySpaced()
+```
+

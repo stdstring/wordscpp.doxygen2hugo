@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/sdtlistitemcollection/begin/
 ---
-## SdtListItemCollection.begin method
+## SdtListItemCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.markup/sdtlistitemcollection/begin/
----
-## SdtListItemCollection.begin method
+```cpp
+const_iterator Aspose::Words::Markup::SdtListItemCollection::begin() const noexcept
+```
+
+## SdtListItemCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::Markup::SdtListItemCollection::begin() noexcept
+```
 

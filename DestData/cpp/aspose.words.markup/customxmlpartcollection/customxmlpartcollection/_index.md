@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/customxmlpartcollection/
 
 
 
+```cpp
+Aspose::Words::Markup::CustomXmlPartCollection::CustomXmlPartCollection()
+```
+

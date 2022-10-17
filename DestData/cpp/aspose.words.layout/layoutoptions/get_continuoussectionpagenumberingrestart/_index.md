@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/get_continuoussectionpagenumberingre
 
 Gets or sets the mode of behavior for computing page numbers when a continuous section restarts the page numbering.
 
+```cpp
+Aspose::Words::Layout::ContinuousSectionRestart Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart() const
+```
+

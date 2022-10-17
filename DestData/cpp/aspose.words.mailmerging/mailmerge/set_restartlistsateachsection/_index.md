@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_restartlistsateachsection/
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_RestartListsAtEachSection](./get_restartlistsateachsection/).
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_RestartListsAtEachSection(bool value)
+```
+

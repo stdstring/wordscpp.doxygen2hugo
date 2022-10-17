@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/set_useparagraphoutlinelevel/
 
 Setter for [Aspose::Words::Fields::FieldToc::get_UseParagraphOutlineLevel](./get_useparagraphoutlinelevel/).
 
+```cpp
+void Aspose::Words::Fields::FieldToc::set_UseParagraphOutlineLevel(bool value)
+```
+

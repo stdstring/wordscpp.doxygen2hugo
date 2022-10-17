@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/officemathrenderer/officemathrenderer/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::Rendering::OfficeMathRenderer::OfficeMathRenderer(const System::SharedPtr<Aspose::Words::Math::OfficeMath> &math)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbaproject/get_modules/
 
 Returns collection of VBA project modules.
 
+```cpp
+System::SharedPtr<Aspose::Words::Vba::VbaModuleCollection> Aspose::Words::Vba::VbaProject::get_Modules()
+```
+

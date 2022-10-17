@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/clearformatting/
 
 Resets page setup to default paper size, margins and orientation.
 
+```cpp
+void Aspose::Words::PageSetup::ClearFormatting()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/removeat/
 
 Removes a document variable at the specified index.
 
+```cpp
+void Aspose::Words::VariableCollection::RemoveAt(int32_t index)
+```
+

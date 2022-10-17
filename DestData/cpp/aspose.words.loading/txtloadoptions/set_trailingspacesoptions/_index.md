@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/set_trailingspacesoptions/
 
 Setter for [Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions](./get_trailingspacesoptions/).
 
+```cpp
+void Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions(Aspose::Words::Loading::TxtTrailingSpacesOptions value)
+```
+

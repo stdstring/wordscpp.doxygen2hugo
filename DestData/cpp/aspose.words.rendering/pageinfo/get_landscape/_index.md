@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/pageinfo/get_landscape/
 
 Returns true if the page orientation specified in the document for this page is landscape.
 
+```cpp
+bool Aspose::Words::Rendering::PageInfo::get_Landscape() const
+```
+

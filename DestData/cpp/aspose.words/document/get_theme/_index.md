@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_theme/
 
 Gets the [Theme](./get_theme/) object for this document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Themes::Theme> Aspose::Words::Document::get_Theme()
+```
+

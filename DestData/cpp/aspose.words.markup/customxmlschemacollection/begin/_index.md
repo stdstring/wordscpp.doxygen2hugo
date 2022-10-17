@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlschemacollection/begin/
 ---
-## CustomXmlSchemaCollection.begin method
+## CustomXmlSchemaCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.markup/customxmlschemacollection/begin/
----
-## CustomXmlSchemaCollection.begin method
+```cpp
+const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::begin() const noexcept
+```
+
+## CustomXmlSchemaCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::Markup::CustomXmlSchemaCollection::begin() noexcept
+```
 

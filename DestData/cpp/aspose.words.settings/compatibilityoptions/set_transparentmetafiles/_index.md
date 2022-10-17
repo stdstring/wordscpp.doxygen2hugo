@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_transparentmetafiles/
 
 Specifies not to blank the area behind metafile pictures.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_TransparentMetafiles(bool value)
+```
+

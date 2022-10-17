@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_lockcontentcontrol/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_LockContentControl](./get_lockcontentcontrol/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_LockContentControl(bool value) override
+```
+

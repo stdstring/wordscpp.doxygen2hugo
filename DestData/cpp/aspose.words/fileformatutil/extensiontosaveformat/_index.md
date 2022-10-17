@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/extensiontosaveformat/
 
 Converts a file name extension into a [SaveFormat](../saveformat/) value.
 
+```cpp
+static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::ExtensionToSaveFormat(const System::String &extension)
+```
+

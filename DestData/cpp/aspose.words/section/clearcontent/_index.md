@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/clearcontent/
 
 Clears the section.
 
+```cpp
+void Aspose::Words::Section::ClearContent()
+```
+

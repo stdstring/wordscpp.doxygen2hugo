@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::Markup::SdtListItemCollection::cend() const noexcept
+```
+

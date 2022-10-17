@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsubject/get_text/
 
 Gets or sets the text of the subject.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSubject::get_Text()
+```
+

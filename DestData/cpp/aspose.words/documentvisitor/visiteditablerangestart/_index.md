@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visiteditablerangestart/
 
 Called when a start of an editable range is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitEditableRangeStart(System::SharedPtr<Aspose::Words::EditableRangeStart> editableRangeStart)
+```
+

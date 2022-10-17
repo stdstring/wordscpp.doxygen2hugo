@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chart/get_series/
 
 Provides access to series collection.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeriesCollection> Aspose::Words::Drawing::Charts::Chart::get_Series()
+```
+

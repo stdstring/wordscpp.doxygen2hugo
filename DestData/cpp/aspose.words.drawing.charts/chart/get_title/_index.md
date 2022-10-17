@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chart/get_title/
 
 Provides access to the chart title properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartTitle> Aspose::Words::Drawing::Charts::Chart::get_Title()
+```
+

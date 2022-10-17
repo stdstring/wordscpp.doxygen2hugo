@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_enabled/
 
 True if a form field is enabled.
 
+```cpp
+bool Aspose::Words::Fields::FormField::get_Enabled()
+```
+

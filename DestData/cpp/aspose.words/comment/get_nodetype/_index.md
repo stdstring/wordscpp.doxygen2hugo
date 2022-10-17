@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_nodetype/
 
 Returns **NodeType.Comment**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Comment::get_NodeType() const override
+```
+

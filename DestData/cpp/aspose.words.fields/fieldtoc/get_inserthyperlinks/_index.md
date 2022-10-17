@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_inserthyperlinks/
 
 Gets or sets whether to make the table of contents entries hyperlinks.
 
+```cpp
+bool Aspose::Words::Fields::FieldToc::get_InsertHyperlinks()
+```
+

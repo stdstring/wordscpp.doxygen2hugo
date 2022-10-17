@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkstart/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::BookmarkStart::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

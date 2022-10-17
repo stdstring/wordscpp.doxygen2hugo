@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_parentparagraph/
 
 Returns the immediate parent paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Drawing::ShapeBase::get_ParentParagraph()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_lastsavedtime/
 
 Gets or sets the time of the last save in UTC.
 
+```cpp
+System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedTime()
+```
+

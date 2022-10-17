@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_suppressauthor/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_SuppressAuthor](./get_suppressauthor/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_SuppressAuthor(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionproperty/get_value/
 
 Specifies a custom property value.
 
+```cpp
+System::String Aspose::Words::WebExtensions::WebExtensionProperty::get_Value() const
+```
+

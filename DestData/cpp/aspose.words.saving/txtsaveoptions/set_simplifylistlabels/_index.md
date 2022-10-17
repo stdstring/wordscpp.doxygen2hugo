@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/set_simplifylistlabels/
 
 Setter for [Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels](./get_simplifylistlabels/).
 
+```cpp
+void Aspose::Words::Saving::TxtSaveOptions::set_SimplifyListLabels(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_result/
 
 Gets or sets a string that represents the result of this form field.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_Result()
+```
+

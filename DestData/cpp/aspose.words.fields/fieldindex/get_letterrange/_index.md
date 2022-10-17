@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_letterrange/
 
 Gets or sets a range of letters to which limit the index.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_LetterRange()
+```
+

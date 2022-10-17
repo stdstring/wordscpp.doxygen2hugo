@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/get_document/
 
 Gets the document object that is currently being saved.
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::ResourceSavingArgs::get_Document() const
+```
+

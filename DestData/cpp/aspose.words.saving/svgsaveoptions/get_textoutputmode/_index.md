@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/get_textoutputmode/
 
 Gets or sets a value determining how text should be rendered in SVG.
 
+```cpp
+Aspose::Words::Saving::SvgTextOutputMode Aspose::Words::Saving::SvgSaveOptions::get_TextOutputMode() const
+```
+

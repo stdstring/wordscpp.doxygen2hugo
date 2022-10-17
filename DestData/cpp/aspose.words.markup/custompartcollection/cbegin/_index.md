@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompartcollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Markup::CustomPartCollection::cbegin() const noexcept
+```
+

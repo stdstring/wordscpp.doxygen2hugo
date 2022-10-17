@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_textwrapping/
 
 Gets or sets [TextWrapping](./get_textwrapping/) for table.
 
+```cpp
+Aspose::Words::Tables::TextWrapping Aspose::Words::Tables::Table::get_TextWrapping()
+```
+

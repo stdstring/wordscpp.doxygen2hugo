@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_sequenceseparator/
 
 Setter for [Aspose::Words::Fields::FieldToa::get_SequenceSeparator](./get_sequenceseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldToa::set_SequenceSeparator(const System::String &value)
+```
+

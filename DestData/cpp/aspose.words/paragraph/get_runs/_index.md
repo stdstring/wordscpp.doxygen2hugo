@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_runs/
 
 Provides access to the typed collection of pieces of text inside the paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::RunCollection> Aspose::Words::Paragraph::get_Runs()
+```
+

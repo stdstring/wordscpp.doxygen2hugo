@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/get_revisionoptions/
 
 Gets revision options.
 
+```cpp
+System::SharedPtr<Aspose::Words::Layout::RevisionOptions> Aspose::Words::Layout::LayoutOptions::get_RevisionOptions() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_document/
 
 Gets document this instance enumerates.
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::Layout::LayoutEnumerator::get_Document() const
+```
+

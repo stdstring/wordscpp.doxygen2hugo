@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_spacinginwholepoints/
 
 Only Expand/Condense Text By Whole Points.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SpacingInWholePoints()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/accept/
 
 Accepts this revision.
 
+```cpp
+void Aspose::Words::Revision::Accept()
+```
+

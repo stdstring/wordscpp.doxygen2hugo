@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstopcollection/gethashcode/
 
 Serves as a hash function for this type.
 
+```cpp
+int32_t Aspose::Words::TabStopCollection::GetHashCode() const override
+```
+

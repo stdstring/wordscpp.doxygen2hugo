@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/getmathrenderer/
 
 Creates and returns an object that can be used to render this equation into an image.
 
+```cpp
+System::SharedPtr<Aspose::Words::Rendering::OfficeMathRenderer> Aspose::Words::Math::OfficeMath::GetMathRenderer()
+```
+

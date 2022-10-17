@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_crossesat/
 
 Specifies where on the perpendicular axis the axis crosses.
 
+```cpp
+double Aspose::Words::Drawing::Charts::ChartAxis::get_CrossesAt()
+```
+

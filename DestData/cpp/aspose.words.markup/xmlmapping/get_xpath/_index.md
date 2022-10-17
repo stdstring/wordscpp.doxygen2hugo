@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/xmlmapping/get_xpath/
 
 Returns the XPath expression, which is evaluated to find the custom XML node that is mapped to the parent structured document tag.
 
+```cpp
+System::String Aspose::Words::Markup::XmlMapping::get_XPath() const
+```
+

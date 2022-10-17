@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_packagecustomparts/
 
 Gets or sets the collection of custom parts (arbitrary content) that are linked to the OOXML package using "unknown relationships".
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomPartCollection> Aspose::Words::Document::get_PackageCustomParts() const
+```
+

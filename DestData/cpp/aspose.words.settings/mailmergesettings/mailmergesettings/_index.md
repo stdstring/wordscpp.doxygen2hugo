@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/mailmergesettings/
 
 
 
+```cpp
+Aspose::Words::Settings::MailMergeSettings::MailMergeSettings()
+```
+

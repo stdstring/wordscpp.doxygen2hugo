@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesavingcallback/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback](./get_imagesavingcallback/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ImageSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IImageSavingCallback> &value)
+```
+

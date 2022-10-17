@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_pagewidth/
 
 Returns or sets the width of the page in points.
 
+```cpp
+double Aspose::Words::PageSetup::get_PageWidth()
+```
+

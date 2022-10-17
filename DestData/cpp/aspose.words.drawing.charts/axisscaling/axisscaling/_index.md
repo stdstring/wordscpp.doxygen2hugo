@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisscaling/axisscaling/
 
 
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisScaling::AxisScaling()
+```
+

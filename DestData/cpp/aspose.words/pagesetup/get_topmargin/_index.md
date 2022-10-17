@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_topmargin/
 
 Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text.
 
+```cpp
+double Aspose::Words::PageSetup::get_TopMargin()
+```
+

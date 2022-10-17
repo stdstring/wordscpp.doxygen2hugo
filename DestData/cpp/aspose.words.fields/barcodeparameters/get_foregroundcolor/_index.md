@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_foregroundcolor/
 
 Bar code foreground color (0x000000 - 0xFFFFFF)
 
+```cpp
+System::String Aspose::Words::Fields::BarcodeParameters::get_ForegroundColor() const
+```
+

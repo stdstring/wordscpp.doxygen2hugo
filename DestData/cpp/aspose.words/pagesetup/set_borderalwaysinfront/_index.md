@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_borderalwaysinfront/
 
 Setter for [Aspose::Words::PageSetup::get_BorderAlwaysInFront](./get_borderalwaysinfront/).
 
+```cpp
+void Aspose::Words::PageSetup::set_BorderAlwaysInFront(bool value)
+```
+

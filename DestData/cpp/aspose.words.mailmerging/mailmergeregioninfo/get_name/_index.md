@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_name/
 
 Returns the name of region.
 
+```cpp
+System::String Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name() const
+```
+

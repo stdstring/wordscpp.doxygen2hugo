@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_removeentryformatting/
 
 Setter for [Aspose::Words::Fields::FieldToa::get_RemoveEntryFormatting](./get_removeentryformatting/).
 
+```cpp
+void Aspose::Words::Fields::FieldToa::set_RemoveEntryFormatting(bool value)
+```
+

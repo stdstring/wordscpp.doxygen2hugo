@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_casecodestyle/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle](./get_casecodestyle/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_CaseCodeStyle(const System::String &value)
+```
+

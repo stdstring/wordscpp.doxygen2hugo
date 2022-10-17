@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/get_count/
 
 Gets the number of frames or frames pages contained in the collection.
 
+```cpp
+int32_t Aspose::Words::Framesets::FramesetCollection::get_Count()
+```
+

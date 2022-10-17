@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/accept/
 
 Accepts a visitor.
 
+```cpp
+virtual bool Aspose::Words::Node::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor)=0
+```
+

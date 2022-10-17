@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_displayhangulfixedwidth
 
 Always Use Fixed Width for Hangul Characters.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_DisplayHangulFixedWidth(bool value)
+```
+

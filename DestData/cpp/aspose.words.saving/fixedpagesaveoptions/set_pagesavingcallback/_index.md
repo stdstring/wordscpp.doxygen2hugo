@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_pagesavingcallback/
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback](./get_pagesavingcallback/).
 
+```cpp
+void Aspose::Words::Saving::FixedPageSaveOptions::set_PageSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IPageSavingCallback> &value)
+```
+

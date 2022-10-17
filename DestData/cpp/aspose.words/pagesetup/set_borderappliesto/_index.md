@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_borderappliesto/
 
 Setter for [Aspose::Words::PageSetup::get_BorderAppliesTo](./get_borderappliesto/).
 
+```cpp
+void Aspose::Words::PageSetup::set_BorderAppliesTo(Aspose::Words::PageBorderAppliesTo value)
+```
+

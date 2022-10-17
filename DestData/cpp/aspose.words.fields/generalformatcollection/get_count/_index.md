@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/generalformatcollection/get_count/
 
 Gets the total number of the items in the collection.
 
+```cpp
+int32_t Aspose::Words::Fields::GeneralFormatCollection::get_Count()
+```
+

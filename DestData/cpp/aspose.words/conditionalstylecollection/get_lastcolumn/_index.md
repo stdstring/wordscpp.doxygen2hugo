@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_lastcolumn/
 
 Gets the last column style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalStyleCollection::get_LastColumn()
+```
+

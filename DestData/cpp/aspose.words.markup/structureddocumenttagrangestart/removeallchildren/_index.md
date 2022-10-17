@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/removeallchildren/
 
 Removes all the nodes between this range start node and the range end node.
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagRangeStart::RemoveAllChildren()
+```
+

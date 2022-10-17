@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/viewoptions/set_donotdisplaypageboundaries/
 
 Setter for [Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries](./get_donotdisplaypageboundaries/).
 
+```cpp
+void Aspose::Words::Settings::ViewOptions::set_DoNotDisplayPageBoundaries(bool value)
+```
+

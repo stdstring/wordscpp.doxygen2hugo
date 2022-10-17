@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldset/set_bookmarktext/
 
 Setter for [Aspose::Words::Fields::FieldSet::get_BookmarkText](./get_bookmarktext/).
 
+```cpp
+void Aspose::Words::Fields::FieldSet::set_BookmarkText(const System::String &value)
+```
+

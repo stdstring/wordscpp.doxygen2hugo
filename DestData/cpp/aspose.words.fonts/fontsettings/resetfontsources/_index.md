@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsettings/resetfontsources/
 
 Resets the fonts sources to the system default.
 
+```cpp
+void Aspose::Words::Fonts::FontSettings::ResetFontSources()
+```
+

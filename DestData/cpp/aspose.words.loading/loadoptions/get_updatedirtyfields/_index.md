@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_updatedirtyfields/
 
 Specifies whether to update the fields with the **dirty** attribute.
 
+```cpp
+bool Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields() const
+```
+

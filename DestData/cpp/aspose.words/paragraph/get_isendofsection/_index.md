@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_isendofsection/
 
 True if this paragraph is the last paragraph in the **Body** (main text story) of a **Section**; false otherwise.
 
+```cpp
+bool Aspose::Words::Paragraph::get_IsEndOfSection()
+```
+

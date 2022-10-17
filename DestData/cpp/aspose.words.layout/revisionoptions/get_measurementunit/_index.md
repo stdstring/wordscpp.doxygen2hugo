@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_measurementunit/
 
 Allows to specify the measurement units for revision comments. Default value is **Centimeters**
 
+```cpp
+Aspose::Words::MeasurementUnits Aspose::Words::Layout::RevisionOptions::get_MeasurementUnit() const
+```
+

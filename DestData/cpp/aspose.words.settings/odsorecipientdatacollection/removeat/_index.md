@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/removeat/
 
 Removes the element at the specified index.
 
+```cpp
+void Aspose::Words::Settings::OdsoRecipientDataCollection::RemoveAt(int32_t index)
+```
+

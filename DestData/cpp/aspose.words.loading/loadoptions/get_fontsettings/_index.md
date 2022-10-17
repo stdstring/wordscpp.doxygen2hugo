@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_fontsettings/
 
 Allows to specify document font settings.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fonts::FontSettings> Aspose::Words::Loading::LoadOptions::get_FontSettings() const
+```
+

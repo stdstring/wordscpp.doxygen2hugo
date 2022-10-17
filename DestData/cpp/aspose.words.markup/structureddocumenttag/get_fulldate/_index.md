@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_fulldate/
 
 Specifies the full date and time last entered into this **SDT**.
 
+```cpp
+System::DateTime Aspose::Words::Markup::StructuredDocumentTag::get_FullDate()
+```
+

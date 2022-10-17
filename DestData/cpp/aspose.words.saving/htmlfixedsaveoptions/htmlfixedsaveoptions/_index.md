@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/htmlfixedsaveoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::HtmlFixedSaveOptions::HtmlFixedSaveOptions()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldformat/get_generalformats/
 
 Gets a collection of general formats that are applied to a numeric, text or any field result. Corresponds to the \* switches.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::GeneralFormatCollection> Aspose::Words::Fields::FieldFormat::get_GeneralFormats()
+```
+

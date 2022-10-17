@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_chromakey/
 
 Defines the color value of the image that will be treated as transparent.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::ImageData::get_ChromaKey()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/get_firstbuildingblock/
 
 Gets the first building block in the glossary document.
 
+```cpp
+System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::BuildingBlocks::GlossaryDocument::get_FirstBuildingBlock()
+```
+

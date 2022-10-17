@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_weight/
 
 Defines the brush thickness that strokes the path of a shape in points.
 
+```cpp
+double Aspose::Words::Drawing::Stroke::get_Weight()
+```
+

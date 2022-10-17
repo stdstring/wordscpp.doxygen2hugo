@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/get_alignment/
 
 Gets or sets the alignment of the horizontal rule.
 
+```cpp
+Aspose::Words::Drawing::HorizontalRuleAlignment Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment()
+```
+

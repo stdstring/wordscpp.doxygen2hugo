@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/ensureminimum/
 
 If the document contains no sections, creates one section with one paragraph.
 
+```cpp
+void Aspose::Words::Document::EnsureMinimum()
+```
+

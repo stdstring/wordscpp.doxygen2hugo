@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_forgetlasttabalignment/
 
 Ignore Width of Last Tab Stop When Aligning [Paragraph](../../aspose.words/paragraph/) If It Is Not Left Aligned.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_ForgetLastTabAlignment(bool value)
+```
+

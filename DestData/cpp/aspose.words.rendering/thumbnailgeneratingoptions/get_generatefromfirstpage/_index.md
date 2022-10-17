@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/get_generatefromfirs
 
 Specifies whether to generate thumbnail from first page of the document or first image.
 
+```cpp
+bool Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/get_keepdocumentpartstreamo
 
 Specifies whether Aspose.Words should keep the stream open or close it after saving a document part.
 
+```cpp
+bool Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen() const
+```
+

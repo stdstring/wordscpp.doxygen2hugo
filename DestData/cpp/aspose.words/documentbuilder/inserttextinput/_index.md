@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/inserttextinput/
 
 Inserts a text form field at the current position.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuilder::InsertTextInput(const System::String &name, Aspose::Words::Fields::TextFormFieldType type, const System::String &format, const System::String &fieldValue, int32_t maxLength)
+```
+

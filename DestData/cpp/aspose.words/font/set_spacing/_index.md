@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_spacing/
 
 Setter for [Aspose::Words::Font::get_Spacing](./get_spacing/).
 
+```cpp
+void Aspose::Words::Font::set_Spacing(double value)
+```
+

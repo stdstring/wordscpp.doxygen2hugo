@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_style/
 
 Setter for [Aspose::Words::Font::get_Style](./get_style/).
 
+```cpp
+void Aspose::Words::Font::set_Style(const System::SharedPtr<Aspose::Words::Style> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/set_layout/
 
 Setter for [Aspose::Words::TextWatermarkOptions::get_Layout](./get_layout/).
 
+```cpp
+void Aspose::Words::TextWatermarkOptions::set_Layout(Aspose::Words::WatermarkLayout value)
+```
+

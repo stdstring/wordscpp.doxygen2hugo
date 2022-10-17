@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/get_contenttype/
 
 Specifies the content type of this custom part.
 
+```cpp
+System::String Aspose::Words::Markup::CustomPart::get_ContentType() const
+```
+

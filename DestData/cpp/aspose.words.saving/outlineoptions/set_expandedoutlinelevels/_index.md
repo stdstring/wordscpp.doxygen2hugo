@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/outlineoptions/set_expandedoutlinelevels/
 
 Setter for [Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels](./get_expandedoutlinelevels/).
 
+```cpp
+void Aspose::Words::Saving::OutlineOptions::set_ExpandedOutlineLevels(int32_t value)
+```
+

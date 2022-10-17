@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_imagedata/
 
 Provides access to the image of the shape. Returns null if the shape cannot have an image.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::ImageData> Aspose::Words::Drawing::Shape::get_ImageData()
+```
+

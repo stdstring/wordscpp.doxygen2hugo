@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pclsaveoptions/set_rasterizetransformedelements/
 
 Setter for [Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements](./get_rasterizetransformedelements/).
 
+```cpp
+void Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements(bool value)
+```
+

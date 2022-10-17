@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/set_lockcontentcontrol/
 
 When set to true, this property will prohibit a user from deleting this **SDT**.
 
+```cpp
+virtual void Aspose::Words::Markup::IStructuredDocumentTag::set_LockContentControl(bool value)=0
+```
+

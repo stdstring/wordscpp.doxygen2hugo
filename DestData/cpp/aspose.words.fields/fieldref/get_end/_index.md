@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/get_end/
 
 Gets the node that represents the field end.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldEnd> Aspose::Words::Fields::FieldRef::get_End() override
+```
+

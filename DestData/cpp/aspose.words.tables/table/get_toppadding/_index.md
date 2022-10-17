@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_toppadding/
 
 Gets or sets the amount of space (in points) to add above the contents of cells.
 
+```cpp
+double Aspose::Words::Tables::Table::get_TopPadding()
+```
+

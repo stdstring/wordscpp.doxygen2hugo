@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlistnum/get_listname/
 
 Gets or sets the name of the abstract numbering definition used for the numbering.
 
+```cpp
+System::String Aspose::Words::Fields::FieldListNum::get_ListName()
+```
+

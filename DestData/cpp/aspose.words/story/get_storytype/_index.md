@@ -11,3 +11,7 @@ url: /cpp/aspose.words/story/get_storytype/
 
 Gets the type of this story.
 
+```cpp
+Aspose::Words::StoryType Aspose::Words::Story::get_StoryType() const
+```
+

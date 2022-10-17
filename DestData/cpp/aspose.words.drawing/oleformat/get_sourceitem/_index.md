@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_sourceitem/
 
 Gets or sets a string that is used to identify the portion of the source file that is being linked.
 
+```cpp
+System::String Aspose::Words::Drawing::OleFormat::get_SourceItem()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_verticaldistancefromtext/
 
 Specifies vertical distance (in points) between a frame and the surrounding text.
 
+```cpp
+double Aspose::Words::FrameFormat::get_VerticalDistanceFromText()
+```
+

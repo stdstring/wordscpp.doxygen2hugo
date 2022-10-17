@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_horizontaldistancefromtext/
 
 Gets horizontal distance between a frame and the surrounding text, in points.
 
+```cpp
+double Aspose::Words::FrameFormat::get_HorizontalDistanceFromText()
+```
+

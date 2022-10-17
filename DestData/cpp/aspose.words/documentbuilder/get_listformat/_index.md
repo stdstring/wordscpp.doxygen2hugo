@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_listformat/
 
 Returns an object that represents current list formatting properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListFormat> Aspose::Words::DocumentBuilder::get_ListFormat()
+```
+

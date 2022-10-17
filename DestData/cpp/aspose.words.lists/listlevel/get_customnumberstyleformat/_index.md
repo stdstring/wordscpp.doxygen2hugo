@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_customnumberstyleformat/
 
 Gets the custom number style format for this list level. For example: "a, ç, ĝ, ...".
 
+```cpp
+System::String Aspose::Words::Lists::ListLevel::get_CustomNumberStyleFormat()
+```
+

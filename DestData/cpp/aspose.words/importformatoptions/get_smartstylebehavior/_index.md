@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/get_smartstylebehavior/
 
 Gets or sets a boolean value that specifies how styles will be imported when they have equal names in source and destination documents. The default value is **false**.
 
+```cpp
+bool Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior() const
+```
+

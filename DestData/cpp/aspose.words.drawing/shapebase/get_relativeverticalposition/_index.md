@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_relativeverticalposition/
 
 Specifies relative to what the shape is positioned vertically.
 
+```cpp
+Aspose::Words::Drawing::RelativeVerticalPosition Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition()
+```
+

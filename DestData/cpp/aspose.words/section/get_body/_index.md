@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/get_body/
 
 Returns the **Body** child node of the section.
 
+```cpp
+System::SharedPtr<Aspose::Words::Body> Aspose::Words::Section::get_Body()
+```
+

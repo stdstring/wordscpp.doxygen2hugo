@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldargumentbuilder/addnode/
 
 Adds a node to the argument.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldArgumentBuilder> Aspose::Words::Fields::FieldArgumentBuilder::AddNode(const System::SharedPtr<Aspose::Words::Inline> &node)
+```
+

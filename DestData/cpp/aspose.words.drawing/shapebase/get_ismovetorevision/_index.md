@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_ismovetorevision/
 
 Returns **true** if this object was moved (inserted) in Microsoft Word while change tracking was enabled.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_IsMoveToRevision()
+```
+

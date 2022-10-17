@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_opacity/
 
 Setter for [Aspose::Words::Drawing::Fill::get_Opacity](./get_opacity/).
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_Opacity(double value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/selectnodes/
 
 Selects a list of nodes matching the XPath expression.
 
+```cpp
+System::SharedPtr<Aspose::Words::NodeList> Aspose::Words::CompositeNode::SelectNodes(const System::String &xpath)
+```
+

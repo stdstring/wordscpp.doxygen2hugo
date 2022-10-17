@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_borders/
 
 Gets collection of borders of the cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::Tables::CellFormat::get_Borders()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_rowformat/
 
 Returns an object that represents current table row formatting properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::RowFormat> Aspose::Words::DocumentBuilder::get_RowFormat()
+```
+

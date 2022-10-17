@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/virtualizeenditerator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Lists::ListCollection::virtualizeEndIterator() override
+```
+

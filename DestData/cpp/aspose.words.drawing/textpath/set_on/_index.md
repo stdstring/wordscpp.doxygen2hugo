@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_on/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_On](./get_on/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_On(bool value)
+```
+

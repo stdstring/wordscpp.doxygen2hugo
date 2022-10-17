@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/set_value/
 
 Setter for [Aspose::Words::Properties::DocumentProperty::get_Value](./get_value/).
 
+```cpp
+void Aspose::Words::Properties::DocumentProperty::set_Value(const System::SharedPtr<System::Object> &value)
+```
+

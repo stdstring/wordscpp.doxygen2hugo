@@ -11,3 +11,7 @@ url: /cpp/aspose.words/imagewatermarkoptions/set_iswashout/
 
 Setter for [Aspose::Words::ImageWatermarkOptions::get_IsWashout](./get_iswashout/).
 
+```cpp
+void Aspose::Words::ImageWatermarkOptions::set_IsWashout(bool value)
+```
+

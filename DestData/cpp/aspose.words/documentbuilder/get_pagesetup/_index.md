@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_pagesetup/
 
 Returns an object that represents current page setup and section properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::PageSetup> Aspose::Words::DocumentBuilder::get_PageSetup()
+```
+

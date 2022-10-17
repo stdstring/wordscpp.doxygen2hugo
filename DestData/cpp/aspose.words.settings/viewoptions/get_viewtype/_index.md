@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/viewoptions/get_viewtype/
 
 Controls the view mode in Microsoft Word.
 
+```cpp
+Aspose::Words::Settings::ViewType Aspose::Words::Settings::ViewOptions::get_ViewType() const
+```
+

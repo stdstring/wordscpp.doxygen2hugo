@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/remove/
 
 Removes the specified value from the collection.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlSchemaCollection::Remove(const System::String &name)
+```
+

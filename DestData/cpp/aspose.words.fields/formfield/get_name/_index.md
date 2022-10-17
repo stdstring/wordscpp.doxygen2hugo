@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_name/
 
 Gets or sets the form field name.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_Name()
+```
+

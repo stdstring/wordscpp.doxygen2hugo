@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/ensureminimum/
 
 If the table has no rows, creates and appends one **Row**.
 
+```cpp
+void Aspose::Words::Tables::Table::EnsureMinimum()
+```
+

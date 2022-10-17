@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_hidden/
 
 Setter for [Aspose::Words::Font::get_Hidden](./get_hidden/).
 
+```cpp
+void Aspose::Words::Font::set_Hidden(bool value)
+```
+

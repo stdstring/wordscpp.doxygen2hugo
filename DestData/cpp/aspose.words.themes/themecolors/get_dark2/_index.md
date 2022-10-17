@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_dark2/
 
 Specifies color Dark 2.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Dark2()
+```
+

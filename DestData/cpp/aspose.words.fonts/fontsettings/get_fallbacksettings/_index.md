@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsettings/get_fallbacksettings/
 
 [Settings](../../aspose.words.settings/) related to font fallback mechanism.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fonts::FontFallbackSettings> Aspose::Words::Fonts::FontSettings::get_FallbackSettings() const
+```
+

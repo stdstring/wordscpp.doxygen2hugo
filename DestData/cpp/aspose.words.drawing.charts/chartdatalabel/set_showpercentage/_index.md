@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showpercentage/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowPercentage](./get_showpercentage/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowPercentage(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldinfo/set_infotype/
 
 Setter for [Aspose::Words::Fields::FieldInfo::get_InfoType](./get_infotype/).
 
+```cpp
+void Aspose::Words::Fields::FieldInfo::set_InfoType(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/getenumerato
 
 Returns a dictionary enumerator object that can be used to iterate over all items in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignature>>> Aspose::Words::DigitalSignatures::DigitalSignatureCollection::GetEnumerator() override
+```
+

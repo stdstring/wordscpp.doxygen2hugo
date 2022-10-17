@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/clear/
 
 Removes all [ChartSeries](../chartseries/) from this collection.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartSeriesCollection::Clear()
+```
+

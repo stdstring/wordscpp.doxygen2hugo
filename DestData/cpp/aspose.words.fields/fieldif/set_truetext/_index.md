@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldif/set_truetext/
 
 Setter for [Aspose::Words::Fields::FieldIf::get_TrueText](./get_truetext/).
 
+```cpp
+void Aspose::Words::Fields::FieldIf::set_TrueText(const System::String &value)
+```
+

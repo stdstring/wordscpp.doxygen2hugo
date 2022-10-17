@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_startat/
 
 Returns or sets the starting number for this list level.
 
+```cpp
+int32_t Aspose::Words::Lists::ListLevel::get_StartAt()
+```
+

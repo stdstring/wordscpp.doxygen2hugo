@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_subject/
 
 Gets or sets the subject of the document.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject()
+```
+

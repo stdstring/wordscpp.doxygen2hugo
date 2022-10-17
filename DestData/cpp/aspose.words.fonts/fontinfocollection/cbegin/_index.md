@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Fonts::FontInfoCollection::cbegin() const noexcept
+```
+

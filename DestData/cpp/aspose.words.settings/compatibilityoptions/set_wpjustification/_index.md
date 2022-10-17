@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_wpjustification/
 
 Emulate WordPerfect 6.x [Paragraph](../../aspose.words/paragraph/) Justification.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_WPJustification(bool value)
+```
+

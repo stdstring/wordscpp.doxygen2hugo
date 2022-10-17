@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/xamlfixedsaveoptions/get_resourcesfolderalias/
 
 Specifies the name of the folder used to construct image URIs written into an fixed page Xaml document. Default is **null**.
 
+```cpp
+System::String Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias() const
+```
+

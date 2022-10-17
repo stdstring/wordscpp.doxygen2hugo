@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/get_islinkedtoprevious/
 
 True if this header or footer is linked to the corresponding header or footer in the previous section.
 
+```cpp
+bool Aspose::Words::HeaderFooter::get_IsLinkedToPrevious()
+```
+

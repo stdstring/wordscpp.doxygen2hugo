@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/virtualizeenditerator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Vba::VbaModuleCollection::virtualizeEndIterator() override
+```
+

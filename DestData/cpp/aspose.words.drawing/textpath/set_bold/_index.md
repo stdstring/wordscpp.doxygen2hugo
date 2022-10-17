@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_bold/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Bold](./get_bold/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_Bold(bool value)
+```
+

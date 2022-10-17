@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_themefontbi/
 
 Setter for [Aspose::Words::Font::get_ThemeFontBi](./get_themefontbi/).
 
+```cpp
+void Aspose::Words::Font::set_ThemeFontBi(Aspose::Words::Themes::ThemeFont value)
+```
+

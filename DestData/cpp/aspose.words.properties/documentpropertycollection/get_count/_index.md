@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/get_count/
 
 Gets number of items in the collection.
 
+```cpp
+int32_t Aspose::Words::Properties::DocumentPropertyCollection::get_Count()
+```
+

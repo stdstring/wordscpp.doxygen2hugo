@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_writeprotection/
 
 Provides access to the document write protection options.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::WriteProtection> Aspose::Words::Document::get_WriteProtection()
+```
+

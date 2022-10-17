@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/get_insertheadings/
 
 Gets whether to insert the field names from the database as column headings in the resulting table.
 
+```cpp
+bool Aspose::Words::Fields::FieldDatabase::get_InsertHeadings()
+```
+

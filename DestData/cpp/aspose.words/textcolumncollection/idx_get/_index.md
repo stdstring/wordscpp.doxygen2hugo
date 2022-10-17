@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/idx_get/
 
 Returns a text column at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::TextColumn> Aspose::Words::TextColumnCollection::idx_get(int32_t index)
+```
+

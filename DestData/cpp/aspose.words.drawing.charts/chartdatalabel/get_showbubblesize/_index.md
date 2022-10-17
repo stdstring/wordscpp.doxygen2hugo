@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_showbubblesize/
 
 Allows to specify if bubble size is to be displayed for the data labels on a chart. Applies only to Bubble charts. Default value is false.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowBubbleSize()
+```
+

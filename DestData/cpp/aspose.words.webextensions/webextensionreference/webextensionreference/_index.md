@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/webextensionreference
 
 
 
+```cpp
+Aspose::Words::WebExtensions::WebExtensionReference::WebExtensionReference()
+```
+

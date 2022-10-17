@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/get_shading/
 
 Gets a [Shading](../shading/) object that refers to the shading formatting for this conditional style.
 
+```cpp
+System::SharedPtr<Aspose::Words::Shading> Aspose::Words::ConditionalStyle::get_Shading()
+```
+

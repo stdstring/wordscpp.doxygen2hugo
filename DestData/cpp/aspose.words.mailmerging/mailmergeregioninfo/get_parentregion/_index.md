@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_parentregion/
 
 Returns parent region info (null for top-level region).
 
+```cpp
+const System::SharedPtr<Aspose::Words::MailMerging::MailMergeRegionInfo> & Aspose::Words::MailMerging::MailMergeRegionInfo::get_ParentRegion() const
+```
+

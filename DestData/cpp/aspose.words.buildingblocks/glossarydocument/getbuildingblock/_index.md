@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/getbuildingblock/
 
 Finds a building block using the specified gallery, category and name.
 
+```cpp
+System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::BuildingBlocks::GlossaryDocument::GetBuildingBlock(Aspose::Words::BuildingBlocks::BuildingBlockGallery gallery, const System::String &category, const System::String &name)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/insertbefore/
 
 Inserts the specified node immediately before the specified reference node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::InsertBefore(const System::SharedPtr<Aspose::Words::Node> &newChild, const System::SharedPtr<Aspose::Words::Node> &refChild)
+```
+

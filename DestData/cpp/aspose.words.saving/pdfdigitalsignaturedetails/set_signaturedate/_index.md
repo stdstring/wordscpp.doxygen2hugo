@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_signaturedate/
 
 Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate](./get_signaturedate/).
 
+```cpp
+void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_SignatureDate(System::DateTime value)
+```
+

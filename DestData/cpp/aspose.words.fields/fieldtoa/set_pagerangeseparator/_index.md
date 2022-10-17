@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_pagerangeseparator/
 
 Setter for [Aspose::Words::Fields::FieldToa::get_PageRangeSeparator](./get_pagerangeseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldToa::set_PageRangeSeparator(const System::String &value)
+```
+

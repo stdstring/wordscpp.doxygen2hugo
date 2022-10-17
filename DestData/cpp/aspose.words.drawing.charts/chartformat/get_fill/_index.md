@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartformat/get_fill/
 
 Gets fill formatting for the parent chart element.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Drawing::Charts::ChartFormat::get_Fill()
+```
+

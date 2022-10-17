@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_fieldmergingcallback/
 
 Occurs during mail merge when a mail merge field is encountered in the document.
 
+```cpp
+const System::SharedPtr<Aspose::Words::MailMerging::IFieldMergingCallback> & Aspose::Words::MailMerging::MailMerge::get_FieldMergingCallback() const
+```
+

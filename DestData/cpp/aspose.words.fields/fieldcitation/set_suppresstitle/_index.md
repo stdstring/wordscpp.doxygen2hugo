@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_suppresstitle/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_SuppressTitle](./get_suppresstitle/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_SuppressTitle(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldchar/getfield/
 
 Returns a field for the field char.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldChar::GetField()
+```
+

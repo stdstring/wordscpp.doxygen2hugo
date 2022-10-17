@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/smarttag/get_uri/
 
 Specifies the namespace URI of the smart tag.
 
+```cpp
+System::String Aspose::Words::Markup::SmartTag::get_Uri() const
+```
+

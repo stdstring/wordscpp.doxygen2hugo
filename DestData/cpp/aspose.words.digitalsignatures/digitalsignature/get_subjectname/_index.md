@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_subjectname/
 
 Returns the subject distinguished name of the certificate that was used to sign the document.
 
+```cpp
+System::String Aspose::Words::DigitalSignatures::DigitalSignature::get_SubjectName()
+```
+

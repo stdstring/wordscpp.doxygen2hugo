@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_placeholdernam
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_PlaceholderName](./get_placeholdername/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_PlaceholderName(System::String value) override
+```
+

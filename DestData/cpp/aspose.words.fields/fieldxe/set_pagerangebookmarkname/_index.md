@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/set_pagerangebookmarkname/
 
 Setter for [Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName](./get_pagerangebookmarkname/).
 
+```cpp
+void Aspose::Words::Fields::FieldXE::set_PageRangeBookmarkName(const System::String &value)
+```
+

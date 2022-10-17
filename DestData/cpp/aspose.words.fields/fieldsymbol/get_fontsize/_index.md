@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_fontsize/
 
 Gets or sets the size in points of the font of the character retrieved by the field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSymbol::get_FontSize()
+```
+

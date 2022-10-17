@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/userinformation/get_defaultuser/
 
 Default user information.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Fields::UserInformation> Aspose::Words::Fields::UserInformation::get_DefaultUser()
+```
+

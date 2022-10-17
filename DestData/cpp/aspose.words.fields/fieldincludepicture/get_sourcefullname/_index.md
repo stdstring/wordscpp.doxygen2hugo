@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludepicture/get_sourcefullname/
 
 Gets or sets the location of the picture using an IRI.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludePicture::get_SourceFullName() override
+```
+

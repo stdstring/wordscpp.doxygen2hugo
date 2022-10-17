@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_underline/
 
 Gets or sets the type of underline applied to the font.
 
+```cpp
+Aspose::Words::Underline Aspose::Words::Font::get_Underline()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/get_value/
 
 Returns numeric value of axis bound.
 
+```cpp
+double Aspose::Words::Drawing::Charts::AxisBound::get_Value() const
+```
+

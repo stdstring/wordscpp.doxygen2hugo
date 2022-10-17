@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/contains/
 
 Determines whether the collection contains a font with the given name.
 
+```cpp
+bool Aspose::Words::Fonts::FontInfoCollection::Contains(const System::String &name)
+```
+

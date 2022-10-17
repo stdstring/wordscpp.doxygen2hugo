@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/get_tables/
 
 Gets a collection of tables that are immediate children of the cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::TableCollection> Aspose::Words::Tables::Cell::get_Tables()
+```
+

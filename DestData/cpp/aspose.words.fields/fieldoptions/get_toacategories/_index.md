@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_toacategories/
 
 Gets or sets the table of authorities categories.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::ToaCategories> & Aspose::Words::Fields::FieldOptions::get_ToaCategories() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_layoutoptions/
 
 Gets a **LayoutOptions** object that represents options to control the layout process of this document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Layout::LayoutOptions> Aspose::Words::Document::get_LayoutOptions() const
+```
+

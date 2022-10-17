@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_textcompression/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_TextCompression](./get_textcompression/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_TextCompression(Aspose::Words::Saving::PdfTextCompression value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/get_insertashtml/
 
 Gets or sets whether to insert the linked object as HTML format text.
 
+```cpp
+bool Aspose::Words::Fields::FieldLink::get_InsertAsHtml()
+```
+

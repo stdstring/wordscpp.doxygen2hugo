@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_gallery/
 
 Specifies the first-level categorization for the building block for the purposes of classification or user interface sorting.
 
+```cpp
+Aspose::Words::BuildingBlocks::BuildingBlockGallery Aspose::Words::BuildingBlocks::BuildingBlock::get_Gallery() const
+```
+

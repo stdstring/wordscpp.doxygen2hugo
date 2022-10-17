@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldbarcode/get_isuspostaladdress/
 
 Gets or sets whether [PostalAddress](./get_postaladdress/) is a U.S. postal address.
 
+```cpp
+bool Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress()
+```
+

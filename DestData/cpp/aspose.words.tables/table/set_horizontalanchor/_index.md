@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_horizontalanchor/
 
 Setter for [Aspose::Words::Tables::Table::get_HorizontalAnchor](./get_horizontalanchor/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_HorizontalAnchor(Aspose::Words::Drawing::RelativeHorizontalPosition value)
+```
+

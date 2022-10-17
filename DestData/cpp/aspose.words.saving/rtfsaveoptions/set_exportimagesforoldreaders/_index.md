@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/set_exportimagesforoldreaders/
 
 Setter for [Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders](./get_exportimagesforoldreaders/).
 
+```cpp
+void Aspose::Words::Saving::RtfSaveOptions::set_ExportImagesForOldReaders(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_trimwhitespaces/
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_TrimWhitespaces](./get_trimwhitespaces/).
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_TrimWhitespaces(bool value)
+```
+

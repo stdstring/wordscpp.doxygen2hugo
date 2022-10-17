@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_languagepreferences/
 
 Gets language preferences that will be used when document is loading.
 
+```cpp
+System::SharedPtr<Aspose::Words::Loading::LanguagePreferences> Aspose::Words::Loading::LoadOptions::get_LanguagePreferences() const
+```
+

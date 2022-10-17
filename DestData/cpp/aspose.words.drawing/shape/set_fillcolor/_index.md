@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/set_fillcolor/
 
 Setter for [Aspose::Words::Drawing::Shape::get_FillColor](./get_fillcolor/).
 
+```cpp
+void Aspose::Words::Drawing::Shape::set_FillColor(System::Drawing::Color value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_scale/
 
 Gets or sets the zoom factor for the generated images.
 
+```cpp
+float Aspose::Words::Saving::ImageSaveOptions::get_Scale() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/removereply/
 
 Removes the specified reply to this comment.
 
+```cpp
+void Aspose::Words::Comment::RemoveReply(const System::SharedPtr<Aspose::Words::Comment> &reply)
+```
+

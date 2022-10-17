@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/clear/
 
 Removes all nodes from this collection and from the document.
 
+```cpp
+void Aspose::Words::NodeCollection::Clear()
+```
+

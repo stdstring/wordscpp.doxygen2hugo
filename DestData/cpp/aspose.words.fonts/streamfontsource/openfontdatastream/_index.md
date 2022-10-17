@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/streamfontsource/openfontdatastream/
 
 This method should open the stream with font data on demand.
 
+```cpp
+virtual System::SharedPtr<System::IO::Stream> Aspose::Words::Fonts::StreamFontSource::OpenFontDataStream()=0
+```
+

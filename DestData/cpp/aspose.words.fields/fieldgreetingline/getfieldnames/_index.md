@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgreetingline/getfieldnames/
 
 Returns a collection of mail merge field names used by the field.
 
+```cpp
+System::ArrayPtr<System::String> Aspose::Words::Fields::FieldGreetingLine::GetFieldNames() override
+```
+

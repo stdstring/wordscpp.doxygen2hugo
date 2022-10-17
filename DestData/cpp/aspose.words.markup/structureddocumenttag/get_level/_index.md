@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_level/
 
 Gets the level at which this **SDT** occurs in the document tree.
 
+```cpp
+Aspose::Words::Markup::MarkupLevel Aspose::Words::Markup::StructuredDocumentTag::get_Level() const override
+```
+

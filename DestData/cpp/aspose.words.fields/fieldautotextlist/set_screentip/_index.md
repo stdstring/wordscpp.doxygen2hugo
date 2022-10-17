@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldautotextlist/set_screentip/
 
 Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip](./get_screentip/).
 
+```cpp
+void Aspose::Words::Fields::FieldAutoTextList::set_ScreenTip(const System::String &value)
+```
+

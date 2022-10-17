@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_iswordart/
 
 Returns true if this shape is a WordArt object.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_IsWordArt()
+```
+

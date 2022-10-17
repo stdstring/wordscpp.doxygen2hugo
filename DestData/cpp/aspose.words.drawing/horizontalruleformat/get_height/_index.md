@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/get_height/
 
 Gets or sets the height of the horizontal rule.
 
+```cpp
+double Aspose::Words::Drawing::HorizontalRuleFormat::get_Height()
+```
+

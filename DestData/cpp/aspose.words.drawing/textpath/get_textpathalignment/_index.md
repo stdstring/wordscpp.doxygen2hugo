@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_textpathalignment/
 
 Defines the alignment of text.
 
+```cpp
+Aspose::Words::Drawing::TextPathAlignment Aspose::Words::Drawing::TextPath::get_TextPathAlignment()
+```
+

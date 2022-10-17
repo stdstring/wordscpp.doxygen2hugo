@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/remove/
 
 Removes a bookmark with the specified name from the collection.
 
+```cpp
+void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Remove(const System::String &name)
+```
+

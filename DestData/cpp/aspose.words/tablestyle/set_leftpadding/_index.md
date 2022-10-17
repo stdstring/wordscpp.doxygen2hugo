@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/set_leftpadding/
 
 Setter for [Aspose::Words::TableStyle::get_LeftPadding](./get_leftpadding/).
 
+```cpp
+void Aspose::Words::TableStyle::set_LeftPadding(double value)
+```
+

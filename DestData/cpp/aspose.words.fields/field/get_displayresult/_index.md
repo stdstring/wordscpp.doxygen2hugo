@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_displayresult/
 
 Gets the text that represents the displayed field result.
 
+```cpp
+System::String Aspose::Words::Fields::Field::get_DisplayResult()
+```
+

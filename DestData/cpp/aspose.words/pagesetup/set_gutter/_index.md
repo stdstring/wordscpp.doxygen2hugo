@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_gutter/
 
 Setter for [Aspose::Words::PageSetup::get_Gutter](./get_gutter/).
 
+```cpp
+void Aspose::Words::PageSetup::set_Gutter(double value)
+```
+

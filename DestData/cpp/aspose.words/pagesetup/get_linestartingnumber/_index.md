@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_linestartingnumber/
 
 Gets or sets the starting line number.
 
+```cpp
+int32_t Aspose::Words::PageSetup::get_LineStartingNumber()
+```
+

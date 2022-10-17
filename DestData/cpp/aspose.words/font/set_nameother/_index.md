@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_nameother/
 
 Setter for [Aspose::Words::Font::get_NameOther](./get_nameother/).
 
+```cpp
+void Aspose::Words::Font::set_NameOther(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/get_formatattributes/
 
 Gets which attributes of the format are to be applied to the table.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDatabase::get_FormatAttributes()
+```
+

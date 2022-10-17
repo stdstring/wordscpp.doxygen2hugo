@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/get_cellformat/
 
 Provides access to the formatting properties of the cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::CellFormat> Aspose::Words::Tables::Cell::get_CellFormat()
+```
+

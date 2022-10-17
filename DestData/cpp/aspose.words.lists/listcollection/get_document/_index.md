@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/get_document/
 
 Gets the owner document.
 
+```cpp
+System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::Lists::ListCollection::get_Document() const
+```
+

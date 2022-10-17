@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/get_nodetype/
 
 Returns the **GlossaryDocument** value.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType() const override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_rightindent/
 
 Gets or sets the value (in points) that represents the right indent for paragraph.
 
+```cpp
+double Aspose::Words::ParagraphFormat::get_RightIndent()
+```
+

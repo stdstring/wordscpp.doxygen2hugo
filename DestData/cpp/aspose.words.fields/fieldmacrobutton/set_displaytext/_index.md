@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/set_displaytext/
 
 Setter for [Aspose::Words::Fields::FieldMacroButton::get_DisplayText](./get_displaytext/).
 
+```cpp
+void Aspose::Words::Fields::FieldMacroButton::set_DisplayText(const System::String &value)
+```
+

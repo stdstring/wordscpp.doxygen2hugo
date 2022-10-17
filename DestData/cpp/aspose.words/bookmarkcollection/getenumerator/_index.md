@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkcollection/getenumerator/
 
 Returns an enumerator object.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Bookmark>>> Aspose::Words::BookmarkCollection::GetEnumerator() override
+```
+

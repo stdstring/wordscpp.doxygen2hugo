@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Fields::FormField::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

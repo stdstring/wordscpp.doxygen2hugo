@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotbreakwrappedtables
 
 Do Not Allow Floating [Tables](../../aspose.words.tables/) To Break Across Pages.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakWrappedTables(bool value)
+```
+

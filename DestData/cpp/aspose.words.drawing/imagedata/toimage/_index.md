@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/toimage/
 
 Gets the image stored in the shape as a **Image** object.
 
+```cpp
+System::SharedPtr<System::Drawing::Image> Aspose::Words::Drawing::ImageData::ToImage()
+```
+

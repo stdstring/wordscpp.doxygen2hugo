@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/metafilerenderingoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::MetafileRenderingOptions::MetafileRenderingOptions()
+```
+

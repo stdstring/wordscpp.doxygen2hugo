@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_originalfilename/
 
 Gets the original font file name with an extension.
 
+```cpp
+System::String Aspose::Words::Saving::FontSavingArgs::get_OriginalFileName() const
+```
+

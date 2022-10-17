@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/get_isitalic/
 
 Gets or sets whether to apply italic formatting to the entry's page number.
 
+```cpp
+bool Aspose::Words::Fields::FieldXE::get_IsItalic()
+```
+

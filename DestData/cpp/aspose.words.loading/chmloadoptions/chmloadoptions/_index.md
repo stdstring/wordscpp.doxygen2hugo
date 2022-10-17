@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/chmloadoptions/chmloadoptions/
 
 Initializes a new instance of this class with default values.
 
+```cpp
+Aspose::Words::Loading::ChmLoadOptions::ChmLoadOptions()
+```
+

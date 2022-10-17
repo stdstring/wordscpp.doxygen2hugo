@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_verticalalignment/
 
 Gets vertical alignment of the specified frame.
 
+```cpp
+Aspose::Words::Drawing::VerticalAlignment Aspose::Words::FrameFormat::get_VerticalAlignment()
+```
+

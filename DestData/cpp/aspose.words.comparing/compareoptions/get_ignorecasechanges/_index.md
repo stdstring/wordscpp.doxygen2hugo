@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignorecasechanges/
 
 True indicates that documents comparison is case insensitive. By default comparison is case sensitive.
 
+```cpp
+bool Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges() const
+```
+

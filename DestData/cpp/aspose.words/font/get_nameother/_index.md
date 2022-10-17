@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_nameother/
 
 Returns or sets the font used for characters with character codes from 128 through 255.
 
+```cpp
+System::String Aspose::Words::Font::get_NameOther()
+```
+

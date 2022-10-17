@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_localeidbi/
 
 Gets or sets the locale identifier (language) of the formatted right-to-left characters.
 
+```cpp
+int32_t Aspose::Words::Font::get_LocaleIdBi()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldbibliography/get_formatlanguageid/
 
 Gets or sets the language ID that is used to format the bibliographic sources in the document.
 
+```cpp
+System::String Aspose::Words::Fields::FieldBibliography::get_FormatLanguageId()
+```
+

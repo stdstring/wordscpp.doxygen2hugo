@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/get_subaddress/
 
 Gets or sets a location in the file, such as a bookmark, where this hyperlink jumps.
 
+```cpp
+System::String Aspose::Words::Fields::FieldHyperlink::get_SubAddress()
+```
+

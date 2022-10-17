@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_stylename/
 
 Gets or sets the name of the table style applied to this table.
 
+```cpp
+System::String Aspose::Words::Tables::Table::get_StyleName()
+```
+

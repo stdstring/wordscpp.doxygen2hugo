@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/get_defaultparagraphformat/
 
 Gets document default paragraph formatting.
 
+```cpp
+System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::StyleCollection::get_DefaultParagraphFormat()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_displayunit/
 
 Specifies the scaling value of the display units for the value axis.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::AxisDisplayUnit> Aspose::Words::Drawing::Charts::ChartAxis::get_DisplayUnit()
+```
+

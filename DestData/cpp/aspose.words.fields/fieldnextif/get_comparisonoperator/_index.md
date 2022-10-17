@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldnextif/get_comparisonoperator/
 
 Gets the comparison operator.
 
+```cpp
+System::String Aspose::Words::Fields::FieldNextIf::get_ComparisonOperator()
+```
+

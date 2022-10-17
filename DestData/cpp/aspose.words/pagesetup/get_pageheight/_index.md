@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_pageheight/
 
 Returns or sets the height of the page in points.
 
+```cpp
+double Aspose::Words::PageSetup::get_PageHeight()
+```
+

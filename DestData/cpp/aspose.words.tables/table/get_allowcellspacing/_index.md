@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_allowcellspacing/
 
 Gets or sets the "Allow spacing between cells" option.
 
+```cpp
+bool Aspose::Words::Tables::Table::get_AllowCellSpacing()
+```
+

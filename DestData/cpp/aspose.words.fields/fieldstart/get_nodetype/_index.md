@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldstart/get_nodetype/
 
 Returns **FieldStart**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Fields::FieldStart::get_NodeType() const override
+```
+

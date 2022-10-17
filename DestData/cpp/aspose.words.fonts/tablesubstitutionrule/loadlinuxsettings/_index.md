@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadlinuxsettings/
 
 Loads predefined table substitution settings for Linux platform.
 
+```cpp
+void Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings()
+```
+

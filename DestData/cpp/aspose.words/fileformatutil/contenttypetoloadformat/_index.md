@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/contenttypetoloadformat/
 
 Converts IANA content type into a load format enumerated value.
 
+```cpp
+static Aspose::Words::LoadFormat Aspose::Words::FileFormatUtil::ContentTypeToLoadFormat(const System::String &contentType)
+```
+

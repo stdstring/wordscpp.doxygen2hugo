@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_defaulttabstop/
 
 Gets or sets the interval (in points) between the default tab stops.
 
+```cpp
+double Aspose::Words::Document::get_DefaultTabStop()
+```
+

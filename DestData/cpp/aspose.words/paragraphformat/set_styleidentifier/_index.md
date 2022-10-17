@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_styleidentifier/
 
 Setter for [Aspose::Words::ParagraphFormat::get_StyleIdentifier](./get_styleidentifier/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_StyleIdentifier(Aspose::Words::StyleIdentifier value)
+```
+

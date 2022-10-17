@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsavingcallback/
 
 Allows to control how fonts are saved when a document is saved to HTML, MHTML or EPUB.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::IFontSavingCallback> Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartnumberformat/get_formatcode/
 
 Gets or sets the format code applied to a data label.
 
+```cpp
+System::String Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode()
+```
+

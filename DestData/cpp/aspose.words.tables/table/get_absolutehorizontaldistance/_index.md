@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_absolutehorizontaldistance/
 
 Gets or sets absolute horizontal floating table position specified by the table properties, in points. Default value is 0.
 
+```cpp
+double Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance()
+```
+

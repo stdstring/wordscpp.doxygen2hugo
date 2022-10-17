@@ -11,3 +11,7 @@ url: /cpp/aspose.words/buildversioninfo/get_version/
 
 Gets the product version.
 
+```cpp
+static System::String Aspose::Words::BuildVersionInfo::get_Version()
+```
+

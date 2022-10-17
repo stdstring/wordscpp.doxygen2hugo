@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/linebreak/
 
 Line break character: "\x000b" or "\v".
 
+```cpp
+static System::String & Aspose::Words::ControlChar::LineBreak()
+```
+

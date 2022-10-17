@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::WarningInfoCollection::cbegin() const noexcept
+```
+

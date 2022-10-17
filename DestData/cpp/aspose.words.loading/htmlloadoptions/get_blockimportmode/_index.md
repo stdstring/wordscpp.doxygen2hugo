@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/get_blockimportmode/
 
 Gets a value that specifies how properties of block-level elements are imported. Default value is **Merge**.
 
+```cpp
+Aspose::Words::Loading::BlockImportMode Aspose::Words::Loading::HtmlLoadOptions::get_BlockImportMode() const
+```
+

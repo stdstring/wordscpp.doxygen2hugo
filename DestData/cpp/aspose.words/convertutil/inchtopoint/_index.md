@@ -11,3 +11,7 @@ url: /cpp/aspose.words/convertutil/inchtopoint/
 
 Converts inches to points.
 
+```cpp
+static double Aspose::Words::ConvertUtil::InchToPoint(double inches)
+```
+

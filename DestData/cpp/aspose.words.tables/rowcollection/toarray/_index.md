@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowcollection/toarray/
 
 Copies all rows from the collection to a new array of rows.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Tables::Row>> Aspose::Words::Tables::RowCollection::ToArray()
+```
+

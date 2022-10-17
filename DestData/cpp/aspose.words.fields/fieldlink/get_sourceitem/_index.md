@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/get_sourceitem/
 
 Gets or sets the portion of the source file that's being linked.
 
+```cpp
+System::String Aspose::Words::Fields::FieldLink::get_SourceItem()
+```
+

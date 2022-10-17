@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/get_formfields/
 
 Returns a [FormFields](./get_formfields/) collection that represents all form fields in the range.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FormFieldCollection> Aspose::Words::Range::get_FormFields()
+```
+

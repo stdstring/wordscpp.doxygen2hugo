@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/digitalsigna
 
 
 
+```cpp
+Aspose::Words::DigitalSignatures::DigitalSignatureCollection::DigitalSignatureCollection()
+```
+

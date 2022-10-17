@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/get_isrestartateachsection/
 
 Specifies whether list should be restarted at each section. Default value is **false**.
 
+```cpp
+bool Aspose::Words::Lists::List::get_IsRestartAtEachSection()
+```
+

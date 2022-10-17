@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/listoutdent/
 
 Decreases the list level of the current paragraph by one level.
 
+```cpp
+void Aspose::Words::Lists::ListFormat::ListOutdent()
+```
+

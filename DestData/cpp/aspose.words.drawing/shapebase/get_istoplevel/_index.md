@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_istoplevel/
 
 Returns true if this shape is not a child of a group shape.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_IsTopLevel()
+```
+

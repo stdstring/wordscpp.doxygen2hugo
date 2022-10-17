@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/odsofieldmapdatacolle
 
 
 
+```cpp
+Aspose::Words::Settings::OdsoFieldMapDataCollection::OdsoFieldMapDataCollection()
+```
+

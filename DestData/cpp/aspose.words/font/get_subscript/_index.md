@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_subscript/
 
 True if the font is formatted as subscript.
 
+```cpp
+bool Aspose::Words::Font::get_Subscript()
+```
+

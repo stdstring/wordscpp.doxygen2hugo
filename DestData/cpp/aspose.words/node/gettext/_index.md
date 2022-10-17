@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/gettext/
 
 Gets the text of this node and of all its children.
 
+```cpp
+virtual System::String Aspose::Words::Node::GetText()
+```
+

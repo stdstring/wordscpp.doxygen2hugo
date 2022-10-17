@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/generalformatcollection/remove/
 
 Removes all occurrences of the specified general format from the collection.
 
+```cpp
+void Aspose::Words::Fields::GeneralFormatCollection::Remove(Aspose::Words::Fields::GeneralFormat item)
+```
+

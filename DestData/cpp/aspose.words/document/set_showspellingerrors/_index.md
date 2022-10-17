@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_showspellingerrors/
 
 Setter for [Aspose::Words::Document::get_ShowSpellingErrors](./get_showspellingerrors/).
 
+```cpp
+void Aspose::Words::Document::set_ShowSpellingErrors(bool value)
+```
+

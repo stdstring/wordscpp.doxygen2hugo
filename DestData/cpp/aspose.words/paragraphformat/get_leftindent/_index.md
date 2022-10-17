@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_leftindent/
 
 Gets or sets the value (in points) that represents the left indent for paragraph.
 
+```cpp
+double Aspose::Words::ParagraphFormat::get_LeftIndent()
+```
+

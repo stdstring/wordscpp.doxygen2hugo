@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::cend() const noexcept
+```
+

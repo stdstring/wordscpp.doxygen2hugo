@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_boundswitheffects/
 
 Gets final extent that this shape object has after applying drawing effects. Value is measured in points.
 
+```cpp
+System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_BoundsWithEffects()
+```
+

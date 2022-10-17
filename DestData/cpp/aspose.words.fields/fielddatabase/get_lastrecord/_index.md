@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/get_lastrecord/
 
 Gets the integral record number of the last data record to insert.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDatabase::get_LastRecord()
+```
+

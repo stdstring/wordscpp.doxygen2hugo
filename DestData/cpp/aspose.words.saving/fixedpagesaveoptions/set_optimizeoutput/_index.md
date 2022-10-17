@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_optimizeoutput/
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput](./get_optimizeoutput/).
 
+```cpp
+virtual void Aspose::Words::Saving::FixedPageSaveOptions::set_OptimizeOutput(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_crossreferenceseparator/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator](./get_crossreferenceseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_CrossReferenceSeparator(const System::String &value)
+```
+

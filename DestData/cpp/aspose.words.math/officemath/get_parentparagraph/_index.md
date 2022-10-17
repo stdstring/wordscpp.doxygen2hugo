@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/get_parentparagraph/
 
 Retrieves the parent [Paragraph](../../aspose.words/paragraph/) of this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Math::OfficeMath::get_ParentParagraph()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldinfo/get_infotype/
 
 Gets or sets the type of the document property to insert.
 
+```cpp
+System::String Aspose::Words::Fields::FieldInfo::get_InfoType()
+```
+

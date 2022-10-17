@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/nextpreorder/
 
 Gets next node according to the pre-order tree traversal algorithm.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::NextPreOrder(const System::SharedPtr<Aspose::Words::Node> &rootNode)
+```
+

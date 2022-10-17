@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitspecialchar/
 
 Called when a [SpecialChar](../specialchar/) node is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSpecialChar(System::SharedPtr<Aspose::Words::SpecialChar> specialChar)
+```
+

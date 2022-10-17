@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignoretextboxes/
 
 Specifies whether to compare differences in the data contained within text boxes. By default textboxes are not ignored.
 
+```cpp
+bool Aspose::Words::Comparing::CompareOptions::get_IgnoreTextboxes() const
+```
+

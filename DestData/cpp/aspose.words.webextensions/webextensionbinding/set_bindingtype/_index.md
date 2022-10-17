@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionbinding/set_bindingtype/
 
 Specifies the binding type.
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionBinding::set_BindingType(Aspose::Words::WebExtensions::WebExtensionBindingType value)
+```
+

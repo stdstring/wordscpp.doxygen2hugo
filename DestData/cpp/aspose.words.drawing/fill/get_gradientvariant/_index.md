@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_gradientvariant/
 
 Gets the gradient variant [GradientVariant](../gradientvariant/) for the fill.
 
+```cpp
+Aspose::Words::Drawing::GradientVariant Aspose::Words::Drawing::Fill::get_GradientVariant()
+```
+

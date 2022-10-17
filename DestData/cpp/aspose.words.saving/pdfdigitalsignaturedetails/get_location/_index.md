@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_location/
 
 Gets or sets the location of the signing.
 
+```cpp
+System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location() const
+```
+

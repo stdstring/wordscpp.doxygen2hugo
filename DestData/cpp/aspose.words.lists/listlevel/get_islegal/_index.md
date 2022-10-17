@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_islegal/
 
 True if the level turns all inherited numbers to Arabic, false if it preserves their number style.
 
+```cpp
+bool Aspose::Words::Lists::ListLevel::get_IsLegal() const
+```
+

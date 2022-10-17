@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitformfield/
 
 Called when a form field is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFormField(System::SharedPtr<Aspose::Words::Fields::FormField> formField)
+```
+

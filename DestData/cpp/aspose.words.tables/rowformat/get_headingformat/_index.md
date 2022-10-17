@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowformat/get_headingformat/
 
 True if the row is repeated as a table heading on every page when the table spans more than one page.
 
+```cpp
+bool Aspose::Words::Tables::RowFormat::get_HeadingFormat()
+```
+

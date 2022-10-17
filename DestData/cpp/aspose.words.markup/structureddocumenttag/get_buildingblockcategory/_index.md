@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_buildingblockcategory/
 
 Specifies category of building block for this **SDT** node. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory()
+```
+

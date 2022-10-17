@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/theme/theme/
 
 
 
+```cpp
+Aspose::Words::Themes::Theme::Theme()
+```
+

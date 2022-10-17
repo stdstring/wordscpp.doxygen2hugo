@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/get_usepassim/
 
 Gets or sets whether to replace five or more different page references to the same authority with "passim", which is used to indicate that a word or passage occurs frequently in the work cited.
 
+```cpp
+bool Aspose::Words::Fields::FieldToa::get_UsePassim()
+```
+

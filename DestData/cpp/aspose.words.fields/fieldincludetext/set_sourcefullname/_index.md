@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_sourcefullname/
 
 Setter for [Aspose::Words::Fields::FieldIncludeText::get_SourceFullName](./get_sourcefullname/).
 
+```cpp
+void Aspose::Words::Fields::FieldIncludeText::set_SourceFullName(const System::String &value)
+```
+

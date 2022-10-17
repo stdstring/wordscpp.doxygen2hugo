@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldstart/get_fielddata/
 
 Gets custom field data which is associated with the field.
 
+```cpp
+const System::ArrayPtr<uint8_t> & Aspose::Words::Fields::FieldStart::get_FieldData() const
+```
+

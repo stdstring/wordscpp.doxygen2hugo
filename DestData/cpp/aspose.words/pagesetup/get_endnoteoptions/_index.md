@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_endnoteoptions/
 
 Provides options that control numbering and positioning of endnotes in this section.
 
+```cpp
+System::SharedPtr<Aspose::Words::Notes::EndnoteOptions> Aspose::Words::PageSetup::get_EndnoteOptions()
+```
+

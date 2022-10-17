@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/replacingargs/set_groupindex/
 
 Setter for [Aspose::Words::Replacing::ReplacingArgs::get_GroupIndex](./get_groupindex/).
 
+```cpp
+void Aspose::Words::Replacing::ReplacingArgs::set_GroupIndex(int32_t value)
+```
+

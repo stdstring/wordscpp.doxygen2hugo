@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_title/
 
 Specifies the friendly name associated with this structured document tag. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title() const override
+```
+

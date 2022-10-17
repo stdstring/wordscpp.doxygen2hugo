@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatinfo/get_encoding/
 
 Gets the detected encoding if applicable to the current document format. At the moment detects encoding only for HTML documents.
 
+```cpp
+System::SharedPtr<System::Text::Encoding> Aspose::Words::FileFormatInfo::get_Encoding() const
+```
+

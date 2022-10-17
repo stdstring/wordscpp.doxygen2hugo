@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_textinputtype/
 
 Gets or sets the type of a text form field.
 
+```cpp
+Aspose::Words::Fields::TextFormFieldType Aspose::Words::Fields::FormField::get_TextInputType()
+```
+

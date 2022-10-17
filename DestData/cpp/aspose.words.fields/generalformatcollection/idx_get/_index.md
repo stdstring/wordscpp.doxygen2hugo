@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/generalformatcollection/idx_get/
 
 Gets a general format at the specified index.
 
+```cpp
+Aspose::Words::Fields::GeneralFormat Aspose::Words::Fields::GeneralFormatCollection::idx_get(int32_t index)
+```
+

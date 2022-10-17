@@ -4,13 +4,17 @@ open System.Xml.Linq
 
 type MarkupRef = {RefId: string; Kind: string option; External: string option; Tooltip: string option; Text: string}
 
+type ExternalLinkData = {Text: string; Url: string}
+
 type SimpleMarkupDef =
     | Text of string
     | ParagraphStart
     | ParagraphEnd
     | BoldStart
     | BoldEnd
+    | LineBreak
     | Ref of MarkupRef
+    | ExternalLink of ExternalLinkData
 
 type SimpleMarkup = SimpleMarkupDef list
 
@@ -27,20 +31,21 @@ type CodeBlockMarkup = CodeBlockLineMarkup list
 
 type MarkupList = {Ordered: bool; Items: SimpleMarkup list}
 
-type ExternalLinkData = {Text: string; Url: string}
-
 type DetailedDescriptionPart =
     | SimpleMarkupPart of SimpleMarkupDef
     | Title of string
     | CodeBlock of CodeBlockMarkup
     | List of MarkupList
-    | ExternalLink of ExternalLinkData
 
 type DetailedDescription = DetailedDescriptionPart list
 
 type TemplateParameter = {Name: string; Description: SimpleMarkup}
 
 type ClassDetailedDescription = {TemplateParameters: TemplateParameter list; Description: DetailedDescription}
+
+type MethodArg = {Name: string; Description: SimpleMarkup}
+
+type MethodDetailedDescription = {Args: MethodArg list; ReturnValue: SimpleMarkup; Description: DetailedDescription}
 
 let parseMarkupRef (source: XElement) =
     let refId = "refid" |> Utils.getAttributeValue source
@@ -54,29 +59,34 @@ let parseMarkupRef (source: XElement) =
      MarkupRef.Tooltip = tooltip;
      MarkupRef.Text = text}
 
-let parseMarkup (source: XElement): SimpleMarkup =
-    let rec parseMarkupImpl (node: XNode) =
+let parseExternalLink (source: XElement) =
+    let url = "url" |> Utils.getAttributeValue source
+    let text = source.Value
+    {ExternalLinkData.Text = text; ExternalLinkData.Url = url}
+
+let parseSimpleMarkup (source: XElement): SimpleMarkup =
+    let rec parseSimpleMarkupImpl (node: XNode) =
         match node with
         | :? XElement ->
             let element = node :?> XElement
             match element.Name.LocalName with
             | "para" ->
-                seq {yield SimpleMarkupDef.ParagraphStart; yield! element.Nodes() |> Seq.map parseMarkupImpl |> Seq.concat; yield SimpleMarkupDef.ParagraphEnd}
+                seq {yield SimpleMarkupDef.ParagraphStart; yield! element.Nodes() |> Seq.map parseSimpleMarkupImpl |> Seq.concat; yield SimpleMarkupDef.ParagraphEnd}
             // TODO (std_string) : think about special processing of computeroutput node
             | "computeroutput"
             | "bold" ->
-                seq {yield SimpleMarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseMarkupImpl |> Seq.concat; yield SimpleMarkupDef.BoldEnd}
+                seq {yield SimpleMarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseSimpleMarkupImpl |> Seq.concat; yield SimpleMarkupDef.BoldEnd}
             (*| "computeroutput" ->
                 seq {yield SimpleMarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseMarkupImpl |> Seq.concat; yield SimpleMarkupDef.BoldEnd}*)
-            | "ref" ->
-                seq {yield element |> parseMarkupRef |> SimpleMarkupDef.Ref}
+            | "ref" -> seq {yield element |> parseMarkupRef |> SimpleMarkupDef.Ref}
+            | "ulink" -> element |> parseExternalLink |> SimpleMarkupDef.ExternalLink |> Seq.singleton
             | name -> name |> failwithf "Unexpected Markup XML element with name \"%s\""
         | :? XText -> (node :?> XText).Value |> SimpleMarkupDef.Text |> Seq.singleton
         | _ -> node.NodeType |> failwithf "Unexpected Markup XML node with type %A"
     match source.IsEmpty with
     | true -> []
     | false ->
-        source.Nodes() |> Seq.map parseMarkupImpl |> Seq.concat |> Seq.toList
+        source.Nodes() |> Seq.map parseSimpleMarkupImpl |> Seq.concat |> Seq.toList
 
 let parseCodeBlockLine (source: XElement): CodeBlockLineMarkup =
     let rec parseCodeBlockLineImpl (node: XNode) =
@@ -101,16 +111,11 @@ let parseCodeBlock (source: XElement): CodeBlockMarkup =
     source.Elements("codeline") |> Seq.map parseCodeBlockLine |> Seq.toList
 
 let parseMarkupList (source: XElement) =
-    let items = source.Elements("listitem") |> Seq.map parseMarkup |> Seq.toList
+    let items = source.Elements("listitem") |> Seq.map parseSimpleMarkup |> Seq.toList
     match source.Name.LocalName with
     | "orderedlist" -> {MarkupList.Ordered = true; Items = items}
     | "itemizedlist" -> {MarkupList.Ordered = false; Items = items}
     | name -> name |> failwithf "Unexpected list XML element with name \"%s\""
-
-let parseExternalLink (source: XElement) =
-    let url = "url" |> Utils.getAttributeValue source
-    let text = source.Value
-    {ExternalLinkData.Text = text; ExternalLinkData.Url = url}
 
 let parseDetailedDescription (source: XElement): DetailedDescription =
     let rec parseDetailedDescriptionPart (node: XNode) =
@@ -129,19 +134,22 @@ let parseDetailedDescription (source: XElement): DetailedDescription =
                      yield! element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat;
                      yield SimpleMarkupDef.BoldEnd |> DetailedDescriptionPart.SimpleMarkupPart}
             | "ref" -> seq {yield element |> parseMarkupRef |> SimpleMarkupDef.Ref |> DetailedDescriptionPart.SimpleMarkupPart}
+            | "ulink" -> element |> parseExternalLink |> SimpleMarkupDef.ExternalLink |> DetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
+            | "linebreak" -> SimpleMarkupDef.LineBreak |> DetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
             | "title" -> seq {yield element.Value |> DetailedDescriptionPart.Title}
             | "simplesect" ->
                 match "kind" |> Utils.getAttributeValue element with
                 | "par"
                 | "note" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
                 | "see" -> Seq.empty
+                // special processing for outer code (for classes)
+                | "return" -> Seq.empty
                 | kind -> kind |> failwithf "Unexpected \"simplesect\" XML element with kind \"%s\""
             | "orderedlist"
             | "itemizedlist" -> element |> parseMarkupList |> DetailedDescriptionPart.List |> Seq.singleton
             | "programlisting" -> seq {yield element |> parseCodeBlock |> DetailedDescriptionPart.CodeBlock}
-            | "ulink" -> element |> parseExternalLink |> DetailedDescriptionPart.ExternalLink |> Seq.singleton
             | "emphasis" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
-            // special processing for outer code
+            // special processing for outer code (for classes & methods)
             | "parameterlist" -> Seq.empty
             | name -> name |> failwithf "Unexpected enum detailed description XML element with name \"%s\""
         | :? XText -> (node :?> XText).Value |> SimpleMarkupDef.Text |> DetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
@@ -150,7 +158,7 @@ let parseDetailedDescription (source: XElement): DetailedDescription =
 
 let parseTemplateParameter (source: XElement) =
     let name = (source.Descendants("parametername") |> Seq.exactlyOne).Value
-    let description = source.Descendants("parameterdescription") |> Seq.exactlyOne |> parseMarkup
+    let description = source.Descendants("parameterdescription") |> Seq.exactlyOne |> parseSimpleMarkup
     {TemplateParameter.Name = name; TemplateParameter.Description = description}
 
 let parseTemplateParameters (source: XElement) =
@@ -162,6 +170,30 @@ let parseClassDetailedDescription (source: XElement) =
     let templateParameters = match parametersSource |> Seq.toList with
                              | [] -> []
                              | [parameterListElement] -> parameterListElement |> parseTemplateParameters
-                             | _ -> failwith "Several sections \"parameterlist\" found"
+                             | _ -> failwith "Several sections with template parameters found"
     {ClassDetailedDescription.TemplateParameters = templateParameters;
      ClassDetailedDescription.Description = detailedDescription}
+
+let parseMethodArg (source: XElement) =
+    let name = (source.Descendants("parametername") |> Seq.exactlyOne).Value
+    let description = source.Descendants("parameterdescription") |> Seq.exactlyOne |> parseSimpleMarkup
+    {MethodArg.Name = name; MethodArg.Description = description}
+
+let parseMethodArgs (source: XElement) =
+    source.Elements("parameteritem") |> Seq.map parseMethodArg |> Seq.toList
+
+let parseMethodDetailedDescription (source: XElement) =
+    let detailedDescription = source |> parseDetailedDescription
+    let returnValueSource = source.Descendants("simplesect") |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "return")
+    let returnValue = match returnValueSource |> Seq.toList with
+                      | [] -> []
+                      | [returnValueElement] -> returnValueElement |> parseSimpleMarkup
+                      | _ -> failwith "Several sections with return value found"
+    let methodArgsSource = source.Descendants("parameterlist") |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "param")
+    let methodArgs = match methodArgsSource |> Seq.toList with
+                     | [] -> []
+                     | [methodArgsElement] -> methodArgsElement |> parseMethodArgs
+                     | _ -> failwith "Several sections with method args found"
+    {MethodDetailedDescription.Args = methodArgs;
+     MethodDetailedDescription.ReturnValue = returnValue;
+     MethodDetailedDescription.Description = detailedDescription}

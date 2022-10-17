@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/fieldtoc/
 
 
 
+```cpp
+Aspose::Words::Fields::FieldToc::FieldToc()
+```
+

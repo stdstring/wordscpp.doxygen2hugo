@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_width/
 
 Gets or sets the width of the containing block of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_Width()
+```
+

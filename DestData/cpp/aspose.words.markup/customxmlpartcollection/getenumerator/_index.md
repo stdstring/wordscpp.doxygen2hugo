@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/getenumerator/
 
 Returns an enumerator object that can be used to iterate over all items in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Markup::CustomXmlPart>>> Aspose::Words::Markup::CustomXmlPartCollection::GetEnumerator() override
+```
+

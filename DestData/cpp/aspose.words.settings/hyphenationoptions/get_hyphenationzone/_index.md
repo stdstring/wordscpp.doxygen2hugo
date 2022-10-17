@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/hyphenationoptions/get_hyphenationzone/
 
 Gets or sets the distance in 1/20 of a point from the right margin within which you do not want to hyphenate words. Default value for this property is 360 (0.25 inch).
 
+```cpp
+int32_t Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone() const
+```
+

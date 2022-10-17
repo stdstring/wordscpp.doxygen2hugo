@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetoparagraph/
 
 Moves the cursor to a paragraph in the current section.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToParagraph(int32_t paragraphIndex, int32_t characterIndex)
+```
+

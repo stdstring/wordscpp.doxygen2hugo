@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_useword2010tablestyleru
 
 
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_UseWord2010TableStyleRules(bool value)
+```
+

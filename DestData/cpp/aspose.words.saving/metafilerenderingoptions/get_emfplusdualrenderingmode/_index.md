@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/get_emfplusdualrenderingm
 
 Gets or sets a value determining how EMF+ Dual metafiles should be rendered.
 
+```cpp
+Aspose::Words::Saving::EmfPlusDualRenderingMode Aspose::Words::Saving::MetafileRenderingOptions::get_EmfPlusDualRenderingMode() const
+```
+

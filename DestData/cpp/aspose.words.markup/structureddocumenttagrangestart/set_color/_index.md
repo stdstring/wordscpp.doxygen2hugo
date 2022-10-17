@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_color/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Color](./get_color/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Color(System::Drawing::Color value) override
+```
+

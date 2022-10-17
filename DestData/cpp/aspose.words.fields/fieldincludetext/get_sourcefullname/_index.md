@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_sourcefullname/
 
 Gets or sets the location of the document using an IRI.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludeText::get_SourceFullName() override
+```
+

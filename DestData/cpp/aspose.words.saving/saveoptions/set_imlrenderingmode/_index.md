@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_imlrenderingmode/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode](./get_imlrenderingmode/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_ImlRenderingMode(Aspose::Words::Saving::ImlRenderingMode value)
+```
+

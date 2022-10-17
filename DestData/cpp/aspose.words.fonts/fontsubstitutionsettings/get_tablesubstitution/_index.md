@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_tablesubstitution/
 
 [Settings](../../aspose.words.settings/) related to table substitution rule.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fonts::TableSubstitutionRule> Aspose::Words::Fonts::FontSubstitutionSettings::get_TableSubstitution() const
+```
+

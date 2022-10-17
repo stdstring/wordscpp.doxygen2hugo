@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldfillin/set_promptonceonmailmerge/
 
 Setter for [Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge](./get_promptonceonmailmerge/).
 
+```cpp
+void Aspose::Words::Fields::FieldFillIn::set_PromptOnceOnMailMerge(bool value)
+```
+

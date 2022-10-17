@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/row/get_lastcell/
 
 Returns the last **Cell** in the row.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::Tables::Row::get_LastCell()
+```
+

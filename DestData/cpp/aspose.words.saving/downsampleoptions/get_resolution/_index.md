@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/downsampleoptions/get_resolution/
 
 Specifies the resolution in pixels per inch which the images should be downsampled to.
 
+```cpp
+int32_t Aspose::Words::Saving::DownsampleOptions::get_Resolution() const
+```
+

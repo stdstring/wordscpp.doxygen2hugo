@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_sdttype/
 
 Gets type of this **Structured document tag**.
 
+```cpp
+Aspose::Words::Markup::SdtType Aspose::Words::Markup::StructuredDocumentTag::get_SdtType() override
+```
+

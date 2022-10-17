@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/contains/
 
 Returns true if a property with the specified name exists in the collection.
 
+```cpp
+bool Aspose::Words::Properties::DocumentPropertyCollection::Contains(const System::String &name)
+```
+

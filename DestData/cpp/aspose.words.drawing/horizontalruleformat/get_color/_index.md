@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/get_color/
 
 Gets or sets the brush color that fills the horizontal rule.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::HorizontalRuleFormat::get_Color()
+```
+

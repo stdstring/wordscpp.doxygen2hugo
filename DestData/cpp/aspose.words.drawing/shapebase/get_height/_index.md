@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_height/
 
 Gets or sets the height of the containing block of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_Height()
+```
+

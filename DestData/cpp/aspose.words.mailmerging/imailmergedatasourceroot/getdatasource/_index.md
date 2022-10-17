@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imailmergedatasourceroot/getdatasource/
 
 The Aspose.Words mail merge engine invokes this method when it encounters a beginning of a top-level mail merge region.
 
+```cpp
+virtual System::SharedPtr<Aspose::Words::MailMerging::IMailMergeDataSource> Aspose::Words::MailMerging::IMailMergeDataSourceRoot::GetDataSource(System::String tableName)=0
+```
+

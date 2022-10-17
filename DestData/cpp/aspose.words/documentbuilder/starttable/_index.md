@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/starttable/
 
 Starts a table in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Table> Aspose::Words::DocumentBuilder::StartTable()
+```
+

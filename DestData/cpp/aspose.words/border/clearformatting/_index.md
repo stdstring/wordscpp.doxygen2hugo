@@ -11,3 +11,7 @@ url: /cpp/aspose.words/border/clearformatting/
 
 Resets border properties to default values.
 
+```cpp
+void Aspose::Words::Border::ClearFormatting()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_alignment/
 
 Gets or sets text alignment for the paragraph.
 
+```cpp
+Aspose::Words::ParagraphAlignment Aspose::Words::ParagraphFormat::get_Alignment()
+```
+

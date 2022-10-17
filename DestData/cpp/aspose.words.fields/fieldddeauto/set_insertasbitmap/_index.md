@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_insertasbitmap/
 
 Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsBitmap](./get_insertasbitmap/).
 
+```cpp
+void Aspose::Words::Fields::FieldDdeAuto::set_InsertAsBitmap(bool value)
+```
+

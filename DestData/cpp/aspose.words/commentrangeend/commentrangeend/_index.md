@@ -11,3 +11,7 @@ url: /cpp/aspose.words/commentrangeend/commentrangeend/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::CommentRangeEnd::CommentRangeEnd(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, int32_t id)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcomments/get_text/
 
 Gets or sets the text of the comments.
 
+```cpp
+System::String Aspose::Words::Fields::FieldComments::get_Text()
+```
+

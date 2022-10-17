@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_field/
 
 Gets the object that represents the current merge field.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::FieldMergeField> & Aspose::Words::MailMerging::FieldMergingArgsBase::get_Field() const
+```
+

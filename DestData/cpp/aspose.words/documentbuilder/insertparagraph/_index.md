@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/insertparagraph/
 
 Inserts a paragraph break into the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::DocumentBuilder::InsertParagraph()
+```
+

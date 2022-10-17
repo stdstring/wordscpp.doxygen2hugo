@@ -1,7 +1,6 @@
 ﻿module Defs
 
 open System.Collections.Generic
-open System.Globalization
 open System.IO
 open System.Xml.Linq
 open Markup
@@ -47,9 +46,13 @@ type MethodDef = {Id: string;
                   IsVirtual: bool;
                   IsOverride: bool;
                   BriefDescription: SimpleMarkupDef list;
-                  DetailedDescription: string;
+                  DetailedDescription: MethodDetailedDescription;
+                  Definition: string;
+                  ArgString: string;
                   Parameters: MethodParameterDef list;
                   ReturnType: SimpleMarkupDef list}
+
+type MethodGroupDef = {Name: string; Methods: MethodDef[]}
 
 type ClassKind = 
     | Class
@@ -67,7 +70,7 @@ type ClassDef = {Id: string;
                  DetailedDescription: ClassDetailedDescription;
                  BaseClasses: BaseClassDef list;
                  TemplateParameters: string list;
-                 DirectMethods: MethodDef list;
+                 DirectMethods: MethodGroupDef list;
                  MemberRefs: Refs.MemberRef list}
 
 type NamespaceDef = {Id: string;
@@ -124,11 +127,13 @@ let findYesNoValue (name: string) (source: XElement) =
 //    {Description.Brief = brief; Description.Detailed = detailed}
 
 let parseBriefDescription (source: XElement) =
-    source.Element("briefdescription") |> Markup.parseMarkup
+    source.Element("briefdescription") |> Markup.parseSimpleMarkup
 
 let parseEnumDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
 
 let parseTypedefDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
+
+let parseMethodDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseMethodDetailedDescription
 
 let parseClassDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseClassDetailedDescription
 
@@ -256,7 +261,7 @@ let parseTypedefDef (context: Context) (source: XElement) =
 
 let parseMethodParameter (source: XElement) =
     let paramName = "declname" |> Utils.getElementValue source
-    let paramType = "type" |> Utils.getElement source |> Markup.parseMarkup
+    let paramType = "type" |> Utils.getElement source |> Markup.parseSimpleMarkup
     {MethodParameterDef.Name = paramName; MethodParameterDef.Type = paramType}
 
 [<Literal>]
@@ -270,11 +275,11 @@ let parseMethodDef (context: Context) (source: XElement) =
     let virtualValue = source |> getVirtualValue
     let name = "name" |> Utils.getElementValue source
     //let qualifiedName = "qualifiedname" |> getElementValue source
-    let returnType = "type" |> Utils.getElement source |> Markup.parseMarkup
-    //let definition = "definition" |> getElementValue source
+    let returnType = "type" |> Utils.getElement source |> Markup.parseSimpleMarkup
+    let definition = "definition" |> Utils.getElementValue source
     let argString = "argsstring" |> Utils.getElementValue source
     let briefDescription = source |> parseBriefDescription
-    let detailedDescription = ""
+    let detailedDescription = source |> parseMethodDetailedDescription
     let overrideValue = argString.EndsWith(OverrideSuffix)
     let parameters = source.Elements("param") |> Seq.map parseMethodParameter |> Seq.toList
     let methodDef = {MethodDef.Id = id;
@@ -288,6 +293,8 @@ let parseMethodDef (context: Context) (source: XElement) =
                      MethodDef.IsOverride = overrideValue;
                      MethodDef.BriefDescription = briefDescription;
                      MethodDef.DetailedDescription = detailedDescription;
+                     MethodDef.Definition = definition;
+                     MethodDef.ArgString = argString;
                      MethodDef.Parameters = parameters;
                      MethodDef.ReturnType = returnType}
     context.CommonEntityRepo.Add(id, methodDef |> EntityDef.Method)
@@ -299,6 +306,8 @@ let parseDirectMethods (context: Context) (source: XElement) =
         |> Seq.map (fun section -> section.Elements("memberdef"))
         |> Seq.concat
         |> Seq.map (fun element -> element |> parseMethodDef context)
+        |> Seq.groupBy (fun methodDef -> methodDef.Name)
+        |> Seq.map (fun (name, methods) -> {MethodGroupDef.Name = name; MethodGroupDef.Methods = methods |> Seq.toArray})
         |> Seq.toList
 
 let parseBaseClassDef (source: XElement) =

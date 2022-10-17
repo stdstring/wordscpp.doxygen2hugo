@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/systemfontsource/getsystemfontfolders/
 
 Returns system font folders or empty array if folders are not accessible.
 
+```cpp
+static System::ArrayPtr<System::String> Aspose::Words::Fonts::SystemFontSource::GetSystemFontFolders()
+```
+

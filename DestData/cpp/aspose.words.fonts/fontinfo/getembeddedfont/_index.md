@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/getembeddedfont/
 
 Gets a specific embedded font file.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::GetEmbeddedFont(Aspose::Words::Fonts::EmbeddedFontFormat format, Aspose::Words::Fonts::EmbeddedFontStyle style)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_current/
 
 Gets or sets current position in the page layout model. This property returns an opaque object which corresponds to the current layout entity.
 
+```cpp
+const System::SharedPtr<System::Object> & Aspose::Words::Layout::LayoutEnumerator::get_Current() const
+```
+

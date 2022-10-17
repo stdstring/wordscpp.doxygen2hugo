@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitshapeend/
 
 Called when enumeration of a shape has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitShapeEnd(System::SharedPtr<Aspose::Words::Drawing::Shape> shape)
+```
+

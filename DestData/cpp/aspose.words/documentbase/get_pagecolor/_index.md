@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_pagecolor/
 
 Gets or sets the page color of the document. This property is a simpler version of [BackgroundShape](./get_backgroundshape/).
 
+```cpp
+System::Drawing::Color Aspose::Words::DocumentBase::get_PageColor()
+```
+

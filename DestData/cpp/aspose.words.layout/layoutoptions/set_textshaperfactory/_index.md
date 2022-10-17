@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/set_textshaperfactory/
 
 Setter for [Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory](./get_textshaperfactory/).
 
+```cpp
+void Aspose::Words::Layout::LayoutOptions::set_TextShaperFactory(const System::SharedPtr<Aspose::Words::Shaping::ITextShaperFactory> &value)
+```
+

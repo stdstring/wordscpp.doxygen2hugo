@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_lines/
 
 Represents an estimate of the number of lines in the document.
 
+```cpp
+int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines()
+```
+

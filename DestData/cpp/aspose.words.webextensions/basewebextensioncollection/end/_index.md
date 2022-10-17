@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/end/
 ---
-## BaseWebExtensionCollection.end method
+## BaseWebExtensionCollection.end() const method
 
 
 
 
----
-title: end
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.webextensions/basewebextensioncollection/end/
----
-## BaseWebExtensionCollection.end method
+```cpp
+const_iterator Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::end() const noexcept
+```
+
+## BaseWebExtensionCollection.end() method
 
 
 
+
+```cpp
+iterator Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::end() noexcept
+```
 

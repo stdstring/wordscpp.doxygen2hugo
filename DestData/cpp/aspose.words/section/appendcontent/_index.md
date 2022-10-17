@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/appendcontent/
 
 Inserts a copy of content of the source section at the end of this section.
 
+```cpp
+void Aspose::Words::Section::AppendContent(const System::SharedPtr<Aspose::Words::Section> &sourceSection)
+```
+

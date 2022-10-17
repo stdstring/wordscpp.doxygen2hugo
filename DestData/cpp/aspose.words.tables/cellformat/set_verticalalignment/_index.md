@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/set_verticalalignment/
 
 Setter for [Aspose::Words::Tables::CellFormat::get_VerticalAlignment](./get_verticalalignment/).
 
+```cpp
+void Aspose::Words::Tables::CellFormat::set_VerticalAlignment(Aspose::Words::Tables::CellVerticalAlignment value)
+```
+

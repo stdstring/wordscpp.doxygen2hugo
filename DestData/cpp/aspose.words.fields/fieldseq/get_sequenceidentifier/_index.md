@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseq/get_sequenceidentifier/
 
 Gets or sets the name assigned to the series of items that are to be numbered.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSeq::get_SequenceIdentifier()
+```
+

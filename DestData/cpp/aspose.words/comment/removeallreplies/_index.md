@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/removeallreplies/
 
 Removes all replies to this comment.
 
+```cpp
+void Aspose::Words::Comment::RemoveAllReplies()
+```
+

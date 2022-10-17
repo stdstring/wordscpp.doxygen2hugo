@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_fontname/
 
 Gets or sets the name of the font of the character retrieved by the field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSymbol::get_FontName()
+```
+

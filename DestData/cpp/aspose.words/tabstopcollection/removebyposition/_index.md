@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstopcollection/removebyposition/
 
 Removes a tab stop at the specified position from the collection.
 
+```cpp
+void Aspose::Words::TabStopCollection::RemoveByPosition(double position)
+```
+

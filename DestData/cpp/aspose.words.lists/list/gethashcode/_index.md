@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/gethashcode/
 
 Calculates hash code for this list object.
 
+```cpp
+int32_t Aspose::Words::Lists::List::GetHashCode() const override
+```
+

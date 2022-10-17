@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_signatureline/
 
 Gets [SignatureLine](./get_signatureline/) object if the shape is a signature line. Returns **null** otherwise.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::SignatureLine> Aspose::Words::Drawing::Shape::get_SignatureLine()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_cropright/
 
 Setter for [Aspose::Words::Drawing::ImageData::get_CropRight](./get_cropright/).
 
+```cpp
+void Aspose::Words::Drawing::ImageData::set_CropRight(double value)
+```
+

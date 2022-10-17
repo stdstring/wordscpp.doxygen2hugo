@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/tobool/
 
 Returns the property value as bool.
 
+```cpp
+bool Aspose::Words::Properties::DocumentProperty::ToBool()
+```
+

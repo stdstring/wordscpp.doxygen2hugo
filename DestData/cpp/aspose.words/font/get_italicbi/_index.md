@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_italicbi/
 
 True if the right-to-left text is formatted as italic.
 
+```cpp
+bool Aspose::Words::Font::get_ItalicBi()
+```
+

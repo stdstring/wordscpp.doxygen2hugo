@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_serverurl
 
 Timestamp server URL.
 
+```cpp
+void Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_ServerUrl(const System::String &value)
+```
+

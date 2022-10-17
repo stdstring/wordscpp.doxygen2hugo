@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/set_stroked/
 
 Setter for [Aspose::Words::Drawing::Shape::get_Stroked](./get_stroked/).
 
+```cpp
+void Aspose::Words::Drawing::Shape::set_Stroked(bool value)
+```
+

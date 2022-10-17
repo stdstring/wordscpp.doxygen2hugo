@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/clearformatting/
 
 Resets to default font formatting.
 
+```cpp
+void Aspose::Words::Font::ClearFormatting()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/toacategories/get_defaultcategories/
 
 Gets the default table of authorities categories.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Fields::ToaCategories> Aspose::Words::Fields::ToaCategories::get_DefaultCategories()
+```
+

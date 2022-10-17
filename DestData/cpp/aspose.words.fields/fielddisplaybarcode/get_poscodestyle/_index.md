@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_poscodestyle/
 
 Gets or sets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE].
 
+```cpp
+System::String Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle()
+```
+

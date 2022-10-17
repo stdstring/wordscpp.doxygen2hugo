@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmark/remove/
 
 Removes the bookmark from the document. Does not remove text inside the bookmark.
 
+```cpp
+void Aspose::Words::Bookmark::Remove()
+```
+

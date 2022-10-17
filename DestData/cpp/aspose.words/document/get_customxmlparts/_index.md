@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_customxmlparts/
 
 Gets or sets the collection of Custom XML Data Storage Parts.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPartCollection> Aspose::Words::Document::get_CustomXmlParts() const
+```
+

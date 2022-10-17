@@ -11,3 +11,7 @@ url: /cpp/aspose.words/cleanupoptions/set_unusedbuiltinstyles/
 
 Setter for [Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles](./get_unusedbuiltinstyles/).
 
+```cpp
+void Aspose::Words::CleanupOptions::set_UnusedBuiltinStyles(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/markdownsaveoptions/markdownsaveoptions/
 
 Initializes a new instance of this class that can be used to save a document in the **Markdown** format.
 
+```cpp
+Aspose::Words::Saving::MarkdownSaveOptions::MarkdownSaveOptions()
+```
+

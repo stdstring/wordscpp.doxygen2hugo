@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/set_islocked/
 
 Setter for [Aspose::Words::Drawing::OleFormat::get_IsLocked](./get_islocked/).
 
+```cpp
+void Aspose::Words::Drawing::OleFormat::set_IsLocked(bool value)
+```
+

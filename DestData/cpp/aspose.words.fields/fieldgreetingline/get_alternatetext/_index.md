@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgreetingline/get_alternatetext/
 
 Gets the text to include in the field if the name is blank.
 
+```cpp
+System::String Aspose::Words::Fields::FieldGreetingLine::get_AlternateText()
+```
+

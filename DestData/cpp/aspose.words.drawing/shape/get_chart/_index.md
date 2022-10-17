@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_chart/
 
 Provides access to the chart properties if this shape has a Chart.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::Chart> Aspose::Words::Drawing::Shape::get_Chart()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetoheaderfooter/
 
 Moves the cursor to the beginning of a header or footer in the current section.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToHeaderFooter(Aspose::Words::HeaderFooterType headerFooterType)
+```
+

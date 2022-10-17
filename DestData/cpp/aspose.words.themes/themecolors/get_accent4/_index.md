@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_accent4/
 
 Specifies color Accent 4.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Accent4()
+```
+

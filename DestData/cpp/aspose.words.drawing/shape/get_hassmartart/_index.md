@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_hassmartart/
 
 Returns true if this [Shape](./) has a SmartArt object.
 
+```cpp
+bool Aspose::Words::Drawing::Shape::get_HasSmartArt()
+```
+

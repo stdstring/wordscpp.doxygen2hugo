@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/getenumerator/
 
 Gets the enumerator object that will enumerate lists in the document.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Lists::List>>> Aspose::Words::Lists::ListCollection::GetEnumerator() override
+```
+

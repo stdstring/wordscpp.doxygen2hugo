@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldfillin/get_defaultresponse/
 
 Gets or sets default user response (initial value contained in the prompt window).
 
+```cpp
+System::String Aspose::Words::Fields::FieldFillIn::get_DefaultResponse()
+```
+

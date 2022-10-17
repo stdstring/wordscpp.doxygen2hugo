@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_styleidentifier/
 
 Setter for [Aspose::Words::Tables::Table::get_StyleIdentifier](./get_styleidentifier/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_StyleIdentifier(Aspose::Words::StyleIdentifier value)
+```
+

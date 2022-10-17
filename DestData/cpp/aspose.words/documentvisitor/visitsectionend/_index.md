@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitsectionend/
 
 Called when enumeration of a section has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSectionEnd(System::SharedPtr<Aspose::Words::Section> section)
+```
+

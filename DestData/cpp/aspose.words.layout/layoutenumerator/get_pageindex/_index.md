@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_pageindex/
 
 Gets the 1-based index of a page which contains the current entity.
 
+```cpp
+int32_t Aspose::Words::Layout::LayoutEnumerator::get_PageIndex()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_mappeddatafields/
 
 Returns a collection that represents mapped data fields for the mail merge operation.
 
+```cpp
+System::SharedPtr<Aspose::Words::MailMerging::MappedDataFieldCollection> Aspose::Words::MailMerging::MailMerge::get_MappedDataFields()
+```
+

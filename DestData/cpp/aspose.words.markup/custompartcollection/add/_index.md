@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompartcollection/add/
 
 Adds an item to the collection.
 
+```cpp
+void Aspose::Words::Markup::CustomPartCollection::Add(const System::SharedPtr<Aspose::Words::Markup::CustomPart> &part)
+```
+

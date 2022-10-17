@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_target/
 
 Specifies which document shall be used as a target during comparison.
 
+```cpp
+Aspose::Words::Comparing::ComparisonTargetType Aspose::Words::Comparing::CompareOptions::get_Target() const
+```
+

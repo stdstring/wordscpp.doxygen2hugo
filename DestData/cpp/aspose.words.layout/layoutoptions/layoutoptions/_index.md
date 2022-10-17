@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/layoutoptions/
 
 
 
+```cpp
+Aspose::Words::Layout::LayoutOptions::LayoutOptions()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_password/
 
 Gets/sets a password to encrypt document using ECMA376 Standard encryption algorithm.
 
+```cpp
+System::String Aspose::Words::Saving::OoxmlSaveOptions::get_Password() const
+```
+

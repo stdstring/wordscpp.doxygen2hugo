@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/set_tableformat/
 
 Sets the format that is to be applied to the result of the database query.
 
+```cpp
+void Aspose::Words::Fields::FieldDatabase::set_TableFormat(const System::String &value)
+```
+

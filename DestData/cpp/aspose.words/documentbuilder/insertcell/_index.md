@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/insertcell/
 
 Inserts a table cell into the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::DocumentBuilder::InsertCell()
+```
+

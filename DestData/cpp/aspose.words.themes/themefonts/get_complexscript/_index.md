@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themefonts/get_complexscript/
 
 Specifies font name for ComplexScript characters.
 
+```cpp
+System::String Aspose::Words::Themes::ThemeFonts::get_ComplexScript()
+```
+

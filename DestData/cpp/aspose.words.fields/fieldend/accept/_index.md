@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldend/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Fields::FieldEnd::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

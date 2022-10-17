@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_position/
 
 Gets or sets the position of text (in points) relative to the base line. A positive number raises the text, and a negative number lowers it.
 
+```cpp
+double Aspose::Words::Font::get_Position()
+```
+

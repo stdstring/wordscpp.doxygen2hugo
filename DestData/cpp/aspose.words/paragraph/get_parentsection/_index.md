@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_parentsection/
 
 Retrieves the parent [Section](../section/) of the paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::Paragraph::get_ParentSection()
+```
+

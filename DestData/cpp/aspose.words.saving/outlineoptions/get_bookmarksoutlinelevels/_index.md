@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/outlineoptions/get_bookmarksoutlinelevels/
 
 Allows to specify individual bookmarks outline level.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::BookmarksOutlineLevelCollection> Aspose::Words::Saving::OutlineOptions::get_BookmarksOutlineLevels() const
+```
+

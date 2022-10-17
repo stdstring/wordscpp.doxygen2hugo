@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/idx_get/
 
 Gets or sets an item at the specified index.
 
+```cpp
+T Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::idx_get(int32_t index)
+```
+

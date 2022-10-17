@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_distancefromtext/
 
 Gets or sets distance of the border from text in points.
 
+```cpp
+double Aspose::Words::BorderCollection::get_DistanceFromText()
+```
+

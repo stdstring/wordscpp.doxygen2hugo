@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_tag/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Tag](./get_tag/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Tag(System::String value) override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/presettextured/
 
 Sets the fill to a preset texture.
 
+```cpp
+void Aspose::Words::Drawing::Fill::PresetTextured(Aspose::Words::Drawing::PresetTexture presetTexture)
+```
+

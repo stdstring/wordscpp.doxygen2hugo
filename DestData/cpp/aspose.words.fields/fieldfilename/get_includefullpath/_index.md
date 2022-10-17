@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldfilename/get_includefullpath/
 
 Gets or sets whether to include the full file path name.
 
+```cpp
+bool Aspose::Words::Fields::FieldFileName::get_IncludeFullPath()
+```
+

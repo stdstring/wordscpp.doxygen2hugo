@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/get_exportimagesforoldreaders/
 
 Specifies whether the keywords for "old readers" are written to RTF or not. This can significantly affect the size of the RTF document. Default value is **true**.
 
+```cpp
+bool Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders() const
+```
+

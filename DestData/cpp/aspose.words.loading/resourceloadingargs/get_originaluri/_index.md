@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/resourceloadingargs/get_originaluri/
 
 Original URI of the resource as specified in imported document.
 
+```cpp
+System::String Aspose::Words::Loading::ResourceLoadingArgs::get_OriginalUri() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_useinvariantculturenumberformat/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat](./get_useinvariantculturenumberformat/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_UseInvariantCultureNumberFormat(bool value)
+```
+

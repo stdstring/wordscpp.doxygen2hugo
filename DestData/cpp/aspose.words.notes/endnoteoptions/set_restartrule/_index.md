@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/endnoteoptions/set_restartrule/
 
 Setter for [Aspose::Words::Notes::EndnoteOptions::get_RestartRule](./get_restartrule/).
 
+```cpp
+void Aspose::Words::Notes::EndnoteOptions::set_RestartRule(Aspose::Words::Notes::FootnoteNumberingRule value) override
+```
+

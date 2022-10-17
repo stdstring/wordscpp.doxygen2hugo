@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_pagestartingnumber/
 
 Gets or sets the starting page number of the section.
 
+```cpp
+int32_t Aspose::Words::PageSetup::get_PageStartingNumber()
+```
+

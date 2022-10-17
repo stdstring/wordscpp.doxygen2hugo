@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_linespacing/
 
 Returns line spacing of this font (in points).
 
+```cpp
+double Aspose::Words::Font::get_LineSpacing()
+```
+

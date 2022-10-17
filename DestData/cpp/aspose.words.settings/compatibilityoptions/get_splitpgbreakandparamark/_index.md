@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_splitpgbreakandparamark
 
 Always Move [Paragraph](../../aspose.words/paragraph/) Mark to Page after a Page Break.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SplitPgBreakAndParaMark()
+```
+

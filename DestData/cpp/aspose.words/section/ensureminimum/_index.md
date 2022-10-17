@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/ensureminimum/
 
 Ensures that the section has [Body](../body/) with one [Paragraph](../paragraph/).
 
+```cpp
+void Aspose::Words::Section::EnsureMinimum()
+```
+

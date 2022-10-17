@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_usesubstitutions/
 
 Gets or sets a boolean value indicating whether to recognize and use substitutions within replacement patterns. The default value is **false**.
 
+```cpp
+bool Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions() const
+```
+

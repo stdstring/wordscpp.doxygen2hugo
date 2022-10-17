@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_signaturedate/
 
 Gets or sets the date of the signing.
 
+```cpp
+System::DateTime Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate() const
+```
+

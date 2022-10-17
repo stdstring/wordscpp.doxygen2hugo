@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_outline/
 
 True if the font is formatted as outline.
 
+```cpp
+bool Aspose::Words::Font::get_Outline()
+```
+

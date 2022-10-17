@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_useantialiasing/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](./get_useantialiasing/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_UseAntiAliasing(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportlistlabels/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportListLabels](./get_exportlistlabels/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportListLabels(Aspose::Words::Saving::ExportListLabels value)
+```
+

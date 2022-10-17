@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_ischeckboxexactsize/
 
 Setter for [Aspose::Words::Fields::FormField::get_IsCheckBoxExactSize](./get_ischeckboxexactsize/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_IsCheckBoxExactSize(bool value)
+```
+

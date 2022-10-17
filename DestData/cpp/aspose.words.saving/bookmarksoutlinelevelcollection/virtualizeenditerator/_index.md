@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizeenditera
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeEndIterator() override
+```
+

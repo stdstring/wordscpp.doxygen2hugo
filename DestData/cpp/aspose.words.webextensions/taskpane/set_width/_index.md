@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/set_width/
 
 Setter for [Aspose::Words::WebExtensions::TaskPane::get_Width](./get_width/).
 
+```cpp
+void Aspose::Words::WebExtensions::TaskPane::set_Width(double value)
+```
+

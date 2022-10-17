@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_cssstylesheetfilename/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetFileName](./get_cssstylesheetfilename/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_CssStyleSheetFileName(const System::String &value)
+```
+

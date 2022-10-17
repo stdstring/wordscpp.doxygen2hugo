@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/todatetime/
 
 Returns the property value as DateTime in UTC.
 
+```cpp
+System::DateTime Aspose::Words::Properties::DocumentProperty::ToDateTime()
+```
+

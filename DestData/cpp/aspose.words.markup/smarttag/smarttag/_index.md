@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/smarttag/smarttag/
 
 Initializes a new instance of the [SmartTag](./) class.
 
+```cpp
+Aspose::Words::Markup::SmartTag::SmartTag(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

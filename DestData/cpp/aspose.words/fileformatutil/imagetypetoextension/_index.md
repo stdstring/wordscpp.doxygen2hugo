@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/imagetypetoextension/
 
 Converts an Aspose.Words image type enumerated value into a file extension. The returned extension is a lower-case string with a leading dot.
 
+```cpp
+static System::String Aspose::Words::FileFormatUtil::ImageTypeToExtension(Aspose::Words::Drawing::ImageType imageType)
+```
+

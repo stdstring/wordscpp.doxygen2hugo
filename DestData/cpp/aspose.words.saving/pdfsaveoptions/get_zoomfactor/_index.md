@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_zoomfactor/
 
 Gets or sets a value determining zoom factor (in percentages) for a document.
 
+```cpp
+int32_t Aspose::Words::Saving::PdfSaveOptions::get_ZoomFactor() const
+```
+

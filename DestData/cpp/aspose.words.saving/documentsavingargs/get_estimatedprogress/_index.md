@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/documentsavingargs/get_estimatedprogress/
 
 Overall estimated percentage progress.
 
+```cpp
+double Aspose::Words::Saving::DocumentSavingArgs::get_EstimatedProgress() const
+```
+

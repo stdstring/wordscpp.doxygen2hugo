@@ -11,3 +11,7 @@ url: /cpp/aspose.words/buildversioninfo/get_product/
 
 Gets the full name of the product.
 
+```cpp
+static System::String Aspose::Words::BuildVersionInfo::get_Product()
+```
+

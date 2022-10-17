@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/idx_get/
 
 Gets or sets an item in this collection.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData> Aspose::Words::Settings::OdsoRecipientDataCollection::idx_get(int32_t index)
+```
+

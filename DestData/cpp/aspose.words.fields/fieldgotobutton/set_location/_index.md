@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgotobutton/set_location/
 
 Setter for [Aspose::Words::Fields::FieldGoToButton::get_Location](./get_location/).
 
+```cpp
+void Aspose::Words::Fields::FieldGoToButton::set_Location(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportheadersfootersmode/
 
 Specifies how headers and footers are output to HTML, MHTML or EPUB. Default value is **PerSection** for HTML/MHTML and **None** for EPUB.
 
+```cpp
+Aspose::Words::Saving::ExportHeadersFootersMode Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode() const
+```
+

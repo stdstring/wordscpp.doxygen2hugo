@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_isframe/
 
 Returns true if the paragraph is a frame.
 
+```cpp
+bool Aspose::Words::FrameFormat::get_IsFrame()
+```
+

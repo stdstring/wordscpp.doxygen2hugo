@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/get_numberseparator/
 
 Gets or sets the character sequence that is used to separate sequence numbers and page numbers.
 
+```cpp
+System::String Aspose::Words::Fields::FieldRef::get_NumberSeparator()
+```
+

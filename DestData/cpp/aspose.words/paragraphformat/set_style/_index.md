@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_style/
 
 Setter for [Aspose::Words::ParagraphFormat::get_Style](./get_style/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_Style(const System::SharedPtr<Aspose::Words::Style> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldautonum/get_separatorcharacter/
 
 Gets or sets the separator character to be used.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter()
+```
+

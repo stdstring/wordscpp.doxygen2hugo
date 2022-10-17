@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/removemacros/
 
 Removes all macros (the VBA project) as well as toolbars and command customizations from the document.
 
+```cpp
+void Aspose::Words::Document::RemoveMacros()
+```
+

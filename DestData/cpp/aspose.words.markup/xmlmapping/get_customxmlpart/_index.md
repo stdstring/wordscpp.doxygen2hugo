@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/xmlmapping/get_customxmlpart/
 
 Returns the custom XML data part to which the parent structured document tag is mapped.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::XmlMapping::get_CustomXmlPart()
+```
+

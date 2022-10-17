@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/get_range/
 
 Returns a **Range** object that represents the portion of a document that is contained in this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Range> Aspose::Words::Node::get_Range()
+```
+

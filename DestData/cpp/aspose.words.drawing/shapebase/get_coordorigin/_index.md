@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_coordorigin/
 
 The coordinates at the top-left corner of the containing block of this shape.
 
+```cpp
+System::Drawing::Point Aspose::Words::Drawing::ShapeBase::get_CoordOrigin()
+```
+

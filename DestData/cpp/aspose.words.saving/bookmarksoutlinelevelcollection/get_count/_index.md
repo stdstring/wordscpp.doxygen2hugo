@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/get_count/
 
 Gets the number of elements contained in the collection.
 
+```cpp
+int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::get_Count()
+```
+

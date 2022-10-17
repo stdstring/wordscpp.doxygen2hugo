@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_localeidfareast/
 
 Gets or sets the locale identifier (language) of the formatted Asian characters.
 
+```cpp
+int32_t Aspose::Words::Font::get_LocaleIdFarEast()
+```
+

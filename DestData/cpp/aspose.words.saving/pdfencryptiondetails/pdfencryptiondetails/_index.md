@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/pdfencryptiondetails/
 
 Initializes an instance of this class.
 
+```cpp
+Aspose::Words::Saving::PdfEncryptionDetails::PdfEncryptionDetails(const System::String &userPassword, const System::String &ownerPassword)
+```
+

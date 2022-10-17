@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_contentsfont/
 
 [Font](../../aspose.words/font/) formatting that will be applied to text entered into **SDT**.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Markup::StructuredDocumentTag::get_ContentsFont()
+```
+

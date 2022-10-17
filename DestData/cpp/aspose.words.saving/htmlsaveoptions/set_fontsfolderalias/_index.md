@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolderalias/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias](./get_fontsfolderalias/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_FontsFolderAlias(const System::String &value)
+```
+

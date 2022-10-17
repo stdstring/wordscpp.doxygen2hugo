@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_count/
 
 Gets the number of borders in the collection.
 
+```cpp
+int32_t Aspose::Words::BorderCollection::get_Count()
+```
+

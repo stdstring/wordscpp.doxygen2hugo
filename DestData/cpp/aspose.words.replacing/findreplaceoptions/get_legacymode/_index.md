@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_legacymode/
 
 Gets or sets a boolean value indicating that old find/replace algorithm is used.
 
+```cpp
+bool Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode() const
+```
+

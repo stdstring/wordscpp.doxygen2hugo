@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionproperty/webextensionproperty/
 
 Creates web extension custom property with specified name and value.
 
+```cpp
+Aspose::Words::WebExtensions::WebExtensionProperty::WebExtensionProperty(const System::String &name, const System::String &value)
+```
+

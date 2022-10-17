@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_style/
 
 Gets or sets the table style applied to this table.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::Tables::Table::get_Style()
+```
+

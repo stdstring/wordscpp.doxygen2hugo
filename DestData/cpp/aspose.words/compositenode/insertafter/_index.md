@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/insertafter/
 
 Inserts the specified node immediately after the specified reference node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::InsertAfter(const System::SharedPtr<Aspose::Words::Node> &newChild, const System::SharedPtr<Aspose::Words::Node> &refChild)
+```
+

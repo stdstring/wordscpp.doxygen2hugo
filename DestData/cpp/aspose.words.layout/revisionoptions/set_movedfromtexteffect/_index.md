@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_movedfromtexteffect/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_MovedFromTextEffect](./get_movedfromtexteffect/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_MovedFromTextEffect(Aspose::Words::Layout::RevisionTextEffect value)
+```
+

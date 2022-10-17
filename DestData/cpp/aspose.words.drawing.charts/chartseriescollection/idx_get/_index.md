@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/idx_get/
 
 Returns a [ChartSeries](../chartseries/) at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Drawing::Charts::ChartSeriesCollection::idx_get(int32_t index)
+```
+

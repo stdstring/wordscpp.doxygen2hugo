@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/idx_set/
 
 Gets or sets the element at the specified index.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlSchemaCollection::idx_set(int32_t index, const System::String &value)
+```
+

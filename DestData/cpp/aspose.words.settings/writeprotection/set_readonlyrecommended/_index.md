@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/writeprotection/set_readonlyrecommended/
 
 Setter for [Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended](./get_readonlyrecommended/).
 
+```cpp
+void Aspose::Words::Settings::WriteProtection::set_ReadOnlyRecommended(bool value)
+```
+

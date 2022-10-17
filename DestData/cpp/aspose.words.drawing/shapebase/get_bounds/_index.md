@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_bounds/
 
 Gets or sets the location and size of the containing block of the shape.
 
+```cpp
+System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_Bounds()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_title/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title](./get_title/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Title(System::String value) override
+```
+

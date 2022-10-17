@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutcollector/get_document/
 
 Gets or sets the document this collector instance is attached to.
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::Layout::LayoutCollector::get_Document() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizebeginconstiterato
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginConstIterator() const override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbytag/
 
 Returns the first structured document tag encountered in the collection with the specified tag.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTag(const System::String &tag)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_bubble3d/
 
 Specifies whether the bubbles in Bubble chart should have a 3-D effect applied to them.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartSeries::get_Bubble3D() override
+```
+

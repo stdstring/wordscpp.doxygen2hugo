@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_shading/
 
 Gets a [Shading](../shading/) object that refers to the shading formatting for table cells.
 
+```cpp
+System::SharedPtr<Aspose::Words::Shading> Aspose::Words::TableStyle::get_Shading()
+```
+

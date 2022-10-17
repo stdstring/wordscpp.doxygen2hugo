@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/get_isimagemap/
 
 Gets or sets whether to append coordinates to the hyperlink for a server-side image map.
 
+```cpp
+bool Aspose::Words::Fields::FieldHyperlink::get_IsImageMap()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Clear()
+```
+

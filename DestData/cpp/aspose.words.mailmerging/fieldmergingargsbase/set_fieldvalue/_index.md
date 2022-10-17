@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/set_fieldvalue/
 
 Sets the value of the field from the data source.
 
+```cpp
+void Aspose::Words::MailMerging::FieldMergingArgsBase::set_FieldValue(const System::SharedPtr<System::Object> &value)
+```
+

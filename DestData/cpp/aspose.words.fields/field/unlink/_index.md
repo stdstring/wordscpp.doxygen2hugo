@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/unlink/
 
 Performs the field unlink.
 
+```cpp
+bool Aspose::Words::Fields::Field::Unlink()
+```
+

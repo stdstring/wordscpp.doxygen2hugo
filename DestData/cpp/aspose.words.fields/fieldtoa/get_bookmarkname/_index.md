@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/get_bookmarkname/
 
 Gets or sets the name of the bookmark that marks the portion of the document used to build the table.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToa::get_BookmarkName()
+```
+

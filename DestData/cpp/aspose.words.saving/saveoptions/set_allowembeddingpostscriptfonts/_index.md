@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_allowembeddingpostscriptfonts/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts](./get_allowembeddingpostscriptfonts/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_AllowEmbeddingPostScriptFonts(bool value)
+```
+

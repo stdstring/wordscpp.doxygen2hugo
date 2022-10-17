@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/contains/
 
 Determines whether a node is in the collection.
 
+```cpp
+bool Aspose::Words::NodeCollection::Contains(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

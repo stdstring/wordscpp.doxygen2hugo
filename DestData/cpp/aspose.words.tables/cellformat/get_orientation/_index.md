@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_orientation/
 
 Returns or sets the orientation of text in a table cell.
 
+```cpp
+Aspose::Words::TextOrientation Aspose::Words::Tables::CellFormat::get_Orientation()
+```
+

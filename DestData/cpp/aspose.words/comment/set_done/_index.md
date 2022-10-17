@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/set_done/
 
 Setter for [Aspose::Words::Comment::get_Done](./get_done/).
 
+```cpp
+void Aspose::Words::Comment::set_Done(bool value)
+```
+

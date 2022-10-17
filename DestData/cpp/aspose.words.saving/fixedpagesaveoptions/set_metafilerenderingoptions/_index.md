@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_metafilerenderingoptions/
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions](./get_metafilerenderingoptions/).
 
+```cpp
+void Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions(const System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> &value)
+```
+

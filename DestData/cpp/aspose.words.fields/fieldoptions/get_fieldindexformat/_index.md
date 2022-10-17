@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldindexformat/
 
 Gets or sets a [FieldIndexFormat](./get_fieldindexformat/) that represents the formatting for the [FieldIndex](../fieldindex/) fields in the document.
 
+```cpp
+Aspose::Words::Fields::FieldIndexFormat Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat()
+```
+

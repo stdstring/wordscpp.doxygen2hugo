@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_size/
 
 Gets or sets the font size in points.
 
+```cpp
+double Aspose::Words::Font::get_Size()
+```
+

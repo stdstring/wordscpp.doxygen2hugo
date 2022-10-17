@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/remove/
 
 Removes the specified value from the collection.
 
+```cpp
+void Aspose::Words::Fields::DropDownItemCollection::Remove(const System::String &name)
+```
+

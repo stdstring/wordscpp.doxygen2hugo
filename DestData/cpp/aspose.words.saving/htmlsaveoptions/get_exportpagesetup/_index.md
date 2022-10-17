@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportpagesetup/
 
 Specifies whether page setup is exported to HTML, MHTML or EPUB. Default is **false**.
 
+```cpp
+bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup() const
+```
+

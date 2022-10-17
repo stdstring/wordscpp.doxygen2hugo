@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_styles/
 
 Returns a collection of styles defined in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::StyleCollection> Aspose::Words::DocumentBase::get_Styles() const
+```
+

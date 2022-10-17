@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpanecollection/settemplateweakptr/
 
 
 
+```cpp
+void Aspose::Words::WebExtensions::TaskPaneCollection::SetTemplateWeakPtr(uint32_t argument) override
+```
+

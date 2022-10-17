@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagesize/get_widthpixels/
 
 Gets the width of the image in pixels.
 
+```cpp
+int32_t Aspose::Words::Drawing::ImageSize::get_WidthPixels() const
+```
+

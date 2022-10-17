@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/pageinfo/get_widthinpoints/
 
 Gets the width of the page in points.
 
+```cpp
+float Aspose::Words::Rendering::PageInfo::get_WidthInPoints()
+```
+

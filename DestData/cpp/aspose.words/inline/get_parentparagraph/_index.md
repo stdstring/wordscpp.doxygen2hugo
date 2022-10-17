@@ -11,3 +11,7 @@ url: /cpp/aspose.words/inline/get_parentparagraph/
 
 Retrieves the parent [Paragraph](../paragraph/) of this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Inline::get_ParentParagraph()
+```
+

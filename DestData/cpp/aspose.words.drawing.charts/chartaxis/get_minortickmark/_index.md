@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_minortickmark/
 
 Returns or sets the minor tick marks for the axis.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisTickMark Aspose::Words::Drawing::Charts::ChartAxis::get_MinorTickMark()
+```
+

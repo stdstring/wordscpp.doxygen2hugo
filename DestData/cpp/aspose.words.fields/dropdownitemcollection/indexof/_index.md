@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/indexof/
 
 Returns the zero-based index of the specified value in the collection.
 
+```cpp
+int32_t Aspose::Words::Fields::DropDownItemCollection::IndexOf(const System::String &value)
+```
+

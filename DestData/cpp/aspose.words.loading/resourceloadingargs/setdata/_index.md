@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/resourceloadingargs/setdata/
 
 Sets user provided data of the resource which is used if [ResourceLoading()](../iresourceloadingcallback/resourceloading/) returns **UserProvided**.
 
+```cpp
+void Aspose::Words::Loading::ResourceLoadingArgs::SetData(const System::ArrayPtr<uint8_t> &data)
+```
+

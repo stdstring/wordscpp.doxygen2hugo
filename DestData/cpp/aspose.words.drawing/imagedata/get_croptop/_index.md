@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_croptop/
 
 Defines the fraction of picture removal from the top side.
 
+```cpp
+double Aspose::Words::Drawing::ImageData::get_CropTop()
+```
+

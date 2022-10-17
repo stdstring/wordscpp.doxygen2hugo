@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_password/
 
 Gets or sets the password for opening an encrypted document. Can be null or empty string. Default is null.
 
+```cpp
+System::String Aspose::Words::Loading::LoadOptions::get_Password() const
+```
+

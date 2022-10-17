@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/get_symbol/
 
 Gets or sets chart marker symbol.
 
+```cpp
+Aspose::Words::Drawing::Charts::MarkerSymbol Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol()
+```
+

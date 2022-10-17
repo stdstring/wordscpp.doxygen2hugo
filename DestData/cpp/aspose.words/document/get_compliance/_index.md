@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_compliance/
 
 Gets the OOXML compliance version determined from the loaded document content. Makes sense only for OOXML documents.
 
+```cpp
+Aspose::Words::Saving::OoxmlCompliance Aspose::Words::Document::get_Compliance()
+```
+

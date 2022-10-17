@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_spaceafter/
 
 Gets or sets the amount of spacing (in points) after the paragraph.
 
+```cpp
+double Aspose::Words::ParagraphFormat::get_SpaceAfter()
+```
+

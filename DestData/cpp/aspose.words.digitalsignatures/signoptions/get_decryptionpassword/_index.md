@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_decryptionpassword/
 
 The password to decrypt source document. Default value is **empty string**.
 
+```cpp
+System::String Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword() const
+```
+

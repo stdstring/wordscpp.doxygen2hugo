@@ -11,3 +11,7 @@ url: /cpp/aspose.words/convertutil/pixeltonewdpi/
 
 Converts pixels from one resolution to another.
 
+```cpp
+static int32_t Aspose::Words::ConvertUtil::PixelToNewDpi(double pixels, double oldDpi, double newDpi)
+```
+

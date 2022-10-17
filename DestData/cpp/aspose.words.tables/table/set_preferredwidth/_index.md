@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_preferredwidth/
 
 Setter for [Aspose::Words::Tables::Table::get_PreferredWidth](./get_preferredwidth/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_PreferredWidth(const System::SharedPtr<Aspose::Words::Tables::PreferredWidth> &value)
+```
+

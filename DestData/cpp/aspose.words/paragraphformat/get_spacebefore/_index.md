@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_spacebefore/
 
 Gets or sets the amount of spacing (in points) before the paragraph.
 
+```cpp
+double Aspose::Words::ParagraphFormat::get_SpaceBefore()
+```
+

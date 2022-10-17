@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkstart/gettext/
 
 Returns an empty string.
 
+```cpp
+System::String Aspose::Words::BookmarkStart::GetText() override
+```
+

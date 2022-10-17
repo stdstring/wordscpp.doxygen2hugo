@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/get_mailsubject/
 
 Specifies the text which shall appear in the subject line of the e-mails or faxes produced during mail merge. The default value is an empty string.
 
+```cpp
+System::String Aspose::Words::Settings::MailMergeSettings::get_MailSubject() const
+```
+

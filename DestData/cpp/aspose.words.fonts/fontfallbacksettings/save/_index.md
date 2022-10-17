@@ -6,34 +6,30 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
 ---
-## FontFallbackSettings.Save method
+## FontFallbackSettings.Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves the current fallback settings to stream.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: Saves the current fallback settings to file. 
-type: docs
-weight: 0
-url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
----
-## FontFallbackSettings.Save method
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::SharedPtr<System::IO::Stream> &outputStream)
+```
+
+## FontFallbackSettings.Save(const System::String\&) method
 
 
 Saves the current fallback settings to file.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
----
-## FontFallbackSettings.Save method
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::String &fileName)
+```
+
+## FontFallbackSettings.Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 
+
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::Save(std::basic_ostream<CharType, Traits> &outputStream)
+```
 

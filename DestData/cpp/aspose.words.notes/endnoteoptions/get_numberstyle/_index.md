@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/endnoteoptions/get_numberstyle/
 
 Specifies the number format for automatically numbered endnotes.
 
+```cpp
+Aspose::Words::NumberStyle Aspose::Words::Notes::EndnoteOptions::get_NumberStyle() override
+```
+

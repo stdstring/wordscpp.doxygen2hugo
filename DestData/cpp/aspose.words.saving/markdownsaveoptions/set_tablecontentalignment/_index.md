@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/markdownsaveoptions/set_tablecontentalignment/
 
 Sets a value that specifies how to align contents in tables when exporting into the **Markdown** format. The default value is **Auto**.
 
+```cpp
+void Aspose::Words::Saving::MarkdownSaveOptions::set_TableContentAlignment(Aspose::Words::Saving::TableContentAlignment value)
+```
+

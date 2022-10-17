@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_wraptype/
 
 Defines whether the shape is inline or floating. For floating shapes defines the wrapping mode for text around the shape.
 
+```cpp
+Aspose::Words::Drawing::WrapType Aspose::Words::Drawing::ShapeBase::get_WrapType()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/get_parentrow/
 
 Returns the parent row of the cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::Tables::Cell::get_ParentRow()
+```
+

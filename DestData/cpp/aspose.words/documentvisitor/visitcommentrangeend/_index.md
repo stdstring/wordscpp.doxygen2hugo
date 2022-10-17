@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitcommentrangeend/
 
 Called when the end of a commented range of text is encountered.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitCommentRangeEnd(System::SharedPtr<Aspose::Words::CommentRangeEnd> commentRangeEnd)
+```
+

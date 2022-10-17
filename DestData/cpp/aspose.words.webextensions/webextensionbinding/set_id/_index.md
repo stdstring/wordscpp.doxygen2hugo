@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionbinding/set_id/
 
 Specifies the binding identifier.
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionBinding::set_Id(const System::String &value)
+```
+

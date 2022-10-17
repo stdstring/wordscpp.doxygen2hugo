@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_lastsection/
 
 Gets the last section in the building block.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::BuildingBlocks::BuildingBlock::get_LastSection()
+```
+

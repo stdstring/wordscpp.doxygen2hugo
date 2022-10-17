@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/set_smartstylebehavior/
 
 Setter for [Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior](./get_smartstylebehavior/).
 
+```cpp
+void Aspose::Words::ImportFormatOptions::set_SmartStyleBehavior(bool value)
+```
+

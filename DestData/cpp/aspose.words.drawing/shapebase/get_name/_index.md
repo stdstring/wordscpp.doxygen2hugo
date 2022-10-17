@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_name/
 
 Gets or sets the optional shape name.
 
+```cpp
+System::String Aspose::Words::Drawing::ShapeBase::get_Name()
+```
+

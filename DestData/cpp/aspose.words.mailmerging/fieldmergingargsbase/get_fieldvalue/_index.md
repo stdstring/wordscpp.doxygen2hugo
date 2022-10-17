@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_fieldvalue/
 
 Gets the value of the field from the data source.
 
+```cpp
+const System::SharedPtr<System::Object> & Aspose::Words::MailMerging::FieldMergingArgsBase::get_FieldValue() const
+```
+

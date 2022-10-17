@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldformat/set_numericformat/
 
 Setter for [Aspose::Words::Fields::FieldFormat::get_NumericFormat](./get_numericformat/).
 
+```cpp
+void Aspose::Words::Fields::FieldFormat::set_NumericFormat(const System::String &value)
+```
+

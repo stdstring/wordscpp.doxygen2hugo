@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/shape/
 
 Creates a new shape object.
 
+```cpp
+Aspose::Words::Drawing::Shape::Shape(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, Aspose::Words::Drawing::ShapeType shapeType)
+```
+

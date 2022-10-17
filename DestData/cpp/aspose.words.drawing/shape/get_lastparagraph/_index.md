@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_lastparagraph/
 
 Gets the last paragraph in the shape.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Drawing::Shape::get_LastParagraph()
+```
+

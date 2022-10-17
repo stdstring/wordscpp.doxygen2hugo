@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_relativeverticalalignment/
 
 Gets or sets floating table relative vertical alignment.
 
+```cpp
+Aspose::Words::Drawing::VerticalAlignment Aspose::Words::Tables::Table::get_RelativeVerticalAlignment()
+```
+

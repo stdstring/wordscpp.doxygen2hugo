@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_grammarchecked/
 
 Returns **true** if the document has been checked for grammar.
 
+```cpp
+bool Aspose::Words::Document::get_GrammarChecked()
+```
+

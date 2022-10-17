@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_behindtext/
 
 Specifies whether the shape is below or above text.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_BehindText()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_xpath/
 
 Gets or sets XPath for the desired portion of the XML file.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludeText::get_XPath() override
+```
+

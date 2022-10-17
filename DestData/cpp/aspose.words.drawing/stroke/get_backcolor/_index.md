@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_backcolor/
 
 Gets or sets the background color of the stroke.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::Stroke::get_BackColor()
+```
+

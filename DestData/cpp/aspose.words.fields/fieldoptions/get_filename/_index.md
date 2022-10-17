@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_filename/
 
 Gets or sets the file name of the document.
 
+```cpp
+System::String Aspose::Words::Fields::FieldOptions::get_FileName() const
+```
+

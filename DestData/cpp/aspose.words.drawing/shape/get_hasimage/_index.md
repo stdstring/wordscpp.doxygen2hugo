@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_hasimage/
 
 Returns true if the shape has image bytes or links an image.
 
+```cpp
+bool Aspose::Words::Drawing::Shape::get_HasImage()
+```
+

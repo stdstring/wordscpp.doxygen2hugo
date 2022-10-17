@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotbreakconstrainedfo
 
 Don't Break Table Rows Around Floating [Tables](../../aspose.words.tables/).
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakConstrainedForcedTable(bool value)
+```
+

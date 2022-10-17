@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/hyphenationoptions/hyphenationoptions/
 
 
 
+```cpp
+Aspose::Words::Settings::HyphenationOptions::HyphenationOptions()
+```
+

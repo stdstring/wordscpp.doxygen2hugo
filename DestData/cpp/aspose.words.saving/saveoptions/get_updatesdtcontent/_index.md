@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/get_updatesdtcontent/
 
 Gets or sets value determining whether content of [StructuredDocumentTag](../../aspose.words.markup/structureddocumenttag/) is updated before saving.
 
+```cpp
+bool Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent() const
+```
+

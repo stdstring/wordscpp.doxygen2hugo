@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_relativehorizontalposition/
 
 Specifies relative to what the shape is positioned horizontally.
 
+```cpp
+Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::Drawing::ShapeBase::get_RelativeHorizontalPosition()
+```
+

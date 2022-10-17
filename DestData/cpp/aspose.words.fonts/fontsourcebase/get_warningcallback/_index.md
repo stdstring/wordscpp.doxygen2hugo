@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsourcebase/get_warningcallback/
 
 Called during processing of font source when an issue is detected that might result in formatting fidelity loss.
 
+```cpp
+System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::Fonts::FontSourceBase::get_WarningCallback() const
+```
+

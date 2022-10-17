@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/get_isvisible/
 
 Specifies whether the task pane shows as visible by default when the document opens.
 
+```cpp
+bool Aspose::Words::WebExtensions::TaskPane::get_IsVisible() const
+```
+

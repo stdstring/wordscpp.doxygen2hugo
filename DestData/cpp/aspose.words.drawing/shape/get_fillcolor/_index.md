@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_fillcolor/
 
 Defines the brush color that fills the closed path of the shape.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::Shape::get_FillColor()
+```
+

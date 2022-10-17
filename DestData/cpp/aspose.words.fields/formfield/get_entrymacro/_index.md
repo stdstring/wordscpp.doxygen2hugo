@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_entrymacro/
 
 Returns or sets an entry macro name for the form field.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_EntryMacro()
+```
+

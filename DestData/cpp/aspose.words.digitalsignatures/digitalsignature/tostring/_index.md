@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignature/tostring/
 
 Returns a user-friendly string that displays the value of this object.
 
+```cpp
+System::String Aspose::Words::DigitalSignatures::DigitalSignature::ToString() const override
+```
+

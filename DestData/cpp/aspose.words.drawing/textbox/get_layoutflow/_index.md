@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/get_layoutflow/
 
 Determines the flow of the text layout in a shape.
 
+```cpp
+Aspose::Words::Drawing::LayoutFlow Aspose::Words::Drawing::TextBox::get_LayoutFlow()
+```
+

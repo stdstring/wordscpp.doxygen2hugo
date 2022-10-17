@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_forecolor/
 
 Gets or sets the foreground color of the stroke.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::Stroke::get_ForeColor()
+```
+

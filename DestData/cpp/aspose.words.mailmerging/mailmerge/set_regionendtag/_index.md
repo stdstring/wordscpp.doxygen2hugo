@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_regionendtag/
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_RegionEndTag](./get_regionendtag/).
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_RegionEndTag(const System::String &value)
+```
+

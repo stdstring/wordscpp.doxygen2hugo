@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_buildingblockgallery/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGallery](./get_buildingblockgallery/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_BuildingBlockGallery(const System::String &value)
+```
+

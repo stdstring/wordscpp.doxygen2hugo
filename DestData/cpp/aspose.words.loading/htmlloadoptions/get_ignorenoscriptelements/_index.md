@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/get_ignorenoscriptelements/
 
 Gets a value indicating whether to ignore <noscript> HTML elements. Default value is **false**.
 
+```cpp
+bool Aspose::Words::Loading::HtmlLoadOptions::get_IgnoreNoscriptElements() const
+```
+

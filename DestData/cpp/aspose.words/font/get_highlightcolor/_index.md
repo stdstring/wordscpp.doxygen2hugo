@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_highlightcolor/
 
 Gets or sets the highlight (marker) color.
 
+```cpp
+System::Drawing::Color Aspose::Words::Font::get_HighlightColor()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddde/get_autoupdate/
 
 Gets or sets whether to update this field automatically.
 
+```cpp
+bool Aspose::Words::Fields::FieldDde::get_AutoUpdate()
+```
+

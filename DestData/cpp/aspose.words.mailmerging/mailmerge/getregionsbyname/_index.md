@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/getregionsbyname/
 
 Returns a collection of mail merge regions with the specified name.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Words::MailMerging::MailMergeRegionInfo>>> Aspose::Words::MailMerging::MailMerge::GetRegionsByName(const System::String &regionName)
+```
+

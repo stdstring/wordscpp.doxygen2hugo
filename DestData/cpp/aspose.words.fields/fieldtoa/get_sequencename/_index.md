@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/get_sequencename/
 
 Gets or sets the name of a sequence whose number is included with the page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToa::get_SequenceName()
+```
+

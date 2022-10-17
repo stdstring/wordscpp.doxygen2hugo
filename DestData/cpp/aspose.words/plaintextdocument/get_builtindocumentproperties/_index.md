@@ -11,3 +11,7 @@ url: /cpp/aspose.words/plaintextdocument/get_builtindocumentproperties/
 
 Gets [BuiltInDocumentProperties](./get_builtindocumentproperties/) of the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Properties::BuiltInDocumentProperties> Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties() const
+```
+

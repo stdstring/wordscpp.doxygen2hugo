@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/writeprotection/setpassword/
 
 Sets the write protection password for the document.
 
+```cpp
+void Aspose::Words::Settings::WriteProtection::SetPassword(const System::String &password)
+```
+

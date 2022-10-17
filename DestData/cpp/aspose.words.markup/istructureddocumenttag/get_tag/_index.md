@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/get_tag/
 
 Specifies a tag associated with the current SDT node. Can not be null.
 
+```cpp
+virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_Tag() const =0
+```
+

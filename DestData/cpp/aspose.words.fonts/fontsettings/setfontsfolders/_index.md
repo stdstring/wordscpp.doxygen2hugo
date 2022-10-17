@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsettings/setfontsfolders/
 
 Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts.
 
+```cpp
+void Aspose::Words::Fonts::FontSettings::SetFontsFolders(const System::ArrayPtr<System::String> &fontsFolders, bool recursive)
+```
+

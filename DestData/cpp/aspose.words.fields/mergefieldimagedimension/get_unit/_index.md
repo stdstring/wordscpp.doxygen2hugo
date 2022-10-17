@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/get_unit/
 
 The unit.
 
+```cpp
+Aspose::Words::Fields::MergeFieldImageDimensionUnit Aspose::Words::Fields::MergeFieldImageDimension::get_Unit() const
+```
+

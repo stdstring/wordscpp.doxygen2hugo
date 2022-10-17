@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitglossarydocumentend/
 
 Called when enumeration of a glossary document has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGlossaryDocumentEnd(System::SharedPtr<Aspose::Words::BuildingBlocks::GlossaryDocument> glossary)
+```
+

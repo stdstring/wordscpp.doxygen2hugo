@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_localeid/
 
 Setter for [Aspose::Words::Font::get_LocaleId](./get_localeid/).
 
+```cpp
+void Aspose::Words::Font::set_LocaleId(int32_t value)
+```
+

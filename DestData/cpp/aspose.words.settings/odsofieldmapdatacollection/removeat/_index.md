@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/removeat/
 
 Removes the element at the specified index.
 
+```cpp
+void Aspose::Words::Settings::OdsoFieldMapDataCollection::RemoveAt(int32_t index)
+```
+

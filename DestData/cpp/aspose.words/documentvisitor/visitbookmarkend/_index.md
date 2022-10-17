@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitbookmarkend/
 
 Called when an end of a bookmark is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBookmarkEnd(System::SharedPtr<Aspose::Words::BookmarkEnd> bookmarkEnd)
+```
+

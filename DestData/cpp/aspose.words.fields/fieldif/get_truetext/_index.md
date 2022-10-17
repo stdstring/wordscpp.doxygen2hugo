@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldif/get_truetext/
 
 Gets or sets the text displayed if the comparison expression is true.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIf::get_TrueText()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldadvance/get_horizontalposition/
 
 Gets or sets the number of points by which the text that follows the field should be moved horizontally from the left edge of the column, frame, or text box.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAdvance::get_HorizontalPosition()
+```
+

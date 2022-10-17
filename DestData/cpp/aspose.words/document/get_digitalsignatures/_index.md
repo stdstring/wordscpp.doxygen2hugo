@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_digitalsignatures/
 
 Gets the collection of digital signatures for this document and their validation results.
 
+```cpp
+System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureCollection> Aspose::Words::Document::get_DigitalSignatures() const
+```
+

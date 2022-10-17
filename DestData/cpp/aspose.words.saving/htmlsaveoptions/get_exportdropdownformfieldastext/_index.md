@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportdropdownformfieldastext/
 
 Controls how drop-down form fields are saved to HTML or MHTML. Default value is **false**.
 
+```cpp
+bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportDropDownFormFieldAsText() const
+```
+

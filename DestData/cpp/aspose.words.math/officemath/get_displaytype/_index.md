@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/get_displaytype/
 
 Gets/sets Office [Math](../) display format type which represents whether an equation is displayed inline with the text or displayed on its own line.
 
+```cpp
+Aspose::Words::Math::OfficeMathDisplayType Aspose::Words::Math::OfficeMath::get_DisplayType()
+```
+

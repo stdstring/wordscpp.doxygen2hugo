@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_preferredwidth/
 
 Gets or sets the table preferred width.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::Tables::Table::get_PreferredWidth()
+```
+

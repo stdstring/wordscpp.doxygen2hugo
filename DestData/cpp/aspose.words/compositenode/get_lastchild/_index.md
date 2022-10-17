@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/get_lastchild/
 
 Gets the last child of the node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::get_LastChild() const
+```
+

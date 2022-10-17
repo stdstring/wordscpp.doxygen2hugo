@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/get_paragraphbreak/
 
 Specifies the string to use as a paragraph break when exporting in text formats.
 
+```cpp
+System::String Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak() const
+```
+

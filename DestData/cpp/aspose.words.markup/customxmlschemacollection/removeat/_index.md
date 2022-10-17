@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/removeat/
 
 Removes a value at the specified index.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlSchemaCollection::RemoveAt(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_lineunitafter/
 
 Gets or sets the amount of spacing (in gridlines) after the paragraphs.
 
+```cpp
+double Aspose::Words::ParagraphFormat::get_LineUnitAfter()
+```
+

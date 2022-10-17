@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visiteditablerangeend/
 
 Called when an end of an editable range is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitEditableRangeEnd(System::SharedPtr<Aspose::Words::EditableRangeEnd> editableRangeEnd)
+```
+

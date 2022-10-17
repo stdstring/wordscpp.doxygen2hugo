@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/insertbreak/
 
 Inserts a break of the specified type into the document.
 
+```cpp
+void Aspose::Words::DocumentBuilder::InsertBreak(Aspose::Words::BreakType breakType)
+```
+

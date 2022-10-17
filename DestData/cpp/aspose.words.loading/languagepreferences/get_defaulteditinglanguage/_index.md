@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/languagepreferences/get_defaulteditinglanguage/
 
 Gets or sets default editing language. The default value is **EnglishUS**.
 
+```cpp
+Aspose::Words::Loading::EditingLanguage Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage() const
+```
+

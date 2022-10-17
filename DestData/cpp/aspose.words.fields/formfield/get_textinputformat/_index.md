@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_textinputformat/
 
 Returns or sets the text formatting for a text form field.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_TextInputFormat()
+```
+

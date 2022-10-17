@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/get_previoussibling/
 
 Gets the node immediately preceding this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::get_PreviousSibling()
+```
+

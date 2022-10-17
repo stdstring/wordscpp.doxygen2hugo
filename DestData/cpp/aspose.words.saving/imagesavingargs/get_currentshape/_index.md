@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesavingargs/get_currentshape/
 
 Gets the [ShapeBase](../../aspose.words.drawing/shapebase/) object corresponding to the shape or group shape that is about to be saved.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::ShapeBase> Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape() const
+```
+

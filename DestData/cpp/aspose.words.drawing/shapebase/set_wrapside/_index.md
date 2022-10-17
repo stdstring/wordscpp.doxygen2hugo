@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_wrapside/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_WrapSide](./get_wrapside/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_WrapSide(Aspose::Words::Drawing::WrapSide value)
+```
+

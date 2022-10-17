@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_retainfirstsectionstart/
 
 Gets a value indicating whether the [SectionStart](../../aspose.words/pagesetup/get_sectionstart/) of the first document section and its copies for subsequent data source rows are retained during mail merge or updated according to MS Word behaviour.
 
+```cpp
+bool Aspose::Words::MailMerging::MailMerge::get_RetainFirstSectionStart() const
+```
+

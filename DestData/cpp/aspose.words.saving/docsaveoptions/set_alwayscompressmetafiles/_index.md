@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/docsaveoptions/set_alwayscompressmetafiles/
 
 Setter for [Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles](./get_alwayscompressmetafiles/).
 
+```cpp
+void Aspose::Words::Saving::DocSaveOptions::set_AlwaysCompressMetafiles(bool value)
+```
+

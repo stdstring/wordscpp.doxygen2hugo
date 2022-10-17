@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_autocolor/
 
 Returns the present calculated color of the text (black or white) to be used for 'auto color'. If the color is not 'auto' then returns [Color](./get_color/).
 
+```cpp
+System::Drawing::Color Aspose::Words::Font::get_AutoColor()
+```
+

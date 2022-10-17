@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitsectionstart/
 
 Called when enumeration of a section has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSectionStart(System::SharedPtr<Aspose::Words::Section> section)
+```
+

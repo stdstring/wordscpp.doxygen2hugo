@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldusername/get_username/
 
 Gest or sets the current user's name.
 
+```cpp
+System::String Aspose::Words::Fields::FieldUserName::get_UserName()
+```
+

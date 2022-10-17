@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_flatopcxmlmappingonly/
 
 Gets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped.
 
+```cpp
+bool Aspose::Words::Loading::LoadOptions::get_FlatOpcXmlMappingOnly() const
+```
+

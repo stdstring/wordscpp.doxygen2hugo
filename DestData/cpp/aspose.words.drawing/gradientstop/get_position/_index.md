@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstop/get_position/
 
 Gets or sets a value representing the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0.
 
+```cpp
+double Aspose::Words::Drawing::GradientStop::get_Position() const
+```
+

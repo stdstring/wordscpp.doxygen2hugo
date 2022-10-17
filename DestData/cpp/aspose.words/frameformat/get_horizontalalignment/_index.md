@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_horizontalalignment/
 
 Gets horizontal alignment of the specified frame.
 
+```cpp
+Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::FrameFormat::get_HorizontalAlignment()
+```
+

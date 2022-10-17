@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldnextif/set_leftexpression/
 
 Sets the left part of the comparison expression.
 
+```cpp
+void Aspose::Words::Fields::FieldNextIf::set_LeftExpression(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::BuildingBlocks::BuildingBlock::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/tab/
 
 Tab character: "\x0009" or "\t".
 
+```cpp
+static System::String & Aspose::Words::ControlChar::Tab()
+```
+

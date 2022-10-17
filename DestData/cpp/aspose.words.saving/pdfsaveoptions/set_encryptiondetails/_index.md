@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_encryptiondetails/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails](./get_encryptiondetails/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_EncryptionDetails(const System::SharedPtr<Aspose::Words::Saving::PdfEncryptionDetails> &value)
+```
+

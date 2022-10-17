@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_filltype/
 
 Gets a fill type.
 
+```cpp
+Aspose::Words::Drawing::FillType Aspose::Words::Drawing::Fill::get_FillType()
+```
+

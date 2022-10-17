@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesavingargs/get_imagefilename/
 
 Gets or sets the file name (without path) where the image will be saved to.
 
+```cpp
+System::String Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName() const
+```
+

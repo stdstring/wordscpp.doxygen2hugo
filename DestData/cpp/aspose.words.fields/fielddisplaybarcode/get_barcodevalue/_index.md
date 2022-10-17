@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/get_barcodevalue/
 
 Gets or sets the barcode value.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue()
+```
+

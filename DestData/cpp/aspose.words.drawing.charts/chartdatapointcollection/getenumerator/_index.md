@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/getenumerator/
 
 Returns an enumerator object.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataPoint>>> Aspose::Words::Drawing::Charts::ChartDataPointCollection::GetEnumerator() override
+```
+

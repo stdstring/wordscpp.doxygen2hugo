@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/clearquickstylegallery/
 
 Removes all styles from the Quick [Style](../style/) Gallery panel.
 
+```cpp
+void Aspose::Words::StyleCollection::ClearQuickStyleGallery()
+```
+

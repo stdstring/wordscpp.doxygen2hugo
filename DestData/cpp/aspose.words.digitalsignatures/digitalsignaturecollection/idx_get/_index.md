@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/idx_get/
 
 Gets a document signature at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignature> Aspose::Words::DigitalSignatures::DigitalSignatureCollection::idx_get(int32_t index)
+```
+

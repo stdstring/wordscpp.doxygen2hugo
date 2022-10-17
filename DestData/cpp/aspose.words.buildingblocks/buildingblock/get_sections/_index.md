@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_sections/
 
 Returns a collection that represents all sections in the building block.
 
+```cpp
+System::SharedPtr<Aspose::Words::SectionCollection> Aspose::Words::BuildingBlocks::BuildingBlock::get_Sections()
+```
+

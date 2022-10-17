@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_sourcefullname/
 
 Setter for [Aspose::Words::Drawing::ImageData::get_SourceFullName](./get_sourcefullname/).
 
+```cpp
+void Aspose::Words::Drawing::ImageData::set_SourceFullName(const System::String &value)
+```
+

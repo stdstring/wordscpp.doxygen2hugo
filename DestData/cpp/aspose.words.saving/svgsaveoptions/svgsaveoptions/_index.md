@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/svgsaveoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::SvgSaveOptions::SvgSaveOptions()
+```
+

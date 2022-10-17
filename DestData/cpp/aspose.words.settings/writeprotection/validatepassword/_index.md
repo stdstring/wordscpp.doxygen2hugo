@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/writeprotection/validatepassword/
 
 Returns true if the specified password is the same as the write-protection password the document was protected with. If document is not write-protected with password then returns false.
 
+```cpp
+bool Aspose::Words::Settings::WriteProtection::ValidatePassword(const System::String &password)
+```
+

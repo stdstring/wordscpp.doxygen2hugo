@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/rtfloadoptions/rtfloadoptions/
 
 Initializes a new instance of this class with default values.
 
+```cpp
+Aspose::Words::Loading::RtfLoadOptions::RtfLoadOptions()
+```
+

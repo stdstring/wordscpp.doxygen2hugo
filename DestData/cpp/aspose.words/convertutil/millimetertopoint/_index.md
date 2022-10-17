@@ -11,3 +11,7 @@ url: /cpp/aspose.words/convertutil/millimetertopoint/
 
 Converts millimeters to points.
 
+```cpp
+static double Aspose::Words::ConvertUtil::MillimeterToPoint(double millimeters)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapoint/clearformat/
 
 Clears format of this data point. The properties are set to the default values defined in the parent series.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataPoint::ClearFormat()
+```
+

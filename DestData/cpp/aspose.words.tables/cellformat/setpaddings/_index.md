@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/setpaddings/
 
 Sets the amount of space (in points) to add to the left/top/right/bottom of the contents of cell.
 
+```cpp
+void Aspose::Words::Tables::CellFormat::SetPaddings(double leftPadding, double topPadding, double rightPadding, double bottomPadding)
+```
+

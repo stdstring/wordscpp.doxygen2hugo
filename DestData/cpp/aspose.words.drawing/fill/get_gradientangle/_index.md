@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_gradientangle/
 
 Gets or sets the angle of the gradient fill.
 
+```cpp
+double Aspose::Words::Drawing::Fill::get_GradientAngle()
+```
+

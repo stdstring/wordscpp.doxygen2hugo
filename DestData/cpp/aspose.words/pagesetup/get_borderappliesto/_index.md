@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_borderappliesto/
 
 Specifies which pages the page border is printed on.
 
+```cpp
+Aspose::Words::PageBorderAppliesTo Aspose::Words::PageSetup::get_BorderAppliesTo()
+```
+

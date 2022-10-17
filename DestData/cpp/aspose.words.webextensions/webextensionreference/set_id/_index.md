@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/set_id/
 
 Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_Id](./get_id/).
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionReference::set_Id(const System::String &value)
+```
+

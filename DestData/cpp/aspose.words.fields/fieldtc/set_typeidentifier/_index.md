@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtc/set_typeidentifier/
 
 Setter for [Aspose::Words::Fields::FieldTC::get_TypeIdentifier](./get_typeidentifier/).
 
+```cpp
+void Aspose::Words::Fields::FieldTC::set_TypeIdentifier(const System::String &value)
+```
+

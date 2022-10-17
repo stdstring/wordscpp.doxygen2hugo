@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldadvance/get_rightoffset/
 
 Gets or sets the number of points by which the text that follows the field should be moved right.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAdvance::get_RightOffset()
+```
+

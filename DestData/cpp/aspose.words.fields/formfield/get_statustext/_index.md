@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_statustext/
 
 Returns or sets the text that's displayed in the status bar when a form field has the focus.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_StatusText()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/smarttag/get_nodetype/
 
 Returns **NodeType.SmartTag**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Markup::SmartTag::get_NodeType() const override
+```
+

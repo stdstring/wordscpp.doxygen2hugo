@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldset/get_bookmarktext/
 
 Gets or sets the new text of the bookmark.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSet::get_BookmarkText()
+```
+

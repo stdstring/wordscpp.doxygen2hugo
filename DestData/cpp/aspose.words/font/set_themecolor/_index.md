@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_themecolor/
 
 Setter for [Aspose::Words::Font::get_ThemeColor](./get_themecolor/).
 
+```cpp
+void Aspose::Words::Font::set_ThemeColor(Aspose::Words::Themes::ThemeColor value)
+```
+

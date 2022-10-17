@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/set_verticalanchor/
 
 Setter for [Aspose::Words::Drawing::TextBox::get_VerticalAnchor](./get_verticalanchor/).
 
+```cpp
+void Aspose::Words::Drawing::TextBox::set_VerticalAnchor(Aspose::Words::Drawing::TextBoxAnchor value)
+```
+

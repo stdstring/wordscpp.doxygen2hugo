@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/set_symbol/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol](./get_symbol/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartMarker::set_Symbol(Aspose::Words::Drawing::Charts::MarkerSymbol value)
+```
+

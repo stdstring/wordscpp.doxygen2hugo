@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_uselegacyorder/
 
 True indicates that a text search is performed sequentially from top to bottom considering the text boxes. Default value is false.
 
+```cpp
+bool Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder() const
+```
+

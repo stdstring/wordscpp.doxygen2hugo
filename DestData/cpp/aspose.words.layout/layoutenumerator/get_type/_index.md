@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_type/
 
 Gets the type of the current entity.
 
+```cpp
+Aspose::Words::Layout::LayoutEntityType Aspose::Words::Layout::LayoutEnumerator::get_Type()
+```
+

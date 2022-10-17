@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_nameofapplicatio
 
 Gets or sets the name of the application.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfApplication()
+```
+

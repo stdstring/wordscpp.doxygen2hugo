@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_alternativetext/
 
 Defines alternative text to be displayed instead of a graphic.
 
+```cpp
+System::String Aspose::Words::Drawing::ShapeBase::get_AlternativeText()
+```
+

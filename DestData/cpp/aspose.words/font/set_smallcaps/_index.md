@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_smallcaps/
 
 Setter for [Aspose::Words::Font::get_SmallCaps](./get_smallcaps/).
 
+```cpp
+void Aspose::Words::Font::set_SmallCaps(bool value)
+```
+

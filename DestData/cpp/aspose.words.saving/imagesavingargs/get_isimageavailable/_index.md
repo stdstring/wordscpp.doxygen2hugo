@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesavingargs/get_isimageavailable/
 
 Returns **true** if the current image is available for export.
 
+```cpp
+bool Aspose::Words::Saving::ImageSavingArgs::get_IsImageAvailable() const
+```
+

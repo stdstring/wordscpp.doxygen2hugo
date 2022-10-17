@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsourcebase/get_priority/
 
 Returns the font source priority.
 
+```cpp
+int32_t Aspose::Words::Fonts::FontSourceBase::get_Priority() const
+```
+

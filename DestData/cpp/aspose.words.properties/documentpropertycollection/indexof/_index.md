@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/indexof/
 
 Gets the index of a property by name.
 
+```cpp
+int32_t Aspose::Words::Properties::DocumentPropertyCollection::IndexOf(const System::String &name)
+```
+

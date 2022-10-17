@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_signtime/
 
 The date of signing. Default value is **current time** (**Now**).
 
+```cpp
+System::DateTime Aspose::Words::DigitalSignatures::SignOptions::get_SignTime() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_gradientstops/
 
 Gets a collection of [GradientStop](../gradientstop/) objects for the fill.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::GradientStopCollection> Aspose::Words::Drawing::Fill::get_GradientStops()
+```
+

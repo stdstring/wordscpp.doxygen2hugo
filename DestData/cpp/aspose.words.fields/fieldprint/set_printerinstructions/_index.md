@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldprint/set_printerinstructions/
 
 Setter for [Aspose::Words::Fields::FieldPrint::get_PrinterInstructions](./get_printerinstructions/).
 
+```cpp
+void Aspose::Words::Fields::FieldPrint::set_PrinterInstructions(const System::String &value)
+```
+

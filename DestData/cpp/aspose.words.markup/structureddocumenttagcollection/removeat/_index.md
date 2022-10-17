@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/removeat/
 
 Removes a structured document tag at the specified index.
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagCollection::RemoveAt(int32_t index)
+```
+

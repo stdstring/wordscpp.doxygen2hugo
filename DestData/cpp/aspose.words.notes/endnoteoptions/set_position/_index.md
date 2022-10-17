@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/endnoteoptions/set_position/
 
 Setter for [Aspose::Words::Notes::EndnoteOptions::get_Position](./get_position/).
 
+```cpp
+void Aspose::Words::Notes::EndnoteOptions::set_Position(Aspose::Words::Notes::EndnotePosition value)
+```
+

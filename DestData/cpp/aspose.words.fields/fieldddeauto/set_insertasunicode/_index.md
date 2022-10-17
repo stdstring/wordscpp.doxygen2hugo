@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_insertasunicode/
 
 Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsUnicode](./get_insertasunicode/).
 
+```cpp
+void Aspose::Words::Fields::FieldDdeAuto::set_InsertAsUnicode(bool value)
+```
+

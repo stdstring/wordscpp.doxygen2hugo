@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_titlesofparts/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts](./get_titlesofparts/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_TitlesOfParts(const System::ArrayPtr<System::String> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_scaling/
 
 Gets or sets character width scaling in percent.
 
+```cpp
+int32_t Aspose::Words::Font::get_Scaling()
+```
+

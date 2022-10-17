@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_level/
 
 Gets the level at which this structured document tag range start occurs in the document tree.
 
+```cpp
+Aspose::Words::Markup::MarkupLevel Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Level() const override
+```
+

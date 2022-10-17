@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_href/
 
 Gets or sets the full hyperlink address for a shape.
 
+```cpp
+System::String Aspose::Words::Drawing::ShapeBase::get_HRef()
+```
+

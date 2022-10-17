@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/get_keepsourcenumbering/
 
 Gets or sets a boolean value that specifies how the numbering will be imported when it clashes in source and destination documents. The default value is **false**.
 
+```cpp
+bool Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering() const
+```
+

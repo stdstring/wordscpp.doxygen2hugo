@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_name/
 
 Gets or sets the name of the style.
 
+```cpp
+System::String Aspose::Words::Style::get_Name() const
+```
+

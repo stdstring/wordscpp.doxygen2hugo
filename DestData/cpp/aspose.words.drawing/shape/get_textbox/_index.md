@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_textbox/
 
 Defines attributes that specify how text is displayed in a shape.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::Shape::get_TextBox()
+```
+

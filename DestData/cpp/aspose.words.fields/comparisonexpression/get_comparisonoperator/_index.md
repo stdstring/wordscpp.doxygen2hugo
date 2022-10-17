@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/comparisonexpression/get_comparisonoperator/
 
 Gets the comparison operator.
 
+```cpp
+System::String Aspose::Words::Fields::ComparisonExpression::get_ComparisonOperator() const
+```
+

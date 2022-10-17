@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Clear()
+```
+

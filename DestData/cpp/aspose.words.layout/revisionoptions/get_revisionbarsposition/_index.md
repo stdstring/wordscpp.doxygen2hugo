@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarsposition/
 
 Gets rendering position of revision bars. Default value is **Outside**.
 
+```cpp
+Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::Layout::RevisionOptions::get_RevisionBarsPosition() const
+```
+

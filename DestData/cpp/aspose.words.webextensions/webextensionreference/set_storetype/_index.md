@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/set_storetype/
 
 Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType](./get_storetype/).
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType(Aspose::Words::WebExtensions::WebExtensionStoreType value)
+```
+

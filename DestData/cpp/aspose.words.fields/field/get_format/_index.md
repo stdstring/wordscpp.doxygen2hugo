@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_format/
 
 Gets a [FieldFormat](../fieldformat/) object that provides typed access to field's formatting.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldFormat> Aspose::Words::Fields::Field::get_Format()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_reverseorder/
 
 Returns or sets a flag indicating whether values of axis should be displayed in reverse order, i.e. from max to min.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartAxis::get_ReverseOrder()
+```
+

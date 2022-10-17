@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/updatelistlabels/
 
 Updates list labels for all list items in the document.
 
+```cpp
+void Aspose::Words::Document::UpdateListLabels()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_isquickstyle/
 
 Specifies whether this style is shown in the Quick [Style](./) gallery inside MS Word UI.
 
+```cpp
+bool Aspose::Words::Style::get_IsQuickStyle() const
+```
+

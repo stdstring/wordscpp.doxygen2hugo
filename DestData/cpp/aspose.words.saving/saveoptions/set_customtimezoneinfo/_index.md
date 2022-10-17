@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_customtimezoneinfo/
 
 
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_CustomTimeZoneInfo(const System::SharedPtr<System::TimeZoneInfo> &value)
+```
+

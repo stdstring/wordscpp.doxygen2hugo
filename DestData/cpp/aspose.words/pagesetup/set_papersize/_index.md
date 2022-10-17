@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_papersize/
 
 Setter for [Aspose::Words::PageSetup::get_PaperSize](./get_papersize/).
 
+```cpp
+void Aspose::Words::PageSetup::set_PaperSize(Aspose::Words::PaperSize value)
+```
+

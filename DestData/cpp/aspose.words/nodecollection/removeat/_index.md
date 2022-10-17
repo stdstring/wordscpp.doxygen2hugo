@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/removeat/
 
 Removes the node at the specified index from the collection and from the document.
 
+```cpp
+void Aspose::Words::NodeCollection::RemoveAt(int32_t index)
+```
+

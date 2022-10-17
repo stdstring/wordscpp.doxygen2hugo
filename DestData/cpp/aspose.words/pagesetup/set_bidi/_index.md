@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_bidi/
 
 Setter for [Aspose::Words::PageSetup::get_Bidi](./get_bidi/).
 
+```cpp
+void Aspose::Words::PageSetup::set_Bidi(bool value)
+```
+

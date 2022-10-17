@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/set_alignment/
 
 Setter for [Aspose::Words::Lists::ListLevel::get_Alignment](./get_alignment/).
 
+```cpp
+void Aspose::Words::Lists::ListLevel::set_Alignment(Aspose::Words::Lists::ListLevelAlignment value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/virtualizeendconstiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeEndConstIterator() const override
+```
+

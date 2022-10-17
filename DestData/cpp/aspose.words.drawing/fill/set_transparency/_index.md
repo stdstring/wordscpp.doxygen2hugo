@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_transparency/
 
 Sets the degree of transparency of the specified fill as a value between 0.0 (opaque) and 1.0 (clear).
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_Transparency(double value)
+```
+

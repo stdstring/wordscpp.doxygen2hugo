@@ -11,3 +11,7 @@ url: /cpp/aspose.words/plaintextdocument/get_customdocumentproperties/
 
 Gets [CustomDocumentProperties](./get_customdocumentproperties/) of the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Properties::CustomDocumentProperties> Aspose::Words::PlainTextDocument::get_CustomDocumentProperties() const
+```
+

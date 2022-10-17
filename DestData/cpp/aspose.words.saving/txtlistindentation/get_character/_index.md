@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtlistindentation/get_character/
 
 Gets or sets which character to use for indenting list levels. The default value is '\0', that means there is no indentation.
 
+```cpp
+char16_t Aspose::Words::Saving::TxtListIndentation::get_Character() const
+```
+

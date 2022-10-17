@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/get_formatupdatetype/
 
 Gets or sets a way the linked object updates its formatting.
 
+```cpp
+System::String Aspose::Words::Fields::FieldLink::get_FormatUpdateType()
+```
+

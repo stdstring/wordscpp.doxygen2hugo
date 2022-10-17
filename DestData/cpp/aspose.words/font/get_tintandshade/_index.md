@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_tintandshade/
 
 Gets or sets a double value that lightens or darkens a color.
 
+```cpp
+double Aspose::Words::Font::get_TintAndShade()
+```
+

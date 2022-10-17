@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/clone/
 
 Makes a deep copy of this collection and its items.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPartCollection> Aspose::Words::Markup::CustomXmlPartCollection::Clone()
+```
+

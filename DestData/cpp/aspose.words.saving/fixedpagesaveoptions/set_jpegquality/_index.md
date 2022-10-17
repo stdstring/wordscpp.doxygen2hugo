@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_jpegquality/
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality](./get_jpegquality/).
 
+```cpp
+void Aspose::Words::Saving::FixedPageSaveOptions::set_JpegQuality(int32_t value)
+```
+

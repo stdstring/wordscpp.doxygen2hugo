@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/get_isauto/
 
 Holds a value that specifies whether this is a auto-numbered footnote or footnote with user defined custom reference mark.
 
+```cpp
+bool Aspose::Words::Notes::Footnote::get_IsAuto() const
+```
+

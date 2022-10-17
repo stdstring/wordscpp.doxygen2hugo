@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/docsaveoptions/get_savepicturebullet/
 
 When **false**, PictureBullet data is not saved to output document. Default value is **true**.
 
+```cpp
+bool Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet() const
+```
+

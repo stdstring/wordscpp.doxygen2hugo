@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::Vba::VbaModuleCollection::cend() const noexcept
+```
+

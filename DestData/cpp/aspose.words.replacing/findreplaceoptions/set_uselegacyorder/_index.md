@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_uselegacyorder/
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder](./get_uselegacyorder/).
 
+```cpp
+void Aspose::Words::Replacing::FindReplaceOptions::set_UseLegacyOrder(bool value)
+```
+

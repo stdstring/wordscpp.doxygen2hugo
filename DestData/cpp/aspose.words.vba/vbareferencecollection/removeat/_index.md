@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbareferencecollection/removeat/
 
 Removes the [VbaReference](../vbareference/) element at the specified index of the collection.
 
+```cpp
+void Aspose::Words::Vba::VbaReferenceCollection::RemoveAt(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_subscript/
 
 Setter for [Aspose::Words::Font::get_Subscript](./get_subscript/).
 
+```cpp
+void Aspose::Words::Font::set_Subscript(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_visible/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_Visible](./get_visible/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_Visible(bool value)
+```
+

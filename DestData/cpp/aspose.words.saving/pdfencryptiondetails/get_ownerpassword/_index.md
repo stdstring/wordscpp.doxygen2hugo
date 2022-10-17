@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/get_ownerpassword/
 
 Specifies the owner password for the encrypted PDF document.
 
+```cpp
+System::String Aspose::Words::Saving::PdfEncryptionDetails::get_OwnerPassword() const
+```
+

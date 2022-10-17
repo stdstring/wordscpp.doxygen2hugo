@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionbinding/webextensionbinding/
 
 Creates web extension binding with specified parameters.
 
+```cpp
+Aspose::Words::WebExtensions::WebExtensionBinding::WebExtensionBinding(const System::String &id, Aspose::Words::WebExtensions::WebExtensionBindingType bindingType, const System::String &appRef)
+```
+

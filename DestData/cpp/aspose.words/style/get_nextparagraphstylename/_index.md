@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_nextparagraphstylename/
 
 Gets/sets the name of the style to be applied automatically to a new paragraph inserted after a paragraph formatted with the specified style.
 
+```cpp
+System::String Aspose::Words::Style::get_NextParagraphStyleName()
+```
+

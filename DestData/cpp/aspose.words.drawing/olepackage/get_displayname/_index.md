@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/olepackage/get_displayname/
 
 Gets or sets OLE Package display name.
 
+```cpp
+System::String Aspose::Words::Drawing::OlePackage::get_DisplayName() const
+```
+

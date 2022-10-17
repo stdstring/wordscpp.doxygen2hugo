@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/get_renderingmode/
 
 Gets or sets a value determining how metafile images should be rendered.
 
+```cpp
+Aspose::Words::Saving::MetafileRenderingMode Aspose::Words::Saving::MetafileRenderingOptions::get_RenderingMode() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_entryseparator/
 
 Setter for [Aspose::Words::Fields::FieldToa::get_EntrySeparator](./get_entryseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldToa::set_EntrySeparator(const System::String &value)
+```
+

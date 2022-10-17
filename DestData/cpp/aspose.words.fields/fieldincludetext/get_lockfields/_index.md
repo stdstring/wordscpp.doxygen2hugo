@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_lockfields/
 
 Gets or sets whether to prevent fields in the included document from being updated.
 
+```cpp
+bool Aspose::Words::Fields::FieldIncludeText::get_LockFields() override
+```
+

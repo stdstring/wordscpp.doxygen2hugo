@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/breakforwardlink/
 
 Breaks the link to the next [TextBox](./).
 
+```cpp
+void Aspose::Words::Drawing::TextBox::BreakForwardLink()
+```
+

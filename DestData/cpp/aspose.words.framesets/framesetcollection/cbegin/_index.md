@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Framesets::FramesetCollection::cbegin() const noexcept
+```
+

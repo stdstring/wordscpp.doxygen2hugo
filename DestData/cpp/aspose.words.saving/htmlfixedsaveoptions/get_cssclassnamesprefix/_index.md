@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_cssclassnamesprefix/
 
 Specifies prefix which is added to all class names in style.css file. Default value is **%"aw"**.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix() const
+```
+

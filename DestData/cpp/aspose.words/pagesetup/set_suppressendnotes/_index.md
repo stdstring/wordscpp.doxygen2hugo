@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_suppressendnotes/
 
 Setter for [Aspose::Words::PageSetup::get_SuppressEndnotes](./get_suppressendnotes/).
 
+```cpp
+void Aspose::Words::PageSetup::set_SuppressEndnotes(bool value)
+```
+

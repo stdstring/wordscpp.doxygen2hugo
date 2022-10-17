@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_checkboxsize/
 
 Gets or sets the size of the checkbox in points. Has effect only when [IsCheckBoxExactSize](./get_ischeckboxexactsize/) is true.
 
+```cpp
+double Aspose::Words::Fields::FormField::get_CheckBoxSize()
+```
+

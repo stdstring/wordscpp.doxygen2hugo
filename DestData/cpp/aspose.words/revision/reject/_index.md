@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/reject/
 
 Reject this revision.
 
+```cpp
+void Aspose::Words::Revision::Reject()
+```
+

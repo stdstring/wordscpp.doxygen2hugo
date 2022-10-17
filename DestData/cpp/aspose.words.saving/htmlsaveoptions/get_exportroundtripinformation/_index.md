@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportroundtripinformation/
 
 Specifies whether to write the roundtrip information when saving to HTML, MHTML or EPUB. Default value is **true** for HTML and **false** for MHTML and EPUB.
 
+```cpp
+bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportRoundtripInformation() const
+```
+

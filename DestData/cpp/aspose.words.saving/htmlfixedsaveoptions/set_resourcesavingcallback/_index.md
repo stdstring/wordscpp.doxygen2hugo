@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_resourcesavingcallback/
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourceSavingCallback](./get_resourcesavingcallback/).
 
+```cpp
+void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ResourceSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> &value)
+```
+

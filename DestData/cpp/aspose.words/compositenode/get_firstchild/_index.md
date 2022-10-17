@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/get_firstchild/
 
 Gets the first child of the node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::get_FirstChild() const
+```
+

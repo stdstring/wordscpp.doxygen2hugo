@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpart/clone/
 
 Makes a "deep enough" copy of the object. Does not duplicate the bytes of the [Data](./get_data/) value.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::CustomXmlPart::Clone()
+```
+

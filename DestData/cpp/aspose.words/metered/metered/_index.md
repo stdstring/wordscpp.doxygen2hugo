@@ -11,3 +11,7 @@ url: /cpp/aspose.words/metered/metered/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::Metered::Metered()
+```
+

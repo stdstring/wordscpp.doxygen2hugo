@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_deletedtextcolor/
 
 Allows to specify the color to be used for deleted content **Deletion**. Default value is **ByAuthor**.
 
+```cpp
+Aspose::Words::Layout::RevisionColor Aspose::Words::Layout::RevisionOptions::get_DeletedTextColor()
+```
+

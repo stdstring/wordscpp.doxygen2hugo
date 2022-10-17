@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_bilevel/
 
 Setter for [Aspose::Words::Drawing::ImageData::get_BiLevel](./get_bilevel/).
 
+```cpp
+void Aspose::Words::Drawing::ImageData::set_BiLevel(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_regions/
 
 Returns a list of child regions.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Words::MailMerging::MailMergeRegionInfo>>> Aspose::Words::MailMerging::MailMergeRegionInfo::get_Regions() const
+```
+

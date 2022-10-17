@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldaddressblock/set_nameandaddressformat/
 
 Setter for [Aspose::Words::Fields::FieldAddressBlock::get_NameAndAddressFormat](./get_nameandaddressformat/).
 
+```cpp
+void Aspose::Words::Fields::FieldAddressBlock::set_NameAndAddressFormat(const System::String &value)
+```
+

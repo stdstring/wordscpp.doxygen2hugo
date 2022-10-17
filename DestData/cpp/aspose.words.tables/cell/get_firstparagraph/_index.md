@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/get_firstparagraph/
 
 Gets the first paragraph among the immediate children.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Tables::Cell::get_FirstParagraph()
+```
+

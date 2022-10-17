@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_anothersourcetag/
 
 Gets or sets a value that mathes the **Tag** element's value of another source to be included in the citation.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag()
+```
+

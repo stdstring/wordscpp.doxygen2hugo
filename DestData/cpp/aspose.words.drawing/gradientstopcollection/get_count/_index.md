@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/get_count/
 
 Gets an integer value indicating the number of items in the collection.
 
+```cpp
+int32_t Aspose::Words::Drawing::GradientStopCollection::get_Count()
+```
+

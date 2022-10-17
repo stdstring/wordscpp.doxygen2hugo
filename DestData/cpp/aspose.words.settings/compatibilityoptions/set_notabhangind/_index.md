@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_notabhangind/
 
 Do Not Create Custom Tab Stop for Hanging Indent.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_NoTabHangInd(bool value)
+```
+

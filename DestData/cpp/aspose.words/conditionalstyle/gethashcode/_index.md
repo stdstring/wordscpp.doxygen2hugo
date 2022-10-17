@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/gethashcode/
 
 Calculates hash code for this object.
 
+```cpp
+int32_t Aspose::Words::ConditionalStyle::GetHashCode() const override
+```
+

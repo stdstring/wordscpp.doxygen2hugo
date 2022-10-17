@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/virtualizebeginconstiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Vba::VbaModuleCollection::virtualizeBeginConstIterator() const override
+```
+

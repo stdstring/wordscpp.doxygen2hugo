@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chart/set_sourcefullname/
 
 Gets the path and name of an xls/xlsx file this chart is linked to.
 
+```cpp
+void Aspose::Words::Drawing::Charts::Chart::set_SourceFullName(const System::String &value)
+```
+

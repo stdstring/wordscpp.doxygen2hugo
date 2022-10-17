@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_loadformat/
 
 Specifies the format of the document to be loaded. Default is **Auto**.
 
+```cpp
+Aspose::Words::LoadFormat Aspose::Words::Loading::LoadOptions::get_LoadFormat() const
+```
+

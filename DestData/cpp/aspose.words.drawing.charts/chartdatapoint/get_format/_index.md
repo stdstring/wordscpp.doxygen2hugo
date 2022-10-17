@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapoint/get_format/
 
 Provides access to fill and line formatting of this data point.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Drawing::Charts::ChartDataPoint::get_Format()
+```
+

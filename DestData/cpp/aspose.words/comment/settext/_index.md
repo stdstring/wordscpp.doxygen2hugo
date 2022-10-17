@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/settext/
 
 This is a convenience method that allows to easily set text of the comment.
 
+```cpp
+void Aspose::Words::Comment::SetText(const System::String &text)
+```
+

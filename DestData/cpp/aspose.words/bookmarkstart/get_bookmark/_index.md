@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkstart/get_bookmark/
 
 Gets the facade object that encapsulates this bookmark start and end.
 
+```cpp
+System::SharedPtr<Aspose::Words::Bookmark> Aspose::Words::BookmarkStart::get_Bookmark()
+```
+

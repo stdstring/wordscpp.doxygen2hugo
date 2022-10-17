@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignoreheadersandfooters/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreHeadersAndFooters](./get_ignoreheadersandfooters/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_IgnoreHeadersAndFooters(bool value)
+```
+

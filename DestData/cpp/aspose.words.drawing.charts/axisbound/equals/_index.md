@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/equals/
 
 Determines whether the specified object is equal in value to the current object.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::AxisBound::Equals(System::SharedPtr<System::Object> obj) override
+```
+

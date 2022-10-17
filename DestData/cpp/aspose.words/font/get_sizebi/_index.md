@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_sizebi/
 
 Gets or sets the font size in points used in a right-to-left document.
 
+```cpp
+double Aspose::Words::Font::get_SizeBi()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlproperty/set_value/
 
 Setter for [Aspose::Words::Markup::CustomXmlProperty::get_Value](./get_value/).
 
+```cpp
+void Aspose::Words::Markup::CustomXmlProperty::set_Value(const System::String &value)
+```
+

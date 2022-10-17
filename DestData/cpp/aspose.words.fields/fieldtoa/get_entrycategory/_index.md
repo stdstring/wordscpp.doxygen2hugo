@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/get_entrycategory/
 
 Gets or sets the integral category for entries included in the table.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToa::get_EntryCategory()
+```
+

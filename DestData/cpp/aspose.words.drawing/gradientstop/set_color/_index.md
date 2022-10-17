@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstop/set_color/
 
 Setter for [Aspose::Words::Drawing::GradientStop::get_Color](./get_color/).
 
+```cpp
+void Aspose::Words::Drawing::GradientStop::set_Color(System::Drawing::Color value)
+```
+

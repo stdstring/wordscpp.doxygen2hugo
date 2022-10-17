@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_majorunitscale/
 
 Returns or sets the scale value for major tick marks on the time category axis.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisTimeUnit Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitScale()
+```
+

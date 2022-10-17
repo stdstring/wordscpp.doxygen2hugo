@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/set_protectedforforms/
 
 Setter for [Aspose::Words::Section::get_ProtectedForForms](./get_protectedforforms/).
 
+```cpp
+void Aspose::Words::Section::set_ProtectedForForms(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsavingcallback/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback](./get_fontsavingcallback/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_FontSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IFontSavingCallback> &value)
+```
+

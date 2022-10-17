@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_forecolor/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_ForeColor](./get_forecolor/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_ForeColor(System::Drawing::Color value)
+```
+

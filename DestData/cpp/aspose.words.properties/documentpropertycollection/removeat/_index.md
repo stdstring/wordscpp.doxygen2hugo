@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/removeat/
 
 Removes a property at the specified index.
 
+```cpp
+void Aspose::Words::Properties::DocumentPropertyCollection::RemoveAt(int32_t index)
+```
+

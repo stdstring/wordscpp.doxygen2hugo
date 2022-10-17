@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/cell/
 
 Initializes a new instance of the **Cell** class.
 
+```cpp
+Aspose::Words::Tables::Cell::Cell(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

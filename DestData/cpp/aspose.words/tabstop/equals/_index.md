@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstop/equals/
 
 Compares with the specified [TabStop](./).
 
+```cpp
+bool Aspose::Words::TabStop::Equals(const System::SharedPtr<Aspose::Words::TabStop> &rhs)
+```
+

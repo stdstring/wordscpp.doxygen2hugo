@@ -11,3 +11,7 @@ url: /cpp/aspose.words/signaturelineoptions/set_showdate/
 
 Setter for [Aspose::Words::SignatureLineOptions::get_ShowDate](./get_showdate/).
 
+```cpp
+void Aspose::Words::SignatureLineOptions::set_ShowDate(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/signaturelineoptions/signaturelineoptions/
 
 
 
+```cpp
+Aspose::Words::SignatureLineOptions::SignatureLineOptions()
+```
+

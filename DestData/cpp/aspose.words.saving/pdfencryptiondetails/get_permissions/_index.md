@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/get_permissions/
 
 Specifies the operations that are allowed to a user on an encrypted PDF document. The default value is **DisallowAll**.
 
+```cpp
+Aspose::Words::Saving::PdfPermissions Aspose::Words::Saving::PdfEncryptionDetails::get_Permissions() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/idx_get/
 
 Returns [ChartDataLabel](../chartdatalabel/) for the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataLabel> Aspose::Words::Drawing::Charts::ChartDataLabelCollection::idx_get(int32_t index)
+```
+

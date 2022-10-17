@@ -11,3 +11,7 @@ url: /cpp/aspose.words/commentcollection/idx_get/
 
 Retrieves a **Comment** at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Comment> Aspose::Words::CommentCollection::idx_get(int32_t index)
+```
+

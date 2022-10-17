@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_rightpadding/
 
 Setter for [Aspose::Words::Tables::Table::get_RightPadding](./get_rightpadding/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_RightPadding(double value)
+```
+

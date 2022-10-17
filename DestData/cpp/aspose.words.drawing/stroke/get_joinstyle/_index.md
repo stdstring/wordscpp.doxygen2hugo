@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_joinstyle/
 
 Defines the join style of a polyline.
 
+```cpp
+Aspose::Words::Drawing::JoinStyle Aspose::Words::Drawing::Stroke::get_JoinStyle()
+```
+

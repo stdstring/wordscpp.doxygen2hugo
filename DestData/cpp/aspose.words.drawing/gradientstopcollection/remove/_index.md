@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/remove/
 
 Removes a specified [GradientStop](../gradientstop/) from the collection.
 
+```cpp
+bool Aspose::Words::Drawing::GradientStopCollection::Remove(const System::SharedPtr<Aspose::Words::Drawing::GradientStop> &gradientStop)
+```
+

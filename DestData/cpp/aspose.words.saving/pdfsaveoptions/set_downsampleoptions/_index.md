@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_downsampleoptions/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DownsampleOptions](./get_downsampleoptions/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_DownsampleOptions(const System::SharedPtr<Aspose::Words::Saving::DownsampleOptions> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabasedatarow/get_values/
 
 Gets values that belong to this row.
 
+```cpp
+const System::ArrayPtr<System::String> & Aspose::Words::Fields::FieldDatabaseDataRow::get_Values() const
+```
+

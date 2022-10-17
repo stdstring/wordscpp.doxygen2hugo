@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/insert/
 
 Inserts a node into the collection at the specified index.
 
+```cpp
+void Aspose::Words::NodeCollection::Insert(int32_t index, const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

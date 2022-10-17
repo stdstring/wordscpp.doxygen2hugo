@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitfieldseparator/
 
 Called when a field separator is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldSeparator(System::SharedPtr<Aspose::Words::Fields::FieldSeparator> fieldSeparator)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/get_udlconnectstring/
 
 Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string.
 
+```cpp
+System::String Aspose::Words::Settings::Odso::get_UdlConnectString() const
+```
+

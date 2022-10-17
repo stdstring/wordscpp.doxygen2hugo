@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/updatefields/
 
 Updates the values of document fields in this range.
 
+```cpp
+void Aspose::Words::Range::UpdateFields()
+```
+

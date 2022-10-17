@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/containsvalue/
 
 Determines whether a mapping from the specified field in the data source exists in the collection.
 
+```cpp
+bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue(const System::String &dataSourceFieldName)
+```
+

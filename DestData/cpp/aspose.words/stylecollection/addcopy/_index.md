@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/addcopy/
 
 Copies a style into this collection.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::AddCopy(const System::SharedPtr<Aspose::Words::Style> &style)
+```
+

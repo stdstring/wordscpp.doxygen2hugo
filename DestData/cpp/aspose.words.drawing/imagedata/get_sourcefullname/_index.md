@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_sourcefullname/
 
 Gets or sets the path and name of the source file for the linked image.
 
+```cpp
+System::String Aspose::Words::Drawing::ImageData::get_SourceFullName()
+```
+

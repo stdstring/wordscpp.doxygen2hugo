@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_xsltransformation/
 
 Setter for [Aspose::Words::Fields::FieldIncludeText::get_XslTransformation](./get_xsltransformation/).
 
+```cpp
+void Aspose::Words::Fields::FieldIncludeText::set_XslTransformation(const System::String &value)
+```
+

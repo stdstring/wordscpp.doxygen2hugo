@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldnextif/set_comparisonoperator/
 
 Sets the comparison operator.
 
+```cpp
+void Aspose::Words::Fields::FieldNextIf::set_ComparisonOperator(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_backcolor/
 
 Sets a Color object that represents the background color for the fill.
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_BackColor(System::Drawing::Color value)
+```
+

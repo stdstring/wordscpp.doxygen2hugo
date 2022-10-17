@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_brightness/
 
 Gets or sets the brightness of the picture. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest).
 
+```cpp
+double Aspose::Words::Drawing::ImageData::get_Brightness()
+```
+

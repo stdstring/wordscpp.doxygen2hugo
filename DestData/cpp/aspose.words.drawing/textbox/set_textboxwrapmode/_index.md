@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/set_textboxwrapmode/
 
 Setter for [Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode](./get_textboxwrapmode/).
 
+```cpp
+void Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode(Aspose::Words::Drawing::TextBoxWrapMode value)
+```
+

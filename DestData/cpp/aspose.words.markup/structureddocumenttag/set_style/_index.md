@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_style/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Style](./get_style/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_Style(const System::SharedPtr<Aspose::Words::Style> &value)
+```
+

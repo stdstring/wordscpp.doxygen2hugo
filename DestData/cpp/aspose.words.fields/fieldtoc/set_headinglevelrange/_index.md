@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/set_headinglevelrange/
 
 Setter for [Aspose::Words::Fields::FieldToc::get_HeadingLevelRange](./get_headinglevelrange/).
 
+```cpp
+void Aspose::Words::Fields::FieldToc::set_HeadingLevelRange(const System::String &value)
+```
+

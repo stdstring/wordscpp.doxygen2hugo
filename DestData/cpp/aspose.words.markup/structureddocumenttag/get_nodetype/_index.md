@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_nodetype/
 
 Returns **NodeType.StructuredDocumentTag**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Markup::StructuredDocumentTag::get_NodeType() const override
+```
+

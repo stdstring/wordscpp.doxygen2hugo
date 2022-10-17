@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportpagemargins/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins](./get_exportpagemargins/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportPageMargins(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_pagenumberseparator/
 
 Gets or sets the character sequence that is used to separate an index entry and its page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator()
+```
+

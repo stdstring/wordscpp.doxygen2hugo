@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/gethashcode/
 
 Serves as a hash function for this type.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::AxisBound::GetHashCode() const override
+```
+

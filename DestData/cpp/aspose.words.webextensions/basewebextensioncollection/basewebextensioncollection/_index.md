@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/basewebextension
 
 
 
+```cpp
+Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::BaseWebExtensionCollection()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_spacing/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Spacing](./get_spacing/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_Spacing(double value)
+```
+

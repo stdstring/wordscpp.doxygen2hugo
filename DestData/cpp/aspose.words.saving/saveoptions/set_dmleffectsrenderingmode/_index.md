@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_dmleffectsrenderingmode/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode](./get_dmleffectsrenderingmode/).
 
+```cpp
+virtual void Aspose::Words::Saving::SaveOptions::set_DmlEffectsRenderingMode(Aspose::Words::Saving::DmlEffectsRenderingMode value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontresourcessubsettingsizethr
 
 Controls which font resources need subsetting when saving to HTML, MHTML or EPUB. Default is **%0**.
 
+```cpp
+int32_t Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold() const
+```
+

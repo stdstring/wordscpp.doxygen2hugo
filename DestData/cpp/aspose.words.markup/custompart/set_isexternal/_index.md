@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/set_isexternal/
 
 Setter for [Aspose::Words::Markup::CustomPart::get_IsExternal](./get_isexternal/).
 
+```cpp
+void Aspose::Words::Markup::CustomPart::set_IsExternal(bool value)
+```
+

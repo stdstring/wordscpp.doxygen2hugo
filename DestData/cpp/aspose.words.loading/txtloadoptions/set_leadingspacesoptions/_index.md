@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/set_leadingspacesoptions/
 
 Setter for [Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions](./get_leadingspacesoptions/).
 
+```cpp
+void Aspose::Words::Loading::TxtLoadOptions::set_LeadingSpacesOptions(Aspose::Words::Loading::TxtLeadingSpacesOptions value)
+```
+

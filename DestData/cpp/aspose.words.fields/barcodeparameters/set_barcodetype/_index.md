@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_barcodetype/
 
 Bar code type.
 
+```cpp
+void Aspose::Words::Fields::BarcodeParameters::set_BarcodeType(const System::String &value)
+```
+

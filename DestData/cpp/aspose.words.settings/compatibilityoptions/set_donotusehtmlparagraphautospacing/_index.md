@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotusehtmlparagraphau
 
 Use Fixed [Paragraph](../../aspose.words/paragraph/) Spacing for HTML Auto Setting.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_DoNotUseHTMLParagraphAutoSpacing(bool value)
+```
+

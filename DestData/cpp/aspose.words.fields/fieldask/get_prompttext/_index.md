@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldask/get_prompttext/
 
 Gets the prompt text (the title of the prompt window).
 
+```cpp
+System::String Aspose::Words::Fields::FieldAsk::get_PromptText()
+```
+

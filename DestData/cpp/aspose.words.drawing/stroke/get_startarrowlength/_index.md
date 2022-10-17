@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_startarrowlength/
 
 Defines the arrowhead length for the start of a stroke.
 
+```cpp
+Aspose::Words::Drawing::ArrowLength Aspose::Words::Drawing::Stroke::get_StartArrowLength()
+```
+

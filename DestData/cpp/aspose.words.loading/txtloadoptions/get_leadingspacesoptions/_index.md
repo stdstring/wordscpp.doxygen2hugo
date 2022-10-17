@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/get_leadingspacesoptions/
 
 Gets or sets preferred option of a leading space handling. Default value is **ConvertToIndent**.
 
+```cpp
+Aspose::Words::Loading::TxtLeadingSpacesOptions Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions() const
+```
+

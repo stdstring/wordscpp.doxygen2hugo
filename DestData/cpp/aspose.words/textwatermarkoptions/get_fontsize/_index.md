@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/get_fontsize/
 
 Gets or sets a font size. The default value is 0 - auto.
 
+```cpp
+float Aspose::Words::TextWatermarkOptions::get_FontSize() const
+```
+

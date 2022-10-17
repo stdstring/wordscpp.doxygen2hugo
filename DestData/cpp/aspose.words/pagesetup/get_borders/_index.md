@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_borders/
 
 Gets a collection of the page borders.
 
+```cpp
+System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::PageSetup::get_Borders()
+```
+

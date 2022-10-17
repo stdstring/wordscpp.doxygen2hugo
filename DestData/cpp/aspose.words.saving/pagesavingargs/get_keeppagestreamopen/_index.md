@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/get_keeppagestreamopen/
 
 Specifies whether Aspose.Words should keep the stream open or close it after saving a document page.
 
+```cpp
+bool Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen() const
+```
+

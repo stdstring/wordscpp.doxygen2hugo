@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfieldcollection/clear/
 
 Removes all form fields from this collection and from the document.
 
+```cpp
+void Aspose::Words::Fields::FormFieldCollection::Clear()
+```
+

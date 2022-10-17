@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_localeidfareast/
 
 Setter for [Aspose::Words::Font::get_LocaleIdFarEast](./get_localeidfareast/).
 
+```cpp
+void Aspose::Words::Font::set_LocaleIdFarEast(int32_t value)
+```
+

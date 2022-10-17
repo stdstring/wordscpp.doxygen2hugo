@@ -11,3 +11,7 @@ url: /cpp/aspose.words/shading/get_texture/
 
 Gets or sets the shading texture.
 
+```cpp
+Aspose::Words::TextureIndex Aspose::Words::Shading::get_Texture()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/set_isquickstyle/
 
 Setter for [Aspose::Words::Style::get_IsQuickStyle](./get_isquickstyle/).
 
+```cpp
+void Aspose::Words::Style::set_IsQuickStyle(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/rtfsaveoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::RtfSaveOptions::RtfSaveOptions()
+```
+

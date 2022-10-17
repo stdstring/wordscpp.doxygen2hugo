@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcompare/get_rightexpression/
 
 Gets or sets the right part of the comparison expression.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCompare::get_RightExpression()
+```
+

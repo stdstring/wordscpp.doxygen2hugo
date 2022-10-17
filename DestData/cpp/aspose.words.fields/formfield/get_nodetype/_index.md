@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_nodetype/
 
 Returns **NodeType.FormField**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Fields::FormField::get_NodeType() const override
+```
+

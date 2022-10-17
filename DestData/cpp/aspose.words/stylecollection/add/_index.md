@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/add/
 
 Creates a new user defined style and adds it the collection.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::Add(Aspose::Words::StyleType type, const System::String &name)
+```
+

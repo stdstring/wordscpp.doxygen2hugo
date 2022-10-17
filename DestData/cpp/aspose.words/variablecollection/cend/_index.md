@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::VariableCollection::cend() const noexcept
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_useword97linebreakrules
 
 Emulate Word 97 East Asian Line Breaking.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_UseWord97LineBreakRules()
+```
+

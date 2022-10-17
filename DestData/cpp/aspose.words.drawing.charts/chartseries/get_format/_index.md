@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_format/
 
 Provides access to fill and line formatting of the series.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Drawing::Charts::ChartSeries::get_Format()
+```
+

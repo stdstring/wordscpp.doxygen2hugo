@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/get_emulaterasteroperatio
 
 Gets or sets a value determining whether or not the raster operations should be emulated.
 
+```cpp
+bool Aspose::Words::Saving::MetafileRenderingOptions::get_EmulateRasterOperations() const
+```
+

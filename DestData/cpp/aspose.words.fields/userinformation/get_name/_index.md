@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/userinformation/get_name/
 
 Gets or sets the user's name.
 
+```cpp
+System::String Aspose::Words::Fields::UserInformation::get_Name() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_name/
 
 Gets or sets the name of the series, if name is not set explicitly it is generated using index. By default returns Series plus one based index.
 
+```cpp
+System::String Aspose::Words::Drawing::Charts::ChartSeries::get_Name()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_title/
 
 Gets or sets the title (caption) of the current shape object.
 
+```cpp
+System::String Aspose::Words::Drawing::ShapeBase::get_Title()
+```
+

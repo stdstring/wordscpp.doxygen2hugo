@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/charttitle/set_overlay/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartTitle::get_Overlay](./get_overlay/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartTitle::set_Overlay(bool value)
+```
+

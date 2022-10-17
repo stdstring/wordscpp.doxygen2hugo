@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/set_islinkedtoprevious/
 
 Setter for [Aspose::Words::HeaderFooter::get_IsLinkedToPrevious](./get_islinkedtoprevious/).
 
+```cpp
+void Aspose::Words::HeaderFooter::set_IsLinkedToPrevious(bool value)
+```
+

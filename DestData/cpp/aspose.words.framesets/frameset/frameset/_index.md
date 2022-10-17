@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/frameset/frameset/
 
 
 
+```cpp
+Aspose::Words::Framesets::Frameset::Frameset()
+```
+

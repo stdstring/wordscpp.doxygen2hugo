@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_underlinecolor/
 
 Gets or sets the color of the underline applied to the font.
 
+```cpp
+System::Drawing::Color Aspose::Words::Font::get_UnderlineColor()
+```
+

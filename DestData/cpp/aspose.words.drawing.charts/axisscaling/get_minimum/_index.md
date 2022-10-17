@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisscaling/get_minimum/
 
 Gets or sets minimum value of the axis.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::AxisBound> Aspose::Words::Drawing::Charts::AxisScaling::get_Minimum()
+```
+

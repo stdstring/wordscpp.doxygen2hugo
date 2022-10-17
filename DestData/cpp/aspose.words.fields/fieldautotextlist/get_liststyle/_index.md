@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldautotextlist/get_liststyle/
 
 Gets or sets the name of the style on which the list to contain entries is based.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAutoTextList::get_ListStyle()
+```
+

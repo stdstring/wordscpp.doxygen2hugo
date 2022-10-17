@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/streamfontsource/get_cachekey/
 
 The key of this source in the cache.
 
+```cpp
+System::String Aspose::Words::Fonts::StreamFontSource::get_CacheKey() const
+```
+

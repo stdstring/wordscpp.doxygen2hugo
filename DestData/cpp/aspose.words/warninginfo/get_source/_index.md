@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfo/get_source/
 
 Returns the source of the warning.
 
+```cpp
+Aspose::Words::WarningSource Aspose::Words::WarningInfo::get_Source() const
+```
+

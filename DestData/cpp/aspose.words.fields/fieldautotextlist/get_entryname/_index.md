@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldautotextlist/get_entryname/
 
 Gets or sets the name of the AutoText entry.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAutoTextList::get_EntryName()
+```
+

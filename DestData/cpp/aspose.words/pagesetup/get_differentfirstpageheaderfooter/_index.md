@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_differentfirstpageheaderfooter/
 
 **True** if a different header or footer is used on the first page.
 
+```cpp
+bool Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/indexofkey/
 
 Returns the zero-based index of the specified document variable in the collection.
 
+```cpp
+int32_t Aspose::Words::VariableCollection::IndexOfKey(const System::String &name)
+```
+

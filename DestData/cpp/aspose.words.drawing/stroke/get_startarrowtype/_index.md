@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_startarrowtype/
 
 Defines the arrowhead for the start of a stroke.
 
+```cpp
+Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Stroke::get_StartArrowType()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_separator/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_Separator](./get_separator/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataLabel::set_Separator(const System::String &value)
+```
+

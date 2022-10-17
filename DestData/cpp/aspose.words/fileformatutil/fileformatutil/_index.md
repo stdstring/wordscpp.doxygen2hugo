@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/fileformatutil/
 
 
 
+```cpp
+Aspose::Words::FileFormatUtil::FileFormatUtil()
+```
+

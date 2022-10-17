@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseries/get_hasdatalabels/
 
 Gets a flag indicating whether data labels are displayed for the series.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartSeries::get_HasDataLabels() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/get_spacing/
 
 When columns are evenly spaced, gets or sets the amount of space between each column in points.
 
+```cpp
+double Aspose::Words::TextColumnCollection::get_Spacing()
+```
+

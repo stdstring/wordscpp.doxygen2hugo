@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/get_issemitrasparent/
 
 Gets or sets a boolean value which is responsible for opacity of the watermark. The default value is True.
 
+```cpp
+bool Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent() const
+```
+

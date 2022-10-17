@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_namebi/
 
 Returns or sets the name of the font in a right-to-left language document.
 
+```cpp
+System::String Aspose::Words::Font::get_NameBi()
+```
+

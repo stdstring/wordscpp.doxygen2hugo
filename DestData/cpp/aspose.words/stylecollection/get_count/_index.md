@@ -11,3 +11,7 @@ url: /cpp/aspose.words/stylecollection/get_count/
 
 Gets the number of styles in the collection.
 
+```cpp
+int32_t Aspose::Words::StyleCollection::get_Count()
+```
+

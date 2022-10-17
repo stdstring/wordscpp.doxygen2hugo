@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/get_version/
 
 Specifies the version of the web extension.
 
+```cpp
+System::String Aspose::Words::WebExtensions::WebExtensionReference::get_Version() const
+```
+

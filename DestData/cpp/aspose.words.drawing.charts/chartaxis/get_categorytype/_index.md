@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_categorytype/
 
 Gets or sets type of the category axis.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisCategoryType Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType()
+```
+

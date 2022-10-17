@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_verticalmerge/
 
 Specifies how the cell is merged with other cells vertically.
 
+```cpp
+Aspose::Words::Tables::CellMerge Aspose::Words::Tables::CellFormat::get_VerticalMerge()
+```
+

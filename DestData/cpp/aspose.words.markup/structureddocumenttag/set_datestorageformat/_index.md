@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_datestorageformat/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_DateStorageFormat](./get_datestorageformat/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_DateStorageFormat(Aspose::Words::Markup::SdtDateStorageFormat value)
+```
+

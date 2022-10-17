@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_markuplanguage/
 
 Gets MarkupLanguage used for this graphic object.
 
+```cpp
+Aspose::Words::Drawing::ShapeMarkupLanguage Aspose::Words::Drawing::ShapeBase::get_MarkupLanguage() const
+```
+

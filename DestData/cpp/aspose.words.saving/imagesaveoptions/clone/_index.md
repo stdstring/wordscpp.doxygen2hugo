@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/clone/
 
 Creates a deep clone of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::ImageSaveOptions> Aspose::Words::Saving::ImageSaveOptions::Clone()
+```
+

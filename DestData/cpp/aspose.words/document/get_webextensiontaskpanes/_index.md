@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_webextensiontaskpanes/
 
 Returns a collection that represents a list of task pane add-ins.
 
+```cpp
+System::SharedPtr<Aspose::Words::WebExtensions::TaskPaneCollection> Aspose::Words::Document::get_WebExtensionTaskPanes() const
+```
+

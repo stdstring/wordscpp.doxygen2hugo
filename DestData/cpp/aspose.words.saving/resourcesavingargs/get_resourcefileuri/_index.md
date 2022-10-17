@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcefileuri/
 
 Gets or sets the uniform resource identifier (URI) used to reference the resource file from the document.
 
+```cpp
+System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri() const
+```
+

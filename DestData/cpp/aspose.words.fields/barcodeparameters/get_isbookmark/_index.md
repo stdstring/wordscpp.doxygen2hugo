@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_isbookmark/
 
 Whether [PostalAddress](./get_postaladdress/) is the name of a bookmark.
 
+```cpp
+bool Aspose::Words::Fields::BarcodeParameters::get_IsBookmark() const
+```
+

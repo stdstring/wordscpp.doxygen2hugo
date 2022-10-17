@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/get_value/
 
 Gets or sets the value of the property.
 
+```cpp
+System::SharedPtr<System::Object> Aspose::Words::Properties::DocumentProperty::get_Value()
+```
+

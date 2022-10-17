@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/idx_get/
 
 Gets or sets an item in this collection.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData> Aspose::Words::Settings::OdsoFieldMapDataCollection::idx_get(int32_t index)
+```
+

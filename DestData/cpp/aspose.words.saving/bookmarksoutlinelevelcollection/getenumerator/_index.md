@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/getenumerator/
 
 
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, int32_t>>> Aspose::Words::Saving::BookmarksOutlineLevelCollection::GetEnumerator() override
+```
+

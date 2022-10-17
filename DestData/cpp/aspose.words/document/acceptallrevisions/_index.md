@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/acceptallrevisions/
 
 Accepts all tracked changes in the document.
 
+```cpp
+void Aspose::Words::Document::AcceptAllRevisions()
+```
+

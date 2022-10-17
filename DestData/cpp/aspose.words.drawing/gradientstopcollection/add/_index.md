@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/add/
 
 Adds a specified [GradientStop](../gradientstop/) to a gradient.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::GradientStop> Aspose::Words::Drawing::GradientStopCollection::Add(const System::SharedPtr<Aspose::Words::Drawing::GradientStop> &gradientStop)
+```
+

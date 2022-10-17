@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/get_webextension/
 
 Represents an web extension object.
 
+```cpp
+System::SharedPtr<Aspose::Words::WebExtensions::WebExtension> Aspose::Words::WebExtensions::TaskPane::get_WebExtension() const
+```
+

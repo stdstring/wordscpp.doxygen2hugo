@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_opacity/
 
 Gets or sets the degree of opacity of the specified fill as a value between 0.0 (clear) and 1.0 (opaque).
 
+```cpp
+double Aspose::Words::Drawing::Fill::get_Opacity()
+```
+

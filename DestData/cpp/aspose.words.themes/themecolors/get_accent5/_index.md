@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_accent5/
 
 Specifies color Accent 5.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Accent5()
+```
+

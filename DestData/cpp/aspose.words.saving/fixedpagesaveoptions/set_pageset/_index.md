@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_pageset/
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet](./get_pageset/).
 
+```cpp
+void Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet(const System::SharedPtr<Aspose::Words::Saving::PageSet> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_digitalsignaturedetails/
 
 Gets or sets the details for signing the output PDF document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::PdfDigitalSignatureDetails> Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails() const
+```
+

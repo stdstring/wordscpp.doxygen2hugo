@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_prefix/
 
 Gets or sets a prefix that is prepended to the citation.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCitation::get_Prefix()
+```
+

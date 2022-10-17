@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/normalizefieldtypes/
 
 Changes field type values [FieldType](../../aspose.words.fields/fieldchar/get_fieldtype/) of [FieldStart](../../aspose.words.fields/fieldstart/), [FieldSeparator](../../aspose.words.fields/fieldseparator/), [FieldEnd](../../aspose.words.fields/fieldend/) in this range so that they correspond to the field types contained in the field codes.
 
+```cpp
+void Aspose::Words::Range::NormalizeFieldTypes()
+```
+

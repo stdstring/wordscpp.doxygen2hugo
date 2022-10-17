@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/downsampleoptions/downsampleoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::DownsampleOptions::DownsampleOptions()
+```
+

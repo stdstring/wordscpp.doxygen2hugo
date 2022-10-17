@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_nodetype/
 
 Gets the type of this node.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_NodeType() const override
+```
+

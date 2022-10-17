@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstop/get_transparency/
 
 Gets or sets a value representing the transparency of the gradient fill expressed as a percent in range 0.0 to 1.0.
 
+```cpp
+double Aspose::Words::Drawing::GradientStop::get_Transparency() const
+```
+

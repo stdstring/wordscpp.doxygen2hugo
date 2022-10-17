@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_filename/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_FileName](./get_filename/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_FileName(const System::String &value)
+```
+

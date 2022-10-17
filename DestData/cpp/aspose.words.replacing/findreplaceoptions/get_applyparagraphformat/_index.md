@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyparagraphformat/
 
 [Paragraph](../../aspose.words/paragraph/) formatting applied to new content.
 
+```cpp
+System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::Replacing::FindReplaceOptions::get_ApplyParagraphFormat() const
+```
+

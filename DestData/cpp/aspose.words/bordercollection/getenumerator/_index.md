@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/getenumerator/
 
 Returns an enumerator object that can be used to iterate over all borders in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Border>>> Aspose::Words::BorderCollection::GetEnumerator() override
+```
+

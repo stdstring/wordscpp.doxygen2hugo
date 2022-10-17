@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagend/
 
 Called when enumeration of a structured document tag has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagEnd(System::SharedPtr<Aspose::Words::Markup::StructuredDocumentTag> sdt)
+```
+

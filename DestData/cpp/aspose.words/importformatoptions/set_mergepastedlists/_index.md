@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/set_mergepastedlists/
 
 Setter for [Aspose::Words::ImportFormatOptions::get_MergePastedLists](./get_mergepastedlists/).
 
+```cpp
+void Aspose::Words::ImportFormatOptions::set_MergePastedLists(bool value)
+```
+

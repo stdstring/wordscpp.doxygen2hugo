@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/pageinfo/get_sizeinpoints/
 
 Gets the page size in points.
 
+```cpp
+System::Drawing::SizeF Aspose::Words::Rendering::PageInfo::get_SizeInPoints() const
+```
+

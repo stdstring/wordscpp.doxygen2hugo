@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imagewidth/
 
 Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth](./get_imagewidth/).
 
+```cpp
+void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageWidth(const System::SharedPtr<Aspose::Words::Fields::MergeFieldImageDimension> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignorefields/
 
 Specifies whether to compare differences in fields. By default fields are not ignored.
 
+```cpp
+bool Aspose::Words::Comparing::CompareOptions::get_IgnoreFields() const
+```
+

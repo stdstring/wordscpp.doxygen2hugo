@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisiongroupcollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::RevisionGroupCollection::cend() const noexcept
+```
+

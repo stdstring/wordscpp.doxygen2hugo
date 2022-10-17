@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_bidi/
 
 Specifies that this section contains bidirectional (complex scripts) text.
 
+```cpp
+bool Aspose::Words::PageSetup::get_Bidi()
+```
+

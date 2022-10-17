@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/set_linkedstyle/
 
 Setter for [Aspose::Words::Lists::ListLevel::get_LinkedStyle](./get_linkedstyle/).
 
+```cpp
+void Aspose::Words::Lists::ListLevel::set_LinkedStyle(const System::SharedPtr<Aspose::Words::Style> &value)
+```
+

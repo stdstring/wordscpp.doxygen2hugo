@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitparagraphend/
 
 Called when enumeration of a paragraph has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitParagraphEnd(System::SharedPtr<Aspose::Words::Paragraph> paragraph)
+```
+

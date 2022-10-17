@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_suppresslinenumbers/
 
 Specifies whether the current paragraph's lines should be exempted from line numbering which is applied in the parent section.
 
+```cpp
+bool Aspose::Words::ParagraphFormat::get_SuppressLineNumbers()
+```
+

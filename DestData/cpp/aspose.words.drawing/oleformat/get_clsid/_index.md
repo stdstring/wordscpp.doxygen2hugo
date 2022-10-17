@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_clsid/
 
 Gets the CLSID of the OLE object.
 
+```cpp
+System::Guid Aspose::Words::Drawing::OleFormat::get_Clsid()
+```
+

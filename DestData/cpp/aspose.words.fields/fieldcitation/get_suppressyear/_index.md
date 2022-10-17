@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_suppressyear/
 
 Gets or sets whether the year information is suppressed from the citation.
 
+```cpp
+bool Aspose::Words::Fields::FieldCitation::get_SuppressYear()
+```
+

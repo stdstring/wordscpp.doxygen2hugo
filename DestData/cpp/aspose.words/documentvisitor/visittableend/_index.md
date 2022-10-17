@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visittableend/
 
 Called when enumeration of a table has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitTableEnd(System::SharedPtr<Aspose::Words::Tables::Table> table)
+```
+

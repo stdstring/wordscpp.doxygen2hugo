@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_currentstory/
 
 Gets the story that is currently selected in this [DocumentBuilder](./).
 
+```cpp
+System::SharedPtr<Aspose::Words::Story> Aspose::Words::DocumentBuilder::get_CurrentStory()
+```
+

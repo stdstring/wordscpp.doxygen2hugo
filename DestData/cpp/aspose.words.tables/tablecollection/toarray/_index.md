@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/tablecollection/toarray/
 
 Copies all tables from the collection to a new array of tables.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Tables::Table>> Aspose::Words::Tables::TableCollection::ToArray()
+```
+

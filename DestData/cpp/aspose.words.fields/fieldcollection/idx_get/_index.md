@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcollection/idx_get/
 
 Returns a field at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldCollection::idx_get(int32_t index)
+```
+

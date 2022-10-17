@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/comparisonexpression/get_rightexpression/
 
 Gets the right expression.
 
+```cpp
+System::String Aspose::Words::Fields::ComparisonExpression::get_RightExpression() const
+```
+

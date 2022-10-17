@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportembeddedimages/
 
 Specifies whether images should be embedded into Html document in Base64 format. Note setting this flag can significantly increase size of output Html file.
 
+```cpp
+bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages() const
+```
+

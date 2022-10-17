@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_embedfullfonts/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_EmbedFullFonts](./get_embedfullfonts/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_EmbedFullFonts(bool value)
+```
+

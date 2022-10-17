@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_stylename/
 
 Gets or sets the name of the style applied to the structured document tag.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_StyleName()
+```
+

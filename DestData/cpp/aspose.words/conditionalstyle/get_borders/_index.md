@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/get_borders/
 
 Gets the collection of default cell borders for the conditional style.
 
+```cpp
+System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::ConditionalStyle::get_Borders()
+```
+

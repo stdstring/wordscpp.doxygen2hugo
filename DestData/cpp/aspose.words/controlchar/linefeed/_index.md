@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/linefeed/
 
 Line feed character: "\x000a" or "\n". Same as [Lf](./lf/).
 
+```cpp
+static System::String & Aspose::Words::ControlChar::LineFeed()
+```
+

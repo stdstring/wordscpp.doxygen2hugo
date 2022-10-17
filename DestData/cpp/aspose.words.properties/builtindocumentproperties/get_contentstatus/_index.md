@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_contentstatus/
 
 Gets or sets the ContentStatus of the document.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus()
+```
+

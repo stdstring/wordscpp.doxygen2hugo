@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_orientation/
 
 Returns or sets the orientation of the page.
 
+```cpp
+Aspose::Words::Orientation Aspose::Words::PageSetup::get_Orientation()
+```
+

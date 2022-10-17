@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::VariableCollection::Clear()
+```
+

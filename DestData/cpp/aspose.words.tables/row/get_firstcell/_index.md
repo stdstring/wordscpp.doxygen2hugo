@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/row/get_firstcell/
 
 Returns the first **Cell** in the row.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::Tables::Row::get_FirstCell()
+```
+

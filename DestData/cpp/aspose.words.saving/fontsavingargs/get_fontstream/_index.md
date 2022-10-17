@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_fontstream/
 
 Allows to specify the stream where the font will be saved to.
 
+```cpp
+System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::FontSavingArgs::get_FontStream() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/set_preservetablelayout/
 
 Setter for [Aspose::Words::Saving::TxtSaveOptions::get_PreserveTableLayout](./get_preservetablelayout/).
 
+```cpp
+void Aspose::Words::Saving::TxtSaveOptions::set_PreserveTableLayout(bool value)
+```
+

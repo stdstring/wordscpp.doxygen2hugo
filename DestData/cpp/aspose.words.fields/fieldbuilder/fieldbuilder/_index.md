@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldbuilder/fieldbuilder/
 
 Initializes an instance of the [FieldBuilder](./) class.
 
+```cpp
+Aspose::Words::Fields::FieldBuilder::FieldBuilder(Aspose::Words::Fields::FieldType fieldType)
+```
+

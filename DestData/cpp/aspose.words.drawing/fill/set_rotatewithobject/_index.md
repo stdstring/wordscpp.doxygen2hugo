@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_rotatewithobject/
 
 Sets whether the fill rotates with the specified object.
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_RotateWithObject(bool value)
+```
+

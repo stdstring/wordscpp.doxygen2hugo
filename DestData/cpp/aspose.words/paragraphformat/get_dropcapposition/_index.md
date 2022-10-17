@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_dropcapposition/
 
 Gets or sets the position for a drop cap text.
 
+```cpp
+Aspose::Words::DropCapPosition Aspose::Words::ParagraphFormat::get_DropCapPosition()
+```
+

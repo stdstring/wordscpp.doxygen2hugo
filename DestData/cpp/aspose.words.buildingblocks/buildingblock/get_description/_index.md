@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_description/
 
 Gets or sets the description associated with this building block.
 
+```cpp
+System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Description() const
+```
+

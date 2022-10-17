@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfo/get_warningtype/
 
 Returns the type of the warning.
 
+```cpp
+Aspose::Words::WarningType Aspose::Words::WarningInfo::get_WarningType() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/get_nodetype/
 
 Returns **NodeType.HeaderFooter**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::HeaderFooter::get_NodeType() const override
+```
+

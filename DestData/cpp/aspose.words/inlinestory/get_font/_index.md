@@ -11,3 +11,7 @@ url: /cpp/aspose.words/inlinestory/get_font/
 
 Provides access to the font formatting of the anchor character of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::InlineStory::get_Font()
+```
+

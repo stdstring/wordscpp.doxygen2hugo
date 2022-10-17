@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/get_name/
 
 Gets the name of the font.
 
+```cpp
+System::String Aspose::Words::Fonts::FontInfo::get_Name() const
+```
+

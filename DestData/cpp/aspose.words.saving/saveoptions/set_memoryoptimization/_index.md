@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_memoryoptimization/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_MemoryOptimization](./get_memoryoptimization/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_MemoryOptimization(bool value)
+```
+

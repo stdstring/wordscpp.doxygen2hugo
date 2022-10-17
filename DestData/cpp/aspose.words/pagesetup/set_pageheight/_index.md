@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_pageheight/
 
 Setter for [Aspose::Words::PageSetup::get_PageHeight](./get_pageheight/).
 
+```cpp
+void Aspose::Words::PageSetup::set_PageHeight(double value)
+```
+

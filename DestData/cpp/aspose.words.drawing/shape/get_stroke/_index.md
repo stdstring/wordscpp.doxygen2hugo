@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_stroke/
 
 Defines a stroke for a shape.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Stroke> Aspose::Words::Drawing::Shape::get_Stroke()
+```
+

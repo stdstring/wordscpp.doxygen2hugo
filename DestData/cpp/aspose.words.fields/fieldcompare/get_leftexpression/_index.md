@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcompare/get_leftexpression/
 
 Gets or sets the left part of the comparison expression.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCompare::get_LeftExpression()
+```
+

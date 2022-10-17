@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedimages/
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages](./get_exportembeddedimages/).
 
+```cpp
+void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedImages(bool value)
+```
+

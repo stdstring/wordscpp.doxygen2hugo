@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Drawing::Shape::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

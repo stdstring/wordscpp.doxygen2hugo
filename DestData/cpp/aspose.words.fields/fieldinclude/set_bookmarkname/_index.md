@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldinclude/set_bookmarkname/
 
 Setter for [Aspose::Words::Fields::FieldInclude::get_BookmarkName](./get_bookmarkname/).
 
+```cpp
+void Aspose::Words::Fields::FieldInclude::set_BookmarkName(const System::String &value)
+```
+

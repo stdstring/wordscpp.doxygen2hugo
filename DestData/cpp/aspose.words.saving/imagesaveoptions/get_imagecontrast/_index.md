@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_imagecontrast/
 
 Gets or sets the contrast for the generated images.
 
+```cpp
+float Aspose::Words::Saving::ImageSaveOptions::get_ImageContrast() const
+```
+

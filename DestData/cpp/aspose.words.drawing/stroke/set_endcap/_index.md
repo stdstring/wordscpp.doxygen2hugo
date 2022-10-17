@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_endcap/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_EndCap](./get_endcap/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_EndCap(Aspose::Words::Drawing::EndCap value)
+```
+

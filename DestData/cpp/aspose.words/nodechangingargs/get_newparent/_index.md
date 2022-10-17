@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodechangingargs/get_newparent/
 
 Gets the node's parent that will be set after the operation completes.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeChangingArgs::get_NewParent() const
+```
+

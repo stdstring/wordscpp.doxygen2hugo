@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/gettext/
 
 Gets the text of this node and of all its children.
 
+```cpp
+System::String Aspose::Words::CompositeNode::GetText() override
+```
+

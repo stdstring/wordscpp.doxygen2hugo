@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/hyphenationoptions/get_consecutivehyphenlimit/
 
 Gets or sets the maximum number of consecutive lines that can end with hyphens. Default value for this property is 0.
 
+```cpp
+int32_t Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesfolder/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder](./get_imagesfolder/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ImagesFolder(const System::String &value)
+```
+

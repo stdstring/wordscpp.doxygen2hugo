@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetocell/
 
 Moves the cursor to a table cell in the current section.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToCell(int32_t tableIndex, int32_t rowIndex, int32_t columnIndex, int32_t characterIndex)
+```
+

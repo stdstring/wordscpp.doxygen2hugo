@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_endarrowlength/
 
 Defines the arrowhead length for the end of a stroke.
 
+```cpp
+Aspose::Words::Drawing::ArrowLength Aspose::Words::Drawing::Stroke::get_EndArrowLength()
+```
+

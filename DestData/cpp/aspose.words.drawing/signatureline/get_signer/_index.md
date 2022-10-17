@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/signatureline/get_signer/
 
 Gets or sets suggested signer of the signature line. Default value for this property is **empty string**.
 
+```cpp
+System::String Aspose::Words::Drawing::SignatureLine::get_Signer()
+```
+

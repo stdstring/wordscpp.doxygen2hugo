@@ -11,3 +11,7 @@ url: /cpp/aspose.words/border/get_linewidth/
 
 Gets or sets the border width in points.
 
+```cpp
+double Aspose::Words::Border::get_LineWidth()
+```
+

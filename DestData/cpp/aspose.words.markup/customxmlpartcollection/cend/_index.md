@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::Markup::CustomXmlPartCollection::cend() const noexcept
+```
+

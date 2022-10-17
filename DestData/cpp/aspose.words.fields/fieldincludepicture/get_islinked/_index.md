@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludepicture/get_islinked/
 
 Gets or sets whether to reduce the file size by not storing graphics data with the document.
 
+```cpp
+bool Aspose::Words::Fields::FieldIncludePicture::get_IsLinked() override
+```
+

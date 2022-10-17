@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/row/gettext/
 
 Gets the text of all cells in this row including the end of row character.
 
+```cpp
+System::String Aspose::Words::Tables::Row::GetText() override
+```
+

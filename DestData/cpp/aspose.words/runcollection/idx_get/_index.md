@@ -11,3 +11,7 @@ url: /cpp/aspose.words/runcollection/idx_get/
 
 Retrieves a **Run** at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Run> Aspose::Words::RunCollection::idx_get(int32_t index)
+```
+

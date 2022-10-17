@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_entrytype/
 
 Gets or sets an index entry type used to build the index.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_EntryType()
+```
+

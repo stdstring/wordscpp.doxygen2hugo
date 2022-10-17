@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_fieldindexformat/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat](./get_fieldindexformat/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_FieldIndexFormat(Aspose::Words::Fields::FieldIndexFormat value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/get_saveformat/
 
 Specifies the format in which the document will be saved if this save options object is used. Can only be **Rtf**.
 
+```cpp
+Aspose::Words::SaveFormat Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat() override
+```
+

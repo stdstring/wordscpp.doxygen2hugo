@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstop/get_leader/
 
 Gets or sets the type of the leader line displayed under the tab character.
 
+```cpp
+Aspose::Words::TabLeader Aspose::Words::TabStop::get_Leader() const
+```
+

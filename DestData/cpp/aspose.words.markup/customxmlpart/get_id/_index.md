@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpart/get_id/
 
 Gets or sets the string that identifies this custom XML part within an OOXML document.
 
+```cpp
+System::String Aspose::Words::Markup::CustomXmlPart::get_Id() const
+```
+

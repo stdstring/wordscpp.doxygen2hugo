@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/get_id/
 
 Identifier associated with the web extension within a catalog provider.
 
+```cpp
+System::String Aspose::Words::WebExtensions::WebExtensionReference::get_Id() const
+```
+

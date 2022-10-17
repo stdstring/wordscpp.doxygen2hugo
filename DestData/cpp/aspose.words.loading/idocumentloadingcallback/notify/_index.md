@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/idocumentloadingcallback/notify/
 
 This is called to notify of document loading progress.
 
+```cpp
+virtual void Aspose::Words::Loading::IDocumentLoadingCallback::Notify(System::SharedPtr<Aspose::Words::Loading::DocumentLoadingArgs> args)=0
+```
+

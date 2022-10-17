@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/ifontsavingcallback/fontsaving/
 
 Called when Aspose.Words is about to save a font resource.
 
+```cpp
+virtual void Aspose::Words::Saving::IFontSavingCallback::FontSaving(System::SharedPtr<Aspose::Words::Saving::FontSavingArgs> args)=0
+```
+

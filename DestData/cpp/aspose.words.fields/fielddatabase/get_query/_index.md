@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/get_query/
 
 Gets a set of SQL instructions that query the database.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDatabase::get_Query()
+```
+

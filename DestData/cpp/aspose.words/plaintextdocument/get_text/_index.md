@@ -11,3 +11,7 @@ url: /cpp/aspose.words/plaintextdocument/get_text/
 
 Gets textual content of the document concatenated as a string.
 
+```cpp
+System::String Aspose::Words::PlainTextDocument::get_Text() const
+```
+

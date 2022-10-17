@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/certificateholder/get_certificate/
 
 Returns the instance of **X509Certificate2** which holds private, public keys and certificate chain.
 
+```cpp
+System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> Aspose::Words::DigitalSignatures::CertificateHolder::get_Certificate()
+```
+

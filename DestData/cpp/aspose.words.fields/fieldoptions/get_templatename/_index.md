@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_templatename/
 
 Gets or sets the file name of the template used by the document.
 
+```cpp
+System::String Aspose::Words::Fields::FieldOptions::get_TemplateName() const
+```
+

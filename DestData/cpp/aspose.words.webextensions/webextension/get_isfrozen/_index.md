@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextension/get_isfrozen/
 
 Specifies whether the user can interact with the web extension or not.
 
+```cpp
+bool Aspose::Words::WebExtensions::WebExtension::get_IsFrozen() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_keepwithnext/
 
 Setter for [Aspose::Words::ParagraphFormat::get_KeepWithNext](./get_keepwithnext/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_KeepWithNext(bool value)
+```
+

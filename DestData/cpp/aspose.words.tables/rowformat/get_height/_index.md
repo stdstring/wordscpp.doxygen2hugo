@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowformat/get_height/
 
 Gets or sets the height of the table row in points.
 
+```cpp
+double Aspose::Words::Tables::RowFormat::get_Height()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/contains/
 
 Determines whether the collection contains the specified value.
 
+```cpp
+bool Aspose::Words::Fields::DropDownItemCollection::Contains(const System::String &value)
+```
+

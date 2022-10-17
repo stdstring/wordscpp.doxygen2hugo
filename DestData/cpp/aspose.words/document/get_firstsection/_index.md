@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_firstsection/
 
 Gets the first section in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::Document::get_FirstSection()
+```
+

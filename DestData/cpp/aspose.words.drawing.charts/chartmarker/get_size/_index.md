@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/get_size/
 
 Gets or sets chart marker size. Default value is 7.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::ChartMarker::get_Size()
+```
+

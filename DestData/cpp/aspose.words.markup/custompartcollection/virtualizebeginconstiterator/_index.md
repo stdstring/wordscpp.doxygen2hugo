@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompartcollection/virtualizebeginconstiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Markup::CustomPartCollection::virtualizeBeginConstIterator() const override
+```
+

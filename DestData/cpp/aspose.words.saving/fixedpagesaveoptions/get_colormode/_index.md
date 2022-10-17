@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_colormode/
 
 Gets or sets a value determining how colors are rendered.
 
+```cpp
+Aspose::Words::Saving::ColorMode Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode() const
+```
+

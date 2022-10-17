@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/getenumerator/
 
 Returns an enumerator object.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag>>> Aspose::Words::Markup::StructuredDocumentTagCollection::GetEnumerator() override
+```
+

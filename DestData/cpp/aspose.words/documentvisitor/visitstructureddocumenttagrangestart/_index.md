@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagrangestart/
 
 
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagRangeStart(System::SharedPtr<Aspose::Words::Markup::StructuredDocumentTagRangeStart> sdtRangeStart)
+```
+

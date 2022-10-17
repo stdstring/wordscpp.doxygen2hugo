@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_removepersonalinformation/
 
 Gets or sets a flag indicating that Microsoft Word will remove all user information from comments, revisions and document properties upon saving the document.
 
+```cpp
+bool Aspose::Words::Document::get_RemovePersonalInformation()
+```
+

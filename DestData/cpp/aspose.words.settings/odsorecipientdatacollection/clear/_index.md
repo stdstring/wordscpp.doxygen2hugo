@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/clear/
 
 Removes all elements from this collection.
 
+```cpp
+void Aspose::Words::Settings::OdsoRecipientDataCollection::Clear()
+```
+

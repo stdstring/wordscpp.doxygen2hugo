@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_ticklabelalignment/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment](./get_ticklabelalignment/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_TickLabelAlignment(Aspose::Words::ParagraphAlignment value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/folderfontsource/get_folderpath/
 
 Path to the folder.
 
+```cpp
+System::String Aspose::Words::Fonts::FolderFontSource::get_FolderPath() const
+```
+

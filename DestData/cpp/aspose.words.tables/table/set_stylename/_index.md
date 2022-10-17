@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_stylename/
 
 Setter for [Aspose::Words::Tables::Table::get_StyleName](./get_stylename/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_StyleName(const System::String &value)
+```
+

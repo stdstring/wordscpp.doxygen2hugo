@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/rendertoscale/
 
 Renders a document page into a object to a specified scale.
 
+```cpp
+System::Drawing::SizeF Aspose::Words::Document::RenderToScale(int32_t pageIndex, const System::SharedPtr<System::Drawing::Graphics> &graphics, float x, float y, float scale)
+```
+

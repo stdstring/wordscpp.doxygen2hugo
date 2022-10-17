@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_fielddatabaseprovider/
 
 Sets a provider that returns a query result for the [FieldDatabase](../fielddatabase/) field.
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_FieldDatabaseProvider(const System::SharedPtr<Aspose::Words::Fields::IFieldDatabaseProvider> &value)
+```
+

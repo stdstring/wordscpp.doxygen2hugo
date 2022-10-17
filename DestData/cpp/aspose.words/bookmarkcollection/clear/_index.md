@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkcollection/clear/
 
 Removes all bookmarks from this collection and from the document.
 
+```cpp
+void Aspose::Words::BookmarkCollection::Clear()
+```
+

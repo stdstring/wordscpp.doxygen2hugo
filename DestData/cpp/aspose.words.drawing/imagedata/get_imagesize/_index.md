@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_imagesize/
 
 Gets the information about image size and resolution.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::ImageSize> Aspose::Words::Drawing::ImageData::get_ImageSize()
+```
+

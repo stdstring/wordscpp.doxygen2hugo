@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutcollector/layoutcollector/
 
 Initializes an instance of this class.
 
+```cpp
+Aspose::Words::Layout::LayoutCollector::LayoutCollector(const System::SharedPtr<Aspose::Words::Document> &doc)
+```
+

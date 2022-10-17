@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_majorunitisauto/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitIsAuto](./get_majorunitisauto/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_MajorUnitIsAuto(bool value)
+```
+

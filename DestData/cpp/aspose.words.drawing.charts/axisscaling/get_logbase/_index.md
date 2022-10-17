@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisscaling/get_logbase/
 
 Gets or sets the logarithmic base for a logarithmic axis.
 
+```cpp
+double Aspose::Words::Drawing::Charts::AxisScaling::get_LogBase() const
+```
+

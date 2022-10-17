@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_variables/
 
 Returns the collection of variables added to a document or template.
 
+```cpp
+System::SharedPtr<Aspose::Words::VariableCollection> Aspose::Words::Document::get_Variables()
+```
+

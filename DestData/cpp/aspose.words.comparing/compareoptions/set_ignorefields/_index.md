@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignorefields/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFields](./get_ignorefields/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_IgnoreFields(bool value)
+```
+

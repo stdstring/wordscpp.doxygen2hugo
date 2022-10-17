@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_paragraphformat/
 
 Provides access to the paragraph formatting properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::Paragraph::get_ParagraphFormat()
+```
+

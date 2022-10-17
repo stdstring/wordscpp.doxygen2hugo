@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_suggestedextension/
 
 Gets the file extension suggested for the current embedded object if you want to save it into a file.
 
+```cpp
+System::String Aspose::Words::Drawing::OleFormat::get_SuggestedExtension()
+```
+

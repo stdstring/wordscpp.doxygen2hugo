@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/get_resourcesavingcallback/
 
 Allows to control how resources (images) are saved when a document is exported to SVG format.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback() const
+```
+

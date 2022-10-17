@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/set_strokeweight/
 
 Setter for [Aspose::Words::Drawing::Shape::get_StrokeWeight](./get_strokeweight/).
 
+```cpp
+void Aspose::Words::Drawing::Shape::set_StrokeWeight(double value)
+```
+

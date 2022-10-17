@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_firstpagetray/
 
 Sets the paper tray (bin) to use for the first page of a section. The value is implementation (printer) specific.
 
+```cpp
+void Aspose::Words::PageSetup::set_FirstPageTray(int32_t value)
+```
+

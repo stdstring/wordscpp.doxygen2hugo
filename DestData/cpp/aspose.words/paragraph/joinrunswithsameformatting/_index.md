@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/joinrunswithsameformatting/
 
 Joins runs with the same formatting in the paragraph.
 
+```cpp
+int32_t Aspose::Words::Paragraph::JoinRunsWithSameFormatting()
+```
+

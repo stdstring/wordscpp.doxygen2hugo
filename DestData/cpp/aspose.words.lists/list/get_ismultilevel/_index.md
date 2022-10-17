@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/get_ismultilevel/
 
 Returns true when the list contains 9 levels; false when 1 level.
 
+```cpp
+bool Aspose::Words::Lists::List::get_IsMultiLevel()
+```
+

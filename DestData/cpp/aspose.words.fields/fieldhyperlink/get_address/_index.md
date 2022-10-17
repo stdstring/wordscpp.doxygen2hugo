@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/get_address/
 
 Gets or sets a location where this hyperlink jumps.
 
+```cpp
+System::String Aspose::Words::Fields::FieldHyperlink::get_Address()
+```
+

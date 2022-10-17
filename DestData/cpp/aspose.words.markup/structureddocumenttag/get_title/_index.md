@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_title/
 
 Specifies the friendly name associated with this **SDT**. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_Title() const override
+```
+

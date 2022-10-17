@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergefield/set_fieldname/
 
 Sets the name of a data field.
 
+```cpp
+void Aspose::Words::Fields::FieldMergeField::set_FieldName(const System::String &value)
+```
+

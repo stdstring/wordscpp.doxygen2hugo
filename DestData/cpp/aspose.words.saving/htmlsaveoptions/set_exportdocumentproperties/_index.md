@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportdocumentproperties/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties](./get_exportdocumentproperties/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportDocumentProperties(bool value)
+```
+

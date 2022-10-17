@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_defaulttabstop/
 
 Setter for [Aspose::Words::Document::get_DefaultTabStop](./get_defaulttabstop/).
 
+```cpp
+void Aspose::Words::Document::set_DefaultTabStop(double value)
+```
+

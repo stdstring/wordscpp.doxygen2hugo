@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_style/
 
 Gets or sets the paragraph style applied to this formatting.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::ParagraphFormat::get_Style()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_useyomi/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_UseYomi](./get_useyomi/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_UseYomi(bool value)
+```
+

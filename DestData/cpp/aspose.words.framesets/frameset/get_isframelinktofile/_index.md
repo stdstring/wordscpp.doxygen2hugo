@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/frameset/get_isframelinktofile/
 
 Gets or sets a value indicating whether the web page or document file name specified in the [FrameDefaultUrl](./get_framedefaulturl/) property is an external resource the frame is linked with.
 
+```cpp
+bool Aspose::Words::Framesets::Frameset::get_IsFrameLinkToFile()
+```
+

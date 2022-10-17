@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/pdfloadoptions/set_pageindex/
 
 Sets the 0-based index of the first page to read. Default is 0.
 
+```cpp
+void Aspose::Words::Loading::PdfLoadOptions::set_PageIndex(int32_t value)
+```
+

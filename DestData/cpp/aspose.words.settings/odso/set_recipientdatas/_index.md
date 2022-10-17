@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/set_recipientdatas/
 
 Sets a collection of objects that specify inclusion/exclusion of individual records in the mail merge. This object is never null.
 
+```cpp
+void Aspose::Words::Settings::Odso::set_RecipientDatas(const System::SharedPtr<Aspose::Words::Settings::OdsoRecipientDataCollection> &value)
+```
+

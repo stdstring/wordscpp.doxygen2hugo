@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_id/
 
 Specifies a unique read-only persistent numerical Id for this **SDT**.
 
+```cpp
+int32_t Aspose::Words::Markup::StructuredDocumentTag::get_Id() override
+```
+

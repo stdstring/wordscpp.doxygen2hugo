@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_islink/
 
 Returns true if the OLE object is linked (when [SourceFullName](./get_sourcefullname/) is specified).
 
+```cpp
+bool Aspose::Words::Drawing::OleFormat::get_IsLink()
+```
+

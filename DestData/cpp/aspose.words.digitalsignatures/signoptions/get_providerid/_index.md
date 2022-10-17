@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_providerid/
 
 Specifies the class ID of the signature provider. Default value is **Empty (all zeroes) Guid**.
 
+```cpp
+System::Guid Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId() const
+```
+

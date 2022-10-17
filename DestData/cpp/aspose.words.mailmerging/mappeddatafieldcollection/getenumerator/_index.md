@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/getenumerator/
 
 Returns a dictionary enumerator object that can be used to iterate over all items in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::String>>> Aspose::Words::MailMerging::MappedDataFieldCollection::GetEnumerator() override
+```
+

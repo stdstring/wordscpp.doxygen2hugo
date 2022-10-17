@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/removeat/
 
 Removes a value at the specified index.
 
+```cpp
+void Aspose::Words::Fields::DropDownItemCollection::RemoveAt(int32_t index)
+```
+

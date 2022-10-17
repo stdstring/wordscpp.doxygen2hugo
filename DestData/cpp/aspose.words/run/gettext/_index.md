@@ -11,3 +11,7 @@ url: /cpp/aspose.words/run/gettext/
 
 Gets the text of the run.
 
+```cpp
+System::String Aspose::Words::Run::GetText() override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_runsubentriesonsameline/
 
 Gets or sets whether run subentries into the same line as the main entry.
 
+```cpp
+bool Aspose::Words::Fields::FieldIndex::get_RunSubentriesOnSameLine()
+```
+

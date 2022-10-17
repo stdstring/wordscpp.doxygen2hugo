@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_canhaveimage/
 
 Returns true if the shape type allows the shape to have an image.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_CanHaveImage()
+```
+

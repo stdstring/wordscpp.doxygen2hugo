@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitgroupshapeend/
 
 Called when enumeration of a group shape has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGroupShapeEnd(System::SharedPtr<Aspose::Words::Drawing::GroupShape> groupShape)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_listlabel/
 
 Gets a [ListLabel](./get_listlabel/) object that provides access to list numbering value and formatting for this paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListLabel> Aspose::Words::Paragraph::get_ListLabel()
+```
+

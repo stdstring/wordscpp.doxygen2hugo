@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_usetargetmachinefonts/
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_UseTargetMachineFonts](./get_usetargetmachinefonts/).
 
+```cpp
+void Aspose::Words::Saving::HtmlFixedSaveOptions::set_UseTargetMachineFonts(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_description/
 
 Setter for [Aspose::Words::Tables::Table::get_Description](./get_description/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_Description(const System::String &value)
+```
+

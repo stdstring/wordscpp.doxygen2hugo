@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgreetingline/set_nameformat/
 
 Sets the format of the name included in the field.
 
+```cpp
+void Aspose::Words::Fields::FieldGreetingLine::set_NameFormat(const System::String &value)
+```
+

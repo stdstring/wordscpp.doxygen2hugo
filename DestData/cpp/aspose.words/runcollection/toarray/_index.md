@@ -11,3 +11,7 @@ url: /cpp/aspose.words/runcollection/toarray/
 
 Copies all runs from the collection to a new array of runs.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Run>> Aspose::Words::RunCollection::ToArray()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_fill/
 
 Gets fill formatting for the [Font](./).
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Font::get_Fill()
+```
+

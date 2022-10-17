@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_axisbetweencategories/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_AxisBetweenCategories](./get_axisbetweencategories/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_AxisBetweenCategories(bool value)
+```
+

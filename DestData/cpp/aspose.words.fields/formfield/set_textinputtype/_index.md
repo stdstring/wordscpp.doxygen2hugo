@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_textinputtype/
 
 Setter for [Aspose::Words::Fields::FormField::get_TextInputType](./get_textinputtype/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_TextInputType(Aspose::Words::Fields::TextFormFieldType value)
+```
+

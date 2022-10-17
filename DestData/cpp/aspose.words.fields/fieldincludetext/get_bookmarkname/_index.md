@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_bookmarkname/
 
 Gets or sets the name of the bookmark in the document to include.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludeText::get_BookmarkName() override
+```
+

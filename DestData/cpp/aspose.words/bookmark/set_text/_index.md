@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmark/set_text/
 
 Setter for [Aspose::Words::Bookmark::get_Text](./get_text/).
 
+```cpp
+void Aspose::Words::Bookmark::set_Text(const System::String &value)
+```
+

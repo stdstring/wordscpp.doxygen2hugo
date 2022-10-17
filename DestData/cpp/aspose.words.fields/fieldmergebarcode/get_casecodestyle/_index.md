@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_casecodestyle/
 
 Gets the style of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD].
 
+```cpp
+System::String Aspose::Words::Fields::FieldMergeBarcode::get_CaseCodeStyle()
+```
+

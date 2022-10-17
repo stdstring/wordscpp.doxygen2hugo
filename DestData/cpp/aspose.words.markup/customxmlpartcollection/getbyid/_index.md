@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/getbyid/
 
 Finds and returns a custom XML part by its identifier.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::CustomXmlPartCollection::GetById(const System::String &id)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/get_count/
 
 Returns the number of [ChartSeries](../chartseries/) in this collection.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::ChartSeriesCollection::get_Count()
+```
+

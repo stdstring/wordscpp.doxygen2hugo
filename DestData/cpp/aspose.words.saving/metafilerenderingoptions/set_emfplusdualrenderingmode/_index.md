@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/set_emfplusdualrenderingm
 
 Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_EmfPlusDualRenderingMode](./get_emfplusdualrenderingmode/).
 
+```cpp
+void Aspose::Words::Saving::MetafileRenderingOptions::set_EmfPlusDualRenderingMode(Aspose::Words::Saving::EmfPlusDualRenderingMode value)
+```
+

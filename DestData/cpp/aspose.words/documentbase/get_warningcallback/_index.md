@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_warningcallback/
 
 Called during various document processing procedures when an issue is detected that might result in data or formatting fidelity loss.
 
+```cpp
+System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::DocumentBase::get_WarningCallback() const
+```
+

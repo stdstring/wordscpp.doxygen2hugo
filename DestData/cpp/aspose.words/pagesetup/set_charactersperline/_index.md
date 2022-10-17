@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_charactersperline/
 
 Setter for [Aspose::Words::PageSetup::get_CharactersPerLine](./get_charactersperline/).
 
+```cpp
+void Aspose::Words::PageSetup::set_CharactersPerLine(int32_t value)
+```
+

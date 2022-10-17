@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_originalfilesize/
 
 Gets the original font file size.
 
+```cpp
+int32_t Aspose::Words::Saving::FontSavingArgs::get_OriginalFileSize() const
+```
+

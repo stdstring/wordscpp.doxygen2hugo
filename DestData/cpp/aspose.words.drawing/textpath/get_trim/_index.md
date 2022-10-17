@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_trim/
 
 Determines whether extra space is removed above and below the text.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_Trim()
+```
+

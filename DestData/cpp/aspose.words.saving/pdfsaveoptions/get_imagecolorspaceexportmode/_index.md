@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_imagecolorspaceexportmode/
 
 Specifies how the color space will be selected for the images in PDF document.
 
+```cpp
+Aspose::Words::Saving::PdfImageColorSpaceExportMode Aspose::Words::Saving::PdfSaveOptions::get_ImageColorSpaceExportMode() const
+```
+

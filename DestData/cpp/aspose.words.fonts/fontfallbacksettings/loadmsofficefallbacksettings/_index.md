@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/loadmsofficefallbacksettings/
 
 Loads predefined fallback settings which mimics the Microsoft Word fallback and uses Microsoft office fonts.
 
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::LoadMsOfficeFallbackSettings()
+```
+

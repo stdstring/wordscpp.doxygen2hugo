@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerange/get_singleuser/
 
 Returns or sets the single user for editable range.
 
+```cpp
+System::String Aspose::Words::EditableRange::get_SingleUser()
+```
+

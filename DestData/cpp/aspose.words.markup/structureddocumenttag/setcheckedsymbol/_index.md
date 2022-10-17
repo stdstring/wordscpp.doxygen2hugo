@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/setcheckedsymbol/
 
 Sets the symbol used to represent the checked state of a check box content control.
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::SetCheckedSymbol(int32_t characterCode, const System::String &fontName)
+```
+

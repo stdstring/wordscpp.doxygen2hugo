@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/get_nodetype/
 
 Returns **NodeType.Section**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Section::get_NodeType() const override
+```
+

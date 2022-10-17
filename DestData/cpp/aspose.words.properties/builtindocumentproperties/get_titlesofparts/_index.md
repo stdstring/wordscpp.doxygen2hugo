@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_titlesofparts/
 
 Each string in the array specifies the name of a part in the document.
 
+```cpp
+System::ArrayPtr<System::String> Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts()
+```
+

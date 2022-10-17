@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_hidden/
 
 Gets or sets a flag indicating whether this axis is hidden or not.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden()
+```
+

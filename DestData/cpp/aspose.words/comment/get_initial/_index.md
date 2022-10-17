@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_initial/
 
 Returns or sets the initials of the user associated with a specific comment.
 
+```cpp
+System::String Aspose::Words::Comment::get_Initial() const
+```
+

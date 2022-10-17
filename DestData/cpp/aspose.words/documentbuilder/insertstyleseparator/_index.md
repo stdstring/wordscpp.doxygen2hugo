@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/insertstyleseparator/
 
 Inserts style separator into the document.
 
+```cpp
+void Aspose::Words::DocumentBuilder::InsertStyleSeparator()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/contains/
 
 Determines whether the collection contains a property with the given name.
 
+```cpp
+bool Aspose::Words::Markup::CustomXmlPropertyCollection::Contains(const System::String &name)
+```
+

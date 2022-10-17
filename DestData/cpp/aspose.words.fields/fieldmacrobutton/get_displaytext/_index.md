@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/get_displaytext/
 
 Gets or sets the text to appear as the "button" that is selected to run the macro or command.
 
+```cpp
+System::String Aspose::Words::Fields::FieldMacroButton::get_DisplayText()
+```
+

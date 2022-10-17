@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_frameset/
 
 Returns a [Frameset](./get_frameset/) instance if this document represents a frames page.
 
+```cpp
+System::SharedPtr<Aspose::Words::Framesets::Frameset> Aspose::Words::Document::get_Frameset() const
+```
+

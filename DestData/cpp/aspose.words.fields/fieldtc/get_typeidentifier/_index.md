@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtc/get_typeidentifier/
 
 Gets or sets a type identifier for this field (which is typically a letter).
 
+```cpp
+System::String Aspose::Words::Fields::FieldTC::get_TypeIdentifier()
+```
+

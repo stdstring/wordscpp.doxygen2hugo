@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/get_name/
 
 Returns the name of the property.
 
+```cpp
+System::String Aspose::Words::Properties::DocumentProperty::get_Name() const
+```
+

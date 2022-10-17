@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_done/
 
 Gets or sets flag indicating that the comment has been marked done.
 
+```cpp
+bool Aspose::Words::Comment::get_Done() const
+```
+

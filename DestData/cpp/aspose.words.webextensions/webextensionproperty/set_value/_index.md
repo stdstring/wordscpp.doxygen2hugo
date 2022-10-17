@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionproperty/set_value/
 
 Specifies a custom property value.
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionProperty::set_Value(const System::String &value)
+```
+

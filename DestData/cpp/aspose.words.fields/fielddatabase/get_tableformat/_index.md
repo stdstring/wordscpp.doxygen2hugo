@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/get_tableformat/
 
 Gets the format that is to be applied to the result of the database query.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDatabase::get_TableFormat()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_paragraphbreakfont/
 
 Provides access to the font formatting of the paragraph break character.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Paragraph::get_ParagraphBreakFont()
+```
+

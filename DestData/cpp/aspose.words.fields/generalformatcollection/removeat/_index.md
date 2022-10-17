@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/generalformatcollection/removeat/
 
 Removes a general format occurrence at the specified index.
 
+```cpp
+void Aspose::Words::Fields::GeneralFormatCollection::RemoveAt(int32_t index)
+```
+

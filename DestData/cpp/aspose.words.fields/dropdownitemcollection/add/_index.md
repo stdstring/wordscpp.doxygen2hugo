@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/add/
 
 Adds a string to the end of the collection.
 
+```cpp
+int32_t Aspose::Words::Fields::DropDownItemCollection::Add(const System::String &value)
+```
+

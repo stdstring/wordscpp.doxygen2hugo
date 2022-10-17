@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldinclude/get_textconverter/
 
 Gets or sets the name of the text converter for the format of the included file.
 
+```cpp
+System::String Aspose::Words::Fields::FieldInclude::get_TextConverter() override
+```
+

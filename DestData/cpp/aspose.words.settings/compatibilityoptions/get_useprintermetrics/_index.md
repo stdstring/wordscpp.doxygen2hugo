@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_useprintermetrics/
 
 Use Printer Metrics To Display Documents.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_UsePrinterMetrics()
+```
+

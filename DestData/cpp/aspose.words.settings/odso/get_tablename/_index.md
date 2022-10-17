@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/get_tablename/
 
 Specifies the particular set of data that a source shall be connected to within an external data source. The default value is an empty string.
 
+```cpp
+System::String Aspose::Words::Settings::Odso::get_TableName() const
+```
+

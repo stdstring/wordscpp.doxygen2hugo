@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbaproject/clone/
 
 Performs a copy of the [VbaProject](./).
 
+```cpp
+System::SharedPtr<Aspose::Words::Vba::VbaProject> Aspose::Words::Vba::VbaProject::Clone()
+```
+

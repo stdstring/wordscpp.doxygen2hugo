@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_strikethrough/
 
 True if the font is formatted as strikethrough text.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_StrikeThrough()
+```
+

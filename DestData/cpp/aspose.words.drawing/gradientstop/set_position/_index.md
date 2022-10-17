@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstop/set_position/
 
 Setter for [Aspose::Words::Drawing::GradientStop::get_Position](./get_position/).
 
+```cpp
+void Aspose::Words::Drawing::GradientStop::set_Position(double value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_index/
 
 Specifies the index of the containing element. This index shall determine which of the parent's children collection this element applies to. Default value is 0.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::ChartDataLabel::get_Index()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_createnotehyperlinks/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_CreateNoteHyperlinks](./get_createnotehyperlinks/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_CreateNoteHyperlinks(bool value)
+```
+

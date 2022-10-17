@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_saveformat/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_SaveFormat](./get_saveformat/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override
+```
+

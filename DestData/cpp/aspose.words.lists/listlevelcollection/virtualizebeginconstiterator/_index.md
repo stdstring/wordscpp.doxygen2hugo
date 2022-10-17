@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/virtualizebeginconstiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Lists::ListLevelCollection::virtualizeBeginConstIterator() const override
+```
+

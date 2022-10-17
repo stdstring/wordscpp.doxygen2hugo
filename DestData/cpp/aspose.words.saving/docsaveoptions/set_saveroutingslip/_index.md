@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/docsaveoptions/set_saveroutingslip/
 
 Setter for [Aspose::Words::Saving::DocSaveOptions::get_SaveRoutingSlip](./get_saveroutingslip/).
 
+```cpp
+void Aspose::Words::Saving::DocSaveOptions::set_SaveRoutingSlip(bool value)
+```
+

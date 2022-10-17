@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_encoding/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_Encoding](./get_encoding/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_Encoding(const System::SharedPtr<System::Text::Encoding> &value)
+```
+

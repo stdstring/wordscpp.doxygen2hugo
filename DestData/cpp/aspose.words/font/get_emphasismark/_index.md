@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_emphasismark/
 
 Gets or sets the emphasis mark applied to this formatting.
 
+```cpp
+Aspose::Words::EmphasisMark Aspose::Words::Font::get_EmphasisMark()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_revisionsview/
 
 Setter for [Aspose::Words::Document::get_RevisionsView](./get_revisionsview/).
 
+```cpp
+void Aspose::Words::Document::set_RevisionsView(Aspose::Words::RevisionsView value)
+```
+

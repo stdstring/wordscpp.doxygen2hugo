@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/set_sourceitem/
 
 Setter for [Aspose::Words::Drawing::OleFormat::get_SourceItem](./get_sourceitem/).
 
+```cpp
+void Aspose::Words::Drawing::OleFormat::set_SourceItem(const System::String &value)
+```
+

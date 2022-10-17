@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_htmlversion/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_HtmlVersion](./get_htmlversion/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_HtmlVersion(Aspose::Words::Saving::HtmlVersion value)
+```
+

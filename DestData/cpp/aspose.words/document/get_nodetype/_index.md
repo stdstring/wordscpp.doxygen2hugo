@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_nodetype/
 
 Returns **NodeType.Document**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Document::get_NodeType() const override
+```
+

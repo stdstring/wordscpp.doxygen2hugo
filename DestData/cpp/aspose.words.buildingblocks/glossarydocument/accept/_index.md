@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::BuildingBlocks::GlossaryDocument::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

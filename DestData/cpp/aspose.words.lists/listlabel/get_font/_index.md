@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlabel/get_font/
 
 Gets the list label font.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Lists::ListLabel::get_Font()
+```
+

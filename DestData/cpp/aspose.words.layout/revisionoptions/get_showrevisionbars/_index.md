@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_showrevisionbars/
 
 Allows to specify whether revision bars should be rendered near lines containing revised content. Default value is True.
 
+```cpp
+bool Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars() const
+```
+

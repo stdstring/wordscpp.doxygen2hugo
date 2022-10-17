@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/get_encoding/
 
 Specifies the encoding to use when exporting in text formats. Default value is **Encoding.UTF8**.
 
+```cpp
+System::SharedPtr<System::Text::Encoding> Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding() const
+```
+

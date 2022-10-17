@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_resourcesfolderalias/
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias](./get_resourcesfolderalias/).
 
+```cpp
+void Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolderAlias(const System::String &value)
+```
+

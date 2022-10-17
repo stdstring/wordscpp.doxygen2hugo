@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/updatepagenumbers/
 
 Updates the page numbers for items in this table of contents.
 
+```cpp
+bool Aspose::Words::Fields::FieldToc::UpdatePageNumbers()
+```
+

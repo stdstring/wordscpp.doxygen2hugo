@@ -11,3 +11,7 @@ url: /cpp/aspose.words/convertutil/convertutil/
 
 
 
+```cpp
+Aspose::Words::ConvertUtil::ConvertUtil()=delete
+```
+

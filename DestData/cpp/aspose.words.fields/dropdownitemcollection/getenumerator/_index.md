@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/getenumerator/
 
 Returns an enumerator object that can be used to iterate over all items in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::String>> Aspose::Words::Fields::DropDownItemCollection::GetEnumerator() override
+```
+

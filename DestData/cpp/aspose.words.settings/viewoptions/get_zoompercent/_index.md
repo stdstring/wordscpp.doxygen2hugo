@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/viewoptions/get_zoompercent/
 
 Gets or sets the percentage (between 10 and 500) at which you want to view your document.
 
+```cpp
+int32_t Aspose::Words::Settings::ViewOptions::get_ZoomPercent() const
+```
+

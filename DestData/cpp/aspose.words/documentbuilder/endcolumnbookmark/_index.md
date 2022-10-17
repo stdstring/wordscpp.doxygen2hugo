@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/endcolumnbookmark/
 
 Marks the current position in the document as a column bookmark end. The position must be in a table cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::BookmarkEnd> Aspose::Words::DocumentBuilder::EndColumnBookmark(const System::String &bookmarkName)
+```
+

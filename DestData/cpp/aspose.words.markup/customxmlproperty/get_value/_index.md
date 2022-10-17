@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlproperty/get_value/
 
 Gets or sets the value of the custom XML attribute or smart tag property.
 
+```cpp
+System::String Aspose::Words::Markup::CustomXmlProperty::get_Value() const
+```
+

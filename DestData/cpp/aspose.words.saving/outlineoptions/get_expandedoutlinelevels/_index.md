@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/outlineoptions/get_expandedoutlinelevels/
 
 Specifies how many levels in the document outline to show expanded when the file is viewed.
 
+```cpp
+int32_t Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels() const
+```
+

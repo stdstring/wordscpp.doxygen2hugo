@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/add/
 
 Adds a document variable to the collection.
 
+```cpp
+void Aspose::Words::VariableCollection::Add(const System::String &name, const System::String &value)
+```
+

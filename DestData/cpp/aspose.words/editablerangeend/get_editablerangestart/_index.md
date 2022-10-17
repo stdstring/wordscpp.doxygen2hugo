@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerangeend/get_editablerangestart/
 
 Corresponding [EditableRangeStart](../editablerangestart/), received by ID.
 
+```cpp
+System::SharedPtr<Aspose::Words::EditableRangeStart> Aspose::Words::EditableRangeEnd::get_EditableRangeStart()
+```
+

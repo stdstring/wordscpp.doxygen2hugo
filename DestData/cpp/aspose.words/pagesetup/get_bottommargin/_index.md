@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_bottommargin/
 
 Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text.
 
+```cpp
+double Aspose::Words::PageSetup::get_BottomMargin()
+```
+

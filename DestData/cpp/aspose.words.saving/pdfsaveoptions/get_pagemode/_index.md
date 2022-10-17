@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_pagemode/
 
 Specifies how the PDF document should be displayed when opened in the PDF reader.
 
+```cpp
+Aspose::Words::Saving::PdfPageMode Aspose::Words::Saving::PdfSaveOptions::get_PageMode() const
+```
+

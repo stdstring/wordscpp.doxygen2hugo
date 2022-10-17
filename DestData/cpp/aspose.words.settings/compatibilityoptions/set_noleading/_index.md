@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_noleading/
 
 Do Not Add Leading Between Lines of Text.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_NoLeading(bool value)
+```
+

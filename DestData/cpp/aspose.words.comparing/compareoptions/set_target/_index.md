@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_target/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_Target](./get_target/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_Target(Aspose::Words::Comparing::ComparisonTargetType value)
+```
+

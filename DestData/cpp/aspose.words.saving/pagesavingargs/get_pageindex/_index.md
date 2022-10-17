@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/get_pageindex/
 
 Current page index.
 
+```cpp
+int32_t Aspose::Words::Saving::PageSavingArgs::get_PageIndex() const
+```
+

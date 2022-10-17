@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisioncollection/get_count/
 
 Returns the number of revisions in the collection.
 
+```cpp
+int32_t Aspose::Words::RevisionCollection::get_Count()
+```
+

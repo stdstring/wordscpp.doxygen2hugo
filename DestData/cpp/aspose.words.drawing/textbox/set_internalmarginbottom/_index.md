@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/set_internalmarginbottom/
 
 Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginBottom](./get_internalmarginbottom/).
 
+```cpp
+void Aspose::Words::Drawing::TextBox::set_InternalMarginBottom(double value)
+```
+

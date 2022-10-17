@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/createpicturebullet/
 
 Creates picture bullet shape for the current list level.
 
+```cpp
+void Aspose::Words::Lists::ListLevel::CreatePictureBullet()
+```
+

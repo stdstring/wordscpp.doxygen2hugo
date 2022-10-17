@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowcollection/idx_get/
 
 Retrieves a **Row** at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::Tables::RowCollection::idx_get(int32_t index)
+```
+

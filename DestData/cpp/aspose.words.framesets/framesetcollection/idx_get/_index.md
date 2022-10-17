@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/idx_get/
 
 Gets a frame or frames page at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Framesets::Frameset> Aspose::Words::Framesets::FramesetCollection::idx_get(int32_t index)
+```
+

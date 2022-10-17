@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_statustext/
 
 Setter for [Aspose::Words::Fields::FormField::get_StatusText](./get_statustext/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_StatusText(const System::String &value)
+```
+

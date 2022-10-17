@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_fareastlinebreakcontrol/
 
 Setter for [Aspose::Words::ParagraphFormat::get_FarEastLineBreakControl](./get_fareastlinebreakcontrol/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_FarEastLineBreakControl(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/get_pitch/
 
 The pitch indicates if the font is fixed pitch, proportionally spaced, or relies on a default setting.
 
+```cpp
+Aspose::Words::Fonts::FontPitch Aspose::Words::Fonts::FontInfo::get_Pitch() const
+```
+

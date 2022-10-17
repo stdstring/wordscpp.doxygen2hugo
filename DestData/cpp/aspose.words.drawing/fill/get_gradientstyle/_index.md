@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_gradientstyle/
 
 Gets the gradient style [GradientStyle](../gradientstyle/) for the fill.
 
+```cpp
+Aspose::Words::Drawing::GradientStyle Aspose::Words::Drawing::Fill::get_GradientStyle()
+```
+

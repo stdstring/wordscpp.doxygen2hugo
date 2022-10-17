@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldpageref/get_insertrelativeposition/
 
 Gets or sets whether to insert a relative position of the bookmarked paragraph.
 
+```cpp
+bool Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition()
+```
+

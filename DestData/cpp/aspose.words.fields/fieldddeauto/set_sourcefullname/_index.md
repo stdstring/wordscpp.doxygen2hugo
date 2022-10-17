@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldddeauto/set_sourcefullname/
 
 Setter for [Aspose::Words::Fields::FieldDdeAuto::get_SourceFullName](./get_sourcefullname/).
 
+```cpp
+void Aspose::Words::Fields::FieldDdeAuto::set_SourceFullName(const System::String &value)
+```
+

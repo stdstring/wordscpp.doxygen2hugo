@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_sections/
 
 Returns a collection that represents all sections in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::SectionCollection> Aspose::Words::Document::get_Sections()
+```
+

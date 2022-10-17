@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/get_next/
 
 Returns or sets a [TextBox](./) that represents the next [TextBox](./) in a sequence of shapes.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::TextBox::get_Next()
+```
+

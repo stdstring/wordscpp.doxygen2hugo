@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_lockcontents/
 
 When set to true, this property will prohibit a user from editing the contents of this structured document tag.
 
+```cpp
+bool Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContents() override
+```
+

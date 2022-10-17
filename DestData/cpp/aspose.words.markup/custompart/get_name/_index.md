@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/get_name/
 
 Gets or sets this part's absolute name within the OOXML package or the target URL.
 
+```cpp
+System::String Aspose::Words::Markup::CustomPart::get_Name() const
+```
+

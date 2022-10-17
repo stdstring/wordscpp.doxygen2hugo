@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotautofitconstrained
 
 Do Not AutoFit [Tables](../../aspose.words.tables/) To Fit Next To Wrapped Objects.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotAutofitConstrainedTables()
+```
+

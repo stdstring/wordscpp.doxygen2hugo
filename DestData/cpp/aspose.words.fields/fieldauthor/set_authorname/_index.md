@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldauthor/set_authorname/
 
 Setter for [Aspose::Words::Fields::FieldAuthor::get_AuthorName](./get_authorname/).
 
+```cpp
+void Aspose::Words::Fields::FieldAuthor::set_AuthorName(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_suppressyear/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_SuppressYear](./get_suppressyear/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_SuppressYear(bool value)
+```
+

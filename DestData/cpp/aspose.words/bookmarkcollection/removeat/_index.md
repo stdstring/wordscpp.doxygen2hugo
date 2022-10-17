@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkcollection/removeat/
 
 Removes a bookmark at the specified index.
 
+```cpp
+void Aspose::Words::BookmarkCollection::RemoveAt(int32_t index)
+```
+

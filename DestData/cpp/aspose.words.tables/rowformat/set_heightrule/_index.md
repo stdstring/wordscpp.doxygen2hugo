@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowformat/set_heightrule/
 
 Setter for [Aspose::Words::Tables::RowFormat::get_HeightRule](./get_heightrule/).
 
+```cpp
+void Aspose::Words::Tables::RowFormat::set_HeightRule(Aspose::Words::HeightRule value)
+```
+

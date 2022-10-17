@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodule/vbamodule/
 
 Creates an empty module.
 
+```cpp
+Aspose::Words::Vba::VbaModule::VbaModule()
+```
+

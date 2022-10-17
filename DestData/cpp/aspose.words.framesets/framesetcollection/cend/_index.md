@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::Framesets::FramesetCollection::cend() const noexcept
+```
+

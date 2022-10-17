@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_keeptogether/
 
 Setter for [Aspose::Words::ParagraphFormat::get_KeepTogether](./get_keeptogether/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_KeepTogether(bool value)
+```
+

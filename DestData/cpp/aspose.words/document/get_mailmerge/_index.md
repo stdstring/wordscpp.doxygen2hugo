@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_mailmerge/
 
 Returns a **MailMerge** object that represents the mail merge functionality for the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::MailMerging::MailMerge> Aspose::Words::Document::get_MailMerge()
+```
+

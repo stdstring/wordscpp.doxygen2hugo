@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/toint/
 
 Returns the property value as integer.
 
+```cpp
+int32_t Aspose::Words::Properties::DocumentProperty::ToInt()
+```
+

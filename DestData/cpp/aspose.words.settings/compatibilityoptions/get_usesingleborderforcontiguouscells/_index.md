@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_usesingleborderforconti
 
 Use Simplified Rules For Table [Border](../../aspose.words/border/) Conflicts.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_UseSingleBorderforContiguousCells()
+```
+

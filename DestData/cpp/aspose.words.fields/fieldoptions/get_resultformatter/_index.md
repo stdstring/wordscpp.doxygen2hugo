@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_resultformatter/
 
 Allows to control how the field result is formatted.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::IFieldResultFormatter> & Aspose::Words::Fields::FieldOptions::get_ResultFormatter() const
+```
+

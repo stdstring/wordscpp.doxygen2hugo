@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/set_numberposition/
 
 Setter for [Aspose::Words::Lists::ListLevel::get_NumberPosition](./get_numberposition/).
 
+```cpp
+void Aspose::Words::Lists::ListLevel::set_NumberPosition(double value)
+```
+

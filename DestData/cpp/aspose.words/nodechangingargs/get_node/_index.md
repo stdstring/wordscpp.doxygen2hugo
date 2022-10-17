@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodechangingargs/get_node/
 
 Gets the [Node](./get_node/) that is being added or removed.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeChangingArgs::get_Node() const
+```
+

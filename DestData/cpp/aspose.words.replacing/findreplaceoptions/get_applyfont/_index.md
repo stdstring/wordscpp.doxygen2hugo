@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyfont/
 
 Text formatting applied to new content.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Replacing::FindReplaceOptions::get_ApplyFont() const
+```
+

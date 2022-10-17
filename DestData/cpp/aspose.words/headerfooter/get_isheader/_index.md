@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/get_isheader/
 
 True if this **HeaderFooter** object is a header.
 
+```cpp
+bool Aspose::Words::HeaderFooter::get_IsHeader()
+```
+

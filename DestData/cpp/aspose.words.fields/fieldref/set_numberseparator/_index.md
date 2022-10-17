@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/set_numberseparator/
 
 Setter for [Aspose::Words::Fields::FieldRef::get_NumberSeparator](./get_numberseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldRef::set_NumberSeparator(const System::String &value)
+```
+

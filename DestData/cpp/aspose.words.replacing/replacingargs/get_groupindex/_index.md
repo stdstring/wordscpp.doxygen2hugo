@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/replacingargs/get_groupindex/
 
 Identifies, by index, a captured group in the [Match](./get_match/) that is to be replaced with the [Replacement](./get_replacement/) string.
 
+```cpp
+int32_t Aspose::Words::Replacing::ReplacingArgs::get_GroupIndex() const
+```
+

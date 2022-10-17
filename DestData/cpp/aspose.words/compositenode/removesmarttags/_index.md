@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/removesmarttags/
 
 Removes all [SmartTag](../../aspose.words.markup/smarttag/) descendant nodes of the current node.
 
+```cpp
+void Aspose::Words::CompositeNode::RemoveSmartTags()
+```
+

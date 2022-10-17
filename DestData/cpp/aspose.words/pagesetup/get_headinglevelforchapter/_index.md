@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_headinglevelforchapter/
 
 Gets or sets the heading level style that is applied to the chapter titles in the document.
 
+```cpp
+int32_t Aspose::Words::PageSetup::get_HeadingLevelForChapter()
+```
+

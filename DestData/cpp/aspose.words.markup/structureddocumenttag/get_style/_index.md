@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_style/
 
 Gets or sets the [Style](../../aspose.words/style/) of the structured document tag.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::Markup::StructuredDocumentTag::get_Style()
+```
+

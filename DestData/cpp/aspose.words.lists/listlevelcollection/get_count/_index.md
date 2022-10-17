@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/get_count/
 
 Gets the number of levels in this list.
 
+```cpp
+int32_t Aspose::Words::Lists::ListLevelCollection::get_Count()
+```
+

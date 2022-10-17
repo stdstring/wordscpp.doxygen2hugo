@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/endnoteoptions/get_startnumber/
 
 Specifies the starting number or character for the first automatically numbered endnotes.
 
+```cpp
+int32_t Aspose::Words::Notes::EndnoteOptions::get_StartNumber() override
+```
+

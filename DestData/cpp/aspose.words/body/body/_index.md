@@ -11,3 +11,7 @@ url: /cpp/aspose.words/body/body/
 
 Initializes a new instance of the **Body** class.
 
+```cpp
+Aspose::Words::Body::Body(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

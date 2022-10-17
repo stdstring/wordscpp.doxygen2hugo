@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_imagebytes/
 
 Gets or sets the raw bytes of the image stored in the shape.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Drawing::ImageData::get_ImageBytes()
+```
+

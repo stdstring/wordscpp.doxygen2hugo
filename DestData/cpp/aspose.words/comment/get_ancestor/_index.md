@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_ancestor/
 
 Returns the parent [Comment](./) object. Returns null for top-level comments.
 
+```cpp
+System::SharedPtr<Aspose::Words::Comment> Aspose::Words::Comment::get_Ancestor()
+```
+

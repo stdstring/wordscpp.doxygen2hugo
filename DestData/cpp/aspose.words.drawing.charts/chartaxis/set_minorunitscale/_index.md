@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunitscale/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale](./get_minorunitscale/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitScale(Aspose::Words::Drawing::Charts::AxisTimeUnit value)
+```
+

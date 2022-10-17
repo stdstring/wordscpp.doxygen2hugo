@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_reason/
 
 Gets or sets the reason for the signing.
 
+```cpp
+System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason() const
+```
+

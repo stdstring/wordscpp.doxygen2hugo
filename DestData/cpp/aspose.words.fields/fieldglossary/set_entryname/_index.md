@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldglossary/set_entryname/
 
 Setter for [Aspose::Words::Fields::FieldGlossary::get_EntryName](./get_entryname/).
 
+```cpp
+void Aspose::Words::Fields::FieldGlossary::set_EntryName(const System::String &value)
+```
+

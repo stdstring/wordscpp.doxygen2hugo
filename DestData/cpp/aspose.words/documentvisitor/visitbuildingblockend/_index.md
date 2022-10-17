@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitbuildingblockend/
 
 Called when enumeration of a building block has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBuildingBlockEnd(System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> block)
+```
+

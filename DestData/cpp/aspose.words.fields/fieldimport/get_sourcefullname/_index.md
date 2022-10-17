@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldimport/get_sourcefullname/
 
 Gets or sets the location of the picture.
 
+```cpp
+System::String Aspose::Words::Fields::FieldImport::get_SourceFullName() override
+```
+

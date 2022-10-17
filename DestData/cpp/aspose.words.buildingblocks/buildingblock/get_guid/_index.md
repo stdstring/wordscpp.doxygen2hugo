@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_guid/
 
 Gets or sets an identifier (a 128-bit GUID) that uniquely identifies this building block.
 
+```cpp
+System::Guid Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid() const
+```
+

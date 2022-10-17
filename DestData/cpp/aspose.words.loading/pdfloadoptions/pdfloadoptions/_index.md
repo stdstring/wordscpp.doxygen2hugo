@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/pdfloadoptions/pdfloadoptions/
 
 
 
+```cpp
+Aspose::Words::Loading::PdfLoadOptions::PdfLoadOptions()
+```
+

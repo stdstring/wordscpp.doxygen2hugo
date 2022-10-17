@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_keepwithnext/
 
 True if the paragraph is to remains on the same page as the paragraph that follows it.
 
+```cpp
+bool Aspose::Words::ParagraphFormat::get_KeepWithNext()
+```
+

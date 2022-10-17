@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/gettext/
 
 Gets the text of this paragraph including the end of paragraph character.
 
+```cpp
+System::String Aspose::Words::Paragraph::GetText() override
+```
+

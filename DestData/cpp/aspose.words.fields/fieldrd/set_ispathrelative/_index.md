@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldrd/set_ispathrelative/
 
 Setter for [Aspose::Words::Fields::FieldRD::get_IsPathRelative](./get_ispathrelative/).
 
+```cpp
+void Aspose::Words::Fields::FieldRD::set_IsPathRelative(bool value)
+```
+

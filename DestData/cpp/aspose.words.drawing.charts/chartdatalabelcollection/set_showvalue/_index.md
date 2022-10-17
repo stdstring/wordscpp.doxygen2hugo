@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showvalue/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowValue](./get_showvalue/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataLabelCollection::set_ShowValue(bool value)
+```
+

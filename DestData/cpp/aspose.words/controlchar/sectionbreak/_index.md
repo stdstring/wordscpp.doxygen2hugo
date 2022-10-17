@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/sectionbreak/
 
 End of section character: "\x000c" or "\f". Note it has the same value as [PageBreak](./pagebreak/).
 
+```cpp
+static System::String & Aspose::Words::ControlChar::SectionBreak()
+```
+

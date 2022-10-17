@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/unlinkfields/
 
 Unlinks fields in the whole document.
 
+```cpp
+void Aspose::Words::Document::UnlinkFields()
+```
+

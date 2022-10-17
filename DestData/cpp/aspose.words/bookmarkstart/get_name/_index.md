@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkstart/get_name/
 
 Gets or sets the bookmark name.
 
+```cpp
+System::String Aspose::Words::BookmarkStart::get_Name() override
+```
+

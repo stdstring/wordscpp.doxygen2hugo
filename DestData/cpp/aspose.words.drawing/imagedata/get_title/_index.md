@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_title/
 
 Defines the title of an image.
 
+```cpp
+System::String Aspose::Words::Drawing::ImageData::get_Title()
+```
+

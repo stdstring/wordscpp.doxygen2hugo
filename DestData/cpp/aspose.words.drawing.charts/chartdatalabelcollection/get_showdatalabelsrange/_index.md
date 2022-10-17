@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_showdatalabel
 
 Allows to specify whether values from data labels range to be displayed in the data labels of the entire series. Default value is **false**.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowDataLabelsRange()
+```
+

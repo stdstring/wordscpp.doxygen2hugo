@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignorefields/
 
 Gets or sets a boolean value indicating either to ignore text inside fields. The default value is **false**.
 
+```cpp
+bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields() const
+```
+

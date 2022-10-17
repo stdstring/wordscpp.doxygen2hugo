@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_insertedtextcolor/
 
 Allows to specify the color to be used for inserted content **Insertion**. Default value is **ByAuthor**.
 
+```cpp
+Aspose::Words::Layout::RevisionColor Aspose::Words::Layout::RevisionOptions::get_InsertedTextColor()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcreatedate/set_useumalquracalendar/
 
 Setter for [Aspose::Words::Fields::FieldCreateDate::get_UseUmAlQuraCalendar](./get_useumalquracalendar/).
 
+```cpp
+void Aspose::Words::Fields::FieldCreateDate::set_UseUmAlQuraCalendar(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/get_insertasbitmap/
 
 Gets or sets whether to insert the linked object as a bitmap.
 
+```cpp
+bool Aspose::Words::Fields::FieldLink::get_InsertAsBitmap()
+```
+

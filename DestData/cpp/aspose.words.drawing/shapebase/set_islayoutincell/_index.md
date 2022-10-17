@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_islayoutincell/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell](./get_islayoutincell/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_IsLayoutInCell(bool value)
+```
+

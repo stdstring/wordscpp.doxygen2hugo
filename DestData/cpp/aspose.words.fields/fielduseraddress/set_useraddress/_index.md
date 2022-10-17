@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielduseraddress/set_useraddress/
 
 Setter for [Aspose::Words::Fields::FieldUserAddress::get_UserAddress](./get_useraddress/).
 
+```cpp
+void Aspose::Words::Fields::FieldUserAddress::set_UserAddress(const System::String &value)
+```
+

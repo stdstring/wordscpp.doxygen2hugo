@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_document/
 
 Gets or sets the [Document](./get_document/) object that this object is attached to.
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::DocumentBuilder::get_Document() const
+```
+

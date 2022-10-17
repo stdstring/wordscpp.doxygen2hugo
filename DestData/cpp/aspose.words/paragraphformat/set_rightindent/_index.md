@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_rightindent/
 
 Setter for [Aspose::Words::ParagraphFormat::get_RightIndent](./get_rightindent/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_RightIndent(double value)
+```
+

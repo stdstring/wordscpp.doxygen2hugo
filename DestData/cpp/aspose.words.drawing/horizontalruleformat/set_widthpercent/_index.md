@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/set_widthpercent/
 
 Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent](./get_widthpercent/).
 
+```cpp
+void Aspose::Words::Drawing::HorizontalRuleFormat::set_WidthPercent(double value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_metafilerenderingoptions/
 
 Allows to specify how metafiles are treated in the rendered output.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> Aspose::Words::Saving::ImageSaveOptions::get_MetafileRenderingOptions()
+```
+

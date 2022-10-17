@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_styleidentifier/
 
 Gets the locale independent style identifier for a built-in style.
 
+```cpp
+Aspose::Words::StyleIdentifier Aspose::Words::Style::get_StyleIdentifier() const
+```
+

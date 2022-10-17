@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/ensureminimum/
 
 If the last child is not a paragraph, creates and appends one empty paragraph.
 
+```cpp
+void Aspose::Words::Tables::Cell::EnsureMinimum()
+```
+

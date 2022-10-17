@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/docsaveoptions/get_password/
 
 Gets/sets a password to encrypt document using RC4 encryption method.
 
+```cpp
+System::String Aspose::Words::Saving::DocSaveOptions::get_Password() const
+```
+

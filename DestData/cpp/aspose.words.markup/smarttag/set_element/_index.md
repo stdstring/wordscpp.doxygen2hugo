@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/smarttag/set_element/
 
 Setter for [Aspose::Words::Markup::SmartTag::get_Element](./get_element/).
 
+```cpp
+void Aspose::Words::Markup::SmartTag::set_Element(const System::String &value)
+```
+

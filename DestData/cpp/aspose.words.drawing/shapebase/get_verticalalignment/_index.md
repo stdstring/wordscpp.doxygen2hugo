@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_verticalalignment/
 
 Specifies how the shape is positioned vertically.
 
+```cpp
+Aspose::Words::Drawing::VerticalAlignment Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment()
+```
+

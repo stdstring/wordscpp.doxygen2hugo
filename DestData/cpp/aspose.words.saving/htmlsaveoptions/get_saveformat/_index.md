@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_saveformat/
 
 Specifies the format in which the document will be saved if this save options object is used. Can be **Html**, **Mhtml**, **Epub** or **Azw3**.
 
+```cpp
+Aspose::Words::SaveFormat Aspose::Words::Saving::HtmlSaveOptions::get_SaveFormat() override
+```
+

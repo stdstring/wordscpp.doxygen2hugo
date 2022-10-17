@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerangestart/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::EditableRangeStart::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

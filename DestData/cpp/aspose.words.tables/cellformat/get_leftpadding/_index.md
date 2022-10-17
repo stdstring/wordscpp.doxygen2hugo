@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_leftpadding/
 
 Returns or sets the amount of space (in points) to add to the left of the contents of cell.
 
+```cpp
+double Aspose::Words::Tables::CellFormat::get_LeftPadding()
+```
+

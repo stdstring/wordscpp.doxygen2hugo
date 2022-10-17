@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_barcodetype/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType](./get_barcodetype/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeType(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcollection/removeat/
 
 Removes a field at the specified index from this collection and from the document.
 
+```cpp
+void Aspose::Words::Fields::FieldCollection::RemoveAt(int32_t index)
+```
+

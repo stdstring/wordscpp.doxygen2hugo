@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/preferredwidth/frompercent/
 
 A creation method that returns a new instance that represents a preferred width specified as a percentage.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::Tables::PreferredWidth::FromPercent(double percent)
+```
+

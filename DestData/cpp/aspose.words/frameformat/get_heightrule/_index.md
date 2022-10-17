@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_heightrule/
 
 Gets the rule for determining the height of the specified frame.
 
+```cpp
+Aspose::Words::HeightRule Aspose::Words::FrameFormat::get_HeightRule()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/virtualizebeginc
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::virtualizeBeginConstIterator() const override
+```
+

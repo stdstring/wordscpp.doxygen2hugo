@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_location/
 
 Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location](./get_location/).
 
+```cpp
+void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Location(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/get_equationxmlencoding/
 
 Gets/sets an encoding that was used to encode equation XML, if this office math object is read from equation XML. We use the encoding on saving a document to write in same encoding that it was read.
 
+```cpp
+System::SharedPtr<System::Text::Encoding> Aspose::Words::Math::OfficeMath::get_EquationXmlEncoding() const
+```
+

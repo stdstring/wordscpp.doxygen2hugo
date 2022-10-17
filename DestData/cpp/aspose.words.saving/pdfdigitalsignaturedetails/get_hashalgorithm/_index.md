@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_hashalgorithm/
 
 Gets or sets the hash algorithm.
 
+```cpp
+Aspose::Words::Saving::PdfDigitalSignatureHashAlgorithm Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_wrapside/
 
 Specifies how the text is wrapped around the shape.
 
+```cpp
+Aspose::Words::Drawing::WrapSide Aspose::Words::Drawing::ShapeBase::get_WrapSide()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/set_insertparagraphnumberinfullcontext/
 
 Setter for [Aspose::Words::Fields::FieldRef::get_InsertParagraphNumberInFullContext](./get_insertparagraphnumberinfullcontext/).
 
+```cpp
+void Aspose::Words::Fields::FieldRef::set_InsertParagraphNumberInFullContext(bool value)
+```
+

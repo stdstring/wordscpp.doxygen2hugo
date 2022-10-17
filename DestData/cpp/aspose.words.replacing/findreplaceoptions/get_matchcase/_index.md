@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/get_matchcase/
 
 True indicates case-sensitive comparison, false indicates case-insensitive comparison.
 
+```cpp
+bool Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/get_listlevel/
 
 Returns the list level formatting plus any formatting overrides applied to the current paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListLevel> Aspose::Words::Lists::ListFormat::get_ListLevel()
+```
+

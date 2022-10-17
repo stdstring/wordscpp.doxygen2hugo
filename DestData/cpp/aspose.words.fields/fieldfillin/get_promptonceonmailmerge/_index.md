@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldfillin/get_promptonceonmailmerge/
 
 Gets or sets whether the user response should be recieved once per a mail merge operation.
 
+```cpp
+bool Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge()
+```
+

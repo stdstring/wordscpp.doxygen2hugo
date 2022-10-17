@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_saveformat/
 
 Specifies the format in which the rendered document pages or shapes will be saved if this save options object is used. Can be a raster **Tiff**, **Png**, **Bmp**, **Jpeg** or vector **Emf**, **Svg**.
 
+```cpp
+Aspose::Words::SaveFormat Aspose::Words::Saving::ImageSaveOptions::get_SaveFormat() override
+```
+

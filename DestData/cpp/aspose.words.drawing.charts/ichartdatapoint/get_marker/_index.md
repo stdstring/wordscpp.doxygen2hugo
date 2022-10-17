@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/ichartdatapoint/get_marker/
 
 Specifies a data marker. Marker is automatically created when requested.
 
+```cpp
+virtual System::SharedPtr<Aspose::Words::Drawing::Charts::ChartMarker> Aspose::Words::Drawing::Charts::IChartDataPoint::get_Marker()=0
+```
+

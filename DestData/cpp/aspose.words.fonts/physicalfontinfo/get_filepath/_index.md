@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/physicalfontinfo/get_filepath/
 
 Path to the font file if any.
 
+```cpp
+System::String Aspose::Words::Fonts::PhysicalFontInfo::get_FilePath() const
+```
+

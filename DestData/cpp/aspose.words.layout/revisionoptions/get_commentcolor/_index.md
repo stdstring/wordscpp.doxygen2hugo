@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_commentcolor/
 
 Allows to specify the color to be used for comments. Default value is **Red**.
 
+```cpp
+Aspose::Words::Layout::RevisionColor Aspose::Words::Layout::RevisionOptions::get_CommentColor() const
+```
+

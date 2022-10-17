@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_stylename/
 
 Gets or sets the name of the character style applied to this formatting.
 
+```cpp
+System::String Aspose::Words::Font::get_StyleName()
+```
+

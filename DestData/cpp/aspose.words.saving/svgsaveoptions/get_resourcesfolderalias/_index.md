@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/get_resourcesfolderalias/
 
 Specifies the name of the folder used to construct image URIs written into an SVG document. Default is **null**.
 
+```cpp
+System::String Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias() const
+```
+

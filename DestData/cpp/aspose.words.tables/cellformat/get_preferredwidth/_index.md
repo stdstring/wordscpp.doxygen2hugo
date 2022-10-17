@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_preferredwidth/
 
 Returns or sets the preferred width of the cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::Tables::CellFormat::get_PreferredWidth()
+```
+

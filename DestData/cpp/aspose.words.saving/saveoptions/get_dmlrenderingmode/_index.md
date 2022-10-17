@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/get_dmlrenderingmode/
 
 Gets or sets a value determining how DrawingML shapes are rendered.
 
+```cpp
+Aspose::Words::Saving::DmlRenderingMode Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode() const
+```
+

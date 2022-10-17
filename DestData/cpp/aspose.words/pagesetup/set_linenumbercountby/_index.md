@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_linenumbercountby/
 
 Setter for [Aspose::Words::PageSetup::get_LineNumberCountBy](./get_linenumbercountby/).
 
+```cpp
+void Aspose::Words::PageSetup::set_LineNumberCountBy(int32_t value)
+```
+

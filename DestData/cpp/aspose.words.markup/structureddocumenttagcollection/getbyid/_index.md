@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbyid/
 
 Returns the structured document tag by identifier.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::Markup::StructuredDocumentTagCollection::GetById(int32_t id)
+```
+

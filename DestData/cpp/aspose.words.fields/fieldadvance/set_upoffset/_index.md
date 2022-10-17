@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldadvance/set_upoffset/
 
 Setter for [Aspose::Words::Fields::FieldAdvance::get_UpOffset](./get_upoffset/).
 
+```cpp
+void Aspose::Words::Fields::FieldAdvance::set_UpOffset(const System::String &value)
+```
+

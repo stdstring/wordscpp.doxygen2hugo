@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/smarttag/get_properties/
 
 A collection of the smart tag properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomXmlPropertyCollection> Aspose::Words::Markup::SmartTag::get_Properties() const
+```
+

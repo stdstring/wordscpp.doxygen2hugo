@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_font/
 
 Returns an object that represents current font formatting properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::DocumentBuilder::get_Font()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_pagemargins/
 
 Specifies the margins around pages in an HTML document. The margins value is measured in points and should be equal to or greater than 0. Default value is 10 points.
 
+```cpp
+double Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins() const
+```
+

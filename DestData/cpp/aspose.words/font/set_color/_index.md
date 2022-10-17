@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_color/
 
 Setter for [Aspose::Words::Font::get_Color](./get_color/).
 
+```cpp
+void Aspose::Words::Font::set_Color(System::Drawing::Color value)
+```
+

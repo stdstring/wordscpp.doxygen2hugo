@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::cend() const noexcept
+```
+

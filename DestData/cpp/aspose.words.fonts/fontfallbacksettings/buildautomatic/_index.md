@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/buildautomatic/
 
 Automatically builds the fallback settings by scanning available fonts.
 
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::BuildAutomatic()
+```
+

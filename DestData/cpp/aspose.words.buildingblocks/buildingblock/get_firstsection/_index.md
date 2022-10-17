@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_firstsection/
 
 Gets the first section in the building block.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::BuildingBlocks::BuildingBlock::get_FirstSection()
+```
+

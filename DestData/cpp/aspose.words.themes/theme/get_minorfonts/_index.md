@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/theme/get_minorfonts/
 
 Allows to specify the set of minor fonts for different languages.
 
+```cpp
+System::SharedPtr<Aspose::Words::Themes::ThemeFonts> Aspose::Words::Themes::Theme::get_MinorFonts() const
+```
+

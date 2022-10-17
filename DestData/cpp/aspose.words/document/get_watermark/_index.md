@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_watermark/
 
 Provides access to the document watermark.
 
+```cpp
+System::SharedPtr<Aspose::Words::Watermark> Aspose::Words::Document::get_Watermark()
+```
+

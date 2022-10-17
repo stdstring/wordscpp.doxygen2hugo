@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_usegdiemfrenderer/
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer](./get_usegdiemfrenderer/).
 
+```cpp
+void Aspose::Words::Saving::ImageSaveOptions::set_UseGdiEmfRenderer(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_bookmarkname/
 
 Gets or sets the name of the bookmark that marks the portion of the document used to build the index.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_BookmarkName()
+```
+

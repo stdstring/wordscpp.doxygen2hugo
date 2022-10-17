@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_accent3/
 
 Specifies color Accent 3.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Accent3()
+```
+

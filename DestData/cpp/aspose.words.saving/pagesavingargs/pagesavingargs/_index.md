@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/pagesavingargs/
 
 
 
+```cpp
+Aspose::Words::Saving::PageSavingArgs::PageSavingArgs()
+```
+

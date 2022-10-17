@@ -11,3 +11,7 @@ url: /cpp/aspose.words/specialchar/gettext/
 
 Gets the special character that this node represents.
 
+```cpp
+System::String Aspose::Words::SpecialChar::GetText() override
+```
+

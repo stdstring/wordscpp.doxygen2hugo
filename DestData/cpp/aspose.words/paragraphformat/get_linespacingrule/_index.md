@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_linespacingrule/
 
 Gets or sets the line spacing for the paragraph.
 
+```cpp
+Aspose::Words::LineSpacingRule Aspose::Words::ParagraphFormat::get_LineSpacingRule()
+```
+

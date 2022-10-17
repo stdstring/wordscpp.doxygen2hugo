@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldask/get_bookmarkname/
 
 Gets the name of the bookmark.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAsk::get_BookmarkName()
+```
+

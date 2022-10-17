@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_encoding/
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_Encoding](./get_encoding/).
 
+```cpp
+void Aspose::Words::Loading::LoadOptions::set_Encoding(const System::SharedPtr<System::Text::Encoding> &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imailmergecallback/tagsreplaced/
 
 Called when "mustache" text tags are replaced with MERGEFIELD fields.
 
+```cpp
+virtual void Aspose::Words::MailMerging::IMailMergeCallback::TagsReplaced()=0
+```
+

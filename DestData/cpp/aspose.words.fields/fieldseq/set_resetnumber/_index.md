@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseq/set_resetnumber/
 
 Setter for [Aspose::Words::Fields::FieldSeq::get_ResetNumber](./get_resetnumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldSeq::set_ResetNumber(const System::String &value)
+```
+

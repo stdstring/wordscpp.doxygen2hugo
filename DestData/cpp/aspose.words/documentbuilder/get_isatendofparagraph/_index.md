@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_isatendofparagraph/
 
 Returns true if the cursor is at the end of the current paragraph.
 
+```cpp
+bool Aspose::Words::DocumentBuilder::get_IsAtEndOfParagraph()
+```
+

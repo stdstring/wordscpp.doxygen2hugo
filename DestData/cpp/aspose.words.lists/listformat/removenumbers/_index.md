@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/removenumbers/
 
 Removes numbers or bullets from the current paragraph and sets list level to zero.
 
+```cpp
+void Aspose::Words::Lists::ListFormat::RemoveNumbers()
+```
+

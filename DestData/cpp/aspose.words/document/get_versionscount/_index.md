@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_versionscount/
 
 Gets the number of document versions that was stored in the DOC document.
 
+```cpp
+int32_t Aspose::Words::Document::get_VersionsCount()
+```
+

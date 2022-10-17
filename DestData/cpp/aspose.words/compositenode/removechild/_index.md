@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/removechild/
 
 Removes the specified child node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::RemoveChild(const System::SharedPtr<Aspose::Words::Node> &oldChild)
+```
+

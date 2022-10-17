@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/adjustwitheffects/
 
 Adds to the source rectangle values of the effect extent and returns the final rectangle.
 
+```cpp
+System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::AdjustWithEffects(System::Drawing::RectangleF source)
+```
+

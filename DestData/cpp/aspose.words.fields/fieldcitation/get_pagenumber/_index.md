@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_pagenumber/
 
 Gets or sets a page number associated with the citation.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCitation::get_PageNumber()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_fill/
 
 Gets fill formatting for the shape.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Drawing::ShapeBase::get_Fill()
+```
+

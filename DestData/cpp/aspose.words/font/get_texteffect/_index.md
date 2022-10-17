@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_texteffect/
 
 Gets or sets the font animation effect.
 
+```cpp
+Aspose::Words::TextEffect Aspose::Words::Font::get_TextEffect()
+```
+

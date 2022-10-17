@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldauthor/get_authorname/
 
 Gets or sets the document author's name.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAuthor::get_AuthorName()
+```
+

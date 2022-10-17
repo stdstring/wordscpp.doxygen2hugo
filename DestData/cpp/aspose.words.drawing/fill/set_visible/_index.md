@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_visible/
 
 Setter for [Aspose::Words::Drawing::Fill::get_Visible](./get_visible/).
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_Visible(bool value)
+```
+

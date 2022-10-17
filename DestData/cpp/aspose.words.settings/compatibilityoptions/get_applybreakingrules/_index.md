@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_applybreakingrules/
 
 Use Legacy Ethiopic and Amharic Line Breaking Rules.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_ApplyBreakingRules()
+```
+

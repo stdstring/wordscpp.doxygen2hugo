@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/get_referencemark/
 
 Gets/sets custom reference mark to be used for this footnote. Default value is **empty string**, meaning auto-numbered footnotes are used.
 
+```cpp
+System::String Aspose::Words::Notes::Footnote::get_ReferenceMark() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_headinglevelrange/
 
 Gets or sets a range of heading levels to include.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_HeadingLevelRange()
+```
+

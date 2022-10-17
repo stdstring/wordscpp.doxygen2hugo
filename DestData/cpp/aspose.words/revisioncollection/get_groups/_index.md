@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisioncollection/get_groups/
 
 Collection of revision groups.
 
+```cpp
+System::SharedPtr<Aspose::Words::RevisionGroupCollection> Aspose::Words::RevisionCollection::get_Groups()
+```
+

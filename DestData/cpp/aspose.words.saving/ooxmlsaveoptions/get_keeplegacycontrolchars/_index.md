@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_keeplegacycontrolchars/
 
 Keeps original representation of legacy control characters.
 
+```cpp
+bool Aspose::Words::Saving::OoxmlSaveOptions::get_KeepLegacyControlChars() const
+```
+

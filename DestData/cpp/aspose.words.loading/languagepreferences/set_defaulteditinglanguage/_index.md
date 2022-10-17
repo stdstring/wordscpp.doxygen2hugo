@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/languagepreferences/set_defaulteditinglanguage/
 
 Setter for [Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage](./get_defaulteditinglanguage/).
 
+```cpp
+void Aspose::Words::Loading::LanguagePreferences::set_DefaultEditingLanguage(Aspose::Words::Loading::EditingLanguage value)
+```
+

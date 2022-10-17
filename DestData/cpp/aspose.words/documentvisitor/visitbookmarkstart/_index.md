@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitbookmarkstart/
 
 Called when a start of a bookmark is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBookmarkStart(System::SharedPtr<Aspose::Words::BookmarkStart> bookmarkStart)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/row/row/
 
 Initializes a new instance of the **Row** class.
 
+```cpp
+Aspose::Words::Tables::Row::Row(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

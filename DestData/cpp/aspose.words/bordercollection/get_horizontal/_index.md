@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_horizontal/
 
 Gets the horizontal border that is used between cells or conforming paragraphs.
 
+```cpp
+System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::get_Horizontal()
+```
+

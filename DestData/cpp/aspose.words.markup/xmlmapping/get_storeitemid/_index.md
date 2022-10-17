@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/xmlmapping/get_storeitemid/
 
 Specifies the custom XML data identifier for the custom XML data part which shall be used to evaluate the [XPath](./get_xpath/) expression.
 
+```cpp
+System::String Aspose::Words::Markup::XmlMapping::get_StoreItemId()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitfootnoteend/
 
 Called when enumeration of a footnote or endnote text has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFootnoteEnd(System::SharedPtr<Aspose::Words::Notes::Footnote> footnote)
+```
+

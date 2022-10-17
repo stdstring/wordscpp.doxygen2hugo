@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignorefootnotes/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes](./get_ignorefootnotes/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_IgnoreFootnotes(bool value)
+```
+

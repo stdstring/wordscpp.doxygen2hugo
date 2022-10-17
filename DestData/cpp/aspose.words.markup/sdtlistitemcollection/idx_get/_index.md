@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/idx_get/
 
 Returns a [SdtListItem](../sdtlistitem/) object given its zero-based index in the collection.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::SdtListItem> Aspose::Words::Markup::SdtListItemCollection::idx_get(int32_t index)
+```
+

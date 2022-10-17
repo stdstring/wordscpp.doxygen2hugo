@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/applybulletdefault/
 
 Starts a new default bulleted list and applies it to the paragraph.
 
+```cpp
+void Aspose::Words::Lists::ListFormat::ApplyBulletDefault()
+```
+

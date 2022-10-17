@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_timeout/
 
 Time-out value for accessing timestamp server.
 
+```cpp
+System::TimeSpan Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Timeout() const
+```
+

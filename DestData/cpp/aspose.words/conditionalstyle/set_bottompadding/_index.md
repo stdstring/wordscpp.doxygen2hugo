@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/set_bottompadding/
 
 Setter for [Aspose::Words::ConditionalStyle::get_BottomPadding](./get_bottompadding/).
 
+```cpp
+void Aspose::Words::ConditionalStyle::set_BottomPadding(double value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/moveto/
 
 Moves the cursor to an inline node or to the end of a paragraph.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveTo(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

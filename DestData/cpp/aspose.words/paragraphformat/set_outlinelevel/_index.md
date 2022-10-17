@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_outlinelevel/
 
 Setter for [Aspose::Words::ParagraphFormat::get_OutlineLevel](./get_outlinelevel/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_OutlineLevel(Aspose::Words::OutlineLevel value)
+```
+

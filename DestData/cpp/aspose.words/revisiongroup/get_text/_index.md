@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisiongroup/get_text/
 
 Returns inserted/deleted/moved text or description of format change.
 
+```cpp
+System::String Aspose::Words::RevisionGroup::get_Text()
+```
+

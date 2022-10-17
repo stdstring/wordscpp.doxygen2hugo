@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/set_signaturelineimage/
 
 Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineImage](./get_signaturelineimage/).
 
+```cpp
+void Aspose::Words::DigitalSignatures::SignOptions::set_SignatureLineImage(const System::ArrayPtr<uint8_t> &value)
+```
+

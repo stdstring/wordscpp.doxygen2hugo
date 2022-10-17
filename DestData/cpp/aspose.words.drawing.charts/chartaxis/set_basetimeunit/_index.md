@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_basetimeunit/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_BaseTimeUnit](./get_basetimeunit/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_BaseTimeUnit(Aspose::Words::Drawing::Charts::AxisTimeUnit value)
+```
+

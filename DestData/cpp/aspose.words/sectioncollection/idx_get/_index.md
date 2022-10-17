@@ -11,3 +11,7 @@ url: /cpp/aspose.words/sectioncollection/idx_get/
 
 Retrieves a section at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::SectionCollection::idx_get(int32_t index)
+```
+

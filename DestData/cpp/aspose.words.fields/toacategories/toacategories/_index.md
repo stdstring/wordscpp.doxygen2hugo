@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/toacategories/toacategories/
 
 
 
+```cpp
+Aspose::Words::Fields::ToaCategories::ToaCategories()
+```
+

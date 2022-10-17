@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/set_islocked/
 
 Setter for [Aspose::Words::WebExtensions::TaskPane::get_IsLocked](./get_islocked/).
 
+```cpp
+void Aspose::Words::WebExtensions::TaskPane::set_IsLocked(bool value)
+```
+

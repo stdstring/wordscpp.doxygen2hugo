@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_fliporientation/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_FlipOrientation](./get_fliporientation/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_FlipOrientation(Aspose::Words::Drawing::FlipOrientation value)
+```
+

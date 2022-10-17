@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitofficemathend/
 
 Called when enumeration of a Office [Math](../../aspose.words.math/) object has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitOfficeMathEnd(System::SharedPtr<Aspose::Words::Math::OfficeMath> officeMath)
+```
+

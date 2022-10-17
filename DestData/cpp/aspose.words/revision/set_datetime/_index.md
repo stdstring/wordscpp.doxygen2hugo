@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/set_datetime/
 
 Setter for [Aspose::Words::Revision::get_DateTime](./get_datetime/).
 
+```cpp
+void Aspose::Words::Revision::set_DateTime(System::DateTime value)
+```
+

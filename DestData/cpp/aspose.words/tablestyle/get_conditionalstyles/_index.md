@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_conditionalstyles/
 
 Collection of conditional styles that may be defined for this table style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyleCollection> Aspose::Words::TableStyle::get_ConditionalStyles()
+```
+

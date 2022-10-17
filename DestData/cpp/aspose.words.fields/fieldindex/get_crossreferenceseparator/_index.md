@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_crossreferenceseparator/
 
 Gets or sets the character sequence that is used to separate cross references and other entries.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator()
+```
+

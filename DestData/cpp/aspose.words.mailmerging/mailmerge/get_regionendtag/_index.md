@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_regionendtag/
 
 Gets or sets a mail merge region end tag.
 
+```cpp
+System::String Aspose::Words::MailMerging::MailMerge::get_RegionEndTag() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/pageinfo/get_papersize/
 
 Gets the paper size as enumeration.
 
+```cpp
+Aspose::Words::PaperSize Aspose::Words::Rendering::PageInfo::get_PaperSize()
+```
+

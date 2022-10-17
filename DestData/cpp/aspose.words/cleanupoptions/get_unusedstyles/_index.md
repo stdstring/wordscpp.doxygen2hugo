@@ -11,3 +11,7 @@ url: /cpp/aspose.words/cleanupoptions/get_unusedstyles/
 
 Specifies whether unused styles should be removed from document. Default value is **true**.
 
+```cpp
+bool Aspose::Words::CleanupOptions::get_UnusedStyles() const
+```
+

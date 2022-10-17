@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/virtualizebeginiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Fonts::FontInfoCollection::virtualizeBeginIterator() override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/viewoptions/get_zoomtype/
 
 Gets or sets a zoom value based on the size of the window.
 
+```cpp
+Aspose::Words::Settings::ZoomType Aspose::Words::Settings::ViewOptions::get_ZoomType() const
+```
+

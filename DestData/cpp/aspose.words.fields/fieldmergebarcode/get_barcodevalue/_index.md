@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergebarcode/get_barcodevalue/
 
 Gets the barcode value.
 
+```cpp
+System::String Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeValue()
+```
+

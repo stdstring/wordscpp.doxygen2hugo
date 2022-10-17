@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_bidi/
 
 Specifies whether the contents of this run shall have right-to-left characteristics.
 
+```cpp
+bool Aspose::Words::Font::get_Bidi()
+```
+

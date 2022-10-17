@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_postaladdress/
 
 Barcode postal address.
 
+```cpp
+System::String Aspose::Words::Fields::BarcodeParameters::get_PostalAddress() const
+```
+

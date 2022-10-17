@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_balancesinglebytedouble
 
 Balance Single Byte and Double Byte Characters.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_BalanceSingleByteDoubleByteWidth(bool value)
+```
+

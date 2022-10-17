@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlabel/get_labelstring/
 
 Gets a string representation of list label.
 
+```cpp
+System::String Aspose::Words::Lists::ListLabel::get_LabelString()
+```
+

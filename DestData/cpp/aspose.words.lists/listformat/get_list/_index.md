@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/get_list/
 
 Gets or sets the list this paragraph is a member of.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListFormat::get_List()
+```
+

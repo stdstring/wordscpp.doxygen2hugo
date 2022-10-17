@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbareferencecollection/get_count/
 
 Returns the number of VBA references in the collection.
 
+```cpp
+int32_t Aspose::Words::Vba::VbaReferenceCollection::get_Count()
+```
+

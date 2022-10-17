@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_lastchild/
 
 Gets the last child in the stdContent range.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LastChild()
+```
+

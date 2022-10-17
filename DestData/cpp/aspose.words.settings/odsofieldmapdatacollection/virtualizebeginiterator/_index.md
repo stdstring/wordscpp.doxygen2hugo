@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/virtualizebeginiterat
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Settings::OdsoFieldMapDataCollection::virtualizeBeginIterator() override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/get_progresscallback/
 
 Called during saving a document and accepts data about saving progress.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::IDocumentSavingCallback> Aspose::Words::Saving::SaveOptions::get_ProgressCallback() const
+```
+

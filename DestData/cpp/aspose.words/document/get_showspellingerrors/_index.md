@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_showspellingerrors/
 
 Specifies whether to display spelling errors in this document.
 
+```cpp
+bool Aspose::Words::Document::get_ShowSpellingErrors()
+```
+

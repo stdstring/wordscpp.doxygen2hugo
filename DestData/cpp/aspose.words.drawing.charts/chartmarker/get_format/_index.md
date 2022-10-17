@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/get_format/
 
 Provides access to fill and line formatting of this marker.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Drawing::Charts::ChartMarker::get_Format()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/addsubstitutes/
 
 Adds substitute font names for given original font name.
 
+```cpp
+void Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes(const System::String &originalFontName, const System::ArrayPtr<System::String> &substituteFontNames)
+```
+

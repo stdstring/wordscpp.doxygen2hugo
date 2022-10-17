@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_stylename/
 
 Gets or sets the name of the paragraph style applied to this formatting.
 
+```cpp
+System::String Aspose::Words::ParagraphFormat::get_StyleName()
+```
+

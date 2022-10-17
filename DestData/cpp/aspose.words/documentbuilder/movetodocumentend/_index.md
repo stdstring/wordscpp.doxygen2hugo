@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetodocumentend/
 
 Moves the cursor to the end of the document.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToDocumentEnd()
+```
+

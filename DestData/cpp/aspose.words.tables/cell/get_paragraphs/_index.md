@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cell/get_paragraphs/
 
 Gets a collection of paragraphs that are immediate children of the cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::ParagraphCollection> Aspose::Words::Tables::Cell::get_Paragraphs()
+```
+

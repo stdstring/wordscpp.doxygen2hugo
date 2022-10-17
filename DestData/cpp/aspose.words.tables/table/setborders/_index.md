@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/setborders/
 
 Sets all table borders to the specified line style, width and color.
 
+```cpp
+void Aspose::Words::Tables::Table::SetBorders(Aspose::Words::LineStyle lineStyle, double lineWidth, System::Drawing::Color color)
+```
+

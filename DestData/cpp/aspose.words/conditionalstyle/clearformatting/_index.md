@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/clearformatting/
 
 Clears formatting of this conditional style.
 
+```cpp
+void Aspose::Words::ConditionalStyle::ClearFormatting()
+```
+

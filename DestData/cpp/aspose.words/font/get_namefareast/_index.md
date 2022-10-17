@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_namefareast/
 
 Returns or sets an East Asian font name.
 
+```cpp
+System::String Aspose::Words::Font::get_NameFarEast()
+```
+

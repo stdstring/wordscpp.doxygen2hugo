@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/set_captionlesstableoffigureslabel/
 
 Sets the name of the sequence identifier used when building a table of figures that does not include caption's label and number.
 
+```cpp
+void Aspose::Words::Fields::FieldToc::set_CaptionlessTableOfFiguresLabel(const System::String &value)
+```
+

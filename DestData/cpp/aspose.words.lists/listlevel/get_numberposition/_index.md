@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_numberposition/
 
 Returns or sets the position (in points) of the number or bullet for the list level.
 
+```cpp
+double Aspose::Words::Lists::ListLevel::get_NumberPosition() const
+```
+

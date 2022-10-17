@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/get_linebetween/
 
 When **true**, adds a vertical line between columns.
 
+```cpp
+bool Aspose::Words::TextColumnCollection::get_LineBetween()
+```
+

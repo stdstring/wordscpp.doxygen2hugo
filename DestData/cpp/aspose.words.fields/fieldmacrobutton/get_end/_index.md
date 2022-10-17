@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/get_end/
 
 Gets the node that represents the field end.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldEnd> Aspose::Words::Fields::FieldMacroButton::get_End() override
+```
+

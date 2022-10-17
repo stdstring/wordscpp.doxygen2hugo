@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_textwrapping/
 
 Setter for [Aspose::Words::Tables::Table::get_TextWrapping](./get_textwrapping/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_TextWrapping(Aspose::Words::Tables::TextWrapping value)
+```
+

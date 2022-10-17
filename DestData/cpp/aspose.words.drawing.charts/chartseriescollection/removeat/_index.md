@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/removeat/
 
 Removes a [ChartSeries](../chartseries/) at the specified index.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartSeriesCollection::RemoveAt(int32_t index)
+```
+

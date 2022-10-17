@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_oleformat/
 
 Provides access to the OLE data of a shape. For a shape that is not an OLE object or ActiveX control, returns null.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::OleFormat> Aspose::Words::Drawing::Shape::get_OleFormat()
+```
+

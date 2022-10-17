@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_jpegquality/
 
 Gets or sets a value determining the quality of the JPEG images inside PDF document.
 
+```cpp
+int32_t Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality()
+```
+

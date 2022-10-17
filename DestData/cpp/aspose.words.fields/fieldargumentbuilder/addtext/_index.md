@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldargumentbuilder/addtext/
 
 Adds a plain text to the argument.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldArgumentBuilder> Aspose::Words::Fields::FieldArgumentBuilder::AddText(const System::String &text)
+```
+

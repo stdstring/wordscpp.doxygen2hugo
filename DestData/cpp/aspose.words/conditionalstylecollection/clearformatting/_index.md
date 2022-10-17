@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/clearformatting/
 
 Clears all conditional styles of the table style.
 
+```cpp
+void Aspose::Words::ConditionalStyleCollection::ClearFormatting()
+```
+

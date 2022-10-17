@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_datedisplaylocale/
 
 Allows to set/get the language format for the date displayed in this **SDT**.
 
+```cpp
+int32_t Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale()
+```
+

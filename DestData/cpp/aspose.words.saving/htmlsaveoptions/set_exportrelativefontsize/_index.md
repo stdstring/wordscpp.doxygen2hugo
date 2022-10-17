@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportrelativefontsize/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportRelativeFontSize](./get_exportrelativefontsize/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportRelativeFontSize(bool value)
+```
+

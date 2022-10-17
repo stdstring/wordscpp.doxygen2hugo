@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_numberofcolumns/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_NumberOfColumns](./get_numberofcolumns/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_NumberOfColumns(const System::String &value)
+```
+

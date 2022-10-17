@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_columnstripe/
 
 Gets or sets a number of columns to include in the banding when the style specifies odd/even columns banding.
 
+```cpp
+int32_t Aspose::Words::TableStyle::get_ColumnStripe()
+```
+

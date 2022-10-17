@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfieldcollection/get_count/
 
 Returns the number of form fields in the collection.
 
+```cpp
+int32_t Aspose::Words::Fields::FormFieldCollection::get_Count()
+```
+

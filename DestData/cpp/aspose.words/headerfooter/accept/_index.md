@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::HeaderFooter::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_usealtkinsokulinebreakr
 
 Use Alternate Set of East Asian Line Breaking Rules.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_UseAltKinsokuLineBreakRules(bool value)
+```
+

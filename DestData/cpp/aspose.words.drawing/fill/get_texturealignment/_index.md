@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_texturealignment/
 
 Gets or sets the alignment for tile texture fill.
 
+```cpp
+Aspose::Words::Drawing::TextureAlignment Aspose::Words::Drawing::Fill::get_TextureAlignment()
+```
+

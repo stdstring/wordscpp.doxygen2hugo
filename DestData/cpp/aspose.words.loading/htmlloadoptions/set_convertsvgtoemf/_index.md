@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/set_convertsvgtoemf/
 
 Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf](./get_convertsvgtoemf/).
 
+```cpp
+void Aspose::Words::Loading::HtmlLoadOptions::set_ConvertSvgToEmf(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_attachedtemplate/
 
 Gets or sets the full path of the template attached to the document.
 
+```cpp
+System::String Aspose::Words::Document::get_AttachedTemplate()
+```
+

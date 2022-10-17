@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_prefixedsequenceidentifier/
 
 Gets or sets the identifier of a sequence for which a prefix should be added to the entry's page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier()
+```
+

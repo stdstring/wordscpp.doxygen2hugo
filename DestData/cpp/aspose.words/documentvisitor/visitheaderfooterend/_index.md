@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitheaderfooterend/
 
 Called when enumeration of a header or footer in a section has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitHeaderFooterEnd(System::SharedPtr<Aspose::Words::HeaderFooter> headerFooter)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/preferredwidth/get_value/
 
 Gets the preferred width value. The unit of measure is specified in the [Type](./get_type/) property.
 
+```cpp
+double Aspose::Words::Tables::PreferredWidth::get_Value() const
+```
+

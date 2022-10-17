@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/stoptrackrevisions/
 
 Stops automatic marking of document changes as revisions.
 
+```cpp
+void Aspose::Words::Document::StopTrackRevisions()
+```
+

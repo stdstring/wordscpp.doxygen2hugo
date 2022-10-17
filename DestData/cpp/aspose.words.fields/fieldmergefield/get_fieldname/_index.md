@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergefield/get_fieldname/
 
 Gets the name of a data field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldMergeField::get_FieldName()
+```
+

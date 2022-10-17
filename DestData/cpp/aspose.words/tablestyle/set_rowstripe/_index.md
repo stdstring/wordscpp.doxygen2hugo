@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/set_rowstripe/
 
 Setter for [Aspose::Words::TableStyle::get_RowStripe](./get_rowstripe/).
 
+```cpp
+void Aspose::Words::TableStyle::set_RowStripe(int32_t value)
+```
+

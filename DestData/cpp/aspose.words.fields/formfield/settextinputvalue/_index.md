@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/settextinputvalue/
 
 Applies the text format specified in [TextInputFormat](./get_textinputformat/) and stores the value in [Result](./get_result/).
 
+```cpp
+void Aspose::Words::Fields::FormField::SetTextInputValue(const System::SharedPtr<System::Object> &newValue)
+```
+

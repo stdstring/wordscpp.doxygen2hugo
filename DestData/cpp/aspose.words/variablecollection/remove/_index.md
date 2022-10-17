@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/remove/
 
 Removes a document variable with the specified name from the collection.
 
+```cpp
+void Aspose::Words::VariableCollection::Remove(const System::String &name)
+```
+

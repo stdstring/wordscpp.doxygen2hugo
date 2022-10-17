@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/get_internalmargintop/
 
 Specifies the inner top margin in points for a shape.
 
+```cpp
+double Aspose::Words::Drawing::TextBox::get_InternalMarginTop()
+```
+

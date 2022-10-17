@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_pixelformat/
 
 Gets or sets the pixel format for the generated images.
 
+```cpp
+Aspose::Words::Saving::ImagePixelFormat Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbaproject/get_codepage/
 
 Returns the VBA project’s code page.
 
+```cpp
+int32_t Aspose::Words::Vba::VbaProject::get_CodePage() const
+```
+

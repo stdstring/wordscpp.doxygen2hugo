@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/userinformation/userinformation/
 
 
 
+```cpp
+Aspose::Words::Fields::UserInformation::UserInformation()
+```
+

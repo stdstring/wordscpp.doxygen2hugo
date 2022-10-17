@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignorecomments/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreComments](./get_ignorecomments/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_IgnoreComments(bool value)
+```
+

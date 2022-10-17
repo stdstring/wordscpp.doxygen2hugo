@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_border/
 
 Returns a [Border](../border/) object that specifies border for the font.
 
+```cpp
+System::SharedPtr<Aspose::Words::Border> Aspose::Words::Font::get_Border()
+```
+

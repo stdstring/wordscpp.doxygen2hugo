@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutcollector/getstartpageindex/
 
 Gets 1-based index of the page where node begins. Returns 0 if node cannot be mapped to a page.
 
+```cpp
+int32_t Aspose::Words::Layout::LayoutCollector::GetStartPageIndex(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/get_store/
 
 Specifies the instance of the marketplace where the web extension is stored.
 
+```cpp
+System::String Aspose::Words::WebExtensions::WebExtensionReference::get_Store() const
+```
+

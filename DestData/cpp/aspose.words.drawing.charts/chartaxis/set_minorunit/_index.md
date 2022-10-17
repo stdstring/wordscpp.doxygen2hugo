@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunit/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnit](./get_minorunit/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnit(double value)
+```
+

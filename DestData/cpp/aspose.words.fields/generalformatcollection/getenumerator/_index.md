@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/generalformatcollection/getenumerator/
 
 Returns an enumerator object.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<Aspose::Words::Fields::GeneralFormat>> Aspose::Words::Fields::GeneralFormatCollection::GetEnumerator() override
+```
+

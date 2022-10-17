@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignoretables/
 
 Specifies whether to compare the differences in data contained in tables. By default tables are not ignored.
 
+```cpp
+bool Aspose::Words::Comparing::CompareOptions::get_IgnoreTables() const
+```
+

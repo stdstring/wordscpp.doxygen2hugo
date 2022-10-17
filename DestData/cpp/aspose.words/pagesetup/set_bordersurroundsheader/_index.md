@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_bordersurroundsheader/
 
 Setter for [Aspose::Words::PageSetup::get_BorderSurroundsHeader](./get_bordersurroundsheader/).
 
+```cpp
+void Aspose::Words::PageSetup::set_BorderSurroundsHeader(bool value)
+```
+

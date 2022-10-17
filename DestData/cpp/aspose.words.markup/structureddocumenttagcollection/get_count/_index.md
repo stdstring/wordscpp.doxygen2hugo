@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/get_count/
 
 Returns the number of structured document tags in the collection.
 
+```cpp
+int32_t Aspose::Words::Markup::StructuredDocumentTagCollection::get_Count()
+```
+

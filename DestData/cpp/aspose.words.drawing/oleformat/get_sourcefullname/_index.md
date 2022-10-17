@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_sourcefullname/
 
 Gets or sets the path and name of the source file for the linked OLE object.
 
+```cpp
+System::String Aspose::Words::Drawing::OleFormat::get_SourceFullName()
+```
+

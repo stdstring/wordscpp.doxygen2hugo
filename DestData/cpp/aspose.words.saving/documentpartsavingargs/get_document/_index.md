@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/get_document/
 
 Gets the document object that is being saved.
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::DocumentPartSavingArgs::get_Document() const
+```
+

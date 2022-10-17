@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_signaturelineid/
 
 Signature line identifier. Default value is **Empty (all zeroes) Guid**.
 
+```cpp
+System::Guid Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pclsaveoptions/get_fallbackfontname/
 
 Name of the font that will be used if no expected font is found in printer and built-in fonts collections.
 
+```cpp
+System::String Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName() const
+```
+

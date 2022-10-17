@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/inserthyperlink/
 
 Inserts a hyperlink into the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::InsertHyperlink(const System::String &displayText, const System::String &urlOrBookmark, bool isBookmark)
+```
+

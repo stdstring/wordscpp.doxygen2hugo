@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_comments/
 
 Specifies comments on the digital signature. Default value is **empty string**.
 
+```cpp
+System::String Aspose::Words::DigitalSignatures::SignOptions::get_Comments() const
+```
+

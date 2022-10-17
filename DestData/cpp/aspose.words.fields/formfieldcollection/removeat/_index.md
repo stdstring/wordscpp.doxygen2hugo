@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfieldcollection/removeat/
 
 Removes a form field at the specified index.
 
+```cpp
+void Aspose::Words::Fields::FormFieldCollection::RemoveAt(int32_t index)
+```
+

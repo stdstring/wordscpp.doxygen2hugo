@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_parentstory/
 
 Retrieves the parent section-level story that can be [Body](../body/) or [HeaderFooter](../headerfooter/).
 
+```cpp
+System::SharedPtr<Aspose::Words::Story> Aspose::Words::Paragraph::get_ParentStory()
+```
+

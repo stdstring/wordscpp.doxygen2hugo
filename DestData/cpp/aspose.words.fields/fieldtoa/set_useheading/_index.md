@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_useheading/
 
 Setter for [Aspose::Words::Fields::FieldToa::get_UseHeading](./get_useheading/).
 
+```cpp
+void Aspose::Words::Fields::FieldToa::set_UseHeading(bool value)
+```
+

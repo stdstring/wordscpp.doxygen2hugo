@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_bordersurroundsfooter/
 
 Setter for [Aspose::Words::PageSetup::get_BorderSurroundsFooter](./get_bordersurroundsfooter/).
 
+```cpp
+void Aspose::Words::PageSetup::set_BorderSurroundsFooter(bool value)
+```
+

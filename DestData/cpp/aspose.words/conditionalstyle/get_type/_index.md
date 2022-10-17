@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/get_type/
 
 Gets table area to which this conditional style relates.
 
+```cpp
+Aspose::Words::ConditionalStyleType Aspose::Words::ConditionalStyle::get_Type()
+```
+

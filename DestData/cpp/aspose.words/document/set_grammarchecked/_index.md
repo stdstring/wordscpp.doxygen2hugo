@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_grammarchecked/
 
 Setter for [Aspose::Words::Document::get_GrammarChecked](./get_grammarchecked/).
 
+```cpp
+void Aspose::Words::Document::set_GrammarChecked(bool value)
+```
+

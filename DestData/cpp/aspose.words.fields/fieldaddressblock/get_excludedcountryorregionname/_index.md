@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldaddressblock/get_excludedcountryorregionname/
 
 Gets or sets the excluded country/region name.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName()
+```
+

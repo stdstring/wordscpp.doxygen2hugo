@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_emphasismark/
 
 Setter for [Aspose::Words::Font::get_EmphasisMark](./get_emphasismark/).
 
+```cpp
+void Aspose::Words::Font::set_EmphasisMark(Aspose::Words::EmphasisMark value)
+```
+

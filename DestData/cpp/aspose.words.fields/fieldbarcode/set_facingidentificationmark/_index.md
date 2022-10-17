@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldbarcode/set_facingidentificationmark/
 
 Setter for [Aspose::Words::Fields::FieldBarcode::get_FacingIdentificationMark](./get_facingidentificationmark/).
 
+```cpp
+void Aspose::Words::Fields::FieldBarcode::set_FacingIdentificationMark(const System::String &value)
+```
+

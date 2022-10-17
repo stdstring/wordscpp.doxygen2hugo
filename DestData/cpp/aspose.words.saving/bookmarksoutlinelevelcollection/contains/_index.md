@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/contains/
 
 Determines whether the collection contains a bookmark with the given name.
 
+```cpp
+bool Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains(const System::String &name)
+```
+

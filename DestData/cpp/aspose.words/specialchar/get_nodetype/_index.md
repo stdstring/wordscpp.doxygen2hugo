@@ -11,3 +11,7 @@ url: /cpp/aspose.words/specialchar/get_nodetype/
 
 Returns **NodeType.SpecialChar**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::SpecialChar::get_NodeType() const override
+```
+

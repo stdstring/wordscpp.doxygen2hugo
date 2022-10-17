@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/get_listlevelnumber/
 
 Gets or sets the list level number (0 to 8) for the paragraph.
 
+```cpp
+int32_t Aspose::Words::Lists::ListFormat::get_ListLevelNumber()
+```
+

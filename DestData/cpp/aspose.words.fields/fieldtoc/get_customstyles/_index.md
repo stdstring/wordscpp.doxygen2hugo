@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_customstyles/
 
 Gets or sets a list of styles other than the built-in heading styles to include in the table of contents.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_CustomStyles()
+```
+

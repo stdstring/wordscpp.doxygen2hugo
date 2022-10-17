@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/importformatoptions/
 
 
 
+```cpp
+Aspose::Words::ImportFormatOptions::ImportFormatOptions()
+```
+

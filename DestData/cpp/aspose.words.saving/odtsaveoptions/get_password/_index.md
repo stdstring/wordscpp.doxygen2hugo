@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/odtsaveoptions/get_password/
 
 Gets or sets a password to encrypt document.
 
+```cpp
+System::String Aspose::Words::Saving::OdtSaveOptions::get_Password() const
+```
+

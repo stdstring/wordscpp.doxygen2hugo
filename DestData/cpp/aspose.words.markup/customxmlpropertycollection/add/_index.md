@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/add/
 
 Adds a property to the collection.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlPropertyCollection::Add(const System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> &property)
+```
+

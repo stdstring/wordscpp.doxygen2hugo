@@ -11,3 +11,7 @@ url: /cpp/aspose.words/shading/clearformatting/
 
 Removes shading from the object.
 
+```cpp
+void Aspose::Words::Shading::ClearFormatting()
+```
+

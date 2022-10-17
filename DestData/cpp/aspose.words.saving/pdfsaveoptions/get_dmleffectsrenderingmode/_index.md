@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_dmleffectsrenderingmode/
 
 Gets or sets a value determining how DrawingML effects are rendered.
 
+```cpp
+Aspose::Words::Saving::DmlEffectsRenderingMode Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode() override
+```
+

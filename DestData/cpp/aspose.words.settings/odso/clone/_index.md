@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/clone/
 
 Returns a deep clone of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::Odso> Aspose::Words::Settings::Odso::Clone()
+```
+

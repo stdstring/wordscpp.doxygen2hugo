@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/set_pagecolor/
 
 Setter for [Aspose::Words::DocumentBase::get_PageColor](./get_pagecolor/).
 
+```cpp
+void Aspose::Words::DocumentBase::set_PageColor(System::Drawing::Color value)
+```
+

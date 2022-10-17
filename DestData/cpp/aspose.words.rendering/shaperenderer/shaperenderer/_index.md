@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/shaperenderer/shaperenderer/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer(const System::SharedPtr<Aspose::Words::Drawing::ShapeBase> &shape)
+```
+

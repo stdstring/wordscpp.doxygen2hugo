@@ -11,3 +11,7 @@ url: /cpp/aspose.words/commentrangestart/get_id/
 
 Specifies the identifier of the comment to which this region is linked.
 
+```cpp
+int32_t Aspose::Words::CommentRangeStart::get_Id() const
+```
+

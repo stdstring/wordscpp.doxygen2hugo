@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_showoriginalrevision/
 
 Allows to specify whether the original text should be shown instead of revised one. Default value is False.
 
+```cpp
+bool Aspose::Words::Layout::RevisionOptions::get_ShowOriginalRevision() const
+```
+

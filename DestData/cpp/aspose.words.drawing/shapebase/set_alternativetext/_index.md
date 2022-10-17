@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_alternativetext/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_AlternativeText](./get_alternativetext/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_AlternativeText(const System::String &value)
+```
+

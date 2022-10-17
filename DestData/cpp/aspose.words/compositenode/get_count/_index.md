@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/get_count/
 
 Gets the number of immediate children of this node.
 
+```cpp
+int32_t Aspose::Words::CompositeNode::get_Count()
+```
+

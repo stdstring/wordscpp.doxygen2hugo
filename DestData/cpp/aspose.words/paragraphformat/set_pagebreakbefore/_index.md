@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_pagebreakbefore/
 
 Setter for [Aspose::Words::ParagraphFormat::get_PageBreakBefore](./get_pagebreakbefore/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_PageBreakBefore(bool value)
+```
+

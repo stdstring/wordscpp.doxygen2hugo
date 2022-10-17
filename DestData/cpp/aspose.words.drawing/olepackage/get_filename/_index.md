@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/olepackage/get_filename/
 
 Gets or sets OLE Package file name.
 
+```cpp
+System::String Aspose::Words::Drawing::OlePackage::get_FileName() const
+```
+

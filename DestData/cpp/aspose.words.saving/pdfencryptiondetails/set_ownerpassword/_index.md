@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/set_ownerpassword/
 
 Setter for [Aspose::Words::Saving::PdfEncryptionDetails::get_OwnerPassword](./get_ownerpassword/).
 
+```cpp
+void Aspose::Words::Saving::PdfEncryptionDetails::set_OwnerPassword(const System::String &value)
+```
+

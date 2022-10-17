@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_shadowformat/
 
 Gets shadow formatting for the shape.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::ShadowFormat> Aspose::Words::Drawing::ShapeBase::get_ShadowFormat()
+```
+

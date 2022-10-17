@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/preferredwidth/auto/
 
 Returns an instance that represents the "preferred width is not specified" value.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Tables::PreferredWidth> & Aspose::Words::Tables::PreferredWidth::Auto()
+```
+

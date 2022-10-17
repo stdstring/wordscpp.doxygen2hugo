@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_imagecolormode/
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_ImageColorMode](./get_imagecolormode/).
 
+```cpp
+void Aspose::Words::Saving::ImageSaveOptions::set_ImageColorMode(Aspose::Words::Saving::ImageColorMode value)
+```
+

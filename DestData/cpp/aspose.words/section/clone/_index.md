@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/clone/
 
 Creates a duplicate of this section.
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::Section::Clone()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielduserinitials/get_userinitials/
 
 Gets or sets the current user's initials.
 
+```cpp
+System::String Aspose::Words::Fields::FieldUserInitials::get_UserInitials()
+```
+

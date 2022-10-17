@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/columnbreak/
 
 End of column character: "\x000e".
 
+```cpp
+static System::String & Aspose::Words::ControlChar::ColumnBreak()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/set_insertaspicture/
 
 Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsPicture](./get_insertaspicture/).
 
+```cpp
+void Aspose::Words::Fields::FieldLink::set_InsertAsPicture(bool value)
+```
+

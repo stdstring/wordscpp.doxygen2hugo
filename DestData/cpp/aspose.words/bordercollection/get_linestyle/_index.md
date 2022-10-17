@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_linestyle/
 
 Gets or sets the border style.
 
+```cpp
+Aspose::Words::LineStyle Aspose::Words::BorderCollection::get_LineStyle()
+```
+

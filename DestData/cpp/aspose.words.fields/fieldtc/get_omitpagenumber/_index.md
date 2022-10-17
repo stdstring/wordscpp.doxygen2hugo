@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtc/get_omitpagenumber/
 
 Gets or sets whether page number in TOC should be omitted for this field.
 
+```cpp
+bool Aspose::Words::Fields::FieldTC::get_OmitPageNumber() override
+```
+

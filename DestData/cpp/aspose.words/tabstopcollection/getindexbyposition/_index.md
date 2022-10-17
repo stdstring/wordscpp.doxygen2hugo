@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstopcollection/getindexbyposition/
 
 Gets the index of a tab stop with the specified position in points.
 
+```cpp
+int32_t Aspose::Words::TabStopCollection::GetIndexByPosition(double position)
+```
+

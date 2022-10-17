@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_buildingblockgallery/
 
 Specifies type of building block for this **SDT**. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGallery()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_firstpagetray/
 
 Gets the paper tray (bin) to use for the first page of a section. The value is implementation (printer) specific.
 
+```cpp
+int32_t Aspose::Words::PageSetup::get_FirstPageTray()
+```
+

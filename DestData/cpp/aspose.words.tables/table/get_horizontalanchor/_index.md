@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_horizontalanchor/
 
 Gets the base object from which the horizontal positioning of floating table should be calculated. Default value is **Column**.
 
+```cpp
+Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::Tables::Table::get_HorizontalAnchor()
+```
+

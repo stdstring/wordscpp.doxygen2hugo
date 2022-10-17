@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/nodetypetostring/
 
 A utility method that converts a node type enum value into a user friendly string.
 
+```cpp
+static System::String Aspose::Words::Node::NodeTypeToString(Aspose::Words::NodeType nodeType)
+```
+

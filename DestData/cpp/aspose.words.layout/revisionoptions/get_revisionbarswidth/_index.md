@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarswidth/
 
 Gets or sets width of revision bars, points.
 
+```cpp
+float Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth() const
+```
+

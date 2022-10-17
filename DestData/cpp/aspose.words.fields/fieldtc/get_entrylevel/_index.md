@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtc/get_entrylevel/
 
 Gets or sets the level of the entry.
 
+```cpp
+System::String Aspose::Words::Fields::FieldTC::get_EntryLevel()
+```
+

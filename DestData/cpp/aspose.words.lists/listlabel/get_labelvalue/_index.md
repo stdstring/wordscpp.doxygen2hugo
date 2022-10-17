@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlabel/get_labelvalue/
 
 Gets a numeric value for this label.
 
+```cpp
+int32_t Aspose::Words::Lists::ListLabel::get_LabelValue()
+```
+

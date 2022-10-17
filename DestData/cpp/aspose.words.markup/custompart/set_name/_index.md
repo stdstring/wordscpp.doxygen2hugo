@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/set_name/
 
 Setter for [Aspose::Words::Markup::CustomPart::get_Name](./get_name/).
 
+```cpp
+void Aspose::Words::Markup::CustomPart::set_Name(const System::String &value)
+```
+

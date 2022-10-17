@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportrelativefontsize/
 
 Specifies whether font sizes should be output in relative units when saving to HTML, MHTML or EPUB. Default is **false**.
 
+```cpp
+bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportRelativeFontSize() const
+```
+

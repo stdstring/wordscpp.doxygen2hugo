@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumn/get_width/
 
 Gets or sets the width of the text column in points.
 
+```cpp
+double Aspose::Words::TextColumn::get_Width()
+```
+

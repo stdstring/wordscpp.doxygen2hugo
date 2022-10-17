@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtc/set_omitpagenumber/
 
 Setter for [Aspose::Words::Fields::FieldTC::get_OmitPageNumber](./get_omitpagenumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldTC::set_OmitPageNumber(bool value)
+```
+

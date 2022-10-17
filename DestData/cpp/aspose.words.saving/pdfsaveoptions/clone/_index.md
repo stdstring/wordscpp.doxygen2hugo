@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/clone/
 
 Creates a deep clone of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::PdfSaveOptions> Aspose::Words::Saving::PdfSaveOptions::Clone()
+```
+

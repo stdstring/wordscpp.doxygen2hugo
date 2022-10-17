@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/idx_get/
 
 Returns [ChartLegendEntry](../chartlegendentry/) for the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry> Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::idx_get(int32_t index)
+```
+

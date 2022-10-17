@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_alignment/
 
 Specifies how an inline table is aligned in the document.
 
+```cpp
+Aspose::Words::Tables::TableAlignment Aspose::Words::Tables::Table::get_Alignment()
+```
+

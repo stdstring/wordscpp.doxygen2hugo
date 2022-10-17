@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_heading/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_Heading](./get_heading/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_Heading(const System::String &value)
+```
+

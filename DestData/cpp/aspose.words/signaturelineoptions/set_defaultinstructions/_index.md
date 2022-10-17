@@ -11,3 +11,7 @@ url: /cpp/aspose.words/signaturelineoptions/set_defaultinstructions/
 
 Setter for [Aspose::Words::SignatureLineOptions::get_DefaultInstructions](./get_defaultinstructions/).
 
+```cpp
+void Aspose::Words::SignatureLineOptions::set_DefaultInstructions(bool value)
+```
+

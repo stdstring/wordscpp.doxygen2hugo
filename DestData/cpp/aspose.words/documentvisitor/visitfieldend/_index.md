@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitfieldend/
 
 Called when a field ends in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldEnd(System::SharedPtr<Aspose::Words::Fields::FieldEnd> fieldEnd)
+```
+

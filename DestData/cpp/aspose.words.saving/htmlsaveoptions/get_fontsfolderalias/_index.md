@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsfolderalias/
 
 Specifies the name of the folder used to construct font URIs written into an HTML document. Default is an empty string.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias() const
+```
+

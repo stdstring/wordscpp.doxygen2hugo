@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_comments/
 
 Gets or sets the document comments.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments()
+```
+

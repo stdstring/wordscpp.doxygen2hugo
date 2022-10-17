@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_spaceafter/
 
 Setter for [Aspose::Words::ParagraphFormat::get_SpaceAfter](./get_spaceafter/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_SpaceAfter(double value)
+```
+

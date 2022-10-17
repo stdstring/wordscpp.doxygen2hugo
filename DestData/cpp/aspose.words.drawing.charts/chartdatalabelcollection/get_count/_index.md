@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_count/
 
 Returns the number of [ChartDataLabel](../chartdatalabel/) in this collection.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Count()
+```
+

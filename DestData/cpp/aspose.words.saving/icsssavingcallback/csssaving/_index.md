@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/icsssavingcallback/csssaving/
 
 Called when Aspose.Words saves an CSS (Cascading [Style](../../aspose.words/style/) Sheet).
 
+```cpp
+virtual void Aspose::Words::Saving::ICssSavingCallback::CssSaving(System::SharedPtr<Aspose::Words::Saving::CssSavingArgs> args)=0
+```
+

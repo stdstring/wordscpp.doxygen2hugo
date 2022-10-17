@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/get_dockstate/
 
 Specifies the last-docked location of this task pane object.
 
+```cpp
+Aspose::Words::WebExtensions::TaskPaneDockState Aspose::Words::WebExtensions::TaskPane::get_DockState() const
+```
+

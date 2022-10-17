@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_isbiditextsupportedonupdate/
 
 Gets or sets the value indicating whether bidirectional text is fully supported during field update or not.
 
+```cpp
+bool Aspose::Words::Fields::FieldOptions::get_IsBidiTextSupportedOnUpdate() const
+```
+

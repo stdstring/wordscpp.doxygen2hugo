@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_type/
 
 Gets the Microsoft Word field type.
 
+```cpp
+virtual Aspose::Words::Fields::FieldType Aspose::Words::Fields::Field::get_Type() const
+```
+

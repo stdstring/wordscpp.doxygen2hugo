@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_font/
 
 Provides access to the font formatting of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Drawing::ShapeBase::get_Font()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/set_columndelimiter/
 
 Setter for [Aspose::Words::Settings::Odso::get_ColumnDelimiter](./get_columndelimiter/).
 
+```cpp
+void Aspose::Words::Settings::Odso::set_ColumnDelimiter(char16_t value)
+```
+

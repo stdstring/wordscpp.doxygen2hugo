@@ -11,3 +11,7 @@ url: /cpp/aspose.words/commentrangestart/commentrangestart/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::CommentRangeStart::CommentRangeStart(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, int32_t id)
+```
+

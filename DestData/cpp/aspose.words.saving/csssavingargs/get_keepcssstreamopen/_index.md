@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/csssavingargs/get_keepcssstreamopen/
 
 Specifies whether Aspose.Words should keep the stream open or close it after saving an CSS information.
 
+```cpp
+bool Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitcommentrangestart/
 
 Called when the start of a commented range of text is encountered.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitCommentRangeStart(System::SharedPtr<Aspose::Words::CommentRangeStart> commentRangeStart)
+```
+

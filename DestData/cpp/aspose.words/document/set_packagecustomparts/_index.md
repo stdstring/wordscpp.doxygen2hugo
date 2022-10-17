@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_packagecustomparts/
 
 Setter for [Aspose::Words::Document::get_PackageCustomParts](./get_packagecustomparts/).
 
+```cpp
+void Aspose::Words::Document::set_PackageCustomParts(const System::SharedPtr<Aspose::Words::Markup::CustomPartCollection> &value)
+```
+

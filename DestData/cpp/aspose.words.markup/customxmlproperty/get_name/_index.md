@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlproperty/get_name/
 
 Specifies the name of the custom XML attribute or smart tag property.
 
+```cpp
+System::String Aspose::Words::Markup::CustomXmlProperty::get_Name() const
+```
+

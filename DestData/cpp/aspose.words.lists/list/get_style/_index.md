@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/get_style/
 
 Gets the list style that this list references or defines.
 
+```cpp
+System::SharedPtr<Aspose::Words::Style> Aspose::Words::Lists::List::get_Style()
+```
+

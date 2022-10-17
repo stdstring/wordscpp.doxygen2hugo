@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/getsubstitutes/
 
 Returns array containing substitute font names for the specified original font name.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerable<System::String>> Aspose::Words::Fonts::TableSubstitutionRule::GetSubstitutes(const System::String &originalFontName)
+```
+

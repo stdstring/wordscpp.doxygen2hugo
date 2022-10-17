@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstop/gethashcode/
 
 Calculates hash code for this object.
 
+```cpp
+int32_t Aspose::Words::TabStop::GetHashCode() const override
+```
+

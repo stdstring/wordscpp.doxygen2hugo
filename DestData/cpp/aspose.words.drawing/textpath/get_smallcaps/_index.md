@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_smallcaps/
 
 True if the font is formatted as small capital letters.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_SmallCaps()
+```
+

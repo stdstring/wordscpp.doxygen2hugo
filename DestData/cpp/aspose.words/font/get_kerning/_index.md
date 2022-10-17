@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_kerning/
 
 Gets or sets the font size at which kerning starts.
 
+```cpp
+double Aspose::Words::Font::get_Kerning()
+```
+

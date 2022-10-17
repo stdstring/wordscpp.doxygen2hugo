@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkstart/get_nodetype/
 
 Returns **BookmarkStart**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::BookmarkStart::get_NodeType() const override
+```
+

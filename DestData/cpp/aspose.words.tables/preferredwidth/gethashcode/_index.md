@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/preferredwidth/gethashcode/
 
 Serves as a hash function for this type.
 
+```cpp
+int32_t Aspose::Words::Tables::PreferredWidth::GetHashCode() const override
+```
+

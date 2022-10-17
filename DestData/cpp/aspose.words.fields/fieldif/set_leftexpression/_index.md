@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldif/set_leftexpression/
 
 Setter for [Aspose::Words::Fields::FieldIf::get_LeftExpression](./get_leftexpression/).
 
+```cpp
+void Aspose::Words::Fields::FieldIf::set_LeftExpression(const System::String &value)
+```
+

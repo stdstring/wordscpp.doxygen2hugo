@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/indexof/
 
 Returns the zero-based index of the specified node.
 
+```cpp
+int32_t Aspose::Words::NodeCollection::IndexOf(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_suffix/
 
 Gets or sets a suffix that is appended to the citation.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCitation::get_Suffix()
+```
+

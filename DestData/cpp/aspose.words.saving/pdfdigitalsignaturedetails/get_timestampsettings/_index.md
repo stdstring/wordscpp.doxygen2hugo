@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_timestampsettings/
 
 Gets or sets the digital signature timestamp settings.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings> Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings() const
+```
+

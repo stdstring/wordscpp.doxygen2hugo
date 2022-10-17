@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldta/get_isbold/
 
 Gets or sets whether to apply bold formatting to the page number for the entry.
 
+```cpp
+bool Aspose::Words::Fields::FieldTA::get_IsBold()
+```
+

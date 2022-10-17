@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/idx_get/
 
 Gets an item at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::WarningInfo> Aspose::Words::WarningInfoCollection::idx_get(int32_t index)
+```
+

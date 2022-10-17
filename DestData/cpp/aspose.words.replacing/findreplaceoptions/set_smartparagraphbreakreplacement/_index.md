@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_smartparagraphbreakrepla
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement](./get_smartparagraphbreakreplacement/).
 
+```cpp
+void Aspose::Words::Replacing::FindReplaceOptions::set_SmartParagraphBreakReplacement(bool value)
+```
+

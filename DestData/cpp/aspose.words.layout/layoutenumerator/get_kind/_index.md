@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_kind/
 
 Gets the kind of the current entity. This can be an empty string but never null.
 
+```cpp
+System::String Aspose::Words::Layout::LayoutEnumerator::get_Kind()
+```
+

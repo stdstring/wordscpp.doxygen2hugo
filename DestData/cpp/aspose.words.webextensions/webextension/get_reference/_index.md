@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextension/get_reference/
 
 Specifies the primary reference to an web extension.
 
+```cpp
+System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionReference> Aspose::Words::WebExtensions::WebExtension::get_Reference() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_textcompression/
 
 Specifies compression type to be used for all textual content in the document.
 
+```cpp
+Aspose::Words::Saving::PdfTextCompression Aspose::Words::Saving::PdfSaveOptions::get_TextCompression() const
+```
+

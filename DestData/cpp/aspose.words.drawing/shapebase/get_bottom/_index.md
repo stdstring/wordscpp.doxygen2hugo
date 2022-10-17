@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_bottom/
 
 Gets the position of the bottom edge of the containing block of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_Bottom()
+```
+

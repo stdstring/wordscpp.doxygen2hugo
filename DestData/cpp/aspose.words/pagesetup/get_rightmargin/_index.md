@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_rightmargin/
 
 Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text.
 
+```cpp
+double Aspose::Words::PageSetup::get_RightMargin()
+```
+

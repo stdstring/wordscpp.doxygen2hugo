@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_ultrailspace/
 
 Underline All Trailing Spaces.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_UlTrailSpace()
+```
+

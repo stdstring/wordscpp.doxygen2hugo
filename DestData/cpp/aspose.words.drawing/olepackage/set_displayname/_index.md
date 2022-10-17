@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/olepackage/set_displayname/
 
 Setter for [Aspose::Words::Drawing::OlePackage::get_DisplayName](./get_displayname/).
 
+```cpp
+void Aspose::Words::Drawing::OlePackage::set_DisplayName(System::String value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldargumentbuilder/addfield/
 
 Adds a field represented by a [FieldBuilder](../fieldbuilder/) to the argument.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldArgumentBuilder> Aspose::Words::Fields::FieldArgumentBuilder::AddField(const System::SharedPtr<Aspose::Words::Fields::FieldBuilder> &fieldBuilder)
+```
+

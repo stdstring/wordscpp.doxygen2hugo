@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/get_exportheadersfootersmode/
 
 Specifies the way headers and footers are exported to the text formats. Default value is **PrimaryOnly**.
 
+```cpp
+Aspose::Words::Saving::TxtExportHeadersFootersMode Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode() const
+```
+

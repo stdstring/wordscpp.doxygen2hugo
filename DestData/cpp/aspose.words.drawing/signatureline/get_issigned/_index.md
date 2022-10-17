@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/signatureline/get_issigned/
 
 Indicates that signature line is signed by digital signature.
 
+```cpp
+bool Aspose::Words::Drawing::SignatureLine::get_IsSigned()
+```
+

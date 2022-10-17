@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/set_followedhyperlink/
 
 Setter for [Aspose::Words::Themes::ThemeColors::get_FollowedHyperlink](./get_followedhyperlink/).
 
+```cpp
+void Aspose::Words::Themes::ThemeColors::set_FollowedHyperlink(System::Drawing::Color value)
+```
+

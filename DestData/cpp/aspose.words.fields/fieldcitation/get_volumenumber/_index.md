@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/get_volumenumber/
 
 Gets or sets a volume number associated with the citation.
 
+```cpp
+System::String Aspose::Words::Fields::FieldCitation::get_VolumeNumber()
+```
+

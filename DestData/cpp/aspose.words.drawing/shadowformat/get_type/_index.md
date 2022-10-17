@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shadowformat/get_type/
 
 Gets the specified [ShadowType](../shadowtype/) for [ShadowFormat](./).
 
+```cpp
+Aspose::Words::Drawing::ShadowType Aspose::Words::Drawing::ShadowFormat::get_Type()
+```
+

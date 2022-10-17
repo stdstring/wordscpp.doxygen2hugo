@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstopcollection/after/
 
 Gets a first tab stop to the right of the specified position.
 
+```cpp
+System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::After(double position)
+```
+

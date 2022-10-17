@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/get_nextsibling/
 
 Gets the node immediately following this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::get_NextSibling()
+```
+

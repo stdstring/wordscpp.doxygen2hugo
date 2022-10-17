@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.vba/vbareferencecollection/end/
 ---
-## VbaReferenceCollection.end method
+## VbaReferenceCollection.end() const method
 
 
 
 
----
-title: end
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.vba/vbareferencecollection/end/
----
-## VbaReferenceCollection.end method
+```cpp
+const_iterator Aspose::Words::Vba::VbaReferenceCollection::end() const noexcept
+```
+
+## VbaReferenceCollection.end() method
 
 
 
+
+```cpp
+iterator Aspose::Words::Vba::VbaReferenceCollection::end() noexcept
+```
 

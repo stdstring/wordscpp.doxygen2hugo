@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/getfieldnames/
 
 Returns a collection of mail merge field names available in the document.
 
+```cpp
+System::ArrayPtr<System::String> Aspose::Words::MailMerging::MailMerge::GetFieldNames()
+```
+

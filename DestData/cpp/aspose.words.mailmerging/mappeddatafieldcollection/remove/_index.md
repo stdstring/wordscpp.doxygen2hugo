@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/remove/
 
 Removes a field mapping.
 
+```cpp
+void Aspose::Words::MailMerging::MappedDataFieldCollection::Remove(const System::String &documentFieldName)
+```
+

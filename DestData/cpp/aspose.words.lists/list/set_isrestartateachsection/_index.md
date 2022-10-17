@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/set_isrestartateachsection/
 
 Setter for [Aspose::Words::Lists::List::get_IsRestartAtEachSection](./get_isrestartateachsection/).
 
+```cpp
+void Aspose::Words::Lists::List::set_IsRestartAtEachSection(bool value)
+```
+

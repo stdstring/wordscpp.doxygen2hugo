@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/set_emulaterasteroperatio
 
 Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_EmulateRasterOperations](./get_emulaterasteroperations/).
 
+```cpp
+void Aspose::Words::Saving::MetafileRenderingOptions::set_EmulateRasterOperations(bool value)
+```
+

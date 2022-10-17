@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/set_numberstyle/
 
 Setter for [Aspose::Words::Notes::FootnoteOptions::get_NumberStyle](./get_numberstyle/).
 
+```cpp
+void Aspose::Words::Notes::FootnoteOptions::set_NumberStyle(Aspose::Words::NumberStyle value) override
+```
+

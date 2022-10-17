@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/set_isbold/
 
 Setter for [Aspose::Words::Fields::FieldXE::get_IsBold](./get_isbold/).
 
+```cpp
+void Aspose::Words::Fields::FieldXE::set_IsBold(bool value)
+```
+

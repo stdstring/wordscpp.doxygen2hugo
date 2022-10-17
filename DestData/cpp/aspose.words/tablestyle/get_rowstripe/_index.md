@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_rowstripe/
 
 Gets or sets a number of rows to include in the banding when the style specifies odd/even row banding.
 
+```cpp
+int32_t Aspose::Words::TableStyle::get_RowStripe()
+```
+

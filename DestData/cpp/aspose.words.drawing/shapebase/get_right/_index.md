@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_right/
 
 Gets the position of the right edge of the containing block of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_Right()
+```
+

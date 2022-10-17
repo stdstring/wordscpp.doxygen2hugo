@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtitle/get_text/
 
 Gets or sets the text of the title.
 
+```cpp
+System::String Aspose::Words::Fields::FieldTitle::get_Text()
+```
+

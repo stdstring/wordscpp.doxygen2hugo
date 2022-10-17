@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_preblendimages/
 
 Gets or sets a value determining whether or not to preblend transparent images with black background color.
 
+```cpp
+bool Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages() const
+```
+

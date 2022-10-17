@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/set_tableoffigureslabel/
 
 Setter for [Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel](./get_tableoffigureslabel/).
 
+```cpp
+void Aspose::Words::Fields::FieldToc::set_TableOfFiguresLabel(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/get_listlevels/
 
 Gets the collection of list levels for this list.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListLevelCollection> Aspose::Words::Lists::List::get_ListLevels()
+```
+

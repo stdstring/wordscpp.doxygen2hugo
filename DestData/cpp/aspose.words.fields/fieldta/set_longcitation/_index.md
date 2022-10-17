@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldta/set_longcitation/
 
 Setter for [Aspose::Words::Fields::FieldTA::get_LongCitation](./get_longcitation/).
 
+```cpp
+void Aspose::Words::Fields::FieldTA::set_LongCitation(const System::String &value)
+```
+

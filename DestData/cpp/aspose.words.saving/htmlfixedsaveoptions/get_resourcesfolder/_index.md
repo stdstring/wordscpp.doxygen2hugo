@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_resourcesfolder/
 
 Specifies the physical folder where resources (images, fonts, css) are saved when exporting a document to Html format. Default is **null**.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourcesFolder() const
+```
+

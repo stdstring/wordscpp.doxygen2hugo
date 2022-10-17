@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/deleterow/
 
 Deletes a row from a table.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::DocumentBuilder::DeleteRow(int32_t tableIndex, int32_t rowIndex)
+```
+

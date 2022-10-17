@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_aspectratiolocked/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked](./get_aspectratiolocked/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_AspectRatioLocked(bool value)
+```
+

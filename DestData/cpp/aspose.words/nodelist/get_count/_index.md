@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodelist/get_count/
 
 Gets the number of nodes in the list.
 
+```cpp
+int32_t Aspose::Words::NodeList::get_Count() const
+```
+

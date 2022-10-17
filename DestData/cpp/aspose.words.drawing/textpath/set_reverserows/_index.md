@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_reverserows/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_ReverseRows](./get_reverserows/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_ReverseRows(bool value)
+```
+

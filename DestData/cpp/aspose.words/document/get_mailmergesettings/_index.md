@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_mailmergesettings/
 
 Gets or sets the object that contains all of the mail merge information for a document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::MailMergeSettings> Aspose::Words::Document::get_MailMergeSettings()
+```
+

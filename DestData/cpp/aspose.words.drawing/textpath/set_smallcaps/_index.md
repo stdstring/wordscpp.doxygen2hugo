@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_smallcaps/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_SmallCaps](./get_smallcaps/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_SmallCaps(bool value)
+```
+

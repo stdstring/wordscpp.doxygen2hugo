@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/get_thumbnailsize/
 
 Size of generated thumbnail in pixels. Default is 600x900.
 
+```cpp
+System::Drawing::Size Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_ThumbnailSize() const
+```
+

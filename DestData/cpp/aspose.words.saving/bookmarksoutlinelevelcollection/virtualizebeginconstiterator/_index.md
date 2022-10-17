@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizebegincon
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeBeginConstIterator() const override
+```
+

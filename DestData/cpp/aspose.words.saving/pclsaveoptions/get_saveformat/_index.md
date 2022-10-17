@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pclsaveoptions/get_saveformat/
 
 Specifies the format in which the document will be saved if this save options object is used. Can only be **Pcl**.
 
+```cpp
+Aspose::Words::SaveFormat Aspose::Words::Saving::PclSaveOptions::get_SaveFormat() override
+```
+

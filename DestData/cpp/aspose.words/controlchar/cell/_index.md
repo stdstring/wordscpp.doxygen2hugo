@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/cell/
 
 End of a table cell or end of a table row character: "\x0007" or "\a".
 
+```cpp
+static System::String & Aspose::Words::ControlChar::Cell()
+```
+

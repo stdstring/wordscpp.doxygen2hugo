@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitdocumentend/
 
 Called when enumeration of the document has finished.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitDocumentEnd(System::SharedPtr<Aspose::Words::Document> doc)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldaddressblock/get_nameandaddressformat/
 
 Gets or sets the name and address format.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAddressBlock::get_NameAndAddressFormat()
+```
+

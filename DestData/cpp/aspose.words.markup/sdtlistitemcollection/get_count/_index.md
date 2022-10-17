@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/get_count/
 
 Gets number of items in the collection.
 
+```cpp
+int32_t Aspose::Words::Markup::SdtListItemCollection::get_Count()
+```
+

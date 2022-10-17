@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldinfo/get_newvalue/
 
 Gets or sets an optional value that updates the property.
 
+```cpp
+System::String Aspose::Words::Fields::FieldInfo::get_NewValue()
+```
+

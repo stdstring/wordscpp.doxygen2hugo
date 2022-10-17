@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_encoding/
 
 Gets or sets the encoding that will be used to load an HTML, TXT, or CHM document if the encoding is not specified inside the document. Can be null. Default is null.
 
+```cpp
+System::SharedPtr<System::Text::Encoding> Aspose::Words::Loading::LoadOptions::get_Encoding() const
+```
+

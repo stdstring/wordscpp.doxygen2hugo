@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_italic/
 
 Setter for [Aspose::Words::Font::get_Italic](./get_italic/).
 
+```cpp
+void Aspose::Words::Font::set_Italic(bool value)
+```
+

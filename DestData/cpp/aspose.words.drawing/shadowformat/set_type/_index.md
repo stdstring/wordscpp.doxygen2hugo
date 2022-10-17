@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shadowformat/set_type/
 
 Sets the specified [ShadowType](../shadowtype/) for [ShadowFormat](./).
 
+```cpp
+void Aspose::Words::Drawing::ShadowFormat::set_Type(Aspose::Words::Drawing::ShadowType value)
+```
+

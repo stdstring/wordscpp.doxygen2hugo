@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/getenumerator/
 
 
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Framesets::Frameset>>> Aspose::Words::Framesets::FramesetCollection::GetEnumerator() override
+```
+

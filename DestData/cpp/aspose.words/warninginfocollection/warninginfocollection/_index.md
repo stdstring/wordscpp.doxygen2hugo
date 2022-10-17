@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/warninginfocollection/
 
 
 
+```cpp
+Aspose::Words::WarningInfoCollection::WarningInfoCollection()
+```
+

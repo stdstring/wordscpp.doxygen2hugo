@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/clear/
 
 Removes all elements from this collection.
 
+```cpp
+void Aspose::Words::Settings::OdsoFieldMapDataCollection::Clear()
+```
+

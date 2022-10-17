@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_size/
 
 Defines the size of the font in points.
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_Size(double value)
+```
+

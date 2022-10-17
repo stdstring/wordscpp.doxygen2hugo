@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_overridetablestylefonts
 
 Specifies how the style hierarchy of the document is evaluated.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_OverrideTableStyleFontSizeAndJustification()
+```
+

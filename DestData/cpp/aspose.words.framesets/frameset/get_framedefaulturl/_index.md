@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/frameset/get_framedefaulturl/
 
 Gets or sets the web page URL or document file name to display in this frame.
 
+```cpp
+System::String Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl()
+```
+

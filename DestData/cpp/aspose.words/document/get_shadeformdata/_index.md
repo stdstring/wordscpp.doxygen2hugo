@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_shadeformdata/
 
 Specifies whether to turn on the gray shading on form fields.
 
+```cpp
+bool Aspose::Words::Document::get_ShadeFormData()
+```
+

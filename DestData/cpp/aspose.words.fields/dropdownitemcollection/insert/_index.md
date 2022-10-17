@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/insert/
 
 Inserts a string into the collection at the specified index.
 
+```cpp
+void Aspose::Words::Fields::DropDownItemCollection::Insert(int32_t index, const System::String &value)
+```
+

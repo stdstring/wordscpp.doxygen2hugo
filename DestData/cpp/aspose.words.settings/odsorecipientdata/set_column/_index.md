@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdata/set_column/
 
 Specifies the column within the data source that contains unique data for the current record. The default value is 0.
 
+```cpp
+void Aspose::Words::Settings::OdsoRecipientData::set_Column(int32_t value)
+```
+

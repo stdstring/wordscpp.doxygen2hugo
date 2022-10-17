@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Comment::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

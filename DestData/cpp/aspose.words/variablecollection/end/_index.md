@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/variablecollection/end/
 ---
-## VariableCollection.end method
+## VariableCollection.end() const method
 
 
 
 
----
-title: end
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/variablecollection/end/
----
-## VariableCollection.end method
+```cpp
+const_iterator Aspose::Words::VariableCollection::end() const noexcept
+```
+
+## VariableCollection.end() method
 
 
 
+
+```cpp
+iterator Aspose::Words::VariableCollection::end() noexcept
+```
 

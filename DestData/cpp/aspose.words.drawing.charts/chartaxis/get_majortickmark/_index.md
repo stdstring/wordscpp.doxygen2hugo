@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_majortickmark/
 
 Returns or sets the major tick marks.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisTickMark Aspose::Words::Drawing::Charts::ChartAxis::get_MajorTickMark()
+```
+

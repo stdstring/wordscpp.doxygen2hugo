@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_fontinfos/
 
 Provides access to properties of fonts used in this document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fonts::FontInfoCollection> Aspose::Words::DocumentBase::get_FontInfos() const
+```
+

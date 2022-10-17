@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/section/
 
 Initializes a new instance of the [Section](./) class.
 
+```cpp
+Aspose::Words::Section::Section(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

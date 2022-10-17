@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_swapbordersfacingpgs/
 
 Swap [Paragraph](../../aspose.words/paragraph/) Borders on Odd Numbered Pages.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SwapBordersFacingPgs()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/tobytearray/
 
 Returns the property value as byte array.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Properties::DocumentProperty::ToByteArray()
+```
+

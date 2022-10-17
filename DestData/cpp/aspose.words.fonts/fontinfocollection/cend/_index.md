@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::Fonts::FontInfoCollection::cend() const noexcept
+```
+

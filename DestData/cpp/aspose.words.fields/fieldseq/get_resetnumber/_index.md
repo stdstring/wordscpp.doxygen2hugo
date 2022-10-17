@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseq/get_resetnumber/
 
 Gets or sets an integer number to reset the sequence number to. Returns -1 if the number is absent.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSeq::get_ResetNumber()
+```
+

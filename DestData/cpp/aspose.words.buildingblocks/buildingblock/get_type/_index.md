@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_type/
 
 Specifies the building block type.
 
+```cpp
+Aspose::Words::BuildingBlocks::BuildingBlockType Aspose::Words::BuildingBlocks::BuildingBlock::get_Type() const
+```
+

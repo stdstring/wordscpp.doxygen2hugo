@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/set_address/
 
 Setter for [Aspose::Words::Fields::FieldHyperlink::get_Address](./get_address/).
 
+```cpp
+void Aspose::Words::Fields::FieldHyperlink::set_Address(const System::String &value)
+```
+

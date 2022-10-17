@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontfallbacksettings/loadnotofallbacksettings/
 
 Loads predefined fallback settings which uses Google Noto fonts.
 
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::LoadNotoFallbackSettings()
+```
+

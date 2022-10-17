@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/clearheadersfooters/
 
 Clears the headers and footers of this section.
 
+```cpp
+void Aspose::Words::Section::ClearHeadersFooters()
+```
+

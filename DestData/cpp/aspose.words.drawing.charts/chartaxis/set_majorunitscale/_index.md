@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_majorunitscale/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitScale](./get_majorunitscale/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_MajorUnitScale(Aspose::Words::Drawing::Charts::AxisTimeUnit value)
+```
+

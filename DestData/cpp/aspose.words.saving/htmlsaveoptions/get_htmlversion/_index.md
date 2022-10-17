@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_htmlversion/
 
 Specifies version of HTML standard that should be used when saving the document to HTML or MHTML. Default value is **Xhtml**.
 
+```cpp
+Aspose::Words::Saving::HtmlVersion Aspose::Words::Saving::HtmlSaveOptions::get_HtmlVersion() const
+```
+

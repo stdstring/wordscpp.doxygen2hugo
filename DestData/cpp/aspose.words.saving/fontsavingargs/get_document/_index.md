@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_document/
 
 Gets the document object that is being saved.
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::FontSavingArgs::get_Document() const
+```
+

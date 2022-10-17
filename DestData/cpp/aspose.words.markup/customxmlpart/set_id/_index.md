@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpart/set_id/
 
 Setter for [Aspose::Words::Markup::CustomXmlPart::get_Id](./get_id/).
 
+```cpp
+void Aspose::Words::Markup::CustomXmlPart::set_Id(const System::String &value)
+```
+

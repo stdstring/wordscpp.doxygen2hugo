@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/get_paragraphformat/
 
 Gets the paragraph formatting of the conditional style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::ConditionalStyle::get_ParagraphFormat()
+```
+

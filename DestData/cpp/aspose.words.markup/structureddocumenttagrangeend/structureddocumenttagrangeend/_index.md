@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangeend/structureddocumentta
 
 Initializes a new instance of the **Structured document tag range end** class.
 
+```cpp
+Aspose::Words::Markup::StructuredDocumentTagRangeEnd::StructuredDocumentTagRangeEnd(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, int32_t id)
+```
+

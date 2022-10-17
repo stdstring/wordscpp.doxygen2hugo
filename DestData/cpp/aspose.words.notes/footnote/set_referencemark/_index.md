@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/set_referencemark/
 
 Setter for [Aspose::Words::Notes::Footnote::get_ReferenceMark](./get_referencemark/).
 
+```cpp
+void Aspose::Words::Notes::Footnote::set_ReferenceMark(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_xsltransformation/
 
 Gets or sets the location of XSL Transformation to format XML data.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludeText::get_XslTransformation() override
+```
+

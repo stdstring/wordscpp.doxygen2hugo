@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldchar/get_islocked/
 
 Gets or sets whether the parent field is locked (should not recalculate its result).
 
+```cpp
+bool Aspose::Words::Fields::FieldChar::get_IsLocked() const
+```
+

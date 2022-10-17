@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_nodetype/
 
 Returns **NodeType.Table**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Tables::Table::get_NodeType() const override
+```
+

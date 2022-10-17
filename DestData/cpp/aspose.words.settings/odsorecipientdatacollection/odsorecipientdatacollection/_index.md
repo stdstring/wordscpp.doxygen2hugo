@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/odsorecipientdatacol
 
 
 
+```cpp
+Aspose::Words::Settings::OdsoRecipientDataCollection::OdsoRecipientDataCollection()
+```
+

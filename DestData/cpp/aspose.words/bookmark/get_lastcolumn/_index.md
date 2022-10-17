@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmark/get_lastcolumn/
 
 Gets the zero-based index of the last column of the table column range associated with the bookmark.
 
+```cpp
+int32_t Aspose::Words::Bookmark::get_LastColumn()
+```
+

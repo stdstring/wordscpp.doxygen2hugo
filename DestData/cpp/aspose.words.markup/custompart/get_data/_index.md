@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/get_data/
 
 Contains the data of this custom part.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Markup::CustomPart::get_Data() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_top/
 
 Gets or sets the position of the top edge of the containing block of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_Top()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_localeid/
 
 Gets or sets the LCID of the field.
 
+```cpp
+int32_t Aspose::Words::Fields::Field::get_LocaleId()
+```
+

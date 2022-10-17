@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_fixcheckdigit/
 
 Whether to fix the check digit if it’s invalid.
 
+```cpp
+void Aspose::Words::Fields::BarcodeParameters::set_FixCheckDigit(bool value)
+```
+

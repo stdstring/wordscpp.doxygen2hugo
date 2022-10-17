@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_customtocstyleseparator/
 
 Gets or sets custom style separator for the \t switch in [FieldToc](../fieldtoc/) field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator() const
+```
+

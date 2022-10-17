@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/get_headersfooters/
 
 Provides access to the headers and footers nodes of the section.
 
+```cpp
+System::SharedPtr<Aspose::Words::HeaderFooterCollection> Aspose::Words::Section::get_HeadersFooters()
+```
+

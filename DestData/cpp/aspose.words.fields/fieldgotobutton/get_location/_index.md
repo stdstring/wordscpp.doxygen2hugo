@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgotobutton/get_location/
 
 Gets or sets the name of a bookmark, a page number, or some other item to jump to.
 
+```cpp
+System::String Aspose::Words::Fields::FieldGoToButton::get_Location()
+```
+

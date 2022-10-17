@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_layoutmode/
 
 Gets or sets the layout mode of this section.
 
+```cpp
+Aspose::Words::SectionLayoutMode Aspose::Words::PageSetup::get_LayoutMode()
+```
+

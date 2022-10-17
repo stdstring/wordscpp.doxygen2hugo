@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/clearborders/
 
 Removes all table and cell borders on this table.
 
+```cpp
+void Aspose::Words::Tables::Table::ClearBorders()
+```
+

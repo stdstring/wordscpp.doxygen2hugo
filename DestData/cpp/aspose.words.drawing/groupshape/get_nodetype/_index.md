@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/groupshape/get_nodetype/
 
 Returns **GroupShape**.
 
+```cpp
+Aspose::Words::NodeType Aspose::Words::Drawing::GroupShape::get_NodeType() const override
+```
+

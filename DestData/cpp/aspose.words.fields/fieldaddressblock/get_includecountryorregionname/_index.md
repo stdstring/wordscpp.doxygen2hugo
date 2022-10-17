@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldaddressblock/get_includecountryorregionname/
 
 Gets or sets whether to include the name of the country/region.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName()
+```
+

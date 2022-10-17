@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/paragraph/
 
 Initializes a new instance of the **Paragraph** class.
 
+```cpp
+Aspose::Words::Paragraph::Paragraph(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

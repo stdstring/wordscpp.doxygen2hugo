@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellcollection/idx_get/
 
 Retrieves a **Cell** at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::Tables::CellCollection::idx_get(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/converttohorizontallymergedcells/
 
 Converts cells horizontally merged by width to cells merged by [HorizontalMerge](../cellformat/get_horizontalmerge/).
 
+```cpp
+void Aspose::Words::Tables::Table::ConvertToHorizontallyMergedCells()
+```
+

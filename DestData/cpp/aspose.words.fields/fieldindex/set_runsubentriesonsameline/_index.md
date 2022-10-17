@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_runsubentriesonsameline/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_RunSubentriesOnSameLine](./get_runsubentriesonsameline/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_RunSubentriesOnSameLine(bool value)
+```
+

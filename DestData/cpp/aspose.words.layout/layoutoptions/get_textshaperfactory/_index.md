@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/get_textshaperfactory/
 
 Gets or sets **ITextShaperFactory** implementation used for Advanced Typography rendering features.
 
+```cpp
+System::SharedPtr<Aspose::Words::Shaping::ITextShaperFactory> Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory() const
+```
+

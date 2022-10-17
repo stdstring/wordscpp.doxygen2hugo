@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldformat/get_datetimeformat/
 
 Gets or sets a formatting that is applied to a date and time field result. Corresponds to the \@ switch.
 
+```cpp
+System::String Aspose::Words::Fields::FieldFormat::get_DateTimeFormat()
+```
+

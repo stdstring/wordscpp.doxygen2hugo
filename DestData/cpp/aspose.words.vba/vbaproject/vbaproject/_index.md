@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbaproject/vbaproject/
 
 Creates a blank [VbaProject](./).
 
+```cpp
+Aspose::Words::Vba::VbaProject::VbaProject()
+```
+

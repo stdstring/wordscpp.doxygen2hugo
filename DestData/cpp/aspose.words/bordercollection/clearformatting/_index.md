@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/clearformatting/
 
 Removes all borders of an object.
 
+```cpp
+void Aspose::Words::BorderCollection::ClearFormatting()
+```
+

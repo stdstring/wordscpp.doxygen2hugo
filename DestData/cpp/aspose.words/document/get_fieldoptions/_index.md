@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_fieldoptions/
 
 Gets a **FieldOptions** object that represents options to control field handling in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldOptions> Aspose::Words::Document::get_FieldOptions()
+```
+

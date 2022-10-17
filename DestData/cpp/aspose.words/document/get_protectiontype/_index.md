@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_protectiontype/
 
 Gets the currently active document protection type.
 
+```cpp
+Aspose::Words::ProtectionType Aspose::Words::Document::get_ProtectionType()
+```
+

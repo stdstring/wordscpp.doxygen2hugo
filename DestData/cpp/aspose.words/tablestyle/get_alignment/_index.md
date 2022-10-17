@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_alignment/
 
 Specifies the alignment for the table style.
 
+```cpp
+Aspose::Words::Tables::TableAlignment Aspose::Words::TableStyle::get_Alignment()
+```
+

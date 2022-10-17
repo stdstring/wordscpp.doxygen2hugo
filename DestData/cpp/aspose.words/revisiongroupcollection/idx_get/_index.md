@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisiongroupcollection/idx_get/
 
 Returns a revision group at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::RevisionGroup> Aspose::Words::RevisionGroupCollection::idx_get(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldautotextlist/get_screentip/
 
 Gets or sets the text of the ScreenTip to show.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip()
+```
+

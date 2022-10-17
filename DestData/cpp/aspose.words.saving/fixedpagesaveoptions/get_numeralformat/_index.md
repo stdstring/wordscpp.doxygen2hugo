@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_numeralformat/
 
 Gets or sets [NumeralFormat](../numeralformat/) used for rendering of numerals. European numerals are used by default.
 
+```cpp
+Aspose::Words::Saving::NumeralFormat Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat() const
+```
+

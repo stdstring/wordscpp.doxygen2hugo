@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_anothersourcetag/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag](./get_anothersourcetag/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_AnotherSourceTag(const System::String &value)
+```
+

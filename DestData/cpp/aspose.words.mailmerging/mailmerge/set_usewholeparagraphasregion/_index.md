@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_usewholeparagraphasregion/
 
 Sets a value indicating whether whole paragraph with TableStart or TableEnd field or particular range between TableStart and TableEnd fields should be included into mail merge region.
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_UseWholeParagraphAsRegion(bool value)
+```
+

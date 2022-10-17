@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldkeywords/get_text/
 
 Gets or sets the text of the keywords.
 
+```cpp
+System::String Aspose::Words::Fields::FieldKeywords::get_Text()
+```
+

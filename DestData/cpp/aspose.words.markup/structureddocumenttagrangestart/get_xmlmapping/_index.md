@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_xmlmapping/
 
 Gets an object that represents the mapping of this structured document tag range to XML data in a custom XML part of the current document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::XmlMapping> Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_XmlMapping() override
+```
+

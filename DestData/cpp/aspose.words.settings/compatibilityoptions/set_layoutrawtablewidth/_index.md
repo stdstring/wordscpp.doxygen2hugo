@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_layoutrawtablewidth/
 
 Ignore Space Before Table When Deciding If Table Should Wrap Floating Object.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_LayoutRawTableWidth(bool value)
+```
+

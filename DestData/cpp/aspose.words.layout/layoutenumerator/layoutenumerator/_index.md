@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/layoutenumerator/
 
 Initializes new instance of this class.
 
+```cpp
+Aspose::Words::Layout::LayoutEnumerator::LayoutEnumerator(const System::SharedPtr<Aspose::Words::Document> &document)
+```
+

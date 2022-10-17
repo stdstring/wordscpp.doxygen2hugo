@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/geteffectivetabstops/
 
 Returns array of all tab stops applied to this paragraph, including applied indirectly by styles or lists.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::TabStop>> Aspose::Words::Paragraph::GetEffectiveTabStops()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/xmlmapping/get_prefixmappings/
 
 Returns XML namespace prefix mappings to evaluate the [XPath](./get_xpath/).
 
+```cpp
+System::String Aspose::Words::Markup::XmlMapping::get_PrefixMappings() const
+```
+

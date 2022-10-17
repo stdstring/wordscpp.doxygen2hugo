@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_exportembeddedimages/
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages](./get_exportembeddedimages/).
 
+```cpp
+void Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/setuncheckedsymbol/
 
 Sets the symbol used to represent the unchecked state of a check box content control.
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::SetUncheckedSymbol(int32_t characterCode, const System::String &fontName)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/outlineoptions/set_defaultbookmarksoutlinelevel/
 
 Setter for [Aspose::Words::Saving::OutlineOptions::get_DefaultBookmarksOutlineLevel](./get_defaultbookmarksoutlinelevel/).
 
+```cpp
+void Aspose::Words::Saving::OutlineOptions::set_DefaultBookmarksOutlineLevel(int32_t value)
+```
+

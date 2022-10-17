@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/deletepicturebullet/
 
 Deletes picture bullet for the current list level.
 
+```cpp
+void Aspose::Words::Lists::ListLevel::DeletePictureBullet()
+```
+

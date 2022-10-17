@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_imagebytes/
 
 Gets the raw bytes of the fill texture or pattern.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Drawing::Fill::get_ImageBytes()
+```
+

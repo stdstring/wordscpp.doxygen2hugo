@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/set_customunit/
 
 Setter for [Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit](./get_customunit/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::AxisDisplayUnit::set_CustomUnit(double value)
+```
+

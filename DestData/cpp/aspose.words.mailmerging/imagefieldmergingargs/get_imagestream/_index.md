@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_imagestream/
 
 Specifies the stream for the mail merge engine to read an image from.
 
+```cpp
+const System::SharedPtr<System::IO::Stream> & Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream() const
+```
+

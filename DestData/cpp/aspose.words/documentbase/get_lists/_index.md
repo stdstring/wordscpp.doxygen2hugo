@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_lists/
 
 Provides access to the list formatting used in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListCollection> Aspose::Words::DocumentBase::get_Lists() const
+```
+

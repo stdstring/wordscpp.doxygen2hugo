@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitabsolutepositiontab/
 
 Called when a [AbsolutePositionTab](../absolutepositiontab/) node is encountered in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitAbsolutePositionTab(System::SharedPtr<Aspose::Words::AbsolutePositionTab> tab)
+```
+

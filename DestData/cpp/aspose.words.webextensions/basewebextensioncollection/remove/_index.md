@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/remove/
 
 Removes the item at the specified index from the collection.
 
+```cpp
+void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Remove(int32_t index)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_basestylename/
 
 Gets/sets the name of the style this style is based on.
 
+```cpp
+System::String Aspose::Words::Style::get_BaseStyleName()
+```
+

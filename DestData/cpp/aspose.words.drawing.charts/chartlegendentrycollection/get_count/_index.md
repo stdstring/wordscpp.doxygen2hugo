@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/get_count/
 
 Returns the number of [ChartLegendEntry](../chartlegendentry/) in this collection.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::get_Count()
+```
+

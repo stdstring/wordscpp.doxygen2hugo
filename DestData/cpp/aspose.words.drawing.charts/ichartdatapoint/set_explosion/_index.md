@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/ichartdatapoint/set_explosion/
 
 Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion](./get_explosion/).
 
+```cpp
+virtual void Aspose::Words::Drawing::Charts::IChartDataPoint::set_Explosion(int32_t value)=0
+```
+

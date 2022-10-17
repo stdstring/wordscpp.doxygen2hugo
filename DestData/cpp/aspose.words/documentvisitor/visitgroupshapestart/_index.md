@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitgroupshapestart/
 
 Called when enumeration of a group shape has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGroupShapeStart(System::SharedPtr<Aspose::Words::Drawing::GroupShape> groupShape)
+```
+

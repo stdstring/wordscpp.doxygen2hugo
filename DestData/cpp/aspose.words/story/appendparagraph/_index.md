@@ -11,3 +11,7 @@ url: /cpp/aspose.words/story/appendparagraph/
 
 A shortcut method that creates a [Paragraph](../paragraph/) object with optional text and appends it to the end of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Story::AppendParagraph(const System::String &text)
+```
+

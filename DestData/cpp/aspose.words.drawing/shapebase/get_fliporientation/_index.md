@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_fliporientation/
 
 Switches the orientation of a shape.
 
+```cpp
+Aspose::Words::Drawing::FlipOrientation Aspose::Words::Drawing::ShapeBase::get_FlipOrientation()
+```
+

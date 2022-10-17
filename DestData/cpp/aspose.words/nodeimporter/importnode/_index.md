@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodeimporter/importnode/
 
 Imports a node from one document into another.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeImporter::ImportNode(const System::SharedPtr<Aspose::Words::Node> &srcNode, bool isImportChildren)
+```
+

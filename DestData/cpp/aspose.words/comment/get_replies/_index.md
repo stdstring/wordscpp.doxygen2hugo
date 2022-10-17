@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_replies/
 
 Returns a collection of [Comment](./) objects that are immediate children of the specified comment.
 
+```cpp
+System::SharedPtr<Aspose::Words::CommentCollection> Aspose::Words::Comment::get_Replies()
+```
+

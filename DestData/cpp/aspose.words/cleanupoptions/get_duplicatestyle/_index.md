@@ -11,3 +11,7 @@ url: /cpp/aspose.words/cleanupoptions/get_duplicatestyle/
 
 Gets/sets a flag indicating whether duplicate styles should be removed from document. Default value is **false**.
 
+```cpp
+bool Aspose::Words::CleanupOptions::get_DuplicateStyle() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_textinputdefault/
 
 Gets or sets the default string or a calculation expression of a text form field.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_TextInputDefault()
+```
+

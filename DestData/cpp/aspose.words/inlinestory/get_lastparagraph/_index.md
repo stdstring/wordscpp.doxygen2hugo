@@ -11,3 +11,7 @@ url: /cpp/aspose.words/inlinestory/get_lastparagraph/
 
 Gets the last paragraph in the story.
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::InlineStory::get_LastParagraph()
+```
+

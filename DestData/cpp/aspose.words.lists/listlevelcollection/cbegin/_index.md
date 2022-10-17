@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Lists::ListLevelCollection::cbegin() const noexcept
+```
+

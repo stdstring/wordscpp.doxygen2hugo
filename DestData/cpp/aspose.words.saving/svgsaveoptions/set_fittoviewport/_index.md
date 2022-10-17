@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_fittoviewport/
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort](./get_fittoviewport/).
 
+```cpp
+void Aspose::Words::Saving::SvgSaveOptions::set_FitToViewPort(bool value)
+```
+

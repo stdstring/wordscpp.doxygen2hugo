@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_customxmlparts/
 
 Setter for [Aspose::Words::Document::get_CustomXmlParts](./get_customxmlparts/).
 
+```cpp
+void Aspose::Words::Document::set_CustomXmlParts(const System::SharedPtr<Aspose::Words::Markup::CustomXmlPartCollection> &value)
+```
+

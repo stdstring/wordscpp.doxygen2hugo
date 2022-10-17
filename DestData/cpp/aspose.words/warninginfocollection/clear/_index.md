@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::WarningInfoCollection::Clear()
+```
+

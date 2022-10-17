@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themefonts/get_latin/
 
 Specifies font name for Latin characters.
 
+```cpp
+System::String Aspose::Words::Themes::ThemeFonts::get_Latin()
+```
+

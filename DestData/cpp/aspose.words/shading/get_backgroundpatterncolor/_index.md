@@ -11,3 +11,7 @@ url: /cpp/aspose.words/shading/get_backgroundpatterncolor/
 
 Gets or sets the color that's applied to the background of the [Shading](./) object.
 
+```cpp
+System::Drawing::Color Aspose::Words::Shading::get_BackgroundPatternColor()
+```
+

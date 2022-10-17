@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/signatureline/set_allowcomments/
 
 Setter for [Aspose::Words::Drawing::SignatureLine::get_AllowComments](./get_allowcomments/).
 
+```cpp
+void Aspose::Words::Drawing::SignatureLine::set_AllowComments(bool value)
+```
+

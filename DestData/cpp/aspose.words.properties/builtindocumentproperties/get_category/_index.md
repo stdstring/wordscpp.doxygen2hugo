@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_category/
 
 Gets or sets the category of the document.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Category()
+```
+

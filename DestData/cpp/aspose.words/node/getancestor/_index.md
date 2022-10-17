@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/getancestor/
 
 Gets the first ancestor of the specified [NodeType](../nodetype/).
 
+```cpp
+System::SharedPtr<Aspose::Words::CompositeNode> Aspose::Words::Node::GetAncestor(Aspose::Words::NodeType ancestorType)
+```
+

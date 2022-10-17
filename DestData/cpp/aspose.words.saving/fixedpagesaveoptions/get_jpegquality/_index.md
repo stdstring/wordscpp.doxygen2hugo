@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_jpegquality/
 
 Gets or sets a value determining the quality of the JPEG images inside Html document.
 
+```cpp
+int32_t Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality() const
+```
+

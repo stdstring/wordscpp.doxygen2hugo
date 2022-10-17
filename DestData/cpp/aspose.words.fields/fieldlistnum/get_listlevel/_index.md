@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlistnum/get_listlevel/
 
 Gets or sets the level in the list, overriding the default behavior of the field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldListNum::get_ListLevel()
+```
+

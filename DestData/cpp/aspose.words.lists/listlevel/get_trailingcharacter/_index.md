@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_trailingcharacter/
 
 Returns or sets the character inserted after the number for the list level.
 
+```cpp
+Aspose::Words::Lists::ListTrailingCharacter Aspose::Words::Lists::ListLevel::get_TrailingCharacter() const
+```
+

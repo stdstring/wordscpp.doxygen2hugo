@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/get_headerfootertype/
 
 Gets the type of this header/footer.
 
+```cpp
+Aspose::Words::HeaderFooterType Aspose::Words::HeaderFooter::get_HeaderFooterType()
+```
+

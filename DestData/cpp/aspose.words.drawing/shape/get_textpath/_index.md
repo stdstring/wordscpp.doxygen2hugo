@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_textpath/
 
 Defines the text of the text path (of a WordArt object).
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::TextPath> Aspose::Words::Drawing::Shape::get_TextPath()
+```
+

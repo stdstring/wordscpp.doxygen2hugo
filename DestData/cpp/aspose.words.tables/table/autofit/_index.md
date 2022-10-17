@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/autofit/
 
 Resizes the table and cells according to the specified auto fit behavior.
 
+```cpp
+void Aspose::Words::Tables::Table::AutoFit(Aspose::Words::Tables::AutoFitBehavior behavior)
+```
+

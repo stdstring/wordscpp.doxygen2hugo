@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_fieldstart/
 
 Gets the node that represents the start of the field.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::FieldStart> Aspose::Words::Fields::Field::get_FieldStart() const
+```
+

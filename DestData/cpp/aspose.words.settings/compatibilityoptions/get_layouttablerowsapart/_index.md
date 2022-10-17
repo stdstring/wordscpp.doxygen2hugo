@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_layouttablerowsapart/
 
 Allow Table Rows to Wrap [Inline](../../aspose.words/inline/) Objects Independently.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_LayoutTableRowsApart()
+```
+

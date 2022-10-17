@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_scaling/
 
 Provides access to the scaling options of the axis.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::AxisScaling> Aspose::Words::Drawing::Charts::ChartAxis::get_Scaling()
+```
+

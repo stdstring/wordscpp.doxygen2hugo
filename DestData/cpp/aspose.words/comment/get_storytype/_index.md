@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_storytype/
 
 Returns **StoryType.Comments**.
 
+```cpp
+Aspose::Words::StoryType Aspose::Words::Comment::get_StoryType() override
+```
+

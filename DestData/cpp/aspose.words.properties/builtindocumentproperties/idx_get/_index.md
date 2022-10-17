@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/idx_get/
 
 Returns a [DocumentProperty](../documentproperty/) object by the name of the property.
 
+```cpp
+System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Properties::BuiltInDocumentProperties::idx_get(System::String name) override
+```
+

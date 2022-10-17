@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_otherpagestray/
 
 Sets the paper tray (bin) to be used for all but the first page of a section. The value is implementation (printer) specific.
 
+```cpp
+void Aspose::Words::PageSetup::set_OtherPagesTray(int32_t value)
+```
+

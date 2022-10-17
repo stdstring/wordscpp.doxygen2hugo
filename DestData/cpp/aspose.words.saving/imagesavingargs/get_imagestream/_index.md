@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesavingargs/get_imagestream/
 
 Allows to specify the stream where the image will be saved to.
 
+```cpp
+System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::ImageSavingArgs::get_ImageStream() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_accent6/
 
 Specifies color Accent 6.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Accent6()
+```
+

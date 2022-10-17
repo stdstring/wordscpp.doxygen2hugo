@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_distanceleft/
 
 Returns or sets the distance (in points) between the document text and the left edge of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_DistanceLeft()
+```
+

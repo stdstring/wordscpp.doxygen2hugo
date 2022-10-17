@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/set_firstrowcontainscolumnnames/
 
 Setter for [Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames](./get_firstrowcontainscolumnnames/).
 
+```cpp
+void Aspose::Words::Settings::Odso::set_FirstRowContainsColumnNames(bool value)
+```
+

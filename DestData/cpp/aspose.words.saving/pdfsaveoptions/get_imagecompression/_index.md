@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_imagecompression/
 
 Specifies compression type to be used for all images in the document.
 
+```cpp
+Aspose::Words::Saving::PdfImageCompression Aspose::Words::Saving::PdfSaveOptions::get_ImageCompression() const
+```
+

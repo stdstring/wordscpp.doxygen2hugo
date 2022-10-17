@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_emboss/
 
 Setter for [Aspose::Words::Font::get_Emboss](./get_emboss/).
 
+```cpp
+void Aspose::Words::Font::set_Emboss(bool value)
+```
+

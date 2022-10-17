@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/get_linksource/
 
 Gets the source of a linked custom document property.
 
+```cpp
+System::String Aspose::Words::Properties::DocumentProperty::get_LinkSource() const
+```
+

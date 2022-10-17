@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/get_value/
 
 The value.
 
+```cpp
+double Aspose::Words::Fields::MergeFieldImageDimension::get_Value() const
+```
+

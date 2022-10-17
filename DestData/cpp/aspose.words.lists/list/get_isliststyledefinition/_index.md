@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/list/get_isliststyledefinition/
 
 Returns true if this list is a definition of a list style.
 
+```cpp
+bool Aspose::Words::Lists::List::get_IsListStyleDefinition()
+```
+

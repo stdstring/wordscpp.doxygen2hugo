@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgreetingline/get_nameformat/
 
 Gets the format of the name included in the field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldGreetingLine::get_NameFormat()
+```
+

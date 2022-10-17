@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/get_sizeinpoints/
 
 Gets the actual size of the shape in points.
 
+```cpp
+System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints()
+```
+

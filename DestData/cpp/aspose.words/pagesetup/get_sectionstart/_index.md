@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_sectionstart/
 
 Returns or sets the type of section break for the specified object.
 
+```cpp
+Aspose::Words::SectionStart Aspose::Words::PageSetup::get_SectionStart()
+```
+

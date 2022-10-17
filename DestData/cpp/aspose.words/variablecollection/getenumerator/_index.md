@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/getenumerator/
 
 Returns an enumerator object that can be used to iterate over all variable in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::String>>> Aspose::Words::VariableCollection::GetEnumerator() override
+```
+

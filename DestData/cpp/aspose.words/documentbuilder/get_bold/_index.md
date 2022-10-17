@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_bold/
 
 True if the font is formatted as bold.
 
+```cpp
+bool Aspose::Words::DocumentBuilder::get_Bold()
+```
+

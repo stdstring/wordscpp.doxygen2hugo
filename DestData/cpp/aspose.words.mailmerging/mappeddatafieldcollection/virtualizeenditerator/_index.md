@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualizeenditerat
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeEndIterator() override
+```
+

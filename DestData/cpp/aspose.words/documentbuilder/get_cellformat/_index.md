@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_cellformat/
 
 Returns an object that represents current table cell formatting properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::CellFormat> Aspose::Words::DocumentBuilder::get_CellFormat()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_horizontalresolution/
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_HorizontalResolution](./get_horizontalresolution/).
 
+```cpp
+void Aspose::Words::Saving::ImageSaveOptions::set_HorizontalResolution(float value)
+```
+

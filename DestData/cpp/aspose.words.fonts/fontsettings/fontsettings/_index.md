@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsettings/fontsettings/
 
 
 
+```cpp
+Aspose::Words::Fonts::FontSettings::FontSettings()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/endrow/
 
 Ends a table row in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::DocumentBuilder::EndRow()
+```
+

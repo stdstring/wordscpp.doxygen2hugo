@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/virtualizebe
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeBeginConstIterator() const override
+```
+

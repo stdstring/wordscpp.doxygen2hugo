@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_cropleft/
 
 Defines the fraction of picture removal from the left side.
 
+```cpp
+double Aspose::Words::Drawing::ImageData::get_CropLeft()
+```
+

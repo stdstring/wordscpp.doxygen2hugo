@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblockcollection/toarray/
 
 Copies all building blocks from the collection to a new array of building blocks.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock>> Aspose::Words::BuildingBlocks::BuildingBlockCollection::ToArray()
+```
+

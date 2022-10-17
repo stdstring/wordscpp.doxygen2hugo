@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompartcollection/removeat/
 
 Removes an item at the specified index.
 
+```cpp
+void Aspose::Words::Markup::CustomPartCollection::RemoveAt(int32_t index)
+```
+

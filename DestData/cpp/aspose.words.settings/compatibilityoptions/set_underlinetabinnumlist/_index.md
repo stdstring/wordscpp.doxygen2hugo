@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_underlinetabinnumlist/
 
 Underline Following Character Following Numbering.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_UnderlineTabInNumList(bool value)
+```
+

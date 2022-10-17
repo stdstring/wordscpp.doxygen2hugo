@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_on/
 
 
 
+```cpp
+bool Aspose::Words::Drawing::Fill::get_On()
+```
+

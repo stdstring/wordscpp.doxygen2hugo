@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldskipif/get_rightexpression/
 
 Gets the right part of the comparison expression.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSkipIf::get_RightExpression()
+```
+

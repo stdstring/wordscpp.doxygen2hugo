@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_scalingfactor/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor](./get_scalingfactor/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_ScalingFactor(const System::String &value)
+```
+

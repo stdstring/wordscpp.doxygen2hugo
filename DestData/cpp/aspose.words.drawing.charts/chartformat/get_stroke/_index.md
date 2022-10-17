@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartformat/get_stroke/
 
 Gets line formatting for the parent chart element.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Stroke> Aspose::Words::Drawing::Charts::ChartFormat::get_Stroke()
+```
+

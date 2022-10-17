@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_showgrammaticalerrors/
 
 Setter for [Aspose::Words::Document::get_ShowGrammaticalErrors](./get_showgrammaticalerrors/).
 
+```cpp
+void Aspose::Words::Document::set_ShowGrammaticalErrors(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_revisionsview/
 
 Gets or sets a value indicating whether to work with the original or revised version of a document.
 
+```cpp
+Aspose::Words::RevisionsView Aspose::Words::Document::get_RevisionsView() const
+```
+

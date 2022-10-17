@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_isdecorative/
 
 Gets or sets the flag that specifies whether the shape is decorative in the document.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_IsDecorative()
+```
+

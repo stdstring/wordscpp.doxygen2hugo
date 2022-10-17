@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_screentip/
 
 Defines the text displayed when the mouse pointer moves over the shape.
 
+```cpp
+System::String Aspose::Words::Drawing::ShapeBase::get_ScreenTip()
+```
+

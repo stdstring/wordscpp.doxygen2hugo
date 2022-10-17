@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/get_relationshiptype/
 
 Gets or sets the relationship type from the parent part to this custom part.
 
+```cpp
+System::String Aspose::Words::Markup::CustomPart::get_RelationshipType() const
+```
+

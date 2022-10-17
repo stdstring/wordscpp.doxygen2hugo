@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/virtualizebeginiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeBeginIterator() override
+```
+

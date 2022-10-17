@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/clearformatting/
 
 Resets to default paragraph formatting.
 
+```cpp
+void Aspose::Words::ParagraphFormat::ClearFormatting()
+```
+

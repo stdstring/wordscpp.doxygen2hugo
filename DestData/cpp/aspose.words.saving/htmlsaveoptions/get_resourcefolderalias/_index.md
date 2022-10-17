@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_resourcefolderalias/
 
 Specifies the name of the folder used to construct URIs of all resources written into an HTML document. Default is an empty string.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_rotateletters/
 
 Determines whether the letters of the text are rotated.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_RotateLetters()
+```
+

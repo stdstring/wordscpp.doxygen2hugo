@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/reset/
 
 Moves the enumerator to the first page of the document.
 
+```cpp
+void Aspose::Words::Layout::LayoutEnumerator::Reset()
+```
+

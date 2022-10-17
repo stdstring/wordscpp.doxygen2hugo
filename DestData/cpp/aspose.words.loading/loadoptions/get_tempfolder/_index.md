@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_tempfolder/
 
 Allows to use temporary files when reading document. By default this property is **null** and no temporary files are used.
 
+```cpp
+System::String Aspose::Words::Loading::LoadOptions::get_TempFolder() const
+```
+

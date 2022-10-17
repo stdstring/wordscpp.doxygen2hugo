@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_list/
 
 Gets the list that defines formatting of this list style.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Style::get_List()
+```
+

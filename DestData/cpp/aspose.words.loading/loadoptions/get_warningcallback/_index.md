@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_warningcallback/
 
 Called during a load operation, when an issue is detected that might result in data or formatting fidelity loss.
 
+```cpp
+System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::Loading::LoadOptions::get_WarningCallback() const
+```
+

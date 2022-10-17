@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstop/get_alignment/
 
 Gets or sets the alignment of text at this tab stop.
 
+```cpp
+Aspose::Words::TabAlignment Aspose::Words::TabStop::get_Alignment() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmark/get_text/
 
 Gets or sets the text enclosed in the bookmark.
 
+```cpp
+System::String Aspose::Words::Bookmark::get_Text()
+```
+

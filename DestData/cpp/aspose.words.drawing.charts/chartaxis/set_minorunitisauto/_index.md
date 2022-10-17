@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunitisauto/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitIsAuto](./get_minorunitisauto/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitIsAuto(bool value)
+```
+

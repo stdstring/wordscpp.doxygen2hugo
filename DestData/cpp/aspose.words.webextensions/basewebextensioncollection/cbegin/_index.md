@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::cbegin() const noexcept
+```
+

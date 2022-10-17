@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatutil/contenttypetosaveformat/
 
 Converts IANA content type into a save format enumerated value.
 
+```cpp
+static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::ContentTypeToSaveFormat(const System::String &contentType)
+```
+

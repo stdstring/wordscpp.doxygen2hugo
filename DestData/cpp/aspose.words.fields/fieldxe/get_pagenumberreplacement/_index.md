@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/get_pagenumberreplacement/
 
 Gets or sets text used in place of a page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldXE::get_PageNumberReplacement()
+```
+

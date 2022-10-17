@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_manager/
 
 Gets or sets the manager property.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Manager()
+```
+

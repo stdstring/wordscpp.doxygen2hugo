@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldaddressblock/getfieldnames/
 
 Returns a collection of mail merge field names used by the field.
 
+```cpp
+System::ArrayPtr<System::String> Aspose::Words::Fields::FieldAddressBlock::GetFieldNames() override
+```
+

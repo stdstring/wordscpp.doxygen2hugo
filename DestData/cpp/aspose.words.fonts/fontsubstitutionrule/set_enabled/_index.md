@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsubstitutionrule/set_enabled/
 
 Setter for [Aspose::Words::Fonts::FontSubstitutionRule::get_Enabled](./get_enabled/).
 
+```cpp
+virtual void Aspose::Words::Fonts::FontSubstitutionRule::set_Enabled(bool value)
+```
+

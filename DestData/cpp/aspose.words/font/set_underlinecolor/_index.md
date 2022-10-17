@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_underlinecolor/
 
 Setter for [Aspose::Words::Font::get_UnderlineColor](./get_underlinecolor/).
 
+```cpp
+void Aspose::Words::Font::set_UnderlineColor(System::Drawing::Color value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_dropdownselectedindex/
 
 Gets or sets the index specifying the currently selected item in a dropdown form field.
 
+```cpp
+int32_t Aspose::Words::Fields::FormField::get_DropDownSelectedIndex()
+```
+

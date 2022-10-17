@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_islocked/
 
 Specifies whether the link to the OLE object is locked from updates.
 
+```cpp
+bool Aspose::Words::Drawing::OleFormat::get_IsLocked()
+```
+

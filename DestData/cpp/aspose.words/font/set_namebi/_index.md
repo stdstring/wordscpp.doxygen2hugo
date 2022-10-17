@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_namebi/
 
 Setter for [Aspose::Words::Font::get_NameBi](./get_namebi/).
 
+```cpp
+void Aspose::Words::Font::set_NameBi(const System::String &value)
+```
+

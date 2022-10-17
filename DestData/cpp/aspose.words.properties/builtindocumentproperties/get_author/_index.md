@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_author/
 
 Gets or sets the name of the document's author.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Author()
+```
+

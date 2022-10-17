@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_preserveformfields/
 
 Specifies whether to preserve Microsoft Word form fields as form fields in PDF or convert them to text. Default is **false**.
 
+```cpp
+bool Aspose::Words::Saving::PdfSaveOptions::get_PreserveFormFields() const
+```
+

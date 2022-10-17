@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/groupshape/groupshape/
 
 Creates a new group shape.
 
+```cpp
+Aspose::Words::Drawing::GroupShape::GroupShape(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

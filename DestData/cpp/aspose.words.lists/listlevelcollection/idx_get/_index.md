@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/idx_get/
 
 Gets a list level by index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListLevel> Aspose::Words::Lists::ListLevelCollection::idx_get(int32_t index)
+```
+

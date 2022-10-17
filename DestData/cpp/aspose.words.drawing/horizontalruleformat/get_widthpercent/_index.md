@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/get_widthpercent/
 
 Gets or sets the length of the specified horizontal rule expressed as a percentage of the window width.
 
+```cpp
+double Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/metered/getconsumptioncredit/
 
 Gets consumption credit.
 
+```cpp
+static System::Decimal Aspose::Words::Metered::GetConsumptionCredit()
+```
+

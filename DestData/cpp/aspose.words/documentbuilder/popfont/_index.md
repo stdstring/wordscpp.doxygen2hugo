@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/popfont/
 
 Retrieves character formatting previously saved on the stack.
 
+```cpp
+void Aspose::Words::DocumentBuilder::PopFont()
+```
+

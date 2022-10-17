@@ -11,3 +11,7 @@ url: /cpp/aspose.words/story/get_tables/
 
 Gets a collection of tables that are immediate children of the story.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::TableCollection> Aspose::Words::Story::get_Tables()
+```
+

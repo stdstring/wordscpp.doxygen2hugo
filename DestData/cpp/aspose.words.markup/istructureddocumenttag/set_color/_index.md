@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/set_color/
 
 Sets the color of the structured document tag.
 
+```cpp
+virtual void Aspose::Words::Markup::IStructuredDocumentTag::set_Color(System::Drawing::Color value)=0
+```
+

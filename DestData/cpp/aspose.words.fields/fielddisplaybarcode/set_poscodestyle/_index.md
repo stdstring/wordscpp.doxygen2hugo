@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_poscodestyle/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle](./get_poscodestyle/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_PosCodeStyle(const System::String &value)
+```
+

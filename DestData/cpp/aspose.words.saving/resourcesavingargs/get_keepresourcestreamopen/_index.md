@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/get_keepresourcestreamopen/
 
 Specifies whether Aspose.Words should keep the stream open or close it after saving a resource.
 
+```cpp
+bool Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen() const
+```
+

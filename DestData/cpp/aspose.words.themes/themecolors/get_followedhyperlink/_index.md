@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_followedhyperlink/
 
 Specifies color for a clicked hyperlink.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_FollowedHyperlink()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pssaveoptions/set_saveformat/
 
 Setter for [Aspose::Words::Saving::PsSaveOptions::get_SaveFormat](./get_saveformat/).
 
+```cpp
+void Aspose::Words::Saving::PsSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override
+```
+

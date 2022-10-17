@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludepicture/set_resizehorizontally/
 
 Setter for [Aspose::Words::Fields::FieldIncludePicture::get_ResizeHorizontally](./get_resizehorizontally/).
 
+```cpp
+void Aspose::Words::Fields::FieldIncludePicture::set_ResizeHorizontally(bool value)
+```
+

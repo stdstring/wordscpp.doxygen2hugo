@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/table/
 
 Initializes a new instance of the **Table** class.
 
+```cpp
+Aspose::Words::Tables::Table::Table(const System::SharedPtr<Aspose::Words::DocumentBase> &doc)
+```
+

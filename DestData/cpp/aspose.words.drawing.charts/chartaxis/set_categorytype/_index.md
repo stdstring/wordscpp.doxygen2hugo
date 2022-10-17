@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_categorytype/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType](./get_categorytype/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_CategoryType(Aspose::Words::Drawing::Charts::AxisCategoryType value)
+```
+

@@ -6,86 +6,66 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/save/
 ---
-## Document.Save method
+## Document.Save(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::SaveFormat) method
 
 
 Saves the document to a stream using the specified format.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: Saves the document to a stream using the specified save options. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/save/
----
-## Document.Save method
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(const System::SharedPtr<System::IO::Stream> &stream, Aspose::Words::SaveFormat saveFormat)
+```
+
+## Document.Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
 Saves the document to a stream using the specified save options.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: Saves the document to a file. Automatically determines the save format from the extension. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/save/
----
-## Document.Save method
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<Aspose::Words::Saving::SaveOptions> &saveOptions)
+```
+
+## Document.Save(const System::String\&) method
 
 
 Saves the document to a file. Automatically determines the save format from the extension.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: Saves the document to a file in the specified format. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/save/
----
-## Document.Save method
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(const System::String &fileName)
+```
+
+## Document.Save(const System::String\&, Aspose::Words::SaveFormat) method
 
 
 Saves the document to a file in the specified format.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: Saves the document to a file using the specified save options. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/save/
----
-## Document.Save method
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(const System::String &fileName, Aspose::Words::SaveFormat saveFormat)
+```
+
+## Document.Save(const System::String\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
 Saves the document to a file using the specified save options.
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/save/
----
-## Document.Save method
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(const System::String &fileName, const System::SharedPtr<Aspose::Words::Saving::SaveOptions> &saveOptions)
+```
+
+## Document.Save(std::basic_ostream\<CharType, Traits\>\&, Aspose::Words::SaveFormat) method
 
 
 
 
----
-title: Save
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/save/
----
-## Document.Save method
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, Aspose::Words::SaveFormat saveFormat)
+```
+
+## Document.Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>) method
 
 
 
+
+```cpp
+System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, System::SharedPtr<Aspose::Words::Saving::SaveOptions> saveOptions)
+```
 

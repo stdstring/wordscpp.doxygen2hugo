@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_italic/
 
 True if the font is formatted as italic.
 
+```cpp
+bool Aspose::Words::DocumentBuilder::get_Italic()
+```
+

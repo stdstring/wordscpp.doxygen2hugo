@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_preserveformfields/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_PreserveFormFields](./get_preserveformfields/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_PreserveFormFields(bool value)
+```
+

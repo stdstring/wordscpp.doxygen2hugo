@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_fontfamilyname/
 
 Indicates the current font family name.
 
+```cpp
+System::String Aspose::Words::Saving::FontSavingArgs::get_FontFamilyName() const
+```
+

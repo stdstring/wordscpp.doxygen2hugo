@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/set_saveformat/
 
 Setter for [Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat](./get_saveformat/).
 
+```cpp
+void Aspose::Words::Saving::RtfSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override
+```
+

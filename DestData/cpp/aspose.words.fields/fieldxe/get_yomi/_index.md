@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldxe/get_yomi/
 
 Gets or sets the yomi (first phonetic character for sorting indexes) for the index entry.
 
+```cpp
+System::String Aspose::Words::Fields::FieldXE::get_Yomi()
+```
+

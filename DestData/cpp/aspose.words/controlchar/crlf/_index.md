@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/crlf/
 
 Carriage return followed by line feed character: "\x000d\x000a" or "\r\n". Not used as such in Microsoft Word documents, but commonly used in text files for paragraph breaks.
 
+```cpp
+static System::String & Aspose::Words::ControlChar::CrLf()
+```
+

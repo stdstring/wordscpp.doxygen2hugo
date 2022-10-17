@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/generalformatcollection/add/
 
 Adds a general format to the collection.
 
+```cpp
+void Aspose::Words::Fields::GeneralFormatCollection::Add(Aspose::Words::Fields::GeneralFormat item)
+```
+

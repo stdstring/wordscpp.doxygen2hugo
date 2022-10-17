@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_borders/
 
 Gets collection of borders of the paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::ParagraphFormat::get_Borders()
+```
+

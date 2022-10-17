@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/clear/
 
 Clears all items from this collection.
 
+```cpp
+void Aspose::Words::Markup::SdtListItemCollection::Clear()
+```
+

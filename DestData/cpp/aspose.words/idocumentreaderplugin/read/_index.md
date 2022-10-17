@@ -11,3 +11,7 @@ url: /cpp/aspose.words/idocumentreaderplugin/read/
 
 Reads the data from the specified stream into the [Document](../document/) instance.
 
+```cpp
+virtual void Aspose::Words::IDocumentReaderPlugin::Read(System::SharedPtr<System::IO::Stream> src, System::SharedPtr<Aspose::Words::Loading::LoadOptions> loadOptions, System::SharedPtr<Aspose::Words::Document> document)=0
+```
+

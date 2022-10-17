@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/set_accent6/
 
 Setter for [Aspose::Words::Themes::ThemeColors::get_Accent6](./get_accent6/).
 
+```cpp
+void Aspose::Words::Themes::ThemeColors::set_Accent6(System::Drawing::Color value)
+```
+

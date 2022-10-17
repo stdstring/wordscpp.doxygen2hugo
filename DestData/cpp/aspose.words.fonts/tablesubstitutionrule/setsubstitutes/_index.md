@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/setsubstitutes/
 
 Override substitute font names for given original font name.
 
+```cpp
+void Aspose::Words::Fonts::TableSubstitutionRule::SetSubstitutes(const System::String &originalFontName, const System::ArrayPtr<System::String> &substituteFontNames)
+```
+

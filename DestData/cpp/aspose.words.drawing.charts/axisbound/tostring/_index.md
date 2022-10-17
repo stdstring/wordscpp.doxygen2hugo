@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/tostring/
 
 Returns a user-friendly string that displays the value of this object.
 
+```cpp
+System::String Aspose::Words::Drawing::Charts::AxisBound::ToString() const override
+```
+

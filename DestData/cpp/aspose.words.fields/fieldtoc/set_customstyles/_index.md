@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/set_customstyles/
 
 Setter for [Aspose::Words::Fields::FieldToc::get_CustomStyles](./get_customstyles/).
 
+```cpp
+void Aspose::Words::Fields::FieldToc::set_CustomStyles(const System::String &value)
+```
+

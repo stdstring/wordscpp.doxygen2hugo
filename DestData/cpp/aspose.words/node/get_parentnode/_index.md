@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/get_parentnode/
 
 Gets the immediate parent of this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::CompositeNode> Aspose::Words::Node::get_ParentNode()
+```
+

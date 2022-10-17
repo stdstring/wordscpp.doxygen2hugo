@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionreference/set_version/
 
 Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_Version](./get_version/).
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionReference::set_Version(const System::String &value)
+```
+

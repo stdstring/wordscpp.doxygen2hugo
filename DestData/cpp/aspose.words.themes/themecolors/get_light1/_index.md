@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_light1/
 
 Specifies color Light 1.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Light1()
+```
+

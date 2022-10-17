@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/frameset/set_framedefaulturl/
 
 Setter for [Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl](./get_framedefaulturl/).
 
+```cpp
+void Aspose::Words::Framesets::Frameset::set_FrameDefaultUrl(const System::String &value)
+```
+

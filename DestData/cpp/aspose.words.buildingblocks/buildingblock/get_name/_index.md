@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_name/
 
 Gets or sets the name of this building block.
 
+```cpp
+System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Name() const
+```
+

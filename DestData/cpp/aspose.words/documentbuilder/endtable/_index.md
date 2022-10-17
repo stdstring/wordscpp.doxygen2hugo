@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/endtable/
 
 Ends a table in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Table> Aspose::Words::DocumentBuilder::EndTable()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlSchemaCollection::Clear()
+```
+

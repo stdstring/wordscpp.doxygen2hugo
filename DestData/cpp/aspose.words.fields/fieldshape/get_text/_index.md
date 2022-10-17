@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldshape/get_text/
 
 Gets or sets the text to retrieve.
 
+```cpp
+System::String Aspose::Words::Fields::FieldShape::get_Text()
+```
+

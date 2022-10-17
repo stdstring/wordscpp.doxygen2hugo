@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/ipagelayoutcallback/notify/
 
 This is called to notify of layout build and rendering progress.
 
+```cpp
+virtual void Aspose::Words::Layout::IPageLayoutCallback::Notify(System::SharedPtr<Aspose::Words::Layout::PageLayoutCallbackArgs> args)=0
+```
+

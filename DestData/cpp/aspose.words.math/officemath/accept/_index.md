@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Math::OfficeMath::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

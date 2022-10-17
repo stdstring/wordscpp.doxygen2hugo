@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_movedfromtexteffect/
 
 Allows to specify the effect to be applied to the areas where content was moved from **Moving**. Default value is **DoubleStrikeThrough**
 
+```cpp
+Aspose::Words::Layout::RevisionTextEffect Aspose::Words::Layout::RevisionOptions::get_MovedFromTextEffect()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/iresourceloadingcallback/resourceloading/
 
 Called when Aspose.Words loads any external resource.
 
+```cpp
+virtual Aspose::Words::Loading::ResourceLoadingAction Aspose::Words::Loading::IResourceLoadingCallback::ResourceLoading(System::SharedPtr<Aspose::Words::Loading::ResourceLoadingArgs> args)=0
+```
+

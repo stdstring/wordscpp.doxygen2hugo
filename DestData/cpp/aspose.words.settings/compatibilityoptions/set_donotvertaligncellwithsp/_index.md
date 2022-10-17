@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotvertaligncellwiths
 
 Don't Vertically Align Cells Containing Floating Objects.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_DoNotVertAlignCellWithSp(bool value)
+```
+

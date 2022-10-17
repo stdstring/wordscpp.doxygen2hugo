@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pagerange/pagerange/
 
 Creates a new page range object.
 
+```cpp
+Aspose::Words::Saving::PageRange::PageRange(int32_t from, int32_t to)
+```
+

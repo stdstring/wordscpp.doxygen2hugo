@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_useinvariantculturenumberformat/
 
 Gets or sets the value indicating that number format is parsed using invariant culture or not.
 
+```cpp
+bool Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitsubdocument/
 
 Called when a subDocument is encountered.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSubDocument(System::SharedPtr<Aspose::Words::SubDocument> subDocument)
+```
+

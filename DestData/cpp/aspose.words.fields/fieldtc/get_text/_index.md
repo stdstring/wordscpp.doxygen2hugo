@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtc/get_text/
 
 Gets or sets the text of the entry.
 
+```cpp
+System::String Aspose::Words::Fields::FieldTC::get_Text()
+```
+

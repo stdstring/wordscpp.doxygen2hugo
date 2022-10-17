@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitsmarttagstart/
 
 Called when enumeration of a smart tag has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSmartTagStart(System::SharedPtr<Aspose::Words::Markup::SmartTag> smartTag)
+```
+

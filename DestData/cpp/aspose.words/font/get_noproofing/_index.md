@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_noproofing/
 
 True when the formatted characters are not to be spell checked.
 
+```cpp
+bool Aspose::Words::Font::get_NoProofing()
+```
+

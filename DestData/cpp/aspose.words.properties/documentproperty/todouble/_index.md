@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/todouble/
 
 Returns the property value as double.
 
+```cpp
+double Aspose::Words::Properties::DocumentProperty::ToDouble()
+```
+

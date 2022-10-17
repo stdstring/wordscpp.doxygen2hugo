@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_trackrevisions/
 
 **True** if changes are tracked when this document is edited in Microsoft Word.
 
+```cpp
+bool Aspose::Words::Document::get_TrackRevisions()
+```
+

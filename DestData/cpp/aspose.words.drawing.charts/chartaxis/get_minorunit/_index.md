@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_minorunit/
 
 Returns or sets the distance between minor tick marks.
 
+```cpp
+double Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnit()
+```
+

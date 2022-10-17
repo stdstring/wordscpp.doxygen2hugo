@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/pageinfo/get_heightinpoints/
 
 Gets the height of the page in points.
 
+```cpp
+float Aspose::Words::Rendering::PageInfo::get_HeightInPoints()
+```
+

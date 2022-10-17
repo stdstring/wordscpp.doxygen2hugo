@@ -11,3 +11,7 @@ url: /cpp/aspose.words/story/deleteshapes/
 
 Deletes all shapes from the text of this story.
 
+```cpp
+void Aspose::Words::Story::DeleteShapes()
+```
+

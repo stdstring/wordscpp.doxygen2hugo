@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblockcollection/idx_get/
 
 Retrieves a building block at the given index.
 
+```cpp
+System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::BuildingBlocks::BuildingBlockCollection::idx_get(int32_t index)
+```
+

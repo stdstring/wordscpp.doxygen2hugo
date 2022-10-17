@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listcollection/begin/
 ---
-## ListCollection.begin method
+## ListCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.lists/listcollection/begin/
----
-## ListCollection.begin method
+```cpp
+const_iterator Aspose::Words::Lists::ListCollection::begin() const noexcept
+```
+
+## ListCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::Lists::ListCollection::begin() noexcept
+```
 

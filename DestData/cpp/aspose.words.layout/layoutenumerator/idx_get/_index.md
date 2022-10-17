@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/idx_get/
 
 Gets a named property of the entity.
 
+```cpp
+System::SharedPtr<System::Object> Aspose::Words::Layout::LayoutEnumerator::idx_get(const System::String &key)
+```
+

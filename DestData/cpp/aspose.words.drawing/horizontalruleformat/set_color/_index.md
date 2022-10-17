@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/set_color/
 
 Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Color](./get_color/).
 
+```cpp
+void Aspose::Words::Drawing::HorizontalRuleFormat::set_Color(System::Drawing::Color value)
+```
+

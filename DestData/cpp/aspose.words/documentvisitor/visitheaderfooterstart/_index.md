@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitheaderfooterstart/
 
 Called when enumeration of a header or footer in a section has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitHeaderFooterStart(System::SharedPtr<Aspose::Words::HeaderFooter> headerFooter)
+```
+

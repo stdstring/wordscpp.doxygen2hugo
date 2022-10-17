@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsubject/set_text/
 
 Setter for [Aspose::Words::Fields::FieldSubject::get_Text](./get_text/).
 
+```cpp
+void Aspose::Words::Fields::FieldSubject::set_Text(const System::String &value)
+```
+

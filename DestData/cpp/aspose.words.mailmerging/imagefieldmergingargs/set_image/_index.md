@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_image/
 
 Specifies the image that the mail merge engine must insert into the document.
 
+```cpp
+void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Image(const System::SharedPtr<System::Drawing::Image> &value)
+```
+

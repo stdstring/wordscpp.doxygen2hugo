@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisioncollection/getenumerator/
 
 Returns an enumerator object.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Revision>>> Aspose::Words::RevisionCollection::GetEnumerator() override
+```
+

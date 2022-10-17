@@ -11,3 +11,7 @@ url: /cpp/aspose.words/watermark/get_type/
 
 Gets the watermark type.
 
+```cpp
+Aspose::Words::WatermarkType Aspose::Words::Watermark::get_Type()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsuppressindentatio
 
 Do Not Ignore Floating Objects When Calculating [Paragraph](../../aspose.words/paragraph/) Indentation.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressIndentation()
+```
+

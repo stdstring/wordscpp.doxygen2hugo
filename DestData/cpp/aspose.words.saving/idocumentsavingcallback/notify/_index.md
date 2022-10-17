@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/idocumentsavingcallback/notify/
 
 This is called to notify of document saving progress.
 
+```cpp
+virtual void Aspose::Words::Saving::IDocumentSavingCallback::Notify(System::SharedPtr<Aspose::Words::Saving::DocumentSavingArgs> args)=0
+```
+

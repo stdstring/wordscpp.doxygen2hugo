@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_position/
 
 Setter for [Aspose::Words::Font::get_Position](./get_position/).
 
+```cpp
+void Aspose::Words::Font::set_Position(double value)
+```
+

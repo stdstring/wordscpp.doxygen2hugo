@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldchar/get_fieldtype/
 
 Returns the type of the field.
 
+```cpp
+Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldChar::get_FieldType() const
+```
+

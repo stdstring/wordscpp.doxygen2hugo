@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/ireplacingcallback/replacing/
 
 A user defined method that is called during a replace operation for each match found just before a replace is made.
 
+```cpp
+virtual Aspose::Words::Replacing::ReplaceAction Aspose::Words::Replacing::IReplacingCallback::Replacing(System::SharedPtr<Aspose::Words::Replacing::ReplacingArgs> args)=0
+```
+

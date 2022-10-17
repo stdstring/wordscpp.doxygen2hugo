@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitem/get_displaytext/
 
 Gets the text to display in the run content in place of the [Value](./get_value/) attribute contents for this list item.
 
+```cpp
+System::String Aspose::Words::Markup::SdtListItem::get_DisplayText() const
+```
+

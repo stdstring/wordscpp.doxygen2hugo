@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_papercolor/
 
 Gets or sets the background (paper) color for the generated images. The default value is **White**.
 
+```cpp
+System::Drawing::Color Aspose::Words::Saving::ImageSaveOptions::get_PaperColor()
+```
+

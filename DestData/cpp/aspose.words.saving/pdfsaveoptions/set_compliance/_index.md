@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_compliance/
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_Compliance](./get_compliance/).
 
+```cpp
+void Aspose::Words::Saving::PdfSaveOptions::set_Compliance(Aspose::Words::Saving::PdfCompliance value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_dashstyle/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_DashStyle](./get_dashstyle/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_DashStyle(Aspose::Words::Drawing::DashStyle value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_ownstatus/
 
 Specifies the source of the text that's displayed in the status bar when a form field has the focus.
 
+```cpp
+bool Aspose::Words::Fields::FormField::get_OwnStatus()
+```
+

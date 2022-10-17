@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_boundsinpoints/
 
 Gets the location and size of the containing block of the shape in points, relative to the anchor of the topmost shape.
 
+```cpp
+System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_BoundsInPoints()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_title/
 
 Gets or sets title of this table. It provides an alternative text representation of the information contained in the table.
 
+```cpp
+System::String Aspose::Words::Tables::Table::get_Title()
+```
+

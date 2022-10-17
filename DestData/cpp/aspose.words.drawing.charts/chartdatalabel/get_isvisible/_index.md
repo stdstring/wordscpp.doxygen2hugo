@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_isvisible/
 
 Returns true if this data label has something to display.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsVisible()
+```
+

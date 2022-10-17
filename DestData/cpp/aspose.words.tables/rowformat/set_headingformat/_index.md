@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowformat/set_headingformat/
 
 Setter for [Aspose::Words::Tables::RowFormat::get_HeadingFormat](./get_headingformat/).
 
+```cpp
+void Aspose::Words::Tables::RowFormat::set_HeadingFormat(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/get_barcodevalue/
 
 Data to be encoded.
 
+```cpp
+System::String Aspose::Words::Fields::BarcodeParameters::get_BarcodeValue() const
+```
+

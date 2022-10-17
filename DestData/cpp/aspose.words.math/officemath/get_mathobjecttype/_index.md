@@ -11,3 +11,7 @@ url: /cpp/aspose.words.math/officemath/get_mathobjecttype/
 
 Gets type [MathObjectType](./get_mathobjecttype/) of this Office [Math](../) object.
 
+```cpp
+Aspose::Words::Math::MathObjectType Aspose::Words::Math::OfficeMath::get_MathObjectType() const
+```
+

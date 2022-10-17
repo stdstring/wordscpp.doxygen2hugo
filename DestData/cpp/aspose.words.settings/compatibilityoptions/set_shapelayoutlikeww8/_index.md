@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_shapelayoutlikeww8/
 
 Emulate Word 97 Text Wrapping Around Floating Objects.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_ShapeLayoutLikeWW8(bool value)
+```
+

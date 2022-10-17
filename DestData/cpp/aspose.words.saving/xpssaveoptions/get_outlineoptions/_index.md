@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/xpssaveoptions/get_outlineoptions/
 
 Allows to specify outline options.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::OutlineOptions> Aspose::Words::Saving::XpsSaveOptions::get_OutlineOptions() const
+```
+

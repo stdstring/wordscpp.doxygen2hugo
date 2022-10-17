@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/clear/
 
 Clears contents of this structured document tag and displays a placeholder if it is defined.
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::Clear()
+```
+

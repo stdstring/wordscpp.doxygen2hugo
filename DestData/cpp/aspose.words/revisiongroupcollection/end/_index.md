@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/revisiongroupcollection/end/
 ---
-## RevisionGroupCollection.end method
+## RevisionGroupCollection.end() const method
 
 
 
 
----
-title: end
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/revisiongroupcollection/end/
----
-## RevisionGroupCollection.end method
+```cpp
+const_iterator Aspose::Words::RevisionGroupCollection::end() const noexcept
+```
+
+## RevisionGroupCollection.end() method
 
 
 
+
+```cpp
+iterator Aspose::Words::RevisionGroupCollection::end() noexcept
+```
 

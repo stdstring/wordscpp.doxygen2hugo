@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_builtindocumentproperties/
 
 Returns a collection that represents all the built-in document properties of the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Properties::BuiltInDocumentProperties> Aspose::Words::Document::get_BuiltInDocumentProperties() const
+```
+

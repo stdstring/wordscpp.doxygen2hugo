@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/get_altname/
 
 Gets or sets the alternate name for the font.
 
+```cpp
+System::String Aspose::Words::Fonts::FontInfo::get_AltName() const
+```
+

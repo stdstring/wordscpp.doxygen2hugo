@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/getoleentry/
 
 Gets OLE object data entry.
 
+```cpp
+System::SharedPtr<System::IO::MemoryStream> Aspose::Words::Drawing::OleFormat::GetOleEntry(const System::String &oleEntryName)
+```
+

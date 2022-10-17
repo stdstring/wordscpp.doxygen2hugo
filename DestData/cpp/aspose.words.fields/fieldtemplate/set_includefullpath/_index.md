@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtemplate/set_includefullpath/
 
 Setter for [Aspose::Words::Fields::FieldTemplate::get_IncludeFullPath](./get_includefullpath/).
 
+```cpp
+void Aspose::Words::Fields::FieldTemplate::set_IncludeFullPath(bool value)
+```
+

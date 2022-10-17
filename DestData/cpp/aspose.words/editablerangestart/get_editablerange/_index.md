@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerangestart/get_editablerange/
 
 Gets the facade object that encapsulates this editable range start and end.
 
+```cpp
+System::SharedPtr<Aspose::Words::EditableRange> Aspose::Words::EditableRangeStart::get_EditableRange()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cbegin() const noexcept
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/cleanupoptions/cleanupoptions/
 
 
 
+```cpp
+Aspose::Words::CleanupOptions::CleanupOptions()
+```
+

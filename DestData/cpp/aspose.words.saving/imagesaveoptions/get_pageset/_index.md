@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_pageset/
 
 Gets or sets the pages to render. Default is all the pages in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::PageSet> Aspose::Words::Saving::ImageSaveOptions::get_PageSet()
+```
+

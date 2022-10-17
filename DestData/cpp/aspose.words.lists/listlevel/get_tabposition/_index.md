@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_tabposition/
 
 Returns or sets the tab position (in points) for the list level.
 
+```cpp
+double Aspose::Words::Lists::ListLevel::get_TabPosition() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_styleidentifier/
 
 Gets or sets the locale independent style identifier of the paragraph style applied to this formatting.
 
+```cpp
+Aspose::Words::StyleIdentifier Aspose::Words::ParagraphFormat::get_StyleIdentifier()
+```
+

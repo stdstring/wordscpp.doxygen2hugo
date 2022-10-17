@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/add/
 
 Adds an object to the end of this collection.
 
+```cpp
+int32_t Aspose::Words::Settings::OdsoFieldMapDataCollection::Add(const System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData> &value)
+```
+

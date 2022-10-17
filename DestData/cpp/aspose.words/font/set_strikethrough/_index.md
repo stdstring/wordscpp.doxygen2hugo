@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_strikethrough/
 
 Setter for [Aspose::Words::Font::get_StrikeThrough](./get_strikethrough/).
 
+```cpp
+void Aspose::Words::Font::set_StrikeThrough(bool value)
+```
+

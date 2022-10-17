@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_footerdistance/
 
 Returns or sets the distance (in points) between the footer and the bottom of the page.
 
+```cpp
+double Aspose::Words::PageSetup::get_FooterDistance()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_createdtime/
 
 Gets or sets date of the document creation in UTC.
 
+```cpp
+System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime()
+```
+

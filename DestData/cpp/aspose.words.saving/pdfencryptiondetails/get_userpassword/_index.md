@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfencryptiondetails/get_userpassword/
 
 Specifies the user password required for opening the encrypted PDF document.
 
+```cpp
+System::String Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword() const
+```
+

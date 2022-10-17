@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/set_insertasrtf/
 
 Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsRtf](./get_insertasrtf/).
 
+```cpp
+void Aspose::Words::Fields::FieldLink::set_InsertAsRtf(bool value)
+```
+

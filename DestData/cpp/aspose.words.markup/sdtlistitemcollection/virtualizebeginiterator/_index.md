@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/virtualizebeginiterator/
 
 
 
+```cpp
+virtualized_iterator * Aspose::Words::Markup::SdtListItemCollection::virtualizeBeginIterator() override
+```
+

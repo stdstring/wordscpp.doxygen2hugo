@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/expandtablestylestodirectformatting/
 
 Converts formatting specified in table styles into direct formatting on tables in the document.
 
+```cpp
+void Aspose::Words::Document::ExpandTableStylesToDirectFormatting()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_fontsettings/
 
 Setter for [Aspose::Words::Document::get_FontSettings](./get_fontsettings/).
 
+```cpp
+void Aspose::Words::Document::set_FontSettings(const System::SharedPtr<Aspose::Words::Fonts::FontSettings> &value)
+```
+

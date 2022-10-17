@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_shading/
 
 Returns a [Shading](../shading/) object that refers to the shading formatting for the paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::Shading> Aspose::Words::ParagraphFormat::get_Shading()
+```
+

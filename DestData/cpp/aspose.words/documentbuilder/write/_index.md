@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/write/
 
 Inserts a string into the document at the current insert position.
 
+```cpp
+void Aspose::Words::DocumentBuilder::Write(const System::String &text)
+```
+

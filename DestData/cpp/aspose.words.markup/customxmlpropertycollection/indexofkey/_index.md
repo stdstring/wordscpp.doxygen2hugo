@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/indexofkey/
 
 Returns the zero-based index of the specified property in the collection.
 
+```cpp
+int32_t Aspose::Words::Markup::CustomXmlPropertyCollection::IndexOfKey(const System::String &name)
+```
+

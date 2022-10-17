@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/get_fontfilename/
 
 Gets or sets the file name (without path) where the font will be saved to.
 
+```cpp
+System::String Aspose::Words::Saving::FontSavingArgs::get_FontFileName() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_linenumberrestartmode/
 
 Gets or sets the way line numbering runs that is, whether it starts over at the beginning of a new page or section or runs continuously.
 
+```cpp
+Aspose::Words::LineNumberRestartMode Aspose::Words::PageSetup::get_LineNumberRestartMode()
+```
+

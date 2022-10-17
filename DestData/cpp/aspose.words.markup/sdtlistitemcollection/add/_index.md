@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/add/
 
 Adds an item to this collection.
 
+```cpp
+void Aspose::Words::Markup::SdtListItemCollection::Add(const System::SharedPtr<Aspose::Words::Markup::SdtListItem> &item)
+```
+

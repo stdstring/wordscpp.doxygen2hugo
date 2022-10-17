@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitrun/
 
 Called when a run of text in the is encountered.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitRun(System::SharedPtr<Aspose::Words::Run> run)
+```
+

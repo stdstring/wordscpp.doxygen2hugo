@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_doublestrikethrough/
 
 Setter for [Aspose::Words::Font::get_DoubleStrikeThrough](./get_doublestrikethrough/).
 
+```cpp
+void Aspose::Words::Font::set_DoubleStrikeThrough(bool value)
+```
+

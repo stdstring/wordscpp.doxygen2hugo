@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/getenumerator/
 
 Returns an enumerator that iterates through the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Drawing::GradientStop>>> Aspose::Words::Drawing::GradientStopCollection::GetEnumerator() override
+```
+

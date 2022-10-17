@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_distancebottom/
 
 Gets distance between table bottom and the surrounding text, in points.
 
+```cpp
+double Aspose::Words::Tables::Table::get_DistanceBottom()
+```
+

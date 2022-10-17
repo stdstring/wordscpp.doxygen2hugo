@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/nonbreakingspace/
 
 Non-breaking space character: "\x00a0".
 
+```cpp
+static System::String & Aspose::Words::ControlChar::NonBreakingSpace()
+```
+

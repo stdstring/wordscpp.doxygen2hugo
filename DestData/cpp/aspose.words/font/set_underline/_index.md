@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_underline/
 
 Setter for [Aspose::Words::Font::get_Underline](./get_underline/).
 
+```cpp
+void Aspose::Words::Font::set_Underline(Aspose::Words::Underline value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/get_listindentation/
 
 Gets a ListIndentation object that specifies how many and which character to use for indentation of list levels. By default it is zero count of character '\0', that means no indentation.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::TxtListIndentation> Aspose::Words::Saving::TxtSaveOptions::get_ListIndentation() const
+```
+

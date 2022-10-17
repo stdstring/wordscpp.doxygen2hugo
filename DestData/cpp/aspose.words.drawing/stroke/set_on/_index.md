@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_on/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_On](./get_on/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_On(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_document/
 
 Gets document.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Document> & Aspose::Words::Layout::PageLayoutCallbackArgs::get_Document() const
+```
+

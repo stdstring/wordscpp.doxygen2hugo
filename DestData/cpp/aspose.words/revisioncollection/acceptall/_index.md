@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisioncollection/acceptall/
 
 Accepts all revisions in this collection.
 
+```cpp
+void Aspose::Words::RevisionCollection::AcceptAll()
+```
+

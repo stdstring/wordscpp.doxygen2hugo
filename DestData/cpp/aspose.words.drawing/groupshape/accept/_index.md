@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/groupshape/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Drawing::GroupShape::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_target/
 
 Gets or sets the target frame for the shape hyperlink.
 
+```cpp
+System::String Aspose::Words::Drawing::ShapeBase::get_Target()
+```
+

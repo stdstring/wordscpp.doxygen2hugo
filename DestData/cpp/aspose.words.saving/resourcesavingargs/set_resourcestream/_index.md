@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcestream/
 ---
-## ResourceSavingArgs.set_ResourceStream method
+## ResourceSavingArgs.set_ResourceStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream](./get_resourcestream/).
 
----
-title: set_ResourceStream
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcestream/
----
-## ResourceSavingArgs.set_ResourceStream method
+```cpp
+void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream(const System::SharedPtr<System::IO::Stream> &value)
+```
+
+## ResourceSavingArgs.set_ResourceStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 
+
+```cpp
+void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream(std::basic_ostream<CharType, Traits> &value)
+```
 

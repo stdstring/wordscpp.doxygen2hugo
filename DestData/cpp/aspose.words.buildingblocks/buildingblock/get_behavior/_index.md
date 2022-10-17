@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_behavior/
 
 Specifies the behavior that shall be applied when the contents of the building block is inserted into the main document.
 
+```cpp
+Aspose::Words::BuildingBlocks::BuildingBlockBehavior Aspose::Words::BuildingBlocks::BuildingBlock::get_Behavior() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/get_group/
 
 Gets the revision group. Returns null if the revision does not belong to any group.
 
+```cpp
+System::SharedPtr<Aspose::Words::RevisionGroup> Aspose::Words::Revision::get_Group()
+```
+

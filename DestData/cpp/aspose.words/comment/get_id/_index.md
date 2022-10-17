@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_id/
 
 Gets the comment identifier.
 
+```cpp
+int32_t Aspose::Words::Comment::get_Id() const
+```
+

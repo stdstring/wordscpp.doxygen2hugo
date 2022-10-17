@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitfieldstart/
 
 Called when a field starts in the document.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldStart(System::SharedPtr<Aspose::Words::Fields::FieldStart> fieldStart)
+```
+

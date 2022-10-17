@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisiongroup/get_author/
 
 Gets the author of this revision group.
 
+```cpp
+System::String Aspose::Words::RevisionGroup::get_Author()
+```
+

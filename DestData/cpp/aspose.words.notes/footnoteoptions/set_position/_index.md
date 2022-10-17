@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/set_position/
 
 Setter for [Aspose::Words::Notes::FootnoteOptions::get_Position](./get_position/).
 
+```cpp
+void Aspose::Words::Notes::FootnoteOptions::set_Position(Aspose::Words::Notes::FootnotePosition value)
+```
+

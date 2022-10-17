@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/get_buildingblocks/
 
 Returns a typed collection that represents all building blocks in the glossary document.
 
+```cpp
+System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlockCollection> Aspose::Words::BuildingBlocks::GlossaryDocument::get_BuildingBlocks()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_disableopentypefontform
 
 
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_DisableOpenTypeFontFormattingFeatures()
+```
+

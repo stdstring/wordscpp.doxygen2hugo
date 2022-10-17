@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/idx_set/
 
 Gets or sets the element at the specified index.
 
+```cpp
+void Aspose::Words::Fields::DropDownItemCollection::idx_set(int32_t index, const System::String &value)
+```
+

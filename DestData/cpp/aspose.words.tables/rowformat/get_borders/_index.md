@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowformat/get_borders/
 
 Gets the collection of default cell borders for the row.
 
+```cpp
+System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::Tables::RowFormat::get_Borders()
+```
+

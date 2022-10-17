@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/set_gallery/
 
 Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Gallery](./get_gallery/).
 
+```cpp
+void Aspose::Words::BuildingBlocks::BuildingBlock::set_Gallery(Aspose::Words::BuildingBlocks::BuildingBlockGallery value)
+```
+

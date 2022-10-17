@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/comparisonevaluationresult/get_errormessage/
 
 Gets the failed comparison evaluation result's error message.
 
+```cpp
+System::String Aspose::Words::Fields::ComparisonEvaluationResult::get_ErrorMessage() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_exitmacro/
 
 Setter for [Aspose::Words::Fields::FormField::get_ExitMacro](./get_exitmacro/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_ExitMacro(const System::String &value)
+```
+

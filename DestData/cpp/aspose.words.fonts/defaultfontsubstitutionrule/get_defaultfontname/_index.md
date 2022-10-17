@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/defaultfontsubstitutionrule/get_defaultfontname/
 
 Gets or sets the default font name.
 
+```cpp
+System::String Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName()
+```
+

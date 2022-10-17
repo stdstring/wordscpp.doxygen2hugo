@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/csssavingargs/set_keepcssstreamopen/
 
 Setter for [Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen](./get_keepcssstreamopen/).
 
+```cpp
+void Aspose::Words::Saving::CssSavingArgs::set_KeepCssStreamOpen(bool value)
+```
+

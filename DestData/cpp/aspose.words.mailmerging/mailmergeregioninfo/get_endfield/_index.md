@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_endfield/
 
 Returns an end field for the region.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::FieldMergeField> & Aspose::Words::MailMerging::MailMergeRegionInfo::get_EndField() const
+```
+

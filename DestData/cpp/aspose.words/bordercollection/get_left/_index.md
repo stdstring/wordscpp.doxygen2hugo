@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bordercollection/get_left/
 
 Gets the left border.
 
+```cpp
+System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::get_Left()
+```
+

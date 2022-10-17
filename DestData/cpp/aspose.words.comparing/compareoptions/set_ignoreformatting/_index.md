@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/set_ignoreformatting/
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting](./get_ignoreformatting/).
 
+```cpp
+void Aspose::Words::Comparing::CompareOptions::set_IgnoreFormatting(bool value)
+```
+

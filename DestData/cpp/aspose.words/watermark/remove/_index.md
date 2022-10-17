@@ -11,3 +11,7 @@ url: /cpp/aspose.words/watermark/remove/
 
 Removes the watermark.
 
+```cpp
+void Aspose::Words::Watermark::Remove()
+```
+

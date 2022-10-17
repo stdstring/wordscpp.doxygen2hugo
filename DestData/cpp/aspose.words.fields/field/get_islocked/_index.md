@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_islocked/
 
 Gets or sets whether the field is locked (should not recalculate its result).
 
+```cpp
+bool Aspose::Words::Fields::Field::get_IsLocked()
+```
+

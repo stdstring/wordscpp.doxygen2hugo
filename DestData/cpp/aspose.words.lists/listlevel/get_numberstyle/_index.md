@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_numberstyle/
 
 Returns or sets the number style for this list level.
 
+```cpp
+Aspose::Words::NumberStyle Aspose::Words::Lists::ListLevel::get_NumberStyle() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_mswversion/
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_MswVersion](./get_mswversion/).
 
+```cpp
+void Aspose::Words::Loading::LoadOptions::set_MswVersion(Aspose::Words::Settings::MsWordVersion value)
+```
+

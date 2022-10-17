@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_vbaproject/
 
 Gets or sets a [VbaProject](./get_vbaproject/).
 
+```cpp
+System::SharedPtr<Aspose::Words::Vba::VbaProject> Aspose::Words::Document::get_VbaProject() const
+```
+

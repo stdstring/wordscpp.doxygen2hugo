@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangeend/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::Markup::StructuredDocumentTagRangeEnd::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

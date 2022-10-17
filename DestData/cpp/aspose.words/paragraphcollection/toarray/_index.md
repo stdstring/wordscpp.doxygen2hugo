@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphcollection/toarray/
 
 Copies all paragraphs from the collection to a new array of paragraphs.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Paragraph>> Aspose::Words::ParagraphCollection::ToArray()
+```
+

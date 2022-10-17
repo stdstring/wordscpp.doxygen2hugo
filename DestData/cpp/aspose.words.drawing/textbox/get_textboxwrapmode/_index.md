@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/get_textboxwrapmode/
 
 Determines how text wraps inside a shape.
 
+```cpp
+Aspose::Words::Drawing::TextBoxWrapMode Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode()
+```
+

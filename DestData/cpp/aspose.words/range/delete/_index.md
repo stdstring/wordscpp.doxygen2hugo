@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/delete/
 
 Deletes all characters of the range.
 
+```cpp
+void Aspose::Words::Range::Delete()
+```
+

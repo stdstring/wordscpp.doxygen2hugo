@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_chapterpageseparator/
 
 Gets the separator character that appears between the chapter number and the page number.
 
+```cpp
+Aspose::Words::ChapterPageSeparator Aspose::Words::PageSetup::get_ChapterPageSeparator()
+```
+

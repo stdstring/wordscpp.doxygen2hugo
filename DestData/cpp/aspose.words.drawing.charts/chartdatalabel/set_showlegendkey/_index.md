@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showlegendkey/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowLegendKey](./get_showlegendkey/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowLegendKey(bool value)
+```
+

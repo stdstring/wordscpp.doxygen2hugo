@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/setcount/
 
 Arranges text into the specified number of text columns.
 
+```cpp
+void Aspose::Words::TextColumnCollection::SetCount(int32_t newCount)
+```
+

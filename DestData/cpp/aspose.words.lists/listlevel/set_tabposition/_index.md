@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/set_tabposition/
 
 Setter for [Aspose::Words::Lists::ListLevel::get_TabPosition](./get_tabposition/).
 
+```cpp
+void Aspose::Words::Lists::ListLevel::set_TabPosition(double value)
+```
+

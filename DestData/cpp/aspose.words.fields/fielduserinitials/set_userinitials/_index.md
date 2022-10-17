@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielduserinitials/set_userinitials/
 
 Setter for [Aspose::Words::Fields::FieldUserInitials::get_UserInitials](./get_userinitials/).
 
+```cpp
+void Aspose::Words::Fields::FieldUserInitials::set_UserInitials(const System::String &value)
+```
+

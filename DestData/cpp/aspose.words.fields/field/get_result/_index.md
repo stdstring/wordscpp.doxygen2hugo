@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_result/
 
 Gets or sets text that is between the field separator and field end.
 
+```cpp
+System::String Aspose::Words::Fields::Field::get_Result()
+```
+

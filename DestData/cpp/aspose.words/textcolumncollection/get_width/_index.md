@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumncollection/get_width/
 
 When columns are evenly spaced, gets the width of the columns.
 
+```cpp
+double Aspose::Words::TextColumnCollection::get_Width()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_isansi/
 
 Gets or sets whether the character code is interpreted as the value of an ANSI character.
 
+```cpp
+bool Aspose::Words::Fields::FieldSymbol::get_IsAnsi()
+```
+

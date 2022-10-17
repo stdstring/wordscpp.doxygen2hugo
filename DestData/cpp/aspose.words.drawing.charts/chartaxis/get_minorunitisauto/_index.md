@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_minorunitisauto/
 
 Gets or sets a flag indicating whether default distance between minor tick marks shall be used.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitIsAuto()
+```
+

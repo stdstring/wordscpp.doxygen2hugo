@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/getrawdata/
 
 Gets OLE object raw data.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Drawing::OleFormat::GetRawData()
+```
+

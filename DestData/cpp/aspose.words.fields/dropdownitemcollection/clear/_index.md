@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::Fields::DropDownItemCollection::Clear()
+```
+

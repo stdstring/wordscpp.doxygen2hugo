@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatinfo/get_isencrypted/
 
 Returns true if the document is encrypted and requires a password to open.
 
+```cpp
+bool Aspose::Words::FileFormatInfo::get_IsEncrypted() const
+```
+

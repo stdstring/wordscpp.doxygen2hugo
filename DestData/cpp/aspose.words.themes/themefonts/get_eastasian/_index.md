@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themefonts/get_eastasian/
 
 Specifies font name for EastAsian characters.
 
+```cpp
+System::String Aspose::Words::Themes::ThemeFonts::get_EastAsian()
+```
+

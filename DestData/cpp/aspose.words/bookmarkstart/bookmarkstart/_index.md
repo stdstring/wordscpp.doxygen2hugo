@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkstart/bookmarkstart/
 
 Initializes a new instance of the [BookmarkStart](./) class.
 
+```cpp
+Aspose::Words::BookmarkStart::BookmarkStart(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, const System::String &name)
+```
+

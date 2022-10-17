@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/rowformat/get_heightrule/
 
 Gets or sets the rule for determining the height of the table row.
 
+```cpp
+Aspose::Words::HeightRule Aspose::Words::Tables::RowFormat::get_HeightRule()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdatingcallback/
 
 Gets [IFieldUpdatingCallback](../ifieldupdatingcallback/) implementation.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::IFieldUpdatingCallback> & Aspose::Words::Fields::FieldOptions::get_FieldUpdatingCallback() const
+```
+

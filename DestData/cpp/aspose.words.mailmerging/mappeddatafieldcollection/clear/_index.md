@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/clear/
 
 Removes all elements from the collection.
 
+```cpp
+void Aspose::Words::MailMerging::MappedDataFieldCollection::Clear()
+```
+

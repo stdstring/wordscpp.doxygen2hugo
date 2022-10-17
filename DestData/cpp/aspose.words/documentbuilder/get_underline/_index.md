@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_underline/
 
 Gets/sets underline type for the current font.
 
+```cpp
+Aspose::Words::Underline Aspose::Words::DocumentBuilder::get_Underline()
+```
+

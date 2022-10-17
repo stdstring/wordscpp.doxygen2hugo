@@ -11,3 +11,7 @@ url: /cpp/aspose.words/signaturelineoptions/set_email/
 
 Setter for [Aspose::Words::SignatureLineOptions::get_Email](./get_email/).
 
+```cpp
+void Aspose::Words::SignatureLineOptions::set_Email(const System::String &value)
+```
+

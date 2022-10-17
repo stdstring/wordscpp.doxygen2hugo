@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/memoryfontsource/get_cachekey/
 
 The key of this source in the cache.
 
+```cpp
+System::String Aspose::Words::Fonts::MemoryFontSource::get_CacheKey() const
+```
+

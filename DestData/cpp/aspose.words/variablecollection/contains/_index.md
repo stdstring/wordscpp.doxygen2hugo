@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/contains/
 
 Determines whether the collection contains a document variable with the given name.
 
+```cpp
+bool Aspose::Words::VariableCollection::Contains(const System::String &name)
+```
+

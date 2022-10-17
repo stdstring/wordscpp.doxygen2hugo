@@ -11,3 +11,7 @@ url: /cpp/aspose.words/shading/set_texture/
 
 Setter for [Aspose::Words::Shading::get_Texture](./get_texture/).
 
+```cpp
+void Aspose::Words::Shading::set_Texture(Aspose::Words::TextureIndex value)
+```
+

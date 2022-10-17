@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_textpathalignment/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_TextPathAlignment](./get_textpathalignment/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_TextPathAlignment(Aspose::Words::Drawing::TextPathAlignment value)
+```
+

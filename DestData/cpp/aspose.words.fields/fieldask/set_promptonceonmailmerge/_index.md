@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldask/set_promptonceonmailmerge/
 
 Sets whether the user response should be recieved once per a mail merge operation.
 
+```cpp
+void Aspose::Words::Fields::FieldAsk::set_PromptOnceOnMailMerge(bool value)
+```
+

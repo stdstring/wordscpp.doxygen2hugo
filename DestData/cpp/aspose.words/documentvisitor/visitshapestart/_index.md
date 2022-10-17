@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitshapestart/
 
 Called when enumeration of a shape has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitShapeStart(System::SharedPtr<Aspose::Words::Drawing::Shape> shape)
+```
+

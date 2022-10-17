@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/get_charactercode/
 
 Gets or sets the character's code point value in decimal or hexadecimal.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSymbol::get_CharacterCode()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarscolor/
 
 Allows to specify the color to be used for side bars that identify document lines containing revised information. Default value is **Red**.
 
+```cpp
+Aspose::Words::Layout::RevisionColor Aspose::Words::Layout::RevisionOptions::get_RevisionBarsColor() const
+```
+

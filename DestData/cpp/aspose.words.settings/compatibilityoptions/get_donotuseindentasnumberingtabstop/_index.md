@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotuseindentasnumberi
 
 Ignore Hanging Indent When Creating Tab Stop After Numbering.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseIndentAsNumberingTabStop()
+```
+

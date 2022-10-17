@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_progresscallback/
 
 Called during loading a document and accepts data about loading progress.
 
+```cpp
+System::SharedPtr<Aspose::Words::Loading::IDocumentLoadingCallback> Aspose::Words::Loading::LoadOptions::get_ProgressCallback() const
+```
+

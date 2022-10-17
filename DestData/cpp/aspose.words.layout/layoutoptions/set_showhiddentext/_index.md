@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/set_showhiddentext/
 
 Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText](./get_showhiddentext/).
 
+```cpp
+void Aspose::Words::Layout::LayoutOptions::set_ShowHiddenText(bool value)
+```
+

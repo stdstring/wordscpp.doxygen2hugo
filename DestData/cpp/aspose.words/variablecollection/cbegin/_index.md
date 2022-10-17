@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::VariableCollection::cbegin() const noexcept
+```
+

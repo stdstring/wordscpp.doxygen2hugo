@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/customdocumentproperties/addlinktocontent/
 
 Creates a new linked to content custom document property.
 
+```cpp
+System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Properties::CustomDocumentProperties::AddLinkToContent(const System::String &name, const System::String &linkSource)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_sequenceseparator/
 
 Gets or sets the character sequence that is used to separate sequence numbers and page numbers.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_SequenceSeparator()
+```
+

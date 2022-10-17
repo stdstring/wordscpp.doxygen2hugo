@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstop/get_position/
 
 Gets the position of the tab stop in points.
 
+```cpp
+double Aspose::Words::TabStop::get_Position()
+```
+

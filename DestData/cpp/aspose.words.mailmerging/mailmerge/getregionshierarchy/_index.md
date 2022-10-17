@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/getregionshierarchy/
 
 Returns a full hierarchy of regions (with fields) available in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::MailMerging::MailMergeRegionInfo> Aspose::Words::MailMerging::MailMerge::GetRegionsHierarchy()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_numberofcolumns/
 
 Gets or sets the number of columns per page used when building the index.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_NumberOfColumns()
+```
+

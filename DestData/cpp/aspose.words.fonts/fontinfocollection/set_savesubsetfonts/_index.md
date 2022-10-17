@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/set_savesubsetfonts/
 
 Setter for [Aspose::Words::Fonts::FontInfoCollection::get_SaveSubsetFonts](./get_savesubsetfonts/).
 
+```cpp
+void Aspose::Words::Fonts::FontInfoCollection::set_SaveSubsetFonts(bool value)
+```
+

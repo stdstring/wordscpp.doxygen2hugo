@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_viewoptions/
 
 Provides options to control how the document is displayed in Microsoft Word.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::ViewOptions> Aspose::Words::Document::get_ViewOptions()
+```
+

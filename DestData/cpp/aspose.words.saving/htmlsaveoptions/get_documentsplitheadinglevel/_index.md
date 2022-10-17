@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentsplitheadinglevel/
 
 Specifies the maximum level of headings at which to split the document. Default value is **%2**.
 
+```cpp
+int32_t Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel() const
+```
+

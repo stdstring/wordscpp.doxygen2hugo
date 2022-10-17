@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_suppressbottomspacing/
 
 Ignore Exact Line Height for Last Line on Page.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SuppressBottomSpacing()
+```
+

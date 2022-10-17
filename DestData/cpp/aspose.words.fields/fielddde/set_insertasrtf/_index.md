@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddde/set_insertasrtf/
 
 Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsRtf](./get_insertasrtf/).
 
+```cpp
+void Aspose::Words::Fields::FieldDde::set_InsertAsRtf(bool value)
+```
+

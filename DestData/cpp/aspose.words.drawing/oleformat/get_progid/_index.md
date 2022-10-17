@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_progid/
 
 Gets or sets the ProgID of the OLE object.
 
+```cpp
+System::String Aspose::Words::Drawing::OleFormat::get_ProgId()
+```
+

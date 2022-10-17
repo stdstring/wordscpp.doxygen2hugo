@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotexpandshiftreturn/
 
 Don't Justify Lines Ending in Soft Line Break.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotExpandShiftReturn()
+```
+

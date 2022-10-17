@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/pdfloadoptions/get_pagecount/
 
 Gets the number of pages to read. Default is MaxValue which means all pages of the document will be read.
 
+```cpp
+int32_t Aspose::Words::Loading::PdfLoadOptions::get_PageCount() const
+```
+

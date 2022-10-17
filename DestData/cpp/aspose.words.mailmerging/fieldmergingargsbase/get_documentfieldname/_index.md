@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_documentfieldname/
 
 Gets the name of the merge field as specified in the document.
 
+```cpp
+System::String Aspose::Words::MailMerging::FieldMergingArgsBase::get_DocumentFieldName() const
+```
+

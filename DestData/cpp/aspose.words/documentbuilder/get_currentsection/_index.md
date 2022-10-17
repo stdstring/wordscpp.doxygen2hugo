@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_currentsection/
 
 Gets the section that is currently selected in this [DocumentBuilder](./).
 
+```cpp
+System::SharedPtr<Aspose::Words::Section> Aspose::Words::DocumentBuilder::get_CurrentSection()
+```
+

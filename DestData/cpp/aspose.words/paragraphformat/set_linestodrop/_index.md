@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_linestodrop/
 
 Setter for [Aspose::Words::ParagraphFormat::get_LinesToDrop](./get_linestodrop/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_LinesToDrop(int32_t value)
+```
+

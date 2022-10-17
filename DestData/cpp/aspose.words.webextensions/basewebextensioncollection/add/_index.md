@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/add/
 
 Adds specified item to the collection.
 
+```cpp
+void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Add(T item)
+```
+

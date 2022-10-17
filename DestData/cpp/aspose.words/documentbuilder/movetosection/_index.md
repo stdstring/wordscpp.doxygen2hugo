@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetosection/
 
 Moves the cursor to the beginning of the body in a specified section.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToSection(int32_t sectionIndex)
+```
+

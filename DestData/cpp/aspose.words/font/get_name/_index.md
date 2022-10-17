@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_name/
 
 Gets or sets the name of the font.
 
+```cpp
+System::String Aspose::Words::Font::get_Name()
+```
+

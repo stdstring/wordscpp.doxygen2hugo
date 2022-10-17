@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlink/get_sourcefullname/
 
 Gets or sets the name and location of the source file.
 
+```cpp
+System::String Aspose::Words::Fields::FieldLink::get_SourceFullName()
+```
+

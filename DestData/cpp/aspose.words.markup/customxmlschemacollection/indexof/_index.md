@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/indexof/
 
 Returns the zero-based index of the specified value in the collection.
 
+```cpp
+int32_t Aspose::Words::Markup::CustomXmlSchemaCollection::IndexOf(const System::String &value)
+```
+

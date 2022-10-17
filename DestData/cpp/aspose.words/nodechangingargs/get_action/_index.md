@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodechangingargs/get_action/
 
 Gets a value indicating what type of node change event is occurring.
 
+```cpp
+Aspose::Words::NodeChangingAction Aspose::Words::NodeChangingArgs::get_Action() const
+```
+

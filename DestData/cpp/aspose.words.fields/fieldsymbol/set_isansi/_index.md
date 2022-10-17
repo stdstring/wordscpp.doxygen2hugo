@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/set_isansi/
 
 Setter for [Aspose::Words::Fields::FieldSymbol::get_IsAnsi](./get_isansi/).
 
+```cpp
+void Aspose::Words::Fields::FieldSymbol::set_IsAnsi(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabasedatatable/get_rows/
 
 Gets rows that belong to this table.
 
+```cpp
+const System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Words::Fields::FieldDatabaseDataRow>>> & Aspose::Words::Fields::FieldDatabaseDataTable::get_Rows() const
+```
+

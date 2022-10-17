@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/thumbnailgeneratingo
 
 
 
+```cpp
+Aspose::Words::Rendering::ThumbnailGeneratingOptions::ThumbnailGeneratingOptions()
+```
+

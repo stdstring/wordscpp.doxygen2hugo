@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_compliance/
 
 Setter for [Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance](./get_compliance/).
 
+```cpp
+void Aspose::Words::Saving::OoxmlSaveOptions::set_Compliance(Aspose::Words::Saving::OoxmlCompliance value)
+```
+

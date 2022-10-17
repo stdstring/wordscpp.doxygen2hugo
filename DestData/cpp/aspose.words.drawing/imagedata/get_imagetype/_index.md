@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/get_imagetype/
 
 Gets the type of the image.
 
+```cpp
+Aspose::Words::Drawing::ImageType Aspose::Words::Drawing::ImageData::get_ImageType()
+```
+

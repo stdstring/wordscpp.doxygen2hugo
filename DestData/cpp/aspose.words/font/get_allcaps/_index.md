@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_allcaps/
 
 True if the font is formatted as all capital letters.
 
+```cpp
+bool Aspose::Words::Font::get_AllCaps()
+```
+

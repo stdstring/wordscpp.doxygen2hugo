@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_company/
 
 Gets or sets the company property.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Company()
+```
+

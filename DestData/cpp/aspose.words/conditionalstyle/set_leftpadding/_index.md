@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/set_leftpadding/
 
 Setter for [Aspose::Words::ConditionalStyle::get_LeftPadding](./get_leftpadding/).
 
+```cpp
+void Aspose::Words::ConditionalStyle::set_LeftPadding(double value)
+```
+

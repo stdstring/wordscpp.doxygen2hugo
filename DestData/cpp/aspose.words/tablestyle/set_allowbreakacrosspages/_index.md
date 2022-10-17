@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/set_allowbreakacrosspages/
 
 Setter for [Aspose::Words::TableStyle::get_AllowBreakAcrossPages](./get_allowbreakacrosspages/).
 
+```cpp
+void Aspose::Words::TableStyle::set_AllowBreakAcrossPages(bool value)
+```
+

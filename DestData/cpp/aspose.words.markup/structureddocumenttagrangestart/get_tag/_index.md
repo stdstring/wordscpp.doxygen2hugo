@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_tag/
 
 Specifies a tag associated with the current structured document tag node. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Tag() const override
+```
+

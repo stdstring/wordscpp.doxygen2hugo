@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/get_color/
 
 Gets or sets font color. The default value is Color.Silver.
 
+```cpp
+System::Drawing::Color Aspose::Words::TextWatermarkOptions::get_Color() const
+```
+

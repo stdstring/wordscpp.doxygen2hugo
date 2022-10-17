@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodule/set_name/
 
 Setter for [Aspose::Words::Vba::VbaModule::get_Name](./get_name/).
 
+```cpp
+void Aspose::Words::Vba::VbaModule::set_Name(const System::String &value)
+```
+

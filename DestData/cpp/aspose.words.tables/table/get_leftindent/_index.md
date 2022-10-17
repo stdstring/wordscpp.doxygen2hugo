@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_leftindent/
 
 Gets or sets the value that represents the left indent of the table.
 
+```cpp
+double Aspose::Words::Tables::Table::get_LeftIndent()
+```
+

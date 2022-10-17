@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_reason/
 
 Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason](./get_reason/).
 
+```cpp
+void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Reason(const System::String &value)
+```
+

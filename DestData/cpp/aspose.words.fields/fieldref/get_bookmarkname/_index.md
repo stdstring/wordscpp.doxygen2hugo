@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/get_bookmarkname/
 
 Gets or sets the referenced bookmark's name.
 
+```cpp
+System::String Aspose::Words::Fields::FieldRef::get_BookmarkName()
+```
+

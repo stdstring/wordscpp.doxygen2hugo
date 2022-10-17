@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/begin/
 ---
-## DigitalSignatureCollection.begin method
+## DigitalSignatureCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/begin/
----
-## DigitalSignatureCollection.begin method
+```cpp
+const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin() const noexcept
+```
+
+## DigitalSignatureCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin() noexcept
+```
 

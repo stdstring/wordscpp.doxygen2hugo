@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_insertedtexteffect/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_InsertedTextEffect](./get_insertedtexteffect/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_InsertedTextEffect(Aspose::Words::Layout::RevisionTextEffect value)
+```
+

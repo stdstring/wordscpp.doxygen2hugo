@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseq/set_insertnextnumber/
 
 Setter for [Aspose::Words::Fields::FieldSeq::get_InsertNextNumber](./get_insertnextnumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldSeq::set_InsertNextNumber(bool value)
+```
+

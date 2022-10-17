@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_resourcefolderalias/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias](./get_resourcefolderalias/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ResourceFolderAlias(const System::String &value)
+```
+

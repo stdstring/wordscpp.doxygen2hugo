@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsettings/get_defaultinstance/
 
 Static default font settings.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Fonts::FontSettings> Aspose::Words::Fonts::FontSettings::get_DefaultInstance()
+```
+

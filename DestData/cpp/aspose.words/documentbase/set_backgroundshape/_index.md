@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/set_backgroundshape/
 
 Setter for [Aspose::Words::DocumentBase::get_BackgroundShape](./get_backgroundshape/).
 
+```cpp
+void Aspose::Words::DocumentBase::set_BackgroundShape(const System::SharedPtr<Aspose::Words::Drawing::Shape> &value)
+```
+

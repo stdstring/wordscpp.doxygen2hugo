@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_template/
 
 Gets or sets the informational name of the document template.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Template()
+```
+

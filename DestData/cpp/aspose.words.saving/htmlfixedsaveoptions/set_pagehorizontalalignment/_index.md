@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_pagehorizontalalignment/
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageHorizontalAlignment](./get_pagehorizontalalignment/).
 
+```cpp
+void Aspose::Words::Saving::HtmlFixedSaveOptions::set_PageHorizontalAlignment(Aspose::Words::Saving::HtmlFixedPageHorizontalAlignment value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_compressionlevel/
 
 Setter for [Aspose::Words::Saving::OoxmlSaveOptions::get_CompressionLevel](./get_compressionlevel/).
 
+```cpp
+void Aspose::Words::Saving::OoxmlSaveOptions::set_CompressionLevel(Aspose::Words::Saving::CompressionLevel value)
+```
+

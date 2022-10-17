@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_cleanupparagraphswithpunctuatio
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks](./get_cleanupparagraphswithpunctuationmarks/).
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_CleanupParagraphsWithPunctuationMarks(bool value)
+```
+

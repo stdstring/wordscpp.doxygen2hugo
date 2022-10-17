@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pssaveoptions/pssaveoptions/
 
 
 
+```cpp
+Aspose::Words::Saving::PsSaveOptions::PsSaveOptions()
+```
+

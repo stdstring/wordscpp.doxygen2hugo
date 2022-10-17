@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodelist/nodelist/
 
 
 
+```cpp
+Aspose::Words::NodeList::NodeList(const System::SharedPtr<Aspose::Words::NodeCollection> &nodes)
+```
+

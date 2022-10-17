@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagesize/get_heightpixels/
 
 Gets the height of the image in pixels.
 
+```cpp
+int32_t Aspose::Words::Drawing::ImageSize::get_HeightPixels() const
+```
+

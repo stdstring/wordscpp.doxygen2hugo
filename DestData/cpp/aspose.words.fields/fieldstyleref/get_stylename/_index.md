@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldstyleref/get_stylename/
 
 Gets or sets the name of the style by which the text to search for is formatted.
 
+```cpp
+System::String Aspose::Words::Fields::FieldStyleRef::get_StyleName()
+```
+

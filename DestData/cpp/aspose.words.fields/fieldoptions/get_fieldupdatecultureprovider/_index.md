@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdatecultureprovider/
 
 Gets or sets a provider that returns a culture object specific for each particular field.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::IFieldUpdateCultureProvider> & Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider() const
+```
+

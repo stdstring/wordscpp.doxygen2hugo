@@ -11,3 +11,7 @@ url: /cpp/aspose.words/bookmarkend/bookmarkend/
 
 Initializes a new instance of the [BookmarkEnd](./) class.
 
+```cpp
+Aspose::Words::BookmarkEnd::BookmarkEnd(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, const System::String &name)
+```
+

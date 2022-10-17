@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/pageinfo/get_papertray/
 
 Gets the paper tray (bin) for this page as specified in the document. The value is implementation (printer) specific.
 
+```cpp
+int32_t Aspose::Words::Rendering::PageInfo::get_PaperTray() const
+```
+

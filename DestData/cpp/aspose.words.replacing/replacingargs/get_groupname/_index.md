@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/replacingargs/get_groupname/
 
 Identifies, by name, a captured group in the [Match](./get_match/) that is to be replaced with the [Replacement](./get_replacement/) string.
 
+```cpp
+System::String Aspose::Words::Replacing::ReplacingArgs::get_GroupName() const
+```
+

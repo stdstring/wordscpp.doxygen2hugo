@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_imagebrightness/
 
 Gets or sets the brightness for the generated images.
 
+```cpp
+float Aspose::Words::Saving::ImageSaveOptions::get_ImageBrightness() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_bytes/
 
 Represents an estimate of the number of bytes in the document.
 
+```cpp
+int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes()
+```
+

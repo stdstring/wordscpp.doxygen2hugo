@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_pagecount/
 
 Gets the number of pages in the document as calculated by the most recent page layout operation.
 
+```cpp
+int32_t Aspose::Words::Document::get_PageCount()
+```
+

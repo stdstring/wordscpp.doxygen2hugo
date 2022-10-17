@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/get_storytype/
 
 Returns **StoryType.Footnotes** or **StoryType.Endnotes**.
 
+```cpp
+Aspose::Words::StoryType Aspose::Words::Notes::Footnote::get_StoryType() override
+```
+

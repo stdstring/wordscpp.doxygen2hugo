@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_bytes/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes](./get_bytes/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_Bytes(int32_t value)
+```
+

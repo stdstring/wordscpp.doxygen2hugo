@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/set_connectstring/
 
 Specifies the connection string used to connect to an external data source. The default value is an empty string.
 
+```cpp
+void Aspose::Words::Settings::MailMergeSettings::set_ConnectString(const System::String &value)
+```
+

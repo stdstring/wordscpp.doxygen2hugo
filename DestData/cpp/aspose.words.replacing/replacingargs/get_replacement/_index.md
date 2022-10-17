@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/replacingargs/get_replacement/
 
 Gets or sets the replacement string.
 
+```cpp
+System::String Aspose::Words::Replacing::ReplacingArgs::get_Replacement() const
+```
+

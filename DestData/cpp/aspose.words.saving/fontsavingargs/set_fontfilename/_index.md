@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/set_fontfilename/
 
 Setter for [Aspose::Words::Saving::FontSavingArgs::get_FontFileName](./get_fontfilename/).
 
+```cpp
+void Aspose::Words::Saving::FontSavingArgs::set_FontFileName(const System::String &value)
+```
+

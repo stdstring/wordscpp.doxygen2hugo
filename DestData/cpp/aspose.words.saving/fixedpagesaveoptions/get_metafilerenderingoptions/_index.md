@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_metafilerenderingoptions/
 
 Allows to specify metafile rendering options.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions() const
+```
+

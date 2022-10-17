@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_paragraphformat/
 
 Returns an object that represents current paragraph formatting properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::DocumentBuilder::get_ParagraphFormat()
+```
+

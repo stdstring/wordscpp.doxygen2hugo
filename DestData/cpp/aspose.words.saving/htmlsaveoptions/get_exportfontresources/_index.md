@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportfontresources/
 
 Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is **false**.
 
+```cpp
+bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources() const
+```
+

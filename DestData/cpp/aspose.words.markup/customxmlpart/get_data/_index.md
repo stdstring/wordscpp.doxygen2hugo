@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpart/get_data/
 
 Gets or sets the XML content of this Custom XML Data Storage Part.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Markup::CustomXmlPart::get_Data() const
+```
+

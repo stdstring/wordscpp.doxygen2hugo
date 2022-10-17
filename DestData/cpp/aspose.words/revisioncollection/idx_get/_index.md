@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisioncollection/idx_get/
 
 Returns a [Revision](../revision/) at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Revision> Aspose::Words::RevisionCollection::idx_get(int32_t index)
+```
+

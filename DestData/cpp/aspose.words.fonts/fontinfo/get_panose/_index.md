@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/get_panose/
 
 Gets or sets the PANOSE typeface classification number.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::get_Panose() const
+```
+

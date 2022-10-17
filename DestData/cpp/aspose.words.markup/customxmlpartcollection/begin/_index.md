@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.markup/customxmlpartcollection/begin/
 ---
-## CustomXmlPartCollection.begin method
+## CustomXmlPartCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.markup/customxmlpartcollection/begin/
----
-## CustomXmlPartCollection.begin method
+```cpp
+const_iterator Aspose::Words::Markup::CustomXmlPartCollection::begin() const noexcept
+```
+
+## CustomXmlPartCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::Markup::CustomXmlPartCollection::begin() noexcept
+```
 

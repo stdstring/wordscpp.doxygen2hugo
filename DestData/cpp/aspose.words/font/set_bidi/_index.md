@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_bidi/
 
 Setter for [Aspose::Words::Font::get_Bidi](./get_bidi/).
 
+```cpp
+void Aspose::Words::Font::set_Bidi(bool value)
+```
+

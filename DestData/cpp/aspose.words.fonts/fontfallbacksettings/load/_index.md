@@ -6,34 +6,30 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fonts/fontfallbacksettings/load/
 ---
-## FontFallbackSettings.Load method
+## FontFallbackSettings.Load(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Loads fallback settings from XML stream.
 
----
-title: Load
-second_title: Aspose.Words for C++ API Reference
-description: Loads font fallback settings from XML file. 
-type: docs
-weight: 0
-url: /cpp/aspose.words.fonts/fontfallbacksettings/load/
----
-## FontFallbackSettings.Load method
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::SharedPtr<System::IO::Stream> &stream)
+```
+
+## FontFallbackSettings.Load(const System::String\&) method
 
 
 Loads font fallback settings from XML file.
 
----
-title: Load
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.fonts/fontfallbacksettings/load/
----
-## FontFallbackSettings.Load method
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::String &fileName)
+```
+
+## FontFallbackSettings.Load(std::basic_istream\<CharType, Traits\>\&) method
 
 
 
+
+```cpp
+void Aspose::Words::Fonts::FontFallbackSettings::Load(std::basic_istream<CharType, Traits> &stream)
+```
 

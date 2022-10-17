@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/memoryfontsource/get_type/
 
 Returns the type of the font source.
 
+```cpp
+Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::MemoryFontSource::get_Type() override
+```
+

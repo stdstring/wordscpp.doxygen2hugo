@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/idx_set/
 
 Gets or sets a [GradientStop](../gradientstop/) object in the collection.
 
+```cpp
+void Aspose::Words::Drawing::GradientStopCollection::idx_set(int32_t index, const System::SharedPtr<Aspose::Words::Drawing::GradientStop> &value)
+```
+

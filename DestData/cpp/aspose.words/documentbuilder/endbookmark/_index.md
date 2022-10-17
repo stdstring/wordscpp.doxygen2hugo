@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/endbookmark/
 
 Marks the current position in the document as a bookmark end.
 
+```cpp
+System::SharedPtr<Aspose::Words::BookmarkEnd> Aspose::Words::DocumentBuilder::EndBookmark(const System::String &bookmarkName)
+```
+

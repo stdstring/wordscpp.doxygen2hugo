@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_on/
 
 Defines whether the path will be stroked.
 
+```cpp
+bool Aspose::Words::Drawing::Stroke::get_On()
+```
+

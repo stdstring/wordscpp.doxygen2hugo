@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldskipif/set_comparisonoperator/
 
 Sets the comparison operator.
 
+```cpp
+void Aspose::Words::Fields::FieldSkipIf::set_ComparisonOperator(const System::String &value)
+```
+

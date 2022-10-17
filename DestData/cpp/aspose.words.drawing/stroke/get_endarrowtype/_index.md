@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_endarrowtype/
 
 Defines the arrowhead for the end of a stroke.
 
+```cpp
+Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Stroke::get_EndArrowType()
+```
+

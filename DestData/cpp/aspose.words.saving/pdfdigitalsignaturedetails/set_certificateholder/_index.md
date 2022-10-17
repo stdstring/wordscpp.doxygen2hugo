@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_certificateholder/
 
 Returns the certificate holder object that contains the certificate was used to sign the document.
 
+```cpp
+void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_CertificateHolder(const System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> &value)
+```
+

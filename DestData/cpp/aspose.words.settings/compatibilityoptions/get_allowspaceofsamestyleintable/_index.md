@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_allowspaceofsamestylein
 
 Allow Contextual Spacing of Paragraphs in [Tables](../../aspose.words.tables/).
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_AllowSpaceOfSameStyleInTable()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelposition/
 
 Returns or sets the position of the tick labels on the axis.
 
+```cpp
+Aspose::Words::Drawing::Charts::AxisTickLabelPosition Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelPosition()
+```
+

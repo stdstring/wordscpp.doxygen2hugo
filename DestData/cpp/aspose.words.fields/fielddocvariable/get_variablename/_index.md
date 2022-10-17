@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddocvariable/get_variablename/
 
 Gets or sets the name of the document variable to retrieve.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDocVariable::get_VariableName()
+```
+

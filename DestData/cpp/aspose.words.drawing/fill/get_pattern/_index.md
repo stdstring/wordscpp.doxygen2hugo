@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_pattern/
 
 Gets a [PatternType](../patterntype/) for the fill.
 
+```cpp
+Aspose::Words::Drawing::PatternType Aspose::Words::Drawing::Fill::get_Pattern()
+```
+

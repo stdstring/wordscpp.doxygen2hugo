@@ -11,3 +11,7 @@ url: /cpp/aspose.words/border/get_distancefromtext/
 
 Gets or sets distance of the border from text or from the page edge in points.
 
+```cpp
+double Aspose::Words::Border::get_DistanceFromText()
+```
+

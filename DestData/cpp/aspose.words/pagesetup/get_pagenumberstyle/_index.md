@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_pagenumberstyle/
 
 Gets or sets the page number format.
 
+```cpp
+Aspose::Words::NumberStyle Aspose::Words::PageSetup::get_PageNumberStyle()
+```
+

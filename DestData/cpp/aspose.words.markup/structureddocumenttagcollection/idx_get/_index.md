@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/idx_get/
 
 Returns the structured document tag at the specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::Markup::StructuredDocumentTagCollection::idx_get(int32_t index)
+```
+

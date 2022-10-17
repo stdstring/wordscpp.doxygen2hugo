@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/set_documentdirection/
 
 Setter for [Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection](./get_documentdirection/).
 
+```cpp
+void Aspose::Words::Loading::TxtLoadOptions::set_DocumentDirection(Aspose::Words::Loading::DocumentDirection value)
+```
+

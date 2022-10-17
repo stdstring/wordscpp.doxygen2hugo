@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitfootnotestart/
 
 Called when enumeration of a footnote or endnote text has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFootnoteStart(System::SharedPtr<Aspose::Words::Notes::Footnote> footnote)
+```
+

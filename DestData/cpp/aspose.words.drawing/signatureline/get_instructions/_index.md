@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/signatureline/get_instructions/
 
 Gets or sets instructions to the signer that are displayed on signing the signature line. This property is ignored if [DefaultInstructions](./get_defaultinstructions/) is set. Default value for this property is **empty string**.
 
+```cpp
+System::String Aspose::Words::Drawing::SignatureLine::get_Instructions()
+```
+

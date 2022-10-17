@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/get_updatefields/
 
 Gets or sets a value determining if fields of certain types should be updated before saving the document to a fixed page format. Default value for this property is **true**.
 
+```cpp
+bool Aspose::Words::Saving::SaveOptions::get_UpdateFields() const
+```
+

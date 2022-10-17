@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/get_count/
 
 Gets the count of numbered and bulleted lists in the document.
 
+```cpp
+int32_t Aspose::Words::Lists::ListCollection::get_Count()
+```
+

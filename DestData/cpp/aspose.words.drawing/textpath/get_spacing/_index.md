@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_spacing/
 
 Defines the amount of spacing for text. 1 means 100%.
 
+```cpp
+double Aspose::Words::Drawing::TextPath::get_Spacing()
+```
+

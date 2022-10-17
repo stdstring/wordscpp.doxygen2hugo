@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_userpromptrespondent/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent](./get_userpromptrespondent/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_UserPromptRespondent(const System::SharedPtr<Aspose::Words::Fields::IFieldUserPromptRespondent> &value)
+```
+

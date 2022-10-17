@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/get_simplifylistlabels/
 
 Specifies whether the program should simplify list labels in case of complex label formatting not being adequately represented by plain text. If set to **true**, numbered list labels are written in simple numeric format and itemized list labels as simple ASCII characters. The default value is **false**.
 
+```cpp
+bool Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels() const
+```
+

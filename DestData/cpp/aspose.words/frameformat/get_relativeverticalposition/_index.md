@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_relativeverticalposition/
 
 Gets the relative vertical position of a frame.
 
+```cpp
+Aspose::Words::Drawing::RelativeVerticalPosition Aspose::Words::FrameFormat::get_RelativeVerticalPosition()
+```
+

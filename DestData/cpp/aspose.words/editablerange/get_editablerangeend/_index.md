@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerange/get_editablerangeend/
 
 Gets the node that represents the end of the editable range.
 
+```cpp
+System::SharedPtr<Aspose::Words::EditableRangeEnd> Aspose::Words::EditableRange::get_EditableRangeEnd()
+```
+

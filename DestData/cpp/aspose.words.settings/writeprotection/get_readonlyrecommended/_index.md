@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/writeprotection/get_readonlyrecommended/
 
 Specifies whether the document author has recommended that the document be opened as read-only.
 
+```cpp
+bool Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_evencolumnbanding/
 
 Gets the even column banding style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalStyleCollection::get_EvenColumnBanding()
+```
+

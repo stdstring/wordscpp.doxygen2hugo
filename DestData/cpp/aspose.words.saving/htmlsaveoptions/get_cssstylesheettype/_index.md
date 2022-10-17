@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_cssstylesheettype/
 
 Specifies how CSS (Cascading [Style](../../aspose.words/style/) Sheet) styles are exported to HTML, MHTML or EPUB. Default value is **Inline** for HTML/MHTML and **External** for EPUB.
 
+```cpp
+Aspose::Words::Saving::CssStyleSheetType Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType() const
+```
+

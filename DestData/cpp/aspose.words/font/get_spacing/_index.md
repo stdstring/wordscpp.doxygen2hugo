@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_spacing/
 
 Returns or sets the spacing (in points) between characters .
 
+```cpp
+double Aspose::Words::Font::get_Spacing()
+```
+

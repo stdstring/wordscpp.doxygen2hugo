@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_resultformatter/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_ResultFormatter](./get_resultformatter/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_ResultFormatter(const System::SharedPtr<Aspose::Words::Fields::IFieldResultFormatter> &value)
+```
+

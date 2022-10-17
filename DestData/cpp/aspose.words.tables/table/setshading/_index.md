@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/setshading/
 
 Sets shading to the specified values on whole table.
 
+```cpp
+void Aspose::Words::Tables::Table::SetShading(Aspose::Words::TextureIndex texture, System::Drawing::Color foregroundColor, System::Drawing::Color backgroundColor)
+```
+

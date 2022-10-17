@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseq/get_insertnextnumber/
 
 Gets or sets whether to insert the next sequence number for the specified item.
 
+```cpp
+bool Aspose::Words::Fields::FieldSeq::get_InsertNextNumber()
+```
+

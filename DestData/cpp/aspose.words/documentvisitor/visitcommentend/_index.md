@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitcommentend/
 
 Called when enumeration of a comment text has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitCommentEnd(System::SharedPtr<Aspose::Words::Comment> comment)
+```
+

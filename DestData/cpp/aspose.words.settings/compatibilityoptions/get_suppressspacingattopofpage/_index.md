@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_suppressspacingattopofp
 
 Ignore Minimum Line Height for First Line on Page.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SuppressSpacingAtTopOfPage()
+```
+

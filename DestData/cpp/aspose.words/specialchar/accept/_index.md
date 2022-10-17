@@ -11,3 +11,7 @@ url: /cpp/aspose.words/specialchar/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::SpecialChar::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

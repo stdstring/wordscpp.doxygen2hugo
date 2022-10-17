@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_updatesdtcontent/
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent](./get_updatesdtcontent/).
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_UpdateSdtContent(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtlistindentation/get_count/
 
 Gets or sets how many [Character](./get_character/) to use as indentation per one list level. The default value is 0, that means no indentation.
 
+```cpp
+int32_t Aspose::Words::Saving::TxtListIndentation::get_Count() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/paragraphbreak/
 
 End of paragraph character: "\x000d" or "\r". Same as [Cr](./cr/)
 
+```cpp
+static System::String & Aspose::Words::ControlChar::ParagraphBreak()
+```
+

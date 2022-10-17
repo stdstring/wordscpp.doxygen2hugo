@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/insert/
 
 Inserts a [GradientStop](../gradientstop/) to the collection at a specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::GradientStop> Aspose::Words::Drawing::GradientStopCollection::Insert(int32_t index, const System::SharedPtr<Aspose::Words::Drawing::GradientStop> &gradientStop)
+```
+

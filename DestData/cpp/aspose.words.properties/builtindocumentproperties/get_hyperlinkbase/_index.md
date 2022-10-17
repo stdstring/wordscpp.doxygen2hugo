@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_hyperlinkbase/
 
 Specifies the base string used for evaluating relative hyperlinks in this document.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldgreetingline/get_languageid/
 
 Gets the language id used to format the name.
 
+```cpp
+System::String Aspose::Words::Fields::FieldGreetingLine::get_LanguageId()
+```
+

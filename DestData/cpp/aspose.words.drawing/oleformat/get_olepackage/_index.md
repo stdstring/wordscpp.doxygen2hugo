@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_olepackage/
 
 Provide access to [OlePackage](../olepackage/) if OLE object is an OLE Package. Returns null otherwise.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::OlePackage> Aspose::Words::Drawing::OleFormat::get_OlePackage()
+```
+

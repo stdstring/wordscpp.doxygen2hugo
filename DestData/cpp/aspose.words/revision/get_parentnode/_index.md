@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/get_parentnode/
 
 Gets the immediate parent node (owner) of this revision. This property will work for any revision type other than **StyleDefinitionChange**.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::Revision::get_ParentNode()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_level/
 
 Returns the nesting level for the region.
 
+```cpp
+int32_t Aspose::Words::MailMerging::MailMergeRegionInfo::get_Level() const
+```
+

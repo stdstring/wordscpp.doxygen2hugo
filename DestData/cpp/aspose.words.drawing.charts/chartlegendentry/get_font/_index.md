@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentry/get_font/
 
 Provides access to the font formatting of this legend entry.
 
+```cpp
+System::SharedPtr<Aspose::Words::Font> Aspose::Words::Drawing::Charts::ChartLegendEntry::get_Font()
+```
+

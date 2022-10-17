@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/hyphenationoptions/set_hyphenationzone/
 
 Setter for [Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone](./get_hyphenationzone/).
 
+```cpp
+void Aspose::Words::Settings::HyphenationOptions::set_HyphenationZone(int32_t value)
+```
+

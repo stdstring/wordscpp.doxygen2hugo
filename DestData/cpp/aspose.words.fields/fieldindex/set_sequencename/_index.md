@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_sequencename/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_SequenceName](./get_sequencename/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_SequenceName(const System::String &value)
+```
+

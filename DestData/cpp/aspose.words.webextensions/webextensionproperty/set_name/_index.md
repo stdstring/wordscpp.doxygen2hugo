@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextensionproperty/set_name/
 
 Specifies a custom property name.
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtensionProperty::set_Name(const System::String &value)
+```
+

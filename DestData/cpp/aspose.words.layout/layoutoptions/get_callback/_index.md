@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutoptions/get_callback/
 
 Gets [IPageLayoutCallback](../ipagelayoutcallback/) implementation used by page layout model.
 
+```cpp
+System::SharedPtr<Aspose::Words::Layout::IPageLayoutCallback> Aspose::Words::Layout::LayoutOptions::get_Callback() const
+```
+

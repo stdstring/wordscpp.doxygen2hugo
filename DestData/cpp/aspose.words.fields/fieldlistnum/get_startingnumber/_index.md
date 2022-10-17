@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlistnum/get_startingnumber/
 
 Gets or sets the starting value for this field.
 
+```cpp
+System::String Aspose::Words::Fields::FieldListNum::get_StartingNumber()
+```
+

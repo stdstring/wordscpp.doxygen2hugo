@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_headerdistance/
 
 Returns or sets the distance (in points) between the header and the top of the page.
 
+```cpp
+double Aspose::Words::PageSetup::get_HeaderDistance()
+```
+

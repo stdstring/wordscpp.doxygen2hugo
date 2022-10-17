@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/get_isauto/
 
 Returns a flag indicating that axis bound should be determined automatically.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::AxisBound::get_IsAuto() const
+```
+

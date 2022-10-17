@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imailmergedatasource/get_tablename/
 
 Returns the name of the data source.
 
+```cpp
+virtual System::String Aspose::Words::MailMerging::IMailMergeDataSource::get_TableName()=0
+```
+

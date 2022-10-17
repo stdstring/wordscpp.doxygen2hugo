@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlproperty/customxmlproperty/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::Markup::CustomXmlProperty::CustomXmlProperty(const System::String &name, const System::String &uri, const System::String &value)
+```
+

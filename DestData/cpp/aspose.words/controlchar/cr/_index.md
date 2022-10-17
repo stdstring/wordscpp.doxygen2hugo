@@ -11,3 +11,7 @@ url: /cpp/aspose.words/controlchar/cr/
 
 Carriage return character: "\x000d" or "\r". Same as [ParagraphBreak](./paragraphbreak/).
 
+```cpp
+static System::String & Aspose::Words::ControlChar::Cr()
+```
+

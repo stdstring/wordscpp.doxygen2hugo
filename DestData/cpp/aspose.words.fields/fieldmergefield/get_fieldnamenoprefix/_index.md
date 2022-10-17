@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergefield/get_fieldnamenoprefix/
 
 Returns just the name of the data field. Any prefix is stripped to the prefix property.
 
+```cpp
+System::String Aspose::Words::Fields::FieldMergeField::get_FieldNameNoPrefix() const
+```
+

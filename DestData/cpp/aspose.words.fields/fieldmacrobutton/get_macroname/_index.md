@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/get_macroname/
 
 Gets or sets the name of the macro or command to run.
 
+```cpp
+System::String Aspose::Words::Fields::FieldMacroButton::get_MacroName()
+```
+

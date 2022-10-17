@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/set_progid/
 
 Setter for [Aspose::Words::Drawing::OleFormat::get_ProgId](./get_progid/).
 
+```cpp
+void Aspose::Words::Drawing::OleFormat::set_ProgId(const System::String &value)
+```
+

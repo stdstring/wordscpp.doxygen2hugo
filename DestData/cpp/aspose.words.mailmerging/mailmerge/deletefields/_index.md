@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/deletefields/
 
 Removes mail merge related fields from the document.
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::DeleteFields()
+```
+

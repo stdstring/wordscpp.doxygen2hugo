@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldglossary/get_entryname/
 
 Gets or sets the name of the glossary entry to insert.
 
+```cpp
+System::String Aspose::Words::Fields::FieldGlossary::get_EntryName() override
+```
+

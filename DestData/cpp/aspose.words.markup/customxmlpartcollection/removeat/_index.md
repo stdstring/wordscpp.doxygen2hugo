@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/removeat/
 
 Removes an item at the specified index.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlPartCollection::RemoveAt(int32_t index)
+```
+

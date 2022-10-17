@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldif/evaluatecondition/
 
 Evaluates the condition.
 
+```cpp
+Aspose::Words::Fields::FieldIfComparisonResult Aspose::Words::Fields::FieldIf::EvaluateCondition()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/bookmarksoutlinele
 
 
 
+```cpp
+Aspose::Words::Saving::BookmarksOutlineLevelCollection::BookmarksOutlineLevelCollection()
+```
+

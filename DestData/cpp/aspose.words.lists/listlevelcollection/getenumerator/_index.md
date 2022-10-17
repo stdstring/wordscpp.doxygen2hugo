@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/getenumerator/
 
 Gets the enumerator object that will enumerate levels in this list.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Lists::ListLevel>>> Aspose::Words::Lists::ListLevelCollection::GetEnumerator() override
+```
+

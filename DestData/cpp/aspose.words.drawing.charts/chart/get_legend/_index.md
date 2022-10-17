@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chart/get_legend/
 
 Provides access to the chart legend properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegend> Aspose::Words::Drawing::Charts::Chart::get_Legend()
+```
+

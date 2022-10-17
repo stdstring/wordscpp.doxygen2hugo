@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/get_previous/
 
 Returns a [TextBox](./) that represents the previous [TextBox](./) in a sequence of shapes.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::TextBox::get_Previous()
+```
+

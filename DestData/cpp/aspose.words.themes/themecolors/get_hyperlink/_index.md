@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_hyperlink/
 
 Specifies color for a hyperlink.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Hyperlink()
+```
+

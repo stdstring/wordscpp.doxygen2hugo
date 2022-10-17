@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visittablestart/
 
 Called when enumeration of a table has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitTableStart(System::SharedPtr<Aspose::Words::Tables::Table> table)
+```
+

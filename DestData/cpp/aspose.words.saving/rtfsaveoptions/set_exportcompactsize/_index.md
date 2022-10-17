@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/set_exportcompactsize/
 
 Setter for [Aspose::Words::Saving::RtfSaveOptions::get_ExportCompactSize](./get_exportcompactsize/).
 
+```cpp
+void Aspose::Words::Saving::RtfSaveOptions::set_ExportCompactSize(bool value)
+```
+

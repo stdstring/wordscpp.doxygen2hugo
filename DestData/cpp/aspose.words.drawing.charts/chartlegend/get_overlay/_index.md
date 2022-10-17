@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegend/get_overlay/
 
 Determines whether other chart elements shall be allowed to overlap legend. Default value is false.
 
+```cpp
+bool Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_cssstylesheetfilename/
 
 Specifies the path and the name of the Cascading [Style](../../aspose.words/style/) Sheet (CSS) file written when a document is exported to HTML. Default is an empty string.
 
+```cpp
+System::String Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetFileName() const
+```
+

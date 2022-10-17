@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shape/get_haschart/
 
 Returns true if this [Shape](./) has a [Chart](./get_chart/).
 
+```cpp
+bool Aspose::Words::Drawing::Shape::get_HasChart()
+```
+

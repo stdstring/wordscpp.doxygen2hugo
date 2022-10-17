@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_volumenumber/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_VolumeNumber](./get_volumenumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_VolumeNumber(const System::String &value)
+```
+

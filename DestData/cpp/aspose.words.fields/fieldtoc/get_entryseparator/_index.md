@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_entryseparator/
 
 Gets or sets a sequence of characters that separate an entry and its page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_EntrySeparator()
+```
+

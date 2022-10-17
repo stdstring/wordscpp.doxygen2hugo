@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/set_dockstate/
 
 Setter for [Aspose::Words::WebExtensions::TaskPane::get_DockState](./get_dockstate/).
 
+```cpp
+void Aspose::Words::WebExtensions::TaskPane::set_DockState(Aspose::Words::WebExtensions::TaskPaneDockState value)
+```
+

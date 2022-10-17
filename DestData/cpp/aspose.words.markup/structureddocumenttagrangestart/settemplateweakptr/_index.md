@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/settemplateweakptr
 
 
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTagRangeStart::SetTemplateWeakPtr(uint32_t argument) override
+```
+

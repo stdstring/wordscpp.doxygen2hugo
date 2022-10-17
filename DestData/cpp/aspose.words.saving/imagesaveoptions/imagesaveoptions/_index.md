@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/imagesaveoptions/
 
 Initializes a new instance of this class that can be used to save rendered images in the **Tiff**, **Png**, **Bmp**, **Emf**, **Jpeg** or **Svg** format. **Png**, **Bmp**, **Jpeg** or **Svg** format.
 
+```cpp
+Aspose::Words::Saving::ImageSaveOptions::ImageSaveOptions(Aspose::Words::SaveFormat saveFormat)
+```
+

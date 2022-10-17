@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_hangingpunctuation/
 
 Gets or sets a flag indicating whether hanging punctuation is enabled for the current paragraph.
 
+```cpp
+bool Aspose::Words::ParagraphFormat::get_HangingPunctuation()
+```
+

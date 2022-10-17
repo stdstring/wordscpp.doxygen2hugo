@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/set_comments/
 
 Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_Comments](./get_comments/).
 
+```cpp
+void Aspose::Words::DigitalSignatures::SignOptions::set_Comments(const System::String &value)
+```
+

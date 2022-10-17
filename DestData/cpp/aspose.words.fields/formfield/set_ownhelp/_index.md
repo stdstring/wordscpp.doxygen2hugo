@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_ownhelp/
 
 Setter for [Aspose::Words::Fields::FormField::get_OwnHelp](./get_ownhelp/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_OwnHelp(bool value)
+```
+

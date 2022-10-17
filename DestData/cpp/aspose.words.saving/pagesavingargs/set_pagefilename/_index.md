@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/set_pagefilename/
 
 Setter for [Aspose::Words::Saving::PageSavingArgs::get_PageFileName](./get_pagefilename/).
 
+```cpp
+void Aspose::Words::Saving::PageSavingArgs::set_PageFileName(const System::String &value)
+```
+

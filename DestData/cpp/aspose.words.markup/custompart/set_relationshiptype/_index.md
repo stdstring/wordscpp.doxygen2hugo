@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompart/set_relationshiptype/
 
 Setter for [Aspose::Words::Markup::CustomPart::get_RelationshipType](./get_relationshiptype/).
 
+```cpp
+void Aspose::Words::Markup::CustomPart::set_RelationshipType(const System::String &value)
+```
+

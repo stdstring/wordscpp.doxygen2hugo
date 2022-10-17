@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_pagenumber/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_PageNumber](./get_pagenumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_PageNumber(const System::String &value)
+```
+

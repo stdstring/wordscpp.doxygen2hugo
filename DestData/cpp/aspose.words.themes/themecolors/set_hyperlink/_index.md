@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/set_hyperlink/
 
 Setter for [Aspose::Words::Themes::ThemeColors::get_Hyperlink](./get_hyperlink/).
 
+```cpp
+void Aspose::Words::Themes::ThemeColors::set_Hyperlink(System::Drawing::Color value)
+```
+

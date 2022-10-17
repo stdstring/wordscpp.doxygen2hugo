@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/oleformat/get_iconcaption/
 
 Gets icon caption of OLE object. In case of OLE object is not embedded as icon or caption couldn't be retrieved returns empty string.
 
+```cpp
+System::String Aspose::Words::Drawing::OleFormat::get_IconCaption()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_convertshapetoofficemath/
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath](./get_convertshapetoofficemath/).
 
+```cpp
+void Aspose::Words::Loading::LoadOptions::set_ConvertShapeToOfficeMath(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/writeprotection/get_iswriteprotected/
 
 Returns true when a write protection password is set.
 
+```cpp
+bool Aspose::Words::Settings::WriteProtection::get_IsWriteProtected()
+```
+

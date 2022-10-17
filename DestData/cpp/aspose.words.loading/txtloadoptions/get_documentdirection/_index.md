@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/get_documentdirection/
 
 Gets or sets a document direction. The default value is **LeftToRight**.
 
+```cpp
+Aspose::Words::Loading::DocumentDirection Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection() const
+```
+

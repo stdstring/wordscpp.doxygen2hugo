@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_manager/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Manager](./get_manager/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_Manager(const System::String &value)
+```
+

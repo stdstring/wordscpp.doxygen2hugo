@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_displaytext/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText](./get_displaytext/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_DisplayText(bool value)
+```
+

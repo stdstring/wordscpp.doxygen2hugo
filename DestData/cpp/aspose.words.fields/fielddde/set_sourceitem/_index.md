@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddde/set_sourceitem/
 
 Setter for [Aspose::Words::Fields::FieldDde::get_SourceItem](./get_sourceitem/).
 
+```cpp
+void Aspose::Words::Fields::FieldDde::set_SourceItem(const System::String &value)
+```
+

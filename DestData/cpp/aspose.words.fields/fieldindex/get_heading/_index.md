@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_heading/
 
 Gets or sets a heading that appears at the start of each set of entries for any given letter.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_Heading()
+```
+

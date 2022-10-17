@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontsettings/getfontssources/
 
 Gets a copy of the array that contains the list of sources where Aspose.Words looks for TrueType fonts.
 
+```cpp
+System::ArrayPtr<System::SharedPtr<Aspose::Words::Fonts::FontSourceBase>> Aspose::Words::Fonts::FontSettings::GetFontsSources()
+```
+

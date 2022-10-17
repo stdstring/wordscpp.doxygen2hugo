@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_bidi/
 
 Gets or sets whether this is a style for a right-to-left table.
 
+```cpp
+bool Aspose::Words::TableStyle::get_Bidi()
+```
+

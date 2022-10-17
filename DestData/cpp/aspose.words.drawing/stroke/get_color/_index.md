@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_color/
 
 Defines the color of a stroke.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::Stroke::get_Color()
+```
+

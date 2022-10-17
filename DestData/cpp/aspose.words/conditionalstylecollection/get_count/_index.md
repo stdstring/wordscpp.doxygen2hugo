@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_count/
 
 Gets the number of conditional styles in the collection.
 
+```cpp
+int32_t Aspose::Words::ConditionalStyleCollection::get_Count() const
+```
+

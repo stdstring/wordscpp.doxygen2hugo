@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/revisiongroupcollection/begin/
 ---
-## RevisionGroupCollection.begin method
+## RevisionGroupCollection.begin() const method
 
 
 
 
----
-title: begin
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/revisiongroupcollection/begin/
----
-## RevisionGroupCollection.begin method
+```cpp
+const_iterator Aspose::Words::RevisionGroupCollection::begin() const noexcept
+```
+
+## RevisionGroupCollection.begin() method
 
 
 
+
+```cpp
+iterator Aspose::Words::RevisionGroupCollection::begin() noexcept
+```
 

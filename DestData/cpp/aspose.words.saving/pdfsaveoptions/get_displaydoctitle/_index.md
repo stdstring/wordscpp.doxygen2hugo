@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_displaydoctitle/
 
 A flag specifying whether the window’s title bar should display the document title taken from the Title entry of the document information dictionary.
 
+```cpp
+bool Aspose::Words::Saving::PdfSaveOptions::get_DisplayDocTitle() const
+```
+

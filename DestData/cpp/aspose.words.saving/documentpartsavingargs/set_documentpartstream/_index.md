@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.saving/documentpartsavingargs/set_documentpartstream/
 ---
-## DocumentPartSavingArgs.set_DocumentPartStream method
+## DocumentPartSavingArgs.set_DocumentPartStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Setter for [Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream](./get_documentpartstream/).
 
----
-title: set_DocumentPartStream
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.saving/documentpartsavingargs/set_documentpartstream/
----
-## DocumentPartSavingArgs.set_DocumentPartStream method
+```cpp
+void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(const System::SharedPtr<System::IO::Stream> &value)
+```
+
+## DocumentPartSavingArgs.set_DocumentPartStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 
+
+```cpp
+void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(std::basic_ostream<CharType, Traits> &value)
+```
 

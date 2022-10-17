@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadwindowssettings/
 
 Loads predefined table substitution settings for Windows platform.
 
+```cpp
+void Aspose::Words::Fonts::TableSubstitutionRule::LoadWindowsSettings()
+```
+

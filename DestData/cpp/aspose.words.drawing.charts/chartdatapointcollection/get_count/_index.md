@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/get_count/
 
 Returns the number of [ChartDataPoint](../chartdatapoint/) in this collection.
 
+```cpp
+int32_t Aspose::Words::Drawing::Charts::ChartDataPointCollection::get_Count()
+```
+

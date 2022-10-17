@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/folderfontsource/get_scansubfolders/
 
 Determines whether or not to scan the subfolders.
 
+```cpp
+bool Aspose::Words::Fonts::FolderFontSource::get_ScanSubfolders() const
+```
+

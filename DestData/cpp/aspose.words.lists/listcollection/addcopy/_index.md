@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/addcopy/
 
 Creates a new list by copying the specified list and adding it to the collection of lists in the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollection::AddCopy(const System::SharedPtr<Aspose::Words::Lists::List> &srcList)
+```
+

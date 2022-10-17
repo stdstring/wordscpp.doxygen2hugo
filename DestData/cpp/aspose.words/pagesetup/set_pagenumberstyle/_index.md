@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_pagenumberstyle/
 
 Setter for [Aspose::Words::PageSetup::get_PageNumberStyle](./get_pagenumberstyle/).
 
+```cpp
+void Aspose::Words::PageSetup::set_PageNumberStyle(Aspose::Words::NumberStyle value)
+```
+

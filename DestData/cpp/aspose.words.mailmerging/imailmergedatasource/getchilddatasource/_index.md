@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/imailmergedatasource/getchilddatasource/
 
 The Aspose.Words mail merge engine invokes this method when it encounters a beginning of a nested mail merge region.
 
+```cpp
+virtual System::SharedPtr<Aspose::Words::MailMerging::IMailMergeDataSource> Aspose::Words::MailMerging::IMailMergeDataSource::GetChildDataSource(System::String tableName)=0
+```
+

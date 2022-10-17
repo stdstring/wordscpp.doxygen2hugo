@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangeend/get_id/
 
 Specifies a unique read-only persistent numerical Id for this **StructuredDocumentTagRange** node. Corresponding [StructuredDocumentTagRangeStart](../structureddocumenttagrangestart/) node has the same [Id](../structureddocumenttagrangestart/get_id/).
 
+```cpp
+int32_t Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_Id() const
+```
+

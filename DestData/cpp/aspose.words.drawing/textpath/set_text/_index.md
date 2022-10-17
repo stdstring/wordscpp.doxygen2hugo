@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_text/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Text](./get_text/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_Text(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/get_lastbuildingblock/
 
 Gets the last building block in the glossary document.
 
+```cpp
+System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::BuildingBlocks::GlossaryDocument::get_LastBuildingBlock()
+```
+

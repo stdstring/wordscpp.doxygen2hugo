@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitglossarydocumentstart/
 
 Called when enumeration of a glossary document has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGlossaryDocumentStart(System::SharedPtr<Aspose::Words::BuildingBlocks::GlossaryDocument> glossary)
+```
+

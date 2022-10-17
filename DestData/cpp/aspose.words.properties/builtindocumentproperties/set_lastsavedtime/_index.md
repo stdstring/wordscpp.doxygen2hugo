@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_lastsavedtime/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedTime](./get_lastsavedtime/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_LastSavedTime(System::DateTime value)
+```
+

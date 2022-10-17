@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_checked/
 
 Gets or sets the checked status of the check box form field. Default value for this property is **false**.
 
+```cpp
+bool Aspose::Words::Fields::FormField::get_Checked()
+```
+

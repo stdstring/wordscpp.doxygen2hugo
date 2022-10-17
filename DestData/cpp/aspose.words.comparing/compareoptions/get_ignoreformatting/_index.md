@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignoreformatting/
 
 True indicates that formatting is ignored. By default document formatting is not ignored.
 
+```cpp
+bool Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting() const
+```
+

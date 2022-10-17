@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/mergefieldimagedimension/set_value/
 
 The value.
 
+```cpp
+void Aspose::Words::Fields::MergeFieldImageDimension::set_Value(double value)
+```
+

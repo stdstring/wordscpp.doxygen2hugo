@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_kerning/
 
 Setter for [Aspose::Words::Font::get_Kerning](./get_kerning/).
 
+```cpp
+void Aspose::Words::Font::set_Kerning(double value)
+```
+

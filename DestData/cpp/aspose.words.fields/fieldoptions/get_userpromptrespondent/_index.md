@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_userpromptrespondent/
 
 Gets or sets the respondent to user prompts during field update.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::IFieldUserPromptRespondent> & Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent() const
+```
+

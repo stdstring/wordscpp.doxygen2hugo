@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldaddressblock/get_languageid/
 
 Gets or sets the language ID used to format the address.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAddressBlock::get_LanguageId()
+```
+

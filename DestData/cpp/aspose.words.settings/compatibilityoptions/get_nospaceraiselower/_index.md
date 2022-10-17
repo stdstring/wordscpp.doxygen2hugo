@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_nospaceraiselower/
 
 Do Not Increase Line Height for Raised/Lowered Text.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_NoSpaceRaiseLower()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_type/
 
 Returns type of the axis.
 
+```cpp
+Aspose::Words::Drawing::Charts::ChartAxisType Aspose::Words::Drawing::Charts::ChartAxis::get_Type() const
+```
+

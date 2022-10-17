@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldlistnum/set_startingnumber/
 
 Setter for [Aspose::Words::Fields::FieldListNum::get_StartingNumber](./get_startingnumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldListNum::set_StartingNumber(const System::String &value)
+```
+

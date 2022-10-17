@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_datedisplayformat/
 
 String that represents the format in which dates are displayed. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayFormat()
+```
+

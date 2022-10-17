@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::cend() const noexcept
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/set_trim/
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Trim](./get_trim/).
 
+```cpp
+void Aspose::Words::Drawing::TextPath::set_Trim(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_chapterpageseparator/
 
 Sets the separator character that appears between the chapter number and the page number.
 
+```cpp
+void Aspose::Words::PageSetup::set_ChapterPageSeparator(Aspose::Words::ChapterPageSeparator value)
+```
+

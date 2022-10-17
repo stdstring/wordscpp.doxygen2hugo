@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/listindent/
 
 Increases the list level of the current paragraph by one level.
 
+```cpp
+void Aspose::Words::Lists::ListFormat::ListIndent()
+```
+

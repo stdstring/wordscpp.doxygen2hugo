@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/set_startnumber/
 
 Setter for [Aspose::Words::Notes::FootnoteOptions::get_StartNumber](./get_startnumber/).
 
+```cpp
+void Aspose::Words::Notes::FootnoteOptions::set_StartNumber(int32_t value) override
+```
+

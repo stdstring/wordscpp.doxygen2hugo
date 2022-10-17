@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_imagedata/
 
 Returns image data of the picture bullet shape for the current list level.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::ImageData> Aspose::Words::Lists::ListLevel::get_ImageData()
+```
+

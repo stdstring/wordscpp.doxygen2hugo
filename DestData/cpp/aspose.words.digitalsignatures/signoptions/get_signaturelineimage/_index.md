@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/get_signaturelineimage/
 
 The image that will be shown in associated [SignatureLine](../../aspose.words.drawing/signatureline/). Default value is **null**.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineImage() const
+```
+

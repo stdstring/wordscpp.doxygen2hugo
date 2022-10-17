@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/hyphenationoptions/set_hyphenatecaps/
 
 Setter for [Aspose::Words::Settings::HyphenationOptions::get_HyphenateCaps](./get_hyphenatecaps/).
 
+```cpp
+void Aspose::Words::Settings::HyphenationOptions::set_HyphenateCaps(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldta/set_entrycategory/
 
 Setter for [Aspose::Words::Fields::FieldTA::get_EntryCategory](./get_entrycategory/).
 
+```cpp
+void Aspose::Words::Fields::FieldTA::set_EntryCategory(const System::String &value)
+```
+

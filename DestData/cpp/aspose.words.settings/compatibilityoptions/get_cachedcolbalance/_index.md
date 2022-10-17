@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_cachedcolbalance/
 
 Use Cached [Paragraph](../../aspose.words/paragraph/) Information for Column Balancing.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_CachedColBalance()
+```
+

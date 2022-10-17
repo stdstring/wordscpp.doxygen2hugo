@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_revisions/
 
 Gets a collection of revisions (tracked changes) that exist in this document.
 
+```cpp
+System::SharedPtr<Aspose::Words::RevisionCollection> Aspose::Words::Document::get_Revisions()
+```
+

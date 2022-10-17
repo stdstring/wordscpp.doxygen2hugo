@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_type/
 
 Gets the style type (paragraph or character).
 
+```cpp
+Aspose::Words::StyleType Aspose::Words::Style::get_Type() const
+```
+

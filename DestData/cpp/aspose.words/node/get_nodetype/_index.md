@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/get_nodetype/
 
 Gets the type of this node.
 
+```cpp
+virtual Aspose::Words::NodeType Aspose::Words::Node::get_NodeType() const =0
+```
+

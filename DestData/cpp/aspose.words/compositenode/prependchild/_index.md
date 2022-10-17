@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/prependchild/
 
 Adds the specified node to the beginning of the list of child nodes for this node.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::PrependChild(const System::SharedPtr<Aspose::Words::Node> &newChild)
+```
+

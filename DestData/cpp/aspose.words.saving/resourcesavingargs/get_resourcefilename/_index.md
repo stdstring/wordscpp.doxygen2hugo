@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcefilename/
 
 Gets or sets the file name (without path) where the resource will be saved to.
 
+```cpp
+System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName() const
+```
+

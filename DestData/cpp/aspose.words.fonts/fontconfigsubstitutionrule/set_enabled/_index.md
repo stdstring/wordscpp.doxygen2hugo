@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/set_enabled/
 
 Specifies whether the rule is enabled or not.
 
+```cpp
+void Aspose::Words::Fonts::FontConfigSubstitutionRule::set_Enabled(bool value) override
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_imageresolution/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImageResolution](./get_imageresolution/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ImageResolution(int32_t value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_characterunitfirstlineindent/
 
 Setter for [Aspose::Words::ParagraphFormat::get_CharacterUnitFirstLineIndent](./get_characterunitfirstlineindent/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_CharacterUnitFirstLineIndent(double value)
+```
+

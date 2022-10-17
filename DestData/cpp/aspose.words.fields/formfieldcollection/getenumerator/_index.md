@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfieldcollection/getenumerator/
 
 Returns an enumerator object.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Fields::FormField>>> Aspose::Words::Fields::FormFieldCollection::GetEnumerator() override
+```
+

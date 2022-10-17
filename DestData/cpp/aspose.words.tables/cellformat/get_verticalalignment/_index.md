@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_verticalalignment/
 
 Returns or sets the vertical alignment of text in the cell.
 
+```cpp
+Aspose::Words::Tables::CellVerticalAlignment Aspose::Words::Tables::CellFormat::get_VerticalAlignment()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/get_author/
 
 Gets or sets the author of this revision. Can not be empty string or null.
 
+```cpp
+System::String Aspose::Words::Revision::get_Author()
+```
+

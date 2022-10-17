@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_fontformat/
 
 Gets or sets [ExportFontFormat](../exportfontformat/) used for font exporting. Default value is **Woff**.
 
+```cpp
+Aspose::Words::Saving::ExportFontFormat Aspose::Words::Saving::HtmlFixedSaveOptions::get_FontFormat() const
+```
+

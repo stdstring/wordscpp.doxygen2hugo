@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabase/fielddatabase/
 
 
 
+```cpp
+Aspose::Words::Fields::FieldDatabase::FieldDatabase()
+```
+

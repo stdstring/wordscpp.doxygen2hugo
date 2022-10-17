@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/removeexternalschemareferences/
 
 Removes external XML schema references from this document.
 
+```cpp
+void Aspose::Words::Document::RemoveExternalSchemaReferences()
+```
+

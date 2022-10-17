@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/odtsaveoptions/set_saveformat/
 
 Setter for [Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat](./get_saveformat/).
 
+```cpp
+void Aspose::Words::Saving::OdtSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override
+```
+

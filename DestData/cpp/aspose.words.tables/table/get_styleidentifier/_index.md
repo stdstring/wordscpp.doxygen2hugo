@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_styleidentifier/
 
 Gets or sets the locale independent style identifier of the table style applied to this table.
 
+```cpp
+Aspose::Words::StyleIdentifier Aspose::Words::Tables::Table::get_StyleIdentifier()
+```
+

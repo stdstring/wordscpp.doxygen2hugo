@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_barcodegenerator/
 
 Gets or set custom barcode generator.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::IBarcodeGenerator> & Aspose::Words::Fields::FieldOptions::get_BarcodeGenerator() const
+```
+

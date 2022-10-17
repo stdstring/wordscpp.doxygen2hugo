@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsorecipientdata/get_uniquetag/
 
 Specifies the contents of a given record in the column containing unique data. The default value is **null**.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Settings::OdsoRecipientData::get_UniqueTag() const
+```
+

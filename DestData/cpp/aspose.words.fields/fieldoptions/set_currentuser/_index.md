@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_currentuser/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_CurrentUser](./get_currentuser/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_CurrentUser(const System::SharedPtr<Aspose::Words::Fields::UserInformation> &value)
+```
+

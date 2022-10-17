@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_lastrow/
 
 Returns the last **Row** node in the table.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::Tables::Table::get_LastRow()
+```
+

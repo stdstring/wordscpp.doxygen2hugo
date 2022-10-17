@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcefilename/
 
 Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName](./get_resourcefilename/).
 
+```cpp
+void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName(const System::String &value)
+```
+

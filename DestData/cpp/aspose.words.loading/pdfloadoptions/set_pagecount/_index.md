@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/pdfloadoptions/set_pagecount/
 
 Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read.
 
+```cpp
+void Aspose::Words::Loading::PdfLoadOptions::set_PageCount(int32_t value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/set_attachedtemplate/
 
 Setter for [Aspose::Words::Document::get_AttachedTemplate](./get_attachedtemplate/).
 
+```cpp
+void Aspose::Words::Document::set_AttachedTemplate(const System::String &value)
+```
+

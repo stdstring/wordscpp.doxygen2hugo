@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldpageref/set_inserthyperlink/
 
 Setter for [Aspose::Words::Fields::FieldPageRef::get_InsertHyperlink](./get_inserthyperlink/).
 
+```cpp
+void Aspose::Words::Fields::FieldPageRef::set_InsertHyperlink(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_document/
 
 Returns the [Document](./get_document/) object for which the mail merge is performed.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Document> & Aspose::Words::MailMerging::FieldMergingArgsBase::get_Document() const
+```
+

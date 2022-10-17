@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/get_family/
 
 Gets or sets the font family this font belongs to.
 
+```cpp
+Aspose::Words::Fonts::FontFamily Aspose::Words::Fonts::FontInfo::get_Family() const
+```
+

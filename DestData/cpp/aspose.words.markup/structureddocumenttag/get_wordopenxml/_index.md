@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_wordopenxml/
 
 Gets a string that represents the XML contained within the node in the **FlatOpc** format.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_WordOpenXML() override
+```
+

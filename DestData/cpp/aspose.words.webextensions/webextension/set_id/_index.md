@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextension/set_id/
 
 Uniquely identifies the web extension instance in the current document.
 
+```cpp
+void Aspose::Words::WebExtensions::WebExtension::set_Id(const System::String &value)
+```
+

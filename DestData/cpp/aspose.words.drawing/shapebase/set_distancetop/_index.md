@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_distancetop/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceTop](./get_distancetop/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_DistanceTop(double value)
+```
+

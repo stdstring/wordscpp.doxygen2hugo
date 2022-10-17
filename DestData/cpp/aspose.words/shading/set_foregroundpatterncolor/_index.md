@@ -11,3 +11,7 @@ url: /cpp/aspose.words/shading/set_foregroundpatterncolor/
 
 Setter for [Aspose::Words::Shading::get_ForegroundPatternColor](./get_foregroundpatterncolor/).
 
+```cpp
+void Aspose::Words::Shading::set_ForegroundPatternColor(System::Drawing::Color value)
+```
+

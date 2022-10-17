@@ -11,3 +11,7 @@ url: /cpp/aspose.words/frameformat/get_relativehorizontalposition/
 
 Gets the relative horizontal position of a frame.
 
+```cpp
+Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::FrameFormat::get_RelativeHorizontalPosition()
+```
+

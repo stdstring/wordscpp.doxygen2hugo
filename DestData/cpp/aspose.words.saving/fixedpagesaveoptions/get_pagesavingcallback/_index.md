@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_pagesavingcallback/
 
 Allows to control how separate pages are saved when a document is exported to fixed page format.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::IPageSavingCallback> Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback() const
+```
+

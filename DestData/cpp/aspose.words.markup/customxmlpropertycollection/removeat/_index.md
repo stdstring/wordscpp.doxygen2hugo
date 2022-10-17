@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/removeat/
 
 Removes a property at the specified index.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlPropertyCollection::RemoveAt(int32_t index)
+```
+

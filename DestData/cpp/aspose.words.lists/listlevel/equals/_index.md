@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/equals/
 
 Compares with the specified [ListLevel](./).
 
+```cpp
+bool Aspose::Words::Lists::ListLevel::Equals(const System::SharedPtr<Aspose::Words::Lists::ListLevel> &level)
+```
+

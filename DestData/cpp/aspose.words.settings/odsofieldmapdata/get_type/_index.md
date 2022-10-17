@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdata/get_type/
 
 Specifies if a given mail merge field has been mapped to a column in the given external data source or not. The default value is **Default**.
 
+```cpp
+Aspose::Words::Settings::OdsoFieldMappingType Aspose::Words::Settings::OdsoFieldMapData::get_Type() const
+```
+

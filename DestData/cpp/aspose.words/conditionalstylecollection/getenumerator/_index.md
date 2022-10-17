@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/getenumerator/
 
 Returns an enumerator object that can be used to iterate over all conditional styles in the collection.
 
+```cpp
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::ConditionalStyle>>> Aspose::Words::ConditionalStyleCollection::GetEnumerator() override
+```
+

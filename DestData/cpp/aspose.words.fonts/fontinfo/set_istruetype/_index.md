@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/set_istruetype/
 
 Setter for [Aspose::Words::Fonts::FontInfo::get_IsTrueType](./get_istruetype/).
 
+```cpp
+void Aspose::Words::Fonts::FontInfo::set_IsTrueType(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_endarrowtype/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_EndArrowType](./get_endarrowtype/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_EndArrowType(Aspose::Words::Drawing::ArrowType value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/pushfont/
 
 Saves current character formatting onto the stack.
 
+```cpp
+void Aspose::Words::DocumentBuilder::PushFont()
+```
+

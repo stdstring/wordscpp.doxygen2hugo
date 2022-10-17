@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_opacity/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_Opacity](./get_opacity/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_Opacity(double value)
+```
+

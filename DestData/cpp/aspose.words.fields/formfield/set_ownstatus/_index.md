@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/set_ownstatus/
 
 Setter for [Aspose::Words::Fields::FormField::get_OwnStatus](./get_ownstatus/).
 
+```cpp
+void Aspose::Words::Fields::FormField::set_OwnStatus(bool value)
+```
+

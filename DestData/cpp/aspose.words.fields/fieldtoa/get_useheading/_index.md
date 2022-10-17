@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/get_useheading/
 
 Gets or sets whether to include the category heading for the entries in a table of authorities.
 
+```cpp
+bool Aspose::Words::Fields::FieldToa::get_UseHeading()
+```
+

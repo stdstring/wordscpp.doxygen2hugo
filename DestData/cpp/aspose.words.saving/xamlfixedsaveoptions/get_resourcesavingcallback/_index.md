@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/xamlfixedsaveoptions/get_resourcesavingcallback/
 
 Allows to control how resources (images and fonts) are saved when a document is exported to fixed page Xaml format.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback() const
+```
+

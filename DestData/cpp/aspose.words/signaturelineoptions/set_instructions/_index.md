@@ -11,3 +11,7 @@ url: /cpp/aspose.words/signaturelineoptions/set_instructions/
 
 Setter for [Aspose::Words::SignatureLineOptions::get_Instructions](./get_instructions/).
 
+```cpp
+void Aspose::Words::SignatureLineOptions::set_Instructions(const System::String &value)
+```
+

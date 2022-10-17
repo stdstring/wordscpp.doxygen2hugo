@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/set_hidden/
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden](./get_hidden/).
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartAxis::set_Hidden(bool value)
+```
+

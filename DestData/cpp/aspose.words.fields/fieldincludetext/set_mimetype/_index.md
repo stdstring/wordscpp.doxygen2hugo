@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_mimetype/
 
 Setter for [Aspose::Words::Fields::FieldIncludeText::get_MimeType](./get_mimetype/).
 
+```cpp
+void Aspose::Words::Fields::FieldIncludeText::set_MimeType(const System::String &value)
+```
+

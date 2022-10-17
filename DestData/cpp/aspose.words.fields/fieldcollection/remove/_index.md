@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcollection/remove/
 
 Removes the specified field from this collection and from the document.
 
+```cpp
+void Aspose::Words::Fields::FieldCollection::Remove(const System::SharedPtr<Aspose::Words::Fields::Field> &field)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/imagewatermarkoptions/get_scale/
 
 Gets or sets the scale factor expressed as a fraction of the image. The default value is 0 - auto.
 
+```cpp
+double Aspose::Words::ImageWatermarkOptions::get_Scale() const
+```
+

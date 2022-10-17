@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/get_maindocumenttype/
 
 Specifies the mail-merge main document type. The default value is **Default**.
 
+```cpp
+Aspose::Words::Settings::MailMergeMainDocumentType Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType() const
+```
+

@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.lists/listlevelcollection/end/
 ---
-## ListLevelCollection.end method
+## ListLevelCollection.end() const method
 
 
 
 
----
-title: end
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.lists/listlevelcollection/end/
----
-## ListLevelCollection.end method
+```cpp
+const_iterator Aspose::Words::Lists::ListLevelCollection::end() const noexcept
+```
+
+## ListLevelCollection.end() method
 
 
 
+
+```cpp
+iterator Aspose::Words::Lists::ListLevelCollection::end() noexcept
+```
 

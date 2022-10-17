@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_outline/
 
 Setter for [Aspose::Words::Font::get_Outline](./get_outline/).
 
+```cpp
+void Aspose::Words::Font::set_Outline(bool value)
+```
+

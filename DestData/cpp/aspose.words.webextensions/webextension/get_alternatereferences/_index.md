@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/webextension/get_alternatereferences/
 
 Specifies alternate references to a web extension.
 
+```cpp
+System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionReferenceCollection> Aspose::Words::WebExtensions::WebExtension::get_AlternateReferences() const
+```
+

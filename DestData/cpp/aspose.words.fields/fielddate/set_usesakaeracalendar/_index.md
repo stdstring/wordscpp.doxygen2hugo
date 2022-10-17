@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddate/set_usesakaeracalendar/
 
 Setter for [Aspose::Words::Fields::FieldDate::get_UseSakaEraCalendar](./get_usesakaeracalendar/).
 
+```cpp
+void Aspose::Words::Fields::FieldDate::set_UseSakaEraCalendar(bool value)
+```
+

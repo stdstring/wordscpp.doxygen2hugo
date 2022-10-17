@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/axisbound/get_valueasdate/
 
 Returns value of axis bound represented as datetime.
 
+```cpp
+System::DateTime Aspose::Words::Drawing::Charts::AxisBound::get_ValueAsDate()
+```
+

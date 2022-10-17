@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/set_forcecopystyles/
 
 Setter for [Aspose::Words::ImportFormatOptions::get_ForceCopyStyles](./get_forcecopystyles/).
 
+```cpp
+void Aspose::Words::ImportFormatOptions::set_ForceCopyStyles(bool value)
+```
+

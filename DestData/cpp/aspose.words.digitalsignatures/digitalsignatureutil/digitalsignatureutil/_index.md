@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/digitalsignatureut
 
 
 
+```cpp
+Aspose::Words::DigitalSignatures::DigitalSignatureUtil::DigitalSignatureUtil()=delete
+```
+

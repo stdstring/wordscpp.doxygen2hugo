@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/set_isdirty/
 
 Setter for [Aspose::Words::Fields::Field::get_IsDirty](./get_isdirty/).
 
+```cpp
+void Aspose::Words::Fields::Field::set_IsDirty(bool value)
+```
+

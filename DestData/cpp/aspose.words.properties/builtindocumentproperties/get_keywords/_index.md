@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_keywords/
 
 Gets or sets the document keywords.
 
+```cpp
+System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords()
+```
+

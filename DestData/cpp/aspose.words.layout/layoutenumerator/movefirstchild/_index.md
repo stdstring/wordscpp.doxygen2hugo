@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/movefirstchild/
 
 Moves to the first child entity.
 
+```cpp
+bool Aspose::Words::Layout::LayoutEnumerator::MoveFirstChild()
+```
+

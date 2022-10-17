@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/get_bookmarks/
 
 Returns a [Bookmarks](./get_bookmarks/) collection that represents all bookmarks in the range.
 
+```cpp
+System::SharedPtr<Aspose::Words::BookmarkCollection> Aspose::Words::Range::get_Bookmarks()
+```
+

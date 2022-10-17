@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbaproject/get_issigned/
 
 Shows whether the [VbaProject](./) is signed or not.
 
+```cpp
+bool Aspose::Words::Vba::VbaProject::get_IsSigned()
+```
+

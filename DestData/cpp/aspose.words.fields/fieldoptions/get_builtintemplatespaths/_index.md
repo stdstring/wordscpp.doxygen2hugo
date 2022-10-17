@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_builtintemplatespaths/
 
 Gets or sets paths of MS Word built-in templates.
 
+```cpp
+System::ArrayPtr<System::String> Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths() const
+```
+

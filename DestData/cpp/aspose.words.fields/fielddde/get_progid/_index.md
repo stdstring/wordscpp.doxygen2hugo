@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddde/get_progid/
 
 Gets or sets the application type of the link information.
 
+```cpp
+System::String Aspose::Words::Fields::FieldDde::get_ProgId()
+```
+

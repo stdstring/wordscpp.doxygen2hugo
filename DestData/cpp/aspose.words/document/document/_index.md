@@ -6,86 +6,66 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/document/document/
 ---
-## Document.Document method
+## Document.Document() method
 
 
 Creates a blank Word document.
 
----
-title: Document
-second_title: Aspose.Words for C++ API Reference
-description: Opens an existing document from a stream. Automatically detects the file format. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/document/
----
-## Document.Document method
+```cpp
+Aspose::Words::Document::Document()
+```
+
+## Document.Document(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Opens an existing document from a stream. Automatically detects the file format.
 
----
-title: Document
-second_title: Aspose.Words for C++ API Reference
-description: Opens an existing document from a stream. Allows to specify additional options such as an encryption password. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/document/
----
-## Document.Document method
+```cpp
+Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &stream)
+```
+
+## Document.Document(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
 Opens an existing document from a stream. Allows to specify additional options such as an encryption password.
 
----
-title: Document
-second_title: Aspose.Words for C++ API Reference
-description: Opens an existing document from a file. Automatically detects the file format. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/document/
----
-## Document.Document method
+```cpp
+Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<Aspose::Words::Loading::LoadOptions> &loadOptions)
+```
+
+## Document.Document(const System::String\&) method
 
 
 Opens an existing document from a file. Automatically detects the file format.
 
----
-title: Document
-second_title: Aspose.Words for C++ API Reference
-description: Opens an existing document from a file. Allows to specify additional options such as an encryption password. 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/document/
----
-## Document.Document method
+```cpp
+Aspose::Words::Document::Document(const System::String &fileName)
+```
+
+## Document.Document(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
 Opens an existing document from a file. Allows to specify additional options such as an encryption password.
 
----
-title: Document
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/document/
----
-## Document.Document method
+```cpp
+Aspose::Words::Document::Document(const System::String &fileName, const System::SharedPtr<Aspose::Words::Loading::LoadOptions> &loadOptions)
+```
+
+## Document.Document(std::istream\&) method
 
 
 
 
----
-title: Document
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/document/document/
----
-## Document.Document method
+```cpp
+Aspose::Words::Document::Document(std::istream &stream)
+```
+
+## Document.Document(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
 
+
+```cpp
+Aspose::Words::Document::Document(std::istream &stream, const System::SharedPtr<Aspose::Words::Loading::LoadOptions> &loadOptions)
+```
 

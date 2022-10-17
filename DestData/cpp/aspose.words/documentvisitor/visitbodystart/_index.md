@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitbodystart/
 
 Called when enumeration of the main text story in a section has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBodyStart(System::SharedPtr<Aspose::Words::Body> body)
+```
+

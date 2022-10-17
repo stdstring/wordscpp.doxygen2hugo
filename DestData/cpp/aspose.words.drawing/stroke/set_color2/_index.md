@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/set_color2/
 
 Setter for [Aspose::Words::Drawing::Stroke::get_Color2](./get_color2/).
 
+```cpp
+void Aspose::Words::Drawing::Stroke::set_Color2(System::Drawing::Color value)
+```
+

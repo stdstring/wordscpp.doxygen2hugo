@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/get_pagestream/
 
 Allows to specify the stream where the document page will be saved to.
 
+```cpp
+System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::PageSavingArgs::get_PageStream() const
+```
+

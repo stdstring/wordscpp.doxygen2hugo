@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_findwholewordsonly/
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly](./get_findwholewordsonly/).
 
+```cpp
+void Aspose::Words::Replacing::FindReplaceOptions::set_FindWholeWordsOnly(bool value)
+```
+

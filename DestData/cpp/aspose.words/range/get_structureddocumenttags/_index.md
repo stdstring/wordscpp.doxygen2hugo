@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/get_structureddocumenttags/
 
 Returns a [StructuredDocumentTags](./get_structureddocumenttags/) collection that represents all structured document tags in the range.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::StructuredDocumentTagCollection> Aspose::Words::Range::get_StructuredDocumentTags()
+```
+

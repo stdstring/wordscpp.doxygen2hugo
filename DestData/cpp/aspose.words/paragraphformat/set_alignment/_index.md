@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/set_alignment/
 
 Setter for [Aspose::Words::ParagraphFormat::get_Alignment](./get_alignment/).
 
+```cpp
+void Aspose::Words::ParagraphFormat::set_Alignment(Aspose::Words::ParagraphAlignment value)
+```
+

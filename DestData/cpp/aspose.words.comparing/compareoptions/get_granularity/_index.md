@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_granularity/
 
 Specifies whether changes are tracked by character or by word. Default value is **WordLevel**.
 
+```cpp
+Aspose::Words::Comparing::Granularity Aspose::Words::Comparing::CompareOptions::get_Granularity() const
+```
+

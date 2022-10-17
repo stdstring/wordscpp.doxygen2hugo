@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_numberformat/
 
 Returns number format of the parent element.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartNumberFormat> Aspose::Words::Drawing::Charts::ChartDataLabel::get_NumberFormat()
+```
+

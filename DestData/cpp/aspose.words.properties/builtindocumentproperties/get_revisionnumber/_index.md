@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_revisionnumber/
 
 Gets or sets the document revision number.
 
+```cpp
+int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber()
+```
+

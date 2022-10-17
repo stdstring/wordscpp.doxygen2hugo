@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldfillin/get_prompttext/
 
 Gets or sets the prompt text (the title of the prompt window).
 
+```cpp
+System::String Aspose::Words::Fields::FieldFillIn::get_PromptText()
+```
+

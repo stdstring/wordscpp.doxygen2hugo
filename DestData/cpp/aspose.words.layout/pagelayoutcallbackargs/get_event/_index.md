@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_event/
 
 Gets event.
 
+```cpp
+Aspose::Words::Layout::PageLayoutEvent Aspose::Words::Layout::PageLayoutCallbackArgs::get_Event() const
+```
+

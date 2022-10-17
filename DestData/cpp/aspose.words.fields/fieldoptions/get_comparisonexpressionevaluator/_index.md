@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_comparisonexpressionevaluator/
 
 Gets or sets the field comparison expressions evaluator.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::IComparisonExpressionEvaluator> & Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator() const
+```
+

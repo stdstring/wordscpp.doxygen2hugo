@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/set_leftindent/
 
 Setter for [Aspose::Words::TableStyle::get_LeftIndent](./get_leftindent/).
 
+```cpp
+void Aspose::Words::TableStyle::set_LeftIndent(double value)
+```
+

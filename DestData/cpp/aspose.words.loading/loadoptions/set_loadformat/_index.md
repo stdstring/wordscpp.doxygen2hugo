@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_loadformat/
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_LoadFormat](./get_loadformat/).
 
+```cpp
+void Aspose::Words::Loading::LoadOptions::set_LoadFormat(Aspose::Words::LoadFormat value)
+```
+

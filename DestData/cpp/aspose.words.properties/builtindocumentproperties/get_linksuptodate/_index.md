@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/get_linksuptodate/
 
 Indicates whether hyperlinks in a document are up-to-date.
 
+```cpp
+bool Aspose::Words::Properties::BuiltInDocumentProperties::get_LinksUpToDate()
+```
+

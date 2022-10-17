@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/get_headerfooterbookmarksexportmode
 
 Determines how bookmarks in headers/footers are exported.
 
+```cpp
+Aspose::Words::Saving::HeaderFooterBookmarksExportMode Aspose::Words::Saving::PdfSaveOptions::get_HeaderFooterBookmarksExportMode() const
+```
+

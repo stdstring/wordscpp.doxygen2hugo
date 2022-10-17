@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfield/get_exitmacro/
 
 Returns or sets an exit macro name for the form field.
 
+```cpp
+System::String Aspose::Words::Fields::FormField::get_ExitMacro()
+```
+

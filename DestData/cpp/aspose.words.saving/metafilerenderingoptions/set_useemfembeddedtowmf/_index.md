@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/metafilerenderingoptions/set_useemfembeddedtowmf/
 
 Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_UseEmfEmbeddedToWmf](./get_useemfembeddedtowmf/).
 
+```cpp
+void Aspose::Words::Saving::MetafileRenderingOptions::set_UseEmfEmbeddedToWmf(bool value)
+```
+

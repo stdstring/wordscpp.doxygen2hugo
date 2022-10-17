@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldref/set_insertparagraphnumber/
 
 Setter for [Aspose::Words::Fields::FieldRef::get_InsertParagraphNumber](./get_insertparagraphnumber/).
 
+```cpp
+void Aspose::Words::Fields::FieldRef::set_InsertParagraphNumber(bool value)
+```
+

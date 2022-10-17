@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/get_useantialiasing/
 
 Gets or sets a value determining whether or not to use anti-aliasing for rendering.
 
+```cpp
+bool Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing() const
+```
+

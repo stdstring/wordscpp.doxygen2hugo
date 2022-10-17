@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/get_ignorecomments/
 
 Specifies whether to compare differences in comments. By default comments are not ignored.
 
+```cpp
+bool Aspose::Words::Comparing::CompareOptions::get_IgnoreComments() const
+```
+

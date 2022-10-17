@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_datetime/
 
 Gets the date and time that the comment was made.
 
+```cpp
+System::DateTime Aspose::Words::Comment::get_DateTime() const
+```
+

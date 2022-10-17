@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/clearformatting/
 
 Resets to default cell formatting. Does not change the width of the cell.
 
+```cpp
+void Aspose::Words::Tables::CellFormat::ClearFormatting()
+```
+

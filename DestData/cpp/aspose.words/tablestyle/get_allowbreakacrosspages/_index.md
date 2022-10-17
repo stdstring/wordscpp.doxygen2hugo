@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/get_allowbreakacrosspages/
 
 Gets or sets a flag indicating whether text in a table row is allowed to split across a page break.
 
+```cpp
+bool Aspose::Words::TableStyle::get_AllowBreakAcrossPages()
+```
+

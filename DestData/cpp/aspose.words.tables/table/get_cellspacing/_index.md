@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_cellspacing/
 
 Gets or sets the amount of space (in points) between the cells.
 
+```cpp
+double Aspose::Words::Tables::Table::get_CellSpacing()
+```
+

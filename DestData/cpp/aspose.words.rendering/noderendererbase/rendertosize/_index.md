@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/rendertosize/
 
 Renders the shape into a **Graphics** object to a specified size.
 
+```cpp
+float Aspose::Words::Rendering::NodeRendererBase::RenderToSize(const System::SharedPtr<System::Drawing::Graphics> &graphics, float x, float y, float width, float height)
+```
+

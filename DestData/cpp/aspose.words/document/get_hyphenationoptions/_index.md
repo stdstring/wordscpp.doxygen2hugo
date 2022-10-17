@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_hyphenationoptions/
 
 Provides access to document hyphenation options.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::HyphenationOptions> Aspose::Words::Document::get_HyphenationOptions()
+```
+

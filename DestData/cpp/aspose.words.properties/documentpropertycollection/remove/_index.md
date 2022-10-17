@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/remove/
 
 Removes a property with the specified name from the collection.
 
+```cpp
+void Aspose::Words::Properties::DocumentPropertyCollection::Remove(const System::String &name)
+```
+

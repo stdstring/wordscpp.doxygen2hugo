@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/preferredwidth/tostring/
 
 Returns a user-friendly string that displays the value of this object.
 
+```cpp
+System::String Aspose::Words::Tables::PreferredWidth::ToString() const override
+```
+

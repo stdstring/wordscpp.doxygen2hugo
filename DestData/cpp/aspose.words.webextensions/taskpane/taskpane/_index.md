@@ -11,3 +11,7 @@ url: /cpp/aspose.words.webextensions/taskpane/taskpane/
 
 
 
+```cpp
+Aspose::Words::WebExtensions::TaskPane::TaskPane()
+```
+

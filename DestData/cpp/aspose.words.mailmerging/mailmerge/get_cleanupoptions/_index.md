@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_cleanupoptions/
 
 Gets a set of flags that specify what items should be removed during mail merge.
 
+```cpp
+Aspose::Words::MailMerging::MailMergeCleanupOptions Aspose::Words::MailMerging::MailMerge::get_CleanupOptions() const
+```
+

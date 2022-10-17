@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoa/get_entryseparator/
 
 Gets or sets the character sequence that is used to separate a table of authorities entry and its page number.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToa::get_EntrySeparator()
+```
+

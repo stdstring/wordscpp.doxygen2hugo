@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/insertnode/
 
 Inserts a text level node inside the current paragraph before the cursor.
 
+```cpp
+void Aspose::Words::DocumentBuilder::InsertNode(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textwatermarkoptions/set_color/
 
 Setter for [Aspose::Words::TextWatermarkOptions::get_Color](./get_color/).
 
+```cpp
+void Aspose::Words::TextWatermarkOptions::set_Color(System::Drawing::Color value)
+```
+

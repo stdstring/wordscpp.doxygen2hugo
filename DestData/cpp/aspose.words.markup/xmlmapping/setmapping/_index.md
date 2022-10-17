@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/xmlmapping/setmapping/
 
 Sets a mapping between the parent structured document tag and an XML node of a custom XML data part.
 
+```cpp
+bool Aspose::Words::Markup::XmlMapping::SetMapping(const System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> &customXmlPart, const System::String &xPath, const System::String &prefixMapping)
+```
+

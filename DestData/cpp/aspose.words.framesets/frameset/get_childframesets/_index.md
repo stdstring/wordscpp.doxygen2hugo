@@ -11,3 +11,7 @@ url: /cpp/aspose.words.framesets/frameset/get_childframesets/
 
 Gets the collection of child frames and frames pages.
 
+```cpp
+System::SharedPtr<Aspose::Words::Framesets::FramesetCollection> Aspose::Words::Framesets::Frameset::get_ChildFramesets() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_recordindex/
 
 Gets the zero based index of the record that is being merged.
 
+```cpp
+int32_t Aspose::Words::MailMerging::FieldMergingArgsBase::get_RecordIndex() const
+```
+

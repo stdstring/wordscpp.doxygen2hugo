@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_title/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Title](./get_title/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_Title(System::String value) override
+```
+

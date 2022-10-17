@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_pagenumberomittinglevelrange/
 
 Gets or sets a range of levels of the table of contents entries from which to omits page numbers.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_PageNumberOmittingLevelRange()
+```
+

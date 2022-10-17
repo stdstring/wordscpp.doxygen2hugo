@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstyle/equals/
 
 
 
+```cpp
+bool Aspose::Words::ConditionalStyle::Equals(System::SharedPtr<System::Object> obj) override
+```
+

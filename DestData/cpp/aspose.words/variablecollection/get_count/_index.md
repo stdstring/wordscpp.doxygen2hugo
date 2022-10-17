@@ -11,3 +11,7 @@ url: /cpp/aspose.words/variablecollection/get_count/
 
 Gets the number of elements contained in the collection.
 
+```cpp
+int32_t Aspose::Words::VariableCollection::get_Count()
+```
+

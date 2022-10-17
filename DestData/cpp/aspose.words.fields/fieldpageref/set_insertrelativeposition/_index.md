@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldpageref/set_insertrelativeposition/
 
 Setter for [Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition](./get_insertrelativeposition/).
 
+```cpp
+void Aspose::Words::Fields::FieldPageRef::set_InsertRelativePosition(bool value)
+```
+

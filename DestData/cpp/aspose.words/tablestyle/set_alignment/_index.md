@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tablestyle/set_alignment/
 
 Setter for [Aspose::Words::TableStyle::get_Alignment](./get_alignment/).
 
+```cpp
+void Aspose::Words::TableStyle::set_Alignment(Aspose::Words::Tables::TableAlignment value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_donotsuppressparagraphb
 
 Do Not Suppress [Paragraph](../../aspose.words/paragraph/) Borders Next To Frames.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_DoNotSuppressParagraphBorders(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/addreply/
 
 Adds a reply to this comment.
 
+```cpp
+System::SharedPtr<Aspose::Words::Comment> Aspose::Words::Comment::AddReply(const System::String &author, const System::String &initial, System::DateTime dateTime, const System::String &text)
+```
+

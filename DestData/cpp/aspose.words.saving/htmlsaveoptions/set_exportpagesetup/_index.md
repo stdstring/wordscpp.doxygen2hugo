@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportpagesetup/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup](./get_exportpagesetup/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportPageSetup(bool value)
+```
+

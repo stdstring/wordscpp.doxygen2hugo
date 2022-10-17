@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chart/get_axisz/
 
 Provides access to properties of the Z axis of the chart.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Charts::ChartAxis> Aspose::Words::Drawing::Charts::Chart::get_AxisZ()
+```
+

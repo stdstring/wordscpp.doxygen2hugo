@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_oddrowbanding/
 
 Gets the odd row banding style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalStyleCollection::get_OddRowBanding()
+```
+

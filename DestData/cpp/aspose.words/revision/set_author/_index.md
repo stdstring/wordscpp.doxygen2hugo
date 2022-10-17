@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/set_author/
 
 Setter for [Aspose::Words::Revision::get_Author](./get_author/).
 
+```cpp
+void Aspose::Words::Revision::set_Author(const System::String &value)
+```
+

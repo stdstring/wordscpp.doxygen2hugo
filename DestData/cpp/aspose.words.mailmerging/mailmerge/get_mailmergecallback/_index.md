@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/get_mailmergecallback/
 
 Allows to handle particular events during mail merge.
 
+```cpp
+const System::SharedPtr<Aspose::Words::MailMerging::IMailMergeCallback> & Aspose::Words::MailMerging::MailMerge::get_MailMergeCallback() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbareferencecollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::Vba::VbaReferenceCollection::cbegin() const noexcept
+```
+

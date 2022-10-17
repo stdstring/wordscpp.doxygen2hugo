@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/field/get_isdirty/
 
 Gets or sets whether the current result of the field is no longer correct (stale) due to other modifications made to the document.
 
+```cpp
+bool Aspose::Words::Fields::Field::get_IsDirty()
+```
+

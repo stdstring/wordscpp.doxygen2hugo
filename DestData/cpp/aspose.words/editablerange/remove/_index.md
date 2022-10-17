@@ -11,3 +11,7 @@ url: /cpp/aspose.words/editablerange/remove/
 
 Removes the editable range from the document. Does not remove content inside the editable range.
 
+```cpp
+void Aspose::Words::EditableRange::Remove()
+```
+

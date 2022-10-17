@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_originalfilename/
 
 Gets the original file name of the document.
 
+```cpp
+System::String Aspose::Words::Document::get_OriginalFileName() const
+```
+

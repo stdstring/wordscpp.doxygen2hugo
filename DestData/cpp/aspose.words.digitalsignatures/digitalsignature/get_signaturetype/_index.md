@@ -11,3 +11,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_signaturetype/
 
 Gets the type of the digital signature.
 
+```cpp
+Aspose::Words::DigitalSignatures::DigitalSignatureType Aspose::Words::DigitalSignatures::DigitalSignature::get_SignatureType() const
+```
+

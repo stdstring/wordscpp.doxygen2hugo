@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/row/get_rowformat/
 
 Provides access to the formatting properties of the row.
 
+```cpp
+System::SharedPtr<Aspose::Words::Tables::RowFormat> Aspose::Words::Tables::Row::get_RowFormat()
+```
+

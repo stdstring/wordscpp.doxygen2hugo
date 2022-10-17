@@ -6,34 +6,30 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/
 ---
-## DigitalSignatureUtil.LoadSignatures method
+## DigitalSignatureUtil.LoadSignatures(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Loads digital signatures from document using stream.
 
----
-title: LoadSignatures
-second_title: Aspose.Words for C++ API Reference
-description: Loads digital signatures from document. 
-type: docs
-weight: 0
-url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/
----
-## DigitalSignatureUtil.LoadSignatures method
+```cpp
+static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureCollection> Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures(const System::SharedPtr<System::IO::Stream> &stream)
+```
+
+## DigitalSignatureUtil.LoadSignatures(const System::String\&) method
 
 
 Loads digital signatures from document.
 
----
-title: LoadSignatures
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/
----
-## DigitalSignatureUtil.LoadSignatures method
+```cpp
+static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureCollection> Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures(const System::String &fileName)
+```
+
+## DigitalSignatureUtil.LoadSignatures(std::basic_istream\<CharType, Traits\>\&) method
 
 
 
+
+```cpp
+static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureCollection> Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures(std::basic_istream<CharType, Traits> &stream)
+```
 

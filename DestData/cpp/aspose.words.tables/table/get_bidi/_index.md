@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_bidi/
 
 Gets or sets whether this is a right-to-left table.
 
+```cpp
+bool Aspose::Words::Tables::Table::get_Bidi()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/clear/
 
 Removes all properties from the collection.
 
+```cpp
+void Aspose::Words::Properties::DocumentPropertyCollection::Clear()
+```
+

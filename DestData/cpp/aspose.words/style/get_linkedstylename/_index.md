@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_linkedstylename/
 
 Gets the name of the [Style](./) linked to this one. Returns Empty string if no styles are linked.
 
+```cpp
+System::String Aspose::Words::Style::get_LinkedStyleName()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/warninginfocollection/cend/
 
 
 
+```cpp
+const_iterator Aspose::Words::WarningInfoCollection::cend() const noexcept
+```
+

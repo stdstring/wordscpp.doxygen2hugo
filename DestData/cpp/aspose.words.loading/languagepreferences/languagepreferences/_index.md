@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/languagepreferences/languagepreferences/
 
 
 
+```cpp
+Aspose::Words::Loading::LanguagePreferences::LanguagePreferences()
+```
+

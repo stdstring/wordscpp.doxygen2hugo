@@ -11,3 +11,7 @@ url: /cpp/aspose.words/fileformatinfo/get_loadformat/
 
 Gets the detected document format.
 
+```cpp
+Aspose::Words::LoadFormat Aspose::Words::FileFormatInfo::get_LoadFormat() const
+```
+

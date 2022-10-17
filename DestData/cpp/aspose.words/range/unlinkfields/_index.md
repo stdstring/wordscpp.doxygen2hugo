@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/unlinkfields/
 
 Unlinks fields in this range.
 
+```cpp
+void Aspose::Words::Range::UnlinkFields()
+```
+

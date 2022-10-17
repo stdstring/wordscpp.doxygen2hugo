@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldstyleref/set_stylename/
 
 Setter for [Aspose::Words::Fields::FieldStyleRef::get_StyleName](./get_stylename/).
 
+```cpp
+void Aspose::Words::Fields::FieldStyleRef::set_StyleName(const System::String &value)
+```
+

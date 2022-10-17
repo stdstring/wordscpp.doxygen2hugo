@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_linesperpage/
 
 Gets or sets the number of lines per page in the document grid.
 
+```cpp
+int32_t Aspose::Words::PageSetup::get_LinesPerPage()
+```
+

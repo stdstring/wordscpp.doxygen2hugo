@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/selectsinglenode/
 
 Selects the first [Node](../node/) that matches the XPath expression.
 
+```cpp
+System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::SelectSingleNode(const System::String &xpath)
+```
+

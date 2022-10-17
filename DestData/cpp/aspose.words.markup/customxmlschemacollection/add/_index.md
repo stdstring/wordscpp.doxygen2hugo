@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/add/
 
 Adds an item to the collection.
 
+```cpp
+void Aspose::Words::Markup::CustomXmlSchemaCollection::Add(const System::String &value)
+```
+

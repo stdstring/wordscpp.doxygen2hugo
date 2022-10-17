@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/updatetablelayout/
 
 
 
+```cpp
+void Aspose::Words::Document::UpdateTableLayout()
+```
+

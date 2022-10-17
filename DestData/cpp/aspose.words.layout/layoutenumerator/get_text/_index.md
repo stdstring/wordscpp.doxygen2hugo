@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/get_text/
 
 Gets text of the current span entity. Throws for other entity types.
 
+```cpp
+System::String Aspose::Words::Layout::LayoutEnumerator::get_Text()
+```
+

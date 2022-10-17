@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/clone/
 
 Returns a deep clone of this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::Settings::MailMergeSettings> Aspose::Words::Settings::MailMergeSettings::Clone()
+```
+

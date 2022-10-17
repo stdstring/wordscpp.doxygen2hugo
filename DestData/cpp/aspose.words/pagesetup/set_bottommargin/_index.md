@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/set_bottommargin/
 
 Setter for [Aspose::Words::PageSetup::get_BottomMargin](./get_bottommargin/).
 
+```cpp
+void Aspose::Words::PageSetup::set_BottomMargin(double value)
+```
+

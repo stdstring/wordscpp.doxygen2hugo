@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_tag/
 
 Specifies a tag associated with the current SDT node. Can not be null.
 
+```cpp
+System::String Aspose::Words::Markup::StructuredDocumentTag::get_Tag() const override
+```
+

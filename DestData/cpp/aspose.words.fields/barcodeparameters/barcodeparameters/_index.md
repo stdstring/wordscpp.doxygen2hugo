@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/barcodeparameters/
 
 
 
+```cpp
+Aspose::Words::Fields::BarcodeParameters::BarcodeParameters()
+```
+

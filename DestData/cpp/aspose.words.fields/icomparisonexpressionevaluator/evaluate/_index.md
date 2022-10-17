@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/icomparisonexpressionevaluator/evaluate/
 
 Evaluates comparison expression.
 
+```cpp
+virtual System::SharedPtr<Aspose::Words::Fields::ComparisonEvaluationResult> Aspose::Words::Fields::IComparisonExpressionEvaluator::Evaluate(System::SharedPtr<Aspose::Words::Fields::Field> field, System::SharedPtr<Aspose::Words::Fields::ComparisonExpression> expression)=0
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/removeat/
 
 Removes a [GradientStop](../gradientstop/) from the collection at a specified index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::GradientStop> Aspose::Words::Drawing::GradientStopCollection::RemoveAt(int32_t index)
+```
+

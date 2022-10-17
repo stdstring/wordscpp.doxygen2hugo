@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/custompartcollection/clone/
 
 Makes a deep copy of this collection and its items.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::CustomPartCollection> Aspose::Words::Markup::CustomPartCollection::Clone()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/get_majorunit/
 
 Returns or sets the distance between major tick marks.
 
+```cpp
+double Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnit()
+```
+

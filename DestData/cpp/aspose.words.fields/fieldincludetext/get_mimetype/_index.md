@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/get_mimetype/
 
 Gets or sets the MIME type of the referenced file.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIncludeText::get_MimeType()
+```
+

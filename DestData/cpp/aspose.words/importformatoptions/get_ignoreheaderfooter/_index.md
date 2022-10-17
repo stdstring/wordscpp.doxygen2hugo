@@ -11,3 +11,7 @@ url: /cpp/aspose.words/importformatoptions/get_ignoreheaderfooter/
 
 Gets or sets a boolean value that specifies that source formatting of headers/footers content ignored if **KeepSourceFormatting** mode is used. The default value is **true**.
 
+```cpp
+bool Aspose::Words::ImportFormatOptions::get_IgnoreHeaderFooter() const
+```
+

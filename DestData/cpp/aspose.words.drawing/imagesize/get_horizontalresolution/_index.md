@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagesize/get_horizontalresolution/
 
 Gets the horizontal resolution in DPI.
 
+```cpp
+double Aspose::Words::Drawing::ImageSize::get_HorizontalResolution() const
+```
+

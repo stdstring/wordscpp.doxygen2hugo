@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldadvance/get_verticalposition/
 
 Gets or sets the number of points by which the text that follows the field should be moved vertically from the top edge of the page.
 
+```cpp
+System::String Aspose::Words::Fields::FieldAdvance::get_VerticalPosition()
+```
+

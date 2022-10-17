@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/chmloadoptions/get_originalfilename/
 
 The name of the CHM file. Default value is **null**.
 
+```cpp
+System::String Aspose::Words::Loading::ChmLoadOptions::get_OriginalFileName() const
+```
+

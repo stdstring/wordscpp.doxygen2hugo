@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagstart/
 
 Called when enumeration of a structured document tag has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagStart(System::SharedPtr<Aspose::Words::Markup::StructuredDocumentTag> sdt)
+```
+

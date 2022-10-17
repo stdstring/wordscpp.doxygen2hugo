@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/get_target/
 
 Gets or sets the target to which the link should be redirected.
 
+```cpp
+System::String Aspose::Words::Fields::FieldHyperlink::get_Target()
+```
+

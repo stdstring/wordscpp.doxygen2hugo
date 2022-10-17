@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_showoriginalrevision/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowOriginalRevision](./get_showoriginalrevision/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_ShowOriginalRevision(bool value)
+```
+

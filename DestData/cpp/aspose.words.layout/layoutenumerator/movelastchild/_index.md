@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/layoutenumerator/movelastchild/
 
 Moves to the last child entity.
 
+```cpp
+bool Aspose::Words::Layout::LayoutEnumerator::MoveLastChild()
+```
+

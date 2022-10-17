@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/set_datatype/
 
 Specifies the type of the mail-merge data source and the method of data access. The default value is **Default**.
 
+```cpp
+void Aspose::Words::Settings::MailMergeSettings::set_DataType(Aspose::Words::Settings::MailMergeDataType value)
+```
+

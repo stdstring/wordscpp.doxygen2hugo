@@ -11,3 +11,7 @@ url: /cpp/aspose.words.comparing/compareoptions/compareoptions/
 
 
 
+```cpp
+Aspose::Words::Comparing::CompareOptions::CompareOptions()
+```
+

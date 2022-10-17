@@ -11,3 +11,7 @@ url: /cpp/aspose.words/conditionalstylecollection/get_lastrow/
 
 Gets the last row style.
 
+```cpp
+System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalStyleCollection::get_LastRow()
+```
+

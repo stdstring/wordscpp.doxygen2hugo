@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergefield/get_type/
 
 Gets the Microsoft Word field type.
 
+```cpp
+Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldMergeField::get_Type() const override
+```
+

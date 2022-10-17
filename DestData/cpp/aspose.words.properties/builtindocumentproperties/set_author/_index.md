@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_author/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Author](./get_author/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_Author(const System::String &value)
+```
+

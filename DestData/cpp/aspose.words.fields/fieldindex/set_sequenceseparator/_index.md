@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_sequenceseparator/
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_SequenceSeparator](./get_sequenceseparator/).
 
+```cpp
+void Aspose::Words::Fields::FieldIndex::set_SequenceSeparator(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/commentrangeend/accept/
 
 Accepts a visitor.
 
+```cpp
+bool Aspose::Words::CommentRangeEnd::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
+```
+

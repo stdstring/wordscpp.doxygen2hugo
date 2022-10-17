@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_legacynumberformat/
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_LegacyNumberFormat](./get_legacynumberformat/).
 
+```cpp
+void Aspose::Words::Fields::FieldOptions::set_LegacyNumberFormat(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_resourceloadingcallback/
 
 Allows to control how external resources are loaded.
 
+```cpp
+System::SharedPtr<Aspose::Words::Loading::IResourceLoadingCallback> Aspose::Words::DocumentBase::get_ResourceLoadingCallback() const
+```
+

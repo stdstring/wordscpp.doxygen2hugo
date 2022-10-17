@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/startcolumnbookmark/
 
 Marks the current position in the document as a column bookmark start. The position must be in a table cell.
 
+```cpp
+System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::DocumentBuilder::StartColumnBookmark(const System::String &bookmarkName)
+```
+

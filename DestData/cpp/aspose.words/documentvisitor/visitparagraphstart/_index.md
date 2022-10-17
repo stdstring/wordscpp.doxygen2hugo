@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitparagraphstart/
 
 Called when enumeration of a paragraph has started.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitParagraphStart(System::SharedPtr<Aspose::Words::Paragraph> paragraph)
+```
+

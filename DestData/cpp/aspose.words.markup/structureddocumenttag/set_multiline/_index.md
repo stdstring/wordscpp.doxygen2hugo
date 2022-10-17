@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_multiline/
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Multiline](./get_multiline/).
 
+```cpp
+void Aspose::Words::Markup::StructuredDocumentTag::set_Multiline(bool value)
+```
+

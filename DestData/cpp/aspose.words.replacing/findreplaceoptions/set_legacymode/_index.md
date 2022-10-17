@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_legacymode/
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode](./get_legacymode/).
 
+```cpp
+void Aspose::Words::Replacing::FindReplaceOptions::set_LegacyMode(bool value)
+```
+

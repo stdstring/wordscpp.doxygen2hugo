@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldoptions/get_currentuser/
 
 Gets or sets the current user information.
 
+```cpp
+const System::SharedPtr<Aspose::Words::Fields::UserInformation> & Aspose::Words::Fields::FieldOptions::get_CurrentUser() const
+```
+

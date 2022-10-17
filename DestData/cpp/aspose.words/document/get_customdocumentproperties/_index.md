@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_customdocumentproperties/
 
 Returns a collection that represents all the custom document properties of the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Properties::CustomDocumentProperties> Aspose::Words::Document::get_CustomDocumentProperties()
+```
+

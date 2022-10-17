@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_underline/
 
 True if the font is underlined.
 
+```cpp
+bool Aspose::Words::Drawing::TextPath::get_Underline()
+```
+

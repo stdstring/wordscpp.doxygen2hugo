@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_aliases/
 
 Gets all aliases of this style. If style has no aliases then empty array of string is returned.
 
+```cpp
+System::ArrayPtr<System::String> Aspose::Words::Style::get_Aliases()
+```
+

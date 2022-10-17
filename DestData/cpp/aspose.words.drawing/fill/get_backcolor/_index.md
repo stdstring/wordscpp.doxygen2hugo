@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_backcolor/
 
 Gets a Color object that represents the background color for the fill.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::Fill::get_BackColor()
+```
+

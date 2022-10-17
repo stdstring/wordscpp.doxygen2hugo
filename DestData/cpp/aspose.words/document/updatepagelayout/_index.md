@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/updatepagelayout/
 
 Rebuilds the page layout of the document.
 
+```cpp
+void Aspose::Words::Document::UpdatePageLayout()
+```
+

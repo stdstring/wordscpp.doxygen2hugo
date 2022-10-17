@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_croptop/
 
 Setter for [Aspose::Words::Drawing::ImageData::get_CropTop](./get_croptop/).
 
+```cpp
+void Aspose::Words::Drawing::ImageData::set_CropTop(double value)
+```
+

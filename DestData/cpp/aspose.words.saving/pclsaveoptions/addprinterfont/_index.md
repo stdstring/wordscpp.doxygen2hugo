@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pclsaveoptions/addprinterfont/
 
 Adds information about font that is uploaded to the printer by manufacturer.
 
+```cpp
+void Aspose::Words::Saving::PclSaveOptions::AddPrinterFont(const System::String &fontFullName, const System::String &fontPclName)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/get_opaqueboundsinpoints/
 
 Gets the opaque bounds of the shape in points.
 
+```cpp
+System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::get_OpaqueBoundsInPoints()
+```
+

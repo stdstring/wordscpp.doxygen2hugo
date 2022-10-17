@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/ibarcodegenerator/getbarcodeimage/
 
 Generate barcode image using the set of parameters (for DisplayBarcode field).
 
+```cpp
+virtual System::SharedPtr<System::Drawing::Image> Aspose::Words::Fields::IBarcodeGenerator::GetBarcodeImage(System::SharedPtr<Aspose::Words::Fields::BarcodeParameters> parameters)=0
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/get_entrylevelrange/
 
 Gets or sets a range of levels of the table of contents entries to be included.
 
+```cpp
+System::String Aspose::Words::Fields::FieldToc::get_EntryLevelRange()
+```
+

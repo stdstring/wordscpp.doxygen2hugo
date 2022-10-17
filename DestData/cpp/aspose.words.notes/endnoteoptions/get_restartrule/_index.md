@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/endnoteoptions/get_restartrule/
 
 Determines when automatic numbering restarts.
 
+```cpp
+Aspose::Words::Notes::FootnoteNumberingRule Aspose::Words::Notes::EndnoteOptions::get_RestartRule() override
+```
+

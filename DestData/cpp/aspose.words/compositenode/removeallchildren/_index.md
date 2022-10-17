@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/removeallchildren/
 
 Removes all the child nodes of the current node.
 
+```cpp
+void Aspose::Words::CompositeNode::RemoveAllChildren()
+```
+

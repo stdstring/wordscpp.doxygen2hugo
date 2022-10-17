@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontinfo/getembeddedfontasopentype/
 
 Gets an embedded font file in OpenType format. [Fonts](../) in Embedded OpenType format are converted to OpenType.
 
+```cpp
+System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenType(Aspose::Words::Fonts::EmbeddedFontStyle style)
+```
+

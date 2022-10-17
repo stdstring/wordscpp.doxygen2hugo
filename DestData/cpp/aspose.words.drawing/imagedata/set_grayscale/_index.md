@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_grayscale/
 
 Setter for [Aspose::Words::Drawing::ImageData::get_GrayScale](./get_grayscale/).
 
+```cpp
+void Aspose::Words::Drawing::ImageData::set_GrayScale(bool value)
+```
+

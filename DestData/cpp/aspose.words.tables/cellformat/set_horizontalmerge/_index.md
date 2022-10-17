@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/set_horizontalmerge/
 
 Setter for [Aspose::Words::Tables::CellFormat::get_HorizontalMerge](./get_horizontalmerge/).
 
+```cpp
+void Aspose::Words::Tables::CellFormat::set_HorizontalMerge(Aspose::Words::Tables::CellMerge value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/get_forecolor/
 
 Gets or sets a Color object that represents the foreground color for the fill.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::Fill::get_ForeColor()
+```
+

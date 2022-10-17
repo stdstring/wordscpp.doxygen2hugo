@@ -11,3 +11,7 @@ url: /cpp/aspose.words.themes/themecolors/get_accent1/
 
 Specifies color Accent 1.
 
+```cpp
+System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Accent1()
+```
+

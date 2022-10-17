@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_words/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Words](./get_words/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_Words(int32_t value)
+```
+

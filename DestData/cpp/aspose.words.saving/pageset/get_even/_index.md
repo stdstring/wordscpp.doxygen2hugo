@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pageset/get_even/
 
 Gets a set with all the even pages of the document in their original order.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Saving::PageSet> Aspose::Words::Saving::PageSet::get_Even()
+```
+

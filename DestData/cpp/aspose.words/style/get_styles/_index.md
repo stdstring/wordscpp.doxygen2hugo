@@ -11,3 +11,7 @@ url: /cpp/aspose.words/style/get_styles/
 
 Gets the collection of styles this style belongs to.
 
+```cpp
+System::SharedPtr<Aspose::Words::StyleCollection> Aspose::Words::Style::get_Styles() const
+```
+

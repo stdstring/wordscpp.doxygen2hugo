@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_calendartype/
 
 Specifies the type of calendar for this **SDT**. Default is **Default**
 
+```cpp
+Aspose::Words::Markup::SdtCalendarType Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType()
+```
+

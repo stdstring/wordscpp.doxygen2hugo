@@ -11,3 +11,7 @@ url: /cpp/aspose.words/border/set_distancefromtext/
 
 Setter for [Aspose::Words::Border::get_DistanceFromText](./get_distancefromtext/).
 
+```cpp
+void Aspose::Words::Border::set_DistanceFromText(double value)
+```
+

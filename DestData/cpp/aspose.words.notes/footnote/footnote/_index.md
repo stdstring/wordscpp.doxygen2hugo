@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnote/footnote/
 
 Initializes an instance of the **Footnote** class.
 
+```cpp
+Aspose::Words::Notes::Footnote::Footnote(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, Aspose::Words::Notes::FootnoteType footnoteType)
+```
+

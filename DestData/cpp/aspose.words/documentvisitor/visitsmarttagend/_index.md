@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitsmarttagend/
 
 Called when enumeration of a smart tag has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSmartTagEnd(System::SharedPtr<Aspose::Words::Markup::SmartTag> smartTag)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/compositenode/get_iscomposite/
 
 Returns true as this node can have child nodes.
 
+```cpp
+bool Aspose::Words::CompositeNode::get_IsComposite() override
+```
+

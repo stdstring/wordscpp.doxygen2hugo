@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/inserttableofcontents/
 
 Inserts a TOC (table of contents) field into the document.
 
+```cpp
+System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::InsertTableOfContents(const System::String &switches)
+```
+

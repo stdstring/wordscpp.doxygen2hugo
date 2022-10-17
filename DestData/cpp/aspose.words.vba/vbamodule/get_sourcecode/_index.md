@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodule/get_sourcecode/
 
 Gets or sets VBA project module source code.
 
+```cpp
+System::String Aspose::Words::Vba::VbaModule::get_SourceCode() const
+```
+

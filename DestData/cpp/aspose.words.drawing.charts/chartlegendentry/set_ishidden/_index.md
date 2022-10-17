@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentry/set_ishidden/
 
 Sets a value indicating whether this entry is hidden in the chart legend. The default value is **false**.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartLegendEntry::set_IsHidden(bool value)
+```
+

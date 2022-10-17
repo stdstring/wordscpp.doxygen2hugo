@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_shapetype/
 
 Gets the shape type.
 
+```cpp
+Aspose::Words::Drawing::ShapeType Aspose::Words::Drawing::ShapeBase::get_ShapeType()
+```
+

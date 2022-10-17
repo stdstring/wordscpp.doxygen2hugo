@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbareference/get_libid/
 
 Gets a string value containing the identifier of an Automation type library.
 
+```cpp
+virtual System::String Aspose::Words::Vba::VbaReference::get_LibId() const =0
+```
+

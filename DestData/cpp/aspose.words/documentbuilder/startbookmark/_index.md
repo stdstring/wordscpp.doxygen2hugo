@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/startbookmark/
 
 Marks the current position in the document as a bookmark start.
 
+```cpp
+System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::DocumentBuilder::StartBookmark(const System::String &bookmarkName)
+```
+

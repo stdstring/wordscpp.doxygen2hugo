@@ -11,3 +11,7 @@ url: /cpp/aspose.words/hyphenation/get_warningcallback/
 
 Called during a load hyphenation patterns, when an issue is detected that might result in formatting fidelity loss.
 
+```cpp
+static System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::Hyphenation::get_WarningCallback()
+```
+

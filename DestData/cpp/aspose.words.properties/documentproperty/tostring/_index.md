@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/documentproperty/tostring/
 
 Returns the property value as a string formatted according to the current locale.
 
+```cpp
+System::String Aspose::Words::Properties::DocumentProperty::ToString() const override
+```
+

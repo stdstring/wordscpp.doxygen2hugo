@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/set_charactercode/
 
 Setter for [Aspose::Words::Fields::FieldSymbol::get_CharacterCode](./get_charactercode/).
 
+```cpp
+void Aspose::Words::Fields::FieldSymbol::set_CharacterCode(const System::String &value)
+```
+

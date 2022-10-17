@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/formfieldcollection/remove/
 
 Removes a form field with the specified name.
 
+```cpp
+void Aspose::Words::Fields::FormFieldCollection::Remove(const System::String &formField)
+```
+

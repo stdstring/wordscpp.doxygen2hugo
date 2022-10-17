@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/get_pagesetup/
 
 Returns an object that represents page setup and section properties.
 
+```cpp
+System::SharedPtr<Aspose::Words::PageSetup> Aspose::Words::Section::get_PageSetup()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/range/get_text/
 
 Gets the text of the range.
 
+```cpp
+System::String Aspose::Words::Range::get_Text()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportdropdownformfieldastext/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportDropDownFormFieldAsText](./get_exportdropdownformfieldastext/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportDropDownFormFieldAsText(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodule/get_type/
 
 Specifies whether the module is a procedural module, document module, class module, or designer module.
 
+```cpp
+Aspose::Words::Vba::VbaModuleType Aspose::Words::Vba::VbaModule::get_Type() const
+```
+

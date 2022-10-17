@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/add/
 
 Adds a module to the collection.
 
+```cpp
+void Aspose::Words::Vba::VbaModuleCollection::Add(const System::SharedPtr<Aspose::Words::Vba::VbaModule> &vbaModule)
+```
+

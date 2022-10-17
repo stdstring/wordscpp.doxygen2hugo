@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_spaceforul/
 
 Add Additional Space Below Baseline For Underlined East Asian Text.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_SpaceForUL()
+```
+

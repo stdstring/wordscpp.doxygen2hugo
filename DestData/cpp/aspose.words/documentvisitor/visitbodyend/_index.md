@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentvisitor/visitbodyend/
 
 Called when enumeration of the main text story in a section has ended.
 
+```cpp
+virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBodyEnd(System::SharedPtr<Aspose::Words::Body> body)
+```
+

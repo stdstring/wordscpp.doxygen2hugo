@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/getlistbylistid/
 
 Gets a list by a list identifier.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollection::GetListByListId(int32_t listId)
+```
+

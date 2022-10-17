@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/get_position/
 
 Specifies the footnotes position.
 
+```cpp
+Aspose::Words::Notes::FootnotePosition Aspose::Words::Notes::FootnoteOptions::get_Position()
+```
+

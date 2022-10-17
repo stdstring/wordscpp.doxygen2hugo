@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/isranged/
 
 Returns true if this instance is a ranged structured document tag.
 
+```cpp
+virtual bool Aspose::Words::Markup::IStructuredDocumentTag::IsRanged()=0
+```
+

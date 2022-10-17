@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_fontformat/
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_FontFormat](./get_fontformat/).
 
+```cpp
+void Aspose::Words::Saving::HtmlFixedSaveOptions::set_FontFormat(Aspose::Words::Saving::ExportFontFormat value)
+```
+

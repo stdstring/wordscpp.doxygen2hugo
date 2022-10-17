@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_revisionbarswidth/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth](./get_revisionbarswidth/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_RevisionBarsWidth(float value)
+```
+

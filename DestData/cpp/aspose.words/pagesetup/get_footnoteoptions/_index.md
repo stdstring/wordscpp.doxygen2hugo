@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_footnoteoptions/
 
 Provides options that control numbering and positioning of footnotes in this section.
 
+```cpp
+System::SharedPtr<Aspose::Words::Notes::FootnoteOptions> Aspose::Words::PageSetup::get_FootnoteOptions()
+```
+

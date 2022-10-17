@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listformat/get_islistitem/
 
 True when the paragraph has bulleted or numbered formatting applied to it.
 
+```cpp
+bool Aspose::Words::Lists::ListFormat::get_IsListItem()
+```
+

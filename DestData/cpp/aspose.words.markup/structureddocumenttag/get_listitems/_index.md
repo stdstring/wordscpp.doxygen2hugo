@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_listitems/
 
 Gets [SdtListItemCollection](../sdtlistitemcollection/) associated with this **SDT**.
 
+```cpp
+System::SharedPtr<Aspose::Words::Markup::SdtListItemCollection> Aspose::Words::Markup::StructuredDocumentTag::get_ListItems()
+```
+

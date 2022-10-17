@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_left/
 
 Gets or sets the position of the left edge of the containing block of the shape.
 
+```cpp
+double Aspose::Words::Drawing::ShapeBase::get_Left()
+```
+

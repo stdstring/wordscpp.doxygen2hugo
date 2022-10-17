@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationresult/
 ---
-## ComparisonEvaluationResult.ComparisonEvaluationResult method
+## ComparisonEvaluationResult.ComparisonEvaluationResult(bool) method
 
 
 Creates a comparison evaluation result.
 
----
-title: ComparisonEvaluationResult
-second_title: Aspose.Words for C++ API Reference
-description: Creates a failed comparison evaluation result with the corresponding error message. 
-type: docs
-weight: 0
-url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationresult/
----
-## ComparisonEvaluationResult.ComparisonEvaluationResult method
+```cpp
+Aspose::Words::Fields::ComparisonEvaluationResult::ComparisonEvaluationResult(bool result)
+```
+
+## ComparisonEvaluationResult.ComparisonEvaluationResult(const System::String\&) method
 
 
 Creates a failed comparison evaluation result with the corresponding error message.
+
+```cpp
+Aspose::Words::Fields::ComparisonEvaluationResult::ComparisonEvaluationResult(const System::String &errorMessage)
+```
 

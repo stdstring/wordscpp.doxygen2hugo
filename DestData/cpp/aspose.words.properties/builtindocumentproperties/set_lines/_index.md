@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_lines/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines](./get_lines/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_Lines(int32_t value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/comment/get_author/
 
 Returns or sets the author name for a comment.
 
+```cpp
+System::String Aspose::Words::Comment::get_Author() const
+```
+

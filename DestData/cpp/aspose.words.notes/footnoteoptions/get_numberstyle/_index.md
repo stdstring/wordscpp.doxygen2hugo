@@ -11,3 +11,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/get_numberstyle/
 
 Specifies the number format for automatically numbered footnotes.
 
+```cpp
+Aspose::Words::NumberStyle Aspose::Words::Notes::FootnoteOptions::get_NumberStyle() override
+```
+

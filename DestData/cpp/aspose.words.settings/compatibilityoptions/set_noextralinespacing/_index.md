@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_noextralinespacing/
 
 Do Not Center Content on Lines With Exact Line Height.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_NoExtraLineSpacing(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_password/
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_Password](./get_password/).
 
+```cpp
+void Aspose::Words::Loading::LoadOptions::set_Password(const System::String &value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_prefix/
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_Prefix](./get_prefix/).
 
+```cpp
+void Aspose::Words::Fields::FieldCitation::set_Prefix(const System::String &value)
+```
+

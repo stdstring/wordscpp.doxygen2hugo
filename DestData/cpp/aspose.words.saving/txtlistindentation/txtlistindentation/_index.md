@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/txtlistindentation/txtlistindentation/
 
 
 
+```cpp
+Aspose::Words::Saving::TxtListIndentation::TxtListIndentation()
+```
+

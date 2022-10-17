@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/movetodocumentstart/
 
 Moves the cursor to the beginning of the document.
 
+```cpp
+void Aspose::Words::DocumentBuilder::MoveToDocumentStart()
+```
+

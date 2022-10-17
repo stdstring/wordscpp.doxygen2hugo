@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_tiffcompression/
 
 Gets or sets the type of compression to apply when saving generated images to the TIFF format.
 
+```cpp
+Aspose::Words::Saving::TiffCompression Aspose::Words::Saving::ImageSaveOptions::get_TiffCompression() const
+```
+

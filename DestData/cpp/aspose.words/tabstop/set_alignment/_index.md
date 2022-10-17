@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstop/set_alignment/
 
 Setter for [Aspose::Words::TabStop::get_Alignment](./get_alignment/).
 
+```cpp
+void Aspose::Words::TabStop::set_Alignment(Aspose::Words::TabAlignment value)
+```
+

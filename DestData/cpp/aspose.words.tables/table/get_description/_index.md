@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/get_description/
 
 Gets or sets description of this table. It provides an alternative text representation of the information contained in the table.
 
+```cpp
+System::String Aspose::Words::Tables::Table::get_Description()
+```
+

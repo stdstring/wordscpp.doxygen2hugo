@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/get_headersource/
 
 Specifies the path to the mail-merge header source. The default value is an empty string.
 
+```cpp
+System::String Aspose::Words::Settings::MailMergeSettings::get_HeaderSource() const
+```
+

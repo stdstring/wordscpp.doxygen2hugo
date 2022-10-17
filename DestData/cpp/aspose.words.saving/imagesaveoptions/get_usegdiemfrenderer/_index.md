@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_usegdiemfrenderer/
 
 Gets or sets a value determining whether to use GDI+ or Aspose.Words metafile renderer when saving to EMF.
 
+```cpp
+bool Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer() const
+```
+

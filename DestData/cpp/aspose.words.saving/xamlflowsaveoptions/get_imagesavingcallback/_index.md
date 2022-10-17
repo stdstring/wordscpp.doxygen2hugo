@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/get_imagesavingcallback/
 
 Allows to control how images are saved when a document is saved to XAML.
 
+```cpp
+System::SharedPtr<Aspose::Words::Saving::IImageSavingCallback> Aspose::Words::Saving::XamlFlowSaveOptions::get_ImageSavingCallback() const
+```
+

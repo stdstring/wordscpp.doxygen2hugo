@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldprint/get_postscriptgroup/
 
 Gets or sets the drawing rectangle that the PostScript instructions operate on.
 
+```cpp
+System::String Aspose::Words::Fields::FieldPrint::get_PostScriptGroup()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/tabstopcollection/removebyindex/
 
 Removes a tab stop at the specified index from the collection.
 
+```cpp
+void Aspose::Words::TabStopCollection::RemoveByIndex(int32_t index)
+```
+

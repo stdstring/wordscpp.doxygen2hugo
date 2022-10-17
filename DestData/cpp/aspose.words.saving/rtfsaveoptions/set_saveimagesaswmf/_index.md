@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/rtfsaveoptions/set_saveimagesaswmf/
 
 Setter for [Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf](./get_saveimagesaswmf/).
 
+```cpp
+void Aspose::Words::Saving::RtfSaveOptions::set_SaveImagesAsWmf(bool value)
+```
+

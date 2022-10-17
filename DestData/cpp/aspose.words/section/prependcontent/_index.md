@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/prependcontent/
 
 Inserts a copy of content of the source section at the beginning of this section.
 
+```cpp
+void Aspose::Words::Section::PrependContent(const System::SharedPtr<Aspose::Words::Section> &sourceSection)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/clone/
 
 Performs a deep copy of the [Document](./).
 
+```cpp
+System::SharedPtr<Aspose::Words::Document> Aspose::Words::Document::Clone()
+```
+

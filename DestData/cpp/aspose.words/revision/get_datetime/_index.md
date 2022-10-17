@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/get_datetime/
 
 Gets or sets the date/time of this revision.
 
+```cpp
+System::DateTime Aspose::Words::Revision::get_DateTime()
+```
+

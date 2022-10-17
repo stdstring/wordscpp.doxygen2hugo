@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddatabasedatatable/createfrom/
 
 Initializes a new instance of the [FieldDatabaseDataTable](./) class from the **DataTable** instance.
 
+```cpp
+static System::SharedPtr<Aspose::Words::Fields::FieldDatabaseDataTable> Aspose::Words::Fields::FieldDatabaseDataTable::CreateFrom(const System::SharedPtr<System::Data::DataTable> &dataTable)
+```
+

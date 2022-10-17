@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/pdfsaveoptions/
 
 Initializes a new instance of this class that can be used to save a document in the **Pdf** format.
 
+```cpp
+Aspose::Words::Saving::PdfSaveOptions::PdfSaveOptions()
+```
+

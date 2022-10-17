@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_listformat/
 
 Provides access to the list formatting properties of the paragraph.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::ListFormat> Aspose::Words::Paragraph::get_ListFormat()
+```
+

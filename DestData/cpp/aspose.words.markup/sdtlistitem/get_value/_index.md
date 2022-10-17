@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/sdtlistitem/get_value/
 
 Gets the value of this list item.
 
+```cpp
+System::String Aspose::Words::Markup::SdtListItem::get_Value() const
+```
+

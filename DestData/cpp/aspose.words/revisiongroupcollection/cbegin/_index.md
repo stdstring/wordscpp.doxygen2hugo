@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revisiongroupcollection/cbegin/
 
 
 
+```cpp
+const_iterator Aspose::Words::RevisionGroupCollection::cbegin() const noexcept
+```
+

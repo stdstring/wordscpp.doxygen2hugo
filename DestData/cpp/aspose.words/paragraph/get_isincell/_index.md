@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraph/get_isincell/
 
 True if this paragraph is an immediate child of [Cell](../../aspose.words.tables/cell/); false otherwise.
 
+```cpp
+bool Aspose::Words::Paragraph::get_IsInCell()
+```
+

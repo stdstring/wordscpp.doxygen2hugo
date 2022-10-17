@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbaproject/get_references/
 
 Gets a collection of VBA project references.
 
+```cpp
+System::SharedPtr<Aspose::Words::Vba::VbaReferenceCollection> Aspose::Words::Vba::VbaProject::get_References()
+```
+

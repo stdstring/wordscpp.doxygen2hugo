@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textbox/get_verticalanchor/
 
 Specifies the vertical alignment of the text within a shape.
 
+```cpp
+Aspose::Words::Drawing::TextBoxAnchor Aspose::Words::Drawing::TextBox::get_VerticalAnchor()
+```
+

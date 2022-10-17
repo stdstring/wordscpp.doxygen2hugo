@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/get_aspectratiolocked/
 
 Specifies whether the shape's aspect ratio is locked.
 
+```cpp
+bool Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked()
+```
+

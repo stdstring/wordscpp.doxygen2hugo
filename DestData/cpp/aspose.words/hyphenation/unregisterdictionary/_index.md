@@ -11,3 +11,7 @@ url: /cpp/aspose.words/hyphenation/unregisterdictionary/
 
 Unregisters a hyphenation dictionary for the specified language. This is different from registering Null dictionary. Unregistering a dictionary enables callback for the specified language.
 
+```cpp
+static void Aspose::Words::Hyphenation::UnregisterDictionary(const System::String &language)
+```
+

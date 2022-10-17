@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/get_category/
 
 Specifies the second-level categorization for the building block.
 
+```cpp
+System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Category() const
+```
+

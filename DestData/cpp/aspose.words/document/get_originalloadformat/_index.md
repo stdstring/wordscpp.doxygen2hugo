@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/get_originalloadformat/
 
 Gets the format of the original document that was loaded into this object.
 
+```cpp
+Aspose::Words::LoadFormat Aspose::Words::Document::get_OriginalLoadFormat() const
+```
+

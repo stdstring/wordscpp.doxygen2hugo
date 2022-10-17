@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listcollection/idx_get/
 
 Gets a list by index.
 
+```cpp
+System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollection::idx_get(int32_t index)
+```
+

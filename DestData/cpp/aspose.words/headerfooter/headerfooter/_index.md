@@ -11,3 +11,7 @@ url: /cpp/aspose.words/headerfooter/headerfooter/
 
 Creates a new header or footer of the specified type.
 
+```cpp
+Aspose::Words::HeaderFooter::HeaderFooter(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, Aspose::Words::HeaderFooterType headerFooterType)
+```
+

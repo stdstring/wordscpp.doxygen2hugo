@@ -11,3 +11,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_paragraphs/
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Paragraphs](./get_paragraphs/).
 
+```cpp
+void Aspose::Words::Properties::BuiltInDocumentProperties::set_Paragraphs(int32_t value)
+```
+

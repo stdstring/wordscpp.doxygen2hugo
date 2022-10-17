@@ -11,3 +11,7 @@ url: /cpp/aspose.words/document/updatefields/
 
 Updates the values of fields in the whole document.
 
+```cpp
+void Aspose::Words::Document::UpdateFields()
+```
+

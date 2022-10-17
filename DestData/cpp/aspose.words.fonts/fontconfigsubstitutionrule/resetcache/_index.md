@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/resetcache/
 
 Resets the cache of fontconfig calling results.
 
+```cpp
+void Aspose::Words::Fonts::FontConfigSubstitutionRule::ResetCache()
+```
+

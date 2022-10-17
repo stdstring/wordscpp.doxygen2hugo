@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportlanguageinformation/
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportLanguageInformation](./get_exportlanguageinformation/).
 
+```cpp
+void Aspose::Words::Saving::HtmlSaveOptions::set_ExportLanguageInformation(bool value)
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/fill/set_gradientangle/
 
 Setter for [Aspose::Words::Drawing::Fill::get_GradientAngle](./get_gradientangle/).
 
+```cpp
+void Aspose::Words::Drawing::Fill::set_GradientAngle(double value)
+```
+

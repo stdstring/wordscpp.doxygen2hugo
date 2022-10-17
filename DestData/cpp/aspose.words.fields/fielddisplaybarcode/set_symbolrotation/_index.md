@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_symbolrotation/
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation](./get_symbolrotation/).
 
+```cpp
+void Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolRotation(const System::String &value)
+```
+

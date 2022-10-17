@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_matchcase/
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase](./get_matchcase/).
 
+```cpp
+void Aspose::Words::Replacing::FindReplaceOptions::set_MatchCase(bool value)
+```
+

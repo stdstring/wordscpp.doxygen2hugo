@@ -11,3 +11,7 @@ url: /cpp/aspose.words/pagesetup/get_papersize/
 
 Returns or sets the paper size.
 
+```cpp
+Aspose::Words::PaperSize Aspose::Words::PageSetup::get_PaperSize()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_distanceright/
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceRight](./get_distanceright/).
 
+```cpp
+void Aspose::Words::Drawing::ShapeBase::set_DistanceRight(double value)
+```
+

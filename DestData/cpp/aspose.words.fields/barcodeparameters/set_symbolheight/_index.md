@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_symbolheight/
 
 Bar code image height (in twips - 1/1440 inches)
 
+```cpp
+void Aspose::Words::Fields::BarcodeParameters::set_SymbolHeight(const System::String &value)
+```
+

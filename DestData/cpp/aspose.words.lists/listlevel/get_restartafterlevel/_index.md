@@ -11,3 +11,7 @@ url: /cpp/aspose.words.lists/listlevel/get_restartafterlevel/
 
 Sets or returns the list level that must appear before the specified list level restarts numbering.
 
+```cpp
+int32_t Aspose::Words::Lists::ListLevel::get_RestartAfterLevel() const
+```
+

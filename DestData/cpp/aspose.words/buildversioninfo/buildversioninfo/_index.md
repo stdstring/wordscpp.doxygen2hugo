@@ -11,3 +11,7 @@ url: /cpp/aspose.words/buildversioninfo/buildversioninfo/
 
 
 
+```cpp
+Aspose::Words::BuildVersionInfo::BuildVersionInfo()=delete
+```
+

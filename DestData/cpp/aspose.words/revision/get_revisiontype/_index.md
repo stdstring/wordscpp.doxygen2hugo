@@ -11,3 +11,7 @@ url: /cpp/aspose.words/revision/get_revisiontype/
 
 Gets the type of this revision.
 
+```cpp
+Aspose::Words::RevisionType Aspose::Words::Revision::get_RevisionType() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/cellformat/get_width/
 
 Gets the width of the cell in points.
 
+```cpp
+double Aspose::Words::Tables::CellFormat::get_Width()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagedata/tostream/
 
 Creates and returns a stream that contains the image bytes.
 
+```cpp
+System::SharedPtr<System::IO::Stream> Aspose::Words::Drawing::ImageData::ToStream()
+```
+

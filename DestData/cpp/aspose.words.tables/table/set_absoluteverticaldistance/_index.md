@@ -11,3 +11,7 @@ url: /cpp/aspose.words.tables/table/set_absoluteverticaldistance/
 
 Setter for [Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance](./get_absoluteverticaldistance/).
 
+```cpp
+void Aspose::Words::Tables::Table::set_AbsoluteVerticalDistance(double value)
+```
+

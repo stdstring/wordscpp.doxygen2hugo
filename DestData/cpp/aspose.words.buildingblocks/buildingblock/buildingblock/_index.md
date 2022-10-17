@@ -11,3 +11,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblock/buildingblock/
 
 Initializes a new instance of this class.
 
+```cpp
+Aspose::Words::BuildingBlocks::BuildingBlock::BuildingBlock(const System::SharedPtr<Aspose::Words::BuildingBlocks::GlossaryDocument> &glossaryDoc)
+```
+

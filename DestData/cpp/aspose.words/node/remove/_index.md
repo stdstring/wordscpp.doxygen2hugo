@@ -11,3 +11,7 @@ url: /cpp/aspose.words/node/remove/
 
 Removes itself from the parent.
 
+```cpp
+void Aspose::Words::Node::Remove()
+```
+

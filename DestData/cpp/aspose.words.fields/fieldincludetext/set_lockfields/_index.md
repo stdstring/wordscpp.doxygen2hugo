@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_lockfields/
 
 Setter for [Aspose::Words::Fields::FieldIncludeText::get_LockFields](./get_lockfields/).
 
+```cpp
+void Aspose::Words::Fields::FieldIncludeText::set_LockFields(bool value)
+```
+

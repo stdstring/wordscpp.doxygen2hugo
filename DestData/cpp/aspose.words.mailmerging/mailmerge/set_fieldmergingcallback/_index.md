@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_fieldmergingcallback/
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_FieldMergingCallback](./get_fieldmergingcallback/).
 
+```cpp
+void Aspose::Words::MailMerging::MailMerge::set_FieldMergingCallback(const System::SharedPtr<Aspose::Words::MailMerging::IFieldMergingCallback> &value)
+```
+

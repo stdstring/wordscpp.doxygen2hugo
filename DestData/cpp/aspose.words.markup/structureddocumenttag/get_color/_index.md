@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_color/
 
 Gets or sets the color of the structured document tag.
 
+```cpp
+System::Drawing::Color Aspose::Words::Markup::StructuredDocumentTag::get_Color() override
+```
+

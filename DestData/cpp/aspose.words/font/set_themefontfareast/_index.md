@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_themefontfareast/
 
 Setter for [Aspose::Words::Font::get_ThemeFontFarEast](./get_themefontfareast/).
 
+```cpp
+void Aspose::Words::Font::set_ThemeFontFarEast(Aspose::Words::Themes::ThemeFont value)
+```
+

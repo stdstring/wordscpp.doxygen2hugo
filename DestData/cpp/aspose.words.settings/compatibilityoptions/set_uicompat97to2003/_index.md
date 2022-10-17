@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_uicompat97to2003/
 
 **True** to disable UI functionality which is not compatible with Word97-2003. Default value is **false**.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_UICompat97To2003(bool value)
+```
+

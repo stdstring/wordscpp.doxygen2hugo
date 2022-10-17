@@ -11,3 +11,7 @@ url: /cpp/aspose.words/section/deleteheaderfootershapes/
 
 Deletes all shapes (drawing objects) from the headers and footers of this section.
 
+```cpp
+void Aspose::Words::Section::DeleteHeaderFooterShapes()
+```
+

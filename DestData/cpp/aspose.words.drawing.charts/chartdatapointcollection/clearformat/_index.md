@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/clearformat/
 
 Clears format of all [ChartDataPoint](../chartdatapoint/) in this collection.
 
+```cpp
+void Aspose::Words::Drawing::Charts::ChartDataPointCollection::ClearFormat()
+```
+

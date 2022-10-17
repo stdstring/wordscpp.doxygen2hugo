@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/get_nameascii/
 
 Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127).
 
+```cpp
+System::String Aspose::Words::Font::get_NameAscii()
+```
+

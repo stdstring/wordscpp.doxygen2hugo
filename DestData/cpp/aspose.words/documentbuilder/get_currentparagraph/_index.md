@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbuilder/get_currentparagraph/
 
 Gets the paragraph that is currently selected in this [DocumentBuilder](./).
 
+```cpp
+System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::DocumentBuilder::get_CurrentParagraph()
+```
+

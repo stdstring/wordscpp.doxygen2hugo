@@ -11,3 +11,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/add/
 
 Adds a new field mapping.
 
+```cpp
+void Aspose::Words::MailMerging::MappedDataFieldCollection::Add(const System::String &documentFieldName, const System::String &dataSourceFieldName)
+```
+

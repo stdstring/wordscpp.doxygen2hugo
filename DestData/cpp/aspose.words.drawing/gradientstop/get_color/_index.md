@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/gradientstop/get_color/
 
 Gets or sets a value representing the color of the gradient stop.
 
+```cpp
+System::Drawing::Color Aspose::Words::Drawing::GradientStop::get_Color()
+```
+

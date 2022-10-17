@@ -6,21 +6,21 @@ type: docs
 weight: 0
 url: /cpp/aspose.words/warninginfocollection/end/
 ---
-## WarningInfoCollection.end method
+## WarningInfoCollection.end() const method
 
 
 
 
----
-title: end
-second_title: Aspose.Words for C++ API Reference
-description: 
-type: docs
-weight: 0
-url: /cpp/aspose.words/warninginfocollection/end/
----
-## WarningInfoCollection.end method
+```cpp
+const_iterator Aspose::Words::WarningInfoCollection::end() const noexcept
+```
+
+## WarningInfoCollection.end() method
 
 
 
+
+```cpp
+iterator Aspose::Words::WarningInfoCollection::end() noexcept
+```
 

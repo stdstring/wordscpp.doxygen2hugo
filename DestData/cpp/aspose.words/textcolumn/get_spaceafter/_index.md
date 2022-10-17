@@ -11,3 +11,7 @@ url: /cpp/aspose.words/textcolumn/get_spaceafter/
 
 Gets or sets the space between this column and the next column in points. Not required for the last column.
 
+```cpp
+double Aspose::Words::TextColumn::get_SpaceAfter()
+```
+

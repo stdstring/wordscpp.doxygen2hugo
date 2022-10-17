@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/imagesize/get_widthpoints/
 
 Gets the width of the image in points. 1 point is 1/72 inch.
 
+```cpp
+double Aspose::Words::Drawing::ImageSize::get_WidthPoints()
+```
+

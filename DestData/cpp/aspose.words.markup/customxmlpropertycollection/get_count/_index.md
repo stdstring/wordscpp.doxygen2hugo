@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpropertycollection/get_count/
 
 Gets the number of elements contained in the collection.
 
+```cpp
+int32_t Aspose::Words::Markup::CustomXmlPropertyCollection::get_Count()
+```
+

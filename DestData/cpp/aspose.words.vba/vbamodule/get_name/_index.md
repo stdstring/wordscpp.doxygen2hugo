@@ -11,3 +11,7 @@ url: /cpp/aspose.words.vba/vbamodule/get_name/
 
 Gets or sets VBA project module name.
 
+```cpp
+System::String Aspose::Words::Vba::VbaModule::get_Name() const
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_tabstops/
 
 Gets the collection of custom tab stops defined for this object.
 
+```cpp
+System::SharedPtr<Aspose::Words::TabStopCollection> Aspose::Words::ParagraphFormat::get_TabStops()
+```
+

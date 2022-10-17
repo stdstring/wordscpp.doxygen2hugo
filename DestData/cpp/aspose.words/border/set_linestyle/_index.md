@@ -11,3 +11,7 @@ url: /cpp/aspose.words/border/set_linestyle/
 
 Setter for [Aspose::Words::Border::get_LineStyle](./get_linestyle/).
 
+```cpp
+void Aspose::Words::Border::set_LineStyle(Aspose::Words::LineStyle value)
+```
+

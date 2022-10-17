@@ -11,3 +11,7 @@ url: /cpp/aspose.words/paragraphformat/get_linestodrop/
 
 Gets or sets the number of lines of the paragraph text used to calculate the drop cap height.
 
+```cpp
+int32_t Aspose::Words::ParagraphFormat::get_LinesToDrop()
+```
+

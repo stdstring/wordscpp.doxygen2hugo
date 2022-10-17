@@ -11,3 +11,7 @@ url: /cpp/aspose.words.replacing/replacingargs/get_match/
 
 The **Match** resulting from a single regular expression match during a **Replace**.
 
+```cpp
+System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replacing::ReplacingArgs::get_Match() const
+```
+

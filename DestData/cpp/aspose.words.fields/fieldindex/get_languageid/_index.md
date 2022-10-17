@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldindex/get_languageid/
 
 Gets or sets the language ID used to generate the index.
 
+```cpp
+System::String Aspose::Words::Fields::FieldIndex::get_LanguageId()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/metered/getconsumptionquantity/
 
 Gets consumption file size.
 
+```cpp
+static System::Decimal Aspose::Words::Metered::GetConsumptionQuantity()
+```
+

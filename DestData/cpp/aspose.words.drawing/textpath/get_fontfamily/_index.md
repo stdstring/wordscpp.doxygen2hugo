@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/textpath/get_fontfamily/
 
 Defines the family of the textpath font.
 
+```cpp
+System::String Aspose::Words::Drawing::TextPath::get_FontFamily()
+```
+

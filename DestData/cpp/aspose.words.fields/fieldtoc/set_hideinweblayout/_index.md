@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldtoc/set_hideinweblayout/
 
 Setter for [Aspose::Words::Fields::FieldToc::get_HideInWebLayout](./get_hideinweblayout/).
 
+```cpp
+void Aspose::Words::Fields::FieldToc::set_HideInWebLayout(bool value)
+```
+

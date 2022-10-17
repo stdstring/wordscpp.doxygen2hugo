@@ -11,3 +11,7 @@ url: /cpp/aspose.words/font/set_size/
 
 Setter for [Aspose::Words::Font::get_Size](./get_size/).
 
+```cpp
+void Aspose::Words::Font::set_Size(double value)
+```
+

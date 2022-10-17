@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldseq/get_bookmarkname/
 
 Gets or sets a bookmark name that refers to an item elsewhere in the document rather than in the current location.
 
+```cpp
+System::String Aspose::Words::Fields::FieldSeq::get_BookmarkName()
+```
+

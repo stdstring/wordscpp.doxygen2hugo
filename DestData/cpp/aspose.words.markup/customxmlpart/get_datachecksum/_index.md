@@ -11,3 +11,7 @@ url: /cpp/aspose.words.markup/customxmlpart/get_datachecksum/
 
 Specifies a cyclic redundancy check (CRC) checksum of the [Data](./get_data/) content.
 
+```cpp
+int64_t Aspose::Words::Markup::CustomXmlPart::get_DataChecksum()
+```
+

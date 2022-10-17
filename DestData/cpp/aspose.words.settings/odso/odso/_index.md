@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/odso/odso/
 
 
 
+```cpp
+Aspose::Words::Settings::Odso::Odso()
+```
+

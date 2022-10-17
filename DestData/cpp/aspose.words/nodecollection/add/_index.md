@@ -11,3 +11,7 @@ url: /cpp/aspose.words/nodecollection/add/
 
 Adds a node to the end of the collection.
 
+```cpp
+void Aspose::Words::NodeCollection::Add(const System::SharedPtr<Aspose::Words::Node> &node)
+```
+

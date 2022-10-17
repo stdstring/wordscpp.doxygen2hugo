@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_wpspacewidth/
 
 Specifies whether to set the width of a space as is done in WordPerfect 5.x.
 
+```cpp
+void Aspose::Words::Settings::CompatibilityOptions::set_WPSpaceWidth(bool value)
+```
+

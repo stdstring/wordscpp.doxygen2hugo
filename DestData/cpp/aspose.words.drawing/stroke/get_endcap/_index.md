@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/stroke/get_endcap/
 
 Defines the cap style for the end of a stroke.
 
+```cpp
+Aspose::Words::Drawing::EndCap Aspose::Words::Drawing::Stroke::get_EndCap()
+```
+

@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentbase/get_backgroundshape/
 
 Gets or sets the background shape of the document. Can be null.
 
+```cpp
+System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBase::get_BackgroundShape() const
+```
+

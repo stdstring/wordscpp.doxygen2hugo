@@ -11,3 +11,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_printbodytextbeforehead
 
 Print [Body](../../aspose.words/body/) Text before Header/Footer Contents.
 
+```cpp
+bool Aspose::Words::Settings::CompatibilityOptions::get_PrintBodyTextBeforeHeader()
+```
+

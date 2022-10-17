@@ -11,3 +11,7 @@ url: /cpp/aspose.words.drawing/signatureline/set_signer/
 
 Setter for [Aspose::Words::Drawing::SignatureLine::get_Signer](./get_signer/).
 
+```cpp
+void Aspose::Words::Drawing::SignatureLine::set_Signer(const System::String &value)
+```
+

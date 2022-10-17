@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_commentcolor/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_CommentColor](./get_commentcolor/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_CommentColor(Aspose::Words::Layout::RevisionColor value)
+```
+

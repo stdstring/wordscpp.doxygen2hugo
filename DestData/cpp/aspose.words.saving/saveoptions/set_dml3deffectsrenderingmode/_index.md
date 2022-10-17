@@ -11,3 +11,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_dml3deffectsrenderingmode/
 
 Sets a value determining how 3D effects are rendered.
 
+```cpp
+void Aspose::Words::Saving::SaveOptions::set_Dml3DEffectsRenderingMode(Aspose::Words::Saving::Dml3DEffectsRenderingMode value)
+```
+

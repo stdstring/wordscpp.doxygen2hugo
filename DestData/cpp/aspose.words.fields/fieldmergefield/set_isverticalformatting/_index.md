@@ -11,3 +11,7 @@ url: /cpp/aspose.words.fields/fieldmergefield/set_isverticalformatting/
 
 Sets whether to enable character conversion for vertical formatting.
 
+```cpp
+void Aspose::Words::Fields::FieldMergeField::set_IsVerticalFormatting(bool value)
+```
+

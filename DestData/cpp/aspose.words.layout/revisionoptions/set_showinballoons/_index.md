@@ -11,3 +11,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_showinballoons/
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons](./get_showinballoons/).
 
+```cpp
+void Aspose::Words::Layout::RevisionOptions::set_ShowInBalloons(Aspose::Words::Layout::ShowInBalloons value)
+```
+
