@@ -65,7 +65,7 @@ let generateList (dest: StringBuilder) (relativeUrlGenerator: UrlGenerator) (dat
                                         line.ToString().Trim() |> dest.AppendLine |> ignore)
     dest.AppendLine() |> ignore
 
-let GenerateEnumDetailedDescription (relativeUrlGenerator: UrlGenerator) (detailedDescription: EnumDetailedDescription) =
+let GenerateDetailedDescription (relativeUrlGenerator: UrlGenerator) (detailedDescription: DetailedDescription) =
     let result = new StringBuilder()
     for part in detailedDescription do
         match part with

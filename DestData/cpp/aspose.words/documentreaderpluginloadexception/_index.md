@@ -11,3 +11,7 @@ url: /cpp/aspose.words/documentreaderpluginloadexception/
 
 Thrown during document load, when the plugin required for reading the document format cannot be loaded.
 
+```cpp
+using Aspose::Words::DocumentReaderPluginLoadException = typedef System::ExceptionWrapper<Details_DocumentReaderPluginLoadException>
+```
+

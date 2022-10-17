@@ -29,14 +29,14 @@ type MarkupList = {Ordered: bool; Items: SimpleMarkup list}
 
 type ExternalLinkData = {Text: string; Url: string}
 
-type EnumDetailedDescriptionPart =
+type DetailedDescriptionPart =
     | SimpleMarkupPart of SimpleMarkupDef
     | Title of string
     | CodeBlock of CodeBlockMarkup
     | List of MarkupList
     | ExternalLink of ExternalLinkData
 
-type EnumDetailedDescription = EnumDetailedDescriptionPart list
+type DetailedDescription = DetailedDescriptionPart list
 
 let parseMarkupRef (source: XElement) =
     let refId = "refid" |> Utils.getAttributeValue source
@@ -100,6 +100,7 @@ let parseMarkupList (source: XElement) =
     let items = source.Elements("listitem") |> Seq.map parseMarkup |> Seq.toList
     match source.Name.LocalName with
     | "orderedlist" -> {MarkupList.Ordered = true; Items = items}
+    | "itemizedlist" -> {MarkupList.Ordered = false; Items = items}
     | name -> name |> failwithf "Unexpected list XML element with name \"%s\""
 
 let parseExternalLink (source: XElement) =
@@ -107,33 +108,34 @@ let parseExternalLink (source: XElement) =
     let text = source.Value
     {ExternalLinkData.Text = text; ExternalLinkData.Url = url}
 
-let parseEnumDetailedDescription (source: XElement): EnumDetailedDescription =
-    let rec parseEnumDetailedDescriptionPart (node: XNode) =
+let parseDetailedDescription (source: XElement): DetailedDescription =
+    let rec parseDetailedDescriptionPart (node: XNode) =
         match node with
         | :? XElement ->
             let element = node :?> XElement
             match element.Name.LocalName with
             | "para" ->
-                seq {yield SimpleMarkupDef.ParagraphStart |> EnumDetailedDescriptionPart.SimpleMarkupPart;
-                     yield! element.Nodes() |> Seq.map parseEnumDetailedDescriptionPart |> Seq.concat;
-                     yield SimpleMarkupDef.ParagraphEnd |> EnumDetailedDescriptionPart.SimpleMarkupPart}
+                seq {yield SimpleMarkupDef.ParagraphStart |> DetailedDescriptionPart.SimpleMarkupPart;
+                     yield! element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat;
+                     yield SimpleMarkupDef.ParagraphEnd |> DetailedDescriptionPart.SimpleMarkupPart}
             // TODO (std_string) : think about special processing of computeroutput node
             | "computeroutput"
             | "bold" ->
-                seq {yield SimpleMarkupDef.BoldStart |> EnumDetailedDescriptionPart.SimpleMarkupPart;
-                     yield! element.Nodes() |> Seq.map parseEnumDetailedDescriptionPart |> Seq.concat;
-                     yield SimpleMarkupDef.BoldEnd |> EnumDetailedDescriptionPart.SimpleMarkupPart}
-            | "ref" -> seq {yield element |> parseMarkupRef |> SimpleMarkupDef.Ref |> EnumDetailedDescriptionPart.SimpleMarkupPart}
-            | "title" -> seq {yield element.Value |> EnumDetailedDescriptionPart.Title}
+                seq {yield SimpleMarkupDef.BoldStart |> DetailedDescriptionPart.SimpleMarkupPart;
+                     yield! element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat;
+                     yield SimpleMarkupDef.BoldEnd |> DetailedDescriptionPart.SimpleMarkupPart}
+            | "ref" -> seq {yield element |> parseMarkupRef |> SimpleMarkupDef.Ref |> DetailedDescriptionPart.SimpleMarkupPart}
+            | "title" -> seq {yield element.Value |> DetailedDescriptionPart.Title}
             | "simplesect" ->
                 match "kind" |> Utils.getAttributeValue element with
-                | "par" -> element.Nodes() |> Seq.map parseEnumDetailedDescriptionPart |> Seq.concat
+                | "par" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
                 | "see" -> Seq.empty
                 | kind -> kind |> failwithf "Unexpected \"simplesect\" XML element with kind \"%s\""
-            | "orderedlist" -> element |> parseMarkupList |> EnumDetailedDescriptionPart.List |> Seq.singleton
-            | "programlisting" -> seq {yield element |> parseCodeBlock |> EnumDetailedDescriptionPart.CodeBlock}
-            | "ulink" -> element |> parseExternalLink |> EnumDetailedDescriptionPart.ExternalLink |> Seq.singleton
+            | "orderedlist"
+            | "itemizedlist" -> element |> parseMarkupList |> DetailedDescriptionPart.List |> Seq.singleton
+            | "programlisting" -> seq {yield element |> parseCodeBlock |> DetailedDescriptionPart.CodeBlock}
+            | "ulink" -> element |> parseExternalLink |> DetailedDescriptionPart.ExternalLink |> Seq.singleton
             | name -> name |> failwithf "Unexpected enum detailed description XML element with name \"%s\""
-        | :? XText -> (node :?> XText).Value |> SimpleMarkupDef.Text |> EnumDetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
+        | :? XText -> (node :?> XText).Value |> SimpleMarkupDef.Text |> DetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
         | _ -> node.NodeType |> failwithf "Unexpected enum detailed description XML node with type %A"
-    source.Nodes() |> Seq.map parseEnumDetailedDescriptionPart |> Seq.concat |> Seq.toList
+    source.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat |> Seq.toList

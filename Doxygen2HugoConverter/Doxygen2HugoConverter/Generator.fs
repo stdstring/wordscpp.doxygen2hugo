@@ -133,11 +133,20 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
         let valueBriefDescription = enumValueDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
         sprintf $"| {enumValueDef.Name} | `0` | {valueBriefDescription} |" |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
-    let detailedDescription = enumDef.DetailedDescription |> GenerateEnumDetailedDescription (generateRelativeUrlForEntity currentContext)
+    let detailedDescription = enumDef.DetailedDescription |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())
     {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink enumDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
+
+let generateTypedefDefinition (typedefDef: Defs.TypedefDef) (dest: StringBuilder) =
+    match typedefDef.Definition |> System.String.IsNullOrEmpty with
+    | true -> ()
+    | false ->
+        "```cpp" |> dest.AppendLine |> ignore
+        typedefDef.Definition.Trim() |> dest.AppendLine |> ignore
+        "```" |> dest.AppendLine |> ignore
+        dest.AppendLine() |> ignore
 
 let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     let folderName = typedefDef.Name |> Utils.createSimpleFolderName
@@ -153,6 +162,9 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
+    builder |> generateTypedefDefinition typedefDef
+    let detailedDescription = typedefDef.DetailedDescription |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
+    detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(typedefDirectory, Common.MarkdownFilename), builder.ToString())
     {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink typedefDef.Name;
      GenerateEntry.BriefDescription = briefDescription}

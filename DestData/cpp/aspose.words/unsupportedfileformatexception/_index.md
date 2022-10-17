@@ -11,3 +11,7 @@ url: /cpp/aspose.words/unsupportedfileformatexception/
 
 Thrown during document load, when the document format is not recognized or not supported by [Aspose.Words](../).
 
+```cpp
+using Aspose::Words::UnsupportedFileFormatException = typedef System::ExceptionWrapper<Details_UnsupportedFileFormatException>
+```
+
