@@ -18,7 +18,7 @@ virtual System::SharedPtr<System::Drawing::Image> Aspose::Words::Fields::IBarcod
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| parameters | `-` | The set of parameters |
+| parameters | System::SharedPtr\<Aspose::Words::Fields::BarcodeParameters\> | The set of parameters |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitShapeS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shape | `-` | The object that is being visited. |
+| shape | System::SharedPtr\<Aspose::Words::Drawing::Shape\> | The object that is being visited. |
 
 ### ReturnValue
 

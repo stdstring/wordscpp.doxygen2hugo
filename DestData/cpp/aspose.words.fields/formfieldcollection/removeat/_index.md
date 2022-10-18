@@ -18,7 +18,7 @@ void Aspose::Words::Fields::FormFieldCollection::RemoveAt(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the form field to remove. |
+| index | int32_t | The zero-based index of the form field to remove. |
 
 ## Examples
 

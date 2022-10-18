@@ -18,7 +18,7 @@ void Aspose::Words::BookmarkCollection::Remove(const System::SharedPtr<Aspose::W
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmark | `-` | The bookmark to remove. |
+| bookmark | const System::SharedPtr\<Aspose::Words::Bookmark\>\& | The bookmark to remove. |
 
 ## Examples
 
@@ -90,7 +90,7 @@ void Aspose::Words::BookmarkCollection::Remove(const System::String &bookmarkNam
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | `-` | The case-insensitive name of the bookmark to remove. |
+| bookmarkName | const System::String\& | The case-insensitive name of the bookmark to remove. |
 
 ## Examples
 

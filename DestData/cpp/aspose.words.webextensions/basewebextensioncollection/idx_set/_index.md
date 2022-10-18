@@ -18,7 +18,7 @@ void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::idx_set(int32_
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the item. |
+| index | int32_t | Zero-based index of the item. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::B
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the list of building blocks. |
+| index | int32_t | An index into the list of building blocks. |
 
 The index is zero-based.
 

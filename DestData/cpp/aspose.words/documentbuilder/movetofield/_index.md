@@ -18,8 +18,8 @@ void Aspose::Words::DocumentBuilder::MoveToField(const System::SharedPtr<Aspose:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | `-` | The field to move the cursor to. |
-| isAfter | `-` | When true, moves the cursor to be after the field end. When false, moves the cursor to be before the field start. |
+| field | const System::SharedPtr\<Aspose::Words::Fields::Field\>\& | The field to move the cursor to. |
+| isAfter | bool | When true, moves the cursor to be after the field end. When false, moves the cursor to be before the field start. |
 
 ## Examples
 

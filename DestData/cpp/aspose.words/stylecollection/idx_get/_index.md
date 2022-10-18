@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::idx_get(
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sti | `-` | A [StyleIdentifier](../../styleidentifier/) value that specifies the built in style to retrieve. |
+| sti | Aspose::Words::StyleIdentifier | A [StyleIdentifier](../../styleidentifier/) value that specifies the built in style to retrieve. |
 
 When accessing a style that does not yet exist, automatically creates it.
 

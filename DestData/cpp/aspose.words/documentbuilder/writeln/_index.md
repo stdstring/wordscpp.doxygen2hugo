@@ -29,7 +29,7 @@ void Aspose::Words::DocumentBuilder::Writeln(const System::String &text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | `-` | The string to insert into the document. |
+| text | const System::String\& | The string to insert into the document. |
 
 ## Examples
 

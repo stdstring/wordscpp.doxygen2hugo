@@ -102,7 +102,7 @@ System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalSty
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the conditional style to retrieve. |
+| index | int32_t | Zero-based index of the conditional style to retrieve. |
 
 ## Examples
 

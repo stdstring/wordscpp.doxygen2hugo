@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Notes::Footnote> Aspose::Words::DocumentBuilder
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| footnoteType | `-` | Specifies whether to insert a footnote or an endnote. |
-| footnoteText | `-` | Specifies the text of the footnote. |
+| footnoteType | Aspose::Words::Notes::FootnoteType | Specifies whether to insert a footnote or an endnote. |
+| footnoteText | const System::String\& | Specifies the text of the footnote. |
 
 ### ReturnValue
 
@@ -68,9 +68,9 @@ System::SharedPtr<Aspose::Words::Notes::Footnote> Aspose::Words::DocumentBuilder
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| footnoteType | `-` | Specifies whether to insert a footnote or an endnote. |
-| footnoteText | `-` | Specifies the text of the footnote. |
-| referenceMark | `-` | Specifies the custom reference mark of the footnote. |
+| footnoteType | Aspose::Words::Notes::FootnoteType | Specifies whether to insert a footnote or an endnote. |
+| footnoteText | const System::String\& | Specifies the text of the footnote. |
+| referenceMark | const System::String\& | Specifies the custom reference mark of the footnote. |
 
 ### ReturnValue
 

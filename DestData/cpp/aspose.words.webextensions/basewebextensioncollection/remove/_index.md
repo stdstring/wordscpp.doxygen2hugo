@@ -18,7 +18,7 @@ void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Remove(int32_t
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the collection item. |
+| index | int32_t | The zero-based index of the collection item. |
 
 ## Examples
 

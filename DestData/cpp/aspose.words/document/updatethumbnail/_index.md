@@ -55,7 +55,7 @@ void Aspose::Words::Document::UpdateThumbnail(const System::SharedPtr<Aspose::Wo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | `-` | The generating options to use. |
+| options | const System::SharedPtr\<Aspose::Words::Rendering::ThumbnailGeneratingOptions\>\& | The generating options to use. |
 
 ## Examples
 

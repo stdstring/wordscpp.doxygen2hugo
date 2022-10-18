@@ -18,7 +18,7 @@ bool Aspose::Words::Markup::StructuredDocumentTag::Accept(System::SharedPtr<Aspo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | `-` | The visitor that will visit the nodes. |
+| visitor | System::SharedPtr\<Aspose::Words::DocumentVisitor\> | The visitor that will visit the nodes. |
 
 ### ReturnValue
 

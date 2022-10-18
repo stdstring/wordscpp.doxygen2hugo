@@ -18,8 +18,8 @@ virtual System::SharedPtr<System::Globalization::CultureInfo> Aspose::Words::Fie
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| culture | `-` | The name of the culture requested for the field being updated. |
-| field | `-` | The field being updated. |
+| culture | System::String | The name of the culture requested for the field being updated. |
+| field | System::SharedPtr\<Aspose::Words::Fields::Field\> | The field being updated. |
 
 ### ReturnValue
 

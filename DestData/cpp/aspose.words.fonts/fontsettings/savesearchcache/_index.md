@@ -18,6 +18,6 @@ void Aspose::Words::Fonts::FontSettings::SaveSearchCache(const System::SharedPtr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | `-` | Output stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output stream. |
 
 

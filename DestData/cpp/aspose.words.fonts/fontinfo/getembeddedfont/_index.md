@@ -18,8 +18,8 @@ System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::GetEmbeddedFont(Aspose
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | `-` | Specifies the font format to retrieve. |
-| style | `-` | Specifies the font style to retrieve. |
+| format | Aspose::Words::Fonts::EmbeddedFontFormat | Specifies the font format to retrieve. |
+| style | Aspose::Words::Fonts::EmbeddedFontStyle | Specifies the font style to retrieve. |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ Aspose::Words::Drawing::GroupShape::GroupShape(const System::SharedPtr<Aspose::W
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 
 By default, the shape is floating and has default location and size.
 

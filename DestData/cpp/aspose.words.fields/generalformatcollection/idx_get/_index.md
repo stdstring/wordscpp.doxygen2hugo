@@ -18,7 +18,7 @@ Aspose::Words::Fields::GeneralFormat Aspose::Words::Fields::GeneralFormatCollect
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The index of a general format. |
+| index | int32_t | The index of a general format. |
 
 ### ReturnValue
 

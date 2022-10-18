@@ -18,7 +18,7 @@ void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::SharedPtr<Sy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | `-` | Output stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output stream. |
 
 ## Examples
 
@@ -59,7 +59,7 @@ void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::String &file
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Output file name. |
+| fileName | const System::String\& | Output file name. |
 
 ## Examples
 

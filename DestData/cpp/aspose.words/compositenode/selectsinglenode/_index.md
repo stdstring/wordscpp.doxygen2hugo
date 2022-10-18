@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::SelectSingl
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xpath | `-` | The XPath expression. |
+| xpath | const System::String\& | The XPath expression. |
 
 ### ReturnValue
 

@@ -18,9 +18,9 @@ static System::String Aspose::Words::Lists::ListLevel::GetEffectiveValue(int32_t
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The index of the list item (must be in the range from 1 to 32767). |
-| numberStyle | `-` | The [NumberStyle](../../../aspose.words/numberstyle/) of the [ListLevel](../) object. |
-| customNumberStyleFormat | `-` | The optional format string used when **Custom** is specified (e.g. "a, ç, ĝ, ..."). In other cases, this parameter must be null or empty. |
+| index | int32_t | The index of the list item (must be in the range from 1 to 32767). |
+| numberStyle | Aspose::Words::NumberStyle | The [NumberStyle](../../../aspose.words/numberstyle/) of the [ListLevel](../) object. |
+| customNumberStyleFormat | const System::String\& | The optional format string used when **Custom** is specified (e.g. "a, ç, ĝ, ..."). In other cases, this parameter must be null or empty. |
 
 ### ReturnValue
 

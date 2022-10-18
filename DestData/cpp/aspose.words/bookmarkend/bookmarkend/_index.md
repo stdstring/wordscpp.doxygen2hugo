@@ -18,8 +18,8 @@ Aspose::Words::BookmarkEnd::BookmarkEnd(const System::SharedPtr<Aspose::Words::D
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
-| name | `-` | The name of the bookmark. Cannot be null. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+| name | const System::String\& | The name of the bookmark. Cannot be null. |
 
 ## Examples
 

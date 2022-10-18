@@ -18,7 +18,7 @@ virtual void Aspose::Words::IHyphenationCallback::RequestDictionary(System::Stri
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| language | `-` | A language name, e.g. "en-US". See .NET documentation for "culture name" and RFC 4646 for details. |
+| language | System::String | A language name, e.g. "en-US". See .NET documentation for "culture name" and RFC 4646 for details. |
 
 ## Examples
 

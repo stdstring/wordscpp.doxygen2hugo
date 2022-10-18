@@ -18,10 +18,10 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Stream containing application data. |
-| progId | `-` | ProgId of OLE object. |
-| iconFile | `-` | Full path to the ICO file. If the value is null, Aspose.Words will use a predefined image. |
-| iconCaption | `-` | Icon caption. If the value is null, Aspose.Words will use the a predefined icon caption. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing application data. |
+| progId | const System::String\& | ProgId of OLE object. |
+| iconFile | const System::String\& | Full path to the ICO file. If the value is null, Aspose.Words will use a predefined image. |
+| iconCaption | const System::String\& | Icon caption. If the value is null, Aspose.Words will use the a predefined icon caption. |
 
 ### ReturnValue
 
@@ -70,10 +70,10 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Full path to the file. |
-| isLinked | `-` | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
-| iconFile | `-` | Full path to the ICO file. If the value is null, Aspose.Words will use a predefined image. |
-| iconCaption | `-` | Icon caption. If the value is null, Aspose.Words will use the file name. |
+| fileName | const System::String\& | Full path to the file. |
+| isLinked | bool | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
+| iconFile | const System::String\& | Full path to the ICO file. If the value is null, Aspose.Words will use a predefined image. |
+| iconCaption | const System::String\& | Icon caption. If the value is null, Aspose.Words will use the file name. |
 
 ### ReturnValue
 
@@ -93,11 +93,11 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Full path to the file. |
-| progId | `-` | ProgId of OLE object. |
-| isLinked | `-` | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
-| iconFile | `-` | Full path to the ICO file. If the value is null, Aspose.Words will use a predefined image. |
-| iconCaption | `-` | Icon caption. If the value is null, Aspose.Words will use the file name. |
+| fileName | const System::String\& | Full path to the file. |
+| progId | const System::String\& | ProgId of OLE object. |
+| isLinked | bool | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
+| iconFile | const System::String\& | Full path to the ICO file. If the value is null, Aspose.Words will use a predefined image. |
+| iconCaption | const System::String\& | Icon caption. If the value is null, Aspose.Words will use the file name. |
 
 ### ReturnValue
 

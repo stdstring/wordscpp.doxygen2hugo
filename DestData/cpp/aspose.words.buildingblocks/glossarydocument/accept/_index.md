@@ -18,7 +18,7 @@ bool Aspose::Words::BuildingBlocks::GlossaryDocument::Accept(System::SharedPtr<A
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | `-` | The visitor that will visit the nodes. |
+| visitor | System::SharedPtr\<Aspose::Words::DocumentVisitor\> | The visitor that will visit the nodes. |
 
 ### ReturnValue
 

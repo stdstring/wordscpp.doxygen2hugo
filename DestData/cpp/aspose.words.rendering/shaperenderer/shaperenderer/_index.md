@@ -18,6 +18,6 @@ Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer(const System::SharedPtr<A
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shape | `-` | The DrawinML shape object that you want to render. |
+| shape | const System::SharedPtr\<Aspose::Words::Drawing::ShapeBase\>\& | The DrawinML shape object that you want to render. |
 
 

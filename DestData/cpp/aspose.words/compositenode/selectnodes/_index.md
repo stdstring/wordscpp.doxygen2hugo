@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::NodeList> Aspose::Words::CompositeNode::SelectN
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xpath | `-` | The XPath expression. |
+| xpath | const System::String\& | The XPath expression. |
 
 ### ReturnValue
 

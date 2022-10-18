@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSmartT
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| smartTag | `-` | The object that is being visited. |
+| smartTag | System::SharedPtr\<Aspose::Words::Markup::SmartTag\> | The object that is being visited. |
 
 ### ReturnValue
 

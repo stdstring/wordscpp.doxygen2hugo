@@ -18,7 +18,7 @@ virtual void Aspose::Words::Saving::IDocumentSavingCallback::Notify(System::Shar
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| args | `-` | An argument of the event. |
+| args | System::SharedPtr\<Aspose::Words::Saving::DocumentSavingArgs\> | An argument of the event. |
 
 The primary uses for this interface is to allow application code to obtain progress status and abort saving process.
 

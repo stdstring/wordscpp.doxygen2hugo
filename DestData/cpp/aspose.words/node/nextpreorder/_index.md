@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::NextPreOrder(const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rootNode | `-` | The top node (limit) of traversal. |
+| rootNode | const System::SharedPtr\<Aspose::Words::Node\>\& | The top node (limit) of traversal. |
 
 ### ReturnValue
 

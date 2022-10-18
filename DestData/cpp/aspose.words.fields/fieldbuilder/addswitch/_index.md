@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| switchName | `-` | The switch name. |
+| switchName | const System::String\& | The switch name. |
 
 ## Examples
 
@@ -115,8 +115,8 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| switchName | `-` | The switch name. |
-| switchArgument | `-` | The switch value. |
+| switchName | const System::String\& | The switch name. |
+| switchArgument | const System::String\& | The switch value. |
 
 ## Examples
 
@@ -213,8 +213,8 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| switchName | `-` | The switch name. |
-| switchArgument | `-` | The switch value. |
+| switchName | const System::String\& | The switch name. |
+| switchArgument | double | The switch value. |
 
 ## Examples
 
@@ -311,8 +311,8 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| switchName | `-` | The switch name. |
-| switchArgument | `-` | The switch value. |
+| switchName | const System::String\& | The switch name. |
+| switchArgument | int32_t | The switch value. |
 
 ## Examples
 

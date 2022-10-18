@@ -18,7 +18,7 @@ int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey(const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the bookmark. |
+| name | const System::String\& | The case-insensitive name of the bookmark. |
 
 ### ReturnValue
 

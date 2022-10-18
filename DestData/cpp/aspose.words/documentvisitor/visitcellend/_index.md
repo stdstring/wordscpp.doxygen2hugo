@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitCellEn
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cell | `-` | The object that is being visited. |
+| cell | System::SharedPtr\<Aspose::Words::Tables::Cell\> | The object that is being visited. |
 
 ### ReturnValue
 

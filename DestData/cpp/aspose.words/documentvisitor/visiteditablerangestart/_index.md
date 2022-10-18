@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitEditab
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| editableRangeStart | `-` | The object that is being visited. |
+| editableRangeStart | System::SharedPtr\<Aspose::Words::EditableRangeStart\> | The object that is being visited. |
 
 ### ReturnValue
 

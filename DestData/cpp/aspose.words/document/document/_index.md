@@ -75,7 +75,7 @@ Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &s
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Stream where to load the document from. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where to load the document from. |
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
@@ -132,8 +132,8 @@ Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &s
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | The stream where to load the document from. |
-| loadOptions | `-` | Additional options to use when loading a document. Can be null. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to load the document from. |
+| loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
@@ -219,7 +219,7 @@ Aspose::Words::Document::Document(const System::String &fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | File name of the document to open. |
+| fileName | const System::String\& | File name of the document to open. |
 
 ## Examples
 
@@ -245,8 +245,8 @@ Aspose::Words::Document::Document(const System::String &fileName, const System::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | File name of the document to open. |
-| loadOptions | `-` | Additional options to use when loading a document. Can be null. |
+| fileName | const System::String\& | File name of the document to open. |
+| loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
 
 ## Examples
 

@@ -18,8 +18,8 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBounds
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scale | `-` | The zoom factor (1.0 is 100%). |
-| dpi | `-` | The resolution (horizontal and vertical) to convert from points to pixels (dots per inch). |
+| scale | float | The zoom factor (1.0 is 100%). |
+| dpi | float | The resolution (horizontal and vertical) to convert from points to pixels (dots per inch). |
 
 ### ReturnValue
 
@@ -86,9 +86,9 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBounds
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scale | `-` | The zoom factor (1.0 is 100%). |
-| horizontalDpi | `-` | The horizontal resolution to convert from points to pixels (dots per inch). |
-| verticalDpi | `-` | The vertical resolution to convert from points to pixels (dots per inch). |
+| scale | float | The zoom factor (1.0 is 100%). |
+| horizontalDpi | float | The horizontal resolution to convert from points to pixels (dots per inch). |
+| verticalDpi | float | The vertical resolution to convert from points to pixels (dots per inch). |
 
 ### ReturnValue
 

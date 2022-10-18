@@ -105,7 +105,7 @@ Aspose::Words::Saving::XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | Can be **XamlFlow** or **XamlFlowPack**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be **XamlFlow** or **XamlFlowPack**. |
 
 ## Examples
 

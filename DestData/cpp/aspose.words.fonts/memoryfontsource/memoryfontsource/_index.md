@@ -18,7 +18,7 @@ Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource(const System::ArrayPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontData | `-` | Binary font data. |
+| fontData | const System::ArrayPtr\<uint8_t\>\& | Binary font data. |
 
 ## Examples
 
@@ -50,8 +50,8 @@ Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource(const System::ArrayPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontData | `-` | Binary font data. |
-| priority | `-` | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
+| fontData | const System::ArrayPtr\<uint8_t\>\& | Binary font data. |
+| priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 
 ## Examples
 
@@ -83,8 +83,8 @@ Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource(const System::ArrayPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontData | `-` | Binary font data. |
-| priority | `-` | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
-| cacheKey | `-` | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
+| fontData | const System::ArrayPtr\<uint8_t\>\& | Binary font data. |
+| priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
+| cacheKey | const System::String\& | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
 
 

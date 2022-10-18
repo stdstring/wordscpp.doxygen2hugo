@@ -18,7 +18,7 @@ static System::SharedPtr<Aspose::Words::Saving::SaveOptions> Aspose::Words::Savi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | The save format for which to create a save options object. |
+| saveFormat | Aspose::Words::SaveFormat | The save format for which to create a save options object. |
 
 ### ReturnValue
 
@@ -58,7 +58,7 @@ static System::SharedPtr<Aspose::Words::Saving::SaveOptions> Aspose::Words::Savi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The extension of this file name determines the class of the save options object to create. |
+| fileName | const System::String\& | The extension of this file name determines the class of the save options object to create. |
 
 ### ReturnValue
 

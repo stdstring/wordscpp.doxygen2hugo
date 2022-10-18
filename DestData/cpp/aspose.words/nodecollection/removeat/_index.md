@@ -18,7 +18,7 @@ void Aspose::Words::NodeCollection::RemoveAt(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the node. Negative indexes are allowed and indicate access from the back of the list. For example -1 means the last node, -2 means the second before last and so on. |
+| index | int32_t | The zero-based index of the node. Negative indexes are allowed and indicate access from the back of the list. For example -1 means the last node, -2 means the second before last and so on. |
 
 ## Examples
 

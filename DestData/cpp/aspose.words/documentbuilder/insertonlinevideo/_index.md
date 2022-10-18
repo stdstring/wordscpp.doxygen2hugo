@@ -18,14 +18,14 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| videoUrl | `-` | The URL to the video. |
-| horzPos | `-` | Specifies where the distance to the image is measured from. |
-| left | `-` | Distance in points from the origin to the left side of the image. |
-| vertPos | `-` | Specifies where the distance to the image measured from. |
-| top | `-` | Distance in points from the origin to the top side of the image. |
-| width | `-` | The width of the image in points. Can be a negative or zero value to request 100% scale. |
-| height | `-` | The height of the image in points. Can be a negative or zero value to request 100% scale. |
-| wrapType | `-` | Specifies how to wrap text around the image. |
+| videoUrl | const System::String\& | The URL to the video. |
+| horzPos | Aspose::Words::Drawing::RelativeHorizontalPosition | Specifies where the distance to the image is measured from. |
+| left | double | Distance in points from the origin to the left side of the image. |
+| vertPos | Aspose::Words::Drawing::RelativeVerticalPosition | Specifies where the distance to the image measured from. |
+| top | double | Distance in points from the origin to the top side of the image. |
+| width | double | The width of the image in points. Can be a negative or zero value to request 100% scale. |
+| height | double | The height of the image in points. Can be a negative or zero value to request 100% scale. |
+| wrapType | Aspose::Words::Drawing::WrapType | Specifies how to wrap text around the image. |
 
 ### ReturnValue
 
@@ -58,16 +58,16 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| videoUrl | `-` | The URL to the video. |
-| videoEmbedCode | `-` | The embed code for the video. |
-| thumbnailImageBytes | `-` | The thumbnail image bytes. |
-| horzPos | `-` | Specifies where the distance to the image is measured from. |
-| left | `-` | Distance in points from the origin to the left side of the image. |
-| vertPos | `-` | Specifies where the distance to the image measured from. |
-| top | `-` | Distance in points from the origin to the top side of the image. |
-| width | `-` | The width of the image in points. Can be a negative or zero value to request 100% scale. |
-| height | `-` | The height of the image in points. Can be a negative or zero value to request 100% scale. |
-| wrapType | `-` | Specifies how to wrap text around the image. |
+| videoUrl | const System::String\& | The URL to the video. |
+| videoEmbedCode | const System::String\& | The embed code for the video. |
+| thumbnailImageBytes | const System::ArrayPtr\<uint8_t\>\& | The thumbnail image bytes. |
+| horzPos | Aspose::Words::Drawing::RelativeHorizontalPosition | Specifies where the distance to the image is measured from. |
+| left | double | Distance in points from the origin to the left side of the image. |
+| vertPos | Aspose::Words::Drawing::RelativeVerticalPosition | Specifies where the distance to the image measured from. |
+| top | double | Distance in points from the origin to the top side of the image. |
+| width | double | The width of the image in points. Can be a negative or zero value to request 100% scale. |
+| height | double | The height of the image in points. Can be a negative or zero value to request 100% scale. |
+| wrapType | Aspose::Words::Drawing::WrapType | Specifies how to wrap text around the image. |
 
 ### ReturnValue
 
@@ -127,11 +127,11 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| videoUrl | `-` | The URL to the video. |
-| videoEmbedCode | `-` | The embed code for the video. |
-| thumbnailImageBytes | `-` | The thumbnail image bytes. |
-| width | `-` | The width of the image in points. Can be a negative or zero value to request 100% scale. |
-| height | `-` | The height of the image in points. Can be a negative or zero value to request 100% scale. |
+| videoUrl | const System::String\& | The URL to the video. |
+| videoEmbedCode | const System::String\& | The embed code for the video. |
+| thumbnailImageBytes | const System::ArrayPtr\<uint8_t\>\& | The thumbnail image bytes. |
+| width | double | The width of the image in points. Can be a negative or zero value to request 100% scale. |
+| height | double | The height of the image in points. Can be a negative or zero value to request 100% scale. |
 
 ### ReturnValue
 
@@ -191,9 +191,9 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| videoUrl | `-` | The URL to the video. |
-| width | `-` | The width of the image in points. Can be a negative or zero value to request 100% scale. |
-| height | `-` | The height of the image in points. Can be a negative or zero value to request 100% scale. |
+| videoUrl | const System::String\& | The URL to the video. |
+| width | double | The width of the image in points. Can be a negative or zero value to request 100% scale. |
+| height | double | The height of the image in points. Can be a negative or zero value to request 100% scale. |
 
 ### ReturnValue
 

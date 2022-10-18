@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSectio
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| section | `-` | The object that is being visited. |
+| section | System::SharedPtr\<Aspose::Words::Section\> | The object that is being visited. |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::AddCopy(
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| style | `-` | [Style](../../style/) to be copied. |
+| style | const System::SharedPtr\<Aspose::Words::Style\>\& | [Style](../../style/) to be copied. |
 
 ### ReturnValue
 

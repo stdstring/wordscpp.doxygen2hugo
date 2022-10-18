@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitParagr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| paragraph | `-` | The object that is being visited. |
+| paragraph | System::SharedPtr\<Aspose::Words::Paragraph\> | The object that is being visited. |
 
 ### ReturnValue
 

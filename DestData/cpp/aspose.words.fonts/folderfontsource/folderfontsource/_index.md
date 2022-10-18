@@ -18,8 +18,8 @@ Aspose::Words::Fonts::FolderFontSource::FolderFontSource(const System::String &f
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| folderPath | `-` | Path to folder. |
-| scanSubfolders | `-` | Determines whether or not to scan subfolders. |
+| folderPath | const System::String\& | Path to folder. |
+| scanSubfolders | bool | Determines whether or not to scan subfolders. |
 
 ## Examples
 
@@ -53,9 +53,9 @@ Aspose::Words::Fonts::FolderFontSource::FolderFontSource(const System::String &f
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| folderPath | `-` | Path to folder. |
-| scanSubfolders | `-` | Determines whether or not to scan subfolders. |
-| priority | `-` | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
+| folderPath | const System::String\& | Path to folder. |
+| scanSubfolders | bool | Determines whether or not to scan subfolders. |
+| priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 
 ## Examples
 

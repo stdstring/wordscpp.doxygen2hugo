@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::DocumentBuilder::De
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tableIndex | `-` | The index of the table. |
-| rowIndex | `-` | The index of the row in the table. |
+| tableIndex | int32_t | The index of the table. |
+| rowIndex | int32_t | The index of the row in the table. |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::Clone(bool isCloneCh
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| isCloneChildren | `-` | True to recursively clone the subtree under the specified node; false to clone only the node itself. |
+| isCloneChildren | bool | True to recursively clone the subtree under the specified node; false to clone only the node itself. |
 
 ### ReturnValue
 

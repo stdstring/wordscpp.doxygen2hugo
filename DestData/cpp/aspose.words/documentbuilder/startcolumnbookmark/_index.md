@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::DocumentBuilder::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | `-` | Name of the bookmark. |
+| bookmarkName | const System::String\& | Name of the bookmark. |
 
 ### ReturnValue
 

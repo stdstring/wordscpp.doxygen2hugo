@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::CompositeNode::G
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| nodeType | `-` | Specifies the type of nodes to select. |
-| isDeep | `-` | True to select from all child nodes recursively. False to select only among immediate children. |
+| nodeType | Aspose::Words::NodeType | Specifies the type of nodes to select. |
+| isDeep | bool | True to select from all child nodes recursively. False to select only among immediate children. |
 
 ### ReturnValue
 

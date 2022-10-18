@@ -18,7 +18,7 @@ void Aspose::Words::BookmarkCollection::RemoveAt(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the bookmark to remove. |
+| index | int32_t | The zero-based index of the bookmark to remove. |
 
 ## Examples
 

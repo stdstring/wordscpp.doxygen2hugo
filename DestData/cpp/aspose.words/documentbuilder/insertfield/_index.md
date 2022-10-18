@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldType | `-` | The type of the field to append. |
-| updateField | `-` | Specifies whether to update the field immediately. |
+| fieldType | Aspose::Words::Fields::FieldType | The type of the field to append. |
+| updateField | bool | Specifies whether to update the field immediately. |
 
 ### ReturnValue
 
@@ -84,7 +84,7 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldCode | `-` | The field code to insert (without curly braces). |
+| fieldCode | const System::String\& | The field code to insert (without curly braces). |
 
 ### ReturnValue
 
@@ -148,8 +148,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldCode | `-` | The field code to insert (without curly braces). |
-| fieldValue | `-` | The field value to insert. Pass null for fields that do not have a value. |
+| fieldCode | const System::String\& | The field code to insert (without curly braces). |
+| fieldValue | const System::String\& | The field value to insert. Pass null for fields that do not have a value. |
 
 ### ReturnValue
 

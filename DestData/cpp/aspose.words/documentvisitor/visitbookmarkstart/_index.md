@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBookma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkStart | `-` | The object that is being visited. |
+| bookmarkStart | System::SharedPtr\<Aspose::Words::BookmarkStart\> | The object that is being visited. |
 
 ### ReturnValue
 

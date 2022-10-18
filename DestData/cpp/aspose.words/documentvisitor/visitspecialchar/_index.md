@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitSpecia
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| specialChar | `-` | The object that is being visited. |
+| specialChar | System::SharedPtr\<Aspose::Words::SpecialChar\> | The object that is being visited. |
 
 ### ReturnValue
 

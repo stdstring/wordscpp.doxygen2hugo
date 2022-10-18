@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::idx_
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | `-` | The position (in points) of the tab stop. |
+| position | double | The position (in points) of the tab stop. |
 
 ## Examples
 
@@ -75,7 +75,7 @@ System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::idx_
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection of tab stops. |
+| index | int32_t | An index into the collection of tab stops. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ bool Aspose::Words::NodeCollection::Contains(const System::SharedPtr<Aspose::Wor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | `-` | The node to locate. |
+| node | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to locate. |
 
 ### ReturnValue
 

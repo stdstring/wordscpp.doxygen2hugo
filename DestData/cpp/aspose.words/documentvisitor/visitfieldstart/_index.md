@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldStart | `-` | The object that is being visited. |
+| fieldStart | System::SharedPtr\<Aspose::Words::Fields::FieldStart\> | The object that is being visited. |
 
 ### ReturnValue
 

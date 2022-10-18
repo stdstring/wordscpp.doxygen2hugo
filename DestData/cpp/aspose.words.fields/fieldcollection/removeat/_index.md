@@ -18,7 +18,7 @@ void Aspose::Words::Fields::FieldCollection::RemoveAt(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection. |
+| index | int32_t | An index into the collection. |
 
 ## Examples
 

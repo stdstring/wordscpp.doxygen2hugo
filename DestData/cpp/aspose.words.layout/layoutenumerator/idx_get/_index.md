@@ -18,7 +18,7 @@ System::SharedPtr<System::Object> Aspose::Words::Layout::LayoutEnumerator::idx_g
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | `-` | A name of the property (case-sensitive). |
+| key | const System::String\& | A name of the property (case-sensitive). |
 
 ### ReturnValue
 

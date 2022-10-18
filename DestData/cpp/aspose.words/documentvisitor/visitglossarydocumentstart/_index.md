@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGlossa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glossary | `-` | The object that is being visited. |
+| glossary | System::SharedPtr\<Aspose::Words::BuildingBlocks::GlossaryDocument\> | The object that is being visited. |
 
 ### ReturnValue
 

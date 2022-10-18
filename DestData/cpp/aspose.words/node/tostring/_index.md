@@ -105,7 +105,7 @@ System::String Aspose::Words::Node::ToString(const System::SharedPtr<Aspose::Wor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveOptions | `-` | Specifies the options that control how the node is saved. |
+| saveOptions | const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\& | Specifies the options that control how the node is saved. |
 
 ### ReturnValue
 

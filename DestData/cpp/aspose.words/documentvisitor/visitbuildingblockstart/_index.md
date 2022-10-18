@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBuildi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| block | `-` | The object that is being visited. |
+| block | System::SharedPtr\<Aspose::Words::BuildingBlocks::BuildingBlock\> | The object that is being visited. |
 
 ### ReturnValue
 

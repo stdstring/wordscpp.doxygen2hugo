@@ -18,9 +18,9 @@ Aspose::Words::NodeImporter::NodeImporter(const System::SharedPtr<Aspose::Words:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | `-` | The source document. |
-| dstDoc | `-` | The destination document that will be the owner of imported nodes. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
+| srcDoc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The source document. |
+| dstDoc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The destination document that will be the owner of imported nodes. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
 
 ## Examples
 
@@ -100,10 +100,10 @@ Aspose::Words::NodeImporter::NodeImporter(const System::SharedPtr<Aspose::Words:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | `-` | The source document. |
-| dstDoc | `-` | The destination document that will be the owner of imported nodes. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
-| importFormatOptions | `-` | Specifies various options to format imported node. |
+| srcDoc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The source document. |
+| dstDoc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The destination document that will be the owner of imported nodes. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
+| importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Specifies various options to format imported node. |
 
 ## Examples
 

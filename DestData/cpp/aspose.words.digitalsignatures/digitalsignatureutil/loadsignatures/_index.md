@@ -18,7 +18,7 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureColle
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Stream with the document. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream with the document. |
 
 ### ReturnValue
 
@@ -59,7 +59,7 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureColle
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Path to the document. |
+| fileName | const System::String\& | Path to the document. |
 
 ### ReturnValue
 

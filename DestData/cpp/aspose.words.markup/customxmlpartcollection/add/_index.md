@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomXmlPartCollection::Add(const System::SharedPtr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| part | `-` | The custom XML part to add. |
+| part | const System::SharedPtr\<Aspose::Words::Markup::CustomXmlPart\>\& | The custom XML part to add. |
 
 ## Examples
 
@@ -98,8 +98,8 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::C
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | `-` | Identifier of a new custom XML part. |
-| xml | `-` | XML data of the part. |
+| id | const System::String\& | Identifier of a new custom XML part. |
+| xml | const System::String\& | XML data of the part. |
 
 ### ReturnValue
 

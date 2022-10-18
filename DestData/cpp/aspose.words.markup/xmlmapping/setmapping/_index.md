@@ -18,9 +18,9 @@ bool Aspose::Words::Markup::XmlMapping::SetMapping(const System::SharedPtr<Aspos
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| customXmlPart | `-` | A custom XML data part to map to. |
-| xPath | `-` | An XPath expression to find the XML node. |
-| prefixMapping | `-` | XML namespace prefix mappings to evaluate the XPath. |
+| customXmlPart | const System::SharedPtr\<Aspose::Words::Markup::CustomXmlPart\>\& | A custom XML data part to map to. |
+| xPath | const System::String\& | An XPath expression to find the XML node. |
+| prefixMapping | const System::String\& | XML namespace prefix mappings to evaluate the XPath. |
 
 ### ReturnValue
 

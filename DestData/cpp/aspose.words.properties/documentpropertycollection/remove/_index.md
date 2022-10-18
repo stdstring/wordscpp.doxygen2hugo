@@ -18,7 +18,7 @@ void Aspose::Words::Properties::DocumentPropertyCollection::Remove(const System:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the property. |
+| name | const System::String\& | The case-insensitive name of the property. |
 
 ## Examples
 

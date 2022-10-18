@@ -18,11 +18,11 @@ System::Drawing::SizeF Aspose::Words::Document::RenderToScale(int32_t pageIndex,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageIndex | `-` | The 0-based page index. |
-| graphics | `-` | The object where to render to. |
-| x | `-` | The X coordinate (in world units) of the top left corner of the rendered page. |
-| y | `-` | The Y coordinate (in world units) of the top left corner of the rendered page. |
-| scale | `-` | The scale for rendering the page (1.0 is 100%). |
+| pageIndex | int32_t | The 0-based page index. |
+| graphics | const System::SharedPtr\<System::Drawing::Graphics\>\& | The object where to render to. |
+| x | float | The X coordinate (in world units) of the top left corner of the rendered page. |
+| y | float | The Y coordinate (in world units) of the top left corner of the rendered page. |
+| scale | float | The scale for rendering the page (1.0 is 100%). |
 
 ### ReturnValue
 

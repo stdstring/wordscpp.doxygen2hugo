@@ -66,7 +66,7 @@ System::String Aspose::Words::Fields::Field::GetFieldCode(bool includeChildField
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| includeChildFieldCodes | `-` | **True** if child field codes should be included. |
+| includeChildFieldCodes | bool | **True** if child field codes should be included. |
 
 ## Examples
 

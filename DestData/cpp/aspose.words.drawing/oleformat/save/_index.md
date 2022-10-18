@@ -18,7 +18,7 @@ void Aspose::Words::Drawing::OleFormat::Save(const System::SharedPtr<System::IO:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Where to save the object data. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Where to save the object data. |
 
 It is the responsibility of the caller to dispose the stream.
 
@@ -69,7 +69,7 @@ void Aspose::Words::Drawing::OleFormat::Save(const System::String &fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Name of the file to save the OLE object data. |
+| fileName | const System::String\& | Name of the file to save the OLE object data. |
 
 ## Examples
 

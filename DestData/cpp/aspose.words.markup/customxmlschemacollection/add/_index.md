@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomXmlSchemaCollection::Add(const System::String 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The item to add. |
+| value | const System::String\& | The item to add. |
 
 ## Examples
 

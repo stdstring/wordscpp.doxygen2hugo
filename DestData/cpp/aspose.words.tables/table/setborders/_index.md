@@ -18,9 +18,9 @@ void Aspose::Words::Tables::Table::SetBorders(Aspose::Words::LineStyle lineStyle
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lineStyle | `-` | The line style to apply. |
-| lineWidth | `-` | The line width to set (in points). |
-| color | `-` | The color to use for the border. |
+| lineStyle | Aspose::Words::LineStyle | The line style to apply. |
+| lineWidth | double | The line width to set (in points). |
+| color | System::Drawing::Color | The color to use for the border. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ int32_t Aspose::Words::VariableCollection::IndexOfKey(const System::String &name
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the variable. |
+| name | const System::String\& | The case-insensitive name of the variable. |
 
 ### ReturnValue
 

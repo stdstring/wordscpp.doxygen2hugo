@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::SectionCollection::idx_
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the list of sections. |
+| index | int32_t | An index into the list of sections. |
 
 The index is zero-based.
 

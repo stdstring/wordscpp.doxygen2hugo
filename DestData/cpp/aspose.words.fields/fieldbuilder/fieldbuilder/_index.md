@@ -18,7 +18,7 @@ Aspose::Words::Fields::FieldBuilder::FieldBuilder(Aspose::Words::Fields::FieldTy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldType | `-` | The type of the field to build. |
+| fieldType | Aspose::Words::Fields::FieldType | The type of the field to build. |
 
 ## Examples
 

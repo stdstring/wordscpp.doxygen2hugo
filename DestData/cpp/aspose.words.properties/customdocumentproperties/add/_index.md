@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. |
-| value | `-` | The value of the property. |
+| name | const System::String\& | The name of the property. |
+| value | bool | The value of the property. |
 
 ### ReturnValue
 
@@ -101,8 +101,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. |
-| value | `-` | The value of the property. |
+| name | const System::String\& | The name of the property. |
+| value | const System::String\& | The value of the property. |
 
 ### ReturnValue
 
@@ -184,8 +184,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. |
-| value | `-` | The value of the property. |
+| name | const System::String\& | The name of the property. |
+| value | double | The value of the property. |
 
 ### ReturnValue
 
@@ -267,8 +267,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. |
-| value | `-` | The value of the property. |
+| name | const System::String\& | The name of the property. |
+| value | int32_t | The value of the property. |
 
 ### ReturnValue
 
@@ -350,8 +350,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. |
-| value | `-` | The value of the property. |
+| name | const System::String\& | The name of the property. |
+| value | System::DateTime | The value of the property. |
 
 ### ReturnValue
 

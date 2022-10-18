@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomXmlPropertyCollection::Remove(const System::St
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-sensitive name of the property. |
+| name | const System::String\& | The case-sensitive name of the property. |
 
 ## Examples
 

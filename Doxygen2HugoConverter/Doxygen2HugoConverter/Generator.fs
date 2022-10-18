@@ -177,13 +177,13 @@ let generateTemplateParameters (context: Context) (templateParameters: Markup.Te
             let parameterDescription = templateParameter.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
             sprintf $"| {templateParameter.Name} | {parameterDescription} |" |> dest.AppendLine |> ignore
 
-let generateMethodArgs (context: Context) (methodArgs: Markup.MethodArg list) (dest: StringBuilder) =
+let generateMethodArgs (context: Context) (methodArgs: Markup.MethodArg list) (argsTypes: string list) (dest: StringBuilder) =
     if methodArgs.IsEmpty |> not then
         dest.AppendLine() |> ignore
         dest |> generateTableHeader ["Parameter"; "Type"; "Description"]
-        for methodArg in methodArgs do
+        for methodArg, argType in Seq.zip methodArgs argsTypes do
             let methodArgDescription = methodArg.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
-            sprintf $"| {methodArg.Name} | `-` | {methodArgDescription} |" |> dest.AppendLine |> ignore
+            sprintf $"| {methodArg.Name} | {argType} | {methodArgDescription} |" |> dest.AppendLine |> ignore
 
 let generateReturnValue (context: Context) (returnValue: Markup.SimpleMarkup) (dest: StringBuilder) =
     if returnValue.IsEmpty |> not then
@@ -203,26 +203,37 @@ let generateMethodDefinition (methodDef: Defs.MethodDef) (dest: StringBuilder) =
     "```" |> dest.AppendLine |> ignore
     dest.AppendLine() |> ignore
 
-let generateTypeRepresentation (sourceType: Markup.SimpleMarkupDef list) =
+(*let generateTypeRepresentation (sourceType: Markup.SimpleMarkupDef list) =
     let mapFun = fun part -> match part with
                              | Markup.SimpleMarkupDef.Text text -> text
                              | Markup.SimpleMarkupDef.Ref data -> data.Text
                              | _ -> failwith "Unsupported markup element for type"
     let typeRepresentation = sourceType |> Seq.map mapFun |> String.concat ""
-    typeRepresentation.Replace("< ", "\\<").Replace(" >", "\\>").Replace(" &", "\\&")
+    typeRepresentation.Replace("< ", "\\<").Replace(" >", "\\>").Replace(" &", "\\&")*)
 
-let generateParameterList (parameters: Defs.MethodParameterDef list) (dest: StringBuilder) =
+(*let generateParameterList (parameters: Defs.MethodArgDefef list) (dest: StringBuilder) =
     parameters |> Seq.iteri (fun index parameter -> match index with
                                                     | 0 -> ()
                                                     | _ -> ", " |> dest.Append |> ignore
-                                                    parameter.Type |> generateTypeRepresentation |> dest.Append |> ignore)
+                                                    parameter.Type |> generateTypeRepresentation |> dest.Append |> ignore)*)
 
-let generateMethodHeader (hasOverloads: bool) (methodDef: Defs.MethodDef) =
+let createArgTypeList (parameters: Defs.MethodArgDef list) =
+    let createTypeRepresentation (sourceType: Markup.SimpleMarkupDef list) =
+        let mapFun = fun part -> match part with
+                                 | Markup.SimpleMarkupDef.Text text -> text
+                                 | Markup.SimpleMarkupDef.Ref data -> data.Text
+                                 | _ -> failwith "Unsupported markup element for type"
+        let typeRepresentation = sourceType |> Seq.map mapFun |> String.concat ""
+        typeRepresentation.Replace("< ", "\\<").Replace(" >", "\\>").Replace(" &", "\\&")
+    parameters |> Seq.map (fun parameter -> parameter.Type |> createTypeRepresentation) |> Seq.toList
+
+let generateMethodHeader (hasOverloads: bool) (argsTypes: string list) (methodDef: Defs.MethodDef) =
     let result = new StringBuilder()
     sprintf $"{methodDef.ClassName}.{methodDef.Name}" |> result.Append |> ignore
     if hasOverloads then
         "(" |> result.Append |> ignore
-        result |> generateParameterList methodDef.Parameters
+        //result |> generateParameterList methodDef.Parameters
+        argsTypes |> String.concat ", " |> result.Append |> ignore
         ")" |> result.Append |> ignore
         if methodDef.IsConst then
             " const" |> result.Append |> ignore
@@ -239,14 +250,15 @@ let generateForDirectMethod (context: Context) (isFirst: bool) (hasOverloads: bo
     if isFirst then
         let descriptionForTitle = methodDef.BriefDescription |> GenerateBriefDescriptionForTitle
         builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
-    GenerateHeader (methodDef |> generateMethodHeader hasOverloads) 2 |> builder.Append |> ignore
+    let argsTypes = methodDef.Args |> createArgTypeList
+    GenerateHeader (methodDef |> generateMethodHeader hasOverloads argsTypes) 2 |> builder.Append |> ignore
     let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity currentContext)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     builder |> generateMethodDefinition methodDef
     builder |> generateTemplateParameters currentContext methodDef.DetailedDescription.TemplateParameters
-    builder |> generateMethodArgs currentContext methodDef.DetailedDescription.Args
+    builder |> generateMethodArgs currentContext methodDef.DetailedDescription.Args argsTypes
     builder |> generateReturnValue currentContext methodDef.DetailedDescription.ReturnValue
     let detailedDescription = methodDef.DetailedDescription.Description |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
@@ -268,7 +280,8 @@ let createMethodEntry (context: Context) (relativeUrl: string) (methodDef: Defs.
         "static " |> builder.Append |> ignore
     relativeUrl |> GenerateLink methodDef.Name |> builder.Append |> ignore
     "(" |> builder.Append |> ignore
-    builder |> generateParameterList methodDef.Parameters
+    //builder |> generateParameterList methodDef.Parameters
+    methodDef.Args |> createArgTypeList |> String.concat ", " |> builder.Append |> ignore
     ")" |> builder.Append |> ignore
     if methodDef.IsConst then
         " const" |> builder.Append |> ignore

@@ -18,8 +18,8 @@ void Aspose::Words::Saving::PclSaveOptions::AddPrinterFont(const System::String 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFullName | `-` | Full name of the font (e.g. "Times New Roman Bold Italic"). |
-| fontPclName | `-` | Name of the font that is used in Pcl document. |
+| fontFullName | const System::String\& | Full name of the font (e.g. "Times New Roman Bold Italic"). |
+| fontPclName | const System::String\& | Name of the font that is used in Pcl document. |
 
 ## Examples
 

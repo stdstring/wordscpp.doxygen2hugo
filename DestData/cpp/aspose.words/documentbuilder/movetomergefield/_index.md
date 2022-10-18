@@ -18,7 +18,7 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | `-` | The case-insensitive name of the mail merge field. |
+| fieldName | const System::String\& | The case-insensitive name of the mail merge field. |
 
 ### ReturnValue
 
@@ -70,9 +70,9 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | `-` | The case-insensitive name of the mail merge field. |
-| isAfter | `-` | When true, moves the cursor to be after the field end. When false, moves the cursor to be before the field start. |
-| isDeleteField | `-` | When true, deletes the merge field. |
+| fieldName | const System::String\& | The case-insensitive name of the mail merge field. |
+| isAfter | bool | When true, moves the cursor to be after the field end. When false, moves the cursor to be before the field start. |
+| isDeleteField | bool | When true, deletes the merge field. |
 
 ### ReturnValue
 

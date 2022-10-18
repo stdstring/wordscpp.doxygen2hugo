@@ -18,7 +18,7 @@ void Aspose::Words::Fields::DropDownItemCollection::Remove(const System::String 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-sensitive value to remove. |
+| name | const System::String\& | The case-sensitive value to remove. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ void Aspose::Words::TabStopCollection::RemoveByPosition(double position)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | `-` | The position (in points) of the tab stop to remove. |
+| position | double | The position (in points) of the tab stop to remove. |
 
 ## Examples
 

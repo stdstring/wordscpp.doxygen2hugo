@@ -18,7 +18,7 @@ static double Aspose::Words::ConvertUtil::InchToPoint(double inches)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inches | `-` | The value to convert. |
+| inches | double | The value to convert. |
 
 ## Examples
 

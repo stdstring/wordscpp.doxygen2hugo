@@ -18,8 +18,8 @@ Aspose::Words::HeaderFooter::HeaderFooter(const System::SharedPtr<Aspose::Words:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
-| headerFooterType | `-` | A [HeaderFooterType](../get_headerfootertype/) value that specifies the type of the header or footer. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+| headerFooterType | Aspose::Words::HeaderFooterType | A [HeaderFooterType](../get_headerfootertype/) value that specifies the type of the header or footer. |
 
 When **HeaderFooter** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

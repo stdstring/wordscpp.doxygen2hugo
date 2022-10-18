@@ -18,9 +18,9 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| displayText | `-` | Text of the link to be displayed in the document. |
-| urlOrBookmark | `-` | Link destination. Can be a url or a name of a bookmark inside the document. This method always adds apostrophes at the beginning and end of the url. |
-| isBookmark | `-` | True if the previous parameter is a name of a bookmark inside the document; false is the previous parameter is a URL. |
+| displayText | const System::String\& | Text of the link to be displayed in the document. |
+| urlOrBookmark | const System::String\& | Link destination. Can be a url or a name of a bookmark inside the document. This method always adds apostrophes at the beginning and end of the url. |
+| isBookmark | bool | True if the previous parameter is a name of a bookmark inside the document; false is the previous parameter is a URL. |
 
 ### ReturnValue
 

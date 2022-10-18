@@ -18,7 +18,7 @@ virtual System::SharedPtr<Aspose::Words::MailMerging::IMailMergeDataSource> Aspo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tableName | `-` | The name of the mail merge region as specified in the template document. Case-insensitive. |
+| tableName | System::String | The name of the mail merge region as specified in the template document. Case-insensitive. |
 
 ### ReturnValue
 

@@ -18,11 +18,11 @@ float Aspose::Words::Rendering::NodeRendererBase::RenderToSize(const System::Sha
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| graphics | `-` | The object where to render to. |
-| x | `-` | The X coordinate (in world units) of the top left corner of the rendered shape. |
-| y | `-` | The Y coordinate (in world units) of the top left corner of the rendered shape. |
-| width | `-` | The maximum width (in world units) that can be occupied by the rendered shape. |
-| height | `-` | The maximum height (in world units) that can be occupied by the rendered shape. |
+| graphics | const System::SharedPtr\<System::Drawing::Graphics\>\& | The object where to render to. |
+| x | float | The X coordinate (in world units) of the top left corner of the rendered shape. |
+| y | float | The Y coordinate (in world units) of the top left corner of the rendered shape. |
+| width | float | The maximum width (in world units) that can be occupied by the rendered shape. |
+| height | float | The maximum height (in world units) that can be occupied by the rendered shape. |
 
 ### ReturnValue
 

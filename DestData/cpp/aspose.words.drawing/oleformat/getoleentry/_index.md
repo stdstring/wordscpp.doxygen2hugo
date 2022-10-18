@@ -18,7 +18,7 @@ System::SharedPtr<System::IO::MemoryStream> Aspose::Words::Drawing::OleFormat::G
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oleEntryName | `-` | Case-sensitive name of the OLE data stream. |
+| oleEntryName | const System::String\& | Case-sensitive name of the OLE data stream. |
 
 ### ReturnValue
 

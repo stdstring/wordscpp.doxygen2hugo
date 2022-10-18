@@ -155,7 +155,7 @@ bool Aspose::Words::Layout::LayoutEnumerator::MoveParent(Aspose::Words::Layout::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| types | `-` | The parent entity type to move to. Use bitwise-OR to specify multiple parent types. |
+| types | Aspose::Words::Layout::LayoutEntityType | The parent entity type to move to. Use bitwise-OR to specify multiple parent types. |
 
 ## Examples
 

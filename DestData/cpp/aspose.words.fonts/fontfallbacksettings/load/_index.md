@@ -18,7 +18,7 @@ void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::SharedPtr<Sy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Input stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Input stream. |
 
 ## Examples
 
@@ -59,7 +59,7 @@ void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::String &file
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Input file name. |
+| fileName | const System::String\& | Input file name. |
 
 ## Examples
 

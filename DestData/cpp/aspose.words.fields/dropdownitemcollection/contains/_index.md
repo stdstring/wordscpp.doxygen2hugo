@@ -18,7 +18,7 @@ bool Aspose::Words::Fields::DropDownItemCollection::Contains(const System::Strin
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | Case-sensitive value to locate. |
+| value | const System::String\& | Case-sensitive value to locate. |
 
 ### ReturnValue
 

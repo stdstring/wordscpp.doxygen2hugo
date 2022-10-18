@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitCommen
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comment | `-` | The object that is being visited. |
+| comment | System::SharedPtr\<Aspose::Words::Comment\> | The object that is being visited. |
 
 ### ReturnValue
 

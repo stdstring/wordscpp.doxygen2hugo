@@ -18,9 +18,9 @@ void Aspose::Words::Drawing::Fill::OneColorGradient(Aspose::Words::Drawing::Grad
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| style | `-` | The gradient style [GradientStyle](../../gradientstyle/) |
-| variant | `-` | The gradient variant [GradientVariant](../../gradientvariant/) |
-| degree | `-` | The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light). |
+| style | Aspose::Words::Drawing::GradientStyle | The gradient style [GradientStyle](../../gradientstyle/) |
+| variant | Aspose::Words::Drawing::GradientVariant | The gradient variant [GradientVariant](../../gradientvariant/) |
+| degree | double | The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light). |
 
 ## Examples
 
@@ -75,10 +75,10 @@ void Aspose::Words::Drawing::Fill::OneColorGradient(System::Drawing::Color color
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | `-` | The color to build the gradient. |
-| style | `-` | The gradient style [GradientStyle](../../gradientstyle/) |
-| variant | `-` | The gradient variant [GradientVariant](../../gradientvariant/) |
-| degree | `-` | The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light). |
+| color | System::Drawing::Color | The color to build the gradient. |
+| style | Aspose::Words::Drawing::GradientStyle | The gradient style [GradientStyle](../../gradientstyle/) |
+| variant | Aspose::Words::Drawing::GradientVariant | The gradient variant [GradientVariant](../../gradientvariant/) |
+| degree | double | The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light). |
 
 ## Examples
 

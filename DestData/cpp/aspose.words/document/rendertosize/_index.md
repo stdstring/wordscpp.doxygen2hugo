@@ -18,12 +18,12 @@ float Aspose::Words::Document::RenderToSize(int32_t pageIndex, const System::Sha
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageIndex | `-` | The 0-based page index. |
-| graphics | `-` | The object where to render to. |
-| x | `-` | The X coordinate (in world units) of the top left corner of the rendered page. |
-| y | `-` | The Y coordinate (in world units) of the top left corner of the rendered page. |
-| width | `-` | The maximum width (in world units) that can be occupied by the rendered page. |
-| height | `-` | The maximum height (in world units) that can be occupied by the rendered page. |
+| pageIndex | int32_t | The 0-based page index. |
+| graphics | const System::SharedPtr\<System::Drawing::Graphics\>\& | The object where to render to. |
+| x | float | The X coordinate (in world units) of the top left corner of the rendered page. |
+| y | float | The Y coordinate (in world units) of the top left corner of the rendered page. |
+| width | float | The maximum width (in world units) that can be occupied by the rendered page. |
+| height | float | The maximum height (in world units) that can be occupied by the rendered page. |
 
 ### ReturnValue
 

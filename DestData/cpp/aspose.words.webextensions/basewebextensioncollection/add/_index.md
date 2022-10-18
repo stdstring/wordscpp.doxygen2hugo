@@ -18,7 +18,7 @@ void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Add(T item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | `-` | Item for adding. |
+| item | T | Item for adding. |
 
 ## Examples
 

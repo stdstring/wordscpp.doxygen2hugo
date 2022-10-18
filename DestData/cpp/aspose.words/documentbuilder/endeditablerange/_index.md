@@ -82,7 +82,7 @@ System::SharedPtr<Aspose::Words::EditableRangeEnd> Aspose::Words::DocumentBuilde
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| start | `-` | This editable range start. |
+| start | const System::SharedPtr\<Aspose::Words::EditableRangeStart\>\& | This editable range start. |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ Aspose::Words::Comment::Comment(const System::SharedPtr<Aspose::Words::DocumentB
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 
 When **Comment** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 
@@ -180,10 +180,10 @@ Aspose::Words::Comment::Comment(const System::SharedPtr<Aspose::Words::DocumentB
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
-| author | `-` | The author name for the comment. Cannot be null. |
-| initial | `-` | The author initials for the comment. Cannot be null. |
-| dateTime | `-` | The date and time for the comment. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+| author | const System::String\& | The author name for the comment. Cannot be null. |
+| initial | const System::String\& | The author initials for the comment. Cannot be null. |
+| dateTime | System::DateTime | The date and time for the comment. |
 
 ## Examples
 

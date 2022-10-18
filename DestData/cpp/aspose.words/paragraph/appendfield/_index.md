@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldType | `-` | The type of the field to append. |
-| updateField | `-` | Specifies whether to update the field immediately. |
+| fieldType | Aspose::Words::Fields::FieldType | The type of the field to append. |
+| updateField | bool | Specifies whether to update the field immediately. |
 
 ### ReturnValue
 
@@ -68,7 +68,7 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldCode | `-` | The field code to append (without curly braces). |
+| fieldCode | const System::String\& | The field code to append (without curly braces). |
 
 ### ReturnValue
 
@@ -117,8 +117,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldCode | `-` | The field code to append (without curly braces). |
-| fieldValue | `-` | The field value to append. Pass null for fields that do not have a value. |
+| fieldCode | const System::String\& | The field code to append (without curly braces). |
+| fieldValue | const System::String\& | The field value to append. Pass null for fields that do not have a value. |
 
 ### ReturnValue
 

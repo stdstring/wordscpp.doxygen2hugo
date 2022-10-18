@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. |
-| linkSource | `-` | The source of the property. |
+| name | const System::String\& | The name of the property. |
+| linkSource | const System::String\& | The source of the property. |
 
 ### ReturnValue
 

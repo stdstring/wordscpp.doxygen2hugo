@@ -34,7 +34,7 @@ type TypedefDef = {Id: string;
                    BriefDescription: SimpleMarkupDef list;
                    DetailedDescription: DetailedDescription}
 
-type MethodParameterDef = {Name: string; Type: SimpleMarkupDef list}
+type MethodArgDef = {Name: string; Type: SimpleMarkupDef list}
 
 type MethodDef = {Id: string;
                   ParentId: string;
@@ -50,7 +50,7 @@ type MethodDef = {Id: string;
                   Definition: string;
                   ArgString: string;
                   TemplateParameters: string list;
-                  Parameters: MethodParameterDef list;
+                  Args: MethodArgDef list;
                   ReturnType: SimpleMarkupDef list}
 
 type MethodGroupDef = {Name: string; Methods: MethodDef[]}
@@ -269,7 +269,7 @@ let parseTypedefDef (context: Context) (source: XElement) =
 let parseMethodParameter (source: XElement) =
     let paramName = "declname" |> Utils.getElementValue source
     let paramType = "type" |> Utils.getElement source |> Markup.parseSimpleMarkup
-    {MethodParameterDef.Name = paramName; MethodParameterDef.Type = paramType}
+    {MethodArgDef.Name = paramName; MethodArgDef.Type = paramType}
 
 [<Literal>]
 let OverrideSuffix = " override"
@@ -304,7 +304,7 @@ let parseMethodDef (context: Context) (source: XElement) =
                      MethodDef.Definition = definition;
                      MethodDef.ArgString = argString;
                      MethodDef.TemplateParameters = templateParameters;
-                     MethodDef.Parameters = parameters;
+                     MethodDef.Args = parameters;
                      MethodDef.ReturnType = returnType}
     context.CommonEntityRepo.Add(id, methodDef |> EntityDef.Method)
     methodDef

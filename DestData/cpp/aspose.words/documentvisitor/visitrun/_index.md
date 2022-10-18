@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitRun(Sy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| run | `-` | The object that is being visited. |
+| run | System::SharedPtr\<Aspose::Words::Run\> | The object that is being visited. |
 
 ### ReturnValue
 

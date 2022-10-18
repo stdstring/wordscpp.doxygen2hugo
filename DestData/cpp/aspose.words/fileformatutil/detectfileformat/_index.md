@@ -18,7 +18,7 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | The stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream. |
 
 ### ReturnValue
 
@@ -77,7 +77,7 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The file name. |
+| fileName | const System::String\& | The file name. |
 
 ### ReturnValue
 

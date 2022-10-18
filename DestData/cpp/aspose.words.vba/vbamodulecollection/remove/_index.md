@@ -18,7 +18,7 @@ void Aspose::Words::Vba::VbaModuleCollection::Remove(const System::SharedPtr<Asp
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| module_ | `-` | The module to remove. |
+| module_ | const System::SharedPtr\<Aspose::Words::Vba::VbaModule\>\& | The module to remove. |
 
 ## Examples
 

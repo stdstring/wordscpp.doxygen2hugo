@@ -18,9 +18,9 @@ void Aspose::Words::Tables::Table::SetShading(Aspose::Words::TextureIndex textur
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| texture | `-` | The texture to apply. |
-| foregroundColor | `-` | The color of the texture. |
-| backgroundColor | `-` | The color of the background fill. |
+| texture | Aspose::Words::TextureIndex | The texture to apply. |
+| foregroundColor | System::Drawing::Color | The color of the texture. |
+| backgroundColor | System::Drawing::Color | The color of the background fill. |
 
 ## Examples
 

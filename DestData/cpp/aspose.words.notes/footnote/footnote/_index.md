@@ -18,8 +18,8 @@ Aspose::Words::Notes::Footnote::Footnote(const System::SharedPtr<Aspose::Words::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
-| footnoteType | `-` | A [FootnoteType](../get_footnotetype/) value that specifies whether this is a footnote or endnote. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+| footnoteType | Aspose::Words::Notes::FootnoteType | A [FootnoteType](../get_footnotetype/) value that specifies whether this is a footnote or endnote. |
 
 When **Footnote** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

@@ -18,8 +18,8 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add(const System::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the bookmark to add. |
-| outlineLevel | `-` | The outline level of the bookmark. Valid range is 0 to 9. |
+| name | const System::String\& | The case-insensitive name of the bookmark to add. |
+| outlineLevel | int32_t | The outline level of the bookmark. Valid range is 0 to 9. |
 
 ## Examples
 

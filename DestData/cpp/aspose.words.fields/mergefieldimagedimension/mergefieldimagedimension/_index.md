@@ -18,7 +18,7 @@ Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension(double
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The value. |
+| value | double | The value. |
 
 
 ## MergeFieldImageDimension.MergeFieldImageDimension(double, Aspose::Words::Fields::MergeFieldImageDimensionUnit) method
@@ -33,7 +33,7 @@ Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension(double
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The value. |
-| unit | `-` | The unit. |
+| value | double | The value. |
+| unit | Aspose::Words::Fields::MergeFieldImageDimensionUnit | The unit. |
 
 

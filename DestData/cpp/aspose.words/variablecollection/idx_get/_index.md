@@ -27,6 +27,6 @@ System::String Aspose::Words::VariableCollection::idx_get(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the document variable. |
+| index | int32_t | Zero-based index of the document variable. |
 
 

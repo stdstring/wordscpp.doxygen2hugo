@@ -18,7 +18,7 @@ System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenT
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| style | `-` | Specifies the font style to retrieve. |
+| style | Aspose::Words::Fonts::EmbeddedFontStyle | Specifies the font style to retrieve. |
 
 ### ReturnValue
 

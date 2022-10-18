@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitDocume
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The object that is being visited. |
+| doc | System::SharedPtr\<Aspose::Words::Document\> | The object that is being visited. |
 
 ### ReturnValue
 

@@ -18,8 +18,8 @@ void Aspose::Words::Drawing::Fill::TwoColorGradient(Aspose::Words::Drawing::Grad
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| style | `-` | The gradient style [GradientStyle](../../gradientstyle/). |
-| variant | `-` | The gradient variant [GradientVariant](../../gradientvariant/) |
+| style | Aspose::Words::Drawing::GradientStyle | The gradient style [GradientStyle](../../gradientstyle/). |
+| variant | Aspose::Words::Drawing::GradientVariant | The gradient variant [GradientVariant](../../gradientvariant/) |
 
 ## Examples
 
@@ -74,10 +74,10 @@ void Aspose::Words::Drawing::Fill::TwoColorGradient(System::Drawing::Color color
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color1 | `-` | The first color to build the gradient. |
-| color2 | `-` | The second color to build the gradient. |
-| style | `-` | The gradient style [GradientStyle](../../gradientstyle/). |
-| variant | `-` | The gradient variant [GradientVariant](../../gradientvariant/) |
+| color1 | System::Drawing::Color | The first color to build the gradient. |
+| color2 | System::Drawing::Color | The second color to build the gradient. |
+| style | Aspose::Words::Drawing::GradientStyle | The gradient style [GradientStyle](../../gradientstyle/). |
+| variant | Aspose::Words::Drawing::GradientVariant | The gradient variant [GradientVariant](../../gradientvariant/) |
 
 ## Examples
 

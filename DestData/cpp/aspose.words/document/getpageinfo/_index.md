@@ -18,6 +18,6 @@ System::SharedPtr<Aspose::Words::Rendering::PageInfo> Aspose::Words::Document::G
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageIndex | `-` | The 0-based page index. |
+| pageIndex | int32_t | The 0-based page index. |
 
 

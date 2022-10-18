@@ -18,8 +18,8 @@ Aspose::Words::Markup::StructuredDocumentTagRangeEnd::StructuredDocumentTagRange
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
-| id | `-` | Identifier of the corresponding structured document tag range start. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+| id | int32_t | Identifier of the corresponding structured document tag range start. |
 
 ## Examples
 

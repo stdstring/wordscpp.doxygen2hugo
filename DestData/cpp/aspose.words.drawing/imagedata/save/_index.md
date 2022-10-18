@@ -18,7 +18,7 @@ void Aspose::Words::Drawing::ImageData::Save(const System::SharedPtr<System::IO:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | The stream where to save the image to. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to save the image to. |
 
 Is it the responsibility of the caller to dispose the stream object.
 
@@ -69,7 +69,7 @@ void Aspose::Words::Drawing::ImageData::Save(const System::String &fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The file name where to save the image. |
+| fileName | const System::String\& | The file name where to save the image. |
 
 ## Examples
 

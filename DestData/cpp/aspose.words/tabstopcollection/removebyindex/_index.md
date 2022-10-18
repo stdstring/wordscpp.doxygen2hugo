@@ -18,7 +18,7 @@ void Aspose::Words::TabStopCollection::RemoveByIndex(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection of tab stops. |
+| index | int32_t | An index into the collection of tab stops. |
 
 ## Examples
 

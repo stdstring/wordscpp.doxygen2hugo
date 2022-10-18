@@ -18,8 +18,8 @@ void Aspose::Words::Document::AppendDocument(const System::SharedPtr<Aspose::Wor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | `-` | The document to append. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
+| srcDoc | const System::SharedPtr\<Aspose::Words::Document\>\& | The document to append. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
 
 ## Examples
 
@@ -87,9 +87,9 @@ void Aspose::Words::Document::AppendDocument(const System::SharedPtr<Aspose::Wor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | `-` | The document to append. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
-| importFormatOptions | `-` | Allows to specify options that affect formatting of a result document. |
+| srcDoc | const System::SharedPtr\<Aspose::Words::Document\>\& | The document to append. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
+| importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Allows to specify options that affect formatting of a result document. |
 
 ## Examples
 

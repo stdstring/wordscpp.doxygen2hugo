@@ -18,7 +18,7 @@ Aspose::Words::Layout::LayoutCollector::LayoutCollector(const System::SharedPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The document to which this collector instance will be attached to. |
+| doc | const System::SharedPtr\<Aspose::Words::Document\>\& | The document to which this collector instance will be attached to. |
 
 ## Examples
 

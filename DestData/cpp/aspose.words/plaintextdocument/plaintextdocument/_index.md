@@ -18,7 +18,7 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::SharedPtr<Syst
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | The stream where to extract the text from. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to extract the text from. |
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
@@ -55,8 +55,8 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::SharedPtr<Syst
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | The stream where to extract the text from. |
-| loadOptions | `-` | Additional options to use when loading a document. Can be null. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to extract the text from. |
+| loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
@@ -100,7 +100,7 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::String &fileNa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Name of the file to extract the text from. |
+| fileName | const System::String\& | Name of the file to extract the text from. |
 
 ## Examples
 
@@ -132,8 +132,8 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::String &fileNa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Name of the file to extract the text from. |
-| loadOptions | `-` | Additional options to use when loading a document. Can be null. |
+| fileName | const System::String\& | Name of the file to extract the text from. |
+| loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
 
 ## Examples
 

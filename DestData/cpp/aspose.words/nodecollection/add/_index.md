@@ -18,7 +18,7 @@ void Aspose::Words::NodeCollection::Add(const System::SharedPtr<Aspose::Words::N
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | `-` | The node to be added to the end of the collection. |
+| node | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to be added to the end of the collection. |
 
 The node is inserted as a child into the node object from which the collection was created.
 

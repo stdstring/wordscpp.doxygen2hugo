@@ -18,7 +18,7 @@ void Aspose::Words::MailMerging::MappedDataFieldCollection::Add(const System::St
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| documentFieldName | `-` | Case-sensitive name of the mail merge field in the document. |
-| dataSourceFieldName | `-` | Case-sensitive name of the field in the data source. |
+| documentFieldName | const System::String\& | Case-sensitive name of the mail merge field in the document. |
+| dataSourceFieldName | const System::String\& | Case-sensitive name of the field in the data source. |
 
 

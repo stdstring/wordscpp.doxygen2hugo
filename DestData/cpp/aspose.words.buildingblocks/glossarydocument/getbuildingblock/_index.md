@@ -18,9 +18,9 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::B
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| gallery | `-` | The gallery criteria. |
-| category | `-` | The category criteria. Can be null, in which case it will not be used for comparison. |
-| name | `-` | The building block name criteria. |
+| gallery | Aspose::Words::BuildingBlocks::BuildingBlockGallery | The gallery criteria. |
+| category | const System::String\& | The category criteria. Can be null, in which case it will not be used for comparison. |
+| name | const System::String\& | The building block name criteria. |
 
 ### ReturnValue
 

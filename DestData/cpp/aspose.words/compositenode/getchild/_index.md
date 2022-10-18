@@ -18,9 +18,9 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::GetChild(As
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| nodeType | `-` | Specifies the type of the child node. |
-| index | `-` | Zero based index of the child node to select. Negative indexes are also allowed and indicate access from the end, that is -1 means the last node. |
-| isDeep | `-` | True to select from all child nodes recursively. False to select only among immediate children. See remarks for more info. |
+| nodeType | Aspose::Words::NodeType | Specifies the type of the child node. |
+| index | int32_t | Zero based index of the child node to select. Negative indexes are also allowed and indicate access from the end, that is -1 means the last node. |
+| isDeep | bool | True to select from all child nodes recursively. False to select only among immediate children. See remarks for more info. |
 
 ### ReturnValue
 

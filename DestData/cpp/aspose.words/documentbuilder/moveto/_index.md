@@ -18,7 +18,7 @@ void Aspose::Words::DocumentBuilder::MoveTo(const System::SharedPtr<Aspose::Word
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | `-` | The node must be a paragraph or a direct child of a paragraph. |
+| node | const System::SharedPtr\<Aspose::Words::Node\>\& | The node must be a paragraph or a direct child of a paragraph. |
 
 When node is an inline-level node, the cursor is moved to this node and further content will be inserted before that node.
 

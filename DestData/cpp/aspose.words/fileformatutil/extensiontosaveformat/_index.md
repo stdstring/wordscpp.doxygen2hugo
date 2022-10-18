@@ -18,7 +18,7 @@ static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::ExtensionToSaveF
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extension | `-` | The file extension. Can be with or without a leading dot. Case-insensitive. |
+| extension | const System::String\& | The file extension. Can be with or without a leading dot. Case-insensitive. |
 
 If the extension cannot be recognized, returns **Unknown**.
 

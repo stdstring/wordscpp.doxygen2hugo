@@ -18,9 +18,9 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the form field. Can be an empty string. The value longer than 20 characters will be truncated. |
-| items | `-` | The items of the ComboBox. Maximum is 25 items. |
-| selectedIndex | `-` | The index of the selected item in the ComboBox. |
+| name | const System::String\& | The name of the form field. Can be an empty string. The value longer than 20 characters will be truncated. |
+| items | const System::ArrayPtr\<System::String\>\& | The items of the ComboBox. Maximum is 25 items. |
+| selectedIndex | int32_t | The index of the selected item in the ComboBox. |
 
 ### ReturnValue
 

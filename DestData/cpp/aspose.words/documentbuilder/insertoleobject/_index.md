@@ -18,10 +18,10 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Stream containing application data. |
-| progId | `-` | Programmatic Identifier of OLE object. |
-| asIcon | `-` | Specifies either Iconic or Normal mode of OLE object being inserted. |
-| presentation | `-` | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing application data. |
+| progId | const System::String\& | Programmatic Identifier of OLE object. |
+| asIcon | bool | Specifies either Iconic or Normal mode of OLE object being inserted. |
+| presentation | const System::SharedPtr\<System::IO::Stream\>\& | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
 
 ### ReturnValue
 
@@ -41,10 +41,10 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Full path to the file. |
-| isLinked | `-` | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
-| asIcon | `-` | Specifies either Iconic or Normal mode of OLE object being inserted. |
-| presentation | `-` | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
+| fileName | const System::String\& | Full path to the file. |
+| isLinked | bool | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
+| asIcon | bool | Specifies either Iconic or Normal mode of OLE object being inserted. |
+| presentation | const System::SharedPtr\<System::IO::Stream\>\& | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
 
 ### ReturnValue
 
@@ -64,11 +64,11 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Full path to the file. |
-| progId | `-` | ProgId of OLE object. |
-| isLinked | `-` | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
-| asIcon | `-` | Specifies either Iconic or Normal mode of OLE object being inserted. |
-| presentation | `-` | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
+| fileName | const System::String\& | Full path to the file. |
+| progId | const System::String\& | ProgId of OLE object. |
+| isLinked | bool | If true then linked OLE object is inserted otherwise embedded OLE object is inserted. |
+| asIcon | bool | Specifies either Iconic or Normal mode of OLE object being inserted. |
+| presentation | const System::SharedPtr\<System::IO::Stream\>\& | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
 
 ### ReturnValue
 

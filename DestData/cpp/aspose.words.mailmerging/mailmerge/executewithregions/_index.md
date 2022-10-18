@@ -18,7 +18,7 @@ void Aspose::Words::MailMerging::MailMerge::ExecuteWithRegions(const System::Sha
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | `-` | An object that implements the custom mail merge data source interface. |
+| dataSource | const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\& | An object that implements the custom mail merge data source interface. |
 
 Use this method to fill mail merge fields in the document with values from any custom data source such as an XML file or collections of business objects. You need to write your own class that implements the [IMailMergeDataSource](../../imailmergedatasource/) interface.
 
@@ -305,7 +305,7 @@ void Aspose::Words::MailMerging::MailMerge::ExecuteWithRegions(const System::Sha
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSourceRoot | `-` | An object that implements the custom mail merge data source root interface. |
+| dataSourceRoot | const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSourceRoot\>\& | An object that implements the custom mail merge data source root interface. |
 
 Use this method to fill mail merge fields in the document with values from any custom data source such as an XML file or collections of business objects. You need to write your own classes that implement the [IMailMergeDataSourceRoot](../../imailmergedatasourceroot/) and [IMailMergeDataSource](../../imailmergedatasource/) interfaces.
 

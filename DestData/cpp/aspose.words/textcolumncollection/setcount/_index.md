@@ -18,7 +18,7 @@ void Aspose::Words::TextColumnCollection::SetCount(int32_t newCount)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newCount | `-` | The number of columns the text is to be arranged into. |
+| newCount | int32_t | The number of columns the text is to be arranged into. |
 
 When [EvenlySpaced](../get_evenlyspaced/) is **false** and you increase the number of columns, new [TextColumn](../../textcolumn/) objects are created with zero width and spacing. You need to set width and spacing for the new columns.
 

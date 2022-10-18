@@ -18,7 +18,7 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::RemoveAt(int32_t in
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero based index. |
+| index | int32_t | The zero based index. |
 
 ## Examples
 

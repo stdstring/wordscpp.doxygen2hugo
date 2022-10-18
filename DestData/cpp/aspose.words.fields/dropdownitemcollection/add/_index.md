@@ -18,7 +18,7 @@ int32_t Aspose::Words::Fields::DropDownItemCollection::Add(const System::String 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The string to add to the end of the collection. |
+| value | const System::String\& | The string to add to the end of the collection. |
 
 ### ReturnValue
 

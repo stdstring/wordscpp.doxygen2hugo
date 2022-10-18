@@ -18,7 +18,7 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regionName | `-` | Region name (case-insensitive). |
+| regionName | const System::String\& | Region name (case-insensitive). |
 
 ### ReturnValue
 

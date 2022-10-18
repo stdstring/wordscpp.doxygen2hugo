@@ -27,9 +27,9 @@ Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignature
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| serverUrl | `-` | Timestamp server URL. |
-| userName | `-` | Timestamp server user name. |
-| password | `-` | Timestamp server password. |
+| serverUrl | const System::String\& | Timestamp server URL. |
+| userName | const System::String\& | Timestamp server user name. |
+| password | const System::String\& | Timestamp server password. |
 
 
 ## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) method
@@ -44,9 +44,9 @@ Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignature
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| serverUrl | `-` | Timestamp server URL. |
-| userName | `-` | Timestamp server user name. |
-| password | `-` | Timestamp server password. |
-| timeout | `-` | Time-out value for accessing timestamp server. |
+| serverUrl | const System::String\& | Timestamp server URL. |
+| userName | const System::String\& | Timestamp server user name. |
+| password | const System::String\& | Timestamp server password. |
+| timeout | System::TimeSpan | Time-out value for accessing timestamp server. |
 
 

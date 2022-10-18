@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| switches | `-` | The TOC field switches. |
+| switches | const System::String\& | The TOC field switches. |
 
 This method inserts a TOC (table of contents) field into the document at the current position.
 

@@ -18,10 +18,10 @@ System::SharedPtr<Aspose::Words::Comment> Aspose::Words::Comment::AddReply(const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| author | `-` | The author name for the reply. |
-| initial | `-` | The author initials for the reply. |
-| dateTime | `-` | The date and time for the reply. |
-| text | `-` | The reply text. |
+| author | const System::String\& | The author name for the reply. |
+| initial | const System::String\& | The author initials for the reply. |
+| dateTime | System::DateTime | The date and time for the reply. |
+| text | const System::String\& | The reply text. |
 
 ### ReturnValue
 

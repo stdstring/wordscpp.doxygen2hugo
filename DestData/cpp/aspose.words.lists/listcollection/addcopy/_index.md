@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcList | `-` | The source list to copy from. |
+| srcList | const System::SharedPtr\<Aspose::Words::Lists::List\>\& | The source list to copy from. |
 
 ### ReturnValue
 

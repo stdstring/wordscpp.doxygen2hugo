@@ -18,11 +18,11 @@ void Aspose::Words::Tables::Table::SetBorder(Aspose::Words::BorderType borderTyp
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| borderType | `-` | The table border to change. |
-| lineStyle | `-` | The line style to apply. |
-| lineWidth | `-` | The line width to set (in points). |
-| color | `-` | The color to use for the border. |
-| isOverrideCellBorders | `-` | When **true**, causes all existing explicit cell borders to be removed. |
+| borderType | Aspose::Words::BorderType | The table border to change. |
+| lineStyle | Aspose::Words::LineStyle | The line style to apply. |
+| lineWidth | double | The line width to set (in points). |
+| color | System::Drawing::Color | The color to use for the border. |
+| isOverrideCellBorders | bool | When **true**, causes all existing explicit cell borders to be removed. |
 
 ## Examples
 

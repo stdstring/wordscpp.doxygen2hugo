@@ -18,7 +18,7 @@ void Aspose::Words::Drawing::Fill::Patterned(Aspose::Words::Drawing::PatternType
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| patternType | `-` | [PatternType](../../patterntype/) |
+| patternType | Aspose::Words::Drawing::PatternType | [PatternType](../../patterntype/) |
 
 ## Examples
 
@@ -56,9 +56,9 @@ void Aspose::Words::Drawing::Fill::Patterned(Aspose::Words::Drawing::PatternType
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| patternType | `-` | [PatternType](../../patterntype/) |
-| foreColor | `-` | The color of the foreground fill. |
-| backColor | `-` | The color of the background fill. |
+| patternType | Aspose::Words::Drawing::PatternType | [PatternType](../../patterntype/) |
+| foreColor | System::Drawing::Color | The color of the foreground fill. |
+| backColor | System::Drawing::Color | The color of the background fill. |
 
 ## Examples
 

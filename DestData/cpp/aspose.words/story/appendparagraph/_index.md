@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Story::AppendParagrap
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | `-` | The text for the paragraph. Can be null or empty string. |
+| text | const System::String\& | The text for the paragraph. Can be null or empty string. |
 
 ### ReturnValue
 

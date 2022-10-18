@@ -18,7 +18,7 @@ Aspose::Words::Tables::Table::Table(const System::SharedPtr<Aspose::Words::Docum
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 
 When **Table** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

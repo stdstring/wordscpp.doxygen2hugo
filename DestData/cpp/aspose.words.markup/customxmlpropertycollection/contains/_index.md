@@ -18,7 +18,7 @@ bool Aspose::Words::Markup::CustomXmlPropertyCollection::Contains(const System::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-sensitive name of the property to locate. |
+| name | const System::String\& | Case-sensitive name of the property to locate. |
 
 ### ReturnValue
 

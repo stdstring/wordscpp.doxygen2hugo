@@ -18,6 +18,6 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection. |
+| index | int32_t | An index into the collection. |
 
 

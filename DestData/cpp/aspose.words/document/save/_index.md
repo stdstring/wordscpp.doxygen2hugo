@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Stream where to save the document. |
-| saveFormat | `-` | The format in which to save the document. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where to save the document. |
+| saveFormat | Aspose::Words::SaveFormat | The format in which to save the document. |
 
 ### ReturnValue
 
@@ -84,8 +84,8 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Stream where to save the document. |
-| saveOptions | `-` | Specifies the options that control how the document is saved. Can be null. If this is null, the document will be saved in the binary DOC format. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where to save the document. |
+| saveOptions | const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\& | Specifies the options that control how the document is saved. Can be null. If this is null, the document will be saved in the binary DOC format. |
 
 ### ReturnValue
 
@@ -134,7 +134,7 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The name for the document. If a document with the specified file name already exists, the existing document is overwritten. |
+| fileName | const System::String\& | The name for the document. If a document with the specified file name already exists, the existing document is overwritten. |
 
 ### ReturnValue
 
@@ -165,8 +165,8 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The name for the document. If a document with the specified file name already exists, the existing document is overwritten. |
-| saveFormat | `-` | The format in which to save the document. |
+| fileName | const System::String\& | The name for the document. If a document with the specified file name already exists, the existing document is overwritten. |
+| saveFormat | Aspose::Words::SaveFormat | The format in which to save the document. |
 
 ### ReturnValue
 
@@ -197,8 +197,8 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The name for the document. If a document with the specified file name already exists, the existing document is overwritten. |
-| saveOptions | `-` | Specifies the options that control how the document is saved. Can be null. |
+| fileName | const System::String\& | The name for the document. If a document with the specified file name already exists, the existing document is overwritten. |
+| saveOptions | const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\& | Specifies the options that control how the document is saved. Can be null. |
 
 ### ReturnValue
 

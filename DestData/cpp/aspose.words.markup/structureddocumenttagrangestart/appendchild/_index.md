@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::StructuredDocument
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newChild | `-` | The node to add. |
+| newChild | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to add. |
 
 ### ReturnValue
 

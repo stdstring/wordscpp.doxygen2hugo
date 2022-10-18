@@ -18,7 +18,7 @@ bool Aspose::Words::Run::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | `-` | The visitor that will visit the node. |
+| visitor | System::SharedPtr\<Aspose::Words::DocumentVisitor\> | The visitor that will visit the node. |
 
 ### ReturnValue
 

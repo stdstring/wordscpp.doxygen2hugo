@@ -135,7 +135,7 @@ void Aspose::Words::Fields::Field::Update(bool ignoreMergeFormat)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ignoreMergeFormat | `-` | If **true** then direct field result formatting is abandoned, regardless of the MERGEFORMAT switch, otherwise normal update is performed. |
+| ignoreMergeFormat | bool | If **true** then direct field result formatting is abandoned, regardless of the MERGEFORMAT switch, otherwise normal update is performed. |
 
 ## Examples
 

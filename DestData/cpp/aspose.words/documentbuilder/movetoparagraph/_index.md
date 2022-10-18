@@ -18,8 +18,8 @@ void Aspose::Words::DocumentBuilder::MoveToParagraph(int32_t paragraphIndex, int
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| paragraphIndex | `-` | The index of the paragraph to move to. |
-| characterIndex | `-` | The index of the character inside the paragraph. A negative value allows you to specify a position from the end of the paragraph. Use -1 to move to the end of the paragraph. |
+| paragraphIndex | int32_t | The index of the paragraph to move to. |
+| characterIndex | int32_t | The index of the character inside the paragraph. A negative value allows you to specify a position from the end of the paragraph. Use -1 to move to the end of the paragraph. |
 
 The navigation is performed inside the current story of the current section. That is, if you moved the cursor to the primary header of the first section, then paragraphIndex specified the index of the paragraph inside that header of that section.
 

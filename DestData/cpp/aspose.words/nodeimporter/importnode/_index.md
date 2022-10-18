@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeImporter::ImportNode(c
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcNode | `-` | The node to import. |
-| isImportChildren | `-` | True to import all child nodes recursively; otherwise, false. |
+| srcNode | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to import. |
+| isImportChildren | bool | True to import all child nodes recursively; otherwise, false. |
 
 ### ReturnValue
 

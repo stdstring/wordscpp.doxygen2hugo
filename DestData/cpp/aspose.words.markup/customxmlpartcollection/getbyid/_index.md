@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::C
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | `-` | Case-sensitive string that identifies the custom XML part. |
+| id | const System::String\& | Case-sensitive string that identifies the custom XML part. |
 
 ### ReturnValue
 

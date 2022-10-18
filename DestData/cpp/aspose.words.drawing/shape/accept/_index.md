@@ -18,7 +18,7 @@ bool Aspose::Words::Drawing::Shape::Accept(System::SharedPtr<Aspose::Words::Docu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | `-` | The visitor that will visit the nodes. |
+| visitor | System::SharedPtr\<Aspose::Words::DocumentVisitor\> | The visitor that will visit the nodes. |
 
 ### ReturnValue
 

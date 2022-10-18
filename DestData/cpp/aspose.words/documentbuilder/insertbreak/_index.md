@@ -18,7 +18,7 @@ void Aspose::Words::DocumentBuilder::InsertBreak(Aspose::Words::BreakType breakT
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| breakType | `-` | Specifies the type of the break to insert. |
+| breakType | Aspose::Words::BreakType | Specifies the type of the break to insert. |
 
 ## Examples
 

@@ -18,8 +18,8 @@ Aspose::Words::Saving::PageRange::PageRange(int32_t from, int32_t to)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| from | `-` | The starting page zero-based index. |
-| to | `-` | The ending page zero-based index. If it exceeds the index of the last page in the document, it is truncated to fit in the document on rendering. |
+| from | int32_t | The starting page zero-based index. |
+| to | int32_t | The ending page zero-based index. If it exceeds the index of the last page in the document, it is truncated to fit in the document on rendering. |
 
 ## Examples
 

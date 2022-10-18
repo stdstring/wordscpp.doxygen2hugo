@@ -18,8 +18,8 @@ virtual void Aspose::Words::IDocumentReaderPlugin::Read(System::SharedPtr<System
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | `-` | The source stream to read the document from. |
-| loadOptions | `-` | An additional load options to load the document. |
-| document | `-` | The instance of the [Document](../../document/) class to read the data to. If the instance contains some content, it will be overridden by the data from the source stream |
+| src | System::SharedPtr\<System::IO::Stream\> | The source stream to read the document from. |
+| loadOptions | System::SharedPtr\<Aspose::Words::Loading::LoadOptions\> | An additional load options to load the document. |
+| document | System::SharedPtr\<Aspose::Words::Document\> | The instance of the [Document](../../document/) class to read the data to. If the instance contains some content, it will be overridden by the data from the source stream |
 
 

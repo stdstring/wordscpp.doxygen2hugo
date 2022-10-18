@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitTableS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| table | `-` | The object that is being visited. |
+| table | System::SharedPtr\<Aspose::Words::Tables::Table\> | The object that is being visited. |
 
 ### ReturnValue
 

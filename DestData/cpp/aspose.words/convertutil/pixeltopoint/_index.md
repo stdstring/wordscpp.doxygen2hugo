@@ -18,7 +18,7 @@ static double Aspose::Words::ConvertUtil::PixelToPoint(double pixels)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixels | `-` | The value to convert. |
+| pixels | double | The value to convert. |
 
 ## Examples
 
@@ -70,8 +70,8 @@ static double Aspose::Words::ConvertUtil::PixelToPoint(double pixels, double res
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixels | `-` | The value to convert. |
-| resolution | `-` | The dpi (dots per inch) resolution. |
+| pixels | double | The value to convert. |
+| resolution | double | The dpi (dots per inch) resolution. |
 
 ## Examples
 

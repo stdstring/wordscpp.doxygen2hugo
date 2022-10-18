@@ -18,7 +18,7 @@ void Aspose::Words::Fields::FormField::SetTextInputValue(const System::SharedPtr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newValue | `-` | Can be a string, number or a DateTime object. |
+| newValue | const System::SharedPtr\<System::Object\>\& | Can be a string, number or a DateTime object. |
 
 ## Examples
 

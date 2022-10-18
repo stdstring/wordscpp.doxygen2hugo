@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::Afte
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | `-` | The reference position (in points). |
+| position | double | The reference position (in points). |
 
 ### ReturnValue
 

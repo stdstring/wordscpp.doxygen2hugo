@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::CompositeNode> Aspose::Words::Node::GetAncestor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ancestorType | `-` | The node type of the ancestor to retrieve. |
+| ancestorType | Aspose::Words::NodeType | The node type of the ancestor to retrieve. |
 
 ### ReturnValue
 

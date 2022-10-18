@@ -18,8 +18,8 @@ void Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes(const System::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| originalFontName | `-` | Original font name. |
-| substituteFontNames | `-` | List of alternative font names. |
+| originalFontName | const System::String\& | Original font name. |
+| substituteFontNames | const System::ArrayPtr\<System::String\>\& | List of alternative font names. |
 
 ## Examples
 

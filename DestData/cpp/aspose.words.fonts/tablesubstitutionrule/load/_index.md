@@ -18,7 +18,7 @@ void Aspose::Words::Fonts::TableSubstitutionRule::Load(const System::SharedPtr<S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | Input stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Input stream. |
 
 ## Examples
 
@@ -91,7 +91,7 @@ void Aspose::Words::Fonts::TableSubstitutionRule::Load(const System::String &fil
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Input file name. |
+| fileName | const System::String\& | Input file name. |
 
 ## Examples
 

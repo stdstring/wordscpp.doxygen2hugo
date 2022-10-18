@@ -18,10 +18,10 @@ System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::RenderToScale
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| graphics | `-` | The object where to render to. |
-| x | `-` | The X coordinate (in world units) of the top left corner of the rendered shape. |
-| y | `-` | The Y coordinate (in world units) of the top left corner of the rendered shape. |
-| scale | `-` | The scale for rendering the shape (1.0 is 100%). |
+| graphics | const System::SharedPtr\<System::Drawing::Graphics\>\& | The object where to render to. |
+| x | float | The X coordinate (in world units) of the top left corner of the rendered shape. |
+| y | float | The Y coordinate (in world units) of the top left corner of the rendered shape. |
+| scale | float | The scale for rendering the shape (1.0 is 100%). |
 
 ### ReturnValue
 

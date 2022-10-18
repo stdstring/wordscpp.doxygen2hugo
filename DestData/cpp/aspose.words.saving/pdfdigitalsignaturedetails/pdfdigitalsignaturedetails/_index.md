@@ -27,10 +27,10 @@ Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(co
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| certificateHolder | `-` | A certificate holder which contains the certificate itself. |
-| reason | `-` | The reason for signing. |
-| location | `-` | The location of signing. |
-| signatureDate | `-` | The date and time of signing. |
+| certificateHolder | const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\& | A certificate holder which contains the certificate itself. |
+| reason | const System::String\& | The reason for signing. |
+| location | const System::String\& | The location of signing. |
+| signatureDate | System::DateTime | The date and time of signing. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ static System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::T
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| percent | `-` | The value must be from 0 to 100. |
+| percent | double | The value must be from 0 to 100. |
 
 ## Examples
 

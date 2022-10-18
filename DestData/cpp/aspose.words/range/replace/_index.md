@@ -18,8 +18,8 @@ int32_t Aspose::Words::Range::Replace(const System::SharedPtr<System::Text::Regu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | `-` | A regular expression pattern used to find matches. |
-| replacement | `-` | A string to replace all occurrences of pattern. |
+| pattern | const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\& | A regular expression pattern used to find matches. |
+| replacement | const System::String\& | A string to replace all occurrences of pattern. |
 
 ### ReturnValue
 
@@ -68,9 +68,9 @@ int32_t Aspose::Words::Range::Replace(const System::SharedPtr<System::Text::Regu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | `-` | A regular expression pattern used to find matches. |
-| replacement | `-` | A string to replace all occurrences of pattern. |
-| options | `-` | [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/) object to specify additional options. |
+| pattern | const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\& | A regular expression pattern used to find matches. |
+| replacement | const System::String\& | A string to replace all occurrences of pattern. |
+| options | const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\& | [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/) object to specify additional options. |
 
 ### ReturnValue
 
@@ -231,8 +231,8 @@ int32_t Aspose::Words::Range::Replace(const System::String &pattern, const Syste
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | `-` | A string to be replaced. |
-| replacement | `-` | A string to replace all occurrences of pattern. |
+| pattern | const System::String\& | A string to be replaced. |
+| replacement | const System::String\& | A string to replace all occurrences of pattern. |
 
 ### ReturnValue
 
@@ -320,9 +320,9 @@ int32_t Aspose::Words::Range::Replace(const System::String &pattern, const Syste
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | `-` | A string to be replaced. |
-| replacement | `-` | A string to replace all occurrences of pattern. |
-| options | `-` | [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/) object to specify additional options. |
+| pattern | const System::String\& | A string to be replaced. |
+| replacement | const System::String\& | A string to replace all occurrences of pattern. |
+| options | const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\& | [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/) object to specify additional options. |
 
 ### ReturnValue
 

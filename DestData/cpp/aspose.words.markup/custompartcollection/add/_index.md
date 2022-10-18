@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomPartCollection::Add(const System::SharedPtr<As
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| part | `-` | The item to add. |
+| part | const System::SharedPtr\<Aspose::Words::Markup::CustomPart\>\& | The item to add. |
 
 ## Examples
 

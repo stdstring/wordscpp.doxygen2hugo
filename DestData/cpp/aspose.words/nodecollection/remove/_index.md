@@ -18,7 +18,7 @@ void Aspose::Words::NodeCollection::Remove(const System::SharedPtr<Aspose::Words
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | `-` | The node to remove. |
+| node | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to remove. |
 
 ## Examples
 

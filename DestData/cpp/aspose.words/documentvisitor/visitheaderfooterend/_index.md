@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitHeader
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| headerFooter | `-` | The object that is being visited. |
+| headerFooter | System::SharedPtr\<Aspose::Words::HeaderFooter\> | The object that is being visited. |
 
 ### ReturnValue
 

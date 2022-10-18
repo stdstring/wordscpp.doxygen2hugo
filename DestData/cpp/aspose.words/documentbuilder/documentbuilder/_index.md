@@ -27,7 +27,7 @@ Aspose::Words::DocumentBuilder::DocumentBuilder(const System::SharedPtr<Aspose::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The [Document](../../document/) object to attach to. |
+| doc | const System::SharedPtr\<Aspose::Words::Document\>\& | The [Document](../../document/) object to attach to. |
 
 ## Examples
 

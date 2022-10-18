@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::Tables::RowCollecti
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection. |
+| index | int32_t | An index into the collection. |
 
 The index is zero-based.
 

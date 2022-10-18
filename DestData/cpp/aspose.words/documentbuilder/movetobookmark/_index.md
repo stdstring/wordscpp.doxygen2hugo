@@ -18,7 +18,7 @@ bool Aspose::Words::DocumentBuilder::MoveToBookmark(const System::String &bookma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | `-` | The name of the bookmark to move the cursor to. |
+| bookmarkName | const System::String\& | The name of the bookmark to move the cursor to. |
 
 ### ReturnValue
 
@@ -98,9 +98,9 @@ bool Aspose::Words::DocumentBuilder::MoveToBookmark(const System::String &bookma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | `-` | The name of the bookmark to move the cursor to. |
-| isStart | `-` | When true, moves the cursor to the beginning of the bookmark. When false, moves the cursor to the end of the bookmark. |
-| isAfter | `-` | When true, moves the cursor to be after the bookmark start or end position. When false, moves the cursor to be before the bookmark start or end position. |
+| bookmarkName | const System::String\& | The name of the bookmark to move the cursor to. |
+| isStart | bool | When true, moves the cursor to the beginning of the bookmark. When false, moves the cursor to the end of the bookmark. |
+| isAfter | bool | When true, moves the cursor to be after the bookmark start or end position. When false, moves the cursor to be before the bookmark start or end position. |
 
 ### ReturnValue
 

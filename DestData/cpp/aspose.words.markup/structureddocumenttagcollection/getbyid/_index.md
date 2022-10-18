@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | `-` | The structured document tag identifier. |
+| id | int32_t | The structured document tag identifier. |
 
 Returns null if the structured document tag with the specified identifier cannot be found.
 

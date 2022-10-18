@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::HeaderFooter> Aspose::Words::HeaderFooterCollec
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| headerFooterType | `-` | A [HeaderFooterType](../../headerfootertype/) value that specifies the type of the header/footer to retrieve. |
+| headerFooterType | Aspose::Words::HeaderFooterType | A [HeaderFooterType](../../headerfootertype/) value that specifies the type of the header/footer to retrieve. |
 
 ## Examples
 
@@ -91,7 +91,7 @@ System::SharedPtr<Aspose::Words::HeaderFooter> Aspose::Words::HeaderFooterCollec
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection. |
+| index | int32_t | An index into the collection. |
 
 The index is zero-based.
 

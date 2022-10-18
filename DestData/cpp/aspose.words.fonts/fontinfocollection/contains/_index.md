@@ -18,7 +18,7 @@ bool Aspose::Words::Fonts::FontInfoCollection::Contains(const System::String &na
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-insensitive name of the font to locate. |
+| name | const System::String\& | Case-insensitive name of the font to locate. |
 
 ### ReturnValue
 

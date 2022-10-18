@@ -18,7 +18,7 @@ bool Aspose::Words::BookmarkEnd::Accept(System::SharedPtr<Aspose::Words::Documen
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | `-` | The visitor that will visit the node. |
+| visitor | System::SharedPtr\<Aspose::Words::DocumentVisitor\> | The visitor that will visit the node. |
 
 ### ReturnValue
 

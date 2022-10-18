@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::InsertBefor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newChild | `-` | The [Node](../../node/) to insert. |
-| refChild | `-` | The [Node](../../node/) that is the reference node. The newChild is placed before this node. |
+| newChild | const System::SharedPtr\<Aspose::Words::Node\>\& | The [Node](../../node/) to insert. |
+| refChild | const System::SharedPtr\<Aspose::Words::Node\>\& | The [Node](../../node/) that is the reference node. The newChild is placed before this node. |
 
 ### ReturnValue
 

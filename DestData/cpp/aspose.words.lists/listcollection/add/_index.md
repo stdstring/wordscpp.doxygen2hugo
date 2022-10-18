@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| listTemplate | `-` | The template of the list. |
+| listTemplate | Aspose::Words::Lists::ListTemplate | The template of the list. |
 
 ### ReturnValue
 
@@ -157,7 +157,7 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| listStyle | `-` | The list style. |
+| listStyle | const System::SharedPtr\<Aspose::Words::Style\>\& | The list style. |
 
 ### ReturnValue
 

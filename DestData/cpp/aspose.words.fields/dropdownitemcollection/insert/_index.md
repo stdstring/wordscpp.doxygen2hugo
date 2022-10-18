@@ -18,8 +18,8 @@ void Aspose::Words::Fields::DropDownItemCollection::Insert(int32_t index, const 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index at which value is inserted. |
-| value | `-` | The string to insert. |
+| index | int32_t | The zero-based index at which value is inserted. |
+| value | const System::String\& | The string to insert. |
 
 ## Examples
 

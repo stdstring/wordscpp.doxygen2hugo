@@ -18,8 +18,8 @@ void Aspose::Words::VariableCollection::Add(const System::String &name, const Sy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the variable to add. |
-| value | `-` | The value of the variable. The value cannot be null, if value is null empty string will be used instead. |
+| name | const System::String\& | The case-insensitive name of the variable to add. |
+| value | const System::String\& | The value of the variable. The value cannot be null, if value is null empty string will be used instead. |
 
 ## Examples
 

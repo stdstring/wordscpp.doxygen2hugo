@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGroupS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| groupShape | `-` | The object that is being visited. |
+| groupShape | System::SharedPtr\<Aspose::Words::Drawing::GroupShape\> | The object that is being visited. |
 
 ### ReturnValue
 

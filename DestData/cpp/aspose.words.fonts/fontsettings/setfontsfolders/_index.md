@@ -18,8 +18,8 @@ void Aspose::Words::Fonts::FontSettings::SetFontsFolders(const System::ArrayPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontsFolders | `-` | An array of folders that contain TrueType fonts. |
-| recursive | `-` | True to scan the specified folders for fonts recursively. |
+| fontsFolders | const System::ArrayPtr\<System::String\>\& | An array of folders that contain TrueType fonts. |
+| recursive | bool | True to scan the specified folders for fonts recursively. |
 
 By default, Aspose.Words looks for fonts installed to the system.
 

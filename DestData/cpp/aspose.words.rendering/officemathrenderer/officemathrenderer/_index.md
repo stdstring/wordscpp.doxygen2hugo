@@ -18,7 +18,7 @@ Aspose::Words::Rendering::OfficeMathRenderer::OfficeMathRenderer(const System::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| math | `-` | The OfficeMath object that you want to render. |
+| math | const System::SharedPtr\<Aspose::Words::Math::OfficeMath\>\& | The OfficeMath object that you want to render. |
 
 ## Examples
 

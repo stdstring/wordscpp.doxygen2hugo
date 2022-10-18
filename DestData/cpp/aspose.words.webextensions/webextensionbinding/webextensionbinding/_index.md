@@ -18,9 +18,9 @@ Aspose::Words::WebExtensions::WebExtensionBinding::WebExtensionBinding(const Sys
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | `-` | Binding identifier. |
-| bindingType | `-` | Binding type. |
-| appRef | `-` | Binding key used to map the binding entry in this list with the bound data in the document. |
+| id | const System::String\& | Binding identifier. |
+| bindingType | Aspose::Words::WebExtensions::WebExtensionBindingType | Binding type. |
+| appRef | const System::String\& | Binding key used to map the binding entry in this list with the bound data in the document. |
 
 ## Examples
 

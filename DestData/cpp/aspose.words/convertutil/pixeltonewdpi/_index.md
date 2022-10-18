@@ -18,9 +18,9 @@ static int32_t Aspose::Words::ConvertUtil::PixelToNewDpi(double pixels, double o
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixels | `-` | The value to convert. |
-| oldDpi | `-` | The current dpi (dots per inch) resolution. |
-| newDpi | `-` | The new dpi (dots per inch) resolution. |
+| pixels | double | The value to convert. |
+| oldDpi | double | The current dpi (dots per inch) resolution. |
+| newDpi | double | The new dpi (dots per inch) resolution. |
 
 ## Examples
 

@@ -18,8 +18,8 @@ void Aspose::Words::HeaderFooterCollection::LinkToPrevious(Aspose::Words::Header
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| headerFooterType | `-` | A [HeaderFooterType](../../headerfootertype/) value that specifies the header or footer to link/unlink. |
-| isLinkToPrevious | `-` | True to link the header or footer to the previous section; false to unlink. |
+| headerFooterType | Aspose::Words::HeaderFooterType | A [HeaderFooterType](../../headerfootertype/) value that specifies the header or footer to link/unlink. |
+| isLinkToPrevious | bool | True to link the header or footer to the previous section; false to unlink. |
 
 If the header or footer of the specified type does not exist, creates it automatically.
 
@@ -103,7 +103,7 @@ void Aspose::Words::HeaderFooterCollection::LinkToPrevious(bool isLinkToPrevious
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| isLinkToPrevious | `-` | True to link the headers and footers to the previous section; false to unlink them. |
+| isLinkToPrevious | bool | True to link the headers and footers to the previous section; false to unlink them. |
 
 If any of the headers or footers do not exist, creates them automatically.
 

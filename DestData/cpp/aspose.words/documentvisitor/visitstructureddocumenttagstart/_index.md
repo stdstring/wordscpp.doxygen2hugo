@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitStruct
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sdt | `-` | The object that is being visited. |
+| sdt | System::SharedPtr\<Aspose::Words::Markup::StructuredDocumentTag\> | The object that is being visited. |
 
 ### ReturnValue
 

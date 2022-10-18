@@ -18,7 +18,7 @@ void Aspose::Words::Watermark::SetImage(const System::SharedPtr<System::Drawing:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | `-` | Image that is displayed as a watermark. |
+| image | const System::SharedPtr\<System::Drawing::Image\>\& | Image that is displayed as a watermark. |
 
 
 ## Watermark.SetImage(const System::SharedPtr\<System::Drawing::Image\>\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
@@ -33,8 +33,8 @@ void Aspose::Words::Watermark::SetImage(const System::SharedPtr<System::Drawing:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | `-` | Image that is displayed as a watermark. |
-| options | `-` | Defines additional options for the image watermark. |
+| image | const System::SharedPtr\<System::Drawing::Image\>\& | Image that is displayed as a watermark. |
+| options | const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\& | Defines additional options for the image watermark. |
 
 ## Examples
 
@@ -68,7 +68,7 @@ void Aspose::Words::Watermark::SetImage(const System::String &imagePath, const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imagePath | `-` | Path to the image file that is displayed as a watermark. |
-| options | `-` | Defines additional options for the image watermark. |
+| imagePath | const System::String\& | Path to the image file that is displayed as a watermark. |
+| options | const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\& | Defines additional options for the image watermark. |
 
 

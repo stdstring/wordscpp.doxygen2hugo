@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signatureLineOptions | `-` | The object that stores parameters of creating signature line. |
+| signatureLineOptions | const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\& | The object that stores parameters of creating signature line. |
 
 ### ReturnValue
 
@@ -85,12 +85,12 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signatureLineOptions | `-` | The object that stores parameters of creating signature line. |
-| horzPos | `-` | Specifies where the distance to the signature line is measured from. |
-| left | `-` | Distance in points from the origin to the left side of the signature line. |
-| vertPos | `-` | Specifies where the distance to the signature line measured from. |
-| top | `-` | Distance in points from the origin to the top side of the signature line. |
-| wrapType | `-` | Specifies how to wrap text around the signature line. |
+| signatureLineOptions | const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\& | The object that stores parameters of creating signature line. |
+| horzPos | Aspose::Words::Drawing::RelativeHorizontalPosition | Specifies where the distance to the signature line is measured from. |
+| left | double | Distance in points from the origin to the left side of the signature line. |
+| vertPos | Aspose::Words::Drawing::RelativeVerticalPosition | Specifies where the distance to the signature line measured from. |
+| top | double | Distance in points from the origin to the top side of the signature line. |
+| wrapType | Aspose::Words::Drawing::WrapType | Specifies how to wrap text around the signature line. |
 
 ### ReturnValue
 

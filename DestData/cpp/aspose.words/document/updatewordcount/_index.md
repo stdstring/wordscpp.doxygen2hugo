@@ -69,7 +69,7 @@ void Aspose::Words::Document::UpdateWordCount(bool updateLinesCount)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| updateLinesCount | `-` | True if number of lines in the document shall be calculated. |
+| updateLinesCount | bool | True if number of lines in the document shall be calculated. |
 
 ## Examples
 

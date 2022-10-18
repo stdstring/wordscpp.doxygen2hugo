@@ -18,7 +18,7 @@ bool Aspose::Words::Font::HasDmlEffect(Aspose::Words::TextDmlEffect dmlEffectTyp
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dmlEffectType | `-` | DrawingML text effect type. |
+| dmlEffectType | Aspose::Words::TextDmlEffect | DrawingML text effect type. |
 
 ### ReturnValue
 

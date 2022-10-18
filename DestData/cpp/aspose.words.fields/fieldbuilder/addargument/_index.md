@@ -204,7 +204,7 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | `-` | The argument value. |
+| argument | const System::String\& | The argument value. |
 
 ## Examples
 
@@ -301,7 +301,7 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | `-` | The argument value. |
+| argument | double | The argument value. |
 
 ## Examples
 
@@ -398,7 +398,7 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | `-` | The argument value. |
+| argument | int32_t | The argument value. |
 
 ## Examples
 

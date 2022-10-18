@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Revision> Aspose::Words::RevisionCollection::id
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection. |
+| index | int32_t | An index into the collection. |
 
 The index is zero-based.
 

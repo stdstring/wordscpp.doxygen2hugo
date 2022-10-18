@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBuilder::InsertDoc
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | `-` | Source document for inserting. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
+| srcDoc | const System::SharedPtr\<Aspose::Words::Document\>\& | Source document for inserting. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
 
 ### ReturnValue
 
@@ -57,9 +57,9 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBuilder::InsertDoc
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | `-` | Source document for inserting. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
-| importFormatOptions | `-` | Allows to specify options that affect formatting of a result document. |
+| srcDoc | const System::SharedPtr\<Aspose::Words::Document\>\& | Source document for inserting. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
+| importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Allows to specify options that affect formatting of a result document. |
 
 ### ReturnValue
 

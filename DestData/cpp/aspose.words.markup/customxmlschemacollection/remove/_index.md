@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomXmlSchemaCollection::Remove(const System::Stri
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-sensitive value to remove. |
+| name | const System::String\& | The case-sensitive value to remove. |
 
 ## Examples
 

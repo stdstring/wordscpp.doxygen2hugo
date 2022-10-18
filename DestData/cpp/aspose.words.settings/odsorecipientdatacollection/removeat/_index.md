@@ -18,6 +18,6 @@ void Aspose::Words::Settings::OdsoRecipientDataCollection::RemoveAt(int32_t inde
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the element. |
+| index | int32_t | The zero-based index of the element. |
 
 

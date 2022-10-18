@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcNode | `-` | The node being imported. |
-| isImportChildren | `-` | True to import all child nodes recursively; otherwise, false. |
+| srcNode | const System::SharedPtr\<Aspose::Words::Node\>\& | The node being imported. |
+| isImportChildren | bool | True to import all child nodes recursively; otherwise, false. |
 
 ### ReturnValue
 
@@ -76,9 +76,9 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcNode | `-` | The node to imported. |
-| isImportChildren | `-` | True to import all child nodes recursively; otherwise, false. |
-| importFormatMode | `-` | Specifies how to merge style formatting that clashes. |
+| srcNode | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to imported. |
+| isImportChildren | bool | True to import all child nodes recursively; otherwise, false. |
+| importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
 
 ### ReturnValue
 

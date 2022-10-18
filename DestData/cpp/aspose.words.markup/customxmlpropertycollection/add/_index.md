@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomXmlPropertyCollection::Add(const System::Share
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | `-` | The property to add. |
+| property | const System::SharedPtr\<Aspose::Words::Markup::CustomXmlProperty\>\& | The property to add. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitOffice
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| officeMath | `-` | The object that is being visited. |
+| officeMath | System::SharedPtr\<Aspose::Words::Math::OfficeMath\> | The object that is being visited. |
 
 ### ReturnValue
 

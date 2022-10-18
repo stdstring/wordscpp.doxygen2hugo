@@ -77,7 +77,7 @@ bool Aspose::Words::Document::Unprotect(const System::String &password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| password | `-` | The password to unprotect the document with. |
+| password | const System::String\& | The password to unprotect the document with. |
 
 ### ReturnValue
 

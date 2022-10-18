@@ -18,7 +18,7 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::SharedPtr<System:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | `-` | The image object. |
+| image | const System::SharedPtr\<System::Drawing::Image\>\& | The image object. |
 
 ## Examples
 
@@ -67,7 +67,7 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::SharedPtr<System:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | `-` | The stream that contains the image. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream that contains the image. |
 
 ## Examples
 
@@ -116,7 +116,7 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::String &fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The image file. Can be a file name or a URL. |
+| fileName | const System::String\& | The image file. Can be a file name or a URL. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ bool Aspose::Words::Properties::DocumentPropertyCollection::Contains(const Syste
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the property. |
+| name | const System::String\& | The case-insensitive name of the property. |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::RemoveChild
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oldChild | `-` | The node to remove. |
+| oldChild | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to remove. |
 
 ### ReturnValue
 

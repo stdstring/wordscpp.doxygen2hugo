@@ -18,7 +18,7 @@ void Aspose::Words::Fonts::FontSettings::SetFontsSources(const System::ArrayPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sources | `-` | An array of sources that contain TrueType fonts. |
+| sources | const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Fonts::FontSourceBase\>\>\& | An array of sources that contain TrueType fonts. |
 
 By default, Aspose.Words looks for fonts installed to the system.
 
@@ -87,8 +87,8 @@ void Aspose::Words::Fonts::FontSettings::SetFontsSources(const System::ArrayPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sources | `-` | An array of sources that contain TrueType fonts. |
-| cacheInputStream | `-` | Input stream with saved font search cache. |
+| sources | const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Fonts::FontSourceBase\>\>\& | An array of sources that contain TrueType fonts. |
+| cacheInputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input stream with saved font search cache. |
 
 [Loading](../../../aspose.words.loading/) previously saved font search cache will speed up the font cache initialization process. It is especially useful when access to font sources is complicated (e.g. when fonts are loaded via network).
 

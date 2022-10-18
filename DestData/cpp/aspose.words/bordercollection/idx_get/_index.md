@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::idx_ge
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| borderType | `-` | A [BorderType](../../bordertype/) value that specifies the type of the border to retrieve. |
+| borderType | Aspose::Words::BorderType | A [BorderType](../../bordertype/) value that specifies the type of the border to retrieve. |
 
 Note that not all borders are present for different document elements. This method throws an exception if you request a border not applicable to the current object.
 
@@ -60,7 +60,7 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::idx_ge
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the border to retrieve. |
+| index | int32_t | Zero-based index of the border to retrieve. |
 
 ## Examples
 

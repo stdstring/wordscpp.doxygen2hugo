@@ -18,14 +18,14 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapeType | `-` | The shape type to insert into the document |
-| horzPos | `-` | Specifies where the horizontal distance to the shape is measured from. |
-| left | `-` | Distance in points from the origin to the left side of the shape. |
-| vertPos | `-` | Specifies where the vertical distance to the shape is measured from. |
-| top | `-` | Distance in points from the origin to the top side of the shape. |
-| width | `-` | The width of the shape in points. |
-| height | `-` | The width of the shape in points. |
-| wrapType | `-` | Specifies how to wrap text around the shape. |
+| shapeType | Aspose::Words::Drawing::ShapeType | The shape type to insert into the document |
+| horzPos | Aspose::Words::Drawing::RelativeHorizontalPosition | Specifies where the horizontal distance to the shape is measured from. |
+| left | double | Distance in points from the origin to the left side of the shape. |
+| vertPos | Aspose::Words::Drawing::RelativeVerticalPosition | Specifies where the vertical distance to the shape is measured from. |
+| top | double | Distance in points from the origin to the top side of the shape. |
+| width | double | The width of the shape in points. |
+| height | double | The width of the shape in points. |
+| wrapType | Aspose::Words::Drawing::WrapType | Specifies how to wrap text around the shape. |
 
 ### ReturnValue
 
@@ -70,9 +70,9 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapeType | `-` | The shape type to insert into the document. |
-| width | `-` | The width of the shape in points. |
-| height | `-` | The height of the shape in points. |
+| shapeType | Aspose::Words::Drawing::ShapeType | The shape type to insert into the document. |
+| width | double | The width of the shape in points. |
+| height | double | The height of the shape in points. |
 
 ### ReturnValue
 

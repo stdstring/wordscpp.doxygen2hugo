@@ -54,7 +54,7 @@ Aspose::Words::Saving::HtmlSaveOptions::HtmlSaveOptions(Aspose::Words::SaveForma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | Can be **Html**, **Mhtml**, **Epub** or **Azw3**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be **Html**, **Mhtml**, **Epub** or **Azw3**. |
 
 ## Examples
 

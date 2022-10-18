@@ -18,7 +18,7 @@ void Aspose::Words::Fields::FormFieldCollection::Remove(const System::String &fo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formField | `-` | The case-insensitive name of the form field to remove. |
+| formField | const System::String\& | The case-insensitive name of the form field to remove. |
 
 ## Examples
 

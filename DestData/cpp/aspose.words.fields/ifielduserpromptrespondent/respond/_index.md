@@ -18,8 +18,8 @@ virtual System::String Aspose::Words::Fields::IFieldUserPromptRespondent::Respon
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| promptText | `-` | Prompt text (i.e. title of the prompt window). |
-| defaultResponse | `-` | Default user response (i.e. initial value contained in the prompt window). |
+| promptText | System::String | Prompt text (i.e. title of the prompt window). |
+| defaultResponse | System::String | Default user response (i.e. initial value contained in the prompt window). |
 
 ### ReturnValue
 

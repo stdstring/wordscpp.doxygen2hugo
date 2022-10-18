@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitRowEnd
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| row | `-` | The object that is being visited. |
+| row | System::SharedPtr\<Aspose::Words::Tables::Row\> | The object that is being visited. |
 
 ### ReturnValue
 

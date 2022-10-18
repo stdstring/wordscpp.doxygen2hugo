@@ -18,8 +18,8 @@ Aspose::Words::Drawing::GradientStop::GradientStop(System::Drawing::Color color,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | `-` | Represents the color of the gradient stop. |
-| position | `-` | Represents the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
+| color | System::Drawing::Color | Represents the color of the gradient stop. |
+| position | double | Represents the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
 
 ## Examples
 
@@ -86,9 +86,9 @@ Aspose::Words::Drawing::GradientStop::GradientStop(System::Drawing::Color color,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | `-` | Represents the color of the gradient stop. |
-| position | `-` | Represents the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
-| transparency | `-` | Represents the transparency of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
+| color | System::Drawing::Color | Represents the color of the gradient stop. |
+| position | double | Represents the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
+| transparency | double | Represents the transparency of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
 
 ## Examples
 

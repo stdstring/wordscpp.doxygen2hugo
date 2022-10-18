@@ -18,9 +18,9 @@ Aspose::Words::Markup::CustomXmlProperty::CustomXmlProperty(const System::String
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the property. Cannot be null. |
-| uri | `-` | The namespace URI of the property. Cannot be null. |
-| value | `-` | The value of the property. Cannot be null. |
+| name | const System::String\& | The name of the property. Cannot be null. |
+| uri | const System::String\& | The namespace URI of the property. Cannot be null. |
+| value | const System::String\& | The value of the property. Cannot be null. |
 
 ## Examples
 

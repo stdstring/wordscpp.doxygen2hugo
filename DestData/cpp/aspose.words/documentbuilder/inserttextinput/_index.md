@@ -18,11 +18,11 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the form field. Can be an empty string. |
-| type | `-` | Specifies the type of the text form field. |
-| format | `-` | Format string used to format the value of the form field. |
-| fieldValue | `-` | Text that will be shown in the field. |
-| maxLength | `-` | Maximum length the user can enter into the form field. Set to zero for unlimited length. |
+| name | const System::String\& | The name of the form field. Can be an empty string. |
+| type | Aspose::Words::Fields::TextFormFieldType | Specifies the type of the text form field. |
+| format | const System::String\& | Format string used to format the value of the form field. |
+| fieldValue | const System::String\& | Text that will be shown in the field. |
+| maxLength | int32_t | Maximum length the user can enter into the form field. Set to zero for unlimited length. |
 
 ### ReturnValue
 

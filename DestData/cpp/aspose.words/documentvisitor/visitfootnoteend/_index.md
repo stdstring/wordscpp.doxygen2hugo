@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFootno
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| footnote | `-` | The object that is being visited. |
+| footnote | System::SharedPtr\<Aspose::Words::Notes::Footnote\> | The object that is being visited. |
 
 ### ReturnValue
 

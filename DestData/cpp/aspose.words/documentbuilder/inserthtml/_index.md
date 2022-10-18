@@ -18,7 +18,7 @@ void Aspose::Words::DocumentBuilder::InsertHtml(const System::String &html)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| html | `-` | An HTML string to insert into the document. |
+| html | const System::String\& | An HTML string to insert into the document. |
 
 ## Examples
 
@@ -116,8 +116,8 @@ void Aspose::Words::DocumentBuilder::InsertHtml(const System::String &html, Aspo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| html | `-` | An HTML string to insert into the document. |
-| options | `-` | Options that are used when HTML string is inserted. |
+| html | const System::String\& | An HTML string to insert into the document. |
+| options | Aspose::Words::HtmlInsertOptions | Options that are used when HTML string is inserted. |
 
 ## Examples
 
@@ -158,8 +158,8 @@ void Aspose::Words::DocumentBuilder::InsertHtml(const System::String &html, bool
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| html | `-` | An HTML string to insert into the document. |
-| useBuilderFormatting | `-` | A value indicating whether formatting specified in [DocumentBuilder](../) is used as base formatting for text imported from HTML. |
+| html | const System::String\& | An HTML string to insert into the document. |
+| useBuilderFormatting | bool | A value indicating whether formatting specified in [DocumentBuilder](../) is used as base formatting for text imported from HTML. |
 
 You can use this method to insert an HTML fragment or whole HTML document.
 

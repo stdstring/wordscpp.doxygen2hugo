@@ -18,7 +18,7 @@ void Aspose::Words::Watermark::SetText(const System::String &text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | `-` | Text that is displayed as a watermark. |
+| text | const System::String\& | Text that is displayed as a watermark. |
 
 ## Examples
 
@@ -64,8 +64,8 @@ void Aspose::Words::Watermark::SetText(const System::String &text, const System:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | `-` | Text that is displayed as a watermark. |
-| options | `-` | Defines additional options for the text watermark. |
+| text | const System::String\& | Text that is displayed as a watermark. |
+| options | const System::SharedPtr\<Aspose::Words::TextWatermarkOptions\>\& | Defines additional options for the text watermark. |
 
 ## Examples
 

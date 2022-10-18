@@ -18,7 +18,7 @@ int32_t Aspose::Words::Properties::DocumentPropertyCollection::IndexOf(const Sys
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the property. |
+| name | const System::String\& | The case-insensitive name of the property. |
 
 ### ReturnValue
 

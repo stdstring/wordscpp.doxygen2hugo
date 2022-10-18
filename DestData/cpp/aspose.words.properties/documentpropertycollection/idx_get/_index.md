@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the [DocumentProperty](../../documentproperty/) to retrieve. |
+| index | int32_t | Zero-based index of the [DocumentProperty](../../documentproperty/) to retrieve. |
 
 ## Examples
 
@@ -56,7 +56,7 @@ virtual System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::W
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the property to retrieve. |
+| name | System::String | The case-insensitive name of the property to retrieve. |
 
 Returns null if a property with the specified name is not found.
 

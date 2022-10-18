@@ -60,7 +60,7 @@ Aspose::Words::Saving::OoxmlSaveOptions::OoxmlSaveOptions(Aspose::Words::SaveFor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | Can be **Docx**, **Docm**, **Dotx**, **Dotm** or **FlatOpc**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be **Docx**, **Docm**, **Dotx**, **Dotm** or **FlatOpc**. |
 
 ## Examples
 

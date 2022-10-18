@@ -18,7 +18,7 @@ static System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::T
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| points | `-` | The value must be from 0 to 22 inches (22 * 72 points). |
+| points | double | The value must be from 0 to 22 inches (22 * 72 points). |
 
 ## Examples
 

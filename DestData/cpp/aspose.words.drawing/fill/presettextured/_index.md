@@ -18,7 +18,7 @@ void Aspose::Words::Drawing::Fill::PresetTextured(Aspose::Words::Drawing::Preset
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| presetTexture | `-` | [PresetTexture](../../presettexture/) |
+| presetTexture | Aspose::Words::Drawing::PresetTexture | [PresetTexture](../../presettexture/) |
 
 ## Examples
 

@@ -18,7 +18,7 @@ void Aspose::Words::Fields::GeneralFormatCollection::Remove(Aspose::Words::Field
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | `-` | A general format. |
+| item | Aspose::Words::Fields::GeneralFormat | A general format. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | `-` | Path to font file. |
+| filePath | const System::String\& | Path to font file. |
 
 ## Examples
 
@@ -50,8 +50,8 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | `-` | Path to font file. |
-| priority | `-` | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
+| filePath | const System::String\& | Path to font file. |
+| priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 
 ## Examples
 
@@ -83,8 +83,8 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | `-` | Path to font file. |
-| priority | `-` | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
-| cacheKey | `-` | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
+| filePath | const System::String\& | Path to font file. |
+| priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
+| cacheKey | const System::String\& | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
 
 

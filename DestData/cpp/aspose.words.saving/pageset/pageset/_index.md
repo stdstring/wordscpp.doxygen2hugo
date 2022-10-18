@@ -18,7 +18,7 @@ Aspose::Words::Saving::PageSet::PageSet(const System::ArrayPtr<int32_t> &pages)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pages | `-` | Zero-based indices of pages. |
+| pages | const System::ArrayPtr\<int32_t\>\& | Zero-based indices of pages. |
 
 ## Examples
 
@@ -60,7 +60,7 @@ Aspose::Words::Saving::PageSet::PageSet(const System::ArrayPtr<System::SharedPtr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ranges | `-` | Array of page ranges. |
+| ranges | const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Saving::PageRange\>\>\& | Array of page ranges. |
 
 ## Examples
 
@@ -91,6 +91,6 @@ Aspose::Words::Saving::PageSet::PageSet(int32_t page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | `-` | Zero-based index of the page. |
+| page | int32_t | Zero-based index of the page. |
 
 

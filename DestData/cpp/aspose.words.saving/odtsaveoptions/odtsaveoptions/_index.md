@@ -44,7 +44,7 @@ Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions(Aspose::Words::SaveFormat 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | Can be **Odt** or **Ott**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be **Odt** or **Ott**. |
 
 ## Examples
 

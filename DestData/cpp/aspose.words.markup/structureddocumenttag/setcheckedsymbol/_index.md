@@ -18,8 +18,8 @@ void Aspose::Words::Markup::StructuredDocumentTag::SetCheckedSymbol(int32_t char
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| characterCode | `-` | The character code for the specified symbol. |
-| fontName | `-` | The name of the font that contains the symbol. |
+| characterCode | int32_t | The character code for the specified symbol. |
+| fontName | const System::String\& | The name of the font that contains the symbol. |
 
 Accessing this method will only work for **Checkbox** SDT types.
 

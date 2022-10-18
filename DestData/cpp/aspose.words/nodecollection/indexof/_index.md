@@ -18,7 +18,7 @@ int32_t Aspose::Words::NodeCollection::IndexOf(const System::SharedPtr<Aspose::W
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | `-` | The node to locate. |
+| node | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to locate. |
 
 ### ReturnValue
 

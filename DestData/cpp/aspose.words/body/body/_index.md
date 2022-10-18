@@ -18,7 +18,7 @@ Aspose::Words::Body::Body(const System::SharedPtr<Aspose::Words::DocumentBase> &
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 
 When **Body** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Document::ExtractPages
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the first page to extract. |
-| count | `-` | Number of pages to be extracted. |
+| index | int32_t | The zero-based index of the first page to extract. |
+| count | int32_t | Number of pages to be extracted. |
 
 ## Examples
 

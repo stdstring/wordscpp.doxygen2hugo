@@ -18,8 +18,8 @@ void Aspose::Words::Fonts::FontSettings::SetFontsFolder(const System::String &fo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFolder | `-` | The folder that contains TrueType fonts. |
-| recursive | `-` | True to scan the specified folders for fonts recursively. |
+| fontFolder | const System::String\& | The folder that contains TrueType fonts. |
+| recursive | bool | True to scan the specified folders for fonts recursively. |
 
 ## Examples
 

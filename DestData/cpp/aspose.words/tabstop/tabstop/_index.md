@@ -71,9 +71,9 @@ Aspose::Words::TabStop::TabStop(double position, Aspose::Words::TabAlignment ali
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | `-` | The position of the tab stop in points. |
-| alignment | `-` | A [TabAlignment](../../tabalignment/) value that specifies the alignment of text at this tab stop. |
-| leader | `-` | A [TabLeader](../../tableader/) value that specifies the type of the leader line displayed under the tab character. |
+| position | double | The position of the tab stop in points. |
+| alignment | Aspose::Words::TabAlignment | A [TabAlignment](../../tabalignment/) value that specifies the alignment of text at this tab stop. |
+| leader | Aspose::Words::TabLeader | A [TabLeader](../../tableader/) value that specifies the type of the leader line displayed under the tab character. |
 
 ## Examples
 

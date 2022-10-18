@@ -18,8 +18,8 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::Add(Aspo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | `-` | A [StyleType](../../styletype/) value that specifies the type of the style to create. |
-| name | `-` | Case sensitive name of the style to create. |
+| type | Aspose::Words::StyleType | A [StyleType](../../styletype/) value that specifies the type of the style to create. |
+| name | const System::String\& | Case sensitive name of the style to create. |
 
 You can create character, paragraph or a list style.
 

@@ -18,7 +18,7 @@ int32_t Aspose::Words::Markup::CustomXmlPropertyCollection::IndexOfKey(const Sys
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-sensitive name of the property. |
+| name | const System::String\& | The case-sensitive name of the property. |
 
 ### ReturnValue
 

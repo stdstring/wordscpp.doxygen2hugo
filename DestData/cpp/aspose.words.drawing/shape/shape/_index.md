@@ -18,8 +18,8 @@ Aspose::Words::Drawing::Shape::Shape(const System::SharedPtr<Aspose::Words::Docu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
-| shapeType | `-` | The type of the shape to create. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+| shapeType | Aspose::Words::Drawing::ShapeType | The type of the shape to create. |
 
 You should specify desired shape properties after you created a shape.
 

@@ -62,7 +62,7 @@ System::SharedPtr<Aspose::Words::Vba::VbaModule> Aspose::Words::Vba::VbaModuleCo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the module to retrieve. |
+| index | int32_t | Zero-based index of the module to retrieve. |
 
 ## Examples
 

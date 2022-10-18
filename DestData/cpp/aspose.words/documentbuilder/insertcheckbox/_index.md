@@ -18,9 +18,9 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the form field. Can be an empty string. The value longer than 20 characters will be truncated. |
-| checkedValue | `-` | Checked status of the checkbox form field. |
-| size | `-` | Specifies the size of the checkbox in points. Specify 0 for MS Word to calculate the size of the checkbox automatically. |
+| name | const System::String\& | The name of the form field. Can be an empty string. The value longer than 20 characters will be truncated. |
+| checkedValue | bool | Checked status of the checkbox form field. |
+| size | int32_t | Specifies the size of the checkbox in points. Specify 0 for MS Word to calculate the size of the checkbox automatically. |
 
 ### ReturnValue
 
@@ -70,10 +70,10 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The name of the form field. Can be an empty string. The value longer than 20 characters will be truncated. |
-| defaultValue | `-` | Default value of the checkbox form field. |
-| checkedValue | `-` | Current checked status of the checkbox form field. |
-| size | `-` | Specifies the size of the checkbox in points. Specify 0 for MS Word to calculate the size of the checkbox automatically. |
+| name | const System::String\& | The name of the form field. Can be an empty string. The value longer than 20 characters will be truncated. |
+| defaultValue | bool | Default value of the checkbox form field. |
+| checkedValue | bool | Current checked status of the checkbox form field. |
+| size | int32_t | Specifies the size of the checkbox in points. Specify 0 for MS Word to calculate the size of the checkbox automatically. |
 
 ### ReturnValue
 

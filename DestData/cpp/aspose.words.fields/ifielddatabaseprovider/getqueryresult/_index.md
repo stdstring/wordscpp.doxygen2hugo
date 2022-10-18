@@ -18,10 +18,10 @@ virtual System::SharedPtr<Aspose::Words::Fields::FieldDatabaseDataTable> Aspose:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The complete path and file name of the database specified in the \d field switch. |
-| connection | `-` | The connection to the data specified in the \c field switch. |
-| query | `-` | The set of SQL instructions that query the database specified in the \s field switch. |
-| field | `-` | The field being updated. |
+| fileName | System::String | The complete path and file name of the database specified in the \d field switch. |
+| connection | System::String | The connection to the data specified in the \c field switch. |
+| query | System::String | The set of SQL instructions that query the database specified in the \s field switch. |
+| field | System::SharedPtr\<Aspose::Words::Fields::FieldDatabase\> | The field being updated. |
 
 ### ReturnValue
 

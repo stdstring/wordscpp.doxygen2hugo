@@ -18,6 +18,6 @@ void Aspose::Words::Markup::StructuredDocumentTagCollection::Remove(int32_t id)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | `-` | The structured document tag identifier. |
+| id | int32_t | The structured document tag identifier. |
 
 

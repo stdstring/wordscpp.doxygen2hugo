@@ -18,7 +18,7 @@ bool Aspose::Words::VariableCollection::Contains(const System::String &name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-insensitive name of the document variable to locate. |
+| name | const System::String\& | Case-insensitive name of the document variable to locate. |
 
 ### ReturnValue
 

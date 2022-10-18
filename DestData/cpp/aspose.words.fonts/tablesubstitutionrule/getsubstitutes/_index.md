@@ -18,7 +18,7 @@ System::SharedPtr<System::Collections::Generic::IEnumerable<System::String>> Asp
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| originalFontName | `-` | Original font name. |
+| originalFontName | const System::String\& | Original font name. |
 
 ### ReturnValue
 

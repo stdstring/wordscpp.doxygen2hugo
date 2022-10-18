@@ -18,7 +18,7 @@ void Aspose::Words::Fonts::TableSubstitutionRule::Save(const System::SharedPtr<S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | `-` | Output stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output stream. |
 
 ## Examples
 
@@ -68,7 +68,7 @@ void Aspose::Words::Fonts::TableSubstitutionRule::Save(const System::String &fil
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | Output file name. |
+| fileName | const System::String\& | Output file name. |
 
 ## Examples
 

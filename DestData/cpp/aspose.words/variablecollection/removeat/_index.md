@@ -18,7 +18,7 @@ void Aspose::Words::VariableCollection::RemoveAt(int32_t index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero based index. |
+| index | int32_t | The zero based index. |
 
 ## Examples
 

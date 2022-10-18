@@ -18,7 +18,7 @@ static double Aspose::Words::ConvertUtil::MillimeterToPoint(double millimeters)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| millimeters | `-` | The value to convert. |
+| millimeters | double | The value to convert. |
 
 ## Examples
 

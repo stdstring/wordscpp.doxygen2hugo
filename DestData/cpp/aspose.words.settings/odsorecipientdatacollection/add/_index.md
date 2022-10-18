@@ -18,6 +18,6 @@ int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::Add(const System::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The object to add. Cannot be null. |
+| value | const System::SharedPtr\<Aspose::Words::Settings::OdsoRecipientData\>\& | The object to add. Cannot be null. |
 
 

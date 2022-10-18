@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| listId | `-` | The list identifier. |
+| listId | int32_t | The list identifier. |
 
 ### ReturnValue
 

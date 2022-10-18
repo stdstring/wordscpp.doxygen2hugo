@@ -18,7 +18,7 @@ Aspose::Words::Saving::ImageSaveOptions::ImageSaveOptions(Aspose::Words::SaveFor
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | Can be **Tiff**, **Png**, **Bmp**, **Emf**, **Jpeg** or **Svg**. **Png**, **Bmp**, **Jpeg** or **Svg**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be **Tiff**, **Png**, **Bmp**, **Emf**, **Jpeg** or **Svg**. **Png**, **Bmp**, **Jpeg** or **Svg**. |
 
 ## Examples
 

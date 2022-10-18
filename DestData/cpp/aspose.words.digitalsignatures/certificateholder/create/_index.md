@@ -18,8 +18,8 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| certBytes | `-` | A byte array that contains data from an X.509 certificate. |
-| password | `-` | The password required to access the X.509 certificate data. |
+| certBytes | const System::ArrayPtr\<uint8_t\>\& | A byte array that contains data from an X.509 certificate. |
+| password | const System::SharedPtr\<System::Security::SecureString\>\& | The password required to access the X.509 certificate data. |
 
 ### ReturnValue
 
@@ -39,8 +39,8 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| certBytes | `-` | A byte array that contains data from an X.509 certificate. |
-| password | `-` | The password required to access the X.509 certificate data. |
+| certBytes | const System::ArrayPtr\<uint8_t\>\& | A byte array that contains data from an X.509 certificate. |
+| password | const System::String\& | The password required to access the X.509 certificate data. |
 
 ### ReturnValue
 
@@ -60,8 +60,8 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The name of a certificate file. |
-| password | `-` | The password required to access the X.509 certificate data. |
+| fileName | const System::String\& | The name of a certificate file. |
+| password | const System::String\& | The password required to access the X.509 certificate data. |
 
 ### ReturnValue
 
@@ -107,9 +107,9 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | `-` | The name of a certificate file. |
-| password | `-` | The password required to access the X.509 certificate data. |
-| alias | `-` | The associated alias for a certificate and its private key |
+| fileName | const System::String\& | The name of a certificate file. |
+| password | const System::String\& | The password required to access the X.509 certificate data. |
+| alias | const System::String\& | The associated alias for a certificate and its private key |
 
 ### ReturnValue
 

@@ -18,7 +18,7 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set(const Syste
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-insensitive name of the bookmark. |
+| name | const System::String\& | Case-insensitive name of the bookmark. |
 
 ### ReturnValue
 
@@ -94,7 +94,7 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set(int32_t ind
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the bookmark. |
+| index | int32_t | Zero-based index of the bookmark. |
 
 ### ReturnValue
 

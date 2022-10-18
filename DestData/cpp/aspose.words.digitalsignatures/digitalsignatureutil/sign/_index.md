@@ -18,9 +18,9 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcStream | `-` | The stream which contains the document to sign. |
-| dstStream | `-` | The stream that signed document will be written to. |
-| certHolder | `-` | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
+| srcStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream which contains the document to sign. |
+| dstStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream that signed document will be written to. |
+| certHolder | const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\& | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
 
 ## Examples
 
@@ -78,10 +78,10 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcStream | `-` | The stream which contains the document to sign. |
-| dstStream | `-` | The stream that signed document will be written to. |
-| certHolder | `-` | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
-| signOptions | `-` | [SignOptions](../../signoptions/) object with various signing options. |
+| srcStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream which contains the document to sign. |
+| dstStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream that signed document will be written to. |
+| certHolder | const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\& | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
+| signOptions | const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\& | [SignOptions](../../signoptions/) object with various signing options. |
 
 ## Examples
 
@@ -122,9 +122,9 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | `-` | The file name of the document to sign. |
-| dstFileName | `-` | The file name of the signed document output. |
-| certHolder | `-` | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
+| srcFileName | const System::String\& | The file name of the document to sign. |
+| dstFileName | const System::String\& | The file name of the signed document output. |
+| certHolder | const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\& | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
 
 ## Examples
 
@@ -182,10 +182,10 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | `-` | The file name of the document to sign. |
-| dstFileName | `-` | The file name of the signed document output. |
-| certHolder | `-` | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
-| signOptions | `-` | [SignOptions](../../signoptions/) object with various signing options. |
+| srcFileName | const System::String\& | The file name of the document to sign. |
+| dstFileName | const System::String\& | The file name of the signed document output. |
+| certHolder | const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\& | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
+| signOptions | const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\& | [SignOptions](../../signoptions/) object with various signing options. |
 
 ## Examples
 

@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | `-` | The tag of the structured document tag. |
+| tag | const System::String\& | The tag of the structured document tag. |
 
 Returns null if the structured document tag with the specified tag cannot be found.
 

@@ -18,7 +18,7 @@ bool Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains(const Syst
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-insensitive name of the bookmark to locate. |
+| name | const System::String\& | Case-insensitive name of the bookmark to locate. |
 
 ### ReturnValue
 

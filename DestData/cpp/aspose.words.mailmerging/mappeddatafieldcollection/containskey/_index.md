@@ -18,7 +18,7 @@ bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey(const Sy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| documentFieldName | `-` | Case-sensitive name of the mail merge field in the document. |
+| documentFieldName | const System::String\& | Case-sensitive name of the mail merge field in the document. |
 
 ### ReturnValue
 

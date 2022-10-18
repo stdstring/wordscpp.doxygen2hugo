@@ -18,7 +18,7 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Remove(const System
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | The case-insensitive name of the bookmark. |
+| name | const System::String\& | The case-insensitive name of the bookmark. |
 
 ## Examples
 

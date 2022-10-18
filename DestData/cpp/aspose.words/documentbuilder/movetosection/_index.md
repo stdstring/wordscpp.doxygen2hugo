@@ -18,7 +18,7 @@ void Aspose::Words::DocumentBuilder::MoveToSection(int32_t sectionIndex)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sectionIndex | `-` | The index of the section to move to. |
+| sectionIndex | int32_t | The index of the section to move to. |
 
 When sectionIndex is greater than or equal to 0, it specifies an index from the beginning of the document with 0 being the first section. When sectionIndex is less than 0, it specified an index from the end of the document with -1 being the last section.
 

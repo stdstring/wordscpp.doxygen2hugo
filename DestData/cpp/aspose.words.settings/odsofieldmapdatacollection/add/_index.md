@@ -18,6 +18,6 @@ int32_t Aspose::Words::Settings::OdsoFieldMapDataCollection::Add(const System::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The object to add. Cannot be null. |
+| value | const System::SharedPtr\<Aspose::Words::Settings::OdsoFieldMapData\>\& | The object to add. Cannot be null. |
 
 

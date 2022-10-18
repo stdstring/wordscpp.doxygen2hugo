@@ -18,7 +18,7 @@ void Aspose::Words::Comment::RemoveReply(const System::SharedPtr<Aspose::Words::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| reply | `-` | The comment node of the deleting reply. |
+| reply | const System::SharedPtr\<Aspose::Words::Comment\>\& | The comment node of the deleting reply. |
 
 ## Examples
 

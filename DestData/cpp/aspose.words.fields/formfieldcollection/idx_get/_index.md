@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::Fields::FormF
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | `-` | Case-insensitive bookmark name. |
+| bookmarkName | const System::String\& | Case-insensitive bookmark name. |
 
 ## Examples
 
@@ -166,7 +166,7 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::Fields::FormF
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | An index into the collection. |
+| index | int32_t | An index into the collection. |
 
 The index is zero-based.
 

@@ -60,7 +60,7 @@ Aspose::Words::Saving::DocSaveOptions::DocSaveOptions(Aspose::Words::SaveFormat 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | `-` | Can be **Doc** or **Dot**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be **Doc** or **Dot**. |
 
 ## Examples
 

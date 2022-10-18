@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFormFi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formField | `-` | The object that is being visited. |
+| formField | System::SharedPtr\<Aspose::Words::Fields::FormField\> | The object that is being visited. |
 
 ### ReturnValue
 

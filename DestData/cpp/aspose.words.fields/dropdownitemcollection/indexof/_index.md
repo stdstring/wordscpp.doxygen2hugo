@@ -18,7 +18,7 @@ int32_t Aspose::Words::Fields::DropDownItemCollection::IndexOf(const System::Str
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | `-` | The case-sensitive value to locate. |
+| value | const System::String\& | The case-sensitive value to locate. |
 
 ### ReturnValue
 

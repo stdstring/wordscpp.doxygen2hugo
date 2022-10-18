@@ -18,7 +18,7 @@ Aspose::Words::Tables::Cell::Cell(const System::SharedPtr<Aspose::Words::Documen
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | `-` | The owner document. |
+| doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 
 When **Cell** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitAbsolu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tab | `-` | The object that is being visited. |
+| tab | System::SharedPtr\<Aspose::Words::AbsolutePositionTab\> | The object that is being visited. |
 
 ### ReturnValue
 

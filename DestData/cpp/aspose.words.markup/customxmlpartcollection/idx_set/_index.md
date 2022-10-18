@@ -18,7 +18,7 @@ void Aspose::Words::Markup::CustomXmlPartCollection::idx_set(int32_t index, cons
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the item. |
+| index | int32_t | Zero-based index of the item. |
 
 ## Examples
 

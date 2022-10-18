@@ -18,7 +18,7 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitBodySt
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| body | `-` | The object that is being visited. |
+| body | System::SharedPtr\<Aspose::Words::Body\> | The object that is being visited. |
 
 ### ReturnValue
 

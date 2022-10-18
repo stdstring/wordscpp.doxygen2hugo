@@ -18,8 +18,8 @@ Aspose::Words::WebExtensions::WebExtensionProperty::WebExtensionProperty(const S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Property name. |
-| value | `-` | Property value. |
+| name | const System::String\& | Property name. |
+| value | const System::String\& | Property value. |
 
 ## Examples
 

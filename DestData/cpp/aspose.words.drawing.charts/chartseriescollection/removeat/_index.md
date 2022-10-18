@@ -18,7 +18,7 @@ void Aspose::Words::Drawing::Charts::ChartSeriesCollection::RemoveAt(int32_t ind
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | The zero-based index of the [ChartSeries](../../chartseries/) to remove. |
+| index | int32_t | The zero-based index of the [ChartSeries](../../chartseries/) to remove. |
 
 ## Examples
 

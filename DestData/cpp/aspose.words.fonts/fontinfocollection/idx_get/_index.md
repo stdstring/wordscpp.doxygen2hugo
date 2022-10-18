@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Fonts::FontInfo> Aspose::Words::Fonts::FontInfo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-insensitive name of the font to locate. |
+| name | const System::String\& | Case-insensitive name of the font to locate. |
 
 ## Examples
 
@@ -62,7 +62,7 @@ System::SharedPtr<Aspose::Words::Fonts::FontInfo> Aspose::Words::Fonts::FontInfo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the font. |
+| index | int32_t | Zero-based index of the font. |
 
 ## Examples
 

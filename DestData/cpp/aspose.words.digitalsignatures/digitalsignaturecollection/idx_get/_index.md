@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignature> Aspose::Wo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the signature. |
+| index | int32_t | Zero-based index of the signature. |
 
 ## Examples
 

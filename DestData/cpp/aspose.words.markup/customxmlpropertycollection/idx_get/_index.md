@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> Aspose::Words::Marku
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | `-` | Case-sensitive name of the property to locate. |
+| name | const System::String\& | Case-sensitive name of the property to locate. |
 
 ## Examples
 
@@ -88,7 +88,7 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> Aspose::Words::Marku
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | `-` | Zero-based index of the property. |
+| index | int32_t | Zero-based index of the property. |
 
 ## Examples
 

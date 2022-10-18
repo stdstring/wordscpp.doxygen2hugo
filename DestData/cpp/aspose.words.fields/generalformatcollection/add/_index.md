@@ -18,7 +18,7 @@ void Aspose::Words::Fields::GeneralFormatCollection::Add(Aspose::Words::Fields::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | `-` | A general format. |
+| item | Aspose::Words::Fields::GeneralFormat | A general format. |
 
 ## Examples
 

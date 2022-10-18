@@ -84,7 +84,7 @@ Aspose::Words::Fonts::SystemFontSource::SystemFontSource(int32_t priority)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| priority | `-` | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
+| priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 
 ## Examples
 

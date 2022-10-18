@@ -18,7 +18,7 @@ virtual void Aspose::Words::Loading::IDocumentLoadingCallback::Notify(System::Sh
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| args | `-` | An argument of the event. |
+| args | System::SharedPtr\<Aspose::Words::Loading::DocumentLoadingArgs\> | An argument of the event. |
 
 The primary uses for this interface is to allow application code to obtain progress status and abort loading process.
 

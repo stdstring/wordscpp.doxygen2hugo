@@ -18,7 +18,7 @@ void Aspose::Words::Document::StartTrackRevisions(const System::String &author)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| author | `-` | Initials of the author to use for revisions. |
+| author | const System::String\& | Initials of the author to use for revisions. |
 
 If you call this method and then make some changes to the document programmatically, save the document and later open the document in MS Word you will see these changes as revisions.
 
@@ -87,8 +87,8 @@ void Aspose::Words::Document::StartTrackRevisions(const System::String &author, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| author | `-` | Initials of the author to use for revisions. |
-| dateTime | `-` | The date and time to use for revisions. |
+| author | const System::String\& | Initials of the author to use for revisions. |
+| dateTime | System::DateTime | The date and time to use for revisions. |
 
 If you call this method and then make some changes to the document programmatically, save the document and later open the document in MS Word you will see these changes as revisions.
 

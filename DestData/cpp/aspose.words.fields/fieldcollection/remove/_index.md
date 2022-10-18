@@ -18,7 +18,7 @@ void Aspose::Words::Fields::FieldCollection::Remove(const System::SharedPtr<Aspo
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | `-` | A field to remove. |
+| field | const System::SharedPtr\<Aspose::Words::Fields::Field\>\& | A field to remove. |
 
 ## Examples
 
