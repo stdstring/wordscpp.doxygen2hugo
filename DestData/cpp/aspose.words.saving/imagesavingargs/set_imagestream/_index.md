@@ -21,6 +21,6 @@ void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(const System::Share
 
 
 ```cpp
-void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(std::basic_ostream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(std::basic_ostream<CharType, Traits> &value)
 ```
 

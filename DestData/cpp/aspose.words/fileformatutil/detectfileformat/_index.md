@@ -30,6 +30,6 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 
 
 ```cpp
-static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileFormatUtil::DetectFileFormat(std::basic_istream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileFormatUtil::DetectFileFormat(std::basic_istream<CharType, Traits> &stream)
 ```
 

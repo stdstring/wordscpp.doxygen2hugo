@@ -30,6 +30,6 @@ void Aspose::Words::Drawing::ImageData::Save(const System::String &fileName)
 
 
 ```cpp
-void Aspose::Words::Drawing::ImageData::Save(std::basic_ostream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> void Aspose::Words::Drawing::ImageData::Save(std::basic_ostream<CharType, Traits> &stream)
 ```
 

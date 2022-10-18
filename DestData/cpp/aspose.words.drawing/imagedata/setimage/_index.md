@@ -39,6 +39,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::String &fileName)
 
 
 ```cpp
-void Aspose::Words::Drawing::ImageData::SetImage(std::basic_istream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> void Aspose::Words::Drawing::ImageData::SetImage(std::basic_istream<CharType, Traits> &stream)
 ```
 

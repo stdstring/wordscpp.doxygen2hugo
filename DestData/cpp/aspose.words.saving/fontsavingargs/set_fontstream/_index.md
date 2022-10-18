@@ -21,6 +21,6 @@ void Aspose::Words::Saving::FontSavingArgs::set_FontStream(const System::SharedP
 
 
 ```cpp
-void Aspose::Words::Saving::FontSavingArgs::set_FontStream(std::basic_ostream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::Saving::FontSavingArgs::set_FontStream(std::basic_ostream<CharType, Traits> &value)
 ```
 

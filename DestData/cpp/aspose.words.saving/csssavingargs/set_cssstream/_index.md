@@ -21,6 +21,6 @@ void Aspose::Words::Saving::CssSavingArgs::set_CssStream(const System::SharedPtr
 
 
 ```cpp
-void Aspose::Words::Saving::CssSavingArgs::set_CssStream(std::basic_ostream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::Saving::CssSavingArgs::set_CssStream(std::basic_ostream<CharType, Traits> &value)
 ```
 

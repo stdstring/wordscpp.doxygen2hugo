@@ -30,6 +30,6 @@ void Aspose::Words::Drawing::OleFormat::Save(const System::String &fileName)
 
 
 ```cpp
-void Aspose::Words::Drawing::OleFormat::Save(std::basic_ostream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> void Aspose::Words::Drawing::OleFormat::Save(std::basic_ostream<CharType, Traits> &stream)
 ```
 

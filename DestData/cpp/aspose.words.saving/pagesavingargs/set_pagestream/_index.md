@@ -21,6 +21,6 @@ void Aspose::Words::Saving::PageSavingArgs::set_PageStream(const System::SharedP
 
 
 ```cpp
-void Aspose::Words::Saving::PageSavingArgs::set_PageStream(std::basic_ostream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::Saving::PageSavingArgs::set_PageStream(std::basic_ostream<CharType, Traits> &value)
 ```
 

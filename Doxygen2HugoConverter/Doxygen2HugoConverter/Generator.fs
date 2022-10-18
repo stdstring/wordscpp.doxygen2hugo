@@ -171,6 +171,10 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
 
 let generateMethodDefinition (methodDef: Defs.MethodDef) (dest: StringBuilder) =
     "```cpp" |> dest.AppendLine |> ignore
+    if methodDef.TemplateParameters.IsEmpty |> not then
+        "template<" |> dest.Append |> ignore
+        methodDef.TemplateParameters |> String.concat "," |> dest.Append |> ignore
+        "> " |> dest.Append |> ignore
     methodDef.Definition.Replace("< ", "<").Replace(" >", ">") |> dest.Append |> ignore
     methodDef.ArgString.Replace("< ", "<").Replace(" >", ">") |> dest.Append |> ignore
     dest.AppendLine() |> ignore

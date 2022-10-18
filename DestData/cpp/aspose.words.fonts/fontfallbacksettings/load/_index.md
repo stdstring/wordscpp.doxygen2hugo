@@ -30,6 +30,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::String &file
 
 
 ```cpp
-void Aspose::Words::Fonts::FontFallbackSettings::Load(std::basic_istream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> void Aspose::Words::Fonts::FontFallbackSettings::Load(std::basic_istream<CharType, Traits> &stream)
 ```
 

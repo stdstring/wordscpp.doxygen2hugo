@@ -21,6 +21,6 @@ void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream(const System:
 
 
 ```cpp
-void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream(std::basic_ostream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream(std::basic_ostream<CharType, Traits> &value)
 ```
 

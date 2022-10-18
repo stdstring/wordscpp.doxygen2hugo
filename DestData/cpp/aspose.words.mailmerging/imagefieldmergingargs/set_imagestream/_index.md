@@ -21,6 +21,6 @@ void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream(const Sy
 
 
 ```cpp
-void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream(std::basic_istream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream(std::basic_istream<CharType, Traits> &value)
 ```
 

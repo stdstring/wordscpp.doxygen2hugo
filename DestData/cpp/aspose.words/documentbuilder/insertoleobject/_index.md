@@ -39,7 +39,7 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 
 ```cpp
-System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertOleObject(std::basic_istream<CharType, Traits> &stream, System::String progId, bool asIcon, std::basic_istream<CharType, Traits> &presentation)
+template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertOleObject(std::basic_istream<CharType, Traits> &stream, System::String progId, bool asIcon, std::basic_istream<CharType, Traits> &presentation)
 ```
 
 ## DocumentBuilder.InsertOleObject(System::String, bool, bool, std::basic_istream\<CharType, Traits\>\&) method
@@ -48,7 +48,7 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 
 ```cpp
-System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertOleObject(System::String fileName, bool isLinked, bool asIcon, std::basic_istream<CharType, Traits> &presentation)
+template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertOleObject(System::String fileName, bool isLinked, bool asIcon, std::basic_istream<CharType, Traits> &presentation)
 ```
 
 ## DocumentBuilder.InsertOleObject(System::String, System::String, bool, bool, std::basic_istream\<CharType, Traits\>\&) method
@@ -57,6 +57,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 
 ```cpp
-System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertOleObject(System::String fileName, System::String progId, bool isLinked, bool asIcon, std::basic_istream<CharType, Traits> &presentation)
+template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertOleObject(System::String fileName, System::String progId, bool isLinked, bool asIcon, std::basic_istream<CharType, Traits> &presentation)
 ```
 

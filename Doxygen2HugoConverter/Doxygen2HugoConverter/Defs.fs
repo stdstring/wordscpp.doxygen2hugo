@@ -49,6 +49,7 @@ type MethodDef = {Id: string;
                   DetailedDescription: MethodDetailedDescription;
                   Definition: string;
                   ArgString: string;
+                  TemplateParameters: string list;
                   Parameters: MethodParameterDef list;
                   ReturnType: SimpleMarkupDef list}
 
@@ -119,6 +120,12 @@ let findYesNoValue (name: string) (source: XElement) =
     | Some "no" -> false
     | Some "yes" -> true
     | _ -> name |> failwithf "Unexpected \"%s\" attribute value"
+
+let parseTemplateParameters (source: XElement) =
+    match source.Elements("templateparamlist") |> Seq.toList with
+    | [] -> []
+    | [parametersElement] -> parametersElement.Elements("param") |> Seq.map (fun element -> (element.Descendants("type") |> Seq.exactlyOne).Value) |> Seq.toList
+    | _ -> failwith "Several sections \"templateparamlist\" found"
 
 //let parseDescription (source: XElement) =
 //    let brief = source.Element("briefdescription") |> parseBriefDescription
@@ -281,6 +288,7 @@ let parseMethodDef (context: Context) (source: XElement) =
     let briefDescription = source |> parseBriefDescription
     let detailedDescription = source |> parseMethodDetailedDescription
     let overrideValue = argString.EndsWith(OverrideSuffix)
+    let templateParameters = source |> parseTemplateParameters
     let parameters = source.Elements("param") |> Seq.map parseMethodParameter |> Seq.toList
     let methodDef = {MethodDef.Id = id;
                      MethodDef.ParentId = context.ParentId;
@@ -295,6 +303,7 @@ let parseMethodDef (context: Context) (source: XElement) =
                      MethodDef.DetailedDescription = detailedDescription;
                      MethodDef.Definition = definition;
                      MethodDef.ArgString = argString;
+                     MethodDef.TemplateParameters = templateParameters;
                      MethodDef.Parameters = parameters;
                      MethodDef.ReturnType = returnType}
     context.CommonEntityRepo.Add(id, methodDef |> EntityDef.Method)
@@ -316,12 +325,6 @@ let parseBaseClassDef (source: XElement) =
     let qualifiedName = source.Value
     {BaseClassDef.Access = access; BaseClassDef.Virtual = virtualValue; BaseClassDef.QualifiedName = qualifiedName}
 
-let parseClassTemplateParameters (source: XElement) =
-    match source.Elements("templateparamlist") |> Seq.toList with
-    | [] -> []
-    | [parametersElement] -> parametersElement.Elements("param") |> Seq.map (fun element -> (element.Descendants("type") |> Seq.exactlyOne).Value) |> Seq.toList
-    | _ -> failwith "Several sections \"templateparamlist\" found"
-
 let parseClassDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with
     | "public" ->
@@ -336,7 +339,7 @@ let parseClassDef (context: Context) (source: XElement) =
         let name = fullName |> Utils.getClassName
         let finalValue = source |> findYesNoValue "final"
         let baseClasses = "basecompoundref" |> source.Elements |> Seq.map parseBaseClassDef |> Seq.toList
-        let templateParameters = source |> parseClassTemplateParameters
+        let templateParameters = source |> parseTemplateParameters
         let directMethods = source |> parseDirectMethods {context with ParentId = id; ParentName = name}
         let memberRefs = source.Element("listofallmembers").Elements("member") |> Seq.choose Refs.parseMemberRef |> Seq.toList
         (*for e in source.Descendants("sectiondef") do

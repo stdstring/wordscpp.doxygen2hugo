@@ -30,6 +30,6 @@ void Aspose::Words::License::SetLicense(const System::String &licenseName)
 
 
 ```cpp
-void Aspose::Words::License::SetLicense(std::basic_istream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> void Aspose::Words::License::SetLicense(std::basic_istream<CharType, Traits> &stream)
 ```
 

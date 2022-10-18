@@ -30,6 +30,6 @@ static void Aspose::Words::Hyphenation::RegisterDictionary(const System::String 
 
 
 ```cpp
-static void Aspose::Words::Hyphenation::RegisterDictionary(System::String language, std::basic_istream<CharType, Traits> &stream)
+template<typename CharType,typename Traits> static void Aspose::Words::Hyphenation::RegisterDictionary(System::String language, std::basic_istream<CharType, Traits> &stream)
 ```
 

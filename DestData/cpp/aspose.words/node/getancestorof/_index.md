@@ -12,6 +12,6 @@ url: /cpp/aspose.words/node/getancestorof/
 
 
 ```cpp
-T Aspose::Words::Node::GetAncestorOf()
+template<typename T> T Aspose::Words::Node::GetAncestorOf()
 ```
 

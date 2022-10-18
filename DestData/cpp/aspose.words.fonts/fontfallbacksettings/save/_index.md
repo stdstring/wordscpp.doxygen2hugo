@@ -30,6 +30,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::String &file
 
 
 ```cpp
-void Aspose::Words::Fonts::FontFallbackSettings::Save(std::basic_ostream<CharType, Traits> &outputStream)
+template<typename CharType,typename Traits> void Aspose::Words::Fonts::FontFallbackSettings::Save(std::basic_ostream<CharType, Traits> &outputStream)
 ```
 

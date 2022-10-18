@@ -21,6 +21,6 @@ void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(const
 
 
 ```cpp
-void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(std::basic_ostream<CharType, Traits> &value)
+template<typename CharType,typename Traits> void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(std::basic_ostream<CharType, Traits> &value)
 ```
 
