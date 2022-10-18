@@ -9,7 +9,7 @@ url: /cpp/aspose.words.webextensions/webextension/set_isfrozen/
 ## WebExtension.set_IsFrozen method
 
 
-Setter for [Aspose::Words::WebExtensions::WebExtension::get_IsFrozen](./get_isfrozen/).
+Setter for [Aspose::Words::WebExtensions::WebExtension::get_IsFrozen](../get_isfrozen/).
 
 ```cpp
 void Aspose::Words::WebExtensions::WebExtension::set_IsFrozen(bool value)

@@ -15,7 +15,6 @@ Contains options that can be specified when adding a watermark with text.
 class TextWatermarkOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

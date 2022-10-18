@@ -15,3 +15,9 @@ Gets or sets a value determining whether or not to preblend transparent images w
 bool Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages() const
 ```
 
+
+Preblending images may improve PDF document visual appearance in Adobe Reader and remove anti-aliasing artifacts.
+
+In order to properly display preblended images, PDF viewer application must support /Matte entry in soft-mask image dictionary. Also preblending images may decrease PDF rendering performance.
+
+The default value is **false**. 

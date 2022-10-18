@@ -15,7 +15,6 @@ Provides data for the [FieldDatabase](./fielddatabase/) field result.
 class FieldDatabaseDataTable : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -169,6 +169,28 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     {GenerateEntry.Title = folderName |> GenerateChildUrl |> GenerateLink typedefDef.Name;
      GenerateEntry.BriefDescription = briefDescription}
 
+let generateTemplateParameters (context: Context) (templateParameters: Markup.TemplateParameter list) (dest: StringBuilder) =
+    if templateParameters.IsEmpty |> not then
+        dest.AppendLine() |> ignore
+        dest |> generateTableHeader ["Parameter"; "Description"]
+        for templateParameter in templateParameters do
+            let parameterDescription = templateParameter.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+            sprintf $"| {templateParameter.Name} | {parameterDescription} |" |> dest.AppendLine |> ignore
+
+let generateMethodArgs (context: Context) (methodArgs: Markup.MethodArg list) (dest: StringBuilder) =
+    if methodArgs.IsEmpty |> not then
+        dest.AppendLine() |> ignore
+        dest |> generateTableHeader ["Parameter"; "Type"; "Description"]
+        for methodArg in methodArgs do
+            let methodArgDescription = methodArg.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+            sprintf $"| {methodArg.Name} | `-` | {methodArgDescription} |" |> dest.AppendLine |> ignore
+
+let generateReturnValue (context: Context) (returnValue: Markup.SimpleMarkup) (dest: StringBuilder) =
+    if returnValue.IsEmpty |> not then
+        dest.AppendLine() |> ignore
+        GenerateHeader "ReturnValue" 3 |> dest.AppendLine |> ignore
+        returnValue |> GenerateBriefDescription (generateRelativeUrlForEntity context) |> dest.AppendLine |> ignore
+
 let generateMethodDefinition (methodDef: Defs.MethodDef) (dest: StringBuilder) =
     "```cpp" |> dest.AppendLine |> ignore
     if methodDef.TemplateParameters.IsEmpty |> not then
@@ -212,16 +234,22 @@ let generateForDirectMethod (context: Context) (isFirst: bool) (hasOverloads: bo
     let methodDirectory = Path.Combine(context.Directory, folderName)
     methodDirectory |> Directory.CreateDirectory |> ignore
     let methodUrl = [|folderName|] |> Array.append context.Url
+    let currentContext = {context with Directory = methodDirectory; Url = methodUrl}
     let builder = new StringBuilder()
     if isFirst then
         let descriptionForTitle = methodDef.BriefDescription |> GenerateBriefDescriptionForTitle
         builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
     GenerateHeader (methodDef |> generateMethodHeader hasOverloads) 2 |> builder.Append |> ignore
-    let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
+    let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity currentContext)
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     builder |> generateMethodDefinition methodDef
+    builder |> generateTemplateParameters currentContext methodDef.DetailedDescription.TemplateParameters
+    builder |> generateMethodArgs currentContext methodDef.DetailedDescription.Args
+    builder |> generateReturnValue currentContext methodDef.DetailedDescription.ReturnValue
+    let detailedDescription = methodDef.DetailedDescription.Description |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
+    detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(methodDirectory, Common.MarkdownFilename), builder.ToString())
 
 let generateForDirectMethodGroup (context: Context) (group: Defs.MethodGroupDef) =
@@ -305,12 +333,7 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     builder |> generateClassDefinition classDef
-    builder.AppendLine() |> ignore
-    if classDef.DetailedDescription.TemplateParameters.IsEmpty |> not then
-        builder |> generateTableHeader ["Parameter"; "Description"]
-        for templateParameter in classDef.DetailedDescription.TemplateParameters do
-            let parameterDescription = templateParameter.Description |> GenerateBriefDescription (generateRelativeUrlForEntity context)
-            sprintf $"| {templateParameter.Name} | {parameterDescription} |" |> builder.AppendLine |> ignore
+    builder |> generateTemplateParameters context classDef.DetailedDescription.TemplateParameters
     classDef.DirectMethods |> Seq.iter (fun group -> group |> generateForDirectMethodGroup currentContext)
     if classDef.MemberRefs.IsEmpty |> not then
         GenerateHeader "Methods" 2 |> builder.Append |> ignore

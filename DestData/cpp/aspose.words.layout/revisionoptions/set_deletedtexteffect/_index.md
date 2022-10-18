@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_deletedtexteffect/
 ## RevisionOptions.set_DeletedTextEffect method
 
 
-Setter for [Aspose::Words::Layout::RevisionOptions::get_DeletedTextEffect](./get_deletedtexteffect/).
+Setter for [Aspose::Words::Layout::RevisionOptions::get_DeletedTextEffect](../get_deletedtexteffect/).
 
 ```cpp
 void Aspose::Words::Layout::RevisionOptions::set_DeletedTextEffect(Aspose::Words::Layout::RevisionTextEffect value)

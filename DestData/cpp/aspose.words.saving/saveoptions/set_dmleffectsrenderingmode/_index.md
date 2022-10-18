@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/saveoptions/set_dmleffectsrenderingmode/
 ## SaveOptions.set_DmlEffectsRenderingMode method
 
 
-Setter for [Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode](./get_dmleffectsrenderingmode/).
+Setter for [Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode](../get_dmleffectsrenderingmode/).
 
 ```cpp
 virtual void Aspose::Words::Saving::SaveOptions::set_DmlEffectsRenderingMode(Aspose::Words::Saving::DmlEffectsRenderingMode value)

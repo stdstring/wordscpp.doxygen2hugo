@@ -15,7 +15,6 @@ Implements the HYPERLINK field.
 class FieldHyperlink : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldResultFormatProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

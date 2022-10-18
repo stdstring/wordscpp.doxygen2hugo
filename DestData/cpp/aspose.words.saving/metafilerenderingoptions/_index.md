@@ -15,7 +15,6 @@ Allows to specify additional metafile rendering options.
 class MetafileRenderingOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

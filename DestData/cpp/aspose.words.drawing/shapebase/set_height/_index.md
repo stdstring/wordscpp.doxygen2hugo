@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_height/
 ## ShapeBase.set_Height method
 
 
-Setter for [Aspose::Words::Drawing::ShapeBase::get_Height](./get_height/).
+Setter for [Aspose::Words::Drawing::ShapeBase::get_Height](../get_height/).
 
 ```cpp
 void Aspose::Words::Drawing::ShapeBase::set_Height(double value)

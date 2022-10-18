@@ -15,7 +15,6 @@ Represents a single bookmark.
 class Bookmark : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

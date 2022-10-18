@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartmarker/set_size/
 ## ChartMarker.set_Size method
 
 
-Setter for [Aspose::Words::Drawing::Charts::ChartMarker::get_Size](./get_size/).
+Setter for [Aspose::Words::Drawing::Charts::ChartMarker::get_Size](../get_size/).
 
 ```cpp
 void Aspose::Words::Drawing::Charts::ChartMarker::set_Size(int32_t value)

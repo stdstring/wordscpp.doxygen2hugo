@@ -15,7 +15,6 @@ A typed collection of the [OdsoFieldMapData](./odsofieldmapdata/) objects.
 class OdsoFieldMapDataCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData>>
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Provides information about the current product name and version.
 class BuildVersionInfo
 ```
 
-
 ## Methods
 
 | Method | Description |

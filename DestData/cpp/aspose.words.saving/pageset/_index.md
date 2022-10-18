@@ -15,7 +15,6 @@ Describes a random set of pages.
 class PageSet : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

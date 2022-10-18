@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_savefontfacecssseparately
 ## HtmlFixedSaveOptions.set_SaveFontFaceCssSeparately method
 
 
-Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveFontFaceCssSeparately](./get_savefontfacecssseparately/).
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveFontFaceCssSeparately](../get_savefontfacecssseparately/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlFixedSaveOptions::set_SaveFontFaceCssSeparately(bool value)

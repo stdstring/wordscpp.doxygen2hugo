@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textbox/set_layoutflow/
 ## TextBox.set_LayoutFlow method
 
 
-Setter for [Aspose::Words::Drawing::TextBox::get_LayoutFlow](./get_layoutflow/).
+Setter for [Aspose::Words::Drawing::TextBox::get_LayoutFlow](../get_layoutflow/).
 
 ```cpp
 void Aspose::Words::Drawing::TextBox::set_LayoutFlow(Aspose::Words::Drawing::LayoutFlow value)

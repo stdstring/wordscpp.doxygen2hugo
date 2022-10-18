@@ -15,7 +15,6 @@ Represents a paragraph of text.
 class Paragraph : public Aspose::Words::CompositeNode, public Aspose::Words::IParaAttrSource, public Aspose::Words::IRunAttrSource, public Aspose::Words::Revisions::ITrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Implements the AUTHOR field.
 class FieldAuthor : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_cssclassnamesprefix/
 ## HtmlFixedSaveOptions.set_CssClassNamesPrefix method
 
 
-Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix](./get_cssclassnamesprefix/).
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix](../get_cssclassnamesprefix/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlFixedSaveOptions::set_CssClassNamesPrefix(const System::String &value)

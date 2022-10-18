@@ -15,7 +15,6 @@ A collection of [Revision](./revision/) objects that represent revisions in the 
 class RevisionCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Revision>>
 ```
 
-
 ## Methods
 
 | Method | Description |

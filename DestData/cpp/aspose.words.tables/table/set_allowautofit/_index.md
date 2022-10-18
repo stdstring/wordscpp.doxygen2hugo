@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_allowautofit/
 ## Table.set_AllowAutoFit method
 
 
-Setter for [Aspose::Words::Tables::Table::get_AllowAutoFit](./get_allowautofit/).
+Setter for [Aspose::Words::Tables::Table::get_AllowAutoFit](../get_allowautofit/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_AllowAutoFit(bool value)

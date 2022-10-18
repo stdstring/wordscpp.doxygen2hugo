@@ -15,7 +15,6 @@ Represents an image dimension (i.e. the width or the height) used across a mail 
 class MergeFieldImageDimension : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

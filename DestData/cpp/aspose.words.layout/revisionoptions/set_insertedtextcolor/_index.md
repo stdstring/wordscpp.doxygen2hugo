@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_insertedtextcolor/
 ## RevisionOptions.set_InsertedTextColor method
 
 
-Setter for [Aspose::Words::Layout::RevisionOptions::get_InsertedTextColor](./get_insertedtextcolor/).
+Setter for [Aspose::Words::Layout::RevisionOptions::get_InsertedTextColor](../get_insertedtextcolor/).
 
 ```cpp
 void Aspose::Words::Layout::RevisionOptions::set_InsertedTextColor(Aspose::Words::Layout::RevisionColor value)

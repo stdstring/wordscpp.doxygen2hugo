@@ -15,7 +15,6 @@ Implement this interface to allow mail merge from a custom data source with mast
 class IMailMergeDataSourceRoot : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

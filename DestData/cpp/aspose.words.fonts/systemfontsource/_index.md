@@ -15,7 +15,6 @@ Represents all TrueType fonts installed to the system.
 class SystemFontSource : public Aspose::Words::Fonts::FontSourceBase
 ```
 
-
 ## Methods
 
 | Method | Description |

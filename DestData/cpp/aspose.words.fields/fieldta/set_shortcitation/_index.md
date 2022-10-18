@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldta/set_shortcitation/
 ## FieldTA.set_ShortCitation method
 
 
-Setter for [Aspose::Words::Fields::FieldTA::get_ShortCitation](./get_shortcitation/).
+Setter for [Aspose::Words::Fields::FieldTA::get_ShortCitation](../get_shortcitation/).
 
 ```cpp
 void Aspose::Words::Fields::FieldTA::set_ShortCitation(const System::String &value)

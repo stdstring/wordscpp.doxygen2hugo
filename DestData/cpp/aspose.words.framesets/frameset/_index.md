@@ -15,7 +15,6 @@ Represents a frames page or a single frame on a frames page.
 class Frameset : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

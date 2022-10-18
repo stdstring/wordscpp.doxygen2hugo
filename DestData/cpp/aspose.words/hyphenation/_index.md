@@ -15,7 +15,6 @@ Provides methods for working with hyphenation dictionaries. These dictionaries p
 class Hyphenation
 ```
 
-
 ## Methods
 
 | Method | Description |

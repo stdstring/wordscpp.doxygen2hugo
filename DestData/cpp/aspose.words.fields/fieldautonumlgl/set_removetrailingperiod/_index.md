@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldautonumlgl/set_removetrailingperiod/
 ## FieldAutoNumLgl.set_RemoveTrailingPeriod method
 
 
-Setter for [Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod](./get_removetrailingperiod/).
+Setter for [Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod](../get_removetrailingperiod/).
 
 ```cpp
 void Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod(bool value)

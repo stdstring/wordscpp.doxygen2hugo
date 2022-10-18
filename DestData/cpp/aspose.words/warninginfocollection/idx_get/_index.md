@@ -15,3 +15,9 @@ Gets an item at the specified index.
 System::SharedPtr<Aspose::Words::WarningInfo> Aspose::Words::WarningInfoCollection::idx_get(int32_t index)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | `-` | Zero-based index of the item. |
+
+

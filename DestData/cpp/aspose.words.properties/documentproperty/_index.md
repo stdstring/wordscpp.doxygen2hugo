@@ -15,7 +15,6 @@ Represents a custom or built-in document property.
 class DocumentProperty : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

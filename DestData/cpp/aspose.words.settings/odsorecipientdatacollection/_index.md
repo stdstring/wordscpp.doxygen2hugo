@@ -15,7 +15,6 @@ A typed collection of [OdsoRecipientData](./odsorecipientdata/)
 class OdsoRecipientDataCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData>>
 ```
 
-
 ## Methods
 
 | Method | Description |

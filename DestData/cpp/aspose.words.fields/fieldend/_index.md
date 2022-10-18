@@ -15,7 +15,6 @@ Represents an end of a Word field in a document.
 class FieldEnd : public Aspose::Words::Fields::FieldChar
 ```
 
-
 ## Methods
 
 | Method | Description |

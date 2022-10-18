@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapoint/set_bubble3d/
 ## ChartDataPoint.set_Bubble3D method
 
 
-Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D](../ichartdatapoint/get_bubble3d/).
+Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D](../../ichartdatapoint/get_bubble3d/).
 
 ```cpp
 void Aspose::Words::Drawing::Charts::ChartDataPoint::set_Bubble3D(bool value) override

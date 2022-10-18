@@ -15,7 +15,6 @@ Provides methods to render an individual [Shape](../aspose.words.drawing/shape/)
 class ShapeRenderer : public Aspose::Words::Rendering::NodeRendererBase
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Contains options that can be specified when adding a watermark with image.
 class ImageWatermarkOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

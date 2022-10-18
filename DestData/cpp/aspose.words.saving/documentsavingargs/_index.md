@@ -15,7 +15,6 @@ An argument passed into [Notify()](./idocumentsavingcallback/notify/).
 class DocumentSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

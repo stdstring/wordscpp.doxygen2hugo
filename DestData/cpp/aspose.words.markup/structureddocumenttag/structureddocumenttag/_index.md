@@ -15,3 +15,46 @@ Initializes a new instance of the **Structured document tag** class.
 Aspose::Words::Markup::StructuredDocumentTag::StructuredDocumentTag(const System::SharedPtr<Aspose::Words::DocumentBase> &doc, Aspose::Words::Markup::SdtType type, Aspose::Words::Markup::MarkupLevel level)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | `-` | The owner document. |
+| type | `-` | Type of SDT node. |
+| level | `-` | Level of SDT node within the document. |
+
+The following types of SDT can be created:
+
+* **Checkbox**
+* **DropDownList**
+* **ComboBox**
+* **Date**
+* **BuildingBlockGallery**
+* **Group**
+* **Picture**
+* **RichText**
+* **PlainText**
+
+
+
+## Examples
+
+
+
+
+Show how to create a structured document tag in the form of a check box. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+auto sdtCheckBox = MakeObject<StructuredDocumentTag>(doc, SdtType::Checkbox, MarkupLevel::Inline);
+sdtCheckBox->set_Checked(true);
+
+// We can set the symbols used to represent the checked/unchecked state of a checkbox content control.
+sdtCheckBox->SetCheckedSymbol(0x00A9, u"Times New Roman");
+sdtCheckBox->SetUncheckedSymbol(0x00AE, u"Times New Roman");
+
+builder->InsertNode(sdtCheckBox);
+
+doc->Save(ArtifactsDir + u"StructuredDocumentTag.CheckBox.docx");
+```
+

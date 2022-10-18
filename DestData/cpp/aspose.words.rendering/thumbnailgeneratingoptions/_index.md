@@ -15,7 +15,6 @@ Can be used to specify additional options when generating thumbnail for a docume
 class ThumbnailGeneratingOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

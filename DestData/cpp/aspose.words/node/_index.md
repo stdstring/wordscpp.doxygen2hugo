@@ -15,7 +15,6 @@ Base class for all nodes of a Word document.
 class Node : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

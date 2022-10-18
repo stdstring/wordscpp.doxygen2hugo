@@ -15,7 +15,6 @@ Represents chart legend properties.
 class ChartLegend : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
-
 ## Methods
 
 | Method | Description |

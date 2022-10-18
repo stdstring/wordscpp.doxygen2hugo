@@ -15,7 +15,6 @@ Implements the TOA field.
 class FieldToa : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

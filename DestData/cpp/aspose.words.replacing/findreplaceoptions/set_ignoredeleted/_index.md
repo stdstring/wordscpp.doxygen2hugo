@@ -9,7 +9,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignoredeleted/
 ## FindReplaceOptions.set_IgnoreDeleted method
 
 
-Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreDeleted](./get_ignoredeleted/).
+Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreDeleted](../get_ignoredeleted/).
 
 ```cpp
 void Aspose::Words::Replacing::FindReplaceOptions::set_IgnoreDeleted(bool value)

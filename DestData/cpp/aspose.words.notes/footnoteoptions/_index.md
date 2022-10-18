@@ -15,7 +15,6 @@ Represents the footnote numbering options for a document or section.
 class FootnoteOptions : public Aspose::Words::Notes::IFootnoteOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

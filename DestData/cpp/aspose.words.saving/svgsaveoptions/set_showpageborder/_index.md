@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_showpageborder/
 ## SvgSaveOptions.set_ShowPageBorder method
 
 
-Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ShowPageBorder](./get_showpageborder/).
+Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ShowPageBorder](../get_showpageborder/).
 
 ```cpp
 void Aspose::Words::Saving::SvgSaveOptions::set_ShowPageBorder(bool value)

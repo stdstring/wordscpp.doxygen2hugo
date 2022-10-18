@@ -15,3 +15,5 @@ Sets the object that specifies the Office Data Source Object (ODSO) settings.
 void Aspose::Words::Settings::MailMergeSettings::set_Odso(const System::SharedPtr<Aspose::Words::Settings::Odso> &value)
 ```
 
+
+This object is never null. 

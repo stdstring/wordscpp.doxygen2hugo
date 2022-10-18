@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_fieldupdatingcallback/
 ## FieldOptions.set_FieldUpdatingCallback method
 
 
-Sets [IFieldUpdatingCallback](../ifieldupdatingcallback/) implementation.
+Sets [IFieldUpdatingCallback](../../ifieldupdatingcallback/) implementation.
 
 ```cpp
 void Aspose::Words::Fields::FieldOptions::set_FieldUpdatingCallback(const System::SharedPtr<Aspose::Words::Fields::IFieldUpdatingCallback> &value)

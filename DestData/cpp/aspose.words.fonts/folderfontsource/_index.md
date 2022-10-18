@@ -15,7 +15,6 @@ Represents the folder that contains TrueType font files.
 class FolderFontSource : public Aspose::Words::Fonts::FontSourceBase
 ```
 
-
 ## Methods
 
 | Method | Description |

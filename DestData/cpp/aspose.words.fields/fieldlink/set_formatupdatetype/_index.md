@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldlink/set_formatupdatetype/
 ## FieldLink.set_FormatUpdateType method
 
 
-Setter for [Aspose::Words::Fields::FieldLink::get_FormatUpdateType](./get_formatupdatetype/).
+Setter for [Aspose::Words::Fields::FieldLink::get_FormatUpdateType](../get_formatupdatetype/).
 
 ```cpp
 void Aspose::Words::Fields::FieldLink::set_FormatUpdateType(const System::String &value)

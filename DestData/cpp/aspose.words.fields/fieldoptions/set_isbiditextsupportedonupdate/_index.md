@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_isbiditextsupportedonupdate/
 ## FieldOptions.set_IsBidiTextSupportedOnUpdate method
 
 
-Setter for [Aspose::Words::Fields::FieldOptions::get_IsBidiTextSupportedOnUpdate](./get_isbiditextsupportedonupdate/).
+Setter for [Aspose::Words::Fields::FieldOptions::get_IsBidiTextSupportedOnUpdate](../get_isbiditextsupportedonupdate/).
 
 ```cpp
 void Aspose::Words::Fields::FieldOptions::set_IsBidiTextSupportedOnUpdate(bool value)

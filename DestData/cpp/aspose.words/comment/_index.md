@@ -15,7 +15,6 @@ Represents a container for text of a comment.
 class Comment : public Aspose::Words::InlineStory, public Aspose::Words::INodeWithAnnotationId, public Aspose::Words::Revisions::IMoveTrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

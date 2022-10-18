@@ -15,7 +15,6 @@ Defines properties specific to a list label.
 class ListLabel : public Aspose::Words::IRunAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

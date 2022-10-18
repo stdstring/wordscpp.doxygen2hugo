@@ -15,7 +15,6 @@ Allows to specify additional options when rendering document pages or shapes to 
 class ImageSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

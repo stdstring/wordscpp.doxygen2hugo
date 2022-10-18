@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_pageset/
 ## ImageSaveOptions.set_PageSet method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PageSet](./get_pageset/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PageSet](../get_pageset/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_PageSet(const System::SharedPtr<Aspose::Words::Saving::PageSet> &value)

@@ -15,7 +15,6 @@ A collection of [RevisionGroup](./revisiongroup/) objects that represent revisio
 class RevisionGroupCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::RevisionGroup>>
 ```
 
-
 ## Methods
 
 | Method | Description |

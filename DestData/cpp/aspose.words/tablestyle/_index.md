@@ -15,7 +15,6 @@ Represents a table style.
 class TableStyle : public Aspose::Words::Style, public Aspose::Words::ICellAttrSource, public Aspose::Words::IRowAttrSource, public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

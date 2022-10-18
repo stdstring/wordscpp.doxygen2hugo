@@ -15,7 +15,6 @@ Provides data for the [DocumentPartSaving()](./idocumentpartsavingcallback/docum
 class DocumentPartSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

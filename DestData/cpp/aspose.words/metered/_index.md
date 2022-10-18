@@ -15,7 +15,6 @@ Provides methods to set metered key.
 class Metered : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

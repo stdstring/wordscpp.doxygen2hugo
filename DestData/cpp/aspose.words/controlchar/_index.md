@@ -15,7 +15,6 @@ Control characters often encountered in documents.
 class ControlChar
 ```
 
-
 ## Methods
 
 | Method | Description |

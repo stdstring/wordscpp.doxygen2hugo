@@ -15,7 +15,6 @@ Provides typed access to a collection of [Comment](./comment/) nodes.
 class CommentCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

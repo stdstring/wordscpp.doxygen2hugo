@@ -15,7 +15,6 @@ Represents all formatting for a table cell.
 class CellFormat : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

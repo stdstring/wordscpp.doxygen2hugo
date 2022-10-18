@@ -15,7 +15,6 @@ Represents a web extension object.
 class WebExtension : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

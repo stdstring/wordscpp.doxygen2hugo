@@ -15,7 +15,6 @@ Provides access to [SdtListItem](./sdtlistitem/) elements of a structured docume
 class SdtListItemCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::SdtListItem>>
 ```
 
-
 ## Methods
 
 | Method | Description |

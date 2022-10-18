@@ -15,3 +15,33 @@ Specifies the margins around pages in an HTML document. The margins value is mea
 double Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins() const
 ```
 
+
+Depends on the value of [PageHorizontalAlignment](../get_pagehorizontalalignment/) property:
+
+* Defines top, bottom and left page margins if the value is **Left**.
+* Defines top, bottom and right page margins if the value is **Right**.
+* Defines top and bottom page margins if the value is **Center**.
+
+
+
+## Examples
+
+
+
+
+Shows how to adjust page margins when saving a document to HTML. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Document.docx");
+
+auto saveOptions = MakeObject<HtmlFixedSaveOptions>();
+saveOptions->set_PageMargins(15);
+
+doc->Save(ArtifactsDir + u"HtmlFixedSaveOptions.PageMargins.html", saveOptions);
+
+String outDocContents = System::IO::File::ReadAllText(ArtifactsDir + u"HtmlFixedSaveOptions.PageMargins/styles.css");
+
+ASSERT_TRUE(System::Text::RegularExpressions::Regex::Match(
+                outDocContents, u"[.]awpage { position:relative; border:solid 1pt black; margin:15pt auto 15pt auto; overflow:hidden; }")
+                ->get_Success());
+```
+

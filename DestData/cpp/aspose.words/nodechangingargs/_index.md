@@ -15,7 +15,6 @@ Provides data for methods of the [INodeChangingCallback](./inodechangingcallback
 class NodeChangingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

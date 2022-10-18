@@ -15,7 +15,6 @@ Contains settings of the digital signature timestamp.
 class PdfDigitalSignatureTimestampSettings : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

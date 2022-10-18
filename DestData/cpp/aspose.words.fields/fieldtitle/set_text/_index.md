@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldtitle/set_text/
 ## FieldTitle.set_Text method
 
 
-Setter for [Aspose::Words::Fields::FieldTitle::get_Text](./get_text/).
+Setter for [Aspose::Words::Fields::FieldTitle::get_Text](../get_text/).
 
 ```cpp
 void Aspose::Words::Fields::FieldTitle::set_Text(const System::String &value)

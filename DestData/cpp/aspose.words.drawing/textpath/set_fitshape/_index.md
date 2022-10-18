@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textpath/set_fitshape/
 ## TextPath.set_FitShape method
 
 
-Setter for [Aspose::Words::Drawing::TextPath::get_FitShape](./get_fitshape/).
+Setter for [Aspose::Words::Drawing::TextPath::get_FitShape](../get_fitshape/).
 
 ```cpp
 void Aspose::Words::Drawing::TextPath::set_FitShape(bool value)

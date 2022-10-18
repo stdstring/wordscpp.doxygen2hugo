@@ -9,7 +9,7 @@ url: /cpp/aspose.words/cleanupoptions/set_unusedlists/
 ## CleanupOptions.set_UnusedLists method
 
 
-Setter for [Aspose::Words::CleanupOptions::get_UnusedLists](./get_unusedlists/).
+Setter for [Aspose::Words::CleanupOptions::get_UnusedLists](../get_unusedlists/).
 
 ```cpp
 void Aspose::Words::CleanupOptions::set_UnusedLists(bool value)

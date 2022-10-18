@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/set_fontname/
 ## FieldSymbol.set_FontName method
 
 
-Setter for [Aspose::Words::Fields::FieldSymbol::get_FontName](./get_fontname/).
+Setter for [Aspose::Words::Fields::FieldSymbol::get_FontName](../get_fontname/).
 
 ```cpp
 void Aspose::Words::Fields::FieldSymbol::set_FontName(const System::String &value)

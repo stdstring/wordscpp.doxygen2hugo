@@ -15,3 +15,10 @@ Provides a simple "foreach" style iteration over the collection of nodes.
 System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Node>>> Aspose::Words::NodeList::GetEnumerator() override
 ```
 
+
+### ReturnValue
+
+
+An IEnumerator.
+
+

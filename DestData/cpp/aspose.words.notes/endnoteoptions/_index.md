@@ -15,7 +15,6 @@ Represents the endnote numbering options for a document or section.
 class EndnoteOptions : public Aspose::Words::Notes::IFootnoteOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

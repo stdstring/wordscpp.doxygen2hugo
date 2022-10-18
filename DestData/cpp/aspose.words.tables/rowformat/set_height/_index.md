@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/rowformat/set_height/
 ## RowFormat.set_Height method
 
 
-Setter for [Aspose::Words::Tables::RowFormat::get_Height](./get_height/).
+Setter for [Aspose::Words::Tables::RowFormat::get_Height](../get_height/).
 
 ```cpp
 void Aspose::Words::Tables::RowFormat::set_Height(double value)

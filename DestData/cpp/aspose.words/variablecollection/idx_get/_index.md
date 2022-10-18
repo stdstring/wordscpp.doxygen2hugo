@@ -24,3 +24,9 @@ Gets or sets a document variable at the specified index. null values are not all
 System::String Aspose::Words::VariableCollection::idx_get(int32_t index)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | `-` | Zero-based index of the document variable. |
+
+

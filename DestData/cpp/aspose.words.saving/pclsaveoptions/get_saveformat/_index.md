@@ -15,3 +15,20 @@ Specifies the format in which the document will be saved if this save options ob
 Aspose::Words::SaveFormat Aspose::Words::Saving::PclSaveOptions::get_SaveFormat() override
 ```
 
+
+## Examples
+
+
+
+
+Shows how to rasterize complex elements while saving a document to PCL. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+auto saveOptions = MakeObject<PclSaveOptions>();
+saveOptions->set_SaveFormat(SaveFormat::Pcl);
+saveOptions->set_RasterizeTransformedElements(true);
+
+doc->Save(ArtifactsDir + u"PclSaveOptions.RasterizeElements.pcl", saveOptions);
+```
+

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentpartsavingcallback/
 ## HtmlSaveOptions.set_DocumentPartSavingCallback method
 
 
-Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback](./get_documentpartsavingcallback/).
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback](../get_documentpartsavingcallback/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlSaveOptions::set_DocumentPartSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IDocumentPartSavingCallback> &value)

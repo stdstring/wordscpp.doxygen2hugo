@@ -15,7 +15,6 @@ Represents a Custom XML Data Storage Part (custom XML data within a package).
 class CustomXmlPart : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,3 +15,7 @@ The key of this source in the cache.
 System::String Aspose::Words::Fonts::FileFontSource::get_CacheKey() const
 ```
 
+
+This key is used to identify cache item when saving/loading font search cache with **SaveSearchCache()** and **SetFontsSources()** methods.
+
+If key is not specified then [FilePath](../get_filepath/) will be used as a key instead. 

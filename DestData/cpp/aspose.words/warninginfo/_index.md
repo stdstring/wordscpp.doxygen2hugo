@@ -15,7 +15,6 @@ Contains information about a warning that Aspose.Words issued during document lo
 class WarningInfo : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

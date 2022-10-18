@@ -15,7 +15,6 @@ Represents an end of an editable range in a Word document.
 class EditableRangeEnd : public Aspose::Words::Node, public Aspose::Words::IDisplaceableByCustomXml, public Aspose::Words::INodeWithAnnotationId
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 class Font : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource, public Aspose::Words::Drawing::Core::IFillable
 ```
 
-
 ## Methods
 
 | Method | Description |

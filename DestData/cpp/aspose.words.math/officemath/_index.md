@@ -15,7 +15,6 @@ Represents an Office [Math](./) object such as function, equation, matrix or ali
 class OfficeMath : public Aspose::Words::CompositeNode, public Aspose::Words::IInline, public Aspose::Words::Revisions::ITrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

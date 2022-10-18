@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/set_fontstream/
 ## FontSavingArgs.set_FontStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
-Setter for [Aspose::Words::Saving::FontSavingArgs::get_FontStream](./get_fontstream/).
+Setter for [Aspose::Words::Saving::FontSavingArgs::get_FontStream](../get_fontstream/).
 
 ```cpp
 void Aspose::Words::Saving::FontSavingArgs::set_FontStream(const System::SharedPtr<System::IO::Stream> &value)

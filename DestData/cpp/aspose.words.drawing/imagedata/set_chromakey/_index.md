@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_chromakey/
 ## ImageData.set_ChromaKey method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_ChromaKey](./get_chromakey/).
+Setter for [Aspose::Words::Drawing::ImageData::get_ChromaKey](../get_chromakey/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_ChromaKey(System::Drawing::Color value)

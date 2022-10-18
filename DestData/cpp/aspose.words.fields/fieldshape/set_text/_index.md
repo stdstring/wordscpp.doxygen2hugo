@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldshape/set_text/
 ## FieldShape.set_Text method
 
 
-Setter for [Aspose::Words::Fields::FieldShape::get_Text](./get_text/).
+Setter for [Aspose::Words::Fields::FieldShape::get_Text](../get_text/).
 
 ```cpp
 void Aspose::Words::Fields::FieldShape::set_Text(const System::String &value)

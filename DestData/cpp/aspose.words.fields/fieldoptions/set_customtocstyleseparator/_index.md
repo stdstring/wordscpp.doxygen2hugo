@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldoptions/set_customtocstyleseparator/
 ## FieldOptions.set_CustomTocStyleSeparator method
 
 
-Setter for [Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator](./get_customtocstyleseparator/).
+Setter for [Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator](../get_customtocstyleseparator/).
 
 ```cpp
 void Aspose::Words::Fields::FieldOptions::set_CustomTocStyleSeparator(const System::String &value)

@@ -15,7 +15,6 @@ Provides access to the data of an OLE object or ActiveX control.
 class OleFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

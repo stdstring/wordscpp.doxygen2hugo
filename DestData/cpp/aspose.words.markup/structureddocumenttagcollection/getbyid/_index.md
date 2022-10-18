@@ -15,3 +15,11 @@ Returns the structured document tag by identifier.
 System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::Markup::StructuredDocumentTagCollection::GetById(int32_t id)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| id | `-` | The structured document tag identifier. |
+
+Returns null if the structured document tag with the specified identifier cannot be found.
+
+

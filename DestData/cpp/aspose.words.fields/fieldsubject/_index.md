@@ -15,7 +15,6 @@ Implements the SUBJECT field.
 class FieldSubject : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

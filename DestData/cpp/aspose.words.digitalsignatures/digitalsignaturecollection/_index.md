@@ -15,7 +15,6 @@ Provides a read-only collection of digital signatures attached to a document.
 class DigitalSignatureCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignature>>
 ```
 
-
 ## Methods
 
 | Method | Description |

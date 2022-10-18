@@ -15,7 +15,6 @@ Represents an end of **ranged** structured document tag which accepts multi-sect
 class StructuredDocumentTagRangeEnd : public Aspose::Words::Node
 ```
 
-
 ## Methods
 
 | Method | Description |

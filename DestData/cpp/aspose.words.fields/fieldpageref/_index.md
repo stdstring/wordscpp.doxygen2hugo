@@ -15,7 +15,6 @@ Implements the PAGEREF field.
 class FieldPageRef : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

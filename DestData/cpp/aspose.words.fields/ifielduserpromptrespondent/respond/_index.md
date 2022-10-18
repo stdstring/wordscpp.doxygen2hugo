@@ -15,3 +15,15 @@ When implemented, returns a response from the user on prompting. Your implementa
 virtual System::String Aspose::Words::Fields::IFieldUserPromptRespondent::Respond(System::String promptText, System::String defaultResponse)=0
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| promptText | `-` | Prompt text (i.e. title of the prompt window). |
+| defaultResponse | `-` | Default user response (i.e. initial value contained in the prompt window). |
+
+### ReturnValue
+
+
+User response (i.e. confirmed value contained in the prompt window).
+
+

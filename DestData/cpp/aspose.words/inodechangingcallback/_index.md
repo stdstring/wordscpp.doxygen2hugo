@@ -15,7 +15,6 @@ Implement this interface if you want to receive notifications when nodes are ins
 class INodeChangingCallback : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

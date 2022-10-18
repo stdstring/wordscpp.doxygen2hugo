@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_zoomfactor/
 ## PdfSaveOptions.set_ZoomFactor method
 
 
-Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ZoomFactor](./get_zoomfactor/).
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ZoomFactor](../get_zoomfactor/).
 
 ```cpp
 void Aspose::Words::Saving::PdfSaveOptions::set_ZoomFactor(int32_t value)

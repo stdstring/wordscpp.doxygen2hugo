@@ -15,7 +15,6 @@ Allows to specify options for document signing.
 class SignOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

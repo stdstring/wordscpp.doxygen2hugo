@@ -15,7 +15,6 @@ Represents information about a single record within an external data source that
 class OdsoRecipientData : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

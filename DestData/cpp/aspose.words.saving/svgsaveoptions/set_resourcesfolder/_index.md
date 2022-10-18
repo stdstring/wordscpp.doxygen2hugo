@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/set_resourcesfolder/
 ## SvgSaveOptions.set_ResourcesFolder method
 
 
-Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder](./get_resourcesfolder/).
+Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder](../get_resourcesfolder/).
 
 ```cpp
 void Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder(const System::String &value)

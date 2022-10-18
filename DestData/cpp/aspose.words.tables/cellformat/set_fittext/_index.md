@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/cellformat/set_fittext/
 ## CellFormat.set_FitText method
 
 
-Setter for [Aspose::Words::Tables::CellFormat::get_FitText](./get_fittext/).
+Setter for [Aspose::Words::Tables::CellFormat::get_FitText](../get_fittext/).
 
 ```cpp
 void Aspose::Words::Tables::CellFormat::set_FitText(bool value)

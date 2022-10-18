@@ -9,7 +9,7 @@ url: /cpp/aspose.words.lists/listlevel/set_textposition/
 ## ListLevel.set_TextPosition method
 
 
-Setter for [Aspose::Words::Lists::ListLevel::get_TextPosition](./get_textposition/).
+Setter for [Aspose::Words::Lists::ListLevel::get_TextPosition](../get_textposition/).
 
 ```cpp
 void Aspose::Words::Lists::ListLevel::set_TextPosition(double value)

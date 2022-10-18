@@ -15,3 +15,5 @@ Called during saving a document and accepts data about saving progress.
 System::SharedPtr<Aspose::Words::Saving::IDocumentSavingCallback> Aspose::Words::Saving::SaveOptions::get_ProgressCallback() const
 ```
 
+
+Progress is reported when saving to **Docx**, **FlatOpc**, **Docm**, **Dotm**, **Dotx**, **Html**, **Mhtml**, **Epub**, **XamlFlow**, or **XamlFlowPack**. 

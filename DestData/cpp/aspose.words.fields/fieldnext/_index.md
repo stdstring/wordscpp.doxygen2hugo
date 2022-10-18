@@ -15,7 +15,6 @@ Implements the NEXT field.
 class FieldNext : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

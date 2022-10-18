@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_showrevisionbars/
 ## RevisionOptions.set_ShowRevisionBars method
 
 
-Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars](./get_showrevisionbars/).
+Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars](../get_showrevisionbars/).
 
 ```cpp
 void Aspose::Words::Layout::RevisionOptions::set_ShowRevisionBars(bool value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldautonum/set_separatorcharacter/
 ## FieldAutoNum.set_SeparatorCharacter method
 
 
-Setter for [Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter](./get_separatorcharacter/).
+Setter for [Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter](../get_separatorcharacter/).
 
 ```cpp
 void Aspose::Words::Fields::FieldAutoNum::set_SeparatorCharacter(const System::String &value)

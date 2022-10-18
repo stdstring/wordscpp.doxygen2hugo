@@ -15,7 +15,6 @@ Provides data for the [CssSaving()](./icsssavingcallback/csssaving/) event.
 class CssSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

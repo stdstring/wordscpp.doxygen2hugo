@@ -15,3 +15,9 @@ Adds an object to the end of this collection.
 int32_t Aspose::Words::Settings::OdsoFieldMapDataCollection::Add(const System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData> &value)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | `-` | The object to add. Cannot be null. |
+
+

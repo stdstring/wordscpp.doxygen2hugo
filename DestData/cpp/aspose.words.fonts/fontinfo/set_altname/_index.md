@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontinfo/set_altname/
 ## FontInfo.set_AltName method
 
 
-Setter for [Aspose::Words::Fonts::FontInfo::get_AltName](./get_altname/).
+Setter for [Aspose::Words::Fonts::FontInfo::get_AltName](../get_altname/).
 
 ```cpp
 void Aspose::Words::Fonts::FontInfo::set_AltName(const System::String &value)

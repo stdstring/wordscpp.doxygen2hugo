@@ -15,7 +15,6 @@ Represents all formatting for a table row.
 class RowFormat : public Aspose::Words::IBorderAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

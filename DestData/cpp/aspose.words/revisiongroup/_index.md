@@ -15,7 +15,6 @@ Represents a group of sequential [Revision](./revision/) objects.
 class RevisionGroup : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

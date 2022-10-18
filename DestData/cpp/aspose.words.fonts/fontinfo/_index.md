@@ -15,7 +15,6 @@ Specifies information about a font used in the document.
 class FontInfo : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

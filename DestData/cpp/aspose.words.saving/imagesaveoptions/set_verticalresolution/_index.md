@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_verticalresolution/
 ## ImageSaveOptions.set_VerticalResolution method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution](./get_verticalresolution/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution](../get_verticalresolution/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_VerticalResolution(float value)

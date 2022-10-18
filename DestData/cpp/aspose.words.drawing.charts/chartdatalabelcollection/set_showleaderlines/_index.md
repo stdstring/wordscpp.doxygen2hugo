@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showleaderlin
 ## ChartDataLabelCollection.set_ShowLeaderLines method
 
 
-Setter for [Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowLeaderLines](./get_showleaderlines/).
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowLeaderLines](../get_showleaderlines/).
 
 ```cpp
 void Aspose::Words::Drawing::Charts::ChartDataLabelCollection::set_ShowLeaderLines(bool value)

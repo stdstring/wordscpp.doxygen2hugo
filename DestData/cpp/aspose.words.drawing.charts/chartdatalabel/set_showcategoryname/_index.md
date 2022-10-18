@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showcategoryname/
 ## ChartDataLabel.set_ShowCategoryName method
 
 
-Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowCategoryName](./get_showcategoryname/).
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowCategoryName](../get_showcategoryname/).
 
 ```cpp
 void Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowCategoryName(bool value)

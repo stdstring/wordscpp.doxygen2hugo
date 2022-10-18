@@ -15,6 +15,18 @@ Calculates the page size in pixels for a specified zoom factor and resolution.
 System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels(float scale, float dpi)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scale | `-` | The zoom factor (1.0 is 100%). |
+| dpi | `-` | The resolution (horizontal and vertical) to convert from points to pixels (dots per inch). |
+
+### ReturnValue
+
+
+The size of the page in pixels.
+
+
 ## PageInfo.GetSizeInPixels(float, float, float) method
 
 
@@ -23,4 +35,17 @@ Calculates the page size in pixels for a specified zoom factor and resolution.
 ```cpp
 System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels(float scale, float horizontalDpi, float verticalDpi)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scale | `-` | The zoom factor (1.0 is 100%). |
+| horizontalDpi | `-` | The horizontal resolution to convert from points to pixels (dots per inch). |
+| verticalDpi | `-` | The vertical resolution to convert from points to pixels (dots per inch). |
+
+### ReturnValue
+
+
+The size of the page in pixels.
+
 

@@ -15,7 +15,6 @@ Specifies a list of persisted task pane objects.
 class TaskPaneCollection : public Aspose::Words::WebExtensions::BaseWebExtensionCollection<System::SharedPtr<Aspose::Words::WebExtensions::TaskPane>>
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/textcolumn/set_width/
 ## TextColumn.set_Width method
 
 
-Setter for [Aspose::Words::TextColumn::get_Width](./get_width/).
+Setter for [Aspose::Words::TextColumn::get_Width](../get_width/).
 
 ```cpp
 void Aspose::Words::TextColumn::set_Width(double value)

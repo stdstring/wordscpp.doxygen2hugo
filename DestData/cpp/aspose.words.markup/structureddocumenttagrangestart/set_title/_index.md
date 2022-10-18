@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_title/
 ## StructuredDocumentTagRangeStart.set_Title method
 
 
-Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title](./get_title/).
+Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title](../get_title/).
 
 ```cpp
 void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Title(System::String value) override

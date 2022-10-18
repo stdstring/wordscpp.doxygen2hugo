@@ -15,7 +15,6 @@ Base class for inline-level nodes that can contain paragraphs and tables.
 class InlineStory : public Aspose::Words::CompositeNode, public Aspose::Words::IInline
 ```
 
-
 ## Methods
 
 | Method | Description |

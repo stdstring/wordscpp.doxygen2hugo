@@ -15,7 +15,6 @@ Provides access to the chart title properties.
 class ChartTitle : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource, public Aspose::Words::IRunAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

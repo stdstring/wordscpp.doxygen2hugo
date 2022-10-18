@@ -15,7 +15,6 @@ Represents a collection of instances of the [Frameset](./frameset/) class.
 class FramesetCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Framesets::Frameset>>
 ```
 
-
 ## Methods
 
 | Method | Description |

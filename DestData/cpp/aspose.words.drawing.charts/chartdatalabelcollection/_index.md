@@ -15,7 +15,6 @@ Represents a collection of [ChartDataLabel](./chartdatalabel/).
 class ChartDataLabelCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataLabel>>, public Aspose::Words::Drawing::Charts::Core::INumberFormatProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

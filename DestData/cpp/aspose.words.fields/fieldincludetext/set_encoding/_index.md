@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_encoding/
 ## FieldIncludeText.set_Encoding method
 
 
-Setter for [Aspose::Words::Fields::FieldIncludeText::get_Encoding](./get_encoding/).
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_Encoding](../get_encoding/).
 
 ```cpp
 void Aspose::Words::Fields::FieldIncludeText::set_Encoding(const System::String &value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/pagesetup/set_bordersurroundsfooter/
 ## PageSetup.set_BorderSurroundsFooter method
 
 
-Setter for [Aspose::Words::PageSetup::get_BorderSurroundsFooter](./get_bordersurroundsfooter/).
+Setter for [Aspose::Words::PageSetup::get_BorderSurroundsFooter](../get_bordersurroundsfooter/).
 
 ```cpp
 void Aspose::Words::PageSetup::set_BorderSurroundsFooter(bool value)

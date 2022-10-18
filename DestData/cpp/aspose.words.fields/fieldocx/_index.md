@@ -15,7 +15,6 @@ Implements the OCX field.
 class FieldOcx : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

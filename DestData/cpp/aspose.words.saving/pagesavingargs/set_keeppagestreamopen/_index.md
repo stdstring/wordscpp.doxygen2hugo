@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/set_keeppagestreamopen/
 ## PageSavingArgs.set_KeepPageStreamOpen method
 
 
-Setter for [Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen](./get_keeppagestreamopen/).
+Setter for [Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen](../get_keeppagestreamopen/).
 
 ```cpp
 void Aspose::Words::Saving::PageSavingArgs::set_KeepPageStreamOpen(bool value)

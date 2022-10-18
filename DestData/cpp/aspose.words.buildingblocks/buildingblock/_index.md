@@ -15,7 +15,6 @@ Represents a glossary document entry such as a Building Block, AutoText or an Au
 class BuildingBlock : public Aspose::Words::CompositeNode
 ```
 
-
 ## Methods
 
 | Method | Description |

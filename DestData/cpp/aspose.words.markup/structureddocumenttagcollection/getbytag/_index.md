@@ -15,3 +15,11 @@ Returns the first structured document tag encountered in the collection with the
 System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTag(const System::String &tag)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tag | `-` | The tag of the structured document tag. |
+
+Returns null if the structured document tag with the specified tag cannot be found.
+
+

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_tempfolder/
 ## LoadOptions.set_TempFolder method
 
 
-Setter for [Aspose::Words::Loading::LoadOptions::get_TempFolder](./get_tempfolder/).
+Setter for [Aspose::Words::Loading::LoadOptions::get_TempFolder](../get_tempfolder/).
 
 ```cpp
 void Aspose::Words::Loading::LoadOptions::set_TempFolder(const System::String &value)

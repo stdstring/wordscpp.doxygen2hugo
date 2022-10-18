@@ -15,7 +15,6 @@ Implements the DATA field.
 class FieldData : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

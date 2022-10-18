@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/outlineoptions/set_createoutlinesforheadingsintabl
 ## OutlineOptions.set_CreateOutlinesForHeadingsInTables method
 
 
-Setter for [Aspose::Words::Saving::OutlineOptions::get_CreateOutlinesForHeadingsInTables](./get_createoutlinesforheadingsintables/).
+Setter for [Aspose::Words::Saving::OutlineOptions::get_CreateOutlinesForHeadingsInTables](../get_createoutlinesforheadingsintables/).
 
 ```cpp
 void Aspose::Words::Saving::OutlineOptions::set_CreateOutlinesForHeadingsInTables(bool value)

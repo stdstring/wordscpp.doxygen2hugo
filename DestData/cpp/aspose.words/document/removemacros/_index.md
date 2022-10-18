@@ -15,3 +15,25 @@ Removes all macros (the VBA project) as well as toolbars and command customizati
 void Aspose::Words::Document::RemoveMacros()
 ```
 
+
+By removing all macros from a document you can ensure the document contains no macro viruses.
+
+## Examples
+
+
+
+
+Shows how to remove all macros from a document. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Macro.docm");
+
+ASSERT_TRUE(doc->get_HasMacros());
+ASSERT_EQ(u"Project", doc->get_VbaProject()->get_Name());
+
+// Remove the document's VBA project, along with all its macros.
+doc->RemoveMacros();
+
+ASSERT_FALSE(doc->get_HasMacros());
+ASSERT_TRUE(doc->get_VbaProject() == nullptr);
+```
+

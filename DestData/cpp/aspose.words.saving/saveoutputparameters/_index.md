@@ -15,7 +15,6 @@ This object is returned to the caller after a document is saved and contains add
 class SaveOutputParameters : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

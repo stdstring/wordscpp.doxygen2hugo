@@ -15,7 +15,6 @@ Specifies the information that is used to establish a mapping between the parent
 class XmlMapping : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

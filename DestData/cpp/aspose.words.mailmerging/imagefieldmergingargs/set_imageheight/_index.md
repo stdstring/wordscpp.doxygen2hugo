@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imageheight/
 ## ImageFieldMergingArgs.set_ImageHeight method
 
 
-Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight](./get_imageheight/).
+Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight](../get_imageheight/).
 
 ```cpp
 void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageHeight(const System::SharedPtr<Aspose::Words::Fields::MergeFieldImageDimension> &value)

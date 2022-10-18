@@ -15,7 +15,6 @@ Implements the NUMPAGES field.
 class FieldNumPages : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

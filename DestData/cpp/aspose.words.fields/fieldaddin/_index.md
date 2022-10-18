@@ -15,7 +15,6 @@ Implements the ADDIN field.
 class FieldAddIn : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

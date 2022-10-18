@@ -15,7 +15,6 @@ Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE
 class ShapeBase : public Aspose::Words::CompositeNode, public Aspose::Words::IInline, public Aspose::Words::Drawing::Core::IShape, public Aspose::Words::IShapeAttrSource, public Aspose::Words::Revisions::ITrackableNode, public Aspose::Words::Drawing::Core::IFillable
 ```
 
-
 ## Methods
 
 | Method | Description |

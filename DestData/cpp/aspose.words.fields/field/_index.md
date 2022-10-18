@@ -15,7 +15,6 @@ Represents a Microsoft Word document field.
 class Field : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

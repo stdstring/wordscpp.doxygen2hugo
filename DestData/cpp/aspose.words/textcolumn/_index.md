@@ -15,7 +15,6 @@ Represents a single text column. **TextColumn** is a member of the [TextColumnCo
 class TextColumn : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

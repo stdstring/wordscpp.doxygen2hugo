@@ -15,7 +15,6 @@ url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/
 class FontConfigSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule
 ```
 
-
 ## Methods
 
 | Method | Description |

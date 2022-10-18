@@ -15,7 +15,6 @@ Represents a collection of nodes matching an XPath query executed using the **Se
 class NodeList : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>
 ```
 
-
 ## Methods
 
 | Method | Description |

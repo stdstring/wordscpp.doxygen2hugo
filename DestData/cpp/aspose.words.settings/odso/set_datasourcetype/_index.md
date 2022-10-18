@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/odso/set_datasourcetype/
 ## Odso.set_DataSourceType method
 
 
-Setter for [Aspose::Words::Settings::Odso::get_DataSourceType](./get_datasourcetype/).
+Setter for [Aspose::Words::Settings::Odso::get_DataSourceType](../get_datasourcetype/).
 
 ```cpp
 void Aspose::Words::Settings::Odso::set_DataSourceType(Aspose::Words::Settings::OdsoDataSourceType value)

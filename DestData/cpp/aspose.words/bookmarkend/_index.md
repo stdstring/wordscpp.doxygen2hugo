@@ -15,7 +15,6 @@ Represents an end of a bookmark in a Word document.
 class BookmarkEnd : public Aspose::Words::Node, public Aspose::Words::IBookmarkNode, public Aspose::Words::IDisplaceableByCustomXml
 ```
 
-
 ## Methods
 
 | Method | Description |

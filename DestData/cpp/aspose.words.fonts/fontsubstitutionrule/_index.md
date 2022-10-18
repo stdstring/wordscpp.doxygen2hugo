@@ -15,7 +15,6 @@ This is an abstract base class for the font substitution rule.
 class FontSubstitutionRule : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

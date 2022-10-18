@@ -9,7 +9,7 @@ url: /cpp/aspose.words.notes/footnote/set_isauto/
 ## Footnote.set_IsAuto method
 
 
-Setter for [Aspose::Words::Notes::Footnote::get_IsAuto](./get_isauto/).
+Setter for [Aspose::Words::Notes::Footnote::get_IsAuto](../get_isauto/).
 
 ```cpp
 void Aspose::Words::Notes::Footnote::set_IsAuto(bool value)

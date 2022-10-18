@@ -15,7 +15,6 @@ A collection of [TextColumn](./textcolumn/) objects that represent all the colum
 class TextColumnCollection : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

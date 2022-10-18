@@ -15,7 +15,6 @@ Represents a group of shapes in a document.
 class GroupShape : public Aspose::Words::Drawing::ShapeBase
 ```
 
-
 ## Methods
 
 | Method | Description |

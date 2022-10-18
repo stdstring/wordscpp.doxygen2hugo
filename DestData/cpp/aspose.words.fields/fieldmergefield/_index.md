@@ -15,7 +15,6 @@ Implements the MERGEFIELD field.
 class FieldMergeField : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

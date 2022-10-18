@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/userinformation/set_address/
 ## UserInformation.set_Address method
 
 
-Setter for [Aspose::Words::Fields::UserInformation::get_Address](./get_address/).
+Setter for [Aspose::Words::Fields::UserInformation::get_Address](../get_address/).
 
 ```cpp
 void Aspose::Words::Fields::UserInformation::set_Address(const System::String &value)

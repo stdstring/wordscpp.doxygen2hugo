@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_exportheadersfootersmode/
 ## TxtSaveOptionsBase.set_ExportHeadersFootersMode method
 
 
-Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode](./get_exportheadersfootersmode/).
+Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode](../get_exportheadersfootersmode/).
 
 ```cpp
 void Aspose::Words::Saving::TxtSaveOptionsBase::set_ExportHeadersFootersMode(Aspose::Words::Saving::TxtExportHeadersFootersMode value)

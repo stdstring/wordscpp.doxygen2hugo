@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_bookmarkname/
 ## FieldIndex.set_BookmarkName method
 
 
-Setter for [Aspose::Words::Fields::FieldIndex::get_BookmarkName](./get_bookmarkname/).
+Setter for [Aspose::Words::Fields::FieldIndex::get_BookmarkName](../get_bookmarkname/).
 
 ```cpp
 void Aspose::Words::Fields::FieldIndex::set_BookmarkName(const System::String &value)

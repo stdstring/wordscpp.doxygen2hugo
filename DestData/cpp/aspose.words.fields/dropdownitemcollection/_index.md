@@ -15,7 +15,6 @@ A collection of strings that represent all the items in a drop-down form field.
 class DropDownItemCollection : public System::Collections::Generic::IEnumerable<System::String>, public Aspose::Words::IComplexAttr
 ```
 
-
 ## Methods
 
 | Method | Description |

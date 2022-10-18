@@ -15,7 +15,6 @@ Implements the USERNAME field.
 class FieldUserName : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

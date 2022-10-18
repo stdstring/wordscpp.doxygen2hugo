@@ -15,7 +15,6 @@ Defines attributes that specify how a text is displayed inside a shape.
 class TextBox : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

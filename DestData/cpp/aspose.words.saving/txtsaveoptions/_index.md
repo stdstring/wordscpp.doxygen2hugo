@@ -15,7 +15,6 @@ Can be used to specify additional options when saving a document into the **Text
 class TxtSaveOptions : public Aspose::Words::Saving::TxtSaveOptionsBase
 ```
 
-
 ## Methods
 
 | Method | Description |

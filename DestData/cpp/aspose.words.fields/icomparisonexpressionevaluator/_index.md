@@ -15,7 +15,6 @@ When implemented, allows to override default comparison expressions evaluation f
 class IComparisonExpressionEvaluator : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

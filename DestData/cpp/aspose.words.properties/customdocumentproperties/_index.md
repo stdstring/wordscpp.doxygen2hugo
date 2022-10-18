@@ -15,7 +15,6 @@ A collection of custom document properties.
 class CustomDocumentProperties : public Aspose::Words::Properties::DocumentPropertyCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

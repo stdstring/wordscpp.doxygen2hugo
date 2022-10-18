@@ -15,7 +15,6 @@ Allows to specify additional options when loading Pdf document into a [Document]
 class PdfLoadOptions : public Aspose::Words::Loading::LoadOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

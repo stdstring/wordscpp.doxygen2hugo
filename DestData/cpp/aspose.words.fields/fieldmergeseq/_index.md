@@ -15,7 +15,6 @@ Implements the MERGESEQ field.
 class FieldMergeSeq : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

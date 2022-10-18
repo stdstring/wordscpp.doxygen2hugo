@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/set_vbaproject/
 ## Document.set_VbaProject method
 
 
-Setter for [Aspose::Words::Document::get_VbaProject](./get_vbaproject/).
+Setter for [Aspose::Words::Document::get_VbaProject](../get_vbaproject/).
 
 ```cpp
 void Aspose::Words::Document::set_VbaProject(const System::SharedPtr<Aspose::Words::Vba::VbaProject> &value)

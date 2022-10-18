@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/get_document/
 ## AxisDisplayUnit.get_Document method
 
 
-Returns the [Document](../../aspose.words/document/) the title holder belongs.
+Returns the [Document](../../../aspose.words/document/) the title holder belongs.
 
 ```cpp
 System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_Document() override

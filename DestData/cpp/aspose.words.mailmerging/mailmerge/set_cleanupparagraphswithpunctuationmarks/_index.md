@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/set_cleanupparagraphswithpunctuatio
 ## MailMerge.set_CleanupParagraphsWithPunctuationMarks method
 
 
-Setter for [Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks](./get_cleanupparagraphswithpunctuationmarks/).
+Setter for [Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks](../get_cleanupparagraphswithpunctuationmarks/).
 
 ```cpp
 void Aspose::Words::MailMerging::MailMerge::set_CleanupParagraphsWithPunctuationMarks(bool value)

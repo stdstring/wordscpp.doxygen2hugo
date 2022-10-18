@@ -9,7 +9,7 @@ url: /cpp/aspose.words/editablerange/set_singleuser/
 ## EditableRange.set_SingleUser method
 
 
-Setter for [Aspose::Words::EditableRange::get_SingleUser](./get_singleuser/).
+Setter for [Aspose::Words::EditableRange::get_SingleUser](../get_singleuser/).
 
 ```cpp
 void Aspose::Words::EditableRange::set_SingleUser(const System::String &value)

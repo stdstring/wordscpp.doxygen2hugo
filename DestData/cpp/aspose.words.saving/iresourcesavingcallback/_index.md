@@ -15,7 +15,6 @@ Implement this interface if you want to control how Aspose.Words saves external 
 class IResourceSavingCallback : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

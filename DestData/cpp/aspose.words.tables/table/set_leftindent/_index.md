@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_leftindent/
 ## Table.set_LeftIndent method
 
 
-Setter for [Aspose::Words::Tables::Table::get_LeftIndent](./get_leftindent/).
+Setter for [Aspose::Words::Tables::Table::get_LeftIndent](../get_leftindent/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_LeftIndent(double value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_isshowingplaceholdertext
 ## StructuredDocumentTag.set_IsShowingPlaceholderText method
 
 
-Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_IsShowingPlaceholderText](./get_isshowingplaceholdertext/).
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_IsShowingPlaceholderText](../get_isshowingplaceholdertext/).
 
 ```cpp
 void Aspose::Words::Markup::StructuredDocumentTag::set_IsShowingPlaceholderText(bool value) override

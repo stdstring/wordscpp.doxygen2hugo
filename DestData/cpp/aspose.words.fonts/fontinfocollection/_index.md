@@ -15,7 +15,6 @@ Represents a collection of fonts used in a document.
 class FontInfoCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Fonts::FontInfo>>
 ```
 
-
 ## Methods
 
 | Method | Description |

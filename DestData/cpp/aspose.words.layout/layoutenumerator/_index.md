@@ -15,7 +15,6 @@ Enumerates page layout entities of a document. You can use this class to walk ov
 class LayoutEnumerator : public System::Object, public System::Details::EnumeratorBasedIterator<System::SharedPtr<System::Object>>, private System::Details::IteratorPointerUpdater<System::SharedPtr<System::Object>, false>
 ```
 
-
 ## Methods
 
 | Method | Description |

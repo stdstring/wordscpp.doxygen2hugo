@@ -9,7 +9,7 @@ url: /cpp/aspose.words/paragraphformat/set_rightindent/
 ## ParagraphFormat.set_RightIndent method
 
 
-Setter for [Aspose::Words::ParagraphFormat::get_RightIndent](./get_rightindent/).
+Setter for [Aspose::Words::ParagraphFormat::get_RightIndent](../get_rightindent/).
 
 ```cpp
 void Aspose::Words::ParagraphFormat::set_RightIndent(double value)

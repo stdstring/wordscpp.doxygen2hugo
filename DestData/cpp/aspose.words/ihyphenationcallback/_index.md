@@ -15,7 +15,6 @@ Implemented by classes which can register hyphenation dictionaries.
 class IHyphenationCallback : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/oleformat/set_sourcefullname/
 ## OleFormat.set_SourceFullName method
 
 
-Setter for [Aspose::Words::Drawing::OleFormat::get_SourceFullName](./get_sourcefullname/).
+Setter for [Aspose::Words::Drawing::OleFormat::get_SourceFullName](../get_sourcefullname/).
 
 ```cpp
 void Aspose::Words::Drawing::OleFormat::set_SourceFullName(const System::String &value)

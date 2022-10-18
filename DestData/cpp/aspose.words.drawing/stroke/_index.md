@@ -15,7 +15,6 @@ Defines a stroke for a shape.
 class Stroke : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

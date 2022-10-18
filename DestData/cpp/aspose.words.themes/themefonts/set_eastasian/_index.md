@@ -9,7 +9,7 @@ url: /cpp/aspose.words.themes/themefonts/set_eastasian/
 ## ThemeFonts.set_EastAsian method
 
 
-Setter for [Aspose::Words::Themes::ThemeFonts::get_EastAsian](./get_eastasian/).
+Setter for [Aspose::Words::Themes::ThemeFonts::get_EastAsian](../get_eastasian/).
 
 ```cpp
 void Aspose::Words::Themes::ThemeFonts::set_EastAsian(const System::String &value)

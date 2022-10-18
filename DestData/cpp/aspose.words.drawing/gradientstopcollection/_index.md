@@ -15,7 +15,6 @@ Contains a collection of [GradientStop](./gradientstop/) objects.
 class GradientStopCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::GradientStop>>
 ```
 
-
 ## Methods
 
 | Method | Description |

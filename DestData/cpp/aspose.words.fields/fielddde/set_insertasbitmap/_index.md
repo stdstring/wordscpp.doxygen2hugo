@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddde/set_insertasbitmap/
 ## FieldDde.set_InsertAsBitmap method
 
 
-Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsBitmap](./get_insertasbitmap/).
+Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsBitmap](../get_insertasbitmap/).
 
 ```cpp
 void Aspose::Words::Fields::FieldDde::set_InsertAsBitmap(bool value)

@@ -15,7 +15,6 @@ Provides typed access to a collection of [Table](./table/) nodes.
 class TableCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

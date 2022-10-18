@@ -9,7 +9,7 @@ url: /cpp/aspose.words/border/set_color/
 ## Border.set_Color method
 
 
-Setter for [Aspose::Words::Border::get_Color](./get_color/).
+Setter for [Aspose::Words::Border::get_Color](../get_color/).
 
 ```cpp
 void Aspose::Words::Border::set_Color(System::Drawing::Color value)

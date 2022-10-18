@@ -15,7 +15,6 @@ Provides methods to license the component.
 class License : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

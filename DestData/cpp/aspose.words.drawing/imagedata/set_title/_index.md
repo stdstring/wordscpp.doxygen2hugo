@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_title/
 ## ImageData.set_Title method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_Title](./get_title/).
+Setter for [Aspose::Words::Drawing::ImageData::get_Title](../get_title/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_Title(const System::String &value)

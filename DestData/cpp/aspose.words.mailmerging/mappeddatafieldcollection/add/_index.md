@@ -15,3 +15,10 @@ Adds a new field mapping.
 void Aspose::Words::MailMerging::MappedDataFieldCollection::Add(const System::String &documentFieldName, const System::String &dataSourceFieldName)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documentFieldName | `-` | Case-sensitive name of the mail merge field in the document. |
+| dataSourceFieldName | `-` | Case-sensitive name of the field in the data source. |
+
+

@@ -15,7 +15,6 @@ Allows to specify various import options to format output.
 class ImportFormatOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

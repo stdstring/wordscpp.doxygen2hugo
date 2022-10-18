@@ -15,7 +15,6 @@ Represents horizontal rule formatting.
 class HorizontalRuleFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

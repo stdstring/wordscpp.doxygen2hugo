@@ -15,3 +15,9 @@ Initializes a new instance of this class.
 Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer(const System::SharedPtr<Aspose::Words::Drawing::ShapeBase> &shape)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| shape | `-` | The DrawinML shape object that you want to render. |
+
+

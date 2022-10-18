@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_smallcaps/
 ## Font.set_SmallCaps method
 
 
-Setter for [Aspose::Words::Font::get_SmallCaps](./get_smallcaps/).
+Setter for [Aspose::Words::Font::get_SmallCaps](../get_smallcaps/).
 
 ```cpp
 void Aspose::Words::Font::set_SmallCaps(bool value)

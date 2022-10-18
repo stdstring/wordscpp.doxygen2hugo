@@ -15,7 +15,6 @@ Defines the text and formatting of the text path (of a WordArt object).
 class TextPath : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

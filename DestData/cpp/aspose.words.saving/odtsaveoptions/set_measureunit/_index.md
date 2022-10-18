@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/odtsaveoptions/set_measureunit/
 ## OdtSaveOptions.set_MeasureUnit method
 
 
-Setter for [Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit](./get_measureunit/).
+Setter for [Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit](../get_measureunit/).
 
 ```cpp
 void Aspose::Words::Saving::OdtSaveOptions::set_MeasureUnit(Aspose::Words::Saving::OdtSaveMeasureUnit value)

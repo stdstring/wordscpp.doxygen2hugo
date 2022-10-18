@@ -15,7 +15,6 @@ Represents a single editable range.
 class EditableRange : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Implements the EQ field.
 class FieldEQ : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Provides data for the [FontSaving()](./ifontsavingcallback/fontsaving/) event.
 class FontSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

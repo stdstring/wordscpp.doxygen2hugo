@@ -15,7 +15,6 @@ Represents one gradient stop.
 class GradientStop : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

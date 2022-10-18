@@ -15,3 +15,5 @@ Called during loading a document and accepts data about loading progress.
 System::SharedPtr<Aspose::Words::Loading::IDocumentLoadingCallback> Aspose::Words::Loading::LoadOptions::get_ProgressCallback() const
 ```
 
+
+**Docx**, **FlatOpc**, **Docm**, **Dotm**, **Dotx**, **Markdown**, **Rtf**, **WordML**, **Doc**, **Dot**, **Odt**, **Ott** formats supported. 

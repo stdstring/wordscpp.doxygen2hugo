@@ -15,7 +15,6 @@ Implements the GLOSSARY field.
 class FieldGlossary : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldAutoTextCode
 ```
 
-
 ## Methods
 
 | Method | Description |

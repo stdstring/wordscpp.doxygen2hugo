@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_highlightcolor/
 ## Font.set_HighlightColor method
 
 
-Setter for [Aspose::Words::Font::get_HighlightColor](./get_highlightcolor/).
+Setter for [Aspose::Words::Font::get_HighlightColor](../get_highlightcolor/).
 
 ```cpp
 void Aspose::Words::Font::set_HighlightColor(System::Drawing::Color value)

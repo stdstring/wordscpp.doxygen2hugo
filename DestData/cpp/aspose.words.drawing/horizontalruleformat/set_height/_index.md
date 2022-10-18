@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/set_height/
 ## HorizontalRuleFormat.set_Height method
 
 
-Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Height](./get_height/).
+Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Height](../get_height/).
 
 ```cpp
 void Aspose::Words::Drawing::HorizontalRuleFormat::set_Height(double value)

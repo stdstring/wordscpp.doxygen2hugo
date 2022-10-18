@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_appearance/
 ## StructuredDocumentTag.set_Appearance method
 
 
-Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Appearance](./get_appearance/).
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Appearance](../get_appearance/).
 
 ```cpp
 void Aspose::Words::Markup::StructuredDocumentTag::set_Appearance(Aspose::Words::Markup::SdtAppearance value)

@@ -15,7 +15,6 @@ Represents a run of characters with the same font formatting.
 class Run : public Aspose::Words::Inline
 ```
 
-
 ## Methods
 
 | Method | Description |

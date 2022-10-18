@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddate/set_uselastformat/
 ## FieldDate.set_UseLastFormat method
 
 
-Setter for [Aspose::Words::Fields::FieldDate::get_UseLastFormat](./get_uselastformat/).
+Setter for [Aspose::Words::Fields::FieldDate::get_UseLastFormat](../get_uselastformat/).
 
 ```cpp
 void Aspose::Words::Fields::FieldDate::set_UseLastFormat(bool value)

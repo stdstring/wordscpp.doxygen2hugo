@@ -15,7 +15,6 @@ Implements the DOCPROPERTY field.
 class FieldDocProperty : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Class to specify additional options when saving a document into the **Markdown**
 class MarkdownSaveOptions : public Aspose::Words::Saving::TxtSaveOptionsBase
 ```
 
-
 ## Methods
 
 | Method | Description |

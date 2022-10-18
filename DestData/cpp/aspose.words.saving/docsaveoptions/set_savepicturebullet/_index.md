@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/docsaveoptions/set_savepicturebullet/
 ## DocSaveOptions.set_SavePictureBullet method
 
 
-Setter for [Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet](./get_savepicturebullet/).
+Setter for [Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet](../get_savepicturebullet/).
 
 ```cpp
 void Aspose::Words::Saving::DocSaveOptions::set_SavePictureBullet(bool value)

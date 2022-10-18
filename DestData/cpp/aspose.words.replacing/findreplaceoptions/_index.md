@@ -15,7 +15,6 @@ Specifies options for find/replace operations.
 class FindReplaceOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmarkstart/set_name/
 ## BookmarkStart.set_Name method
 
 
-Setter for [Aspose::Words::BookmarkStart::get_Name](./get_name/).
+Setter for [Aspose::Words::BookmarkStart::get_Name](../get_name/).
 
 ```cpp
 void Aspose::Words::BookmarkStart::set_Name(System::String value) override

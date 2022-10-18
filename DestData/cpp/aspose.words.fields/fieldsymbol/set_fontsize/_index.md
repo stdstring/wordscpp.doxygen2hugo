@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldsymbol/set_fontsize/
 ## FieldSymbol.set_FontSize method
 
 
-Setter for [Aspose::Words::Fields::FieldSymbol::get_FontSize](./get_fontsize/).
+Setter for [Aspose::Words::Fields::FieldSymbol::get_FontSize](../get_fontsize/).
 
 ```cpp
 void Aspose::Words::Fields::FieldSymbol::set_FontSize(const System::String &value)

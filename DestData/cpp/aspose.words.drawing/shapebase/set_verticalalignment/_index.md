@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_verticalalignment/
 ## ShapeBase.set_VerticalAlignment method
 
 
-Setter for [Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment](./get_verticalalignment/).
+Setter for [Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment](../get_verticalalignment/).
 
 ```cpp
 void Aspose::Words::Drawing::ShapeBase::set_VerticalAlignment(Aspose::Words::Drawing::VerticalAlignment value)

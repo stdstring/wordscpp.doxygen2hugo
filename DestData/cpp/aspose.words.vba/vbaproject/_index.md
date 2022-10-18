@@ -15,7 +15,6 @@ Provides access to VBA project information. A VBA project inside the document is
 class VbaProject : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

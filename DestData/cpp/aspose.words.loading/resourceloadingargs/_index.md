@@ -15,7 +15,6 @@ Provides data for the [ResourceLoading()](./iresourceloadingcallback/resourceloa
 class ResourceLoadingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

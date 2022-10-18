@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_brightness/
 ## ImageData.set_Brightness method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_Brightness](./get_brightness/).
+Setter for [Aspose::Words::Drawing::ImageData::get_Brightness](../get_brightness/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_Brightness(double value)

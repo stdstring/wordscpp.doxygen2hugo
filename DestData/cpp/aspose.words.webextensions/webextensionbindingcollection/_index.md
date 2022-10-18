@@ -15,7 +15,6 @@ Specifies a list of web extension bindings.
 class WebExtensionBindingCollection : public Aspose::Words::WebExtensions::BaseWebExtensionCollection<System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionBinding>>
 ```
 
-
 ## Methods
 
 | Method | Description |

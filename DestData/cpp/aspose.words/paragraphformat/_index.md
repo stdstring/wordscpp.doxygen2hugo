@@ -15,7 +15,6 @@ Represents all the formatting for a paragraph.
 class ParagraphFormat : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

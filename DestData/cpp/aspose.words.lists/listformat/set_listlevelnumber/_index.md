@@ -9,7 +9,7 @@ url: /cpp/aspose.words.lists/listformat/set_listlevelnumber/
 ## ListFormat.set_ListLevelNumber method
 
 
-Setter for [Aspose::Words::Lists::ListFormat::get_ListLevelNumber](./get_listlevelnumber/).
+Setter for [Aspose::Words::Lists::ListFormat::get_ListLevelNumber](../get_listlevelnumber/).
 
 ```cpp
 void Aspose::Words::Lists::ListFormat::set_ListLevelNumber(int32_t value)

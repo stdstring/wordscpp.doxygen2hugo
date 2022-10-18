@@ -15,7 +15,6 @@ Represents a container for the header or footer text of a section.
 class HeaderFooter : public Aspose::Words::Story
 ```
 
-
 ## Methods
 
 | Method | Description |

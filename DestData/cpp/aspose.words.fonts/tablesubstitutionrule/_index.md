@@ -15,7 +15,6 @@ Table font substitution rule.
 class TableSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule
 ```
 
-
 ## Methods
 
 | Method | Description |

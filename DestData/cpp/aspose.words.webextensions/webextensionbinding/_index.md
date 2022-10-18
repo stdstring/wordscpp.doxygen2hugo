@@ -15,7 +15,6 @@ Specifies a binding relationship between a web extension and the data in the doc
 class WebExtensionBinding : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

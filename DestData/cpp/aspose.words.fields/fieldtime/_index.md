@@ -15,7 +15,6 @@ Implements the TIME field.
 class FieldTime : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

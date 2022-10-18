@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_convertmetafilestopng/
 ## LoadOptions.set_ConvertMetafilesToPng method
 
 
-Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng](./get_convertmetafilestopng/).
+Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng](../get_convertmetafilestopng/).
 
 ```cpp
 void Aspose::Words::Loading::LoadOptions::set_ConvertMetafilesToPng(bool value)

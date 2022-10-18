@@ -15,7 +15,6 @@ Implements the FORMTEXT field.
 class FieldFormText : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textpath/set_kerning/
 ## TextPath.set_Kerning method
 
 
-Setter for [Aspose::Words::Drawing::TextPath::get_Kerning](./get_kerning/).
+Setter for [Aspose::Words::Drawing::TextPath::get_Kerning](../get_kerning/).
 
 ```cpp
 void Aspose::Words::Drawing::TextPath::set_Kerning(bool value)

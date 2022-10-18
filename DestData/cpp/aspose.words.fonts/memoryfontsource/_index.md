@@ -15,7 +15,6 @@ Represents the single TrueType font file stored in memory.
 class MemoryFontSource : public Aspose::Words::Fonts::FontSourceBase
 ```
 
-
 ## Methods
 
 | Method | Description |

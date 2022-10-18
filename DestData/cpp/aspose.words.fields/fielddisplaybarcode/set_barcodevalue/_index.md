@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_barcodevalue/
 ## FieldDisplayBarcode.set_BarcodeValue method
 
 
-Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue](./get_barcodevalue/).
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue](../get_barcodevalue/).
 
 ```cpp
 void Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeValue(const System::String &value)

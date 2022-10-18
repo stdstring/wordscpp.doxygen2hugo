@@ -15,7 +15,6 @@ Specifies how a column in the external data source shall be mapped to the predef
 class OdsoFieldMapData : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

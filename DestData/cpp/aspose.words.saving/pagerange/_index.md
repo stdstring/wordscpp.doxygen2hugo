@@ -15,7 +15,6 @@ Represents a continuous range of pages.
 class PageRange : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Allows to specify additional options (such as password or base URI) when loading
 class LoadOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

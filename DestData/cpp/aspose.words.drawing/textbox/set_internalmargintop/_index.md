@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textbox/set_internalmargintop/
 ## TextBox.set_InternalMarginTop method
 
 
-Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginTop](./get_internalmargintop/).
+Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginTop](../get_internalmargintop/).
 
 ```cpp
 void Aspose::Words::Drawing::TextBox::set_InternalMarginTop(double value)

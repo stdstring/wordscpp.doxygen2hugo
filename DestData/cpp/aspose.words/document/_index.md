@@ -15,7 +15,6 @@ Represents a Word document.
 class Document : public Aspose::Words::DocumentBase, public Aspose::Words::ISectionAttrSource, public Aspose::Words::IWatermarkProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

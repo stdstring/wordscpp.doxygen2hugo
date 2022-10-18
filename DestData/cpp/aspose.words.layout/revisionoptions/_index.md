@@ -15,7 +15,6 @@ Allows to control how document revisions are handled during layout process.
 class RevisionOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

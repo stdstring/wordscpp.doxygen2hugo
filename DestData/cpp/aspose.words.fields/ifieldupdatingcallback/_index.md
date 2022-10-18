@@ -15,7 +15,6 @@ Implement this interface if you want to have your own custom methods called duri
 class IFieldUpdatingCallback : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Represents the color scheme of the document theme which contains twelve colors. 
 class ThemeColors : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

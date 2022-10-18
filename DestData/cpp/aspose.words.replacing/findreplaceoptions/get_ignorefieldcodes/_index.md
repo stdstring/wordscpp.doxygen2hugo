@@ -15,3 +15,7 @@ Gets or sets a boolean value indicating either to ignore text inside field codes
 bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFieldCodes() const
 ```
 
+
+This option affects only field codes (it does not ignore nodes between **FieldSeparator** and **FieldEnd**).
+
+To ignore whole field, please use corresponding option [IgnoreFields](../get_ignorefields/). 

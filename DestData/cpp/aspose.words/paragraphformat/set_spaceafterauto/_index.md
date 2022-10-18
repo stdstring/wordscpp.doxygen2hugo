@@ -9,7 +9,7 @@ url: /cpp/aspose.words/paragraphformat/set_spaceafterauto/
 ## ParagraphFormat.set_SpaceAfterAuto method
 
 
-Setter for [Aspose::Words::ParagraphFormat::get_SpaceAfterAuto](./get_spaceafterauto/).
+Setter for [Aspose::Words::ParagraphFormat::get_SpaceAfterAuto](../get_spaceafterauto/).
 
 ```cpp
 void Aspose::Words::ParagraphFormat::set_SpaceAfterAuto(bool value)

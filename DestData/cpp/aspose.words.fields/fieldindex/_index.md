@@ -15,7 +15,6 @@ Implements the INDEX field.
 class FieldIndex : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

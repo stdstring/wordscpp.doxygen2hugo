@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_saveformat/
 ## ImageSaveOptions.set_SaveFormat method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_SaveFormat](./get_saveformat/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_SaveFormat](../get_saveformat/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override

@@ -15,7 +15,6 @@ Allows to specify outline options.
 class OutlineOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

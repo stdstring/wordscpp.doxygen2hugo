@@ -9,9 +9,15 @@ url: /cpp/aspose.words.vba/vbareferencecollection/idx_get/
 ## VbaReferenceCollection.idx_get method
 
 
-Gets [VbaReference](../vbareference/) object at the specified index.
+Gets [VbaReference](../../vbareference/) object at the specified index.
 
 ```cpp
 System::SharedPtr<Aspose::Words::Vba::VbaReference> Aspose::Words::Vba::VbaReferenceCollection::idx_get(int32_t index)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | `-` | The zero-based index of the reference to get. |
+
 

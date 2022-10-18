@@ -15,7 +15,6 @@ Implements the BARCODE field.
 class FieldBarcode : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Contains information about a mail merge region.
 class MailMergeRegionInfo : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

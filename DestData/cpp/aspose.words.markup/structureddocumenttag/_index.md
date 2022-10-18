@@ -15,7 +15,6 @@ Represents a structured document tag (SDT or content control) in a document.
 class StructuredDocumentTag : public Aspose::Words::CompositeNode, public Aspose::Words::Markup::IMarkupNode, public Aspose::Words::Revisions::ITrackableNode, public Aspose::Words::IRunAttrSource, public Aspose::Words::Markup::IStructuredDocumentTag
 ```
 
-
 ## Methods
 
 | Method | Description |

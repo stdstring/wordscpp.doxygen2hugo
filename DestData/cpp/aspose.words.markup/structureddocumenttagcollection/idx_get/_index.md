@@ -15,3 +15,9 @@ Returns the structured document tag at the specified index.
 System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::Markup::StructuredDocumentTagCollection::idx_get(int32_t index)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | `-` | An index into the collection. |
+
+

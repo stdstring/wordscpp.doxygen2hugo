@@ -15,7 +15,6 @@ Implement this interface if you want to control how the field result is formatte
 class IFieldResultFormatter : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

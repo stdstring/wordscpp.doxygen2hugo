@@ -15,7 +15,6 @@ Implements the SECTION field.
 class FieldSection : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

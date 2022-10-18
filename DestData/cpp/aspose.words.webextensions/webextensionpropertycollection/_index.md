@@ -15,7 +15,6 @@ Specifies a set of web extension custom properties.
 class WebExtensionPropertyCollection : public Aspose::Words::WebExtensions::BaseWebExtensionCollection<System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionProperty>>
 ```
 
-
 ## Methods
 
 | Method | Description |

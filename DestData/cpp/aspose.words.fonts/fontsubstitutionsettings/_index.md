@@ -15,7 +15,6 @@ Specifies font substitution mechanism settings.
 class FontSubstitutionSettings : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Represents an add-in task pane object.
 class TaskPane : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

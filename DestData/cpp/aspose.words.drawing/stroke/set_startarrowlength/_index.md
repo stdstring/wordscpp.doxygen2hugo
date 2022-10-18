@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/stroke/set_startarrowlength/
 ## Stroke.set_StartArrowLength method
 
 
-Setter for [Aspose::Words::Drawing::Stroke::get_StartArrowLength](./get_startarrowlength/).
+Setter for [Aspose::Words::Drawing::Stroke::get_StartArrowLength](../get_startarrowlength/).
 
 ```cpp
 void Aspose::Words::Drawing::Stroke::set_StartArrowLength(Aspose::Words::Drawing::ArrowLength value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/pagesetup/set_rtlgutter/
 ## PageSetup.set_RtlGutter method
 
 
-Setter for [Aspose::Words::PageSetup::get_RtlGutter](./get_rtlgutter/).
+Setter for [Aspose::Words::PageSetup::get_RtlGutter](../get_rtlgutter/).
 
 ```cpp
 void Aspose::Words::PageSetup::set_RtlGutter(bool value)

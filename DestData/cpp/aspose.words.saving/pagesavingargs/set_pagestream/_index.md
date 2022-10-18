@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/set_pagestream/
 ## PageSavingArgs.set_PageStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
-Setter for [Aspose::Words::Saving::PageSavingArgs::get_PageStream](./get_pagestream/).
+Setter for [Aspose::Words::Saving::PageSavingArgs::get_PageStream](../get_pagestream/).
 
 ```cpp
 void Aspose::Words::Saving::PageSavingArgs::set_PageStream(const System::SharedPtr<System::IO::Stream> &value)

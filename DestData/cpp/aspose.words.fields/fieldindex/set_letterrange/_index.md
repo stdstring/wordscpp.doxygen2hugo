@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldindex/set_letterrange/
 ## FieldIndex.set_LetterRange method
 
 
-Setter for [Aspose::Words::Fields::FieldIndex::get_LetterRange](./get_letterrange/).
+Setter for [Aspose::Words::Fields::FieldIndex::get_LetterRange](../get_letterrange/).
 
 ```cpp
 void Aspose::Words::Fields::FieldIndex::set_LetterRange(const System::String &value)

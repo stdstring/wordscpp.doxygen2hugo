@@ -15,7 +15,6 @@ Represents a start of a bookmark in a Word document.
 class BookmarkStart : public Aspose::Words::Node, public Aspose::Words::IBookmarkNode, public Aspose::Words::IDisplaceableByCustomXml
 ```
 
-
 ## Methods
 
 | Method | Description |

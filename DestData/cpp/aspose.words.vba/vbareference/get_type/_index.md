@@ -9,7 +9,7 @@ url: /cpp/aspose.words.vba/vbareference/get_type/
 ## VbaReference.get_Type method
 
 
-Gets [VbaReferenceType](../vbareferencetype/) object that indicates the type of reference that a [VbaReference](./) object represents.
+Gets [VbaReferenceType](../../vbareferencetype/) object that indicates the type of reference that a [VbaReference](../) object represents.
 
 ```cpp
 virtual Aspose::Words::Vba::VbaReferenceType Aspose::Words::Vba::VbaReference::get_Type()=0

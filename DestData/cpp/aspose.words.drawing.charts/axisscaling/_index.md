@@ -15,7 +15,6 @@ Represents the scaling options of the axis.
 class AxisScaling : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
-
 ## Methods
 
 | Method | Description |

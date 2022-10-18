@@ -15,7 +15,6 @@ Provides access to VBA project module.
 class VbaModule : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Denotes the end of a region of text that has a comment associated with it.
 class CommentRangeEnd : public Aspose::Words::Node, public Aspose::Words::IDisplaceableByCustomXml, public Aspose::Words::INodeWithAnnotationId
 ```
 
-
 ## Methods
 
 | Method | Description |

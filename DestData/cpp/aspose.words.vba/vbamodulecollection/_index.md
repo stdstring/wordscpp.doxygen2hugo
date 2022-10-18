@@ -15,7 +15,6 @@ Represents a collection of [VbaModule](./vbamodule/) objects.
 class VbaModuleCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Vba::VbaModule>>
 ```
 
-
 ## Methods
 
 | Method | Description |

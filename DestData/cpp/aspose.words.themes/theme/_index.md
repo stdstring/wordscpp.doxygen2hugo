@@ -15,7 +15,6 @@ Represents document [Theme](./theme/), and provides access to main theme parts i
 class Theme : public Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider, public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
-
 ## Methods
 
 | Method | Description |

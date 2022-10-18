@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/field/set_islocked/
 ## Field.set_IsLocked method
 
 
-Setter for [Aspose::Words::Fields::Field::get_IsLocked](./get_islocked/).
+Setter for [Aspose::Words::Fields::Field::get_IsLocked](../get_islocked/).
 
 ```cpp
 void Aspose::Words::Fields::Field::set_IsLocked(bool value)

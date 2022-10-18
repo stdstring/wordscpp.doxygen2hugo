@@ -15,7 +15,6 @@ Container class for barcode parameters to pass-through to BarcodeGenerator.
 class BarcodeParameters : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

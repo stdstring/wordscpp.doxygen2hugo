@@ -15,7 +15,6 @@ Implements the NUMCHARS field.
 class FieldNumChars : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

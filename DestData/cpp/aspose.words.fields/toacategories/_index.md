@@ -15,7 +15,6 @@ Represents a table of authorities categories.
 class ToaCategories : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

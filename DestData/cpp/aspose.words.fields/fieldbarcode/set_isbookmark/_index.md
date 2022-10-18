@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldbarcode/set_isbookmark/
 ## FieldBarcode.set_IsBookmark method
 
 
-Setter for [Aspose::Words::Fields::FieldBarcode::get_IsBookmark](./get_isbookmark/).
+Setter for [Aspose::Words::Fields::FieldBarcode::get_IsBookmark](../get_isbookmark/).
 
 ```cpp
 void Aspose::Words::Fields::FieldBarcode::set_IsBookmark(bool value)

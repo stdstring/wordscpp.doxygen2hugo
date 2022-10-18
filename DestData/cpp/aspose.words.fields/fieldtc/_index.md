@@ -15,7 +15,6 @@ Implements the TC field.
 class FieldTC : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::ITocEntry
 ```
 
-
 ## Methods
 
 | Method | Description |

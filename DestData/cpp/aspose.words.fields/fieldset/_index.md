@@ -15,7 +15,6 @@ Implements the SET field.
 class FieldSet : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

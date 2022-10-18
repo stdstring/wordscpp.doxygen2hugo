@@ -15,7 +15,6 @@ Holds the options that allow controlling the document layout process.
 class LayoutOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

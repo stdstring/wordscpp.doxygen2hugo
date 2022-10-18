@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_resourcefolder/
 ## HtmlSaveOptions.set_ResourceFolder method
 
 
-Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolder](./get_resourcefolder/).
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolder](../get_resourcefolder/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlSaveOptions::set_ResourceFolder(const System::String &value)

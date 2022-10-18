@@ -15,3 +15,14 @@ Determines whether a mapping from the specified field in the data source exists 
 bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue(const System::String &dataSourceFieldName)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| dataSourceFieldName | `-` | Case-sensitive name of the field in the data source. |
+
+### ReturnValue
+
+
+True if item is found in the collection; otherwise, false.
+
+

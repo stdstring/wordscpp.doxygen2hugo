@@ -15,7 +15,6 @@ Represents frame related formatting for a paragraph.
 class FrameFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

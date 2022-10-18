@@ -15,7 +15,6 @@ Implements the COMMENTS field.
 class FieldComments : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

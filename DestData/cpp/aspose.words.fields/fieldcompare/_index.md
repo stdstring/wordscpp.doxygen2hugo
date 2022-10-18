@@ -15,7 +15,6 @@ Implements the COMPARE field.
 class FieldCompare : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

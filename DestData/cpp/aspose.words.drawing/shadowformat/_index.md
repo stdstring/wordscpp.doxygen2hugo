@@ -15,7 +15,6 @@ Represents shadow formatting for an object.
 class ShadowFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

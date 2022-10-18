@@ -15,7 +15,6 @@ Specifies all of the mail merge information for a document.
 class MailMergeSettings : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

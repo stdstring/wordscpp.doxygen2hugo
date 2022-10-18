@@ -15,7 +15,6 @@ Provides methods to insert text, images and other content, specify font, paragra
 class DocumentBuilder : public Aspose::Words::IRunAttrSource, public Aspose::Words::IRowAttrSource, public Aspose::Words::ICellAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

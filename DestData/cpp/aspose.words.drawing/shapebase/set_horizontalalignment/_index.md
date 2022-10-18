@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_horizontalalignment/
 ## ShapeBase.set_HorizontalAlignment method
 
 
-Setter for [Aspose::Words::Drawing::ShapeBase::get_HorizontalAlignment](./get_horizontalalignment/).
+Setter for [Aspose::Words::Drawing::ShapeBase::get_HorizontalAlignment](../get_horizontalalignment/).
 
 ```cpp
 void Aspose::Words::Drawing::ShapeBase::set_HorizontalAlignment(Aspose::Words::Drawing::HorizontalAlignment value)

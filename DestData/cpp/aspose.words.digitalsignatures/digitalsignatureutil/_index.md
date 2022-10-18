@@ -15,7 +15,6 @@ Provides methods for signing document.
 class DigitalSignatureUtil
 ```
 
-
 ## Methods
 
 | Method | Description |

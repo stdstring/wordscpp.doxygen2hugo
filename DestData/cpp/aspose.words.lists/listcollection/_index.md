@@ -15,7 +15,6 @@ Stores and manages formatting of bulleted and numbered lists used in a document.
 class ListCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Lists::List>>
 ```
 
-
 ## Methods
 
 | Method | Description |

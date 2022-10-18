@@ -15,7 +15,6 @@ Represents a start of a Word field in a document.
 class FieldStart : public Aspose::Words::Fields::FieldChar
 ```
 
-
 ## Methods
 
 | Method | Description |

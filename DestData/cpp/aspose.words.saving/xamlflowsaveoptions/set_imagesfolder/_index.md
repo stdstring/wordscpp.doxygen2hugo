@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_imagesfolder/
 ## XamlFlowSaveOptions.set_ImagesFolder method
 
 
-Setter for [Aspose::Words::Saving::XamlFlowSaveOptions::get_ImagesFolder](./get_imagesfolder/).
+Setter for [Aspose::Words::Saving::XamlFlowSaveOptions::get_ImagesFolder](../get_imagesfolder/).
 
 ```cpp
 void Aspose::Words::Saving::XamlFlowSaveOptions::set_ImagesFolder(const System::String &value)

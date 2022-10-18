@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/cellformat/set_width/
 ## CellFormat.set_Width method
 
 
-Setter for [Aspose::Words::Tables::CellFormat::get_Width](./get_width/).
+Setter for [Aspose::Words::Tables::CellFormat::get_Width](../get_width/).
 
 ```cpp
 void Aspose::Words::Tables::CellFormat::set_Width(double value)

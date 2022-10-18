@@ -15,7 +15,6 @@ Represents a single built-in or user-defined style.
 class Style : public Aspose::Words::IParaAttrSource, public Aspose::Words::IRunAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

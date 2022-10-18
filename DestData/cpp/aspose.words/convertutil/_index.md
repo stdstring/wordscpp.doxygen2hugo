@@ -15,7 +15,6 @@ Provides helper functions to convert between various measurement units.
 class ConvertUtil
 ```
 
-
 ## Methods
 
 | Method | Description |

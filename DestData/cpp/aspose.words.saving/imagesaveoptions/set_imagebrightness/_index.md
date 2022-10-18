@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_imagebrightness/
 ## ImageSaveOptions.set_ImageBrightness method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_ImageBrightness](./get_imagebrightness/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_ImageBrightness](../get_imagebrightness/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_ImageBrightness(float value)

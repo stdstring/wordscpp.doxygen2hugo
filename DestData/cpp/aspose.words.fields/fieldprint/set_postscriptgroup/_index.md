@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldprint/set_postscriptgroup/
 ## FieldPrint.set_PostScriptGroup method
 
 
-Setter for [Aspose::Words::Fields::FieldPrint::get_PostScriptGroup](./get_postscriptgroup/).
+Setter for [Aspose::Words::Fields::FieldPrint::get_PostScriptGroup](../get_postscriptgroup/).
 
 ```cpp
 void Aspose::Words::Fields::FieldPrint::set_PostScriptGroup(const System::String &value)

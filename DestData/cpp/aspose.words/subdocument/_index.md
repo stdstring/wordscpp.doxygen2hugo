@@ -15,7 +15,6 @@ Represents a **SubDocument** - which is a reference to an externally stored docu
 class SubDocument : public Aspose::Words::Node
 ```
 
-
 ## Methods
 
 | Method | Description |

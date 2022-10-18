@@ -15,7 +15,6 @@ Implement this interface if you want to control how Aspose.Words saves images wh
 class IImageSavingCallback : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

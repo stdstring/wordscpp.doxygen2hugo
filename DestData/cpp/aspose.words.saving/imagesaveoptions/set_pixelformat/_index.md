@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_pixelformat/
 ## ImageSaveOptions.set_PixelFormat method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat](./get_pixelformat/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat](../get_pixelformat/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_PixelFormat(Aspose::Words::Saving::ImagePixelFormat value)

@@ -15,7 +15,6 @@ A collection of [Bookmark](./bookmark/) objects that represent the bookmarks in 
 class BookmarkCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Bookmark>>
 ```
 
-
 ## Methods
 
 | Method | Description |

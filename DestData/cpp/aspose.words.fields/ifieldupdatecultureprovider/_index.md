@@ -15,7 +15,6 @@ When implemented, provides a **CultureInfo** object that should be used during t
 class IFieldUpdateCultureProvider : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

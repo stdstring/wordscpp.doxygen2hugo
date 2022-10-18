@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_datedisplaylocale/
 ## StructuredDocumentTag.set_DateDisplayLocale method
 
 
-Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale](./get_datedisplaylocale/).
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale](../get_datedisplaylocale/).
 
 ```cpp
 void Aspose::Words::Markup::StructuredDocumentTag::set_DateDisplayLocale(int32_t value)

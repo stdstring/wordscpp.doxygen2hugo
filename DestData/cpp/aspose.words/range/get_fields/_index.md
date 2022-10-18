@@ -9,7 +9,7 @@ url: /cpp/aspose.words/range/get_fields/
 ## Range.get_Fields method
 
 
-Returns a [Fields](./get_fields/) collection that represents all fields in the range.
+Returns a [Fields](./) collection that represents all fields in the range.
 
 ```cpp
 System::SharedPtr<Aspose::Words::Fields::FieldCollection> Aspose::Words::Range::get_Fields()

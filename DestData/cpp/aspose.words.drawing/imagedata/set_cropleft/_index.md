@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_cropleft/
 ## ImageData.set_CropLeft method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_CropLeft](./get_cropleft/).
+Setter for [Aspose::Words::Drawing::ImageData::get_CropLeft](../get_cropleft/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_CropLeft(double value)

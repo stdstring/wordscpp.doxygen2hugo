@@ -15,3 +15,19 @@ Gets the format of the original document that was loaded into this object.
 Aspose::Words::LoadFormat Aspose::Words::Document::get_OriginalLoadFormat() const
 ```
 
+
+If you created a new blank document, returns the **Doc** value.
+
+## Examples
+
+
+
+
+Shows how to retrieve details of a document's load operation. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Document.docx");
+
+ASSERT_EQ(MyDir + u"Document.docx", doc->get_OriginalFileName());
+ASSERT_EQ(LoadFormat::Docx, doc->get_OriginalLoadFormat());
+```
+

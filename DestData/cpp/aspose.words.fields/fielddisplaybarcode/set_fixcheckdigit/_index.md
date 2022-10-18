@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/set_fixcheckdigit/
 ## FieldDisplayBarcode.set_FixCheckDigit method
 
 
-Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_FixCheckDigit](./get_fixcheckdigit/).
+Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_FixCheckDigit](../get_fixcheckdigit/).
 
 ```cpp
 void Aspose::Words::Fields::FieldDisplayBarcode::set_FixCheckDigit(bool value)

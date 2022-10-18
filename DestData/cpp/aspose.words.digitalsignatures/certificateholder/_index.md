@@ -15,7 +15,6 @@ Represents a holder of **X509Certificate2** instance.
 class CertificateHolder : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

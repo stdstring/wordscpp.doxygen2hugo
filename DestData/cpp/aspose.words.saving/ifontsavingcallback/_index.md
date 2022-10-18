@@ -15,7 +15,6 @@ Implement this interface if you want to receive notifications and control how As
 class IFontSavingCallback : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

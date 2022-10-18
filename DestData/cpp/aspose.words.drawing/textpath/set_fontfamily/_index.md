@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textpath/set_fontfamily/
 ## TextPath.set_FontFamily method
 
 
-Setter for [Aspose::Words::Drawing::TextPath::get_FontFamily](./get_fontfamily/).
+Setter for [Aspose::Words::Drawing::TextPath::get_FontFamily](../get_fontfamily/).
 
 ```cpp
 void Aspose::Words::Drawing::TextPath::set_FontFamily(const System::String &value)

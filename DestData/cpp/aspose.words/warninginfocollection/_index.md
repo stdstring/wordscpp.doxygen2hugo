@@ -15,7 +15,6 @@ Represents a typed collection of [WarningInfo](./warninginfo/) objects.
 class WarningInfoCollection : public Aspose::Words::IWarningCallback, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::WarningInfo>>
 ```
 
-
 ## Methods
 
 | Method | Description |

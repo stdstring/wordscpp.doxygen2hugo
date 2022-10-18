@@ -15,7 +15,6 @@ Provides data for the [ImageFieldMerging()](./ifieldmergingcallback/imagefieldme
 class ImageFieldMergingArgs : public Aspose::Words::MailMerging::FieldMergingArgsBase
 ```
 
-
 ## Methods
 
 | Method | Description |

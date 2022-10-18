@@ -15,7 +15,6 @@ An argument passed into [Notify()](./ipagelayoutcallback/notify/)
 class PageLayoutCallbackArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

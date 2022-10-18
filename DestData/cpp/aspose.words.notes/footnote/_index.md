@@ -15,7 +15,6 @@ Represents a container for text of a footnote or endnote.
 class Footnote : public Aspose::Words::InlineStory, public Aspose::Words::Revisions::ITrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

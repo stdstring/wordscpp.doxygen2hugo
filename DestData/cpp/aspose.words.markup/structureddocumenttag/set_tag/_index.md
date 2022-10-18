@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/set_tag/
 ## StructuredDocumentTag.set_Tag method
 
 
-Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Tag](./get_tag/).
+Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Tag](../get_tag/).
 
 ```cpp
 void Aspose::Words::Markup::StructuredDocumentTag::set_Tag(System::String value) override

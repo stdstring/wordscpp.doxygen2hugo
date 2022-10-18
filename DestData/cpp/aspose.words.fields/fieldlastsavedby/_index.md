@@ -15,7 +15,6 @@ Implements the LASTSAVEDBY field.
 class FieldLastSavedBy : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

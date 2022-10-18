@@ -15,7 +15,6 @@ Defines an interface for external reader plugins that can read a file into a doc
 class IDocumentReaderPlugin : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

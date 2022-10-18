@@ -9,7 +9,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_company/
 ## BuiltInDocumentProperties.set_Company method
 
 
-Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Company](./get_company/).
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Company](../get_company/).
 
 ```cpp
 void Aspose::Words::Properties::BuiltInDocumentProperties::set_Company(const System::String &value)

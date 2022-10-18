@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedcss/
 ## HtmlFixedSaveOptions.set_ExportEmbeddedCss method
 
 
-Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedCss](./get_exportembeddedcss/).
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedCss](../get_exportembeddedcss/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedCss(bool value)

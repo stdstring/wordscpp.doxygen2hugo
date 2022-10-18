@@ -15,7 +15,6 @@ Provides typed access to [HeaderFooter](./headerfooter/) nodes of a **Section**.
 class HeaderFooterCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

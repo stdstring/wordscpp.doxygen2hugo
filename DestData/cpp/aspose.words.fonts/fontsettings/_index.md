@@ -15,7 +15,6 @@ Specifies font settings for a document.
 class FontSettings : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

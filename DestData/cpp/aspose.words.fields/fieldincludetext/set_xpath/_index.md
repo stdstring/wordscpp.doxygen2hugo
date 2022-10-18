@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldincludetext/set_xpath/
 ## FieldIncludeText.set_XPath method
 
 
-Setter for [Aspose::Words::Fields::FieldIncludeText::get_XPath](./get_xpath/).
+Setter for [Aspose::Words::Fields::FieldIncludeText::get_XPath](../get_xpath/).
 
 ```cpp
 void Aspose::Words::Fields::FieldIncludeText::set_XPath(const System::String &value)

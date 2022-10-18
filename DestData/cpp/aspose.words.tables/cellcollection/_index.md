@@ -15,7 +15,6 @@ Provides typed access to a collection of [Cell](./cell/) nodes.
 class CellCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

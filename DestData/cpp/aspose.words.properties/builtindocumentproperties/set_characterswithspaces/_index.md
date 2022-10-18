@@ -9,7 +9,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_characterswithsp
 ## BuiltInDocumentProperties.set_CharactersWithSpaces method
 
 
-Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_CharactersWithSpaces](./get_characterswithspaces/).
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_CharactersWithSpaces](../get_characterswithspaces/).
 
 ```cpp
 void Aspose::Words::Properties::BuiltInDocumentProperties::set_CharactersWithSpaces(int32_t value)

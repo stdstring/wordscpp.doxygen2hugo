@@ -15,7 +15,6 @@ Represents a collection of Custom XML Parts. The items are [CustomXmlPart](./cus
 class CustomXmlPartCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::CustomXmlPart>>
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/importformatoptions/set_keepsourcenumbering/
 ## ImportFormatOptions.set_KeepSourceNumbering method
 
 
-Setter for [Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering](./get_keepsourcenumbering/).
+Setter for [Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering](../get_keepsourcenumbering/).
 
 ```cpp
 void Aspose::Words::ImportFormatOptions::set_KeepSourceNumbering(bool value)

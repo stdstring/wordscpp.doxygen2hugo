@@ -15,7 +15,6 @@ Implements the SHAPE field.
 class FieldShape : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

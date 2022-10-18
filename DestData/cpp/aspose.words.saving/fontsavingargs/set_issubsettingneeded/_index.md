@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/set_issubsettingneeded/
 ## FontSavingArgs.set_IsSubsettingNeeded method
 
 
-Setter for [Aspose::Words::Saving::FontSavingArgs::get_IsSubsettingNeeded](./get_issubsettingneeded/).
+Setter for [Aspose::Words::Saving::FontSavingArgs::get_IsSubsettingNeeded](../get_issubsettingneeded/).
 
 ```cpp
 void Aspose::Words::Saving::FontSavingArgs::set_IsSubsettingNeeded(bool value)

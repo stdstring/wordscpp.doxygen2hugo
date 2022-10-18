@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_alignment/
 ## Table.set_Alignment method
 
 
-Setter for [Aspose::Words::Tables::Table::get_Alignment](./get_alignment/).
+Setter for [Aspose::Words::Tables::Table::get_Alignment](../get_alignment/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_Alignment(Aspose::Words::Tables::TableAlignment value)

@@ -15,3 +15,14 @@ Generate barcode image using the set of parameters (for DisplayBarcode field).
 virtual System::SharedPtr<System::Drawing::Image> Aspose::Words::Fields::IBarcodeGenerator::GetBarcodeImage(System::SharedPtr<Aspose::Words::Fields::BarcodeParameters> parameters)=0
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| parameters | `-` | The set of parameters |
+
+### ReturnValue
+
+
+Image representing generated barcode.
+
+

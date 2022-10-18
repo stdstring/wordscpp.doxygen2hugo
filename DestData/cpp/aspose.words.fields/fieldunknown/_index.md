@@ -15,7 +15,6 @@ Implements an unknown or unrecognized field.
 class FieldUnknown : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
-
 ## Methods
 
 | Method | Description |

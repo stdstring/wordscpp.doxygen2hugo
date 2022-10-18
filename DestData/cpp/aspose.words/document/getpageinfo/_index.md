@@ -15,3 +15,9 @@ Gets the page size, orientation and other information about a page that might be
 System::SharedPtr<Aspose::Words::Rendering::PageInfo> Aspose::Words::Document::GetPageInfo(int32_t pageIndex)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageIndex | `-` | The 0-based page index. |
+
+

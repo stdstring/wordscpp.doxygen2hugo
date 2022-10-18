@@ -15,7 +15,6 @@ Allows to efficiently perform repeated import of nodes from one document to anot
 class NodeImporter : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

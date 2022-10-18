@@ -15,7 +15,6 @@ Provides typed access to a collection of [Row](./row/) nodes.
 class RowCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

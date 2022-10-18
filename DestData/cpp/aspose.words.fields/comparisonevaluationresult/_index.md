@@ -15,7 +15,6 @@ The comparison evaluation result.
 class ComparisonEvaluationResult : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

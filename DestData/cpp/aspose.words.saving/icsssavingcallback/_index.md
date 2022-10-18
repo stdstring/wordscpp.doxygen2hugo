@@ -15,7 +15,6 @@ Implement this interface if you want to control how Aspose.Words saves CSS (Casc
 class ICssSavingCallback : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

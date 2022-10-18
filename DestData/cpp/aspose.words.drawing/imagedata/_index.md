@@ -15,7 +15,6 @@ Defines an image for a shape.
 class ImageData : public Aspose::Words::IBorderAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

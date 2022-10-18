@@ -15,7 +15,6 @@ Contains details for encrypting and access permissions for a PDF document.
 class PdfEncryptionDetails : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_printbodytextbeforehead
 ## CompatibilityOptions.get_PrintBodyTextBeforeHeader method
 
 
-Print [Body](../../aspose.words/body/) Text before Header/Footer Contents.
+Print [Body](../../../aspose.words/body/) Text before Header/Footer Contents.
 
 ```cpp
 bool Aspose::Words::Settings::CompatibilityOptions::get_PrintBodyTextBeforeHeader()

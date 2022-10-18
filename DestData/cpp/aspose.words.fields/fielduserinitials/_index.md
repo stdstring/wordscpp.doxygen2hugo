@@ -15,7 +15,6 @@ Implements the USERINITIALS field.
 class FieldUserInitials : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

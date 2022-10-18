@@ -9,7 +9,7 @@ url: /cpp/aspose.words/pagesetup/set_leftmargin/
 ## PageSetup.set_LeftMargin method
 
 
-Setter for [Aspose::Words::PageSetup::get_LeftMargin](./get_leftmargin/).
+Setter for [Aspose::Words::PageSetup::get_LeftMargin](../get_leftmargin/).
 
 ```cpp
 void Aspose::Words::PageSetup::set_LeftMargin(double value)

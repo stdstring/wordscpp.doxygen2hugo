@@ -15,7 +15,6 @@ Represents options to control field handling in a document.
 class FieldOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

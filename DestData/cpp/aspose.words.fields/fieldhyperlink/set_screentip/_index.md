@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/set_screentip/
 ## FieldHyperlink.set_ScreenTip method
 
 
-Setter for [Aspose::Words::Fields::FieldHyperlink::get_ScreenTip](./get_screentip/).
+Setter for [Aspose::Words::Fields::FieldHyperlink::get_ScreenTip](../get_screentip/).
 
 ```cpp
 void Aspose::Words::Fields::FieldHyperlink::set_ScreenTip(const System::String &value)

@@ -15,7 +15,6 @@ Public interface for barcode custom generator. Implementation should be provided
 class IBarcodeGenerator : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

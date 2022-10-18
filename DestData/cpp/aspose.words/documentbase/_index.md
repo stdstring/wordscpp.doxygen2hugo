@@ -15,7 +15,6 @@ Provides the abstract base class for a main document and a glossary document of 
 class DocumentBase : public Aspose::Words::CompositeNode
 ```
 
-
 ## Methods
 
 | Method | Description |

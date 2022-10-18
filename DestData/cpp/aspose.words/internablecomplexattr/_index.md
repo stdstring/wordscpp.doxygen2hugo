@@ -15,4 +15,3 @@ Base class for internable complex attribute. Internable complex attribute should
 class InternableComplexAttr : public virtual System::Object
 ```
 
-

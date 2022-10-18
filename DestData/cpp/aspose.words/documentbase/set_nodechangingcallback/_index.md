@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbase/set_nodechangingcallback/
 ## DocumentBase.set_NodeChangingCallback method
 
 
-Setter for [Aspose::Words::DocumentBase::get_NodeChangingCallback](./get_nodechangingcallback/).
+Setter for [Aspose::Words::DocumentBase::get_NodeChangingCallback](../get_nodechangingcallback/).
 
 ```cpp
 void Aspose::Words::DocumentBase::set_NodeChangingCallback(const System::SharedPtr<Aspose::Words::INodeChangingCallback> &value)

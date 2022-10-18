@@ -15,3 +15,7 @@ Specifies what culture to use to format the field result.
 Aspose::Words::Fields::FieldUpdateCultureSource Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource() const
 ```
 
+
+By default, the culture of the current thread is used.
+
+The setting affects only date/time fields with \\@ format switch. 

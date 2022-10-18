@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_lockcontentcon
 ## StructuredDocumentTagRangeStart.set_LockContentControl method
 
 
-Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContentControl](./get_lockcontentcontrol/).
+Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContentControl](../get_lockcontentcontrol/).
 
 ```cpp
 void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_LockContentControl(bool value) override

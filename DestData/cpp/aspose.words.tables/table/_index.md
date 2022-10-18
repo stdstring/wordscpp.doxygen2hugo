@@ -15,7 +15,6 @@ Represents a table in a Word document.
 class Table : public Aspose::Words::CompositeNode
 ```
 
-
 ## Methods
 
 | Method | Description |

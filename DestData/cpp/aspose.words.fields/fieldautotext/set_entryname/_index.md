@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldautotext/set_entryname/
 ## FieldAutoText.set_EntryName method
 
 
-Setter for [Aspose::Words::Fields::FieldAutoText::get_EntryName](./get_entryname/).
+Setter for [Aspose::Words::Fields::FieldAutoText::get_EntryName](../get_entryname/).
 
 ```cpp
 void Aspose::Words::Fields::FieldAutoText::set_EntryName(const System::String &value)

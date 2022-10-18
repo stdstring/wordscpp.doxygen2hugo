@@ -9,7 +9,7 @@ url: /cpp/aspose.words/textcolumncollection/set_linebetween/
 ## TextColumnCollection.set_LineBetween method
 
 
-Setter for [Aspose::Words::TextColumnCollection::get_LineBetween](./get_linebetween/).
+Setter for [Aspose::Words::TextColumnCollection::get_LineBetween](../get_linebetween/).
 
 ```cpp
 void Aspose::Words::TextColumnCollection::set_LineBetween(bool value)

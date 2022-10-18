@@ -15,7 +15,6 @@ Represents the single TrueType font file stored in the file system.
 class FileFontSource : public Aspose::Words::Fonts::FontSourceBase
 ```
 
-
 ## Methods
 
 | Method | Description |

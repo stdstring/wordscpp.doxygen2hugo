@@ -15,7 +15,6 @@ A collection of built-in document properties.
 class BuiltInDocumentProperties : public Aspose::Words::Properties::DocumentPropertyCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

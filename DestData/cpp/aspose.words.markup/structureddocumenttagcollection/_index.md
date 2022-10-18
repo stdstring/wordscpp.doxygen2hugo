@@ -15,7 +15,6 @@ A collection of [IStructuredDocumentTag](./istructureddocumenttag/) instances th
 class StructuredDocumentTagCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag>>
 ```
 
-
 ## Methods
 
 | Method | Description |

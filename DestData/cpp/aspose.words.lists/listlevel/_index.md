@@ -15,7 +15,6 @@ Defines formatting for a list level.
 class ListLevel : public Aspose::Words::IRunAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

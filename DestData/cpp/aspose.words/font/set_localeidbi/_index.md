@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_localeidbi/
 ## Font.set_LocaleIdBi method
 
 
-Setter for [Aspose::Words::Font::get_LocaleIdBi](./get_localeidbi/).
+Setter for [Aspose::Words::Font::get_LocaleIdBi](../get_localeidbi/).
 
 ```cpp
 void Aspose::Words::Font::set_LocaleIdBi(int32_t value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/stroke/set_endarrowlength/
 ## Stroke.set_EndArrowLength method
 
 
-Setter for [Aspose::Words::Drawing::Stroke::get_EndArrowLength](./get_endarrowlength/).
+Setter for [Aspose::Words::Drawing::Stroke::get_EndArrowLength](../get_endarrowlength/).
 
 ```cpp
 void Aspose::Words::Drawing::Stroke::set_EndArrowLength(Aspose::Words::Drawing::ArrowLength value)

@@ -15,3 +15,28 @@ True indicates the oldValue must be a standalone word.
 bool Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly() const
 ```
 
+
+## Examples
+
+
+
+
+Shows how to toggle standalone word-only find-and-replace operations. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->Writeln(u"Jackson will meet you in Jacksonville.");
+
+// We can use a "FindReplaceOptions" object to modify the find-and-replace process.
+auto options = MakeObject<FindReplaceOptions>();
+
+// Set the "FindWholeWordsOnly" flag to "true" to replace the found text if it is not a part of another word.
+// Set the "FindWholeWordsOnly" flag to "false" to replace all text regardless of its surroundings.
+options->set_FindWholeWordsOnly(findWholeWordsOnly);
+
+doc->get_Range()->Replace(u"Jackson", u"Louis", options);
+
+ASSERT_EQ(findWholeWordsOnly ? String(u"Louis will meet you in Jacksonville.") : String(u"Louis will meet you in Louisville."), doc->GetText().Trim());
+```
+

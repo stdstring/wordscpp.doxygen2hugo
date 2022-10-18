@@ -15,7 +15,6 @@ Base class for elements that contain block-level nodes [Paragraph](./paragraph/)
 class Story : public Aspose::Words::CompositeNode
 ```
 
-
 ## Methods
 
 | Method | Description |

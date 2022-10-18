@@ -15,7 +15,6 @@ Allows to specify options for signature line being inserted. Used in [DocumentBu
 class SignatureLineOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Provides typed access to a collection of [Run](./run/) nodes.
 class RunCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

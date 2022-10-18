@@ -15,7 +15,6 @@ Represents a revision (tracked change) in a document node or style. Use [Revisio
 class Revision : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

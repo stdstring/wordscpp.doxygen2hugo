@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldtc/set_text/
 ## FieldTC.set_Text method
 
 
-Setter for [Aspose::Words::Fields::FieldTC::get_Text](./get_text/).
+Setter for [Aspose::Words::Fields::FieldTC::get_Text](../get_text/).
 
 ```cpp
 void Aspose::Words::Fields::FieldTC::set_Text(const System::String &value)

@@ -15,7 +15,6 @@ Allows to access OLE Package properties.
 class OlePackage : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

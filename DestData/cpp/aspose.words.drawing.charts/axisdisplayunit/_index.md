@@ -15,7 +15,6 @@ Provides access to the scaling options of the display units for the value axis.
 class AxisDisplayUnit : public Aspose::Words::Drawing::Charts::Core::IDmlChartTitleHolder, public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
-
 ## Methods
 
 | Method | Description |

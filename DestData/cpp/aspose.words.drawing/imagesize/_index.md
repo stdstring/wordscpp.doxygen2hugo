@@ -15,7 +15,6 @@ Contains information about image size and resolution.
 class ImageSize : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

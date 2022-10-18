@@ -15,7 +15,6 @@ Specifies a list of web extension references.
 class WebExtensionReferenceCollection : public Aspose::Words::WebExtensions::BaseWebExtensionCollection<System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionReference>>
 ```
 
-
 ## Methods
 
 | Method | Description |

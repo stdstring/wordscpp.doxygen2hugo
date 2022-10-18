@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_subfontbysize/
 ## CompatibilityOptions.get_SubFontBySize method
 
 
-Increase Priority Of [Font](../../aspose.words/font/) Size During [Font](../../aspose.words/font/) Substitution.
+Increase Priority Of [Font](../../../aspose.words/font/) Size During [Font](../../../aspose.words/font/) Substitution.
 
 ```cpp
 bool Aspose::Words::Settings::CompatibilityOptions::get_SubFontBySize()

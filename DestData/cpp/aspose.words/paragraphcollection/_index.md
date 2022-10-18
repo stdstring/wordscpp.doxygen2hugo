@@ -15,7 +15,6 @@ Provides typed access to a collection of [Paragraph](./paragraph/) nodes.
 class ParagraphCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

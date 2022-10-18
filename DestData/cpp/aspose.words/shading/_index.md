@@ -15,7 +15,6 @@ Contains shading attributes for an object.
 class Shading : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IComplexAttr
 ```
 
-
 ## Methods
 
 | Method | Description |

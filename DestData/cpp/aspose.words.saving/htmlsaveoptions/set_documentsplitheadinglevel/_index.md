@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentsplitheadinglevel/
 ## HtmlSaveOptions.set_DocumentSplitHeadingLevel method
 
 
-Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel](./get_documentsplitheadinglevel/).
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel](../get_documentsplitheadinglevel/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitHeadingLevel(int32_t value)

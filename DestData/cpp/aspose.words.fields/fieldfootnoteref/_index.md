@@ -15,7 +15,6 @@ Implements the FOOTNOTEREF field.
 class FieldFootnoteRef : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

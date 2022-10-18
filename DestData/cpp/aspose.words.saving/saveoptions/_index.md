@@ -15,7 +15,6 @@ This is an abstract base class for classes that allow the user to specify additi
 class SaveOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

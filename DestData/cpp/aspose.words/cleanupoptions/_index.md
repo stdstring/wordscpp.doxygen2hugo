@@ -15,7 +15,6 @@ Allows to specify options for document cleaning.
 class CleanupOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

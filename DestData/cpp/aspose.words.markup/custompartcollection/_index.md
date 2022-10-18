@@ -15,7 +15,6 @@ Represents a collection of [CustomPart](./custompart/) objects.
 class CustomPartCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::CustomPart>>
 ```
 
-
 ## Methods
 
 | Method | Description |

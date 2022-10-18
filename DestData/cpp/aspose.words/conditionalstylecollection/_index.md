@@ -15,7 +15,6 @@ Represents a collection of [ConditionalStyle](./conditionalstyle/) objects.
 class ConditionalStyleCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::ConditionalStyle>>
 ```
 
-
 ## Methods
 
 | Method | Description |

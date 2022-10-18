@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_allcaps/
 ## Font.set_AllCaps method
 
 
-Setter for [Aspose::Words::Font::get_AllCaps](./get_allcaps/).
+Setter for [Aspose::Words::Font::get_AllCaps](../get_allcaps/).
 
 ```cpp
 void Aspose::Words::Font::set_AllCaps(bool value)

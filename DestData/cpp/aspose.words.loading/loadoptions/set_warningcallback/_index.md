@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/loadoptions/set_warningcallback/
 ## LoadOptions.set_WarningCallback method
 
 
-Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](./get_warningcallback/).
+Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](../get_warningcallback/).
 
 ```cpp
 void Aspose::Words::Loading::LoadOptions::set_WarningCallback(const System::SharedPtr<Aspose::Words::IWarningCallback> &value)

@@ -15,7 +15,6 @@ Implements the LISTNUM field.
 class FieldListNum : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

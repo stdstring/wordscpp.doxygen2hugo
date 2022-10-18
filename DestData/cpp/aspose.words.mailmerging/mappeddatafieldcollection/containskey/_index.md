@@ -15,3 +15,14 @@ Determines whether a mapping from the specified field in the document exists in 
 bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey(const System::String &documentFieldName)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documentFieldName | `-` | Case-sensitive name of the mail merge field in the document. |
+
+### ReturnValue
+
+
+True if item is found in the collection; otherwise, false.
+
+

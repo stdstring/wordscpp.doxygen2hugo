@@ -24,6 +24,14 @@ Initializes an instance of this class.
 Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String &serverUrl, const System::String &userName, const System::String &password)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| serverUrl | `-` | Timestamp server URL. |
+| userName | `-` | Timestamp server user name. |
+| password | `-` | Timestamp server password. |
+
+
 ## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) method
 
 
@@ -32,4 +40,13 @@ Initializes an instance of this class.
 ```cpp
 Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String &serverUrl, const System::String &userName, const System::String &password, System::TimeSpan timeout)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| serverUrl | `-` | Timestamp server URL. |
+| userName | `-` | Timestamp server user name. |
+| password | `-` | Timestamp server password. |
+| timeout | `-` | Time-out value for accessing timestamp server. |
+
 

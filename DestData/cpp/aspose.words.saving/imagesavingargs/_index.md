@@ -15,7 +15,6 @@ Provides data for the [ImageSaving()](./iimagesavingcallback/imagesaving/) event
 class ImageSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

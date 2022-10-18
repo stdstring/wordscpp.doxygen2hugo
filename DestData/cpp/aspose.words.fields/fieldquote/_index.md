@@ -15,7 +15,6 @@ Implements the QUOTE field.
 class FieldQuote : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

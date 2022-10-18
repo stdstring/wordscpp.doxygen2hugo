@@ -15,3 +15,31 @@ Gets or sets a value determining whether or not to use high quality (i.e. slow) 
 bool Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering() const
 ```
 
+
+The default value is **false**.
+
+This property is used when the document is exported to image formats: **Tiff**, **Png**, **Bmp**, **Jpeg**, **Emf**.
+
+## Examples
+
+
+
+
+Shows how to improve the quality of a rendered document with [SaveOptions](../). 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->set_Size(60);
+builder->Writeln(u"Some text.");
+
+SharedPtr<SaveOptions> options = MakeObject<Aspose::Words::Saving::ImageSaveOptions>(SaveFormat::Jpeg);
+
+doc->Save(ArtifactsDir + u"Document.ImageSaveOptions.Default.jpg", options);
+
+options->set_UseAntiAliasing(true);
+options->set_UseHighQualityRendering(true);
+
+doc->Save(ArtifactsDir + u"Document.ImageSaveOptions.HighQuality.jpg", options);
+```
+

@@ -15,3 +15,28 @@ Indicates the presence of 3D shading for the horizontal rule. If true, then the 
 bool Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade()
 ```
 
+
+The default value is false.
+
+## Examples
+
+
+
+
+Shows how to insert a horizontal rule shape, and customize its formatting. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+SharedPtr<Shape> shape = builder->InsertHorizontalRule();
+
+SharedPtr<HorizontalRuleFormat> horizontalRuleFormat = shape->get_HorizontalRuleFormat();
+horizontalRuleFormat->set_Alignment(HorizontalRuleAlignment::Center);
+horizontalRuleFormat->set_WidthPercent(70);
+horizontalRuleFormat->set_Height(3);
+horizontalRuleFormat->set_Color(System::Drawing::Color::get_Blue());
+horizontalRuleFormat->set_NoShade(true);
+
+ASSERT_TRUE(shape->get_IsHorizontalRule());
+ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
+```
+

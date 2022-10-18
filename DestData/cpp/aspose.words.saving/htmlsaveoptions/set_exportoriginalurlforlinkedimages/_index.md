@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportoriginalurlforlinkedimag
 ## HtmlSaveOptions.set_ExportOriginalUrlForLinkedImages method
 
 
-Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportOriginalUrlForLinkedImages](./get_exportoriginalurlforlinkedimages/).
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportOriginalUrlForLinkedImages](../get_exportoriginalurlforlinkedimages/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlSaveOptions::set_ExportOriginalUrlForLinkedImages(bool value)

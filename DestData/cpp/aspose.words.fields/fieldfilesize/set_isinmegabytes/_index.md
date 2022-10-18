@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldfilesize/set_isinmegabytes/
 ## FieldFileSize.set_IsInMegabytes method
 
 
-Setter for [Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes](./get_isinmegabytes/).
+Setter for [Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes](../get_isinmegabytes/).
 
 ```cpp
 void Aspose::Words::Fields::FieldFileSize::set_IsInMegabytes(bool value)

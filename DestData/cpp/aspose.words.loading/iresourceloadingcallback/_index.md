@@ -15,7 +15,6 @@ Implement this interface if you want to control how Aspose.Words loads external 
 class IResourceLoadingCallback : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Implements the REVNUM field.
 class FieldRevNum : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,6 +15,13 @@ Initializes width and height to the given values in pixels. Initializes resoluti
 Aspose::Words::Drawing::ImageSize::ImageSize(int32_t widthPixels, int32_t heightPixels)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| widthPixels | `-` | Width in pixels. |
+| heightPixels | `-` | Height in pixels. |
+
+
 ## ImageSize.ImageSize(int32_t, int32_t, double, double) method
 
 
@@ -23,4 +30,13 @@ Initializes width, height and resolution to the given values.
 ```cpp
 Aspose::Words::Drawing::ImageSize::ImageSize(int32_t widthPixels, int32_t heightPixels, double horizontalResolution, double verticalResolution)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| widthPixels | `-` | Width in pixels. |
+| heightPixels | `-` | Height in pixels. |
+| horizontalResolution | `-` | Horizontal resolution in DPI. |
+| verticalResolution | `-` | Vertical resolution in DPI. |
+
 

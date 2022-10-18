@@ -15,7 +15,6 @@ Base class for [FieldMergingArgs](./fieldmergingargs/) and [ImageFieldMergingArg
 class FieldMergingArgsBase : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

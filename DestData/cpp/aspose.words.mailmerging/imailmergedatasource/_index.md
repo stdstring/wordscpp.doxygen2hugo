@@ -15,7 +15,6 @@ Implement this interface to allow mail merge from a custom data source, such as 
 class IMailMergeDataSource : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

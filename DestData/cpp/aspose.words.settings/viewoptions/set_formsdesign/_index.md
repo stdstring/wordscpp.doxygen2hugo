@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/viewoptions/set_formsdesign/
 ## ViewOptions.set_FormsDesign method
 
 
-Setter for [Aspose::Words::Settings::ViewOptions::get_FormsDesign](./get_formsdesign/).
+Setter for [Aspose::Words::Settings::ViewOptions::get_FormsDesign](../get_formsdesign/).
 
 ```cpp
 void Aspose::Words::Settings::ViewOptions::set_FormsDesign(bool value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showdatalabelsrange/
 ## ChartDataLabel.set_ShowDataLabelsRange method
 
 
-Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowDataLabelsRange](./get_showdatalabelsrange/).
+Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowDataLabelsRange](../get_showdatalabelsrange/).
 
 ```cpp
 void Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowDataLabelsRange(bool value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.notes/footnoteoptions/set_columns/
 ## FootnoteOptions.set_Columns method
 
 
-Setter for [Aspose::Words::Notes::FootnoteOptions::get_Columns](./get_columns/).
+Setter for [Aspose::Words::Notes::FootnoteOptions::get_Columns](../get_columns/).
 
 ```cpp
 void Aspose::Words::Notes::FootnoteOptions::set_Columns(int32_t value)

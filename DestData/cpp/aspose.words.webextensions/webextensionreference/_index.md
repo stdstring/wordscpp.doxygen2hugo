@@ -15,7 +15,6 @@ Represents the reference to a web extension. The reference is used to identify t
 class WebExtensionReference : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

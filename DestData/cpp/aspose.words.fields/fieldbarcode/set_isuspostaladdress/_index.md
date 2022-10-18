@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldbarcode/set_isuspostaladdress/
 ## FieldBarcode.set_IsUSPostalAddress method
 
 
-Setter for [Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress](./get_isuspostaladdress/).
+Setter for [Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress](../get_isuspostaladdress/).
 
 ```cpp
 void Aspose::Words::Fields::FieldBarcode::set_IsUSPostalAddress(bool value)

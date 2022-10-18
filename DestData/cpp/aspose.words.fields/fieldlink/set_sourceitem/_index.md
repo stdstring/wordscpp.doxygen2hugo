@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldlink/set_sourceitem/
 ## FieldLink.set_SourceItem method
 
 
-Setter for [Aspose::Words::Fields::FieldLink::get_SourceItem](./get_sourceitem/).
+Setter for [Aspose::Words::Fields::FieldLink::get_SourceItem](../get_sourceitem/).
 
 ```cpp
 void Aspose::Words::Fields::FieldLink::set_SourceItem(const System::String &value)

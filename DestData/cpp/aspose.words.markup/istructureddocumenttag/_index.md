@@ -15,7 +15,6 @@ Interface to define a common data for [StructuredDocumentTag](./structureddocume
 class IStructuredDocumentTag : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

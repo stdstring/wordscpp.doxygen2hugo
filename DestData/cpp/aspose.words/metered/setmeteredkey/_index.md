@@ -15,3 +15,10 @@ Sets metered public and private key. If you purchase metered license, when start
 void Aspose::Words::Metered::SetMeteredKey(const System::String &publicKey, const System::String &privateKey)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| publicKey | `-` | public key |
+| privateKey | `-` | private key |
+
+

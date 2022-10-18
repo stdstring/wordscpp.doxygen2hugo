@@ -15,7 +15,6 @@ Implements the INCLUDETEXT field.
 class FieldIncludeText : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludeTextCode
 ```
 
-
 ## Methods
 
 | Method | Description |

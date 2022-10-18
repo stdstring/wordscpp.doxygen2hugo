@@ -15,3 +15,21 @@ Specifies whether the contents of this run shall be treated as complex script te
 bool Aspose::Words::Font::get_ComplexScript()
 ```
 
+
+## Examples
+
+
+
+
+Shows how to add text that is always treated as complex script. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->set_ComplexScript(true);
+
+builder->Writeln(u"Text treated as complex script.");
+
+doc->Save(ArtifactsDir + u"Font.ComplexScript.docx");
+```
+

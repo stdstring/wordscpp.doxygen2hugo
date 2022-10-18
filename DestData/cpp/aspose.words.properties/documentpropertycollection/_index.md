@@ -15,7 +15,6 @@ Base class for [BuiltInDocumentProperties](./builtindocumentproperties/) and [Cu
 class DocumentPropertyCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Properties::DocumentProperty>>
 ```
 
-
 ## Methods
 
 | Method | Description |

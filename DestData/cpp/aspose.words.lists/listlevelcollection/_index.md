@@ -15,7 +15,6 @@ A collection of list formatting for each level in a list.
 class ListLevelCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Lists::ListLevel>>
 ```
 
-
 ## Methods
 
 | Method | Description |

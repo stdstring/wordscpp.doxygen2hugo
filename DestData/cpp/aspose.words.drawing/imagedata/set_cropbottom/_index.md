@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_cropbottom/
 ## ImageData.set_CropBottom method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_CropBottom](./get_cropbottom/).
+Setter for [Aspose::Words::Drawing::ImageData::get_CropBottom](../get_cropbottom/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_CropBottom(double value)

@@ -15,3 +15,9 @@ Removes a structured document tag at the specified index.
 void Aspose::Words::Markup::StructuredDocumentTagCollection::RemoveAt(int32_t index)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | `-` | An index into the collection. |
+
+

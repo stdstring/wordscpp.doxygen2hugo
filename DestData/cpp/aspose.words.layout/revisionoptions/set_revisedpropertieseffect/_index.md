@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/revisionoptions/set_revisedpropertieseffect/
 ## RevisionOptions.set_RevisedPropertiesEffect method
 
 
-Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesEffect](./get_revisedpropertieseffect/).
+Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesEffect](../get_revisedpropertieseffect/).
 
 ```cpp
 void Aspose::Words::Layout::RevisionOptions::set_RevisedPropertiesEffect(Aspose::Words::Layout::RevisionTextEffect value)

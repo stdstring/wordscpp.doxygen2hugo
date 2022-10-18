@@ -15,7 +15,6 @@ Allows to set up language preferences.
 class LanguagePreferences : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

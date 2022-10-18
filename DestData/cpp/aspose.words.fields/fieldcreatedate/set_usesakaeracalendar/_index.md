@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldcreatedate/set_usesakaeracalendar/
 ## FieldCreateDate.set_UseSakaEraCalendar method
 
 
-Setter for [Aspose::Words::Fields::FieldCreateDate::get_UseSakaEraCalendar](./get_usesakaeracalendar/).
+Setter for [Aspose::Words::Fields::FieldCreateDate::get_UseSakaEraCalendar](../get_usesakaeracalendar/).
 
 ```cpp
 void Aspose::Words::Fields::FieldCreateDate::set_UseSakaEraCalendar(bool value)

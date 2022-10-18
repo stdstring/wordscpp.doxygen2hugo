@@ -15,7 +15,6 @@ Base class for custom document visitors.
 class DocumentVisitor : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

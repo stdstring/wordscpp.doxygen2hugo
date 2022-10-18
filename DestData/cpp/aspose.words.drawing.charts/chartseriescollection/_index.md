@@ -15,7 +15,6 @@ Represents collection of a [ChartSeries](./chartseries/).
 class ChartSeriesCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries>>
 ```
 
-
 ## Methods
 
 | Method | Description |

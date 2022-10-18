@@ -9,7 +9,7 @@ url: /cpp/aspose.words/node/set_customnodeid/
 ## Node.set_CustomNodeId method
 
 
-Setter for [Aspose::Words::Node::get_CustomNodeId](./get_customnodeid/).
+Setter for [Aspose::Words::Node::get_CustomNodeId](../get_customnodeid/).
 
 ```cpp
 void Aspose::Words::Node::set_CustomNodeId(int32_t value)

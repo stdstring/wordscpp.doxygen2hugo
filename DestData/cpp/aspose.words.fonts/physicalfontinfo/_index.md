@@ -15,7 +15,6 @@ Specifies information about physical font available to Aspose.Words font engine.
 class PhysicalFontInfo : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

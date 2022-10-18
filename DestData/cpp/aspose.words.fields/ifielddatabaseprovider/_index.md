@@ -15,7 +15,6 @@ Implement this interface to provide data for the [FieldDatabase](./fielddatabase
 class IFieldDatabaseProvider : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

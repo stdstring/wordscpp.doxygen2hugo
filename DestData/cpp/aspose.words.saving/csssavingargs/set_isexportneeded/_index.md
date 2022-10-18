@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/csssavingargs/set_isexportneeded/
 ## CssSavingArgs.set_IsExportNeeded method
 
 
-Setter for [Aspose::Words::Saving::CssSavingArgs::get_IsExportNeeded](./get_isexportneeded/).
+Setter for [Aspose::Words::Saving::CssSavingArgs::get_IsExportNeeded](../get_isexportneeded/).
 
 ```cpp
 void Aspose::Words::Saving::CssSavingArgs::set_IsExportNeeded(bool value)

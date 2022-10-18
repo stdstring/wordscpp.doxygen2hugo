@@ -15,3 +15,17 @@ Specifies the number of columns with which the footnotes area is formatted.
 int32_t Aspose::Words::Notes::FootnoteOptions::get_Columns()
 ```
 
+
+## Examples
+
+
+
+
+Shows how to split the footnote section into a given number of columns. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Footnotes and endnotes.docx");
+
+doc->get_FootnoteOptions()->set_Columns(2);
+doc->Save(ArtifactsDir + u"Document.FootnoteColumns.docx");
+```
+

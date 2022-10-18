@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_sizebi/
 ## Font.set_SizeBi method
 
 
-Setter for [Aspose::Words::Font::get_SizeBi](./get_sizebi/).
+Setter for [Aspose::Words::Font::get_SizeBi](../get_sizebi/).
 
 ```cpp
 void Aspose::Words::Font::set_SizeBi(double value)

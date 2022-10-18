@@ -15,7 +15,6 @@ Implements the NUMWORDS field.
 class FieldNumWords : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

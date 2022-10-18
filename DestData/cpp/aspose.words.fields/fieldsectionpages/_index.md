@@ -15,7 +15,6 @@ Implements the SECTIONPAGES field.
 class FieldSectionPages : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

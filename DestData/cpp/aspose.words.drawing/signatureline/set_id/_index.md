@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/signatureline/set_id/
 ## SignatureLine.set_Id method
 
 
-Setter for [Aspose::Words::Drawing::SignatureLine::get_Id](./get_id/).
+Setter for [Aspose::Words::Drawing::SignatureLine::get_Id](../get_id/).
 
 ```cpp
 void Aspose::Words::Drawing::SignatureLine::set_Id(System::Guid value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/stroke/set_color/
 ## Stroke.set_Color method
 
 
-Setter for [Aspose::Words::Drawing::Stroke::get_Color](./get_color/).
+Setter for [Aspose::Words::Drawing::Stroke::get_Color](../get_color/).
 
 ```cpp
 void Aspose::Words::Drawing::Stroke::set_Color(System::Drawing::Color value)

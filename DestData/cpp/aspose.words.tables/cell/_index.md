@@ -15,7 +15,6 @@ Represents a table cell.
 class Cell : public Aspose::Words::CompositeNode, public Aspose::Words::ICellAttrSource, public Aspose::Words::Revisions::ITrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

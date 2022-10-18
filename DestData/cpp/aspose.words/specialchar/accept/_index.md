@@ -15,3 +15,18 @@ Accepts a visitor.
 bool Aspose::Words::SpecialChar::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | `-` | The visitor that will visit the node. |
+
+### ReturnValue
+
+
+False if the visitor requested the enumeration to stop.
+
+Calls [DocumentVisitor.VisitSpecialChar](../../documentvisitor/visitspecialchar/).
+
+For more info see the Visitor design pattern.
+
+

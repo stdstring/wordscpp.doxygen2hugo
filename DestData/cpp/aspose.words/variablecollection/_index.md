@@ -15,7 +15,6 @@ A collection of document variables.
 class VariableCollection : public System::Collections::Generic::IEnumerable<System::Collections::Generic::KeyValuePair<System::String, System::String>>
 ```
 
-
 ## Methods
 
 | Method | Description |

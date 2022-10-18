@@ -15,7 +15,6 @@ Implements the PRINTDATE field.
 class FieldPrintDate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

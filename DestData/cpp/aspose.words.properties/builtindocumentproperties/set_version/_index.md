@@ -9,7 +9,7 @@ url: /cpp/aspose.words.properties/builtindocumentproperties/set_version/
 ## BuiltInDocumentProperties.set_Version method
 
 
-Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Version](./get_version/).
+Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Version](../get_version/).
 
 ```cpp
 void Aspose::Words::Properties::BuiltInDocumentProperties::set_Version(int32_t value)

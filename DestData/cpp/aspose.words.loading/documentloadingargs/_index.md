@@ -15,7 +15,6 @@ An argument passed into [Notify()](./idocumentloadingcallback/notify/).
 class DocumentLoadingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

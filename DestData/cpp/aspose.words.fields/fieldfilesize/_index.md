@@ -15,7 +15,6 @@ Implements the FILESIZE field.
 class FieldFileSize : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

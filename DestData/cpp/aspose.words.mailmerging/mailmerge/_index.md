@@ -15,7 +15,6 @@ Represents the mail merge functionality.
 class MailMerge : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

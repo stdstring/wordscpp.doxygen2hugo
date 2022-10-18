@@ -15,7 +15,6 @@ Implements the EDITTIME field.
 class FieldEditTime : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

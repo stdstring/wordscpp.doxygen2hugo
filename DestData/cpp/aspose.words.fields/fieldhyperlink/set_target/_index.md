@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldhyperlink/set_target/
 ## FieldHyperlink.set_Target method
 
 
-Setter for [Aspose::Words::Fields::FieldHyperlink::get_Target](./get_target/).
+Setter for [Aspose::Words::Fields::FieldHyperlink::get_Target](../get_target/).
 
 ```cpp
 void Aspose::Words::Fields::FieldHyperlink::set_Target(const System::String &value)

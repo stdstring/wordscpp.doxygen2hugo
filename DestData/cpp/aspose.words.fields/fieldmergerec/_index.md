@@ -15,7 +15,6 @@ Implements the MERGEREC field.
 class FieldMergeRec : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

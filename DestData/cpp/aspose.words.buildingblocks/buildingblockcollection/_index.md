@@ -15,7 +15,6 @@ A collection of [BuildingBlock](./buildingblock/) objects in the document.
 class BuildingBlockCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

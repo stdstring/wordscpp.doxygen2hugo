@@ -15,7 +15,6 @@ Contains data returned by [FileFormatUtil](./fileformatutil/) document format de
 class FileFormatInfo : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

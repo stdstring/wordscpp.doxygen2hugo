@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/horizontalruleformat/set_noshade/
 ## HorizontalRuleFormat.set_NoShade method
 
 
-Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade](./get_noshade/).
+Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade](../get_noshade/).
 
 ```cpp
 void Aspose::Words::Drawing::HorizontalRuleFormat::set_NoShade(bool value)

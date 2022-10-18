@@ -15,3 +15,37 @@ Gets or sets a boolean value indicating whether to allow embedding fonts with Po
 bool Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts() const
 ```
 
+
+Note, Word does not embed PostScript fonts, but can open documents with embedded fonts of this type.
+
+This option only works when [EmbedTrueTypeFonts](../../../aspose.words.fonts/fontinfocollection/get_embedtruetypefonts/) of the [FontInfos](../../../aspose.words/documentbase/get_fontinfos/) property is set to **true**.
+
+## Examples
+
+
+
+
+Shows how to save the document with PostScript font. 
+```cpp
+auto doc = MakeObject<Document>();
+auto builder = MakeObject<DocumentBuilder>(doc);
+
+builder->get_Font()->set_Name(u"PostScriptFont");
+builder->Writeln(u"Some text with PostScript font.");
+
+// Load the font with PostScript to use in the document.
+auto otf = MakeObject<MemoryFontSource>(System::IO::File::ReadAllBytes(FontsDir + u"AllegroOpen.otf"));
+doc->set_FontSettings(MakeObject<FontSettings>());
+doc->get_FontSettings()->SetFontsSources(MakeArray<SharedPtr<FontSourceBase>>({otf}));
+
+// Embed TrueType fonts.
+doc->get_FontInfos()->set_EmbedTrueTypeFonts(true);
+
+// Allow embedding PostScript fonts while embedding TrueType fonts.
+// Microsoft Word does not embed PostScript fonts, but can open documents with embedded fonts of this type.
+SharedPtr<SaveOptions> saveOptions = SaveOptions::CreateSaveOptions(SaveFormat::Docx);
+saveOptions->set_AllowEmbeddingPostScriptFonts(true);
+
+doc->Save(ArtifactsDir + u"Document.AllowEmbeddingPostScriptFonts.docx", saveOptions);
+```
+

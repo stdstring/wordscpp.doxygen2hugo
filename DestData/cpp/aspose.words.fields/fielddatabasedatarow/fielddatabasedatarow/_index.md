@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddatabasedatarow/fielddatabasedatarow/
 ## FieldDatabaseDataRow.FieldDatabaseDataRow method
 
 
-Initializes a new instance of the [FieldDatabaseDataRow](./) class.
+Initializes a new instance of the [FieldDatabaseDataRow](../) class.
 
 ```cpp
 Aspose::Words::Fields::FieldDatabaseDataRow::FieldDatabaseDataRow(const System::ArrayPtr<System::String> &values)

@@ -15,7 +15,6 @@ Can be used to specify additional options when saving a document into the **Rtf*
 class RtfSaveOptions : public Aspose::Words::Saving::SaveOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

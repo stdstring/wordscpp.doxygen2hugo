@@ -15,7 +15,6 @@ A collection of individual bookmarks outline level.
 class BookmarksOutlineLevelCollection : public System::Collections::Generic::IEnumerable<System::Collections::Generic::KeyValuePair<System::String, int32_t>>
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Implements the AUTONUMLGL field.
 class FieldAutoNumLgl : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

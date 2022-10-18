@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/layoutoptions/set_continuoussectionpagenumberingre
 ## LayoutOptions.set_ContinuousSectionPageNumberingRestart method
 
 
-Setter for [Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart](./get_continuoussectionpagenumberingrestart/).
+Setter for [Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart](../get_continuoussectionpagenumberingrestart/).
 
 ```cpp
 void Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart(Aspose::Words::Layout::ContinuousSectionRestart value)

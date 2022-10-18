@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_relativeverticalalignment/
 ## Table.set_RelativeVerticalAlignment method
 
 
-Setter for [Aspose::Words::Tables::Table::get_RelativeVerticalAlignment](./get_relativeverticalalignment/).
+Setter for [Aspose::Words::Tables::Table::get_RelativeVerticalAlignment](../get_relativeverticalalignment/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_RelativeVerticalAlignment(Aspose::Words::Drawing::VerticalAlignment value)

@@ -15,7 +15,6 @@ Implements the NEXTIF field.
 class FieldNextIf : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

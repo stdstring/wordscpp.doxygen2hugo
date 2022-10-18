@@ -15,7 +15,6 @@ Implements the DATABASE field.
 class FieldDatabase : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ A collection of **Section** objects in the document.
 class SectionCollection : public Aspose::Words::NodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

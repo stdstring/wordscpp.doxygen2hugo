@@ -15,7 +15,6 @@ Implements the ADDRESSBLOCK field.
 class FieldAddressBlock : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFormattableMergeField
 ```
 
-
 ## Methods
 
 | Method | Description |

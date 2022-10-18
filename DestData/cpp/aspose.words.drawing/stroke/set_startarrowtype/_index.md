@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/stroke/set_startarrowtype/
 ## Stroke.set_StartArrowType method
 
 
-Setter for [Aspose::Words::Drawing::Stroke::get_StartArrowType](./get_startarrowtype/).
+Setter for [Aspose::Words::Drawing::Stroke::get_StartArrowType](../get_startarrowtype/).
 
 ```cpp
 void Aspose::Words::Drawing::Stroke::set_StartArrowType(Aspose::Words::Drawing::ArrowType value)

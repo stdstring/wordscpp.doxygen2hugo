@@ -15,7 +15,6 @@ A collection of [Style](./style/) objects that represent both the built-in and u
 class StyleCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Style>>
 ```
 
-
 ## Methods
 
 | Method | Description |

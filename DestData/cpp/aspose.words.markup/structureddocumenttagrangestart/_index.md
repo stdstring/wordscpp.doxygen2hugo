@@ -15,7 +15,6 @@ Represents a start of **ranged** structured document tag which accepts multi-sec
 class StructuredDocumentTagRangeStart : public Aspose::Words::Node, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>, public Aspose::Words::Markup::IStructuredDocumentTag
 ```
 
-
 ## Methods
 
 | Method | Description |

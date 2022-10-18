@@ -15,3 +15,5 @@ Specifies the character which shall be interpreted as the column delimiter used 
 char16_t Aspose::Words::Settings::Odso::get_ColumnDelimiter() const
 ```
 
+
+RK I have never seen this in use. 

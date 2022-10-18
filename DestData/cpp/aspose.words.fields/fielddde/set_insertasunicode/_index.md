@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddde/set_insertasunicode/
 ## FieldDde.set_InsertAsUnicode method
 
 
-Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsUnicode](./get_insertasunicode/).
+Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsUnicode](../get_insertasunicode/).
 
 ```cpp
 void Aspose::Words::Fields::FieldDde::set_InsertAsUnicode(bool value)

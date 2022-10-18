@@ -15,7 +15,6 @@ Implements a SYMBOL field.
 class FieldSymbol : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

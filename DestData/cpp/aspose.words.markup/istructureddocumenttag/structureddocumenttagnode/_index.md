@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/istructureddocumenttag/structureddocumenttagnode/
 ## IStructuredDocumentTag.StructuredDocumentTagNode method
 
 
-Returns [Node](../../aspose.words/node/) object that implements this interface.
+Returns [Node](../../../aspose.words/node/) object that implements this interface.
 
 ```cpp
 virtual System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::IStructuredDocumentTag::StructuredDocumentTagNode()=0

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_saveformat/
 ## XamlFixedSaveOptions.set_SaveFormat method
 
 
-Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_SaveFormat](./get_saveformat/).
+Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_SaveFormat](../get_saveformat/).
 
 ```cpp
 void Aspose::Words::Saving::XamlFixedSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override

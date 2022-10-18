@@ -15,7 +15,6 @@ Represents minimum or maximum bound of axis values.
 class AxisBound : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

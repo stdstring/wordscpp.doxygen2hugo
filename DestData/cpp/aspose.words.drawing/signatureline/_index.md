@@ -15,7 +15,6 @@ Provides access to signature line properties.
 class SignatureLine : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

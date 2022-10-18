@@ -15,7 +15,6 @@ Implements the ADVANCE field.
 class FieldAdvance : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

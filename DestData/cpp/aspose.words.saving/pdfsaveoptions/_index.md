@@ -15,7 +15,6 @@ Can be used to specify additional options when saving a document into the **Pdf*
 class PdfSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

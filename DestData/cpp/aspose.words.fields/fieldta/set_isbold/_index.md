@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldta/set_isbold/
 ## FieldTA.set_IsBold method
 
 
-Setter for [Aspose::Words::Fields::FieldTA::get_IsBold](./get_isbold/).
+Setter for [Aspose::Words::Fields::FieldTA::get_IsBold](../get_isbold/).
 
 ```cpp
 void Aspose::Words::Fields::FieldTA::set_IsBold(bool value)

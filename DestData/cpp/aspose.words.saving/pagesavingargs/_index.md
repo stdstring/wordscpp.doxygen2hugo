@@ -15,7 +15,6 @@ Provides data for the [PageSaving()](./ipagesavingcallback/pagesaving/) event.
 class PageSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

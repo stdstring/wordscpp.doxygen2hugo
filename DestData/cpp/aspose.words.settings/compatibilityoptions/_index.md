@@ -15,7 +15,6 @@ Contains compatibility options (that is, the user preferences entered on the **C
 class CompatibilityOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

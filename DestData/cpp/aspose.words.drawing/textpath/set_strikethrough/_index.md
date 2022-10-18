@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textpath/set_strikethrough/
 ## TextPath.set_StrikeThrough method
 
 
-Setter for [Aspose::Words::Drawing::TextPath::get_StrikeThrough](./get_strikethrough/).
+Setter for [Aspose::Words::Drawing::TextPath::get_StrikeThrough](../get_strikethrough/).
 
 ```cpp
 void Aspose::Words::Drawing::TextPath::set_StrikeThrough(bool value)

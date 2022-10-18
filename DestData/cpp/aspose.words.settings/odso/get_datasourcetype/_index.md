@@ -15,3 +15,5 @@ Specifies the type of the external data source to be connected to as part of the
 Aspose::Words::Settings::OdsoDataSourceType Aspose::Words::Settings::Odso::get_DataSourceType() const
 ```
 
+
+This setting is purely a suggestion of the data source type that is being used for this mail merge. 

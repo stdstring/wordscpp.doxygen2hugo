@@ -9,7 +9,7 @@ url: /cpp/aspose.words/style/set_nextparagraphstylename/
 ## Style.set_NextParagraphStyleName method
 
 
-Setter for [Aspose::Words::Style::get_NextParagraphStyleName](./get_nextparagraphstylename/).
+Setter for [Aspose::Words::Style::get_NextParagraphStyleName](../get_nextparagraphstylename/).
 
 ```cpp
 void Aspose::Words::Style::set_NextParagraphStyleName(const System::String &value)

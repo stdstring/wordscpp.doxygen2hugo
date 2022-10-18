@@ -9,7 +9,7 @@ url: /cpp/aspose.words/pagesetup/set_multiplepages/
 ## PageSetup.set_MultiplePages method
 
 
-Setter for [Aspose::Words::PageSetup::get_MultiplePages](./get_multiplepages/).
+Setter for [Aspose::Words::PageSetup::get_MultiplePages](../get_multiplepages/).
 
 ```cpp
 void Aspose::Words::PageSetup::set_MultiplePages(Aspose::Words::Settings::MultiplePagesType value)

@@ -15,7 +15,6 @@ Represents a single custom XML attribute or a smart tag property.
 class CustomXmlProperty : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

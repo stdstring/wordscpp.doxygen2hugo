@@ -15,7 +15,6 @@ Base class for [ShapeRenderer](./shaperenderer/) and [OfficeMathRenderer](./offi
 class NodeRendererBase : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

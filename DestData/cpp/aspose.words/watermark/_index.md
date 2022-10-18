@@ -15,7 +15,6 @@ Represents class to work with document watermark.
 class Watermark : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

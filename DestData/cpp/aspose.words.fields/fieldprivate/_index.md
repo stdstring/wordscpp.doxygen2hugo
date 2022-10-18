@@ -15,7 +15,6 @@ Implements the PRIVATE field.
 class FieldPrivate : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Implements the EMBED field.
 class FieldEmbed : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

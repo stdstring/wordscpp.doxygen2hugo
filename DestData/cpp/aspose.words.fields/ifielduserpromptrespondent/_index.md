@@ -15,7 +15,6 @@ Represents the respondent to user prompts during field update.
 class IFieldUserPromptRespondent : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

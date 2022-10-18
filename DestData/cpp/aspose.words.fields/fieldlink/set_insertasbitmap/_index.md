@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldlink/set_insertasbitmap/
 ## FieldLink.set_InsertAsBitmap method
 
 
-Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsBitmap](./get_insertasbitmap/).
+Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsBitmap](../get_insertasbitmap/).
 
 ```cpp
 void Aspose::Words::Fields::FieldLink::set_InsertAsBitmap(bool value)

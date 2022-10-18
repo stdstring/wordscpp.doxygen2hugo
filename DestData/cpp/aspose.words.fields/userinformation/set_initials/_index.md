@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/userinformation/set_initials/
 ## UserInformation.set_Initials method
 
 
-Setter for [Aspose::Words::Fields::UserInformation::get_Initials](./get_initials/).
+Setter for [Aspose::Words::Fields::UserInformation::get_Initials](../get_initials/).
 
 ```cpp
 void Aspose::Words::Fields::UserInformation::set_Initials(const System::String &value)

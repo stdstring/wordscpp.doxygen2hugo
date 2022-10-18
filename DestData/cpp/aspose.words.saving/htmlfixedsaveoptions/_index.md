@@ -15,7 +15,6 @@ Can be used to specify additional options when saving a document into the **Html
 class HtmlFixedSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

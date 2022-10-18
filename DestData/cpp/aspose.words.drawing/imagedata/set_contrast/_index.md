@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_contrast/
 ## ImageData.set_Contrast method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_Contrast](./get_contrast/).
+Setter for [Aspose::Words::Drawing::ImageData::get_Contrast](../get_contrast/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_Contrast(double value)

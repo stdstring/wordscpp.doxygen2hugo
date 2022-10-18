@@ -15,7 +15,6 @@ Implements a reference to an Automation type library or VBA project.
 class VbaReference : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

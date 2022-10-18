@@ -15,7 +15,6 @@ Represents number formatting of the parent element.
 class ChartNumberFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

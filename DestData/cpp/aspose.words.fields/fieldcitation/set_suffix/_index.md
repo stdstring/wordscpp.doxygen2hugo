@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldcitation/set_suffix/
 ## FieldCitation.set_Suffix method
 
 
-Setter for [Aspose::Words::Fields::FieldCitation::get_Suffix](./get_suffix/).
+Setter for [Aspose::Words::Fields::FieldCitation::get_Suffix](../get_suffix/).
 
 ```cpp
 void Aspose::Words::Fields::FieldCitation::set_Suffix(const System::String &value)

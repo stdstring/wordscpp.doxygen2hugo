@@ -15,7 +15,6 @@ Specifies how list levels are indented when document is exporting to **Text** fo
 class TxtListIndentation : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

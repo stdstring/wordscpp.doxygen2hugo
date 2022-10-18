@@ -15,7 +15,6 @@ Implements the TEMPLATE field.
 class FieldTemplate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

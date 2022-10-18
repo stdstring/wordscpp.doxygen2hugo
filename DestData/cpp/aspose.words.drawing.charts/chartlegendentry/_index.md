@@ -15,7 +15,6 @@ Represents a chart legend entry.
 class ChartLegendEntry : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource, public Aspose::Words::IRunAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

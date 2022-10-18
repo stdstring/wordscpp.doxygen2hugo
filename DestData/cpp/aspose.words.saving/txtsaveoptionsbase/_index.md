@@ -15,7 +15,6 @@ The base class for specifying additional options when saving a document into a t
 class TxtSaveOptionsBase : public Aspose::Words::Saving::SaveOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

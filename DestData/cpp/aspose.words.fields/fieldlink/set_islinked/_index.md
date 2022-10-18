@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldlink/set_islinked/
 ## FieldLink.set_IsLinked method
 
 
-Setter for [Aspose::Words::Fields::FieldLink::get_IsLinked](./get_islinked/).
+Setter for [Aspose::Words::Fields::FieldLink::get_IsLinked](../get_islinked/).
 
 ```cpp
 void Aspose::Words::Fields::FieldLink::set_IsLinked(bool value)

@@ -15,7 +15,6 @@ Implements the INCLUDEPICTURE field.
 class FieldIncludePicture : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludePictureCode
 ```
 
-
 ## Methods
 
 | Method | Description |

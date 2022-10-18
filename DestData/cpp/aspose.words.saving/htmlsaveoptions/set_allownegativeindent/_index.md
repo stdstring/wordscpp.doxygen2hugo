@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/set_allownegativeindent/
 ## HtmlSaveOptions.set_AllowNegativeIndent method
 
 
-Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent](./get_allownegativeindent/).
+Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent](../get_allownegativeindent/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlSaveOptions::set_AllowNegativeIndent(bool value)

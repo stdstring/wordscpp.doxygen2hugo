@@ -15,7 +15,6 @@ A collection of [Border](./border/) objects.
 class BorderCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Border>>
 ```
 
-
 ## Methods
 
 | Method | Description |

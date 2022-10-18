@@ -15,7 +15,6 @@ Implements the IF field.
 class FieldIf : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
-
 ## Methods
 
 | Method | Description |

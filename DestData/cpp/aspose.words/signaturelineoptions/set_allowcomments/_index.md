@@ -9,7 +9,7 @@ url: /cpp/aspose.words/signaturelineoptions/set_allowcomments/
 ## SignatureLineOptions.set_AllowComments method
 
 
-Setter for [Aspose::Words::SignatureLineOptions::get_AllowComments](./get_allowcomments/).
+Setter for [Aspose::Words::SignatureLineOptions::get_AllowComments](../get_allowcomments/).
 
 ```cpp
 void Aspose::Words::SignatureLineOptions::set_AllowComments(bool value)

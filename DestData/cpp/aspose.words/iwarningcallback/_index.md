@@ -15,7 +15,6 @@ Implement this interface if you want to have your own custom method called to ca
 class IWarningCallback : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

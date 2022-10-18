@@ -15,7 +15,6 @@ Specifies font fallback mechanism settings.
 class FontFallbackSettings : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

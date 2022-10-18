@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcestream/
 ## ResourceSavingArgs.set_ResourceStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
-Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream](./get_resourcestream/).
+Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream](../get_resourcestream/).
 
 ```cpp
 void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream(const System::SharedPtr<System::IO::Stream> &value)

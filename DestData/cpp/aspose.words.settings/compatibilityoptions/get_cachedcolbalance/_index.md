@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_cachedcolbalance/
 ## CompatibilityOptions.get_CachedColBalance method
 
 
-Use Cached [Paragraph](../../aspose.words/paragraph/) Information for Column Balancing.
+Use Cached [Paragraph](../../../aspose.words/paragraph/) Information for Column Balancing.
 
 ```cpp
 bool Aspose::Words::Settings::CompatibilityOptions::get_CachedColBalance()

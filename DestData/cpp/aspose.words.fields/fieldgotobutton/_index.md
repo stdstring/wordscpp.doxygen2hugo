@@ -15,7 +15,6 @@ Implements the GOTOBUTTON field.
 class FieldGoToButton : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

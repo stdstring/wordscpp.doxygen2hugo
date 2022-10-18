@@ -15,7 +15,6 @@ An absolute position tab is a character which is used to advance the position on
 class AbsolutePositionTab : public Aspose::Words::SpecialChar
 ```
 
-
 ## Methods
 
 | Method | Description |

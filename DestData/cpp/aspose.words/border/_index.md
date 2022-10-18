@@ -15,7 +15,6 @@ Represents a border of an object.
 class Border : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IComplexAttr
 ```
 
-
 ## Methods
 
 | Method | Description |

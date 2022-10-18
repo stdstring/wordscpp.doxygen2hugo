@@ -9,7 +9,7 @@ url: /cpp/aspose.words/commentrangeend/set_id/
 ## CommentRangeEnd.set_Id method
 
 
-Setter for [Aspose::Words::CommentRangeEnd::get_Id](./get_id/).
+Setter for [Aspose::Words::CommentRangeEnd::get_Id](../get_id/).
 
 ```cpp
 void Aspose::Words::CommentRangeEnd::set_Id(int32_t value)

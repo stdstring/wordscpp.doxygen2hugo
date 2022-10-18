@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldautotextlist/set_liststyle/
 ## FieldAutoTextList.set_ListStyle method
 
 
-Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ListStyle](./get_liststyle/).
+Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ListStyle](../get_liststyle/).
 
 ```cpp
 void Aspose::Words::Fields::FieldAutoTextList::set_ListStyle(const System::String &value)

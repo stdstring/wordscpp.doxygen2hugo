@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textbox/set_next/
 ## TextBox.set_Next method
 
 
-Setter for [Aspose::Words::Drawing::TextBox::get_Next](./get_next/).
+Setter for [Aspose::Words::Drawing::TextBox::get_Next](../get_next/).
 
 ```cpp
 void Aspose::Words::Drawing::TextBox::set_Next(const System::SharedPtr<Aspose::Words::Drawing::TextBox> &value)

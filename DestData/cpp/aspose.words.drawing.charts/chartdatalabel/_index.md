@@ -15,7 +15,6 @@ Represents data label on a chart point or trendline.
 class ChartDataLabel : public Aspose::Words::Drawing::Charts::Core::INumberFormatProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

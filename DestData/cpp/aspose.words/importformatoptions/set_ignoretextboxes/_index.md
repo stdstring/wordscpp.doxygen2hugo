@@ -9,7 +9,7 @@ url: /cpp/aspose.words/importformatoptions/set_ignoretextboxes/
 ## ImportFormatOptions.set_IgnoreTextBoxes method
 
 
-Setter for [Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes](./get_ignoretextboxes/).
+Setter for [Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes](../get_ignoretextboxes/).
 
 ```cpp
 void Aspose::Words::ImportFormatOptions::set_IgnoreTextBoxes(bool value)

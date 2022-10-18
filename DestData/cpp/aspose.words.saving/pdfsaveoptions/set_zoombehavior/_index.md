@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_zoombehavior/
 ## PdfSaveOptions.set_ZoomBehavior method
 
 
-Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ZoomBehavior](./get_zoombehavior/).
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ZoomBehavior](../get_zoombehavior/).
 
 ```cpp
 void Aspose::Words::Saving::PdfSaveOptions::set_ZoomBehavior(Aspose::Words::Saving::PdfZoomBehavior value)

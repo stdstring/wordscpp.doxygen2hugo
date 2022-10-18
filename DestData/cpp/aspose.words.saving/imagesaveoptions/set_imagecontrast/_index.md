@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_imagecontrast/
 ## ImageSaveOptions.set_ImageContrast method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_ImageContrast](./get_imagecontrast/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_ImageContrast](../get_imagecontrast/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_ImageContrast(float value)

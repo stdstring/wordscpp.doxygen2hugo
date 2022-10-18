@@ -15,7 +15,6 @@ Builds a field from field code tokens (arguments and switches).
 class FieldBuilder : public Aspose::Words::Fields::IFieldBuildingBlock
 ```
 
-
 ## Methods
 
 | Method | Description |

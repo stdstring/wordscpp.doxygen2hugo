@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldfillin/set_prompttext/
 ## FieldFillIn.set_PromptText method
 
 
-Setter for [Aspose::Words::Fields::FieldFillIn::get_PromptText](./get_prompttext/).
+Setter for [Aspose::Words::Fields::FieldFillIn::get_PromptText](../get_prompttext/).
 
 ```cpp
 void Aspose::Words::Fields::FieldFillIn::set_PromptText(const System::String &value)

@@ -15,7 +15,6 @@ A collection of strings that represent XML schemas that are associated with a cu
 class CustomXmlSchemaCollection : public System::Collections::Generic::IEnumerable<System::String>
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Represents a chart data marker.
 class ChartMarker : public Aspose::Words::Drawing::Charts::Core::IChartFormatSource
 ```
 
-
 ## Methods
 
 | Method | Description |

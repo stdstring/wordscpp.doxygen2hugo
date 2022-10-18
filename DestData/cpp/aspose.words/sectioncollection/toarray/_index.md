@@ -15,3 +15,10 @@ Copies all sections from the collection to a new array of sections.
 System::ArrayPtr<System::SharedPtr<Aspose::Words::Section>> Aspose::Words::SectionCollection::ToArray()
 ```
 
+
+### ReturnValue
+
+
+An array of sections.
+
+

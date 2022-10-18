@@ -15,7 +15,6 @@ Allows to specify additional options when loading CHM document into a [Document]
 class ChmLoadOptions : public Aspose::Words::Loading::LoadOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

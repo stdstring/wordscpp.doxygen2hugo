@@ -15,7 +15,6 @@ Base class for user-defined stream font source.
 class StreamFontSource : public Aspose::Words::Fonts::FontSourceBase, public Aspose::Fonts::IFontData
 ```
 
-
 ## Methods
 
 | Method | Description |

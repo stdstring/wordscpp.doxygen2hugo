@@ -15,7 +15,6 @@ Provides data for the **MergeField** event.
 class FieldMergingArgs : public Aspose::Words::MailMerging::FieldMergingArgsBase
 ```
 
-
 ## Methods
 
 | Method | Description |

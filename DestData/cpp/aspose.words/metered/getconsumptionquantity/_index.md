@@ -15,3 +15,10 @@ Gets consumption file size.
 static System::Decimal Aspose::Words::Metered::GetConsumptionQuantity()
 ```
 
+
+### ReturnValue
+
+
+consumption quantity
+
+

@@ -15,7 +15,6 @@ Implement this interface if you want to control how data is inserted into merge 
 class IFieldMergingCallback : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

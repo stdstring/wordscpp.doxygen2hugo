@@ -15,3 +15,20 @@ Unlinks fields in the whole document.
 void Aspose::Words::Document::UnlinkFields()
 ```
 
+
+Replaces all the fields in the whole document with their most recent results.
+
+To unlink fields in a specific part of the document use [UnlinkFields](../../range/unlinkfields/).
+
+## Examples
+
+
+
+
+Shows how to unlink all fields in the document. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Linked fields.docx");
+
+doc->UnlinkFields();
+```
+

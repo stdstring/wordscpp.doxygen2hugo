@@ -9,7 +9,7 @@ url: /cpp/aspose.words/paragraphformat/set_nospacebetweenparagraphsofsamestyle/
 ## ParagraphFormat.set_NoSpaceBetweenParagraphsOfSameStyle method
 
 
-Setter for [Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle](./get_nospacebetweenparagraphsofsamestyle/).
+Setter for [Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle](../get_nospacebetweenparagraphsofsamestyle/).
 
 ```cpp
 void Aspose::Words::ParagraphFormat::set_NoSpaceBetweenParagraphsOfSameStyle(bool value)

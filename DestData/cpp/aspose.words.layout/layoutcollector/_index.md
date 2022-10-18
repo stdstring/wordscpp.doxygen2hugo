@@ -15,7 +15,6 @@ This class allows to compute page numbers of document nodes.
 class LayoutCollector : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

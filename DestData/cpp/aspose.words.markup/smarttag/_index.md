@@ -15,7 +15,6 @@ This element specifies the presence of a smart tag around one or more inline str
 class SmartTag : public Aspose::Words::CompositeNode, public Aspose::Words::Markup::IMarkupNode
 ```
 
-
 ## Methods
 
 | Method | Description |

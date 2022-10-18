@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/viewoptions/set_zoompercent/
 ## ViewOptions.set_ZoomPercent method
 
 
-Setter for [Aspose::Words::Settings::ViewOptions::get_ZoomPercent](./get_zoompercent/).
+Setter for [Aspose::Words::Settings::ViewOptions::get_ZoomPercent](../get_zoompercent/).
 
 ```cpp
 void Aspose::Words::Settings::ViewOptions::set_ZoomPercent(int32_t value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_shadow/
 ## Font.set_Shadow method
 
 
-Setter for [Aspose::Words::Font::get_Shadow](./get_shadow/).
+Setter for [Aspose::Words::Font::get_Shadow](../get_shadow/).
 
 ```cpp
 void Aspose::Words::Font::set_Shadow(bool value)

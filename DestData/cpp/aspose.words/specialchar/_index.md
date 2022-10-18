@@ -15,7 +15,6 @@ Base class for special characters in the document.
 class SpecialChar : public Aspose::Words::Inline
 ```
 
-
 ## Methods
 
 | Method | Description |

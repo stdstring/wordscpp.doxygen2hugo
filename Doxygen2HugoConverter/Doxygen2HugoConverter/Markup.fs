@@ -45,7 +45,10 @@ type ClassDetailedDescription = {TemplateParameters: TemplateParameter list; Des
 
 type MethodArg = {Name: string; Description: SimpleMarkup}
 
-type MethodDetailedDescription = {Args: MethodArg list; ReturnValue: SimpleMarkup; Description: DetailedDescription}
+type MethodDetailedDescription = {TemplateParameters: TemplateParameter list;
+                                  Args: MethodArg list;
+                                  ReturnValue: SimpleMarkup;
+                                  Description: DetailedDescription}
 
 let parseMarkupRef (source: XElement) =
     let refId = "refid" |> Utils.getAttributeValue source
@@ -184,6 +187,11 @@ let parseMethodArgs (source: XElement) =
 
 let parseMethodDetailedDescription (source: XElement) =
     let detailedDescription = source |> parseDetailedDescription
+    let templateSource = source.Descendants("parameterlist") |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "templateparam")
+    let templateParameters = match templateSource |> Seq.toList with
+                             | [] -> []
+                             | [parameterListElement] -> parameterListElement |> parseTemplateParameters
+                             | _ -> failwith "Several sections with template parameters found"
     let returnValueSource = source.Descendants("simplesect") |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "return")
     let returnValue = match returnValueSource |> Seq.toList with
                       | [] -> []
@@ -194,6 +202,7 @@ let parseMethodDetailedDescription (source: XElement) =
                      | [] -> []
                      | [methodArgsElement] -> methodArgsElement |> parseMethodArgs
                      | _ -> failwith "Several sections with method args found"
-    {MethodDetailedDescription.Args = methodArgs;
+    {MethodDetailedDescription.TemplateParameters = templateParameters;
+     MethodDetailedDescription.Args = methodArgs;
      MethodDetailedDescription.ReturnValue = returnValue;
      MethodDetailedDescription.Description = detailedDescription}

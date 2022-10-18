@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/charttitle/set_show/
 ## ChartTitle.set_Show method
 
 
-Setter for [Aspose::Words::Drawing::Charts::ChartTitle::get_Show](./get_show/).
+Setter for [Aspose::Words::Drawing::Charts::ChartTitle::get_Show](../get_show/).
 
 ```cpp
 void Aspose::Words::Drawing::Charts::ChartTitle::set_Show(bool value)

@@ -15,3 +15,9 @@ Removes the structured document tag with the specified identifier.
 void Aspose::Words::Markup::StructuredDocumentTagCollection::Remove(int32_t id)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| id | `-` | The structured document tag identifier. |
+
+

@@ -15,7 +15,6 @@ A collection of [Field](./field/) objects that represents the fields in the spec
 class FieldCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Fields::Field>>
 ```
 
-
 ## Methods
 
 | Method | Description |

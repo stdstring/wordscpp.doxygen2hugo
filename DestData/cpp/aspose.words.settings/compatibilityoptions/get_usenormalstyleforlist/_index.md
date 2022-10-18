@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_usenormalstyleforlist/
 ## CompatibilityOptions.get_UseNormalStyleForList method
 
 
-Do Not Automatically Apply List [Paragraph](../../aspose.words/paragraph/)[Style](../../aspose.words/style/) To Bulleted/Numbered Text.
+Do Not Automatically Apply List [Paragraph](../../../aspose.words/paragraph/)[Style](../../../aspose.words/style/) To Bulleted/Numbered Text.
 
 ```cpp
 bool Aspose::Words::Settings::CompatibilityOptions::get_UseNormalStyleForList()

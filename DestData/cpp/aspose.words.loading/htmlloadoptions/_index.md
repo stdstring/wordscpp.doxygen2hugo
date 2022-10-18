@@ -15,7 +15,6 @@ Allows to specify additional options when loading HTML document into a [Document
 class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

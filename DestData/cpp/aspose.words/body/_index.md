@@ -15,7 +15,6 @@ Represents a container for the main text of a section.
 class Body : public Aspose::Words::Story
 ```
 
-
 ## Methods
 
 | Method | Description |

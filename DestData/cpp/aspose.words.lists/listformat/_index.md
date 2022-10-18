@@ -15,7 +15,6 @@ Allows to control what list formatting is applied to a paragraph.
 class ListFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

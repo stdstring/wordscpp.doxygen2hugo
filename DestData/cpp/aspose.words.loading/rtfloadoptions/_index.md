@@ -15,7 +15,6 @@ Allows to specify additional options when loading **Rtf** document into a [Docum
 class RtfLoadOptions : public Aspose::Words::Loading::LoadOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

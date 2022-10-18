@@ -15,7 +15,6 @@ Provides methods to render an individual [OfficeMath](../aspose.words.math/offic
 class OfficeMathRenderer : public Aspose::Words::Rendering::NodeRendererBase
 ```
 
-
 ## Methods
 
 | Method | Description |

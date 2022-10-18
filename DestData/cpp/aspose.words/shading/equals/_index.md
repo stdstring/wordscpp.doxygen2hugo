@@ -9,7 +9,7 @@ url: /cpp/aspose.words/shading/equals/
 ## Shading.Equals(const System::SharedPtr\<Aspose::Words::Shading\>\&) method
 
 
-Determines whether the specified [Shading](./) is equal in value to the current [Shading](./).
+Determines whether the specified [Shading](../) is equal in value to the current [Shading](../).
 
 ```cpp
 bool Aspose::Words::Shading::Equals(const System::SharedPtr<Aspose::Words::Shading> &rhs)

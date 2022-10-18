@@ -15,7 +15,6 @@ Represents a value and its unit of measure that is used to specify the preferred
 class PreferredWidth : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

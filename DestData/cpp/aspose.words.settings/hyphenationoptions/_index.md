@@ -15,7 +15,6 @@ Allows to configure document hyphenation options.
 class HyphenationOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

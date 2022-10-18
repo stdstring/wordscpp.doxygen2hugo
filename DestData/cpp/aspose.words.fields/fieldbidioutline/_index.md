@@ -15,7 +15,6 @@ Implements the BIDIOUTLINE field.
 class FieldBidiOutline : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

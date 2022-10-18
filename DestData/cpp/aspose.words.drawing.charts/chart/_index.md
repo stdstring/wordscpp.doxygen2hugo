@@ -15,7 +15,6 @@ Provides access to the chart shape properties.
 class Chart : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

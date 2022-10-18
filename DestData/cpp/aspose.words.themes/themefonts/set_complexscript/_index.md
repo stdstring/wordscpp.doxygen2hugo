@@ -9,7 +9,7 @@ url: /cpp/aspose.words.themes/themefonts/set_complexscript/
 ## ThemeFonts.set_ComplexScript method
 
 
-Setter for [Aspose::Words::Themes::ThemeFonts::get_ComplexScript](./get_complexscript/).
+Setter for [Aspose::Words::Themes::ThemeFonts::get_ComplexScript](../get_complexscript/).
 
 ```cpp
 void Aspose::Words::Themes::ThemeFonts::set_ComplexScript(const System::String &value)

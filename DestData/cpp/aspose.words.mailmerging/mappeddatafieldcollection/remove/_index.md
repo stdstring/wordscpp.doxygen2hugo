@@ -15,3 +15,9 @@ Removes a field mapping.
 void Aspose::Words::MailMerging::MappedDataFieldCollection::Remove(const System::String &documentFieldName)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documentFieldName | `-` | Case-sensitive name of the mail merge field in the document. |
+
+

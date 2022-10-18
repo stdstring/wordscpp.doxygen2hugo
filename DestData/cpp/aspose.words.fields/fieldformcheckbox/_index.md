@@ -15,7 +15,6 @@ Implements the FORMCHECKBOX field.
 class FieldFormCheckBox : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

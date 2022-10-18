@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/set_exportdocumentstructure/
 ## PdfSaveOptions.set_ExportDocumentStructure method
 
 
-Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ExportDocumentStructure](./get_exportdocumentstructure/).
+Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ExportDocumentStructure](../get_exportdocumentstructure/).
 
 ```cpp
 void Aspose::Words::Saving::PdfSaveOptions::set_ExportDocumentStructure(bool value)

@@ -15,7 +15,6 @@ Represents a collection of custom XML attributes or smart tag properties.
 class CustomXmlPropertyCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty>>
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,6 +15,12 @@ Creates an image dimension instance with the given value in points.
 Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension(double value)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | `-` | The value. |
+
+
 ## MergeFieldImageDimension.MergeFieldImageDimension(double, Aspose::Words::Fields::MergeFieldImageDimensionUnit) method
 
 
@@ -23,4 +29,11 @@ Creates an image dimension instance with the given value and the given unit.
 ```cpp
 Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension(double value, Aspose::Words::Fields::MergeFieldImageDimensionUnit unit)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | `-` | The value. |
+| unit | `-` | The unit. |
+
 

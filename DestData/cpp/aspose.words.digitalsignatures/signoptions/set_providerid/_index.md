@@ -9,7 +9,7 @@ url: /cpp/aspose.words.digitalsignatures/signoptions/set_providerid/
 ## SignOptions.set_ProviderId method
 
 
-Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId](./get_providerid/).
+Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId](../get_providerid/).
 
 ```cpp
 void Aspose::Words::DigitalSignatures::SignOptions::set_ProviderId(System::Guid value)

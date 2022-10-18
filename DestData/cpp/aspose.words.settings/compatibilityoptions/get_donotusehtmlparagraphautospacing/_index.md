@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_donotusehtmlparagraphau
 ## CompatibilityOptions.get_DoNotUseHTMLParagraphAutoSpacing method
 
 
-Use Fixed [Paragraph](../../aspose.words/paragraph/) Spacing for HTML Auto Setting.
+Use Fixed [Paragraph](../../../aspose.words/paragraph/) Spacing for HTML Auto Setting.
 
 ```cpp
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseHTMLParagraphAutoSpacing()

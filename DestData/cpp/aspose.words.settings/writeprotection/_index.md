@@ -15,7 +15,6 @@ Specifies write protection settings for a document.
 class WriteProtection : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

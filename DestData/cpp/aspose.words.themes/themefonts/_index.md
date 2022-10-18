@@ -15,7 +15,6 @@ Represents a collection of fonts in the font scheme, allowing to specify differe
 class ThemeFonts : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Provides various options that control how a document is shown in Microsoft Word.
 class ViewOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

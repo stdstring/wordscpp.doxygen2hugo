@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldtoa/set_bookmarkname/
 ## FieldToa.set_BookmarkName method
 
 
-Setter for [Aspose::Words::Fields::FieldToa::get_BookmarkName](./get_bookmarkname/).
+Setter for [Aspose::Words::Fields::FieldToa::get_BookmarkName](../get_bookmarkname/).
 
 ```cpp
 void Aspose::Words::Fields::FieldToa::set_BookmarkName(const System::String &value)

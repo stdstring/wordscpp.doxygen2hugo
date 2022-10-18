@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/set_webrequesttimeout/
 ## HtmlLoadOptions.set_WebRequestTimeout method
 
 
-Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_WebRequestTimeout](./get_webrequesttimeout/).
+Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_WebRequestTimeout](../get_webrequesttimeout/).
 
 ```cpp
 void Aspose::Words::Loading::HtmlLoadOptions::set_WebRequestTimeout(int32_t value)

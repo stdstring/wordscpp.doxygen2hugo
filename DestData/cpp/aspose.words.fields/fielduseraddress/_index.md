@@ -15,7 +15,6 @@ Implements the USERADDRESS field.
 class FieldUserAddress : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

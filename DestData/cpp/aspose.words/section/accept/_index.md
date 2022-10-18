@@ -15,3 +15,18 @@ Accepts a visitor.
 bool Aspose::Words::Section::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor> visitor) override
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | `-` | The visitor that will visit the nodes. |
+
+### ReturnValue
+
+
+True if all nodes were visited; false if [DocumentVisitor](../../documentvisitor/) stopped the operation before visiting all nodes.
+
+Enumerates over this node and all of its children. Each node calls a corresponding method on [DocumentVisitor](../../documentvisitor/).
+
+For more info see the Visitor design pattern.
+
+

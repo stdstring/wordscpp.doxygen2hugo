@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/set_addbidimarks/
 ## TxtSaveOptions.set_AddBidiMarks method
 
 
-Setter for [Aspose::Words::Saving::TxtSaveOptions::get_AddBidiMarks](./get_addbidimarks/).
+Setter for [Aspose::Words::Saving::TxtSaveOptions::get_AddBidiMarks](../get_addbidimarks/).
 
 ```cpp
 void Aspose::Words::Saving::TxtSaveOptions::set_AddBidiMarks(bool value)

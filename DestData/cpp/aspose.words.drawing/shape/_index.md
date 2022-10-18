@@ -15,7 +15,6 @@ Represents an object in the drawing layer, such as an AutoShape, textbox, freefo
 class Shape : public Aspose::Words::Drawing::ShapeBase, public Aspose::Words::Drawing::Core::ITextBox, public Aspose::Words::Drawing::Core::IStrokable
 ```
 
-
 ## Methods
 
 | Method | Description |

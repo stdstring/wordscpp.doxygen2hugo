@@ -15,3 +15,20 @@ Specifies whether export should correspond to ODT specification 1.1 strictly. OO
 bool Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11() const
 ```
 
+
+## Examples
+
+
+
+
+Shows how to make a saved document conform to an older ODT schema. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
+
+auto saveOptions = MakeObject<OdtSaveOptions>();
+saveOptions->set_MeasureUnit(OdtSaveMeasureUnit::Centimeters);
+saveOptions->set_IsStrictSchema11(exportToOdt11Specs);
+
+doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
+```
+

@@ -15,3 +15,13 @@ This is called to notify of document loading progress.
 virtual void Aspose::Words::Loading::IDocumentLoadingCallback::Notify(System::SharedPtr<Aspose::Words::Loading::DocumentLoadingArgs> args)=0
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| args | `-` | An argument of the event. |
+
+The primary uses for this interface is to allow application code to obtain progress status and abort loading process.
+
+An exception should be threw from the progress callback for abortion and it should be caught in the consumer code.
+
+

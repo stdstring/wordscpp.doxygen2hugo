@@ -15,7 +15,6 @@ Implements the INFO field.
 class FieldInfo : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

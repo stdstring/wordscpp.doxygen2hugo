@@ -15,7 +15,6 @@ This is an abstract base class for the classes that allow the user to specify va
 class FontSourceBase : public Aspose::Fonts::IFontSource
 ```
 
-
 ## Methods
 
 | Method | Description |

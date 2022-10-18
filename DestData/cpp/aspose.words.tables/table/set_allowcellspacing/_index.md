@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_allowcellspacing/
 ## Table.set_AllowCellSpacing method
 
 
-Setter for [Aspose::Words::Tables::Table::get_AllowCellSpacing](./get_allowcellspacing/).
+Setter for [Aspose::Words::Tables::Table::get_AllowCellSpacing](../get_allowcellspacing/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_AllowCellSpacing(bool value)

@@ -15,7 +15,6 @@ Represents information about a particular document page.
 class PageInfo : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

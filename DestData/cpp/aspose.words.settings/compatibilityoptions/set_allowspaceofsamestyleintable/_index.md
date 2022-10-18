@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_allowspaceofsamestylein
 ## CompatibilityOptions.set_AllowSpaceOfSameStyleInTable method
 
 
-Allow Contextual Spacing of Paragraphs in [Tables](../../aspose.words.tables/).
+Allow Contextual Spacing of Paragraphs in [Tables](../../../aspose.words.tables/).
 
 ```cpp
 void Aspose::Words::Settings::CompatibilityOptions::set_AllowSpaceOfSameStyleInTable(bool value)

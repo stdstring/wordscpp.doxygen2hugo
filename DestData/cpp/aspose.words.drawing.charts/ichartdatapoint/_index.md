@@ -15,7 +15,6 @@ Contains properties of a single data point on the chart.
 class IChartDataPoint : public virtual System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/imagewatermarkoptions/set_scale/
 ## ImageWatermarkOptions.set_Scale method
 
 
-Setter for [Aspose::Words::ImageWatermarkOptions::get_Scale](./get_scale/).
+Setter for [Aspose::Words::ImageWatermarkOptions::get_Scale](../get_scale/).
 
 ```cpp
 void Aspose::Words::ImageWatermarkOptions::set_Scale(double value)

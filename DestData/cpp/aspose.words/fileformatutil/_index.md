@@ -15,7 +15,6 @@ Provides utility methods for working with file formats, such as detecting file f
 class FileFormatUtil
 ```
 
-
 ## Methods
 
 | Method | Description |

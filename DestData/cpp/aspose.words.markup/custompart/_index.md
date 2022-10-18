@@ -15,7 +15,6 @@ Represents a custom (arbitrary content) part, that is not defined by the ISO/IEC
 class CustomPart : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

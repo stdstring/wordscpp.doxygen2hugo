@@ -15,7 +15,6 @@ Represents a typed collection of general formats.
 class GeneralFormatCollection : public System::Collections::Generic::IEnumerable<Aspose::Words::Fields::GeneralFormat>
 ```
 
-
 ## Methods
 
 | Method | Description |

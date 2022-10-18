@@ -15,7 +15,6 @@ Specifies information about the user.
 class UserInformation : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

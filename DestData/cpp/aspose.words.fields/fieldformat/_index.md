@@ -15,7 +15,6 @@ Provides typed access to field's numeric, date and time, and general formatting.
 class FieldFormat : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/imagedata/set_imagebytes/
 ## ImageData.set_ImageBytes method
 
 
-Setter for [Aspose::Words::Drawing::ImageData::get_ImageBytes](./get_imagebytes/).
+Setter for [Aspose::Words::Drawing::ImageData::get_ImageBytes](../get_imagebytes/).
 
 ```cpp
 void Aspose::Words::Drawing::ImageData::set_ImageBytes(const System::ArrayPtr<uint8_t> &value)

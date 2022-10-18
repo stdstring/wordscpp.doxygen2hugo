@@ -15,7 +15,6 @@ Represents the root element for a glossary document within a Word document. A gl
 class GlossaryDocument : public Aspose::Words::DocumentBase
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Base class for nodes that represent field characters in a document.
 class FieldChar : public Aspose::Words::SpecialChar
 ```
 
-
 ## Methods
 
 | Method | Description |

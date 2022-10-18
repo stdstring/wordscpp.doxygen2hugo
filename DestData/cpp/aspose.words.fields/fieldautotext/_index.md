@@ -15,7 +15,6 @@ Implements the AUTOTEXT field.
 class FieldAutoText : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldAutoTextCode
 ```
 
-
 ## Methods
 
 | Method | Description |

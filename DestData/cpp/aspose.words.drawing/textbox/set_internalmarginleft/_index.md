@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/textbox/set_internalmarginleft/
 ## TextBox.set_InternalMarginLeft method
 
 
-Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginLeft](./get_internalmarginleft/).
+Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginLeft](../get_internalmarginleft/).
 
 ```cpp
 void Aspose::Words::Drawing::TextBox::set_InternalMarginLeft(double value)

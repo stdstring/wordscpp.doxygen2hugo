@@ -15,7 +15,6 @@ Specifies the Office Data Source Object (ODSO) settings for a mail merge data so
 class Odso : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

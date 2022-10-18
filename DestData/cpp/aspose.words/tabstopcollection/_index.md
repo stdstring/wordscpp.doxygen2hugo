@@ -15,7 +15,6 @@ A collection of [TabStop](./tabstop/) objects that represent custom tabs for a p
 class TabStopCollection : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IExpandableAttr
 ```
 
-
 ## Methods
 
 | Method | Description |

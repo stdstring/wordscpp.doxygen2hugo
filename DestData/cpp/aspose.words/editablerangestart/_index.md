@@ -15,7 +15,6 @@ Represents a start of an editable range in a Word document.
 class EditableRangeStart : public Aspose::Words::Node, public Aspose::Words::IDisplaceableByCustomXml, public Aspose::Words::INodeWithAnnotationId
 ```
 
-
 ## Methods
 
 | Method | Description |

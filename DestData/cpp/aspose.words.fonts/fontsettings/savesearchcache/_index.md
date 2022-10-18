@@ -15,3 +15,9 @@ Saves the font search cache to the stream.
 void Aspose::Words::Fonts::FontSettings::SaveSearchCache(const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | `-` | Output stream. |
+
+

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/get_wpjustification/
 ## CompatibilityOptions.get_WPJustification method
 
 
-Emulate WordPerfect 6.x [Paragraph](../../aspose.words/paragraph/) Justification.
+Emulate WordPerfect 6.x [Paragraph](../../../aspose.words/paragraph/) Justification.
 
 ```cpp
 bool Aspose::Words::Settings::CompatibilityOptions::get_WPJustification()

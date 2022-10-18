@@ -15,7 +15,6 @@ Provides data for a custom replace operation.
 class ReplacingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/pagesetup/set_orientation/
 ## PageSetup.set_Orientation method
 
 
-Setter for [Aspose::Words::PageSetup::get_Orientation](./get_orientation/).
+Setter for [Aspose::Words::PageSetup::get_Orientation](../get_orientation/).
 
 ```cpp
 void Aspose::Words::PageSetup::set_Orientation(Aspose::Words::Orientation value)

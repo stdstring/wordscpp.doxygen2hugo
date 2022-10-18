@@ -15,7 +15,6 @@ Represents a collection of [VbaReference](./vbareference/) objects.
 class VbaReferenceCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Vba::VbaReference>>
 ```
 
-
 ## Methods
 
 | Method | Description |

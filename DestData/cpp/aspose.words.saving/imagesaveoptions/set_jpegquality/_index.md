@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/set_jpegquality/
 ## ImageSaveOptions.set_JpegQuality method
 
 
-Setter for [Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality](./get_jpegquality/).
+Setter for [Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality](../get_jpegquality/).
 
 ```cpp
 void Aspose::Words::Saving::ImageSaveOptions::set_JpegQuality(int32_t value)

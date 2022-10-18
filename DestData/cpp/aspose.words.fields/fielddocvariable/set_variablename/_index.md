@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddocvariable/set_variablename/
 ## FieldDocVariable.set_VariableName method
 
 
-Setter for [Aspose::Words::Fields::FieldDocVariable::get_VariableName](./get_variablename/).
+Setter for [Aspose::Words::Fields::FieldDocVariable::get_VariableName](../get_variablename/).
 
 ```cpp
 void Aspose::Words::Fields::FieldDocVariable::set_VariableName(const System::String &value)

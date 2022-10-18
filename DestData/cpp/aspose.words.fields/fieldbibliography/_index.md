@@ -15,7 +15,6 @@ Implements the BIBLIOGRAPHY field.
 class FieldBibliography : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
-
 ## Methods
 
 | Method | Description |

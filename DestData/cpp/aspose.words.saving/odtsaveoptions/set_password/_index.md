@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/odtsaveoptions/set_password/
 ## OdtSaveOptions.set_Password method
 
 
-Setter for [Aspose::Words::Saving::OdtSaveOptions::get_Password](./get_password/).
+Setter for [Aspose::Words::Saving::OdtSaveOptions::get_Password](../get_password/).
 
 ```cpp
 void Aspose::Words::Saving::OdtSaveOptions::set_Password(const System::String &value)

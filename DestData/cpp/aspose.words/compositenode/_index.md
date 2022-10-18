@@ -15,7 +15,6 @@ Base class for nodes that can contain other nodes.
 class CompositeNode : public Aspose::Words::Node, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>, public Aspose::Words::INodeCollection
 ```
 
-
 ## Methods
 
 | Method | Description |

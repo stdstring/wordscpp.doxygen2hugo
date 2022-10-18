@@ -15,7 +15,6 @@ Represents a table row.
 class Row : public Aspose::Words::CompositeNode, public Aspose::Words::IRowAttrSource, public Aspose::Words::Revisions::ITrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

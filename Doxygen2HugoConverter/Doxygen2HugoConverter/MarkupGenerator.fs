@@ -35,6 +35,7 @@ let GenerateBriefDescriptionForTitle (description: SimpleMarkupDef list) =
         | _ -> ()
     result.ToString()
 
+// TODO (std_string) : probably rename into GenerateMarkup
 let GenerateBriefDescription (relativeUrlGenerator: UrlGenerator) (description: SimpleMarkupDef list) =
     let result = new StringBuilder()
     description |> Seq.iter (fun entry -> entry |> generateSimpleMarkup result relativeUrlGenerator)

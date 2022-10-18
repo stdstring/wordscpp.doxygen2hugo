@@ -15,7 +15,6 @@ Default font substitution rule.
 class DefaultFontSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule
 ```
 
-
 ## Methods
 
 | Method | Description |

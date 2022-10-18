@@ -15,7 +15,6 @@ Builds a complex field argument consisting of fields, nodes, and plain text.
 class FieldArgumentBuilder : public Aspose::Words::Fields::IFieldBuildingBlock
 ```
 
-
 ## Methods
 
 | Method | Description |

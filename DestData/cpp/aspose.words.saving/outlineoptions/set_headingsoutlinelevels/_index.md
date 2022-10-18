@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/outlineoptions/set_headingsoutlinelevels/
 ## OutlineOptions.set_HeadingsOutlineLevels method
 
 
-Setter for [Aspose::Words::Saving::OutlineOptions::get_HeadingsOutlineLevels](./get_headingsoutlinelevels/).
+Setter for [Aspose::Words::Saving::OutlineOptions::get_HeadingsOutlineLevels](../get_headingsoutlinelevels/).
 
 ```cpp
 void Aspose::Words::Saving::OutlineOptions::set_HeadingsOutlineLevels(int32_t value)

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/style/set_name/
 ## Style.set_Name method
 
 
-Setter for [Aspose::Words::Style::get_Name](./get_name/).
+Setter for [Aspose::Words::Style::get_Name](../get_name/).
 
 ```cpp
 void Aspose::Words::Style::set_Name(const System::String &value)

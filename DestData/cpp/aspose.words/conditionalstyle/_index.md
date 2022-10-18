@@ -15,7 +15,6 @@ Represents special formatting applied to some area of a table with assigned tabl
 class ConditionalStyle : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource, public Aspose::Words::IParaAttrSource, public Aspose::Words::IRunAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

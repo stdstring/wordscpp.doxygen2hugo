@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldset/set_bookmarkname/
 ## FieldSet.set_BookmarkName method
 
 
-Setter for [Aspose::Words::Fields::FieldSet::get_BookmarkName](./get_bookmarkname/).
+Setter for [Aspose::Words::Fields::FieldSet::get_BookmarkName](../get_bookmarkname/).
 
 ```cpp
 void Aspose::Words::Fields::FieldSet::set_BookmarkName(const System::String &value)

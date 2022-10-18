@@ -15,7 +15,6 @@ Represents a Word field separator that separates the field code from the field r
 class FieldSeparator : public Aspose::Words::Fields::FieldChar
 ```
 
-
 ## Methods
 
 | Method | Description |

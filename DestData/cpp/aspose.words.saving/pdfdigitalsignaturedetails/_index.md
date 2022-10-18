@@ -15,7 +15,6 @@ Contains details for signing a PDF document with a digital signature.
 class PdfDigitalSignatureDetails : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Contains common options that can be specified when saving a document into fixed 
 class FixedPageSaveOptions : public Aspose::Words::Saving::SaveOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

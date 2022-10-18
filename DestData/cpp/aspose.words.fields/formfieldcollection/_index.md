@@ -15,7 +15,6 @@ A collection of **FormField** objects that represent all the form fields in a ra
 class FormFieldCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Fields::FormField>>
 ```
 
-
 ## Methods
 
 | Method | Description |

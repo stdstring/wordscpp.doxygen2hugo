@@ -15,7 +15,6 @@ Allows to specify additional options when loading **Text** document into a [Docu
 class TxtLoadOptions : public Aspose::Words::Loading::LoadOptions
 ```
 
-
 ## Methods
 
 | Method | Description |

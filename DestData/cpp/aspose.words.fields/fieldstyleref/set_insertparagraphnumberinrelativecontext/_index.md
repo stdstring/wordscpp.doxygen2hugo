@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldstyleref/set_insertparagraphnumberinrelativec
 ## FieldStyleRef.set_InsertParagraphNumberInRelativeContext method
 
 
-Setter for [Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInRelativeContext](./get_insertparagraphnumberinrelativecontext/).
+Setter for [Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInRelativeContext](../get_insertparagraphnumberinrelativecontext/).
 
 ```cpp
 void Aspose::Words::Fields::FieldStyleRef::set_InsertParagraphNumberInRelativeContext(bool value)

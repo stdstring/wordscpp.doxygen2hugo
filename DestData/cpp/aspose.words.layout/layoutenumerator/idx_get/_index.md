@@ -15,3 +15,14 @@ Gets a named property of the entity.
 System::SharedPtr<System::Object> Aspose::Words::Layout::LayoutEnumerator::idx_get(const System::String &key)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | `-` | A name of the property (case-sensitive). |
+
+### ReturnValue
+
+
+Null if property is not available, otherwise value of the property.
+
+

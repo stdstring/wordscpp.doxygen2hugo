@@ -15,7 +15,6 @@ Implements the MACROBUTTON field.
 class FieldMacroButton : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
-
 ## Methods
 
 | Method | Description |

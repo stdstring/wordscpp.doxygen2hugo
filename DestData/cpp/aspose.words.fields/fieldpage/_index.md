@@ -15,7 +15,6 @@ Implements the PAGE field.
 class FieldPage : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

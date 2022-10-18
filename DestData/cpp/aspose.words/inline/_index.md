@@ -15,7 +15,6 @@ Base class for inline-level nodes that can have character formatting associated 
 class Inline : public Aspose::Words::Node, public Aspose::Words::IInline, public Aspose::Words::Revisions::ITrackableNode
 ```
 
-
 ## Methods
 
 | Method | Description |

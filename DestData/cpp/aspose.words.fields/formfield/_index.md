@@ -15,7 +15,6 @@ Represents a single form field.
 class FormField : public Aspose::Words::SpecialChar
 ```
 
-
 ## Methods
 
 | Method | Description |

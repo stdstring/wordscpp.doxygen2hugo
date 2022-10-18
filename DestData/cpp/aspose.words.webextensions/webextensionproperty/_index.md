@@ -15,7 +15,6 @@ Specifies a web extension custom property.
 class WebExtensionProperty : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Represents a single custom tab stop. The **TabStop** object is a member of the [
 class TabStop : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

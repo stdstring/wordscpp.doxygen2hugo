@@ -15,7 +15,6 @@ Allows to automatically map between names of fields in your data source and name
 class MappedDataFieldCollection : public System::Collections::Generic::IEnumerable<System::Collections::Generic::KeyValuePair<System::String, System::String>>
 ```
 
-
 ## Methods
 
 | Method | Description |

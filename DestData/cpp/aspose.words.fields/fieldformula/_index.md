@@ -15,7 +15,6 @@ Implements the = (formula) field.
 class FieldFormula : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

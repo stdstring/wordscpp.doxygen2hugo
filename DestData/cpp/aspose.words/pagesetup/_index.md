@@ -15,7 +15,6 @@ Represents the page setup properties of a section.
 class PageSetup : public Aspose::Words::IBorderAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |

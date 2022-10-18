@@ -15,7 +15,6 @@ Represents a collection of chart legend entries.
 class ChartLegendEntryCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry>>
 ```
 
-
 ## Methods
 
 | Method | Description |

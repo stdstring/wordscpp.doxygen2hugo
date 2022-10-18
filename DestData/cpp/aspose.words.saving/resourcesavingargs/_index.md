@@ -15,7 +15,6 @@ Provides data for the [ResourceSaving()](./iresourcesavingcallback/resourcesavin
 class ResourceSavingArgs : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

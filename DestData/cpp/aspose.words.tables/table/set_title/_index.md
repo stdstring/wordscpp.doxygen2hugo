@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_title/
 ## Table.set_Title method
 
 
-Setter for [Aspose::Words::Tables::Table::get_Title](./get_title/).
+Setter for [Aspose::Words::Tables::Table::get_Title](../get_title/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_Title(const System::String &value)

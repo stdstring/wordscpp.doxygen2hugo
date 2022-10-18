@@ -15,7 +15,6 @@ Implements the TITLE field.
 class FieldTitle : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

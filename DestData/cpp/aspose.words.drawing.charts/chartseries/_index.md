@@ -15,7 +15,6 @@ Represents chart series properties.
 class ChartSeries : public Aspose::Words::Drawing::Charts::IChartDataPoint, public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
-
 ## Methods
 
 | Method | Description |

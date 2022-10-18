@@ -15,7 +15,6 @@ Allows to choose advanced options for document comparison operation.
 class CompareOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

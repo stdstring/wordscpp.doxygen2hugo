@@ -15,3 +15,17 @@ Removes the complete form field, not just the form field special character.
 void Aspose::Words::Fields::FormField::RemoveField()
 ```
 
+
+## Examples
+
+
+
+
+Shows how to delete a form field. 
+```cpp
+auto doc = MakeObject<Document>(MyDir + u"Form fields.docx");
+
+SharedPtr<FormField> formField = doc->get_Range()->get_FormFields()->idx_get(3);
+formField->RemoveField();
+```
+

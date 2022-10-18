@@ -15,7 +15,6 @@ Represents formatting of a list.
 class List : public System::IComparable<System::SharedPtr<Aspose::Words::Lists::List>>
 ```
 
-
 ## Methods
 
 | Method | Description |

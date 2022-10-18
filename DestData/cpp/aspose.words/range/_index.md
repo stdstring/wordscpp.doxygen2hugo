@@ -15,7 +15,6 @@ Represents a contiguous area in a document.
 class Range : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

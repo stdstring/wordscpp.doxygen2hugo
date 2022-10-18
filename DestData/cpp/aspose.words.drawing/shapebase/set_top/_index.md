@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/shapebase/set_top/
 ## ShapeBase.set_Top method
 
 
-Setter for [Aspose::Words::Drawing::ShapeBase::get_Top](./get_top/).
+Setter for [Aspose::Words::Drawing::ShapeBase::get_Top](../get_top/).
 
 ```cpp
 void Aspose::Words::Drawing::ShapeBase::set_Top(double value)

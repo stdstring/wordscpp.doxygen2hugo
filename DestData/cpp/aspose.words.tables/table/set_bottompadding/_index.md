@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/set_bottompadding/
 ## Table.set_BottomPadding method
 
 
-Setter for [Aspose::Words::Tables::Table::get_BottomPadding](./get_bottompadding/).
+Setter for [Aspose::Words::Tables::Table::get_BottomPadding](../get_bottompadding/).
 
 ```cpp
 void Aspose::Words::Tables::Table::set_BottomPadding(double value)

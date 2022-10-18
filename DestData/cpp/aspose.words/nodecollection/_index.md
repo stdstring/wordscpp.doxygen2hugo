@@ -15,7 +15,6 @@ Represents a collection of nodes of a specific type.
 class NodeCollection : public Aspose::Words::INodeCollection, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>
 ```
 
-
 ## Methods
 
 | Method | Description |

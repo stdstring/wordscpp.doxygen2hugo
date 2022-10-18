@@ -15,7 +15,6 @@ Implement this interface if you want to control how Aspose.Words saves separate 
 class IPageSavingCallback : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

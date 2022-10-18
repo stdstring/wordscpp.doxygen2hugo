@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/set_isexportneeded/
 ## FontSavingArgs.set_IsExportNeeded method
 
 
-Setter for [Aspose::Words::Saving::FontSavingArgs::get_IsExportNeeded](./get_isexportneeded/).
+Setter for [Aspose::Words::Saving::FontSavingArgs::get_IsExportNeeded](../get_isexportneeded/).
 
 ```cpp
 void Aspose::Words::Saving::FontSavingArgs::set_IsExportNeeded(bool value)

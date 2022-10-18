@@ -15,3 +15,9 @@ Removes the element at the specified index.
 void Aspose::Words::Settings::OdsoRecipientDataCollection::RemoveAt(int32_t index)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | `-` | The zero-based index of the element. |
+
+

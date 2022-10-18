@@ -15,7 +15,6 @@ Allows to specify downsample options.
 class DownsampleOptions : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

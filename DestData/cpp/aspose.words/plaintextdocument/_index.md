@@ -15,7 +15,6 @@ Allows to extract plain-text representation of the document's content.
 class PlainTextDocument : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

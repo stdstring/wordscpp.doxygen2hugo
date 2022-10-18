@@ -9,7 +9,7 @@ url: /cpp/aspose.words/font/set_themefontascii/
 ## Font.set_ThemeFontAscii method
 
 
-Setter for [Aspose::Words::Font::get_ThemeFontAscii](./get_themefontascii/).
+Setter for [Aspose::Words::Font::get_ThemeFontAscii](../get_themefontascii/).
 
 ```cpp
 void Aspose::Words::Font::set_ThemeFontAscii(Aspose::Words::Themes::ThemeFont value)

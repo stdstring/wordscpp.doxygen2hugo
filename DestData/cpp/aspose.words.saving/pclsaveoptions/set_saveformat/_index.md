@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pclsaveoptions/set_saveformat/
 ## PclSaveOptions.set_SaveFormat method
 
 
-Setter for [Aspose::Words::Saving::PclSaveOptions::get_SaveFormat](./get_saveformat/).
+Setter for [Aspose::Words::Saving::PclSaveOptions::get_SaveFormat](../get_saveformat/).
 
 ```cpp
 void Aspose::Words::Saving::PclSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override

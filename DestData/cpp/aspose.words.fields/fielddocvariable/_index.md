@@ -15,7 +15,6 @@ Implements DOCVARIABLE field.
 class FieldDocVariable : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

@@ -15,7 +15,6 @@ Represents fill formatting for an object.
 class Fill : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

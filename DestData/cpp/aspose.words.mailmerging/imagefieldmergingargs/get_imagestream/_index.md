@@ -15,3 +15,5 @@ Specifies the stream for the mail merge engine to read an image from.
 const System::SharedPtr<System::IO::Stream> & Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream() const
 ```
 
+
+Aspose.Words closes this stream after it merges the image into the document. 

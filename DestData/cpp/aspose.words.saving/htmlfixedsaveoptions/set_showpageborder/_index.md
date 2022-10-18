@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_showpageborder/
 ## HtmlFixedSaveOptions.set_ShowPageBorder method
 
 
-Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ShowPageBorder](./get_showpageborder/).
+Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ShowPageBorder](../get_showpageborder/).
 
 ```cpp
 void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ShowPageBorder(bool value)

@@ -15,7 +15,6 @@ The comparison expression.
 class ComparisonExpression : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

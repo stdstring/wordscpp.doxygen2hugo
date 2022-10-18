@@ -15,7 +15,6 @@ This element specifies a single list item within a parent **ComboBox** or **Drop
 class SdtListItem : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

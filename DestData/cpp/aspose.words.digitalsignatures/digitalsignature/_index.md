@@ -15,7 +15,6 @@ Represents a digital signature on a document and the result of its verification.
 class DigitalSignature : public System::Object
 ```
 
-
 ## Methods
 
 | Method | Description |

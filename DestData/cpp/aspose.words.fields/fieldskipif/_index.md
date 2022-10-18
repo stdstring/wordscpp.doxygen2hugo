@@ -15,7 +15,6 @@ Implements the SKIPIF field.
 class FieldSkipIf : public Aspose::Words::Fields::Field
 ```
 
-
 ## Methods
 
 | Method | Description |

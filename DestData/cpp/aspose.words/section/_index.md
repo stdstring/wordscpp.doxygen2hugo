@@ -15,7 +15,6 @@ Represents a single section in a document.
 class Section : public Aspose::Words::CompositeNode, public Aspose::Words::ISectionAttrSource
 ```
 
-
 ## Methods
 
 | Method | Description |
