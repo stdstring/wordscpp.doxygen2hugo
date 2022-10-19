@@ -3,7 +3,7 @@ title: GeneralFormatCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a typed collection of general formats. 
 type: docs
-weight: 0
+weight: 1457
 url: /cpp/aspose.words.fields/generalformatcollection/
 ---
 ## GeneralFormatCollection class

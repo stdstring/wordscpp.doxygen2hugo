@@ -3,7 +3,7 @@ title: VisitSectionStart
 second_title: Aspose.Words for C++ API Reference
 description: Called when enumeration of a section has started. 
 type: docs
-weight: 0
+weight: 482
 url: /cpp/aspose.words/documentvisitor/visitsectionstart/
 ---
 ## DocumentVisitor.VisitSectionStart method

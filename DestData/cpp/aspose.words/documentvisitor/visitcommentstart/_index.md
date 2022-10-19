@@ -3,7 +3,7 @@ title: VisitCommentStart
 second_title: Aspose.Words for C++ API Reference
 description: Called when enumeration of a comment text has started. 
 type: docs
-weight: 0
+weight: 157
 url: /cpp/aspose.words/documentvisitor/visitcommentstart/
 ---
 ## DocumentVisitor.VisitCommentStart method

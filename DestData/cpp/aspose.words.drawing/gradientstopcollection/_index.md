@@ -3,7 +3,7 @@ title: GradientStopCollection
 second_title: Aspose.Words for C++ API Reference
 description: Contains a collection of GradientStop objects. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.drawing/gradientstopcollection/
 ---
 ## GradientStopCollection class

@@ -3,7 +3,7 @@ title: MergeFieldImageDimension
 second_title: Aspose.Words for C++ API Reference
 description: Creates an image dimension instance with the given value in points. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.fields/mergefieldimagedimension/mergefieldimagedimension/
 ---
 ## MergeFieldImageDimension.MergeFieldImageDimension(double) method

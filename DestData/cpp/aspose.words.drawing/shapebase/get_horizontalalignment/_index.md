@@ -3,7 +3,7 @@ title: get_HorizontalAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Specifies how the shape is positioned horizontally. 
 type: docs
-weight: 0
+weight: 274
 url: /cpp/aspose.words.drawing/shapebase/get_horizontalalignment/
 ---
 ## ShapeBase.get_HorizontalAlignment method

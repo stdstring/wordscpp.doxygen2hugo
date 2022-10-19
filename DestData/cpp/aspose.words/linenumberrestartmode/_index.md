@@ -3,7 +3,7 @@ title: LineNumberRestartMode
 second_title: Aspose.Words for C++ API Reference
 description: Determines when automatic line numbering restarts. 
 type: docs
-weight: 0
+weight: 1223
 url: /cpp/aspose.words/linenumberrestartmode/
 ---
 ## LineNumberRestartMode enum

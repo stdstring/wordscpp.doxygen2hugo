@@ -3,7 +3,7 @@ title: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Removes a field mapping. 
 type: docs
-weight: 0
+weight: 157
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/remove/
 ---
 ## MappedDataFieldCollection.Remove method

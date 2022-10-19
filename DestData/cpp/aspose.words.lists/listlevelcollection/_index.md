@@ -3,7 +3,7 @@ title: ListLevelCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of list formatting for each level in a list. 
 type: docs
-weight: 0
+weight: 66
 url: /cpp/aspose.words.lists/listlevelcollection/
 ---
 ## ListLevelCollection class

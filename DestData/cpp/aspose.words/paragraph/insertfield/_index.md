@@ -3,7 +3,7 @@ title: InsertField
 second_title: Aspose.Words for C++ API Reference
 description: Inserts a field into this paragraph. 
 type: docs
-weight: 0
+weight: 339
 url: /cpp/aspose.words/paragraph/insertfield/
 ---
 ## Paragraph.InsertField(Aspose::Words::Fields::FieldType, bool, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method

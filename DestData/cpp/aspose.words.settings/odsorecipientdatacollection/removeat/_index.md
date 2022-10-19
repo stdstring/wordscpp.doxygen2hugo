@@ -3,7 +3,7 @@ title: RemoveAt
 second_title: Aspose.Words for C++ API Reference
 description: Removes the element at the specified index. 
 type: docs
-weight: 0
+weight: 144
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/removeat/
 ---
 ## OdsoRecipientDataCollection.RemoveAt method

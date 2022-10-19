@@ -3,7 +3,7 @@ title: set_Suffix
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::Fields::FieldCitation::get_Suffix. 
 type: docs
-weight: 0
+weight: 196
 url: /cpp/aspose.words.fields/fieldcitation/set_suffix/
 ---
 ## FieldCitation.set_Suffix method

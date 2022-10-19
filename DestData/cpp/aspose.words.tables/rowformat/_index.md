@@ -3,7 +3,7 @@ title: RowFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents all formatting for a table row. 
 type: docs
-weight: 0
+weight: 79
 url: /cpp/aspose.words.tables/rowformat/
 ---
 ## RowFormat class

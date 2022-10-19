@@ -3,7 +3,7 @@ title: get_Chart
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to the chart properties if this shape has a Chart. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.drawing/shape/get_chart/
 ---
 ## Shape.get_Chart method

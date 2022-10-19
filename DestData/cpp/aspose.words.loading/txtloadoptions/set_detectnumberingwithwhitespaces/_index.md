@@ -3,7 +3,7 @@ title: set_DetectNumberingWithWhitespaces
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces. 
 type: docs
-weight: 0
+weight: 66
 url: /cpp/aspose.words.loading/txtloadoptions/set_detectnumberingwithwhitespaces/
 ---
 ## TxtLoadOptions.set_DetectNumberingWithWhitespaces method

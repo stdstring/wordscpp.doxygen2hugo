@@ -3,7 +3,7 @@ title: NodeImporter
 second_title: Aspose.Words for C++ API Reference
 description: Allows to efficiently perform repeated import of nodes from one document to another. 
 type: docs
-weight: 0
+weight: 560
 url: /cpp/aspose.words/nodeimporter/
 ---
 ## NodeImporter class

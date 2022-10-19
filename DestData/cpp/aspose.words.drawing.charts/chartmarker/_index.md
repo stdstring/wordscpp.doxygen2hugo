@@ -3,7 +3,7 @@ title: ChartMarker
 second_title: Aspose.Words for C++ API Reference
 description: Represents a chart data marker. 
 type: docs
-weight: 0
+weight: 170
 url: /cpp/aspose.words.drawing.charts/chartmarker/
 ---
 ## ChartMarker class

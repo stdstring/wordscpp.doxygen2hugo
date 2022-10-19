@@ -3,7 +3,7 @@ title: TxtSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Can be used to specify additional options when saving a document into the Text format. 
 type: docs
-weight: 0
+weight: 417
 url: /cpp/aspose.words.saving/txtsaveoptions/
 ---
 ## TxtSaveOptions class

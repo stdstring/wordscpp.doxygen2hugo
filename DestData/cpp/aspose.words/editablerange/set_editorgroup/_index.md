@@ -3,7 +3,7 @@ title: set_EditorGroup
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::EditableRange::get_EditorGroup. 
 type: docs
-weight: 0
+weight: 79
 url: /cpp/aspose.words/editablerange/set_editorgroup/
 ---
 ## EditableRange.set_EditorGroup method

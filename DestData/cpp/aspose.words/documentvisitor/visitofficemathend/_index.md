@@ -3,7 +3,7 @@ title: VisitOfficeMathEnd
 second_title: Aspose.Words for C++ API Reference
 description: Called when enumeration of a Office Math object has ended. 
 type: docs
-weight: 0
+weight: 378
 url: /cpp/aspose.words/documentvisitor/visitofficemathend/
 ---
 ## DocumentVisitor.VisitOfficeMathEnd method

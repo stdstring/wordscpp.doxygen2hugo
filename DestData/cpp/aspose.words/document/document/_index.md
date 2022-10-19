@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.Words for C++ API Reference
 description: Creates a blank Word document. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words/document/document/
 ---
 ## Document.Document() method

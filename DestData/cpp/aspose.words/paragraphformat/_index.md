@@ -3,7 +3,7 @@ title: ParagraphFormat
 second_title: Aspose.Words for C++ API Reference
 description: Represents all the formatting for a paragraph. 
 type: docs
-weight: 0
+weight: 625
 url: /cpp/aspose.words/paragraphformat/
 ---
 ## ParagraphFormat class

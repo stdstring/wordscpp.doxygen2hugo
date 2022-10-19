@@ -3,7 +3,7 @@ title: AppendField
 second_title: Aspose.Words for C++ API Reference
 description: Appends a field to this paragraph. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words/paragraph/appendfield/
 ---
 ## Paragraph.AppendField(Aspose::Words::Fields::FieldType, bool) method

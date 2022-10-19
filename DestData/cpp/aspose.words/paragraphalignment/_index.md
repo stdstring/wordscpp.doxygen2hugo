@@ -3,7 +3,7 @@ title: ParagraphAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Specifies text alignment in a paragraph. 
 type: docs
-weight: 0
+weight: 1418
 url: /cpp/aspose.words/paragraphalignment/
 ---
 ## ParagraphAlignment enum

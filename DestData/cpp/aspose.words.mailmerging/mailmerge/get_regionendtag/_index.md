@@ -3,7 +3,7 @@ title: get_RegionEndTag
 second_title: Aspose.Words for C++ API Reference
 description: Gets or sets a mail merge region end tag. 
 type: docs
-weight: 0
+weight: 144
 url: /cpp/aspose.words.mailmerging/mailmerge/get_regionendtag/
 ---
 ## MailMerge.get_RegionEndTag method

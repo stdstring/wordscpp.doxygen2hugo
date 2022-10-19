@@ -3,7 +3,7 @@ title: GetSizeInPixels
 second_title: Aspose.Words for C++ API Reference
 description: Calculates the page size in pixels for a specified zoom factor and resolution. 
 type: docs
-weight: 0
+weight: 79
 url: /cpp/aspose.words.rendering/pageinfo/getsizeinpixels/
 ---
 ## PageInfo.GetSizeInPixels(float, float) method

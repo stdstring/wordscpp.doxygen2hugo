@@ -3,7 +3,7 @@ title: get_Count
 second_title: Aspose.Words for C++ API Reference
 description: Gets the number of nodes in the list. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words/nodelist/get_count/
 ---
 ## NodeList.get_Count method

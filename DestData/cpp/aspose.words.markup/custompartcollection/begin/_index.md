@@ -3,7 +3,7 @@ title: begin
 second_title: Aspose.Words for C++ API Reference
 description: 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.markup/custompartcollection/begin/
 ---
 ## CustomPartCollection.begin() const method

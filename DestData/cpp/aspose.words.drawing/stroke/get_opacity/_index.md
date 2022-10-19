@@ -3,7 +3,7 @@ title: get_Opacity
 second_title: Aspose.Words for C++ API Reference
 description: Defines the amount of transparency of a stroke. Valid range is from 0 to 1. 
 type: docs
-weight: 0
+weight: 170
 url: /cpp/aspose.words.drawing/stroke/get_opacity/
 ---
 ## Stroke.get_Opacity method

@@ -3,7 +3,7 @@ title: ChartLegend
 second_title: Aspose.Words for C++ API Reference
 description: Represents chart legend properties. 
 type: docs
-weight: 0
+weight: 131
 url: /cpp/aspose.words.drawing.charts/chartlegend/
 ---
 ## ChartLegend class

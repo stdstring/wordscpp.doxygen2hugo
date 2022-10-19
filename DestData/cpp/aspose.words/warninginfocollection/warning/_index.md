@@ -3,7 +3,7 @@ title: Warning
 second_title: Aspose.Words for C++ API Reference
 description: Implements the IWarningCallback interface. Adds a warning to this collection. 
 type: docs
-weight: 0
+weight: 170
 url: /cpp/aspose.words/warninginfocollection/warning/
 ---
 ## WarningInfoCollection.Warning method

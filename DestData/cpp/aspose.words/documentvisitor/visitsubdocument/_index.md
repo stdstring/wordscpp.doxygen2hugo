@@ -3,7 +3,7 @@ title: VisitSubDocument
 second_title: Aspose.Words for C++ API Reference
 description: Called when a subDocument is encountered. 
 type: docs
-weight: 0
+weight: 612
 url: /cpp/aspose.words/documentvisitor/visitsubdocument/
 ---
 ## DocumentVisitor.VisitSubDocument method

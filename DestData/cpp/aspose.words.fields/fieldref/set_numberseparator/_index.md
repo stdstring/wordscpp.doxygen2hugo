@@ -3,7 +3,7 @@ title: set_NumberSeparator
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::Fields::FieldRef::get_NumberSeparator. 
 type: docs
-weight: 0
+weight: 248
 url: /cpp/aspose.words.fields/fieldref/set_numberseparator/
 ---
 ## FieldRef.set_NumberSeparator method

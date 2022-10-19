@@ -3,7 +3,7 @@ title: ImageData
 second_title: Aspose.Words for C++ API Reference
 description: Defines an image for a shape. 
 type: docs
-weight: 0
+weight: 66
 url: /cpp/aspose.words.drawing/imagedata/
 ---
 ## ImageData class

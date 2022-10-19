@@ -3,7 +3,7 @@ title: FieldSectionPages
 second_title: Aspose.Words for C++ API Reference
 description: Implements the SECTIONPAGES field. 
 type: docs
-weight: 0
+weight: 1145
 url: /cpp/aspose.words.fields/fieldsectionpages/
 ---
 ## FieldSectionPages class

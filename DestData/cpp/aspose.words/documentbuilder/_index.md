@@ -3,7 +3,7 @@ title: DocumentBuilder
 second_title: Aspose.Words for C++ API Reference
 description: Provides methods to insert text, images and other content, specify font, paragraph and section formatting. 
 type: docs
-weight: 0
+weight: 274
 url: /cpp/aspose.words/documentbuilder/
 ---
 ## DocumentBuilder class

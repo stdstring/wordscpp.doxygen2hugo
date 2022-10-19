@@ -3,7 +3,7 @@ title: Range
 second_title: Aspose.Words for C++ API Reference
 description: Represents a contiguous area in a document. 
 type: docs
-weight: 0
+weight: 651
 url: /cpp/aspose.words/range/
 ---
 ## Range class

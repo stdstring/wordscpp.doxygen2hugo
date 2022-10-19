@@ -3,7 +3,7 @@ title: FieldDocVariable
 second_title: Aspose.Words for C++ API Reference
 description: Implements DOCVARIABLE field. 
 type: docs
-weight: 0
+weight: 456
 url: /cpp/aspose.words.fields/fielddocvariable/
 ---
 ## FieldDocVariable class

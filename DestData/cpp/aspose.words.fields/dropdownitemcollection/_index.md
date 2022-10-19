@@ -3,7 +3,7 @@ title: DropDownItemCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of strings that represent all the items in a drop-down form field. 
 type: docs
-weight: 0
+weight: 40
 url: /cpp/aspose.words.fields/dropdownitemcollection/
 ---
 ## DropDownItemCollection class

@@ -3,7 +3,7 @@ title: Save
 second_title: Aspose.Words for C++ API Reference
 description: Saves the current fallback settings to stream. 
 type: docs
-weight: 0
+weight: 53
 url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
 ---
 ## FontFallbackSettings.Save(const System::SharedPtr\<System::IO::Stream\>\&) method

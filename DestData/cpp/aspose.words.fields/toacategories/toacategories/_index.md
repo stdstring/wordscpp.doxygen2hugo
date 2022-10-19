@@ -3,7 +3,7 @@ title: ToaCategories
 second_title: Aspose.Words for C++ API Reference
 description: 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.fields/toacategories/toacategories/
 ---
 ## ToaCategories.ToaCategories method

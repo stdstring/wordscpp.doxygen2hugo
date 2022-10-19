@@ -3,7 +3,7 @@ title: RevisionGroup
 second_title: Aspose.Words for C++ API Reference
 description: Represents a group of sequential Revision objects. 
 type: docs
-weight: 0
+weight: 690
 url: /cpp/aspose.words/revisiongroup/
 ---
 ## RevisionGroup class

@@ -3,7 +3,7 @@ title: NonBreakingSpace
 second_title: Aspose.Words for C++ API Reference
 description: Non-breaking space character: "\x00a0". 
 type: docs
-weight: 0
+weight: 92
 url: /cpp/aspose.words/controlchar/nonbreakingspace/
 ---
 ## ControlChar.NonBreakingSpace method

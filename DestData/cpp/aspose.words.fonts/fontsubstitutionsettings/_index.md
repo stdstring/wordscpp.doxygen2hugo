@@ -3,7 +3,7 @@ title: FontSubstitutionSettings
 second_title: Aspose.Words for C++ API Reference
 description: Specifies font substitution mechanism settings. 
 type: docs
-weight: 0
+weight: 157
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/
 ---
 ## FontSubstitutionSettings class

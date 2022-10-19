@@ -3,7 +3,7 @@ title: ImportNode
 second_title: Aspose.Words for C++ API Reference
 description: Imports a node from another document to the current document. 
 type: docs
-weight: 0
+weight: 118
 url: /cpp/aspose.words/documentbase/importnode/
 ---
 ## DocumentBase.ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method

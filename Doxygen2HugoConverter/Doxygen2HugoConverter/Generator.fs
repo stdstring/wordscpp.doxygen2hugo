@@ -10,7 +10,13 @@ type KeyValueEntry = {Key: string; Value: string}
 
 type GenerateEntry = {Title: string; BriefDescription: string}
 
-type Context = {Directory: string; Url: string[]; CommonEntityRepo: IDictionary<string, Defs.EntityDef>}
+[<Literal>]
+let weightDelta = 13
+
+type Context = {Directory: string;
+                Url: string[];
+                mutable Weight: int;
+                CommonEntityRepo: IDictionary<string, Defs.EntityDef>}
 
 let createUrlForEntity (context: Context) (entityId: string) =
     let rec collectDependencyChain (storage: ResizeArray<string>) (entity: Defs.EntityDef) =
@@ -80,18 +86,18 @@ let generatePageHeader (dest: StringBuilder) (data: seq<KeyValueEntry>) =
 let generateRootPageHeader (url: string[]) (dest: StringBuilder) =
     [{KeyValueEntry.Key = "title"; KeyValueEntry.Value = "Aspose.Words for C++"};
      {KeyValueEntry.Key = "type"; KeyValueEntry.Value = "docs"};
-     {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = "0"};
+     {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = "666"};
      {KeyValueEntry.Key = "url"; KeyValueEntry.Value = url |> generateUrl false};
      {KeyValueEntry.Key = "keywords"; KeyValueEntry.Value = "\"Aspose.Words for C++, Aspose Words, Aspose API Reference.\""};
      {KeyValueEntry.Key = "description"; KeyValueEntry.Value = "Aspose.Words is a class library that can be used by developers for various platforms for a variety of document processing tasks."};
      {KeyValueEntry.Key = "is_root"; KeyValueEntry.Value = "true"}] |> generatePageHeader dest
 
-let generateDefPageHeader (title: string) (description: string) (url: string[]) (dest: StringBuilder) =
+let generateDefPageHeader (title: string) (description: string) (url: string[]) (weight: int) (dest: StringBuilder) =
     [{KeyValueEntry.Key = "title"; KeyValueEntry.Value = title};
      {KeyValueEntry.Key = "second_title"; KeyValueEntry.Value = "Aspose.Words for C++ API Reference"};
      {KeyValueEntry.Key = "description"; KeyValueEntry.Value = description};
      {KeyValueEntry.Key = "type"; KeyValueEntry.Value = "docs"};
-     {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = "0"};
+     {KeyValueEntry.Key = "weight"; KeyValueEntry.Value = weight |> string};
      {KeyValueEntry.Key = "url"; KeyValueEntry.Value = url |> generateUrl false}] |> generatePageHeader dest
 
 let generateTableHeader (columnHeaders: string list) (dest: StringBuilder) =
@@ -118,10 +124,11 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
     let enumDirectory = Path.Combine(context.Directory, folderName)
     enumDirectory |> Directory.CreateDirectory |> ignore
     let enumUrl = [|folderName|] |> Array.append context.Url
-    let currentContext = {context with Directory = enumDirectory; Url = enumUrl}
+    let currentContext = {context with Directory = enumDirectory; Url = enumUrl; Weight = 1}
     let builder = new StringBuilder()
     let descriptionForTitle = enumDef.BriefDescription |> GenerateBriefDescriptionForTitle
-    builder |> generateDefPageHeader enumDef.Name descriptionForTitle enumUrl
+    builder |> generateDefPageHeader enumDef.Name descriptionForTitle enumUrl context.Weight
+    context.Weight <- context.Weight + weightDelta
     GenerateHeader (sprintf $"{enumDef.Name} enum") 2 |> builder.Append |> ignore
     let briefDescription = enumDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
     builder.AppendLine() |> ignore
@@ -153,10 +160,11 @@ let generateForTypedef (context: Context) (typedefDef: Defs.TypedefDef) =
     let typedefDirectory = Path.Combine(context.Directory, folderName)
     typedefDirectory |> Directory.CreateDirectory |> ignore
     let typedefUrl = [|folderName|] |> Array.append context.Url
-    let currentContext = {context with Directory = typedefDirectory; Url = typedefUrl}
+    let currentContext = {context with Directory = typedefDirectory; Url = typedefUrl; Weight = 1}
     let builder = new StringBuilder()
     let descriptionForTitle = typedefDef.BriefDescription |> GenerateBriefDescriptionForTitle
-    builder |> generateDefPageHeader typedefDef.Name descriptionForTitle typedefUrl
+    builder |> generateDefPageHeader typedefDef.Name descriptionForTitle typedefUrl context.Weight
+    context.Weight <- context.Weight + weightDelta
     GenerateHeader (sprintf $"{typedefDef.Name} typedef") 2 |> builder.Append |> ignore
     let briefDescription = typedefDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
     builder.AppendLine() |> ignore
@@ -203,20 +211,6 @@ let generateMethodDefinition (methodDef: Defs.MethodDef) (dest: StringBuilder) =
     "```" |> dest.AppendLine |> ignore
     dest.AppendLine() |> ignore
 
-(*let generateTypeRepresentation (sourceType: Markup.SimpleMarkupDef list) =
-    let mapFun = fun part -> match part with
-                             | Markup.SimpleMarkupDef.Text text -> text
-                             | Markup.SimpleMarkupDef.Ref data -> data.Text
-                             | _ -> failwith "Unsupported markup element for type"
-    let typeRepresentation = sourceType |> Seq.map mapFun |> String.concat ""
-    typeRepresentation.Replace("< ", "\\<").Replace(" >", "\\>").Replace(" &", "\\&")*)
-
-(*let generateParameterList (parameters: Defs.MethodArgDefef list) (dest: StringBuilder) =
-    parameters |> Seq.iteri (fun index parameter -> match index with
-                                                    | 0 -> ()
-                                                    | _ -> ", " |> dest.Append |> ignore
-                                                    parameter.Type |> generateTypeRepresentation |> dest.Append |> ignore)*)
-
 let createArgTypeList (parameters: Defs.MethodArgDef list) =
     let createTypeRepresentation (sourceType: Markup.SimpleMarkupDef list) =
         let mapFun = fun part -> match part with
@@ -232,7 +226,6 @@ let generateMethodHeader (hasOverloads: bool) (argsTypes: string list) (methodDe
     sprintf $"{methodDef.ClassName}.{methodDef.Name}" |> result.Append |> ignore
     if hasOverloads then
         "(" |> result.Append |> ignore
-        //result |> generateParameterList methodDef.Parameters
         argsTypes |> String.concat ", " |> result.Append |> ignore
         ")" |> result.Append |> ignore
         if methodDef.IsConst then
@@ -245,11 +238,12 @@ let generateForDirectMethod (context: Context) (isFirst: bool) (hasOverloads: bo
     let methodDirectory = Path.Combine(context.Directory, folderName)
     methodDirectory |> Directory.CreateDirectory |> ignore
     let methodUrl = [|folderName|] |> Array.append context.Url
-    let currentContext = {context with Directory = methodDirectory; Url = methodUrl}
+    let currentContext = {context with Directory = methodDirectory; Url = methodUrl; Weight = 1}
     let builder = new StringBuilder()
     if isFirst then
         let descriptionForTitle = methodDef.BriefDescription |> GenerateBriefDescriptionForTitle
-        builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl
+        builder |> generateDefPageHeader methodDef.Name descriptionForTitle methodUrl context.Weight
+        context.Weight <- context.Weight + weightDelta
     let argsTypes = methodDef.Args |> createArgTypeList
     GenerateHeader (methodDef |> generateMethodHeader hasOverloads argsTypes) 2 |> builder.Append |> ignore
     let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity currentContext)
@@ -280,7 +274,6 @@ let createMethodEntry (context: Context) (relativeUrl: string) (methodDef: Defs.
         "static " |> builder.Append |> ignore
     relativeUrl |> GenerateLink methodDef.Name |> builder.Append |> ignore
     "(" |> builder.Append |> ignore
-    //builder |> generateParameterList methodDef.Parameters
     methodDef.Args |> createArgTypeList |> String.concat ", " |> builder.Append |> ignore
     ")" |> builder.Append |> ignore
     if methodDef.IsConst then
@@ -336,10 +329,11 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     let classDirectory = Path.Combine(context.Directory, folderName)
     classDirectory |> Directory.CreateDirectory |> ignore
     let classUrl = [|folderName|] |> Array.append context.Url
-    let currentContext = {context with Directory = classDirectory; Url = classUrl}
+    let currentContext = {context with Directory = classDirectory; Url = classUrl; Weight = 1}
     let builder = new StringBuilder()
     let descriptionForTitle = classDef.BriefDescription |> GenerateBriefDescriptionForTitle
-    builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl
+    builder |> generateDefPageHeader classDef.Name descriptionForTitle classUrl context.Weight
+    context.Weight <- context.Weight + weightDelta
     GenerateHeader (sprintf $"{classDef.Name} {classDef |> generateClassKind}") 2 |> builder.Append |> ignore
     let briefDescription = classDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
     builder.AppendLine() |> ignore
@@ -368,10 +362,11 @@ let generateForNamespace (context: Context) (namespaceDef: Defs.NamespaceDef) =
         let namespaceDirectory = Path.Combine(context.Directory, folderName)
         namespaceDirectory |> Directory.CreateDirectory |> ignore
         let namespaceUrl = [|folderName|] |> Array.append context.Url
-        let currentContext = {context with Directory = namespaceDirectory; Url = namespaceUrl}
+        let currentContext = {context with Directory = namespaceDirectory; Url = namespaceUrl; Weight = 1}
         let builder = new StringBuilder()
         let descriptionForTitle = namespaceDef.BriefDescription |> GenerateBriefDescriptionForTitle
-        builder |> generateDefPageHeader namespaceDef.Name descriptionForTitle namespaceUrl
+        builder |> generateDefPageHeader namespaceDef.Name descriptionForTitle namespaceUrl context.Weight
+        context.Weight <- context.Weight + weightDelta
         let briefDescription = namespaceDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
         builder.AppendLine() |> ignore
         briefDescription |> builder.AppendLine |> ignore
@@ -407,7 +402,7 @@ let generateForNamespace (context: Context) (namespaceDef: Defs.NamespaceDef) =
 let generateDest (config: Config.ConfigData) (repo: IDictionary<string, Defs.EntityDef>) (namespaceDefs: Defs.NamespaceDef list) =
     let rootDirectory = config |> prepareDirectory
     let rootUrl = [|Common.RootDirectory|]
-    let context = {Context.Directory = rootDirectory; Context.Url = rootUrl; Context.CommonEntityRepo = repo}
+    let context = {Context.Directory = rootDirectory; Context.Url = rootUrl; Context.CommonEntityRepo = repo; Context.Weight = 1}
     let builder = new StringBuilder()
     builder |> generateRootPageHeader rootUrl
     builder.AppendLine() |> ignore

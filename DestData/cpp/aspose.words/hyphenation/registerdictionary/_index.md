@@ -3,7 +3,7 @@ title: RegisterDictionary
 second_title: Aspose.Words for C++ API Reference
 description: Registers and loads a hyphenation dictionary for the specified language from a stream. Throws if dictionary cannot be read or has invalid format. 
 type: docs
-weight: 0
+weight: 40
 url: /cpp/aspose.words/hyphenation/registerdictionary/
 ---
 ## Hyphenation.RegisterDictionary(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&) method

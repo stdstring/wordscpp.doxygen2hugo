@@ -3,7 +3,7 @@ title: PlainTextDocument
 second_title: Aspose.Words for C++ API Reference
 description: Creates a plain text document from a stream. Automatically detects the file format. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words/plaintextdocument/plaintextdocument/
 ---
 ## PlainTextDocument.PlainTextDocument(const System::SharedPtr\<System::IO::Stream\>\&) method

@@ -3,7 +3,7 @@ title: Comment
 second_title: Aspose.Words for C++ API Reference
 description: Initializes a new instance of the Comment class. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words/comment/comment/
 ---
 ## Comment.Comment(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method

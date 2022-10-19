@@ -3,7 +3,7 @@ title: set_Checked
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Checked. 
 type: docs
-weight: 0
+weight: 495
 url: /cpp/aspose.words.markup/structureddocumenttag/set_checked/
 ---
 ## StructuredDocumentTag.set_Checked method

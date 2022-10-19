@@ -3,7 +3,7 @@ title: FieldMergeBarcode
 second_title: Aspose.Words for C++ API Reference
 description: Implements the MERGEBARCODE field. 
 type: docs
-weight: 0
+weight: 846
 url: /cpp/aspose.words.fields/fieldmergebarcode/
 ---
 ## FieldMergeBarcode class

@@ -3,7 +3,7 @@ title: Execute
 second_title: Aspose.Words for C++ API Reference
 description: Performs a mail merge operation for a single record. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ---
 ## MailMerge.Execute(const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) method

@@ -3,7 +3,7 @@ title: Add
 second_title: Aspose.Words for C++ API Reference
 description: Creates a new custom document property of the PropertyType.Boolean data type. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
 ## CustomDocumentProperties.Add(const System::String\&, bool) method

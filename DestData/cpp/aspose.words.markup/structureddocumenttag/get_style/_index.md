@@ -3,7 +3,7 @@ title: get_Style
 second_title: Aspose.Words for C++ API Reference
 description: Gets or sets the Style of the structured document tag. 
 type: docs
-weight: 0
+weight: 352
 url: /cpp/aspose.words.markup/structureddocumenttag/get_style/
 ---
 ## StructuredDocumentTag.get_Style method

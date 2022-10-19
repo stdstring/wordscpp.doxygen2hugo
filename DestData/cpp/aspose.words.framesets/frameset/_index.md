@@ -3,7 +3,7 @@ title: Frameset
 second_title: Aspose.Words for C++ API Reference
 description: Represents a frames page or a single frame on a frames page. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.framesets/frameset/
 ---
 ## Frameset class

@@ -3,7 +3,7 @@ title: Chart
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to the chart shape properties. 
 type: docs
-weight: 0
+weight: 40
 url: /cpp/aspose.words.drawing.charts/chart/
 ---
 ## Chart class

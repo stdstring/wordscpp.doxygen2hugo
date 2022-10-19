@@ -3,7 +3,7 @@ title: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Returns a bookmark by name. 
 type: docs
-weight: 0
+weight: 40
 url: /cpp/aspose.words/bookmarkcollection/idx_get/
 ---
 ## BookmarkCollection.idx_get(const System::String\&) method

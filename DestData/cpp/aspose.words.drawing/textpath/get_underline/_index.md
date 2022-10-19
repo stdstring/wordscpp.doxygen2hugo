@@ -3,7 +3,7 @@ title: get_Underline
 second_title: Aspose.Words for C++ API Reference
 description: True if the font is underlined. 
 type: docs
-weight: 0
+weight: 235
 url: /cpp/aspose.words.drawing/textpath/get_underline/
 ---
 ## TextPath.get_Underline method

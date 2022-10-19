@@ -3,7 +3,7 @@ title: GradientStop
 second_title: Aspose.Words for C++ API Reference
 description: Represents one gradient stop. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.drawing/gradientstop/
 ---
 ## GradientStop class

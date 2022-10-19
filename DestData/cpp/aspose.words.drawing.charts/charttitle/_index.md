@@ -3,7 +3,7 @@ title: ChartTitle
 second_title: Aspose.Words for C++ API Reference
 description: Provides access to the chart title properties. 
 type: docs
-weight: 0
+weight: 222
 url: /cpp/aspose.words.drawing.charts/charttitle/
 ---
 ## ChartTitle class

@@ -3,7 +3,7 @@ title: AxisScaling
 second_title: Aspose.Words for C++ API Reference
 description: Represents the scaling options of the axis. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.drawing.charts/axisscaling/
 ---
 ## AxisScaling class

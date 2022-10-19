@@ -3,7 +3,7 @@ title: TextPathAlignment
 second_title: Aspose.Words for C++ API Reference
 description: WordArt alignment. 
 type: docs
-weight: 0
+weight: 521
 url: /cpp/aspose.words.drawing/textpathalignment/
 ---
 ## TextPathAlignment enum

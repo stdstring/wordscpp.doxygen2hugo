@@ -3,7 +3,7 @@ title: FolderFontSource
 second_title: Aspose.Words for C++ API Reference
 description: Represents the folder that contains TrueType font files. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.fonts/folderfontsource/
 ---
 ## FolderFontSource class

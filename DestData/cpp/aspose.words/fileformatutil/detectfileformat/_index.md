@@ -3,7 +3,7 @@ title: DetectFileFormat
 second_title: Aspose.Words for C++ API Reference
 description: Detects and returns the information about a format of a document stored in a stream. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words/fileformatutil/detectfileformat/
 ---
 ## FileFormatUtil.DetectFileFormat(const System::SharedPtr\<System::IO::Stream\>\&) method

@@ -3,7 +3,7 @@ title: CustomDocumentProperties
 second_title: Aspose.Words for C++ API Reference
 description: A collection of custom document properties. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.properties/customdocumentproperties/
 ---
 ## CustomDocumentProperties class

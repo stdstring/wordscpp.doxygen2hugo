@@ -3,7 +3,7 @@ title: IImageSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Implement this interface if you want to control how Aspose.Words saves images when saving a document to HTML. May be used by other formats. 
 type: docs
-weight: 0
+weight: 547
 url: /cpp/aspose.words.saving/iimagesavingcallback/
 ---
 ## IImageSavingCallback interface

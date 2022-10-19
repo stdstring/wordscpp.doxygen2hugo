@@ -3,7 +3,7 @@ title: SectionCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of Section objects in the document. 
 type: docs
-weight: 0
+weight: 755
 url: /cpp/aspose.words/sectioncollection/
 ---
 ## SectionCollection class

@@ -3,7 +3,7 @@ title: FontInfoCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents a collection of fonts used in a document. 
 type: docs
-weight: 0
+weight: 79
 url: /cpp/aspose.words.fonts/fontinfocollection/
 ---
 ## FontInfoCollection class

@@ -3,7 +3,7 @@ title: FieldUserInitials
 second_title: Aspose.Words for C++ API Reference
 description: Implements the USERINITIALS field. 
 type: docs
-weight: 0
+weight: 1392
 url: /cpp/aspose.words.fields/fielduserinitials/
 ---
 ## FieldUserInitials class

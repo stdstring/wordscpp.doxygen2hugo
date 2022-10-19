@@ -3,7 +3,7 @@ title: set_HangingPunctuation
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::ParagraphFormat::get_HangingPunctuation. 
 type: docs
-weight: 0
+weight: 664
 url: /cpp/aspose.words/paragraphformat/set_hangingpunctuation/
 ---
 ## ParagraphFormat.set_HangingPunctuation method

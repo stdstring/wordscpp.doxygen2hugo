@@ -3,7 +3,7 @@ title: IStructuredDocumentTag
 second_title: Aspose.Words for C++ API Reference
 description: Interface to define a common data for StructuredDocumentTag and StructuredDocumentTagRangeStart. 
 type: docs
-weight: 0
+weight: 196
 url: /cpp/aspose.words.markup/istructureddocumenttag/
 ---
 ## IStructuredDocumentTag interface

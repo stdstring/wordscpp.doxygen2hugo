@@ -3,7 +3,7 @@ title: FieldInclude
 second_title: Aspose.Words for C++ API Reference
 description: Implements the INCLUDE field. 
 type: docs
-weight: 0
+weight: 716
 url: /cpp/aspose.words.fields/fieldinclude/
 ---
 ## FieldInclude class

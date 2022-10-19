@@ -3,7 +3,7 @@ title: PageInfo
 second_title: Aspose.Words for C++ API Reference
 description: Represents information about a particular document page. 
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.rendering/pageinfo/
 ---
 ## PageInfo class

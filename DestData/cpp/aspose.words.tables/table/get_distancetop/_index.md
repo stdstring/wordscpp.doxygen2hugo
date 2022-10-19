@@ -3,7 +3,7 @@ title: get_DistanceTop
 second_title: Aspose.Words for C++ API Reference
 description: Gets distance between table top and the surrounding text, in points. 
 type: docs
-weight: 0
+weight: 261
 url: /cpp/aspose.words.tables/table/get_distancetop/
 ---
 ## Table.get_DistanceTop method

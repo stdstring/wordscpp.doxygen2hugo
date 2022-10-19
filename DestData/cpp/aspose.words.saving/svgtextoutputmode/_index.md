@@ -3,7 +3,7 @@ title: SvgTextOutputMode
 second_title: Aspose.Words for C++ API Reference
 description: 
 type: docs
-weight: 0
+weight: 1041
 url: /cpp/aspose.words.saving/svgtextoutputmode/
 ---
 ## SvgTextOutputMode enum

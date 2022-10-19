@@ -3,7 +3,7 @@ title: get_Width
 second_title: Aspose.Words for C++ API Reference
 description: When columns are evenly spaced, gets the width of the columns. 
 type: docs
-weight: 0
+weight: 53
 url: /cpp/aspose.words/textcolumncollection/get_width/
 ---
 ## TextColumnCollection.get_Width method

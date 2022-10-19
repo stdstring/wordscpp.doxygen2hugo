@@ -3,7 +3,7 @@ title: get_DocumentPartSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Allows to control how document parts are saved when a document is saved to HTML or EPUB. 
 type: docs
-weight: 0
+weight: 79
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentpartsavingcallback/
 ---
 ## HtmlSaveOptions.get_DocumentPartSavingCallback method

@@ -3,7 +3,7 @@ title: CompareOptions
 second_title: Aspose.Words for C++ API Reference
 description: Allows to choose advanced options for document comparison operation. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.comparing/compareoptions/
 ---
 ## CompareOptions class

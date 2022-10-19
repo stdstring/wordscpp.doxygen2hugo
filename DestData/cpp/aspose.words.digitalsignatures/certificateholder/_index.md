@@ -3,7 +3,7 @@ title: CertificateHolder
 second_title: Aspose.Words for C++ API Reference
 description: Represents a holder of X509Certificate2 instance. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.digitalsignatures/certificateholder/
 ---
 ## CertificateHolder class

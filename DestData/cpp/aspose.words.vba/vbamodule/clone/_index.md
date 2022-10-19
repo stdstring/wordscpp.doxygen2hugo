@@ -3,7 +3,7 @@ title: Clone
 second_title: Aspose.Words for C++ API Reference
 description: Performs a copy of the VbaModule. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.vba/vbamodule/clone/
 ---
 ## VbaModule.Clone method

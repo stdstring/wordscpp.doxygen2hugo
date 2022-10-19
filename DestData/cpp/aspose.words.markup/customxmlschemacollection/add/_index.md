@@ -3,7 +3,7 @@ title: Add
 second_title: Aspose.Words for C++ API Reference
 description: Adds an item to the collection. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.markup/customxmlschemacollection/add/
 ---
 ## CustomXmlSchemaCollection.Add method

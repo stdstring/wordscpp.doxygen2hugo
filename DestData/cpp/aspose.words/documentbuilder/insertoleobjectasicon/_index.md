@@ -3,7 +3,7 @@ title: InsertOleObjectAsIcon
 second_title: Aspose.Words for C++ API Reference
 description: Inserts an embedded OLE object as icon from a stream into the document. Allows to specify icon file and caption. Detects OLE object type using given progID parameter. 
 type: docs
-weight: 0
+weight: 482
 url: /cpp/aspose.words/documentbuilder/insertoleobjectasicon/
 ---
 ## DocumentBuilder.InsertOleObjectAsIcon(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::String\&, const System::String\&) method

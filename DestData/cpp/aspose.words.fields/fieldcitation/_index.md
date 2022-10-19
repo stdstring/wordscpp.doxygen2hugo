@@ -3,7 +3,7 @@ title: FieldCitation
 second_title: Aspose.Words for C++ API Reference
 description: Implements the CITATION field. 
 type: docs
-weight: 0
+weight: 274
 url: /cpp/aspose.words.fields/fieldcitation/
 ---
 ## FieldCitation class

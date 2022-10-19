@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Words for C++ API Reference
 description: Contains font attributes (font name, font size, color, and so on) for an object. 
 type: docs
-weight: 0
+weight: 365
 url: /cpp/aspose.words/font/
 ---
 ## Font class

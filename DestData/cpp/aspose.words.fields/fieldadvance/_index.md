@@ -3,7 +3,7 @@ title: FieldAdvance
 second_title: Aspose.Words for C++ API Reference
 description: Implements the ADVANCE field. 
 type: docs
-weight: 0
+weight: 92
 url: /cpp/aspose.words.fields/fieldadvance/
 ---
 ## FieldAdvance class

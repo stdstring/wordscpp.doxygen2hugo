@@ -3,7 +3,7 @@ title: VbaModule
 second_title: Aspose.Words for C++ API Reference
 description: Creates an empty module. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.vba/vbamodule/vbamodule/
 ---
 ## VbaModule.VbaModule method

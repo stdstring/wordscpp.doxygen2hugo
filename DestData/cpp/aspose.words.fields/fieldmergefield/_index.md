@@ -3,7 +3,7 @@ title: FieldMergeField
 second_title: Aspose.Words for C++ API Reference
 description: Implements the MERGEFIELD field. 
 type: docs
-weight: 0
+weight: 859
 url: /cpp/aspose.words.fields/fieldmergefield/
 ---
 ## FieldMergeField class

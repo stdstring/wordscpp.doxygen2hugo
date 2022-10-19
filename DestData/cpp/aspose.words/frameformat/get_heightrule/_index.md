@@ -3,7 +3,7 @@ title: get_HeightRule
 second_title: Aspose.Words for C++ API Reference
 description: Gets the rule for determining the height of the specified frame. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words/frameformat/get_heightrule/
 ---
 ## FrameFormat.get_HeightRule method

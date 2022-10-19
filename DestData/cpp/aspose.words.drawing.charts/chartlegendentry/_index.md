@@ -3,7 +3,7 @@ title: ChartLegendEntry
 second_title: Aspose.Words for C++ API Reference
 description: Represents a chart legend entry. 
 type: docs
-weight: 0
+weight: 144
 url: /cpp/aspose.words.drawing.charts/chartlegendentry/
 ---
 ## ChartLegendEntry class

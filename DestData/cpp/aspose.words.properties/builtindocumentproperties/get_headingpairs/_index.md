@@ -3,7 +3,7 @@ title: get_HeadingPairs
 second_title: Aspose.Words for C++ API Reference
 description: Specifies document headings and their names. 
 type: docs
-weight: 0
+weight: 131
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_headingpairs/
 ---
 ## BuiltInDocumentProperties.get_HeadingPairs method

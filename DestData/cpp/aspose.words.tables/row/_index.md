@@ -3,7 +3,7 @@ title: Row
 second_title: Aspose.Words for C++ API Reference
 description: Represents a table row. 
 type: docs
-weight: 0
+weight: 53
 url: /cpp/aspose.words.tables/row/
 ---
 ## Row class

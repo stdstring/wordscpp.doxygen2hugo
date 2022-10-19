@@ -3,7 +3,7 @@ title: EmphasisMark
 second_title: Aspose.Words for C++ API Reference
 description: Specifies possible types of emphasis mark. 
 type: docs
-weight: 0
+weight: 1145
 url: /cpp/aspose.words/emphasismark/
 ---
 ## EmphasisMark enum

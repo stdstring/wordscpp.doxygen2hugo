@@ -3,7 +3,7 @@ title: get_Top
 second_title: Aspose.Words for C++ API Reference
 description: Gets the top border. 
 type: docs
-weight: 0
+weight: 157
 url: /cpp/aspose.words/bordercollection/get_top/
 ---
 ## BorderCollection.get_Top method

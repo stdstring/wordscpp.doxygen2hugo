@@ -3,7 +3,7 @@ title: ComparisonEvaluationResult
 second_title: Aspose.Words for C++ API Reference
 description: The comparison evaluation result. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.fields/comparisonevaluationresult/
 ---
 ## ComparisonEvaluationResult class

@@ -3,7 +3,7 @@ title: ChartDataPointCollection
 second_title: Aspose.Words for C++ API Reference
 description: Represents collection of a ChartDataPoint. 
 type: docs
-weight: 0
+weight: 105
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/
 ---
 ## ChartDataPointCollection class

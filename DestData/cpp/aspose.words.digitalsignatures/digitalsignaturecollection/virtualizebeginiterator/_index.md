@@ -3,7 +3,7 @@ title: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
 description: 
 type: docs
-weight: 0
+weight: 131
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/virtualizebeginiterator/
 ---
 ## DigitalSignatureCollection.virtualizeBeginIterator method

@@ -3,7 +3,7 @@ title: SetTemplateWeakPtr
 second_title: Aspose.Words for C++ API Reference
 description: 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.webextensions/webextensionbindingcollection/settemplateweakptr/
 ---
 ## WebExtensionBindingCollection.SetTemplateWeakPtr method

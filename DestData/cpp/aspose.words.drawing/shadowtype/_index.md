@@ -3,7 +3,7 @@ title: ShadowType
 second_title: Aspose.Words for C++ API Reference
 description: Specifies the type of a shape shadow. 
 type: docs
-weight: 0
+weight: 443
 url: /cpp/aspose.words.drawing/shadowtype/
 ---
 ## ShadowType enum

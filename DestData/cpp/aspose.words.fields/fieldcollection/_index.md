@@ -3,7 +3,7 @@ title: FieldCollection
 second_title: Aspose.Words for C++ API Reference
 description: A collection of Field objects that represents the fields in the specified range. 
 type: docs
-weight: 0
+weight: 287
 url: /cpp/aspose.words.fields/fieldcollection/
 ---
 ## FieldCollection class

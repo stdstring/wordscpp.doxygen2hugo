@@ -3,7 +3,7 @@ title: get_CropLeft
 second_title: Aspose.Words for C++ API Reference
 description: Defines the fraction of picture removal from the left side. 
 type: docs
-weight: 0
+weight: 79
 url: /cpp/aspose.words.drawing/imagedata/get_cropleft/
 ---
 ## ImageData.get_CropLeft method

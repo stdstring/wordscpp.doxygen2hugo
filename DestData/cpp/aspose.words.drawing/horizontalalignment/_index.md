@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Specifies horizontal alignment of a floating shape, text frame or floating table. 
 type: docs
-weight: 0
+weight: 326
 url: /cpp/aspose.words.drawing/horizontalalignment/
 ---
 ## HorizontalAlignment enum

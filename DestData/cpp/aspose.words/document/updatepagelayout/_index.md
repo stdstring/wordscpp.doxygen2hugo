@@ -3,7 +3,7 @@ title: UpdatePageLayout
 second_title: Aspose.Words for C++ API Reference
 description: Rebuilds the page layout of the document. 
 type: docs
-weight: 0
+weight: 1171
 url: /cpp/aspose.words/document/updatepagelayout/
 ---
 ## Document.UpdatePageLayout method

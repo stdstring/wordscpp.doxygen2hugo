@@ -3,7 +3,7 @@ title: TextPath
 second_title: Aspose.Words for C++ API Reference
 description: Defines the text and formatting of the text path (of a WordArt object). 
 type: docs
-weight: 0
+weight: 196
 url: /cpp/aspose.words.drawing/textpath/
 ---
 ## TextPath class

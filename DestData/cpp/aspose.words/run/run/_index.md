@@ -3,7 +3,7 @@ title: Run
 second_title: Aspose.Words for C++ API Reference
 description: Initializes a new instance of the Run class. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words/run/run/
 ---
 ## Run.Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method

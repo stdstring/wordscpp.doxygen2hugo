@@ -3,7 +3,7 @@ title: get_StoryType
 second_title: Aspose.Words for C++ API Reference
 description: Returns Textbox. 
 type: docs
-weight: 0
+weight: 222
 url: /cpp/aspose.words.drawing/shape/get_storytype/
 ---
 ## Shape.get_StoryType method

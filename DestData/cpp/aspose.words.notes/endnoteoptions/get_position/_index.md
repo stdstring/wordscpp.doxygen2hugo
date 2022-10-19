@@ -3,7 +3,7 @@ title: get_Position
 second_title: Aspose.Words for C++ API Reference
 description: Specifies the endnotes position. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.notes/endnoteoptions/get_position/
 ---
 ## EndnoteOptions.get_Position method

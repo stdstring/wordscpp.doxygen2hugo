@@ -3,7 +3,7 @@ title: ResourceType
 second_title: Aspose.Words for C++ API Reference
 description: Type of loaded resource. 
 type: docs
-weight: 0
+weight: 209
 url: /cpp/aspose.words.loading/resourcetype/
 ---
 ## ResourceType enum

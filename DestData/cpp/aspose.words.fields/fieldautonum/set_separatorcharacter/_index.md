@@ -3,7 +3,7 @@ title: set_SeparatorCharacter
 second_title: Aspose.Words for C++ API Reference
 description: Setter for Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter. 
 type: docs
-weight: 0
+weight: 14
 url: /cpp/aspose.words.fields/fieldautonum/set_separatorcharacter/
 ---
 ## FieldAutoNum.set_SeparatorCharacter method

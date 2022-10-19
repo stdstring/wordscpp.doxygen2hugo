@@ -3,7 +3,7 @@ title: TableSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
 description: Table font substitution rule. 
 type: docs
-weight: 0
+weight: 222
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/
 ---
 ## TableSubstitutionRule class

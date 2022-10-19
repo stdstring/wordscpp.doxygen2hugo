@@ -3,7 +3,7 @@ title: FieldIf
 second_title: Aspose.Words for C++ API Reference
 description: Implements the IF field. 
 type: docs
-weight: 0
+weight: 690
 url: /cpp/aspose.words.fields/fieldif/
 ---
 ## FieldIf class

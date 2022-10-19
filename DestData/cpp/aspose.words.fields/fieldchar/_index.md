@@ -3,7 +3,7 @@ title: FieldChar
 second_title: Aspose.Words for C++ API Reference
 description: Base class for nodes that represent field characters in a document. 
 type: docs
-weight: 0
+weight: 261
 url: /cpp/aspose.words.fields/fieldchar/
 ---
 ## FieldChar class

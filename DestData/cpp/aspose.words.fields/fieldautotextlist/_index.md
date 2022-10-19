@@ -3,7 +3,7 @@ title: FieldAutoTextList
 second_title: Aspose.Words for C++ API Reference
 description: Implements the AUTOTEXTLIST field. 
 type: docs
-weight: 0
+weight: 196
 url: /cpp/aspose.words.fields/fieldautotextlist/
 ---
 ## FieldAutoTextList class

@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.Words for C++ API Reference
 description: Base class for all nodes of a Word document. 
 type: docs
-weight: 0
+weight: 521
 url: /cpp/aspose.words/node/
 ---
 ## Node class

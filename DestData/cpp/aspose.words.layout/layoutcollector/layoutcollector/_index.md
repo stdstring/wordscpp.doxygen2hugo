@@ -3,7 +3,7 @@ title: LayoutCollector
 second_title: Aspose.Words for C++ API Reference
 description: Initializes an instance of this class. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.layout/layoutcollector/layoutcollector/
 ---
 ## LayoutCollector.LayoutCollector method

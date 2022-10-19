@@ -3,7 +3,7 @@ title: TextBox
 second_title: Aspose.Words for C++ API Reference
 description: Defines attributes that specify how a text is displayed inside a shape. 
 type: docs
-weight: 0
+weight: 183
 url: /cpp/aspose.words.drawing/textbox/
 ---
 ## TextBox class

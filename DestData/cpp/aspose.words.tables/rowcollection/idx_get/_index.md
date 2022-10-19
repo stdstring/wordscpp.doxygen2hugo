@@ -3,7 +3,7 @@ title: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Retrieves a Row at the given index. 
 type: docs
-weight: 0
+weight: 1
 url: /cpp/aspose.words.tables/rowcollection/idx_get/
 ---
 ## RowCollection.idx_get method

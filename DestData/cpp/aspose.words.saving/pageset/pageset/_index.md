@@ -3,7 +3,7 @@ title: PageSet
 second_title: Aspose.Words for C++ API Reference
 description: Creates a page set based on exact page indices. 
 type: docs
-weight: 0
+weight: 40
 url: /cpp/aspose.words.saving/pageset/pageset/
 ---
 ## PageSet.PageSet(const System::ArrayPtr\<int32_t\>\&) method

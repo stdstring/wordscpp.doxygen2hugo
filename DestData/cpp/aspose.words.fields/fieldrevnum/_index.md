@@ -3,7 +3,7 @@ title: FieldRevNum
 second_title: Aspose.Words for C++ API Reference
 description: Implements the REVNUM field. 
 type: docs
-weight: 0
+weight: 1106
 url: /cpp/aspose.words.fields/fieldrevnum/
 ---
 ## FieldRevNum class

@@ -3,7 +3,7 @@ title: get_Document
 second_title: Aspose.Words for C++ API Reference
 description: Gets the document to which this node belongs. 
 type: docs
-weight: 0
+weight: 40
 url: /cpp/aspose.words/node/get_document/
 ---
 ## Node.get_Document method

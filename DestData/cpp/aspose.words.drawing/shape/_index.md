@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Words for C++ API Reference
 description: Represents an object in the drawing layer, such as an AutoShape, textbox, freeform, OLE object, ActiveX control, or picture. 
 type: docs
-weight: 0
+weight: 131
 url: /cpp/aspose.words.drawing/shape/
 ---
 ## Shape class

@@ -3,7 +3,7 @@ title: ResourceSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Provides data for the ResourceSaving() event. 
 type: docs
-weight: 0
+weight: 339
 url: /cpp/aspose.words.saving/resourcesavingargs/
 ---
 ## ResourceSavingArgs class

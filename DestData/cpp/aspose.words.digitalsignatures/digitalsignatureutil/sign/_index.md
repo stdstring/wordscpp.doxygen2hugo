@@ -3,7 +3,7 @@ title: Sign
 second_title: Aspose.Words for C++ API Reference
 description: Signs source document using given CertificateHolder with digital signature and writes signed document to destination stream. Document should be either Doc or Docx.Output will be written to the start of stream and stream size will be updated with content length.
 type: docs
-weight: 0
+weight: 27
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/sign/
 ---
 ## DigitalSignatureUtil.Sign(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) method
