@@ -15,8 +15,8 @@ Specifies how the color space will be selected for the images in PDF document.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Auto | `0` | Aspose.Words automatically selects the most appropriate color space for each image. |
-| SimpleCmyk | `0` | Aspose.Words coverts RGB images to CMYK color space using simple formula. |
+| Auto | 0 | Aspose.Words automatically selects the most appropriate color space for each image. |
+| SimpleCmyk | 1 | Aspose.Words coverts RGB images to CMYK color space using simple formula. |
 
 
 ## Examples

@@ -15,8 +15,8 @@ Indicates the version of HTML is used when saving the document to **Html** and *
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Xhtml | `0` | Saves the document in compliance with the XHTML 1.0 Transitional standard. |
-| Html5 | `0` | Saves the document in compliance with the HTML 5 standard. |
+| Xhtml | 0 | Saves the document in compliance with the XHTML 1.0 Transitional standard. |
+| Html5 | 1 | Saves the document in compliance with the HTML 5 standard. |
 
 
 ## Examples

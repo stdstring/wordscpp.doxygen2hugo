@@ -15,8 +15,8 @@ Specifies the type of compression applied to images in the PDF file.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Auto | `0` | Automatically selects the most appropriate compression for each image. |
-| Jpeg | `0` | Jpeg compression. Does not support transparency. |
+| Auto | 0 | Automatically selects the most appropriate compression for each image. |
+| Jpeg | 1 | Jpeg compression. Does not support transparency. |
 
 
 ## Examples

@@ -15,10 +15,10 @@ DocumentPositionMovement enumeration.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Inside | `0` |  |
-| StartEnd | `0` |  |
-| Sibling | `0` |  |
-| Above | `0` |  |
-| Below | `0` |  |
+| None | 0 |  |
+| Inside | 1 |  |
+| StartEnd | 2 |  |
+| Sibling | 3 |  |
+| Above | 4 |  |
+| Below | 5 |  |
 

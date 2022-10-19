@@ -15,8 +15,8 @@ Allows to specify whether to work with the original or revised version of a docu
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Original | `0` | Specifies original version of a document. |
-| Final | `0` | Specifies revised version of a document. |
+| Original | 0 | Specifies original version of a document. |
+| Final | 1 | Specifies revised version of a document. |
 
 
 ## Examples

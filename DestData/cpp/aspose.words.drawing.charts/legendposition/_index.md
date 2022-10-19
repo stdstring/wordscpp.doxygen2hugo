@@ -15,12 +15,12 @@ Specifies the possible positions for a chart legend.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No legend will be shown for the chart. |
-| Bottom | `0` | Specifies that the legend shall be drawn at the bottom of the chart. |
-| Left | `0` | Specifies that the legend shall be drawn at the left of the chart. |
-| Right | `0` | Specifies that the legend shall be drawn at the right of the chart. |
-| Top | `0` | Specifies that the legend shall be drawn at the top of the chart. |
-| TopRight | `0` | Specifies that the legend shall be drawn at the top right of the chart. |
+| None | 0 | No legend will be shown for the chart. |
+| Bottom | 1 | Specifies that the legend shall be drawn at the bottom of the chart. |
+| Left | 2 | Specifies that the legend shall be drawn at the left of the chart. |
+| Right | 3 | Specifies that the legend shall be drawn at the right of the chart. |
+| Top | 4 | Specifies that the legend shall be drawn at the top of the chart. |
+| TopRight | 5 | Specifies that the legend shall be drawn at the top right of the chart. |
 
 
 ## Examples

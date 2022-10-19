@@ -15,6 +15,6 @@ Specifies an unit of an image dimension (i.e. the width or the height) used acro
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Point | `0` | The point (i.e. 1/72 inch). |
-| Percent | `0` | The percent of the original image dimension value. |
+| Point | 0 | The point (i.e. 1/72 inch). |
+| Percent | 1 | The percent of the original image dimension value. |
 

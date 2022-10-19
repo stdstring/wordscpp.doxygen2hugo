@@ -15,8 +15,8 @@ Allows to specify base document which will be used during comparison. Default va
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Current | `0` | This document is used as a base during comparison. |
-| New | `0` | Other document is used as a base during comparison. |
+| Current | 0 | This document is used as a base during comparison. |
+| New | 1 | Other document is used as a base during comparison. |
 
 
 ## Examples

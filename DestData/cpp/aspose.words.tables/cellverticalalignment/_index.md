@@ -15,9 +15,9 @@ Specifies vertical justification of text inside a table cell.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Top | `0` | Text is aligned at the top of a cell. |
-| Center | `0` | Text is aligned in the middle of a cell. |
-| Bottom | `0` | Text is aligned at the bottom of the cell. |
+| Top | 0 | Text is aligned at the top of a cell. |
+| Center | 1 | Text is aligned in the middle of a cell. |
+| Bottom | 2 | Text is aligned at the bottom of the cell. |
 
 
 ## Examples

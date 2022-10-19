@@ -15,6 +15,6 @@ LicenseState enumeration.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Evaluation | `0` |  |
-| Licensed | `0` |  |
+| Evaluation | 0 |  |
+| Licensed | 1 |  |
 

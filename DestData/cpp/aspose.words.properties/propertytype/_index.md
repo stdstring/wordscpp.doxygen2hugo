@@ -15,15 +15,15 @@ Specifies data type of a document property.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Boolean | `0` | The property is a boolean value. |
-| DateTime | `0` | The property is a date time value. |
-| Double | `0` | The property is a floating number. |
-| Number | `0` | The property is an integer number. |
-| String | `0` | The property is a string value. |
-| StringArray | `0` | The property is an array of strings. |
-| ObjectArray | `0` | The property is an array of objects. |
-| ByteArray | `0` | The property is an array of bytes. |
-| Other | `0` | The property is some other type. |
+| Boolean | 0 | The property is a boolean value. |
+| DateTime | 1 | The property is a date time value. |
+| Double | 2 | The property is a floating number. |
+| Number | 3 | The property is an integer number. |
+| String | 4 | The property is a string value. |
+| StringArray | 5 | The property is an array of strings. |
+| ObjectArray | 6 | The property is an array of objects. |
+| ByteArray | 7 | The property is an array of bytes. |
+| Other | 8 | The property is some other type. |
 
 
 ## Examples

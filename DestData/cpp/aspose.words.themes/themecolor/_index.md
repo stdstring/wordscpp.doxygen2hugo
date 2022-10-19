@@ -15,23 +15,23 @@ Specifies the theme colors for document themes.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No color. |
-| Dark1 | `0` | Dark main color 1. |
-| Light1 | `0` | Light main color 1. |
-| Dark2 | `0` | Dark main color 2. |
-| Light2 | `0` | Light main color 2. |
-| Accent1 | `0` | Accent color 1. |
-| Accent2 | `0` | Accent color 2. |
-| Accent3 | `0` | Accent color 3. |
-| Accent4 | `0` | Accent color 4. |
-| Accent5 | `0` | Accent color 5. |
-| Accent6 | `0` | Accent color 6. |
-| Hyperlink | `0` | Hyperlink color. |
-| FollowedHyperlink | `0` | Followed hyperlink color. |
-| Text1 | `0` | Text color 1. |
-| Text2 | `0` | Text color 2. |
-| Background1 | `0` | Background color 1. |
-| Background2 | `0` | Background color 2. |
+| None | -1 | No color. |
+| Dark1 | 0 | Dark main color 1. |
+| Light1 | 1 | Light main color 1. |
+| Dark2 | 2 | Dark main color 2. |
+| Light2 | 3 | Light main color 2. |
+| Accent1 | 4 | Accent color 1. |
+| Accent2 | 5 | Accent color 2. |
+| Accent3 | 6 | Accent color 3. |
+| Accent4 | 7 | Accent color 4. |
+| Accent5 | 8 | Accent color 5. |
+| Accent6 | 9 | Accent color 6. |
+| Hyperlink | 10 | Hyperlink color. |
+| FollowedHyperlink | 11 | Followed hyperlink color. |
+| Text1 | 12 | Text color 1. |
+| Text2 | 13 | Text color 2. |
+| Background1 | 14 | Background color 1. |
+| Background2 | 15 | Background color 2. |
 
 
 ## Examples

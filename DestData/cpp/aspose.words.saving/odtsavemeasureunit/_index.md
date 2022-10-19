@@ -15,8 +15,8 @@ Specified units of measure to apply to measurable document content such as shape
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Centimeters | `0` | Specifies that the document content is saved using centimeters. |
-| Inches | `0` | Specifies that the document content is saved using inches. |
+| Centimeters | 0 | Specifies that the document content is saved using centimeters. |
+| Inches | 1 | Specifies that the document content is saved using inches. |
 
 
 ## Examples

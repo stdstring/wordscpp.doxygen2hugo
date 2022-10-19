@@ -15,24 +15,24 @@ Specifies paper size.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| A3 | `0` | 297 x 420 mm. |
-| A4 | `0` | 210 x 297 mm. |
-| A5 | `0` | 148 x 210 mm. |
-| B4 | `0` | 250 x 353 mm. |
-| B5 | `0` | 176 x 250 mm. |
-| Executive | `0` | 7.25 x 10.5 inches. |
-| Folio | `0` | 8.5 x 13 inches. |
-| Ledger | `0` | 17 x 11 inches. |
-| Legal | `0` | 8.5 x 14 inches. |
-| Letter | `0` | 8.5 x 11 inches. |
-| EnvelopeDL | `0` | 110 x 220 mm. |
-| Quarto | `0` | 8.47 x 10.83 inches. |
-| Statement | `0` | 8.5 x 5.5 inches. |
-| Tabloid | `0` | 11 x 17 inches. |
-| Paper10x14 | `0` | 10 x 14 inches. |
-| Paper11x17 | `0` | 11 x 17 inches. |
-| Number10Envelope | `0` | 4.125 x 9.5 inches. |
-| Custom | `0` | Custom paper size. |
+| A3 | 0 | 297 x 420 mm. |
+| A4 | 1 | 210 x 297 mm. |
+| A5 | 2 | 148 x 210 mm. |
+| B4 | 3 | 250 x 353 mm. |
+| B5 | 4 | 176 x 250 mm. |
+| Executive | 5 | 7.25 x 10.5 inches. |
+| Folio | 6 | 8.5 x 13 inches. |
+| Ledger | 7 | 17 x 11 inches. |
+| Legal | 8 | 8.5 x 14 inches. |
+| Letter | 9 | 8.5 x 11 inches. |
+| EnvelopeDL | 10 | 110 x 220 mm. |
+| Quarto | 11 | 8.47 x 10.83 inches. |
+| Statement | 12 | 8.5 x 5.5 inches. |
+| Tabloid | 13 | 11 x 17 inches. |
+| Paper10x14 | 14 | 10 x 14 inches. |
+| Paper11x17 | 15 | 11 x 17 inches. |
+| Number10Envelope | 16 | 4.125 x 9.5 inches. |
+| Custom | 17 | Custom paper size. |
 
 
 ## Examples

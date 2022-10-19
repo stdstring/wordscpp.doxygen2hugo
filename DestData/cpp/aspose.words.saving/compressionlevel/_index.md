@@ -15,10 +15,10 @@ Compression level for OOXML files. (DOCX and DOTX files are internally a ZIP-arc
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Normal | `0` | Normal compression level. Default compression level used by [Aspose.Words](../../aspose.words/). |
-| Maximum | `0` | Maximum compression level. |
-| Fast | `0` | Fast compression level. |
-| SuperFast | `0` | Super Fast compression level. Microsoft Word uses this compression level. |
+| Normal | 0 | Normal compression level. Default compression level used by [Aspose.Words](../../aspose.words/). |
+| Maximum | 1 | Maximum compression level. |
+| Fast | 2 | Fast compression level. |
+| SuperFast | 3 | Super Fast compression level. Microsoft Word uses this compression level. |
 
 
 ## Examples

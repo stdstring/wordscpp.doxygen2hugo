@@ -15,10 +15,10 @@ Specifies the unit of time for axes.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Automatic | `0` | Specifies that unit was not set explicitly and default value should be used. |
-| Days | `0` | Specifies that the chart data shall be shown in days. |
-| Months | `0` | Specifies that the chart data shall be shown in months. |
-| Years | `0` | Specifies that the chart data shall be shown in years. |
+| Automatic | 0 | Specifies that unit was not set explicitly and default value should be used. |
+| Days | 1 | Specifies that the chart data shall be shown in days. |
+| Months | 2 | Specifies that the chart data shall be shown in months. |
+| Years | 3 | Specifies that the chart data shall be shown in years. |
 
 
 ## Examples

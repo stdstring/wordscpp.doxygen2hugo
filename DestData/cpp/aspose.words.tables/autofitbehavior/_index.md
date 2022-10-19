@@ -15,9 +15,9 @@ Determines how Aspose.Words resizes the table when you invoke the [AutoFit()](..
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AutoFitToContents | `0` | Aspose.Words enables the AutoFit option, removes the preferred width from the table and all cells and then updates the table layout. In the resulting table, cell widths are updated to fit the table contents. Most likely, the table will shrink. |
-| AutoFitToWindow | `0` | When you use this value, Aspose.Words enables the AutoFit option, sets the preferred width for the table to 100%, removes preferred widths from all cells and then updates the table layout. As a result, the table occupies all available width and the cell widths are updated to fit table contents. |
-| FixedColumnWidths | `0` | Aspose.Words disables the AutoFit option and removes the preferred with from the table. The widths of the cells remain as they are specified by their [Width](../cellformat/get_width/) properties. |
+| AutoFitToContents | 0 | Aspose.Words enables the AutoFit option, removes the preferred width from the table and all cells and then updates the table layout. In the resulting table, cell widths are updated to fit the table contents. Most likely, the table will shrink. |
+| AutoFitToWindow | 1 | When you use this value, Aspose.Words enables the AutoFit option, sets the preferred width for the table to 100%, removes preferred widths from all cells and then updates the table layout. As a result, the table occupies all available width and the cell widths are updated to fit table contents. |
+| FixedColumnWidths | 2 | Aspose.Words disables the AutoFit option and removes the preferred with from the table. The widths of the cells remain as they are specified by their [Width](../cellformat/get_width/) properties. |
 
 
 ## Examples

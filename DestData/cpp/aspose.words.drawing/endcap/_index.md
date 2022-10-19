@@ -15,10 +15,10 @@ Specifies line cap style.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Round | `0` | Rounded ends. |
-| Square | `0` | Square protrudes by half line width. |
-| Flat | `0` | Line ends at end point. |
-| Default | `0` | Default value is **Flat**. |
+| Round | 0 | Rounded ends. |
+| Square | 1 | Square protrudes by half line width. |
+| Flat | 2 | Line ends at end point. |
+| Default | n/a | Default value is **Flat**. |
 
 
 ## Examples

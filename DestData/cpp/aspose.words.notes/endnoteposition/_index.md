@@ -15,8 +15,8 @@ Defines the endnote position.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EndOfSection | `0` | Endnotes are output at the end of the section. |
-| EndOfDocument | `0` | Endnotes are output at the end of the document. |
+| EndOfSection | 0 | Endnotes are output at the end of the section. |
+| EndOfDocument | 3 | Endnotes are output at the end of the document. |
 
 
 ## Examples

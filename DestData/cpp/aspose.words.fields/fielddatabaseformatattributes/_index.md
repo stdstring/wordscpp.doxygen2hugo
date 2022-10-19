@@ -15,14 +15,14 @@ FieldDatabaseFormatAttributes enumeration.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Borders | `0` |  |
-| Shading | `0` |  |
-| Font | `0` |  |
-| Color | `0` |  |
-| AutoFit | `0` |  |
-| FirstRow | `0` |  |
-| LastRow | `0` |  |
-| FirstColumn | `0` |  |
-| LastColumn | `0` |  |
+| None | 0 |  |
+| Borders | 1 |  |
+| Shading | 2 |  |
+| Font | 4 |  |
+| Color | 8 |  |
+| AutoFit | 16 |  |
+| FirstRow | 32 |  |
+| LastRow | 64 |  |
+| FirstColumn | 128 |  |
+| LastColumn | 256 |  |
 

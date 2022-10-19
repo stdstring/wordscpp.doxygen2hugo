@@ -15,33 +15,33 @@ Specifies line style of a [Border](../border/).
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Single | `0` |  |
-| Thick | `0` |  |
-| Double | `0` |  |
-| Hairline | `0` |  |
-| Dot | `0` |  |
-| DashLargeGap | `0` |  |
-| DotDash | `0` |  |
-| DotDotDash | `0` |  |
-| Triple | `0` |  |
-| ThinThickSmallGap | `0` |  |
-| ThickThinSmallGap | `0` |  |
-| ThinThickThinSmallGap | `0` |  |
-| ThinThickMediumGap | `0` |  |
-| ThickThinMediumGap | `0` |  |
-| ThinThickThinMediumGap | `0` |  |
-| ThinThickLargeGap | `0` |  |
-| ThickThinLargeGap | `0` |  |
-| ThinThickThinLargeGap | `0` |  |
-| Wave | `0` |  |
-| DoubleWave | `0` |  |
-| DashSmallGap | `0` |  |
-| DashDotStroker | `0` |  |
-| Emboss3D | `0` |  |
-| Engrave3D | `0` |  |
-| Outset | `0` |  |
-| Inset | `0` |  |
+| None | 0 |  |
+| Single | 1 |  |
+| Thick | 2 |  |
+| Double | 3 |  |
+| Hairline | 5 |  |
+| Dot | 6 |  |
+| DashLargeGap | 7 |  |
+| DotDash | 8 |  |
+| DotDotDash | 9 |  |
+| Triple | 10 |  |
+| ThinThickSmallGap | 11 |  |
+| ThickThinSmallGap | 12 |  |
+| ThinThickThinSmallGap | 13 |  |
+| ThinThickMediumGap | 14 |  |
+| ThickThinMediumGap | 15 |  |
+| ThinThickThinMediumGap | 16 |  |
+| ThinThickLargeGap | 17 |  |
+| ThickThinLargeGap | 18 |  |
+| ThinThickThinLargeGap | 19 |  |
+| Wave | 20 |  |
+| DoubleWave | 21 |  |
+| DashSmallGap | 22 |  |
+| DashDotStroker | 23 |  |
+| Emboss3D | 24 |  |
+| Engrave3D | 25 |  |
+| Outset | 26 |  |
+| Inset | 27 |  |
 
 
 ## Examples

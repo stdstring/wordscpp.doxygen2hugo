@@ -15,10 +15,10 @@ Length of the arrow at the end of a line.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Short | `0` |  |
-| Medium | `0` |  |
-| Long | `0` |  |
-| Default | `0` | Same as **Short**. |
+| Short | 0 |  |
+| Medium | 1 |  |
+| Long | 2 |  |
+| Default | n/a | Same as **Short**. |
 
 
 ## Examples

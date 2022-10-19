@@ -15,9 +15,9 @@ Specifies the color mode for the generated images of document pages.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | The pages of the document will be rendered as color images. |
-| Grayscale | `0` | The pages of the document will be rendered as grayscale images. |
-| BlackAndWhite | `0` | The pages of the document will be rendered as black and white images. |
+| None | 0 | The pages of the document will be rendered as color images. |
+| Grayscale | 1 | The pages of the document will be rendered as grayscale images. |
+| BlackAndWhite | 2 | The pages of the document will be rendered as black and white images. |
 
 
 ## Examples

@@ -15,10 +15,10 @@ Width of the arrow at the end of a line.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Narrow | `0` |  |
-| Medium | `0` |  |
-| Wide | `0` |  |
-| Default | `0` | Same as **Narrow**. |
+| Narrow | 0 |  |
+| Medium | 1 |  |
+| Wide | 2 |  |
+| Default | n/a | Same as **Narrow**. |
 
 
 ## Examples

@@ -15,59 +15,59 @@ Specifies the fill pattern to be used to fill a shape.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No pattern. |
-| Percent10 | `0` | 10% of the foreground color. |
-| Percent20 | `0` | 20% of the foreground color. |
-| Percent25 | `0` | 25% of the foreground color. |
-| Percent30 | `0` | 30% of the foreground color. |
-| Percent40 | `0` | 40% of the foreground color |
-| Percent50 | `0` | 50% of the foreground color |
-| Percent5 | `0` | 5% of the foreground color. |
-| Percent60 | `0` | 60% of the foreground color. |
-| Percent70 | `0` | 70% of the foreground color. |
-| Percent75 | `0` | 75% of the foreground color. |
-| Percent80 | `0` | 80% of the foreground color. |
-| Percent90 | `0` | 90% of the foreground color. |
-| Cross | `0` | Cross. |
-| DarkDownwardDiagonal | `0` | Dark downward diagonal. |
-| DarkHorizontal | `0` | Dark horizontal. |
-| DarkUpwardDiagonal | `0` | Dark upward diagonal. |
-| DarkVertical | `0` | Dark vertical. |
-| DashedDownwardDiagonal | `0` | Dashed downward diagonal. |
-| DashedHorizontal | `0` | Dashed horizontal. |
-| DashedUpwardDiagonal | `0` | Dashed upward diagonal. |
-| DashedVertical | `0` | Dashed vertical. |
-| DiagonalBrick | `0` | Diagonal brick. |
-| DiagonalCross | `0` | Diagonal cross. |
-| Divot | `0` | Pattern divot. |
-| DottedDiamond | `0` | Dotted diamond. |
-| DottedGrid | `0` | Dotted grid. |
-| DownwardDiagonal | `0` | Downward diagonal. |
-| Horizontal | `0` | Horizontal. |
-| HorizontalBrick | `0` | Horizontal brick. |
-| LargeCheckerBoard | `0` | Large checker board. |
-| LargeConfetti | `0` | Large confetti. |
-| LargeGrid | `0` | Large grid. |
-| LightDownwardDiagonal | `0` | Light downward diagonal. |
-| LightHorizontal | `0` | Light horizontal. |
-| LightUpwardDiagonal | `0` | Light upward diagonal. |
-| LightVertical | `0` | Light vertical. |
-| NarrowHorizontal | `0` | Narrow horizontal. |
-| NarrowVertical | `0` | Narrow vertical. |
-| OutlinedDiamond | `0` | Outlined diamond. |
-| Plaid | `0` | Plaid. |
-| Shingle | `0` | Shingle. |
-| SmallCheckerBoard | `0` | Small checker board. |
-| SmallConfetti | `0` | Small confetti. |
-| SmallGrid | `0` | Small grid. |
-| SolidDiamond | `0` | Solid diamond. |
-| Sphere | `0` | Sphere. |
-| Trellis | `0` | Trellis. |
-| UpwardDiagonal | `0` | Upward diagonal. |
-| Vertical | `0` | Vertical. |
-| Wave | `0` | Wave. |
-| Weave | `0` | Weave. |
-| WideDownwardDiagonal | `0` | Wide downward diagonal. |
-| WideUpwardDiagonal | `0` | Wide upward diagonal. |
-| ZigZag | `0` | Zig zag. |
+| None | -1 | No pattern. |
+| Percent10 | 1 | 10% of the foreground color. |
+| Percent20 | 2 | 20% of the foreground color. |
+| Percent25 | 3 | 25% of the foreground color. |
+| Percent30 | 4 | 30% of the foreground color. |
+| Percent40 | 5 | 40% of the foreground color |
+| Percent50 | 6 | 50% of the foreground color |
+| Percent5 | 7 | 5% of the foreground color. |
+| Percent60 | 8 | 60% of the foreground color. |
+| Percent70 | 9 | 70% of the foreground color. |
+| Percent75 | 10 | 75% of the foreground color. |
+| Percent80 | 11 | 80% of the foreground color. |
+| Percent90 | 12 | 90% of the foreground color. |
+| Cross | 13 | Cross. |
+| DarkDownwardDiagonal | 14 | Dark downward diagonal. |
+| DarkHorizontal | 15 | Dark horizontal. |
+| DarkUpwardDiagonal | 16 | Dark upward diagonal. |
+| DarkVertical | 17 | Dark vertical. |
+| DashedDownwardDiagonal | 18 | Dashed downward diagonal. |
+| DashedHorizontal | 19 | Dashed horizontal. |
+| DashedUpwardDiagonal | 20 | Dashed upward diagonal. |
+| DashedVertical | 21 | Dashed vertical. |
+| DiagonalBrick | 22 | Diagonal brick. |
+| DiagonalCross | 23 | Diagonal cross. |
+| Divot | 24 | Pattern divot. |
+| DottedDiamond | 25 | Dotted diamond. |
+| DottedGrid | 26 | Dotted grid. |
+| DownwardDiagonal | 27 | Downward diagonal. |
+| Horizontal | 28 | Horizontal. |
+| HorizontalBrick | 29 | Horizontal brick. |
+| LargeCheckerBoard | 30 | Large checker board. |
+| LargeConfetti | 31 | Large confetti. |
+| LargeGrid | 32 | Large grid. |
+| LightDownwardDiagonal | 33 | Light downward diagonal. |
+| LightHorizontal | 34 | Light horizontal. |
+| LightUpwardDiagonal | 36 | Light upward diagonal. |
+| LightVertical | 37 | Light vertical. |
+| NarrowHorizontal | 38 | Narrow horizontal. |
+| NarrowVertical | 39 | Narrow vertical. |
+| OutlinedDiamond | 40 | Outlined diamond. |
+| Plaid | 41 | Plaid. |
+| Shingle | 42 | Shingle. |
+| SmallCheckerBoard | 43 | Small checker board. |
+| SmallConfetti | 44 | Small confetti. |
+| SmallGrid | 45 | Small grid. |
+| SolidDiamond | 46 | Solid diamond. |
+| Sphere | 47 | Sphere. |
+| Trellis | 48 | Trellis. |
+| UpwardDiagonal | 49 | Upward diagonal. |
+| Vertical | 50 | Vertical. |
+| Wave | 51 | Wave. |
+| Weave | 52 | Weave. |
+| WideDownwardDiagonal | 53 | Wide downward diagonal. |
+| WideUpwardDiagonal | 54 | Wide upward diagonal. |
+| ZigZag | 55 | Zig zag. |
 

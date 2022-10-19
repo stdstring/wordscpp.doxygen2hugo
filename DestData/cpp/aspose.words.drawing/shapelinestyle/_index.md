@@ -15,12 +15,12 @@ Specifies the compound line style of a [Shape](../shape/).
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Single | `0` | Single line. |
-| Double | `0` | Double lines of equal width. |
-| ThickThin | `0` | Double lines, one thick, one thin. |
-| ThinThick | `0` | Double lines, one thin, one thick. |
-| Triple | `0` | Three lines, thin, thick, thin. |
-| Default | `0` | Default value is **Single**. |
+| Single | 0 | Single line. |
+| Double | 1 | Double lines of equal width. |
+| ThickThin | 2 | Double lines, one thick, one thin. |
+| ThinThick | 3 | Double lines, one thin, one thick. |
+| Triple | 4 | Three lines, thin, thick, thin. |
+| Default | n/a | Default value is **Single**. |
 
 
 ## Examples

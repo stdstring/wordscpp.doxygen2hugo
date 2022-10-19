@@ -15,13 +15,13 @@ Specifies the type of an arrow at a line end.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | The line does not have an arrow at the end. |
-| Arrow | `0` | The arrow is a solid triangle. |
-| Stealth | `0` | The arrow is a "stealth" arrow. |
-| Diamond | `0` | The line end is a solid diamond. |
-| Oval | `0` | The line end is a solid oval. |
-| Open | `0` | The arrow is an open arrow. |
-| Default | `0` | Same as **None**. |
+| None | 0 | The line does not have an arrow at the end. |
+| Arrow | 1 | The arrow is a solid triangle. |
+| Stealth | 2 | The arrow is a "stealth" arrow. |
+| Diamond | 3 | The line end is a solid diamond. |
+| Oval | 4 | The line end is a solid oval. |
+| Open | 5 | The arrow is an open arrow. |
+| Default | n/a | Same as **None**. |
 
 
 ## Examples

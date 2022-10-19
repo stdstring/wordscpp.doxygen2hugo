@@ -15,5 +15,5 @@ LoadFormatTest enumeration.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| TestDocxDml | `0` |  |
+| TestDocxDml | 254 |  |
 

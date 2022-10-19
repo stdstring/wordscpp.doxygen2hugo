@@ -15,8 +15,8 @@ Specifies the positioning of the page border relative to the page margin.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Text | `0` | [Border](../border/) position is measured from the page margin. |
-| PageEdge | `0` | [Border](../border/) position is measured from the page edge. |
+| Text | 0 | [Border](../border/) position is measured from the page margin. |
+| PageEdge | 1 | [Border](../border/) position is measured from the page edge. |
 
 
 ## Examples

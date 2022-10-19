@@ -15,10 +15,10 @@ Specifies the style of an embedded font inside a [FontInfo](../fontinfo/) object
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Regular | `0` | Specifies the Regular embedded font. |
-| Bold | `0` | Specifies the Bold embedded font. |
-| Italic | `0` | Specifies the Italic embedded font. |
-| BoldItalic | `0` | Specifies the Bold-Italic embedded font. |
+| Regular | 0 | Specifies the Regular embedded font. |
+| Bold | 1 | Specifies the Bold embedded font. |
+| Italic | 2 | Specifies the Italic embedded font. |
+| BoldItalic | 3 | Specifies the Bold-Italic embedded font. |
 
 
 ## Examples

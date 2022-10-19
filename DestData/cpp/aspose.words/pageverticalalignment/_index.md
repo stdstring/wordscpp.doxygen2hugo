@@ -15,10 +15,10 @@ Specifies vertical justification of text on each page.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Bottom | `0` | Text is aligned at the bottom of the page. |
-| Center | `0` | Text is aligned in the middle of the page. |
-| Justify | `0` | Text is spread to fill the page. |
-| Top | `0` | Text is aligned at the top of the page. |
+| Bottom | 3 | Text is aligned at the bottom of the page. |
+| Center | 1 | Text is aligned in the middle of the page. |
+| Justify | 2 | Text is spread to fill the page. |
+| Top | 0 | Text is aligned at the top of the page. |
 
 
 ## Examples

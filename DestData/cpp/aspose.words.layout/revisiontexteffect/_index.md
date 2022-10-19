@@ -15,15 +15,15 @@ Allows to specify decoration effect for revisions of document text.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Revised content has no special effects applied. This corresponds to **NoHighlight**. |
-| Color | `0` | Revised content is highlighted with color only. |
-| Bold | `0` | Revised content is made bold and colored. |
-| Italic | `0` | Revised content is made italic and colored. |
-| Underline | `0` | Revised content is underlined and colored. |
-| DoubleUnderline | `0` | Revised content is double underlined and colored. |
-| StrikeThrough | `0` | Revised content is stroked through and colored. |
-| DoubleStrikeThrough | `0` | Revised content is double stroked through and colored. |
-| Hidden | `0` | Revised content is hidden. |
+| None | 0 | Revised content has no special effects applied. This corresponds to **NoHighlight**. |
+| Color | 1 | Revised content is highlighted with color only. |
+| Bold | 2 | Revised content is made bold and colored. |
+| Italic | 3 | Revised content is made italic and colored. |
+| Underline | 4 | Revised content is underlined and colored. |
+| DoubleUnderline | 5 | Revised content is double underlined and colored. |
+| StrikeThrough | 6 | Revised content is stroked through and colored. |
+| DoubleStrikeThrough | 7 | Revised content is double stroked through and colored. |
+| Hidden | 8 | Revised content is hidden. |
 
 
 ## Examples

@@ -15,10 +15,10 @@ Possible values for the orientation of a shape.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Coordinates are not flipped. |
-| Horizontal | `0` | Flip along the y-axis, reversing the x-coordinates. |
-| Vertical | `0` | Flip along the x-axis, reversing the y-coordinates. |
-| Both | `0` | Flip along both the y- and x-axis. |
+| None | 0 | Coordinates are not flipped. |
+| Horizontal | 1 | Flip along the y-axis, reversing the x-coordinates. |
+| Vertical | 2 | Flip along the x-axis, reversing the y-coordinates. |
+| Both | 3 | Flip along both the y- and x-axis. |
 
 
 ## Examples

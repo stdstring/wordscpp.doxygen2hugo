@@ -15,17 +15,17 @@ Specifies the pixel format for the generated images of document pages.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Format16BppRgb555 | `0` | 16 bits per pixel, RGB. |
-| Format16BppRgb565 | `0` | 16 bits per pixel, RGB. |
-| Format16BppArgb1555 | `0` | 16 bits per pixel, ARGB. |
-| Format24BppRgb | `0` | 24 bits per pixel, RGB. |
-| Format32BppRgb | `0` | 32 bits per pixel, RGB. |
-| Format32BppArgb | `0` | 32 bits per pixel, ARGB. |
-| Format32BppPArgb | `0` | 32 bits per pixel, ARGB, premultiplied alpha. |
-| Format48BppRgb | `0` | 48 bits per pixel, RGB. |
-| Format64BppArgb | `0` | 64 bits per pixel, ARGB. |
-| Format64BppPArgb | `0` | 64 bits per pixel, ARGB, premultiplied alpha. |
-| Format1bppIndexed | `0` | 1 bit per pixel, Indexed. |
+| Format16BppRgb555 | 0 | 16 bits per pixel, RGB. |
+| Format16BppRgb565 | 1 | 16 bits per pixel, RGB. |
+| Format16BppArgb1555 | 2 | 16 bits per pixel, ARGB. |
+| Format24BppRgb | 3 | 24 bits per pixel, RGB. |
+| Format32BppRgb | 4 | 32 bits per pixel, RGB. |
+| Format32BppArgb | 5 | 32 bits per pixel, ARGB. |
+| Format32BppPArgb | 6 | 32 bits per pixel, ARGB, premultiplied alpha. |
+| Format48BppRgb | 7 | 48 bits per pixel, RGB. |
+| Format64BppArgb | 8 | 64 bits per pixel, ARGB. |
+| Format64BppPArgb | 9 | 64 bits per pixel, ARGB, premultiplied alpha. |
+| Format1bppIndexed | 10 | 1 bit per pixel, Indexed. |
 
 
 ## Examples

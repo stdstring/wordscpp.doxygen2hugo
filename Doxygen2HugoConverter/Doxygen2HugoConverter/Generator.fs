@@ -138,7 +138,10 @@ let generateForEnum (context: Context) (enumDef: Defs.EnumDef) =
     builder |> generateTableHeader ["Name"; "Value"; "Description"]
     for enumValueDef in enumDef.Values do
         let valueBriefDescription = enumValueDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity currentContext)
-        sprintf $"| {enumValueDef.Name} | `0` | {valueBriefDescription} |" |> builder.AppendLine |> ignore
+        let initializer = match enumValueDef.Initializer with
+                          | None -> "n/a"
+                          | Some value -> value |> string
+        sprintf $"| {enumValueDef.Name} | {initializer} | {valueBriefDescription} |" |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     let detailedDescription = enumDef.DetailedDescription |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore

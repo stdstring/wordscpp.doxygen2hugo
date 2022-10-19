@@ -15,9 +15,9 @@ Specifies how DrawingML effects are rendered to fixed page formats.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Simplified | `0` | [Rendering](../../aspose.words.rendering/) of DrawingML effects are simplified. |
-| None | `0` | No DrawingML effects are rendered. |
-| Fine | `0` | DrawingML effects are rendered in fine mode which involves advanced processing. In this mode rendering of effects gives better results but at a higher performance cost than **Simplified** mode. |
+| Simplified | 0 | [Rendering](../../aspose.words.rendering/) of DrawingML effects are simplified. |
+| None | 1 | No DrawingML effects are rendered. |
+| Fine | 2 | DrawingML effects are rendered in fine mode which involves advanced processing. In this mode rendering of effects gives better results but at a higher performance cost than **Simplified** mode. |
 
 
 ## Examples

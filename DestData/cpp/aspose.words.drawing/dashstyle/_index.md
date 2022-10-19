@@ -15,18 +15,18 @@ Dashed line style.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Solid | `0` | Solid (continuous) pen. |
-| ShortDash | `0` | System dash style. |
-| ShortDot | `0` | System dash style. |
-| ShortDashDot | `0` | System dash style. |
-| ShortDashDotDot | `0` | System dash style. |
-| Dot | `0` | Square dot style. |
-| Dash | `0` | Dash style. |
-| LongDash | `0` | Long dash style. |
-| DashDot | `0` | Dash short dash. |
-| LongDashDot | `0` | Long dash short dash. |
-| LongDashDotDot | `0` | Long dash short dash short dash. |
-| Default | `0` | Same as **Solid**. |
+| Solid | 0 | Solid (continuous) pen. |
+| ShortDash | 1 | System dash style. |
+| ShortDot | 2 | System dash style. |
+| ShortDashDot | 3 | System dash style. |
+| ShortDashDotDot | 4 | System dash style. |
+| Dot | 5 | Square dot style. |
+| Dash | 6 | Dash style. |
+| LongDash | 7 | Long dash style. |
+| DashDot | 8 | Dash short dash. |
+| LongDashDot | 9 | Long dash short dash. |
+| LongDashDotDot | 10 | Long dash short dash short dash. |
+| Default | n/a | Same as **Solid**. |
 
 
 ## Examples

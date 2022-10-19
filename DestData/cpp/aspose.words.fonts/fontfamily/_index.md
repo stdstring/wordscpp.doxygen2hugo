@@ -15,12 +15,12 @@ Represents the font family.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Auto | `0` | Specifies a generic family name. This name is used when information about a font does not exist or does not matter. The default font is used. |
-| Roman | `0` | Specifies a proportional font with serifs. An example is Times New Roman. |
-| Swiss | `0` | Specifies a proportional font without serifs. An example is Arial. |
-| Modern | `0` | Specifies a monospace font with or without serifs. Monospace fonts are usually modern; examples include Pica, Elite, and Courier New. |
-| Script | `0` | Specifies a font that is designed to look like handwriting; examples include Script and Cursive. |
-| Decorative | `0` | Specifies a novelty font. An example is Old English. |
+| Auto | 0 | Specifies a generic family name. This name is used when information about a font does not exist or does not matter. The default font is used. |
+| Roman | 1 | Specifies a proportional font with serifs. An example is Times New Roman. |
+| Swiss | 2 | Specifies a proportional font without serifs. An example is Arial. |
+| Modern | 3 | Specifies a monospace font with or without serifs. Monospace fonts are usually modern; examples include Pica, Elite, and Courier New. |
+| Script | 4 | Specifies a font that is designed to look like handwriting; examples include Script and Cursive. |
+| Decorative | 5 | Specifies a novelty font. An example is Old English. |
 
 
 A font family is a set of fonts having common stroke width and serif characteristics.

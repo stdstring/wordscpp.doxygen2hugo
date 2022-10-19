@@ -15,12 +15,12 @@ Identifies the type of header or footer found in a Word file.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| HeaderEven | `0` | Header for even numbered pages. |
-| HeaderPrimary | `0` | Primary header, also used for odd numbered pages. |
-| FooterEven | `0` | Footer for even numbered pages. |
-| FooterPrimary | `0` | Primary footer, also used for odd numbered pages. |
-| HeaderFirst | `0` | Header for the first page of the section. |
-| FooterFirst | `0` | Footer for the first page of the section. |
+| HeaderEven | 0 | Header for even numbered pages. |
+| HeaderPrimary | 1 | Primary header, also used for odd numbered pages. |
+| FooterEven | 2 | Footer for even numbered pages. |
+| FooterPrimary | 3 | Primary footer, also used for odd numbered pages. |
+| HeaderFirst | 4 | Header for the first page of the section. |
+| FooterFirst | 5 | Footer for the first page of the section. |
 
 
 ## Examples

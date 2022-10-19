@@ -15,9 +15,9 @@ Specifies how bookmarks in headers/footers are exported.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Bookmarks in headers/footers are not exported. |
-| First | `0` | Only bookmark in first header/footer of the section is exported. |
-| All | `0` | Bookmarks in all headers/footers are exported. |
+| None | 0 | Bookmarks in headers/footers are not exported. |
+| First | 1 | Only bookmark in first header/footer of the section is exported. |
+| All | 2 | Bookmarks in all headers/footers are exported. |
 
 
 ## Examples

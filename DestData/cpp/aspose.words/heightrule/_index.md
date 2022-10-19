@@ -15,9 +15,9 @@ Specifies the rule for determining the height of an object.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AtLeast | `0` | The height will be at least the specified height in points. It will grow, if needed, to accommodate all text inside an object. |
-| Exactly | `0` | The height is specified exactly in points. Please note that if the text cannot fit inside the object of this height, it will appear truncated. |
-| Auto | `0` | The height will grow automatically to accommodate all text inside an object. |
+| AtLeast | 0 | The height will be at least the specified height in points. It will grow, if needed, to accommodate all text inside an object. |
+| Exactly | 1 | The height is specified exactly in points. Please note that if the text cannot fit inside the object of this height, it will appear truncated. |
+| Auto | 2 | The height will grow automatically to accommodate all text inside an object. |
 
 
 ## Examples

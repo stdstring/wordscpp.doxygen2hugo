@@ -15,256 +15,256 @@ Specifies the type of shape in a Microsoft Word document.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Image | `0` | The shape is an image. |
-| TextBox | `0` | The shape is a textbox. Note that shapes of many other types can also have text inside them too. A shape does not have to have this type to contain text. |
-| Group | `0` | The shape is a group shape. |
-| OleObject | `0` | The shape is an OLE object. You cannot create shapes of this type in the document. |
-| OleControl | `0` | The shape is an ActiveX control. You cannot create shapes of this type in the document. |
-| NonPrimitive | `0` | A shape drawn by user and consisting of multiple segments and/or vertices (curve, freeform or scribble). You cannot create shapes of this type in the document. |
-| Rectangle | `0` |  |
-| RoundRectangle | `0` |  |
-| Ellipse | `0` |  |
-| Diamond | `0` |  |
-| Triangle | `0` |  |
-| RightTriangle | `0` |  |
-| Parallelogram | `0` |  |
-| Trapezoid | `0` |  |
-| Hexagon | `0` |  |
-| Octagon | `0` |  |
-| Plus | `0` |  |
-| Star | `0` |  |
-| Arrow | `0` |  |
-| ThickArrow | `0` |  |
-| HomePlate | `0` |  |
-| Cube | `0` |  |
-| Balloon | `0` |  |
-| Seal | `0` |  |
-| Arc | `0` |  |
-| Line | `0` |  |
-| Plaque | `0` |  |
-| Can | `0` |  |
-| Donut | `0` |  |
-| TextSimple | `0` |  |
-| TextOctagon | `0` |  |
-| TextHexagon | `0` |  |
-| TextCurve | `0` |  |
-| TextWave | `0` |  |
-| TextRing | `0` |  |
-| TextOnCurve | `0` |  |
-| TextOnRing | `0` |  |
-| StraightConnector1 | `0` |  |
-| BentConnector2 | `0` |  |
-| BentConnector3 | `0` |  |
-| BentConnector4 | `0` |  |
-| BentConnector5 | `0` |  |
-| CurvedConnector2 | `0` |  |
-| CurvedConnector3 | `0` |  |
-| CurvedConnector4 | `0` |  |
-| CurvedConnector5 | `0` |  |
-| Callout1 | `0` |  |
-| Callout2 | `0` |  |
-| Callout3 | `0` |  |
-| AccentCallout1 | `0` |  |
-| AccentCallout2 | `0` |  |
-| AccentCallout3 | `0` |  |
-| BorderCallout1 | `0` |  |
-| BorderCallout2 | `0` |  |
-| BorderCallout3 | `0` |  |
-| AccentBorderCallout1 | `0` |  |
-| AccentBorderCallout2 | `0` |  |
-| AccentBorderCallout3 | `0` |  |
-| Ribbon | `0` |  |
-| Ribbon2 | `0` |  |
-| Chevron | `0` |  |
-| Pentagon | `0` |  |
-| NoSmoking | `0` |  |
-| Seal8 | `0` |  |
-| Seal16 | `0` |  |
-| Seal32 | `0` |  |
-| WedgeRectCallout | `0` |  |
-| WedgeRRectCallout | `0` |  |
-| WedgeEllipseCallout | `0` |  |
-| Wave | `0` |  |
-| FoldedCorner | `0` |  |
-| LeftArrow | `0` |  |
-| DownArrow | `0` |  |
-| UpArrow | `0` |  |
-| LeftRightArrow | `0` |  |
-| UpDownArrow | `0` |  |
-| IrregularSeal1 | `0` |  |
-| IrregularSeal2 | `0` |  |
-| LightningBolt | `0` |  |
-| Heart | `0` |  |
-| QuadArrow | `0` |  |
-| LeftArrowCallout | `0` |  |
-| RightArrowCallout | `0` |  |
-| UpArrowCallout | `0` |  |
-| DownArrowCallout | `0` |  |
-| LeftRightArrowCallout | `0` |  |
-| UpDownArrowCallout | `0` |  |
-| QuadArrowCallout | `0` |  |
-| Bevel | `0` |  |
-| LeftBracket | `0` |  |
-| RightBracket | `0` |  |
-| LeftBrace | `0` |  |
-| RightBrace | `0` |  |
-| LeftUpArrow | `0` |  |
-| BentUpArrow | `0` |  |
-| BentArrow | `0` |  |
-| Seal24 | `0` |  |
-| StripedRightArrow | `0` |  |
-| NotchedRightArrow | `0` |  |
-| BlockArc | `0` |  |
-| SmileyFace | `0` |  |
-| VerticalScroll | `0` |  |
-| HorizontalScroll | `0` |  |
-| CircularArrow | `0` |  |
-| CustomShape | `0` | This shape type seems to be set for shapes that are not part of the standard set of the auto shapes in Microsoft Word. For example, if you insert a new auto shape from ClipArt. You cannot create shapes of this type in the document. |
-| UturnArrow | `0` |  |
-| CurvedRightArrow | `0` |  |
-| CurvedLeftArrow | `0` |  |
-| CurvedUpArrow | `0` |  |
-| CurvedDownArrow | `0` |  |
-| CloudCallout | `0` |  |
-| EllipseRibbon | `0` |  |
-| EllipseRibbon2 | `0` |  |
-| FlowChartProcess | `0` |  |
-| FlowChartDecision | `0` |  |
-| FlowChartInputOutput | `0` |  |
-| FlowChartPredefinedProcess | `0` |  |
-| FlowChartInternalStorage | `0` |  |
-| FlowChartDocument | `0` |  |
-| FlowChartMultidocument | `0` |  |
-| FlowChartTerminator | `0` |  |
-| FlowChartPreparation | `0` |  |
-| FlowChartManualInput | `0` |  |
-| FlowChartManualOperation | `0` |  |
-| FlowChartConnector | `0` |  |
-| FlowChartPunchedCard | `0` |  |
-| FlowChartPunchedTape | `0` |  |
-| FlowChartSummingJunction | `0` |  |
-| FlowChartOr | `0` |  |
-| FlowChartCollate | `0` |  |
-| FlowChartSort | `0` |  |
-| FlowChartExtract | `0` |  |
-| FlowChartMerge | `0` |  |
-| FlowChartOfflineStorage | `0` |  |
-| FlowChartOnlineStorage | `0` |  |
-| FlowChartMagneticTape | `0` |  |
-| FlowChartMagneticDisk | `0` |  |
-| FlowChartMagneticDrum | `0` |  |
-| FlowChartDisplay | `0` |  |
-| FlowChartDelay | `0` |  |
-| TextPlainText | `0` | WordArt object. |
-| TextStop | `0` | WordArt object. |
-| TextTriangle | `0` | WordArt object. |
-| TextTriangleInverted | `0` | WordArt object. |
-| TextChevron | `0` | WordArt object. |
-| TextChevronInverted | `0` | WordArt object. |
-| TextRingInside | `0` | WordArt object. |
-| TextRingOutside | `0` | WordArt object. |
-| TextArchUpCurve | `0` | WordArt object. |
-| TextArchDownCurve | `0` | WordArt object. |
-| TextCircleCurve | `0` | WordArt object. |
-| TextButtonCurve | `0` | WordArt object. |
-| TextArchUpPour | `0` | WordArt object. |
-| TextArchDownPour | `0` | WordArt object. |
-| TextCirclePour | `0` | WordArt object. |
-| TextButtonPour | `0` | WordArt object. |
-| TextCurveUp | `0` | WordArt object. |
-| TextCurveDown | `0` | WordArt object. |
-| TextCascadeUp | `0` | WordArt object. |
-| TextCascadeDown | `0` | WordArt object. |
-| TextWave1 | `0` | WordArt object. |
-| TextWave2 | `0` | WordArt object. |
-| TextWave3 | `0` | WordArt object. |
-| TextWave4 | `0` | WordArt object. |
-| TextInflate | `0` | WordArt object. |
-| TextDeflate | `0` | WordArt object. |
-| TextInflateBottom | `0` | WordArt object. |
-| TextDeflateBottom | `0` | WordArt object. |
-| TextInflateTop | `0` | WordArt object. |
-| TextDeflateTop | `0` | WordArt object. |
-| TextDeflateInflate | `0` | WordArt object. |
-| TextDeflateInflateDeflate | `0` | WordArt object. |
-| TextFadeRight | `0` | WordArt object. |
-| TextFadeLeft | `0` | WordArt object. |
-| TextFadeUp | `0` | WordArt object. |
-| TextFadeDown | `0` | WordArt object. |
-| TextSlantUp | `0` | WordArt object. |
-| TextSlantDown | `0` | WordArt object. |
-| TextCanUp | `0` | WordArt object. |
-| TextCanDown | `0` | WordArt object. |
-| FlowChartAlternateProcess | `0` |  |
-| FlowChartOffpageConnector | `0` |  |
-| Callout90 | `0` |  |
-| AccentCallout90 | `0` |  |
-| BorderCallout90 | `0` |  |
-| AccentBorderCallout90 | `0` |  |
-| LeftRightUpArrow | `0` |  |
-| Sun | `0` |  |
-| Moon | `0` |  |
-| BracketPair | `0` |  |
-| BracePair | `0` |  |
-| Seal4 | `0` |  |
-| DoubleWave | `0` |  |
-| ActionButtonBlank | `0` |  |
-| ActionButtonHome | `0` |  |
-| ActionButtonHelp | `0` |  |
-| ActionButtonInformation | `0` |  |
-| ActionButtonForwardNext | `0` |  |
-| ActionButtonBackPrevious | `0` |  |
-| ActionButtonEnd | `0` |  |
-| ActionButtonBeginning | `0` |  |
-| ActionButtonReturn | `0` |  |
-| ActionButtonDocument | `0` |  |
-| ActionButtonSound | `0` |  |
-| ActionButtonMovie | `0` |  |
-| SingleCornerSnipped | `0` | Snip single corner rectangle object. |
-| TopCornersSnipped | `0` | Snip same side corner rectangle. |
-| DiagonalCornersSnipped | `0` | Snip diagonal corner rectangle. |
-| TopCornersOneRoundedOneSnipped | `0` | Snip and round single corner rectangle. |
-| SingleCornerRounded | `0` | Round single corner rectangle. |
-| TopCornersRounded | `0` | Round same side corner rectangle. |
-| DiagonalCornersRounded | `0` | Round diagonal corner rectangle. |
-| Heptagon | `0` | Heptagon. |
-| Cloud | `0` | Cloud. |
-| Seal6 | `0` | Six-pointed star. |
-| Seal7 | `0` | Seven-pointed star. |
-| Seal10 | `0` | Ten-pointed star. |
-| Seal12 | `0` | Twelve-pointed star. |
-| SwooshArrow | `0` | Swoosh arrow. |
-| Teardrop | `0` | Teardrop. |
-| SquareTabs | `0` | Square tabs. |
-| PlaqueTabs | `0` | Plaque tabs. |
-| Pie | `0` | Pie. |
-| WedgePie | `0` | Wedge pie. |
-| InverseLine | `0` | Inverse line. |
-| MathPlus | `0` | [Math](../../aspose.words.math/) plus. |
-| MathMinus | `0` | [Math](../../aspose.words.math/) minus. |
-| MathMultiply | `0` | [Math](../../aspose.words.math/) multiply. |
-| MathDivide | `0` | [Math](../../aspose.words.math/) divide. |
-| MathEqual | `0` | [Math](../../aspose.words.math/) equal. |
-| MathNotEqual | `0` | [Math](../../aspose.words.math/) not equal. |
-| NonIsoscelesTrapezoid | `0` | Non-isosceles trapezoid. |
-| LeftRightCircularArrow | `0` | Left-right circular arrow. |
-| LeftRightRibbon | `0` | Left-right ribbon. |
-| LeftCircularArrow | `0` | Left circular arrow. |
-| Frame | `0` | Frame. |
-| HalfFrame | `0` | Half frame. |
-| Funnel | `0` | Funnel. |
-| Gear6 | `0` | Six-tooth gear. |
-| Gear9 | `0` | Nine-tooth gear. |
-| Decagon | `0` | Decagon. |
-| Dodecagon | `0` | Dodecagon. |
-| DiagonalStripe | `0` | Diagonal stripe. |
-| Corner | `0` | Corner. |
-| CornerTabs | `0` | Corner tabs. |
-| Chord | `0` | Chord. |
-| ChartPlus | `0` | Chart plus. |
-| ChartStar | `0` | Chart star. |
-| ChartX | `0` | Chart X. |
-| MinValue | `0` | Reserved for the system use. |
+| Image | 75 | The shape is an image. |
+| TextBox | 202 | The shape is a textbox. Note that shapes of many other types can also have text inside them too. A shape does not have to have this type to contain text. |
+| Group | -1 | The shape is a group shape. |
+| OleObject | -2 | The shape is an OLE object. You cannot create shapes of this type in the document. |
+| OleControl | 201 | The shape is an ActiveX control. You cannot create shapes of this type in the document. |
+| NonPrimitive | 0 | A shape drawn by user and consisting of multiple segments and/or vertices (curve, freeform or scribble). You cannot create shapes of this type in the document. |
+| Rectangle | 1 |  |
+| RoundRectangle | 2 |  |
+| Ellipse | 3 |  |
+| Diamond | 4 |  |
+| Triangle | 5 |  |
+| RightTriangle | 6 |  |
+| Parallelogram | 7 |  |
+| Trapezoid | 8 |  |
+| Hexagon | 9 |  |
+| Octagon | 10 |  |
+| Plus | 11 |  |
+| Star | 12 |  |
+| Arrow | 13 |  |
+| ThickArrow | 14 |  |
+| HomePlate | 15 |  |
+| Cube | 16 |  |
+| Balloon | 17 |  |
+| Seal | 18 |  |
+| Arc | 19 |  |
+| Line | 20 |  |
+| Plaque | 21 |  |
+| Can | 22 |  |
+| Donut | 23 |  |
+| TextSimple | 24 |  |
+| TextOctagon | 25 |  |
+| TextHexagon | 26 |  |
+| TextCurve | 27 |  |
+| TextWave | 28 |  |
+| TextRing | 29 |  |
+| TextOnCurve | 30 |  |
+| TextOnRing | 31 |  |
+| StraightConnector1 | 32 |  |
+| BentConnector2 | 33 |  |
+| BentConnector3 | 34 |  |
+| BentConnector4 | 35 |  |
+| BentConnector5 | 36 |  |
+| CurvedConnector2 | 37 |  |
+| CurvedConnector3 | 38 |  |
+| CurvedConnector4 | 39 |  |
+| CurvedConnector5 | 40 |  |
+| Callout1 | 41 |  |
+| Callout2 | 42 |  |
+| Callout3 | 43 |  |
+| AccentCallout1 | 44 |  |
+| AccentCallout2 | 45 |  |
+| AccentCallout3 | 46 |  |
+| BorderCallout1 | 47 |  |
+| BorderCallout2 | 48 |  |
+| BorderCallout3 | 49 |  |
+| AccentBorderCallout1 | 50 |  |
+| AccentBorderCallout2 | 51 |  |
+| AccentBorderCallout3 | 52 |  |
+| Ribbon | 53 |  |
+| Ribbon2 | 54 |  |
+| Chevron | 55 |  |
+| Pentagon | 56 |  |
+| NoSmoking | 57 |  |
+| Seal8 | 58 |  |
+| Seal16 | 59 |  |
+| Seal32 | 60 |  |
+| WedgeRectCallout | 61 |  |
+| WedgeRRectCallout | 62 |  |
+| WedgeEllipseCallout | 63 |  |
+| Wave | 64 |  |
+| FoldedCorner | 65 |  |
+| LeftArrow | 66 |  |
+| DownArrow | 67 |  |
+| UpArrow | 68 |  |
+| LeftRightArrow | 69 |  |
+| UpDownArrow | 70 |  |
+| IrregularSeal1 | 71 |  |
+| IrregularSeal2 | 72 |  |
+| LightningBolt | 73 |  |
+| Heart | 74 |  |
+| QuadArrow | 76 |  |
+| LeftArrowCallout | 77 |  |
+| RightArrowCallout | 78 |  |
+| UpArrowCallout | 79 |  |
+| DownArrowCallout | 80 |  |
+| LeftRightArrowCallout | 81 |  |
+| UpDownArrowCallout | 82 |  |
+| QuadArrowCallout | 83 |  |
+| Bevel | 84 |  |
+| LeftBracket | 85 |  |
+| RightBracket | 86 |  |
+| LeftBrace | 87 |  |
+| RightBrace | 88 |  |
+| LeftUpArrow | 89 |  |
+| BentUpArrow | 90 |  |
+| BentArrow | 91 |  |
+| Seal24 | 92 |  |
+| StripedRightArrow | 93 |  |
+| NotchedRightArrow | 94 |  |
+| BlockArc | 95 |  |
+| SmileyFace | 96 |  |
+| VerticalScroll | 97 |  |
+| HorizontalScroll | 98 |  |
+| CircularArrow | 99 |  |
+| CustomShape | 100 | This shape type seems to be set for shapes that are not part of the standard set of the auto shapes in Microsoft Word. For example, if you insert a new auto shape from ClipArt. You cannot create shapes of this type in the document. |
+| UturnArrow | 101 |  |
+| CurvedRightArrow | 102 |  |
+| CurvedLeftArrow | 103 |  |
+| CurvedUpArrow | 104 |  |
+| CurvedDownArrow | 105 |  |
+| CloudCallout | 106 |  |
+| EllipseRibbon | 107 |  |
+| EllipseRibbon2 | 108 |  |
+| FlowChartProcess | 109 |  |
+| FlowChartDecision | 110 |  |
+| FlowChartInputOutput | 111 |  |
+| FlowChartPredefinedProcess | 112 |  |
+| FlowChartInternalStorage | 113 |  |
+| FlowChartDocument | 114 |  |
+| FlowChartMultidocument | 115 |  |
+| FlowChartTerminator | 116 |  |
+| FlowChartPreparation | 117 |  |
+| FlowChartManualInput | 118 |  |
+| FlowChartManualOperation | 119 |  |
+| FlowChartConnector | 120 |  |
+| FlowChartPunchedCard | 121 |  |
+| FlowChartPunchedTape | 122 |  |
+| FlowChartSummingJunction | 123 |  |
+| FlowChartOr | 124 |  |
+| FlowChartCollate | 125 |  |
+| FlowChartSort | 126 |  |
+| FlowChartExtract | 127 |  |
+| FlowChartMerge | 128 |  |
+| FlowChartOfflineStorage | 129 |  |
+| FlowChartOnlineStorage | 130 |  |
+| FlowChartMagneticTape | 131 |  |
+| FlowChartMagneticDisk | 132 |  |
+| FlowChartMagneticDrum | 133 |  |
+| FlowChartDisplay | 134 |  |
+| FlowChartDelay | 135 |  |
+| TextPlainText | 136 | WordArt object. |
+| TextStop | 137 | WordArt object. |
+| TextTriangle | 138 | WordArt object. |
+| TextTriangleInverted | 139 | WordArt object. |
+| TextChevron | 140 | WordArt object. |
+| TextChevronInverted | 141 | WordArt object. |
+| TextRingInside | 142 | WordArt object. |
+| TextRingOutside | 143 | WordArt object. |
+| TextArchUpCurve | 144 | WordArt object. |
+| TextArchDownCurve | 145 | WordArt object. |
+| TextCircleCurve | 146 | WordArt object. |
+| TextButtonCurve | 147 | WordArt object. |
+| TextArchUpPour | 148 | WordArt object. |
+| TextArchDownPour | 149 | WordArt object. |
+| TextCirclePour | 150 | WordArt object. |
+| TextButtonPour | 151 | WordArt object. |
+| TextCurveUp | 152 | WordArt object. |
+| TextCurveDown | 153 | WordArt object. |
+| TextCascadeUp | 154 | WordArt object. |
+| TextCascadeDown | 155 | WordArt object. |
+| TextWave1 | 156 | WordArt object. |
+| TextWave2 | 157 | WordArt object. |
+| TextWave3 | 158 | WordArt object. |
+| TextWave4 | 159 | WordArt object. |
+| TextInflate | 160 | WordArt object. |
+| TextDeflate | 161 | WordArt object. |
+| TextInflateBottom | 162 | WordArt object. |
+| TextDeflateBottom | 163 | WordArt object. |
+| TextInflateTop | 164 | WordArt object. |
+| TextDeflateTop | 165 | WordArt object. |
+| TextDeflateInflate | 166 | WordArt object. |
+| TextDeflateInflateDeflate | 167 | WordArt object. |
+| TextFadeRight | 168 | WordArt object. |
+| TextFadeLeft | 169 | WordArt object. |
+| TextFadeUp | 170 | WordArt object. |
+| TextFadeDown | 171 | WordArt object. |
+| TextSlantUp | 172 | WordArt object. |
+| TextSlantDown | 173 | WordArt object. |
+| TextCanUp | 174 | WordArt object. |
+| TextCanDown | 175 | WordArt object. |
+| FlowChartAlternateProcess | 176 |  |
+| FlowChartOffpageConnector | 177 |  |
+| Callout90 | 178 |  |
+| AccentCallout90 | 179 |  |
+| BorderCallout90 | 180 |  |
+| AccentBorderCallout90 | 181 |  |
+| LeftRightUpArrow | 182 |  |
+| Sun | 183 |  |
+| Moon | 184 |  |
+| BracketPair | 185 |  |
+| BracePair | 186 |  |
+| Seal4 | 187 |  |
+| DoubleWave | 188 |  |
+| ActionButtonBlank | 189 |  |
+| ActionButtonHome | 190 |  |
+| ActionButtonHelp | 191 |  |
+| ActionButtonInformation | 192 |  |
+| ActionButtonForwardNext | 193 |  |
+| ActionButtonBackPrevious | 194 |  |
+| ActionButtonEnd | 195 |  |
+| ActionButtonBeginning | 196 |  |
+| ActionButtonReturn | 197 |  |
+| ActionButtonDocument | 198 |  |
+| ActionButtonSound | 199 |  |
+| ActionButtonMovie | 200 |  |
+| SingleCornerSnipped | 203 | Snip single corner rectangle object. |
+| TopCornersSnipped | 204 | Snip same side corner rectangle. |
+| DiagonalCornersSnipped | 205 | Snip diagonal corner rectangle. |
+| TopCornersOneRoundedOneSnipped | 206 | Snip and round single corner rectangle. |
+| SingleCornerRounded | 207 | Round single corner rectangle. |
+| TopCornersRounded | 208 | Round same side corner rectangle. |
+| DiagonalCornersRounded | 209 | Round diagonal corner rectangle. |
+| Heptagon | 210 | Heptagon. |
+| Cloud | 211 | Cloud. |
+| Seal6 | 212 | Six-pointed star. |
+| Seal7 | 213 | Seven-pointed star. |
+| Seal10 | 214 | Ten-pointed star. |
+| Seal12 | 215 | Twelve-pointed star. |
+| SwooshArrow | 216 | Swoosh arrow. |
+| Teardrop | 217 | Teardrop. |
+| SquareTabs | 218 | Square tabs. |
+| PlaqueTabs | 219 | Plaque tabs. |
+| Pie | 220 | Pie. |
+| WedgePie | 221 | Wedge pie. |
+| InverseLine | 222 | Inverse line. |
+| MathPlus | 223 | [Math](../../aspose.words.math/) plus. |
+| MathMinus | 224 | [Math](../../aspose.words.math/) minus. |
+| MathMultiply | 225 | [Math](../../aspose.words.math/) multiply. |
+| MathDivide | 226 | [Math](../../aspose.words.math/) divide. |
+| MathEqual | 227 | [Math](../../aspose.words.math/) equal. |
+| MathNotEqual | 228 | [Math](../../aspose.words.math/) not equal. |
+| NonIsoscelesTrapezoid | 229 | Non-isosceles trapezoid. |
+| LeftRightCircularArrow | 230 | Left-right circular arrow. |
+| LeftRightRibbon | 231 | Left-right ribbon. |
+| LeftCircularArrow | 232 | Left circular arrow. |
+| Frame | 233 | Frame. |
+| HalfFrame | 234 | Half frame. |
+| Funnel | 235 | Funnel. |
+| Gear6 | 236 | Six-tooth gear. |
+| Gear9 | 237 | Nine-tooth gear. |
+| Decagon | 238 | Decagon. |
+| Dodecagon | 239 | Dodecagon. |
+| DiagonalStripe | 240 | Diagonal stripe. |
+| Corner | 241 | Corner. |
+| CornerTabs | 242 | Corner tabs. |
+| Chord | 243 | Chord. |
+| ChartPlus | 244 | Chart plus. |
+| ChartStar | 245 | Chart star. |
+| ChartX | 246 | Chart X. |
+| MinValue | n/a | Reserved for the system use. |
 
 
 ## Examples

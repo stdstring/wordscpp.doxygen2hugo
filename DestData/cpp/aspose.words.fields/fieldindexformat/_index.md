@@ -15,11 +15,11 @@ Specifies the formatting for the [FieldIndex](../fieldindex/) fields in a docume
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Template | `0` | From template. |
-| Classic | `0` | Classic. |
-| Fancy | `0` | Fancy. |
-| Modern | `0` | Modern. |
-| Bulleted | `0` | Bulleted. |
-| Formal | `0` | Formal. |
-| Simple | `0` | Simple. |
+| Template | 0 | From template. |
+| Classic | 1 | Classic. |
+| Fancy | 2 | Fancy. |
+| Modern | 3 | Modern. |
+| Bulleted | 4 | Bulleted. |
+| Formal | 5 | Formal. |
+| Simple | 6 | Simple. |
 

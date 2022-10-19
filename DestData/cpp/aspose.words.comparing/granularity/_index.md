@@ -15,8 +15,8 @@ Specifies the granularity of changes to track when comparing two documents.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CharLevel | `0` |  |
-| WordLevel | `0` |  |
+| CharLevel | 0 |  |
+| WordLevel | 1 |  |
 
 
 ## Examples

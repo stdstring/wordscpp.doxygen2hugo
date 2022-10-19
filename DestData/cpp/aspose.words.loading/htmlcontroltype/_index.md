@@ -15,6 +15,6 @@ Type of document nodes that represent <input> and <select> elements imported fro
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FormField | `0` |  |
-| StructuredDocumentTag | `0` |  |
+| FormField | 0 |  |
+| StructuredDocumentTag | 1 |  |
 

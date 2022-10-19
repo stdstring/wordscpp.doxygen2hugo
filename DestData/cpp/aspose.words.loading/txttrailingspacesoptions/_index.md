@@ -15,8 +15,8 @@ Specifies available options for trailing spaces handling during import from **Te
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Trim | `0` |  |
-| Preserve | `0` |  |
+| Trim | 0 |  |
+| Preserve | 1 |  |
 
 
 ## Examples

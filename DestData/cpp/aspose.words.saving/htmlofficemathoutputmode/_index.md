@@ -15,9 +15,9 @@ Specifies how Aspose.Words exports OfficeMath to HTML, MHTML and EPUB.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Image | `0` | OfficeMath is converted to HTML as image specified by <img> tag. |
-| MathML | `0` | OfficeMath is converted to HTML using MathML. |
-| Text | `0` | OfficeMath is converted to HTML as sequence of runs specified by <span> tags. |
+| Image | 0 | OfficeMath is converted to HTML as image specified by <img> tag. |
+| MathML | 1 | OfficeMath is converted to HTML using MathML. |
+| Text | 2 | OfficeMath is converted to HTML as sequence of runs specified by <span> tags. |
 
 
 ## Examples

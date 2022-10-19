@@ -15,8 +15,8 @@ Indicates the format that is used to export fonts while rendering to HTML fixed 
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Woff | `0` | WOFF (Web Open [Font](../../aspose.words/font/) Format). |
-| Ttf | `0` | TTF (TrueType [Font](../../aspose.words/font/) format). |
+| Woff | 0 | WOFF (Web Open [Font](../../aspose.words/font/) Format). |
+| Ttf | 1 | TTF (TrueType [Font](../../aspose.words/font/) format). |
 
 
 ## Examples

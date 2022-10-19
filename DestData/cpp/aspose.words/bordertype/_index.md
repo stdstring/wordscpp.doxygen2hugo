@@ -15,15 +15,15 @@ Specifies sides of a border.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Default value. |
-| Bottom | `0` | Specifies the bottom border of a paragraph or a table cell. |
-| Left | `0` | Specifies the left border of a paragraph or a table cell. |
-| Right | `0` | Specifies the right border of a paragraph or a table cell. |
-| Top | `0` | Specifies the top border of a paragraph or a table cell. |
-| Horizontal | `0` | Specifies the horizontal border between cells in a table or between conforming paragraphs. |
-| Vertical | `0` | Specifies the vertical border between cells in a table. |
-| DiagonalDown | `0` | Specifies the diagonal border in a table cell. |
-| DiagonalUp | `0` | Specifies the diagonal border in a table cell. |
+| None | -1 | Default value. |
+| Bottom | 0 | Specifies the bottom border of a paragraph or a table cell. |
+| Left | 1 | Specifies the left border of a paragraph or a table cell. |
+| Right | 2 | Specifies the right border of a paragraph or a table cell. |
+| Top | 3 | Specifies the top border of a paragraph or a table cell. |
+| Horizontal | 4 | Specifies the horizontal border between cells in a table or between conforming paragraphs. |
+| Vertical | 5 | Specifies the vertical border between cells in a table. |
+| DiagonalDown | 6 | Specifies the diagonal border in a table cell. |
+| DiagonalUp | 7 | Specifies the diagonal border in a table cell. |
 
 
 ## Examples

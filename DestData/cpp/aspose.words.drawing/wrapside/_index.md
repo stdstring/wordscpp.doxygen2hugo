@@ -15,11 +15,11 @@ Specifies what side(s) of the shape or picture the text wraps around.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Both | `0` | The document text wraps on both sides of the shape. |
-| Left | `0` | The document text wraps on the left side of the shape only. There is a text free area on the right of the shape. |
-| Right | `0` | The document text wraps on the right side of the shape only. There is a text free area on the left side of the shape. |
-| Largest | `0` | The document text wraps on the side of the shape that is farthest from the page margin, leaving text free area on the other side of the shape. |
-| Default | `0` | Default value is **Both**. |
+| Both | 0 | The document text wraps on both sides of the shape. |
+| Left | 1 | The document text wraps on the left side of the shape only. There is a text free area on the right of the shape. |
+| Right | 2 | The document text wraps on the right side of the shape only. There is a text free area on the left side of the shape. |
+| Largest | 3 | The document text wraps on the side of the shape that is farthest from the page margin, leaving text free area on the other side of the shape. |
+| Default | n/a | Default value is **Both**. |
 
 
 ## Examples

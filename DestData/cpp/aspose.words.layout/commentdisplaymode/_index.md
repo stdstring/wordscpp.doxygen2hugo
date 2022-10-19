@@ -15,9 +15,9 @@ Specifies the rendering mode for document comments.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Hide | `0` | No document comments are rendered. |
-| ShowInBalloons | `0` | Renders document comments in balloons in the margin. This is the default value. |
-| ShowInAnnotations | `0` | Renders document comments in annotations. This is only available for Pdf format. |
+| Hide | 0 | No document comments are rendered. |
+| ShowInBalloons | 1 | Renders document comments in balloons in the margin. This is the default value. |
+| ShowInAnnotations | 2 | Renders document comments in annotations. This is only available for Pdf format. |
 
 
 ## Examples

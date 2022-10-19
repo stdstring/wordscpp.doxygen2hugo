@@ -15,9 +15,9 @@ Indicates the format in which metafiles are saved to HTML documents.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Png | `0` | Metafiles are rendered to raster PNG images. |
-| Svg | `0` | Metafiles are converted to vector SVG images. |
-| EmfOrWmf | `0` | Metafiles are saved as is, without conversion. |
+| Png | 0 | Metafiles are rendered to raster PNG images. |
+| Svg | 1 | Metafiles are converted to vector SVG images. |
+| EmfOrWmf | 2 | Metafiles are saved as is, without conversion. |
 
 
 ## Examples

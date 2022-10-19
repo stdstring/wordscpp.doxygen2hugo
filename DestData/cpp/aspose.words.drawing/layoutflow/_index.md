@@ -15,12 +15,12 @@ Determines the flow of the text layout in a textbox.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Horizontal | `0` | Text is displayed horizontally. |
-| TopToBottomIdeographic | `0` | Ideographic text is displayed vertically. |
-| BottomToTop | `0` | Text is displayed vertically. |
-| TopToBottom | `0` | Text is displayed vertically. |
-| HorizontalIdeographic | `0` | Ideographic text is displayed horizontally. |
-| Vertical | `0` | Text is displayed vertically. |
+| Horizontal | 0 | Text is displayed horizontally. |
+| TopToBottomIdeographic | 1 | Ideographic text is displayed vertically. |
+| BottomToTop | 2 | Text is displayed vertically. |
+| TopToBottom | 3 | Text is displayed vertically. |
+| HorizontalIdeographic | 4 | Ideographic text is displayed horizontally. |
+| Vertical | 5 | Text is displayed vertically. |
 
 
 ## Examples

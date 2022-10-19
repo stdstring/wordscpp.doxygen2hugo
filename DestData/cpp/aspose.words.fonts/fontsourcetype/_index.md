@@ -15,11 +15,11 @@ Specifies the type of a font source.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FontFile | `0` | A [FileFontSource](../filefontsource/) object that represents single font file. |
-| FontsFolder | `0` | A [FolderFontSource](../folderfontsource/) object that represents folder with font files. |
-| MemoryFont | `0` | A [MemoryFontSource](../memoryfontsource/) object that represents single font in memory. |
-| SystemFonts | `0` | A [SystemFontSource](../systemfontsource/) object that represents all fonts installed to the system. |
-| FontStream | `0` | A [StreamFontSource](../streamfontsource/) object that represents a stream with font data. |
+| FontFile | 0 | A [FileFontSource](../filefontsource/) object that represents single font file. |
+| FontsFolder | 1 | A [FolderFontSource](../folderfontsource/) object that represents folder with font files. |
+| MemoryFont | 2 | A [MemoryFontSource](../memoryfontsource/) object that represents single font in memory. |
+| SystemFonts | 3 | A [SystemFontSource](../systemfontsource/) object that represents all fonts installed to the system. |
+| FontStream | 4 | A [StreamFontSource](../streamfontsource/) object that represents a stream with font data. |
 
 
 ## Examples

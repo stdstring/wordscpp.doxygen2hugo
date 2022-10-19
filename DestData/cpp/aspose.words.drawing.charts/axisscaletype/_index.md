@@ -15,8 +15,8 @@ Specifies the possible scale types for an axis.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Linear | `0` | Linear scaling. |
-| Logarithmic | `0` | Logarithmic scaling. |
+| Linear | 0 | Linear scaling. |
+| Logarithmic | 1 | Logarithmic scaling. |
 
 
 ## Examples

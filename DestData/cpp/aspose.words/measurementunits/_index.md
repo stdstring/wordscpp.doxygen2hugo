@@ -15,9 +15,9 @@ Specifies the unit of measurement.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Inches | `0` | Inches. |
-| Centimeters | `0` | Centimeters. |
-| Millimeters | `0` | Millimeters. |
-| Points | `0` | Points. |
-| Picas | `0` | Picas (commonly used in traditional typewriter font spacing). |
+| Inches | 0 | Inches. |
+| Centimeters | 1 | Centimeters. |
+| Millimeters | 2 | Millimeters. |
+| Points | 3 | Points. |
+| Picas | 4 | Picas (commonly used in traditional typewriter font spacing). |
 

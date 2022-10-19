@@ -15,8 +15,8 @@ Specifies page orientation.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Portrait | `0` | Portrait page orientation (narrow and tall). |
-| Landscape | `0` | Landscape page orientation (wide and short). |
+| Portrait | 1 | Portrait page orientation (narrow and tall). |
+| Landscape | 2 | Landscape page orientation (wide and short). |
 
 
 ## Examples

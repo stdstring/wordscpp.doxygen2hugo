@@ -15,29 +15,29 @@ Specifies texture to be used to fill a shape.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No Texture. |
-| BlueTissuePaper | `0` | Blue tissue paper texture. |
-| Bouquet | `0` | Bouquet texture. |
-| BrownMarble | `0` | Brown marble texture. |
-| Canvas | `0` | Canvas texture. |
-| Cork | `0` | Cork texture. |
-| Denim | `0` | Denim texture. |
-| FishFossil | `0` | Fish fossil texture. |
-| Granite | `0` | Granite texture. |
-| GreenMarble | `0` | Green marble texture. |
-| MediumWood | `0` | Medium wood texture. |
-| Newsprint | `0` | Newsprint texture. |
-| Oak | `0` | Oak texture. |
-| PaperBag | `0` | Paper bag texture. |
-| Papyrus | `0` | Papyrus texture. |
-| Parchment | `0` | Parchment texture. |
-| PinkTissuePaper | `0` | Pink tissue paper texture. |
-| PurpleMesh | `0` | Purple mesh texture. |
-| RecycledPaper | `0` | Recycled paper texture. |
-| Sand | `0` | Sand texture. |
-| Stationery | `0` | Stationery texture. |
-| Walnut | `0` | Walnut texture. |
-| WaterDroplets | `0` | Water droplets texture. |
-| WhiteMarble | `0` | White marble texture. |
-| WovenMat | `0` | Woven mat texture. |
+| None | -1 | No Texture. |
+| BlueTissuePaper | 1 | Blue tissue paper texture. |
+| Bouquet | 2 | Bouquet texture. |
+| BrownMarble | 3 | Brown marble texture. |
+| Canvas | 4 | Canvas texture. |
+| Cork | 5 | Cork texture. |
+| Denim | 6 | Denim texture. |
+| FishFossil | 7 | Fish fossil texture. |
+| Granite | 8 | Granite texture. |
+| GreenMarble | 9 | Green marble texture. |
+| MediumWood | 10 | Medium wood texture. |
+| Newsprint | 11 | Newsprint texture. |
+| Oak | 12 | Oak texture. |
+| PaperBag | 13 | Paper bag texture. |
+| Papyrus | 14 | Papyrus texture. |
+| Parchment | 15 | Parchment texture. |
+| PinkTissuePaper | 16 | Pink tissue paper texture. |
+| PurpleMesh | 17 | Purple mesh texture. |
+| RecycledPaper | 18 | Recycled paper texture. |
+| Sand | 19 | Sand texture. |
+| Stationery | 20 | Stationery texture. |
+| Walnut | 21 | Walnut texture. |
+| WaterDroplets | 22 | Water droplets texture. |
+| WhiteMarble | 23 | White marble texture. |
+| WovenMat | 24 | Woven mat texture. |
 

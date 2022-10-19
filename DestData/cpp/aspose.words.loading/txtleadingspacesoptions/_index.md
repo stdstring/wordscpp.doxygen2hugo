@@ -15,9 +15,9 @@ Specifies available options for leading space handling during import from **Text
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ConvertToIndent | `0` |  |
-| Trim | `0` |  |
-| Preserve | `0` |  |
+| ConvertToIndent | 0 |  |
+| Trim | 1 |  |
+| Preserve | 2 |  |
 
 
 ## Examples

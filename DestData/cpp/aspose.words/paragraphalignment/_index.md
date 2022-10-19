@@ -15,16 +15,16 @@ Specifies text alignment in a paragraph.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | Text is aligned to the left. |
-| Center | `0` | Text is centered horizontally. |
-| Right | `0` | Text is aligned to the right. |
-| Justify | `0` | Text is aligned to both left and right. |
-| Distributed | `0` | Text is evenly distributed. |
-| ArabicMediumKashida | `0` | Arabic only. Kashida length for text is extended to a medium length determined by the consumer. |
-| ArabicHighKashida | `0` | Arabic only. Kashida length for text is extended to its widest possible length. |
-| ArabicLowKashida | `0` | Arabic only. Kashida length for text is extended to a slightly longer length. |
-| ThaiDistributed | `0` | Thai only. Text is justified with an optimization for Thai. |
-| MathElementCenterAsGroup | `0` | The only [Math](../../aspose.words.math/) element in a line, aligned as 'Centered As Group'. |
+| Left | 0 | Text is aligned to the left. |
+| Center | 1 | Text is centered horizontally. |
+| Right | 2 | Text is aligned to the right. |
+| Justify | 3 | Text is aligned to both left and right. |
+| Distributed | 4 | Text is evenly distributed. |
+| ArabicMediumKashida | 5 | Arabic only. Kashida length for text is extended to a medium length determined by the consumer. |
+| ArabicHighKashida | 7 | Arabic only. Kashida length for text is extended to its widest possible length. |
+| ArabicLowKashida | 8 | Arabic only. Kashida length for text is extended to a slightly longer length. |
+| ThaiDistributed | 9 | Thai only. Text is justified with an optimization for Thai. |
+| MathElementCenterAsGroup | 10 | The only [Math](../../aspose.words.math/) element in a line, aligned as 'Centered As Group'. |
 
 
 ## Examples

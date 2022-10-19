@@ -15,8 +15,8 @@ Defines the footnote position.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BottomOfPage | `0` | Footnotes are output at the bottom of each page. |
-| BeneathText | `0` | Footnotes are output beneath text on each page. |
+| BottomOfPage | 1 | Footnotes are output at the bottom of each page. |
+| BeneathText | 2 | Footnotes are output beneath text on each page. |
 
 
 ## Examples

@@ -1,6 +1,7 @@
 ﻿module Defs
 
 open System.Collections.Generic
+open System.Globalization
 open System.IO
 open System.Xml.Linq
 open Markup
@@ -12,7 +13,7 @@ let defaultStartEnumValue = 0
 
 type EnumValueDef = {Id: string;
                      Name: string;
-                     Initializer: int;
+                     Initializer: int option;
                      BriefDescription: SimpleMarkupDef list;
                      DetailedDescription: string}
 
@@ -146,20 +147,34 @@ let parseClassDetailedDescription (source: XElement) = source.Element("detailedd
 
 let parseNamespaceDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
 
-(*let parseEnumValueInitializer (source: XElement) =
+let parseEnumValueInitializer (isFirst: bool) (prevValue: int option) (source: XElement) =
     match "initializer" |> Utils.findElementValue source with
-    | None -> None
-    | Some value -> value.Trim(' ', '=') |> int |> Some*)
+    | None when isFirst -> defaultStartEnumValue |> Some
+    | None ->
+        match prevValue with
+        | None -> None
+        | Some value -> value + 1 |> Some
+    | Some value ->
+        let preparedValue = value.Trim(' ', '=')
+        match preparedValue.StartsWith("0x") with
+        | true ->
+            match System.Int32.TryParse(preparedValue.Substring("0x".Length), NumberStyles.HexNumber, CultureInfo.InvariantCulture) with
+            | true, parsedValue -> parsedValue |> Some
+            | false, _ -> None
+        | false ->
+            match System.Int32.TryParse(preparedValue, NumberStyles.Integer, CultureInfo.InvariantCulture) with
+            | true, parsedValue -> parsedValue |> Some
+            | false, _ -> None
 
-let parseEnumValueDef (source: XElement) =
+let parseEnumValueDef (isFirst: bool) (prevValue: int option) (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
     let briefDescription = source |> parseBriefDescription
     let detailedDescription = ""
     let name = "name" |> Utils.getElementValue source
-    //let initializer = source |> parseEnumValueInitializer
+    let initializer = source |> parseEnumValueInitializer isFirst prevValue
     {EnumValueDef.Id = id;
      EnumValueDef.Name = name;
-     EnumValueDef.Initializer = 0;
+     EnumValueDef.Initializer = initializer;
      EnumValueDef.BriefDescription = briefDescription;
      EnumValueDef.DetailedDescription = detailedDescription;}
 
@@ -172,66 +187,13 @@ let parseEnumDef (context: Context) (source: XElement) =
         let name = "name" |> Utils.getElementValue source
         let qualifiedName = "qualifiedname" |> Utils.getElementValue source
         let baseType = "type" |> Utils.getElementValue source
-        let values = source.Elements("enumvalue") |> Seq.map parseEnumValueDef |> Seq.toList
-        let enumDef = {EnumDef.Id = id;
-                       EnumDef.ParentId = context.ParentId;
-                       EnumDef.Name = name;
-                       EnumDef.QualifiedName = qualifiedName;
-                       EnumDef.BaseType = baseType;
-                       EnumDef.BriefDescription = briefDescription;
-                       EnumDef.DetailedDescription = detailedDescription;
-                       EnumDef.Values = values}
-        context.CommonEntityRepo.Add(id, enumDef |> EntityDef.Enum)
-        enumDef |> Some
-    | _ -> None
-
-(*let parseEnumValueInitializer (values: ResizeArray<EnumValueDef>) (source: XElement) =
-    match "initializer" |> Utils.findElementValue source with
-    | None when values.Count = 0 -> defaultStartEnumValue
-    | None -> values.[values.Count - 1].Initializer + 1
-    | Some value ->
-        let preparedValue = value.Trim(' ', '=')
-        match preparedValue.StartsWith("0x") with
-        | true ->
-            match System.Int32.TryParse(preparedValue.Substring("0x".Length), NumberStyles.HexNumber, CultureInfo.InvariantCulture) with
-            | true, parsedValue -> parsedValue
-            | false, _ -> failwithf "Bad initializer value \"%s\"" value
-        | false ->
-            match System.Int32.TryParse(preparedValue, NumberStyles.Integer, CultureInfo.InvariantCulture) with
-            | true, parsedValue -> parsedValue
-            // when initializer equals similar the following: "= static_cast<int32_t>(Unspecified)"
-            | false, _ ->
-                let openBracket = value.IndexOf('(')
-                let closeBracket = value.IndexOf(')')
-                match (openBracket <> -1) && (closeBracket <> -1) with
-                | false -> failwithf "Bad initializer value \"%s\"" value
-                | true ->
-                    let name = value.Substring(openBracket + 1, closeBracket - openBracket - 1)
-                    (values |> Seq.filter (fun enumValue -> enumValue.Name = name) |> Seq.exactlyOne).Initializer
-
-let parseEnumValueDef (values: ResizeArray<EnumValueDef>) (source: XElement) =
-    let id = "id" |> Utils.getAttributeValue source
-    let briefDescription = source |> parseBriefDescription
-    let detailedDescription = source |> parseDetailedDescription
-    let name = "name" |> Utils.getElementValue source
-    let initializer = source |> parseEnumValueInitializer values
-    {EnumValueDef.Id = id;
-     EnumValueDef.Name = name;
-     EnumValueDef.Initializer = initializer;
-     EnumValueDef.BriefDescription = briefDescription;
-     EnumValueDef.DetailedDescription = detailedDescription;} |> values.Add
-
-let parseEnumDef (context: Context) (source: XElement) =
-    match "prot" |> Utils.getAttributeValue source with
-    | "public" ->
-        let id = "id" |> Utils.getAttributeValue source
-        let briefDescription = source |> parseBriefDescription
-        let detailedDescription = source |> parseEnumDetailedDescription
-        let name = "name" |> Utils.getElementValue source
-        let qualifiedName = "qualifiedname" |> Utils.getElementValue source
-        let baseType = "type" |> Utils.getElementValue source
-        let values = ResizeArray<EnumValueDef>()
-        source.Elements("enumvalue") |> Seq.iter (fun element -> element |> parseEnumValueDef values)
+        let values = new ResizeArray<EnumValueDef>()
+        for valueElement in source.Elements("enumvalue") do
+            let prevValue = match values.Count with
+                            | 0 -> None
+                            | size -> values.[size - 1].Initializer
+            valueElement |> parseEnumValueDef (values.Count = 0) prevValue |> values.Add
+        //let values = source.Elements("enumvalue") |> Seq.map parseEnumValueDef |> Seq.toList
         let enumDef = {EnumDef.Id = id;
                        EnumDef.ParentId = context.ParentId;
                        EnumDef.Name = name;
@@ -242,7 +204,7 @@ let parseEnumDef (context: Context) (source: XElement) =
                        EnumDef.Values = values |> Seq.toList}
         context.CommonEntityRepo.Add(id, enumDef |> EntityDef.Enum)
         enumDef |> Some
-    | _ -> None*)
+    | _ -> None
 
 let parseTypedefDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with

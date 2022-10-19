@@ -15,11 +15,11 @@ Specifies the type of a calendar.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Gregorian | `0` | The Gregorian calendar. |
-| Hijri | `0` | The Hijri Lunar calendar. |
-| Hebrew | `0` | The Hebrew Lunar calendar. |
-| SakaEra | `0` | The Saka Era calendar. |
-| UmAlQura | `0` | The Um-al-Qura calendar. |
+| Gregorian | 0 | The Gregorian calendar. |
+| Hijri | 1 | The Hijri Lunar calendar. |
+| Hebrew | 2 | The Hebrew Lunar calendar. |
+| SakaEra | 3 | The Saka Era calendar. |
+| UmAlQura | 4 | The Um-al-Qura calendar. |
 
 
 ## Examples

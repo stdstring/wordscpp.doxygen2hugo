@@ -15,12 +15,12 @@ Specifies the type of a text form field.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Regular | `0` | The text form field can contain any text. |
-| Number | `0` | The text form field can contain only numbers. |
-| Date | `0` | The text form field can contain only a valid date value. |
-| CurrentDate | `0` | The text form field value is the current date when the field is updated. |
-| CurrentTime | `0` | The text form field value is the current time when the field is updated. |
-| Calculated | `0` | The text form field value is calculated from the expression specified in the [TextInputDefault](../formfield/get_textinputdefault/) property. |
+| Regular | 0 | The text form field can contain any text. |
+| Number | 1 | The text form field can contain only numbers. |
+| Date | 2 | The text form field can contain only a valid date value. |
+| CurrentDate | 3 | The text form field value is the current date when the field is updated. |
+| CurrentTime | 4 | The text form field value is the current time when the field is updated. |
+| Calculated | 5 | The text form field value is calculated from the expression specified in the [TextInputDefault](../formfield/get_textinputdefault/) property. |
 
 
 ## Examples

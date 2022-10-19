@@ -15,8 +15,8 @@ Specifies [Markup](../../aspose.words.markup/) language used for the shape.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Dml | `0` | [Drawing](../)[Markup](../../aspose.words.markup/) Language is used to define the shape. |
-| Vml | `0` | Vector [Markup](../../aspose.words.markup/) Language is used to define the shape. |
+| Dml | 0 | [Drawing](../)[Markup](../../aspose.words.markup/) Language is used to define the shape. |
+| Vml | 1 | Vector [Markup](../../aspose.words.markup/) Language is used to define the shape. |
 
 
 ## Examples

@@ -15,8 +15,8 @@ Specifies the appearance of a structured document tag.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BoundingBox | `0` | Represents a structured document tag shown as a shaded rectangle or bounding box. |
-| Tags | `0` | Represents a structured document tag shown as start and end markers. |
-| Hidden | `0` | Represents a structured document tag that is not shown. |
-| Default | `0` | Defaults to **BoundingBox**. |
+| BoundingBox | 0 | Represents a structured document tag shown as a shaded rectangle or bounding box. |
+| Tags | 1 | Represents a structured document tag shown as start and end markers. |
+| Hidden | 2 | Represents a structured document tag that is not shown. |
+| Default | n/a | Defaults to **BoundingBox**. |
 

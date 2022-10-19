@@ -15,12 +15,12 @@ Specifies how the PDF document should be displayed when opened in the PDF reader
 
 | Name | Value | Description |
 | --- | --- | --- |
-| UseNone | `0` | Neither document outline nor thumbnail images are visible. |
-| UseOutlines | `0` | [Document](../../aspose.words/document/) outline is visible. Note that if there're no outlines in the PDF document then outline navigation pane will not be visible anyway. |
-| UseThumbs | `0` | Thumbnail images are visible. |
-| FullScreen | `0` | Full-screen mode, with no menu bar, window controls, or any other window visible. |
-| UseOC | `0` | Optional content group panel is visible. |
-| UseAttachments | `0` | Attachments panel is visible. |
+| UseNone | 0 | Neither document outline nor thumbnail images are visible. |
+| UseOutlines | 1 | [Document](../../aspose.words/document/) outline is visible. Note that if there're no outlines in the PDF document then outline navigation pane will not be visible anyway. |
+| UseThumbs | 2 | Thumbnail images are visible. |
+| FullScreen | 3 | Full-screen mode, with no menu bar, window controls, or any other window visible. |
+| UseOC | 4 | Optional content group panel is visible. |
+| UseAttachments | 5 | Attachments panel is visible. |
 
 
 ## Examples

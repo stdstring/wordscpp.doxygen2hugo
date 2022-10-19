@@ -15,9 +15,9 @@ Specifies alignment for the list number or bullet.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | The list label is aligned to the left of the number position. |
-| Center | `0` | The list label is centered at the number position. |
-| Right | `0` | This list label is aligned to the right of the number position. |
+| Left | 0 | The list label is aligned to the left of the number position. |
+| Center | 1 | The list label is centered at the number position. |
+| Right | 2 | This list label is aligned to the right of the number position. |
 
 
 Used as a value for the [Alignment](../listlevel/get_alignment/) property.

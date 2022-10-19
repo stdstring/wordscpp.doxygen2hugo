@@ -15,10 +15,10 @@ Specifies the possible positions for tick marks.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Cross | `0` | Specifies that the tick marks shall cross the axis. |
-| Inside | `0` | Specifies that the tick marks shall be inside the plot area. |
-| Outside | `0` | Specifies that the tick marks shall be outside the plot area. |
-| None | `0` | Specifies that there shall be no tick marks. |
+| Cross | 0 | Specifies that the tick marks shall cross the axis. |
+| Inside | 1 | Specifies that the tick marks shall be inside the plot area. |
+| Outside | 2 | Specifies that the tick marks shall be outside the plot area. |
+| None | 3 | Specifies that there shall be no tick marks. |
 
 
 ## Examples

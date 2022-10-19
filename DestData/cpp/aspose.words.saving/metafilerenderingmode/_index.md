@@ -15,9 +15,9 @@ Specifies how Aspose.Words should render WMF and EMF metafiles.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| VectorWithFallback | `0` | Aspose.Words tries to render a metafile as vector graphics. If Aspose.Words cannot correctly render some of the metafile records to vector graphics then Aspose.Words renders this metafile to a bitmap. |
-| Vector | `0` | Aspose.Words renders a metafile as vector graphics. |
-| Bitmap | `0` | Aspose.Words invokes GDI+ to render a metafile to a bitmap and then saves the bitmap to the output document. |
+| VectorWithFallback | 0 | Aspose.Words tries to render a metafile as vector graphics. If Aspose.Words cannot correctly render some of the metafile records to vector graphics then Aspose.Words renders this metafile to a bitmap. |
+| Vector | 1 | Aspose.Words renders a metafile as vector graphics. |
+| Bitmap | 2 | Aspose.Words invokes GDI+ to render a metafile to a bitmap and then saves the bitmap to the output document. |
 
 
 ## Examples

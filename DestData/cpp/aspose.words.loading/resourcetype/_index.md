@@ -15,9 +15,9 @@ Type of loaded resource.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Image | `0` | Image. |
-| CssStyleSheet | `0` | Css style sheet. |
-| Document | `0` | [Document](../../aspose.words/document/). |
+| Image | 0 | Image. |
+| CssStyleSheet | 1 | Css style sheet. |
+| Document | 2 | [Document](../../aspose.words/document/). |
 
 
 ## Examples

@@ -15,7 +15,7 @@ Allows to specify the direction to flow the text in a document.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LeftToRight | `0` | Left to right direction. |
-| RightToLeft | `0` | Right to left direction. |
-| Auto | `0` | Auto-detect direction. |
+| LeftToRight | 0 | Left to right direction. |
+| RightToLeft | 1 | Right to left direction. |
+| Auto | 2 | Auto-detect direction. |
 

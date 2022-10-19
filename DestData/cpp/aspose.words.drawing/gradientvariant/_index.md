@@ -15,11 +15,11 @@ Specifies the variant for a gradient fill.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Gradient variant 'None'. |
-| Variant1 | `0` | Gradient variant 1. |
-| Variant2 | `0` | Gradient variant 2. |
-| Variant3 | `0` | Gradient variant 3. |
-| Variant4 | `0` | Gradient variant 4. |
+| None | 0 | Gradient variant 'None'. |
+| Variant1 | 1 | Gradient variant 1. |
+| Variant2 | 2 | Gradient variant 2. |
+| Variant3 | 3 | Gradient variant 3. |
+| Variant4 | 4 | Gradient variant 4. |
 
 
 ## Examples

@@ -15,11 +15,11 @@ Specifies the level in the document tree where a particular [StructuredDocumentT
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Unknown | `0` | Specifies the unknown or invalid value. |
-| Inline | `0` | The element occurs at the inline level (e.g. among as runs of text). |
-| Block | `0` | The element occurs at the block level (e.g. among tables and paragraphs). |
-| Row | `0` | The element occurs among rows in a table. |
-| Cell | `0` | The element occurs among cells in a row. |
+| Unknown | 0 | Specifies the unknown or invalid value. |
+| Inline | 1 | The element occurs at the inline level (e.g. among as runs of text). |
+| Block | 2 | The element occurs at the block level (e.g. among tables and paragraphs). |
+| Row | 3 | The element occurs among rows in a table. |
+| Cell | 4 | The element occurs among cells in a row. |
 
 
 ## Examples

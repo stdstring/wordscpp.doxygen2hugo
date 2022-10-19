@@ -15,8 +15,8 @@ Represents different behaviors when computing page numbers in a continuous secti
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Always | `0` | Page numbering always restarts regardless of content flow. |
-| FromNewPageOnly | `0` | Page numbering restarts only if there is no other content before the section on the page where the section starts. |
+| Always | 0 | Page numbering always restarts regardless of content flow. |
+| FromNewPageOnly | 1 | Page numbering restarts only if there is no other content before the section on the page where the section starts. |
 
 
 ## Examples

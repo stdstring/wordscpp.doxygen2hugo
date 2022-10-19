@@ -15,11 +15,11 @@ Used as a value for the [Security](../builtindocumentproperties/get_security/) p
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | There are no security states specified by the property. |
-| PasswordProtected | `0` | The document is password protected. (Note has never been seen in a document so far). |
-| ReadOnlyRecommended | `0` | The document to be opened read-only if possible, but the setting can be overridden. |
-| ReadOnlyEnforced | `0` | The document to always be opened read-only. |
-| ReadOnlyExceptAnnotations | `0` | The document to always be opened read-only except for annotations. |
+| None | 0 | There are no security states specified by the property. |
+| PasswordProtected | 1 | The document is password protected. (Note has never been seen in a document so far). |
+| ReadOnlyRecommended | 2 | The document to be opened read-only if possible, but the setting can be overridden. |
+| ReadOnlyEnforced | 4 | The document to always be opened read-only. |
+| ReadOnlyExceptAnnotations | 8 | The document to always be opened read-only except for annotations. |
 
 
 ## Examples

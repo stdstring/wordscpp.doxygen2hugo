@@ -15,11 +15,11 @@ The type of break at the beginning of the section.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Continuous | `0` | The new section starts on the same page as the previous section. |
-| NewColumn | `0` | The section starts from a new column. |
-| NewPage | `0` | The section starts from a new page. |
-| EvenPage | `0` | The section starts on a new even page. |
-| OddPage | `0` | The section starts on a new odd page. |
+| Continuous | 0 | The new section starts on the same page as the previous section. |
+| NewColumn | 1 | The section starts from a new column. |
+| NewPage | 2 | The section starts from a new page. |
+| EvenPage | 3 | The section starts on a new even page. |
+| OddPage | 4 | The section starts on a new odd page. |
 
 
 ## Examples

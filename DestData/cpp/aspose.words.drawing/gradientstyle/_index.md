@@ -15,13 +15,13 @@ Specifies the style for a gradient fill.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No gradient. |
-| Horizontal | `0` | Gradient running horizontally across an object. |
-| Vertical | `0` | Gradient running vertically down an object. |
-| DiagonalUp | `0` | Diagonal gradient moving from a bottom corner up to the opposite corner. |
-| DiagonalDown | `0` | Diagonal gradient moving from a top corner down to the opposite corner. |
-| FromCorner | `0` | Gradient running from a corner to the other three corners. |
-| FromCenter | `0` | Gradient running from the center out to the corners. |
+| None | -1 | No gradient. |
+| Horizontal | 1 | Gradient running horizontally across an object. |
+| Vertical | 2 | Gradient running vertically down an object. |
+| DiagonalUp | 3 | Diagonal gradient moving from a bottom corner up to the opposite corner. |
+| DiagonalDown | 4 | Diagonal gradient moving from a top corner down to the opposite corner. |
+| FromCorner | 5 | Gradient running from a corner to the other three corners. |
+| FromCenter | 6 | Gradient running from the center out to the corners. |
 
 
 ## Examples

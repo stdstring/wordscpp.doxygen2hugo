@@ -15,6 +15,6 @@ Indicates what culture to use during field update.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CurrentThread | `0` | The culture of the current execution thread is used to update fields. |
-| FieldCode | `0` | The culture specified in the field formatting properties via language setting is used. |
+| CurrentThread | 0 | The culture of the current execution thread is used to update fields. |
+| FieldCode | 1 | The culture specified in the field formatting properties via language setting is used. |
 

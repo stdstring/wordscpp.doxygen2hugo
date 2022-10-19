@@ -15,9 +15,9 @@ Specifies how Aspose.Words should render EMF+ Dual metafiles.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EmfPlusWithFallback | `0` | Aspose.Words tries to render EMF+ part of EMF+ Dual metafile. If some of the EMF+ records are not supported then Aspose.Words renders EMF part of EMF+ Dual metafile. |
-| EmfPlus | `0` | Aspose.Words renders EMF+ part of EMF+ Dual metafile. |
-| Emf | `0` | Aspose.Words renders EMF part of EMF+ Dual metafile. |
+| EmfPlusWithFallback | 0 | Aspose.Words tries to render EMF+ part of EMF+ Dual metafile. If some of the EMF+ records are not supported then Aspose.Words renders EMF part of EMF+ Dual metafile. |
+| EmfPlus | 1 | Aspose.Words renders EMF+ part of EMF+ Dual metafile. |
+| Emf | 2 | Aspose.Words renders EMF part of EMF+ Dual metafile. |
 
 
 ## Examples

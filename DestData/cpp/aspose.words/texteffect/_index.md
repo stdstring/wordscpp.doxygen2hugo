@@ -15,11 +15,11 @@ Animation effect for text runs.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| LasVegasLights | `0` |  |
-| BlinkingBackground | `0` |  |
-| SparkleText | `0` |  |
-| MarchingBlackAnts | `0` |  |
-| MarchingRedAnts | `0` |  |
-| Shimmer | `0` |  |
+| None | 0 |  |
+| LasVegasLights | 1 |  |
+| BlinkingBackground | 2 |  |
+| SparkleText | 3 |  |
+| MarchingBlackAnts | 4 |  |
+| MarchingRedAnts | 5 |  |
+| Shimmer | 6 |  |
 

@@ -15,8 +15,8 @@ Specifies a type of compression applied to all content in the PDF file except im
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No compression. |
-| Flate | `0` | Flate (ZIP) compression. |
+| None | 0 | No compression. |
+| Flate | 1 | Flate (ZIP) compression. |
 
 
 ## Examples

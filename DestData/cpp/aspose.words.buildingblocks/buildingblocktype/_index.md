@@ -15,15 +15,15 @@ Specifies a building block type. The type might affect the visibility and behavi
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No type information is specified for the building block. |
-| AutomaticallyReplaceNameWithContent | `0` | Allows the building block to be automatically inserted into the document whenever its name is entered into an application. |
-| StructuredDocumentTagPlaceholderText | `0` | The building block is a structured document tag placeholder text. |
-| FormFieldHelpText | `0` | The building block is a form field help text. |
-| Normal | `0` | The building block is a normal (i.e. regular) glossary document entry. |
-| AutoCorrect | `0` | The building block is associated with the spelling and grammar tools. |
-| AutoText | `0` | The building block is an AutoText entry. |
-| All | `0` | The building block is associated with all types. |
-| Default | `0` | Save as **None**. |
+| None | 0 | No type information is specified for the building block. |
+| AutomaticallyReplaceNameWithContent | 1 | Allows the building block to be automatically inserted into the document whenever its name is entered into an application. |
+| StructuredDocumentTagPlaceholderText | 2 | The building block is a structured document tag placeholder text. |
+| FormFieldHelpText | 3 | The building block is a form field help text. |
+| Normal | 4 | The building block is a normal (i.e. regular) glossary document entry. |
+| AutoCorrect | 5 | The building block is associated with the spelling and grammar tools. |
+| AutoText | 6 | The building block is an AutoText entry. |
+| All | 7 | The building block is associated with all types. |
+| Default | n/a | Save as **None**. |
 
 
 Corresponds to the **ST_DocPartType** type in OOXML.

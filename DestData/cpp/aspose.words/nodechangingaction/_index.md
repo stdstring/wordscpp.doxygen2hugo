@@ -15,8 +15,8 @@ Specifies the type of node change.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Insert | `0` | A node is being inserted in the tree. |
-| Remove | `0` | A node is being removed from the tree. |
+| Insert | 0 | A node is being inserted in the tree. |
+| Remove | 1 | A node is being removed from the tree. |
 
 
 ## Examples

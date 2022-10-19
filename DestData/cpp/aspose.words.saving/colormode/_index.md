@@ -15,8 +15,8 @@ Specifies how colors are rendered.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Normal | `0` | [Rendering](../../aspose.words.rendering/) with unmodified colors. |
-| Grayscale | `0` | [Rendering](../../aspose.words.rendering/) with colors in a range of gray shades from white to black. |
+| Normal | 0 | [Rendering](../../aspose.words.rendering/) with unmodified colors. |
+| Grayscale | 1 | [Rendering](../../aspose.words.rendering/) with colors in a range of gray shades from white to black. |
 
 
 ## Examples

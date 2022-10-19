@@ -15,8 +15,8 @@ Specifies how DrawingML shapes are rendered to fixed page formats.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Fallback | `0` | If fall-back shape is available for DrawingML, Aspose.Words renders fall-back shape instead of the DrawingML. |
-| DrawingML | `0` | Aspose.Words ignores fall-back shape of DrawingML and renders DrawingML itself. This is the default mode. |
+| Fallback | 0 | If fall-back shape is available for DrawingML, Aspose.Words renders fall-back shape instead of the DrawingML. |
+| DrawingML | 1 | Aspose.Words ignores fall-back shape of DrawingML and renders DrawingML itself. This is the default mode. |
 
 
 ## Examples

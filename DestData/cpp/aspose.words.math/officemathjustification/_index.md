@@ -15,12 +15,12 @@ Specifies the justification of the equation.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| CenterGroup | `0` | Justifies instances of mathematical text to the left with respect to each other, and centers the group of mathematical text (the [Math](../)[Paragraph](../../aspose.words/paragraph/)) with respect to the page. |
-| Center | `0` | Centers each instance of mathematical text individually with respect to margins. |
-| Left | `0` | Left justification of [Math](../)[Paragraph](../../aspose.words/paragraph/). |
-| Right | `0` | Right Justification of [Math](../)[Paragraph](../../aspose.words/paragraph/). |
-| Inline | `0` | [Inline](../../aspose.words/inline/) position of [Math](../). |
-| Default | `0` | Default value **CenterGroup**. |
+| CenterGroup | 1 | Justifies instances of mathematical text to the left with respect to each other, and centers the group of mathematical text (the [Math](../)[Paragraph](../../aspose.words/paragraph/)) with respect to the page. |
+| Center | 2 | Centers each instance of mathematical text individually with respect to margins. |
+| Left | 3 | Left justification of [Math](../)[Paragraph](../../aspose.words/paragraph/). |
+| Right | 4 | Right Justification of [Math](../)[Paragraph](../../aspose.words/paragraph/). |
+| Inline | 7 | [Inline](../../aspose.words/inline/) position of [Math](../). |
+| Default | n/a | Default value **CenterGroup**. |
 
 
 ## Examples

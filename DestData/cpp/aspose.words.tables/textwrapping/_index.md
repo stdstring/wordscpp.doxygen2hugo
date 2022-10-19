@@ -15,9 +15,9 @@ Specifies how text is wrapped around the table.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Text and table is displayed in the order of their appearance in the document. |
-| Around | `0` | Text is wrapped around the table occupying available side space. |
-| Default | `0` | Default value. |
+| None | 0 | Text and table is displayed in the order of their appearance in the document. |
+| Around | 1 | Text is wrapped around the table occupying available side space. |
+| Default | n/a | Default value. |
 
 
 ## Examples

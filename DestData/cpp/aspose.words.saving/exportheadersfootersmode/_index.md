@@ -15,10 +15,10 @@ Specifies how headers and footers are exported to HTML, MHTML or EPUB.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Headers and footers are not exported. |
-| PerSection | `0` | Primary headers and footers are exported at the beginning and the end of each section. |
-| FirstSectionHeaderLastSectionFooter | `0` | Primary header of the first section is exported at the beginning of the document and primary footer is at the end. |
-| FirstPageHeaderFooterPerSection | `0` | First page header and footer are exported at the beginning and the end of each section. |
+| None | 0 | Headers and footers are not exported. |
+| PerSection | 1 | Primary headers and footers are exported at the beginning and the end of each section. |
+| FirstSectionHeaderLastSectionFooter | 2 | Primary header of the first section is exported at the beginning of the document and primary footer is at the end. |
+| FirstPageHeaderFooterPerSection | 3 | First page header and footer are exported at the beginning and the end of each section. |
 
 
 ## Examples

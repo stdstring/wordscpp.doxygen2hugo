@@ -15,7 +15,7 @@ Represents the alignment for the specified horizontal rule.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | Aligned to the left. |
-| Center | `0` | Aligned to the center. |
-| Right | `0` | Aligned to the right. |
+| Left | 0 | Aligned to the left. |
+| Center | 1 | Aligned to the center. |
+| Right | 2 | Aligned to the right. |
 

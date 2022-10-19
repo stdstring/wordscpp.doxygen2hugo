@@ -15,8 +15,8 @@ Specifies format of particular embedded font inside [FontInfo](../fontinfo/) obj
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EmbeddedOpenType | `0` | Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files. |
-| OpenType | `0` | Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded fonts used in Open Office XML format, including DOCX files. |
+| EmbeddedOpenType | 0 | Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files. |
+| OpenType | 1 | Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded fonts used in Open Office XML format, including DOCX files. |
 
 
 ## Examples

@@ -15,14 +15,14 @@ Specifies the outline level of a paragraph in the document.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Level1 | `0` | The paragraph is at the outline level 1 (topmost level). |
-| Level2 | `0` | The paragraph is at the outline level 2. |
-| Level3 | `0` | The paragraph is at the outline level 3. |
-| Level4 | `0` | The paragraph is at the outline level 4. |
-| Level5 | `0` | The paragraph is at the outline level 5. |
-| Level6 | `0` | The paragraph is at the outline level 6. |
-| Level7 | `0` | The paragraph is at the outline level 7. |
-| Level8 | `0` | The paragraph is at the outline level 8. |
-| Level9 | `0` | The paragraph is at the outline level 9. |
-| BodyText | `0` | The paragraph is at the level of the main text. |
+| Level1 | 0 | The paragraph is at the outline level 1 (topmost level). |
+| Level2 | 1 | The paragraph is at the outline level 2. |
+| Level3 | 2 | The paragraph is at the outline level 3. |
+| Level4 | 3 | The paragraph is at the outline level 4. |
+| Level5 | 4 | The paragraph is at the outline level 5. |
+| Level6 | 5 | The paragraph is at the outline level 6. |
+| Level7 | 6 | The paragraph is at the outline level 7. |
+| Level8 | 7 | The paragraph is at the outline level 8. |
+| Level9 | 8 | The paragraph is at the outline level 9. |
+| BodyText | 9 | The paragraph is at the level of the main text. |
 

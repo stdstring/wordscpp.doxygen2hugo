@@ -15,9 +15,9 @@ Specifies how list labels are exported to HTML, MHTML and EPUB.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Auto | `0` | Outputs list labels in auto mode. Uses HTML native elements when possible. |
-| AsInlineText | `0` | Outputs all list labels as inline text. |
-| ByHtmlTags | `0` | Outputs all list labels as HTML native elements. |
+| Auto | 0 | Outputs list labels in auto mode. Uses HTML native elements when possible. |
+| AsInlineText | 1 | Outputs all list labels as inline text. |
+| ByHtmlTags | 2 | Outputs all list labels as HTML native elements. |
 
 
 ## Examples

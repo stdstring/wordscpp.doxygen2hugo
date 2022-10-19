@@ -15,24 +15,24 @@ Indicates type of the underline applied to a font.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Single | `0` |  |
-| Words | `0` |  |
-| Double | `0` |  |
-| Dotted | `0` |  |
-| Thick | `0` |  |
-| Dash | `0` |  |
-| DashLong | `0` |  |
-| DotDash | `0` |  |
-| DotDotDash | `0` |  |
-| Wavy | `0` |  |
-| DottedHeavy | `0` |  |
-| DashHeavy | `0` |  |
-| DashLongHeavy | `0` |  |
-| DotDashHeavy | `0` |  |
-| DotDotDashHeavy | `0` |  |
-| WavyHeavy | `0` |  |
-| WavyDouble | `0` |  |
+| None | 0 |  |
+| Single | 1 |  |
+| Words | 2 |  |
+| Double | 3 |  |
+| Dotted | 4 |  |
+| Thick | 6 |  |
+| Dash | 7 |  |
+| DashLong | 39 |  |
+| DotDash | 9 |  |
+| DotDotDash | 10 |  |
+| Wavy | 11 |  |
+| DottedHeavy | 20 |  |
+| DashHeavy | 23 |  |
+| DashLongHeavy | 55 |  |
+| DotDashHeavy | 25 |  |
+| DotDotDashHeavy | 26 |  |
+| WavyHeavy | 27 |  |
+| WavyDouble | 43 |  |
 
 
 ## Examples

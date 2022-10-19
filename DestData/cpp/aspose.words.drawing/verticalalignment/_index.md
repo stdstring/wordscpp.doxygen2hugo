@@ -15,14 +15,14 @@ Specifies vertical alignment of a floating shape, text frame or a floating table
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | The object is explicitly positioned, usually using its **Top** property. |
-| Top | `0` | Specifies that the object shall be at the top of the vertical alignment base. |
-| Center | `0` | Specifies that the object shall be centered with respect to the vertical alignment base. |
-| Bottom | `0` | Specifies that the object shall be at the bottom of the vertical alignment base. |
-| Inside | `0` | Specifies that the object shall be inside of the horizontal alignment base. |
-| Outside | `0` | Specifies that the object shall be outside of the vertical alignment base. |
-| Inline | `0` | Not documented. Seems to be a possible value for floating paragraphs and tables. |
-| Default | `0` | Same as **None**. |
+| None | 0 | The object is explicitly positioned, usually using its **Top** property. |
+| Top | 1 | Specifies that the object shall be at the top of the vertical alignment base. |
+| Center | 2 | Specifies that the object shall be centered with respect to the vertical alignment base. |
+| Bottom | 3 | Specifies that the object shall be at the bottom of the vertical alignment base. |
+| Inside | 4 | Specifies that the object shall be inside of the horizontal alignment base. |
+| Outside | 5 | Specifies that the object shall be outside of the vertical alignment base. |
+| Inline | -1 | Not documented. Seems to be a possible value for floating paragraphs and tables. |
+| Default | n/a | Same as **None**. |
 
 
 ## Examples

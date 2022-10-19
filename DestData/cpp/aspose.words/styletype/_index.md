@@ -15,10 +15,10 @@ Represents type of the style.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Paragraph | `0` | The style is a paragraph style. |
-| Character | `0` | The style is a character style. |
-| Table | `0` | The style is a table style. |
-| List | `0` | The style is a list style. |
+| Paragraph | 1 | The style is a paragraph style. |
+| Character | 2 | The style is a character style. |
+| Table | 3 | The style is a table style. |
+| List | 4 | The style is a list style. |
 
 
 ## Examples

@@ -15,18 +15,18 @@ Represents possible table areas to which conditional formatting may be defined i
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FirstRow | `0` | Specifies formatting of the first row of a table. |
-| FirstColumn | `0` | Specifies formatting of the first column of a table. |
-| LastRow | `0` | Specifies formatting of the last row of a table. |
-| LastColumn | `0` | Specifies formatting of the last column of a table. |
-| OddRowBanding | `0` | Specifies formatting of odd-numbered row stripe. |
-| OddColumnBanding | `0` | Specifies formatting of odd-numbered column stripe. |
-| EvenRowBanding | `0` | Specifies formatting of even-numbered row stripe. |
-| EvenColumnBanding | `0` | Specifies formatting of even-numbered column stripe. |
-| TopLeftCell | `0` | Specifies formatting of the top left cell of a table. |
-| TopRightCell | `0` | Specifies formatting of the top right cell of a table. |
-| BottomLeftCell | `0` | Specifies formatting of the bottom left cell of a table. |
-| BottomRightCell | `0` | Specifies formatting of the bottom right cell of a table. |
+| FirstRow | 0 | Specifies formatting of the first row of a table. |
+| FirstColumn | 1 | Specifies formatting of the first column of a table. |
+| LastRow | 2 | Specifies formatting of the last row of a table. |
+| LastColumn | 3 | Specifies formatting of the last column of a table. |
+| OddRowBanding | 4 | Specifies formatting of odd-numbered row stripe. |
+| OddColumnBanding | 5 | Specifies formatting of odd-numbered column stripe. |
+| EvenRowBanding | 6 | Specifies formatting of even-numbered row stripe. |
+| EvenColumnBanding | 7 | Specifies formatting of even-numbered column stripe. |
+| TopLeftCell | 8 | Specifies formatting of the top left cell of a table. |
+| TopRightCell | 9 | Specifies formatting of the top right cell of a table. |
+| BottomLeftCell | 10 | Specifies formatting of the bottom left cell of a table. |
+| BottomRightCell | 11 | Specifies formatting of the bottom right cell of a table. |
 
 
 ## Examples

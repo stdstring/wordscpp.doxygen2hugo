@@ -15,9 +15,9 @@ Specifies type of chart axis.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Category | `0` | Category axis of a chart. |
-| Series | `0` | Series axis of a chart. |
-| Value | `0` | Value axis of a chart. |
+| Category | 0 | Category axis of a chart. |
+| Series | 1 | Series axis of a chart. |
+| Value | 2 | Value axis of a chart. |
 
 
 ## Examples

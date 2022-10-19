@@ -15,68 +15,68 @@ Specifies the number style for a list, footnotes and endnotes, page numbers.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Arabic | `0` | Arabic numbering (1, 2, 3, ...) |
-| UppercaseRoman | `0` | Upper case Roman (I, II, III, ...) |
-| LowercaseRoman | `0` | Lower case Roman (i, ii, iii, ...) |
-| UppercaseLetter | `0` | Upper case Letter (A, B, C, ...) |
-| LowercaseLetter | `0` | Lower case letter (a, b, c, ...) |
-| Ordinal | `0` | Ordinal (1st, 2nd, 3rd, ...) |
-| Number | `0` | Numbered (One, Two, Three, ...) |
-| OrdinalText | `0` | Ordinal (text) (First, Second, Third, ...) |
-| Hex | `0` | Hexadecimal: 8, 9, A, B, C, D, E, F, 10, 11, 12. |
-| ChicagoManual | `0` | Chicago Manual of [Style](../style/): *, †, † |
-| Kanji | `0` | Ideograph-digital. |
-| KanjiDigit | `0` | Japanese counting. |
-| AiueoHalfWidth | `0` | Aiueo. |
-| IrohaHalfWidth | `0` | Iroha. |
-| ArabicFullWidth | `0` | Full-width Arabic: 1, 2, 3, 4. |
-| ArabicHalfWidth | `0` | Half-width Arabic: 1, 2, 3, 4. |
-| KanjiTraditional | `0` | Japanese legal. |
-| KanjiTraditional2 | `0` | Japanese digital ten thousand. |
-| NumberInCircle | `0` | Enclosed circles. |
-| DecimalFullWidth | `0` | Decimal full width: 1, 2, 3, 4. |
-| Aiueo | `0` | Aiueo full width. |
-| Iroha | `0` | Iroha full width. |
-| LeadingZero | `0` | Leading Zero (01, 02,..., 09, 10, 11,..., 99, 100, 101,...) |
-| Bullet | `0` | Bullet (check the character code in the text) |
-| Ganada | `0` | Korean Ganada. |
-| Chosung | `0` | Korea Chosung. |
-| GB1 | `0` | Enclosed full stop. |
-| GB2 | `0` | Enclosed parenthesis. |
-| GB3 | `0` | Enclosed circle Chinese. |
-| GB4 | `0` | Ideograph enclosed circle. |
-| Zodiac1 | `0` | Ideograph traditional. |
-| Zodiac2 | `0` | Ideograph Zodiac. |
-| Zodiac3 | `0` | Ideograph Zodiac traditional. |
-| TradChinNum1 | `0` | Taiwanese counting. |
-| TradChinNum2 | `0` | Ideograph legal traditional. |
-| TradChinNum3 | `0` | Taiwanese counting thousand. |
-| TradChinNum4 | `0` | Taiwanese digital. |
-| SimpChinNum1 | `0` | Chinese counting. |
-| SimpChinNum2 | `0` | Chinese legal simplified. |
-| SimpChinNum3 | `0` | Chinese counting thousand. |
-| SimpChinNum4 | `0` | Chinese (not implemented) |
-| HanjaRead | `0` | Korean digital. |
-| HanjaReadDigit | `0` | Korean counting. |
-| Hangul | `0` | Korea legal. |
-| Hanja | `0` | Korea digital2. |
-| Hebrew1 | `0` | Hebrew-1. |
-| Arabic1 | `0` | Arabic alpha. |
-| Hebrew2 | `0` | Hebrew-2. |
-| Arabic2 | `0` | Arabic abjad. |
-| HindiLetter1 | `0` | Hindi vowels. |
-| HindiLetter2 | `0` | Hindi consonants. |
-| HindiArabic | `0` | Hindi numbers. |
-| HindiCardinalText | `0` | Hindi descriptive (cardinals) |
-| ThaiLetter | `0` | Thai letters. |
-| ThaiArabic | `0` | Thai numbers. |
-| ThaiCardinalText | `0` | Thai descriptive (cardinals) |
-| VietCardinalText | `0` | Vietnamese descriptive (cardinals) |
-| NumberInDash | `0` | Page number format: - 1 -, - 2 -, - 3 -, - 4 -. |
-| LowercaseRussian | `0` | Lowercase Russian alphabet. |
-| UppercaseRussian | `0` | Uppercase Russian alphabet. |
-| None | `0` | No bullet or number. |
-| Custom | `0` | Custom number format. It is supported by DOCX format only. |
+| Arabic | 0 | Arabic numbering (1, 2, 3, ...) |
+| UppercaseRoman | 1 | Upper case Roman (I, II, III, ...) |
+| LowercaseRoman | 2 | Lower case Roman (i, ii, iii, ...) |
+| UppercaseLetter | 3 | Upper case Letter (A, B, C, ...) |
+| LowercaseLetter | 4 | Lower case letter (a, b, c, ...) |
+| Ordinal | 5 | Ordinal (1st, 2nd, 3rd, ...) |
+| Number | 6 | Numbered (One, Two, Three, ...) |
+| OrdinalText | 7 | Ordinal (text) (First, Second, Third, ...) |
+| Hex | 8 | Hexadecimal: 8, 9, A, B, C, D, E, F, 10, 11, 12. |
+| ChicagoManual | 9 | Chicago Manual of [Style](../style/): *, †, † |
+| Kanji | 10 | Ideograph-digital. |
+| KanjiDigit | 11 | Japanese counting. |
+| AiueoHalfWidth | 12 | Aiueo. |
+| IrohaHalfWidth | 13 | Iroha. |
+| ArabicFullWidth | 14 | Full-width Arabic: 1, 2, 3, 4. |
+| ArabicHalfWidth | 15 | Half-width Arabic: 1, 2, 3, 4. |
+| KanjiTraditional | 16 | Japanese legal. |
+| KanjiTraditional2 | 17 | Japanese digital ten thousand. |
+| NumberInCircle | 18 | Enclosed circles. |
+| DecimalFullWidth | 19 | Decimal full width: 1, 2, 3, 4. |
+| Aiueo | 20 | Aiueo full width. |
+| Iroha | 21 | Iroha full width. |
+| LeadingZero | 22 | Leading Zero (01, 02,..., 09, 10, 11,..., 99, 100, 101,...) |
+| Bullet | 23 | Bullet (check the character code in the text) |
+| Ganada | 24 | Korean Ganada. |
+| Chosung | 25 | Korea Chosung. |
+| GB1 | 26 | Enclosed full stop. |
+| GB2 | 27 | Enclosed parenthesis. |
+| GB3 | 28 | Enclosed circle Chinese. |
+| GB4 | 29 | Ideograph enclosed circle. |
+| Zodiac1 | 30 | Ideograph traditional. |
+| Zodiac2 | 31 | Ideograph Zodiac. |
+| Zodiac3 | 32 | Ideograph Zodiac traditional. |
+| TradChinNum1 | 33 | Taiwanese counting. |
+| TradChinNum2 | 34 | Ideograph legal traditional. |
+| TradChinNum3 | 35 | Taiwanese counting thousand. |
+| TradChinNum4 | 36 | Taiwanese digital. |
+| SimpChinNum1 | 37 | Chinese counting. |
+| SimpChinNum2 | 38 | Chinese legal simplified. |
+| SimpChinNum3 | 39 | Chinese counting thousand. |
+| SimpChinNum4 | 40 | Chinese (not implemented) |
+| HanjaRead | 41 | Korean digital. |
+| HanjaReadDigit | 42 | Korean counting. |
+| Hangul | 43 | Korea legal. |
+| Hanja | 44 | Korea digital2. |
+| Hebrew1 | 45 | Hebrew-1. |
+| Arabic1 | 46 | Arabic alpha. |
+| Hebrew2 | 47 | Hebrew-2. |
+| Arabic2 | 48 | Arabic abjad. |
+| HindiLetter1 | 49 | Hindi vowels. |
+| HindiLetter2 | 50 | Hindi consonants. |
+| HindiArabic | 51 | Hindi numbers. |
+| HindiCardinalText | 52 | Hindi descriptive (cardinals) |
+| ThaiLetter | 53 | Thai letters. |
+| ThaiArabic | 54 | Thai numbers. |
+| ThaiCardinalText | 55 | Thai descriptive (cardinals) |
+| VietCardinalText | 56 | Vietnamese descriptive (cardinals) |
+| NumberInDash | 57 | Page number format: - 1 -, - 2 -, - 3 -, - 4 -. |
+| LowercaseRussian | 58 | Lowercase Russian alphabet. |
+| UppercaseRussian | 59 | Uppercase Russian alphabet. |
+| None | 255 | No bullet or number. |
+| Custom | 65280 | Custom number format. It is supported by DOCX format only. |
 
 
 ## Examples

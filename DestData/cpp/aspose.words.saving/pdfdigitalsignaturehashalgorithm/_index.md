@@ -15,10 +15,10 @@ Specifies a digital hash algorithm used by a digital signature.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Sha256 | `0` | SHA-256 hash algorithm. |
-| Sha384 | `0` | SHA-384 hash algorithm. |
-| Sha512 | `0` | SHA-512 hash algorithm. |
-| RipeMD160 | `0` | RIPEMD-160 hash algorithm. |
+| Sha256 | 0 | SHA-256 hash algorithm. |
+| Sha384 | 1 | SHA-384 hash algorithm. |
+| Sha512 | 2 | SHA-512 hash algorithm. |
+| RipeMD160 | 3 | RIPEMD-160 hash algorithm. |
 
 
 ## Examples

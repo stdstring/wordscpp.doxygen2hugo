@@ -15,15 +15,15 @@ Specifies how table style is applied to a table.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No table style formatting is applied. |
-| FirstRow | `0` | Apply first row conditional formatting. |
-| LastRow | `0` | Apply last row conditional formatting. |
-| FirstColumn | `0` | Apply 1 first column conditional formatting. |
-| LastColumn | `0` | Apply last column conditional formatting. |
-| RowBands | `0` | Apply row banding conditional formatting. |
-| ColumnBands | `0` | Apply column banding conditional formatting. |
-| Default2003 | `0` | [Row](../row/) and column banding is applied. This is Microsoft Word default for old formats such as DOC, WML and RTF. |
-| Default | `0` | This is Microsoft Word defaults. |
+| None | 0 | No table style formatting is applied. |
+| FirstRow | 32 | Apply first row conditional formatting. |
+| LastRow | 64 | Apply last row conditional formatting. |
+| FirstColumn | 128 | Apply 1 first column conditional formatting. |
+| LastColumn | 256 | Apply last column conditional formatting. |
+| RowBands | 512 | Apply row banding conditional formatting. |
+| ColumnBands | 1024 | Apply column banding conditional formatting. |
+| Default2003 | n/a | [Row](../row/) and column banding is applied. This is Microsoft Word default for old formats such as DOC, WML and RTF. |
+| Default | n/a | This is Microsoft Word defaults. |
 
 
 ## Examples

@@ -15,9 +15,9 @@ Specifies the horizontal alignment for pages in output HTML document.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | Align pages to the left. |
-| Center | `0` | Center pages. This is the default value. |
-| Right | `0` | Align pages to the right. |
+| Left | 0 | Align pages to the left. |
+| Center | 1 | Center pages. This is the default value. |
+| Right | 2 | Align pages to the right. |
 
 
 ## Examples

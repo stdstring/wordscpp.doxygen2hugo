@@ -15,14 +15,14 @@ Specifies the type of an external mail merge data source.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No mail merge data source is specified. |
-| TextFile | `0` | Specifies that a given document has been connected to a text file via the Dynamic Data Exchange (DDE) system. |
-| Database | `0` | Specifies that a given document has been connected to an Access database via the Dynamic Data Exchange (DDE) system. |
-| Spreadsheet | `0` | Specifies that a given document has been connected to an Excel spreadsheet via the Dynamic Data Exchange (DDE) system. |
-| Query | `0` | Specifies that a given document has been connected to an external data source using an external query tool. |
-| Odbc | `0` | Specifies that a given document has been connected to an external data source via the Open Database Connectivity interface. |
-| Native | `0` | Specifies that a given document has been connected to an external data source via the Office Data Source Object (ODSO) interface. |
-| Default | `0` | Equals to **None**. |
+| None | -1 | No mail merge data source is specified. |
+| TextFile | 0 | Specifies that a given document has been connected to a text file via the Dynamic Data Exchange (DDE) system. |
+| Database | 1 | Specifies that a given document has been connected to an Access database via the Dynamic Data Exchange (DDE) system. |
+| Spreadsheet | 2 | Specifies that a given document has been connected to an Excel spreadsheet via the Dynamic Data Exchange (DDE) system. |
+| Query | 3 | Specifies that a given document has been connected to an external data source using an external query tool. |
+| Odbc | 4 | Specifies that a given document has been connected to an external data source via the Open Database Connectivity interface. |
+| Native | 5 | Specifies that a given document has been connected to an external data source via the Office Data Source Object (ODSO) interface. |
+| Default | n/a | Equals to **None**. |
 
 
 

@@ -15,11 +15,11 @@ Defines the separator character that appears between the chapter and page number
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Hyphen | `0` | A colon. |
-| Period | `0` | A period. |
-| Colon | `0` | A colon. |
-| EmDash | `0` | An emphasized dash. |
-| EnDash | `0` | A standard dash. |
+| Hyphen | 0 | A colon. |
+| Period | 1 | A period. |
+| Colon | 2 | A colon. |
+| EmDash | 3 | An emphasized dash. |
+| EnDash | 4 | A standard dash. |
 
 
 

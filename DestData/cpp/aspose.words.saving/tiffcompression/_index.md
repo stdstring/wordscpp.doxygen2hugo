@@ -15,11 +15,11 @@ Specifies what type of compression to apply when saving page images into a TIFF 
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Specifies no compression. |
-| Rle | `0` | Specifies the RLE compression scheme. |
-| Lzw | `0` | Specifies the LZW compression scheme. In Java emulated by Deflate (Zip) compression. |
-| Ccitt3 | `0` | Specifies the CCITT3 compression scheme. |
-| Ccitt4 | `0` | Specifies the CCITT4 compression scheme. |
+| None | 0 | Specifies no compression. |
+| Rle | 1 | Specifies the RLE compression scheme. |
+| Lzw | 2 | Specifies the LZW compression scheme. In Java emulated by Deflate (Zip) compression. |
+| Ccitt3 | 3 | Specifies the CCITT3 compression scheme. |
+| Ccitt4 | 4 | Specifies the CCITT4 compression scheme. |
 
 
 ## Examples

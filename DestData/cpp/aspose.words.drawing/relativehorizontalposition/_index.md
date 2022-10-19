@@ -15,15 +15,15 @@ Specifies to what the horizontal position of a shape or text frame is relative.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Margin | `0` | Specifies that the horizontal positioning shall be relative to the page margins. |
-| Page | `0` | The object is positioned relative to the left edge of the page. |
-| Column | `0` | The object is positioned relative to the left side of the column. |
-| Character | `0` | The object is positioned relative to the left side of the paragraph. |
-| LeftMargin | `0` | Specifies that the horizontal positioning shall be relative to the left margin of the page. |
-| RightMargin | `0` | Specifies that the horizontal positioning shall be relative to the right margin of the page. |
-| InsideMargin | `0` | Specifies that the horizontal positioning shall be relative to the inside margin of the current page (the left margin on odd pages, right on even pages). |
-| OutsideMargin | `0` | Specifies that the horizontal positioning shall be relative to the outside margin of the current page (the right margin on odd pages, left on even pages). |
-| Default | `0` | Default value is **Column**. |
+| Margin | 0 | Specifies that the horizontal positioning shall be relative to the page margins. |
+| Page | 1 | The object is positioned relative to the left edge of the page. |
+| Column | 2 | The object is positioned relative to the left side of the column. |
+| Character | 3 | The object is positioned relative to the left side of the paragraph. |
+| LeftMargin | 4 | Specifies that the horizontal positioning shall be relative to the left margin of the page. |
+| RightMargin | 5 | Specifies that the horizontal positioning shall be relative to the right margin of the page. |
+| InsideMargin | 6 | Specifies that the horizontal positioning shall be relative to the inside margin of the current page (the left margin on odd pages, right on even pages). |
+| OutsideMargin | 7 | Specifies that the horizontal positioning shall be relative to the outside margin of the current page (the right margin on odd pages, left on even pages). |
+| Default | n/a | Default value is **Column**. |
 
 
 ## Examples

@@ -15,11 +15,11 @@ Specifies possible types of emphasis mark.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No emphasis mark. |
-| OverSolidCircle | `0` | Emphasis mark is a solid black circle displayed above text. |
-| OverComma | `0` | Emphasis mark is a comma character displayed above text. |
-| OverWhiteCircle | `0` | Emphasis mark is an empty white circle displayed above text. |
-| UnderSolidCircle | `0` | Emphasis mark is a solid black circle displayed below text. |
+| None | 0 | No emphasis mark. |
+| OverSolidCircle | 1 | Emphasis mark is a solid black circle displayed above text. |
+| OverComma | 2 | Emphasis mark is a comma character displayed above text. |
+| OverWhiteCircle | 3 | Emphasis mark is an empty white circle displayed above text. |
+| UnderSolidCircle | 4 | Emphasis mark is a solid black circle displayed below text. |
 
 
 ## Examples

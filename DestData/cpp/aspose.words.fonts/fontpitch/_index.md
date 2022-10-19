@@ -15,9 +15,9 @@ Represents the font pitch.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` | Specifies that no information is available about the pitch of a font. |
-| Fixed | `0` | Specifies that this is a fixed width font. |
-| Variable | `0` | Specifies that this is a proportional width font. |
+| Default | 0 | Specifies that no information is available about the pitch of a font. |
+| Fixed | 1 | Specifies that this is a fixed width font. |
+| Variable | 2 | Specifies that this is a proportional width font. |
 
 
 ## Examples

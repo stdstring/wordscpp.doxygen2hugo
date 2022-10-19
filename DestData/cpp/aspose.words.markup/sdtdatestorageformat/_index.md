@@ -15,8 +15,8 @@ Specifies how the date for a date SDT is stored/retrieved when the SDT is bound 
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Date | `0` | The date value for a date SDT is stored as a date in the standard XML Schema Date format. |
-| DateTime | `0` | The date value for a date SDT is stored as a date in the standard XML Schema DateTime format. |
-| Text | `0` | The date value for a date SDT is stored as text. |
-| Default | `0` | Defaults to **DateTime** |
+| Date | 0 | The date value for a date SDT is stored as a date in the standard XML Schema Date format. |
+| DateTime | 1 | The date value for a date SDT is stored as a date in the standard XML Schema DateTime format. |
+| Text | 2 | The date value for a date SDT is stored as text. |
+| Default | n/a | Defaults to **DateTime** |
 

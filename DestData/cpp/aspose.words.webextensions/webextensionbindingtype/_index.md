@@ -15,10 +15,10 @@ Enumerates available types of binding between a web extension and the data in th
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Matrix | `0` | Tabular data without a header row. |
-| Table | `0` | Tabular data with a header row. |
-| Text | `0` | Plain text. |
-| Default | `0` |  |
+| Matrix | 0 | Tabular data without a header row. |
+| Table | 1 | Tabular data with a header row. |
+| Text | 2 | Plain text. |
+| Default | n/a |  |
 
 
 ## Examples

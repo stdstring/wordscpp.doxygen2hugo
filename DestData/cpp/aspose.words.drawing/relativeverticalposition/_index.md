@@ -15,16 +15,16 @@ Specifies to what the vertical position of a shape or text frame is relative.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Margin | `0` | Specifies that the vertical positioning shall be relative to the page margins. |
-| Page | `0` | The object is positioned relative to the top edge of the page. |
-| Paragraph | `0` | The object is positioned relative to the top of the paragraph that contains the anchor. |
-| Line | `0` | Undocumented. |
-| TopMargin | `0` | Specifies that the vertical positioning shall be relative to the top margin of the current page. |
-| BottomMargin | `0` | Specifies that the vertical positioning shall be relative to the bottom margin of the current page. |
-| InsideMargin | `0` | Specifies that the vertical positioning shall be relative to the inside margin of the current page. |
-| OutsideMargin | `0` | Specifies that the vertical positioning shall be relative to the outside margin of the current page. |
-| TableDefault | `0` | Default value is **Margin**. |
-| TextFrameDefault | `0` | Default value is **Paragraph**. |
+| Margin | 0 | Specifies that the vertical positioning shall be relative to the page margins. |
+| Page | 1 | The object is positioned relative to the top edge of the page. |
+| Paragraph | 2 | The object is positioned relative to the top of the paragraph that contains the anchor. |
+| Line | 3 | Undocumented. |
+| TopMargin | 4 | Specifies that the vertical positioning shall be relative to the top margin of the current page. |
+| BottomMargin | 5 | Specifies that the vertical positioning shall be relative to the bottom margin of the current page. |
+| InsideMargin | 6 | Specifies that the vertical positioning shall be relative to the inside margin of the current page. |
+| OutsideMargin | 7 | Specifies that the vertical positioning shall be relative to the outside margin of the current page. |
+| TableDefault | n/a | Default value is **Margin**. |
+| TextFrameDefault | n/a | Default value is **Paragraph**. |
 
 
 ## Examples

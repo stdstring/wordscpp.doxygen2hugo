@@ -15,11 +15,11 @@ Specifies the type of change being tracked in [Revision](../revision/).
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Insertion | `0` | New content was inserted in the document. |
-| Deletion | `0` | Content was removed from the document. |
-| FormatChange | `0` | Change of formatting was applied to the parent node. |
-| StyleDefinitionChange | `0` | Change of formatting was applied to the parent style. |
-| Moving | `0` | Content was moved in the document. |
+| Insertion | 0 | New content was inserted in the document. |
+| Deletion | 1 | Content was removed from the document. |
+| FormatChange | 2 | Change of formatting was applied to the parent node. |
+| StyleDefinitionChange | 3 | Change of formatting was applied to the parent style. |
+| Moving | 4 | Content was moved in the document. |
 
 
 ## Examples

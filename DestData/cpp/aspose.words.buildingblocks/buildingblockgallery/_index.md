@@ -15,45 +15,45 @@ Specifies the predefined gallery into which a building block is classified.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| All | `0` | Specifies that this glossary document entry shall be associated with all possible gallery classification values. |
-| AutoText | `0` |  |
-| Bibliography | `0` |  |
-| CoverPage | `0` |  |
-| CustomAutoText | `0` |  |
-| CustomBibliography | `0` |  |
-| CustomCoverPage | `0` |  |
-| CustomEquations | `0` |  |
-| CustomFooters | `0` |  |
-| CustomHeaders | `0` |  |
-| Custom1 | `0` |  |
-| Custom2 | `0` |  |
-| Custom3 | `0` |  |
-| Custom4 | `0` |  |
-| Custom5 | `0` |  |
-| CustomPageNumber | `0` |  |
-| CustomPageNumberAtBottom | `0` |  |
-| CustomPageNumberAtMargin | `0` |  |
-| CustomPageNumberAtTop | `0` |  |
-| CustomQuickParts | `0` |  |
-| CustomTableOfContents | `0` |  |
-| CustomTables | `0` |  |
-| CustomTextBox | `0` |  |
-| CustomWatermarks | `0` |  |
-| NoGallery | `0` |  |
-| QuickParts | `0` |  |
-| Equations | `0` |  |
-| Footers | `0` |  |
-| Headers | `0` |  |
-| PageNumber | `0` |  |
-| PageNumberAtBottom | `0` |  |
-| PageNumberAtMargin | `0` |  |
-| PageNumberAtTop | `0` |  |
-| StructuredDocumentTagPlaceholderText | `0` |  |
-| TableOfContents | `0` |  |
-| Tables | `0` |  |
-| TextBox | `0` |  |
-| Watermarks | `0` |  |
-| Default | `0` | Same as **All**. |
+| All | 0 | Specifies that this glossary document entry shall be associated with all possible gallery classification values. |
+| AutoText | 1 |  |
+| Bibliography | 2 |  |
+| CoverPage | 3 |  |
+| CustomAutoText | 4 |  |
+| CustomBibliography | 5 |  |
+| CustomCoverPage | 6 |  |
+| CustomEquations | 7 |  |
+| CustomFooters | 8 |  |
+| CustomHeaders | 9 |  |
+| Custom1 | 10 |  |
+| Custom2 | 11 |  |
+| Custom3 | 12 |  |
+| Custom4 | 13 |  |
+| Custom5 | 14 |  |
+| CustomPageNumber | 15 |  |
+| CustomPageNumberAtBottom | 16 |  |
+| CustomPageNumberAtMargin | 17 |  |
+| CustomPageNumberAtTop | 18 |  |
+| CustomQuickParts | 19 |  |
+| CustomTableOfContents | 20 |  |
+| CustomTables | 21 |  |
+| CustomTextBox | 22 |  |
+| CustomWatermarks | 23 |  |
+| NoGallery | 24 |  |
+| QuickParts | 25 |  |
+| Equations | 26 |  |
+| Footers | 27 |  |
+| Headers | 28 |  |
+| PageNumber | 29 |  |
+| PageNumberAtBottom | 30 |  |
+| PageNumberAtMargin | 31 |  |
+| PageNumberAtTop | 32 |  |
+| StructuredDocumentTagPlaceholderText | 33 |  |
+| TableOfContents | 34 |  |
+| Tables | 35 |  |
+| TextBox | 36 |  |
+| Watermarks | 37 |  |
+| Default | n/a | Same as **All**. |
 
 
 Corresponds to the **ST_DocPartGallery** type in OOXML.

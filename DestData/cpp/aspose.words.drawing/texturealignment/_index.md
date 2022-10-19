@@ -15,16 +15,16 @@ Specifies the alignment for the tiling of the texture fill.
 
 | Name | Value | Description |
 | --- | --- | --- |
-| TopLeft | `0` | Top left texture alignment. |
-| Top | `0` | Top texture alignment. |
-| TopRight | `0` | Top right texture alignment. |
-| Left | `0` | Left texture alignment. |
-| Center | `0` | Center texture alignment. |
-| Right | `0` | Right texture alignment. |
-| BottomLeft | `0` | Bottom left texture alignment. |
-| Bottom | `0` | Bottom texture alignment. |
-| BottomRight | `0` | Bottom right texture alignment. |
-| None | `0` | None texture alignment. |
+| TopLeft | 0 | Top left texture alignment. |
+| Top | 1 | Top texture alignment. |
+| TopRight | 2 | Top right texture alignment. |
+| Left | 3 | Left texture alignment. |
+| Center | 4 | Center texture alignment. |
+| Right | 5 | Right texture alignment. |
+| BottomLeft | 6 | Bottom left texture alignment. |
+| Bottom | 7 | Bottom texture alignment. |
+| BottomRight | 8 | Bottom right texture alignment. |
+| None | 9 | None texture alignment. |
 
 
 ## Examples
