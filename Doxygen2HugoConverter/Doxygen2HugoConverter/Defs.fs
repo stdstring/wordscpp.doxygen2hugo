@@ -35,6 +35,19 @@ type TypedefDef = {Id: string;
                    BriefDescription: SimpleMarkupDef list;
                    DetailedDescription: DetailedDescription}
 
+type FieldDef = {Id: string;
+                 ParentId: string;
+                 IsStatic: bool;
+                 IsConstexpr: bool;
+                 IsMutable: bool;
+                 Name: string;
+                 FullName: string;
+                 Type: string;
+                 Definition: string;
+                 Initializer: string option;
+                 BriefDescription: SimpleMarkupDef list;
+                 DetailedDescription: DetailedDescription;}
+
 type MethodArgDef = {Name: string; Type: SimpleMarkupDef list}
 
 type MethodDef = {Id: string;
@@ -73,6 +86,7 @@ type ClassDef = {Id: string;
                  BaseClasses: BaseClassDef list;
                  TemplateParameters: string list;
                  DirectMethods: MethodGroupDef list;
+                 Fields: FieldDef list;
                  MemberRefs: Refs.MemberRef list}
 
 type NamespaceDef = {Id: string;
@@ -91,7 +105,7 @@ type EntityDef =
     | Enum of EnumDef
     | Typedef of TypedefDef
     | Method of MethodDef
-    // field
+    | Field of FieldDef
 
 type Context = {ParentId: string; ParentName: string; CommonEntityRepo: IDictionary<string, EntityDef>}
 
@@ -140,6 +154,8 @@ let parseBriefDescription (source: XElement) =
 let parseEnumDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
 
 let parseTypedefDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
+
+let parseFieldDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseDetailedDescription
 
 let parseMethodDetailedDescription (source: XElement) = source.Element("detaileddescription") |> Markup.parseMethodDetailedDescription
 
@@ -193,7 +209,6 @@ let parseEnumDef (context: Context) (source: XElement) =
                             | 0 -> None
                             | size -> values.[size - 1].Initializer
             valueElement |> parseEnumValueDef (values.Count = 0) prevValue |> values.Add
-        //let values = source.Elements("enumvalue") |> Seq.map parseEnumValueDef |> Seq.toList
         let enumDef = {EnumDef.Id = id;
                        EnumDef.ParentId = context.ParentId;
                        EnumDef.Name = name;
@@ -227,6 +242,41 @@ let parseTypedefDef (context: Context) (source: XElement) =
         context.CommonEntityRepo.Add(id, typedefDef |> EntityDef.Typedef)
         typedefDef |> Some
     | _ -> None
+
+let parseFieldDef (context: Context) (source: XElement) =
+    let id = "id" |> Utils.getAttributeValue source
+    let staticValue = source |> getYesNoValue "static"
+    let constexprValue = source |> getYesNoValue "constexpr"
+    let mutableValue = source |> getYesNoValue "mutable"
+    let name = "name" |> Utils.getElementValue source
+    let fullName = "qualifiedname" |> Utils.getElementValue source
+    let fieldType = "type" |> Utils.getElementValue source
+    let definition = "definition" |> Utils.getElementValue source
+    let initializer = "initializer" |> Utils.findElementValue source
+    let briefDescription = source |> parseBriefDescription
+    let detailedDescription = source |> parseTypedefDetailedDescription
+    let fieldDef = {FieldDef.Id = id;
+                    FieldDef.ParentId = context.ParentId;
+                    FieldDef.IsStatic = staticValue;
+                    FieldDef.IsConstexpr = constexprValue;
+                    FieldDef.IsMutable = mutableValue;
+                    FieldDef.Name = name;
+                    FieldDef.FullName = fullName;
+                    FieldDef.Type = fieldType;
+                    FieldDef.Definition = definition;
+                    FieldDef.Initializer = initializer;
+                    FieldDef.BriefDescription = briefDescription;
+                    FieldDef.DetailedDescription = detailedDescription}
+    context.CommonEntityRepo.Add(id, fieldDef |> EntityDef.Field)
+    fieldDef
+
+let parseFields (context: Context) (source: XElement) =
+    source.Elements("sectiondef")
+        |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "public-static-attrib")
+        |> Seq.map (fun section -> section.Elements("memberdef"))
+        |> Seq.concat
+        |> Seq.map (fun element -> element |> parseFieldDef context)
+        |> Seq.toList
 
 let parseMethodParameter (source: XElement) =
     let paramName = "declname" |> Utils.getElementValue source
@@ -302,7 +352,9 @@ let parseClassDef (context: Context) (source: XElement) =
         let finalValue = source |> findYesNoValue "final"
         let baseClasses = "basecompoundref" |> source.Elements |> Seq.map parseBaseClassDef |> Seq.toList
         let templateParameters = source |> parseTemplateParameters
-        let directMethods = source |> parseDirectMethods {context with ParentId = id; ParentName = name}
+        let currentContext = {context with ParentId = id; ParentName = name}
+        let directMethods = source |> parseDirectMethods currentContext
+        let fields = source |> parseFields currentContext
         let memberRefs = source.Element("listofallmembers").Elements("member") |> Seq.choose Refs.parseMemberRef |> Seq.toList
         (*for e in source.Descendants("sectiondef") do
             match "kind" |> getAttributeValue e with
@@ -326,6 +378,7 @@ let parseClassDef (context: Context) (source: XElement) =
                         ClassDef.BaseClasses = baseClasses;
                         ClassDef.TemplateParameters = templateParameters;
                         ClassDef.DirectMethods = directMethods;
+                        ClassDef.Fields = fields;
                         ClassDef.MemberRefs = memberRefs}
         let entityConstructor = match kind with
                                 | ClassKind.Class -> EntityDef.Class

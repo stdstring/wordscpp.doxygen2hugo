@@ -53,7 +53,7 @@ class FieldSeparator : public Aspose::Words::Fields::FieldChar
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
 
-[FieldSeparator](./) is an inline-level node and represented by the **FieldSeparatorChar** control character in the document.
+[FieldSeparator](./) is an inline-level node and represented by the [FieldSeparatorChar](../../aspose.words/controlchar/fieldseparatorchar/) control character in the document.
 
 [FieldSeparator](./) can only be a child of [Paragraph](../../aspose.words/paragraph/).
 

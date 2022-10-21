@@ -39,6 +39,9 @@ let createUrlForEntity (context: Context) (entityId: string) =
         | Defs.EntityDef.Method def ->
             def.Name |> Utils.createSimpleFolderName |> storage.Add
             context.CommonEntityRepo.[def.ParentId] |> collectDependencyChain storage
+        | Defs.EntityDef.Field def ->
+            def.Name |> Utils.createSimpleFolderName |> storage.Add
+            context.CommonEntityRepo.[def.ParentId] |> collectDependencyChain storage
     let dest = context.CommonEntityRepo.[entityId] |> collectDependencyChain (new ResizeArray<string>())
     // TODO (std_string) : think about another approach
     Common.RootDirectory |> dest.Add
@@ -267,36 +270,91 @@ let generateForDirectMethodGroup (context: Context) (group: Defs.MethodGroupDef)
     | _ ->
         group.Methods |> Seq.iteri (fun index method -> method |> generateForDirectMethod context (index = 0) true)
 
-let createMethodEntry (context: Context) (relativeUrl: string) (methodDef: Defs.MethodDef) =
-    let builder = new StringBuilder()
-    if methodDef.IsVirtual && (methodDef.IsOverride |> not) then
-        "virtual " |> builder.Append |> ignore
-    if methodDef.IsExplicit then
-        "explicit " |> builder.Append |> ignore
-    if methodDef.IsStatic then
-        "static " |> builder.Append |> ignore
-    relativeUrl |> GenerateLink methodDef.Name |> builder.Append |> ignore
-    "(" |> builder.Append |> ignore
-    methodDef.Args |> createArgTypeList |> String.concat ", " |> builder.Append |> ignore
-    ")" |> builder.Append |> ignore
-    if methodDef.IsConst then
-        " const" |> builder.Append |> ignore
-    if methodDef.IsOverride then
-        " override" |> builder.Append |> ignore
-    let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription  (generateRelativeUrlForEntity context)
-    {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
+let getMemberMethods (context: Context) (memberRefs: Refs.MemberRef list) =
+    let filterFun (memberRef: Refs.MemberRef) =
+        match memberRef.RefId |> context.CommonEntityRepo.ContainsKey with
+        | false -> None
+        | true ->
+            match context.CommonEntityRepo.[memberRef.RefId] with
+            | Defs.EntityDef.Method methodDef -> methodDef |> Some
+            | _ -> None
+    memberRefs |> Seq.choose filterFun |> Seq.toList
 
-let createMemberEntry (context: Context) (memberRef: Refs.MemberRef) =
-    match memberRef.RefId |> context.CommonEntityRepo.ContainsKey with
-    | false -> None
-    | true ->
-        let entity = context.CommonEntityRepo[memberRef.RefId]
-        match entity with
-        | Defs.EntityDef.Method methodDef ->
-            match generateRelativeUrlForEntity context methodDef.Id with
-            | Some relativeUrl -> methodDef |> createMethodEntry context relativeUrl |> Some
-            | _ -> failwith "Unknown method ref"
-        | _ -> failwith "Unsupported member in class/interface"
+let createMethodEntry (context: Context) (methodDef: Defs.MethodDef) =
+    match generateRelativeUrlForEntity context methodDef.Id with
+    | Some relativeUrl ->
+        let builder = new StringBuilder()
+        if methodDef.IsVirtual && (methodDef.IsOverride |> not) then
+            "virtual " |> builder.Append |> ignore
+        if methodDef.IsExplicit then
+            "explicit " |> builder.Append |> ignore
+        if methodDef.IsStatic then
+            "static " |> builder.Append |> ignore
+        relativeUrl |> GenerateLink methodDef.Name |> builder.Append |> ignore
+        "(" |> builder.Append |> ignore
+        methodDef.Args |> createArgTypeList |> String.concat ", " |> builder.Append |> ignore
+        ")" |> builder.Append |> ignore
+        if methodDef.IsConst then
+            " const" |> builder.Append |> ignore
+        if methodDef.IsOverride then
+            " override" |> builder.Append |> ignore
+        let briefDescription = methodDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+        {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
+    | None -> failwith "Unknown method ref"
+
+let generateFieldDefinition (fieldDef: Defs.FieldDef) (dest: StringBuilder) =
+    "```cpp" |> dest.AppendLine |> ignore
+    if fieldDef.IsStatic |> not then
+        "static " |> dest.Append |> ignore
+    fieldDef.Definition.Replace("< ", "<").Replace(" >", ">") |> dest.Append |> ignore
+    dest.AppendLine() |> ignore
+    "```" |> dest.AppendLine |> ignore
+    dest.AppendLine() |> ignore
+
+let generateForDirectField (context: Context) (fieldDef: Defs.FieldDef) =
+    let folderName = fieldDef.Name |> Utils.createSimpleFolderName
+    let fieldDirectory = Path.Combine(context.Directory, folderName)
+    fieldDirectory |> Directory.CreateDirectory |> ignore
+    let fieldUrl = [|folderName|] |> Array.append context.Url
+    let currentContext = {context with Directory = fieldDirectory; Url = fieldUrl; Weight = 1}
+    let builder = new StringBuilder()
+    let descriptionForTitle = fieldDef.BriefDescription |> GenerateBriefDescriptionForTitle
+    builder |> generateDefPageHeader fieldDef.Name descriptionForTitle fieldUrl context.Weight
+    context.Weight <- context.Weight + weightDelta
+    GenerateHeader (sprintf $"{fieldDef.Name} field") 2 |> builder.Append |> ignore
+    let briefDescription = fieldDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+    builder.AppendLine() |> ignore
+    briefDescription |> builder.AppendLine |> ignore
+    builder.AppendLine() |> ignore
+    builder |> generateFieldDefinition fieldDef
+    let detailedDescription = fieldDef.DetailedDescription |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
+    detailedDescription |> builder.Append |> ignore
+    File.AppendAllText(Path.Combine(fieldDirectory, Common.MarkdownFilename), builder.ToString())
+
+let getMemberFields (context: Context) (memberRefs: Refs.MemberRef list) =
+    let filterFun (memberRef: Refs.MemberRef) =
+        match memberRef.RefId |> context.CommonEntityRepo.ContainsKey with
+        | false -> None
+        | true ->
+            match context.CommonEntityRepo.[memberRef.RefId] with
+            | Defs.EntityDef.Field fieldDef -> fieldDef |> Some
+            | _ -> None
+    memberRefs |> Seq.choose filterFun |> Seq.toList
+
+let createFieldEntry (context: Context) (fieldDef: Defs.FieldDef) =
+    match generateRelativeUrlForEntity context fieldDef.Id with
+    | Some relativeUrl ->
+        let builder = new StringBuilder()
+        if fieldDef.IsStatic then
+            "static " |> builder.Append |> ignore
+        if fieldDef.IsConstexpr then
+            "constexpr " |> builder.Append |> ignore
+        if fieldDef.IsMutable then
+            "mutable " |> builder.Append |> ignore
+        relativeUrl |> GenerateLink fieldDef.Name |> builder.Append |> ignore
+        let briefDescription = fieldDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+        {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
+    | None -> failwith "Unknown method ref"
 
 let generateClassKind (classDef: Defs.ClassDef) =
     match classDef.Kind with
@@ -345,12 +403,21 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     builder |> generateClassDefinition classDef
     builder |> generateTemplateParameters context classDef.DetailedDescription.TemplateParameters
     classDef.DirectMethods |> Seq.iter (fun group -> group |> generateForDirectMethodGroup currentContext)
-    if classDef.MemberRefs.IsEmpty |> not then
+    classDef.Fields |> Seq.iter (fun field -> field |> generateForDirectField currentContext)
+    let classMethods = classDef.MemberRefs |> getMemberMethods context
+    if classMethods.IsEmpty |> not then
         GenerateHeader "Methods" 2 |> builder.Append |> ignore
         builder |> generateTableHeader ["Method"; "Description"]
-        classDef.MemberRefs
-                |> Seq.choose (fun memberRef -> memberRef |> createMemberEntry currentContext)
-                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
+        classMethods
+            |> Seq.map (fun methodDef -> methodDef |> createMethodEntry currentContext)
+            |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
+    let classFields = classDef.MemberRefs |> getMemberFields context
+    if classFields.IsEmpty |> not then
+        GenerateHeader "Fields" 2 |> builder.Append |> ignore
+        builder |> generateTableHeader ["Field"; "Description"]
+        classFields
+            |> Seq.map (fun fieldDef -> fieldDef |> createFieldEntry currentContext)
+            |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
     let detailedDescription = classDef.DetailedDescription.Description |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())
