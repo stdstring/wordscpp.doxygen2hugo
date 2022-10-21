@@ -356,6 +356,26 @@ let createFieldEntry (context: Context) (fieldDef: Defs.FieldDef) =
         {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
     | None -> failwith "Unknown method ref"
 
+// std_string : don't have any usable info
+(*let getMemberTypedefs (context: Context) (memberRefs: Refs.MemberRef list) =
+    let filterFun (memberRef: Refs.MemberRef) =
+        match memberRef.RefId |> context.CommonEntityRepo.ContainsKey with
+        | false -> None
+        | true ->
+            match context.CommonEntityRepo.[memberRef.RefId] with
+            | Defs.EntityDef.Typedef typedefDef -> typedefDef |> Some
+            | _ -> None
+    memberRefs |> Seq.choose filterFun |> Seq.toList
+
+let createTypedefEntry (context: Context) (typedefDef: Defs.TypedefDef) =
+    match generateRelativeUrlForEntity context typedefDef.Id with
+    | Some relativeUrl ->
+        let builder = new StringBuilder()
+        relativeUrl |> GenerateLink typedefDef.Name |> builder.Append |> ignore
+        let briefDescription = typedefDef.BriefDescription |> GenerateBriefDescription (generateRelativeUrlForEntity context)
+        {GenerateEntry.Title = builder.ToString(); GenerateEntry.BriefDescription = briefDescription}
+    | None -> failwith "Unknown method ref"*)
+
 let generateClassKind (classDef: Defs.ClassDef) =
     match classDef.Kind with
     | Defs.ClassKind.Class -> "class"
@@ -404,6 +424,8 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
     builder |> generateTemplateParameters context classDef.DetailedDescription.TemplateParameters
     classDef.DirectMethods |> Seq.iter (fun group -> group |> generateForDirectMethodGroup currentContext)
     classDef.Fields |> Seq.iter (fun field -> field |> generateForDirectField currentContext)
+    // std_string : don't have any usable info
+    //classDef.Typedefs |> Seq.iter (fun field -> field |> generateForTypedef currentContext |> ignore)
     let classMethods = classDef.MemberRefs |> getMemberMethods context
     if classMethods.IsEmpty |> not then
         GenerateHeader "Methods" 2 |> builder.Append |> ignore
@@ -418,6 +440,14 @@ let generateForClass (context: Context) (classDef: Defs.ClassDef) =
         classFields
             |> Seq.map (fun fieldDef -> fieldDef |> createFieldEntry currentContext)
             |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
+    // std_string : don't have any usable info
+    (*let classTypedefs = classDef.MemberRefs |> getMemberTypedefs context
+    if classTypedefs.IsEmpty |> not then
+        GenerateHeader "Typedefs" 2 |> builder.Append |> ignore
+        builder |> generateTableHeader ["Typedef"; "Description"]
+        classTypedefs
+            |> Seq.map (fun typedefDef -> typedefDef |> createTypedefEntry currentContext)
+            |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)*)
     let detailedDescription = classDef.DetailedDescription.Description |> GenerateDetailedDescription (generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())

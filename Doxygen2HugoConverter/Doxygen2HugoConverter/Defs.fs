@@ -87,6 +87,7 @@ type ClassDef = {Id: string;
                  TemplateParameters: string list;
                  DirectMethods: MethodGroupDef list;
                  Fields: FieldDef list;
+                 Typedefs: TypedefDef list;
                  MemberRefs: Refs.MemberRef list}
 
 type NamespaceDef = {Id: string;
@@ -243,6 +244,14 @@ let parseTypedefDef (context: Context) (source: XElement) =
         typedefDef |> Some
     | _ -> None
 
+let parseDirectTypedefs (context: Context) (source: XElement) =
+    source.Elements("sectiondef")
+        |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "public-type")
+        |> Seq.map (fun section -> section.Elements("memberdef"))
+        |> Seq.concat
+        |> Seq.choose (fun element -> element |> parseTypedefDef context)
+        |> Seq.toList
+
 let parseFieldDef (context: Context) (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
     let staticValue = source |> getYesNoValue "static"
@@ -270,7 +279,7 @@ let parseFieldDef (context: Context) (source: XElement) =
     context.CommonEntityRepo.Add(id, fieldDef |> EntityDef.Field)
     fieldDef
 
-let parseFields (context: Context) (source: XElement) =
+let parseDirectFields (context: Context) (source: XElement) =
     source.Elements("sectiondef")
         |> Seq.filter (fun element -> let kind = "kind" |> Utils.getAttributeValue element in kind = "public-static-attrib")
         |> Seq.map (fun section -> section.Elements("memberdef"))
@@ -354,7 +363,8 @@ let parseClassDef (context: Context) (source: XElement) =
         let templateParameters = source |> parseTemplateParameters
         let currentContext = {context with ParentId = id; ParentName = name}
         let directMethods = source |> parseDirectMethods currentContext
-        let fields = source |> parseFields currentContext
+        let fields = source |> parseDirectFields currentContext
+        let typedefs = source |> parseDirectTypedefs currentContext
         let memberRefs = source.Element("listofallmembers").Elements("member") |> Seq.choose Refs.parseMemberRef |> Seq.toList
         (*for e in source.Descendants("sectiondef") do
             match "kind" |> getAttributeValue e with
@@ -379,6 +389,7 @@ let parseClassDef (context: Context) (source: XElement) =
                         ClassDef.TemplateParameters = templateParameters;
                         ClassDef.DirectMethods = directMethods;
                         ClassDef.Fields = fields;
+                        ClassDef.Typedefs = typedefs;
                         ClassDef.MemberRefs = memberRefs}
         let entityConstructor = match kind with
                                 | ClassKind.Class -> EntityDef.Class
