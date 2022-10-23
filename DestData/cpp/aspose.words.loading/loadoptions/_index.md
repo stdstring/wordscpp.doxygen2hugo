@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/loadoptions/
 ## LoadOptions class
 
 
-Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../aspose.words/document/) object.
+Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../../aspose.words/document/) object.
 
 ```cpp
 class LoadOptions : public System::Object

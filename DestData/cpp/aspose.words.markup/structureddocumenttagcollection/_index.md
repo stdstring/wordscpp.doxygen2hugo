@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttagcollection/
 ## StructuredDocumentTagCollection class
 
 
-A collection of [IStructuredDocumentTag](./istructureddocumenttag/) instances that represent the structured document tags in the specified range.
+A collection of [IStructuredDocumentTag](../istructureddocumenttag/) instances that represent the structured document tags in the specified range.
 
 ```cpp
 class StructuredDocumentTagCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag>>

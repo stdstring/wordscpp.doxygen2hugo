@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/pagelayoutcallbackargs/
 ## PageLayoutCallbackArgs class
 
 
-An argument passed into [Notify()](./ipagelayoutcallback/notify/)
+An argument passed into [Notify()](../ipagelayoutcallback/notify/)
 
 ```cpp
 class PageLayoutCallbackArgs : public System::Object

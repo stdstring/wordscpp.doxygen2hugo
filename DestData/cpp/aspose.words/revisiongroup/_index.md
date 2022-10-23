@@ -9,7 +9,7 @@ url: /cpp/aspose.words/revisiongroup/
 ## RevisionGroup class
 
 
-Represents a group of sequential [Revision](./revision/) objects.
+Represents a group of sequential [Revision](../revision/) objects.
 
 ```cpp
 class RevisionGroup : public System::Object

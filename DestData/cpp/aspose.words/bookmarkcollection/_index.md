@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmarkcollection/
 ## BookmarkCollection class
 
 
-A collection of [Bookmark](./bookmark/) objects that represent the bookmarks in the specified range.
+A collection of [Bookmark](../bookmark/) objects that represent the bookmarks in the specified range.
 
 ```cpp
 class BookmarkCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Bookmark>>

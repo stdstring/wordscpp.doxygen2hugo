@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/documentpartsavingargs/
 ## DocumentPartSavingArgs class
 
 
-Provides data for the [DocumentPartSaving()](./idocumentpartsavingcallback/documentpartsaving/) callback.
+Provides data for the [DocumentPartSaving()](../idocumentpartsavingcallback/documentpartsaving/) callback.
 
 ```cpp
 class DocumentPartSavingArgs : public System::Object

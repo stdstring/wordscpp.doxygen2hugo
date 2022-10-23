@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/chmloadoptions/
 ## ChmLoadOptions class
 
 
-Allows to specify additional options when loading CHM document into a [Document](../aspose.words/document/) object.
+Allows to specify additional options when loading CHM document into a [Document](../../aspose.words/document/) object.
 
 ```cpp
 class ChmLoadOptions : public Aspose::Words::Loading::LoadOptions

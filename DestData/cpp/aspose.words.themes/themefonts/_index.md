@@ -9,7 +9,7 @@ url: /cpp/aspose.words.themes/themefonts/
 ## ThemeFonts class
 
 
-Represents a collection of fonts in the font scheme, allowing to specify different fonts for different languages [Latin](./themefonts/get_latin/), [EastAsian](./themefonts/get_eastasian/) and [ComplexScript](./themefonts/get_complexscript/).
+Represents a collection of fonts in the font scheme, allowing to specify different fonts for different languages [Latin](./get_latin/), [EastAsian](./get_eastasian/) and [ComplexScript](./get_complexscript/).
 
 ```cpp
 class ThemeFonts : public System::Object

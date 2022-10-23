@@ -9,7 +9,7 @@ url: /cpp/aspose.words/textcolumncollection/
 ## TextColumnCollection class
 
 
-A collection of [TextColumn](./textcolumn/) objects that represent all the columns of text in a section of a document.
+A collection of [TextColumn](../textcolumn/) objects that represent all the columns of text in a section of a document.
 
 ```cpp
 class TextColumnCollection : public System::Object

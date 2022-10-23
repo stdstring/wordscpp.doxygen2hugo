@@ -9,7 +9,7 @@ url: /cpp/aspose.words/story/
 ## Story class
 
 
-Base class for elements that contain block-level nodes [Paragraph](./paragraph/) and [Table](../aspose.words.tables/table/).
+Base class for elements that contain block-level nodes [Paragraph](../paragraph/) and [Table](../../aspose.words.tables/table/).
 
 ```cpp
 class Story : public Aspose::Words::CompositeNode

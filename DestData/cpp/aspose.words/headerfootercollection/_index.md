@@ -9,7 +9,7 @@ url: /cpp/aspose.words/headerfootercollection/
 ## HeaderFooterCollection class
 
 
-Provides typed access to [HeaderFooter](./headerfooter/) nodes of a **Section**.
+Provides typed access to [HeaderFooter](../headerfooter/) nodes of a **Section**.
 
 ```cpp
 class HeaderFooterCollection : public Aspose::Words::NodeCollection

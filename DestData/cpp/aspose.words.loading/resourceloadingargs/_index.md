@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/resourceloadingargs/
 ## ResourceLoadingArgs class
 
 
-Provides data for the [ResourceLoading()](./iresourceloadingcallback/resourceloading/) method.
+Provides data for the [ResourceLoading()](../iresourceloadingcallback/resourceloading/) method.
 
 ```cpp
 class ResourceLoadingArgs : public System::Object

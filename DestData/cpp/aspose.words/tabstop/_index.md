@@ -9,7 +9,7 @@ url: /cpp/aspose.words/tabstop/
 ## TabStop class
 
 
-Represents a single custom tab stop. The **TabStop** object is a member of the [TabStopCollection](./tabstopcollection/) collection.
+Represents a single custom tab stop. The **TabStop** object is a member of the [TabStopCollection](../tabstopcollection/) collection.
 
 ```cpp
 class TabStop : public System::Object

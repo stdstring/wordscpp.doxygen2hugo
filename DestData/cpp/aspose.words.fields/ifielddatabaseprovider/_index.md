@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/ifielddatabaseprovider/
 ## IFieldDatabaseProvider interface
 
 
-Implement this interface to provide data for the [FieldDatabase](./fielddatabase/) field when it's updated.
+Implement this interface to provide data for the [FieldDatabase](../fielddatabase/) field when it's updated.
 
 ```cpp
 class IFieldDatabaseProvider : public System::Object

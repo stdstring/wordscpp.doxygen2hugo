@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fielddatabasedatarow/
 ## FieldDatabaseDataRow class
 
 
-Provides data for the [FieldDatabase](./fielddatabase/) field result.
+Provides data for the [FieldDatabase](../fielddatabase/) field result.
 
 ```cpp
 class FieldDatabaseDataRow : public System::Object

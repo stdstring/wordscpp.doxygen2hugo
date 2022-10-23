@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/custompartcollection/
 ## CustomPartCollection class
 
 
-Represents a collection of [CustomPart](./custompart/) objects.
+Represents a collection of [CustomPart](../custompart/) objects.
 
 ```cpp
 class CustomPartCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::CustomPart>>

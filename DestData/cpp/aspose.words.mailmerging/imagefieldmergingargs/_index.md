@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/
 ## ImageFieldMergingArgs class
 
 
-Provides data for the [ImageFieldMerging()](./ifieldmergingcallback/imagefieldmerging/) event.
+Provides data for the [ImageFieldMerging()](../ifieldmergingcallback/imagefieldmerging/) event.
 
 ```cpp
 class ImageFieldMergingArgs : public Aspose::Words::MailMerging::FieldMergingArgsBase

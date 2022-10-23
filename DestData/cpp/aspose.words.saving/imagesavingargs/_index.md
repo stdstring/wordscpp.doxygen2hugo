@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesavingargs/
 ## ImageSavingArgs class
 
 
-Provides data for the [ImageSaving()](./iimagesavingcallback/imagesaving/) event.
+Provides data for the [ImageSaving()](../iimagesavingcallback/imagesaving/) event.
 
 ```cpp
 class ImageSavingArgs : public System::Object

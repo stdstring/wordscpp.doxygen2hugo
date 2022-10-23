@@ -9,7 +9,7 @@ url: /cpp/aspose.words/stylecollection/
 ## StyleCollection class
 
 
-A collection of [Style](./style/) objects that represent both the built-in and user-defined styles in a document.
+A collection of [Style](../style/) objects that represent both the built-in and user-defined styles in a document.
 
 ```cpp
 class StyleCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Style>>

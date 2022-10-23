@@ -9,7 +9,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/
 ## BaseWebExtensionCollection class
 
 
-Base class for [TaskPaneCollection](./taskpanecollection/), [WebExtensionBindingCollection](./webextensionbindingcollection/), [WebExtensionPropertyCollection](./webextensionpropertycollection/) and [WebExtensionReferenceCollection](./webextensionreferencecollection/) collections.
+Base class for [TaskPaneCollection](../taskpanecollection/), [WebExtensionBindingCollection](../webextensionbindingcollection/), [WebExtensionPropertyCollection](../webextensionpropertycollection/) and [WebExtensionReferenceCollection](../webextensionreferencecollection/) collections.
 
 ```cpp
 template<typename T> class BaseWebExtensionCollection : public System::Collections::Generic::IEnumerable<T>

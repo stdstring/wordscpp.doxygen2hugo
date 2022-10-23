@@ -9,7 +9,7 @@ url: /cpp/aspose.words.vba/vbareferencecollection/
 ## VbaReferenceCollection class
 
 
-Represents a collection of [VbaReference](./vbareference/) objects.
+Represents a collection of [VbaReference](../vbareference/) objects.
 
 ```cpp
 class VbaReferenceCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Vba::VbaReference>>

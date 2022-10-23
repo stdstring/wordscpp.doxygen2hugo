@@ -9,7 +9,7 @@ url: /cpp/aspose.words/nodechangingargs/
 ## NodeChangingArgs class
 
 
-Provides data for methods of the [INodeChangingCallback](./inodechangingcallback/) interface.
+Provides data for methods of the [INodeChangingCallback](../inodechangingcallback/) interface.
 
 ```cpp
 class NodeChangingArgs : public System::Object

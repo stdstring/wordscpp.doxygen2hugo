@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontnamesubstitutionrule/
 ## FontNameSubstitutionRule class
 
 
-[Font](../aspose.words/font/) substitution rule for processing font name.
+[Font](../../aspose.words/font/) substitution rule for processing font name.
 
 ```cpp
 class FontNameSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule

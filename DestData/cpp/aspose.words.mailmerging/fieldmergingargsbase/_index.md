@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/
 ## FieldMergingArgsBase class
 
 
-Base class for [FieldMergingArgs](./fieldmergingargs/) and [ImageFieldMergingArgs](./imagefieldmergingargs/).
+Base class for [FieldMergingArgs](../fieldmergingargs/) and [ImageFieldMergingArgs](../imagefieldmergingargs/).
 
 ```cpp
 class FieldMergingArgsBase : public System::Object

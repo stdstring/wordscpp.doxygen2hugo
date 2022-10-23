@@ -9,7 +9,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/
 ## VbaModuleCollection class
 
 
-Represents a collection of [VbaModule](./vbamodule/) objects.
+Represents a collection of [VbaModule](../vbamodule/) objects.
 
 ```cpp
 class VbaModuleCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Vba::VbaModule>>
