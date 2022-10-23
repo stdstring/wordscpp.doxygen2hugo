@@ -159,4 +159,4 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 | [DocumentReaderPluginLoadException](./documentreaderpluginloadexception/) | Thrown during document load, when the plugin required for reading the document format cannot be loaded. |
 | [FileCorruptedException](./filecorruptedexception/) | Thrown during document load, when the document appears to be corrupted and impossible to load. |
 | [IncorrectPasswordException](./incorrectpasswordexception/) | Thrown if a document is encrypted with a password and the password specified when opening the document is incorrect or missing. |
-| [UnsupportedFileFormatException](./unsupportedfileformatexception/) | Thrown during document load, when the document format is not recognized or not supported by [Aspose.Words](../). |
+| [UnsupportedFileFormatException](./unsupportedfileformatexception/) | Thrown during document load, when the document format is not recognized or not supported by [Aspose.Words](./). |

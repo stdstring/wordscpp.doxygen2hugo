@@ -3,6 +3,24 @@
 open System.IO
 open System.Text
 
+let processFields (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) (dest: StringBuilder) =
+    classDef.Fields |> Seq.iter (fun fieldDef -> fieldDef |> FieldGenerator.generate context)
+    match classDef.MemberRefs |> FieldGenerator.getFieldEntries context with
+    | [] -> ()
+    |fieldEntries ->
+        GeneratorCommon.generateHeader "Fields" 2 |> dest.Append |> ignore
+        dest |> GeneratorCommon.generateTableHeader ["Field"; "Description"]
+        fieldEntries |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
+
+let processMethods (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) (dest: StringBuilder) =
+    classDef.DirectMethods |> Seq.iter (fun group -> group |> MethodGenerator.generateForMethodGroup context)
+    match classDef.MemberRefs |> MethodGenerator.getMethodEntries context with
+    | [] -> ()
+    | methodEntries ->
+        GeneratorCommon.generateHeader "Methods" 2 |> dest.Append |> ignore
+        dest |> GeneratorCommon.generateTableHeader ["Method"; "Description"]
+        methodEntries |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
+
 let generateKind (classDef: Defs.ClassDef) =
     match classDef.Kind with
     | Defs.ClassKind.Class -> "class"
@@ -51,28 +69,8 @@ let generate (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) =
     builder.AppendLine() |> ignore
     builder |> generateDefinition classDef
     builder |> GeneratorCommon.generateTemplateParameters briefDescriptionGenerator classDef.DetailedDescription.TemplateParameters
-    classDef.DirectMethods |> Seq.iter (fun group -> group |> MethodGenerator.generateForMethodGroup currentContext)
-    classDef.Fields |> Seq.iter (fun field -> field |> FieldGenerator.generate currentContext)
-    // std_string : don't have any usable info
-    //classDef.Typedefs |> Seq.iter (fun field -> field |> generateForTypedef currentContext |> ignore)
-    let methodEntries = classDef.MemberRefs |> MethodGenerator.getMethodEntries currentContext
-    if methodEntries.IsEmpty |> not then
-        GeneratorCommon.generateHeader "Methods" 2 |> builder.Append |> ignore
-        builder |> GeneratorCommon.generateTableHeader ["Method"; "Description"]
-        methodEntries |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
-    let fieldEntries = classDef.MemberRefs |> FieldGenerator.getFieldEntries currentContext
-    if fieldEntries.IsEmpty |> not then
-        GeneratorCommon.generateHeader "Fields" 2 |> builder.Append |> ignore
-        builder |> GeneratorCommon.generateTableHeader ["Field"; "Description"]
-        fieldEntries |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
-    // std_string : don't have any usable info
-    (*let classTypedefs = classDef.MemberRefs |> getMemberTypedefs context
-    if classTypedefs.IsEmpty |> not then
-        GenerateHeader "Typedefs" 2 |> builder.Append |> ignore
-        builder |> generateTableHeader ["Typedef"; "Description"]
-        classTypedefs
-            |> Seq.map (fun typedefDef -> typedefDef |> createTypedefEntry currentContext)
-            |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)*)
+    builder |> processMethods currentContext classDef
+    builder |> processFields currentContext classDef
     let detailedDescription = classDef.DetailedDescription.Description |> MarkupGenerator.GenerateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())

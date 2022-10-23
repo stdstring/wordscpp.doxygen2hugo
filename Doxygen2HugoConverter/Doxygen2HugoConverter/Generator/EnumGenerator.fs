@@ -8,6 +8,14 @@ let getInitializerAsString (initializer: int option) =
           | None -> "n/a"
           | Some value -> value |> string
 
+let processEnumValues (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (enumValueDefs: Defs.EnumValueDef list) (dest: StringBuilder) =
+    GeneratorCommon.generateHeader "Values" 3 |> dest.Append |> ignore
+    dest |> GeneratorCommon.generateTableHeader ["Name"; "Value"; "Description"]
+    for enumValueDef in enumValueDefs do
+        let valueBriefDescription = enumValueDef.BriefDescription |> briefDescriptionGenerator
+        let initializer = enumValueDef.Initializer |> getInitializerAsString
+        sprintf $"| {enumValueDef.Name} | {initializer} | {valueBriefDescription} |" |> dest.AppendLine |> ignore
+
 let generate (context: GeneratorCommon.Context) (enumDef: Defs.EnumDef) =
     let folderName = enumDef.Name |> Utils.createSimpleFolderName
     let enumDirectory = Path.Combine(context.Directory, folderName)
@@ -25,12 +33,7 @@ let generate (context: GeneratorCommon.Context) (enumDef: Defs.EnumDef) =
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
-    GeneratorCommon.generateHeader "Values" 3 |> builder.Append |> ignore
-    builder |> GeneratorCommon.generateTableHeader ["Name"; "Value"; "Description"]
-    for enumValueDef in enumDef.Values do
-        let valueBriefDescription = enumValueDef.BriefDescription |> briefDescriptionGenerator
-        let initializer = enumValueDef.Initializer |> getInitializerAsString
-        sprintf $"| {enumValueDef.Name} | {initializer} | {valueBriefDescription} |" |> builder.AppendLine |> ignore
+    builder |> processEnumValues briefDescriptionGenerator enumDef.Values
     builder.AppendLine() |> ignore
     let detailedDescription = enumDef.DetailedDescription |> MarkupGenerator.GenerateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
