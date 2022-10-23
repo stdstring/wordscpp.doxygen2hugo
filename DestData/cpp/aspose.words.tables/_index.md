@@ -26,7 +26,7 @@ The **Aspose.Words.Tables** namespace contains classes that represent tables, ro
 
 | Enum | Description |
 | --- | --- |
-| [AutoFitBehavior](./autofitbehavior/) | Determines how Aspose.Words resizes the table when you invoke the [AutoFit()](../table/autofit/) method. |
+| [AutoFitBehavior](./autofitbehavior/) | Determines how Aspose.Words resizes the table when you invoke the [AutoFit()](./table/autofit/) method. |
 | [CellMerge](./cellmerge/) | Specifies how a cell in a table is merged with other cells. |
 | [CellVerticalAlignment](./cellverticalalignment/) | Specifies vertical justification of text inside a table cell. |
 | [PreferredWidthType](./preferredwidthtype/) | Specifies the unit of measurement for the preferred width of a table or cell. |

@@ -52,8 +52,8 @@ The **Aspose.Words.Drawing** namespace provides classes that allow to create and
 | [RelativeHorizontalPosition](./relativehorizontalposition/) | Specifies to what the horizontal position of a shape or text frame is relative. |
 | [RelativeVerticalPosition](./relativeverticalposition/) | Specifies to what the vertical position of a shape or text frame is relative. |
 | [ShadowType](./shadowtype/) | Specifies the type of a shape shadow. |
-| [ShapeLineStyle](./shapelinestyle/) | Specifies the compound line style of a [Shape](../shape/). |
-| [ShapeMarkupLanguage](./shapemarkuplanguage/) | Specifies [Markup](../../aspose.words.markup/) language used for the shape. |
+| [ShapeLineStyle](./shapelinestyle/) | Specifies the compound line style of a [Shape](./shape/). |
+| [ShapeMarkupLanguage](./shapemarkuplanguage/) | Specifies [Markup](../aspose.words.markup/) language used for the shape. |
 | [ShapeType](./shapetype/) | Specifies the type of shape in a Microsoft Word document. |
 | [TextBoxAnchor](./textboxanchor/) | Specifies values used for shape text vertical alignment. |
 | [TextBoxWrapMode](./textboxwrapmode/) | Specifies how text wraps inside a shape. |

@@ -68,7 +68,7 @@ The **Aspose.Words.Saving** namespace provides classes and enumerations that all
 | --- | --- |
 | [ColorMode](./colormode/) | Specifies how colors are rendered. |
 | [CompressionLevel](./compressionlevel/) | Compression level for OOXML files. (DOCX and DOTX files are internally a ZIP-archive, this property controls the compression level of the archive. Note, that FlatOpc file is not a ZIP-archive, therefore, this property does not affect the FlatOpc files.) |
-| [CssStyleSheetType](./cssstylesheettype/) | Specifies how CSS (Cascading [Style](../../aspose.words/style/) Sheet) styles are exported to HTML. |
+| [CssStyleSheetType](./cssstylesheettype/) | Specifies how CSS (Cascading [Style](../aspose.words/style/) Sheet) styles are exported to HTML. |
 | [Dml3DEffectsRenderingMode](./dml3deffectsrenderingmode/) | Specifies how 3D shape effects are rendered. |
 | [DmlEffectsRenderingMode](./dmleffectsrenderingmode/) | Specifies how DrawingML effects are rendered to fixed page formats. |
 | [DmlRenderingMode](./dmlrenderingmode/) | Specifies how DrawingML shapes are rendered to fixed page formats. |
@@ -92,7 +92,7 @@ The **Aspose.Words.Saving** namespace provides classes and enumerations that all
 | [OdtSaveMeasureUnit](./odtsavemeasureunit/) | Specified units of measure to apply to measurable document content such as shape, widths and other during saving. |
 | [OoxmlCompliance](./ooxmlcompliance/) | Allows to specify which OOXML specification will be used when saving in the DOCX format. |
 | [PdfCompliance](./pdfcompliance/) | Specifies the PDF standards compliance level. |
-| [PdfCustomPropertiesExport](./pdfcustompropertiesexport/) | Specifies the way [CustomDocumentProperties](../../aspose.words/document/get_customdocumentproperties/) are exported to PDF file. |
+| [PdfCustomPropertiesExport](./pdfcustompropertiesexport/) | Specifies the way [CustomDocumentProperties](../aspose.words/document/get_customdocumentproperties/) are exported to PDF file. |
 | [PdfDigitalSignatureHashAlgorithm](./pdfdigitalsignaturehashalgorithm/) | Specifies a digital hash algorithm used by a digital signature. |
 | [PdfFontEmbeddingMode](./pdffontembeddingmode/) | Specifies how Aspose.Words should embed fonts. |
 | [PdfImageColorSpaceExportMode](./pdfimagecolorspaceexportmode/) | Specifies how the color space will be selected for the images in PDF document. |
