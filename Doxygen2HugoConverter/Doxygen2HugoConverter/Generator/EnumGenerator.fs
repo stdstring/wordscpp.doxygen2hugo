@@ -35,5 +35,14 @@ let generate (context: GeneratorCommon.Context) (enumDef: Defs.EnumDef) =
     let detailedDescription = enumDef.DetailedDescription |> MarkupGenerator.GenerateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())
+
+let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (enumDef: Defs.EnumDef) =
+    let folderName = enumDef.Name |> Utils.createSimpleFolderName
+    let briefDescription = enumDef.BriefDescription |> briefDescriptionGenerator
     {GeneratorCommon.GenerateEntry.Title = folderName |> GeneratorCommon.generateChildUrl |> GeneratorCommon.generateLink enumDef.Name;
      GeneratorCommon.GenerateEntry.BriefDescription = briefDescription}
+
+let createEnumEntries (context: GeneratorCommon.Context) (enumDefs: Defs.EnumDef list) =
+    let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
+    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    enumDefs |> Seq.map (fun enumDef -> enumDef |> createEntry briefDescriptionGenerator) |> Seq.toList

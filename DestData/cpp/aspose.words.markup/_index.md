@@ -37,8 +37,8 @@ The **Aspose.Words.Markup** namespace contains classes that represent customer d
 
 | Enum | Description |
 | --- | --- |
-| [MarkupLevel](./markuplevel/) | Specifies the level in the document tree where a particular [StructuredDocumentTag](../structureddocumenttag/) can occur. |
+| [MarkupLevel](./markuplevel/) | Specifies the level in the document tree where a particular [StructuredDocumentTag](./structureddocumenttag/) can occur. |
 | [SdtAppearance](./sdtappearance/) | Specifies the appearance of a structured document tag. |
-| [SdtCalendarType](./sdtcalendartype/) | Specifies the possible types of calendars which can be used to specify [CalendarType](../structureddocumenttag/get_calendartype/) in an Office Open XML document. |
+| [SdtCalendarType](./sdtcalendartype/) | Specifies the possible types of calendars which can be used to specify [CalendarType](./structureddocumenttag/get_calendartype/) in an Office Open XML document. |
 | [SdtDateStorageFormat](./sdtdatestorageformat/) | Specifies how the date for a date SDT is stored/retrieved when the SDT is bound to an XML node in the document's data store. |
 | [SdtType](./sdttype/) | Specifies the type of a structured document tag (SDT) node. |

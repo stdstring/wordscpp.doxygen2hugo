@@ -21,5 +21,5 @@ The **Aspose.Words.Properties** namespace provides classes to work with custom a
 
 | Enum | Description |
 | --- | --- |
-| [DocumentSecurity](./documentsecurity/) | Used as a value for the [Security](../builtindocumentproperties/get_security/) property. Specifies the security level of a document as a numeric value. |
+| [DocumentSecurity](./documentsecurity/) | Used as a value for the [Security](./builtindocumentproperties/get_security/) property. Specifies the security level of a document as a numeric value. |
 | [PropertyType](./propertytype/) | Specifies data type of a document property. |

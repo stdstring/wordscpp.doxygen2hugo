@@ -23,4 +23,4 @@ The **Aspose.Words.Vba** namespace provides classes to work with VBA projects.
 | Enum | Description |
 | --- | --- |
 | [VbaModuleType](./vbamoduletype/) | Specifies the type of a model in a VBA project. |
-| [VbaReferenceType](./vbareferencetype/) | Allows to specify the type of a [VbaReference](../vbareference/) object. |
+| [VbaReferenceType](./vbareferencetype/) | Allows to specify the type of a [VbaReference](./vbareference/) object. |
