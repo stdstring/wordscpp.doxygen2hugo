@@ -20,16 +20,16 @@ let generate (context: GeneratorCommon.Context) (typedefDef: Defs.TypedefDef) =
     let currentContext = {context with Directory = typedefDirectory; Url = typedefUrl; Weight = 1}
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity currentContext
     let builder = new StringBuilder()
-    let descriptionForTitle = typedefDef.BriefDescription |> MarkupGenerator.GenerateBriefDescriptionForTitle
+    let descriptionForTitle = typedefDef.BriefDescription |> MarkupGenerator.generateBriefDescriptionForTitle
     builder |> GeneratorCommon.generateDefPageHeader typedefDef.Name descriptionForTitle typedefUrl context.Weight
     context.Weight <- context.Weight + GeneratorCommon.WeightDelta
     GeneratorCommon.generateHeader (sprintf $"{typedefDef.Name} typedef") 2 |> builder.Append |> ignore
-    let briefDescription = typedefDef.BriefDescription |> MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescription = typedefDef.BriefDescription |> MarkupGenerator.generateSimpleMarkup urlGenerator
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     builder |> generateDefinition typedefDef
-    let detailedDescription = typedefDef.DetailedDescription |> MarkupGenerator.GenerateDetailedDescription urlGenerator
+    let detailedDescription = typedefDef.DetailedDescription |> MarkupGenerator.generateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(typedefDirectory, Common.MarkdownFilename), builder.ToString())
 
@@ -41,5 +41,5 @@ let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (type
 
 let createTypedefEntries (context: GeneratorCommon.Context) (typedefDefs: Defs.TypedefDef list) =
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     typedefDefs |> Seq.map (fun typedefDef -> typedefDef |> createEntry briefDescriptionGenerator) |> Seq.toList

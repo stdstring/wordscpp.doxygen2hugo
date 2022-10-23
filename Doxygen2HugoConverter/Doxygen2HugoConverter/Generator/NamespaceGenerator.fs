@@ -48,9 +48,9 @@ let generate (context: GeneratorCommon.Context) (namespaceDef: Defs.NamespaceDef
         let namespaceUrl = [|folderName|] |> Array.append context.Url
         let currentContext = {context with Directory = namespaceDirectory; Url = namespaceUrl; Weight = 1}
         let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity currentContext
-        let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+        let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
         let builder = new StringBuilder()
-        let descriptionForTitle = namespaceDef.BriefDescription |> MarkupGenerator.GenerateBriefDescriptionForTitle
+        let descriptionForTitle = namespaceDef.BriefDescription |> MarkupGenerator.generateBriefDescriptionForTitle
         builder |> GeneratorCommon.generateDefPageHeader namespaceDef.Name descriptionForTitle namespaceUrl context.Weight
         context.Weight <- context.Weight + GeneratorCommon.WeightDelta
         let briefDescription = namespaceDef.BriefDescription |> briefDescriptionGenerator
@@ -74,5 +74,5 @@ let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (name
 
 let createNamespaceEntries (context: GeneratorCommon.Context) (namespaceDefs: Defs.NamespaceDef list) =
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     namespaceDefs |> Seq.choose (fun namespaceDef -> namespaceDef |> createEntry briefDescriptionGenerator) |> Seq.toList

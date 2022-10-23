@@ -23,9 +23,9 @@ let generate (context: GeneratorCommon.Context) (enumDef: Defs.EnumDef) =
     let enumUrl = [|folderName|] |> Array.append context.Url
     let currentContext = {context with Directory = enumDirectory; Url = enumUrl; Weight = 1}
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity currentContext
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     let builder = new StringBuilder()
-    let descriptionForTitle = enumDef.BriefDescription |> MarkupGenerator.GenerateBriefDescriptionForTitle
+    let descriptionForTitle = enumDef.BriefDescription |> MarkupGenerator.generateBriefDescriptionForTitle
     builder |> GeneratorCommon.generateDefPageHeader enumDef.Name descriptionForTitle enumUrl context.Weight
     context.Weight <- context.Weight + GeneratorCommon.WeightDelta
     GeneratorCommon.generateHeader (sprintf $"{enumDef.Name} enum") 2 |> builder.Append |> ignore
@@ -35,7 +35,7 @@ let generate (context: GeneratorCommon.Context) (enumDef: Defs.EnumDef) =
     builder.AppendLine() |> ignore
     builder |> processEnumValues briefDescriptionGenerator enumDef.Values
     builder.AppendLine() |> ignore
-    let detailedDescription = enumDef.DetailedDescription |> MarkupGenerator.GenerateDetailedDescription urlGenerator
+    let detailedDescription = enumDef.DetailedDescription |> MarkupGenerator.generateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString())
 
@@ -47,5 +47,5 @@ let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (enum
 
 let createEnumEntries (context: GeneratorCommon.Context) (enumDefs: Defs.EnumDef list) =
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     enumDefs |> Seq.map (fun enumDef -> enumDef |> createEntry briefDescriptionGenerator) |> Seq.toList
