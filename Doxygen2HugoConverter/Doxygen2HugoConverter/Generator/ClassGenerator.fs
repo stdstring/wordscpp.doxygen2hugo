@@ -66,9 +66,9 @@ let generate (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) =
     let classUrl = [|folderName|] |> Array.append context.Url
     let currentContext = {context with Directory = classDirectory; Url = classUrl; Weight = 1}
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity currentContext
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     let builder = new StringBuilder()
-    let descriptionForTitle = classDef.BriefDescription |> MarkupGenerator.GenerateBriefDescriptionForTitle
+    let descriptionForTitle = classDef.BriefDescription |> MarkupGenerator.generateBriefDescriptionForTitle
     builder |> GeneratorCommon.generateDefPageHeader classDef.Name descriptionForTitle classUrl context.Weight
     context.Weight <- context.Weight + GeneratorCommon.WeightDelta
     GeneratorCommon.generateHeader (sprintf $"{classDef.Name} {classDef |> generateKind}") 2 |> builder.Append |> ignore
@@ -81,7 +81,7 @@ let generate (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) =
     builder |> processMethods currentContext classDef
     builder |> processFields currentContext classDef
     builder |> processTypedefs currentContext classDef
-    let detailedDescription = classDef.DetailedDescription.Description |> MarkupGenerator.GenerateDetailedDescription urlGenerator
+    let detailedDescription = classDef.DetailedDescription.Description |> MarkupGenerator.generateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())
 
@@ -93,5 +93,5 @@ let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (clas
 
 let createClassEntries (context: GeneratorCommon.Context) (classDefs: Defs.ClassDef list) =
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     classDefs |> Seq.map (fun classDef -> classDef |> createEntry briefDescriptionGenerator) |> Seq.toList

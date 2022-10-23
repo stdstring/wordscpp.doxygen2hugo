@@ -20,16 +20,16 @@ let generate (context: GeneratorCommon.Context) (fieldDef: Defs.FieldDef) =
     let currentContext = {context with Directory = fieldDirectory; Url = fieldUrl; Weight = 1}
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity currentContext
     let builder = new StringBuilder()
-    let descriptionForTitle = fieldDef.BriefDescription |> MarkupGenerator.GenerateBriefDescriptionForTitle
+    let descriptionForTitle = fieldDef.BriefDescription |> MarkupGenerator.generateBriefDescriptionForTitle
     builder |> GeneratorCommon.generateDefPageHeader fieldDef.Name descriptionForTitle fieldUrl context.Weight
     context.Weight <- context.Weight + GeneratorCommon.WeightDelta
     GeneratorCommon.generateHeader (sprintf $"{fieldDef.Name} field") 2 |> builder.Append |> ignore
-    let briefDescription = fieldDef.BriefDescription |> MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescription = fieldDef.BriefDescription |> MarkupGenerator.generateSimpleMarkup urlGenerator
     builder.AppendLine() |> ignore
     briefDescription |> builder.AppendLine |> ignore
     builder.AppendLine() |> ignore
     builder |> generateDefinition fieldDef
-    let detailedDescription = fieldDef.DetailedDescription |> MarkupGenerator.GenerateDetailedDescription urlGenerator
+    let detailedDescription = fieldDef.DetailedDescription |> MarkupGenerator.generateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(fieldDirectory, Common.MarkdownFilename), builder.ToString())
 
@@ -45,7 +45,7 @@ let createFieldEntry (context: GeneratorCommon.Context) (fieldDef: Defs.FieldDef
         if fieldDef.IsMutable then
             "mutable " |> builder.Append |> ignore
         relativeUrl |> GeneratorCommon.generateLink fieldDef.Name |> builder.Append |> ignore
-        let briefDescription = fieldDef.BriefDescription |> MarkupGenerator.GenerateBriefDescription urlGenerator
+        let briefDescription = fieldDef.BriefDescription |> MarkupGenerator.generateSimpleMarkup urlGenerator
         {GeneratorCommon.GenerateEntry.Title = builder.ToString(); GeneratorCommon.GenerateEntry.BriefDescription = briefDescription}
     | None -> failwith "Unknown method ref"
 

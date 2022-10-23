@@ -58,10 +58,10 @@ let generateForMethod (context: GeneratorCommon.Context) (isFirst: bool) (hasOve
     let methodUrl = [|folderName|] |> Array.append context.Url
     let currentContext = {context with Directory = methodDirectory; Url = methodUrl; Weight = 1}
     let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity currentContext
-    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    let briefDescriptionGenerator = MarkupGenerator.generateSimpleMarkup urlGenerator
     let builder = new StringBuilder()
     if isFirst then
-        let descriptionForTitle = methodDef.BriefDescription |> MarkupGenerator.GenerateBriefDescriptionForTitle
+        let descriptionForTitle = methodDef.BriefDescription |> MarkupGenerator.generateBriefDescriptionForTitle
         builder |> GeneratorCommon.generateDefPageHeader methodDef.Name descriptionForTitle methodUrl context.Weight
         context.Weight <- context.Weight + GeneratorCommon.WeightDelta
     let argsTypes = methodDef.Args |> createArgTypeList
@@ -74,7 +74,7 @@ let generateForMethod (context: GeneratorCommon.Context) (isFirst: bool) (hasOve
     builder |> GeneratorCommon.generateTemplateParameters briefDescriptionGenerator methodDef.DetailedDescription.TemplateParameters
     builder |> generateArgs briefDescriptionGenerator methodDef.DetailedDescription.Args argsTypes
     builder |> generateReturnValue briefDescriptionGenerator methodDef.DetailedDescription.ReturnValue
-    let detailedDescription = methodDef.DetailedDescription.Description |> MarkupGenerator.GenerateDetailedDescription (GeneratorUrl.generateRelativeUrlForEntity currentContext)
+    let detailedDescription = methodDef.DetailedDescription.Description |> MarkupGenerator.generateDetailedDescription (GeneratorUrl.generateRelativeUrlForEntity currentContext)
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(methodDirectory, Common.MarkdownFilename), builder.ToString())
 
@@ -103,7 +103,7 @@ let createEntry (context: GeneratorCommon.Context) (methodDef: Defs.MethodDef) =
             " const" |> builder.Append |> ignore
         if methodDef.IsOverride then
             " override" |> builder.Append |> ignore
-        let briefDescription = methodDef.BriefDescription |> MarkupGenerator.GenerateBriefDescription urlGenerator
+        let briefDescription = methodDef.BriefDescription |> MarkupGenerator.generateSimpleMarkup urlGenerator
         {GeneratorCommon.GenerateEntry.Title = builder.ToString(); GeneratorCommon.GenerateEntry.BriefDescription = briefDescription}
     | None -> failwith "Unknown method ref"
 

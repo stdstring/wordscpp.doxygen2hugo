@@ -4,9 +4,6 @@ open System.Collections.Generic
 open System.Globalization
 open System.IO
 open System.Xml.Linq
-open Markup
-
-//type Description = {Brief: SimpleMarkupDef list; Detailed: string}
 
 [<Literal>]
 let defaultStartEnumValue = 0
@@ -14,16 +11,15 @@ let defaultStartEnumValue = 0
 type EnumValueDef = {Id: string;
                      Name: string;
                      Initializer: int option;
-                     BriefDescription: SimpleMarkupDef list;
-                     DetailedDescription: string}
+                     BriefDescription: Markup.SimpleMarkup}
 
 type EnumDef = {Id: string;
                 ParentId: string;
                 Name: string;
                 QualifiedName: string;
                 BaseType: string;
-                BriefDescription: SimpleMarkupDef list;
-                DetailedDescription: DetailedDescription;
+                BriefDescription: Markup.SimpleMarkup;
+                DetailedDescription: Markup.DetailedDescription;
                 Values: EnumValueDef list}
 
 type TypedefDef = {Id: string;
@@ -32,8 +28,8 @@ type TypedefDef = {Id: string;
                    QualifiedName: string;
                    SourceType: string;
                    Definition: string;
-                   BriefDescription: SimpleMarkupDef list;
-                   DetailedDescription: DetailedDescription}
+                   BriefDescription: Markup.SimpleMarkup;
+                   DetailedDescription: Markup.DetailedDescription}
 
 type FieldDef = {Id: string;
                  ParentId: string;
@@ -45,10 +41,10 @@ type FieldDef = {Id: string;
                  Type: string;
                  Definition: string;
                  Initializer: string option;
-                 BriefDescription: SimpleMarkupDef list;
-                 DetailedDescription: DetailedDescription;}
+                 BriefDescription: Markup.SimpleMarkup;
+                 DetailedDescription: Markup.DetailedDescription}
 
-type MethodArgDef = {Name: string; Type: SimpleMarkupDef list}
+type MethodArgDef = {Name: string; Type: Markup.SimpleMarkup}
 
 type MethodDef = {Id: string;
                   ParentId: string;
@@ -59,13 +55,13 @@ type MethodDef = {Id: string;
                   IsExplicit: bool;
                   IsVirtual: bool;
                   IsOverride: bool;
-                  BriefDescription: SimpleMarkupDef list;
-                  DetailedDescription: MethodDetailedDescription;
+                  BriefDescription: Markup.SimpleMarkup;
+                  DetailedDescription: Markup.MethodDetailedDescription;
                   Definition: string;
                   ArgString: string;
                   TemplateParameters: string list;
                   Args: MethodArgDef list;
-                  ReturnType: SimpleMarkupDef list}
+                  ReturnType: Markup.SimpleMarkup}
 
 type MethodGroupDef = {Name: string; Methods: MethodDef[]}
 
@@ -81,8 +77,8 @@ type ClassDef = {Id: string;
                  FullName: string;
                  Final: bool;
                  Kind: ClassKind;
-                 BriefDescription: SimpleMarkupDef list;
-                 DetailedDescription: ClassDetailedDescription;
+                 BriefDescription: Markup.SimpleMarkup;
+                 DetailedDescription: Markup.ClassDetailedDescription;
                  BaseClasses: BaseClassDef list;
                  TemplateParameters: string list;
                  DirectMethods: MethodGroupDef list;
@@ -92,8 +88,8 @@ type ClassDef = {Id: string;
 
 type NamespaceDef = {Id: string;
                      Name: string;
-                     BriefDescription: SimpleMarkupDef list;
-                     DetailedDescription: DetailedDescription;
+                     BriefDescription: Markup.SimpleMarkup;
+                     DetailedDescription: Markup.DetailedDescription;
                      Enums: EnumDef list;
                      Typedefs: TypedefDef list;
                      Classes: ClassDef list
@@ -112,8 +108,6 @@ type Context = {ParentId: string; ParentName: string; CommonEntityRepo: IDiction
 
 let createEmptyContext() =
     {Context.ParentId = ""; Context.ParentName = ""; Context.CommonEntityRepo = new Dictionary<string, EntityDef>()}
-
-// parse defs
 
 let getVirtualValue (source: XElement) =
     match "virt" |> Utils.getAttributeValue source with
@@ -142,12 +136,6 @@ let parseTemplateParameters (source: XElement) =
     | [] -> []
     | [parametersElement] -> parametersElement.Elements("param") |> Seq.map (fun element -> (element.Descendants("type") |> Seq.exactlyOne).Value) |> Seq.toList
     | _ -> failwith "Several sections \"templateparamlist\" found"
-
-//let parseDescription (source: XElement) =
-//    let brief = source.Element("briefdescription") |> parseBriefDescription
-//    let detailed = "detaileddescription" |> getElementValue source
-//    let detailed = ""
-//    {Description.Brief = brief; Description.Detailed = detailed}
 
 let parseBriefDescription (source: XElement) =
     source.Element("briefdescription") |> Markup.parseSimpleMarkup
@@ -186,14 +174,12 @@ let parseEnumValueInitializer (isFirst: bool) (prevValue: int option) (source: X
 let parseEnumValueDef (isFirst: bool) (prevValue: int option) (source: XElement) =
     let id = "id" |> Utils.getAttributeValue source
     let briefDescription = source |> parseBriefDescription
-    let detailedDescription = ""
     let name = "name" |> Utils.getElementValue source
     let initializer = source |> parseEnumValueInitializer isFirst prevValue
     {EnumValueDef.Id = id;
      EnumValueDef.Name = name;
      EnumValueDef.Initializer = initializer;
-     EnumValueDef.BriefDescription = briefDescription;
-     EnumValueDef.DetailedDescription = detailedDescription;}
+     EnumValueDef.BriefDescription = briefDescription}
 
 let parseEnumDef (context: Context) (source: XElement) =
     match "prot" |> Utils.getAttributeValue source with

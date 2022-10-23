@@ -83,8 +83,6 @@ let parseSimpleMarkup (source: XElement): SimpleMarkup =
             | "computeroutput"
             | "bold" ->
                 seq {yield SimpleMarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseSimpleMarkupImpl |> Seq.concat; yield SimpleMarkupDef.BoldEnd}
-            (*| "computeroutput" ->
-                seq {yield SimpleMarkupDef.BoldStart; yield! element.Nodes() |> Seq.map parseMarkupImpl |> Seq.concat; yield SimpleMarkupDef.BoldEnd}*)
             | "ref" -> seq {yield element |> parseMarkupRef |> SimpleMarkupDef.Ref}
             | "ulink" -> element |> parseExternalLink |> SimpleMarkupDef.ExternalLink |> Seq.singleton
             | name -> name |> failwithf "Unexpected Markup XML element with name \"%s\""
