@@ -9,7 +9,7 @@ url: /cpp/aspose.words/runcollection/
 ## RunCollection class
 
 
-Provides typed access to a collection of [Run](./run/) nodes.
+Provides typed access to a collection of [Run](../run/) nodes.
 
 ```cpp
 class RunCollection : public Aspose::Words::NodeCollection

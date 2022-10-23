@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/resourcesavingargs/
 ## ResourceSavingArgs class
 
 
-Provides data for the [ResourceSaving()](./iresourcesavingcallback/resourcesaving/) event.
+Provides data for the [ResourceSaving()](../iresourcesavingcallback/resourcesaving/) event.
 
 ```cpp
 class ResourceSavingArgs : public System::Object

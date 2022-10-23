@@ -9,7 +9,7 @@ url: /cpp/aspose.words/commentcollection/
 ## CommentCollection class
 
 
-Provides typed access to a collection of [Comment](./comment/) nodes.
+Provides typed access to a collection of [Comment](../comment/) nodes.
 
 ```cpp
 class CommentCollection : public Aspose::Words::NodeCollection

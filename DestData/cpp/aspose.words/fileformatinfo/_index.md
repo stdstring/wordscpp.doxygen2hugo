@@ -9,7 +9,7 @@ url: /cpp/aspose.words/fileformatinfo/
 ## FileFormatInfo class
 
 
-Contains data returned by [FileFormatUtil](./fileformatutil/) document format detection methods.
+Contains data returned by [FileFormatUtil](../fileformatutil/) document format detection methods.
 
 ```cpp
 class FileFormatInfo : public System::Object

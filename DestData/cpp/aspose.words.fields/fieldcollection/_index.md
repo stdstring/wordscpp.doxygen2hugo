@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldcollection/
 ## FieldCollection class
 
 
-A collection of [Field](./field/) objects that represents the fields in the specified range.
+A collection of [Field](../field/) objects that represents the fields in the specified range.
 
 ```cpp
 class FieldCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Fields::Field>>

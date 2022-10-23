@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bordercollection/
 ## BorderCollection class
 
 
-A collection of [Border](./border/) objects.
+A collection of [Border](../border/) objects.
 
 ```cpp
 class BorderCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Border>>

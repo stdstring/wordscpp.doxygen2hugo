@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/
 ## ChartDataPointCollection class
 
 
-Represents collection of a [ChartDataPoint](./chartdatapoint/).
+Represents collection of a [ChartDataPoint](../chartdatapoint/).
 
 ```cpp
 class ChartDataPointCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataPoint>>

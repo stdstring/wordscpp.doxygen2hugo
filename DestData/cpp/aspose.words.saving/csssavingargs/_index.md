@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/csssavingargs/
 ## CssSavingArgs class
 
 
-Provides data for the [CssSaving()](./icsssavingcallback/csssaving/) event.
+Provides data for the [CssSaving()](../icsssavingcallback/csssaving/) event.
 
 ```cpp
 class CssSavingArgs : public System::Object

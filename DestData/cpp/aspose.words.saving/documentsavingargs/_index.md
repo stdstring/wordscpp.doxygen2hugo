@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/documentsavingargs/
 ## DocumentSavingArgs class
 
 
-An argument passed into [Notify()](./idocumentsavingcallback/notify/).
+An argument passed into [Notify()](../idocumentsavingcallback/notify/).
 
 ```cpp
 class DocumentSavingArgs : public System::Object

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/
 ## HtmlLoadOptions class
 
 
-Allows to specify additional options when loading HTML document into a [Document](../aspose.words/document/) object.
+Allows to specify additional options when loading HTML document into a [Document](../../aspose.words/document/) object.
 
 ```cpp
 class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions

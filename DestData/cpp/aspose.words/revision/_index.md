@@ -9,7 +9,7 @@ url: /cpp/aspose.words/revision/
 ## Revision class
 
 
-Represents a revision (tracked change) in a document node or style. Use [RevisionType](./revision/get_revisiontype/) to check the type of this revision.
+Represents a revision (tracked change) in a document node or style. Use [RevisionType](./get_revisiontype/) to check the type of this revision.
 
 ```cpp
 class Revision : public System::Object

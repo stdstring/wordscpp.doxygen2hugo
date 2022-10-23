@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/
 ## OdsoRecipientDataCollection class
 
 
-A typed collection of [OdsoRecipientData](./odsorecipientdata/)
+A typed collection of [OdsoRecipientData](../odsorecipientdata/)
 
 ```cpp
 class OdsoRecipientDataCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData>>

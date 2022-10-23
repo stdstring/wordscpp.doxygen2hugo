@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/cellcollection/
 ## CellCollection class
 
 
-Provides typed access to a collection of [Cell](./cell/) nodes.
+Provides typed access to a collection of [Cell](../cell/) nodes.
 
 ```cpp
 class CellCollection : public Aspose::Words::NodeCollection

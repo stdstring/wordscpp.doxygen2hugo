@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/gradientstopcollection/
 ## GradientStopCollection class
 
 
-Contains a collection of [GradientStop](./gradientstop/) objects.
+Contains a collection of [GradientStop](../gradientstop/) objects.
 
 ```cpp
 class GradientStopCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::GradientStop>>

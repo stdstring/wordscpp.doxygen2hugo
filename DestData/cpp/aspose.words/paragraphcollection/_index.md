@@ -9,7 +9,7 @@ url: /cpp/aspose.words/paragraphcollection/
 ## ParagraphCollection class
 
 
-Provides typed access to a collection of [Paragraph](./paragraph/) nodes.
+Provides typed access to a collection of [Paragraph](../paragraph/) nodes.
 
 ```cpp
 class ParagraphCollection : public Aspose::Words::NodeCollection

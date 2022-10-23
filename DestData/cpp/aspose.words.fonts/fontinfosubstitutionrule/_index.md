@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fonts/fontinfosubstitutionrule/
 ## FontInfoSubstitutionRule class
 
 
-[Font](../aspose.words/font/) info substitution rule.
+[Font](../../aspose.words/font/) info substitution rule.
 
 ```cpp
 class FontInfoSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule

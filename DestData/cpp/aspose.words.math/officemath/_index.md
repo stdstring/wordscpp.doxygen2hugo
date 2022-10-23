@@ -9,7 +9,7 @@ url: /cpp/aspose.words.math/officemath/
 ## OfficeMath class
 
 
-Represents an Office [Math](./) object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other [OfficeMath](./officemath/) instances and some other nodes.
+Represents an Office [Math](../) object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other [OfficeMath](./) instances and some other nodes.
 
 ```cpp
 class OfficeMath : public Aspose::Words::CompositeNode, public Aspose::Words::IInline, public Aspose::Words::Revisions::ITrackableNode

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/textcolumn/
 ## TextColumn class
 
 
-Represents a single text column. **TextColumn** is a member of the [TextColumnCollection](./textcolumncollection/) collection. The **TextColumns** collection includes all the columns in a section of a document.
+Represents a single text column. **TextColumn** is a member of the [TextColumnCollection](../textcolumncollection/) collection. The **TextColumns** collection includes all the columns in a section of a document.
 
 ```cpp
 class TextColumn : public System::Object

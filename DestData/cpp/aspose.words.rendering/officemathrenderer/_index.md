@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/officemathrenderer/
 ## OfficeMathRenderer class
 
 
-Provides methods to render an individual [OfficeMath](../aspose.words.math/officemath/) to a raster or vector image or to a Graphics object.
+Provides methods to render an individual [OfficeMath](../../aspose.words.math/officemath/) to a raster or vector image or to a Graphics object.
 
 ```cpp
 class OfficeMathRenderer : public Aspose::Words::Rendering::NodeRendererBase

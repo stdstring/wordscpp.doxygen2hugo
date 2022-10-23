@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/documentloadingargs/
 ## DocumentLoadingArgs class
 
 
-An argument passed into [Notify()](./idocumentloadingcallback/notify/).
+An argument passed into [Notify()](../idocumentloadingcallback/notify/).
 
 ```cpp
 class DocumentLoadingArgs : public System::Object

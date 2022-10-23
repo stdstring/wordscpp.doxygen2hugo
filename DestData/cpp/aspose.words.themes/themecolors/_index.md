@@ -9,7 +9,7 @@ url: /cpp/aspose.words.themes/themecolors/
 ## ThemeColors class
 
 
-Represents the color scheme of the document theme which contains twelve colors. [ThemeColors](./themecolors/) object contains six accent colors, two dark colors, two light colors and a color for each of a hyperlink and followed hyperlink.
+Represents the color scheme of the document theme which contains twelve colors. [ThemeColors](./) object contains six accent colors, two dark colors, two light colors and a color for each of a hyperlink and followed hyperlink.
 
 ```cpp
 class ThemeColors : public System::Object

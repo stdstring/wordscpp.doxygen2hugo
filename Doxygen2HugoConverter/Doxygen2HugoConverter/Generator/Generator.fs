@@ -39,16 +39,18 @@ let generateForNamespace (context: GeneratorCommon.Context) (namespaceDef: Defs.
         briefDescription |> builder.AppendLine |> ignore
         builder.AppendLine() |> ignore
         if namespaceDef.Classes.IsEmpty |> not then
+            namespaceDef.Classes |> Seq.iter (fun classDef -> classDef |> ClassGenerator.generate currentContext)
             GeneratorCommon.generateHeader "Classes" 2 |> builder.Append |> ignore
             builder |> GeneratorCommon.generateTableHeader ["Class"; "Description"]
             namespaceDef.Classes
-                |> Seq.map (fun def -> def |> ClassGenerator.generate currentContext)
+                |> ClassGenerator.createClassEntries currentContext
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Interfaces.IsEmpty |> not then
+            namespaceDef.Interfaces |> Seq.iter (fun classDef -> classDef |> ClassGenerator.generate currentContext)
             GeneratorCommon.generateHeader "Interfaces" 2 |> builder.Append |> ignore
             builder |> GeneratorCommon.generateTableHeader ["Interface"; "Description"]
             namespaceDef.Interfaces
-                |> Seq.map (fun def -> def |> ClassGenerator.generate currentContext)
+                |> ClassGenerator.createClassEntries currentContext
                 |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
         if namespaceDef.Enums.IsEmpty |> not then
             GeneratorCommon.generateHeader "Enums" 2 |> builder.Append |> ignore

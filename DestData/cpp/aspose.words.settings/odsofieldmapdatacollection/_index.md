@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/
 ## OdsoFieldMapDataCollection class
 
 
-A typed collection of the [OdsoFieldMapData](./odsofieldmapdata/) objects.
+A typed collection of the [OdsoFieldMapData](../odsofieldmapdata/) objects.
 
 ```cpp
 class OdsoFieldMapDataCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData>>

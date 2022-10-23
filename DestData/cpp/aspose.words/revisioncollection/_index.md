@@ -9,7 +9,7 @@ url: /cpp/aspose.words/revisioncollection/
 ## RevisionCollection class
 
 
-A collection of [Revision](./revision/) objects that represent revisions in the document.
+A collection of [Revision](../revision/) objects that represent revisions in the document.
 
 ```cpp
 class RevisionCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Revision>>

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/
 ## ChartDataLabelCollection class
 
 
-Represents a collection of [ChartDataLabel](./chartdatalabel/).
+Represents a collection of [ChartDataLabel](../chartdatalabel/).
 
 ```cpp
 class ChartDataLabelCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataLabel>>, public Aspose::Words::Drawing::Charts::Core::INumberFormatProvider

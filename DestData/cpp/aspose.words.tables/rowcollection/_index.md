@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/rowcollection/
 ## RowCollection class
 
 
-Provides typed access to a collection of [Row](./row/) nodes.
+Provides typed access to a collection of [Row](../row/) nodes.
 
 ```cpp
 class RowCollection : public Aspose::Words::NodeCollection

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.rendering/noderendererbase/
 ## NodeRendererBase class
 
 
-Base class for [ShapeRenderer](./shaperenderer/) and [OfficeMathRenderer](./officemathrenderer/).
+Base class for [ShapeRenderer](../shaperenderer/) and [OfficeMathRenderer](../officemathrenderer/).
 
 ```cpp
 class NodeRendererBase : public System::Object

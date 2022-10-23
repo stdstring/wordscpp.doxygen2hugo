@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/rtfloadoptions/
 ## RtfLoadOptions class
 
 
-Allows to specify additional options when loading **Rtf** document into a [Document](../aspose.words/document/) object.
+Allows to specify additional options when loading **Rtf** document into a [Document](../../aspose.words/document/) object.
 
 ```cpp
 class RtfLoadOptions : public Aspose::Words::Loading::LoadOptions

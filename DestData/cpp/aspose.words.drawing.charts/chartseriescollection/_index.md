@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartseriescollection/
 ## ChartSeriesCollection class
 
 
-Represents collection of a [ChartSeries](./chartseries/).
+Represents collection of a [ChartSeries](../chartseries/).
 
 ```cpp
 class ChartSeriesCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries>>

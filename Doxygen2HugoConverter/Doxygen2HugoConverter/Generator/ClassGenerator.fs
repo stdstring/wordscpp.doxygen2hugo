@@ -76,5 +76,14 @@ let generate (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) =
     let detailedDescription = classDef.DetailedDescription.Description |> MarkupGenerator.GenerateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())
+
+let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (classDef: Defs.ClassDef) =
+    let folderName = classDef.Name |> Utils.createSimpleFolderName
+    let briefDescription = classDef.BriefDescription |> briefDescriptionGenerator
     {GeneratorCommon.GenerateEntry.Title = folderName |> GeneratorCommon.generateChildUrl |> GeneratorCommon.generateLink classDef.Name;
      GeneratorCommon.GenerateEntry.BriefDescription = briefDescription}
+
+let createClassEntries (context: GeneratorCommon.Context) (classDefs: Defs.ClassDef list) =
+    let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
+    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    classDefs |> Seq.map (fun classDef -> classDef |> createEntry briefDescriptionGenerator) |> Seq.toList

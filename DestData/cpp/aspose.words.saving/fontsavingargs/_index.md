@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/fontsavingargs/
 ## FontSavingArgs class
 
 
-Provides data for the [FontSaving()](./ifontsavingcallback/fontsaving/) event.
+Provides data for the [FontSaving()](../ifontsavingcallback/fontsaving/) event.
 
 ```cpp
 class FontSavingArgs : public System::Object

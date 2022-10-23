@@ -9,7 +9,7 @@ url: /cpp/aspose.words/tabstopcollection/
 ## TabStopCollection class
 
 
-A collection of [TabStop](./tabstop/) objects that represent custom tabs for a paragraph or a style.
+A collection of [TabStop](../tabstop/) objects that represent custom tabs for a paragraph or a style.
 
 ```cpp
 class TabStopCollection : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IExpandableAttr

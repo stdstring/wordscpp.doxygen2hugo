@@ -9,7 +9,7 @@ url: /cpp/aspose.words.buildingblocks/buildingblockcollection/
 ## BuildingBlockCollection class
 
 
-A collection of [BuildingBlock](./buildingblock/) objects in the document.
+A collection of [BuildingBlock](../buildingblock/) objects in the document.
 
 ```cpp
 class BuildingBlockCollection : public Aspose::Words::NodeCollection

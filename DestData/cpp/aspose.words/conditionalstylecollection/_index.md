@@ -9,7 +9,7 @@ url: /cpp/aspose.words/conditionalstylecollection/
 ## ConditionalStyleCollection class
 
 
-Represents a collection of [ConditionalStyle](./conditionalstyle/) objects.
+Represents a collection of [ConditionalStyle](../conditionalstyle/) objects.
 
 ```cpp
 class ConditionalStyleCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::ConditionalStyle>>

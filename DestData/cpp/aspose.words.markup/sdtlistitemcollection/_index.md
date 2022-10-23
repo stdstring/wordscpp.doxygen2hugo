@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/
 ## SdtListItemCollection class
 
 
-Provides access to [SdtListItem](./sdtlistitem/) elements of a structured document tag.
+Provides access to [SdtListItem](../sdtlistitem/) elements of a structured document tag.
 
 ```cpp
 class SdtListItemCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::SdtListItem>>

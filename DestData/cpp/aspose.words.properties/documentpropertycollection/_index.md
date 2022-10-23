@@ -9,7 +9,7 @@ url: /cpp/aspose.words.properties/documentpropertycollection/
 ## DocumentPropertyCollection class
 
 
-Base class for [BuiltInDocumentProperties](./builtindocumentproperties/) and [CustomDocumentProperties](./customdocumentproperties/) collections.
+Base class for [BuiltInDocumentProperties](../builtindocumentproperties/) and [CustomDocumentProperties](../customdocumentproperties/) collections.
 
 ```cpp
 class DocumentPropertyCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Properties::DocumentProperty>>

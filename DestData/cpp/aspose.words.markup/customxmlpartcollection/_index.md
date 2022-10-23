@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/
 ## CustomXmlPartCollection class
 
 
-Represents a collection of Custom XML Parts. The items are [CustomXmlPart](./customxmlpart/) objects.
+Represents a collection of Custom XML Parts. The items are [CustomXmlPart](../customxmlpart/) objects.
 
 ```cpp
 class CustomXmlPartCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Markup::CustomXmlPart>>

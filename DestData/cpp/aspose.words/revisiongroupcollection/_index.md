@@ -9,7 +9,7 @@ url: /cpp/aspose.words/revisiongroupcollection/
 ## RevisionGroupCollection class
 
 
-A collection of [RevisionGroup](./revisiongroup/) objects that represent revision groups in the document.
+A collection of [RevisionGroup](../revisiongroup/) objects that represent revision groups in the document.
 
 ```cpp
 class RevisionGroupCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::RevisionGroup>>

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pagesavingargs/
 ## PageSavingArgs class
 
 
-Provides data for the [PageSaving()](./ipagesavingcallback/pagesaving/) event.
+Provides data for the [PageSaving()](../ipagesavingcallback/pagesaving/) event.
 
 ```cpp
 class PageSavingArgs : public System::Object
