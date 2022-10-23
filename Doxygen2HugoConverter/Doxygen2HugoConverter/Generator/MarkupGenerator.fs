@@ -1,7 +1,7 @@
 ﻿module MarkupGenerator
 
 open System.Text
-open GeneratorUtils
+open GeneratorCommon
 open Markup
 
 type UrlGenerator = string -> string option
@@ -12,12 +12,12 @@ let generateSimpleMarkup (dest: StringBuilder) (relativeUrlGenerator: UrlGenerat
     | SimpleMarkupDef.Ref data ->
         match data.RefId |> relativeUrlGenerator with
         | Some relativeUrl ->
-            relativeUrl |> GenerateLink data.Text |> dest.Append |> ignore
+            relativeUrl |> generateLink data.Text |> dest.Append |> ignore
         | None ->
             "**" |> dest.Append |> ignore
             data.Text |> dest.Append |> ignore
             "**" |> dest.Append |> ignore
-    | SimpleMarkupDef.ExternalLink link -> link.Url |> GenerateLink link.Text |> dest.Append |> ignore
+    | SimpleMarkupDef.ExternalLink link -> link.Url |> generateLink link.Text |> dest.Append |> ignore
     | SimpleMarkupDef.ParagraphStart -> dest.AppendLine() |> ignore
     | SimpleMarkupDef.ParagraphEnd -> dest.AppendLine() |> ignore
     //| SimpleMarkupDef.ParagraphStart -> ()
@@ -36,7 +36,7 @@ let GenerateBriefDescriptionForTitle (description: SimpleMarkupDef list) =
     result.ToString()
 
 // TODO (std_string) : probably rename into GenerateMarkup
-let GenerateBriefDescription (relativeUrlGenerator: UrlGenerator) (description: SimpleMarkupDef list) =
+let GenerateBriefDescription (relativeUrlGenerator: UrlGenerator) (description: SimpleMarkup) =
     let result = new StringBuilder()
     description |> Seq.iter (fun entry -> entry |> generateSimpleMarkup result relativeUrlGenerator)
     // TODO (std_string) : think about removing call of Trim method
@@ -73,7 +73,7 @@ let GenerateDetailedDescription (relativeUrlGenerator: UrlGenerator) (detailedDe
     for part in detailedDescription do
         match part with
         | DetailedDescriptionPart.SimpleMarkupPart markupEntry -> markupEntry |> generateSimpleMarkup result relativeUrlGenerator
-        | DetailedDescriptionPart.Title title -> GenerateHeader title 2 |> result.Append |> ignore
+        | DetailedDescriptionPart.Title title -> generateHeader title 2 |> result.Append |> ignore
         | DetailedDescriptionPart.CodeBlock codeBlock ->
             result.AppendLine() |> ignore
             codeBlock |> generateCodeBlock |> result.Append |> ignore
