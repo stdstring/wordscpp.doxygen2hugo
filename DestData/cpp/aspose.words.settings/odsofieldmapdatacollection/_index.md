@@ -37,5 +37,14 @@ class OdsoFieldMapDataCollection : public System::Collections::Generic::IEnumera
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [const_iterator](./const_iterator/) |  |
+| [iterator](./iterator/) |  |
+| [iterator_holder_type](./iterator_holder_type/) |  |
+| [virtualized_iterator](./virtualized_iterator/) |  |
+| [virtualized_iterator_element](./virtualized_iterator_element/) |  |
 
 

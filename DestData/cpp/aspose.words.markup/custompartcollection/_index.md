@@ -38,6 +38,15 @@ class CustomPartCollection : public System::Collections::Generic::IEnumerable<Sy
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [const_iterator](./const_iterator/) |  |
+| [iterator](./iterator/) |  |
+| [iterator_holder_type](./iterator_holder_type/) |  |
+| [virtualized_iterator](./virtualized_iterator/) |  |
+| [virtualized_iterator_element](./virtualized_iterator_element/) |  |
 
 You do not normally need to create instances of this class. You access custom parts related to the OOXML package via the [PackageCustomParts](../../aspose.words/document/get_packagecustomparts/) property.
 

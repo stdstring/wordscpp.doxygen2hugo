@@ -32,6 +32,15 @@ class RevisionGroupCollection : public System::Collections::Generic::IEnumerable
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [const_iterator](./const_iterator/) |  |
+| [iterator](./iterator/) |  |
+| [iterator_holder_type](./iterator_holder_type/) |  |
+| [virtualized_iterator](./virtualized_iterator/) |  |
+| [virtualized_iterator_element](./virtualized_iterator_element/) |  |
 
 You do not create instances of this class directly. Use the [Groups](../revisioncollection/get_groups/) property to get revision groups present in a document.
 

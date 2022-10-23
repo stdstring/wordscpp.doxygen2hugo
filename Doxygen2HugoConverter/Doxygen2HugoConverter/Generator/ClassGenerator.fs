@@ -21,6 +21,15 @@ let processMethods (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) 
         dest |> GeneratorCommon.generateTableHeader ["Method"; "Description"]
         methodEntries |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
 
+let processTypedefs (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) (dest: StringBuilder) =
+    classDef.Typedefs |> Seq.iter (fun field -> field |> TypedefGenerator.generate context |> ignore)
+    match classDef.Typedefs |> TypedefGenerator.createTypedefEntries context with
+    | [] -> ()
+    | typedefEntries ->
+        GeneratorCommon.generateHeader "Typedefs" 2 |> dest.Append |> ignore
+        dest |> GeneratorCommon.generateTableHeader ["Typedef"; "Description"]
+        typedefEntries |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
+
 let generateKind (classDef: Defs.ClassDef) =
     match classDef.Kind with
     | Defs.ClassKind.Class -> "class"
@@ -71,6 +80,7 @@ let generate (context: GeneratorCommon.Context) (classDef: Defs.ClassDef) =
     builder |> GeneratorCommon.generateTemplateParameters briefDescriptionGenerator classDef.DetailedDescription.TemplateParameters
     builder |> processMethods currentContext classDef
     builder |> processFields currentContext classDef
+    builder |> processTypedefs currentContext classDef
     let detailedDescription = classDef.DetailedDescription.Description |> MarkupGenerator.GenerateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString())

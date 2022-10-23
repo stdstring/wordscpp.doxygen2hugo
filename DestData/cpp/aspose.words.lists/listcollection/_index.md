@@ -37,6 +37,15 @@ class ListCollection : public System::Collections::Generic::IEnumerable<System::
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override |  |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override |  |
 | [virtualizeEndIterator](./virtualizeenditerator/)() override |  |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [const_iterator](./const_iterator/) |  |
+| [iterator](./iterator/) |  |
+| [iterator_holder_type](./iterator_holder_type/) |  |
+| [virtualized_iterator](./virtualized_iterator/) |  |
+| [virtualized_iterator_element](./virtualized_iterator_element/) |  |
 
 A list in a Microsoft Word document is a set of list formatting properties. The formatting of the lists is stored in the [ListCollection](./) collection separately from the paragraphs of text.
 
