@@ -1,1 +1,1 @@
-# wordscpp-apiref
+# wordscpp.doxygen2hugo app
