@@ -41,12 +41,16 @@ type DetailedDescription = DetailedDescriptionPart list
 
 type TemplateParameter = {Name: string; Description: SimpleMarkup}
 
-type ClassDetailedDescription = {TemplateParameters: TemplateParameter list; Description: DetailedDescription}
+type TemplateParameters = TemplateParameter list
+
+type ClassDetailedDescription = {TemplateParameters: TemplateParameters; Description: DetailedDescription}
 
 type MethodArg = {Name: string; Description: SimpleMarkup}
 
-type MethodDetailedDescription = {TemplateParameters: TemplateParameter list;
-                                  Args: MethodArg list;
+type MethodArgs = MethodArg list
+
+type MethodDetailedDescription = {TemplateParameters: TemplateParameters;
+                                  Args: MethodArgs;
                                   ReturnValue: SimpleMarkup;
                                   Description: DetailedDescription}
 

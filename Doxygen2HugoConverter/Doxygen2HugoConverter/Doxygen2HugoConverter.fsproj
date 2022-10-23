@@ -12,9 +12,15 @@
     <Compile Include="Refs.fs" />
     <Compile Include="Markup.fs" />
     <Compile Include="Defs.fs" />
-    <Compile Include="GeneratorUtils.fs" />
-    <Compile Include="MarkupGenerator.fs" />
-    <Compile Include="Generator.fs" />
+    <Compile Include="Generator\GeneratorCommon.fs" />
+    <Compile Include="Generator\GeneratorUrl.fs" />
+    <Compile Include="Generator\MarkupGenerator.fs" />
+    <Compile Include="Generator\EnumGenerator.fs" />
+    <Compile Include="Generator\TypedefGenerator.fs" />
+    <Compile Include="Generator\FieldGenerator.fs" />
+    <Compile Include="Generator\MethodGenerator.fs" />
+    <Compile Include="Generator\ClassGenerator.fs" />
+    <Compile Include="Generator\Generator.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
