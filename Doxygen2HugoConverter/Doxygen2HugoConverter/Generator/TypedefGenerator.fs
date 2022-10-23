@@ -32,5 +32,14 @@ let generate (context: GeneratorCommon.Context) (typedefDef: Defs.TypedefDef) =
     let detailedDescription = typedefDef.DetailedDescription |> MarkupGenerator.GenerateDetailedDescription urlGenerator
     detailedDescription |> builder.Append |> ignore
     File.AppendAllText(Path.Combine(typedefDirectory, Common.MarkdownFilename), builder.ToString())
+
+let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (typedefDef: Defs.TypedefDef) =
+    let folderName = typedefDef.Name |> Utils.createSimpleFolderName
+    let briefDescription = typedefDef.BriefDescription |> briefDescriptionGenerator
     {GeneratorCommon.GenerateEntry.Title = folderName |> GeneratorCommon.generateChildUrl |> GeneratorCommon.generateLink typedefDef.Name;
      GeneratorCommon.GenerateEntry.BriefDescription = briefDescription}
+
+let createTypedefEntries (context: GeneratorCommon.Context) (typedefDefs: Defs.TypedefDef list) =
+    let urlGenerator = GeneratorUrl.generateRelativeUrlForEntity context
+    let briefDescriptionGenerator = MarkupGenerator.GenerateBriefDescription urlGenerator
+    typedefDefs |> Seq.map (fun typedefDef -> typedefDef |> createEntry briefDescriptionGenerator) |> Seq.toList

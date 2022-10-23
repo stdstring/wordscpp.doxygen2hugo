@@ -3,6 +3,8 @@
 open System.IO
 open System.Text
 
+let kindHeaderPlurals = Map [("Class", "Classes"); ("Interface", "Interfaces")]
+
 let processEnums (context: GeneratorCommon.Context) (enumDefs: Defs.EnumDef list) (dest: StringBuilder) =
     match enumDefs.IsEmpty with
     | true -> ()
@@ -12,6 +14,28 @@ let processEnums (context: GeneratorCommon.Context) (enumDefs: Defs.EnumDef list
         enumDefs |> Seq.iter (fun enumDef -> enumDef |> EnumGenerator.generate context)
         enumDefs
             |> EnumGenerator.createEnumEntries context
+            |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
+
+let processTypedefs (context: GeneratorCommon.Context) (typedefDefs: Defs.TypedefDef list) (dest: StringBuilder) =
+    match typedefDefs.IsEmpty with
+    | true -> ()
+    | false ->
+        GeneratorCommon.generateHeader "Typedefs" 2 |> dest.Append |> ignore
+        dest |> GeneratorCommon.generateTableHeader ["Typedef"; "Description"]
+        typedefDefs |> Seq.iter (fun typedefDef -> typedefDef |> TypedefGenerator.generate context)
+        typedefDefs
+            |> TypedefGenerator.createTypedefEntries context
+            |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
+
+let processClassType (context: GeneratorCommon.Context) (classDefs: Defs.ClassDef list) (kindHeader: string) (dest: StringBuilder) =
+    match classDefs.IsEmpty with
+    | true -> ()
+    | false ->
+        GeneratorCommon.generateHeader (kindHeaderPlurals |> Map.find kindHeader) 2 |> dest.Append |> ignore
+        dest |> GeneratorCommon.generateTableHeader [kindHeader; "Description"]
+        classDefs |> Seq.iter (fun typedefDef -> typedefDef |> ClassGenerator.generate context)
+        classDefs
+            |> ClassGenerator.createClassEntries context
             |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> dest.AppendLine |> ignore)
 
 let generate (context: GeneratorCommon.Context) (namespaceDef: Defs.NamespaceDef) =
@@ -33,27 +57,10 @@ let generate (context: GeneratorCommon.Context) (namespaceDef: Defs.NamespaceDef
         builder.AppendLine() |> ignore
         briefDescription |> builder.AppendLine |> ignore
         builder.AppendLine() |> ignore
-        if namespaceDef.Classes.IsEmpty |> not then
-            namespaceDef.Classes |> Seq.iter (fun classDef -> classDef |> ClassGenerator.generate currentContext)
-            GeneratorCommon.generateHeader "Classes" 2 |> builder.Append |> ignore
-            builder |> GeneratorCommon.generateTableHeader ["Class"; "Description"]
-            namespaceDef.Classes
-                |> ClassGenerator.createClassEntries currentContext
-                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
-        if namespaceDef.Interfaces.IsEmpty |> not then
-            namespaceDef.Interfaces |> Seq.iter (fun classDef -> classDef |> ClassGenerator.generate currentContext)
-            GeneratorCommon.generateHeader "Interfaces" 2 |> builder.Append |> ignore
-            builder |> GeneratorCommon.generateTableHeader ["Interface"; "Description"]
-            namespaceDef.Interfaces
-                |> ClassGenerator.createClassEntries currentContext
-                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
+        builder |> processClassType currentContext namespaceDef.Classes "Class"
+        builder |> processClassType currentContext namespaceDef.Interfaces "Interface"
         builder |> processEnums currentContext namespaceDef.Enums
-        if namespaceDef.Typedefs.IsEmpty |> not then
-            GeneratorCommon.generateHeader "Typedefs" 2 |> builder.Append |> ignore
-            builder |> GeneratorCommon.generateTableHeader ["Typedef"; "Description"]
-            namespaceDef.Typedefs
-                |> Seq.map (fun def -> def |> TypedefGenerator.generate currentContext)
-                |> Seq.iter (fun entry -> sprintf $"| {entry.Title} | {entry.BriefDescription} |" |> builder.AppendLine |> ignore)
+        builder |> processTypedefs currentContext namespaceDef.Typedefs
         File.AppendAllText(Path.Combine(namespaceDirectory, Common.MarkdownFilename), builder.ToString())
 
 let createEntry (briefDescriptionGenerator: Markup.SimpleMarkup -> string) (namespaceDef: Defs.NamespaceDef) =
