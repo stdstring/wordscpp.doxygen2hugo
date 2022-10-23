@@ -1,4 +1,4 @@
-﻿module Generator
+﻿module RootGenerator
 
 open System.Collections.Generic
 open System.IO
@@ -20,7 +20,7 @@ let prepareDirectory (config: Config.ConfigData) =
     rootDirectory |> Directory.CreateDirectory |> ignore
     rootDirectory
 
-let generateDest (config: Config.ConfigData) (repo: IDictionary<string, Defs.EntityDef>) (namespaceDefs: Defs.NamespaceDef list) =
+let generate (config: Config.ConfigData) (repo: IDictionary<string, Defs.EntityDef>) (namespaceDefs: Defs.NamespaceDef list) =
     let rootDirectory = config |> prepareDirectory
     let rootUrl = [|Common.RootDirectory|]
     let context = {GeneratorCommon.Context.Directory = rootDirectory;
