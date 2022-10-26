@@ -1,7 +1,7 @@
 ---
 title: set_KeepFontStreamOpen
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen. 
+description: 'Setter for Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen.'
 type: docs
 weight: 196
 url: /cpp/aspose.words.saving/fontsavingargs/set_keepfontstreamopen/

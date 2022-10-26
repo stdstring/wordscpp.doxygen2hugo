@@ -1,7 +1,7 @@
 ---
 title: set_SizeBi
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Font::get_SizeBi. 
+description: 'Setter for Aspose::Words::Font::get_SizeBi.'
 type: docs
 weight: 1106
 url: /cpp/aspose.words/font/set_sizebi/

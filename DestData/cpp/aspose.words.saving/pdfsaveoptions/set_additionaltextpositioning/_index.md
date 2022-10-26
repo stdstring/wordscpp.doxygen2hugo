@@ -1,7 +1,7 @@
 ---
 title: set_AdditionalTextPositioning
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning. 
+description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning.'
 type: docs
 weight: 404
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_additionaltextpositioning/

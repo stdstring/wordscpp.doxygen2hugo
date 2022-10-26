@@ -1,7 +1,7 @@
 ---
 title: get_Revisions
 second_title: Aspose.Words for C++ API Reference
-description: Gets a collection of revisions (tracked changes) that exist in this document. 
+description: Gets a collection of revisions (tracked changes) that exist in this document.
 type: docs
 weight: 547
 url: /cpp/aspose.words/document/get_revisions/

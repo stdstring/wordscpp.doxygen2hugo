@@ -1,7 +1,7 @@
 ---
 title: get_OleFormat
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the OLE data of a shape. For a shape that is not an OLE object or ActiveX control, returns null. 
+description: Provides access to the OLE data of a shape. For a shape that is not an OLE object or ActiveX control, returns null.
 type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/shape/get_oleformat/

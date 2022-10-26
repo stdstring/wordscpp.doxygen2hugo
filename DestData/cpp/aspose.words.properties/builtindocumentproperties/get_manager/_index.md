@@ -1,7 +1,7 @@
 ---
 title: get_Manager
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the manager property. 
+description: Gets or sets the manager property.
 type: docs
 weight: 235
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_manager/

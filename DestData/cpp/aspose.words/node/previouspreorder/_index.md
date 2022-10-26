@@ -1,7 +1,7 @@
 ---
 title: PreviousPreOrder
 second_title: Aspose.Words for C++ API Reference
-description: Gets the previous node according to the pre-order tree traversal algorithm. 
+description: Gets the previous node according to the pre-order tree traversal algorithm.
 type: docs
 weight: 183
 url: /cpp/aspose.words/node/previouspreorder/

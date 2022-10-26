@@ -1,7 +1,7 @@
 ---
 title: StartTrackRevisions
 second_title: Aspose.Words for C++ API Reference
-description: Starts automatically marking all further changes you make to the document programmatically as revision changes. 
+description: Starts automatically marking all further changes you make to the document programmatically as revision changes.
 type: docs
 weight: 1093
 url: /cpp/aspose.words/document/starttrackrevisions/

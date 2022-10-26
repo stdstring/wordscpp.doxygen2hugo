@@ -1,7 +1,7 @@
 ---
 title: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the document this collector instance is attached to. 
+description: Gets or sets the document this collector instance is attached to.
 type: docs
 weight: 27
 url: /cpp/aspose.words.layout/layoutcollector/get_document/

@@ -1,7 +1,7 @@
 ---
 title: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text of the comments. 
+description: Gets or sets the text of the comments.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldcomments/get_text/

@@ -1,7 +1,7 @@
 ---
 title: AddSwitch
 second_title: Aspose.Words for C++ API Reference
-description: Adds a field's switch. 
+description: Adds a field's switch.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldbuilder/addswitch/

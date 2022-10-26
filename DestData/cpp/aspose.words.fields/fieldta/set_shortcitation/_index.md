@@ -1,7 +1,7 @@
 ---
 title: set_ShortCitation
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldTA::get_ShortCitation. 
+description: 'Setter for Aspose::Words::Fields::FieldTA::get_ShortCitation.'
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldta/set_shortcitation/

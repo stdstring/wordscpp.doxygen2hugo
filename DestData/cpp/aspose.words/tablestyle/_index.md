@@ -1,7 +1,7 @@
 ---
 title: TableStyle
 second_title: Aspose.Words for C++ API Reference
-description: Represents a table style. 
+description: Represents a table style.
 type: docs
 weight: 859
 url: /cpp/aspose.words/tablestyle/

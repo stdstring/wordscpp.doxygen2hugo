@@ -1,7 +1,7 @@
 ---
 title: get_Height
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the height of the containing block of the shape. 
+description: Gets or sets the height of the containing block of the shape.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/shapebase/get_height/

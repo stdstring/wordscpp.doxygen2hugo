@@ -1,7 +1,7 @@
 ---
 title: ViewType
 second_title: Aspose.Words for C++ API Reference
-description: Possible values for the view mode in Microsoft Word. 
+description: Possible values for the view mode in Microsoft Word.
 type: docs
 weight: 248
 url: /cpp/aspose.words.settings/viewtype/

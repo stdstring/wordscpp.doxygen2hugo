@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Comment. 
+description: Returns NodeType.Comment.
 type: docs
 weight: 118
 url: /cpp/aspose.words/comment/get_nodetype/

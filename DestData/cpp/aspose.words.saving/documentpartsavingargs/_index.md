@@ -1,7 +1,7 @@
 ---
 title: DocumentPartSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the DocumentPartSaving() callback. 
+description: Provides data for the DocumentPartSaving() callback.
 type: docs
 weight: 40
 url: /cpp/aspose.words.saving/documentpartsavingargs/

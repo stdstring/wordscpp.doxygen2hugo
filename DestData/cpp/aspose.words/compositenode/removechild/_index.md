@@ -1,7 +1,7 @@
 ---
 title: RemoveChild
 second_title: Aspose.Words for C++ API Reference
-description: Removes the specified child node. 
+description: Removes the specified child node.
 type: docs
 weight: 209
 url: /cpp/aspose.words/compositenode/removechild/

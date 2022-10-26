@@ -1,7 +1,7 @@
 ---
 title: HtmlVersion
 second_title: Aspose.Words for C++ API Reference
-description: Indicates the version of HTML is used when saving the document to Html and Mhtml formats. 
+description: Indicates the version of HTML is used when saving the document to Html and Mhtml formats.
 type: docs
 weight: 794
 url: /cpp/aspose.words.saving/htmlversion/

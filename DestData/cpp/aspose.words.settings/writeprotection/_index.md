@@ -1,7 +1,7 @@
 ---
 title: WriteProtection
 second_title: Aspose.Words for C++ API Reference
-description: Specifies write protection settings for a document. 
+description: Specifies write protection settings for a document.
 type: docs
 weight: 118
 url: /cpp/aspose.words.settings/writeprotection/

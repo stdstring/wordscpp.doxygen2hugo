@@ -1,7 +1,7 @@
 ---
 title: get_PageNumberListSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the character sequence that is used to separate two page numbers in a page number list. 
+description: Gets or sets the character sequence that is used to separate two page numbers in a page number list.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldtoa/get_pagenumberlistseparator/

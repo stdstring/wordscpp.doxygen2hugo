@@ -1,7 +1,7 @@
 ---
 title: get_LastParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Gets the last paragraph among the immediate children. 
+description: Gets the last paragraph among the immediate children.
 type: docs
 weight: 92
 url: /cpp/aspose.words.tables/cell/get_lastparagraph/

@@ -1,7 +1,7 @@
 ---
 title: get_StrokeColor
 second_title: Aspose.Words for C++ API Reference
-description: Defines the color of a stroke. 
+description: Defines the color of a stroke.
 type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/shape/get_strokecolor/

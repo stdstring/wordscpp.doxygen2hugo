@@ -1,7 +1,7 @@
 ---
 title: get_Family
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the font family this font belongs to. 
+description: Gets or sets the font family this font belongs to.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/fontinfo/get_family/

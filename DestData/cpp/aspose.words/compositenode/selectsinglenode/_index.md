@@ -1,7 +1,7 @@
 ---
 title: SelectSingleNode
 second_title: Aspose.Words for C++ API Reference
-description: Selects the first Node that matches the XPath expression. 
+description: Selects the first Node that matches the XPath expression.
 type: docs
 weight: 248
 url: /cpp/aspose.words/compositenode/selectsinglenode/

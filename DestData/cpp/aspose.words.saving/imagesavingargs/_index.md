@@ -1,7 +1,7 @@
 ---
 title: ImageSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the ImageSaving() event. 
+description: Provides data for the ImageSaving() event.
 type: docs
 weight: 144
 url: /cpp/aspose.words.saving/imagesavingargs/

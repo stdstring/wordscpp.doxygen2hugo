@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Words for C++ API Reference
-description: Exports the content of the node into a string in the specified format. 
+description: Exports the content of the node into a string in the specified format.
 type: docs
 weight: 222
 url: /cpp/aspose.words/node/tostring/

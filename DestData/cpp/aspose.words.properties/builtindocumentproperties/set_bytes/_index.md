@@ -1,7 +1,7 @@
 ---
 title: set_Bytes
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes. 
+description: 'Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes.'
 type: docs
 weight: 443
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_bytes/

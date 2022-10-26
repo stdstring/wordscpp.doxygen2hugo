@@ -1,7 +1,7 @@
 ---
 title: set_DocumentPartStream
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream. 
+description: 'Setter for Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream.'
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/documentpartsavingargs/set_documentpartstream/

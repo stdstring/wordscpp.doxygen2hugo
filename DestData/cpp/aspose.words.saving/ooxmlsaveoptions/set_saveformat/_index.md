@@ -1,7 +1,7 @@
 ---
 title: set_SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat. 
+description: 'Setter for Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat.'
 type: docs
 weight: 131
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_saveformat/

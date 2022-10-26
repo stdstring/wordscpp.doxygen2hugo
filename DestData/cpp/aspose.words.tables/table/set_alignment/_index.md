@@ -1,7 +1,7 @@
 ---
 title: set_Alignment
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Tables::Table::get_Alignment. 
+description: 'Setter for Aspose::Words::Tables::Table::get_Alignment.'
 type: docs
 weight: 547
 url: /cpp/aspose.words.tables/table/set_alignment/

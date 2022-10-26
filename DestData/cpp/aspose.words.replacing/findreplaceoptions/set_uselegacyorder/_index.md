@@ -1,7 +1,7 @@
 ---
 title: set_UseLegacyOrder
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder. 
+description: 'Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder.'
 type: docs
 weight: 352
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_uselegacyorder/

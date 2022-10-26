@@ -1,7 +1,7 @@
 ---
 title: VisitCellEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a table cell has ended. 
+description: Called when enumeration of a table cell has ended.
 type: docs
 weight: 92
 url: /cpp/aspose.words/documentvisitor/visitcellend/

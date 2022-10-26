@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns ChartDataPoint for the specified index. 
+description: Returns ChartDataPoint for the specified index.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/idx_get/

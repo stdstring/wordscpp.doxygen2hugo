@@ -1,7 +1,7 @@
 ---
 title: get_Clsid
 second_title: Aspose.Words for C++ API Reference
-description: Gets the CLSID of the OLE object. 
+description: Gets the CLSID of the OLE object.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/oleformat/get_clsid/

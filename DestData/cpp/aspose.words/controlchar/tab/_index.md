@@ -1,7 +1,7 @@
 ---
 title: Tab
 second_title: Aspose.Words for C++ API Reference
-description: Tab character: "\x0009" or "\t". 
+description: 'Tab character: "\x0009" or "\t".'
 type: docs
 weight: 144
 url: /cpp/aspose.words/controlchar/tab/

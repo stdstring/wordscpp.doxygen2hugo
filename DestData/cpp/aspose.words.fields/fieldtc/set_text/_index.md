@@ -1,7 +1,7 @@
 ---
 title: set_Text
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldTC::get_Text. 
+description: 'Setter for Aspose::Words::Fields::FieldTC::get_Text.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldtc/set_text/

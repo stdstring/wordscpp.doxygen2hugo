@@ -1,7 +1,7 @@
 ---
 title: FieldAsk
 second_title: Aspose.Words for C++ API Reference
-description: Implements the ASK field. 
+description: Implements the ASK field.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldask/

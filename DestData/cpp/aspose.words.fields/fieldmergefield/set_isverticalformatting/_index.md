@@ -1,7 +1,7 @@
 ---
 title: set_IsVerticalFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Sets whether to enable character conversion for vertical formatting. 
+description: Sets whether to enable character conversion for vertical formatting.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldmergefield/set_isverticalformatting/

@@ -1,7 +1,7 @@
 ---
 title: ComparisonEvaluationResult
 second_title: Aspose.Words for C++ API Reference
-description: Creates a comparison evaluation result. 
+description: Creates a comparison evaluation result.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationresult/

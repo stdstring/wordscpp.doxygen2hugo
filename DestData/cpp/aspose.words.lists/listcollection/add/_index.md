@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Words for C++ API Reference
-description: Creates a new list based on a predefined template and adds it to the collection of lists in the document. 
+description: Creates a new list based on a predefined template and adds it to the collection of lists in the document.
 type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listcollection/add/

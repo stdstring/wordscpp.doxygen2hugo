@@ -1,7 +1,7 @@
 ---
 title: Writeln
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a paragraph break into the document. 
+description: Inserts a paragraph break into the document.
 type: docs
 weight: 859
 url: /cpp/aspose.words/documentbuilder/writeln/

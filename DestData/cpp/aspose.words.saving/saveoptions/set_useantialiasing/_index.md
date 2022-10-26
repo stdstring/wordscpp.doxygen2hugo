@@ -1,7 +1,7 @@
 ---
 title: set_UseAntiAliasing
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing. 
+description: 'Setter for Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing.'
 type: docs
 weight: 521
 url: /cpp/aspose.words.saving/saveoptions/set_useantialiasing/

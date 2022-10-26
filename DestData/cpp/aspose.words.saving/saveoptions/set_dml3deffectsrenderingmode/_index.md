@@ -1,7 +1,7 @@
 ---
 title: set_Dml3DEffectsRenderingMode
 second_title: Aspose.Words for C++ API Reference
-description: Sets a value determining how 3D effects are rendered. 
+description: Sets a value determining how 3D effects are rendered.
 type: docs
 weight: 313
 url: /cpp/aspose.words.saving/saveoptions/set_dml3deffectsrenderingmode/

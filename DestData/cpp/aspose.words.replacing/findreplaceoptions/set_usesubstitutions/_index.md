@@ -1,7 +1,7 @@
 ---
 title: set_UseSubstitutions
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions. 
+description: 'Setter for Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions.'
 type: docs
 weight: 365
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_usesubstitutions/

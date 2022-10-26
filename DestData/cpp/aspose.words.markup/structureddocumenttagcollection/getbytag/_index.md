@@ -1,7 +1,7 @@
 ---
 title: GetByTag
 second_title: Aspose.Words for C++ API Reference
-description: Returns the first structured document tag encountered in the collection with the specified tag. 
+description: Returns the first structured document tag encountered in the collection with the specified tag.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbytag/

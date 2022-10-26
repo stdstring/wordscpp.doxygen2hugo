@@ -1,7 +1,7 @@
 ---
 title: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Returns the Document the title holder belongs. 
+description: Returns the Document the title holder belongs.
 type: docs
 weight: 79
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_document/

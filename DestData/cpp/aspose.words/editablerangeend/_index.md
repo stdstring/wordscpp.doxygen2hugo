@@ -1,7 +1,7 @@
 ---
 title: EditableRangeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Represents an end of an editable range in a Word document. 
+description: Represents an end of an editable range in a Word document.
 type: docs
 weight: 313
 url: /cpp/aspose.words/editablerangeend/

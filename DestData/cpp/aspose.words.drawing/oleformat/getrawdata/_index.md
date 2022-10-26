@@ -1,7 +1,7 @@
 ---
 title: GetRawData
 second_title: Aspose.Words for C++ API Reference
-description: Gets OLE object raw data. 
+description: Gets OLE object raw data.
 type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/oleformat/getrawdata/

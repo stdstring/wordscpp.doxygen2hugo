@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Returns a deep clone of this object. 
+description: Returns a deep clone of this object.
 type: docs
 weight: 27
 url: /cpp/aspose.words.settings/mailmergesettings/clone/

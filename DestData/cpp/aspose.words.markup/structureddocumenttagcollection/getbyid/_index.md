@@ -1,7 +1,7 @@
 ---
 title: GetById
 second_title: Aspose.Words for C++ API Reference
-description: Returns the structured document tag by identifier. 
+description: Returns the structured document tag by identifier.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbyid/

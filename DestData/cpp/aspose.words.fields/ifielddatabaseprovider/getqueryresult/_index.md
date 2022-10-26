@@ -1,7 +1,7 @@
 ---
 title: GetQueryResult
 second_title: Aspose.Words for C++ API Reference
-description: Returns query result. 
+description: Returns query result.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/ifielddatabaseprovider/getqueryresult/

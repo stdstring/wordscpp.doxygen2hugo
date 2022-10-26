@@ -1,7 +1,7 @@
 ---
 title: set_SequenceSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator. 
+description: 'Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator.'
 type: docs
 weight: 365
 url: /cpp/aspose.words.fields/fieldindex/set_sequenceseparator/

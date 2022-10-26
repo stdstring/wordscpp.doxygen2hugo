@@ -1,7 +1,7 @@
 ---
 title: Body
 second_title: Aspose.Words for C++ API Reference
-description: Represents a container for the main text of a section. 
+description: Represents a container for the main text of a section.
 type: docs
 weight: 14
 url: /cpp/aspose.words/body/

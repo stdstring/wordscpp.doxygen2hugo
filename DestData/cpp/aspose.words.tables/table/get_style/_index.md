@@ -1,7 +1,7 @@
 ---
 title: get_Style
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the table style applied to this table. 
+description: Gets or sets the table style applied to this table.
 type: docs
 weight: 417
 url: /cpp/aspose.words.tables/table/get_style/

@@ -1,7 +1,7 @@
 ---
 title: get_Thumbnail
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the thumbnail of the document. 
+description: Gets or sets the thumbnail of the document.
 type: docs
 weight: 339
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_thumbnail/

@@ -1,7 +1,7 @@
 ---
 title: FieldDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DATE field. 
+description: Implements the DATE field.
 type: docs
 weight: 391
 url: /cpp/aspose.words.fields/fielddate/

@@ -1,7 +1,7 @@
 ---
 title: set_IsMapped
 second_title: Aspose.Words for C++ API Reference
-description: Sets whether this field is a mapped field. 
+description: Sets whether this field is a mapped field.
 type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fieldmergefield/set_ismapped/

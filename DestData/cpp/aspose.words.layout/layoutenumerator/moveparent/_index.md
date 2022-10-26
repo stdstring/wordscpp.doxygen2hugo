@@ -1,7 +1,7 @@
 ---
 title: MoveParent
 second_title: Aspose.Words for C++ API Reference
-description: Moves to the parent entity. 
+description: Moves to the parent entity.
 type: docs
 weight: 170
 url: /cpp/aspose.words.layout/layoutenumerator/moveparent/

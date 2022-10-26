@@ -1,7 +1,7 @@
 ---
 title: get_MovedFromTextColor
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify the color to be used for areas where content was moved from Moving. Default value is ByAuthor. 
+description: Allows to specify the color to be used for areas where content was moved from Moving. Default value is ByAuthor.
 type: docs
 weight: 79
 url: /cpp/aspose.words.layout/revisionoptions/get_movedfromtextcolor/

@@ -1,7 +1,7 @@
 ---
 title: get_LineUnitAfter
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the amount of spacing (in gridlines) after the paragraphs. 
+description: Gets or sets the amount of spacing (in gridlines) after the paragraphs.
 type: docs
 weight: 274
 url: /cpp/aspose.words/paragraphformat/get_lineunitafter/

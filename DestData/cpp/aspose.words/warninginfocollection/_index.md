@@ -1,7 +1,7 @@
 ---
 title: WarningInfoCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a typed collection of WarningInfo objects. 
+description: Represents a typed collection of WarningInfo objects.
 type: docs
 weight: 963
 url: /cpp/aspose.words/warninginfocollection/

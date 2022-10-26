@@ -1,7 +1,7 @@
 ---
 title: ComparisonExpression
 second_title: Aspose.Words for C++ API Reference
-description: The comparison expression. 
+description: The comparison expression.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/comparisonexpression/

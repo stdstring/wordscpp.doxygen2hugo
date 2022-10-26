@@ -1,7 +1,7 @@
 ---
 title: FillType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies fill type for a fillable object. 
+description: Specifies fill type for a fillable object.
 type: docs
 weight: 274
 url: /cpp/aspose.words.drawing/filltype/

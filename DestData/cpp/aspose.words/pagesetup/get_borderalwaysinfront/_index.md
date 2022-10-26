@@ -1,7 +1,7 @@
 ---
 title: get_BorderAlwaysInFront
 second_title: Aspose.Words for C++ API Reference
-description: Specifies where the page border is positioned relative to intersecting texts and objects. 
+description: Specifies where the page border is positioned relative to intersecting texts and objects.
 type: docs
 weight: 27
 url: /cpp/aspose.words/pagesetup/get_borderalwaysinfront/

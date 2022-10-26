@@ -1,7 +1,7 @@
 ---
 title: RevisionsView
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify whether to work with the original or revised version of a document. 
+description: Allows to specify whether to work with the original or revised version of a document.
 type: docs
 weight: 1444
 url: /cpp/aspose.words/revisionsview/

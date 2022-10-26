@@ -1,7 +1,7 @@
 ---
 title: set_ResolveFontNames
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames. 
+description: 'Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames.'
 type: docs
 weight: 1106
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_resolvefontnames/

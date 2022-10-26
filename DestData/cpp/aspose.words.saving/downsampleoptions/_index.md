@@ -1,7 +1,7 @@
 ---
 title: DownsampleOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify downsample options. 
+description: Allows to specify downsample options.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/downsampleoptions/

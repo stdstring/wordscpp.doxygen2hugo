@@ -1,7 +1,7 @@
 ---
 title: TabLeader
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of the leader line displayed under the tab character. 
+description: Specifies the type of the leader line displayed under the tab character.
 type: docs
 weight: 1561
 url: /cpp/aspose.words/tableader/

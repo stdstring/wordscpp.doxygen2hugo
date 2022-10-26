@@ -1,7 +1,7 @@
 ---
 title: FieldAuthor
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTHOR field. 
+description: Implements the AUTHOR field.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldauthor/

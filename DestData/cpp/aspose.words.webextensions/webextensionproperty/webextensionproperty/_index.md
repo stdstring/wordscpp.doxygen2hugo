@@ -1,7 +1,7 @@
 ---
 title: WebExtensionProperty
 second_title: Aspose.Words for C++ API Reference
-description: Creates web extension custom property with specified name and value. 
+description: Creates web extension custom property with specified name and value.
 type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextensionproperty/webextensionproperty/

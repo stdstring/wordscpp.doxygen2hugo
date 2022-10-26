@@ -1,7 +1,7 @@
 ---
 title: MathObjectType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies type of an Office Math object. 
+description: Specifies type of an Office Math object.
 type: docs
 weight: 14
 url: /cpp/aspose.words.math/mathobjecttype/

@@ -1,7 +1,7 @@
 ---
 title: FieldStart
 second_title: Aspose.Words for C++ API Reference
-description: Represents a start of a Word field in a document. 
+description: Represents a start of a Word field in a document.
 type: docs
 weight: 1223
 url: /cpp/aspose.words.fields/fieldstart/

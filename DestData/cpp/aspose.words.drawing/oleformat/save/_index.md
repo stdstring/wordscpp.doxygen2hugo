@@ -1,7 +1,7 @@
 ---
 title: Save
 second_title: Aspose.Words for C++ API Reference
-description: Saves the data of the embedded object into the specified stream. 
+description: Saves the data of the embedded object into the specified stream.
 type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/oleformat/save/

@@ -1,7 +1,7 @@
 ---
 title: get_FilePath
 second_title: Aspose.Words for C++ API Reference
-description: Path to the font file. 
+description: Path to the font file.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/filefontsource/get_filepath/

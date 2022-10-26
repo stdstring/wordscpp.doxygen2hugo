@@ -1,7 +1,7 @@
 ---
 title: get_ParentRegion
 second_title: Aspose.Words for C++ API Reference
-description: Returns parent region info (null for top-level region). 
+description: Returns parent region info (null for top-level region).
 type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_parentregion/

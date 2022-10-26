@@ -1,7 +1,7 @@
 ---
 title: set_PageColor
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::DocumentBase::get_PageColor. 
+description: 'Setter for Aspose::Words::DocumentBase::get_PageColor.'
 type: docs
 weight: 157
 url: /cpp/aspose.words/documentbase/set_pagecolor/

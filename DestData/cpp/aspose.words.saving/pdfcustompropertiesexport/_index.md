@@ -1,7 +1,7 @@
 ---
 title: PdfCustomPropertiesExport
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the way CustomDocumentProperties are exported to PDF file. 
+description: Specifies the way CustomDocumentProperties are exported to PDF file.
 type: docs
 weight: 924
 url: /cpp/aspose.words.saving/pdfcustompropertiesexport/

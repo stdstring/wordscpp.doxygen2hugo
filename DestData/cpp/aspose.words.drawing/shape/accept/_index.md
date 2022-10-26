@@ -1,7 +1,7 @@
 ---
 title: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor. 
+description: Accepts a visitor.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/shape/accept/

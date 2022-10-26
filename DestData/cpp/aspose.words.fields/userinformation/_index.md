@@ -1,7 +1,7 @@
 ---
 title: UserInformation
 second_title: Aspose.Words for C++ API Reference
-description: Specifies information about the user. 
+description: Specifies information about the user.
 type: docs
 weight: 1496
 url: /cpp/aspose.words.fields/userinformation/

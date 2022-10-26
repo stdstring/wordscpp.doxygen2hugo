@@ -1,7 +1,7 @@
 ---
 title: Orientation
 second_title: Aspose.Words for C++ API Reference
-description: Specifies page orientation. 
+description: Specifies page orientation.
 type: docs
 weight: 1340
 url: /cpp/aspose.words/orientation/

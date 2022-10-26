@@ -1,7 +1,7 @@
 ---
 title: set_ThemeFont
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Font::get_ThemeFont. 
+description: 'Setter for Aspose::Words::Font::get_ThemeFont.'
 type: docs
 weight: 1262
 url: /cpp/aspose.words/font/set_themefont/

@@ -1,7 +1,7 @@
 ---
 title: GetText
 second_title: Aspose.Words for C++ API Reference
-description: Gets the text of the run. 
+description: Gets the text of the run.
 type: docs
 weight: 53
 url: /cpp/aspose.words/run/gettext/

@@ -1,7 +1,7 @@
 ---
 title: FieldDdeAuto
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DDEAUTO field. 
+description: Implements the DDEAUTO field.
 type: docs
 weight: 417
 url: /cpp/aspose.words.fields/fieldddeauto/

@@ -1,7 +1,7 @@
 ---
 title: set_SingleUser
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::EditableRange::get_SingleUser. 
+description: 'Setter for Aspose::Words::EditableRange::get_SingleUser.'
 type: docs
 weight: 92
 url: /cpp/aspose.words/editablerange/set_singleuser/

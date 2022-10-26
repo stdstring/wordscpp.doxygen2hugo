@@ -1,7 +1,7 @@
 ---
 title: get_On
 second_title: Aspose.Words for C++ API Reference
-description: Defines whether the text is displayed. 
+description: Defines whether the text is displayed.
 type: docs
 weight: 79
 url: /cpp/aspose.words.drawing/textpath/get_on/

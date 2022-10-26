@@ -1,7 +1,7 @@
 ---
 title: TabAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the alignment/type of a tab stop. 
+description: Specifies the alignment/type of a tab stop.
 type: docs
 weight: 1548
 url: /cpp/aspose.words/tabalignment/

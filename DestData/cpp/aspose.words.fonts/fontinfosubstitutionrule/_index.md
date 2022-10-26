@@ -1,7 +1,7 @@
 ---
 title: FontInfoSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
-description: Font info substitution rule. 
+description: Font info substitution rule.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fonts/fontinfosubstitutionrule/

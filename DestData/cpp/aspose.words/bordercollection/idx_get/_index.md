@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves a Border object by border type. 
+description: Retrieves a Border object by border type.
 type: docs
 weight: 196
 url: /cpp/aspose.words/bordercollection/idx_get/

@@ -1,7 +1,7 @@
 ---
 title: get_CellFormat
 second_title: Aspose.Words for C++ API Reference
-description: Returns an object that represents current table cell formatting properties. 
+description: Returns an object that represents current table cell formatting properties.
 type: docs
 weight: 105
 url: /cpp/aspose.words/documentbuilder/get_cellformat/

@@ -1,7 +1,7 @@
 ---
 title: RevisionGroupCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of RevisionGroup objects that represent revision groups in the document. 
+description: A collection of RevisionGroup objects that represent revision groups in the document.
 type: docs
 weight: 703
 url: /cpp/aspose.words/revisiongroupcollection/

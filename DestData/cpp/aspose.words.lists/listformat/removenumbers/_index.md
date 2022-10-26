@@ -1,7 +1,7 @@
 ---
 title: RemoveNumbers
 second_title: Aspose.Words for C++ API Reference
-description: Removes numbers or bullets from the current paragraph and sets list level to zero. 
+description: Removes numbers or bullets from the current paragraph and sets list level to zero.
 type: docs
 weight: 105
 url: /cpp/aspose.words.lists/listformat/removenumbers/

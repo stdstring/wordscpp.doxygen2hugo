@@ -1,7 +1,7 @@
 ---
 title: FieldTitle
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TITLE field. 
+description: Implements the TITLE field.
 type: docs
 weight: 1327
 url: /cpp/aspose.words.fields/fieldtitle/

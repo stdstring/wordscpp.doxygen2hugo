@@ -1,7 +1,7 @@
 ---
 title: set_UseHighQualityRendering
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering. 
+description: 'Setter for Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering.'
 type: docs
 weight: 534
 url: /cpp/aspose.words.saving/saveoptions/set_usehighqualityrendering/

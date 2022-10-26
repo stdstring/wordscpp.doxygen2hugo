@@ -1,7 +1,7 @@
 ---
 title: BookmarkEnd
 second_title: Aspose.Words for C++ API Reference
-description: Represents an end of a bookmark in a Word document. 
+description: Represents an end of a bookmark in a Word document.
 type: docs
 weight: 53
 url: /cpp/aspose.words/bookmarkend/

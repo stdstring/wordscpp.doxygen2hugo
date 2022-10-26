@@ -1,7 +1,7 @@
 ---
 title: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Returns the name of the property. 
+description: Returns the name of the property.
 type: docs
 weight: 27
 url: /cpp/aspose.words.properties/documentproperty/get_name/

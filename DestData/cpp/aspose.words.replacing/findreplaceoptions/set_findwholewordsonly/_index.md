@@ -1,7 +1,7 @@
 ---
 title: set_FindWholeWordsOnly
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly. 
+description: 'Setter for Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly.'
 type: docs
 weight: 222
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_findwholewordsonly/

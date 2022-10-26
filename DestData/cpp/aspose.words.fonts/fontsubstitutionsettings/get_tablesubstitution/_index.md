@@ -1,7 +1,7 @@
 ---
 title: get_TableSubstitution
 second_title: Aspose.Words for C++ API Reference
-description: Settings related to table substitution rule. 
+description: Settings related to table substitution rule.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_tablesubstitution/

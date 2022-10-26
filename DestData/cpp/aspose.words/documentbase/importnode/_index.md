@@ -1,7 +1,7 @@
 ---
 title: ImportNode
 second_title: Aspose.Words for C++ API Reference
-description: Imports a node from another document to the current document. 
+description: Imports a node from another document to the current document.
 type: docs
 weight: 118
 url: /cpp/aspose.words/documentbase/importnode/

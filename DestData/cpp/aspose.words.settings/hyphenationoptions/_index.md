@@ -1,7 +1,7 @@
 ---
 title: HyphenationOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to configure document hyphenation options. 
+description: Allows to configure document hyphenation options.
 type: docs
 weight: 14
 url: /cpp/aspose.words.settings/hyphenationoptions/

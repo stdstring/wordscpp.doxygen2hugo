@@ -1,7 +1,7 @@
 ---
 title: FieldIncludePicture
 second_title: Aspose.Words for C++ API Reference
-description: Implements the INCLUDEPICTURE field. 
+description: Implements the INCLUDEPICTURE field.
 type: docs
 weight: 729
 url: /cpp/aspose.words.fields/fieldincludepicture/

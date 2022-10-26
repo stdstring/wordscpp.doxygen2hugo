@@ -1,7 +1,7 @@
 ---
 title: set_FieldUpdateCultureSource
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource. 
+description: 'Setter for Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource.'
 type: docs
 weight: 378
 url: /cpp/aspose.words.fields/fieldoptions/set_fieldupdateculturesource/

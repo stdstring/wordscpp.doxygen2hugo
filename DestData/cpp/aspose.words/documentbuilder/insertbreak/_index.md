@@ -1,7 +1,7 @@
 ---
 title: InsertBreak
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a break of the specified type into the document. 
+description: Inserts a break of the specified type into the document.
 type: docs
 weight: 300
 url: /cpp/aspose.words/documentbuilder/insertbreak/

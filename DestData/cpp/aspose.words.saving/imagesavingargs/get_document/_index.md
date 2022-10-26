@@ -1,7 +1,7 @@
 ---
 title: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Gets the document object that is currently being saved. 
+description: Gets the document object that is currently being saved.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/imagesavingargs/get_document/

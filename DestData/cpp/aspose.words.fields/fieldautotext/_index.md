@@ -1,7 +1,7 @@
 ---
 title: FieldAutoText
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTOTEXT field. 
+description: Implements the AUTOTEXT field.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fieldautotext/

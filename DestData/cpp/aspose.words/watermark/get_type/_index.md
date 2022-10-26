@@ -1,7 +1,7 @@
 ---
 title: get_Type
 second_title: Aspose.Words for C++ API Reference
-description: Gets the watermark type. 
+description: Gets the watermark type.
 type: docs
 weight: 1
 url: /cpp/aspose.words/watermark/get_type/

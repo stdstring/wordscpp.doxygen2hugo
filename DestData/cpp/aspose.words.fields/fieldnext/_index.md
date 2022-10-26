@@ -1,7 +1,7 @@
 ---
 title: FieldNext
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NEXT field. 
+description: Implements the NEXT field.
 type: docs
 weight: 898
 url: /cpp/aspose.words.fields/fieldnext/

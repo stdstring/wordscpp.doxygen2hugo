@@ -1,7 +1,7 @@
 ---
 title: set_SubAddress
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldHyperlink::get_SubAddress. 
+description: 'Setter for Aspose::Words::Fields::FieldHyperlink::get_SubAddress.'
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldhyperlink/set_subaddress/

@@ -1,7 +1,7 @@
 ---
 title: get_Light1
 second_title: Aspose.Words for C++ API Reference
-description: Specifies color Light 1. 
+description: Specifies color Light 1.
 type: docs
 weight: 131
 url: /cpp/aspose.words.themes/themecolors/get_light1/

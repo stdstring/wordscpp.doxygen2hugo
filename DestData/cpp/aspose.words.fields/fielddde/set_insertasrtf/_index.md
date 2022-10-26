@@ -1,7 +1,7 @@
 ---
 title: set_InsertAsRtf
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDde::get_InsertAsRtf. 
+description: 'Setter for Aspose::Words::Fields::FieldDde::get_InsertAsRtf.'
 type: docs
 weight: 196
 url: /cpp/aspose.words.fields/fielddde/set_insertasrtf/

@@ -1,7 +1,7 @@
 ---
 title: InsertHtml
 second_title: Aspose.Words for C++ API Reference
-description: Inserts an HTML string into the document. 
+description: Inserts an HTML string into the document.
 type: docs
 weight: 417
 url: /cpp/aspose.words/documentbuilder/inserthtml/

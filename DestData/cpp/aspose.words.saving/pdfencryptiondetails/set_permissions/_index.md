@@ -1,7 +1,7 @@
 ---
 title: set_Permissions
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::PdfEncryptionDetails::get_Permissions. 
+description: 'Setter for Aspose::Words::Saving::PdfEncryptionDetails::get_Permissions.'
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/pdfencryptiondetails/set_permissions/

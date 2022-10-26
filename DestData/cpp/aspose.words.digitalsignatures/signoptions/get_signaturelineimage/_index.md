@@ -1,7 +1,7 @@
 ---
 title: get_SignatureLineImage
 second_title: Aspose.Words for C++ API Reference
-description: The image that will be shown in associated SignatureLine. Default value is null. 
+description: The image that will be shown in associated SignatureLine. Default value is null.
 type: docs
 weight: 66
 url: /cpp/aspose.words.digitalsignatures/signoptions/get_signaturelineimage/

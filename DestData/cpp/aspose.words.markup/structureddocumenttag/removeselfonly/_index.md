@@ -1,7 +1,7 @@
 ---
 title: RemoveSelfOnly
 second_title: Aspose.Words for C++ API Reference
-description: Removes just this SDT node itself, but keeps the content of it inside the document tree. 
+description: Removes just this SDT node itself, but keeps the content of it inside the document tree.
 type: docs
 weight: 430
 url: /cpp/aspose.words.markup/structureddocumenttag/removeselfonly/

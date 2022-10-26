@@ -1,7 +1,7 @@
 ---
 title: FieldComments
 second_title: Aspose.Words for C++ API Reference
-description: Implements the COMMENTS field. 
+description: Implements the COMMENTS field.
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldcomments/

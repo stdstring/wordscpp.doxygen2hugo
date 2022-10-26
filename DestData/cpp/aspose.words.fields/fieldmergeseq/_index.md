@@ -1,7 +1,7 @@
 ---
 title: FieldMergeSeq
 second_title: Aspose.Words for C++ API Reference
-description: Implements the MERGESEQ field. 
+description: Implements the MERGESEQ field.
 type: docs
 weight: 885
 url: /cpp/aspose.words.fields/fieldmergeseq/

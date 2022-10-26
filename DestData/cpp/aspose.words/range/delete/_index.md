@@ -1,7 +1,7 @@
 ---
 title: Delete
 second_title: Aspose.Words for C++ API Reference
-description: Deletes all characters of the range. 
+description: Deletes all characters of the range.
 type: docs
 weight: 1
 url: /cpp/aspose.words/range/delete/

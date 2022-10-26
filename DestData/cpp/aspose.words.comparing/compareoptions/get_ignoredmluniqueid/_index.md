@@ -1,7 +1,7 @@
 ---
 title: get_IgnoreDmlUniqueId
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether to ignore difference in DrawingML unique Id. Default value is false. 
+description: Specifies whether to ignore difference in DrawingML unique Id. Default value is false.
 type: docs
 weight: 53
 url: /cpp/aspose.words.comparing/compareoptions/get_ignoredmluniqueid/

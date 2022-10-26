@@ -1,7 +1,7 @@
 ---
 title: AddNode
 second_title: Aspose.Words for C++ API Reference
-description: Adds a node to the argument. 
+description: Adds a node to the argument.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldargumentbuilder/addnode/

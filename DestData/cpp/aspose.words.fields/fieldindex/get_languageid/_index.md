@@ -1,7 +1,7 @@
 ---
 title: get_LanguageId
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the language ID used to generate the index. 
+description: Gets or sets the language ID used to generate the index.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldindex/get_languageid/

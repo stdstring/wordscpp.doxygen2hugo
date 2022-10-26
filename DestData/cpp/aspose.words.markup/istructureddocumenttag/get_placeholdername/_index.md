@@ -1,7 +1,7 @@
 ---
 title: get_PlaceholderName
 second_title: Aspose.Words for C++ API Reference
-description: Gets Name of the BuildingBlock containing placeholder text. BuildingBlock with this name Name has to be present in the GlossaryDocument otherwise InvalidOperationException will occur. 
+description: Gets Name of the BuildingBlock containing placeholder text. BuildingBlock with this name Name has to be present in the GlossaryDocument otherwise InvalidOperationException will occur.
 type: docs
 weight: 92
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_placeholdername/

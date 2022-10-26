@@ -1,7 +1,7 @@
 ---
 title: DocumentDirection
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify the direction to flow the text in a document. 
+description: Allows to specify the direction to flow the text in a document.
 type: docs
 weight: 157
 url: /cpp/aspose.words.loading/documentdirection/

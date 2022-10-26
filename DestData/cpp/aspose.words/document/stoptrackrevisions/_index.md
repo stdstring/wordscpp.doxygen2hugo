@@ -1,7 +1,7 @@
 ---
 title: StopTrackRevisions
 second_title: Aspose.Words for C++ API Reference
-description: Stops automatic marking of document changes as revisions. 
+description: Stops automatic marking of document changes as revisions.
 type: docs
 weight: 1106
 url: /cpp/aspose.words/document/stoptrackrevisions/

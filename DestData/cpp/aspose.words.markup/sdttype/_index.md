@@ -1,7 +1,7 @@
 ---
 title: SdtType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of a structured document tag (SDT) node. 
+description: Specifies the type of a structured document tag (SDT) node.
 type: docs
 weight: 261
 url: /cpp/aspose.words.markup/sdttype/

@@ -1,7 +1,7 @@
 ---
 title: get_UserPromptRespondent
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the respondent to user prompts during field update. 
+description: Gets or sets the respondent to user prompts during field update.
 type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fieldoptions/get_userpromptrespondent/

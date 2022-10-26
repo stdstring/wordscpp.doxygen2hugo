@@ -1,7 +1,7 @@
 ---
 title: get_Title
 second_title: Aspose.Words for C++ API Reference
-description: Defines the title of an image. 
+description: Defines the title of an image.
 type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/imagedata/get_title/

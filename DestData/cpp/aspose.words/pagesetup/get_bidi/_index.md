@@ -1,7 +1,7 @@
 ---
 title: get_Bidi
 second_title: Aspose.Words for C++ API Reference
-description: Specifies that this section contains bidirectional (complex scripts) text. 
+description: Specifies that this section contains bidirectional (complex scripts) text.
 type: docs
 weight: 14
 url: /cpp/aspose.words/pagesetup/get_bidi/

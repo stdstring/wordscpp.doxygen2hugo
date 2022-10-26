@@ -1,7 +1,7 @@
 ---
 title: get_ShowLeaderLines
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify whether data label leader lines need be shown for the data labels of the entire series. Default value is false. 
+description: Allows to specify whether data label leader lines need be shown for the data labels of the entire series. Default value is false.
 type: docs
 weight: 92
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_showleaderlines/

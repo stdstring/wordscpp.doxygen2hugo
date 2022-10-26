@@ -1,7 +1,7 @@
 ---
 title: get_ViewType
 second_title: Aspose.Words for C++ API Reference
-description: Controls the view mode in Microsoft Word. 
+description: Controls the view mode in Microsoft Word.
 type: docs
 weight: 40
 url: /cpp/aspose.words.settings/viewoptions/get_viewtype/

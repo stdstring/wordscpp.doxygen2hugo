@@ -1,7 +1,7 @@
 ---
 title: FormField
 second_title: Aspose.Words for C++ API Reference
-description: Represents a single form field. 
+description: Represents a single form field.
 type: docs
 weight: 1431
 url: /cpp/aspose.words.fields/formfield/

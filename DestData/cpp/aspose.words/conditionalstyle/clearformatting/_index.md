@@ -1,7 +1,7 @@
 ---
 title: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Clears formatting of this conditional style. 
+description: Clears formatting of this conditional style.
 type: docs
 weight: 1
 url: /cpp/aspose.words/conditionalstyle/clearformatting/

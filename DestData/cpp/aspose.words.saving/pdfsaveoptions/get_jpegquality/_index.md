@@ -1,7 +1,7 @@
 ---
 title: get_JpegQuality
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining the quality of the JPEG images inside PDF document. 
+description: Gets or sets a value determining the quality of the JPEG images inside PDF document.
 type: docs
 weight: 248
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_jpegquality/

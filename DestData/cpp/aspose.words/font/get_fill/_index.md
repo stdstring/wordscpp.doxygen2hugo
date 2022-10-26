@@ -1,7 +1,7 @@
 ---
 title: get_Fill
 second_title: Aspose.Words for C++ API Reference
-description: Gets fill formatting for the Font. 
+description: Gets fill formatting for the Font.
 type: docs
 weight: 170
 url: /cpp/aspose.words/font/get_fill/

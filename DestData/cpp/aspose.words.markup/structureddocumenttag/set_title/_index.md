@@ -1,7 +1,7 @@
 ---
 title: set_Title
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Title. 
+description: 'Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Title.'
 type: docs
 weight: 690
 url: /cpp/aspose.words.markup/structureddocumenttag/set_title/

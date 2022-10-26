@@ -1,7 +1,7 @@
 ---
 title: HeaderFooter
 second_title: Aspose.Words for C++ API Reference
-description: Creates a new header or footer of the specified type. 
+description: Creates a new header or footer of the specified type.
 type: docs
 weight: 1
 url: /cpp/aspose.words/headerfooter/headerfooter/

@@ -1,7 +1,7 @@
 ---
 title: ConditionalStyleCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of ConditionalStyle objects. 
+description: Represents a collection of ConditionalStyle objects.
 type: docs
 weight: 209
 url: /cpp/aspose.words/conditionalstylecollection/

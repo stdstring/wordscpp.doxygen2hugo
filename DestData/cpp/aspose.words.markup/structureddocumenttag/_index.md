@@ -1,7 +1,7 @@
 ---
 title: StructuredDocumentTag
 second_title: Aspose.Words for C++ API Reference
-description: Represents a structured document tag (SDT or content control) in a document. 
+description: Represents a structured document tag (SDT or content control) in a document.
 type: docs
 weight: 131
 url: /cpp/aspose.words.markup/structureddocumenttag/

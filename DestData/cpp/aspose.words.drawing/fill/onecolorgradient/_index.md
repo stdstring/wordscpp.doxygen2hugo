@@ -1,7 +1,7 @@
 ---
 title: OneColorGradient
 second_title: Aspose.Words for C++ API Reference
-description: Sets the specified fill to a one-color gradient. 
+description: Sets the specified fill to a one-color gradient.
 type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/fill/onecolorgradient/

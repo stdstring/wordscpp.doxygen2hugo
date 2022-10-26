@@ -1,7 +1,7 @@
 ---
 title: set_PixelFormat
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat. 
+description: 'Setter for Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat.'
 type: docs
 weight: 326
 url: /cpp/aspose.words.saving/imagesaveoptions/set_pixelformat/

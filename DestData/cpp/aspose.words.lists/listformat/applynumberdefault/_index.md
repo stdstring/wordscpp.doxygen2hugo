@@ -1,7 +1,7 @@
 ---
 title: ApplyNumberDefault
 second_title: Aspose.Words for C++ API Reference
-description: Starts a new default numbered list and applies it to the paragraph. 
+description: Starts a new default numbered list and applies it to the paragraph.
 type: docs
 weight: 14
 url: /cpp/aspose.words.lists/listformat/applynumberdefault/

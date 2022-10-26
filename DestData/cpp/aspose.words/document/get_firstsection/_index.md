@@ -1,7 +1,7 @@
 ---
 title: get_FirstSection
 second_title: Aspose.Words for C++ API Reference
-description: Gets the first section in the document. 
+description: Gets the first section in the document.
 type: docs
 weight: 287
 url: /cpp/aspose.words/document/get_firstsection/

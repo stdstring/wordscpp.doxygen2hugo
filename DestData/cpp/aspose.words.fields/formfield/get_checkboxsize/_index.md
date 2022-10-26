@@ -1,7 +1,7 @@
 ---
 title: get_CheckBoxSize
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the size of the checkbox in points. Has effect only when IsCheckBoxExactSize is true. 
+description: Gets or sets the size of the checkbox in points. Has effect only when IsCheckBoxExactSize is true.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/formfield/get_checkboxsize/

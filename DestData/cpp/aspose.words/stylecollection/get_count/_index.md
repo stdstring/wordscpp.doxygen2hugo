@@ -1,7 +1,7 @@
 ---
 title: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of styles in the collection. 
+description: Gets the number of styles in the collection.
 type: docs
 weight: 40
 url: /cpp/aspose.words/stylecollection/get_count/

@@ -1,7 +1,7 @@
 ---
 title: PageSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the PageSaving() event. 
+description: Provides data for the PageSaving() event.
 type: docs
 weight: 235
 url: /cpp/aspose.words.saving/pagesavingargs/

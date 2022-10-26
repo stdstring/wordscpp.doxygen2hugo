@@ -1,7 +1,7 @@
 ---
 title: get_LineWrapLikeWord6
 second_title: Aspose.Words for C++ API Reference
-description: Emulate Word 6.0 Line Wrapping for East Asian Text. 
+description: Emulate Word 6.0 Line Wrapping for East Asian Text.
 type: docs
 weight: 391
 url: /cpp/aspose.words.settings/compatibilityoptions/get_linewraplikeword6/

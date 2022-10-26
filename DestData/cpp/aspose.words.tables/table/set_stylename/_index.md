@@ -1,7 +1,7 @@
 ---
 title: set_StyleName
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Tables::Table::get_StyleName. 
+description: 'Setter for Aspose::Words::Tables::Table::get_StyleName.'
 type: docs
 weight: 755
 url: /cpp/aspose.words.tables/table/set_stylename/

@@ -1,7 +1,7 @@
 ---
 title: get_DefaultInstance
 second_title: Aspose.Words for C++ API Reference
-description: Static default font settings. 
+description: Static default font settings.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontsettings/get_defaultinstance/

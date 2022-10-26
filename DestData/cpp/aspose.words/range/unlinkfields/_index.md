@@ -1,7 +1,7 @@
 ---
 title: UnlinkFields
 second_title: Aspose.Words for C++ API Reference
-description: Unlinks fields in this range. 
+description: Unlinks fields in this range.
 type: docs
 weight: 118
 url: /cpp/aspose.words/range/unlinkfields/

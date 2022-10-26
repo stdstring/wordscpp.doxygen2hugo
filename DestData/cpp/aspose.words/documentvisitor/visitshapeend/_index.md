@@ -1,7 +1,7 @@
 ---
 title: VisitShapeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a shape has ended. 
+description: Called when enumeration of a shape has ended.
 type: docs
 weight: 495
 url: /cpp/aspose.words/documentvisitor/visitshapeend/

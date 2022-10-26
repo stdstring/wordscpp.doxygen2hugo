@@ -1,7 +1,7 @@
 ---
 title: get_IsSigned
 second_title: Aspose.Words for C++ API Reference
-description: Shows whether the VbaProject is signed or not. 
+description: Shows whether the VbaProject is signed or not.
 type: docs
 weight: 40
 url: /cpp/aspose.words.vba/vbaproject/get_issigned/

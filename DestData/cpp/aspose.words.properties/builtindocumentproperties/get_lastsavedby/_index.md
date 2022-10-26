@@ -1,7 +1,7 @@
 ---
 title: get_LastSavedBy
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the last author. 
+description: Gets or sets the name of the last author.
 type: docs
 weight: 183
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_lastsavedby/

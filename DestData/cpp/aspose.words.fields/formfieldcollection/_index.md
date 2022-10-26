@@ -1,7 +1,7 @@
 ---
 title: FormFieldCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of FormField objects that represent all the form fields in a range. 
+description: A collection of FormField objects that represent all the form fields in a range.
 type: docs
 weight: 1444
 url: /cpp/aspose.words.fields/formfieldcollection/

@@ -1,7 +1,7 @@
 ---
 title: FieldSubject
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SUBJECT field. 
+description: Implements the SUBJECT field.
 type: docs
 weight: 1249
 url: /cpp/aspose.words.fields/fieldsubject/

@@ -1,7 +1,7 @@
 ---
 title: GetChild
 second_title: Aspose.Words for C++ API Reference
-description: Returns an Nth child node that matches the specified type. 
+description: Returns an Nth child node that matches the specified type.
 type: docs
 weight: 92
 url: /cpp/aspose.words/compositenode/getchild/

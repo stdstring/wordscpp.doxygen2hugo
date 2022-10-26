@@ -1,7 +1,7 @@
 ---
 title: get_AutofitToFirstFixedWidthCell
 second_title: Aspose.Words for C++ API Reference
-description: Allow Table Columns To Exceed Preferred Widths of Constituent Cells. 
+description: Allow Table Columns To Exceed Preferred Widths of Constituent Cells.
 type: docs
 weight: 53
 url: /cpp/aspose.words.settings/compatibilityoptions/get_autofittofirstfixedwidthcell/

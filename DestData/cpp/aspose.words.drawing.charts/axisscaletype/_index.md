@@ -1,7 +1,7 @@
 ---
 title: AxisScaleType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the possible scale types for an axis. 
+description: Specifies the possible scale types for an axis.
 type: docs
 weight: 287
 url: /cpp/aspose.words.drawing.charts/axisscaletype/

@@ -31,7 +31,7 @@ let generateBriefDescriptionForTitle (description: Markup.SimpleMarkup) =
         | Markup.SimpleMarkupDef.Text text -> text |> result.Append |> ignore
         | Markup.SimpleMarkupDef.Ref data -> data.Text |> result.Append |> ignore
         | _ -> ()
-    result.ToString()
+    result.ToString().Trim()
 
 let generateSimpleMarkup (relativeUrlGenerator: UrlGenerator) (description: Markup.SimpleMarkup) =
     let result = new StringBuilder()

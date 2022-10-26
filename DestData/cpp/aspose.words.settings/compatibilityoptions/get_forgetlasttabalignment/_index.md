@@ -1,7 +1,7 @@
 ---
 title: get_ForgetLastTabAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Ignore Width of Last Tab Stop When Aligning Paragraph If It Is Not Left Aligned. 
+description: Ignore Width of Last Tab Stop When Aligning Paragraph If It Is Not Left Aligned.
 type: docs
 weight: 339
 url: /cpp/aspose.words.settings/compatibilityoptions/get_forgetlasttabalignment/

@@ -1,7 +1,7 @@
 ---
-title: Aspose::Words::MailMerging
+title: 'Aspose::Words::MailMerging'
 second_title: Aspose.Words for C++ API Reference
-description: The Aspose.Words.MailMerging namespace contains classes of the "original" mail merge reporting engine. 
+description: The Aspose.Words.MailMerging namespace contains classes of the "original" mail merge reporting engine.
 type: docs
 weight: 157
 url: /cpp/aspose.words.mailmerging/

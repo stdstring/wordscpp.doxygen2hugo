@@ -1,7 +1,7 @@
 ---
 title: FieldOcx
 second_title: Aspose.Words for C++ API Reference
-description: Implements the OCX field. 
+description: Implements the OCX field.
 type: docs
 weight: 976
 url: /cpp/aspose.words.fields/fieldocx/

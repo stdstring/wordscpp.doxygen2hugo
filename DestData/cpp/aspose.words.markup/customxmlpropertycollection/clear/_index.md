@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Removes all elements from the collection. 
+description: Removes all elements from the collection.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlpropertycollection/clear/

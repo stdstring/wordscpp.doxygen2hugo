@@ -1,7 +1,7 @@
 ---
 title: PageSet
 second_title: Aspose.Words for C++ API Reference
-description: Creates a page set based on exact page indices. 
+description: Creates a page set based on exact page indices.
 type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pageset/pageset/

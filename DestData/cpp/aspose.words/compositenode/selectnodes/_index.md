@@ -1,7 +1,7 @@
 ---
 title: SelectNodes
 second_title: Aspose.Words for C++ API Reference
-description: Selects a list of nodes matching the XPath expression. 
+description: Selects a list of nodes matching the XPath expression.
 type: docs
 weight: 235
 url: /cpp/aspose.words/compositenode/selectnodes/

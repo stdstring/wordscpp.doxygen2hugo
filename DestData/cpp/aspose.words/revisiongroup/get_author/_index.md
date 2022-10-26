@@ -1,7 +1,7 @@
 ---
 title: get_Author
 second_title: Aspose.Words for C++ API Reference
-description: Gets the author of this revision group. 
+description: Gets the author of this revision group.
 type: docs
 weight: 1
 url: /cpp/aspose.words/revisiongroup/get_author/

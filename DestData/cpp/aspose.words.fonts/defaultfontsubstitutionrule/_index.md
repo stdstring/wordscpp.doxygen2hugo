@@ -1,7 +1,7 @@
 ---
 title: DefaultFontSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
-description: Default font substitution rule. 
+description: Default font substitution rule.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/defaultfontsubstitutionrule/

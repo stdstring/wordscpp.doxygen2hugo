@@ -1,7 +1,7 @@
 ---
 title: set_NoShade
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade. 
+description: 'Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade.'
 type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_noshade/

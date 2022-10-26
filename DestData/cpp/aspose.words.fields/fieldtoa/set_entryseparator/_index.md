@@ -1,7 +1,7 @@
 ---
 title: set_EntrySeparator
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator. 
+description: 'Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator.'
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldtoa/set_entryseparator/

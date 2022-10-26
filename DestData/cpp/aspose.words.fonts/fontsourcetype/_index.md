@@ -1,7 +1,7 @@
 ---
 title: FontSourceType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of a font source. 
+description: Specifies the type of a font source.
 type: docs
 weight: 287
 url: /cpp/aspose.words.fonts/fontsourcetype/

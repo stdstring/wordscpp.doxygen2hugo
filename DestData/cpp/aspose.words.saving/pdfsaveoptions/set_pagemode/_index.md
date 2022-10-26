@@ -1,7 +1,7 @@
 ---
 title: set_PageMode
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::PdfSaveOptions::get_PageMode. 
+description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_PageMode.'
 type: docs
 weight: 651
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_pagemode/

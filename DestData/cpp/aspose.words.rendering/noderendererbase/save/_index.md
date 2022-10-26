@@ -1,7 +1,7 @@
 ---
 title: Save
 second_title: Aspose.Words for C++ API Reference
-description: Renders the shape into an image and saves into a stream. 
+description: Renders the shape into an image and saves into a stream.
 type: docs
 weight: 118
 url: /cpp/aspose.words.rendering/noderendererbase/save/

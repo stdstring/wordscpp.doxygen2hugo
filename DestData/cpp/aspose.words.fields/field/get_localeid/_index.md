@@ -1,7 +1,7 @@
 ---
 title: get_LocaleId
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the LCID of the field. 
+description: Gets or sets the LCID of the field.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/field/get_localeid/

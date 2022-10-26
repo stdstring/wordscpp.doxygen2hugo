@@ -1,7 +1,7 @@
 ---
 title: get_UseParagraphOutlineLevel
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to use the applied paragraph outline level. 
+description: Gets or sets whether to use the applied paragraph outline level.
 type: docs
 weight: 235
 url: /cpp/aspose.words.fields/fieldtoc/get_useparagraphoutlinelevel/

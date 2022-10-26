@@ -1,7 +1,7 @@
 ---
 title: set_LineNumberDistanceFromText
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::PageSetup::get_LineNumberDistanceFromText. 
+description: 'Setter for Aspose::Words::PageSetup::get_LineNumberDistanceFromText.'
 type: docs
 weight: 820
 url: /cpp/aspose.words/pagesetup/set_linenumberdistancefromtext/

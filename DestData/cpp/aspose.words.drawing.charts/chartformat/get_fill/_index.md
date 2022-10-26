@@ -1,7 +1,7 @@
 ---
 title: get_Fill
 second_title: Aspose.Words for C++ API Reference
-description: Gets fill formatting for the parent chart element. 
+description: Gets fill formatting for the parent chart element.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chartformat/get_fill/

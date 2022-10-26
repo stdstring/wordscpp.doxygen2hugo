@@ -1,7 +1,7 @@
 ---
 title: FieldPrivate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PRIVATE field. 
+description: Implements the PRIVATE field.
 type: docs
 weight: 1054
 url: /cpp/aspose.words.fields/fieldprivate/

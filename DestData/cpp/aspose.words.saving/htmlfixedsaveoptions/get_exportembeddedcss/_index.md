@@ -1,7 +1,7 @@
 ---
 title: get_ExportEmbeddedCss
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether the CSS (Cascading Style Sheet) should be embedded into Html document. 
+description: Specifies whether the CSS (Cascading Style Sheet) should be embedded into Html document.
 type: docs
 weight: 40
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportembeddedcss/

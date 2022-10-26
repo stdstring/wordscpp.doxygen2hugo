@@ -1,7 +1,7 @@
 ---
 title: HeaderFooterType
 second_title: Aspose.Words for C++ API Reference
-description: Identifies the type of header or footer found in a Word file. 
+description: Identifies the type of header or footer found in a Word file.
 type: docs
 weight: 1158
 url: /cpp/aspose.words/headerfootertype/

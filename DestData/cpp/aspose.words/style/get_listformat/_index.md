@@ -1,7 +1,7 @@
 ---
 title: get_ListFormat
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the list formatting properties of a paragraph style. 
+description: Provides access to the list formatting properties of a paragraph style.
 type: docs
 weight: 131
 url: /cpp/aspose.words/style/get_listformat/

@@ -1,7 +1,7 @@
 ---
 title: Watermark
 second_title: Aspose.Words for C++ API Reference
-description: Represents class to work with document watermark. 
+description: Represents class to work with document watermark.
 type: docs
 weight: 976
 url: /cpp/aspose.words/watermark/

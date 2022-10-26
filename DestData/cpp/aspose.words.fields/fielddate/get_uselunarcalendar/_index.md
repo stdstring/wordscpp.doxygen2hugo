@@ -1,7 +1,7 @@
 ---
 title: get_UseLunarCalendar
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to use the Hijri Lunar or Hebrew Lunar calendar. 
+description: Gets or sets whether to use the Hijri Lunar or Hebrew Lunar calendar.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fielddate/get_uselunarcalendar/

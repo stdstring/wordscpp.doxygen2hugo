@@ -1,7 +1,7 @@
 ---
 title: get_Version
 second_title: Aspose.Words for C++ API Reference
-description: Gets the product version. 
+description: Gets the product version.
 type: docs
 weight: 14
 url: /cpp/aspose.words/buildversioninfo/get_version/

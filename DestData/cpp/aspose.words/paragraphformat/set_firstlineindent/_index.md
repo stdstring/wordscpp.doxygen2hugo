@@ -1,7 +1,7 @@
 ---
 title: set_FirstLineIndent
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::ParagraphFormat::get_FirstLineIndent. 
+description: 'Setter for Aspose::Words::ParagraphFormat::get_FirstLineIndent.'
 type: docs
 weight: 651
 url: /cpp/aspose.words/paragraphformat/set_firstlineindent/

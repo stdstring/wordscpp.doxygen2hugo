@@ -1,7 +1,7 @@
 ---
 title: set_OddAndEvenPagesHeaderFooter
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter. 
+description: 'Setter for Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter.'
 type: docs
 weight: 885
 url: /cpp/aspose.words/pagesetup/set_oddandevenpagesheaderfooter/

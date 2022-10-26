@@ -1,7 +1,7 @@
 ---
 title: set_DocumentDirection
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection. 
+description: 'Setter for Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection.'
 type: docs
 weight: 79
 url: /cpp/aspose.words.loading/txtloadoptions/set_documentdirection/

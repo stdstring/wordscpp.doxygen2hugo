@@ -1,7 +1,7 @@
 ---
 title: set_EndArrowLength
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Stroke::get_EndArrowLength. 
+description: 'Setter for Aspose::Words::Drawing::Stroke::get_EndArrowLength.'
 type: docs
 weight: 313
 url: /cpp/aspose.words.drawing/stroke/set_endarrowlength/

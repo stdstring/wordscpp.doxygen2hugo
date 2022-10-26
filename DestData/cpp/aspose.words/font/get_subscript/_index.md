@@ -1,7 +1,7 @@
 ---
 title: get_Subscript
 second_title: Aspose.Words for C++ API Reference
-description: True if the font is formatted as subscript. 
+description: True if the font is formatted as subscript.
 type: docs
 weight: 560
 url: /cpp/aspose.words/font/get_subscript/

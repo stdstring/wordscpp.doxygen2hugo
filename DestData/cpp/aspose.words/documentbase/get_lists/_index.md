@@ -1,7 +1,7 @@
 ---
 title: get_Lists
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the list formatting used in the document. 
+description: Provides access to the list formatting used in the document.
 type: docs
 weight: 40
 url: /cpp/aspose.words/documentbase/get_lists/

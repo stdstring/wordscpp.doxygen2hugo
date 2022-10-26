@@ -1,7 +1,7 @@
 ---
 title: PdfImageCompression
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of compression applied to images in the PDF file. 
+description: Specifies the type of compression applied to images in the PDF file.
 type: docs
 weight: 976
 url: /cpp/aspose.words.saving/pdfimagecompression/

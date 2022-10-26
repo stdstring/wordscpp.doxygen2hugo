@@ -1,7 +1,7 @@
 ---
 title: StructuredDocumentTag
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Structured document tag class. 
+description: Initializes a new instance of the Structured document tag class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/structureddocumenttag/structureddocumenttag/

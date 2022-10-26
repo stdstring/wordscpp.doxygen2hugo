@@ -1,7 +1,7 @@
 ---
 title: ContinuousSectionRestart
 second_title: Aspose.Words for C++ API Reference
-description: Represents different behaviors when computing page numbers in a continuous section that restarts page numbering. 
+description: Represents different behaviors when computing page numbers in a continuous section that restarts page numbering.
 type: docs
 weight: 92
 url: /cpp/aspose.words.layout/continuoussectionrestart/

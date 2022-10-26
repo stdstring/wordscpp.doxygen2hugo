@@ -1,7 +1,7 @@
 ---
 title: get_Version
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the version of the web extension. 
+description: Specifies the version of the web extension.
 type: docs
 weight: 53
 url: /cpp/aspose.words.webextensions/webextensionreference/get_version/

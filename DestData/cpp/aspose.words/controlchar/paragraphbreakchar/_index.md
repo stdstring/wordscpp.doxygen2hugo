@@ -1,7 +1,7 @@
 ---
 title: ParagraphBreakChar
 second_title: Aspose.Words for C++ API Reference
-description: End of paragraph character: (char)13 or "\r". 
+description: 'End of paragraph character: (char)13 or "\r".'
 type: docs
 weight: 326
 url: /cpp/aspose.words/controlchar/paragraphbreakchar/

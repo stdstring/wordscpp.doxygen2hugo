@@ -1,7 +1,7 @@
 ---
 title: set_FixCheckDigit
 second_title: Aspose.Words for C++ API Reference
-description: Whether to fix the check digit if it’s invalid. 
+description: Whether to fix the check digit if it’s invalid.
 type: docs
 weight: 339
 url: /cpp/aspose.words.fields/barcodeparameters/set_fixcheckdigit/

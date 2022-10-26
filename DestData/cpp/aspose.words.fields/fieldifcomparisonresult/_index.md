@@ -1,7 +1,7 @@
 ---
 title: FieldIfComparisonResult
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the result of the IF field condition evaluation. 
+description: Specifies the result of the IF field condition evaluation.
 type: docs
 weight: 1626
 url: /cpp/aspose.words.fields/fieldifcomparisonresult/

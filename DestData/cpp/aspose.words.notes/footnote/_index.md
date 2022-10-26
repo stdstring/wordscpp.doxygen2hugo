@@ -1,7 +1,7 @@
 ---
 title: Footnote
 second_title: Aspose.Words for C++ API Reference
-description: Represents a container for text of a footnote or endnote. 
+description: Represents a container for text of a footnote or endnote.
 type: docs
 weight: 14
 url: /cpp/aspose.words.notes/footnote/

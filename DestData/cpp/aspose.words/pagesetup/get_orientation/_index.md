@@ -1,7 +1,7 @@
 ---
 title: get_Orientation
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the orientation of the page. 
+description: Returns or sets the orientation of the page.
 type: docs
 weight: 365
 url: /cpp/aspose.words/pagesetup/get_orientation/

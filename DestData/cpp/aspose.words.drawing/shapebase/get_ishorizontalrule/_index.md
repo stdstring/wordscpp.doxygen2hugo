@@ -1,7 +1,7 @@
 ---
 title: get_IsHorizontalRule
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this shape is a horizontal rule. 
+description: Returns true if this shape is a horizontal rule.
 type: docs
 weight: 339
 url: /cpp/aspose.words.drawing/shapebase/get_ishorizontalrule/

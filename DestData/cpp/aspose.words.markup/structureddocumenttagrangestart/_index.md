@@ -1,7 +1,7 @@
 ---
 title: StructuredDocumentTagRangeStart
 second_title: Aspose.Words for C++ API Reference
-description: Represents a start of ranged structured document tag which accepts multi-sections content. See also StructuredDocumentTagRangeEnd. 
+description: Represents a start of ranged structured document tag which accepts multi-sections content. See also StructuredDocumentTagRangeEnd.
 type: docs
 weight: 170
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/

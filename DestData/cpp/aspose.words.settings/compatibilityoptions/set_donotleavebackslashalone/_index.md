@@ -1,7 +1,7 @@
 ---
 title: set_DoNotLeaveBackslashAlone
 second_title: Aspose.Words for C++ API Reference
-description: Convert Backslash To Yen Sign When Entered. 
+description: Convert Backslash To Yen Sign When Entered.
 type: docs
 weight: 1132
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotleavebackslashalone/

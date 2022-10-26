@@ -1,7 +1,7 @@
 ---
 title: get_ImageBytes
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the raw bytes of the image stored in the shape. 
+description: Gets or sets the raw bytes of the image stored in the shape.
 type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/imagedata/get_imagebytes/

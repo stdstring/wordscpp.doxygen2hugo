@@ -1,7 +1,7 @@
 ---
 title: set_ExportPageSetup
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup. 
+description: 'Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup.'
 type: docs
 weight: 872
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportpagesetup/

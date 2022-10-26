@@ -1,7 +1,7 @@
 ---
 title: Fill
 second_title: Aspose.Words for C++ API Reference
-description: Represents fill formatting for an object. 
+description: Represents fill formatting for an object.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/fill/

@@ -1,7 +1,7 @@
 ---
 title: AxisCategoryType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies type of a category axis. 
+description: Specifies type of a category axis.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing.charts/axiscategorytype/

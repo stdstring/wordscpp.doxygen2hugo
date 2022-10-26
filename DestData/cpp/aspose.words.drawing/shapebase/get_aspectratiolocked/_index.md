@@ -1,7 +1,7 @@
 ---
 title: get_AspectRatioLocked
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether the shape's aspect ratio is locked. 
+description: Specifies whether the shape's aspect ratio is locked.
 type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/shapebase/get_aspectratiolocked/

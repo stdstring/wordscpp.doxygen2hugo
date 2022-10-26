@@ -1,7 +1,7 @@
 ---
 title: set_UseUmAlQuraCalendar
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDate::get_UseUmAlQuraCalendar. 
+description: 'Setter for Aspose::Words::Fields::FieldDate::get_UseUmAlQuraCalendar.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fielddate/set_useumalquracalendar/

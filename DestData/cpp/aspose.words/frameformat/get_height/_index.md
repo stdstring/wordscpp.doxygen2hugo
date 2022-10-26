@@ -1,7 +1,7 @@
 ---
 title: get_Height
 second_title: Aspose.Words for C++ API Reference
-description: Gets the height of the specified frame. 
+description: Gets the height of the specified frame.
 type: docs
 weight: 1
 url: /cpp/aspose.words/frameformat/get_height/

@@ -1,7 +1,7 @@
 ---
 title: get_RestartRule
 second_title: Aspose.Words for C++ API Reference
-description: Determines when automatic numbering restarts. 
+description: Determines when automatic numbering restarts.
 type: docs
 weight: 40
 url: /cpp/aspose.words.notes/footnoteoptions/get_restartrule/

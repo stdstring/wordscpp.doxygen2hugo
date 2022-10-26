@@ -1,7 +1,7 @@
 ---
 title: FindReplaceOptions
 second_title: Aspose.Words for C++ API Reference
-description: Specifies options for find/replace operations. 
+description: Specifies options for find/replace operations.
 type: docs
 weight: 1
 url: /cpp/aspose.words.replacing/findreplaceoptions/

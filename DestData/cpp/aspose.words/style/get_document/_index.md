@@ -1,7 +1,7 @@
 ---
 title: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Gets the owner document. 
+description: Gets the owner document.
 type: docs
 weight: 53
 url: /cpp/aspose.words/style/get_document/

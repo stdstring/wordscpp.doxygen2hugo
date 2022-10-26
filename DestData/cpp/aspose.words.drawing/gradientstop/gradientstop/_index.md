@@ -1,7 +1,7 @@
 ---
 title: GradientStop
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the GradientStop class. 
+description: Initializes a new instance of the GradientStop class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/gradientstop/gradientstop/

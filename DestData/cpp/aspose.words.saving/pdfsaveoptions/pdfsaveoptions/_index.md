@@ -1,7 +1,7 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of this class that can be used to save a document in the Pdf format. 
+description: Initializes a new instance of this class that can be used to save a document in the Pdf format.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfsaveoptions/pdfsaveoptions/

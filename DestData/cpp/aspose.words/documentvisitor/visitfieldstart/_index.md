@@ -1,7 +1,7 @@
 ---
 title: VisitFieldStart
 second_title: Aspose.Words for C++ API Reference
-description: Called when a field starts in the document. 
+description: Called when a field starts in the document.
 type: docs
 weight: 248
 url: /cpp/aspose.words/documentvisitor/visitfieldstart/

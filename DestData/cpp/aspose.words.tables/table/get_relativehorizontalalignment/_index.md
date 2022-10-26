@@ -1,7 +1,7 @@
 ---
 title: get_RelativeHorizontalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets floating table relative horizontal alignment. 
+description: Gets or sets floating table relative horizontal alignment.
 type: docs
 weight: 365
 url: /cpp/aspose.words.tables/table/get_relativehorizontalalignment/

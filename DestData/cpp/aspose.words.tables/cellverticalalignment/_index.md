@@ -1,7 +1,7 @@
 ---
 title: CellVerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies vertical justification of text inside a table cell. 
+description: Specifies vertical justification of text inside a table cell.
 type: docs
 weight: 144
 url: /cpp/aspose.words.tables/cellverticalalignment/

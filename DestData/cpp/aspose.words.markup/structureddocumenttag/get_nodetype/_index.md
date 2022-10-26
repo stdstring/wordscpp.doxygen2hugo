@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.StructuredDocumentTag. 
+description: Returns NodeType.StructuredDocumentTag.
 type: docs
 weight: 300
 url: /cpp/aspose.words.markup/structureddocumenttag/get_nodetype/

@@ -1,7 +1,7 @@
 ---
 title: TxtTrailingSpacesOptions
 second_title: Aspose.Words for C++ API Reference
-description: Specifies available options for trailing spaces handling during import from Text file. 
+description: Specifies available options for trailing spaces handling during import from Text file.
 type: docs
 weight: 235
 url: /cpp/aspose.words.loading/txttrailingspacesoptions/

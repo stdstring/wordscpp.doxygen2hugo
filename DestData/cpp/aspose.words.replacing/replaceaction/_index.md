@@ -1,7 +1,7 @@
 ---
 title: ReplaceAction
 second_title: Aspose.Words for C++ API Reference
-description: Allows the user to specify what happens to the current match during a replace operation. 
+description: Allows the user to specify what happens to the current match during a replace operation.
 type: docs
 weight: 53
 url: /cpp/aspose.words.replacing/replaceaction/

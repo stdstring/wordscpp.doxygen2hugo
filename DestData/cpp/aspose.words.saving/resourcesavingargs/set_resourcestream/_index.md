@@ -1,7 +1,7 @@
 ---
 title: set_ResourceStream
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream. 
+description: 'Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream.'
 type: docs
 weight: 105
 url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcestream/

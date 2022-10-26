@@ -1,7 +1,7 @@
 ---
 title: get_CharacterUnitLeftIndent
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the left indent value (in characters) for the specified paragraphs. 
+description: Gets or sets the left indent value (in characters) for the specified paragraphs.
 type: docs
 weight: 92
 url: /cpp/aspose.words/paragraphformat/get_characterunitleftindent/

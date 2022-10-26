@@ -1,7 +1,7 @@
 ---
 title: get_Variables
 second_title: Aspose.Words for C++ API Reference
-description: Returns the collection of variables added to a document or template. 
+description: Returns the collection of variables added to a document or template.
 type: docs
 weight: 664
 url: /cpp/aspose.words/document/get_variables/

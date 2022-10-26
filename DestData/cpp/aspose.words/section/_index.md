@@ -1,7 +1,7 @@
 ---
 title: Section
 second_title: Aspose.Words for C++ API Reference
-description: Represents a single section in a document. 
+description: Represents a single section in a document.
 type: docs
 weight: 742
 url: /cpp/aspose.words/section/

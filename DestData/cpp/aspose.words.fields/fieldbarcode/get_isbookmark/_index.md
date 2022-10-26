@@ -1,7 +1,7 @@
 ---
 title: get_IsBookmark
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether PostalAddress is the name of a bookmark. 
+description: Gets or sets whether PostalAddress is the name of a bookmark.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldbarcode/get_isbookmark/

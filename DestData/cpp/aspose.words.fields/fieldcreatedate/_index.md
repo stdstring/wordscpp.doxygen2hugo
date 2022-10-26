@@ -1,7 +1,7 @@
 ---
 title: FieldCreateDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the CREATEDATE field. 
+description: Implements the CREATEDATE field.
 type: docs
 weight: 326
 url: /cpp/aspose.words.fields/fieldcreatedate/

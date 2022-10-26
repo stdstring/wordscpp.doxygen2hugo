@@ -1,7 +1,7 @@
 ---
 title: FieldSkipIf
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SKIPIF field. 
+description: Implements the SKIPIF field.
 type: docs
 weight: 1210
 url: /cpp/aspose.words.fields/fieldskipif/

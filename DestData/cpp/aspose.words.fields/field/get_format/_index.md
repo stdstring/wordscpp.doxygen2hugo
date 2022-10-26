@@ -1,7 +1,7 @@
 ---
 title: get_Format
 second_title: Aspose.Words for C++ API Reference
-description: Gets a FieldFormat object that provides typed access to field's formatting. 
+description: Gets a FieldFormat object that provides typed access to field's formatting.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/field/get_format/

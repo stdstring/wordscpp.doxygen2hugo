@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns a DocumentProperty object by the name of the property. 
+description: Returns a DocumentProperty object by the name of the property.
 type: docs
 weight: 417
 url: /cpp/aspose.words.properties/builtindocumentproperties/idx_get/

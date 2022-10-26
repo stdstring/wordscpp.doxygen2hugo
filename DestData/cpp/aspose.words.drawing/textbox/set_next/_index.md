@@ -1,7 +1,7 @@
 ---
 title: set_Next
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::TextBox::get_Next. 
+description: 'Setter for Aspose::Words::Drawing::TextBox::get_Next.'
 type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/textbox/set_next/

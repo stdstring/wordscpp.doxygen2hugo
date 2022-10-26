@@ -1,7 +1,7 @@
 ---
 title: FieldMergeRec
 second_title: Aspose.Words for C++ API Reference
-description: Implements the MERGEREC field. 
+description: Implements the MERGEREC field.
 type: docs
 weight: 872
 url: /cpp/aspose.words.fields/fieldmergerec/

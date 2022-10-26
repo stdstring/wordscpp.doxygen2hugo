@@ -1,7 +1,7 @@
 ---
 title: FieldDatabaseFormatAttributes
 second_title: Aspose.Words for C++ API Reference
-description: FieldDatabaseFormatAttributes enumeration. 
+description: FieldDatabaseFormatAttributes enumeration.
 type: docs
 weight: 1600
 url: /cpp/aspose.words.fields/fielddatabaseformatattributes/

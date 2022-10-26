@@ -1,7 +1,7 @@
 ---
 title: set_UseLunarCalendar
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDate::get_UseLunarCalendar. 
+description: 'Setter for Aspose::Words::Fields::FieldDate::get_UseLunarCalendar.'
 type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fielddate/set_uselunarcalendar/

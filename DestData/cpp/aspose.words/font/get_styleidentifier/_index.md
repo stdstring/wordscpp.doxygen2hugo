@@ -1,7 +1,7 @@
 ---
 title: get_StyleIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the locale independent style identifier of the character style applied to this formatting. 
+description: Gets or sets the locale independent style identifier of the character style applied to this formatting.
 type: docs
 weight: 534
 url: /cpp/aspose.words/font/get_styleidentifier/

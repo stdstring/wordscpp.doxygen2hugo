@@ -1,7 +1,7 @@
 ---
 title: OleFormat
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the data of an OLE object or ActiveX control. 
+description: Provides access to the data of an OLE object or ActiveX control.
 type: docs
 weight: 92
 url: /cpp/aspose.words.drawing/oleformat/

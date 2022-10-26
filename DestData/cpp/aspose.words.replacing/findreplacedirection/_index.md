@@ -1,7 +1,7 @@
 ---
 title: FindReplaceDirection
 second_title: Aspose.Words for C++ API Reference
-description: Specifies direction for replace operations. 
+description: Specifies direction for replace operations.
 type: docs
 weight: 40
 url: /cpp/aspose.words.replacing/findreplacedirection/

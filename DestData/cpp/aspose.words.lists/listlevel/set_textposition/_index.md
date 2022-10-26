@@ -1,7 +1,7 @@
 ---
 title: set_TextPosition
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Lists::ListLevel::get_TextPosition. 
+description: 'Setter for Aspose::Words::Lists::ListLevel::get_TextPosition.'
 type: docs
 weight: 352
 url: /cpp/aspose.words.lists/listlevel/set_textposition/

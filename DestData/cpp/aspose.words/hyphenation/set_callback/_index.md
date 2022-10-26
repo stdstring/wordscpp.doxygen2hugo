@@ -1,7 +1,7 @@
 ---
 title: set_Callback
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Hyphenation::get_Callback. 
+description: 'Setter for Aspose::Words::Hyphenation::get_Callback.'
 type: docs
 weight: 53
 url: /cpp/aspose.words/hyphenation/set_callback/

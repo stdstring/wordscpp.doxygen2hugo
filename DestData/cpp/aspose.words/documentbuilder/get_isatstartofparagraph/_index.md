@@ -1,7 +1,7 @@
 ---
 title: get_IsAtStartOfParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if the cursor is at the beginning of the current paragraph (no text before the cursor). 
+description: Returns true if the cursor is at the beginning of the current paragraph (no text before the cursor).
 type: docs
 weight: 209
 url: /cpp/aspose.words/documentbuilder/get_isatstartofparagraph/

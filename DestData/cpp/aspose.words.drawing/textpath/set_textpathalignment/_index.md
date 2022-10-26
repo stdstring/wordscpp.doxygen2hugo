@@ -1,7 +1,7 @@
 ---
 title: set_TextPathAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::TextPath::get_TextPathAlignment. 
+description: 'Setter for Aspose::Words::Drawing::TextPath::get_TextPathAlignment.'
 type: docs
 weight: 469
 url: /cpp/aspose.words.drawing/textpath/set_textpathalignment/

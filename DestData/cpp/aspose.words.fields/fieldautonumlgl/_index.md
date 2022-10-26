@@ -1,7 +1,7 @@
 ---
 title: FieldAutoNumLgl
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTONUMLGL field. 
+description: Implements the AUTONUMLGL field.
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldautonumlgl/

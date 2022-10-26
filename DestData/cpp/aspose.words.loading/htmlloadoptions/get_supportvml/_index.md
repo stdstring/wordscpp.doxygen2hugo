@@ -1,7 +1,7 @@
 ---
 title: get_SupportVml
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value indicating whether to support VML images. 
+description: Gets or sets a value indicating whether to support VML images.
 type: docs
 weight: 66
 url: /cpp/aspose.words.loading/htmlloadoptions/get_supportvml/

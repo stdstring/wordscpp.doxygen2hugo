@@ -1,7 +1,7 @@
 ---
 title: set_HeadingsOutlineLevels
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::OutlineOptions::get_HeadingsOutlineLevels. 
+description: 'Setter for Aspose::Words::Saving::OutlineOptions::get_HeadingsOutlineLevels.'
 type: docs
 weight: 144
 url: /cpp/aspose.words.saving/outlineoptions/set_headingsoutlinelevels/

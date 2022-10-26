@@ -1,7 +1,7 @@
 ---
 title: ChartNumberFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents number formatting of the parent element. 
+description: Represents number formatting of the parent element.
 type: docs
 weight: 183
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/

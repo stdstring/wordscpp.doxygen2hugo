@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Clears contents of this structured document tag and displays a placeholder if it is defined. 
+description: Clears contents of this structured document tag and displays a placeholder if it is defined.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/structureddocumenttag/clear/

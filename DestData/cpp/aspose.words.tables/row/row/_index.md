@@ -1,7 +1,7 @@
 ---
 title: Row
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Row class. 
+description: Initializes a new instance of the Row class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.tables/row/row/

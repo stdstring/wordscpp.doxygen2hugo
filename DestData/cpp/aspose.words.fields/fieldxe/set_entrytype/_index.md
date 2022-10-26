@@ -1,7 +1,7 @@
 ---
 title: set_EntryType
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldXE::get_EntryType. 
+description: 'Setter for Aspose::Words::Fields::FieldXE::get_EntryType.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldxe/set_entrytype/

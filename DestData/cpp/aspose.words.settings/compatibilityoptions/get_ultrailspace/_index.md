@@ -1,7 +1,7 @@
 ---
 title: get_UlTrailSpace
 second_title: Aspose.Words for C++ API Reference
-description: Underline All Trailing Spaces. 
+description: Underline All Trailing Spaces.
 type: docs
 weight: 742
 url: /cpp/aspose.words.settings/compatibilityoptions/get_ultrailspace/

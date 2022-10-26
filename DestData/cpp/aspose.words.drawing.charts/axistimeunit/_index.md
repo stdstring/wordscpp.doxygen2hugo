@@ -1,7 +1,7 @@
 ---
 title: AxisTimeUnit
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the unit of time for axes. 
+description: Specifies the unit of time for axes.
 type: docs
 weight: 326
 url: /cpp/aspose.words.drawing.charts/axistimeunit/

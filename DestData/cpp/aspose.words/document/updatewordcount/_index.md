@@ -1,7 +1,7 @@
 ---
 title: UpdateWordCount
 second_title: Aspose.Words for C++ API Reference
-description: Updates word count properties of the document. 
+description: Updates word count properties of the document.
 type: docs
 weight: 1210
 url: /cpp/aspose.words/document/updatewordcount/

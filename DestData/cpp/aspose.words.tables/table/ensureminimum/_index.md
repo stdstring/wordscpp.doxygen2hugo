@@ -1,7 +1,7 @@
 ---
 title: EnsureMinimum
 second_title: Aspose.Words for C++ API Reference
-description: If the table has no rows, creates and appends one Row. 
+description: If the table has no rows, creates and appends one Row.
 type: docs
 weight: 79
 url: /cpp/aspose.words.tables/table/ensureminimum/

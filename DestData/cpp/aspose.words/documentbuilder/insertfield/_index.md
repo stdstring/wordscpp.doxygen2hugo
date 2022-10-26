@@ -1,7 +1,7 @@
 ---
 title: InsertField
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a Word field into a document and optionally updates the field result. 
+description: Inserts a Word field into a document and optionally updates the field result.
 type: docs
 weight: 378
 url: /cpp/aspose.words/documentbuilder/insertfield/

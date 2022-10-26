@@ -1,7 +1,7 @@
 ---
 title: ResetCache
 second_title: Aspose.Words for C++ API Reference
-description: Resets the cache of fontconfig calling results. 
+description: Resets the cache of fontconfig calling results.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/resetcache/

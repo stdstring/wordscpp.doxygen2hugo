@@ -1,7 +1,7 @@
 ---
 title: DeleteShapes
 second_title: Aspose.Words for C++ API Reference
-description: Deletes all shapes from the text of this story. 
+description: Deletes all shapes from the text of this story.
 type: docs
 weight: 14
 url: /cpp/aspose.words/story/deleteshapes/

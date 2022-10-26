@@ -1,7 +1,7 @@
 ---
 title: CustomXmlPartCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of Custom XML Parts. The items are CustomXmlPart objects. 
+description: Represents a collection of Custom XML Parts. The items are CustomXmlPart objects.
 type: docs
 weight: 40
 url: /cpp/aspose.words.markup/customxmlpartcollection/

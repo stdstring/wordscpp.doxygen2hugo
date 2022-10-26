@@ -1,7 +1,7 @@
 ---
 title: get_ScreenTip
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the ScreenTip text for the hyperlink. 
+description: Gets or sets the ScreenTip text for the hyperlink.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldhyperlink/get_screentip/

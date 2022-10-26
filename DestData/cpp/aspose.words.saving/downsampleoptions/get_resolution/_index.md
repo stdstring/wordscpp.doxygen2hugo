@@ -1,7 +1,7 @@
 ---
 title: get_Resolution
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the resolution in pixels per inch which the images should be downsampled to. 
+description: Specifies the resolution in pixels per inch which the images should be downsampled to.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/downsampleoptions/get_resolution/

@@ -1,7 +1,7 @@
 ---
 title: set_ImageWidth
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth. 
+description: 'Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth.'
 type: docs
 weight: 131
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imagewidth/

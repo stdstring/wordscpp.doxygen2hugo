@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the specified object is equal in value to the current object. 
+description: Determines whether the specified object is equal in value to the current object.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing.charts/axisbound/equals/

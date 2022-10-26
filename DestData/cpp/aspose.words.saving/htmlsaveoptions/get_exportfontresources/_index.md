@@ -1,7 +1,7 @@
 ---
 title: get_ExportFontResources
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is false. 
+description: Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is false.
 type: docs
 weight: 183
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportfontresources/

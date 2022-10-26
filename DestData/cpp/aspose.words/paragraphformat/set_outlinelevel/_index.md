@@ -1,7 +1,7 @@
 ---
 title: set_OutlineLevel
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::ParagraphFormat::get_OutlineLevel. 
+description: 'Setter for Aspose::Words::ParagraphFormat::get_OutlineLevel.'
 type: docs
 weight: 794
 url: /cpp/aspose.words/paragraphformat/set_outlinelevel/

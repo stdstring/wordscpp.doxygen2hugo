@@ -1,7 +1,7 @@
 ---
 title: StructuredDocumentTagRangeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Structured document tag range end class. 
+description: Initializes a new instance of the Structured document tag range end class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/structureddocumenttagrangeend/structureddocumenttagrangeend/

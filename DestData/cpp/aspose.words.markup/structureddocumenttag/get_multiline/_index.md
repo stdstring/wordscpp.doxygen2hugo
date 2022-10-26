@@ -1,7 +1,7 @@
 ---
 title: get_Multiline
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether this SDT allows multiple lines of text. 
+description: Specifies whether this SDT allows multiple lines of text.
 type: docs
 weight: 287
 url: /cpp/aspose.words.markup/structureddocumenttag/get_multiline/

@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds an item to the collection. 
+description: Adds an item to the collection.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/custompartcollection/add/

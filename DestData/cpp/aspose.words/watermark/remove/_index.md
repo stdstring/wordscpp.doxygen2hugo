@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Removes the watermark. 
+description: Removes the watermark.
 type: docs
 weight: 14
 url: /cpp/aspose.words/watermark/remove/

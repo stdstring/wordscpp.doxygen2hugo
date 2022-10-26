@@ -1,7 +1,7 @@
 ---
 title: FieldPageRef
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PAGEREF field. 
+description: Implements the PAGEREF field.
 type: docs
 weight: 1015
 url: /cpp/aspose.words.fields/fieldpageref/

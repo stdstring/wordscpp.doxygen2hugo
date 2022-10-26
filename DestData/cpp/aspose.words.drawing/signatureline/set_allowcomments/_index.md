@@ -1,7 +1,7 @@
 ---
 title: set_AllowComments
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::SignatureLine::get_AllowComments. 
+description: 'Setter for Aspose::Words::Drawing::SignatureLine::get_AllowComments.'
 type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/signatureline/set_allowcomments/

@@ -1,7 +1,7 @@
 ---
 title: IChartDataPoint
 second_title: Aspose.Words for C++ API Reference
-description: Contains properties of a single data point on the chart. 
+description: Contains properties of a single data point on the chart.
 type: docs
 weight: 235
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/

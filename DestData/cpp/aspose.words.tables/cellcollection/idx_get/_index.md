@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves a Cell at the given index. 
+description: Retrieves a Cell at the given index.
 type: docs
 weight: 1
 url: /cpp/aspose.words.tables/cellcollection/idx_get/

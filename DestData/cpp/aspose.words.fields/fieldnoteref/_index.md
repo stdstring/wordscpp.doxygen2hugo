@@ -1,7 +1,7 @@
 ---
 title: FieldNoteRef
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NOTEREF field. 
+description: Implements the NOTEREF field.
 type: docs
 weight: 924
 url: /cpp/aspose.words.fields/fieldnoteref/

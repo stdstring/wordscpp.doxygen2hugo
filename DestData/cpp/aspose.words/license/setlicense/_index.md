@@ -1,7 +1,7 @@
 ---
 title: SetLicense
 second_title: Aspose.Words for C++ API Reference
-description: Licenses the component. 
+description: Licenses the component.
 type: docs
 weight: 14
 url: /cpp/aspose.words/license/setlicense/

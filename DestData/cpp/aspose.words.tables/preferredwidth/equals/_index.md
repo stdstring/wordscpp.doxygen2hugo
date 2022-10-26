@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the specified PreferredWidth is equal in value to the current PreferredWidth. 
+description: Determines whether the specified PreferredWidth is equal in value to the current PreferredWidth.
 type: docs
 weight: 40
 url: /cpp/aspose.words.tables/preferredwidth/equals/

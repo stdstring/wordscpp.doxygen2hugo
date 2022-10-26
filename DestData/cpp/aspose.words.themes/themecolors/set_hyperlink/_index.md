@@ -1,7 +1,7 @@
 ---
 title: set_Hyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Themes::ThemeColors::get_Hyperlink. 
+description: 'Setter for Aspose::Words::Themes::ThemeColors::get_Hyperlink.'
 type: docs
 weight: 274
 url: /cpp/aspose.words.themes/themecolors/set_hyperlink/

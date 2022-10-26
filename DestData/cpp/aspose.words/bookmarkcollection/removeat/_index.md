@@ -1,7 +1,7 @@
 ---
 title: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Removes a bookmark at the specified index. 
+description: Removes a bookmark at the specified index.
 type: docs
 weight: 66
 url: /cpp/aspose.words/bookmarkcollection/removeat/

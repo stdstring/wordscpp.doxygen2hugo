@@ -1,7 +1,7 @@
 ---
 title: MergeFieldImageDimension
 second_title: Aspose.Words for C++ API Reference
-description: Represents an image dimension (i.e. the width or the height) used across a mail merge process. 
+description: Represents an image dimension (i.e. the width or the height) used across a mail merge process.
 type: docs
 weight: 1470
 url: /cpp/aspose.words.fields/mergefieldimagedimension/

@@ -1,7 +1,7 @@
 ---
 title: InsertSignatureLine
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a signature line at the current position. 
+description: Inserts a signature line at the current position.
 type: docs
 weight: 534
 url: /cpp/aspose.words/documentbuilder/insertsignatureline/

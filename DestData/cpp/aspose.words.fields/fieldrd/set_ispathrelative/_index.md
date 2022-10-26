@@ -1,7 +1,7 @@
 ---
 title: set_IsPathRelative
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldRD::get_IsPathRelative. 
+description: 'Setter for Aspose::Words::Fields::FieldRD::get_IsPathRelative.'
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldrd/set_ispathrelative/

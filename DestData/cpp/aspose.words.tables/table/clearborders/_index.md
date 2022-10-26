@@ -1,7 +1,7 @@
 ---
 title: ClearBorders
 second_title: Aspose.Words for C++ API Reference
-description: Removes all table and cell borders on this table. 
+description: Removes all table and cell borders on this table.
 type: docs
 weight: 40
 url: /cpp/aspose.words.tables/table/clearborders/

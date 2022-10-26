@@ -1,7 +1,7 @@
 ---
 title: get_LayoutOptions
 second_title: Aspose.Words for C++ API Reference
-description: Gets a LayoutOptions object that represents options to control the layout process of this document. 
+description: Gets a LayoutOptions object that represents options to control the layout process of this document.
 type: docs
 weight: 417
 url: /cpp/aspose.words/document/get_layoutoptions/

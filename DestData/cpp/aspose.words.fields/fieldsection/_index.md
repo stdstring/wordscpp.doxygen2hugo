@@ -1,7 +1,7 @@
 ---
 title: FieldSection
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SECTION field. 
+description: Implements the SECTION field.
 type: docs
 weight: 1132
 url: /cpp/aspose.words.fields/fieldsection/

@@ -1,7 +1,7 @@
 ---
 title: FontSourceBase
 second_title: Aspose.Words for C++ API Reference
-description: This is an abstract base class for the classes that allow the user to specify various font sources. 
+description: This is an abstract base class for the classes that allow the user to specify various font sources.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fonts/fontsourcebase/

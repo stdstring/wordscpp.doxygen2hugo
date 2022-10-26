@@ -1,7 +1,7 @@
 ---
 title: HtmlInsertOptions
 second_title: Aspose.Words for C++ API Reference
-description: Specifies options for the InsertHtml() method. 
+description: Specifies options for the InsertHtml() method.
 type: docs
 weight: 1184
 url: /cpp/aspose.words/htmlinsertoptions/

@@ -1,7 +1,7 @@
 ---
-title: Aspose::Words::BuildingBlocks
+title: 'Aspose::Words::BuildingBlocks'
 second_title: Aspose.Words for C++ API Reference
-description: The Aspose.Words.BuildingBlocks namespace provides classes that allow to access and use AutoText, AutoCorrect entries and Building Blocks in a document. 
+description: The Aspose.Words.BuildingBlocks namespace provides classes that allow to access and use AutoText, AutoCorrect entries and Building Blocks in a document.
 type: docs
 weight: 14
 url: /cpp/aspose.words.buildingblocks/

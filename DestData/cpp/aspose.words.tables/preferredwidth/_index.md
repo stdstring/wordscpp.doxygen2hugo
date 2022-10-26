@@ -1,7 +1,7 @@
 ---
 title: PreferredWidth
 second_title: Aspose.Words for C++ API Reference
-description: Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell. 
+description: Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell.
 type: docs
 weight: 40
 url: /cpp/aspose.words.tables/preferredwidth/

@@ -1,7 +1,7 @@
 ---
 title: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Copies all HeaderFoorters from the collection to a new array of HeaderFoorters. 
+description: Copies all HeaderFoorters from the collection to a new array of HeaderFoorters.
 type: docs
 weight: 27
 url: /cpp/aspose.words/headerfootercollection/toarray/

@@ -1,7 +1,7 @@
 ---
 title: set_Family
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fonts::FontInfo::get_Family. 
+description: 'Setter for Aspose::Words::Fonts::FontInfo::get_Family.'
 type: docs
 weight: 144
 url: /cpp/aspose.words.fonts/fontinfo/set_family/

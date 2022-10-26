@@ -1,7 +1,7 @@
 ---
 title: XamlFixedSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the XamlFixed format. 
+description: Can be used to specify additional options when saving a document into the XamlFixed format.
 type: docs
 weight: 456
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/

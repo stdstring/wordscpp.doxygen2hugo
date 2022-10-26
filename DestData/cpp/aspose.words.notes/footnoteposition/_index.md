@@ -1,7 +1,7 @@
 ---
 title: FootnotePosition
 second_title: Aspose.Words for C++ API Reference
-description: Defines the footnote position. 
+description: Defines the footnote position.
 type: docs
 weight: 66
 url: /cpp/aspose.words.notes/footnoteposition/

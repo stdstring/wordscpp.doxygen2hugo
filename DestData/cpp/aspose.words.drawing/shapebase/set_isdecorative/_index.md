@@ -1,7 +1,7 @@
 ---
 title: set_IsDecorative
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::ShapeBase::get_IsDecorative. 
+description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_IsDecorative.'
 type: docs
 weight: 963
 url: /cpp/aspose.words.drawing/shapebase/set_isdecorative/

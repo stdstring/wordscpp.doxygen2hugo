@@ -1,7 +1,7 @@
 ---
 title: LayoutEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Initializes new instance of this class. 
+description: Initializes new instance of this class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.layout/layoutenumerator/layoutenumerator/

@@ -1,7 +1,7 @@
 ---
 title: LineStyle
 second_title: Aspose.Words for C++ API Reference
-description: Specifies line style of a Border. 
+description: Specifies line style of a Border.
 type: docs
 weight: 1249
 url: /cpp/aspose.words/linestyle/

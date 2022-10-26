@@ -1,7 +1,7 @@
 ---
 title: AxisCrosses
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the possible crossing points for an axis. 
+description: Specifies the possible crossing points for an axis.
 type: docs
 weight: 274
 url: /cpp/aspose.words.drawing.charts/axiscrosses/

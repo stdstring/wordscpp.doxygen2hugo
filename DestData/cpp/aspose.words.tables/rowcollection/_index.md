@@ -1,7 +1,7 @@
 ---
 title: RowCollection
 second_title: Aspose.Words for C++ API Reference
-description: Provides typed access to a collection of Row nodes. 
+description: Provides typed access to a collection of Row nodes.
 type: docs
 weight: 66
 url: /cpp/aspose.words.tables/rowcollection/

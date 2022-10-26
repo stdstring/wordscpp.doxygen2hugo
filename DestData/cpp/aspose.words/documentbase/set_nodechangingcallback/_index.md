@@ -1,7 +1,7 @@
 ---
 title: set_NodeChangingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::DocumentBase::get_NodeChangingCallback. 
+description: 'Setter for Aspose::Words::DocumentBase::get_NodeChangingCallback.'
 type: docs
 weight: 144
 url: /cpp/aspose.words/documentbase/set_nodechangingcallback/

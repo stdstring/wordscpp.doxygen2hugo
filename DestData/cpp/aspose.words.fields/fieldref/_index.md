@@ -1,7 +1,7 @@
 ---
 title: FieldRef
 second_title: Aspose.Words for C++ API Reference
-description: Implements the REF field. 
+description: Implements the REF field.
 type: docs
 weight: 1093
 url: /cpp/aspose.words.fields/fieldref/

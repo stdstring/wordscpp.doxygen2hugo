@@ -1,7 +1,7 @@
 ---
 title: set_ImageStream
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the stream for the mail merge engine to read an image from. 
+description: Specifies the stream for the mail merge engine to read an image from.
 type: docs
 weight: 118
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imagestream/

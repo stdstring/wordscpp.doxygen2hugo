@@ -1,7 +1,7 @@
 ---
 title: get_CacheKey
 second_title: Aspose.Words for C++ API Reference
-description: The key of this source in the cache. 
+description: The key of this source in the cache.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/memoryfontsource/get_cachekey/

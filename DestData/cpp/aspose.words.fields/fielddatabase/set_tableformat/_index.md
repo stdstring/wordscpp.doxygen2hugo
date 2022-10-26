@@ -1,7 +1,7 @@
 ---
 title: set_TableFormat
 second_title: Aspose.Words for C++ API Reference
-description: Sets the format that is to be applied to the result of the database query. 
+description: Sets the format that is to be applied to the result of the database query.
 type: docs
 weight: 235
 url: /cpp/aspose.words.fields/fielddatabase/set_tableformat/

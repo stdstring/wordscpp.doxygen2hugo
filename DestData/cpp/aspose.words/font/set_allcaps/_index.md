@@ -1,7 +1,7 @@
 ---
 title: set_AllCaps
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Font::get_AllCaps. 
+description: 'Setter for Aspose::Words::Font::get_AllCaps.'
 type: docs
 weight: 729
 url: /cpp/aspose.words/font/set_allcaps/

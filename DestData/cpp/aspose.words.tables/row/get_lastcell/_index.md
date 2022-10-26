@@ -1,7 +1,7 @@
 ---
 title: get_LastCell
 second_title: Aspose.Words for C++ API Reference
-description: Returns the last Cell in the row. 
+description: Returns the last Cell in the row.
 type: docs
 weight: 92
 url: /cpp/aspose.words.tables/row/get_lastcell/

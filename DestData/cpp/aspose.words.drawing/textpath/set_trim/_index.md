@@ -1,7 +1,7 @@
 ---
 title: set_Trim
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::TextPath::get_Trim. 
+description: 'Setter for Aspose::Words::Drawing::TextPath::get_Trim.'
 type: docs
 weight: 482
 url: /cpp/aspose.words.drawing/textpath/set_trim/

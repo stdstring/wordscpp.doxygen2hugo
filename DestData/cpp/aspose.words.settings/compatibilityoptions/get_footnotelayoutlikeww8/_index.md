@@ -1,7 +1,7 @@
 ---
 title: get_FootnoteLayoutLikeWW8
 second_title: Aspose.Words for C++ API Reference
-description: Emulate Word 6.x/95/97 Footnote Placement. 
+description: Emulate Word 6.x/95/97 Footnote Placement.
 type: docs
 weight: 326
 url: /cpp/aspose.words.settings/compatibilityoptions/get_footnotelayoutlikeww8/

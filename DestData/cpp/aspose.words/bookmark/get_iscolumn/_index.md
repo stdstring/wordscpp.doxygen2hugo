@@ -1,7 +1,7 @@
 ---
 title: get_IsColumn
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this bookmark is a table column bookmark. 
+description: Returns true if this bookmark is a table column bookmark.
 type: docs
 weight: 40
 url: /cpp/aspose.words/bookmark/get_iscolumn/

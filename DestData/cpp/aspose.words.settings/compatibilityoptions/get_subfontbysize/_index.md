@@ -1,7 +1,7 @@
 ---
 title: get_SubFontBySize
 second_title: Aspose.Words for C++ API Reference
-description: Increase Priority Of Font Size During Font Substitution. 
+description: Increase Priority Of Font Size During Font Substitution.
 type: docs
 weight: 599
 url: /cpp/aspose.words.settings/compatibilityoptions/get_subfontbysize/

@@ -1,7 +1,7 @@
 ---
 title: MillimeterToPoint
 second_title: Aspose.Words for C++ API Reference
-description: Converts millimeters to points. 
+description: Converts millimeters to points.
 type: docs
 weight: 14
 url: /cpp/aspose.words/convertutil/millimetertopoint/

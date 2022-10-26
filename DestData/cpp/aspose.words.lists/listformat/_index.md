@@ -1,7 +1,7 @@
 ---
 title: ListFormat
 second_title: Aspose.Words for C++ API Reference
-description: Allows to control what list formatting is applied to a paragraph. 
+description: Allows to control what list formatting is applied to a paragraph.
 type: docs
 weight: 27
 url: /cpp/aspose.words.lists/listformat/

@@ -1,7 +1,7 @@
 ---
 title: SubDocument
 second_title: Aspose.Words for C++ API Reference
-description: Represents a SubDocument - which is a reference to an externally stored document. 
+description: Represents a SubDocument - which is a reference to an externally stored document.
 type: docs
 weight: 846
 url: /cpp/aspose.words/subdocument/

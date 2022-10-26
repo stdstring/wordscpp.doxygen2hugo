@@ -1,7 +1,7 @@
 ---
 title: GetConsumptionCredit
 second_title: Aspose.Words for C++ API Reference
-description: Gets consumption credit. 
+description: Gets consumption credit.
 type: docs
 weight: 27
 url: /cpp/aspose.words/metered/getconsumptioncredit/

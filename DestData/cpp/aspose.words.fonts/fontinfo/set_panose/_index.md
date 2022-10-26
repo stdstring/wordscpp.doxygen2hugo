@@ -1,7 +1,7 @@
 ---
 title: set_Panose
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fonts::FontInfo::get_Panose. 
+description: 'Setter for Aspose::Words::Fonts::FontInfo::get_Panose.'
 type: docs
 weight: 170
 url: /cpp/aspose.words.fonts/fontinfo/set_panose/

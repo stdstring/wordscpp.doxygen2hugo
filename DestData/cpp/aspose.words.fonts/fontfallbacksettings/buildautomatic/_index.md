@@ -1,7 +1,7 @@
 ---
 title: BuildAutomatic
 second_title: Aspose.Words for C++ API Reference
-description: Automatically builds the fallback settings by scanning available fonts. 
+description: Automatically builds the fallback settings by scanning available fonts.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontfallbacksettings/buildautomatic/

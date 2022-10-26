@@ -1,7 +1,7 @@
 ---
 title: PixelToNewDpi
 second_title: Aspose.Words for C++ API Reference
-description: Converts pixels from one resolution to another. 
+description: Converts pixels from one resolution to another.
 type: docs
 weight: 27
 url: /cpp/aspose.words/convertutil/pixeltonewdpi/

@@ -1,7 +1,7 @@
 ---
 title: CalendarType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of a calendar. 
+description: Specifies the type of a calendar.
 type: docs
 weight: 1067
 url: /cpp/aspose.words/calendartype/

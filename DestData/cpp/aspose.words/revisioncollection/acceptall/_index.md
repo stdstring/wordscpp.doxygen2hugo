@@ -1,7 +1,7 @@
 ---
 title: AcceptAll
 second_title: Aspose.Words for C++ API Reference
-description: Accepts all revisions in this collection. 
+description: Accepts all revisions in this collection.
 type: docs
 weight: 1
 url: /cpp/aspose.words/revisioncollection/acceptall/

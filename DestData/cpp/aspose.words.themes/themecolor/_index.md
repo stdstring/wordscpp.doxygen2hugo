@@ -1,7 +1,7 @@
 ---
 title: ThemeColor
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the theme colors for document themes. 
+description: Specifies the theme colors for document themes.
 type: docs
 weight: 40
 url: /cpp/aspose.words.themes/themecolor/

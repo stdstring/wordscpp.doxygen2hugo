@@ -1,7 +1,7 @@
 ---
 title: get_RightMargin
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text. 
+description: Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text.
 type: docs
 weight: 469
 url: /cpp/aspose.words/pagesetup/get_rightmargin/

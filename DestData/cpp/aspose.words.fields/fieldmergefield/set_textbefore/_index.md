@@ -1,7 +1,7 @@
 ---
 title: set_TextBefore
 second_title: Aspose.Words for C++ API Reference
-description: Sets the text to be inserted before the field if the field is not blank. 
+description: Sets the text to be inserted before the field if the field is not blank.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldmergefield/set_textbefore/

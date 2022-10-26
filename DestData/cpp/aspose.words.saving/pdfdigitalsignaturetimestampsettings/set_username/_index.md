@@ -1,7 +1,7 @@
 ---
 title: set_UserName
 second_title: Aspose.Words for C++ API Reference
-description: Timestamp server user name. 
+description: Timestamp server user name.
 type: docs
 weight: 105
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_username/

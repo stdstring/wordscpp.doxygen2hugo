@@ -1,7 +1,7 @@
 ---
 title: SetImage
 second_title: Aspose.Words for C++ API Reference
-description: Sets the image that the shape displays. 
+description: Sets the image that the shape displays.
 type: docs
 weight: 404
 url: /cpp/aspose.words.drawing/imagedata/setimage/

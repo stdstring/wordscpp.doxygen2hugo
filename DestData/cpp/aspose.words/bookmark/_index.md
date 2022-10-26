@@ -1,7 +1,7 @@
 ---
 title: Bookmark
 second_title: Aspose.Words for C++ API Reference
-description: Represents a single bookmark. 
+description: Represents a single bookmark.
 type: docs
 weight: 27
 url: /cpp/aspose.words/bookmark/

@@ -1,7 +1,7 @@
 ---
 title: FieldToa
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TOA field. 
+description: Implements the TOA field.
 type: docs
 weight: 1340
 url: /cpp/aspose.words.fields/fieldtoa/

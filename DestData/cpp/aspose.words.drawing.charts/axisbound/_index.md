@@ -1,7 +1,7 @@
 ---
 title: AxisBound
 second_title: Aspose.Words for C++ API Reference
-description: Represents minimum or maximum bound of axis values. 
+description: Represents minimum or maximum bound of axis values.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/axisbound/

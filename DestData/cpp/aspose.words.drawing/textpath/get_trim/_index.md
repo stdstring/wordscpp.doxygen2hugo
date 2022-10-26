@@ -1,7 +1,7 @@
 ---
 title: get_Trim
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether extra space is removed above and below the text. 
+description: Determines whether extra space is removed above and below the text.
 type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/textpath/get_trim/

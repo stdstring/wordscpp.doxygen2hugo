@@ -1,7 +1,7 @@
 ---
 title: PdfDigitalSignatureTimestampSettings
 second_title: Aspose.Words for C++ API Reference
-description: Initializes an instance of this class. 
+description: Initializes an instance of this class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/pdfdigitalsignaturetimestampsettings/

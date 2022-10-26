@@ -1,7 +1,7 @@
 ---
 title: PointToPixel
 second_title: Aspose.Words for C++ API Reference
-description: Converts points to pixels at 96 dpi. 
+description: Converts points to pixels at 96 dpi.
 type: docs
 weight: 66
 url: /cpp/aspose.words/convertutil/pointtopixel/

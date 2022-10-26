@@ -1,7 +1,7 @@
 ---
 title: GlossaryDocument
 second_title: Aspose.Words for C++ API Reference
-description: Represents the root element for a glossary document within a Word document. A glossary document is a storage for AutoText, AutoCorrect entries and Building Blocks. 
+description: Represents the root element for a glossary document within a Word document. A glossary document is a storage for AutoText, AutoCorrect entries and Building Blocks.
 type: docs
 weight: 27
 url: /cpp/aspose.words.buildingblocks/glossarydocument/

@@ -1,7 +1,7 @@
 ---
 title: PageSetup
 second_title: Aspose.Words for C++ API Reference
-description: Represents the page setup properties of a section. 
+description: Represents the page setup properties of a section.
 type: docs
 weight: 586
 url: /cpp/aspose.words/pagesetup/

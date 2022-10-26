@@ -1,7 +1,7 @@
 ---
 title: MoveToDocumentStart
 second_title: Aspose.Words for C++ API Reference
-description: Moves the cursor to the beginning of the document. 
+description: Moves the cursor to the beginning of the document.
 type: docs
 weight: 638
 url: /cpp/aspose.words/documentbuilder/movetodocumentstart/

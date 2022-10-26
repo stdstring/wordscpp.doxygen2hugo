@@ -1,7 +1,7 @@
 ---
 title: set_MovedFromTextEffect
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Layout::RevisionOptions::get_MovedFromTextEffect. 
+description: 'Setter for Aspose::Words::Layout::RevisionOptions::get_MovedFromTextEffect.'
 type: docs
 weight: 339
 url: /cpp/aspose.words.layout/revisionoptions/set_movedfromtexteffect/

@@ -1,7 +1,7 @@
 ---
 title: get_Result
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a string that represents the result of this form field. 
+description: Gets or sets a string that represents the result of this form field.
 type: docs
 weight: 222
 url: /cpp/aspose.words.fields/formfield/get_result/

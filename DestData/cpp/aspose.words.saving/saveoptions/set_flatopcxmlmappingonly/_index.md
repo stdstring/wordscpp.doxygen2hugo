@@ -1,7 +1,7 @@
 ---
 title: set_FlatOpcXmlMappingOnly
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly. 
+description: 'Setter for Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly.'
 type: docs
 weight: 365
 url: /cpp/aspose.words.saving/saveoptions/set_flatopcxmlmappingonly/

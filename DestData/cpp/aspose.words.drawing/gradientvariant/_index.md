@@ -1,7 +1,7 @@
 ---
 title: GradientVariant
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the variant for a gradient fill. 
+description: Specifies the variant for a gradient fill.
 type: docs
 weight: 313
 url: /cpp/aspose.words.drawing/gradientvariant/

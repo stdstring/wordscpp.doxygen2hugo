@@ -1,7 +1,7 @@
 ---
 title: Border
 second_title: Aspose.Words for C++ API Reference
-description: Represents a border of an object. 
+description: Represents a border of an object.
 type: docs
 weight: 79
 url: /cpp/aspose.words/border/

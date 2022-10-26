@@ -1,7 +1,7 @@
 ---
 title: TableCollection
 second_title: Aspose.Words for C++ API Reference
-description: Provides typed access to a collection of Table nodes. 
+description: Provides typed access to a collection of Table nodes.
 type: docs
 weight: 105
 url: /cpp/aspose.words.tables/tablecollection/

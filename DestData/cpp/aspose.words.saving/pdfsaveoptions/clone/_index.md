@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Creates a deep clone of this object. 
+description: Creates a deep clone of this object.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pdfsaveoptions/clone/

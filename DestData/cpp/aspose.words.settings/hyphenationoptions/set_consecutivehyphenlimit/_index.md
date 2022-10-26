@@ -1,7 +1,7 @@
 ---
 title: set_ConsecutiveHyphenLimit
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit. 
+description: 'Setter for Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit.'
 type: docs
 weight: 79
 url: /cpp/aspose.words.settings/hyphenationoptions/set_consecutivehyphenlimit/

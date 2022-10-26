@@ -1,7 +1,7 @@
 ---
 title: FieldKeywords
 second_title: Aspose.Words for C++ API Reference
-description: Implements the KEYWORDS field. 
+description: Implements the KEYWORDS field.
 type: docs
 weight: 781
 url: /cpp/aspose.words.fields/fieldkeywords/

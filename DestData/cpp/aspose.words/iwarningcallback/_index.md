@@ -1,7 +1,7 @@
 ---
 title: IWarningCallback
 second_title: Aspose.Words for C++ API Reference
-description: Implement this interface if you want to have your own custom method called to capture loss of fidelity warnings that can occur during document loading or saving. 
+description: Implement this interface if you want to have your own custom method called to capture loss of fidelity warnings that can occur during document loading or saving.
 type: docs
 weight: 1028
 url: /cpp/aspose.words/iwarningcallback/

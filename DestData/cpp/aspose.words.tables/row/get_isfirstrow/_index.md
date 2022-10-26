@@ -1,7 +1,7 @@
 ---
 title: get_IsFirstRow
 second_title: Aspose.Words for C++ API Reference
-description: True if this is the first row in a table; false otherwise. 
+description: True if this is the first row in a table; false otherwise.
 type: docs
 weight: 66
 url: /cpp/aspose.words.tables/row/get_isfirstrow/

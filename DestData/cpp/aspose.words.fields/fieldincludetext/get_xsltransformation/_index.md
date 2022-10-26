@@ -1,7 +1,7 @@
 ---
 title: get_XslTransformation
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the location of XSL Transformation to format XML data. 
+description: Gets or sets the location of XSL Transformation to format XML data.
 type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fieldincludetext/get_xsltransformation/

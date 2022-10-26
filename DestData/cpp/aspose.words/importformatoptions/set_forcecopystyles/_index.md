@@ -1,7 +1,7 @@
 ---
 title: set_ForceCopyStyles
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::ImportFormatOptions::get_ForceCopyStyles. 
+description: 'Setter for Aspose::Words::ImportFormatOptions::get_ForceCopyStyles.'
 type: docs
 weight: 92
 url: /cpp/aspose.words/importformatoptions/set_forcecopystyles/

@@ -1,7 +1,7 @@
 ---
 title: set_MovedFromTextColor
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Layout::RevisionOptions::get_MovedFromTextColor. 
+description: 'Setter for Aspose::Words::Layout::RevisionOptions::get_MovedFromTextColor.'
 type: docs
 weight: 326
 url: /cpp/aspose.words.layout/revisionoptions/set_movedfromtextcolor/

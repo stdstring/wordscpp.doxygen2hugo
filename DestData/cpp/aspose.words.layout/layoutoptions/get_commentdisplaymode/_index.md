@@ -1,7 +1,7 @@
 ---
 title: get_CommentDisplayMode
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the way comments are rendered. Default value is ShowInBalloons. 
+description: Gets or sets the way comments are rendered. Default value is ShowInBalloons.
 type: docs
 weight: 27
 url: /cpp/aspose.words.layout/layoutoptions/get_commentdisplaymode/

@@ -1,7 +1,7 @@
 ---
 title: get_OriginalFileName
 second_title: Aspose.Words for C++ API Reference
-description: The name of the CHM file. Default value is null. 
+description: The name of the CHM file. Default value is null.
 type: docs
 weight: 14
 url: /cpp/aspose.words.loading/chmloadoptions/get_originalfilename/

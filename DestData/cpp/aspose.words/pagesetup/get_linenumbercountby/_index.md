@@ -1,7 +1,7 @@
 ---
 title: get_LineNumberCountBy
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the numeric increment for line numbers. 
+description: Returns or sets the numeric increment for line numbers.
 type: docs
 weight: 274
 url: /cpp/aspose.words/pagesetup/get_linenumbercountby/

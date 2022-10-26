@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.FormField. 
+description: Returns NodeType.FormField.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/formfield/get_nodetype/

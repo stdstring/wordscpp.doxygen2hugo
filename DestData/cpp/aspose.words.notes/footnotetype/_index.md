@@ -1,7 +1,7 @@
 ---
 title: FootnoteType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether this is a footnote or an endnote. 
+description: Specifies whether this is a footnote or an endnote.
 type: docs
 weight: 79
 url: /cpp/aspose.words.notes/footnotetype/

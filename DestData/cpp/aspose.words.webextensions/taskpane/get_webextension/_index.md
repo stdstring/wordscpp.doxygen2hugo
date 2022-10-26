@@ -1,7 +1,7 @@
 ---
 title: get_WebExtension
 second_title: Aspose.Words for C++ API Reference
-description: Represents an web extension object. 
+description: Represents an web extension object.
 type: docs
 weight: 66
 url: /cpp/aspose.words.webextensions/taskpane/get_webextension/

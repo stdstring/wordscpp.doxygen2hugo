@@ -1,7 +1,7 @@
 ---
 title: get_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the location of the document. 
+description: Gets or sets the location of the document.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldinclude/get_sourcefullname/

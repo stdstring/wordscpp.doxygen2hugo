@@ -1,7 +1,7 @@
 ---
 title: NodeImporter
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the NodeImporter class. 
+description: Initializes a new instance of the NodeImporter class.
 type: docs
 weight: 1
 url: /cpp/aspose.words/nodeimporter/nodeimporter/

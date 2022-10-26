@@ -1,7 +1,7 @@
 ---
 title: ContainsKey
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether a mapping from the specified field in the document exists in the collection. 
+description: Determines whether a mapping from the specified field in the document exists in the collection.
 type: docs
 weight: 66
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/containskey/

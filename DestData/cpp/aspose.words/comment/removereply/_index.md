@@ -1,7 +1,7 @@
 ---
 title: RemoveReply
 second_title: Aspose.Words for C++ API Reference
-description: Removes the specified reply to this comment. 
+description: Removes the specified reply to this comment.
 type: docs
 weight: 170
 url: /cpp/aspose.words/comment/removereply/

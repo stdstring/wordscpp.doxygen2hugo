@@ -1,7 +1,7 @@
 ---
 title: get_EndField
 second_title: Aspose.Words for C++ API Reference
-description: Returns an end field for the region. 
+description: Returns an end field for the region.
 type: docs
 weight: 1
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_endfield/

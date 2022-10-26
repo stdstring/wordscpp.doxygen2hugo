@@ -1,7 +1,7 @@
 ---
 title: FieldAutoNum
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTONUM field. 
+description: Implements the AUTONUM field.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldautonum/

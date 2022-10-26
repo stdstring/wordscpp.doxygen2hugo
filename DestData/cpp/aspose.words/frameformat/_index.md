@@ -1,7 +1,7 @@
 ---
 title: FrameFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents frame related formatting for a paragraph. 
+description: Represents frame related formatting for a paragraph.
 type: docs
 weight: 378
 url: /cpp/aspose.words/frameformat/

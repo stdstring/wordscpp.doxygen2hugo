@@ -1,7 +1,7 @@
 ---
 title: TextWrapping
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how text is wrapped around the table. 
+description: Specifies how text is wrapped around the table.
 type: docs
 weight: 196
 url: /cpp/aspose.words.tables/textwrapping/

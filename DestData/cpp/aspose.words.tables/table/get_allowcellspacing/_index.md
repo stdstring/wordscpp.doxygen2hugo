@@ -1,7 +1,7 @@
 ---
 title: get_AllowCellSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the "Allow spacing between cells" option. 
+description: Gets or sets the "Allow spacing between cells" option.
 type: docs
 weight: 144
 url: /cpp/aspose.words.tables/table/get_allowcellspacing/
