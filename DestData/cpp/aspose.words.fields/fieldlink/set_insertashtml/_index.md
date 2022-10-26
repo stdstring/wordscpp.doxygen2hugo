@@ -1,7 +1,7 @@
 ---
 title: set_InsertAsHtml
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldLink::get_InsertAsHtml. 
+description: 'Setter for Aspose::Words::Fields::FieldLink::get_InsertAsHtml.'
 type: docs
 weight: 196
 url: /cpp/aspose.words.fields/fieldlink/set_insertashtml/

@@ -1,7 +1,7 @@
 ---
 title: ResourceType
 second_title: Aspose.Words for C++ API Reference
-description: Type of loaded resource. 
+description: Type of loaded resource.
 type: docs
 weight: 209
 url: /cpp/aspose.words.loading/resourcetype/

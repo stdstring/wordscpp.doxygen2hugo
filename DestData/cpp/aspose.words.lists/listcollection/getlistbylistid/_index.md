@@ -1,7 +1,7 @@
 ---
 title: GetListByListId
 second_title: Aspose.Words for C++ API Reference
-description: Gets a list by a list identifier. 
+description: Gets a list by a list identifier.
 type: docs
 weight: 118
 url: /cpp/aspose.words.lists/listcollection/getlistbylistid/

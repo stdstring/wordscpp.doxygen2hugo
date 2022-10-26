@@ -1,7 +1,7 @@
 ---
 title: get_Values
 second_title: Aspose.Words for C++ API Reference
-description: Gets values that belong to this row. 
+description: Gets values that belong to this row.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fielddatabasedatarow/get_values/

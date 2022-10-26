@@ -1,7 +1,7 @@
 ---
 title: set_FrameDefaultUrl
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl. 
+description: 'Setter for Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl.'
 type: docs
 weight: 53
 url: /cpp/aspose.words.framesets/frameset/set_framedefaulturl/

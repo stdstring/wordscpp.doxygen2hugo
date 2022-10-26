@@ -1,7 +1,7 @@
 ---
 title: get_OutlineOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify outline options. 
+description: Allows to specify outline options.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/xpssaveoptions/get_outlineoptions/

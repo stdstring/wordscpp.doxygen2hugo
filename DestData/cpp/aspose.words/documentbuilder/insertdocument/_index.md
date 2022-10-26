@@ -1,7 +1,7 @@
 ---
 title: InsertDocument
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a document at the cursor position. 
+description: Inserts a document at the cursor position.
 type: docs
 weight: 365
 url: /cpp/aspose.words/documentbuilder/insertdocument/

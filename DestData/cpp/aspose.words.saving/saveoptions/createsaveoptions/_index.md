@@ -1,7 +1,7 @@
 ---
 title: CreateSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Creates a save options object of a class suitable for the specified save format. 
+description: Creates a save options object of a class suitable for the specified save format.
 type: docs
 weight: 547
 url: /cpp/aspose.words.saving/saveoptions/createsaveoptions/

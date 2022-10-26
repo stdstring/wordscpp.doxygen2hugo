@@ -1,7 +1,7 @@
 ---
 title: set_Password
 second_title: Aspose.Words for C++ API Reference
-description: Timestamp server password. 
+description: Timestamp server password.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_password/

@@ -1,7 +1,7 @@
 ---
 title: set_ZoomFactor
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::PdfSaveOptions::get_ZoomFactor. 
+description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_ZoomFactor.'
 type: docs
 weight: 755
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_zoomfactor/

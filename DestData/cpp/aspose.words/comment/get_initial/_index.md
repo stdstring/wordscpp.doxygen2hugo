@@ -1,7 +1,7 @@
 ---
 title: get_Initial
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the initials of the user associated with a specific comment. 
+description: Returns or sets the initials of the user associated with a specific comment.
 type: docs
 weight: 105
 url: /cpp/aspose.words/comment/get_initial/

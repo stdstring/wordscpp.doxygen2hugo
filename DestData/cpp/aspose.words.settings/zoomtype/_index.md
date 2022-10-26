@@ -1,7 +1,7 @@
 ---
 title: ZoomType
 second_title: Aspose.Words for C++ API Reference
-description: Possible values for how large or small the document appears on the screen in Microsoft Word. 
+description: Possible values for how large or small the document appears on the screen in Microsoft Word.
 type: docs
 weight: 261
 url: /cpp/aspose.words.settings/zoomtype/

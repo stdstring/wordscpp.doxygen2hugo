@@ -1,7 +1,7 @@
 ---
 title: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Returns the name of region. 
+description: Returns the name of region.
 type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_name/

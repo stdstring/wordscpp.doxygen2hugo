@@ -1,7 +1,7 @@
 ---
 title: SignatureLine
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to signature line properties. 
+description: Provides access to signature line properties.
 type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/signatureline/

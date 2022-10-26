@@ -1,7 +1,7 @@
 ---
 title: set_UpdateDirtyFields
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields. 
+description: 'Setter for Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields.'
 type: docs
 weight: 391
 url: /cpp/aspose.words.loading/loadoptions/set_updatedirtyfields/

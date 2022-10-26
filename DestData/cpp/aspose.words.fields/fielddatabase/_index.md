@@ -1,7 +1,7 @@
 ---
 title: FieldDatabase
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DATABASE field. 
+description: Implements the DATABASE field.
 type: docs
 weight: 352
 url: /cpp/aspose.words.fields/fielddatabase/

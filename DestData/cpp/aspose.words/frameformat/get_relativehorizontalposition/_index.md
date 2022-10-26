@@ -1,7 +1,7 @@
 ---
 title: get_RelativeHorizontalPosition
 second_title: Aspose.Words for C++ API Reference
-description: Gets the relative horizontal position of a frame. 
+description: Gets the relative horizontal position of a frame.
 type: docs
 weight: 79
 url: /cpp/aspose.words/frameformat/get_relativehorizontalposition/

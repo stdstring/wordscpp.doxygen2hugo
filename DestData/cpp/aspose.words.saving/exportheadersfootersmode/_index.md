@@ -1,7 +1,7 @@
 ---
 title: ExportHeadersFootersMode
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how headers and footers are exported to HTML, MHTML or EPUB. 
+description: Specifies how headers and footers are exported to HTML, MHTML or EPUB.
 type: docs
 weight: 703
 url: /cpp/aspose.words.saving/exportheadersfootersmode/

@@ -1,7 +1,7 @@
 ---
 title: ControlChar
 second_title: Aspose.Words for C++ API Reference
-description: Control characters often encountered in documents. 
+description: Control characters often encountered in documents.
 type: docs
 weight: 222
 url: /cpp/aspose.words/controlchar/

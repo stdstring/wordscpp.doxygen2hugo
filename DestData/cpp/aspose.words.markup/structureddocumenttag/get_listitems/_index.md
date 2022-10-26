@@ -1,7 +1,7 @@
 ---
 title: get_ListItems
 second_title: Aspose.Words for C++ API Reference
-description: Gets SdtListItemCollection associated with this SDT. 
+description: Gets SdtListItemCollection associated with this SDT.
 type: docs
 weight: 248
 url: /cpp/aspose.words.markup/structureddocumenttag/get_listitems/

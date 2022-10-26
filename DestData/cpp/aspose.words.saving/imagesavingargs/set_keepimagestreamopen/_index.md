@@ -1,7 +1,7 @@
 ---
 title: set_KeepImageStreamOpen
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen. 
+description: 'Setter for Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen.'
 type: docs
 weight: 105
 url: /cpp/aspose.words.saving/imagesavingargs/set_keepimagestreamopen/

@@ -1,7 +1,7 @@
 ---
 title: GetOpaqueBoundsInPixels
 second_title: Aspose.Words for C++ API Reference
-description: Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution. 
+description: Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution.
 type: docs
 weight: 66
 url: /cpp/aspose.words.rendering/noderendererbase/getopaqueboundsinpixels/

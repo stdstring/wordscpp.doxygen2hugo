@@ -1,7 +1,7 @@
 ---
 title: FieldEndChar
 second_title: Aspose.Words for C++ API Reference
-description: End of MS Word field character: (char)21. 
+description: 'End of MS Word field character: (char)21.'
 type: docs
 weight: 209
 url: /cpp/aspose.words/controlchar/fieldendchar/

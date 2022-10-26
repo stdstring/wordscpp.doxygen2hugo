@@ -1,7 +1,7 @@
 ---
 title: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Resets to default cell formatting. Does not change the width of the cell. 
+description: Resets to default cell formatting. Does not change the width of the cell.
 type: docs
 weight: 1
 url: /cpp/aspose.words.tables/cellformat/clearformatting/

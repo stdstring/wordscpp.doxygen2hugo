@@ -1,7 +1,7 @@
 ---
-title: Aspose::Words::Rendering
+title: 'Aspose::Words::Rendering'
 second_title: Aspose.Words for C++ API Reference
-description: The Aspose.Words.Rendering namespace provides classes that allow to customize printing or rendering of documents. 
+description: The Aspose.Words.Rendering namespace provides classes that allow to customize printing or rendering of documents.
 type: docs
 weight: 222
 url: /cpp/aspose.words.rendering/

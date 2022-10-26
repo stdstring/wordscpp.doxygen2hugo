@@ -1,7 +1,7 @@
 ---
 title: get_AddBidiMarks
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is false. 
+description: Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is false.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/txtsaveoptions/get_addbidimarks/

@@ -1,7 +1,7 @@
 ---
 title: Stroke
 second_title: Aspose.Words for C++ API Reference
-description: Defines a stroke for a shape. 
+description: Defines a stroke for a shape.
 type: docs
 weight: 170
 url: /cpp/aspose.words.drawing/stroke/

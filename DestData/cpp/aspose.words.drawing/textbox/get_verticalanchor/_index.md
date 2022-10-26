@@ -1,7 +1,7 @@
 ---
 title: get_VerticalAnchor
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the vertical alignment of the text within a shape. 
+description: Specifies the vertical alignment of the text within a shape.
 type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/textbox/get_verticalanchor/

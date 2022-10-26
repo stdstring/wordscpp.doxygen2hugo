@@ -1,7 +1,7 @@
 ---
 title: set_PostalAddress
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldBarcode::get_PostalAddress. 
+description: 'Setter for Aspose::Words::Fields::FieldBarcode::get_PostalAddress.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldbarcode/set_postaladdress/

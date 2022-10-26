@@ -1,7 +1,7 @@
 ---
 title: FieldToc
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TOC field. 
+description: Implements the TOC field.
 type: docs
 weight: 1353
 url: /cpp/aspose.words.fields/fieldtoc/

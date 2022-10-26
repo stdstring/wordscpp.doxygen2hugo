@@ -1,7 +1,7 @@
 ---
 title: set_Instructions
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::SignatureLine::get_Instructions. 
+description: 'Setter for Aspose::Words::Drawing::SignatureLine::get_Instructions.'
 type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/signatureline/set_instructions/

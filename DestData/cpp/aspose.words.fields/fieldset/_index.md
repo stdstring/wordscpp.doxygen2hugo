@@ -1,7 +1,7 @@
 ---
 title: FieldSet
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SET field. 
+description: Implements the SET field.
 type: docs
 weight: 1184
 url: /cpp/aspose.words.fields/fieldset/

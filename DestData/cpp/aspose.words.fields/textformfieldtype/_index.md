@@ -1,7 +1,7 @@
 ---
 title: TextFormFieldType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of a text form field. 
+description: Specifies the type of a text form field.
 type: docs
 weight: 1704
 url: /cpp/aspose.words.fields/textformfieldtype/

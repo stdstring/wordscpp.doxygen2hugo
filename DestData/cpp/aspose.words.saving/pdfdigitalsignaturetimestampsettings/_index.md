@@ -1,7 +1,7 @@
 ---
 title: PdfDigitalSignatureTimestampSettings
 second_title: Aspose.Words for C++ API Reference
-description: Contains settings of the digital signature timestamp. 
+description: Contains settings of the digital signature timestamp.
 type: docs
 weight: 287
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/

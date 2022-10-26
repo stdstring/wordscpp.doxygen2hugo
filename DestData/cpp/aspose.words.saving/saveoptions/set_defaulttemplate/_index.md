@@ -1,7 +1,7 @@
 ---
 title: set_DefaultTemplate
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate. 
+description: 'Setter for Aspose::Words::Saving::SaveOptions::get_DefaultTemplate.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/saveoptions/set_defaulttemplate/

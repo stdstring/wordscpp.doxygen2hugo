@@ -1,7 +1,7 @@
 ---
 title: get_CoordOrigin
 second_title: Aspose.Words for C++ API Reference
-description: The coordinates at the top-left corner of the containing block of this shape. 
+description: The coordinates at the top-left corner of the containing block of this shape.
 type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/shapebase/get_coordorigin/

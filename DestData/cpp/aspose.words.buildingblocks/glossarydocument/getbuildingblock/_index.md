@@ -1,7 +1,7 @@
 ---
 title: GetBuildingBlock
 second_title: Aspose.Words for C++ API Reference
-description: Finds a building block using the specified gallery, category and name. 
+description: Finds a building block using the specified gallery, category and name.
 type: docs
 weight: 66
 url: /cpp/aspose.words.buildingblocks/glossarydocument/getbuildingblock/

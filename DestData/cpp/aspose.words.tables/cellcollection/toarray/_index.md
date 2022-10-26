@@ -1,7 +1,7 @@
 ---
 title: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Copies all cells from the collection to a new array of cells. 
+description: Copies all cells from the collection to a new array of cells.
 type: docs
 weight: 14
 url: /cpp/aspose.words.tables/cellcollection/toarray/

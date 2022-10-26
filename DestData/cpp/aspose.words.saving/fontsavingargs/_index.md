@@ -1,7 +1,7 @@
 ---
 title: FontSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the FontSaving() event. 
+description: Provides data for the FontSaving() event.
 type: docs
 weight: 92
 url: /cpp/aspose.words.saving/fontsavingargs/

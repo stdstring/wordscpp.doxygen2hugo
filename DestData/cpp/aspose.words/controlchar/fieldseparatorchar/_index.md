@@ -1,7 +1,7 @@
 ---
 title: FieldSeparatorChar
 second_title: Aspose.Words for C++ API Reference
-description: Field separator character separates field code from field value. Optional in some fields. Value: (char)20. 
+description: 'Field separator character separates field code from field value. Optional in some fields. Value: (char)20.'
 type: docs
 weight: 222
 url: /cpp/aspose.words/controlchar/fieldseparatorchar/

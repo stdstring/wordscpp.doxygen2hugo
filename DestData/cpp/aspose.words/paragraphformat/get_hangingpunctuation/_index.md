@@ -1,7 +1,7 @@
 ---
 title: get_HangingPunctuation
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a flag indicating whether hanging punctuation is enabled for the current paragraph. 
+description: Gets or sets a flag indicating whether hanging punctuation is enabled for the current paragraph.
 type: docs
 weight: 157
 url: /cpp/aspose.words/paragraphformat/get_hangingpunctuation/

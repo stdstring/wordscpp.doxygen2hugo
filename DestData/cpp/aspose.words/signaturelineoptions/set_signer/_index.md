@@ -1,7 +1,7 @@
 ---
 title: set_Signer
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::SignatureLineOptions::get_Signer. 
+description: 'Setter for Aspose::Words::SignatureLineOptions::get_Signer.'
 type: docs
 weight: 170
 url: /cpp/aspose.words/signaturelineoptions/set_signer/

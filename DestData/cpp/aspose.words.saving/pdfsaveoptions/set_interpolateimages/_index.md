@@ -1,7 +1,7 @@
 ---
 title: set_InterpolateImages
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::PdfSaveOptions::get_InterpolateImages. 
+description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_InterpolateImages.'
 type: docs
 weight: 612
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_interpolateimages/

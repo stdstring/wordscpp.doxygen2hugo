@@ -1,7 +1,7 @@
 ---
 title: get_IsLink
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if the OLE object is linked (when SourceFullName is specified). 
+description: Returns true if the OLE object is linked (when SourceFullName is specified).
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/oleformat/get_islink/

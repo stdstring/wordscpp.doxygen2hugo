@@ -1,7 +1,7 @@
 ---
 title: set_OwnHelp
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FormField::get_OwnHelp. 
+description: 'Setter for Aspose::Words::Fields::FormField::get_OwnHelp.'
 type: docs
 weight: 469
 url: /cpp/aspose.words.fields/formfield/set_ownhelp/

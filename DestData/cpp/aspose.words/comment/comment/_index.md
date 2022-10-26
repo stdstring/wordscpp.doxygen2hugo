@@ -1,7 +1,7 @@
 ---
 title: Comment
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Comment class. 
+description: Initializes a new instance of the Comment class.
 type: docs
 weight: 1
 url: /cpp/aspose.words/comment/comment/

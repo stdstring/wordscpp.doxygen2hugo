@@ -1,7 +1,7 @@
 ---
 title: set_Text
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Text. 
+description: 'Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Text.'
 type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/charttitle/set_text/

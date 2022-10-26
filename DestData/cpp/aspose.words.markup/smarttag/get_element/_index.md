@@ -1,7 +1,7 @@
 ---
 title: get_Element
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the name of the smart tag within the document. 
+description: Specifies the name of the smart tag within the document.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/smarttag/get_element/

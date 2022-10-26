@@ -1,7 +1,7 @@
 ---
 title: EmfPlusDualRenderingMode
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how Aspose.Words should render EMF+ Dual metafiles. 
+description: Specifies how Aspose.Words should render EMF+ Dual metafiles.
 type: docs
 weight: 677
 url: /cpp/aspose.words.saving/emfplusdualrenderingmode/

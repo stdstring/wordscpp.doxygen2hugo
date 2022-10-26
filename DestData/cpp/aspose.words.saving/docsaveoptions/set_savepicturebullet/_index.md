@@ -1,7 +1,7 @@
 ---
 title: set_SavePictureBullet
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet. 
+description: 'Setter for Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet.'
 type: docs
 weight: 118
 url: /cpp/aspose.words.saving/docsaveoptions/set_savepicturebullet/

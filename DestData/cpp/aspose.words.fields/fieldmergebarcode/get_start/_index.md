@@ -1,7 +1,7 @@
 ---
 title: get_Start
 second_title: Aspose.Words for C++ API Reference
-description: Gets the node that represents the start of the field. 
+description: Gets the node that represents the start of the field.
 type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldmergebarcode/get_start/

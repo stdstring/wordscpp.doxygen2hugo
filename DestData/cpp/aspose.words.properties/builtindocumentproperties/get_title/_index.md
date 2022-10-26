@@ -1,7 +1,7 @@
 ---
 title: get_Title
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the title of the document. 
+description: Gets or sets the title of the document.
 type: docs
 weight: 352
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_title/

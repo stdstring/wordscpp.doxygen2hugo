@@ -1,7 +1,7 @@
 ---
 title: get_LastRow
 second_title: Aspose.Words for C++ API Reference
-description: Gets the last row style. 
+description: Gets the last row style.
 type: docs
 weight: 118
 url: /cpp/aspose.words/conditionalstylecollection/get_lastrow/

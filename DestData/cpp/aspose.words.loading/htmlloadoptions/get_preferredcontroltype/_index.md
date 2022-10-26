@@ -1,7 +1,7 @@
 ---
 title: get_PreferredControlType
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets preferred type of document nodes that will represent imported <input> and <select> elements. Default value is FormField. 
+description: Gets or sets preferred type of document nodes that will represent imported <input> and <select> elements. Default value is FormField.
 type: docs
 weight: 53
 url: /cpp/aspose.words.loading/htmlloadoptions/get_preferredcontroltype/

@@ -1,7 +1,7 @@
 ---
 title: WebExtensionPropertyCollection
 second_title: Aspose.Words for C++ API Reference
-description: Specifies a set of web extension custom properties. 
+description: Specifies a set of web extension custom properties.
 type: docs
 weight: 92
 url: /cpp/aspose.words.webextensions/webextensionpropertycollection/

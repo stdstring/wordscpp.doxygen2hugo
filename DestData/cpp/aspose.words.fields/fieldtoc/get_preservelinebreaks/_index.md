@@ -1,7 +1,7 @@
 ---
 title: get_PreserveLineBreaks
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to preserve newline characters within table entries. 
+description: Gets or sets whether to preserve newline characters within table entries.
 type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldtoc/get_preservelinebreaks/

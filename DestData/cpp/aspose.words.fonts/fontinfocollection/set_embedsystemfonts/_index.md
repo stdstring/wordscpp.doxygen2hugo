@@ -1,7 +1,7 @@
 ---
 title: set_EmbedSystemFonts
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts. 
+description: 'Setter for Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts.'
 type: docs
 weight: 144
 url: /cpp/aspose.words.fonts/fontinfocollection/set_embedsystemfonts/

@@ -1,7 +1,7 @@
 ---
 title: set_PageRangeBookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName. 
+description: 'Setter for Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName.'
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldta/set_pagerangebookmarkname/

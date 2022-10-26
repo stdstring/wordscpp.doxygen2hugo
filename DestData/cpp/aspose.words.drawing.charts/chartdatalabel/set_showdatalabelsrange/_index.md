@@ -1,7 +1,7 @@
 ---
 title: set_ShowDataLabelsRange
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowDataLabelsRange. 
+description: 'Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowDataLabelsRange.'
 type: docs
 weight: 235
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showdatalabelsrange/

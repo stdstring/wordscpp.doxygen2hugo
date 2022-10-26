@@ -1,7 +1,7 @@
 ---
 title: get_ZOrder
 second_title: Aspose.Words for C++ API Reference
-description: Determines the display order of overlapping shapes. 
+description: Determines the display order of overlapping shapes.
 type: docs
 weight: 716
 url: /cpp/aspose.words.drawing/shapebase/get_zorder/

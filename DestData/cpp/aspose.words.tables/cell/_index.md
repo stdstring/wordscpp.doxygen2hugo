@@ -1,7 +1,7 @@
 ---
 title: Cell
 second_title: Aspose.Words for C++ API Reference
-description: Represents a table cell. 
+description: Represents a table cell.
 type: docs
 weight: 1
 url: /cpp/aspose.words.tables/cell/

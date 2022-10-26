@@ -1,7 +1,7 @@
 ---
 title: get_Separator
 second_title: Aspose.Words for C++ API Reference
-description: Gets the node that represents the field separator. Can be null. 
+description: Gets the node that represents the field separator. Can be null.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldmacrobutton/get_separator/

@@ -1,7 +1,7 @@
 ---
 title: set_DateTime
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Revision::get_DateTime. 
+description: 'Setter for Aspose::Words::Revision::get_DateTime.'
 type: docs
 weight: 118
 url: /cpp/aspose.words/revision/set_datetime/

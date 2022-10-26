@@ -1,7 +1,7 @@
 ---
 title: get_DocumentFieldName
 second_title: Aspose.Words for C++ API Reference
-description: Gets the name of the merge field as specified in the document. 
+description: Gets the name of the merge field as specified in the document.
 type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_documentfieldname/

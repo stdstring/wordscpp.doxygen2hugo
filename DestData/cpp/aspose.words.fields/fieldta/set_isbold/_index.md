@@ -1,7 +1,7 @@
 ---
 title: set_IsBold
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldTA::get_IsBold. 
+description: 'Setter for Aspose::Words::Fields::FieldTA::get_IsBold.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldta/set_isbold/

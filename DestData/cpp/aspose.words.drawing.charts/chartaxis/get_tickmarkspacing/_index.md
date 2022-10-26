@@ -1,7 +1,7 @@
 ---
 title: get_TickMarkSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the interval, at which tick marks are drawn. 
+description: Gets or sets the interval, at which tick marks are drawn.
 type: docs
 weight: 313
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_tickmarkspacing/

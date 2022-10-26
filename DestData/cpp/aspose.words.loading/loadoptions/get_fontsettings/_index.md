@@ -1,7 +1,7 @@
 ---
 title: get_FontSettings
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify document font settings. 
+description: Allows to specify document font settings.
 type: docs
 weight: 79
 url: /cpp/aspose.words.loading/loadoptions/get_fontsettings/

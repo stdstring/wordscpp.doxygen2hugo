@@ -1,7 +1,7 @@
 ---
 title: get_LabelString
 second_title: Aspose.Words for C++ API Reference
-description: Gets a string representation of list label. 
+description: Gets a string representation of list label.
 type: docs
 weight: 14
 url: /cpp/aspose.words.lists/listlabel/get_labelstring/

@@ -1,7 +1,7 @@
 ---
 title: GetById
 second_title: Aspose.Words for C++ API Reference
-description: Finds and returns a custom XML part by its identifier. 
+description: Finds and returns a custom XML part by its identifier.
 type: docs
 weight: 118
 url: /cpp/aspose.words.markup/customxmlpartcollection/getbyid/

@@ -1,7 +1,7 @@
 ---
 title: set_IgnoreDeleted
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreDeleted. 
+description: 'Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreDeleted.'
 type: docs
 weight: 235
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignoredeleted/

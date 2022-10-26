@@ -1,7 +1,7 @@
 ---
 title: set_Document
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Layout::LayoutCollector::get_Document. 
+description: 'Setter for Aspose::Words::Layout::LayoutCollector::get_Document.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.layout/layoutcollector/set_document/

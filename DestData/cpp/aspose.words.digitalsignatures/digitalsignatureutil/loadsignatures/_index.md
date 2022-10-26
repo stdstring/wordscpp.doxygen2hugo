@@ -1,7 +1,7 @@
 ---
 title: LoadSignatures
 second_title: Aspose.Words for C++ API Reference
-description: Loads digital signatures from document using stream. 
+description: Loads digital signatures from document using stream.
 type: docs
 weight: 1
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/

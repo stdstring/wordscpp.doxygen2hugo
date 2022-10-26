@@ -1,7 +1,7 @@
 ---
 title: VbaReferenceCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of VbaReference objects. 
+description: Represents a collection of VbaReference objects.
 type: docs
 weight: 53
 url: /cpp/aspose.words.vba/vbareferencecollection/

@@ -1,7 +1,7 @@
 ---
 title: get_ColumnNames
 second_title: Aspose.Words for C++ API Reference
-description: Gets columns that belong to this table. 
+description: Gets columns that belong to this table.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fielddatabasedatatable/get_columnnames/

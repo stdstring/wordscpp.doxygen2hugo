@@ -1,7 +1,7 @@
 ---
 title: FieldTemplate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TEMPLATE field. 
+description: Implements the TEMPLATE field.
 type: docs
 weight: 1301
 url: /cpp/aspose.words.fields/fieldtemplate/

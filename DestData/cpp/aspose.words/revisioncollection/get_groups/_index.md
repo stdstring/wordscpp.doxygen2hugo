@@ -1,7 +1,7 @@
 ---
 title: get_Groups
 second_title: Aspose.Words for C++ API Reference
-description: Collection of revision groups. 
+description: Collection of revision groups.
 type: docs
 weight: 27
 url: /cpp/aspose.words/revisioncollection/get_groups/

@@ -1,7 +1,7 @@
 ---
 title: get_WarningType
 second_title: Aspose.Words for C++ API Reference
-description: Returns the type of the warning. 
+description: Returns the type of the warning.
 type: docs
 weight: 27
 url: /cpp/aspose.words/warninginfo/get_warningtype/

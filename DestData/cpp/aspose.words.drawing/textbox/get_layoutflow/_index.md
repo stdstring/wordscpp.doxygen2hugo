@@ -1,7 +1,7 @@
 ---
 title: get_LayoutFlow
 second_title: Aspose.Words for C++ API Reference
-description: Determines the flow of the text layout in a shape. 
+description: Determines the flow of the text layout in a shape.
 type: docs
 weight: 79
 url: /cpp/aspose.words.drawing/textbox/get_layoutflow/

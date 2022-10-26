@@ -1,7 +1,7 @@
 ---
 title: get_FileName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets OLE Package file name. 
+description: Gets or sets OLE Package file name.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/olepackage/get_filename/

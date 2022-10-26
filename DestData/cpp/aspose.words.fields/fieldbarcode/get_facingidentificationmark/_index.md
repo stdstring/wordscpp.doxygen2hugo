@@ -1,7 +1,7 @@
 ---
 title: get_FacingIdentificationMark
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the type of a Facing Identification Mark (FIM) to insert. 
+description: Gets or sets the type of a Facing Identification Mark (FIM) to insert.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldbarcode/get_facingidentificationmark/

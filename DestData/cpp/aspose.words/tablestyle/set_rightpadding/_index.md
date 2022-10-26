@@ -1,7 +1,7 @@
 ---
 title: set_RightPadding
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::TableStyle::get_RightPadding. 
+description: 'Setter for Aspose::Words::TableStyle::get_RightPadding.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/tablestyle/set_rightpadding/

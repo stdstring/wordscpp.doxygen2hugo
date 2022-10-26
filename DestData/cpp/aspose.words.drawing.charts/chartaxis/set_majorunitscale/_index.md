@@ -1,7 +1,7 @@
 ---
 title: set_MajorUnitScale
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitScale. 
+description: 'Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitScale.'
 type: docs
 weight: 456
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_majorunitscale/

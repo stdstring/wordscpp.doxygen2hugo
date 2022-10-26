@@ -1,7 +1,7 @@
 ---
 title: set_Subject
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject. 
+description: 'Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject.'
 type: docs
 weight: 742
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_subject/

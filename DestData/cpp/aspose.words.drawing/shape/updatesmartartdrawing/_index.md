@@ -1,7 +1,7 @@
 ---
 title: UpdateSmartArtDrawing
 second_title: Aspose.Words for C++ API Reference
-description: Updates SmartArt pre-rendered drawing by using Aspose.Words's SmartArt cold rendering engine. 
+description: Updates SmartArt pre-rendered drawing by using Aspose.Words's SmartArt cold rendering engine.
 type: docs
 weight: 378
 url: /cpp/aspose.words.drawing/shape/updatesmartartdrawing/

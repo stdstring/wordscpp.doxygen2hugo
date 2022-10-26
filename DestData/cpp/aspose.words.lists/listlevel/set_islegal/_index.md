@@ -1,7 +1,7 @@
 ---
 title: set_IsLegal
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Lists::ListLevel::get_IsLegal. 
+description: 'Setter for Aspose::Words::Lists::ListLevel::get_IsLegal.'
 type: docs
 weight: 248
 url: /cpp/aspose.words.lists/listlevel/set_islegal/

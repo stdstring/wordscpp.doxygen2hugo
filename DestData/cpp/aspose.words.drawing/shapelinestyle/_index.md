@@ -1,7 +1,7 @@
 ---
 title: ShapeLineStyle
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the compound line style of a Shape. 
+description: Specifies the compound line style of a Shape.
 type: docs
 weight: 456
 url: /cpp/aspose.words.drawing/shapelinestyle/

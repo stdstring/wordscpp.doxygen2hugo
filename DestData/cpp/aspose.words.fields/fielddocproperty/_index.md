@@ -1,7 +1,7 @@
 ---
 title: FieldDocProperty
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DOCPROPERTY field. 
+description: Implements the DOCPROPERTY field.
 type: docs
 weight: 443
 url: /cpp/aspose.words.fields/fielddocproperty/

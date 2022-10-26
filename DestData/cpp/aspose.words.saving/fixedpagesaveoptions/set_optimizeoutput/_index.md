@@ -1,7 +1,7 @@
 ---
 title: set_OptimizeOutput
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput. 
+description: 'Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput.'
 type: docs
 weight: 157
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_optimizeoutput/

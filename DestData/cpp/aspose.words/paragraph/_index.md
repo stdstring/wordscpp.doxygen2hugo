@@ -1,7 +1,7 @@
 ---
 title: Paragraph
 second_title: Aspose.Words for C++ API Reference
-description: Represents a paragraph of text. 
+description: Represents a paragraph of text.
 type: docs
 weight: 599
 url: /cpp/aspose.words/paragraph/

@@ -1,7 +1,7 @@
 ---
 title: SmartTag
 second_title: Aspose.Words for C++ API Reference
-description: This element specifies the presence of a smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph. 
+description: This element specifies the presence of a smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.
 type: docs
 weight: 118
 url: /cpp/aspose.words.markup/smarttag/

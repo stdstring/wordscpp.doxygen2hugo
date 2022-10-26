@@ -1,7 +1,7 @@
 ---
 title: set_TextConverter
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldInclude::get_TextConverter. 
+description: 'Setter for Aspose::Words::Fields::FieldInclude::get_TextConverter.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldinclude/set_textconverter/

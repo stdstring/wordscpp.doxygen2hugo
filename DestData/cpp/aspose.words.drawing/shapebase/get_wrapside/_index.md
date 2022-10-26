@@ -1,7 +1,7 @@
 ---
 title: get_WrapSide
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how the text is wrapped around the shape. 
+description: Specifies how the text is wrapped around the shape.
 type: docs
 weight: 690
 url: /cpp/aspose.words.drawing/shapebase/get_wrapside/

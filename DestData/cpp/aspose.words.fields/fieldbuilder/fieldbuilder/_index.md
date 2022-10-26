@@ -1,7 +1,7 @@
 ---
 title: FieldBuilder
 second_title: Aspose.Words for C++ API Reference
-description: Initializes an instance of the FieldBuilder class. 
+description: Initializes an instance of the FieldBuilder class.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldbuilder/fieldbuilder/

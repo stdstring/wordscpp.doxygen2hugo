@@ -1,7 +1,7 @@
 ---
 title: set_SuppressTopSpacingWP
 second_title: Aspose.Words for C++ API Reference
-description: Emulate WordPerfect 5.x Line Spacing. 
+description: Emulate WordPerfect 5.x Line Spacing.
 type: docs
 weight: 1600
 url: /cpp/aspose.words.settings/compatibilityoptions/set_suppresstopspacingwp/

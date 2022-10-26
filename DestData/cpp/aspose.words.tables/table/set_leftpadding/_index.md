@@ -1,7 +1,7 @@
 ---
 title: set_LeftPadding
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Tables::Table::get_LeftPadding. 
+description: 'Setter for Aspose::Words::Tables::Table::get_LeftPadding.'
 type: docs
 weight: 664
 url: /cpp/aspose.words.tables/table/set_leftpadding/

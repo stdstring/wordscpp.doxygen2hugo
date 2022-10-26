@@ -1,7 +1,7 @@
 ---
 title: get_Outline
 second_title: Aspose.Words for C++ API Reference
-description: True if the font is formatted as outline. 
+description: True if the font is formatted as outline.
 type: docs
 weight: 378
 url: /cpp/aspose.words/font/get_outline/

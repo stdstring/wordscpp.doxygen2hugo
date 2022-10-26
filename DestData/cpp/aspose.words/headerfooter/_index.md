@@ -1,7 +1,7 @@
 ---
 title: HeaderFooter
 second_title: Aspose.Words for C++ API Reference
-description: Represents a container for the header or footer text of a section. 
+description: Represents a container for the header or footer text of a section.
 type: docs
 weight: 391
 url: /cpp/aspose.words/headerfooter/

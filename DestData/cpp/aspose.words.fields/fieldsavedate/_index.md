@@ -1,7 +1,7 @@
 ---
 title: FieldSaveDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SAVEDATE field. 
+description: Implements the SAVEDATE field.
 type: docs
 weight: 1119
 url: /cpp/aspose.words.fields/fieldsavedate/

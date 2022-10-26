@@ -1,7 +1,7 @@
 ---
 title: set_Layout
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::TextWatermarkOptions::get_Layout. 
+description: 'Setter for Aspose::Words::TextWatermarkOptions::get_Layout.'
 type: docs
 weight: 131
 url: /cpp/aspose.words/textwatermarkoptions/set_layout/

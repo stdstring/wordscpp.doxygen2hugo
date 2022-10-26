@@ -1,7 +1,7 @@
 ---
 title: FieldEnd
 second_title: Aspose.Words for C++ API Reference
-description: Represents an end of a Word field in a document. 
+description: Represents an end of a Word field in a document.
 type: docs
 weight: 495
 url: /cpp/aspose.words.fields/fieldend/

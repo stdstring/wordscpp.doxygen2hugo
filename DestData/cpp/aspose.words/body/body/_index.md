@@ -1,7 +1,7 @@
 ---
 title: Body
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Body class. 
+description: Initializes a new instance of the Body class.
 type: docs
 weight: 1
 url: /cpp/aspose.words/body/body/

@@ -1,7 +1,7 @@
 ---
 title: get_NumeralFormat
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets NumeralFormat used for rendering of numerals. European numerals are used by default. 
+description: Gets or sets NumeralFormat used for rendering of numerals. European numerals are used by default.
 type: docs
 weight: 53
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_numeralformat/

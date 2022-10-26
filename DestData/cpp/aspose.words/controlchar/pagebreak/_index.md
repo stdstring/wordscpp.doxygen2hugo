@@ -1,7 +1,7 @@
 ---
 title: PageBreak
 second_title: Aspose.Words for C++ API Reference
-description: Page break character: "\x000c" or "\f". Note it has the same value as SectionBreak. 
+description: 'Page break character: "\x000c" or "\f". Note it has the same value as SectionBreak.'
 type: docs
 weight: 105
 url: /cpp/aspose.words/controlchar/pagebreak/

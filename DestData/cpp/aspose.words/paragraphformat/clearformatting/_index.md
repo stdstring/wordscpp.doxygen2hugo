@@ -1,7 +1,7 @@
 ---
 title: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Resets to default paragraph formatting. 
+description: Resets to default paragraph formatting.
 type: docs
 weight: 1
 url: /cpp/aspose.words/paragraphformat/clearformatting/

@@ -1,7 +1,7 @@
 ---
 title: set_ComparisonOperator
 second_title: Aspose.Words for C++ API Reference
-description: Sets the comparison operator. 
+description: Sets the comparison operator.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldskipif/set_comparisonoperator/

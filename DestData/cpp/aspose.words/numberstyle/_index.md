@@ -1,7 +1,7 @@
 ---
 title: NumberStyle
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the number style for a list, footnotes and endnotes, page numbers. 
+description: Specifies the number style for a list, footnotes and endnotes, page numbers.
 type: docs
 weight: 1327
 url: /cpp/aspose.words/numberstyle/

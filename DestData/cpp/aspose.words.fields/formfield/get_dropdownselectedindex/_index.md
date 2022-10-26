@@ -1,7 +1,7 @@
 ---
 title: get_DropDownSelectedIndex
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the index specifying the currently selected item in a dropdown form field. 
+description: Gets or sets the index specifying the currently selected item in a dropdown form field.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/formfield/get_dropdownselectedindex/

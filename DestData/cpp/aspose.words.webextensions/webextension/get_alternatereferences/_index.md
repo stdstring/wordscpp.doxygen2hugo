@@ -1,7 +1,7 @@
 ---
 title: get_AlternateReferences
 second_title: Aspose.Words for C++ API Reference
-description: Specifies alternate references to a web extension. 
+description: Specifies alternate references to a web extension.
 type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextension/get_alternatereferences/

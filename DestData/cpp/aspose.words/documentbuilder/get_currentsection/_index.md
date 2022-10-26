@@ -1,7 +1,7 @@
 ---
 title: get_CurrentSection
 second_title: Aspose.Words for C++ API Reference
-description: Gets the section that is currently selected in this DocumentBuilder. 
+description: Gets the section that is currently selected in this DocumentBuilder.
 type: docs
 weight: 144
 url: /cpp/aspose.words/documentbuilder/get_currentsection/

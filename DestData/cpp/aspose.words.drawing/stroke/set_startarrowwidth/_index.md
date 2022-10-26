@@ -1,7 +1,7 @@
 ---
 title: set_StartArrowWidth
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Stroke::get_StartArrowWidth. 
+description: 'Setter for Aspose::Words::Drawing::Stroke::get_StartArrowWidth.'
 type: docs
 weight: 456
 url: /cpp/aspose.words.drawing/stroke/set_startarrowwidth/

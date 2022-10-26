@@ -1,7 +1,7 @@
 ---
 title: MetafileRenderingOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify additional metafile rendering options. 
+description: Allows to specify additional metafile rendering options.
 type: docs
 weight: 170
 url: /cpp/aspose.words.saving/metafilerenderingoptions/

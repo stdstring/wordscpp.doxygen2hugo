@@ -1,7 +1,7 @@
 ---
 title: get_FontFamilyName
 second_title: Aspose.Words for C++ API Reference
-description: Indicates the current font family name. 
+description: Indicates the current font family name.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/fontsavingargs/get_fontfamilyname/

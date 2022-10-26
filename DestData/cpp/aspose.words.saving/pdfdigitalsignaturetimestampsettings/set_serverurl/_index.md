@@ -1,7 +1,7 @@
 ---
 title: set_ServerUrl
 second_title: Aspose.Words for C++ API Reference
-description: Timestamp server URL. 
+description: Timestamp server URL.
 type: docs
 weight: 79
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_serverurl/

@@ -1,7 +1,7 @@
 ---
 title: Unlink
 second_title: Aspose.Words for C++ API Reference
-description: Performs the field unlink. 
+description: Performs the field unlink.
 type: docs
 weight: 235
 url: /cpp/aspose.words.fields/field/unlink/

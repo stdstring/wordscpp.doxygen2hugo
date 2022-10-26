@@ -1,7 +1,7 @@
 ---
 title: AddEditingLanguages
 second_title: Aspose.Words for C++ API Reference
-description: Adds additional editing languages. 
+description: Adds additional editing languages.
 type: docs
 weight: 27
 url: /cpp/aspose.words.loading/languagepreferences/addeditinglanguages/

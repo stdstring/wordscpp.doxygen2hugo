@@ -1,7 +1,7 @@
 ---
 title: get_BarcodeType
 second_title: Aspose.Words for C++ API Reference
-description: Bar code type. 
+description: Bar code type.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/barcodeparameters/get_barcodetype/

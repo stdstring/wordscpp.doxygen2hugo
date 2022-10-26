@@ -1,7 +1,7 @@
 ---
 title: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Returns the number of revisions in the collection. 
+description: Returns the number of revisions in the collection.
 type: docs
 weight: 14
 url: /cpp/aspose.words/revisioncollection/get_count/

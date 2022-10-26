@@ -1,7 +1,7 @@
 ---
 title: get_Styles
 second_title: Aspose.Words for C++ API Reference
-description: Returns a collection of styles defined in the document. 
+description: Returns a collection of styles defined in the document.
 type: docs
 weight: 92
 url: /cpp/aspose.words/documentbase/get_styles/

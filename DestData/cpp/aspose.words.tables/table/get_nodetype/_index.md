@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Table. 
+description: Returns NodeType.Table.
 type: docs
 weight: 339
 url: /cpp/aspose.words.tables/table/get_nodetype/

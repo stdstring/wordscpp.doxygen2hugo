@@ -1,7 +1,7 @@
 ---
 title: get_LineSpacingRule
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the line spacing for the paragraph. 
+description: Gets or sets the line spacing for the paragraph.
 type: docs
 weight: 248
 url: /cpp/aspose.words/paragraphformat/get_linespacingrule/

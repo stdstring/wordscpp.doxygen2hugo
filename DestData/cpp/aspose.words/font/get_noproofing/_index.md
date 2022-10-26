@@ -1,7 +1,7 @@
 ---
 title: get_NoProofing
 second_title: Aspose.Words for C++ API Reference
-description: True when the formatted characters are not to be spell checked. 
+description: True when the formatted characters are not to be spell checked.
 type: docs
 weight: 365
 url: /cpp/aspose.words/font/get_noproofing/

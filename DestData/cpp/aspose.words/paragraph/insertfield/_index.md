@@ -1,7 +1,7 @@
 ---
 title: InsertField
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a field into this paragraph. 
+description: Inserts a field into this paragraph.
 type: docs
 weight: 339
 url: /cpp/aspose.words/paragraph/insertfield/

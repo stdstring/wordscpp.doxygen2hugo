@@ -1,7 +1,7 @@
 ---
 title: set_Italic
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::DocumentBuilder::get_Italic. 
+description: 'Setter for Aspose::Words::DocumentBuilder::get_Italic.'
 type: docs
 weight: 768
 url: /cpp/aspose.words/documentbuilder/set_italic/

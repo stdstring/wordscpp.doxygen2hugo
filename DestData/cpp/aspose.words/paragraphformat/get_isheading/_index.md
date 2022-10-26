@@ -1,7 +1,7 @@
 ---
 title: get_IsHeading
 second_title: Aspose.Words for C++ API Reference
-description: True when the paragraph style is one of the built-in Heading styles. 
+description: True when the paragraph style is one of the built-in Heading styles.
 type: docs
 weight: 170
 url: /cpp/aspose.words/paragraphformat/get_isheading/

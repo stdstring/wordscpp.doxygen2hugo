@@ -1,7 +1,7 @@
 ---
 title: FieldOptions
 second_title: Aspose.Words for C++ API Reference
-description: Represents options to control field handling in a document. 
+description: Represents options to control field handling in a document.
 type: docs
 weight: 989
 url: /cpp/aspose.words.fields/fieldoptions/

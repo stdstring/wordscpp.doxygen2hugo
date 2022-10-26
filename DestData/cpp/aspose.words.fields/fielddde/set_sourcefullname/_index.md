@@ -1,7 +1,7 @@
 ---
 title: set_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDde::get_SourceFullName. 
+description: 'Setter for Aspose::Words::Fields::FieldDde::get_SourceFullName.'
 type: docs
 weight: 261
 url: /cpp/aspose.words.fields/fielddde/set_sourcefullname/

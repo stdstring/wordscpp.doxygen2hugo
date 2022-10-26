@@ -1,7 +1,7 @@
 ---
 title: get_ComparisonOperator
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the comparison operator. 
+description: Gets or sets the comparison operator.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldcompare/get_comparisonoperator/

@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Removes itself from the parent. 
+description: Removes itself from the parent.
 type: docs
 weight: 196
 url: /cpp/aspose.words/node/remove/

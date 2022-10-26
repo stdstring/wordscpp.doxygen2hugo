@@ -1,7 +1,7 @@
 ---
 title: CompositeNode
 second_title: Aspose.Words for C++ API Reference
-description: Base class for nodes that can contain other nodes. 
+description: Base class for nodes that can contain other nodes.
 type: docs
 weight: 183
 url: /cpp/aspose.words/compositenode/

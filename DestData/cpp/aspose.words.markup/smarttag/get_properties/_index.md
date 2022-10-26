@@ -1,7 +1,7 @@
 ---
 title: get_Properties
 second_title: Aspose.Words for C++ API Reference
-description: A collection of the smart tag properties. 
+description: A collection of the smart tag properties.
 type: docs
 weight: 53
 url: /cpp/aspose.words.markup/smarttag/get_properties/

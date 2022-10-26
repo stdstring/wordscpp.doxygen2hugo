@@ -1,7 +1,7 @@
 ---
 title: TextPathAlignment
 second_title: Aspose.Words for C++ API Reference
-description: WordArt alignment. 
+description: WordArt alignment.
 type: docs
 weight: 521
 url: /cpp/aspose.words.drawing/textpathalignment/

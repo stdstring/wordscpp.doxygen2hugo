@@ -1,7 +1,7 @@
 ---
 title: get_Pitch
 second_title: Aspose.Words for C++ API Reference
-description: The pitch indicates if the font is fixed pitch, proportionally spaced, or relies on a default setting. 
+description: The pitch indicates if the font is fixed pitch, proportionally spaced, or relies on a default setting.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fonts/fontinfo/get_pitch/

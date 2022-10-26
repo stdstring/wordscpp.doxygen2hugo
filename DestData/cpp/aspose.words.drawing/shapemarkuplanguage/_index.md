@@ -1,7 +1,7 @@
 ---
 title: ShapeMarkupLanguage
 second_title: Aspose.Words for C++ API Reference
-description: Specifies Markup language used for the shape. 
+description: Specifies Markup language used for the shape.
 type: docs
 weight: 469
 url: /cpp/aspose.words.drawing/shapemarkuplanguage/

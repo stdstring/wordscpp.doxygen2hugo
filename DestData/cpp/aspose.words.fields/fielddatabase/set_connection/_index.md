@@ -1,7 +1,7 @@
 ---
 title: set_Connection
 second_title: Aspose.Words for C++ API Reference
-description: Sets a connection to the data. 
+description: Sets a connection to the data.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fielddatabase/set_connection/

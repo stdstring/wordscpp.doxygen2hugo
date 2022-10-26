@@ -1,7 +1,7 @@
 ---
 title: set_LeadingSpacesOptions
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions. 
+description: 'Setter for Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.loading/txtloadoptions/set_leadingspacesoptions/

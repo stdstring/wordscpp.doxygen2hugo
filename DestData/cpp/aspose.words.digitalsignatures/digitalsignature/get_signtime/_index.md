@@ -1,7 +1,7 @@
 ---
 title: get_SignTime
 second_title: Aspose.Words for C++ API Reference
-description: Gets the time the document was signed. 
+description: Gets the time the document was signed.
 type: docs
 weight: 66
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_signtime/

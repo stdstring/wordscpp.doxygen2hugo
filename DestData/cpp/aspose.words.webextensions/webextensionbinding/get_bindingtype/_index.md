@@ -1,7 +1,7 @@
 ---
 title: get_BindingType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the binding type. 
+description: Specifies the binding type.
 type: docs
 weight: 27
 url: /cpp/aspose.words.webextensions/webextensionbinding/get_bindingtype/

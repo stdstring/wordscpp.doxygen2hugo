@@ -1,7 +1,7 @@
 ---
 title: set_Overlay
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Overlay. 
+description: 'Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Overlay.'
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/charttitle/set_overlay/

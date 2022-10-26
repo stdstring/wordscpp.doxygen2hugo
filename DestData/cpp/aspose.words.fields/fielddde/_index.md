@@ -1,7 +1,7 @@
 ---
 title: FieldDde
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DDE field. 
+description: Implements the DDE field.
 type: docs
 weight: 404
 url: /cpp/aspose.words.fields/fielddde/

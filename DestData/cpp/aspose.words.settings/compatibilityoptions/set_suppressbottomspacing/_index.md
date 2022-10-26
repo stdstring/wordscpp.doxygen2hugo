@@ -1,7 +1,7 @@
 ---
 title: set_SuppressBottomSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Ignore Exact Line Height for Last Line on Page. 
+description: Ignore Exact Line Height for Last Line on Page.
 type: docs
 weight: 1548
 url: /cpp/aspose.words.settings/compatibilityoptions/set_suppressbottomspacing/

@@ -1,7 +1,7 @@
 ---
 title: set_NoLeading
 second_title: Aspose.Words for C++ API Reference
-description: Do Not Add Leading Between Lines of Text. 
+description: Do Not Add Leading Between Lines of Text.
 type: docs
 weight: 1379
 url: /cpp/aspose.words.settings/compatibilityoptions/set_noleading/

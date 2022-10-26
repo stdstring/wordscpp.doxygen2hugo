@@ -1,7 +1,7 @@
 ---
 title: FieldRD
 second_title: Aspose.Words for C++ API Reference
-description: Implements the RD field. 
+description: Implements the RD field.
 type: docs
 weight: 1080
 url: /cpp/aspose.words.fields/fieldrd/

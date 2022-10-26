@@ -1,7 +1,7 @@
 ---
 title: VisitOfficeMathStart
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a Office Math object has started. 
+description: Called when enumeration of a Office Math object has started.
 type: docs
 weight: 391
 url: /cpp/aspose.words/documentvisitor/visitofficemathstart/

@@ -1,7 +1,7 @@
 ---
 title: set_InsertHyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldPageRef::get_InsertHyperlink. 
+description: 'Setter for Aspose::Words::Fields::FieldPageRef::get_InsertHyperlink.'
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldpageref/set_inserthyperlink/

@@ -1,7 +1,7 @@
 ---
 title: set_VerticalAnchor
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::TextBox::get_VerticalAnchor. 
+description: 'Setter for Aspose::Words::Drawing::TextBox::get_VerticalAnchor.'
 type: docs
 weight: 274
 url: /cpp/aspose.words.drawing/textbox/set_verticalanchor/

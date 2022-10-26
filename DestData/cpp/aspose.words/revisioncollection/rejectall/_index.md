@@ -1,7 +1,7 @@
 ---
 title: RejectAll
 second_title: Aspose.Words for C++ API Reference
-description: Rejects all revisions in this collection. 
+description: Rejects all revisions in this collection.
 type: docs
 weight: 66
 url: /cpp/aspose.words/revisioncollection/rejectall/

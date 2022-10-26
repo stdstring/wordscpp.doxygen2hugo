@@ -1,7 +1,7 @@
 ---
 title: set_Underline
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Font::get_Underline. 
+description: 'Setter for Aspose::Words::Font::get_Underline.'
 type: docs
 weight: 1340
 url: /cpp/aspose.words/font/set_underline/

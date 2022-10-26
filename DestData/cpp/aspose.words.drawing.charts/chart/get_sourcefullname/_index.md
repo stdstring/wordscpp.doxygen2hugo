@@ -1,7 +1,7 @@
 ---
 title: get_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Gets the path and name of an xls/xlsx file this chart is linked to. 
+description: Gets the path and name of an xls/xlsx file this chart is linked to.
 type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/chart/get_sourcefullname/

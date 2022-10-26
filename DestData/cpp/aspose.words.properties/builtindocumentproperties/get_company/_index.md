@@ -1,7 +1,7 @@
 ---
 title: get_Company
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the company property. 
+description: Gets or sets the company property.
 type: docs
 weight: 79
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_company/

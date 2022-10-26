@@ -1,7 +1,7 @@
 ---
 title: set_IsExternal
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Markup::CustomPart::get_IsExternal. 
+description: 'Setter for Aspose::Words::Markup::CustomPart::get_IsExternal.'
 type: docs
 weight: 118
 url: /cpp/aspose.words.markup/custompart/set_isexternal/

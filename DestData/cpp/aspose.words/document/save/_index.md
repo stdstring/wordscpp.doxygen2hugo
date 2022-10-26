@@ -1,7 +1,7 @@
 ---
 title: Save
 second_title: Aspose.Words for C++ API Reference
-description: Saves the document to a stream using the specified format. 
+description: Saves the document to a stream using the specified format.
 type: docs
 weight: 859
 url: /cpp/aspose.words/document/save/

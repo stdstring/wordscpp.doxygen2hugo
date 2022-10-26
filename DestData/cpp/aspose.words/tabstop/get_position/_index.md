@@ -1,7 +1,7 @@
 ---
 title: get_Position
 second_title: Aspose.Words for C++ API Reference
-description: Gets the position of the tab stop in points. 
+description: Gets the position of the tab stop in points.
 type: docs
 weight: 66
 url: /cpp/aspose.words/tabstop/get_position/

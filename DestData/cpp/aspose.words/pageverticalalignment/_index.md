@@ -1,7 +1,7 @@
 ---
 title: PageVerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies vertical justification of text on each page. 
+description: Specifies vertical justification of text on each page.
 type: docs
 weight: 1392
 url: /cpp/aspose.words/pageverticalalignment/

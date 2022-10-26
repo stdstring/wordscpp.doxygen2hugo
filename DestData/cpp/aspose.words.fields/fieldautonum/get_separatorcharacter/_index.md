@@ -1,7 +1,7 @@
 ---
 title: get_SeparatorCharacter
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the separator character to be used. 
+description: Gets or sets the separator character to be used.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldautonum/get_separatorcharacter/

@@ -1,7 +1,7 @@
 ---
 title: DocumentBuilder
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of this class. 
+description: Initializes a new instance of this class.
 type: docs
 weight: 1
 url: /cpp/aspose.words/documentbuilder/documentbuilder/

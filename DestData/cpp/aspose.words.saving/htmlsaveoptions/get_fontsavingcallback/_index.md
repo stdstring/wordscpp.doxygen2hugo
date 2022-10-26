@@ -1,7 +1,7 @@
 ---
 title: get_FontSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Allows to control how fonts are saved when a document is saved to HTML, MHTML or EPUB. 
+description: Allows to control how fonts are saved when a document is saved to HTML, MHTML or EPUB.
 type: docs
 weight: 391
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsavingcallback/

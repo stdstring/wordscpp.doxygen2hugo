@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Footnote. 
+description: Returns NodeType.Footnote.
 type: docs
 weight: 53
 url: /cpp/aspose.words.notes/footnote/get_nodetype/

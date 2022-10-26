@@ -1,7 +1,7 @@
 ---
 title: LayoutEntityType
 second_title: Aspose.Words for C++ API Reference
-description: Types of the layout entities. 
+description: Types of the layout entities.
 type: docs
 weight: 105
 url: /cpp/aspose.words.layout/layoutentitytype/

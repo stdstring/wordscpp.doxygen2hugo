@@ -1,7 +1,7 @@
 ---
 title: set_RelativeVerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Tables::Table::get_RelativeVerticalAlignment. 
+description: 'Setter for Aspose::Words::Tables::Table::get_RelativeVerticalAlignment.'
 type: docs
 weight: 703
 url: /cpp/aspose.words.tables/table/set_relativeverticalalignment/

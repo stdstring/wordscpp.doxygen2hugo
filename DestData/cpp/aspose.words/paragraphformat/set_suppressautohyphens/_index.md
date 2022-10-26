@@ -1,7 +1,7 @@
 ---
 title: set_SuppressAutoHyphens
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens. 
+description: 'Setter for Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens.'
 type: docs
 weight: 937
 url: /cpp/aspose.words/paragraphformat/set_suppressautohyphens/

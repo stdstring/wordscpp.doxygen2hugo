@@ -1,7 +1,7 @@
 ---
 title: get_AxisZ
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to properties of the Z axis of the chart. 
+description: Provides access to properties of the Z axis of the chart.
 type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chart/get_axisz/

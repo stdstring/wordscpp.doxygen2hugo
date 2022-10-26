@@ -1,7 +1,7 @@
 ---
 title: CleanupOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify options for document cleaning. 
+description: Allows to specify options for document cleaning.
 type: docs
 weight: 118
 url: /cpp/aspose.words/cleanupoptions/

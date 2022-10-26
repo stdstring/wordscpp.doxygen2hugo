@@ -1,7 +1,7 @@
 ---
 title: FieldUpdated
 second_title: Aspose.Words for C++ API Reference
-description: A user defined method that is called just after a field is updated. 
+description: A user defined method that is called just after a field is updated.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/ifieldupdatingcallback/fieldupdated/

@@ -1,7 +1,7 @@
 ---
 title: ChartFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents the formatting of a chart element. 
+description: Represents the formatting of a chart element.
 type: docs
 weight: 118
 url: /cpp/aspose.words.drawing.charts/chartformat/

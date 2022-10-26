@@ -1,7 +1,7 @@
 ---
 title: PointToInch
 second_title: Aspose.Words for C++ API Reference
-description: Converts points to inches. 
+description: Converts points to inches.
 type: docs
 weight: 53
 url: /cpp/aspose.words/convertutil/pointtoinch/

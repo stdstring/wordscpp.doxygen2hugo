@@ -1,7 +1,7 @@
 ---
 title: get_HyphenateCaps
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets value determining whether words written in all capital letters are hyphenated. Default value for this property is true. 
+description: Gets or sets value determining whether words written in all capital letters are hyphenated. Default value for this property is true.
 type: docs
 weight: 40
 url: /cpp/aspose.words.settings/hyphenationoptions/get_hyphenatecaps/

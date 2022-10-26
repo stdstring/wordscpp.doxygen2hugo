@@ -1,7 +1,7 @@
 ---
 title: DigitalSignature
 second_title: Aspose.Words for C++ API Reference
-description: Represents a digital signature on a document and the result of its verification. 
+description: Represents a digital signature on a document and the result of its verification.
 type: docs
 weight: 14
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/

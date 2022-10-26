@@ -1,7 +1,7 @@
 ---
 title: MergeFieldImageDimensionUnit
 second_title: Aspose.Words for C++ API Reference
-description: Specifies an unit of an image dimension (i.e. the width or the height) used across a mail merge process. 
+description: Specifies an unit of an image dimension (i.e. the width or the height) used across a mail merge process.
 type: docs
 weight: 1691
 url: /cpp/aspose.words.fields/mergefieldimagedimensionunit/

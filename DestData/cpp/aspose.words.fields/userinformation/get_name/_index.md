@@ -1,7 +1,7 @@
 ---
 title: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the user's name. 
+description: Gets or sets the user's name.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/userinformation/get_name/

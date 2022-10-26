@@ -1,7 +1,7 @@
 ---
 title: set_DistanceLeft
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::ShapeBase::get_DistanceLeft. 
+description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_DistanceLeft.'
 type: docs
 weight: 872
 url: /cpp/aspose.words.drawing/shapebase/set_distanceleft/

@@ -1,7 +1,7 @@
 ---
 title: set_RevisionNumber
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber. 
+description: 'Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber.'
 type: docs
 weight: 716
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_revisionnumber/

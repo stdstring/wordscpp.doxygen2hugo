@@ -1,7 +1,7 @@
 ---
 title: get_InsertHyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert a hyperlink to the bookmarked paragraph. 
+description: Gets or sets whether to insert a hyperlink to the bookmarked paragraph.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldnoteref/get_inserthyperlink/

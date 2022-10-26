@@ -1,7 +1,7 @@
 ---
 title: get_Type
 second_title: Aspose.Words for C++ API Reference
-description: Returns the type of the font source. 
+description: Returns the type of the font source.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/filefontsource/get_type/

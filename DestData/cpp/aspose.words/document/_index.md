@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.Words for C++ API Reference
-description: Represents a Word document. 
+description: Represents a Word document.
 type: docs
 weight: 248
 url: /cpp/aspose.words/document/

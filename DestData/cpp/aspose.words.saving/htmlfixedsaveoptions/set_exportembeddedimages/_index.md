@@ -1,7 +1,7 @@
 ---
 title: set_ExportEmbeddedImages
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages. 
+description: 'Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedimages/

@@ -1,7 +1,7 @@
 ---
 title: ApplyBulletDefault
 second_title: Aspose.Words for C++ API Reference
-description: Starts a new default bulleted list and applies it to the paragraph. 
+description: Starts a new default bulleted list and applies it to the paragraph.
 type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listformat/applybulletdefault/

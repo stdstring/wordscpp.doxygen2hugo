@@ -1,7 +1,7 @@
 ---
 title: get_CalculateOnExit
 second_title: Aspose.Words for C++ API Reference
-description: True if references to the specified form field are automatically updated whenever the field is exited. 
+description: True if references to the specified form field are automatically updated whenever the field is exited.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/formfield/get_calculateonexit/

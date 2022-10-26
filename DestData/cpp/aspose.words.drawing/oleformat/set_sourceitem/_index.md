@@ -1,7 +1,7 @@
 ---
 title: set_SourceItem
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::OleFormat::get_SourceItem. 
+description: 'Setter for Aspose::Words::Drawing::OleFormat::get_SourceItem.'
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/oleformat/set_sourceitem/

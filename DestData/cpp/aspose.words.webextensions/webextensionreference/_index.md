@@ -1,7 +1,7 @@
 ---
 title: WebExtensionReference
 second_title: Aspose.Words for C++ API Reference
-description: Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension. 
+description: Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.
 type: docs
 weight: 105
 url: /cpp/aspose.words.webextensions/webextensionreference/

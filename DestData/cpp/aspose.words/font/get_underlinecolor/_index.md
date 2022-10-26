@@ -1,7 +1,7 @@
 ---
 title: get_UnderlineColor
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the color of the underline applied to the font. 
+description: Gets or sets the color of the underline applied to the font.
 type: docs
 weight: 703
 url: /cpp/aspose.words/font/get_underlinecolor/

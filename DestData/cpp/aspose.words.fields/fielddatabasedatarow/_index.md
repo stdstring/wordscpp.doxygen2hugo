@@ -1,7 +1,7 @@
 ---
 title: FieldDatabaseDataRow
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the FieldDatabase field result. 
+description: Provides data for the FieldDatabase field result.
 type: docs
 weight: 365
 url: /cpp/aspose.words.fields/fielddatabasedatarow/

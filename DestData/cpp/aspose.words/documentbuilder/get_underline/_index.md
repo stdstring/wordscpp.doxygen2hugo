@@ -1,7 +1,7 @@
 ---
 title: get_Underline
 second_title: Aspose.Words for C++ API Reference
-description: Gets/sets underline type for the current font. 
+description: Gets/sets underline type for the current font.
 type: docs
 weight: 287
 url: /cpp/aspose.words/documentbuilder/get_underline/

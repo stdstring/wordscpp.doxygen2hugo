@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.SmartTag. 
+description: Returns NodeType.SmartTag.
 type: docs
 weight: 40
 url: /cpp/aspose.words.markup/smarttag/get_nodetype/

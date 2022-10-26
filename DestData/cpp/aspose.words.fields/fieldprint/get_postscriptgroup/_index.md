@@ -1,7 +1,7 @@
 ---
 title: get_PostScriptGroup
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the drawing rectangle that the PostScript instructions operate on. 
+description: Gets or sets the drawing rectangle that the PostScript instructions operate on.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldprint/get_postscriptgroup/

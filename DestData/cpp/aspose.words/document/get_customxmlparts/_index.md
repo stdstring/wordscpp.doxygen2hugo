@@ -1,7 +1,7 @@
 ---
 title: get_CustomXmlParts
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the collection of Custom XML Data Storage Parts. 
+description: Gets or sets the collection of Custom XML Data Storage Parts.
 type: docs
 weight: 222
 url: /cpp/aspose.words/document/get_customxmlparts/

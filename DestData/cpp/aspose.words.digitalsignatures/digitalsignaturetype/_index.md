@@ -1,7 +1,7 @@
 ---
 title: DigitalSignatureType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of a digital signature. 
+description: Specifies the type of a digital signature.
 type: docs
 weight: 66
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturetype/

@@ -1,7 +1,7 @@
 ---
 title: set_Direction
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Replacing::FindReplaceOptions::get_Direction. 
+description: 'Setter for Aspose::Words::Replacing::FindReplaceOptions::get_Direction.'
 type: docs
 weight: 209
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_direction/

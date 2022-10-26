@@ -1,7 +1,7 @@
 ---
 title: FieldTA
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TA field. 
+description: Implements the TA field.
 type: docs
 weight: 1275
 url: /cpp/aspose.words.fields/fieldta/

@@ -1,7 +1,7 @@
 ---
 title: get_SmallCaps
 second_title: Aspose.Words for C++ API Reference
-description: True if the font is formatted as small capital letters. 
+description: True if the font is formatted as small capital letters.
 type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/textpath/get_smallcaps/

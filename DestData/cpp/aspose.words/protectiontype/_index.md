@@ -1,7 +1,7 @@
 ---
 title: ProtectionType
 second_title: Aspose.Words for C++ API Reference
-description: Protection type for a document. 
+description: Protection type for a document.
 type: docs
 weight: 1431
 url: /cpp/aspose.words/protectiontype/

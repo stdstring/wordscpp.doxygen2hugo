@@ -1,7 +1,7 @@
 ---
 title: Reject
 second_title: Aspose.Words for C++ API Reference
-description: Reject this revision. 
+description: Reject this revision.
 type: docs
 weight: 92
 url: /cpp/aspose.words/revision/reject/

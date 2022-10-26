@@ -1,7 +1,7 @@
 ---
 title: set_Title
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::ShapeBase::get_Title. 
+description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_Title.'
 type: docs
 weight: 1080
 url: /cpp/aspose.words.drawing/shapebase/set_title/

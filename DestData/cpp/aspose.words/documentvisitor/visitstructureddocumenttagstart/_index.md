@@ -1,7 +1,7 @@
 ---
 title: VisitStructuredDocumentTagStart
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a structured document tag has started. 
+description: Called when enumeration of a structured document tag has started.
 type: docs
 weight: 599
 url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagstart/

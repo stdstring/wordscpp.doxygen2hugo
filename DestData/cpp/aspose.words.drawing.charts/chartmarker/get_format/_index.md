@@ -1,7 +1,7 @@
 ---
 title: get_Format
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to fill and line formatting of this marker. 
+description: Provides access to fill and line formatting of this marker.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chartmarker/get_format/

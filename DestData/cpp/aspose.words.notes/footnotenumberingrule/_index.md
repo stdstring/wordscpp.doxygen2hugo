@@ -1,7 +1,7 @@
 ---
 title: FootnoteNumberingRule
 second_title: Aspose.Words for C++ API Reference
-description: Determines when automatic footnote or endnote numbering restarts. 
+description: Determines when automatic footnote or endnote numbering restarts.
 type: docs
 weight: 53
 url: /cpp/aspose.words.notes/footnotenumberingrule/

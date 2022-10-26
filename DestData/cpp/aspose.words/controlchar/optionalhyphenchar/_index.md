@@ -1,7 +1,7 @@
 ---
 title: OptionalHyphenChar
 second_title: Aspose.Words for C++ API Reference
-description: Optional Hyphen in Microsoft Word is (char)31. 
+description: Optional Hyphen in Microsoft Word is (char)31.
 type: docs
 weight: 300
 url: /cpp/aspose.words/controlchar/optionalhyphenchar/

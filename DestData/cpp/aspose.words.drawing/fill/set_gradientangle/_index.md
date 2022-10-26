@@ -1,7 +1,7 @@
 ---
 title: set_GradientAngle
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::Fill::get_GradientAngle. 
+description: 'Setter for Aspose::Words::Drawing::Fill::get_GradientAngle.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/fill/set_gradientangle/

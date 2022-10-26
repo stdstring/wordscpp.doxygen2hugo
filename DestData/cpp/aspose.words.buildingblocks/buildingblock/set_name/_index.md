@@ -1,7 +1,7 @@
 ---
 title: set_Name
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Name. 
+description: 'Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Name.'
 type: docs
 weight: 235
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_name/

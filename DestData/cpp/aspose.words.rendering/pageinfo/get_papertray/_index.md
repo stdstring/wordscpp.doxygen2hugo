@@ -1,7 +1,7 @@
 ---
 title: get_PaperTray
 second_title: Aspose.Words for C++ API Reference
-description: Gets the paper tray (bin) for this page as specified in the document. The value is implementation (printer) specific. 
+description: Gets the paper tray (bin) for this page as specified in the document. The value is implementation (printer) specific.
 type: docs
 weight: 40
 url: /cpp/aspose.words.rendering/pageinfo/get_papertray/

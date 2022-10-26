@@ -1,7 +1,7 @@
 ---
 title: set_Description
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Description. 
+description: 'Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Description.'
 type: docs
 weight: 196
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_description/

@@ -1,7 +1,7 @@
 ---
 title: EndCap
 second_title: Aspose.Words for C++ API Reference
-description: Specifies line cap style. 
+description: Specifies line cap style.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/endcap/

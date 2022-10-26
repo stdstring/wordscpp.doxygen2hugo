@@ -1,7 +1,7 @@
 ---
 title: HeightRule
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the rule for determining the height of an object. 
+description: Specifies the rule for determining the height of an object.
 type: docs
 weight: 1171
 url: /cpp/aspose.words/heightrule/

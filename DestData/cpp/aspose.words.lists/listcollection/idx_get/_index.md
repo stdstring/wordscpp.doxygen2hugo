@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Gets a list by index. 
+description: Gets a list by index.
 type: docs
 weight: 131
 url: /cpp/aspose.words.lists/listcollection/idx_get/

@@ -1,7 +1,7 @@
 ---
 title: get_AnchorLocked
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether the shape's anchor is locked. 
+description: Specifies whether the shape's anchor is locked.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/shapebase/get_anchorlocked/

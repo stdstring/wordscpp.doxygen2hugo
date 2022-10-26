@@ -1,7 +1,7 @@
 ---
 title: set_RelativeHorizontalPosition
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::ShapeBase::get_RelativeHorizontalPosition. 
+description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_RelativeHorizontalPosition.'
 type: docs
 weight: 1015
 url: /cpp/aspose.words.drawing/shapebase/set_relativehorizontalposition/

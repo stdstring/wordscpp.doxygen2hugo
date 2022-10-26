@@ -1,7 +1,7 @@
 ---
 title: set_GraphicFilter
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldIncludePicture::get_GraphicFilter. 
+description: 'Setter for Aspose::Words::Fields::FieldIncludePicture::get_GraphicFilter.'
 type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldincludepicture/set_graphicfilter/

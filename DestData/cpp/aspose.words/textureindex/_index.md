@@ -1,7 +1,7 @@
 ---
 title: TextureIndex
 second_title: Aspose.Words for C++ API Reference
-description: Specifies shading texture. 
+description: Specifies shading texture.
 type: docs
 weight: 1613
 url: /cpp/aspose.words/textureindex/

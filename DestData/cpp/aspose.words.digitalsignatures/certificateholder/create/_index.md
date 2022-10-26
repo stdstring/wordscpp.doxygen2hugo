@@ -1,7 +1,7 @@
 ---
 title: Create
 second_title: Aspose.Words for C++ API Reference
-description: Creates CertificateHolder object using byte array of PKCS12 store and its password. 
+description: Creates CertificateHolder object using byte array of PKCS12 store and its password.
 type: docs
 weight: 14
 url: /cpp/aspose.words.digitalsignatures/certificateholder/create/

@@ -1,7 +1,7 @@
 ---
 title: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Removes an item at the specified index. 
+description: Removes an item at the specified index.
 type: docs
 weight: 170
 url: /cpp/aspose.words.markup/customxmlpartcollection/removeat/

@@ -1,7 +1,7 @@
 ---
 title: get_MajorUnitIsAuto
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a flag indicating whether default distance between major tick marks shall be used. 
+description: Gets or sets a flag indicating whether default distance between major tick marks shall be used.
 type: docs
 weight: 131
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_majorunitisauto/

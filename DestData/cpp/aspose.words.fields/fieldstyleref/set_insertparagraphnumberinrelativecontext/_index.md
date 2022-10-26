@@ -1,7 +1,7 @@
 ---
 title: set_InsertParagraphNumberInRelativeContext
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInRelativeContext. 
+description: 'Setter for Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInRelativeContext.'
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldstyleref/set_insertparagraphnumberinrelativecontext/

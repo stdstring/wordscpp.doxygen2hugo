@@ -1,7 +1,7 @@
 ---
 title: LineBreakChar
 second_title: Aspose.Words for C++ API Reference
-description: Line break character: (char)11 or "\v". 
+description: 'Line break character: (char)11 or "\v".'
 type: docs
 weight: 248
 url: /cpp/aspose.words/controlchar/linebreakchar/

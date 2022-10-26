@@ -1,7 +1,7 @@
 ---
 title: set_TimestampSettings
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings. 
+description: 'Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings.'
 type: docs
 weight: 157
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_timestampsettings/

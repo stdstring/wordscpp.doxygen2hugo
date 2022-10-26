@@ -1,7 +1,7 @@
 ---
 title: FieldXE
 second_title: Aspose.Words for C++ API Reference
-description: Implements the XE field. 
+description: Implements the XE field.
 type: docs
 weight: 1418
 url: /cpp/aspose.words.fields/fieldxe/

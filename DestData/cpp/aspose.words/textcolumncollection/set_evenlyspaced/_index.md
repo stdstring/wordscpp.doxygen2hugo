@@ -1,7 +1,7 @@
 ---
 title: set_EvenlySpaced
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::TextColumnCollection::get_EvenlySpaced. 
+description: 'Setter for Aspose::Words::TextColumnCollection::get_EvenlySpaced.'
 type: docs
 weight: 79
 url: /cpp/aspose.words/textcolumncollection/set_evenlyspaced/

@@ -1,7 +1,7 @@
 ---
 title: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns EditableRangeEnd. 
+description: Returns EditableRangeEnd.
 type: docs
 weight: 40
 url: /cpp/aspose.words/editablerangeend/get_nodetype/

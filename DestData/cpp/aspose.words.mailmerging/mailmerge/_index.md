@@ -1,7 +1,7 @@
 ---
 title: MailMerge
 second_title: Aspose.Words for C++ API Reference
-description: Represents the mail merge functionality. 
+description: Represents the mail merge functionality.
 type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/mailmerge/

@@ -1,7 +1,7 @@
 ---
 title: PropertyType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies data type of a document property. 
+description: Specifies data type of a document property.
 type: docs
 weight: 66
 url: /cpp/aspose.words.properties/propertytype/

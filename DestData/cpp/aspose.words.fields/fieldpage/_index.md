@@ -1,7 +1,7 @@
 ---
 title: FieldPage
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PAGE field. 
+description: Implements the PAGE field.
 type: docs
 weight: 1002
 url: /cpp/aspose.words.fields/fieldpage/

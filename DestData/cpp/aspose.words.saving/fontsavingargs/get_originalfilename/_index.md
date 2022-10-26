@@ -1,7 +1,7 @@
 ---
 title: get_OriginalFileName
 second_title: Aspose.Words for C++ API Reference
-description: Gets the original font file name with an extension. 
+description: Gets the original font file name with an extension.
 type: docs
 weight: 118
 url: /cpp/aspose.words.saving/fontsavingargs/get_originalfilename/

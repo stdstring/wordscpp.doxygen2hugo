@@ -1,7 +1,7 @@
 ---
 title: get_HyphenationOptions
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to document hyphenation options. 
+description: Provides access to document hyphenation options.
 type: docs
 weight: 391
 url: /cpp/aspose.words/document/get_hyphenationoptions/

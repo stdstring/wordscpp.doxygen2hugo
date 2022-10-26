@@ -1,7 +1,7 @@
 ---
 title: StyleType
 second_title: Aspose.Words for C++ API Reference
-description: Represents type of the style. 
+description: Represents type of the style.
 type: docs
 weight: 1535
 url: /cpp/aspose.words/styletype/

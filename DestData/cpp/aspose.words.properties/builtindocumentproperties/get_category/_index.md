@@ -1,7 +1,7 @@
 ---
 title: get_Category
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the category of the document. 
+description: Gets or sets the category of the document.
 type: docs
 weight: 27
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_category/

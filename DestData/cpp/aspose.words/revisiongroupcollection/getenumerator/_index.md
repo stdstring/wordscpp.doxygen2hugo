@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object. 
+description: Returns an enumerator object.
 type: docs
 weight: 66
 url: /cpp/aspose.words/revisiongroupcollection/getenumerator/

@@ -1,7 +1,7 @@
 ---
 title: FieldFormText
 second_title: Aspose.Words for C++ API Reference
-description: Implements the FORMTEXT field. 
+description: Implements the FORMTEXT field.
 type: docs
 weight: 612
 url: /cpp/aspose.words.fields/fieldformtext/

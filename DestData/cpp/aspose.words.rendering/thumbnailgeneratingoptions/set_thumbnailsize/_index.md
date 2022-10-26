@@ -1,7 +1,7 @@
 ---
 title: set_ThumbnailSize
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_ThumbnailSize. 
+description: 'Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_ThumbnailSize.'
 type: docs
 weight: 53
 url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/set_thumbnailsize/

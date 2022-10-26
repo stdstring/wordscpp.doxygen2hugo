@@ -1,7 +1,7 @@
 ---
 title: get_LastColumn
 second_title: Aspose.Words for C++ API Reference
-description: Gets the zero-based index of the last column of the table column range associated with the bookmark. 
+description: Gets the zero-based index of the last column of the table column range associated with the bookmark.
 type: docs
 weight: 53
 url: /cpp/aspose.words/bookmark/get_lastcolumn/

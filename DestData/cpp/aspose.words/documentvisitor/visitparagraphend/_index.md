@@ -1,7 +1,7 @@
 ---
 title: VisitParagraphEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a paragraph has ended. 
+description: Called when enumeration of a paragraph has ended.
 type: docs
 weight: 404
 url: /cpp/aspose.words/documentvisitor/visitparagraphend/

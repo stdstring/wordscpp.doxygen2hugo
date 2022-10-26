@@ -1,7 +1,7 @@
 ---
 title: get_Color
 second_title: Aspose.Words for C++ API Reference
-description: Gets the color of the structured document tag. 
+description: Gets the color of the structured document tag.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_color/

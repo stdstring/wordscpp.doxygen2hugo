@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves a node at the given index. 
+description: Retrieves a node at the given index.
 type: docs
 weight: 40
 url: /cpp/aspose.words/nodelist/idx_get/

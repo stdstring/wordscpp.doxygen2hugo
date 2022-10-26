@@ -1,7 +1,7 @@
 ---
 title: ResourceLoadingAction
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the mode of resource loading. 
+description: Specifies the mode of resource loading.
 type: docs
 weight: 196
 url: /cpp/aspose.words.loading/resourceloadingaction/

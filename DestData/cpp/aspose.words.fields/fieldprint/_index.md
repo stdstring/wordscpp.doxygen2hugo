@@ -1,7 +1,7 @@
 ---
 title: FieldPrint
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PRINT field. 
+description: Implements the PRINT field.
 type: docs
 weight: 1028
 url: /cpp/aspose.words.fields/fieldprint/

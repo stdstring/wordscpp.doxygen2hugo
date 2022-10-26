@@ -1,7 +1,7 @@
 ---
 title: FontSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
-description: This is an abstract base class for the font substitution rule. 
+description: This is an abstract base class for the font substitution rule.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fonts/fontsubstitutionrule/

@@ -1,7 +1,7 @@
 ---
 title: Load
 second_title: Aspose.Words for C++ API Reference
-description: Loads fallback settings from XML stream. 
+description: Loads fallback settings from XML stream.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/fontfallbacksettings/load/

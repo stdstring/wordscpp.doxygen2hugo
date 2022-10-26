@@ -1,7 +1,7 @@
 ---
 title: EmbeddedFontStyle
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the style of an embedded font inside a FontInfo object. 
+description: Specifies the style of an embedded font inside a FontInfo object.
 type: docs
 weight: 248
 url: /cpp/aspose.words.fonts/embeddedfontstyle/

@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds a property to the collection. 
+description: Adds a property to the collection.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/customxmlpropertycollection/add/

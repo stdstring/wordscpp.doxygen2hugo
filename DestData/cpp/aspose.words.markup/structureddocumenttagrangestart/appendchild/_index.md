@@ -1,7 +1,7 @@
 ---
 title: AppendChild
 second_title: Aspose.Words for C++ API Reference
-description: Adds the specified node to the end of the stdContent range. 
+description: Adds the specified node to the end of the stdContent range.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/appendchild/

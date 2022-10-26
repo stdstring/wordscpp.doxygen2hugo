@@ -1,7 +1,7 @@
 ---
 title: set_DistanceTop
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::ShapeBase::get_DistanceTop. 
+description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_DistanceTop.'
 type: docs
 weight: 898
 url: /cpp/aspose.words.drawing/shapebase/set_distancetop/

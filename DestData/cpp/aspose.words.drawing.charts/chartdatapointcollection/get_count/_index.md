@@ -1,7 +1,7 @@
 ---
 title: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Returns the number of ChartDataPoint in this collection. 
+description: Returns the number of ChartDataPoint in this collection.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/get_count/

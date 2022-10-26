@@ -1,7 +1,7 @@
 ---
 title: FieldPrintDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PRINTDATE field. 
+description: Implements the PRINTDATE field.
 type: docs
 weight: 1041
 url: /cpp/aspose.words.fields/fieldprintdate/

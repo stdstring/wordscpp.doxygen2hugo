@@ -1,7 +1,7 @@
 ---
 title: get_UserPassword
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the user password required for opening the encrypted PDF document. 
+description: Specifies the user password required for opening the encrypted PDF document.
 type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pdfencryptiondetails/get_userpassword/

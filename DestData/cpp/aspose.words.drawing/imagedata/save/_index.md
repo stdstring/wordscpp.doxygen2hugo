@@ -1,7 +1,7 @@
 ---
 title: Save
 second_title: Aspose.Words for C++ API Reference
-description: Saves the image into the specified stream. 
+description: Saves the image into the specified stream.
 type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/imagedata/save/

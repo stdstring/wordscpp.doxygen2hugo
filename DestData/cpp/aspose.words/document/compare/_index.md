@@ -1,7 +1,7 @@
 ---
 title: Compare
 second_title: Aspose.Words for C++ API Reference
-description: Compares this document with another document producing changes as number of edit and format revisions Revision. 
+description: Compares this document with another document producing changes as number of edit and format revisions Revision.
 type: docs
 weight: 79
 url: /cpp/aspose.words/document/compare/

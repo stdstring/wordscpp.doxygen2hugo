@@ -1,7 +1,7 @@
 ---
 title: get_Accent2
 second_title: Aspose.Words for C++ API Reference
-description: Specifies color Accent 2. 
+description: Specifies color Accent 2.
 type: docs
 weight: 14
 url: /cpp/aspose.words.themes/themecolors/get_accent2/

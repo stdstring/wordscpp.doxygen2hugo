@@ -1,7 +1,7 @@
 ---
 title: TableAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies alignment for an inline table. 
+description: Specifies alignment for an inline table.
 type: docs
 weight: 170
 url: /cpp/aspose.words.tables/tablealignment/

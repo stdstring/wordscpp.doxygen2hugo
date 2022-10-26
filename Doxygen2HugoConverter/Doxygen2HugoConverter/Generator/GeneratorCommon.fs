@@ -39,10 +39,15 @@ let generatePageHeader (dest: StringBuilder) (data: seq<KeyValuePair<string, str
         entry.Value |> dest.AppendLine |> ignore
     "---" |> dest.AppendLine |> ignore
 
+let prepareHeaderValue (value: string) =
+    match ':' |> value.IndexOf with
+    | -1 -> value
+    | _ -> sprintf $"'{value}'"
+
 let generateDefPageHeader (title: string) (description: string) (url: string[]) (weight: int) (dest: StringBuilder) =
-    [KeyValuePair.Create("title", title);
+    [KeyValuePair.Create("title", title |> prepareHeaderValue);
      KeyValuePair.Create("second_title", "Aspose.Words for C++ API Reference");
-     KeyValuePair.Create("description", description);
+     KeyValuePair.Create("description", description |> prepareHeaderValue);
      KeyValuePair.Create("type", "docs");
      KeyValuePair.Create("weight", weight |> string);
      KeyValuePair.Create("url", url |> generateUrl false)] |> generatePageHeader dest

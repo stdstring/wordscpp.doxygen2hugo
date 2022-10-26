@@ -1,7 +1,7 @@
 ---
 title: InsertComboBox
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a combobox form field at the current position. 
+description: Inserts a combobox form field at the current position.
 type: docs
 weight: 352
 url: /cpp/aspose.words/documentbuilder/insertcombobox/

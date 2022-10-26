@@ -1,7 +1,7 @@
 ---
 title: get_TextShaperFactory
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets ITextShaperFactory implementation used for Advanced Typography rendering features. 
+description: Gets or sets ITextShaperFactory implementation used for Advanced Typography rendering features.
 type: docs
 weight: 105
 url: /cpp/aspose.words.layout/layoutoptions/get_textshaperfactory/

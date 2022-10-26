@@ -1,7 +1,7 @@
 ---
 title: set_HighlightColor
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Font::get_HighlightColor. 
+description: 'Setter for Aspose::Words::Font::get_HighlightColor.'
 type: docs
 weight: 872
 url: /cpp/aspose.words/font/set_highlightcolor/

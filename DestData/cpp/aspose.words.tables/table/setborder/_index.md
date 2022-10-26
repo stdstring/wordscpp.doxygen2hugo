@@ -1,7 +1,7 @@
 ---
 title: SetBorder
 second_title: Aspose.Words for C++ API Reference
-description: Sets the specified table border to the specified line style, width and color. 
+description: Sets the specified table border to the specified line style, width and color.
 type: docs
 weight: 833
 url: /cpp/aspose.words.tables/table/setborder/

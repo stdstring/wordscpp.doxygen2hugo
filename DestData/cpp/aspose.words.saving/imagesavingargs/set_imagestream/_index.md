@@ -1,7 +1,7 @@
 ---
 title: set_ImageStream
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageStream. 
+description: 'Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageStream.'
 type: docs
 weight: 92
 url: /cpp/aspose.words.saving/imagesavingargs/set_imagestream/

@@ -1,7 +1,7 @@
 ---
 title: PageRange
 second_title: Aspose.Words for C++ API Reference
-description: Creates a new page range object. 
+description: Creates a new page range object.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pagerange/pagerange/

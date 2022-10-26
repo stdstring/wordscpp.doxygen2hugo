@@ -1,7 +1,7 @@
 ---
 title: DefaultTextInputChar
 second_title: Aspose.Words for C++ API Reference
-description: This is the "o" character used as a default value in text input form fields. 
+description: This is the "o" character used as a default value in text input form fields.
 type: docs
 weight: 196
 url: /cpp/aspose.words/controlchar/defaulttextinputchar/

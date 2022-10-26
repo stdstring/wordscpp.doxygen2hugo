@@ -1,7 +1,7 @@
 ---
 title: set_Color
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Border::get_Color. 
+description: 'Setter for Aspose::Words::Border::get_Color.'
 type: docs
 weight: 118
 url: /cpp/aspose.words/border/set_color/

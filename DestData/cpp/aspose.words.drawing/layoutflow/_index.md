@@ -1,7 +1,7 @@
 ---
 title: LayoutFlow
 second_title: Aspose.Words for C++ API Reference
-description: Determines the flow of the text layout in a textbox. 
+description: Determines the flow of the text layout in a textbox.
 type: docs
 weight: 378
 url: /cpp/aspose.words.drawing/layoutflow/

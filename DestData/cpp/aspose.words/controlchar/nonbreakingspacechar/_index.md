@@ -1,7 +1,7 @@
 ---
 title: NonBreakingSpaceChar
 second_title: Aspose.Words for C++ API Reference
-description: Non-breaking space character: (char)160. 
+description: 'Non-breaking space character: (char)160.'
 type: docs
 weight: 287
 url: /cpp/aspose.words/controlchar/nonbreakingspacechar/

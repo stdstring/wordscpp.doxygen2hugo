@@ -1,7 +1,7 @@
 ---
 title: Contains
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the collection contains a bookmark with the given name. 
+description: Determines whether the collection contains a bookmark with the given name.
 type: docs
 weight: 79
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/contains/

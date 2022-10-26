@@ -1,7 +1,7 @@
 ---
 title: VisitorAction
 second_title: Aspose.Words for C++ API Reference
-description: Allows the visitor to control the enumeration of nodes. 
+description: Allows the visitor to control the enumeration of nodes.
 type: docs
 weight: 1639
 url: /cpp/aspose.words/visitoraction/

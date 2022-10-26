@@ -1,7 +1,7 @@
 ---
 title: SetFontsSources
 second_title: Aspose.Words for C++ API Reference
-description: Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. 
+description: Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fonts/fontsettings/setfontssources/

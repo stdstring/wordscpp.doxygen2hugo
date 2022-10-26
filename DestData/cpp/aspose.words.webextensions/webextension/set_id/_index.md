@@ -1,7 +1,7 @@
 ---
 title: set_Id
 second_title: Aspose.Words for C++ API Reference
-description: Uniquely identifies the web extension instance in the current document. 
+description: Uniquely identifies the web extension instance in the current document.
 type: docs
 weight: 79
 url: /cpp/aspose.words.webextensions/webextension/set_id/

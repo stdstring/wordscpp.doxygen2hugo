@@ -1,7 +1,7 @@
 ---
 title: get_NumberOfColumns
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the number of columns per page used when building the index. 
+description: Gets or sets the number of columns per page used when building the index.
 type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fieldindex/get_numberofcolumns/

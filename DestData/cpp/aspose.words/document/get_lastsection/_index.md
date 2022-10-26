@@ -1,7 +1,7 @@
 ---
 title: get_LastSection
 second_title: Aspose.Words for C++ API Reference
-description: Gets the last section in the document. 
+description: Gets the last section in the document.
 type: docs
 weight: 404
 url: /cpp/aspose.words/document/get_lastsection/

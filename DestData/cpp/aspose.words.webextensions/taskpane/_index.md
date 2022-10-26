@@ -1,7 +1,7 @@
 ---
 title: TaskPane
 second_title: Aspose.Words for C++ API Reference
-description: Represents an add-in task pane object. 
+description: Represents an add-in task pane object.
 type: docs
 weight: 14
 url: /cpp/aspose.words.webextensions/taskpane/

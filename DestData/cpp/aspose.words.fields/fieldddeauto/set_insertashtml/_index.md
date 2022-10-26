@@ -1,7 +1,7 @@
 ---
 title: set_InsertAsHtml
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDdeAuto::get_InsertAsHtml. 
+description: 'Setter for Aspose::Words::Fields::FieldDdeAuto::get_InsertAsHtml.'
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldddeauto/set_insertashtml/

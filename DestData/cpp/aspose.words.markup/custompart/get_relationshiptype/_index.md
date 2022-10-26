@@ -1,7 +1,7 @@
 ---
 title: get_RelationshipType
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the relationship type from the parent part to this custom part. 
+description: Gets or sets the relationship type from the parent part to this custom part.
 type: docs
 weight: 79
 url: /cpp/aspose.words.markup/custompart/get_relationshiptype/

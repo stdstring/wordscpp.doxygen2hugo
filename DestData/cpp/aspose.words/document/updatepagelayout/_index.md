@@ -1,7 +1,7 @@
 ---
 title: UpdatePageLayout
 second_title: Aspose.Words for C++ API Reference
-description: Rebuilds the page layout of the document. 
+description: Rebuilds the page layout of the document.
 type: docs
 weight: 1171
 url: /cpp/aspose.words/document/updatepagelayout/

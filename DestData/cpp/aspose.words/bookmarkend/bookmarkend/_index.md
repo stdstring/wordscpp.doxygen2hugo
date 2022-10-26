@@ -1,7 +1,7 @@
 ---
 title: BookmarkEnd
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the BookmarkEnd class. 
+description: Initializes a new instance of the BookmarkEnd class.
 type: docs
 weight: 1
 url: /cpp/aspose.words/bookmarkend/bookmarkend/

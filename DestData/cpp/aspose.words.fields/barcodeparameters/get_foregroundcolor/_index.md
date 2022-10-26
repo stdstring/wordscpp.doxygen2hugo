@@ -1,7 +1,7 @@
 ---
 title: get_ForegroundColor
 second_title: Aspose.Words for C++ API Reference
-description: Bar code foreground color (0x000000 - 0xFFFFFF) 
+description: Bar code foreground color (0x000000 - 0xFFFFFF)
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/barcodeparameters/get_foregroundcolor/

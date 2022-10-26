@@ -1,7 +1,7 @@
 ---
 title: VbaModule
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to VBA project module. 
+description: Provides access to VBA project module.
 type: docs
 weight: 1
 url: /cpp/aspose.words.vba/vbamodule/

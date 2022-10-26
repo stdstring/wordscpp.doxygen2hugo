@@ -1,7 +1,7 @@
 ---
 title: get_EntryName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the AutoText entry. 
+description: Gets or sets the name of the AutoText entry.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldautotextlist/get_entryname/

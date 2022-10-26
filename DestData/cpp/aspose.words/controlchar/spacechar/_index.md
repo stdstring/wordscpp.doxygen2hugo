@@ -1,7 +1,7 @@
 ---
 title: SpaceChar
 second_title: Aspose.Words for C++ API Reference
-description: Space character: (char)32. 
+description: 'Space character: (char)32.'
 type: docs
 weight: 352
 url: /cpp/aspose.words/controlchar/spacechar/

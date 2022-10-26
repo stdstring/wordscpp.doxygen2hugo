@@ -1,7 +1,7 @@
 ---
 title: get_RotateLetters
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the letters of the text are rotated. 
+description: Determines whether the letters of the text are rotated.
 type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/textpath/get_rotateletters/

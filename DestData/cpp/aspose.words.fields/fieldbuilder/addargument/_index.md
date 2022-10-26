@@ -1,7 +1,7 @@
 ---
 title: AddArgument
 second_title: Aspose.Words for C++ API Reference
-description: Adds a field's argument represented by FieldArgumentBuilder to the field's code. 
+description: Adds a field's argument represented by FieldArgumentBuilder to the field's code.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldbuilder/addargument/

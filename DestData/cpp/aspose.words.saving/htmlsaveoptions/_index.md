@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Html, Mhtml, Epub or Azw3 format. 
+description: Can be used to specify additional options when saving a document into the Html, Mhtml, Epub or Azw3 format.
 type: docs
 weight: 118
 url: /cpp/aspose.words.saving/htmlsaveoptions/

@@ -1,7 +1,7 @@
 ---
 title: set_ScalingFactor
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor. 
+description: 'Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_scalingfactor/

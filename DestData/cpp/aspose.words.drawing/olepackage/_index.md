@@ -1,7 +1,7 @@
 ---
 title: OlePackage
 second_title: Aspose.Words for C++ API Reference
-description: Allows to access OLE Package properties. 
+description: Allows to access OLE Package properties.
 type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/olepackage/

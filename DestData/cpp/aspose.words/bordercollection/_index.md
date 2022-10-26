@@ -1,7 +1,7 @@
 ---
 title: BorderCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of Border objects. 
+description: A collection of Border objects.
 type: docs
 weight: 92
 url: /cpp/aspose.words/bordercollection/

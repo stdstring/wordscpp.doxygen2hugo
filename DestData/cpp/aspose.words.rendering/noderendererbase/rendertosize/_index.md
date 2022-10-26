@@ -1,7 +1,7 @@
 ---
 title: RenderToSize
 second_title: Aspose.Words for C++ API Reference
-description: Renders the shape into a Graphics object to a specified size. 
+description: Renders the shape into a Graphics object to a specified size.
 type: docs
 weight: 105
 url: /cpp/aspose.words.rendering/noderendererbase/rendertosize/

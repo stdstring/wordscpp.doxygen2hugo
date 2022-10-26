@@ -1,7 +1,7 @@
 ---
 title: get_ParentNode
 second_title: Aspose.Words for C++ API Reference
-description: Gets the immediate parent of this node. 
+description: Gets the immediate parent of this node.
 type: docs
 weight: 92
 url: /cpp/aspose.words/node/get_parentnode/

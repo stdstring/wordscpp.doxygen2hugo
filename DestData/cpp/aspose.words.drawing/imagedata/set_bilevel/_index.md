@@ -1,7 +1,7 @@
 ---
 title: set_BiLevel
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Drawing::ImageData::get_BiLevel. 
+description: 'Setter for Aspose::Words::Drawing::ImageData::get_BiLevel.'
 type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/imagedata/set_bilevel/

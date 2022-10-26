@@ -1,7 +1,7 @@
 ---
 title: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves a VbaModule object by name, or Null if not found. 
+description: Retrieves a VbaModule object by name, or Null if not found.
 type: docs
 weight: 79
 url: /cpp/aspose.words.vba/vbamodulecollection/idx_get/

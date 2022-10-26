@@ -1,7 +1,7 @@
 ---
 title: get_CellSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the amount of space (in points) between the cells. 
+description: Gets or sets the amount of space (in points) between the cells.
 type: docs
 weight: 66
 url: /cpp/aspose.words/tablestyle/get_cellspacing/

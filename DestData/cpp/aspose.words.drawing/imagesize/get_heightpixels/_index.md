@@ -1,7 +1,7 @@
 ---
 title: get_HeightPixels
 second_title: Aspose.Words for C++ API Reference
-description: Gets the height of the image in pixels. 
+description: Gets the height of the image in pixels.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/imagesize/get_heightpixels/

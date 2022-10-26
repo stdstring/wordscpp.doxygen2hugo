@@ -1,7 +1,7 @@
 ---
 title: ChartDataLabel
 second_title: Aspose.Words for C++ API Reference
-description: Represents data label on a chart point or trendline. 
+description: Represents data label on a chart point or trendline.
 type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/

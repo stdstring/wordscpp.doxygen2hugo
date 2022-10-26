@@ -1,7 +1,7 @@
 ---
 title: set_LockContents
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContents. 
+description: 'Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContents.'
 type: docs
 weight: 352
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_lockcontents/

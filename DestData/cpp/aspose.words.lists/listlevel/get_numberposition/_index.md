@@ -1,7 +1,7 @@
 ---
 title: get_NumberPosition
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the position (in points) of the number or bullet for the list level. 
+description: Returns or sets the position (in points) of the number or bullet for the list level.
 type: docs
 weight: 131
 url: /cpp/aspose.words.lists/listlevel/get_numberposition/

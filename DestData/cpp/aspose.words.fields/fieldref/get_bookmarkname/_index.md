@@ -1,7 +1,7 @@
 ---
 title: get_BookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the referenced bookmark's name. 
+description: Gets or sets the referenced bookmark's name.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldref/get_bookmarkname/

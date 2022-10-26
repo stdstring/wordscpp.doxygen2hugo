@@ -1,7 +1,7 @@
 ---
 title: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text of the entry. 
+description: Gets or sets the text of the entry.
 type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldxe/get_text/

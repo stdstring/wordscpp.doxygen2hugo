@@ -1,7 +1,7 @@
 ---
 title: SetText
 second_title: Aspose.Words for C++ API Reference
-description: Adds Text watermark into the document. 
+description: Adds Text watermark into the document.
 type: docs
 weight: 40
 url: /cpp/aspose.words/watermark/settext/

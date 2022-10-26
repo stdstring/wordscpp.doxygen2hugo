@@ -1,7 +1,7 @@
 ---
 title: IndexOf
 second_title: Aspose.Words for C++ API Reference
-description: Returns the index of the specified child node in the child node array. 
+description: Returns the index of the specified child node in the child node array.
 type: docs
 weight: 144
 url: /cpp/aspose.words/compositenode/indexof/

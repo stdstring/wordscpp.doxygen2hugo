@@ -1,7 +1,7 @@
 ---
 title: set_ProgId
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Fields::FieldDde::get_ProgId. 
+description: 'Setter for Aspose::Words::Fields::FieldDde::get_ProgId.'
 type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fielddde/set_progid/

@@ -1,7 +1,7 @@
 ---
 title: get_HasChildNodes
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this node has any child nodes. 
+description: Returns true if this node has any child nodes.
 type: docs
 weight: 53
 url: /cpp/aspose.words/compositenode/get_haschildnodes/

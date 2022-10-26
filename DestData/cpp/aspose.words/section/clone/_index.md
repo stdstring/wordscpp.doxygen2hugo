@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Creates a duplicate of this section. 
+description: Creates a duplicate of this section.
 type: docs
 weight: 66
 url: /cpp/aspose.words/section/clone/

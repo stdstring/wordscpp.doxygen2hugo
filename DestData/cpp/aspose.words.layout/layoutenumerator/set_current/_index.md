@@ -1,7 +1,7 @@
 ---
 title: set_Current
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Layout::LayoutEnumerator::get_Current. 
+description: 'Setter for Aspose::Words::Layout::LayoutEnumerator::get_Current.'
 type: docs
 weight: 222
 url: /cpp/aspose.words.layout/layoutenumerator/set_current/

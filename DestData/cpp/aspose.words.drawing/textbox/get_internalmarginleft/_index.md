@@ -1,7 +1,7 @@
 ---
 title: get_InternalMarginLeft
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the inner left margin in points for a shape. 
+description: Specifies the inner left margin in points for a shape.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/textbox/get_internalmarginleft/

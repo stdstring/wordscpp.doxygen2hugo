@@ -1,7 +1,7 @@
 ---
 title: get_ExtrusionEnabled
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if an extrusion effect is enabled. 
+description: Returns true if an extrusion effect is enabled.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/shape/get_extrusionenabled/

@@ -1,7 +1,7 @@
 ---
 title: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Gets the name of the font. 
+description: Gets the name of the font.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontinfo/get_name/

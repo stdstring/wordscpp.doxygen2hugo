@@ -1,7 +1,7 @@
 ---
 title: List
 second_title: Aspose.Words for C++ API Reference
-description: Represents formatting of a list. 
+description: Represents formatting of a list.
 type: docs
 weight: 1
 url: /cpp/aspose.words.lists/list/

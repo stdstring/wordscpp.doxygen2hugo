@@ -1,7 +1,7 @@
 ---
 title: CellChar
 second_title: Aspose.Words for C++ API Reference
-description: End of a table cell or end of a table row character: (char)7 or "\a". 
+description: 'End of a table cell or end of a table row character: (char)7 or "\a".'
 type: docs
 weight: 170
 url: /cpp/aspose.words/controlchar/cellchar/

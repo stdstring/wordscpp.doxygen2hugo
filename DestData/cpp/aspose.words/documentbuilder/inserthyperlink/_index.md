@@ -1,7 +1,7 @@
 ---
 title: InsertHyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a hyperlink into the document. 
+description: Inserts a hyperlink into the document.
 type: docs
 weight: 430
 url: /cpp/aspose.words/documentbuilder/inserthyperlink/

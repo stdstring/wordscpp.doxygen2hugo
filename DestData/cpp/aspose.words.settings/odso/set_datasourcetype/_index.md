@@ -1,7 +1,7 @@
 ---
 title: set_DataSourceType
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Settings::Odso::get_DataSourceType. 
+description: 'Setter for Aspose::Words::Settings::Odso::get_DataSourceType.'
 type: docs
 weight: 157
 url: /cpp/aspose.words.settings/odso/set_datasourcetype/

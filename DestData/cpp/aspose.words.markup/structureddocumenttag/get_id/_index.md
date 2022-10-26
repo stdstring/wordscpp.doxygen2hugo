@@ -1,7 +1,7 @@
 ---
 title: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Specifies a unique read-only persistent numerical Id for this SDT. 
+description: Specifies a unique read-only persistent numerical Id for this SDT.
 type: docs
 weight: 196
 url: /cpp/aspose.words.markup/structureddocumenttag/get_id/

@@ -1,7 +1,7 @@
 ---
 title: get_StrikeThrough
 second_title: Aspose.Words for C++ API Reference
-description: True if the font is formatted as strikethrough text. 
+description: True if the font is formatted as strikethrough text.
 type: docs
 weight: 508
 url: /cpp/aspose.words/font/get_strikethrough/

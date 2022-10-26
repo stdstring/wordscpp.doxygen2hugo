@@ -1,7 +1,7 @@
 ---
 title: set_Bidi
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::Tables::Table::get_Bidi. 
+description: 'Setter for Aspose::Words::Tables::Table::get_Bidi.'
 type: docs
 weight: 586
 url: /cpp/aspose.words.tables/table/set_bidi/

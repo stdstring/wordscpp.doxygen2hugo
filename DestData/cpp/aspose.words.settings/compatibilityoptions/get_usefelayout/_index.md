@@ -1,7 +1,7 @@
 ---
 title: get_UseFELayout
 second_title: Aspose.Words for C++ API Reference
-description: Do Not Bypass East Asian/Complex Script Layout Code. 
+description: Do Not Bypass East Asian/Complex Script Layout Code.
 type: docs
 weight: 794
 url: /cpp/aspose.words.settings/compatibilityoptions/get_usefelayout/

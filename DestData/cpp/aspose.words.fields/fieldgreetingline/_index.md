@@ -1,7 +1,7 @@
 ---
 title: FieldGreetingLine
 second_title: Aspose.Words for C++ API Reference
-description: Implements the GREETINGLINE field. 
+description: Implements the GREETINGLINE field.
 type: docs
 weight: 664
 url: /cpp/aspose.words.fields/fieldgreetingline/

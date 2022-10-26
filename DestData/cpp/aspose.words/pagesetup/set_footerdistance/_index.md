@@ -1,7 +1,7 @@
 ---
 title: set_FooterDistance
 second_title: Aspose.Words for C++ API Reference
-description: Setter for Aspose::Words::PageSetup::get_FooterDistance. 
+description: 'Setter for Aspose::Words::PageSetup::get_FooterDistance.'
 type: docs
 weight: 729
 url: /cpp/aspose.words/pagesetup/set_footerdistance/

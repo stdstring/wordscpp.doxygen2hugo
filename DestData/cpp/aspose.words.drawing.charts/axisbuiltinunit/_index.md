@@ -1,7 +1,7 @@
 ---
 title: AxisBuiltInUnit
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the display units for an axis. 
+description: Specifies the display units for an axis.
 type: docs
 weight: 248
 url: /cpp/aspose.words.drawing.charts/axisbuiltinunit/
