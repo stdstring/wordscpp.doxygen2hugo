@@ -16,14 +16,12 @@ System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replac
 ```
 
 
-**Match.Index"</b>
-gets the zero-based starting
-position of the match from the start of the find and replace range.
+**Match.Index** gets the zero-based starting position of the match from the start of the find and replace range.
 
-@par Examples
+## Examples
 
 Shows how to apply a different font to new content via FindReplaceOptions.
-@code 
+```cpp
 void ConvertNumbersToHexadecimal()
 {
     auto doc = MakeObject<Document>();
@@ -79,12 +77,16 @@ public:
         mLog->AppendLine(String::Format(u"\tOffset in parent {0} node:\t{1}", args->get_MatchNode()->get_NodeType(), args->get_MatchOffset()));
 
         mLog->AppendLine(String::IsNullOrEmpty(args->get_GroupName()) ? String::Format(u"\tGroup index:\t{0}", args->get_GroupIndex())
-                                                                      : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
+                                                                      : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));
 
-** return **ReplaceAction::Replace**; }**
+        return ReplaceAction::Replace; }
 
-** String GetLog() { return mLog->**ToString()**; }**
+    String GetLog() { return mLog->**ToString(); }
 
-** NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }**
+    NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }
 
-**private: int mCurrentReplacementNumber; SharedPtr<System::Text::StringBuilder> mLog; };  **
+private:
+    int mCurrentReplacementNumber;
+    SharedPtr<System::Text::StringBuilder> mLog;
+};
+```
