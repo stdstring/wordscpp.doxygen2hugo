@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="178" column="24" bodyfile="Aspose.Words.Cpp/Fields/FieldIndex.h" bodystart="178" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a4361f88df65f894ef2b0876095e984c4" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldIndex::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1af9427a9e0278ba247198e4c5a60502de" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldIndex::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -95,7 +95,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="1207" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a56904bca6c64d7cef974b86c247d529a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Bidi::IBidiParagraphLevelOverride &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Bidi::IBidiParagraphLevelOverride &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Bidi::IBidiParagraphLevelOverride &gt; Aspose::Words::Fields::FieldIndex::GetBidiParagraphLevelOverride</definition>
         <argsstring>() override</argsstring>
         <name>GetBidiParagraphLevelOverride</name>
@@ -116,7 +116,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -141,7 +141,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="183" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a4e5f9ae23c30f443f616f61137ca36f3" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldIndex::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -158,7 +158,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1af8f65babe28da4a6a1f02e25e9345d36" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_BookmarkName</definition>
         <argsstring>()</argsstring>
         <name>get_BookmarkName</name>
@@ -224,7 +224,7 @@ Shows how to create an INDEX field, and then use XE fields to populate it with e
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="244" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a9db34694c08720b04f406783dadbe570" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_CrossReferenceSeparator</name>
@@ -281,7 +281,7 @@ Shows how to define cross references in an INDEX field. <programlisting><codelin
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="725" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1aec0232520940ba1b9fdaf44579ffbf84" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_EntryType</definition>
         <argsstring>()</argsstring>
         <name>get_EntryType</name>
@@ -484,7 +484,7 @@ Shows how to split a document into portions by combining INDEX and SEQ fields. <
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="1063" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1abbae4707fb793b4598e95043b6a35c06" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_Heading</definition>
         <argsstring>()</argsstring>
         <name>get_Heading</name>
@@ -563,7 +563,7 @@ Shows how to populate an INDEX field with entries using XE fields, and also modi
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="674" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a8b7e3e464d1477090782d9093fb62984" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_LanguageId</definition>
         <argsstring>()</argsstring>
         <name>get_LanguageId</name>
@@ -642,7 +642,7 @@ Shows how to populate an INDEX field with entries using XE fields, and also modi
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="1197" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1ac36d5cb5c5d2cb7dd8ef470f6ce5658a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_LetterRange</definition>
         <argsstring>()</argsstring>
         <name>get_LetterRange</name>
@@ -721,7 +721,7 @@ Shows how to populate an INDEX field with entries using XE fields, and also modi
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="846" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a52a3d7240546963ffba79713b07f8232" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_NumberOfColumns</definition>
         <argsstring>()</argsstring>
         <name>get_NumberOfColumns</name>
@@ -800,7 +800,7 @@ Shows how to populate an INDEX field with entries using XE fields, and also modi
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="317" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a627f9569e85fd700a827859d1d658d83" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_PageNumberListSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_PageNumberListSeparator</name>
@@ -854,7 +854,7 @@ Shows how to edit the page number separator in an INDEX field. <programlisting><
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="773" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a8f24f476b9b26dda81293679fcc1564d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_PageNumberSeparator</name>
@@ -908,7 +908,7 @@ Shows how to edit the page number separator in an INDEX field. <programlisting><
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="442" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a942c6c853098f3bfc2d4764e3f558fb7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_PageRangeSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_PageRangeSeparator</name>
@@ -1037,7 +1037,7 @@ Shows how to work with subentries in an INDEX field. <programlisting><codeline><
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="909" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1a9a6812448c59eabfb8f96c391da6a1e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_SequenceName</definition>
         <argsstring>()</argsstring>
         <name>get_SequenceName</name>
@@ -1120,7 +1120,7 @@ Shows how to split a document into portions by combining INDEX and SEQ fields. <
         <location file="Aspose.Words.Cpp/Fields/FieldIndex.h" line="986" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_index_1adb98727b4007929a5882de2e37f1d68c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIndex::get_SequenceSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_SequenceSeparator</name>
@@ -1279,7 +1279,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_BookmarkName</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_BookmarkName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1298,7 +1298,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_CrossReferenceSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_CrossReferenceSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1317,7 +1317,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_EntryType</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_EntryType</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1336,7 +1336,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_Heading</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_Heading</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1355,7 +1355,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_LanguageId</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_LanguageId</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1374,7 +1374,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_LetterRange</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_LetterRange</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1393,7 +1393,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_NumberOfColumns</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_NumberOfColumns</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1412,7 +1412,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_PageNumberListSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_PageNumberListSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1431,7 +1431,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_PageNumberSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_PageNumberSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1450,7 +1450,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_PageRangeSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_PageRangeSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1488,7 +1488,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_SequenceName</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_SequenceName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1507,7 +1507,7 @@ Shows how to sort INDEX field entries phonetically. <programlisting><codeline><h
         <name>set_SequenceSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldIndex::set_SequenceSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

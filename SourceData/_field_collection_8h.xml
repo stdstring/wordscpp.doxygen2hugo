@@ -47,6 +47,79 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/shared_ptr.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/collections/ienumerator.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/collections/ienumerable.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref></highlight></codeline>
+<codeline lineno="19"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref></highlight></codeline>
+<codeline lineno="21"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Fields</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Field;</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="26"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="29"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Fields<sp/>{</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="186" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection" kindref="compound" tooltip="A collection of Field objects that represents the fields in the specified range.">FieldCollection</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt;System::SharedPtr&lt;Aspose::Words::Fields::Field&gt;&gt;</highlight></codeline>
+<codeline lineno="187"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection" kindref="compound" tooltip="A collection of Field objects that represents the fields in the specified range.">FieldCollection</ref><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection" kindref="compound" tooltip="A collection of Field objects that represents the fields in the specified range.">ThisType</ref>;</highlight></codeline>
+<codeline lineno="189"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Fields::Field&gt;</ref>&gt;<sp/><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref>;</highlight></codeline>
+<codeline lineno="190"><highlight class="normal"></highlight></codeline>
+<codeline lineno="191"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="192"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="193"><highlight class="normal"></highlight></codeline>
+<codeline lineno="194"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="195"><highlight class="normal"></highlight></codeline>
+<codeline lineno="196"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="197"><highlight class="normal"></highlight></codeline>
+<codeline lineno="339" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a801400d3e1b23d5422d1212478667cfe" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/>int32_t<sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a801400d3e1b23d5422d1212478667cfe" kindref="member" tooltip="Returns the number of the fields in the collection.">get_Count</ref>();</highlight></codeline>
+<codeline lineno="340"><highlight class="normal"></highlight></codeline>
+<codeline lineno="391" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a593bbbd564b029adc4d49e07b138788b" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::Fields::Field&gt;</ref><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a593bbbd564b029adc4d49e07b138788b" kindref="member" tooltip="Returns a field at the specified index.">idx_get</ref>(int32_t<sp/>index);</highlight></codeline>
+<codeline lineno="392"><highlight class="normal"></highlight></codeline>
+<codeline lineno="434" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a169d6f3b4fd4cdcfa653965918d108d8" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a169d6f3b4fd4cdcfa653965918d108d8" kindref="member" tooltip="Removes the specified field from this collection and from the document.">Remove</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::Fields::Field&gt;</ref>&amp;<sp/>field);</highlight></codeline>
+<codeline lineno="435"><highlight class="normal"></highlight></codeline>
+<codeline lineno="477" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a3307a8fbc1bec652eb3519d8fc6b0da5" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a3307a8fbc1bec652eb3519d8fc6b0da5" kindref="member" tooltip="Removes a field at the specified index from this collection and from the document.">RemoveAt</ref>(int32_t<sp/>index);</highlight></codeline>
+<codeline lineno="478"><highlight class="normal"></highlight></codeline>
+<codeline lineno="518" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a7d5b0df6f69b05c7a345ba3dc6969e55" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a7d5b0df6f69b05c7a345ba3dc6969e55" kindref="member" tooltip="Removes all fields of this collection from the document and from this collection itself.">Clear</ref>();</highlight></codeline>
+<codeline lineno="519"><highlight class="normal"></highlight></codeline>
+<codeline lineno="625" refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a35bd95380ba705c4a0eb67ad974260d9" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;System::SharedPtr&lt;Aspose::Words::Fields::Field&gt;</ref>&gt;&gt;<sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection_1a35bd95380ba705c4a0eb67ad974260d9" kindref="member" tooltip="Returns an enumerator object.">GetEnumerator</ref>()<sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="626"><highlight class="normal"></highlight></codeline>
+<codeline lineno="627"><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="628"><highlight class="normal"></highlight></codeline>
+<codeline lineno="629"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">virtual</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection" kindref="compound" tooltip="A collection of Field objects that represents the fields in the specified range.">~FieldCollection</ref>();</highlight></codeline>
+<codeline lineno="630"><highlight class="normal"></highlight></codeline>
+<codeline lineno="631"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="632"><highlight class="normal"></highlight></codeline>
+<codeline lineno="633"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Object&gt;</ref><sp/>mField0;</highlight></codeline>
+<codeline lineno="634"><highlight class="normal"></highlight></codeline>
+<codeline lineno="635"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="636"><highlight class="normal"></highlight></codeline>
+<codeline lineno="637"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="638"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="639"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Fields/FieldCollection.h"/>
   </compounddef>
 </doxygen>

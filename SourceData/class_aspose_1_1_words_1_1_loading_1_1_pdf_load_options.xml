@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Loading/PdfLoadOptions.h" line="25" column="28" bodyfile="Aspose.Words.Cpp/Loading/PdfLoadOptions.h" bodystart="25" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a7cee31c4391c90770b3ac61af129153b" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Loading::PdfLoadOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -272,7 +272,6 @@
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_ConvertMetafilesToPng</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_ConvertShapeToOfficeMath</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_Encoding</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_FontSettings</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_LanguagePreferences</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af9522ca2c1dd6eb41ce67d2e83640b16" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>get_LoadFormat</name></member>
@@ -299,7 +298,6 @@
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_ConvertMetafilesToPng</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_ConvertShapeToOfficeMath</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_Encoding</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_FontSettings</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_LoadFormat</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a816c70f5ed2d94a32504abda898f303e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::PdfLoadOptions</scope><name>set_MswVersion</name></member>

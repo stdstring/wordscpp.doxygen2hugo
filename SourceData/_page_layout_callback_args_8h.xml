@@ -67,6 +67,67 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/Layout/PageLayoutEvent.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref></highlight></codeline>
+<codeline lineno="18"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref></highlight></codeline>
+<codeline lineno="20"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_loading_1ac36ff9a0727d3a12efb8a9c600826f81a0945359809dad1fbf3dea1c95a0da951" kindref="member" tooltip="Document.">Document</ref>;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">Layout</ref><sp/>{</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33" refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args" kindref="compound" tooltip="An argument passed into Notify()">PageLayoutCallbackArgs</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline lineno="34"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args" kindref="compound" tooltip="An argument passed into Notify()">PageLayoutCallbackArgs</ref><sp/><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args" kindref="compound" tooltip="An argument passed into Notify()">ThisType</ref>;</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref>;</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="118" refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a5cb54fa7687215760ff980cac36e8507" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bc" kindref="member" tooltip="A code of event raised during page layout model build and rendering. Page layout model is built in tw...">Aspose::Words::Layout::PageLayoutEvent</ref><sp/><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a5cb54fa7687215760ff980cac36e8507" kindref="member" tooltip="Gets event.">get_Event</ref>()<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="119"><highlight class="normal"></highlight></codeline>
+<codeline lineno="195" refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a31a8f314341d9a2d0ef5e41e32c7ad1c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::Document&gt;</ref>&amp;<sp/><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a31a8f314341d9a2d0ef5e41e32c7ad1c" kindref="member" tooltip="Gets document.">get_Document</ref>()<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="196"><highlight class="normal"></highlight></codeline>
+<codeline lineno="273" refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a5737b4dc19f4709a7414f45f3d86f7f9" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/>int32_t<sp/><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a5737b4dc19f4709a7414f45f3d86f7f9" kindref="member" tooltip="Gets 0-based index of the page in the document this event relates to. Returns negative value if there...">get_PageIndex</ref>();</highlight></codeline>
+<codeline lineno="274"><highlight class="normal"></highlight></codeline>
+<codeline lineno="275"><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="276"><highlight class="normal"></highlight></codeline>
+<codeline lineno="277"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="278"><highlight class="normal"></highlight></codeline>
+<codeline lineno="279"><highlight class="normal"><sp/><sp/><sp/><sp/>__TypeStub&lt;4,4,4,4&gt;::type<sp/>mField0;</highlight></codeline>
+<codeline lineno="280"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Object&gt;</ref><sp/>mField1;</highlight></codeline>
+<codeline lineno="281"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Object&gt;</ref><sp/>mField2;</highlight></codeline>
+<codeline lineno="282"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Object&gt;</ref><sp/>mField3;</highlight></codeline>
+<codeline lineno="283"><highlight class="normal"></highlight></codeline>
+<codeline lineno="284"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="285"><highlight class="normal"></highlight></codeline>
+<codeline lineno="286"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="287"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="288"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Layout/PageLayoutCallbackArgs.h"/>
   </compounddef>
 </doxygen>

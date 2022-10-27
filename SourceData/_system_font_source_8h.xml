@@ -14,7 +14,7 @@
         </childnode>
         <childnode refid="9" relation="include">
         </childnode>
-        <childnode refid="12" relation="include">
+        <childnode refid="11" relation="include">
         </childnode>
         <childnode refid="3" relation="include">
         </childnode>
@@ -34,13 +34,9 @@
       <node id="9">
         <label>Aspose.Words.Cpp/Fonts/IFontSource.h</label>
         <link refid="_i_font_source_8h_source"/>
-        <childnode refid="8" relation="include">
-        </childnode>
         <childnode refid="10" relation="include">
         </childnode>
         <childnode refid="11" relation="include">
-        </childnode>
-        <childnode refid="12" relation="include">
         </childnode>
       </node>
       <node id="1">
@@ -59,14 +55,11 @@
         <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
         <link refid="aspose__words__api__defs_8h_source"/>
       </node>
-      <node id="12">
+      <node id="11">
         <label>cstdint</label>
       </node>
       <node id="2">
         <label>system/array.h</label>
-      </node>
-      <node id="11">
-        <label>system/collections/ienumerable.h</label>
       </node>
       <node id="5">
         <label>system/enum.h</label>
@@ -89,6 +82,73 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/array.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/Fonts/FontSourceType.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/Fonts/FontSourceBase.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref></highlight></codeline>
+<codeline lineno="18"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Fonts</highlight></codeline>
+<codeline lineno="20"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">IFontData;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">System</highlight></codeline>
+<codeline lineno="25"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Collections</highlight></codeline>
+<codeline lineno="27"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Generic</highlight></codeline>
+<codeline lineno="29"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal"><sp/>&lt;</highlight><highlight class="keyword">typename</highlight><highlight class="normal">&gt;<sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">IEnumerable;</highlight></codeline>
+<codeline lineno="31"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="33"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Fonts<sp/>{</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95" refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" kindref="compound" tooltip="Represents all TrueType fonts installed to the system.">SystemFontSource</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound" tooltip="This is an abstract base class for the classes that allow the user to specify various font sources.">Aspose::Words::Fonts::FontSourceBase</ref></highlight></codeline>
+<codeline lineno="96"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" kindref="compound" tooltip="Represents all TrueType fonts installed to the system.">SystemFontSource</ref><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" kindref="compound" tooltip="Represents all TrueType fonts installed to the system.">ThisType</ref>;</highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound" tooltip="This is an abstract base class for the classes that allow the user to specify various font sources.">Aspose::Words::Fonts::FontSourceBase</ref><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound" tooltip="This is an abstract base class for the classes that allow the user to specify various font sources.">BaseType</ref>;</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"></highlight></codeline>
+<codeline lineno="100"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"></highlight></codeline>
+<codeline lineno="103"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"></highlight></codeline>
+<codeline lineno="159" refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a75a89f5d533b6230e6d3f098d86af8f8" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1" kindref="member" tooltip="Specifies the type of a font source.">Aspose::Words::Fonts::FontSourceType</ref><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a75a89f5d533b6230e6d3f098d86af8f8" kindref="member" tooltip="Returns the type of the font source.">get_Type</ref>()<sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="160"><highlight class="normal"></highlight></codeline>
+<codeline lineno="215" refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a8900ef77d737be7a45ede6e13766dcb0" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a8900ef77d737be7a45ede6e13766dcb0" kindref="member" tooltip="Ctor.">SystemFontSource</ref>();</highlight></codeline>
+<codeline lineno="216"><highlight class="normal"></highlight></codeline>
+<codeline lineno="273" refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1aec39a464efaa203a5a464e9475f4edf8" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1aec39a464efaa203a5a464e9475f4edf8" kindref="member" tooltip="Ctor.">SystemFontSource</ref>(int32_t<sp/>priority);</highlight></codeline>
+<codeline lineno="274"><highlight class="normal"></highlight></codeline>
+<codeline lineno="329" refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr&lt;System::String&gt;</ref><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">GetSystemFontFolders</ref>();</highlight></codeline>
+<codeline lineno="330"><highlight class="normal"></highlight></codeline>
+<codeline lineno="331"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="332"><highlight class="normal"></highlight></codeline>
+<codeline lineno="333"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Fonts::IFontData&gt;</ref>&gt;&gt;<sp/>GetFontDataInternal()<sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="334"><highlight class="normal"></highlight></codeline>
+<codeline lineno="335"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="336"><highlight class="normal"></highlight></codeline>
+<codeline lineno="337"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="338"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="339"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Fonts/SystemFontSource.h"/>
   </compounddef>
 </doxygen>

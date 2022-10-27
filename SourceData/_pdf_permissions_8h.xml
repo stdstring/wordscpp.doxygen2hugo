@@ -15,8 +15,6 @@
         <link refid="_pdf_user_access_permissions_8h_source"/>
         <childnode refid="6" relation="include">
         </childnode>
-        <childnode refid="7" relation="include">
-        </childnode>
       </node>
       <node id="1">
         <label>Aspose.Words.Cpp/Saving/PdfPermissions.h</label>
@@ -88,6 +86,68 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum_helpers.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/Rendering/Pdf/Encryption/PdfUserAccessPermissions.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Saving<sp/>{</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54" refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752c" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752c" kindref="member" tooltip="Specifies the operations that are allowed to a user on an encrypted PDF document.">PdfPermissions</ref></highlight></codeline>
+<codeline lineno="55"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"></highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752ca01e6cf1353129ac33dee866b18268fcf" kindref="member" tooltip="Disallows all operations on the PDF document. This is the default value.">DisallowAll</ref><sp/>=<sp/>0,</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752cac31c7129f53f2a590242ce0fa819f931" kindref="member" tooltip="Allows all operations on the PDF document.">AllowAll</ref><sp/>=<sp/>0xffff,</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752ca9dbf98cd42a893d9d7efe399b2118920" kindref="member" tooltip="Copy or otherwise extract text and graphics from the document by operations other than that controlle...">ContentCopy</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::Copy),</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752cad9b0c61b70f7af4a54295cf3af32b5ba" kindref="member" tooltip="Extract text and graphics (in support of accessibility to users with disabilities or for other purpos...">ContentCopyForAccessibility</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::CopyForAccessibility),</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="73"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752cae42d82d087e03b56fa99f957a21b70f8" kindref="member" tooltip="Modify the contents of the document by operations other than those controlled by ModifyAnnotations,...">ModifyContents</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::Modify),</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"></highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752caa2f2d4fa7576b608d59f286216581d21" kindref="member" tooltip="Add or modify text annotations, fill in interactive form fields, and, if ModifyContents is also set,...">ModifyAnnotations</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::ModifyAnnotations),</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752ca19e18fe63c6f85a0907ec907d3d9a84b" kindref="member" tooltip="Fill in existing interactive form fields (including signature fields), even if ModifyContents is clea...">FillIn</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::FillForms),</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752ca47401c95d40db5c702576bb86cfa8961" kindref="member" tooltip="Assemble the document (insert, rotate, or delete pages and create document outline items or thumbnail...">DocumentAssembly</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::Assemble),</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"></highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752cab002a564ceda05dbdf012a48a145d0d3" kindref="member" tooltip="Print the document (possibly not at the highest quality level, depending on whether HighResolutionPri...">Printing</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::Print),</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752ca975e44e11b89f6f79ab1fae14129cb5e" kindref="member" tooltip="Print the document to a representation from which a faithful digital copy of the PDF content could be...">HighResolutionPrinting</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::HighQualityPrint<sp/>|<sp/>Aspose::Rendering::Pdf::Encryption::PdfUserAccessPermissions::Print)</highlight></codeline>
+<codeline lineno="96"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="98"><highlight class="normal">DECLARE_ENUM_OPERATORS(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a51d988d57f39002503a04232f9c4752c" kindref="member" tooltip="Specifies the operations that are allowed to a user on an encrypted PDF document.">Aspose::Words::Saving::PdfPermissions</ref>);</highlight></codeline>
+<codeline lineno="99"><highlight class="normal">DECLARE_USING_GLOBAL_OPERATORS</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="101"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="102"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="103"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"></highlight></codeline>
+<codeline lineno="105"><highlight class="normal">DECLARE_USING_ENUM_OPERATORS(<ref refid="namespace_aspose_1_1_words_1_1_saving" kindref="compound" tooltip="The Aspose.Words.Saving namespace provides classes and enumerations that allow to specify additional ...">Aspose::Words::Saving</ref>);</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="107"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Saving::PdfPermissions&gt;</highlight></codeline>
+<codeline lineno="108"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Flags;</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Saving::PdfPermissions,<sp/>const<sp/>char_t*&gt;,<sp/>10&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="111"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Saving/PdfPermissions.h"/>
   </compounddef>
 </doxygen>

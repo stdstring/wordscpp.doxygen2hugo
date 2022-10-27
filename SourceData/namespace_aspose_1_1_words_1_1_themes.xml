@@ -184,7 +184,7 @@ Shows how to work with theme fonts and colors. <programlisting><codeline><highli
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" kindref="member" tooltip="Accent color 2.">ThemeColor::Accent2</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
-<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>reset<sp/>them<sp/>font<sp/>and<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>setting<sp/>ThemeFont.None/ThemeColor.None:</highlight><highlight class="normal"></highlight></codeline>
@@ -207,11 +207,11 @@ Shows how to work with theme fonts and colors. <programlisting><codeline><highli
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
-<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>setting<sp/>non-theme<sp/>font/color<sp/>names:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
@@ -229,7 +229,7 @@ Shows how to work with theme fonts and colors. <programlisting><codeline><highli
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>().ToArgb(),<sp/>font-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>().ToArgb(),<sp/>font-&gt;get_Color().ToArgb());</highlight></codeline>
 </programlisting></para>
 <para>Shows how to create and use themed style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
@@ -315,7 +315,7 @@ Shows how to work with theme fonts and colors. <programlisting><codeline><highli
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" kindref="member" tooltip="Accent color 2.">ThemeColor::Accent2</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
-<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>reset<sp/>them<sp/>font<sp/>and<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>setting<sp/>ThemeFont.None/ThemeColor.None:</highlight><highlight class="normal"></highlight></codeline>
@@ -338,11 +338,11 @@ Shows how to work with theme fonts and colors. <programlisting><codeline><highli
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
-<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>setting<sp/>non-theme<sp/>font/color<sp/>names:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
@@ -360,7 +360,7 @@ Shows how to work with theme fonts and colors. <programlisting><codeline><highli
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>().ToArgb(),<sp/>font-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>().ToArgb(),<sp/>font-&gt;get_Color().ToArgb());</highlight></codeline>
 </programlisting></para>
 <para>Shows how to create and use themed style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>

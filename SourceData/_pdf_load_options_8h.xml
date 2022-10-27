@@ -78,6 +78,62 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/Loading/LoadOptions.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Loading<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options" kindref="compound" tooltip="Allows to specify additional options when loading Pdf document into a Document object.">PdfLoadOptions</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound" tooltip="Allows to specify additional options (such as password or base URI) when loading a document into a Do...">Aspose::Words::Loading::LoadOptions</ref></highlight></codeline>
+<codeline lineno="24"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options" kindref="compound" tooltip="Allows to specify additional options when loading Pdf document into a Document object.">PdfLoadOptions</ref><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options" kindref="compound" tooltip="Allows to specify additional options when loading Pdf document into a Document object.">ThisType</ref>;</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound" tooltip="Allows to specify additional options (such as password or base URI) when loading a document into a Do...">Aspose::Words::Loading::LoadOptions</ref><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound" tooltip="Allows to specify additional options (such as password or base URI) when loading a document into a Do...">BaseType</ref>;</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a9c45278d353b9e73139171d3417a573e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/>int32_t<sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a9c45278d353b9e73139171d3417a573e" kindref="member" tooltip="Gets the 0-based index of the first page to read. Default is 0.">get_PageIndex</ref>()<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1ad8121f17b263310662dccb800cc38d86" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1ad8121f17b263310662dccb800cc38d86" kindref="member" tooltip="Sets the 0-based index of the first page to read. Default is 0.">set_PageIndex</ref>(int32_t<sp/>value);</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a251f9bce2005aa92d201d2109067a4a4" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/>int32_t<sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a251f9bce2005aa92d201d2109067a4a4" kindref="member" tooltip="Gets the number of pages to read. Default is MaxValue which means all pages of the document will be r...">get_PageCount</ref>()<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a71a18cee053ec3ab3645b26655c0b966" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a71a18cee053ec3ab3645b26655c0b966" kindref="member" tooltip="Sets the number of pages to read. Default is MaxValue which means all pages of the document will be r...">set_PageCount</ref>(int32_t<sp/>value);</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="46" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a6b7586932cef8bb211ac1654167c5278" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a6b7586932cef8bb211ac1654167c5278" kindref="member" tooltip="Gets the flag indicating whether images must be skipped while loading PDF document....">get_SkipPdfImages</ref>()<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"></highlight></codeline>
+<codeline lineno="49" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a0450be6af5f2eb7f14c5c280d657b9bc" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1a0450be6af5f2eb7f14c5c280d657b9bc" kindref="member" tooltip="Sets the flag indicating whether images must be skipped while loading PDF document....">set_SkipPdfImages</ref>(</highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>value);</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51" refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1ac166004ff20a88af664148c9dc5e1b7a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options_1ac166004ff20a88af664148c9dc5e1b7a" kindref="member">PdfLoadOptions</ref>();</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="53"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"></highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/>__TypeStub&lt;4,4,4,4&gt;::type<sp/>mField0;</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/>__TypeStub&lt;4,4,4,4&gt;::type<sp/>mField1;</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/>__TypeStub&lt;1,1,1,1&gt;::type<sp/>mField2;</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="59"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"></highlight></codeline>
+<codeline lineno="61"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="62"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="63"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Loading/PdfLoadOptions.h"/>
   </compounddef>
 </doxygen>

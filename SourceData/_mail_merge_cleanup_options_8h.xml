@@ -71,6 +71,60 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum_helpers.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">MailMerging<sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="24" refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067" kindref="member" tooltip="Specifies options that determine what items are removed during mail merge.">MailMergeCleanupOptions</ref></highlight></codeline>
+<codeline lineno="25"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Specifies a default value.">None</ref><sp/>=<sp/>0x00,</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a39bfd25b2387829338e7aff9f46af280" kindref="member" tooltip="Specifies whether paragraphs that contained mail merge fields with no data should be removed from the...">RemoveEmptyParagraphs</ref><sp/>=<sp/>0x01,</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067ac3d829ef1c15f65d77b69d94fd8edd91" kindref="member" tooltip="Specifies whether unused mail merge regions should be removed from the document.">RemoveUnusedRegions</ref><sp/>=<sp/>0x02,</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a2a799c5162f49d56a9f514e20341cc11" kindref="member" tooltip="Specifies whether unused merge fields should be removed from the document.">RemoveUnusedFields</ref><sp/>=<sp/>0x04,</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067aad6599cb327afaa6f2997ae34aed9ccc" kindref="member" tooltip="Specifies whether fields that contain merge fields (for example, IFs) should be removed from the docu...">RemoveContainingFields</ref><sp/>=<sp/>0x08,</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a88d97985fa858d4d4698327b6bffb82f" kindref="member" tooltip="Specifies whether static fields should be removed from the document. Static fields are fields,...">RemoveStaticFields</ref><sp/>=<sp/>0x10,</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"></highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a9930ee5db01a9801a496aeab7c4376db" kindref="member" tooltip="Specifies whether empty rows that contain mail merge regions should be removed from the document.">RemoveEmptyTableRows</ref><sp/>=<sp/>0x20</highlight></codeline>
+<codeline lineno="89"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight></codeline>
+<codeline lineno="91"><highlight class="normal">DECLARE_ENUM_OPERATORS(<ref refid="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067" kindref="member" tooltip="Specifies options that determine what items are removed during mail merge.">Aspose::Words::MailMerging::MailMergeCleanupOptions</ref>);</highlight></codeline>
+<codeline lineno="92"><highlight class="normal">DECLARE_USING_GLOBAL_OPERATORS</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"></highlight></codeline>
+<codeline lineno="94"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="95"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="96"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="98"><highlight class="normal">DECLARE_USING_ENUM_OPERATORS(<ref refid="namespace_aspose_1_1_words_1_1_mail_merging" kindref="compound" tooltip="The Aspose.Words.MailMerging namespace contains classes of the &quot;original&quot; mail merge reporting engine...">Aspose::Words::MailMerging</ref>);</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::MailMerging::MailMergeCleanupOptions&gt;</highlight></codeline>
+<codeline lineno="101"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Flags;</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::MailMerging::MailMergeCleanupOptions,<sp/>const<sp/>char_t*&gt;,<sp/>7&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="104"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/MailMerging/MailMergeCleanupOptions.h"/>
   </compounddef>
 </doxygen>

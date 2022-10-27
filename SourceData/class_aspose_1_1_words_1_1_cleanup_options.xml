@@ -6,7 +6,7 @@
     <includes refid="_cleanup_options_8h" local="no">Aspose.Words.Cpp/CleanupOptions.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_cleanup_options_1a08136e887e3ff2895fcbc2a9e9b6bc0b" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::CleanupOptions::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/CleanupOptions.h" line="67" column="28" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="67" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_cleanup_options_1a59abedbe16fca402dab629173fb917f1" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::CleanupOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -156,12 +156,12 @@ Shows how to remove duplicated styles from the document. <programlisting><codeli
 <codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>myStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Size(14);</highlight></codeline>
 <codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>duplicateStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Size(14);</highlight></codeline>
 <codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

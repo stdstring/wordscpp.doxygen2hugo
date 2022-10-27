@@ -47,6 +47,114 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/shared_ptr.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/collections/list.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/collections/ienumerable.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref></highlight></codeline>
+<codeline lineno="19"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref></highlight></codeline>
+<codeline lineno="21"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Framesets</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Frameset;</highlight></codeline>
+<codeline lineno="25"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="28"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">System</highlight></codeline>
+<codeline lineno="30"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Collections</highlight></codeline>
+<codeline lineno="32"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Generic</highlight></codeline>
+<codeline lineno="34"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal"><sp/>&lt;</highlight><highlight class="keyword">typename</highlight><highlight class="normal">&gt;<sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">IEnumerator;</highlight></codeline>
+<codeline lineno="36"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="37"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="38"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Framesets<sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight></codeline>
+<codeline lineno="47" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kindref="compound" tooltip="Represents a collection of instances of the Frameset class.">FramesetCollection</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt;System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt;&gt;</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kindref="compound" tooltip="Represents a collection of instances of the Frameset class.">FramesetCollection</ref><sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kindref="compound" tooltip="Represents a collection of instances of the Frameset class.">ThisType</ref>;</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt;</ref>&gt;<sp/><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref>;</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"></highlight></codeline>
+<codeline lineno="55"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"></highlight></codeline>
+<codeline lineno="57" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1e7a2df3837608f358f7aacc47c19d9" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">using<sp/></highlight><highlight class="normal"><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type</ref><sp/>=<sp/><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt;</ref>&gt;;</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="59" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">using<sp/></highlight><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" kindref="member">iterator</ref><sp/>=<sp/></highlight><highlight class="keyword">typename</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref>;</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"></highlight></codeline>
+<codeline lineno="61" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">using<sp/></highlight><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref><sp/>=<sp/></highlight><highlight class="keyword">typename</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref>;</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a96ce5704bf0f0a6494a336d392ce38a0" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">using<sp/></highlight><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a96ce5704bf0f0a6494a336d392ce38a0" kindref="member">virtualized_iterator_element</ref><sp/>=<sp/></highlight><highlight class="keyword">typename</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref>;</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"></highlight></codeline>
+<codeline lineno="65" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">using<sp/></highlight><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref><sp/>=<sp/></highlight><highlight class="keyword">typename</highlight><highlight class="normal"><sp/><ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref>;</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"></highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="68"><highlight class="normal"></highlight></codeline>
+<codeline lineno="70" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1fb13abfe1865f35da45ee9369c953a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/>int32_t<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1fb13abfe1865f35da45ee9369c953a" kindref="member" tooltip="Gets the number of frames or frames pages contained in the collection.">get_Count</ref>();</highlight></codeline>
+<codeline lineno="71"><highlight class="normal"></highlight></codeline>
+<codeline lineno="73" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1abc9950b6a74d1cfb048243fb54a4cf46" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt;</ref><sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1abc9950b6a74d1cfb048243fb54a4cf46" kindref="member" tooltip="Gets a frame or frames page at the specified index.">idx_get</ref>(int32_t<sp/>index);</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a172b38941b06e5c7a5e01eceddea19b0" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt;</ref>&gt;&gt;<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a172b38941b06e5c7a5e01eceddea19b0" kindref="member">GetEnumerator</ref>()<sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="77" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1796ed2c4c530093b45ad23ec61aaa2e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1796ed2c4c530093b45ad23ec61aaa2e" kindref="member">FramesetCollection</ref>();</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"></highlight></codeline>
+<codeline lineno="79" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1acafcd77e52381a2d56e244560bc58dfd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" kindref="member">iterator</ref><sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1acafcd77e52381a2d56e244560bc58dfd" kindref="member">begin</ref>()<sp/>noexcept;</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a5e3eb8db7d587f046e736aa10cd0a7df" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" kindref="member">iterator</ref><sp/>end()<sp/>noexcept;</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="83" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1446f97b733352cc64a71231ebbc96ba" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref><sp/>begin()<sp/>const<sp/>noexcept;</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"></highlight></codeline>
+<codeline lineno="85" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a657f1aa97b4be2b30fc3f826a3018f7d" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref><sp/>end()<sp/>const<sp/>noexcept;</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a6e73a06f4c7ed7e4a4a8c54caa7ea8fd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref><sp/>cbegin()<sp/>const<sp/>noexcept;</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="89" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adedf39fef6dfdf8ab0c43baa03301a1e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref><sp/>cend()<sp/>const<sp/>noexcept;</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight></codeline>
+<codeline lineno="91" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae2a15ae6bcd062cc311262b5a427f9e3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref>*<sp/>virtualizeBeginIterator()<sp/>override;</highlight></codeline>
+<codeline lineno="92"><highlight class="normal"></highlight></codeline>
+<codeline lineno="93" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a01e9e04549495d8b754e636a407583cf" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref>*<sp/>virtualizeEndIterator()<sp/>override;</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a5425b0e201b51af9254fcfeb91b0f3a8" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref>*<sp/>virtualizeBeginConstIterator()<sp/>const<sp/>override;</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"></highlight></codeline>
+<codeline lineno="97" refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae228d03107fbd06b3f01854c8ab911e4" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref>*<sp/>virtualizeEndConstIterator()<sp/>const<sp/>override;</highlight></codeline>
+<codeline lineno="98"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal">protected:</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/>virtual<sp/>ASPOSE_WORDS_SHARED_API<sp/>~<ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kindref="compound" tooltip="Represents a collection of instances of the Frameset class.">FramesetCollection</ref>();</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"></highlight></codeline>
+<codeline lineno="103"><highlight class="normal">private:</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"></highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/>System::SharedPtr&lt;System::Object&gt;<sp/>mField0;</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight></codeline>
+<codeline lineno="107"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"></highlight></codeline>
+<codeline lineno="109"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="110"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="111"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h"/>
   </compounddef>
 </doxygen>

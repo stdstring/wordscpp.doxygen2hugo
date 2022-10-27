@@ -53,6 +53,53 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Settings<sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="24" refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5" kindref="member" tooltip="Specifies how document is printed out.">MultiplePagesType</ref></highlight></codeline>
+<codeline lineno="25"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a960b44c579bc2f6818d2daaf9e4c16f0" kindref="member" tooltip="Normal printing, no multiple pages specified.">Normal</ref>,</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a01785c7430bd760c9dfcfa4843249aac" kindref="member" tooltip="Swaps left and right margins on facing pages.">MirrorMargins</ref>,</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5af8f1cbd0ffb1243c898ec6d21f3f28d7" kindref="member" tooltip="Prints two pages per sheet.">TwoPagesPerSheet</ref>,</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a0435eb63352346bc31fbd48317a53eb8" kindref="member" tooltip="Specifies whether to print the document as a book fold.">BookFoldPrinting</ref>,</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a522b6286dd40578b8b56fab7ad20439c" kindref="member" tooltip="Specifies whether to print the document as a reverse book fold.">BookFoldPrintingReverse</ref>,</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a7a1920d61156abc05a60135aefe8bc67" kindref="member" tooltip="Equals to the PauseOnError value.">Default</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a960b44c579bc2f6818d2daaf9e4c16f0" kindref="member" tooltip="Normal printing, no multiple pages specified.">Normal</ref>)</highlight></codeline>
+<codeline lineno="44"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight></codeline>
+<codeline lineno="46"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="47"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="50"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Settings::MultiplePagesType&gt;</highlight></codeline>
+<codeline lineno="52"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Settings::MultiplePagesType,<sp/>const<sp/>char_t*&gt;,<sp/>6&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="54"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Settings/MultiplePagesType.h"/>
   </compounddef>
 </doxygen>

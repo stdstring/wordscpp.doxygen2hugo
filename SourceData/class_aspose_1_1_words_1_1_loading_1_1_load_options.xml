@@ -11,7 +11,7 @@
     <includes refid="_load_options_8h" local="no">Aspose.Words.Cpp/Loading/LoadOptions.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af5407131d6084848b661cbd0ac39c203" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Loading::LoadOptions::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -22,7 +22,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="85" column="28" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="85" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="86" column="28" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="86" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adae1c5d21919626a98568f4ece60e09e" prot="private" static="no">
         <type><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">LoadOptions</ref></type>
@@ -36,10 +36,10 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="84" column="25" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="84" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="85" column="25" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae0d6eb6565822c1b46a58c456e63724a" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Loading::LoadOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,13 +50,13 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="87" column="37" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="87" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="88" column="37" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="88" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-attrib">
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9a5e49e5b2248b5518f3f125b276dea9" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
-        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField0</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8f7fe64d1638495865c879148888af25" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField0</qualifiedname>
@@ -66,11 +66,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="774" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="774" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="773" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="773" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afbdb1f7160ab0cffcad85f56bd9c8b2e" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
-        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField1</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0c4fb28fee83d29e68d6116f4f47a71a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::LoadOptions::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField1</qualifiedname>
@@ -80,11 +80,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="782" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="782" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="774" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="774" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a99950e36148d096473f31bc5a269f0c0" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
-        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField10</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aab10826fa82ccac15f8c102b65eea285" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::LoadOptions::mField10</definition>
         <argsstring></argsstring>
         <name>mField10</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField10</qualifiedname>
@@ -94,11 +94,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="791" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="791" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="783" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="783" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9fa1a379b54db7b3def59cb93c66cfc3" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
-        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::LoadOptions::mField11</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac220134bf1c21e7e35008ef5fef059f8" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField11</definition>
         <argsstring></argsstring>
         <name>mField11</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField11</qualifiedname>
@@ -108,11 +108,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="792" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="792" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="784" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="784" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa7a4856c3e745b4d453d8342aa6ac5bf" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
-        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField12</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a2b2539d055e6c3d8559035dbfa2a4513" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField12</definition>
         <argsstring></argsstring>
         <name>mField12</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField12</qualifiedname>
@@ -122,7 +122,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="793" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="793" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="785" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="785" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a54b9a1f0e730acad8a4871de68fcac0b" prot="private" static="no" mutable="no">
         <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
@@ -136,11 +136,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="794" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="794" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="786" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="786" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a64850985d748bb3901d53b114b56d10b" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
-        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField14</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7590b81071caca1f83cf6d9463f3e0c0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Loading::LoadOptions::mField14</definition>
         <argsstring></argsstring>
         <name>mField14</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField14</qualifiedname>
@@ -150,11 +150,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="795" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="795" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="787" column="20" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="787" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac10ad32ae8ce060ddb157ccd62fa4a1a" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
-        <definition>System::String Aspose::Words::Loading::LoadOptions::mField15</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad8e9df1f743ef1286f57a5ef2ef25bfb" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField15</definition>
         <argsstring></argsstring>
         <name>mField15</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField15</qualifiedname>
@@ -164,11 +164,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="796" column="20" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="796" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="788" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="788" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa54b8233946717ba25b7a0ade212d823" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
-        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField16</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9041a62d3b209141f439be635c6e5bcc" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::LoadOptions::mField16</definition>
         <argsstring></argsstring>
         <name>mField16</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField16</qualifiedname>
@@ -178,11 +178,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="797" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="797" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="789" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="789" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ace88352df2d3094d703d19480eaed329" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
-        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::LoadOptions::mField17</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a17bbdfe622cf3064ef3797f52b03dfe3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField17</definition>
         <argsstring></argsstring>
         <name>mField17</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField17</qualifiedname>
@@ -192,11 +192,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="798" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="798" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="790" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="790" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a83910ba30be3544d57b7ebacb3c17034" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
-        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField18</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac7e6dfd880b0d75e0aec3b3408b620c5" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField18</definition>
         <argsstring></argsstring>
         <name>mField18</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField18</qualifiedname>
@@ -206,7 +206,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="799" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="799" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="791" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="791" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a5ebb3bced1c1f3e08be8ffb31436005e" prot="private" static="no" mutable="no">
         <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
@@ -220,11 +220,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="800" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="800" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="792" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="792" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a2f1df65de3acb21a1eef42ed535ccb17" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
-        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::LoadOptions::mField2</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa08638bcb8d51a1c19d9d313a16a7752" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Loading::LoadOptions::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField2</qualifiedname>
@@ -234,24 +234,10 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="783" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="783" bodyend="-1"/>
-      </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6207245149b09ba3a029213f5a19d121" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
-        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField20</definition>
-        <argsstring></argsstring>
-        <name>mField20</name>
-        <qualifiedname>Aspose::Words::Loading::LoadOptions::mField20</qualifiedname>
-        <briefdescription>
-        </briefdescription>
-        <detaileddescription>
-        </detaileddescription>
-        <inbodydescription>
-        </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="801" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="801" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="775" column="20" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="775" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1abd1ff60cfe7f8270b092d88196b123d2" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Loading::LoadOptions::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -262,11 +248,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="784" column="20" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="784" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="776" column="20" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="776" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ada570911b5ff156ecaf95777abc12e31" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
-        <definition>System::String Aspose::Words::Loading::LoadOptions::mField4</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae3e82b78b817a7b8c2ff1cdb32a7cd8c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField4</definition>
         <argsstring></argsstring>
         <name>mField4</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField4</qualifiedname>
@@ -276,10 +262,10 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="785" column="20" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="785" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="777" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="777" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a94ca817cc4ff49004e68f3be0cada7ff" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField5</definition>
         <argsstring></argsstring>
         <name>mField5</name>
@@ -290,10 +276,10 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="786" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="786" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="778" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="778" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0450245edd8ad0e70745306ed4d2a52e" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField6</definition>
         <argsstring></argsstring>
         <name>mField6</name>
@@ -304,11 +290,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="787" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="787" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="779" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="779" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8018ebc0999543e4c354dfd063851f97" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
-        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField7</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a84340ee0edc563b6d1cfabfc4f15b590" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField7</definition>
         <argsstring></argsstring>
         <name>mField7</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField7</qualifiedname>
@@ -318,7 +304,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="788" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="788" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="780" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="780" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a36a45456a092b64f0c9d3bc5bc2d9fc3" prot="private" static="no" mutable="no">
         <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
@@ -332,11 +318,11 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="789" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="789" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="781" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="781" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7b520a502e4b1eed52d5da83c3358a08" prot="private" static="no" mutable="no">
-        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
-        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::LoadOptions::mField9</definition>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6f1bee91fc652f45752b937dd6746728" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Loading::LoadOptions::mField9</definition>
         <argsstring></argsstring>
         <name>mField9</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::mField9</qualifiedname>
@@ -346,7 +332,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="790" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="790" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="782" column="23" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="782" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -362,10 +348,10 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="778" column="16"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="769" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a609b68c3016b5a72bdcd4761689c0db6" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt;</type>
         <definition>virtual System::SharedPtr&lt; Aspose::Words::Loading::LoadOptions &gt; Aspose::Words::Loading::LoadOptions::Clone</definition>
         <argsstring>()</argsstring>
         <name>Clone</name>
@@ -379,7 +365,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="776" column="34"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="767" column="34"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab292d00ea616e27b8a21bd1b423c7c0d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -393,7 +379,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="88" column="5"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="89" column="5"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -410,7 +396,7 @@
 <para><simplesect kind="par"><title>Examples</title><para></para>
 </simplesect>
 Shows how to open an HTML document with images from a stream using a base URI. <programlisting><codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Pass<sp/>the<sp/>URI<sp/>of<sp/>the<sp/>base<sp/>folder<sp/>while<sp/>loading<sp/>it</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>so<sp/>that<sp/>any<sp/>images<sp/>with<sp/>relative<sp/>URIs<sp/>in<sp/>the<sp/>HTML<sp/>document<sp/>can<sp/>be<sp/>found.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;();</highlight></codeline>
@@ -430,7 +416,7 @@ Shows how to open an HTML document with images from a stream using a base URI. <
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="693" column="8"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="686" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab21ac0bed2d8c794e2021c36cc0f266d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -443,11 +429,11 @@ Shows how to open an HTML document with images from a stream using a base URI. <
           <declname>loadFormat</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>password</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>baseUri</declname>
         </param>
         <briefdescription>
@@ -518,7 +504,7 @@ Shows how save a web page as a .docx file. <programlisting><codeline><highlight 
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="770" column="8"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="763" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6d13f827b12c2b6048576119fe2f2814" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -527,7 +513,7 @@ Shows how save a web page as a .docx file. <programlisting><codeline><highlight 
         <name>LoadOptions</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::LoadOptions</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>password</declname>
         </param>
         <briefdescription>
@@ -559,17 +545,17 @@ Shows how to load an encrypted Microsoft Word document. <programlisting><codelin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Load<sp/>the<sp/>document<sp/>from<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encrypted.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encrypted.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(stream,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 </programlisting> </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="721" column="8"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="714" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0196af2dffdd53f6de6416c30f4cd89e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Loading::LoadOptions::get_BaseUri</definition>
         <argsstring>() const</argsstring>
         <name>get_BaseUri</name>
@@ -587,7 +573,7 @@ Shows how to load an encrypted Microsoft Word document. <programlisting><codelin
 <para><simplesect kind="par"><title>Examples</title><para></para>
 </simplesect>
 Shows how to open an HTML document with images from a stream using a base URI. <programlisting><codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Pass<sp/>the<sp/>URI<sp/>of<sp/>the<sp/>base<sp/>folder<sp/>while<sp/>loading<sp/>it</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>so<sp/>that<sp/>any<sp/>images<sp/>with<sp/>relative<sp/>URIs<sp/>in<sp/>the<sp/>HTML<sp/>document<sp/>can<sp/>be<sp/>found.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;();</highlight></codeline>
@@ -607,7 +593,7 @@ Shows how to open an HTML document with images from a stream using a base URI. <
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="187" column="23"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="188" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -645,7 +631,7 @@ Shows how to convert WMF/EMF to PNG during loading document. <programlisting><co
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="553" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="554" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -681,10 +667,10 @@ Shows how to convert EquationXML shapes to Office <ref refid="namespace_aspose_1
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="425" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="426" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt;</type>
         <definition>System::SharedPtr&lt; System::Text::Encoding &gt; Aspose::Words::Loading::LoadOptions::get_Encoding</definition>
         <argsstring>() const</argsstring>
         <name>get_Encoding</name>
@@ -700,7 +686,7 @@ Shows how to convert EquationXML shapes to Office <ref refid="namespace_aspose_1
 Shows how to set the encoding with which to open a document. <programlisting><codeline><highlight class="comment">//<sp/>A<sp/>FileFormatInfo<sp/>object<sp/>will<sp/>detect<sp/>this<sp/>file<sp/>as<sp/>being<sp/>encoded<sp/>in<sp/>something<sp/>other<sp/>than<sp/>UTF-7.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;FileFormatInfo&gt;<sp/>fileFormatInfo<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encoded<sp/>in<sp/>UTF-7.txt&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASPOSE_ASSERT_NE(<ref refid="class/system.text.encoding/_1a423d321d3f050489973ce0fa32de9020" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF7</ref>(),<sp/>fileFormatInfo-&gt;get_Encoding());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(<ref refid="class/system.text.encoding/_1a423d321d3f050489973ce0fa32de9020" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF7</ref>(),<sp/>fileFormatInfo-&gt;get_Encoding());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>load<sp/>the<sp/>document<sp/>with<sp/>no<sp/>loading<sp/>configurations,<sp/>Aspose.Words<sp/>will<sp/>detect<sp/>its<sp/>encoding<sp/>as<sp/>UTF-8.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encoded<sp/>in<sp/>UTF-7.txt&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -712,7 +698,7 @@ Shows how to set the encoding with which to open a document. <programlisting><co
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>cases<sp/>of<sp/>ambiguous<sp/>encoding<sp/>such<sp/>as<sp/>this<sp/>one,<sp/>we<sp/>can<sp/>set<sp/>a<sp/>specific<sp/>encoding<sp/>variant</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>parse<sp/>the<sp/>file<sp/>within<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">loadOptions-&gt;set_Encoding(<ref refid="class/system.text.encoding/_1a423d321d3f050489973ce0fa32de9020" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF7</ref>());</highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_Encoding(<ref refid="class/system.text.encoding/_1a423d321d3f050489973ce0fa32de9020" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF7</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Load<sp/>the<sp/>document<sp/>while<sp/>passing<sp/>the<sp/>LoadOptions<sp/>object,<sp/>then<sp/>verify<sp/>the<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encoded<sp/>in<sp/>UTF-7.txt&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
@@ -722,25 +708,10 @@ Shows how to set the encoding with which to open a document. <programlisting><co
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="227" column="26"/>
-      </memberdef>
-      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type>bool</type>
-        <definition>bool Aspose::Words::Loading::LoadOptions::get_FlatOpcXmlMappingOnly</definition>
-        <argsstring>() const</argsstring>
-        <name>get_FlatOpcXmlMappingOnly</name>
-        <qualifiedname>Aspose::Words::Loading::LoadOptions::get_FlatOpcXmlMappingOnly</qualifiedname>
-        <briefdescription>
-<para>Gets value determining which document formats are allowed to be mapped by <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1a4203e8372241c9b5c1d915b2a224c194" kindref="member">XmlMapping</ref>. By default only <ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a2b7085a73e76e581d28543a39fb2b981" kindref="member">FlatOpc</ref> document format is allowed to be mapped. </para>
-        </briefdescription>
-        <detaileddescription>
-        </detaileddescription>
-        <inbodydescription>
-        </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="663" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="228" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">Aspose::Words::Fonts::FontSettings</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">Aspose::Words::Fonts::FontSettings</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontSettings &gt; Aspose::Words::Loading::LoadOptions::get_FontSettings</definition>
         <argsstring>() const</argsstring>
         <name>get_FontSettings</name>
@@ -790,10 +761,10 @@ Shows how to designate font substitutes during loading. <programlisting><codelin
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="479" column="26"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="480" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_language_preferences" kindref="compound">Aspose::Words::Loading::LanguagePreferences</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_language_preferences" kindref="compound">Aspose::Words::Loading::LanguagePreferences</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Loading::LanguagePreferences &gt; Aspose::Words::Loading::LoadOptions::get_LanguagePreferences</definition>
         <argsstring>() const</argsstring>
         <name>get_LanguagePreferences</name>
@@ -818,7 +789,7 @@ Shows how to apply language preferences when loading a document. <programlisting
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="659" column="26"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="660" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af9522ca2c1dd6eb41ce67d2e83640b16" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member">Aspose::Words::LoadFormat</ref></type>
@@ -852,7 +823,7 @@ Shows how to specify a base URI when opening an html document. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="121" column="34"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="122" column="34"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a35a3b868f2b012e17397b0e2f7727b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00" kindref="member">Aspose::Words::Settings::MsWordVersion</ref></type>
@@ -882,10 +853,10 @@ Shows how to emulate the loading procedure of a specific Microsoft Word version 
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="578" column="47"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="579" column="47"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1a45522476e3ce872d60c1adfc59fffd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Loading::LoadOptions::get_Password</definition>
         <argsstring>() const</argsstring>
         <name>get_Password</name>
@@ -903,7 +874,7 @@ Shows how to sign encrypted document file. <programlisting><codeline><highlight 
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>comment,<sp/>date,<sp/>and<sp/>decryption<sp/>password<sp/>which<sp/>will<sp/>be<sp/>applied<sp/>with<sp/>our<sp/>new<sp/>digital<sp/>signature.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">signOptions-&gt;set_Comments(u</highlight><highlight class="stringliteral">&quot;Comment&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal">signOptions-&gt;set_DecryptionPassword(u</highlight><highlight class="stringliteral">&quot;docPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>for<sp/>the<sp/>unsigned<sp/>input<sp/>document,<sp/>and<sp/>an<sp/>output<sp/>filename<sp/>for<sp/>its<sp/>new<sp/>digitally<sp/>signed<sp/>copy.</highlight><highlight class="normal"></highlight></codeline>
@@ -915,7 +886,7 @@ Shows how to sign encrypted document file. <programlisting><codeline><highlight 
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="150" column="23"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="151" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a506351eadee7e43bb85df5f2d79addb4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -965,10 +936,10 @@ Shows how to preserve or discard INCLUDEPICTURE fields when loading a document. 
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="395" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="396" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1acf271e71b7f8b3bf99c6b954a2930d4d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" kindref="compound">Aspose::Words::Loading::IDocumentLoadingCallback</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" kindref="compound">Aspose::Words::Loading::IDocumentLoadingCallback</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Loading::IDocumentLoadingCallback &gt; Aspose::Words::Loading::LoadOptions::get_ProgressCallback</definition>
         <argsstring>() const</argsstring>
         <name>get_ProgressCallback</name>
@@ -981,10 +952,10 @@ Shows how to preserve or discard INCLUDEPICTURE fields when loading a document. 
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="343" column="26"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="344" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab965badd27ded5b5bfd2507e93fbcbb8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" kindref="compound">Aspose::Words::Loading::IResourceLoadingCallback</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" kindref="compound">Aspose::Words::Loading::IResourceLoadingCallback</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Loading::IResourceLoadingCallback &gt; Aspose::Words::Loading::LoadOptions::get_ResourceLoadingCallback</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourceLoadingCallback</name>
@@ -1020,10 +991,10 @@ Shows how to handle external resources when loading Html documents. <programlist
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;External<sp/>Image<sp/>found<sp/>upon<sp/>loading:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_OriginalUri()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>newImageFilename<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tImage<sp/>will<sp/>be<sp/>substituted<sp/>with:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>newImageFilename<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Drawing::Image&gt;<sp/>newImage<sp/>=<sp/><ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>newImageFilename);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Drawing::Image&gt;<sp/>newImage<sp/>=<sp/><ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>newImageFilename);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>converter<sp/>=<sp/>MakeObject&lt;System::Drawing::ImageConverter&gt;();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>imageBytes<sp/>=</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast&lt;System::Array&lt;uint8_t&gt;&gt;(converter-&gt;ConvertTo(newImage,<sp/><ref refid="class/system.object_ext/_1a8f1bf7e3abe1fa9d15316478dae26b94" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetType</ref>&lt;<ref refid="class/system.array/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Array&lt;uint8_t&gt;</ref>&gt;()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast&lt;System::Array&lt;uint8_t&gt;&gt;(converter-&gt;ConvertTo(newImage,<sp/><ref refid="class/system.object_ext/_1a8f1bf7e3abe1fa9d15316478dae26b94" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetType</ref>&lt;<ref refid="class/system.array/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Array&lt;uint8_t&gt;</ref>&gt;()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(imageBytes);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -1039,10 +1010,10 @@ Shows how to handle external resources when loading Html documents. <programlist
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="282" column="26"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="283" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad04bb42d6713c0eabe62f28861b7c255" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Loading::LoadOptions::get_TempFolder</definition>
         <argsstring>() const</argsstring>
         <name>get_TempFolder</name>
@@ -1060,7 +1031,7 @@ Shows how to load a document using temporary files. <programlisting><codeline><h
 <codeline><highlight class="normal">loadOptions-&gt;set_TempFolder(u</highlight><highlight class="stringliteral">&quot;C:\\TempFolder\\&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Ensure<sp/>that<sp/>the<sp/>directory<sp/>exists<sp/>and<sp/>load</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(loadOptions-&gt;get_TempFolder());</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(loadOptions-&gt;get_TempFolder());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
 </programlisting></para>
@@ -1071,17 +1042,17 @@ Shows how to load a document using temporary files. <programlisting><codeline><h
 <codeline><highlight class="normal">options-&gt;set_TempFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TempFiles&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>specified<sp/>temporary<sp/>folder<sp/>must<sp/>exist<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>before<sp/>the<sp/>load<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_TempFolder());</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_TempFolder());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>folder<sp/>will<sp/>persist<sp/>with<sp/>no<sp/>residual<sp/>contents<sp/>from<sp/>the<sp/>load<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(0,<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(options-&gt;get_TempFolder())-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(options-&gt;get_TempFolder())-&gt;get_Length());</highlight></codeline>
 </programlisting> </para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="521" column="23"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="522" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1abdf376bce2596056c843228b3b430d8b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -1146,10 +1117,10 @@ Shows how to use special property for updating field result. <programlisting><co
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="637" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="638" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a32191464471263de4bbd417d9ab8a1fb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; Aspose::Words::Loading::LoadOptions::get_WarningCallback</definition>
         <argsstring>() const</argsstring>
         <name>get_WarningCallback</name>
@@ -1191,7 +1162,7 @@ Shows how to print and store warnings that occur during document loading. <progr
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mWarnings;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DocumentLoadingWarningCallback()<sp/>:<sp/>mWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::<ref refid="namespace/system.collections.generic/_1a7ec398a591f371359828b1eb724b34d4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">List</ref>&lt;<ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">SharedPtr</ref>&lt;WarningInfo&gt;&gt;&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DocumentLoadingWarningCallback()<sp/>:<sp/>mWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::<ref refid="namespace/system.collections.generic/_1a7ec398a591f371359828b1eb724b34d4" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">List</ref>&lt;<ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">SharedPtr</ref>&lt;WarningInfo&gt;&gt;&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -1202,7 +1173,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="335" column="26"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="336" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0355c11ce2a280ee61e1c0ce0ded1c46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1211,7 +1182,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_BaseUri</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_BaseUri</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1221,7 +1192,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="190" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="191" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1240,7 +1211,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="556" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="557" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1259,7 +1230,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="428" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="429" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1268,7 +1239,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_Encoding</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_Encoding</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1278,26 +1249,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="230" column="13"/>
-      </memberdef>
-      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type>void</type>
-        <definition>void Aspose::Words::Loading::LoadOptions::set_FlatOpcXmlMappingOnly</definition>
-        <argsstring>(bool value)</argsstring>
-        <name>set_FlatOpcXmlMappingOnly</name>
-        <qualifiedname>Aspose::Words::Loading::LoadOptions::set_FlatOpcXmlMappingOnly</qualifiedname>
-        <param>
-          <type>bool</type>
-          <declname>value</declname>
-        </param>
-        <briefdescription>
-<para>Sets value determining which document formats are allowed to be mapped by <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1a4203e8372241c9b5c1d915b2a224c194" kindref="member">XmlMapping</ref>. By default only <ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a2b7085a73e76e581d28543a39fb2b981" kindref="member">FlatOpc</ref> document format is allowed to be mapped. </para>
-        </briefdescription>
-        <detaileddescription>
-        </detaileddescription>
-        <inbodydescription>
-        </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="667" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="231" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1306,7 +1258,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_FontSettings</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_FontSettings</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">Aspose::Words::Fonts::FontSettings</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">Aspose::Words::Fonts::FontSettings</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1316,7 +1268,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="482" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="483" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1335,7 +1287,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="124" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="125" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a816c70f5ed2d94a32504abda898f303e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1354,7 +1306,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="581" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="582" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afaba9f3eae741e632396a777dcb1ef6c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1363,7 +1315,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_Password</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_Password</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1373,7 +1325,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="153" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="154" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a65ccb68d9d17a3acfdf0092b3af58d8b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1392,7 +1344,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="398" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="399" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a130e26077aab2b3865dbeca9e0b34a5c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1401,7 +1353,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_ProgressCallback</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_ProgressCallback</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" kindref="compound">Aspose::Words::Loading::IDocumentLoadingCallback</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" kindref="compound">Aspose::Words::Loading::IDocumentLoadingCallback</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1412,7 +1364,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="348" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="349" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7df189ed6d4c201066c5e1732d558dae" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1421,7 +1373,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_ResourceLoadingCallback</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_ResourceLoadingCallback</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" kindref="compound">Aspose::Words::Loading::IResourceLoadingCallback</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" kindref="compound">Aspose::Words::Loading::IResourceLoadingCallback</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1431,7 +1383,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="285" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="286" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a5396b6b04fe87ecfb44db45c5f11934a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1440,7 +1392,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_TempFolder</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_TempFolder</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1450,7 +1402,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="524" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="525" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a02643bf16d0e82a06d3cedab3f49ad65" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1469,7 +1421,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="640" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="641" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a3651e35cc9b2ceb5e88f4eaaae8ed397" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1478,7 +1430,7 @@ Shows how to print and store warnings that occur during document loading. <progr
         <name>set_WarningCallback</name>
         <qualifiedname>Aspose::Words::Loading::LoadOptions::set_WarningCallback</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1488,11 +1440,11 @@ Shows how to print and store warnings that occur during document loading. <progr
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="338" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="339" column="13"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
-<para>Allows to specify additional options (such as password or base URI) when loading a document into a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> object. </para>
+<para>Allows to specify additional options (such as password or base URI) when loading a document into a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> object. To learn more, visit the <ulink url="https://docs.aspose.com/words/net/specify-load-options/">Specify Load Options</ulink> documentation article. </para>
     </briefdescription>
     <detaileddescription>
 <para><simplesect kind="par"><title>Examples</title><para></para>
@@ -1511,7 +1463,7 @@ Shows how to load an encrypted Microsoft Word document. <programlisting><codelin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Load<sp/>the<sp/>document<sp/>from<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encrypted.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encrypted.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(stream,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 </programlisting> </para>
@@ -1568,7 +1520,7 @@ Shows how to load an encrypted Microsoft Word document. <programlisting><codelin
         <label>System::Object</label>
       </node>
     </collaborationgraph>
-    <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="82" column="1" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="83" bodyend="803"/>
+    <location file="Aspose.Words.Cpp/Loading/LoadOptions.h" line="83" column="1" bodyfile="Aspose.Words.Cpp/Loading/LoadOptions.h" bodystart="84" bodyend="794"/>
     <listofallmembers>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af5407131d6084848b661cbd0ac39c203" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>BaseType</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a609b68c3016b5a72bdcd4761689c0db6" prot="private" virt="virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>Clone</name></member>
@@ -1576,7 +1528,6 @@ Shows how to load an encrypted Microsoft Word document. <programlisting><codelin
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_ConvertMetafilesToPng</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_ConvertShapeToOfficeMath</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_Encoding</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_FontSettings</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_LanguagePreferences</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af9522ca2c1dd6eb41ce67d2e83640b16" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>get_LoadFormat</name></member>
@@ -1591,33 +1542,31 @@ Shows how to load an encrypted Microsoft Word document. <programlisting><codelin
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a91cce95575b98c82e8eea81af037508d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>LoadOptions</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6d13f827b12c2b6048576119fe2f2814" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>LoadOptions</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab21ac0bed2d8c794e2021c36cc0f266d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>LoadOptions</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9a5e49e5b2248b5518f3f125b276dea9" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField0</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afbdb1f7160ab0cffcad85f56bd9c8b2e" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField1</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a99950e36148d096473f31bc5a269f0c0" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField10</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9fa1a379b54db7b3def59cb93c66cfc3" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField11</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa7a4856c3e745b4d453d8342aa6ac5bf" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8f7fe64d1638495865c879148888af25" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0c4fb28fee83d29e68d6116f4f47a71a" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aab10826fa82ccac15f8c102b65eea285" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac220134bf1c21e7e35008ef5fef059f8" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a2b2539d055e6c3d8559035dbfa2a4513" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField12</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a54b9a1f0e730acad8a4871de68fcac0b" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField13</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a64850985d748bb3901d53b114b56d10b" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField14</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac10ad32ae8ce060ddb157ccd62fa4a1a" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField15</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa54b8233946717ba25b7a0ade212d823" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField16</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ace88352df2d3094d703d19480eaed329" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField17</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a83910ba30be3544d57b7ebacb3c17034" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField18</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7590b81071caca1f83cf6d9463f3e0c0" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad8e9df1f743ef1286f57a5ef2ef25bfb" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9041a62d3b209141f439be635c6e5bcc" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField16</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a17bbdfe622cf3064ef3797f52b03dfe3" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField17</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac7e6dfd880b0d75e0aec3b3408b620c5" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField18</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a5ebb3bced1c1f3e08be8ffb31436005e" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField19</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a2f1df65de3acb21a1eef42ed535ccb17" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField2</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6207245149b09ba3a029213f5a19d121" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField20</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa08638bcb8d51a1c19d9d313a16a7752" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField2</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1abd1ff60cfe7f8270b092d88196b123d2" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField3</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ada570911b5ff156ecaf95777abc12e31" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae3e82b78b817a7b8c2ff1cdb32a7cd8c" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField4</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a94ca817cc4ff49004e68f3be0cada7ff" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField5</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0450245edd8ad0e70745306ed4d2a52e" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField6</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8018ebc0999543e4c354dfd063851f97" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a84340ee0edc563b6d1cfabfc4f15b590" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField7</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a36a45456a092b64f0c9d3bc5bc2d9fc3" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField8</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7b520a502e4b1eed52d5da83c3358a08" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6f1bee91fc652f45752b937dd6746728" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>mField9</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab292d00ea616e27b8a21bd1b423c7c0d" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0355c11ce2a280ee61e1c0ce0ded1c46" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_BaseUri</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_ConvertMetafilesToPng</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_ConvertShapeToOfficeMath</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_Encoding</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_FontSettings</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_LoadFormat</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a816c70f5ed2d94a32504abda898f303e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::LoadOptions</scope><name>set_MswVersion</name></member>

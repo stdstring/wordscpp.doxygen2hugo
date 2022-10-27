@@ -47,6 +47,80 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/WatermarkType.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref></highlight></codeline>
+<codeline lineno="17"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref></highlight></codeline>
+<codeline lineno="19"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageWatermarkOptions;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">TextWatermarkOptions;</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="25"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">System</highlight></codeline>
+<codeline lineno="27"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Drawing</highlight></codeline>
+<codeline lineno="29"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Image;</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>;</highlight></codeline>
+<codeline lineno="34"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42" refid="class_aspose_1_1_words_1_1_watermark" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_watermark" kindref="compound" tooltip="Represents class to work with document watermark. To learn more, visit the Working with Watermark doc...">Watermark</ref><sp/>final<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline lineno="43"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark" kindref="compound" tooltip="Represents class to work with document watermark. To learn more, visit the Working with Watermark doc...">Watermark</ref><sp/><ref refid="class_aspose_1_1_words_1_1_watermark" kindref="compound" tooltip="Represents class to work with document watermark. To learn more, visit the Working with Watermark doc...">ThisType</ref>;</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref>;</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="50"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="53" refid="class_aspose_1_1_words_1_1_watermark_1ac0f85e49098625c6bf8f4c2ee73b761e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="namespace_aspose_1_1_words_1adf56f9ff1b83ce3669804ca8e86596d9" kindref="member" tooltip="Specifies the watermark type.">Aspose::Words::WatermarkType</ref><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1ac0f85e49098625c6bf8f4c2ee73b761e" kindref="member" tooltip="Gets the watermark type.">get_Type</ref>();</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90" refid="class_aspose_1_1_words_1_1_watermark_1aaafc9bb6a7acd6a429934fed15d1950e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1aaafc9bb6a7acd6a429934fed15d1950e" kindref="member" tooltip="Adds Text watermark into the document.">SetText</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>&amp;<sp/>text);</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"></highlight></codeline>
+<codeline lineno="128" refid="class_aspose_1_1_words_1_1_watermark_1a02d5d7993e8854f05bc5006dcda0a799" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1a02d5d7993e8854f05bc5006dcda0a799" kindref="member" tooltip="Adds Text watermark into the document.">SetText</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>&amp;<sp/>text,<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::TextWatermarkOptions&gt;</ref>&amp;<sp/>options);</highlight></codeline>
+<codeline lineno="129"><highlight class="normal"></highlight></codeline>
+<codeline lineno="135" refid="class_aspose_1_1_words_1_1_watermark_1acb0716422bfe8e83fc821a3e2b2e71f1" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1acb0716422bfe8e83fc821a3e2b2e71f1" kindref="member" tooltip="Adds Image watermark into the document.">SetImage</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Drawing::Image&gt;</ref>&amp;<sp/>image);</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"></highlight></codeline>
+<codeline lineno="160" refid="class_aspose_1_1_words_1_1_watermark_1aa3f11d8e07f457c374dac6e1a616aed8" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1aa3f11d8e07f457c374dac6e1a616aed8" kindref="member" tooltip="Adds Image watermark into the document.">SetImage</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Drawing::Image&gt;</ref>&amp;<sp/>image,<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::ImageWatermarkOptions&gt;</ref>&amp;<sp/>options);</highlight></codeline>
+<codeline lineno="161"><highlight class="normal"></highlight></codeline>
+<codeline lineno="168" refid="class_aspose_1_1_words_1_1_watermark_1a9f434088c0d6b5e5753a73529a01ae4b" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1a9f434088c0d6b5e5753a73529a01ae4b" kindref="member" tooltip="Adds Image watermark into the document.">SetImage</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>&amp;<sp/>imagePath,<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::ImageWatermarkOptions&gt;</ref>&amp;<sp/>options);</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"></highlight></codeline>
+<codeline lineno="200" refid="class_aspose_1_1_words_1_1_watermark_1a3c60af81a7c046fc91d2192479b3f8a5" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_watermark_1a3c60af81a7c046fc91d2192479b3f8a5" kindref="member" tooltip="Removes the watermark.">Remove</ref>();</highlight></codeline>
+<codeline lineno="201"><highlight class="normal"></highlight></codeline>
+<codeline lineno="202"><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="203"><highlight class="normal"></highlight></codeline>
+<codeline lineno="204"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="205"><highlight class="normal"></highlight></codeline>
+<codeline lineno="206"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr&lt;System::Object&gt;</ref><sp/>mField0;</highlight></codeline>
+<codeline lineno="207"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;System::Object&gt;</ref><sp/>mField1;</highlight></codeline>
+<codeline lineno="208"><highlight class="normal"></highlight></codeline>
+<codeline lineno="209"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="210"><highlight class="normal"></highlight></codeline>
+<codeline lineno="211"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="212"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Watermark.h"/>
   </compounddef>
 </doxygen>

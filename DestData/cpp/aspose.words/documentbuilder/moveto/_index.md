@@ -3,7 +3,7 @@ title: MoveTo
 second_title: Aspose.Words for C++ API Reference
 description: Moves the cursor to an inline node or to the end of a paragraph.
 type: docs
-weight: 586
+weight: 612
 url: /cpp/aspose.words/documentbuilder/moveto/
 ---
 ## DocumentBuilder.MoveTo method

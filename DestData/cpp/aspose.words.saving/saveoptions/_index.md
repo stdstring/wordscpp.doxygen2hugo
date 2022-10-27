@@ -1,7 +1,7 @@
 ---
 title: SaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format.
+description: This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. To learn more, visit the  documentation article.
 type: docs
 weight: 365
 url: /cpp/aspose.words.saving/saveoptions/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/saveoptions/
 ## SaveOptions class
 
 
-This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format.
+This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. To learn more, visit the [Specify Save Options](https://docs.aspose.com/words/net/specify-save-options/) documentation article.
 
 ```cpp
 class SaveOptions : public System::Object
@@ -28,7 +28,6 @@ class SaveOptions : public System::Object
 | virtual [get_DmlEffectsRenderingMode](./get_dmleffectsrenderingmode/)() | Gets or sets a value determining how DrawingML effects are rendered. |
 | [get_DmlRenderingMode](./get_dmlrenderingmode/)() const | Gets or sets a value determining how DrawingML shapes are rendered. |
 | [get_ExportGeneratorName](./get_exportgeneratorname/)() const | When true, causes the name and version of Aspose.Words to be embedded into produced files. Default value is **true**. |
-| [get_FlatOpcXmlMappingOnly](./get_flatopcxmlmappingonly/)() const | Gets or sets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [get_ImlRenderingMode](./get_imlrenderingmode/)() const | Gets or sets a value determining how ink (InkML) objects are rendered. |
 | [get_MemoryOptimization](./get_memoryoptimization/)() const | Gets or sets value determining if memory optimization should be performed before saving the document. Default value for this property is **false**. |
 | [get_PrettyFormat](./get_prettyformat/)() const | When **true**, pretty formats output where applicable. Default value is **false**. |
@@ -49,7 +48,6 @@ class SaveOptions : public System::Object
 | virtual [set_DmlEffectsRenderingMode](./set_dmleffectsrenderingmode/)(Aspose::Words::Saving::DmlEffectsRenderingMode) | Setter for [Aspose::Words::Saving::SaveOptions::get_DmlEffectsRenderingMode](./get_dmleffectsrenderingmode/). |
 | [set_DmlRenderingMode](./set_dmlrenderingmode/)(Aspose::Words::Saving::DmlRenderingMode) | Setter for [Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode](./get_dmlrenderingmode/). |
 | [set_ExportGeneratorName](./set_exportgeneratorname/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName](./get_exportgeneratorname/). |
-| [set_FlatOpcXmlMappingOnly](./set_flatopcxmlmappingonly/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly](./get_flatopcxmlmappingonly/). |
 | [set_ImlRenderingMode](./set_imlrenderingmode/)(Aspose::Words::Saving::ImlRenderingMode) | Setter for [Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode](./get_imlrenderingmode/). |
 | [set_MemoryOptimization](./set_memoryoptimization/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_MemoryOptimization](./get_memoryoptimization/). |
 | [set_PrettyFormat](./set_prettyformat/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_PrettyFormat](./get_prettyformat/). |

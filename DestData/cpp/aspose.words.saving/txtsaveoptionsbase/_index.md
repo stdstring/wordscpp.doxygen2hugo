@@ -30,7 +30,6 @@ class TxtSaveOptionsBase : public Aspose::Words::Saving::SaveOptions
 | [get_Encoding](./get_encoding/)() const | Specifies the encoding to use when exporting in text formats. Default value is **Encoding.UTF8**. |
 | [get_ExportGeneratorName](../saveoptions/get_exportgeneratorname/)() const | When true, causes the name and version of Aspose.Words to be embedded into produced files. Default value is **true**. |
 | [get_ExportHeadersFootersMode](./get_exportheadersfootersmode/)() const | Specifies the way headers and footers are exported to the text formats. Default value is **PrimaryOnly**. |
-| [get_FlatOpcXmlMappingOnly](../saveoptions/get_flatopcxmlmappingonly/)() const | Gets or sets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [get_ForcePageBreaks](./get_forcepagebreaks/)() const | Allows to specify whether the page breaks should be preserved during export. The default value is **false**. |
 | [get_ImlRenderingMode](../saveoptions/get_imlrenderingmode/)() const | Gets or sets a value determining how ink (InkML) objects are rendered. |
 | [get_MemoryOptimization](../saveoptions/get_memoryoptimization/)() const | Gets or sets value determining if memory optimization should be performed before saving the document. Default value for this property is **false**. |
@@ -55,7 +54,6 @@ class TxtSaveOptionsBase : public Aspose::Words::Saving::SaveOptions
 | [set_Encoding](./set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding](./get_encoding/). |
 | [set_ExportGeneratorName](../saveoptions/set_exportgeneratorname/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName](../saveoptions/get_exportgeneratorname/). |
 | [set_ExportHeadersFootersMode](./set_exportheadersfootersmode/)(Aspose::Words::Saving::TxtExportHeadersFootersMode) | Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode](./get_exportheadersfootersmode/). |
-| [set_FlatOpcXmlMappingOnly](../saveoptions/set_flatopcxmlmappingonly/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly](../saveoptions/get_flatopcxmlmappingonly/). |
 | [set_ForcePageBreaks](./set_forcepagebreaks/)(bool) | Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks](./get_forcepagebreaks/). |
 | [set_ImlRenderingMode](../saveoptions/set_imlrenderingmode/)(Aspose::Words::Saving::ImlRenderingMode) | Setter for [Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode](../saveoptions/get_imlrenderingmode/). |
 | [set_MemoryOptimization](../saveoptions/set_memoryoptimization/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_MemoryOptimization](../saveoptions/get_memoryoptimization/). |

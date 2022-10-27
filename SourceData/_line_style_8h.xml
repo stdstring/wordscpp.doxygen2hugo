@@ -60,6 +60,64 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37" refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09d" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09d" kindref="member" tooltip="Specifies line style of a Border.">LineStyle</ref></highlight></codeline>
+<codeline lineno="38"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Default value.">None</ref><sp/>=<sp/>0,</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">Single</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da0a908b7941c6bfd50ba866821e83cd2b" kindref="member">Thick</ref><sp/>=<sp/>2,</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">Double</ref><sp/>=<sp/>3,</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da73bdb1ccb69eef6798070f8aa5e6e347" kindref="member">Hairline</ref><sp/>=<sp/>5,</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">Dot</ref><sp/>=<sp/>6,</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da9db26ec34e94811c0a53bab9fbf014ec" kindref="member">DashLargeGap</ref><sp/>=<sp/>7,</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">DotDash</ref><sp/>=<sp/>8,</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4e59f40f209a2eeab3c587c364266692" kindref="member">DotDotDash</ref><sp/>=<sp/>9,</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da3b973d4da6ce40c0eb65394fb6222971" kindref="member">Triple</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da57105e31944eba73598c3ddd1e4818ea" kindref="member">ThinThickSmallGap</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dadc3ff552eef0a3d0c10a668fdb4bd34c" kindref="member">ThickThinSmallGap</ref><sp/>=<sp/>12,</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad27fa570aaff59b2285ad5a53e1bb034" kindref="member">ThinThickThinSmallGap</ref><sp/>=<sp/>13,</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da277a2b18f14c930a11e4a541437ac620" kindref="member">ThinThickMediumGap</ref><sp/>=<sp/>14,</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daf6d87840bd349586e99e0b774359eaed" kindref="member">ThickThinMediumGap</ref><sp/>=<sp/>15,</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da514ff9dbc4254833fb6c3170e1c6edeb" kindref="member">ThinThickThinMediumGap</ref><sp/>=<sp/>16,</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da5a6f04718fcb023db91f2a817ba98c19" kindref="member">ThinThickLargeGap</ref><sp/>=<sp/>17,</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dab5c1eb906d0be812cce89be51e1ac5ce" kindref="member">ThickThinLargeGap</ref><sp/>=<sp/>18,</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad267a05bc5f5d19175f2dd25b2a123b7" kindref="member">ThinThickThinLargeGap</ref><sp/>=<sp/>19,</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad911b34823c7674c292556dc56148c27" kindref="member">Wave</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4dfc3ae7e792e1bd5dc2835a8b030975" kindref="member">DoubleWave</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da1098dd5030d3fd7b7560aea5b9686e94" kindref="member">DashSmallGap</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da8cf8027b2b64fbbc8ed979f94a7555b8" kindref="member">DashDotStroker</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da45fcc1824b5b5c4c3aa8e8f84cefbe9d" kindref="member">Emboss3D</ref><sp/>=<sp/>24,</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">Engrave3D</ref><sp/>=<sp/>25,</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da5e9fb94d2ec46e6f829196c229e2b194" kindref="member">Outset</ref><sp/>=<sp/>26,</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dab56d315e49178ba86341ff3b4e337c6b" kindref="member">Inset</ref><sp/>=<sp/>27</highlight></codeline>
+<codeline lineno="66"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="69"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="71"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::LineStyle&gt;</highlight></codeline>
+<codeline lineno="73"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::LineStyle,<sp/>const<sp/>char_t*&gt;,<sp/>27&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="75"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/LineStyle.h"/>
   </compounddef>
 </doxygen>

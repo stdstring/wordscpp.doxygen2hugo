@@ -6,7 +6,7 @@
     <includes refid="_odso_recipient_data_collection_8h" local="no">Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a126a6c4d0dbf482ab0ac777beedd7d0b" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Settings::OdsoRecipientData&gt; &gt; Aspose::Words::Settings::OdsoRecipientDataCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="51" column="41" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="51" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a0c78c6f7d98cee114190608e673e44d7" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Settings::OdsoRecipientDataCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="63" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aa34dd1196dab2dcb5c1eee7440546783" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="61" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a6cca58d1d2f860828d7736aa0066d181" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt;</type>
         <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Settings::OdsoRecipientData&gt; &gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="59" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="59" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="67" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="67" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab4c236a9c9eedddc57dbfdc61644fd74" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -122,7 +122,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1adceb0008eed0178b103f11106b839490" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Settings::OdsoRecipientDataCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -188,7 +188,7 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -325,7 +325,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="72" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a561695d815038a4ece9459c234a99a57" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &gt; &gt; Aspose::Words::Settings::OdsoRecipientDataCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -340,7 +340,7 @@
         <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="81" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a2a51840ceaf7438f31a0daf754cdd4a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; Aspose::Words::Settings::OdsoRecipientDataCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -369,7 +369,7 @@
           <declname>index</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

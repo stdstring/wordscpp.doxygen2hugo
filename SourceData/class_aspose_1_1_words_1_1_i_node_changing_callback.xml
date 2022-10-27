@@ -6,7 +6,7 @@
     <includes refid="_i_node_changing_callback_8h" local="no">Aspose.Words.Cpp/INodeChangingCallback.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_i_node_changing_callback_1a38370c602513a3d69b51e7100ecc7b51" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::INodeChangingCallback::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/INodeChangingCallback.h" line="110" column="35" bodyfile="Aspose.Words.Cpp/INodeChangingCallback.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_i_node_changing_callback_1ab56d7b74e33604da3aaf360dabbe8c23" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::INodeChangingCallback::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -72,7 +72,7 @@
         <name>NodeInserted</name>
         <qualifiedname>Aspose::Words::INodeChangingCallback::NodeInserted</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
           <declname>args</declname>
         </param>
         <briefdescription>
@@ -109,7 +109,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -119,7 +119,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserted(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Node()-&gt;get_NodeType()<sp/>==<sp/>NodeType::Run)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -136,18 +136,18 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserting(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoved(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoving(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
 </programlisting> </para>
@@ -163,7 +163,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
         <name>NodeInserting</name>
         <qualifiedname>Aspose::Words::INodeChangingCallback::NodeInserting</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
           <declname>args</declname>
         </param>
         <briefdescription>
@@ -200,7 +200,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -210,7 +210,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserted(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Node()-&gt;get_NodeType()<sp/>==<sp/>NodeType::Run)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -227,18 +227,18 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserting(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoved(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoving(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
 </programlisting> </para>
@@ -254,7 +254,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
         <name>NodeRemoved</name>
         <qualifiedname>Aspose::Words::INodeChangingCallback::NodeRemoved</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
           <declname>args</declname>
         </param>
         <briefdescription>
@@ -291,7 +291,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -301,7 +301,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserted(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Node()-&gt;get_NodeType()<sp/>==<sp/>NodeType::Run)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -318,18 +318,18 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserting(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoved(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoving(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
 </programlisting> </para>
@@ -345,7 +345,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
         <name>NodeRemoving</name>
         <qualifiedname>Aspose::Words::INodeChangingCallback::NodeRemoving</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_changing_args" kindref="compound">Aspose::Words::NodeChangingArgs</ref> &gt;</type>
           <declname>args</declname>
         </param>
         <briefdescription>
@@ -382,7 +382,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -392,7 +392,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserted(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Node()-&gt;get_NodeType()<sp/>==<sp/>NodeType::Run)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -409,18 +409,18 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserting(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoved(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoving(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
 </programlisting> </para>
@@ -464,7 +464,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -474,7 +474,7 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserted(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Node()-&gt;get_NodeType()<sp/>==<sp/>NodeType::Run)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -491,18 +491,18 @@ Shows how customize node changing with a callback. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserting(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoved(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoving(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
 </programlisting> </para>

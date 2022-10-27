@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="171" column="22" bodyfile="Aspose.Words.Cpp/Fields/FieldToa.h" bodystart="171" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1ae3f972227209d9aaced8c4eb29e2fe3c" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldToa::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -85,7 +85,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -110,7 +110,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="176" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1aa50a0bf3fa7b9f925a009c0b24c61fe6" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldToa::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -127,7 +127,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1ac2add04b4c15ceeb92d05fdac8a5bebb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_BookmarkName</definition>
         <argsstring>()</argsstring>
         <name>get_BookmarkName</name>
@@ -179,7 +179,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -258,7 +258,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="300" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1a34d94010f0913775b2562796c258c4a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_EntryCategory</definition>
         <argsstring>()</argsstring>
         <name>get_EntryCategory</name>
@@ -310,7 +310,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -389,7 +389,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="425" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1a137992b213c156c469839856a9e5aa19" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_EntrySeparator</definition>
         <argsstring>()</argsstring>
         <name>get_EntrySeparator</name>
@@ -441,7 +441,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -520,7 +520,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="675" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1a37354318bb1f78b6926b70b0afe49957" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_PageNumberListSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_PageNumberListSeparator</name>
@@ -572,7 +572,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -651,7 +651,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="1176" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1a8c2fe36537e3ca687624efcee6bc632f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_PageRangeSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_PageRangeSeparator</name>
@@ -703,7 +703,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -834,7 +834,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -913,7 +913,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="801" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1ab38aabab88e2b5812b2998f7565f1509" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_SequenceName</definition>
         <argsstring>()</argsstring>
         <name>get_SequenceName</name>
@@ -965,7 +965,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -1044,7 +1044,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <location file="Aspose.Words.Cpp/Fields/FieldToa.h" line="1428" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_toa_1af7a8c01dd58f3f25506db095080a6b8c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldToa::get_SequenceSeparator</definition>
         <argsstring>()</argsstring>
         <name>get_SequenceSeparator</name>
@@ -1096,7 +1096,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -1227,7 +1227,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -1358,7 +1358,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
@@ -1443,7 +1443,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_BookmarkName</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_BookmarkName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1462,7 +1462,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_EntryCategory</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_EntryCategory</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1481,7 +1481,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_EntrySeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_EntrySeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1500,7 +1500,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_PageNumberListSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_PageNumberListSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1519,7 +1519,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_PageRangeSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_PageRangeSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1557,7 +1557,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_SequenceName</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_SequenceName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1576,7 +1576,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
         <name>set_SequenceSeparator</name>
         <qualifiedname>Aspose::Words::Fields::FieldToa::set_SequenceSeparator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1674,7 +1674,7 @@ Shows how to build and customize a table of authorities using TOA and TA fields.
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>

@@ -6,7 +6,7 @@
     <includes refid="_border_collection_8h" local="no">Aspose.Words.Cpp/BorderCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_border_collection_1ac40b21a741c298962ae2d396971c38a8" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Border&gt; &gt; Aspose::Words::BorderCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="61" column="30" bodyfile="Aspose.Words.Cpp/BorderCollection.h" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_border_collection_1a3e291f7d4b45ba61538d73eeb297f4a1" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::BorderCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_border_collection_1ad48cbea92fca45d87dd48c3d7f89013b" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::BorderCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -112,7 +112,7 @@ Shows how to remove all borders from all paragraphs in a document. <programlisti
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first<sp/>paragraph<sp/>of<sp/>this<sp/>document<sp/>has<sp/>visible<sp/>borders<sp/>with<sp/>these<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;BorderCollection&gt;<sp/>firstParagraphBorders<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Borders();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>().ToArgb(),<sp/>firstParagraphBorders-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>().ToArgb(),<sp/>firstParagraphBorders-&gt;get_Color().ToArgb());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>firstParagraphBorders-&gt;get_LineStyle());</highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(3.0,<sp/>firstParagraphBorders-&gt;get_LineWidth());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -123,7 +123,7 @@ Shows how to remove all borders from all paragraphs in a document. <programlisti
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>border<sp/>:<sp/>System::IterateOver(paragraph-&gt;get_ParagraphFormat()-&gt;get_Borders()))</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>border-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>border-&gt;get_Color().ToArgb());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da6adf97f83acf6453d4a6a4b1070f3754" kindref="member">LineStyle::None</ref>,<sp/>border-&gt;get_LineStyle());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(0.0,<sp/>border-&gt;get_LineWidth());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -143,7 +143,7 @@ Shows how to remove all borders from all paragraphs in a document. <programlisti
         <name>Equals</name>
         <qualifiedname>Aspose::Words::BorderCollection::Equals</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt; &amp;</type>
           <declname>brColl</declname>
         </param>
         <briefdescription>
@@ -165,8 +165,8 @@ Shows how border collections can share elements. <programlisting><codeline><high
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>firstParagraphBorders-&gt;get_Count();<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(firstParagraphBorders-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -179,8 +179,8 @@ Shows how border collections can share elements. <programlisting><codeline><high
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>border<sp/>collections<sp/>no<sp/>longer<sp/>share<sp/>the<sp/>same<sp/>elements.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>firstParagraphBorders-&gt;get_Count();<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>appearance<sp/>of<sp/>an<sp/>empty<sp/>border<sp/>makes<sp/>it<sp/>visible.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(secondParagraphBorders-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
@@ -194,7 +194,7 @@ Shows how border collections can share elements. <programlisting><codeline><high
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="562" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1a56673608990cbf028836bb6f79151903" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::get_Bottom</definition>
         <argsstring>()</argsstring>
         <name>get_Bottom</name>
@@ -210,14 +210,14 @@ Shows how to apply border and shading color while building a table. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Start<sp/>a<sp/>table<sp/>and<sp/>set<sp/>a<sp/>default<sp/>color/thickness<sp/>for<sp/>its<sp/>borders.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
-<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>row<sp/>with<sp/>two<sp/>cells<sp/>with<sp/>different<sp/>background<sp/>colors.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -243,7 +243,7 @@ Shows how to apply border and shading color while building a table. <programlist
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="232" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1ae880544bc466f0fb79ee98fb58456e12" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::BorderCollection::get_Color</definition>
         <argsstring>()</argsstring>
         <name>get_Color</name>
@@ -261,7 +261,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4dfc3ae7e792e1bd5dc2835a8b030975" kindref="member">LineStyle::DoubleWave</ref>);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineWidth(2);</highlight></codeline>
-<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_DistanceFromText(24);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Shadow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -297,8 +297,8 @@ Shows how border collections can share elements. <programlisting><codeline><high
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>firstParagraphBorders-&gt;get_Count();<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(firstParagraphBorders-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -311,8 +311,8 @@ Shows how border collections can share elements. <programlisting><codeline><high
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>border<sp/>collections<sp/>no<sp/>longer<sp/>share<sp/>the<sp/>same<sp/>elements.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>firstParagraphBorders-&gt;get_Count();<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>appearance<sp/>of<sp/>an<sp/>empty<sp/>border<sp/>makes<sp/>it<sp/>visible.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(secondParagraphBorders-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
@@ -345,7 +345,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4dfc3ae7e792e1bd5dc2835a8b030975" kindref="member">LineStyle::DoubleWave</ref>);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineWidth(2);</highlight></codeline>
-<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_DistanceFromText(24);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Shadow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -357,7 +357,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="489" column="15"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1af36d62495d05babcf5c8ccfb5f947f16" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::get_Horizontal</definition>
         <argsstring>()</argsstring>
         <name>get_Horizontal</name>
@@ -373,7 +373,7 @@ Shows how to apply settings to horizontal borders to a paragraph&apos;s format. 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>red<sp/>horizontal<sp/>border<sp/>for<sp/>the<sp/>paragraph.<sp/>Any<sp/>paragraphs<sp/>created<sp/>afterwards<sp/>will<sp/>inherit<sp/>these<sp/>border<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Borders();</highlight></codeline>
-<codeline><highlight class="normal">borders-&gt;get_Horizontal()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;get_Horizontal()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">borders-&gt;get_Horizontal()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da1098dd5030d3fd7b7560aea5b9686e94" kindref="member">LineStyle::DashSmallGap</ref>);</highlight></codeline>
 <codeline><highlight class="normal">borders-&gt;get_Horizontal()-&gt;set_LineWidth(3);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -404,12 +404,12 @@ Shows how to apply settings to horizontal borders to a paragraph&apos;s format. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>row-&gt;get_RowFormat()-&gt;get_Borders();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Adjust<sp/>the<sp/>appearance<sp/>of<sp/>borders<sp/>that<sp/>will<sp/>appear<sp/>between<sp/>rows.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">LineStyle::Dot</ref>);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_LineWidth(2.0);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Adjust<sp/>the<sp/>appearance<sp/>of<sp/>borders<sp/>that<sp/>will<sp/>appear<sp/>between<sp/>cells.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">LineStyle::Dot</ref>);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_LineWidth(2.0);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -417,7 +417,7 @@ Shows how to apply settings to horizontal borders to a paragraph&apos;s format. 
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>row<sp/>format,<sp/>and<sp/>a<sp/>cell&apos;s<sp/>inner<sp/>paragraph<sp/>use<sp/>different<sp/>border<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Border&gt;<sp/>border<sp/>=<sp/>table-&gt;get_FirstRow()-&gt;get_FirstCell()-&gt;get_LastParagraph()-&gt;get_ParagraphFormat()-&gt;get_Borders()-&gt;get_Vertical();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>border-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>border-&gt;get_Color().ToArgb());</highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>border-&gt;get_LineWidth());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da6adf97f83acf6453d4a6a4b1070f3754" kindref="member">LineStyle::None</ref>,<sp/>border-&gt;get_LineStyle());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -429,7 +429,7 @@ Shows how to apply settings to horizontal borders to a paragraph&apos;s format. 
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="298" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1ae5a4433b04ccea99a4f5066c2f064860" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::get_Left</definition>
         <argsstring>()</argsstring>
         <name>get_Left</name>
@@ -445,14 +445,14 @@ Shows how to apply border and shading color while building a table. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Start<sp/>a<sp/>table<sp/>and<sp/>set<sp/>a<sp/>default<sp/>color/thickness<sp/>for<sp/>its<sp/>borders.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
-<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>row<sp/>with<sp/>two<sp/>cells<sp/>with<sp/>different<sp/>background<sp/>colors.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -496,7 +496,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4dfc3ae7e792e1bd5dc2835a8b030975" kindref="member">LineStyle::DoubleWave</ref>);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineWidth(2);</highlight></codeline>
-<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_DistanceFromText(24);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Shadow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -526,7 +526,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4dfc3ae7e792e1bd5dc2835a8b030975" kindref="member">LineStyle::DoubleWave</ref>);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineWidth(2);</highlight></codeline>
-<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_DistanceFromText(24);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Shadow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -538,7 +538,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="409" column="15"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1aa47bf88afc2576f6292d347831e06c48" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::get_Right</definition>
         <argsstring>()</argsstring>
         <name>get_Right</name>
@@ -554,14 +554,14 @@ Shows how to apply border and shading color while building a table. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Start<sp/>a<sp/>table<sp/>and<sp/>set<sp/>a<sp/>default<sp/>color/thickness<sp/>for<sp/>its<sp/>borders.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
-<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>row<sp/>with<sp/>two<sp/>cells<sp/>with<sp/>different<sp/>background<sp/>colors.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -605,7 +605,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da4dfc3ae7e792e1bd5dc2835a8b030975" kindref="member">LineStyle::DoubleWave</ref>);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_LineWidth(2);</highlight></codeline>
-<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_DistanceFromText(24);</highlight></codeline>
 <codeline><highlight class="normal">pageSetup-&gt;get_Borders()-&gt;set_Shadow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -617,7 +617,7 @@ Shows how to create green wavy page border with a shadow. <programlisting><codel
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="515" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1af3a2b6bc9949c17a5e87988a849f31b7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::get_Top</definition>
         <argsstring>()</argsstring>
         <name>get_Top</name>
@@ -633,14 +633,14 @@ Shows how to apply border and shading color while building a table. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Start<sp/>a<sp/>table<sp/>and<sp/>set<sp/>a<sp/>default<sp/>color/thickness<sp/>for<sp/>its<sp/>borders.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
-<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>row<sp/>with<sp/>two<sp/>cells<sp/>with<sp/>different<sp/>background<sp/>colors.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -666,7 +666,7 @@ Shows how to apply border and shading color while building a table. <programlist
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="192" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1a71d75033838c30321678a4986aa591c0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::get_Vertical</definition>
         <argsstring>()</argsstring>
         <name>get_Vertical</name>
@@ -694,12 +694,12 @@ Shows how to apply settings to vertical borders to a table row&apos;s format. <p
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>row-&gt;get_RowFormat()-&gt;get_Borders();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Adjust<sp/>the<sp/>appearance<sp/>of<sp/>borders<sp/>that<sp/>will<sp/>appear<sp/>between<sp/>rows.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">LineStyle::Dot</ref>);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Horizontal()-&gt;set_LineWidth(2.0);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Adjust<sp/>the<sp/>appearance<sp/>of<sp/>borders<sp/>that<sp/>will<sp/>appear<sp/>between<sp/>cells.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">LineStyle::Dot</ref>);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>borders-&gt;get_Vertical()-&gt;set_LineWidth(2.0);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -707,7 +707,7 @@ Shows how to apply settings to vertical borders to a table row&apos;s format. <p
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>row<sp/>format,<sp/>and<sp/>a<sp/>cell&apos;s<sp/>inner<sp/>paragraph<sp/>use<sp/>different<sp/>border<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Border&gt;<sp/>border<sp/>=<sp/>table-&gt;get_FirstRow()-&gt;get_FirstCell()-&gt;get_LastParagraph()-&gt;get_ParagraphFormat()-&gt;get_Borders()-&gt;get_Vertical();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>border-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>border-&gt;get_Color().ToArgb());</highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>border-&gt;get_LineWidth());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da6adf97f83acf6453d4a6a4b1070f3754" kindref="member">LineStyle::None</ref>,<sp/>border-&gt;get_LineStyle());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -719,7 +719,7 @@ Shows how to apply settings to vertical borders to a table row&apos;s format. <p
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="342" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1ae115010ad47360c17702416f7601e301" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Border &gt; &gt; &gt; Aspose::Words::BorderCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -741,7 +741,7 @@ Shows how to iterate over and edit all of the borders in a paragraph format obje
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Border&gt;<sp/>border<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>border-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>border-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>border-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad911b34823c7674c292556dc56148c27" kindref="member">LineStyle::Wave</ref>);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>border-&gt;set_LineWidth(3);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -758,7 +758,7 @@ Shows how to iterate over and edit all of the borders in a paragraph format obje
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="702" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1a4c8872b12a1908e781a611cd45856dd8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::idx_get</definition>
         <argsstring>(Aspose::Words::BorderType borderType)</argsstring>
         <name>idx_get</name>
@@ -795,8 +795,8 @@ Shows how to decorate text with borders and shading. <programlisting><codeline><
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Shading&gt;<sp/>shading<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Shading();</highlight></codeline>
 <codeline><highlight class="normal">shading-&gt;set_Texture(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674a1827a4bf8c6aa5527c075110473e2b05" kindref="member">TextureIndex::TextureDiagonalCross</ref>);</highlight></codeline>
-<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
-<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>formatted<sp/>with<sp/>a<sp/>double<sp/>border<sp/>and<sp/>shading.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.ApplyBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -807,7 +807,7 @@ Shows how to decorate text with borders and shading. <programlisting><codeline><
         <location file="Aspose.Words.Cpp/BorderCollection.h" line="594" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_border_collection_1a583dc9683390344ed411d3442291af48" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Aspose::Words::Border</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Border &gt; Aspose::Words::BorderCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -844,8 +844,8 @@ Shows how border collections can share elements. <programlisting><codeline><high
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>firstParagraphBorders-&gt;get_Count();<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(firstParagraphBorders-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -858,8 +858,8 @@ Shows how border collections can share elements. <programlisting><codeline><high
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>border<sp/>collections<sp/>no<sp/>longer<sp/>share<sp/>the<sp/>same<sp/>elements.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>firstParagraphBorders-&gt;get_Count();<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(firstParagraphBorders-&gt;idx_get(i),<sp/>secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(firstParagraphBorders-&gt;idx_get(i)),<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(secondParagraphBorders-&gt;idx_get(i)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>appearance<sp/>of<sp/>an<sp/>empty<sp/>border<sp/>makes<sp/>it<sp/>visible.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(secondParagraphBorders-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
@@ -879,7 +879,7 @@ Shows how border collections can share elements. <programlisting><codeline><high
         <name>set_Color</name>
         <qualifiedname>Aspose::Words::BorderCollection::set_Color</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -978,7 +978,7 @@ Shows how to insert a paragraph with a top border. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Border&gt;<sp/>topBorder<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Borders()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>);</highlight></codeline>
-<codeline><highlight class="normal">topBorder-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">topBorder-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">topBorder-&gt;set_LineWidth(4.0);</highlight></codeline>
 <codeline><highlight class="normal">topBorder-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da1098dd5030d3fd7b7560aea5b9686e94" kindref="member">LineStyle::DashSmallGap</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

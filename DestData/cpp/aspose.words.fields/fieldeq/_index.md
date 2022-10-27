@@ -19,6 +19,7 @@ class FieldEQ : public Aspose::Words::Fields::Field
 
 | Method | Description |
 | --- | --- |
+| [AsOfficeMath](./asofficemath/)() | Returns Office [Math](../../aspose.words.math/) object corresponded to the EQ field. |
 | [get_DisplayResult](../field/get_displayresult/)() | Gets the text that represents the displayed field result. |
 | [get_End](../field/get_end/)() const | Gets the node that represents the field end. |
 | [get_FieldEnd](../field/get_fieldend/)() const | Gets the node that represents the field end. |

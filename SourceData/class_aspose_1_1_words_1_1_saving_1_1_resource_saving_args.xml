@@ -6,7 +6,7 @@
     <includes refid="_resource_saving_args_8h" local="no">Aspose.Words.Cpp/Saving/ResourceSavingArgs.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1aa758aa852e348fe117b03f3dd35d6d92" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Saving::ResourceSavingArgs::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="99" column="32" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="99" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a1c416422200c99fc343adb52cbf8a1be" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::ResourceSavingArgs::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a90188b7d1cbf0adf251bcae61f4aba9c" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ResourceSavingArgs::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="490" column="23" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="490" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a0b670bdbc545bfed4ce7405372d130b1" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="491" column="20" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="491" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a8526a4d82876076eab4510f4b64c2a11" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -120,7 +120,7 @@
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="494" column="23" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="494" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a12b2e30145936fde21e6cb7057967e46" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ResourceSavingArgs::mField5</definition>
         <argsstring></argsstring>
         <name>mField5</name>
@@ -152,7 +152,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a963c5e6ba12ec4613271752a25f28459" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Saving::ResourceSavingArgs::get_Document</definition>
         <argsstring>() const</argsstring>
         <name>get_Document</name>
@@ -192,7 +192,7 @@ Shows how to use a callback to track external resources created while converting
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -236,15 +236,15 @@ Shows how to use a callback to print the URIs of external resources created whil
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>ResourcesFolderAlias<sp/>will<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>ResourcesFolder.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.HtmlFixedResourceFolder.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>resourceFiles<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>resourceFiles<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.i_o.directory/_1a8898c7613b377294f56ca21ff2de72e2" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.i_o.directory/_1a8898c7613b377294f56ca21ff2de72e2" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(String<sp/>f)&gt;<sp/>isImageOrCss<sp/>=<sp/>[](<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>f)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.jpeg&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.png&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.css&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -261,7 +261,7 @@ Shows how to use a callback to print the URIs of external resources created whil
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0),<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0),<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -274,12 +274,12 @@ Shows how to use a callback to print the URIs of external resources created whil
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>a<sp/>folder<sp/>alias<sp/>in<sp/>the<sp/>SaveOptions<sp/>object,<sp/>we<sp/>will<sp/>be<sp/>able<sp/>to<sp/>print<sp/>it<sp/>from<sp/>here.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>#{0}<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>++mSavedResourceCount,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extension<sp/>=<sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extension<sp/>=<sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ResourceFileName());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal"><sp/>||<sp/>extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.woff&quot;</highlight><highlight class="normal">)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>&apos;ResourceFileUri&apos;<sp/>uses<sp/>system<sp/>folder<sp/>for<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>avoid<sp/>problems<sp/>in<sp/>other<sp/>platforms<sp/>you<sp/>must<sp/>explicitly<sp/>specify<sp/>the<sp/>path<sp/>for<sp/>the<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceFileUri(ArtifactsDir<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceFileUri(ArtifactsDir<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>args-&gt;get_ResourceFileName());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri());</highlight></codeline>
@@ -297,7 +297,7 @@ Shows how to use a callback to print the URIs of external resources created whil
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="378" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourceFileName</name>
@@ -345,7 +345,7 @@ Shows how to use a callback to track external resources created while converting
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -359,7 +359,7 @@ Shows how to use a callback to track external resources created while converting
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="226" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a87f0ee693cca99df4e2f0f63cfdbab8e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourceFileUri</name>
@@ -402,7 +402,7 @@ Shows how to use a callback to track external resources created while converting
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -416,7 +416,7 @@ Shows how to use a callback to track external resources created while converting
         <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="287" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
         <definition>System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourceStream</name>
@@ -450,15 +450,15 @@ Shows how to use a callback to print the URIs of external resources created whil
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>ResourcesFolderAlias<sp/>will<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>ResourcesFolder.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.HtmlFixedResourceFolder.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>resourceFiles<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>resourceFiles<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.i_o.directory/_1a8898c7613b377294f56ca21ff2de72e2" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.i_o.directory/_1a8898c7613b377294f56ca21ff2de72e2" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(String<sp/>f)&gt;<sp/>isImageOrCss<sp/>=<sp/>[](<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>f)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.jpeg&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.png&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.css&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -475,7 +475,7 @@ Shows how to use a callback to print the URIs of external resources created whil
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0),<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0),<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -488,12 +488,12 @@ Shows how to use a callback to print the URIs of external resources created whil
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>a<sp/>folder<sp/>alias<sp/>in<sp/>the<sp/>SaveOptions<sp/>object,<sp/>we<sp/>will<sp/>be<sp/>able<sp/>to<sp/>print<sp/>it<sp/>from<sp/>here.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>#{0}<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>++mSavedResourceCount,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extension<sp/>=<sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extension<sp/>=<sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ResourceFileName());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal"><sp/>||<sp/>extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.woff&quot;</highlight><highlight class="normal">)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>&apos;ResourceFileUri&apos;<sp/>uses<sp/>system<sp/>folder<sp/>for<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>avoid<sp/>problems<sp/>in<sp/>other<sp/>platforms<sp/>you<sp/>must<sp/>explicitly<sp/>specify<sp/>the<sp/>path<sp/>for<sp/>the<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceFileUri(ArtifactsDir<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceFileUri(ArtifactsDir<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>args-&gt;get_ResourceFileName());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri());</highlight></codeline>
@@ -536,7 +536,7 @@ Shows how to use a callback to print the URIs of external resources created whil
         <name>set_ResourceFileName</name>
         <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -555,7 +555,7 @@ Shows how to use a callback to print the URIs of external resources created whil
         <name>set_ResourceFileUri</name>
         <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileUri</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -574,7 +574,7 @@ Shows how to use a callback to print the URIs of external resources created whil
         <name>set_ResourceStream</name>
         <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -652,7 +652,7 @@ Shows how to use a callback to track external resources created while converting
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

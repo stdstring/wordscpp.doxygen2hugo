@@ -25,7 +25,6 @@ class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [get_ConvertShapeToOfficeMath](../loadoptions/get_convertshapetoofficemath/)() const | Gets or sets whether to convert shapes with EquationXML to Office [Math](../../aspose.words.math/) objects. |
 | [get_ConvertSvgToEmf](./get_convertsvgtoemf/)() const | Gets or sets a value indicating whether to convert loaded SVG images to the EMF format. Default value is **false** and, if possible, loaded SVG images are stored as is without conversion. |
 | [get_Encoding](../loadoptions/get_encoding/)() const | Gets or sets the encoding that will be used to load an HTML, TXT, or CHM document if the encoding is not specified inside the document. Can be null. Default is null. |
-| [get_FlatOpcXmlMappingOnly](../loadoptions/get_flatopcxmlmappingonly/)() const | Gets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [get_FontSettings](../loadoptions/get_fontsettings/)() const | Allows to specify document font settings. |
 | [get_IgnoreNoscriptElements](./get_ignorenoscriptelements/)() const | Gets a value indicating whether to ignore <noscript> HTML elements. Default value is **false**. |
 | [get_LanguagePreferences](../loadoptions/get_languagepreferences/)() const | Gets language preferences that will be used when document is loading. |
@@ -53,7 +52,6 @@ class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [set_ConvertShapeToOfficeMath](../loadoptions/set_convertshapetoofficemath/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath](../loadoptions/get_convertshapetoofficemath/). |
 | [set_ConvertSvgToEmf](./set_convertsvgtoemf/)(bool) | Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf](./get_convertsvgtoemf/). |
 | [set_Encoding](../loadoptions/set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_Encoding](../loadoptions/get_encoding/). |
-| [set_FlatOpcXmlMappingOnly](../loadoptions/set_flatopcxmlmappingonly/)(bool) | Sets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [set_FontSettings](../loadoptions/set_fontsettings/)(const System::SharedPtr\<Aspose::Words::Fonts::FontSettings\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_FontSettings](../loadoptions/get_fontsettings/). |
 | [set_IgnoreNoscriptElements](./set_ignorenoscriptelements/)(bool) | Sets a value indicating whether to ignore <noscript> HTML elements. Default value is **false**. |
 | [set_LoadFormat](../loadoptions/set_loadformat/)(Aspose::Words::LoadFormat) | Setter for [Aspose::Words::Loading::LoadOptions::get_LoadFormat](../loadoptions/get_loadformat/). |

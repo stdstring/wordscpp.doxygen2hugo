@@ -26,7 +26,7 @@ class LayoutOptions : public System::Object
 | [get_RevisionOptions](./get_revisionoptions/)() const | Gets revision options. |
 | [get_ShowHiddenText](./get_showhiddentext/)() const | Gets or sets indication of whether hidden text in the document is rendered. Default is False. |
 | [get_ShowParagraphMarks](./get_showparagraphmarks/)() const | Gets or sets indication of whether paragraph marks are rendered. Default is False. |
-| [get_TextShaperFactory](./get_textshaperfactory/)() const | Gets or sets **ITextShaperFactory** implementation used for Advanced Typography rendering features. |
+| [get_TextShaperFactory](./get_textshaperfactory/)() const | Gets **ITextShaperFactory** implementation used for Advanced Typography rendering features. |
 | [LayoutOptions](./layoutoptions/)() |  |
 | [set_Callback](./set_callback/)(const System::SharedPtr\<Aspose::Words::Layout::IPageLayoutCallback\>\&) | Sets [IPageLayoutCallback](../ipagelayoutcallback/) implementation used by page layout model. |
 | [set_CommentDisplayMode](./set_commentdisplaymode/)(Aspose::Words::Layout::CommentDisplayMode) | Setter for [Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode](./get_commentdisplaymode/). |
@@ -34,7 +34,7 @@ class LayoutOptions : public System::Object
 | [set_IgnorePrinterMetrics](./set_ignoreprintermetrics/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics](./get_ignoreprintermetrics/). |
 | [set_ShowHiddenText](./set_showhiddentext/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText](./get_showhiddentext/). |
 | [set_ShowParagraphMarks](./set_showparagraphmarks/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks](./get_showparagraphmarks/). |
-| [set_TextShaperFactory](./set_textshaperfactory/)(const System::SharedPtr\<Aspose::Words::Shaping::ITextShaperFactory\>\&) | Setter for [Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory](./get_textshaperfactory/). |
+| [set_TextShaperFactory](./set_textshaperfactory/)(const System::SharedPtr\<Aspose::Words::Shaping::ITextShaperFactory\>\&) | Sets **ITextShaperFactory** implementation used for Advanced Typography rendering features. |
 
 You do not create instances of this class directly. Use the [LayoutOptions](../../aspose.words/document/get_layoutoptions/) property to access layout options for this document.
 

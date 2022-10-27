@@ -7,7 +7,7 @@
     <includes refid="_drop_down_item_collection_8h" local="no">Aspose.Words.Cpp/Fields/DropDownItemCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ae10d971a4367479257b6e542c9ee25d3" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::String&gt; Aspose::Words::Fields::DropDownItemCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="96" column="36" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="96" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af272dbea5b02995746a4113ce85b8afd" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::DropDownItemCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Fields::DropDownItemCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -79,7 +79,7 @@
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="109" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="109" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1aec8ebb48ec92d0dcd95f05ad15dad074" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Fields::DropDownItemCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -93,7 +93,7 @@
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="107" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="107" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a4aabc9128bc9966288b6e5d5767c3d05" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
         <definition>using Aspose::Words::Fields::DropDownItemCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::String&gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -107,7 +107,7 @@
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="105" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="105" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -121,7 +121,7 @@
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="113" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="113" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a92eb7ec0eefe1911dd3ff1314371be7c" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -137,7 +137,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abb098b7ddfe251a9bfd7ed40138e9211" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::DropDownItemCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -203,7 +203,7 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -406,7 +406,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
         <name>Contains</name>
         <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Contains</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -575,7 +575,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="172" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad87c74f7d6e6a166ca018f9f60363417" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::String &gt; &gt; Aspose::Words::Fields::DropDownItemCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -641,7 +641,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
         <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="343" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a67651f70b27f42ad735cbed1292426bb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::DropDownItemCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -721,7 +721,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
           <declname>index</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -791,7 +791,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
         <name>IndexOf</name>
         <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::IndexOf</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -876,7 +876,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
           <declname>index</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -963,7 +963,7 @@ Shows how to insert a combo box field, and edit the elements in its item collect
         <name>Remove</name>
         <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Remove</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>

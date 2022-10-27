@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="73" column="38" bodyfile="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" bodystart="73" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1a6ad404c646214f8b315f47111c6901c6" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Properties::CustomDocumentProperties::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1ad7952a56e20de108d51883bd3e2cbb88" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Properties::CustomDocumentProperties::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -94,7 +94,7 @@
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="472" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1a435a6f96045b8979fcacd8a20eb4ac93" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">Aspose::Words::Properties::DocumentPropertyCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">Aspose::Words::Properties::DocumentPropertyCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentPropertyCollection &gt; Aspose::Words::Properties::CustomDocumentProperties::Create</definition>
         <argsstring>() override</argsstring>
         <name>Create</name>
@@ -125,13 +125,13 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1a7b2c8a075b2e217c5b37c2abbf4b859a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::CustomDocumentProperties::Add</definition>
         <argsstring>(const System::String &amp;name, bool value)</argsstring>
         <name>Add</name>
         <qualifiedname>Aspose::Words::Properties::CustomDocumentProperties::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
@@ -171,7 +171,7 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -224,17 +224,17 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="365" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1a45f8094e6ca4bc33445a4cd594cd4f19" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::CustomDocumentProperties::Add</definition>
         <argsstring>(const System::String &amp;name, const System::String &amp;value)</argsstring>
         <name>Add</name>
         <qualifiedname>Aspose::Words::Properties::CustomDocumentProperties::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -270,7 +270,7 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -323,13 +323,13 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="152" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1a763e57bb41b4e9f6bc53c6f56e896f4f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::CustomDocumentProperties::Add</definition>
         <argsstring>(const System::String &amp;name, double value)</argsstring>
         <name>Add</name>
         <qualifiedname>Aspose::Words::Properties::CustomDocumentProperties::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
@@ -369,7 +369,7 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -422,13 +422,13 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="433" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1afa12eeedad4ceb0d2f0231528506390b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::CustomDocumentProperties::Add</definition>
         <argsstring>(const System::String &amp;name, int32_t value)</argsstring>
         <name>Add</name>
         <qualifiedname>Aspose::Words::Properties::CustomDocumentProperties::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
@@ -468,7 +468,7 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -521,17 +521,17 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="220" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1a57a5d0890837ae2c66266947991705fe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::CustomDocumentProperties::Add</definition>
         <argsstring>(const System::String &amp;name, System::DateTime value)</argsstring>
         <name>Add</name>
         <qualifiedname>Aspose::Words::Properties::CustomDocumentProperties::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
-          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -561,7 +561,7 @@ Shows how to work with a document&apos;s custom properties. <programlisting><cod
 </simplesect>
 Shows how to create a custom document property which contains a date and time. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;AuthorizationDate&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;AuthorizationDate&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>authorized<sp/>on<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;AuthorizationDate&quot;</highlight><highlight class="normal">)-&gt;ToDateTime()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 </programlisting></para>
@@ -573,7 +573,7 @@ Shows how to create a custom document property which contains a date and time. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -626,17 +626,17 @@ Shows how to create a custom document property which contains a date and time. <
         <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h" line="297" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties_1aa66e2c801195536008d5027a31e9f34c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::CustomDocumentProperties::AddLinkToContent</definition>
         <argsstring>(const System::String &amp;name, const System::String &amp;linkSource)</argsstring>
         <name>AddLinkToContent</name>
         <qualifiedname>Aspose::Words::Properties::CustomDocumentProperties::AddLinkToContent</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>linkSource</declname>
         </param>
         <briefdescription>
@@ -707,7 +707,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>document<sp/>contains<sp/>a<sp/>collection<sp/>of<sp/>custom<sp/>properties,<sp/>which,<sp/>like<sp/>the<sp/>built-in<sp/>properties,<sp/>are<sp/>key-value<sp/>pairs.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>has<sp/>a<sp/>fixed<sp/>list<sp/>of<sp/>built-in<sp/>properties.<sp/>The<sp/>user<sp/>creates<sp/>all<sp/>of<sp/>the<sp/>custom<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;CustomProperty&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;CustomProperty&quot;</highlight><highlight class="normal">)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;CustomProperty2&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property<sp/>#2&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

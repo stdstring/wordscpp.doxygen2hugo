@@ -6,7 +6,7 @@
     <includes refid="_page_info_8h" local="no">Aspose.Words.Cpp/Rendering/PageInfo.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a461e40363bce13e0f4b0b60301a7510e" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Rendering::PageInfo::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="42" column="22" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="42" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a39ee7846c1ab6a4141f3364214a0af43" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Rendering::PageInfo::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a1646f37534d2d4023133a97476f8ad7d" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
+        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
         <definition>System::Drawing::SizeF Aspose::Words::Rendering::PageInfo::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -170,7 +170,7 @@
         <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="64" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1adb79fdba38c20988c1b9a6f8626beb7f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
+        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
         <definition>System::Drawing::SizeF Aspose::Words::Rendering::PageInfo::get_SizeInPoints</definition>
         <argsstring>() const</argsstring>
         <name>get_SizeInPoints</name>
@@ -200,7 +200,7 @@
         <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="54" column="14"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a4cfb8fcada188c698b4db651624ae96a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
+        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
         <definition>System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels</definition>
         <argsstring>(float scale, float dpi)</argsstring>
         <name>GetSizeInPixels</name>
@@ -243,7 +243,7 @@
         <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="75" column="30"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a28f242aaf37b84d78a4e32d483a31740" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
+        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
         <definition>System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels</definition>
         <argsstring>(float scale, float horizontalDpi, float verticalDpi)</argsstring>
         <name>GetSizeInPixels</name>

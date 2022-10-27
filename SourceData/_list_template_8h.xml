@@ -53,6 +53,85 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Lists<sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="160" refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8" kindref="member" tooltip="Specifies one of the predefined list formats available in Microsoft Word.">ListTemplate</ref></highlight></codeline>
+<codeline lineno="161"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"></highlight></codeline>
+<codeline lineno="168"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">BulletDefault</ref>,</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"></highlight></codeline>
+<codeline lineno="172"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a40db5972f6d9cadae0616daa30a5f1f0" kindref="member" tooltip="Same as BulletDefault. Corresponds to the 1st bulleted list template in the Bullets and Numbering dia...">BulletDisk</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">BulletDefault</ref>),</highlight></codeline>
+<codeline lineno="173"><highlight class="normal"></highlight></codeline>
+<codeline lineno="176"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a1d8586652a5591bccba6b769c85b74e1" kindref="member" tooltip="The bullet of the first level is a circle. The remaining levels are same as in BulletDefault....">BulletCircle</ref>,</highlight></codeline>
+<codeline lineno="177"><highlight class="normal"></highlight></codeline>
+<codeline lineno="180"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a614801dc80b96305bb520aca727c6a5c" kindref="member" tooltip="The bullet of the first level is a square. The remaining levels are same as in BulletDefault....">BulletSquare</ref>,</highlight></codeline>
+<codeline lineno="181"><highlight class="normal"></highlight></codeline>
+<codeline lineno="184"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a9a42729fad9e9ad16fb5b472a05a8e6e" kindref="member" tooltip="The bullet of the first level is a 4-diamond Wingding character. The remaining levels are same as in ...">BulletDiamonds</ref>,</highlight></codeline>
+<codeline lineno="185"><highlight class="normal"></highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ad148c8d61fb3463e0e0bc1106237df32" kindref="member" tooltip="The bullet of the first level is an arrow head Wingding character. The remaining levels are same as i...">BulletArrowHead</ref>,</highlight></codeline>
+<codeline lineno="189"><highlight class="normal"></highlight></codeline>
+<codeline lineno="192"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8abef246825851d1d2e9ab77540f74d2d4" kindref="member" tooltip="The bullet of the first level is a tick Wingding character. The remaining levels are same as in Bulle...">BulletTick</ref>,</highlight></codeline>
+<codeline lineno="193"><highlight class="normal"></highlight></codeline>
+<codeline lineno="200"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">NumberDefault</ref>,</highlight></codeline>
+<codeline lineno="201"><highlight class="normal"></highlight></codeline>
+<codeline lineno="204"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8aa5b26aa2b6973ccf28f2df99ff4db5ec" kindref="member" tooltip="Same as NumberDefault. Corresponds to the 1st numbered list template in the Bullets and Numbering dia...">NumberArabicDot</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">NumberDefault</ref>),</highlight></codeline>
+<codeline lineno="205"><highlight class="normal"></highlight></codeline>
+<codeline lineno="208"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ae70de0dbccc7e67fa5a06195e265b13b" kindref="member" tooltip="The number of the first level is &quot;1)&quot;. The remaining levels are same as in NumberDefault....">NumberArabicParenthesis</ref>,</highlight></codeline>
+<codeline lineno="209"><highlight class="normal"></highlight></codeline>
+<codeline lineno="212"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a8df315c9bdb90ec152c69181d586a635" kindref="member" tooltip="The number of the first level is &quot;I.&quot;. The remaining levels are same as in NumberDefault....">NumberUppercaseRomanDot</ref>,</highlight></codeline>
+<codeline lineno="213"><highlight class="normal"></highlight></codeline>
+<codeline lineno="216"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a788fac7e5bf270f8d32929be779c9a28" kindref="member" tooltip="The number of the first level is &quot;A.&quot;. The remaining levels are same as in NumberDefault....">NumberUppercaseLetterDot</ref>,</highlight></codeline>
+<codeline lineno="217"><highlight class="normal"></highlight></codeline>
+<codeline lineno="220"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a2f8bad47688651f226757af80c39be5e" kindref="member" tooltip="The number of the first level is &quot;a)&quot;. The remaining levels are same as in NumberDefault....">NumberLowercaseLetterParenthesis</ref>,</highlight></codeline>
+<codeline lineno="221"><highlight class="normal"></highlight></codeline>
+<codeline lineno="224"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a7f83c63138ed5c60966301d5d12d46d1" kindref="member" tooltip="The number of the first level is &quot;a.&quot;. The remaining levels are same as in NumberDefault....">NumberLowercaseLetterDot</ref>,</highlight></codeline>
+<codeline lineno="225"><highlight class="normal"></highlight></codeline>
+<codeline lineno="228"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a59af9531e8b2519e6651fd707661f024" kindref="member" tooltip="The number of the first level is &quot;i.&quot;. The remaining levels are same as in NumberDefault....">NumberLowercaseRomanDot</ref>,</highlight></codeline>
+<codeline lineno="229"><highlight class="normal"></highlight></codeline>
+<codeline lineno="232"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a79c8fbef58bd01f6cd9a3087e41a3aa4" kindref="member" tooltip="An outline list with levels numbered &quot;1), a), i), (1), (a), (i), 1., a., i.&quot;. Corresponds to the 1st ...">OutlineNumbers</ref>,</highlight></codeline>
+<codeline lineno="233"><highlight class="normal"></highlight></codeline>
+<codeline lineno="236"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a21dd49b225d5b2128410760c15abbd44" kindref="member" tooltip="An outline list with levels are numbered &quot;1., 1.1., 1.1.1, ...&quot;. Corresponds to the 2nd outline list ...">OutlineLegal</ref>,</highlight></codeline>
+<codeline lineno="237"><highlight class="normal"></highlight></codeline>
+<codeline lineno="240"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a7880585788ffb6a25453d5fdba42b534" kindref="member" tooltip="An outline lists with various bullets for different levels. Corresponds to the 3rd outline list templ...">OutlineBullets</ref>,</highlight></codeline>
+<codeline lineno="241"><highlight class="normal"></highlight></codeline>
+<codeline lineno="244"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ae84dcce37e9d62b814da61db4b4e5f81" kindref="member" tooltip="An outline list with levels linked to Heading styles. Corresponds to the 4th outline list template in...">OutlineHeadingsArticleSection</ref>,</highlight></codeline>
+<codeline lineno="245"><highlight class="normal"></highlight></codeline>
+<codeline lineno="248"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a2fe08ab0654fdce84978964811796b79" kindref="member" tooltip="An outline list with levels linked to Heading styles. Corresponds to the 5th outline list template in...">OutlineHeadingsLegal</ref>,</highlight></codeline>
+<codeline lineno="249"><highlight class="normal"></highlight></codeline>
+<codeline lineno="252"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8aa240ecd2b068f84db2a6964c6d383cf6" kindref="member" tooltip="An outline list with levels linked to Heading styles. Corresponds to the 6th outline list template in...">OutlineHeadingsNumbers</ref>,</highlight></codeline>
+<codeline lineno="253"><highlight class="normal"></highlight></codeline>
+<codeline lineno="256"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a138c463b812a4686219c6e5fa131eade" kindref="member" tooltip="An outline list with levels linked to Heading styles. Corresponds to the 7th outline list template in...">OutlineHeadingsChapter</ref></highlight></codeline>
+<codeline lineno="257"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="258"><highlight class="normal"></highlight></codeline>
+<codeline lineno="259"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="260"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="261"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="262"><highlight class="normal"></highlight></codeline>
+<codeline lineno="263"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="264"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Lists::ListTemplate&gt;</highlight></codeline>
+<codeline lineno="265"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="266"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Lists::ListTemplate,<sp/>const<sp/>char_t*&gt;,<sp/>22&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="267"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Lists/ListTemplate.h"/>
   </compounddef>
 </doxygen>

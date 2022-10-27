@@ -3,7 +3,7 @@ title: InsertTableOfContents
 second_title: Aspose.Words for C++ API Reference
 description: Inserts a TOC (table of contents) field into the document.
 type: docs
-weight: 560
+weight: 586
 url: /cpp/aspose.words/documentbuilder/inserttableofcontents/
 ---
 ## DocumentBuilder.InsertTableOfContents method
@@ -26,7 +26,7 @@ A table of contents in a Word document can be built in a number of ways and form
 
 The easiest way to specify the switches is to insert and configure a table of contents into a Word document using the Insert->Reference->Index and [Tables](../../../aspose.words.tables/) menu, then switch display of field codes on to see the switches. You can press Alt+F9 in Microsoft Word to toggle display of field codes on or off.
 
-For example, after creating a table of contents, the following field is inserted into the document: **%{ TOC \o "1-3" \h \z \u }**. You can copy **%\o "1-3" \h \z \u** and use it as the switches parameter.
+For example, after creating a table of contents, the following field is inserted into the document: **%{ TOC \o "1-3" \h \z }**. You can copy **%\o "1-3" \h \z** and use it as the switches parameter.
 
 Note that **InsertTableOfContents** will only insert a TOC field, but will not actually build the table of contents. The table of contents is built by Microsoft Word when the field is updated.
 

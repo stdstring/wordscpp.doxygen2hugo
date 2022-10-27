@@ -66,7 +66,7 @@
         <location file="Aspose.Words.Cpp/Inline.h" line="106" column="20" bodyfile="Aspose.Words.Cpp/Inline.h" bodystart="106" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_inline_1a87c0056a54a640ddd767011afa3765ed" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Inline::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -82,7 +82,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_inline_1ad2310c809a247b48cdeba5863cae2a0d" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Inline::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -96,7 +96,7 @@
         <location file="Aspose.Words.Cpp/Inline.h" line="511" column="23" bodyfile="Aspose.Words.Cpp/Inline.h" bodystart="511" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_inline_1a61a2ee6c9d7fa8a3b6b3d5f8ee995822" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Inline::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -126,7 +126,7 @@
         <location file="Aspose.Words.Cpp/Inline.h" line="502" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_inline_1a7aa21246431fd50e97798b5d3815a0a8" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::Inline::Clone</definition>
         <argsstring>(bool, System::SharedPtr&lt; Aspose::Words::INodeCloningListener &gt;) override</argsstring>
         <name>Clone</name>
@@ -136,7 +136,7 @@
           <type>bool</type>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::INodeCloningListener &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::INodeCloningListener &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -177,7 +177,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_inline_1a82fffea44646d5acccb4d90637917283" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Aspose::Words::Font</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Aspose::Words::Font</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Font &gt; Aspose::Words::Inline::get_Font</definition>
         <argsstring>()</argsstring>
         <name>get_Font</name>
@@ -222,7 +222,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -555,7 +555,7 @@ Shows how to determine the revision type of an inline node. <programlisting><cod
         <location file="Aspose.Words.Cpp/Inline.h" line="441" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_inline_1a876a68e54181d8aa4e61f5020e69028c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Paragraph &gt; Aspose::Words::Inline::get_ParentParagraph</definition>
         <argsstring>()</argsstring>
         <name>get_ParentParagraph</name>

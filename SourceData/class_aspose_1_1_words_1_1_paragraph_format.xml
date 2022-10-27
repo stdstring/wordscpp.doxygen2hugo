@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="103" column="29" bodyfile="Aspose.Words.Cpp/ParagraphFormat.h" bodystart="103" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_paragraph_format_1ac465ab6ef10506de3f18ba0c8af93957" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::ParagraphFormat::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_paragraph_format_1a513b571c0a8c7bc6d67af38a21c495db" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::ParagraphFormat::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -79,7 +79,7 @@
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="1828" column="21" bodyfile="Aspose.Words.Cpp/ParagraphFormat.h" bodystart="1828" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_paragraph_format_1a865af1524f290fee3bcfa8eac10cb8c9" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::ParagraphFormat::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -93,7 +93,7 @@
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="1829" column="21" bodyfile="Aspose.Words.Cpp/ParagraphFormat.h" bodystart="1829" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_paragraph_format_1a846075d2a85ad76a736d4cad1ddf1a10" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ParagraphFormat::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -218,7 +218,7 @@ Shows how to insert a paragraph into the document. <programlisting><codeline><hi
 <codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>builder-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(16);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Underline(<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a3663598d5c5858b5a6040b1bbed4f187" kindref="member">Underline::Dash</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -258,7 +258,7 @@ Shows how to insert a paragraph into the document. <programlisting><codeline><hi
 <codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>builder-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(16);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Underline(<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a3663598d5c5858b5a6040b1bbed4f187" kindref="member">Underline::Dash</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -298,7 +298,7 @@ Shows how to insert a paragraph into the document. <programlisting><codeline><hi
 <codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>builder-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(16);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Underline(<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a3663598d5c5858b5a6040b1bbed4f187" kindref="member">Underline::Dash</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -349,7 +349,7 @@ Shows how to insert a paragraph into the document. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -426,7 +426,7 @@ Shows how to create right-to-left language-compatible lists with BIDIOUTLINE fie
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="624" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_format_1a24345aeaa2aa612a9c1abd07bd96d38f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::BorderCollection &gt; Aspose::Words::ParagraphFormat::get_Borders</definition>
         <argsstring>()</argsstring>
         <name>get_Borders</name>
@@ -441,7 +441,7 @@ Shows how to insert a paragraph with a top border. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Border&gt;<sp/>topBorder<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Borders()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>);</highlight></codeline>
-<codeline><highlight class="normal">topBorder-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">topBorder-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">topBorder-&gt;set_LineWidth(4.0);</highlight></codeline>
 <codeline><highlight class="normal">topBorder-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da1098dd5030d3fd7b7560aea5b9686e94" kindref="member">LineStyle::DashSmallGap</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -746,7 +746,7 @@ Shows how to insert a paragraph into the document. <programlisting><codeline><hi
 <codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>builder-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(16);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Underline(<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a3663598d5c5858b5a6040b1bbed4f187" kindref="member">Underline::Dash</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -924,7 +924,7 @@ Shows how to insert a paragraph into the document. <programlisting><codeline><hi
 <codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>builder-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(16);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Underline(<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a3663598d5c5858b5a6040b1bbed4f187" kindref="member">Underline::Dash</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -1442,7 +1442,7 @@ Shows how to configure paragraph formatting to create off-center text. <programl
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="736" column="15"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_format_1a9a1ba3bb0b0b5ef6db672933ea9119c7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Shading &gt; Aspose::Words::ParagraphFormat::get_Shading</definition>
         <argsstring>()</argsstring>
         <name>get_Shading</name>
@@ -1465,8 +1465,8 @@ Shows how to decorate text with borders and shading. <programlisting><codeline><
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Shading&gt;<sp/>shading<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Shading();</highlight></codeline>
 <codeline><highlight class="normal">shading-&gt;set_Texture(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674a1827a4bf8c6aa5527c075110473e2b05" kindref="member">TextureIndex::TextureDiagonalCross</ref>);</highlight></codeline>
-<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
-<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>formatted<sp/>with<sp/>a<sp/>double<sp/>border<sp/>and<sp/>shading.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.ApplyBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1594,7 +1594,7 @@ Shows how to set automatic paragraph spacing. <programlisting><codeline><highlig
         </briefdescription>
         <detaileddescription>
 <para>When set to true, overrides the effect of <ref refid="class_aspose_1_1_words_1_1_paragraph_format_1ae42672d03f13fe772b8b0486d5a60551" kindref="member">SpaceAfter</ref>.</para>
-<para>When you set paragraph Space Before and Space After to Auto, <ref refid="namespace/microsoft/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Microsoft</ref> Word adds 14 points spacing between paragraphs automatically according to the following rules:</para>
+<para>When you set paragraph Space Before and Space After to Auto, <ref refid="namespace/microsoft/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">Microsoft</ref> Word adds 14 points spacing between paragraphs automatically according to the following rules:</para>
 <para><itemizedlist>
 <listitem><para>Normally, spacing is added after all paragraphs.</para>
 </listitem><listitem><para>In a bulleted or numbered list, spacing is added only after the last item in the list. Spacing is not added between the list items.</para>
@@ -1714,7 +1714,7 @@ Shows how to set automatic paragraph spacing. <programlisting><codeline><highlig
         </briefdescription>
         <detaileddescription>
 <para>When set to true, overrides the effect of <ref refid="class_aspose_1_1_words_1_1_paragraph_format_1a0412ade4aeafb231e16ce539b1fa3ec1" kindref="member">SpaceBefore</ref>.</para>
-<para>When you set paragraph Space Before and Space After to Auto, <ref refid="namespace/microsoft/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Microsoft</ref> Word adds 14 points spacing between paragraphs automatically according to the following rules:</para>
+<para>When you set paragraph Space Before and Space After to Auto, <ref refid="namespace/microsoft/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">Microsoft</ref> Word adds 14 points spacing between paragraphs automatically according to the following rules:</para>
 <para><itemizedlist>
 <listitem><para>Normally, spacing is added after all paragraphs.</para>
 </listitem><listitem><para>In a bulleted or numbered list, spacing is added only after the last item in the list. Spacing is not added between the list items.</para>
@@ -1751,7 +1751,7 @@ Shows how to set automatic paragraph spacing. <programlisting><codeline><highlig
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="928" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_format_1aed6d25e2929027092a4cd7141d2787c5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::ParagraphFormat::get_Style</definition>
         <argsstring>()</argsstring>
         <name>get_Style</name>
@@ -1851,7 +1851,7 @@ Shows how to insert a Table of contents (TOC) into a document using heading styl
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="1706" column="39"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_format_1a8740709b13b9dd0608df1dbbb3e41ae6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::ParagraphFormat::get_StyleName</definition>
         <argsstring>()</argsstring>
         <name>get_StyleName</name>
@@ -1896,7 +1896,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -1986,7 +1986,7 @@ Shows how to enable line numbering for a section. <programlisting><codeline><hig
         <location file="Aspose.Words.Cpp/ParagraphFormat.h" line="370" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_format_1a20a46656e580b347f5c397f1baa577fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">Aspose::Words::TabStopCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">Aspose::Words::TabStopCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::TabStopCollection &gt; Aspose::Words::ParagraphFormat::get_TabStops</definition>
         <argsstring>()</argsstring>
         <name>get_TabStops</name>
@@ -2624,7 +2624,7 @@ Shows how to set special properties for Asian typography. <programlisting><codel
         <name>set_Style</name>
         <qualifiedname>Aspose::Words::ParagraphFormat::set_Style</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2662,7 +2662,7 @@ Shows how to set special properties for Asian typography. <programlisting><codel
         <name>set_StyleName</name>
         <qualifiedname>Aspose::Words::ParagraphFormat::set_StyleName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2791,7 +2791,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>

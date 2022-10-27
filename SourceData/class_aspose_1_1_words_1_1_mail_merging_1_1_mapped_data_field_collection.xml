@@ -6,7 +6,7 @@
     <includes refid="_mapped_data_field_collection_8h" local="no">Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a07a6cf1a6e5d21411a5ea832fc7d470e" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::Collections::Generic::KeyValuePair&lt;System::String, System::String&gt; &gt; Aspose::Words::MailMerging::MappedDataFieldCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="47" column="39" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="47" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a6def74886e0500bac9d4fa32160abc4a" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::MappedDataFieldCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a558a770586847f43521ca201dddfabdf" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a558a770586847f43521ca201dddfabdf" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="59" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="59" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ae13e7f3777afa293ffb0471b2cb5011d" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1aa026f5695c128b72d17c672cf16b0d6b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1aa026f5695c128b72d17c672cf16b0d6b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="57" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="57" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a16b03638bbb9594625ab0b43abd84a85" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.dictionary/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::Dictionary</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <type><ref refid="class/system.collections.generic.dictionary/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::Dictionary</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
         <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::iterator_holder_type =  System::Collections::Generic::Dictionary&lt;System::String, System::String&gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="55" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="55" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="63" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1abf32869644b0b51534ccdd95e09dc08a" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -122,7 +122,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a2bf25490491fb8d0f76ec66f6faa618c" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MappedDataFieldCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -188,11 +188,11 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>documentFieldName</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>dataSourceFieldName</declname>
         </param>
         <briefdescription>
@@ -300,7 +300,7 @@
         <name>ContainsKey</name>
         <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>documentFieldName</declname>
         </param>
         <briefdescription>
@@ -331,7 +331,7 @@
         <name>ContainsValue</name>
         <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>dataSourceFieldName</declname>
         </param>
         <briefdescription>
@@ -399,7 +399,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="68" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a139a8104496890938d3ae59e9208bdfc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::Collections::Generic::KeyValuePair&lt; System::String, System::String &gt; &gt; &gt; Aspose::Words::MailMerging::MappedDataFieldCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -414,13 +414,13 @@
         <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="77" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a64a905badf6f99c799711ec1a07fe3cf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::MailMerging::MappedDataFieldCollection::idx_get</definition>
         <argsstring>(const System::String &amp;documentFieldName)</argsstring>
         <name>idx_get</name>
         <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::idx_get</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>documentFieldName</declname>
         </param>
         <briefdescription>
@@ -439,11 +439,11 @@
         <name>idx_set</name>
         <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::idx_set</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>documentFieldName</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -462,7 +462,7 @@
         <name>Remove</name>
         <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::Remove</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>documentFieldName</declname>
         </param>
         <briefdescription>

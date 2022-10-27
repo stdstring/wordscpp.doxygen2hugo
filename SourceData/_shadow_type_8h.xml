@@ -47,6 +47,128 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Drawing<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8f" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8f" kindref="member" tooltip="Specifies the type of a shape shadow.">ShadowType</ref></highlight></codeline>
+<codeline lineno="24"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faf8b602aa8b79d4420844a3c68dfb7a6c" kindref="member" tooltip="None of predefined shadow presets.">ShadowMixed</ref><sp/>=<sp/>-2,</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faa31b2968c0498ae422c0e3065981e1a8" kindref="member" tooltip="First shadow type.">Shadow1</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8facb4009811e3cb91d40e64a2954d4be94" kindref="member" tooltip="Tenth shadow type.">Shadow10</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa5869026ffe88fd27d3400bf087ae3c6f" kindref="member" tooltip="Eleventh shadow type.">Shadow11</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa934556e16eb011eaf692c01be87ee33b" kindref="member" tooltip="Twelfth shadow type.">Shadow12</ref><sp/>=<sp/>12,</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa64195f83ac8dbbf7aced0b422bf8b9d7" kindref="member" tooltip="Thirteenth shadow type.">Shadow13</ref><sp/>=<sp/>13,</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa2832cd73aeebf4b5529ce6d12d7acf94" kindref="member" tooltip="Fourteenth shadow type.">Shadow14</ref><sp/>=<sp/>14,</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa5fa23a529a829165a245fc4aa76454fe" kindref="member" tooltip="Fifteenth shadow type.">Shadow15</ref><sp/>=<sp/>15,</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa6cf5bb4e0fc96c6e503001c01b9582d4" kindref="member" tooltip="Sixteenth shadow type.">Shadow16</ref><sp/>=<sp/>16,</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fab557750ee1d3b9c4ddc93cf9853d9acf" kindref="member" tooltip="Seventeenth shadow type.">Shadow17</ref><sp/>=<sp/>17,</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"></highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa3bd4750224f7bf8e90a51b398994d4f8" kindref="member" tooltip="Eighteenth shadow type.">Shadow18</ref><sp/>=<sp/>18,</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa214a8470ef418791df57e3a09a9d6fbf" kindref="member" tooltip="Nineteenth shadow type.">Shadow19</ref><sp/>=<sp/>19,</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fae3dfd9dd64b68f94e00eead6c81d1342" kindref="member" tooltip="Second shadow type.">Shadow2</ref><sp/>=<sp/>2,</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faa0243e2253e9c4d2f689ecc253f8a4e4" kindref="member" tooltip="Twentieth shadow type.">Shadow20</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa2d4af41a02cfa9af6eeead248cb6b143" kindref="member" tooltip="Twenty first shadow type.">Shadow21</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fadae4fc3ab7a5f24758d289a947bc3b3b" kindref="member" tooltip="Twenty second shadow type.">Shadow22</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faee475c891839b827a779e1cf4ea73729" kindref="member" tooltip="Twenty third shadow type.">Shadow23</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fab9517c8bc3cd95177d95b6295d10db1b" kindref="member" tooltip="Twenty forth shadow type.">Shadow24</ref><sp/>=<sp/>24,</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa9f1c4eaabe68907b13c1933ac5c54b6c" kindref="member" tooltip="Twenty fifth shadow type.">Shadow25</ref><sp/>=<sp/>25,</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faa2392102ed536cc2f836c3867ca2a5c1" kindref="member" tooltip="Twenty sixth shadow type.">Shadow26</ref><sp/>=<sp/>26,</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa6577db72265a6f440733c7dd94729f7c" kindref="member" tooltip="Twenty seventh shadow type.">Shadow27</ref><sp/>=<sp/>27,</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faba835d313403e9f6e3614da447e3beb5" kindref="member" tooltip="Twenty eighth shadow type.">Shadow28</ref><sp/>=<sp/>28,</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"></highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fadc3d8400e4a0fdb8d9d5add2d8362c37" kindref="member" tooltip="Twenty ninth shadow type.">Shadow29</ref><sp/>=<sp/>29,</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faef16dec2178054599f5d02d81aa2f5ac" kindref="member" tooltip="Third shadow type.">Shadow3</ref><sp/>=<sp/>3,</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa9912050eca758b121775e73f059ef225" kindref="member" tooltip="Thirtieth shadow type.">Shadow30</ref><sp/>=<sp/>30,</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa9a9a64c96e6516b39ff69f2221e89e1c" kindref="member" tooltip="Thirty first shadow type.">Shadow31</ref><sp/>=<sp/>31,</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"></highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa8e340f54556434ac39c2bc625c54ce06" kindref="member" tooltip="Thirty second shadow type.">Shadow32</ref><sp/>=<sp/>32,</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fadfcd03ab1651cf96d30ee1f4ca6d802e" kindref="member" tooltip="Thirty third shadow type.">Shadow33</ref><sp/>=<sp/>33,</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"></highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faaeaf38294b5e7857236b2dffad43eef6" kindref="member" tooltip="Thirty forth shadow type.">Shadow34</ref><sp/>=<sp/>34,</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"></highlight></codeline>
+<codeline lineno="114"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa2a29daf3b4bc832698d188dece0f1213" kindref="member" tooltip="Thirty fifth shadow type.">Shadow35</ref><sp/>=<sp/>35,</highlight></codeline>
+<codeline lineno="115"><highlight class="normal"></highlight></codeline>
+<codeline lineno="117"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa606fc7a241345e8230c7aca52f9ce3dc" kindref="member" tooltip="Thirty sixth shadow type.">Shadow36</ref><sp/>=<sp/>36,</highlight></codeline>
+<codeline lineno="118"><highlight class="normal"></highlight></codeline>
+<codeline lineno="120"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fad1b2af2a7eb467d559a85100a9e3b0d3" kindref="member" tooltip="Thirty seventh shadow type.">Shadow37</ref><sp/>=<sp/>37,</highlight></codeline>
+<codeline lineno="121"><highlight class="normal"></highlight></codeline>
+<codeline lineno="123"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa57735a85c0f4c5e54b5971d434d618db" kindref="member" tooltip="Thirty eighth shadow type.">Shadow38</ref><sp/>=<sp/>38,</highlight></codeline>
+<codeline lineno="124"><highlight class="normal"></highlight></codeline>
+<codeline lineno="126"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa6d51be1c93906d52bf79957065120cf1" kindref="member" tooltip="Thirty ninth shadow type.">Shadow39</ref><sp/>=<sp/>39,</highlight></codeline>
+<codeline lineno="127"><highlight class="normal"></highlight></codeline>
+<codeline lineno="129"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa02f0c7aa4ecf590d4cde923df16efd09" kindref="member" tooltip="Fourth shadow type.">Shadow4</ref><sp/>=<sp/>4,</highlight></codeline>
+<codeline lineno="130"><highlight class="normal"></highlight></codeline>
+<codeline lineno="132"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa25b568a71b19fc7f99fb474cd686cd55" kindref="member" tooltip="Fortieth shadow type.">Shadow40</ref><sp/>=<sp/>40,</highlight></codeline>
+<codeline lineno="133"><highlight class="normal"></highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa38dc44b88b15cf595d07ee6ac99c559e" kindref="member" tooltip="Forty first shadow type.">Shadow41</ref><sp/>=<sp/>41,</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"></highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faf1cc46f98fefdac67c2578774b5e15fa" kindref="member" tooltip="Forty second shadow type.">Shadow42</ref><sp/>=<sp/>42,</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"></highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fafca89569191520a1a68c7e33232b0f04" kindref="member" tooltip="Forty third shadow type.">Shadow43</ref><sp/>=<sp/>43,</highlight></codeline>
+<codeline lineno="142"><highlight class="normal"></highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faf3ac46d39c72e907a48fe28acbcf2bd3" kindref="member" tooltip="Fifth shadow type.">Shadow5</ref><sp/>=<sp/>5,</highlight></codeline>
+<codeline lineno="145"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa713d9dff7d501581aae86d993bb53c1b" kindref="member" tooltip="Sixth shadow type.">Shadow6</ref><sp/>=<sp/>6,</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"></highlight></codeline>
+<codeline lineno="150"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fadf9a9ec587afbd99e43e8e8265dfe924" kindref="member" tooltip="Seventh shadow type.">Shadow7</ref><sp/>=<sp/>7,</highlight></codeline>
+<codeline lineno="151"><highlight class="normal"></highlight></codeline>
+<codeline lineno="153"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8fa00bdd9e4c38d22bb2c274057e63a21af" kindref="member" tooltip="Eighth shadow type.">Shadow8</ref><sp/>=<sp/>8,</highlight></codeline>
+<codeline lineno="154"><highlight class="normal"></highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e06fa91ea3dbf5082f30cb9137c7a8faf4947c1d6744b96bf7c9793624e0e80b" kindref="member" tooltip="Ninth shadow type.">Shadow9</ref><sp/>=<sp/>9</highlight></codeline>
+<codeline lineno="157"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="158"><highlight class="normal"></highlight></codeline>
+<codeline lineno="159"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="160"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="161"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"></highlight></codeline>
+<codeline lineno="163"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="164"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Drawing::ShadowType&gt;</highlight></codeline>
+<codeline lineno="165"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="166"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Drawing::ShadowType,<sp/>const<sp/>char_t*&gt;,<sp/>44&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="167"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Drawing/ShadowType.h"/>
   </compounddef>
 </doxygen>

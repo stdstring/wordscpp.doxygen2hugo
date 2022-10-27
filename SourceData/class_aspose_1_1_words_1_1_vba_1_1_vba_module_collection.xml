@@ -6,7 +6,7 @@
     <includes refid="_vba_2_vba_module_collection_8h" local="no">Aspose.Words.Cpp/Vba/VbaModuleCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1ae527fae4a52cd20342c8daef4d6e8ab4" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Vba::VbaModule&gt; &gt; Aspose::Words::Vba::VbaModuleCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="82" column="33" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="82" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a00ac66f7766fb410e6c8c3f08f6330aa" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Vba::VbaModuleCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a4ee4be8c79abf478e7517ef0eefc4a5e" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Vba::VbaModuleCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="94" column="5" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="94" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1ae6e63355eccc7578d342d98002e4adeb" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Vba::VbaModuleCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="92" column="5" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="92" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a685150f039577d70f00686450e43231f" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &gt;</type>
         <definition>using Aspose::Words::Vba::VbaModuleCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Vba::VbaModule&gt; &gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="90" column="5" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="90" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a719f756b81fe15bc89c8fefbbc4e879f" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Vba::VbaModuleCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="98" column="5" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="98" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a6458090487f9d340192120eb46a42557" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Vba::VbaModuleCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -122,7 +122,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1afa9e9c1f4fee4af1ac88c84c031d078e" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModuleCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -136,7 +136,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="294" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="294" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1aa339bccd628af251547f34a61f2974ec" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModuleCollection::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -150,7 +150,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="295" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" bodystart="295" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a2c47ed35d1e80715b27fb913a0a38d67" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModuleCollection::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -180,7 +180,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="290" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1aa11fd6c10e855bf9e14569c69b1ac464" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Vba::VbaModule &gt; &gt; &gt; Aspose::Words::Vba::VbaModuleCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -216,7 +216,7 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::Vba::VbaModuleCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &amp;</type>
           <declname>vbaModule</declname>
         </param>
         <briefdescription>
@@ -376,13 +376,13 @@ Shows how to access a document&apos;s VBA project information. <programlisting><
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="134" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a2bbe671067b5d362e645c0d716633028" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Vba::VbaModule &gt; Aspose::Words::Vba::VbaModuleCollection::idx_get</definition>
         <argsstring>(const System::String &amp;name)</argsstring>
         <name>idx_get</name>
         <qualifiedname>Aspose::Words::Vba::VbaModuleCollection::idx_get</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -423,7 +423,7 @@ Shows how to access a document&apos;s VBA project information. <programlisting><
         <location file="Aspose.Words.Cpp/Vba/VbaModuleCollection.h" line="230" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection_1a67953058ed79608bcd4e14ec2b6f4c3b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Vba::VbaModule &gt; Aspose::Words::Vba::VbaModuleCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -485,7 +485,7 @@ Shows how to access a document&apos;s VBA project information. <programlisting><
         <name>Remove</name>
         <qualifiedname>Aspose::Words::Vba::VbaModuleCollection::Remove</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt; &amp;</type>
           <declname>module_</declname>
         </param>
         <briefdescription>

@@ -84,6 +84,90 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Drawing<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fc" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fc" kindref="member" tooltip="Specifies texture to be used to fill a shape.">PresetTexture</ref></highlight></codeline>
+<codeline lineno="24"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a2555b23818971467ba5ce3de15a8f78da6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The line does not have an arrow at the end.">None</ref><sp/>=<sp/>-1,</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcab232f6bb02cc6fc618e30b7a3df96c94" kindref="member" tooltip="Blue tissue paper texture.">BlueTissuePaper</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcae48e09d79cd942598d63868bbe0ef1f4" kindref="member" tooltip="Bouquet texture.">Bouquet</ref><sp/>=<sp/>2,</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcafda112e6e6b0ff2e66fb5b21be183212" kindref="member" tooltip="Brown marble texture.">BrownMarble</ref><sp/>=<sp/>3,</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca6ea5359e01a41842884943125518289b" kindref="member" tooltip="Canvas texture.">Canvas</ref><sp/>=<sp/>4,</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca002c887b8369e59e6f58a5d06a8d0817" kindref="member" tooltip="Cork texture.">Cork</ref><sp/>=<sp/>5,</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca26d2add8253cba145696aedb988451f5" kindref="member" tooltip="Denim texture.">Denim</ref><sp/>=<sp/>6,</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca2c03166317b917270ffe29095e0dfdf3" kindref="member" tooltip="Fish fossil texture.">FishFossil</ref><sp/>=<sp/>7,</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca7562201f32b70cc000ea79f053e45cf0" kindref="member" tooltip="Granite texture.">Granite</ref><sp/>=<sp/>8,</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca3dba67e90d8fa1db33b9de781ff30286" kindref="member" tooltip="Green marble texture.">GreenMarble</ref><sp/>=<sp/>9,</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"></highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca14d5a479febaff40c7ad56724de53600" kindref="member" tooltip="Medium wood texture.">MediumWood</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca390ab2af184e8c03159ab21fc143be1e" kindref="member" tooltip="Newsprint texture.">Newsprint</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf2b6dcdc344bf345a187b3c6c19af47e" kindref="member" tooltip="Oak texture.">Oak</ref><sp/>=<sp/>12,</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19023a45b7a462002e8fb90632605152" kindref="member" tooltip="Paper bag texture.">PaperBag</ref><sp/>=<sp/>13,</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf31721bd090a0d2146068a05ff7f764f" kindref="member" tooltip="Papyrus texture.">Papyrus</ref><sp/>=<sp/>14,</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca90a04efc3a9527327aa4fdc586be7f52" kindref="member" tooltip="Parchment texture.">Parchment</ref><sp/>=<sp/>15,</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca4c63ac773447f4e94affab16457948b0" kindref="member" tooltip="Pink tissue paper texture.">PinkTissuePaper</ref><sp/>=<sp/>16,</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca17313dad1ecf9f6aa20f256c3a64b13e" kindref="member" tooltip="Purple mesh texture.">PurpleMesh</ref><sp/>=<sp/>17,</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca971c64d4e07d1bfce79f0f2cfda8e4ca" kindref="member" tooltip="Recycled paper texture.">RecycledPaper</ref><sp/>=<sp/>18,</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcacec7ca178e2f7b1ae3a4600868c57aca" kindref="member" tooltip="Sand texture.">Sand</ref><sp/>=<sp/>19,</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcad65adc119b95380b42943d2a926cc9be" kindref="member" tooltip="Stationery texture.">Stationery</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca55fa1499c985a53b443a60f24ea598b3" kindref="member" tooltip="Walnut texture.">Walnut</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"></highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19e498f00e7f35f51d8e9b6144788b1f" kindref="member" tooltip="Water droplets texture.">WaterDroplets</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca9872714a6ac7411997dc11b56e8590cf" kindref="member" tooltip="White marble texture.">WhiteMarble</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca761543e91e415aa3534953c295b4d7f8" kindref="member" tooltip="Woven mat texture.">WovenMat</ref><sp/>=<sp/>24</highlight></codeline>
+<codeline lineno="100"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="101"><highlight class="normal"></highlight></codeline>
+<codeline lineno="102"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="103"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="104"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"></highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="107"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Drawing::PresetTexture&gt;</highlight></codeline>
+<codeline lineno="108"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Drawing::PresetTexture,<sp/>const<sp/>char_t*&gt;,<sp/>25&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="110"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Drawing/PresetTexture.h"/>
   </compounddef>
 </doxygen>

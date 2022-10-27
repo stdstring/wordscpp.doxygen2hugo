@@ -6,7 +6,7 @@
     <includes refid="_bookmarks_outline_level_collection_8h" local="no">Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ac9bc3ff464307774f8d074b3443f84c2" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::Collections::Generic::KeyValuePair&lt;System::String, int32_t&gt; &gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="98" column="45" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="98" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ab92cd3ce382687d8afb26511380f4fb9" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.sorted_list/_1a91d370b050163d5f0859ed4d87d916e3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.sorted_list/_1a91d370b050163d5f0859ed4d87d916e3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="110" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a30175783866794992eb464029280fe92" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.sorted_list/_1ac3d6d4d22d9de58a188a64d37f68f697" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.sorted_list/_1ac3d6d4d22d9de58a188a64d37f68f697" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="108" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="108" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aef7f77ad9b68a18e60be08cc820da911" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.sorted_list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::SortedList</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt;</type>
+        <type><ref refid="class/system.collections.generic.sorted_list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::SortedList</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt;</type>
         <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator_holder_type =  System::Collections::Generic::SortedList&lt;System::String, int32_t&gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="106" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="106" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="114" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="114" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a214f24c9a805eb03d0b27880590d7ff9" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -122,7 +122,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad4f03fa7b1571278f3e605c4439ca76f" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -188,7 +188,7 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
@@ -401,7 +401,7 @@ Shows how to set outline levels for bookmarks. <programlisting><codeline><highli
         <name>Contains</name>
         <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -570,7 +570,7 @@ Shows how to set outline levels for bookmarks. <programlisting><codeline><highli
         <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="173" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a8e89263fb0cb413cb9f4dd3234a3f069" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::Collections::Generic::KeyValuePair&lt; System::String, int32_t &gt; &gt; &gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -590,7 +590,7 @@ Shows how to set outline levels for bookmarks. <programlisting><codeline><highli
         <name>idx_get</name>
         <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_get</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -752,7 +752,7 @@ Shows how to set outline levels for bookmarks. <programlisting><codeline><highli
         <name>idx_set</name>
         <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <param>
@@ -922,7 +922,7 @@ Shows how to set outline levels for bookmarks. <programlisting><codeline><highli
         <name>IndexOfKey</name>
         <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -1003,7 +1003,7 @@ Shows how to set outline levels for bookmarks. <programlisting><codeline><highli
         <name>Remove</name>
         <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Remove</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>

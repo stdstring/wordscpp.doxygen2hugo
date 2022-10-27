@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" line="141" column="30" bodyfile="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" bodystart="141" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a870c322945dbe23b485b53365df99b74" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::ImageSaveOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" line="935" column="23" bodyfile="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" bodystart="935" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a3bd46ef33c1adec289cca6a3d81f53de" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ImageSaveOptions::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -347,7 +347,7 @@ Shows how to configure compression while saving a document as a JPEG. <programli
         <location file="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" line="899" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a6b74422d29f5a0873eb985ef67b1fca0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options" kindref="compound">Aspose::Words::Saving::ImageSaveOptions</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options" kindref="compound">Aspose::Words::Saving::ImageSaveOptions</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Saving::ImageSaveOptions &gt; Aspose::Words::Saving::ImageSaveOptions::Clone</definition>
         <argsstring>()</argsstring>
         <name>Clone</name>
@@ -580,7 +580,7 @@ Shows how to configure compression while saving a document as a JPEG. <programli
         <location file="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" line="506" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a0039be500143a9a558f5cb72d82e4423" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_metafile_rendering_options" kindref="compound">Aspose::Words::Saving::MetafileRenderingOptions</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_metafile_rendering_options" kindref="compound">Aspose::Words::Saving::MetafileRenderingOptions</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Saving::MetafileRenderingOptions &gt; Aspose::Words::Saving::ImageSaveOptions::get_MetafileRenderingOptions</definition>
         <argsstring>()</argsstring>
         <name>get_MetafileRenderingOptions</name>
@@ -598,7 +598,7 @@ Shows how to configure compression while saving a document as a JPEG. <programli
 Shows how to set the rendering mode when saving documents with Windows Metafile images to other image formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;InsertImage(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Windows<sp/>MetaFile.wmf&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Windows<sp/>MetaFile.wmf&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>as<sp/>an<sp/>image,<sp/>we<sp/>can<sp/>pass<sp/>a<sp/>SaveOptions<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>determine<sp/>how<sp/>the<sp/>saving<sp/>operation<sp/>will<sp/>process<sp/>Windows<sp/>Metafiles<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
@@ -616,7 +616,7 @@ Shows how to set the rendering mode when saving documents with Windows Metafile 
         <location file="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" line="751" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a2a52466efa98d7278bdb9df0135b0b02" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Saving::PageSet &gt; Aspose::Words::Saving::ImageSaveOptions::get_PageSet</definition>
         <argsstring>()</argsstring>
         <name>get_PageSet</name>
@@ -713,13 +713,13 @@ Shows how to render one page from a document to a JPEG image. <programlisting><c
         <location file="Aspose.Words.Cpp/Saving/ImageSaveOptions.h" line="282" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a705640a5de75b1a1e535e2df63730c94" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::Saving::ImageSaveOptions::get_PaperColor</definition>
         <argsstring>()</argsstring>
         <name>get_PaperColor</name>
         <qualifiedname>Aspose::Words::Saving::ImageSaveOptions::get_PaperColor</qualifiedname>
         <briefdescription>
-<para>Gets or sets the background (paper) color for the generated images. The default value is <ref refid="class/system.drawing.color/_1a1b90a32ef23b518d7809b352c2a8274b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">White</ref>. </para>
+<para>Gets or sets the background (paper) color for the generated images. The default value is <ref refid="class/system.drawing.color/_1a1b90a32ef23b518d7809b352c2a8274b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">White</ref>. </para>
         </briefdescription>
         <detaileddescription>
 <para>When rendering pages of a document that specifies its own background color, then the document background color will override the color specified by this property.</para>
@@ -740,13 +740,13 @@ Renders a page of a Word document into an image with transparent or colored back
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PaperColor&quot;<sp/>property<sp/>to<sp/>a<sp/>transparent<sp/>color<sp/>to<sp/>apply<sp/>a<sp/>transparent</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>background<sp/>to<sp/>the<sp/>document<sp/>while<sp/>rendering<sp/>it<sp/>to<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1afd783f5128fbac891e64fd015a04c67d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Transparent</ref>());</highlight></codeline>
+<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1afd783f5128fbac891e64fd015a04c67d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Transparent</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.PaperColor.Transparent.png&quot;</highlight><highlight class="normal">,<sp/>imgOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PaperColor&quot;<sp/>property<sp/>to<sp/>an<sp/>opaque<sp/>color<sp/>to<sp/>apply<sp/>that<sp/>color</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>as<sp/>the<sp/>background<sp/>of<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>to<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.PaperColor.LightCoral.png&quot;</highlight><highlight class="normal">,<sp/>imgOptions);</highlight></codeline>
 </programlisting> </para>
@@ -1192,7 +1192,7 @@ Shows how to edit the image while Aspose.Words converts a document to one. <prog
         <name>set_PageSet</name>
         <qualifiedname>Aspose::Words::Saving::ImageSaveOptions::set_PageSet</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1211,7 +1211,7 @@ Shows how to edit the image while Aspose.Words converts a document to one. <prog
         <name>set_PaperColor</name>
         <qualifiedname>Aspose::Words::Saving::ImageSaveOptions::set_PaperColor</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1447,13 +1447,13 @@ Renders a page of a Word document into an image with transparent or colored back
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PaperColor&quot;<sp/>property<sp/>to<sp/>a<sp/>transparent<sp/>color<sp/>to<sp/>apply<sp/>a<sp/>transparent</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>background<sp/>to<sp/>the<sp/>document<sp/>while<sp/>rendering<sp/>it<sp/>to<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1afd783f5128fbac891e64fd015a04c67d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Transparent</ref>());</highlight></codeline>
+<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1afd783f5128fbac891e64fd015a04c67d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Transparent</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.PaperColor.Transparent.png&quot;</highlight><highlight class="normal">,<sp/>imgOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PaperColor&quot;<sp/>property<sp/>to<sp/>an<sp/>opaque<sp/>color<sp/>to<sp/>apply<sp/>that<sp/>color</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>as<sp/>the<sp/>background<sp/>of<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>to<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">imgOptions-&gt;set_PaperColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.PaperColor.LightCoral.png&quot;</highlight><highlight class="normal">,<sp/>imgOptions);</highlight></codeline>
 </programlisting></para>
@@ -1570,7 +1570,6 @@ Renders a page of a Word document into an image with transparent or colored back
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_DmlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_ExportGeneratorName</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a201c6346f2c00a8c3587e10606dc64d0" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_HorizontalResolution</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a133b438427d127b2f9a89d05f0143e21" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_ImageBrightness</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1af3b0ea0f11af683ce1ed53a38aaa9f00" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>get_ImageColorMode</name></member>
@@ -1631,7 +1630,6 @@ Renders a page of a Word document into an image with transparent or colored back
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_DmlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_ExportGeneratorName</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1af82ab4fa1fb96fd4b2b2106f88ead7da" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_HorizontalResolution</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a2722bfcb126ef99a1af777ae4c13e68e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_ImageBrightness</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1aa908c8107fd603748a11a5646a2381b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSaveOptions</scope><name>set_ImageColorMode</name></member>

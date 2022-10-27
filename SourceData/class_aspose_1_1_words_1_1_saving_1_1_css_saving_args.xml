@@ -6,7 +6,7 @@
     <includes refid="_css_saving_args_8h" local="no">Aspose.Words.Cpp/Saving/CssSavingArgs.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args_1aafefe3636da2b3d102b1c08827860516" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Saving::CssSavingArgs::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/CssSavingArgs.h" line="110" column="27" bodyfile="Aspose.Words.Cpp/Saving/CssSavingArgs.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args_1a694a9ec11ca769408da1a886c98709ea" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::CssSavingArgs::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args_1ae513b88515089860690e6edb91c6d98b" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::CssSavingArgs::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Saving/CssSavingArgs.h" line="403" column="23" bodyfile="Aspose.Words.Cpp/Saving/CssSavingArgs.h" bodystart="403" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args_1adca488c9c87970750f1eb4b1e2253b74" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::CssSavingArgs::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -124,7 +124,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args_1ac45afc1141e7686215a7df5da5e9d1ce" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
         <definition>System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Saving::CssSavingArgs::get_CssStream</definition>
         <argsstring>() const</argsstring>
         <name>get_CssStream</name>
@@ -197,7 +197,7 @@ Shows how to work with CSS stylesheets that an HTML conversion creates. <program
         <location file="Aspose.Words.Cpp/Saving/CssSavingArgs.h" line="321" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args_1a059f9928a5a50ea41b0595dff81ff647" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Saving::CssSavingArgs::get_Document</definition>
         <argsstring>() const</argsstring>
         <name>get_Document</name>
@@ -410,7 +410,7 @@ Shows how to work with CSS stylesheets that an HTML conversion creates. <program
         <name>set_CssStream</name>
         <qualifiedname>Aspose::Words::Saving::CssSavingArgs::set_CssStream</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

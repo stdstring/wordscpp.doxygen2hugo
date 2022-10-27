@@ -57,7 +57,7 @@ String outDocContents = System::IO::File::ReadAllText(ArtifactsDir + u"HtmlSaveO
 if (showDoctypeDeclaration)
 {
     ASSERT_TRUE(outDocContents.Contains(String(u"<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?>\r\n") +
-                                        u"<!DOCTYPE html\r\nPUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\r\n       "
+                                        u"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" "
                                         u"\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n" +
                                         u"<html xmlns=\"http://www.w3.org/1999/xhtml\">"));
 }

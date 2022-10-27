@@ -3,7 +3,7 @@ title: InsertImage
 second_title: Aspose.Words for C++ API Reference
 description: Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale.
 type: docs
-weight: 443
+weight: 469
 url: /cpp/aspose.words/documentbuilder/insertimage/
 ---
 ## DocumentBuilder.InsertImage(const System::ArrayPtr\<uint8_t\>\&) method
@@ -624,7 +624,7 @@ builder->Writeln();
 
 // 2 -  Pass a URL which points to an image.
 builder->Write(u"Image from a URL: ");
-builder->InsertImage(get_ImageUrl());
+builder->InsertImage(ImageUrl);
 builder->Writeln();
 
 doc->Save(ArtifactsDir + u"Image.FromUrl.docx");
@@ -692,8 +692,7 @@ builder->InsertImage(ImageDir + u"Transparent background logo.png", RelativeHori
                      200.0, 200.0, WrapType::Square);
 
 // 2 -  From a URL:
-builder->InsertImage(get_ImageUrl(), RelativeHorizontalPosition::Margin, 100.0, RelativeVerticalPosition::Margin, 250.0, 200.0, 200.0,
-                     WrapType::Square);
+builder->InsertImage(ImageUrl, RelativeHorizontalPosition::Margin, 100.0, RelativeVerticalPosition::Margin, 250.0, 200.0, 200.0, WrapType::Square);
 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertFloatingImage.docx");
 ```

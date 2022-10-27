@@ -103,6 +103,161 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="76" refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89d" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89d" kindref="member" tooltip="Specifies the number style for a list, footnotes and endnotes, page numbers.">NumberStyle</ref></highlight></codeline>
+<codeline lineno="77"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"></highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da272ccb8592bafde0baf1dedce0fd3ac2" kindref="member" tooltip="Arabic numbering (1, 2, 3, ...)">Arabic</ref><sp/>=<sp/>0,</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"></highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da3c04ee10e6af5c1dd2255e5bd5c078e9" kindref="member" tooltip="Upper case Roman (I, II, III, ...)">UppercaseRoman</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"></highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Lower case Roman (i, ii, iii, ...)">LowercaseRoman</ref><sp/>=<sp/>2,</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"></highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daf49c2b9bee0060f6a031039aab3cb831" kindref="member" tooltip="Upper case Letter (A, B, C, ...)">UppercaseLetter</ref><sp/>=<sp/>3,</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da12face25dc04d4eeb2778f2d770faa15" kindref="member" tooltip="Lower case letter (a, b, c, ...)">LowercaseLetter</ref><sp/>=<sp/>4,</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dac9d539922221d77591558b5841d36fd1" kindref="member" tooltip="Ordinal (1st, 2nd, 3rd, ...)">Ordinal</ref><sp/>=<sp/>5,</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"></highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dab2ee912b91d69b435159c7c3f6df7f5f" kindref="member" tooltip="Numbered (One, Two, Three, ...)">Number</ref><sp/>=<sp/>6,</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"></highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da831fd2c8a4c8c9dd50d5fbb28fc39cb9" kindref="member" tooltip="Ordinal (text) (First, Second, Third, ...)">OrdinalText</ref><sp/>=<sp/>7,</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"></highlight></codeline>
+<codeline lineno="104"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da92640bd72988395b326c888614f8937a" kindref="member" tooltip="Hexadecimal: 8, 9, A, B, C, D, E, F, 10, 11, 12.">Hex</ref><sp/>=<sp/>8,</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"></highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dae7d9c4bf8822a2e8eea0598a2adf8e8c" kindref="member" tooltip="Chicago Manual of Style: *, †, †">ChicagoManual</ref><sp/>=<sp/>9,</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"></highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da4ca287907cd4b5e536bb695cfbaddefe" kindref="member" tooltip="Ideograph-digital.">Kanji</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"></highlight></codeline>
+<codeline lineno="113"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da8f989257507a4810ded66800a9b6905e" kindref="member" tooltip="Japanese counting.">KanjiDigit</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"></highlight></codeline>
+<codeline lineno="116"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daf1d252600be9af03997f288a38cb0463" kindref="member" tooltip="Aiueo.">AiueoHalfWidth</ref><sp/>=<sp/>12,</highlight></codeline>
+<codeline lineno="117"><highlight class="normal"></highlight></codeline>
+<codeline lineno="119"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da4413f20c9fbf57f13e2932b29b97df5e" kindref="member" tooltip="Iroha.">IrohaHalfWidth</ref><sp/>=<sp/>13,</highlight></codeline>
+<codeline lineno="120"><highlight class="normal"></highlight></codeline>
+<codeline lineno="122"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da77af3096c93a05d28d659d9dc1a04bc9" kindref="member" tooltip="Full-width Arabic: 1, 2, 3, 4.">ArabicFullWidth</ref><sp/>=<sp/>14,</highlight></codeline>
+<codeline lineno="123"><highlight class="normal"></highlight></codeline>
+<codeline lineno="125"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da094fedfcb194380de7150243dc897d22" kindref="member" tooltip="Half-width Arabic: 1, 2, 3, 4.">ArabicHalfWidth</ref><sp/>=<sp/>15,</highlight></codeline>
+<codeline lineno="126"><highlight class="normal"></highlight></codeline>
+<codeline lineno="128"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dab4669a70f2968645274578dd39e22e08" kindref="member" tooltip="Japanese legal.">KanjiTraditional</ref><sp/>=<sp/>16,</highlight></codeline>
+<codeline lineno="129"><highlight class="normal"></highlight></codeline>
+<codeline lineno="131"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daceb59df2d4e7796b498d598c41e415ed" kindref="member" tooltip="Japanese digital ten thousand.">KanjiTraditional2</ref><sp/>=<sp/>17,</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"></highlight></codeline>
+<codeline lineno="134"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dab1d94b4778f64050f47d05be057671be" kindref="member" tooltip="Enclosed circles.">NumberInCircle</ref><sp/>=<sp/>18,</highlight></codeline>
+<codeline lineno="135"><highlight class="normal"></highlight></codeline>
+<codeline lineno="137"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da6a6722df2bc498d69a27d9f8504578e2" kindref="member" tooltip="Decimal full width: 1, 2, 3, 4.">DecimalFullWidth</ref><sp/>=<sp/>19,</highlight></codeline>
+<codeline lineno="138"><highlight class="normal"></highlight></codeline>
+<codeline lineno="140"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da936d6ada6b59d0136a3096987b4a3580" kindref="member" tooltip="Aiueo full width.">Aiueo</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="141"><highlight class="normal"></highlight></codeline>
+<codeline lineno="143"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da2dee0514b3614d97f6eb83ea10c368cd" kindref="member" tooltip="Iroha full width.">Iroha</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="144"><highlight class="normal"></highlight></codeline>
+<codeline lineno="146"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da6e35c30e81714a26693b221277c1a4aa" kindref="member" tooltip="Leading Zero (01, 02,..., 09, 10, 11,..., 99, 100, 101,...)">LeadingZero</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="147"><highlight class="normal"></highlight></codeline>
+<codeline lineno="149"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da7533f96ec01fd81438833f71539c7d4e" kindref="member" tooltip="Bullet (check the character code in the text)">Bullet</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="150"><highlight class="normal"></highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daa7018992bc3ae482cf42606fd05dc848" kindref="member" tooltip="Korean Ganada.">Ganada</ref><sp/>=<sp/>24,</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"></highlight></codeline>
+<codeline lineno="155"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da3fddc4245117d908355af6722e5f2e19" kindref="member" tooltip="Korea Chosung.">Chosung</ref><sp/>=<sp/>25,</highlight></codeline>
+<codeline lineno="156"><highlight class="normal"></highlight></codeline>
+<codeline lineno="158"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dabcdabc292fa8d5b60aafec61c5481396" kindref="member" tooltip="Enclosed full stop.">GB1</ref><sp/>=<sp/>26,</highlight></codeline>
+<codeline lineno="159"><highlight class="normal"></highlight></codeline>
+<codeline lineno="161"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da101607d6b850f4144ca64f503f3e3531" kindref="member" tooltip="Enclosed parenthesis.">GB2</ref><sp/>=<sp/>27,</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"></highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da64040a493b3dac8b340ccb8a29f7ae98" kindref="member" tooltip="Enclosed circle Chinese.">GB3</ref><sp/>=<sp/>28,</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"></highlight></codeline>
+<codeline lineno="167"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da9ac7b637523af9eefe3ee224fc23acd0" kindref="member" tooltip="Ideograph enclosed circle.">GB4</ref><sp/>=<sp/>29,</highlight></codeline>
+<codeline lineno="168"><highlight class="normal"></highlight></codeline>
+<codeline lineno="170"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da35d7f1168cd8a04a8c5de35baa01d9ad" kindref="member" tooltip="Ideograph traditional.">Zodiac1</ref><sp/>=<sp/>30,</highlight></codeline>
+<codeline lineno="171"><highlight class="normal"></highlight></codeline>
+<codeline lineno="173"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da881e3855951563a12086f6ae12f74537" kindref="member" tooltip="Ideograph Zodiac.">Zodiac2</ref><sp/>=<sp/>31,</highlight></codeline>
+<codeline lineno="174"><highlight class="normal"></highlight></codeline>
+<codeline lineno="176"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daf5a4a77ecc8404131d06a900e1b4862f" kindref="member" tooltip="Ideograph Zodiac traditional.">Zodiac3</ref><sp/>=<sp/>32,</highlight></codeline>
+<codeline lineno="177"><highlight class="normal"></highlight></codeline>
+<codeline lineno="179"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da1d22adb3af4c48dd7b93ae77987d14cf" kindref="member" tooltip="Taiwanese counting.">TradChinNum1</ref><sp/>=<sp/>33,</highlight></codeline>
+<codeline lineno="180"><highlight class="normal"></highlight></codeline>
+<codeline lineno="182"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da61ed24aa6d45e8d5807c17bd1d575840" kindref="member" tooltip="Ideograph legal traditional.">TradChinNum2</ref><sp/>=<sp/>34,</highlight></codeline>
+<codeline lineno="183"><highlight class="normal"></highlight></codeline>
+<codeline lineno="185"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daf6ab5f2c5de5c9e471cec7cb3e6707f4" kindref="member" tooltip="Taiwanese counting thousand.">TradChinNum3</ref><sp/>=<sp/>35,</highlight></codeline>
+<codeline lineno="186"><highlight class="normal"></highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da3327187881fff7e92b0a834c581b2e0f" kindref="member" tooltip="Taiwanese digital.">TradChinNum4</ref><sp/>=<sp/>36,</highlight></codeline>
+<codeline lineno="189"><highlight class="normal"></highlight></codeline>
+<codeline lineno="191"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da5a86a67dbbb0eb7e6c1a3465332e7c65" kindref="member" tooltip="Chinese counting.">SimpChinNum1</ref><sp/>=<sp/>37,</highlight></codeline>
+<codeline lineno="192"><highlight class="normal"></highlight></codeline>
+<codeline lineno="194"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dab78c35fa2ad72cc7ba693b86a0e5582d" kindref="member" tooltip="Chinese legal simplified.">SimpChinNum2</ref><sp/>=<sp/>38,</highlight></codeline>
+<codeline lineno="195"><highlight class="normal"></highlight></codeline>
+<codeline lineno="197"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dac7e8b64fec8130d26ff2f9865fc9396e" kindref="member" tooltip="Chinese counting thousand.">SimpChinNum3</ref><sp/>=<sp/>39,</highlight></codeline>
+<codeline lineno="198"><highlight class="normal"></highlight></codeline>
+<codeline lineno="200"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da8b2935699979575230baf1fb3c5792b7" kindref="member" tooltip="Chinese (not implemented)">SimpChinNum4</ref><sp/>=<sp/>40,</highlight></codeline>
+<codeline lineno="201"><highlight class="normal"></highlight></codeline>
+<codeline lineno="203"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da35520c6358eca57d3536183845dcc663" kindref="member" tooltip="Korean digital.">HanjaRead</ref><sp/>=<sp/>41,</highlight></codeline>
+<codeline lineno="204"><highlight class="normal"></highlight></codeline>
+<codeline lineno="206"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da3cf97344858397243806a50c7f0e0be9" kindref="member" tooltip="Korean counting.">HanjaReadDigit</ref><sp/>=<sp/>42,</highlight></codeline>
+<codeline lineno="207"><highlight class="normal"></highlight></codeline>
+<codeline lineno="209"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da614a55cdf2537954043d5b01d175285a" kindref="member" tooltip="Korea legal.">Hangul</ref><sp/>=<sp/>43,</highlight></codeline>
+<codeline lineno="210"><highlight class="normal"></highlight></codeline>
+<codeline lineno="212"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da5302b05f7a8b2c87c76e73dc109a37c6" kindref="member" tooltip="Korea digital2.">Hanja</ref><sp/>=<sp/>44,</highlight></codeline>
+<codeline lineno="213"><highlight class="normal"></highlight></codeline>
+<codeline lineno="215"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da423af1e578f6cd91aa58ae8c62e7f22b" kindref="member" tooltip="Hebrew-1.">Hebrew1</ref><sp/>=<sp/>45,</highlight></codeline>
+<codeline lineno="216"><highlight class="normal"></highlight></codeline>
+<codeline lineno="218"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da9cd3b9f9fea521146f622a1896ed2acd" kindref="member" tooltip="Arabic alpha.">Arabic1</ref><sp/>=<sp/>46,</highlight></codeline>
+<codeline lineno="219"><highlight class="normal"></highlight></codeline>
+<codeline lineno="221"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da30602e39c72449517546871e5e51d76b" kindref="member" tooltip="Hebrew-2.">Hebrew2</ref><sp/>=<sp/>47,</highlight></codeline>
+<codeline lineno="222"><highlight class="normal"></highlight></codeline>
+<codeline lineno="224"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da5c06f5a993ca50a93a5cfd52f5cca1e1" kindref="member" tooltip="Arabic abjad.">Arabic2</ref><sp/>=<sp/>48,</highlight></codeline>
+<codeline lineno="225"><highlight class="normal"></highlight></codeline>
+<codeline lineno="227"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dad1f8323432be166a44853d513bd09e4f" kindref="member" tooltip="Hindi vowels.">HindiLetter1</ref><sp/>=<sp/>49,</highlight></codeline>
+<codeline lineno="228"><highlight class="normal"></highlight></codeline>
+<codeline lineno="230"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da60002a74c3eeca153060663cc5a901e6" kindref="member" tooltip="Hindi consonants.">HindiLetter2</ref><sp/>=<sp/>50,</highlight></codeline>
+<codeline lineno="231"><highlight class="normal"></highlight></codeline>
+<codeline lineno="233"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da7c9a0ebf6f42214e796764cd9b4edf91" kindref="member" tooltip="Hindi numbers.">HindiArabic</ref><sp/>=<sp/>51,</highlight></codeline>
+<codeline lineno="234"><highlight class="normal"></highlight></codeline>
+<codeline lineno="236"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dac0504cfc21a1c725942997947a88c0ec" kindref="member" tooltip="Hindi descriptive (cardinals)">HindiCardinalText</ref><sp/>=<sp/>52,</highlight></codeline>
+<codeline lineno="237"><highlight class="normal"></highlight></codeline>
+<codeline lineno="239"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da875a52b1c3f4c506a23e2b6704737c84" kindref="member" tooltip="Thai letters.">ThaiLetter</ref><sp/>=<sp/>53,</highlight></codeline>
+<codeline lineno="240"><highlight class="normal"></highlight></codeline>
+<codeline lineno="242"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da65e3a4208f86f9697a7481149f4a9da3" kindref="member" tooltip="Thai numbers.">ThaiArabic</ref><sp/>=<sp/>54,</highlight></codeline>
+<codeline lineno="243"><highlight class="normal"></highlight></codeline>
+<codeline lineno="245"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89daf222257d205d4b1b777d857e22d8d721" kindref="member" tooltip="Thai descriptive (cardinals)">ThaiCardinalText</ref><sp/>=<sp/>55,</highlight></codeline>
+<codeline lineno="246"><highlight class="normal"></highlight></codeline>
+<codeline lineno="248"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da59ce7425676961275d935b7e7f8688bb" kindref="member" tooltip="Vietnamese descriptive (cardinals)">VietCardinalText</ref><sp/>=<sp/>56,</highlight></codeline>
+<codeline lineno="249"><highlight class="normal"></highlight></codeline>
+<codeline lineno="251"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da4d27c7c8f3adf1b4f9d6abb83ab797e9" kindref="member" tooltip="Page number format: - 1 -, - 2 -, - 3 -, - 4 -.">NumberInDash</ref><sp/>=<sp/>57,</highlight></codeline>
+<codeline lineno="252"><highlight class="normal"></highlight></codeline>
+<codeline lineno="254"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da3fc76ffbdc41cc3624e787a680e8788c" kindref="member" tooltip="Lowercase Russian alphabet.">LowercaseRussian</ref><sp/>=<sp/>58,</highlight></codeline>
+<codeline lineno="255"><highlight class="normal"></highlight></codeline>
+<codeline lineno="257"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89dac1138db4c5aff349578711cd5c1aa705" kindref="member" tooltip="Uppercase Russian alphabet.">UppercaseRussian</ref><sp/>=<sp/>59,</highlight></codeline>
+<codeline lineno="258"><highlight class="normal"></highlight></codeline>
+<codeline lineno="260"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Default value.">None</ref><sp/>=<sp/>255,</highlight></codeline>
+<codeline lineno="261"><highlight class="normal"></highlight></codeline>
+<codeline lineno="263"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da90589c47f06eb971d548591f23c285af" kindref="member" tooltip="Custom number format. It is supported by DOCX format only.">Custom</ref><sp/>=<sp/>0xFF00</highlight></codeline>
+<codeline lineno="264"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="265"><highlight class="normal"></highlight></codeline>
+<codeline lineno="266"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="267"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="268"><highlight class="normal"></highlight></codeline>
+<codeline lineno="269"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="270"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::NumberStyle&gt;</highlight></codeline>
+<codeline lineno="271"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="272"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::NumberStyle,<sp/>const<sp/>char_t*&gt;,<sp/>62&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="273"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/NumberStyle.h"/>
   </compounddef>
 </doxygen>

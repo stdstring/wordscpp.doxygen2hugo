@@ -3,7 +3,7 @@ title: get_Font
 second_title: Aspose.Words for C++ API Reference
 description: Returns an object that represents current font formatting properties.
 type: docs
-weight: 183
+weight: 196
 url: /cpp/aspose.words/documentbuilder/get_font/
 ---
 ## DocumentBuilder.get_Font method

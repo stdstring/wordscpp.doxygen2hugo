@@ -6,22 +6,22 @@
     <includes refid="_node_collection_8h" local="no">Aspose.Words.Cpp/NodeCollection.h</includes>
     <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
     <incdepgraph>
-      <node id="28">
+      <node id="27">
         <label>Aspose.Words.Cpp/CompositeNode.h</label>
         <link refid="_composite_node_8h_source"/>
-        <childnode refid="15" relation="include">
+        <childnode refid="14" relation="include">
         </childnode>
         <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
         </childnode>
         <childnode refid="21" relation="include">
         </childnode>
         <childnode refid="18" relation="include">
         </childnode>
-        <childnode refid="22" relation="include">
-        </childnode>
-        <childnode refid="19" relation="include">
-        </childnode>
-        <childnode refid="27" relation="include">
+        <childnode refid="26" relation="include">
         </childnode>
         <childnode refid="5" relation="include">
         </childnode>
@@ -46,34 +46,34 @@
         <childnode refid="5" relation="include">
         </childnode>
       </node>
-      <node id="23">
+      <node id="22">
         <label>Aspose.Words.Cpp/INodeCloningListener.h</label>
         <link refid="_i_node_cloning_listener_8h_source"/>
-        <childnode refid="24" relation="include">
+        <childnode refid="23" relation="include">
         </childnode>
       </node>
-      <node id="27">
+      <node id="26">
         <label>Aspose.Words.Cpp/INodeCollection.h</label>
         <link refid="_i_node_collection_8h_source"/>
-        <childnode refid="24" relation="include">
+        <childnode refid="23" relation="include">
         </childnode>
         <childnode refid="5" relation="include">
         </childnode>
       </node>
-      <node id="19">
+      <node id="18">
         <label>Aspose.Words.Cpp/Node.h</label>
         <link refid="_node_8h_source"/>
+        <childnode refid="19" relation="include">
+        </childnode>
         <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
         </childnode>
         <childnode refid="21" relation="include">
         </childnode>
-        <childnode refid="18" relation="include">
-        </childnode>
         <childnode refid="22" relation="include">
         </childnode>
-        <childnode refid="23" relation="include">
-        </childnode>
-        <childnode refid="25" relation="include">
+        <childnode refid="24" relation="include">
         </childnode>
         <childnode refid="5" relation="include">
         </childnode>
@@ -89,9 +89,9 @@
         </childnode>
         <childnode refid="10" relation="include">
         </childnode>
-        <childnode refid="19" relation="include">
+        <childnode refid="18" relation="include">
         </childnode>
-        <childnode refid="27" relation="include">
+        <childnode refid="26" relation="include">
         </childnode>
         <childnode refid="5" relation="include">
         </childnode>
@@ -100,6 +100,8 @@
         <label>Aspose.Words.Cpp/NodeCollectionEnumerator.h</label>
         <link refid="_node_collection_enumerator_8h_source"/>
         <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
         </childnode>
@@ -115,14 +117,12 @@
         </childnode>
         <childnode refid="18" relation="include">
         </childnode>
-        <childnode refid="19" relation="include">
+        <childnode refid="26" relation="include">
         </childnode>
         <childnode refid="27" relation="include">
         </childnode>
-        <childnode refid="28" relation="include">
-        </childnode>
       </node>
-      <node id="22">
+      <node id="21">
         <label>Aspose.Words.Cpp/NodeType.h</label>
         <link refid="_node_type_8h_source"/>
         <childnode refid="3" relation="include">
@@ -132,12 +132,12 @@
         <childnode refid="5" relation="include">
         </childnode>
       </node>
-      <node id="25">
+      <node id="24">
         <label>Aspose.Words.Cpp/SaveFormat.h</label>
         <link refid="_save_format_8h_source"/>
         <childnode refid="3" relation="include">
         </childnode>
-        <childnode refid="26" relation="include">
+        <childnode refid="25" relation="include">
         </childnode>
         <childnode refid="4" relation="include">
         </childnode>
@@ -148,56 +148,53 @@
         <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
         <link refid="aspose__words__api__defs_8h_source"/>
       </node>
-      <node id="18">
+      <node id="17">
         <label>cstdint</label>
       </node>
-      <node id="21">
+      <node id="20">
         <label>system/array.h</label>
       </node>
       <node id="9">
         <label>system/collections/ienumerable.h</label>
       </node>
-      <node id="17">
+      <node id="16">
         <label>system/collections/ienumerator.h</label>
       </node>
       <node id="8">
         <label>system/collections/list.h</label>
       </node>
-      <node id="20">
+      <node id="19">
         <label>system/constraints.h</label>
       </node>
-      <node id="16">
+      <node id="15">
         <label>system/details/dispose_guard.h</label>
       </node>
-      <node id="15">
+      <node id="14">
         <label>system/details/pointer_collection_helpers.h</label>
       </node>
       <node id="4">
         <label>system/enum.h</label>
       </node>
-      <node id="26">
+      <node id="25">
         <label>system/enum_helpers.h</label>
       </node>
       <node id="7">
         <label>system/enumerator_adapter.h</label>
       </node>
-      <node id="14">
+      <node id="13">
         <label>system/exceptions.h</label>
       </node>
-      <node id="13">
+      <node id="12">
         <label>system/make_const_ref.h</label>
       </node>
-      <node id="24">
+      <node id="23">
         <label>system/object.h</label>
       </node>
       <node id="3">
         <label>system/object_ext.h</label>
       </node>
-      <node id="12">
-        <label>system/scope_guard.h</label>
-      </node>
       <node id="11">
-        <label>system/string.h</label>
+        <label>system/scope_guard.h</label>
       </node>
     </incdepgraph>
     <innerclass refid="class_aspose_1_1_words_1_1_header_footer_collection" prot="public">Aspose::Words::HeaderFooterCollection</innerclass>
@@ -207,6 +204,62 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/HeaderFooterType.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/NodeCollection.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref></highlight></codeline>
+<codeline lineno="16"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref></highlight></codeline>
+<codeline lineno="18"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">CompositeNode;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">HeaderFooter;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="106" refid="class_aspose_1_1_words_1_1_header_footer_collection" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection" kindref="compound" tooltip="Provides typed access to HeaderFooter nodes of a Section.">HeaderFooterCollection</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound" tooltip="Represents a collection of nodes of a specific type.">Aspose::Words::NodeCollection</ref></highlight></codeline>
+<codeline lineno="107"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection" kindref="compound" tooltip="Provides typed access to HeaderFooter nodes of a Section.">HeaderFooterCollection</ref><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection" kindref="compound" tooltip="Provides typed access to HeaderFooter nodes of a Section.">ThisType</ref>;</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound" tooltip="Represents a collection of nodes of a specific type.">Aspose::Words::NodeCollection</ref><sp/><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound" tooltip="Represents a collection of nodes of a specific type.">BaseType</ref>;</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"></highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="113"><highlight class="normal"></highlight></codeline>
+<codeline lineno="114"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="115"><highlight class="normal"></highlight></codeline>
+<codeline lineno="193" refid="class_aspose_1_1_words_1_1_header_footer_collection_1a6df9933d7cd3297d702e966c977dd32b" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::HeaderFooter&gt;</ref><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection_1a6df9933d7cd3297d702e966c977dd32b" kindref="member" tooltip="Retrieves a HeaderFooter at the given index.">idx_get</ref>(int32_t<sp/>index);</highlight></codeline>
+<codeline lineno="194"><highlight class="normal"></highlight></codeline>
+<codeline lineno="254" refid="class_aspose_1_1_words_1_1_header_footer_collection_1ac1aae97e650cebfd4582e2e7be2f857b" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr&lt;Aspose::Words::HeaderFooter&gt;</ref><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection_1ac1aae97e650cebfd4582e2e7be2f857b" kindref="member" tooltip="Retrieves a HeaderFooter of the specified type.">idx_get</ref>(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member" tooltip="Identifies the type of header or footer found in a Word file.">Aspose::Words::HeaderFooterType</ref><sp/>headerFooterType);</highlight></codeline>
+<codeline lineno="255"><highlight class="normal"></highlight></codeline>
+<codeline lineno="328" refid="class_aspose_1_1_words_1_1_header_footer_collection_1a1774cb646ccadc0f6efc6eebcaaf64cc" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection_1a1774cb646ccadc0f6efc6eebcaaf64cc" kindref="member" tooltip="Links or unlinks all headers and footers to the corresponding headers and footers in the previous sec...">LinkToPrevious</ref>(</highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isLinkToPrevious);</highlight></codeline>
+<codeline lineno="329"><highlight class="normal"></highlight></codeline>
+<codeline lineno="404" refid="class_aspose_1_1_words_1_1_header_footer_collection_1a2c018d5844f3c8c432e432efd6a458cd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection_1a2c018d5844f3c8c432e432efd6a458cd" kindref="member" tooltip="Links or unlinks the specified header or footer to the corresponding header or footer in the previous...">LinkToPrevious</ref>(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member" tooltip="Identifies the type of header or footer found in a Word file.">Aspose::Words::HeaderFooterType</ref><sp/>headerFooterType,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isLinkToPrevious);</highlight></codeline>
+<codeline lineno="405"><highlight class="normal"></highlight></codeline>
+<codeline lineno="506" refid="class_aspose_1_1_words_1_1_header_footer_collection_1aa907568d6e0bc725f60743a8fb9176d7" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class/system.smart_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr&lt;System::SharedPtr&lt;Aspose::Words::HeaderFooter&gt;</ref>&gt;<sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection_1aa907568d6e0bc725f60743a8fb9176d7" kindref="member" tooltip="Copies all HeaderFoorters from the collection to a new array of HeaderFoorters.">ToArray</ref>();</highlight></codeline>
+<codeline lineno="507"><highlight class="normal"></highlight></codeline>
+<codeline lineno="508"><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="509"><highlight class="normal"></highlight></codeline>
+<codeline lineno="510"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">virtual</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_header_footer_collection" kindref="compound" tooltip="Provides typed access to HeaderFooter nodes of a Section.">~HeaderFooterCollection</ref>();</highlight></codeline>
+<codeline lineno="511"><highlight class="normal"></highlight></codeline>
+<codeline lineno="512"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="513"><highlight class="normal"></highlight></codeline>
+<codeline lineno="514"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="515"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/HeaderFooterCollection.h"/>
   </compounddef>
 </doxygen>

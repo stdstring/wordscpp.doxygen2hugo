@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAsk.h" line="42" column="22" bodyfile="Aspose.Words.Cpp/Fields/FieldAsk.h" bodystart="42" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_ask_1a9cc467b293d8af11717f7908173f6254" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldAsk::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -85,7 +85,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldAsk::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -110,7 +110,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAsk.h" line="47" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_ask_1a738f87fe484bbc4be6a02db2cf649324" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldAsk::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -127,7 +127,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_ask_1a80a0e798f667c4da9a7ae763a7979d28" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAsk::get_BookmarkName</definition>
         <argsstring>()</argsstring>
         <name>get_BookmarkName</name>
@@ -142,7 +142,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAsk.h" line="52" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_ask_1a16ce3260477cc9bcbd87f9c9dd7422b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAsk::get_DefaultResponse</definition>
         <argsstring>()</argsstring>
         <name>get_DefaultResponse</name>
@@ -172,7 +172,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAsk.h" line="70" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_ask_1ac26b9c1c17c1e7a64e5c3a6fc42c35ec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAsk::get_PromptText</definition>
         <argsstring>()</argsstring>
         <name>get_PromptText</name>
@@ -193,7 +193,7 @@
         <name>set_BookmarkName</name>
         <qualifiedname>Aspose::Words::Fields::FieldAsk::set_BookmarkName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -212,7 +212,7 @@
         <name>set_DefaultResponse</name>
         <qualifiedname>Aspose::Words::Fields::FieldAsk::set_DefaultResponse</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -250,7 +250,7 @@
         <name>set_PromptText</name>
         <qualifiedname>Aspose::Words::Fields::FieldAsk::set_PromptText</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

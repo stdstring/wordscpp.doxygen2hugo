@@ -49,7 +49,7 @@ builder->InsertField(u"MERGEFIELD  Image:logo_FromFileSystem ");
 // A URI can be a web URL that points to an image, or a local file system filename of an image file.
 ArrayPtr<String> columns = MakeArray<String>({u"logo_FromWeb", u"logo_FromFileSystem"});
 ArrayPtr<SharedPtr<System::Object>> URIs =
-    MakeArray<SharedPtr<System::Object>>({System::ObjectExt::Box<String>(get_ImageUrl()), System::ObjectExt::Box<String>(ImageDir + u"Logo.jpg")});
+    MakeArray<SharedPtr<System::Object>>({System::ObjectExt::Box<String>(ImageUrl), System::ObjectExt::Box<String>(ImageDir + u"Logo.jpg")});
 
 // Execute a mail merge on a data source with one row.
 doc->get_MailMerge()->Execute(columns, URIs);

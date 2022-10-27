@@ -6,7 +6,7 @@
     <includes refid="_vba_2_vba_module_8h" local="no">Aspose.Words.Cpp/Vba/VbaModule.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a5af554401705f2538c0c1bce354a05d8" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Vba::VbaModule::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="69" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="69" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1ad24f3ae10fe4d5872c81ea9ae49b65c9" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Vba::VbaModule::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a3d2c89086b1a27e3c7e18973eb94ad06" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Vba::VbaModule::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="277" column="20" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="277" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a601c19643e9a17edaf5d286e46dde784" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Vba::VbaModule::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="278" column="20" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="278" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a40025ef3338f4f389b7cc491c085f92b" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Vba::VbaModule::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -120,7 +120,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="281" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="281" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a8bd1a9f8d67fd1035b82e7c7273ba2ee" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModule::mField5</definition>
         <argsstring></argsstring>
         <name>mField5</name>
@@ -134,7 +134,7 @@
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="282" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="282" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1af99991d074a18d2e3b1231cee921c827" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModule::mField6</definition>
         <argsstring></argsstring>
         <name>mField6</name>
@@ -201,7 +201,7 @@ Shows how to create a VBA project using macros. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="246" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a241e1d5ecd3ba2059ca9e391b3df09fa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Vba::VbaModule &gt; Aspose::Words::Vba::VbaModule::Clone</definition>
         <argsstring>()</argsstring>
         <name>Clone</name>
@@ -235,7 +235,7 @@ Shows how to deep clone a VBA project and module. <programlisting><codeline><hig
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="271" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Vba::VbaModule::get_Name</definition>
         <argsstring>() const</argsstring>
         <name>get_Name</name>
@@ -296,7 +296,7 @@ Shows how to access a document&apos;s VBA project information. <programlisting><
         <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="130" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a1a51f2e6dad9d7a65512ee98e152f9ca" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Vba::VbaModule::get_SourceCode</definition>
         <argsstring>() const</argsstring>
         <name>get_SourceCode</name>
@@ -398,7 +398,7 @@ Shows how to create a VBA project using macros. <programlisting><codeline><highl
         <name>set_Name</name>
         <qualifiedname>Aspose::Words::Vba::VbaModule::set_Name</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -417,7 +417,7 @@ Shows how to create a VBA project using macros. <programlisting><codeline><highl
         <name>set_SourceCode</name>
         <qualifiedname>Aspose::Words::Vba::VbaModule::set_SourceCode</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

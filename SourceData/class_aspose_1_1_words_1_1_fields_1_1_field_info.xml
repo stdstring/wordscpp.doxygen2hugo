@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInfo.h" line="78" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldInfo.h" bodystart="78" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_info_1a121ff051c42798dad65f820fb4242159" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldInfo::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -85,7 +85,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldInfo::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -110,7 +110,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInfo.h" line="83" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_info_1a3774ebceed4863420d7ffbe3273fad90" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldInfo::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -127,7 +127,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_info_1ab0774e67fe251c0872ff3a9930e2b13e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInfo::get_InfoType</definition>
         <argsstring>()</argsstring>
         <name>get_InfoType</name>
@@ -171,7 +171,7 @@ Shows how to work with INFO fields. <programlisting><codeline><highlight class="
         <location file="Aspose.Words.Cpp/Fields/FieldInfo.h" line="122" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_info_1a9e1bc966c9b9549f4f6abb7ddf291b3e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInfo::get_NewValue</definition>
         <argsstring>()</argsstring>
         <name>get_NewValue</name>
@@ -221,7 +221,7 @@ Shows how to work with INFO fields. <programlisting><codeline><highlight class="
         <name>set_InfoType</name>
         <qualifiedname>Aspose::Words::Fields::FieldInfo::set_InfoType</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -240,7 +240,7 @@ Shows how to work with INFO fields. <programlisting><codeline><highlight class="
         <name>set_NewValue</name>
         <qualifiedname>Aspose::Words::Fields::FieldInfo::set_NewValue</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

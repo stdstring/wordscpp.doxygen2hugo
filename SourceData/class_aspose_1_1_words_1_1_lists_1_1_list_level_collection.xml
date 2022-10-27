@@ -6,7 +6,7 @@
     <includes refid="_list_level_collection_8h" local="no">Aspose.Words.Cpp/Lists/ListLevelCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1a29c7d07129b5942fa6e9856d5986c398" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Lists::ListLevel&gt; &gt; Aspose::Words::Lists::ListLevelCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="162" column="33" bodyfile="Aspose.Words.Cpp/Lists/ListLevelCollection.h" bodystart="162" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1ac221bac066815d0537c1fb0e2b4c19d1" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Lists::ListLevelCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1af4674a87d136dedf12397a61a0ddc415" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Lists::ListLevelCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="174" column="5" bodyfile="Aspose.Words.Cpp/Lists/ListLevelCollection.h" bodystart="174" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1a947a30506976488ca90418dfc9815e27" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Lists::ListLevelCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="172" column="5" bodyfile="Aspose.Words.Cpp/Lists/ListLevelCollection.h" bodystart="172" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1a7e2494de6b8dad97f55d284203534074" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &gt;</type>
         <definition>using Aspose::Words::Lists::ListLevelCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Lists::ListLevel&gt; &gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="170" column="5" bodyfile="Aspose.Words.Cpp/Lists/ListLevelCollection.h" bodystart="170" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1a29de824f1727f6f4368430992dda96a2" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Lists::ListLevelCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="178" column="5" bodyfile="Aspose.Words.Cpp/Lists/ListLevelCollection.h" bodystart="178" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1ac4d9790fb729503d5b55a44b01e2ead7" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Lists::ListLevelCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -122,7 +122,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1a89527779b070a9f025e5ec1ee22be7bb" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Lists::ListLevelCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -298,7 +298,7 @@ Shows how to create a list style and use it in a document. <programlisting><code
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>level<sp/>:<sp/>list1-&gt;get_ListLevels())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -336,7 +336,7 @@ Shows how to create a list style and use it in a document. <programlisting><code
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="242" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1ab55c4a1fdc8cf20c669b7a1ff213aabb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Lists::ListLevel &gt; &gt; &gt; Aspose::Words::Lists::ListLevelCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -410,7 +410,7 @@ Shows advances ways of customizing list labels. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/Lists/ListLevelCollection.h" line="307" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_level_collection_1ad2656513d21c9233f18ec9ea24cd3a76" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Lists::ListLevel &gt; Aspose::Words::Lists::ListLevelCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -435,7 +435,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ListLevel&gt;<sp/>listLevel<sp/>=<sp/>list-&gt;get_ListLevels()-&gt;idx_get(0);</highlight></codeline>
-<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da831fd2c8a4c8c9dd50d5fbb28fc39cb9" kindref="member" tooltip="Ordinal (text) (First, Second, Third, ...)">NumberStyle::OrdinalText</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_StartAt(21);</highlight></codeline>
@@ -449,7 +449,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal">listLevel-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_lists_1a4cd5df47cac2445a5ab0b23a415229e2a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="This list label is aligned to the right of the number position.">ListLevelAlignment::Right</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da7533f96ec01fd81438833f71539c7d4e" kindref="member" tooltip="Bullet (check the character code in the text)">NumberStyle::Bullet</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Wingdings&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>NumberFormat<sp/>value<sp/>will<sp/>create<sp/>star-shaped<sp/>bullet<sp/>list<sp/>symbols.</highlight><highlight class="normal"></highlight></codeline>
@@ -495,7 +495,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>level<sp/>:<sp/>list1-&gt;get_ListLevels())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -543,7 +543,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
           <declname>index</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -562,7 +562,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ListLevel&gt;<sp/>listLevel<sp/>=<sp/>list-&gt;get_ListLevels()-&gt;idx_get(0);</highlight></codeline>
-<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da831fd2c8a4c8c9dd50d5fbb28fc39cb9" kindref="member" tooltip="Ordinal (text) (First, Second, Third, ...)">NumberStyle::OrdinalText</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_StartAt(21);</highlight></codeline>
@@ -576,7 +576,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal">listLevel-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_lists_1a4cd5df47cac2445a5ab0b23a415229e2a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="This list label is aligned to the right of the number position.">ListLevelAlignment::Right</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da7533f96ec01fd81438833f71539c7d4e" kindref="member" tooltip="Bullet (check the character code in the text)">NumberStyle::Bullet</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Wingdings&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>NumberFormat<sp/>value<sp/>will<sp/>create<sp/>star-shaped<sp/>bullet<sp/>list<sp/>symbols.</highlight><highlight class="normal"></highlight></codeline>
@@ -622,7 +622,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>level<sp/>:<sp/>list1-&gt;get_ListLevels())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -732,7 +732,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ListLevel&gt;<sp/>listLevel<sp/>=<sp/>list-&gt;get_ListLevels()-&gt;idx_get(0);</highlight></codeline>
-<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da831fd2c8a4c8c9dd50d5fbb28fc39cb9" kindref="member" tooltip="Ordinal (text) (First, Second, Third, ...)">NumberStyle::OrdinalText</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_StartAt(21);</highlight></codeline>
@@ -746,7 +746,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal">listLevel-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_lists_1a4cd5df47cac2445a5ab0b23a415229e2a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="This list label is aligned to the right of the number position.">ListLevelAlignment::Right</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da7533f96ec01fd81438833f71539c7d4e" kindref="member" tooltip="Bullet (check the character code in the text)">NumberStyle::Bullet</ref>);</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Wingdings&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>NumberFormat<sp/>value<sp/>will<sp/>create<sp/>star-shaped<sp/>bullet<sp/>list<sp/>symbols.</highlight><highlight class="normal"></highlight></codeline>
@@ -792,7 +792,7 @@ Shows how to apply custom list formatting to paragraphs when using <ref refid="c
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>level<sp/>:<sp/>list1-&gt;get_ListLevels())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

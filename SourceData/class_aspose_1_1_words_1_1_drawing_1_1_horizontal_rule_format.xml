@@ -6,7 +6,7 @@
     <includes refid="_horizontal_rule_format_8h" local="no">Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a590950c14b25ddcac1e212871db65181" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Drawing::HorizontalRuleFormat::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="52" column="34" bodyfile="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" bodystart="52" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a21470a5a4a6a2af5584f53b856007015" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::HorizontalRuleFormat::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1aa61ffbb1f16c57c87cbb6f187d529486" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::HorizontalRuleFormat::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -102,7 +102,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
-<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
@@ -114,7 +114,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
         <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="204" column="56"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a5256ec37950478ae4c88a24b8eadb310" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::Drawing::HorizontalRuleFormat::get_Color</definition>
         <argsstring>()</argsstring>
         <name>get_Color</name>
@@ -124,7 +124,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
         </briefdescription>
         <detaileddescription>
 <para>This is a shortcut to the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_fill_1a6d1d463852126769d752b89f97f1a6c7" kindref="member">Color</ref> property.</para>
-<para>The default value is <ref refid="class/system.drawing.color/_1aa9f270d5e00c371d120b993cc715551c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Gray</ref>.</para>
+<para>The default value is <ref refid="class/system.drawing.color/_1aa9f270d5e00c371d120b993cc715551c" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">Gray</ref>.</para>
 <para><simplesect kind="par"><title>Examples</title><para></para>
 </simplesect>
 Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
@@ -135,7 +135,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
-<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
@@ -178,7 +178,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
-<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
@@ -210,7 +210,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
-<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
@@ -252,7 +252,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
-<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
@@ -289,7 +289,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
         <name>set_Color</name>
         <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::set_Color</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -373,7 +373,7 @@ Shows how to insert a horizontal rule shape, and customize its formatting. <prog
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
-<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>

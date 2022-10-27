@@ -1,7 +1,7 @@
 ---
 title: BookmarkEnd
 second_title: Aspose.Words for C++ API Reference
-description: Represents an end of a bookmark in a Word document.
+description: Represents an end of a bookmark in a Word document. To learn more, visit the  documentation article.
 type: docs
 weight: 53
 url: /cpp/aspose.words/bookmarkend/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmarkend/
 ## BookmarkEnd class
 
 
-Represents an end of a bookmark in a Word document.
+Represents an end of a bookmark in a Word document. To learn more, visit the [Working with Bookmarks](https://docs.aspose.com/words/net/working-with-bookmarks/) documentation article.
 
 ```cpp
 class BookmarkEnd : public Aspose::Words::Node, public Aspose::Words::IBookmarkNode, public Aspose::Words::IDisplaceableByCustomXml

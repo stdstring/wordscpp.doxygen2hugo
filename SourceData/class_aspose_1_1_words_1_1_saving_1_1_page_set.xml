@@ -6,7 +6,7 @@
     <includes refid="_page_set_8h" local="no">Aspose.Words.Cpp/Saving/PageSet.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_page_set_1afde539d201b78a5287472021c022a938" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Saving::PageSet::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/PageSet.h" line="39" column="21" bodyfile="Aspose.Words.Cpp/Saving/PageSet.h" bodystart="39" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a71136316dd31c60217cb66346ee98a70" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::PageSet::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_page_set_1ad1d5b28a51ff44b91682768579b2b171" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::PageSet::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -82,7 +82,7 @@
       </sectiondef>
       <sectiondef kind="public-static-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a24be00dffa8385075e21b2052b269b07" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::Saving::PageSet &gt; Aspose::Words::Saving::PageSet::get_All</definition>
         <argsstring>()</argsstring>
         <name>get_All</name>
@@ -97,7 +97,7 @@
         <location file="Aspose.Words.Cpp/Saving/PageSet.h" line="48" column="33"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a2c2347dcb3f5d599e4fb7aaa4e7cc55e" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::Saving::PageSet &gt; Aspose::Words::Saving::PageSet::get_Even</definition>
         <argsstring>()</argsstring>
         <name>get_Even</name>
@@ -112,7 +112,7 @@
         <location file="Aspose.Words.Cpp/Saving/PageSet.h" line="51" column="33"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a1d0b92534c64794249736e643c5cd6ed" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::Saving::PageSet &gt; Aspose::Words::Saving::PageSet::get_Odd</definition>
         <argsstring>()</argsstring>
         <name>get_Odd</name>
@@ -135,7 +135,7 @@
         <name>PageSet</name>
         <qualifiedname>Aspose::Words::Saving::PageSet::PageSet</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; int32_t &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; int32_t &gt; &amp;</type>
           <declname>pages</declname>
         </param>
         <briefdescription>
@@ -185,7 +185,7 @@ Shows how to extract pages based on exact page indices. <programlisting><codelin
         <name>PageSet</name>
         <qualifiedname>Aspose::Words::Saving::PageSet::PageSet</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_range" kindref="compound">Aspose::Words::Saving::PageRange</ref> &gt; &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_range" kindref="compound">Aspose::Words::Saving::PageRange</ref> &gt; &gt; &amp;</type>
           <declname>ranges</declname>
         </param>
         <briefdescription>

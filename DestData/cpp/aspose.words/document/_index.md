@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.Words for C++ API Reference
-description: Represents a Word document.
+description: Represents a Word document. To learn more, visit the  documentation article.
 type: docs
 weight: 248
 url: /cpp/aspose.words/document/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/
 ## Document class
 
 
-Represents a Word document.
+Represents a Word document. To learn more, visit the [Working with Document](https://docs.aspose.com/words/net/working-with-document/) documentation article.
 
 ```cpp
 class Document : public Aspose::Words::DocumentBase, public Aspose::Words::ISectionAttrSource, public Aspose::Words::IWatermarkProvider

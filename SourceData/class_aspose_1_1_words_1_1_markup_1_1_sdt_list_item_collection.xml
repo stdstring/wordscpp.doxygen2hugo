@@ -6,7 +6,7 @@
     <includes refid="_sdt_list_item_collection_8h" local="no">Aspose.Words.Cpp/Markup/SdtListItemCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a0f1d1951390bf56ae8137841521d991a" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Markup::SdtListItem&gt; &gt; Aspose::Words::Markup::SdtListItemCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="110" column="35" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1aafed983788d6f7569ce6046dc8a93cc6" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::SdtListItemCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1aa3cabe9049937458f1bb3aa7a57d49eb" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Markup::SdtListItemCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="122" column="5" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="122" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a59c9812cd326a60713bb9c3081c17c3f" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Markup::SdtListItemCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="120" column="5" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="120" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a178711851e45a2b7ee0f51bd67df189d" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &gt;</type>
         <definition>using Aspose::Words::Markup::SdtListItemCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Markup::SdtListItem&gt; &gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="118" column="5" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="118" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a4bd6f1a1a7c6ea8278b77105c0e7bc92" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Markup::SdtListItemCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="126" column="5" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="126" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a7cb306da401e5e7f9b5d2826d062c5af" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Markup::SdtListItemCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -136,7 +136,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="591" column="23" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="591" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a395da933fb2df56babcc080cc7065868" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Markup::SdtListItemCollection::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -150,7 +150,7 @@
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="592" column="23" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="592" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1abda3ad2789fcf4e24a55ab9e98615070" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Markup::SdtListItemCollection::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -162,6 +162,20 @@
         <inbodydescription>
         </inbodydescription>
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="593" column="20" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="593" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a6ff0410e643de0420675d342f3160682" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Markup::SdtListItemCollection::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItemCollection::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="594" column="23" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="594" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -216,7 +230,7 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::Markup::SdtListItemCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &amp;</type>
           <declname>item</declname>
         </param>
         <briefdescription>
@@ -508,7 +522,7 @@ Shows how to work with drop down-list structured document tags. <programlisting>
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="254" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a5720f159bd377c4096eb2c02e0bd4de0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Markup::SdtListItem &gt; Aspose::Words::Markup::SdtListItemCollection::get_SelectedValue</definition>
         <argsstring>()</argsstring>
         <name>get_SelectedValue</name>
@@ -578,7 +592,7 @@ Shows how to work with drop down-list structured document tags. <programlisting>
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="190" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a98ed99d042bd8f5648a9617a77700c6b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Markup::SdtListItem &gt; &gt; &gt; Aspose::Words::Markup::SdtListItemCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -648,7 +662,7 @@ Shows how to work with drop down-list structured document tags. <programlisting>
         <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="315" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a2dd96d99d0e6601f31b6c05c18ab0952" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Markup::SdtListItem &gt; Aspose::Words::Markup::SdtListItemCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -811,7 +825,7 @@ Shows how to work with drop down-list structured document tags. <programlisting>
         <name>set_SelectedValue</name>
         <qualifiedname>Aspose::Words::Markup::SdtListItemCollection::set_SelectedValue</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">Aspose::Words::Markup::SdtListItem</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -972,7 +986,7 @@ Shows how to work with drop down-list structured document tags. <programlisting>
         <label>System::Object</label>
       </node>
     </collaborationgraph>
-    <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="108" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="109" bodyend="595"/>
+    <location file="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" line="108" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtListItemCollection.h" bodystart="109" bodyend="596"/>
     <listofallmembers>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a390e4a76cd17d2888c6bbd16d077d6b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>Add</name></member>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a0f1d1951390bf56ae8137841521d991a" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>BaseType</name></member>
@@ -993,6 +1007,7 @@ Shows how to work with drop down-list structured document tags. <programlisting>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1ab8564164a88f8bc59fc5eb3d056168ce" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>mField0</name></member>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a395da933fb2df56babcc080cc7065868" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>mField1</name></member>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1abda3ad2789fcf4e24a55ab9e98615070" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a6ff0410e643de0420675d342f3160682" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>mField3</name></member>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1ad96072e5f7c1fdfb2278d20791d7f6a0" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>RemoveAt</name></member>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a55484cbf99df8c889946687ca405f2a0" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
       <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1ab51a1ff31478bbc55729c142f52f4a48" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItemCollection</scope><name>SdtListItemCollection</name></member>

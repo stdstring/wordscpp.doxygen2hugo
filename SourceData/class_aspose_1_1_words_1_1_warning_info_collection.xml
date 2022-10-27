@@ -21,7 +21,7 @@
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="115" column="45" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="115" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1ad00f8e9ddfd9c2071b4efc4b82b56e53" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::WarningInfo&gt; &gt; Aspose::Words::WarningInfoCollection::BaseType1</definition>
         <argsstring></argsstring>
         <name>BaseType1</name>
@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="114" column="35" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="114" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1ac37e46a4a7a6dbb75a8055577fc01b5d" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">BaseType</ref>, <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType1</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">BaseType</ref>, <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType1</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::WarningInfoCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::WarningInfoCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -79,7 +79,7 @@
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="127" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="127" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a78d4f6bbb74f307cf39e1b18caea630e" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::WarningInfoCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -93,7 +93,7 @@
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="125" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="125" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a648b181ba0e9f6b8e51a78cc4320b972" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt;</type>
         <definition>using Aspose::Words::WarningInfoCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::WarningInfo&gt; &gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -107,7 +107,7 @@
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="123" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="123" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::WarningInfoCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -121,7 +121,7 @@
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="131" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="131" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a783d3a4143fbc33707be02c02a50d592" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::WarningInfoCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -137,7 +137,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_warning_info_collection_1addf6441367f5c944bf4ddf735d9fd18a" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WarningInfoCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -315,7 +315,7 @@ Shows how to set the property for finding the closest match for a missing font f
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
@@ -369,7 +369,7 @@ Shows how to set the property for finding the closest match for a missing font f
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="136" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a282ff3f32cad1b8dc078600f35f1a44b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; &gt; &gt; Aspose::Words::WarningInfoCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -430,7 +430,7 @@ Shows how to set the property for finding the closest match for a missing font f
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
@@ -441,7 +441,7 @@ Shows how to set the property for finding the closest match for a missing font f
         <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="207" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1aac8e3a248f32b1c473c5002aa88d20d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; Aspose::Words::WarningInfoCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -533,7 +533,7 @@ Shows how to set the property for finding the closest match for a missing font f
         <qualifiedname>Aspose::Words::WarningInfoCollection::Warning</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_i_warning_callback_1abed0df078d182560689726d9fda4d64a">Warning</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt;</type>
           <declname>info</declname>
         </param>
         <briefdescription>
@@ -592,7 +592,7 @@ Shows how to set the property for finding the closest match for a missing font f
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>
@@ -664,7 +664,7 @@ Shows how to set the property for finding the closest match for a missing font f
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">};</highlight></codeline>

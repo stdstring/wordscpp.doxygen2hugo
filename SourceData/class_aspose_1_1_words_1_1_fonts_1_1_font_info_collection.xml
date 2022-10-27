@@ -6,7 +6,7 @@
     <includes refid="_font_info_collection_8h" local="no">Aspose.Words.Cpp/Fonts/FontInfoCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ae867fcc3d9c976a0bfa6849fdd6f84cd" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Fonts::FontInfo&gt; &gt; Aspose::Words::Fonts::FontInfoCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="100" column="32" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="100" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a97787c69ff95b3af5469bff2024fe5c3" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontInfoCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::Fonts::FontInfoCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="112" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="112" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abd49d4b5406fd319fc50757cae81fcfb" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::Fonts::FontInfoCollection::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="110" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ae3a83d49a10d2a63354df9479e542691" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt;</type>
         <definition>using Aspose::Words::Fonts::FontInfoCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Fonts::FontInfo&gt; &gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="108" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="108" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="116" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="116" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a144c7dfdeb4beb4b157f0ddd4170aac1" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -122,7 +122,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1adf22fc6b7b25a3f0b64498fdebf5ea4b" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -136,7 +136,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="398" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="398" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1afa2a7ebca682b41ee6e9ba9d3802f073" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -150,7 +150,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="399" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="399" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a403d46836f2e4c3e2a64fe84b962db1b" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -164,7 +164,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="400" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="400" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1afcb4fd831740d8128c97d6a1eaf99069" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -328,7 +328,7 @@
         <name>Contains</name>
         <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::Contains</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -532,7 +532,7 @@ Shows how to save a document with embedded TrueType fonts. <programlisting><code
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="239" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a3a5a350821bebf9f696096a7f93abaab" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; &gt; &gt; Aspose::Words::Fonts::FontInfoCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -555,9 +555,9 @@ Shows how to access and print details of each font in a document. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
@@ -579,13 +579,13 @@ Shows how to access and print details of each font in a document. <programlistin
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="344" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a818cd6416f1d6fc252420d1430e7b550" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; Aspose::Words::Fonts::FontInfoCollection::idx_get</definition>
         <argsstring>(const System::String &amp;name)</argsstring>
         <name>idx_get</name>
         <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::idx_get</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -608,7 +608,7 @@ Shows how to extract an embedded font from a document, and save it to the local 
 <codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
@@ -623,7 +623,7 @@ Shows how to extract an embedded font from a document, and save it to the local 
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
 </programlisting> </para>
         </detaileddescription>
         <inbodydescription>
@@ -631,7 +631,7 @@ Shows how to extract an embedded font from a document, and save it to the local 
         <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="274" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a8cd0d92e55bb86c81b19dcdaab02277d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; Aspose::Words::Fonts::FontInfoCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -660,7 +660,7 @@ Shows how to extract an embedded font from a document, and save it to the local 
 <codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
@@ -675,7 +675,7 @@ Shows how to extract an embedded font from a document, and save it to the local 
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
 </programlisting> </para>
         </detaileddescription>
         <inbodydescription>

@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/EditableRangeStart.h" line="172" column="32" bodyfile="Aspose.Words.Cpp/EditableRangeStart.h" bodystart="172" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_editable_range_start_1a06d18a93c231d9f5d92c9c393d188476" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::EditableRangeStart::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -108,7 +108,7 @@
         <location file="Aspose.Words.Cpp/EditableRangeStart.h" line="461" column="23" bodyfile="Aspose.Words.Cpp/EditableRangeStart.h" bodystart="461" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_editable_range_start_1adb85d661efa52819262b65b2d3e0c694" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::EditableRangeStart::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -235,7 +235,7 @@
         <qualifiedname>Aspose::Words::EditableRangeStart::Accept</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
           <declname>visitor</declname>
         </param>
         <briefdescription>
@@ -319,7 +319,7 @@ Shows how to limit the editing rights of editable ranges to a specific group/use
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tID:\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_Id());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser()<sp/>==<sp/>String::Empty)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -362,7 +362,7 @@ Shows how to limit the editing rights of editable ranges to a specific group/use
         <location file="Aspose.Words.Cpp/EditableRangeStart.h" line="445" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_start_1af14ff018661f7138a7de5083f608c45a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range" kindref="compound">Aspose::Words::EditableRange</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range" kindref="compound">Aspose::Words::EditableRange</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::EditableRange &gt; Aspose::Words::EditableRangeStart::get_EditableRange</definition>
         <argsstring>()</argsstring>
         <name>get_EditableRange</name>
@@ -617,7 +617,7 @@ Shows how to limit the editing rights of editable ranges to a specific group/use
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tID:\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_Id());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser()<sp/>==<sp/>String::Empty)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>

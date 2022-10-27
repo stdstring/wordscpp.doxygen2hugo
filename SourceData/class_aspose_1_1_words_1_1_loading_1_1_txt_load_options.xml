@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="26" column="28" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="26" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6e24a2ef8785ae5594a87ee39f76df86" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Loading::TxtLoadOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -61,7 +61,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="283" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="283" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="293" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="293" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6ae572d040e5e986c663b7aa8c7661d4" prot="private" static="no" mutable="no">
         <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
@@ -75,7 +75,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="284" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="284" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="294" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="294" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a4113ce78f8a8b3d1163a3ffd94aa0860" prot="private" static="no" mutable="no">
         <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
@@ -89,7 +89,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="285" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="285" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="295" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="295" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1ad6f35f83d0ffccd474f5f98ee91eb3a8" prot="private" static="no" mutable="no">
         <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
@@ -103,7 +103,21 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="286" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="286" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="296" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="296" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a9d66366c7c1c469d523303e856fa3350" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::TxtLoadOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="297" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="297" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -136,7 +150,22 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="277" column="8"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="287" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a90bc0e2533eb4e352c9ec00b881d5d9c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Loading::TxtLoadOptions::get_AutoNumberingDetection</definition>
+        <argsstring>() const</argsstring>
+        <name>get_AutoNumberingDetection</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::get_AutoNumberingDetection</qualifiedname>
+        <briefdescription>
+<para>Gets a boolean value indicating either automatic numbering detection will be performed while loading a document. The default value is <computeroutput>true</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="37" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1af4032da2ea0e1d217c38289c6ced7283" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -145,7 +174,7 @@
         <name>get_DetectNumberingWithWhitespaces</name>
         <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces</qualifiedname>
         <briefdescription>
-<para>Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is true. </para>
+<para>Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is <computeroutput>true</computeroutput>. </para>
         </briefdescription>
         <detaileddescription>
 <para>If this option is set to false, lists recognition algorithm detects list paragraphs, when list numbers ends with either dot, right bracket or bullet symbols (such as &quot;•&quot;, &quot;*&quot;, &quot;-&quot; or &quot;o&quot;).</para>
@@ -172,7 +201,7 @@ Shows how to detect lists when loading plaintext documents. <programlisting><cod
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>not<sp/>create<sp/>lists<sp/>from<sp/>numbered<sp/>items<sp/>with<sp/>whitespace<sp/>delimiters.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">loadOptions-&gt;set_DetectNumberingWithWhitespaces(detectNumberingWithWhitespaces);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(detectNumberingWithWhitespaces)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
@@ -190,7 +219,7 @@ Shows how to detect lists when loading plaintext documents. <programlisting><cod
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="82" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="92" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a2aa2a1d3b2165f46077168676a125a41" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6" kindref="member">Aspose::Words::Loading::DocumentDirection</ref></type>
@@ -226,7 +255,7 @@ Shows how to detect plaintext document text direction. <programlisting><codeline
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="271" column="50"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="281" column="50"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a564f7e94f7c5fb6732038faa4973119d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdc" kindref="member">Aspose::Words::Loading::TxtLeadingSpacesOptions</ref></type>
@@ -261,7 +290,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">loadOptions-&gt;set_TrailingSpacesOptions(txtTrailingSpacesOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtLeadingSpacesOptions)</highlight></codeline>
@@ -310,7 +339,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="240" column="56"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="250" column="56"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aed3aaf1c14ff05e0ec5c0615075c97e7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867fac" kindref="member">Aspose::Words::Loading::TxtTrailingSpacesOptions</ref></type>
@@ -345,7 +374,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">loadOptions-&gt;set_TrailingSpacesOptions(txtTrailingSpacesOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtLeadingSpacesOptions)</highlight></codeline>
@@ -394,7 +423,26 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="161" column="57"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="171" column="57"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa9db60249fa040a0b6de3ccda3f7d6db" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Loading::TxtLoadOptions::set_AutoNumberingDetection</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AutoNumberingDetection</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::set_AutoNumberingDetection</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets a boolean value indicating either automatic numbering detection will be performed while loading a document. The default value is <computeroutput>true</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="42" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa0a6aafd5885c249f08dae8ae541d1e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -413,7 +461,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="85" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="95" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a519f7878ea68198df0f95a0fcdcb414d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -432,7 +480,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="274" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="284" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a175e35ba81dd20f018c8909213b3b59f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -451,7 +499,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="243" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="253" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a64d34ea1cd0c10c58a5f03e58eab4eea" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -470,7 +518,7 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="164" column="13"/>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="174" column="13"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -512,16 +560,16 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
         <label>System::Object</label>
       </node>
     </collaborationgraph>
-    <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="25" bodyend="288"/>
+    <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="25" bodyend="299"/>
     <listofallmembers>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1abcf0563132d6d13e7bc5e9ce06253e89" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a90bc0e2533eb4e352c9ec00b881d5d9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_AutoNumberingDetection</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0196af2dffdd53f6de6416c30f4cd89e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_BaseUri</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_ConvertMetafilesToPng</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_ConvertShapeToOfficeMath</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1af4032da2ea0e1d217c38289c6ced7283" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_DetectNumberingWithWhitespaces</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a2aa2a1d3b2165f46077168676a125a41" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_DocumentDirection</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_Encoding</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_FontSettings</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_LanguagePreferences</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a564f7e94f7c5fb6732038faa4973119d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_LeadingSpacesOptions</name></member>
@@ -542,14 +590,15 @@ Shows how to trim whitespace when loading plaintext documents. <programlisting><
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6ae572d040e5e986c663b7aa8c7661d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField1</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a4113ce78f8a8b3d1163a3ffd94aa0860" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField2</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1ad6f35f83d0ffccd474f5f98ee91eb3a8" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a9d66366c7c1c469d523303e856fa3350" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField4</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a271759ee84ba7e41c7d78b31ac888a21" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa9db60249fa040a0b6de3ccda3f7d6db" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_AutoNumberingDetection</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0355c11ce2a280ee61e1c0ce0ded1c46" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_BaseUri</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_ConvertMetafilesToPng</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_ConvertShapeToOfficeMath</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa0a6aafd5885c249f08dae8ae541d1e1" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_DetectNumberingWithWhitespaces</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a519f7878ea68198df0f95a0fcdcb414d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_DocumentDirection</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_Encoding</name></member>
-      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_FontSettings</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a175e35ba81dd20f018c8909213b3b59f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_LeadingSpacesOptions</name></member>
       <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_LoadFormat</name></member>

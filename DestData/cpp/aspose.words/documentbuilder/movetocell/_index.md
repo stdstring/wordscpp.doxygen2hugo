@@ -3,7 +3,7 @@ title: MoveToCell
 second_title: Aspose.Words for C++ API Reference
 description: Moves the cursor to a table cell in the current section.
 type: docs
-weight: 612
+weight: 638
 url: /cpp/aspose.words/documentbuilder/movetocell/
 ---
 ## DocumentBuilder.MoveToCell method

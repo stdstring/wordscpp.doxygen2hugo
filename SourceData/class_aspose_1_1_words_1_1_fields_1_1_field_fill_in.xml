@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldFillIn.h" line="86" column="25" bodyfile="Aspose.Words.Cpp/Fields/FieldFillIn.h" bodystart="86" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_fill_in_1aba35b12a1c35e0a550993ae2d19aa4fb" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldFillIn::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -85,7 +85,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldFillIn::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -110,7 +110,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldFillIn.h" line="91" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_fill_in_1a160039284bb0478b9f3fa3c5c6c87bc8" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldFillIn::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -127,7 +127,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_fill_in_1a9f545bb066c08a88990ce3c1008ccd09" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldFillIn::get_DefaultResponse</definition>
         <argsstring>()</argsstring>
         <name>get_DefaultResponse</name>
@@ -237,7 +237,7 @@ Shows how to use the FILLIN field to prompt the user for a response. <programlis
         <location file="Aspose.Words.Cpp/Fields/FieldFillIn.h" line="194" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_fill_in_1a72207ecf685d9522dc30804c2da831ba" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldFillIn::get_PromptText</definition>
         <argsstring>()</argsstring>
         <name>get_PromptText</name>
@@ -298,7 +298,7 @@ Shows how to use the FILLIN field to prompt the user for a response. <programlis
         <name>set_DefaultResponse</name>
         <qualifiedname>Aspose::Words::Fields::FieldFillIn::set_DefaultResponse</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -336,7 +336,7 @@ Shows how to use the FILLIN field to prompt the user for a response. <programlis
         <name>set_PromptText</name>
         <qualifiedname>Aspose::Words::Fields::FieldFillIn::set_PromptText</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

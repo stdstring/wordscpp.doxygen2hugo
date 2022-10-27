@@ -84,6 +84,150 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Drawing<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230" kindref="member" tooltip="Specifies the fill pattern to be used to fill a shape.">PatternType</ref></highlight></codeline>
+<codeline lineno="24"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a2555b23818971467ba5ce3de15a8f78da6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The line does not have an arrow at the end.">None</ref><sp/>=<sp/>-1,</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a7d48498395f63bdf49ca0870588f37d9" kindref="member" tooltip="10% of the foreground color.">Percent10</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230aa7fed05541f41e38b0727e91bb23bb85" kindref="member" tooltip="20% of the foreground color.">Percent20</ref><sp/>=<sp/>2,</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a196c392d20c682ce386a6940642bf23e" kindref="member" tooltip="25% of the foreground color.">Percent25</ref><sp/>=<sp/>3,</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a18366946b3723f48072dc7eaac036005" kindref="member" tooltip="30% of the foreground color.">Percent30</ref><sp/>=<sp/>4,</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a4f7b4c78c3b6429921d073705e366a2f" kindref="member" tooltip="40% of the foreground color">Percent40</ref><sp/>=<sp/>5,</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a92d64e897b3f1616201d55435738fc1d" kindref="member" tooltip="50% of the foreground color">Percent50</ref><sp/>=<sp/>6,</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a506b104782a405e3854dd7b4398eaed1" kindref="member" tooltip="5% of the foreground color.">Percent5</ref><sp/>=<sp/>7,</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230aac0df5858cb9548e949fd81f84cc99c6" kindref="member" tooltip="60% of the foreground color.">Percent60</ref><sp/>=<sp/>8,</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a9f5cd8a154da9500e87fd6f05462f86b" kindref="member" tooltip="70% of the foreground color.">Percent70</ref><sp/>=<sp/>9,</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"></highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230af9f28d7364149e2b0d9c1b88a8733268" kindref="member" tooltip="75% of the foreground color.">Percent75</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230acab6180830c0daa1ee00da6317638790" kindref="member" tooltip="80% of the foreground color.">Percent80</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ae8e7de6b32e7bec3cdab7a5650480a43" kindref="member" tooltip="90% of the foreground color.">Percent90</ref><sp/>=<sp/>12,</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ae76b449b9fc8536af7557ffa6321d269" kindref="member" tooltip="Cross.">Cross</ref><sp/>=<sp/>13,</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a8318bd209bb4a9d7904bfb7a8fc63650" kindref="member" tooltip="Dark downward diagonal.">DarkDownwardDiagonal</ref><sp/>=<sp/>14,</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a87153e4f57f122369c6a6f764351fdae" kindref="member" tooltip="Dark horizontal.">DarkHorizontal</ref><sp/>=<sp/>15,</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a27a36bfba250efaae4c7c7cf1d26d6f4" kindref="member" tooltip="Dark upward diagonal.">DarkUpwardDiagonal</ref><sp/>=<sp/>16,</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a892c1e80ba193e64ad23ef65dd5aad3b" kindref="member" tooltip="Dark vertical.">DarkVertical</ref><sp/>=<sp/>17,</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a2345f56b2e40d8ea6b68252b2f7b991b" kindref="member" tooltip="Dashed downward diagonal.">DashedDownwardDiagonal</ref><sp/>=<sp/>18,</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a5ebe946bed6044b9c7f6fd088e0d15a8" kindref="member" tooltip="Dashed horizontal.">DashedHorizontal</ref><sp/>=<sp/>19,</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230aa7707abbf7907158d4bf0a3546e08f92" kindref="member" tooltip="Dashed upward diagonal.">DashedUpwardDiagonal</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ad02a5259d0bcea16c05880a71ec87ae4" kindref="member" tooltip="Dashed vertical.">DashedVertical</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"></highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a315a24f4dcc490a04c519cc073669b36" kindref="member" tooltip="Diagonal brick.">DiagonalBrick</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a6e3a8ec8445d0a67886466168e57dba1" kindref="member" tooltip="Diagonal cross.">DiagonalCross</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a13d3bf2ba2135376e1c981f3b6c7116d" kindref="member" tooltip="Pattern divot.">Divot</ref><sp/>=<sp/>24,</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ae03fad76f6e1d0f1bdc204212fe94814" kindref="member" tooltip="Dotted diamond.">DottedDiamond</ref><sp/>=<sp/>25,</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"></highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230af8c948105673fbc6c5aa5a0cb7b15ef5" kindref="member" tooltip="Dotted grid.">DottedGrid</ref><sp/>=<sp/>26,</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ad027d3d4f4f6b5bc96dbf450d4736f4d" kindref="member" tooltip="Downward diagonal.">DownwardDiagonal</ref><sp/>=<sp/>27,</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"></highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a5cd9f1ffa2aa6d687347e1ea79c110e5ac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Flip along the y-axis, reversing the x-coordinates.">Horizontal</ref><sp/>=<sp/>28,</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"></highlight></codeline>
+<codeline lineno="114"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230acf089e0499d59691d30f8b5e34ba31bf" kindref="member" tooltip="Horizontal brick.">HorizontalBrick</ref><sp/>=<sp/>29,</highlight></codeline>
+<codeline lineno="115"><highlight class="normal"></highlight></codeline>
+<codeline lineno="117"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a30d9dfedb08fbdf1099ef3565e3e4b34" kindref="member" tooltip="Large checker board.">LargeCheckerBoard</ref><sp/>=<sp/>30,</highlight></codeline>
+<codeline lineno="118"><highlight class="normal"></highlight></codeline>
+<codeline lineno="120"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a37f7200543107dafd86a484d4fc6da28" kindref="member" tooltip="Large confetti.">LargeConfetti</ref><sp/>=<sp/>31,</highlight></codeline>
+<codeline lineno="121"><highlight class="normal"></highlight></codeline>
+<codeline lineno="123"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ab82c5eca4fd60685091135fc070b9b3f" kindref="member" tooltip="Large grid.">LargeGrid</ref><sp/>=<sp/>32,</highlight></codeline>
+<codeline lineno="124"><highlight class="normal"></highlight></codeline>
+<codeline lineno="126"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a1d8017b3b0a65699d06f38e48b4efd37" kindref="member" tooltip="Light downward diagonal.">LightDownwardDiagonal</ref><sp/>=<sp/>33,</highlight></codeline>
+<codeline lineno="127"><highlight class="normal"></highlight></codeline>
+<codeline lineno="129"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a47fc1352b978c4f7819bd5ad0077399b" kindref="member" tooltip="Light horizontal.">LightHorizontal</ref><sp/>=<sp/>34,</highlight></codeline>
+<codeline lineno="130"><highlight class="normal"></highlight></codeline>
+<codeline lineno="132"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a22715f5e0a286765ea1a1ee45e841b32" kindref="member" tooltip="Light upward diagonal.">LightUpwardDiagonal</ref><sp/>=<sp/>36,</highlight></codeline>
+<codeline lineno="133"><highlight class="normal"></highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a66f740206e58bd2f95066aa58316d174" kindref="member" tooltip="Light vertical.">LightVertical</ref><sp/>=<sp/>37,</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"></highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a5862511a58d7759d99ad9a2e8276b3b5" kindref="member" tooltip="Narrow horizontal.">NarrowHorizontal</ref><sp/>=<sp/>38,</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"></highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a888798c2853b6382f910a787cedf0092" kindref="member" tooltip="Narrow vertical.">NarrowVertical</ref><sp/>=<sp/>39,</highlight></codeline>
+<codeline lineno="142"><highlight class="normal"></highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a38df5805b6dc21d99567e5fc7f78874f" kindref="member" tooltip="Outlined diamond.">OutlinedDiamond</ref><sp/>=<sp/>40,</highlight></codeline>
+<codeline lineno="145"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a03362dc30038a0ccea05686c58617903" kindref="member" tooltip="Plaid.">Plaid</ref><sp/>=<sp/>41,</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"></highlight></codeline>
+<codeline lineno="150"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a9ed3aacd9cf56b5fcc4a860c9736c550" kindref="member" tooltip="Shingle.">Shingle</ref><sp/>=<sp/>42,</highlight></codeline>
+<codeline lineno="151"><highlight class="normal"></highlight></codeline>
+<codeline lineno="153"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a5a78f07d3b6dee63dd8626bb2e4475f4" kindref="member" tooltip="Small checker board.">SmallCheckerBoard</ref><sp/>=<sp/>43,</highlight></codeline>
+<codeline lineno="154"><highlight class="normal"></highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a41a518c04a1c38d3b6c0f4fa3f226a6d" kindref="member" tooltip="Small confetti.">SmallConfetti</ref><sp/>=<sp/>44,</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"></highlight></codeline>
+<codeline lineno="159"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a4cd010ec215c3f5c5fbfec5237b40bac" kindref="member" tooltip="Small grid.">SmallGrid</ref><sp/>=<sp/>45,</highlight></codeline>
+<codeline lineno="160"><highlight class="normal"></highlight></codeline>
+<codeline lineno="162"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a4f9a856def615473efc10ff51e198aae" kindref="member" tooltip="Solid diamond.">SolidDiamond</ref><sp/>=<sp/>46,</highlight></codeline>
+<codeline lineno="163"><highlight class="normal"></highlight></codeline>
+<codeline lineno="165"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ab7095f057db3fefa7325ad93a04e14fd" kindref="member" tooltip="Sphere.">Sphere</ref><sp/>=<sp/>47,</highlight></codeline>
+<codeline lineno="166"><highlight class="normal"></highlight></codeline>
+<codeline lineno="168"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a4e8cf88db82109e450ce3ff2c532d3fb" kindref="member" tooltip="Trellis.">Trellis</ref><sp/>=<sp/>48,</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"></highlight></codeline>
+<codeline lineno="171"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230add4a9290238b67bb38ea6c9889b8dd9d" kindref="member" tooltip="Upward diagonal.">UpwardDiagonal</ref><sp/>=<sp/>49,</highlight></codeline>
+<codeline lineno="172"><highlight class="normal"></highlight></codeline>
+<codeline lineno="174"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a5cd9f1ffa2aa6d687347e1ea79c110e5a06ce2a25e5d12c166a36f654dbea6012" kindref="member" tooltip="Flip along the x-axis, reversing the y-coordinates.">Vertical</ref><sp/>=<sp/>50,</highlight></codeline>
+<codeline lineno="175"><highlight class="normal"></highlight></codeline>
+<codeline lineno="177"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ad911b34823c7674c292556dc56148c27" kindref="member" tooltip="Wave.">Wave</ref><sp/>=<sp/>51,</highlight></codeline>
+<codeline lineno="178"><highlight class="normal"></highlight></codeline>
+<codeline lineno="180"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230aba424a7598458ffb631f2a0e49731e9f" kindref="member" tooltip="Weave.">Weave</ref><sp/>=<sp/>52,</highlight></codeline>
+<codeline lineno="181"><highlight class="normal"></highlight></codeline>
+<codeline lineno="183"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230a909ea14fef6a327851080256a4e47f72" kindref="member" tooltip="Wide downward diagonal.">WideDownwardDiagonal</ref><sp/>=<sp/>53,</highlight></codeline>
+<codeline lineno="184"><highlight class="normal"></highlight></codeline>
+<codeline lineno="186"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230ae743b315dc126ac4d94ff5588d9b86e8" kindref="member" tooltip="Wide upward diagonal.">WideUpwardDiagonal</ref><sp/>=<sp/>54,</highlight></codeline>
+<codeline lineno="187"><highlight class="normal"></highlight></codeline>
+<codeline lineno="189"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230aeacf3a101066b77f05938928385bd8d9" kindref="member" tooltip="Zig zag.">ZigZag</ref><sp/>=<sp/>55</highlight></codeline>
+<codeline lineno="190"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="191"><highlight class="normal"></highlight></codeline>
+<codeline lineno="192"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="193"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="194"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="195"><highlight class="normal"></highlight></codeline>
+<codeline lineno="196"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="197"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Drawing::PatternType&gt;</highlight></codeline>
+<codeline lineno="198"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="199"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Drawing::PatternType,<sp/>const<sp/>char_t*&gt;,<sp/>55&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="200"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Drawing/PatternType.h"/>
   </compounddef>
 </doxygen>

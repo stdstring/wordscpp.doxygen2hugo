@@ -1,7 +1,7 @@
 ---
 title: DocumentBuilder
 second_title: Aspose.Words for C++ API Reference
-description: Provides methods to insert text, images and other content, specify font, paragraph and section formatting.
+description: Provides methods to insert text, images and other content, specify font, paragraph and section formatting. To learn more, visit the  documentation article.
 type: docs
 weight: 274
 url: /cpp/aspose.words/documentbuilder/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words/documentbuilder/
 ## DocumentBuilder class
 
 
-Provides methods to insert text, images and other content, specify font, paragraph and section formatting.
+Provides methods to insert text, images and other content, specify font, paragraph and section formatting. To learn more, visit the [Document Builder Overview](https://docs.aspose.com/words/net/document-builder-overview/) documentation article.
 
 ```cpp
 class DocumentBuilder : public Aspose::Words::IRunAttrSource, public Aspose::Words::IRowAttrSource, public Aspose::Words::ICellAttrSource
@@ -34,9 +34,11 @@ class DocumentBuilder : public Aspose::Words::IRunAttrSource, public Aspose::Wor
 | [get_CurrentParagraph](./get_currentparagraph/)() | Gets the paragraph that is currently selected in this [DocumentBuilder](./). |
 | [get_CurrentSection](./get_currentsection/)() | Gets the section that is currently selected in this [DocumentBuilder](./). |
 | [get_CurrentStory](./get_currentstory/)() | Gets the story that is currently selected in this [DocumentBuilder](./). |
+| [get_CurrentStructuredDocumentTag](./get_currentstructureddocumenttag/)() | Gets the structured document tag that is currently selected in this [DocumentBuilder](./). |
 | [get_Document](./get_document/)() const | Gets or sets the [Document](./get_document/) object that this object is attached to. |
 | [get_Font](./get_font/)() | Returns an object that represents current font formatting properties. |
 | [get_IsAtEndOfParagraph](./get_isatendofparagraph/)() | Returns true if the cursor is at the end of the current paragraph. |
+| [get_IsAtEndOfStructuredDocumentTag](./get_isatendofstructureddocumenttag/)() | Returns **true** if the cursor is at the end of a structured document tag. |
 | [get_IsAtStartOfParagraph](./get_isatstartofparagraph/)() | Returns true if the cursor is at the beginning of the current paragraph (no text before the cursor). |
 | [get_Italic](./get_italic/)() | True if the font is formatted as italic. |
 | [get_ListFormat](./get_listformat/)() | Returns an object that represents current list formatting properties. |
@@ -78,7 +80,7 @@ class DocumentBuilder : public Aspose::Words::IRunAttrSource, public Aspose::Wor
 | [InsertImage](./insertimage/)(std::basic_istream\<CharType, Traits\>\&) |  |
 | [InsertImage](./insertimage/)(std::basic_istream\<CharType, Traits\>\&, double, double) |  |
 | [InsertImage](./insertimage/)(std::basic_istream\<CharType, Traits\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) |  |
-| [InsertNode](./insertnode/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts a text level node inside the current paragraph before the cursor. |
+| [InsertNode](./insertnode/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Inserts a node before the cursor. |
 | [InsertOleObject](./insertoleobject/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, bool, const System::SharedPtr\<System::IO::Stream\>\&) | Inserts an embedded OLE object from a stream into the document. |
 | [InsertOleObject](./insertoleobject/)(const System::String\&, bool, bool, const System::SharedPtr\<System::IO::Stream\>\&) | Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using file extension. |
 | [InsertOleObject](./insertoleobject/)(const System::String\&, const System::String\&, bool, bool, const System::SharedPtr\<System::IO::Stream\>\&) | Inserts an embedded or linked OLE object from a file into the document. Detects OLE object type using given progID parameter. |
@@ -113,6 +115,8 @@ class DocumentBuilder : public Aspose::Words::IRunAttrSource, public Aspose::Wor
 | [MoveToMergeField](./movetomergefield/)(const System::String\&, bool, bool) | Moves the merge field to the specified merge field. |
 | [MoveToParagraph](./movetoparagraph/)(int32_t, int32_t) | Moves the cursor to a paragraph in the current section. |
 | [MoveToSection](./movetosection/)(int32_t) | Moves the cursor to the beginning of the body in a specified section. |
+| [MoveToStructuredDocumentTag](./movetostructureddocumenttag/)(int32_t, int32_t) | Moves the cursor to a structured document tag in the current section. |
+| [MoveToStructuredDocumentTag](./movetostructureddocumenttag/)(const System::SharedPtr\<Aspose::Words::Markup::StructuredDocumentTag\>\&, int32_t) | Moves the cursor to the structured document tag. |
 | [PopFont](./popfont/)() | Retrieves character formatting previously saved on the stack. |
 | [PushFont](./pushfont/)() | Saves current character formatting onto the stack. |
 | [set_Bold](./set_bold/)(bool) | Setter for [Aspose::Words::DocumentBuilder::get_Bold](./get_bold/). |

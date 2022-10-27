@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="84" column="25" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="84" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa59b5560d6a987d68ef7f7031563afcc" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Drawing::Charts::ChartFormat::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad28778b8e14644d0d84f020b2a2b0b04" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartFormat::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -79,7 +79,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="234" column="21" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="234" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac6722ff87a4551861ab8a7b865f607d5" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartFormat::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -93,7 +93,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="235" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="235" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a6c22f135dcd52e642ee5580a00fd3b8c" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartFormat::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -193,7 +193,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="213" column="36"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abc3331d834424864928320ee2328825a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::Drawing::Charts::ChartFormat::get_FillableBackColor</definition>
         <argsstring>() override</argsstring>
         <name>get_FillableBackColor</name>
@@ -207,7 +207,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="182" column="28"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7f3c89a5eabc6e41730e970bf119f5da" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::Drawing::Charts::ChartFormat::get_FillableForeColor</definition>
         <argsstring>() override</argsstring>
         <name>get_FillableForeColor</name>
@@ -221,7 +221,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="180" column="28"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a07596c8f9e424c7d33e38d56edaabf45" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
         <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_FillableImageBytes</definition>
         <argsstring>() override</argsstring>
         <name>get_FillableImageBytes</name>
@@ -235,7 +235,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="179" column="22"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a764bd97ee4147fc8565f487dd9eb5352" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_FillableThemeProvider</definition>
         <argsstring>() override</argsstring>
         <name>get_FillableThemeProvider</name>
@@ -277,7 +277,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="184" column="10"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a600ca651c17a6eb21eb78bbadd15efcf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::Drawing::Charts::ChartFormat::get_FilledColor</definition>
         <argsstring>() override</argsstring>
         <name>get_FilledColor</name>
@@ -319,7 +319,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="193" column="12"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a32b783082dd6e87c2829f296c3ad0ce1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection" kindref="compound">Aspose::Words::Drawing::GradientStopCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection" kindref="compound">Aspose::Words::Drawing::GradientStopCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Drawing::GradientStopCollection &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_GradientStops</definition>
         <argsstring>() override</argsstring>
         <name>get_GradientStops</name>
@@ -487,7 +487,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="221" column="40"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab8bec4f5be53f7afb6e7275df6ffc44e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Drawing::DrColor &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeBackColor</definition>
         <argsstring>() override</argsstring>
         <name>get_StrokeBackColor</name>
@@ -501,7 +501,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="201" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1d2a5961c794224a84b79d6f6112c3cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Drawing::DrColor &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeForeColor</definition>
         <argsstring>() override</argsstring>
         <name>get_StrokeForeColor</name>
@@ -515,7 +515,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="199" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa88fb08693a9c4c0726a67979df29e40" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
         <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeImageBytes</definition>
         <argsstring>() override</argsstring>
         <name>get_StrokeImageBytes</name>
@@ -529,7 +529,7 @@
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="231" column="22"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a2a4df36a4a6c210ad0ad08f1dbec383f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeThemeProvider</definition>
         <argsstring>() override</argsstring>
         <name>get_StrokeThemeProvider</name>
@@ -633,7 +633,7 @@
         <name>GetTransparency</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::GetTransparency</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -806,7 +806,7 @@
         <name>set_FillableBackColor</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FillableBackColor</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -823,7 +823,7 @@
         <name>set_FillableForeColor</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FillableForeColor</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -874,7 +874,7 @@
         <name>set_FilledColor</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FilledColor</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -1061,7 +1061,7 @@
         <name>set_StrokeBackColor</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeBackColor</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -1078,7 +1078,7 @@
         <name>set_StrokeForeColor</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeForeColor</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -1163,7 +1163,7 @@
         <name>SetFill</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::SetFill</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::IFill &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::IFill &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -1180,7 +1180,7 @@
         <name>SetImage</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::SetImage</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+          <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -1197,7 +1197,7 @@
         <name>SetTransparency</name>
         <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::SetTransparency</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;</type>
         </param>
         <param>
           <type>double</type>
@@ -1247,7 +1247,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a83cd9a1d62ddf04bd12c25e632555731" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_fill" kindref="compound">Aspose::Words::Drawing::Fill</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_fill" kindref="compound">Aspose::Words::Drawing::Fill</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Fill &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_Fill</definition>
         <argsstring>()</argsstring>
         <name>get_Fill</name>
@@ -1274,15 +1274,15 @@ Show how to set marker formatting. <programlisting><codeline><highlight class="k
 <codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Symbol(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1aceb46ca115d05c51aa5a16a8867c3304" kindref="member" tooltip="Specifies a square shall be drawn at each data point.">MarkerSymbol::Square</ref>);</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ChartDataPointCollection&gt;<sp/>dataPoints<sp/>=<sp/>series-&gt;get_DataPoints();</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca26d2add8253cba145696aedb988451f5" kindref="member" tooltip="Denim texture.">PresetTexture::Denim</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19e498f00e7f35f51d8e9b6144788b1f" kindref="member" tooltip="Water droplets texture.">PresetTexture::WaterDroplets</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Visible(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca3dba67e90d8fa1db33b9de781ff30286" kindref="member" tooltip="Green marble texture.">PresetTexture::GreenMarble</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf2b6dcdc344bf345a187b3c6c19af47e" kindref="member" tooltip="Oak texture.">PresetTexture::Oak</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Transparency(0.5);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.MarkerFormatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1293,7 +1293,7 @@ Show how to set marker formatting. <programlisting><codeline><highlight class="k
         <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="128" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a49af89b73daab589386a2c5d7d7ffa61" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_stroke" kindref="compound">Aspose::Words::Drawing::Stroke</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_stroke" kindref="compound">Aspose::Words::Drawing::Stroke</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Stroke &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_Stroke</definition>
         <argsstring>()</argsstring>
         <name>get_Stroke</name>
@@ -1320,15 +1320,15 @@ Show how to set marker formatting. <programlisting><codeline><highlight class="k
 <codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Symbol(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1aceb46ca115d05c51aa5a16a8867c3304" kindref="member" tooltip="Specifies a square shall be drawn at each data point.">MarkerSymbol::Square</ref>);</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;ChartDataPointCollection&gt;<sp/>dataPoints<sp/>=<sp/>series-&gt;get_DataPoints();</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca26d2add8253cba145696aedb988451f5" kindref="member" tooltip="Denim texture.">PresetTexture::Denim</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19e498f00e7f35f51d8e9b6144788b1f" kindref="member" tooltip="Water droplets texture.">PresetTexture::WaterDroplets</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Visible(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca3dba67e90d8fa1db33b9de781ff30286" kindref="member" tooltip="Green marble texture.">PresetTexture::GreenMarble</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf2b6dcdc344bf345a187b3c6c19af47e" kindref="member" tooltip="Oak texture.">PresetTexture::Oak</ref>);</highlight></codeline>
-<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Transparency(0.5);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.MarkerFormatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
