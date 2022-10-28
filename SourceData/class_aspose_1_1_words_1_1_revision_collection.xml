@@ -6,7 +6,7 @@
     <includes refid="_revision_collection_8h" local="no">Aspose.Words.Cpp/RevisionCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_collection_1a60047f6d87f17e83c9bb2f221e0f641f" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Revision&gt; &gt; Aspose::Words::RevisionCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="131" column="32" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="131" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_collection_1a5ecb66a5c5e277e0fb5bea6908cc8011" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::RevisionCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="536" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="536" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a28a2079e077dbf03e618b937eadcf2be" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="537" column="21" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="537" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1ae5b645e8a808eb0f6f5bea7057319fd4" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="538" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="538" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a1304e4d2f427e12603cb7c542a3da086" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField4</definition>
         <argsstring></argsstring>
         <name>mField4</name>
@@ -120,7 +120,7 @@
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="539" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="539" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a7d93e2c2867b6523aa1a3721df489ec0" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField5</definition>
         <argsstring></argsstring>
         <name>mField5</name>
@@ -134,7 +134,7 @@
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="540" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="540" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a0f7ae1614da9a3276c3049284c3121ab" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField6</definition>
         <argsstring></argsstring>
         <name>mField6</name>
@@ -202,7 +202,7 @@ Shows how to compare documents. <programlisting><codeline><highlight class="keyw
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Comparing<sp/>documents<sp/>with<sp/>revisions<sp/>will<sp/>throw<sp/>an<sp/>exception.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(docOriginal-&gt;get_Revisions()-&gt;get_Count()<sp/>==<sp/>0<sp/>&amp;&amp;<sp/>docEdited-&gt;get_Revisions()-&gt;get_Count()<sp/>==<sp/>0)</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>docOriginal-&gt;Compare(docEdited,<sp/>u</highlight><highlight class="stringliteral">&quot;authorName&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>docOriginal-&gt;Compare(docEdited,<sp/>u</highlight><highlight class="stringliteral">&quot;authorName&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>After<sp/>the<sp/>comparison,<sp/>the<sp/>original<sp/>document<sp/>will<sp/>gain<sp/>a<sp/>new<sp/>revision</highlight><highlight class="normal"></highlight></codeline>
@@ -245,7 +245,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_HasRevisions());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>register<sp/>our<sp/>edits<sp/>as<sp/>revisions,<sp/>we<sp/>need<sp/>to<sp/>declare<sp/>an<sp/>author,<sp/>and<sp/>then<sp/>start<sp/>tracking<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -263,7 +263,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_Author());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_ParentNode()-&gt;GetText());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba3e8592679127932ad5203da071625c5d" kindref="member" tooltip="New content was inserted in the document.">RevisionType::Insertion</ref>,<sp/>revision-&gt;get_RevisionType());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0),<sp/>revision-&gt;get_Group());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>run<sp/>to<sp/>create<sp/>a<sp/>deletion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
@@ -316,7 +316,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="221" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a0b053d3f0e9f581d9ca2cbd78e134684" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group_collection" kindref="compound">Aspose::Words::RevisionGroupCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group_collection" kindref="compound">Aspose::Words::RevisionGroupCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::RevisionGroupCollection &gt; Aspose::Words::RevisionCollection::get_Groups</definition>
         <argsstring>()</argsstring>
         <name>get_Groups</name>
@@ -384,7 +384,7 @@ Shows how to work with a document&apos;s collection of revisions. <programlistin
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="280" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a44b785194c5200249600afc89d95de98" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Revision &gt; &gt; &gt; Aspose::Words::RevisionCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -452,7 +452,7 @@ Shows how to work with a document&apos;s collection of revisions. <programlistin
         <location file="Aspose.Words.Cpp/RevisionCollection.h" line="527" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a7a4740509ecd1d32aa3eb95edd07cd25" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Revision &gt; Aspose::Words::RevisionCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -489,7 +489,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_HasRevisions());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>register<sp/>our<sp/>edits<sp/>as<sp/>revisions,<sp/>we<sp/>need<sp/>to<sp/>declare<sp/>an<sp/>author,<sp/>and<sp/>then<sp/>start<sp/>tracking<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -507,7 +507,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_Author());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_ParentNode()-&gt;GetText());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba3e8592679127932ad5203da071625c5d" kindref="member" tooltip="New content was inserted in the document.">RevisionType::Insertion</ref>,<sp/>revision-&gt;get_RevisionType());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0),<sp/>revision-&gt;get_Group());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>run<sp/>to<sp/>create<sp/>a<sp/>deletion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
@@ -644,7 +644,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_HasRevisions());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>register<sp/>our<sp/>edits<sp/>as<sp/>revisions,<sp/>we<sp/>need<sp/>to<sp/>declare<sp/>an<sp/>author,<sp/>and<sp/>then<sp/>start<sp/>tracking<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -662,7 +662,7 @@ Shows how to work with revisions in a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_Author());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_ParentNode()-&gt;GetText());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba3e8592679127932ad5203da071625c5d" kindref="member" tooltip="New content was inserted in the document.">RevisionType::Insertion</ref>,<sp/>revision-&gt;get_RevisionType());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0),<sp/>revision-&gt;get_Group());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>run<sp/>to<sp/>create<sp/>a<sp/>deletion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>

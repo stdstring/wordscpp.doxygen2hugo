@@ -6,7 +6,7 @@
     <includes refid="_i_font_saving_callback_8h" local="no">Aspose.Words.Cpp/Saving/IFontSavingCallback.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1a3850655313ccdee3b54eda21bee6d106" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Saving::IFontSavingCallback::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="104" column="33" bodyfile="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" bodystart="104" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ad50fc5a15f9b54db8a73e4e7cb5cd3c7" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::IFontSavingCallback::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -72,7 +72,7 @@
         <name>FontSaving</name>
         <qualifiedname>Aspose::Words::Saving::IFontSavingCallback::FontSaving</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_font_saving_args" kindref="compound">Aspose::Words::Saving::FontSavingArgs</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_font_saving_args" kindref="compound">Aspose::Words::Saving::FontSavingArgs</ref> &gt;</type>
           <declname>args</declname>
         </param>
         <briefdescription>
@@ -99,7 +99,7 @@ Shows how to define custom logic for exporting fonts when saving to HTML. <progr
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.EndsWith(u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>fontFilename<sp/>:<sp/><ref refid="class/system.array/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Array&lt;String&gt;::FindAll</ref>(<ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir),<sp/>endsWithTtf))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>fontFilename<sp/>:<sp/><ref refid="class/system.array/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Array&lt;String&gt;::FindAll</ref>(<ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir),<sp/>endsWithTtf))</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>fontFilename<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -170,7 +170,7 @@ Shows how to define custom logic for exporting fonts when saving to HTML. <progr
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.EndsWith(u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>fontFilename<sp/>:<sp/><ref refid="class/system.array/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Array&lt;String&gt;::FindAll</ref>(<ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir),<sp/>endsWithTtf))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>fontFilename<sp/>:<sp/><ref refid="class/system.array/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Array&lt;String&gt;::FindAll</ref>(<ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir),<sp/>endsWithTtf))</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>fontFilename<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>

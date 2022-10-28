@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="61" column="31" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a6e1b694648a8c70f91552e39921613fe" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldAddressBlock::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -94,7 +94,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="259" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a4ef50f59ae41535b49047f06ff1d8c5d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_MergeFormat</definition>
         <argsstring>() override</argsstring>
         <name>get_MergeFormat</name>
@@ -108,7 +108,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="263" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acd3c69803dbc9ab4c637f4c498f6da08" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::String &gt; &gt; Aspose::Words::Fields::FieldAddressBlock::get_PlaceholdersToFieldsMap</definition>
         <argsstring>() override</argsstring>
         <name>get_PlaceholdersToFieldsMap</name>
@@ -122,16 +122,16 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="264" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ae610b53d419a45cf12ed9d8ee7cb4456" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAddressBlock::GetPlaceholderValue</definition>
         <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::IMergeFormatContext &gt;, System::SharedPtr&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;) override</argsstring>
         <name>GetPlaceholderValue</name>
         <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::GetPlaceholderValue</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IMergeFormatContext &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IMergeFormatContext &gt;</type>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -148,7 +148,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -159,7 +159,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="266" column="44"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acbcff24955e9705ecb0065a82ff1268f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Fields::FieldAddressBlock::IFormattableMergeField_FetchDocument</definition>
         <argsstring>() override</argsstring>
         <name>IFormattableMergeField_FetchDocument</name>
@@ -187,7 +187,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="67" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ace372fef77f6336edbb15d4ac67d45e5" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldAddressBlock::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -218,7 +218,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="253" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ad2afc9ccb563dd8f25add3f78b3f23b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName</definition>
         <argsstring>()</argsstring>
         <name>get_ExcludedCountryOrRegionName</name>
@@ -245,7 +245,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
@@ -284,7 +284,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
@@ -296,7 +296,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="100" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aeb30f1206085c3fc676bccf759c78d03" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName</definition>
         <argsstring>()</argsstring>
         <name>get_IncludeCountryOrRegionName</name>
@@ -323,7 +323,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
@@ -335,7 +335,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="133" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab0994c9f8e30697d587014629492c290" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_LanguageId</definition>
         <argsstring>()</argsstring>
         <name>get_LanguageId</name>
@@ -362,7 +362,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
@@ -374,7 +374,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="232" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a79dff4941be561016e62d522abd3abc5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_NameAndAddressFormat</definition>
         <argsstring>()</argsstring>
         <name>get_NameAndAddressFormat</name>
@@ -401,7 +401,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
@@ -413,7 +413,7 @@ Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight 
         <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="199" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a23d40226905b7d994530de3ff69948a0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
         <definition>System::ArrayPtr&lt; System::String &gt; Aspose::Words::Fields::FieldAddressBlock::GetFieldNames</definition>
         <argsstring>() override</argsstring>
         <name>GetFieldNames</name>
@@ -444,7 +444,7 @@ Shows how to get mail merge field names used by a field. <programlisting><codeli
         <name>set_ExcludedCountryOrRegionName</name>
         <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_ExcludedCountryOrRegionName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -482,7 +482,7 @@ Shows how to get mail merge field names used by a field. <programlisting><codeli
         <name>set_IncludeCountryOrRegionName</name>
         <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_IncludeCountryOrRegionName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -501,7 +501,7 @@ Shows how to get mail merge field names used by a field. <programlisting><codeli
         <name>set_LanguageId</name>
         <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_LanguageId</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -520,7 +520,7 @@ Shows how to get mail merge field names used by a field. <programlisting><codeli
         <name>set_NameAndAddressFormat</name>
         <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_NameAndAddressFormat</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

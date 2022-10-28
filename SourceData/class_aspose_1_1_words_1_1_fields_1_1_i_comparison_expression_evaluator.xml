@@ -6,7 +6,7 @@
     <includes refid="_i_comparison_expression_evaluator_8h" local="no">Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a76d8e9a09047b47977e2135f60dc1b39" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Fields::IComparisonExpressionEvaluator::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="40" column="44" bodyfile="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" bodystart="40" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a3155a1b0fb9b7d308b8e34541afb1391" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::IComparisonExpressionEvaluator::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -66,17 +66,17 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a889bc745518815302ff04def23d35499" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_evaluation_result" kindref="compound">Aspose::Words::Fields::ComparisonEvaluationResult</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_evaluation_result" kindref="compound">Aspose::Words::Fields::ComparisonEvaluationResult</ref> &gt;</type>
         <definition>virtual System::SharedPtr&lt; Aspose::Words::Fields::ComparisonEvaluationResult &gt; Aspose::Words::Fields::IComparisonExpressionEvaluator::Evaluate</definition>
         <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::Field &gt; field, System::SharedPtr&lt; Aspose::Words::Fields::ComparisonExpression &gt; expression)=0</argsstring>
         <name>Evaluate</name>
         <qualifiedname>Aspose::Words::Fields::IComparisonExpressionEvaluator::Evaluate</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref> &gt;</type>
           <declname>field</declname>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_expression" kindref="compound">Aspose::Words::Fields::ComparisonExpression</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_expression" kindref="compound">Aspose::Words::Fields::ComparisonExpression</ref> &gt;</type>
           <declname>expression</declname>
         </param>
         <briefdescription>

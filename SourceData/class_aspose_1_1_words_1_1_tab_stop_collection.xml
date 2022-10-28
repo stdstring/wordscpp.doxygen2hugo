@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/TabStopCollection.h" line="92" column="31" bodyfile="Aspose.Words.Cpp/TabStopCollection.h" bodystart="92" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tab_stop_collection_1ae6e9c98210230e99c5825b5a0ac7dbc3" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_internable_complex_attr" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_internable_complex_attr" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::TabStopCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_collection_1a8b43fd0da4f226bd13559438d5b39a08" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::TabStopCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -129,7 +129,7 @@
         <name>Collapse</name>
         <qualifiedname>Aspose::Words::TabStopCollection::Collapse</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::IExpandableAttr &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::IExpandableAttr &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -140,13 +140,13 @@
         <location file="Aspose.Words.Cpp/TabStopCollection.h" line="690" column="10"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_collection_1a6009950637c0e9dc00a4342cb5d70ff8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::IExpandableAttr &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::IExpandableAttr &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::IExpandableAttr &gt; Aspose::Words::TabStopCollection::Expand</definition>
         <argsstring>(System::SharedPtr&lt; Aspose::Words::IExpandableAttr &gt;) override</argsstring>
         <name>Expand</name>
         <qualifiedname>Aspose::Words::TabStopCollection::Expand</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::IExpandableAttr &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::IExpandableAttr &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -179,7 +179,7 @@
         <name>Add</name>
         <qualifiedname>Aspose::Words::TabStopCollection::Add</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt; &amp;</type>
           <declname>tabStop</declname>
         </param>
         <briefdescription>
@@ -305,7 +305,7 @@ Shows how to add custom tab stops to a document. <programlisting><codeline><high
         <location file="Aspose.Words.Cpp/TabStopCollection.h" line="521" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_collection_1a42bfbffb0c88dba8b773b0f694e80042" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::TabStop &gt; Aspose::Words::TabStopCollection::After</definition>
         <argsstring>(double position)</argsstring>
         <name>After</name>
@@ -343,7 +343,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -373,7 +373,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
         <location file="Aspose.Words.Cpp/TabStopCollection.h" line="624" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_collection_1a419c6603c3d9c611c190f9a7c064a4a9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::TabStop &gt; Aspose::Words::TabStopCollection::Before</definition>
         <argsstring>(double position)</argsstring>
         <name>Before</name>
@@ -411,7 +411,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -463,7 +463,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -499,7 +499,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
         <name>Equals</name>
         <qualifiedname>Aspose::Words::TabStopCollection::Equals</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">Aspose::Words::TabStopCollection</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">Aspose::Words::TabStopCollection</ref> &gt; &amp;</type>
           <declname>rhs</declname>
         </param>
         <briefdescription>
@@ -519,7 +519,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -555,7 +555,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
         <name>Equals</name>
         <qualifiedname>Aspose::Words::TabStopCollection::Equals</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
           <declname>obj</declname>
         </param>
         <briefdescription>
@@ -575,7 +575,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -627,7 +627,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -680,7 +680,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -786,7 +786,7 @@ Shows how to find a tab, stop by its index and verify its position. <programlist
         <location file="Aspose.Words.Cpp/TabStopCollection.h" line="425" column="15"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_collection_1a90b7cb47a4acac94818acd70ef5e78cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::TabStop &gt; Aspose::Words::TabStopCollection::idx_get</definition>
         <argsstring>(double position)</argsstring>
         <name>idx_get</name>
@@ -821,7 +821,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -851,7 +851,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
         <location file="Aspose.Words.Cpp/TabStopCollection.h" line="361" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_collection_1a488c536e7826aba0cfec2c4b5e6ceb80" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::TabStop &gt; Aspose::Words::TabStopCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>
@@ -886,7 +886,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1035,7 +1035,7 @@ Shows how to work with a document&apos;s collection of tab stops. <programlistin
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>

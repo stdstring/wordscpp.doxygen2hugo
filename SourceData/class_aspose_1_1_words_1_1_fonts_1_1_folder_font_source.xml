@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="62" column="30" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="62" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ace59ef79af6fc1462deff5260bcb0542" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FolderFontSource::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a13b30efb62a85eae04c8b0713d3a4ef0" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fonts::FolderFontSource::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -102,7 +102,7 @@
         <name>FolderFontSource</name>
         <qualifiedname>Aspose::Words::Fonts::FolderFontSource::FolderFontSource</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>folderPath</declname>
         </param>
         <param>
@@ -156,7 +156,7 @@ Shows how to use a local system folder which contains fonts as a font source. <p
         <name>FolderFontSource</name>
         <qualifiedname>Aspose::Words::Fonts::FolderFontSource::FolderFontSource</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>folderPath</declname>
         </param>
         <param>
@@ -216,7 +216,7 @@ Shows how to use a local system folder which contains fonts as a font source. <p
         <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="175" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1afc0f63f8b8644776aa09c6e4f4baa004" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fonts::FolderFontSource::get_FolderPath</definition>
         <argsstring>() const</argsstring>
         <name>get_FolderPath</name>

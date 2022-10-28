@@ -6,7 +6,7 @@
     <includes refid="_text_watermark_options_8h" local="no">Aspose.Words.Cpp/TextWatermarkOptions.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_text_watermark_options_1ab3ed09545629556331b73061d51bdf99" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::TextWatermarkOptions::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/TextWatermarkOptions.h" line="24" column="34" bodyfile="Aspose.Words.Cpp/TextWatermarkOptions.h" bodystart="24" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_text_watermark_options_1a1a1f54fce639bfec0143e870754d1356" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::TextWatermarkOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_text_watermark_options_1a7e6a96c92d2c6dd99c38ae59c357327d" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::TextWatermarkOptions::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/TextWatermarkOptions.h" line="221" column="20" bodyfile="Aspose.Words.Cpp/TextWatermarkOptions.h" bodystart="221" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_text_watermark_options_1af5935c89de9bcae17f147662a2453192" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::TextWatermarkOptions::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -152,7 +152,7 @@
         <location file="Aspose.Words.Cpp/TextWatermarkOptions.h" line="215" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_watermark_options_1abd9c8f3be8760e0cd34380f9872f7b2a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>System::Drawing::Color Aspose::Words::TextWatermarkOptions::get_Color</definition>
         <argsstring>() const</argsstring>
         <name>get_Color</name>
@@ -173,7 +173,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
-<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -193,7 +193,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
         <location file="Aspose.Words.Cpp/TextWatermarkOptions.h" line="97" column="31"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_watermark_options_1ae2b6d745b8e9c1b0ddec5da89906a727" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::TextWatermarkOptions::get_FontFamily</definition>
         <argsstring>() const</argsstring>
         <name>get_FontFamily</name>
@@ -214,7 +214,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
-<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -266,7 +266,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
-<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -307,7 +307,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
-<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -348,7 +348,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
-<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
 <codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -374,7 +374,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
         <name>set_Color</name>
         <qualifiedname>Aspose::Words::TextWatermarkOptions::set_Color</qualifiedname>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -393,7 +393,7 @@ Shows how to create a text watermark. <programlisting><codeline><highlight class
         <name>set_FontFamily</name>
         <qualifiedname>Aspose::Words::TextWatermarkOptions::set_FontFamily</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

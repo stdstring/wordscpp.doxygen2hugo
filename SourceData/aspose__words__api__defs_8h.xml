@@ -287,7 +287,6 @@
     <includedby refid="_font_source_type_8h" local="no">Aspose.Words.Cpp/Fonts/FontSourceType.h</includedby>
     <includedby refid="_font_substitution_rule_8h" local="no">Aspose.Words.Cpp/Fonts/FontSubstitutionRule.h</includedby>
     <includedby refid="_font_substitution_settings_8h" local="no">Aspose.Words.Cpp/Fonts/FontSubstitutionSettings.h</includedby>
-    <includedby refid="_i_font_data_8h" local="no">Aspose.Words.Cpp/Fonts/IFontData.h</includedby>
     <includedby refid="_memory_font_source_8h" local="no">Aspose.Words.Cpp/Fonts/MemoryFontSource.h</includedby>
     <includedby refid="_physical_font_info_8h" local="no">Aspose.Words.Cpp/Fonts/PhysicalFontInfo.h</includedby>
     <includedby refid="_stream_font_source_8h" local="no">Aspose.Words.Cpp/Fonts/StreamFontSource.h</includedby>
@@ -437,7 +436,6 @@
     <includedby refid="_node_renderer_base_8h" local="no">Aspose.Words.Cpp/Rendering/NodeRendererBase.h</includedby>
     <includedby refid="_office_math_renderer_8h" local="no">Aspose.Words.Cpp/Rendering/OfficeMathRenderer.h</includedby>
     <includedby refid="_page_info_8h" local="no">Aspose.Words.Cpp/Rendering/PageInfo.h</includedby>
-    <includedby refid="_pdf_user_access_permissions_8h" local="no">Aspose.Words.Cpp/Rendering/Pdf/Encryption/PdfUserAccessPermissions.h</includedby>
     <includedby refid="_shape_renderer_8h" local="no">Aspose.Words.Cpp/Rendering/ShapeRenderer.h</includedby>
     <includedby refid="_thumbnail_generating_options_8h" local="no">Aspose.Words.Cpp/Rendering/ThumbnailGeneratingOptions.h</includedby>
     <includedby refid="_find_replace_direction_8h" local="no">Aspose.Words.Cpp/Replacing/FindReplaceDirection.h</includedby>
@@ -1050,10 +1048,10 @@
         <childnode refid="104" relation="include">
         </childnode>
       </node>
-      <node id="634">
+      <node id="632">
         <label>Aspose.Words.Cpp/Drawing/Core/Dml/Themes/IThemeProvider.h</label>
         <link refid="_i_theme_provider_8h_source"/>
-        <childnode refid="632" relation="include">
+        <childnode refid="630" relation="include">
         </childnode>
       </node>
       <node id="121">
@@ -2300,17 +2298,11 @@
         <label>Aspose.Words.Cpp/Fonts/FontSubstitutionSettings.h</label>
         <link refid="_font_substitution_settings_8h_source"/>
       </node>
-      <node id="325">
-        <label>Aspose.Words.Cpp/Fonts/IFontData.h</label>
-        <link refid="_i_font_data_8h_source"/>
-        <childnode refid="319" relation="include">
-        </childnode>
-      </node>
       <node id="318">
         <label>Aspose.Words.Cpp/Fonts/MemoryFontSource.h</label>
         <link refid="_memory_font_source_8h_source"/>
       </node>
-      <node id="326">
+      <node id="325">
         <label>Aspose.Words.Cpp/Fonts/PhysicalFontInfo.h</label>
         <link refid="_physical_font_info_8h_source"/>
       </node>
@@ -2330,11 +2322,11 @@
         <label>Aspose.Words.Cpp/FrameFormat.h</label>
         <link refid="_frame_format_8h_source"/>
       </node>
-      <node id="327">
+      <node id="326">
         <label>Aspose.Words.Cpp/Framesets/Frameset.h</label>
         <link refid="_frameset_8h_source"/>
       </node>
-      <node id="328">
+      <node id="327">
         <label>Aspose.Words.Cpp/Framesets/FramesetCollection.h</label>
         <link refid="_frameset_collection_8h_source"/>
       </node>
@@ -2346,7 +2338,7 @@
         <label>Aspose.Words.Cpp/HeaderFooterCollection.h</label>
         <link refid="_header_footer_collection_8h_source"/>
       </node>
-      <node id="329">
+      <node id="328">
         <label>Aspose.Words.Cpp/HeaderFooterType.h</label>
         <link refid="_header_footer_type_8h_source"/>
         <childnode refid="14" relation="include">
@@ -2356,24 +2348,24 @@
         <childnode refid="47" relation="include">
         </childnode>
       </node>
-      <node id="330">
+      <node id="329">
         <label>Aspose.Words.Cpp/HeightRule.h</label>
         <link refid="_height_rule_8h_source"/>
         <childnode refid="125" relation="include">
         </childnode>
-        <childnode refid="331" relation="include">
+        <childnode refid="330" relation="include">
         </childnode>
       </node>
-      <node id="332">
+      <node id="331">
         <label>Aspose.Words.Cpp/HtmlInsertOptions.h</label>
         <link refid="_html_insert_options_8h_source"/>
         <childnode refid="14" relation="include">
         </childnode>
       </node>
-      <node id="333">
+      <node id="332">
         <label>Aspose.Words.Cpp/Hyphenation.h</label>
         <link refid="_hyphenation_8h_source"/>
-        <childnode refid="334" relation="include">
+        <childnode refid="333" relation="include">
         </childnode>
       </node>
       <node id="72">
@@ -2382,21 +2374,21 @@
         <childnode refid="73" relation="include">
         </childnode>
       </node>
-      <node id="335">
+      <node id="334">
         <label>Aspose.Words.Cpp/IDocumentReaderPlugin.h</label>
         <link refid="_i_document_reader_plugin_8h_source"/>
       </node>
-      <node id="336">
+      <node id="335">
         <label>Aspose.Words.Cpp/IHyphenationCallback.h</label>
         <link refid="_i_hyphenation_callback_8h_source"/>
-        <childnode refid="337" relation="include">
+        <childnode refid="336" relation="include">
         </childnode>
       </node>
-      <node id="338">
+      <node id="337">
         <label>Aspose.Words.Cpp/INodeChangingCallback.h</label>
         <link refid="_i_node_changing_callback_8h_source"/>
       </node>
-      <node id="339">
+      <node id="338">
         <label>Aspose.Words.Cpp/INodeCollection.h</label>
         <link refid="_i_node_collection_8h_source"/>
         <childnode refid="34" relation="include">
@@ -2406,27 +2398,27 @@
         <childnode refid="45" relation="include">
         </childnode>
       </node>
-      <node id="499">
+      <node id="495">
         <label>Aspose.Words.Cpp/IParaAttrSource.h</label>
         <link refid="_i_para_attr_source_8h_source"/>
         <childnode refid="60" relation="include">
         </childnode>
         <childnode refid="54" relation="include">
         </childnode>
-        <childnode refid="500" relation="include">
+        <childnode refid="496" relation="include">
         </childnode>
       </node>
-      <node id="340">
+      <node id="339">
         <label>Aspose.Words.Cpp/IWarningCallback.h</label>
         <link refid="_i_warning_callback_8h_source"/>
-        <childnode refid="341" relation="include">
+        <childnode refid="340" relation="include">
         </childnode>
       </node>
-      <node id="342">
+      <node id="341">
         <label>Aspose.Words.Cpp/ImageWatermarkOptions.h</label>
         <link refid="_image_watermark_options_8h_source"/>
       </node>
-      <node id="343">
+      <node id="342">
         <label>Aspose.Words.Cpp/ImportFormatMode.h</label>
         <link refid="_import_format_mode_8h_source"/>
         <childnode refid="36" relation="include">
@@ -2435,23 +2427,23 @@
         </childnode>
         <childnode refid="14" relation="include">
         </childnode>
-        <childnode refid="344" relation="include">
+        <childnode refid="343" relation="include">
         </childnode>
       </node>
-      <node id="345">
+      <node id="344">
         <label>Aspose.Words.Cpp/ImportFormatOptions.h</label>
         <link refid="_import_format_options_8h_source"/>
       </node>
-      <node id="346">
+      <node id="345">
         <label>Aspose.Words.Cpp/IncorrectPasswordException.h</label>
         <link refid="_incorrect_password_exception_8h_source"/>
       </node>
-      <node id="347">
+      <node id="346">
         <label>Aspose.Words.Cpp/Inline.h</label>
         <link refid="_inline_8h_source"/>
-        <childnode refid="348" relation="include">
+        <childnode refid="347" relation="include">
         </childnode>
-        <childnode refid="349" relation="include">
+        <childnode refid="348" relation="include">
         </childnode>
       </node>
       <node id="40">
@@ -2462,135 +2454,135 @@
         <childnode refid="41" relation="include">
         </childnode>
       </node>
-      <node id="350">
+      <node id="349">
         <label>Aspose.Words.Cpp/InternableComplexAttr.h</label>
         <link refid="_internable_complex_attr_8h_source"/>
         <childnode refid="9" relation="include">
         </childnode>
+        <childnode refid="350" relation="include">
+        </childnode>
         <childnode refid="351" relation="include">
         </childnode>
-        <childnode refid="352" relation="include">
-        </childnode>
       </node>
-      <node id="353">
+      <node id="352">
         <label>Aspose.Words.Cpp/Layout/CommentDisplayMode.h</label>
         <link refid="_comment_display_mode_8h_source"/>
-        <childnode refid="354" relation="include">
+        <childnode refid="353" relation="include">
         </childnode>
-        <childnode refid="356" relation="include">
+        <childnode refid="355" relation="include">
         </childnode>
       </node>
-      <node id="357">
+      <node id="356">
         <label>Aspose.Words.Cpp/Layout/ContinuousSectionRestart.h</label>
         <link refid="_continuous_section_restart_8h_source"/>
-        <childnode refid="354" relation="include">
+        <childnode refid="353" relation="include">
         </childnode>
-        <childnode refid="358" relation="include">
+        <childnode refid="357" relation="include">
         </childnode>
       </node>
-      <node id="359">
+      <node id="358">
         <label>Aspose.Words.Cpp/Layout/Core/PartType.h</label>
         <link refid="_core_2_part_type_8h_source"/>
-        <childnode refid="360" relation="include">
-        </childnode>
-        <childnode refid="364" relation="include">
-        </childnode>
-      </node>
-      <node id="334">
-        <label>Aspose.Words.Cpp/Layout/Hyphenation/Hyphenation.h</label>
-        <link refid="_layout_2_hyphenation_2_hyphenation_8h_source"/>
-      </node>
-      <node id="337">
-        <label>Aspose.Words.Cpp/Layout/Hyphenation/IHyphenationCallback.h</label>
-        <link refid="_layout_2_hyphenation_2_i_hyphenation_callback_8h_source"/>
-      </node>
-      <node id="365">
-        <label>Aspose.Words.Cpp/Layout/IPageLayoutCallback.h</label>
-        <link refid="_i_page_layout_callback_8h_source"/>
-        <childnode refid="366" relation="include">
-        </childnode>
-      </node>
-      <node id="367">
-        <label>Aspose.Words.Cpp/Layout/LayoutCollector.h</label>
-        <link refid="_layout_collector_8h_source"/>
-        <childnode refid="368" relation="include">
-        </childnode>
-      </node>
-      <node id="360">
-        <label>Aspose.Words.Cpp/Layout/LayoutEntityType.h</label>
-        <link refid="_layout_entity_type_8h_source"/>
-        <childnode refid="361" relation="include">
+        <childnode refid="359" relation="include">
         </childnode>
         <childnode refid="363" relation="include">
         </childnode>
       </node>
-      <node id="361">
-        <label>Aspose.Words.Cpp/Layout/LayoutEnumerator.h</label>
-        <link refid="_layout_enumerator_8h_source"/>
-        <childnode refid="362" relation="include">
-        </childnode>
+      <node id="333">
+        <label>Aspose.Words.Cpp/Layout/Hyphenation/Hyphenation.h</label>
+        <link refid="_layout_2_hyphenation_2_hyphenation_8h_source"/>
       </node>
-      <node id="354">
-        <label>Aspose.Words.Cpp/Layout/LayoutOptions.h</label>
-        <link refid="_layout_options_8h_source"/>
-        <childnode refid="355" relation="include">
+      <node id="336">
+        <label>Aspose.Words.Cpp/Layout/Hyphenation/IHyphenationCallback.h</label>
+        <link refid="_layout_2_hyphenation_2_i_hyphenation_callback_8h_source"/>
+      </node>
+      <node id="364">
+        <label>Aspose.Words.Cpp/Layout/IPageLayoutCallback.h</label>
+        <link refid="_i_page_layout_callback_8h_source"/>
+        <childnode refid="365" relation="include">
         </childnode>
       </node>
       <node id="366">
+        <label>Aspose.Words.Cpp/Layout/LayoutCollector.h</label>
+        <link refid="_layout_collector_8h_source"/>
+        <childnode refid="367" relation="include">
+        </childnode>
+      </node>
+      <node id="359">
+        <label>Aspose.Words.Cpp/Layout/LayoutEntityType.h</label>
+        <link refid="_layout_entity_type_8h_source"/>
+        <childnode refid="360" relation="include">
+        </childnode>
+        <childnode refid="362" relation="include">
+        </childnode>
+      </node>
+      <node id="360">
+        <label>Aspose.Words.Cpp/Layout/LayoutEnumerator.h</label>
+        <link refid="_layout_enumerator_8h_source"/>
+        <childnode refid="361" relation="include">
+        </childnode>
+      </node>
+      <node id="353">
+        <label>Aspose.Words.Cpp/Layout/LayoutOptions.h</label>
+        <link refid="_layout_options_8h_source"/>
+        <childnode refid="354" relation="include">
+        </childnode>
+      </node>
+      <node id="365">
         <label>Aspose.Words.Cpp/Layout/Model/Callback/IPageLayoutCallback.h</label>
         <link refid="_model_2_callback_2_i_page_layout_callback_8h_source"/>
       </node>
-      <node id="370">
+      <node id="369">
         <label>Aspose.Words.Cpp/Layout/Model/Callback/PageLayoutCallbackArgs.h</label>
         <link refid="_model_2_callback_2_page_layout_callback_args_8h_source"/>
       </node>
-      <node id="372">
+      <node id="371">
         <label>Aspose.Words.Cpp/Layout/Model/Callback/PageLayoutEvent.h</label>
         <link refid="_model_2_callback_2_page_layout_event_8h_source"/>
       </node>
-      <node id="364">
+      <node id="363">
         <label>Aspose.Words.Cpp/Layout/Model/Part/PartType.h</label>
         <link refid="_model_2_part_2_part_type_8h_source"/>
       </node>
-      <node id="369">
+      <node id="368">
         <label>Aspose.Words.Cpp/Layout/PageLayoutCallbackArgs.h</label>
         <link refid="_page_layout_callback_args_8h_source"/>
-        <childnode refid="370" relation="include">
-        </childnode>
-      </node>
-      <node id="371">
-        <label>Aspose.Words.Cpp/Layout/PageLayoutEvent.h</label>
-        <link refid="_page_layout_event_8h_source"/>
-        <childnode refid="372" relation="include">
-        </childnode>
         <childnode refid="369" relation="include">
         </childnode>
       </node>
-      <node id="356">
+      <node id="370">
+        <label>Aspose.Words.Cpp/Layout/PageLayoutEvent.h</label>
+        <link refid="_page_layout_event_8h_source"/>
+        <childnode refid="371" relation="include">
+        </childnode>
+        <childnode refid="368" relation="include">
+        </childnode>
+      </node>
+      <node id="355">
         <label>Aspose.Words.Cpp/Layout/Public/CommentDisplayMode.h</label>
         <link refid="_public_2_comment_display_mode_8h_source"/>
       </node>
-      <node id="358">
+      <node id="357">
         <label>Aspose.Words.Cpp/Layout/Public/ContinuousSectionRestart.h</label>
         <link refid="_public_2_continuous_section_restart_8h_source"/>
       </node>
-      <node id="368">
+      <node id="367">
         <label>Aspose.Words.Cpp/Layout/Public/LayoutCollector.h</label>
         <link refid="_public_2_layout_collector_8h_source"/>
       </node>
-      <node id="363">
+      <node id="362">
         <label>Aspose.Words.Cpp/Layout/Public/LayoutEntityType.h</label>
         <link refid="_public_2_layout_entity_type_8h_source"/>
       </node>
-      <node id="362">
+      <node id="361">
         <label>Aspose.Words.Cpp/Layout/Public/LayoutEnumerator.h</label>
         <link refid="_public_2_layout_enumerator_8h_source"/>
       </node>
-      <node id="355">
+      <node id="354">
         <label>Aspose.Words.Cpp/Layout/Public/LayoutOptions.h</label>
         <link refid="_public_2_layout_options_8h_source"/>
       </node>
-      <node id="374">
+      <node id="373">
         <label>Aspose.Words.Cpp/Layout/Public/RevisionColor.h</label>
         <link refid="_public_2_revision_color_8h_source"/>
       </node>
@@ -2598,18 +2590,18 @@
         <label>Aspose.Words.Cpp/Layout/Public/RevisionOptions.h</label>
         <link refid="_public_2_revision_options_8h_source"/>
       </node>
-      <node id="376">
+      <node id="375">
         <label>Aspose.Words.Cpp/Layout/Public/RevisionTextEffect.h</label>
         <link refid="_public_2_revision_text_effect_8h_source"/>
       </node>
-      <node id="378">
+      <node id="377">
         <label>Aspose.Words.Cpp/Layout/Public/ShowInBalloons.h</label>
         <link refid="_public_2_show_in_balloons_8h_source"/>
       </node>
-      <node id="373">
+      <node id="372">
         <label>Aspose.Words.Cpp/Layout/RevisionColor.h</label>
         <link refid="_revision_color_8h_source"/>
-        <childnode refid="374" relation="include">
+        <childnode refid="373" relation="include">
         </childnode>
         <childnode refid="126" relation="include">
         </childnode>
@@ -2620,49 +2612,49 @@
         <childnode refid="127" relation="include">
         </childnode>
       </node>
-      <node id="375">
+      <node id="374">
         <label>Aspose.Words.Cpp/Layout/RevisionTextEffect.h</label>
         <link refid="_revision_text_effect_8h_source"/>
-        <childnode refid="376" relation="include">
+        <childnode refid="375" relation="include">
         </childnode>
         <childnode refid="126" relation="include">
         </childnode>
       </node>
-      <node id="377">
+      <node id="376">
         <label>Aspose.Words.Cpp/Layout/ShowInBalloons.h</label>
         <link refid="_show_in_balloons_8h_source"/>
-        <childnode refid="378" relation="include">
+        <childnode refid="377" relation="include">
         </childnode>
         <childnode refid="126" relation="include">
+        </childnode>
+      </node>
+      <node id="378">
+        <label>Aspose.Words.Cpp/License.h</label>
+        <link refid="_license_8h_source"/>
+        <childnode refid="379" relation="include">
         </childnode>
       </node>
       <node id="379">
-        <label>Aspose.Words.Cpp/License.h</label>
-        <link refid="_license_8h_source"/>
-        <childnode refid="380" relation="include">
-        </childnode>
-      </node>
-      <node id="380">
         <label>Aspose.Words.Cpp/Licensing/License.h</label>
         <link refid="_licensing_2_license_8h_source"/>
       </node>
-      <node id="448">
+      <node id="447">
         <label>Aspose.Words.Cpp/Licensing/Metered/Metered.h</label>
         <link refid="_licensing_2_metered_2_metered_8h_source"/>
       </node>
-      <node id="381">
+      <node id="380">
         <label>Aspose.Words.Cpp/LineNumberRestartMode.h</label>
         <link refid="_line_number_restart_mode_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="382">
+      <node id="381">
         <label>Aspose.Words.Cpp/LineSpacingRule.h</label>
         <link refid="_line_spacing_rule_8h_source"/>
         <childnode refid="163" relation="include">
         </childnode>
       </node>
-      <node id="383">
+      <node id="382">
         <label>Aspose.Words.Cpp/LineStyle.h</label>
         <link refid="_line_style_8h_source"/>
         <childnode refid="9" relation="include">
@@ -2672,23 +2664,23 @@
         <childnode refid="12" relation="include">
         </childnode>
       </node>
-      <node id="384">
+      <node id="383">
         <label>Aspose.Words.Cpp/Lists/List.h</label>
         <link refid="_list_8h_source"/>
       </node>
-      <node id="385">
+      <node id="384">
         <label>Aspose.Words.Cpp/Lists/ListCollection.h</label>
         <link refid="_list_collection_8h_source"/>
       </node>
-      <node id="386">
+      <node id="385">
         <label>Aspose.Words.Cpp/Lists/ListFormat.h</label>
         <link refid="_list_format_8h_source"/>
       </node>
-      <node id="387">
+      <node id="386">
         <label>Aspose.Words.Cpp/Lists/ListLabel.h</label>
         <link refid="_list_label_8h_source"/>
       </node>
-      <node id="463">
+      <node id="462">
         <label>Aspose.Words.Cpp/Lists/ListLabelUtil.h</label>
         <link refid="_list_label_util_8h_source"/>
         <childnode refid="279" relation="include">
@@ -2696,33 +2688,33 @@
         <childnode refid="244" relation="include">
         </childnode>
       </node>
-      <node id="388">
+      <node id="387">
         <label>Aspose.Words.Cpp/Lists/ListLevel.h</label>
         <link refid="_list_level_8h_source"/>
       </node>
-      <node id="389">
+      <node id="388">
         <label>Aspose.Words.Cpp/Lists/ListLevelAlignment.h</label>
         <link refid="_list_level_alignment_8h_source"/>
-        <childnode refid="388" relation="include">
+        <childnode refid="387" relation="include">
         </childnode>
       </node>
-      <node id="390">
+      <node id="389">
         <label>Aspose.Words.Cpp/Lists/ListLevelCollection.h</label>
         <link refid="_list_level_collection_8h_source"/>
       </node>
-      <node id="391">
+      <node id="390">
         <label>Aspose.Words.Cpp/Lists/ListTemplate.h</label>
         <link refid="_list_template_8h_source"/>
-        <childnode refid="385" relation="include">
+        <childnode refid="384" relation="include">
+        </childnode>
+      </node>
+      <node id="391">
+        <label>Aspose.Words.Cpp/Lists/ListTrailingCharacter.h</label>
+        <link refid="_list_trailing_character_8h_source"/>
+        <childnode refid="387" relation="include">
         </childnode>
       </node>
       <node id="392">
-        <label>Aspose.Words.Cpp/Lists/ListTrailingCharacter.h</label>
-        <link refid="_list_trailing_character_8h_source"/>
-        <childnode refid="388" relation="include">
-        </childnode>
-      </node>
-      <node id="393">
         <label>Aspose.Words.Cpp/LoadFormat.h</label>
         <link refid="_load_format_8h_source"/>
         <childnode refid="36" relation="include">
@@ -2731,192 +2723,192 @@
         </childnode>
         <childnode refid="133" relation="include">
         </childnode>
+        <childnode refid="393" relation="include">
+        </childnode>
         <childnode refid="394" relation="include">
         </childnode>
-        <childnode refid="395" relation="include">
-        </childnode>
       </node>
-      <node id="400">
+      <node id="399">
         <label>Aspose.Words.Cpp/Loading/BlockImportMode.h</label>
         <link refid="_block_import_mode_8h_source"/>
-        <childnode refid="394" relation="include">
+        <childnode refid="393" relation="include">
         </childnode>
       </node>
-      <node id="396">
+      <node id="395">
         <label>Aspose.Words.Cpp/Loading/ChmLoadOptions.h</label>
         <link refid="_chm_load_options_8h_source"/>
       </node>
-      <node id="401">
+      <node id="400">
         <label>Aspose.Words.Cpp/Loading/DocumentDirection.h</label>
         <link refid="_document_direction_8h_source"/>
-        <childnode refid="399" relation="include">
+        <childnode refid="398" relation="include">
         </childnode>
       </node>
-      <node id="402">
+      <node id="401">
         <label>Aspose.Words.Cpp/Loading/DocumentLoadingArgs.h</label>
         <link refid="_document_loading_args_8h_source"/>
       </node>
-      <node id="403">
+      <node id="402">
         <label>Aspose.Words.Cpp/Loading/EditingLanguage.h</label>
         <link refid="_editing_language_8h_source"/>
-        <childnode refid="404" relation="include">
+        <childnode refid="403" relation="include">
         </childnode>
       </node>
-      <node id="405">
+      <node id="404">
         <label>Aspose.Words.Cpp/Loading/HtmlControlType.h</label>
         <link refid="_html_control_type_8h_source"/>
-        <childnode refid="394" relation="include">
+        <childnode refid="393" relation="include">
         </childnode>
       </node>
-      <node id="394">
+      <node id="393">
         <label>Aspose.Words.Cpp/Loading/HtmlLoadOptions.h</label>
         <link refid="_html_load_options_8h_source"/>
       </node>
-      <node id="406">
+      <node id="405">
         <label>Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h</label>
         <link refid="_i_document_loading_callback_8h_source"/>
       </node>
-      <node id="407">
+      <node id="406">
         <label>Aspose.Words.Cpp/Loading/IResourceLoadingCallback.h</label>
         <link refid="_i_resource_loading_callback_8h_source"/>
       </node>
-      <node id="404">
+      <node id="403">
         <label>Aspose.Words.Cpp/Loading/LanguagePreferences.h</label>
         <link refid="_language_preferences_8h_source"/>
       </node>
-      <node id="395">
+      <node id="394">
         <label>Aspose.Words.Cpp/Loading/LoadOptions.h</label>
         <link refid="_load_options_8h_source"/>
-        <childnode refid="396" relation="include">
+        <childnode refid="395" relation="include">
         </childnode>
-        <childnode refid="394" relation="include">
+        <childnode refid="393" relation="include">
+        </childnode>
+        <childnode refid="396" relation="include">
         </childnode>
         <childnode refid="397" relation="include">
         </childnode>
         <childnode refid="398" relation="include">
         </childnode>
-        <childnode refid="399" relation="include">
-        </childnode>
       </node>
-      <node id="397">
+      <node id="396">
         <label>Aspose.Words.Cpp/Loading/PdfLoadOptions.h</label>
         <link refid="_pdf_load_options_8h_source"/>
       </node>
-      <node id="408">
+      <node id="407">
         <label>Aspose.Words.Cpp/Loading/ResourceLoadingAction.h</label>
         <link refid="_resource_loading_action_8h_source"/>
-        <childnode refid="407" relation="include">
+        <childnode refid="406" relation="include">
         </childnode>
       </node>
-      <node id="409">
+      <node id="408">
         <label>Aspose.Words.Cpp/Loading/ResourceLoadingArgs.h</label>
         <link refid="_resource_loading_args_8h_source"/>
       </node>
-      <node id="410">
+      <node id="409">
         <label>Aspose.Words.Cpp/Loading/ResourceType.h</label>
         <link refid="_resource_type_8h_source"/>
-        <childnode refid="409" relation="include">
+        <childnode refid="408" relation="include">
         </childnode>
       </node>
-      <node id="398">
+      <node id="397">
         <label>Aspose.Words.Cpp/Loading/RtfLoadOptions.h</label>
         <link refid="_rtf_load_options_8h_source"/>
       </node>
-      <node id="411">
+      <node id="410">
         <label>Aspose.Words.Cpp/Loading/TxtLeadingSpacesOptions.h</label>
         <link refid="_txt_leading_spaces_options_8h_source"/>
-        <childnode refid="399" relation="include">
+        <childnode refid="398" relation="include">
         </childnode>
       </node>
-      <node id="399">
+      <node id="398">
         <label>Aspose.Words.Cpp/Loading/TxtLoadOptions.h</label>
         <link refid="_txt_load_options_8h_source"/>
       </node>
-      <node id="412">
+      <node id="411">
         <label>Aspose.Words.Cpp/Loading/TxtTrailingSpacesOptions.h</label>
         <link refid="_txt_trailing_spaces_options_8h_source"/>
-        <childnode refid="399" relation="include">
+        <childnode refid="398" relation="include">
         </childnode>
       </node>
-      <node id="413">
+      <node id="412">
         <label>Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h</label>
         <link refid="_field_merging_args_8h_source"/>
       </node>
-      <node id="414">
+      <node id="413">
         <label>Aspose.Words.Cpp/MailMerging/FieldMergingArgsBase.h</label>
         <link refid="_field_merging_args_base_8h_source"/>
-        <childnode refid="413" relation="include">
+        <childnode refid="412" relation="include">
         </childnode>
-        <childnode refid="415" relation="include">
+        <childnode refid="414" relation="include">
         </childnode>
       </node>
-      <node id="416">
+      <node id="415">
         <label>Aspose.Words.Cpp/MailMerging/IFieldMergingCallback.h</label>
         <link refid="_i_field_merging_callback_8h_source"/>
       </node>
-      <node id="417">
+      <node id="416">
         <label>Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h</label>
         <link refid="_i_mail_merge_callback_8h_source"/>
       </node>
-      <node id="418">
+      <node id="417">
         <label>Aspose.Words.Cpp/MailMerging/IMailMergeDataSource.h</label>
         <link refid="_i_mail_merge_data_source_8h_source"/>
       </node>
-      <node id="419">
+      <node id="418">
         <label>Aspose.Words.Cpp/MailMerging/IMailMergeDataSourceRoot.h</label>
         <link refid="_i_mail_merge_data_source_root_8h_source"/>
       </node>
-      <node id="415">
+      <node id="414">
         <label>Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h</label>
         <link refid="_image_field_merging_args_8h_source"/>
       </node>
-      <node id="420">
+      <node id="419">
         <label>Aspose.Words.Cpp/MailMerging/MailMerge.h</label>
         <link refid="_mail_merge_8h_source"/>
       </node>
-      <node id="421">
+      <node id="420">
         <label>Aspose.Words.Cpp/MailMerging/MailMergeCleanupOptions.h</label>
         <link refid="_mail_merge_cleanup_options_8h_source"/>
-        <childnode refid="420" relation="include">
+        <childnode refid="419" relation="include">
         </childnode>
       </node>
-      <node id="422">
+      <node id="421">
         <label>Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h</label>
         <link refid="_mail_merge_region_info_8h_source"/>
       </node>
-      <node id="423">
+      <node id="422">
         <label>Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h</label>
         <link refid="_mapped_data_field_collection_8h_source"/>
       </node>
-      <node id="424">
+      <node id="423">
         <label>Aspose.Words.Cpp/Markup/CustomPart.h</label>
         <link refid="_custom_part_8h_source"/>
       </node>
-      <node id="425">
+      <node id="424">
         <label>Aspose.Words.Cpp/Markup/CustomPartCollection.h</label>
         <link refid="_custom_part_collection_8h_source"/>
       </node>
-      <node id="426">
+      <node id="425">
         <label>Aspose.Words.Cpp/Markup/CustomXmlPart.h</label>
         <link refid="_custom_xml_part_8h_source"/>
       </node>
-      <node id="427">
+      <node id="426">
         <label>Aspose.Words.Cpp/Markup/CustomXmlPartCollection.h</label>
         <link refid="_custom_xml_part_collection_8h_source"/>
       </node>
-      <node id="428">
+      <node id="427">
         <label>Aspose.Words.Cpp/Markup/CustomXmlProperty.h</label>
         <link refid="_custom_xml_property_8h_source"/>
       </node>
-      <node id="429">
+      <node id="428">
         <label>Aspose.Words.Cpp/Markup/CustomXmlPropertyCollection.h</label>
         <link refid="_custom_xml_property_collection_8h_source"/>
       </node>
-      <node id="430">
+      <node id="429">
         <label>Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h</label>
         <link refid="_custom_xml_schema_collection_8h_source"/>
       </node>
-      <node id="433">
+      <node id="432">
         <label>Aspose.Words.Cpp/Markup/IMarkupNode.h</label>
         <link refid="_i_markup_node_8h_source"/>
         <childnode refid="42" relation="include">
@@ -2924,7 +2916,7 @@
         <childnode refid="43" relation="include">
         </childnode>
       </node>
-      <node id="431">
+      <node id="430">
         <label>Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h</label>
         <link refid="_i_structured_document_tag_8h_source"/>
         <childnode refid="43" relation="include">
@@ -2932,48 +2924,48 @@
         <childnode refid="75" relation="include">
         </childnode>
       </node>
-      <node id="432">
+      <node id="431">
         <label>Aspose.Words.Cpp/Markup/MarkupLevel.h</label>
         <link refid="_markup_level_8h_source"/>
-        <childnode refid="433" relation="include">
+        <childnode refid="432" relation="include">
         </childnode>
-        <childnode refid="431" relation="include">
+        <childnode refid="430" relation="include">
         </childnode>
         <childnode refid="43" relation="include">
         </childnode>
         <childnode refid="75" relation="include">
         </childnode>
       </node>
-      <node id="434">
+      <node id="433">
         <label>Aspose.Words.Cpp/Markup/SdtAppearance.h</label>
         <link refid="_sdt_appearance_8h_source"/>
         <childnode refid="43" relation="include">
         </childnode>
       </node>
-      <node id="435">
+      <node id="434">
         <label>Aspose.Words.Cpp/Markup/SdtCalendarType.h</label>
         <link refid="_sdt_calendar_type_8h_source"/>
         <childnode refid="43" relation="include">
         </childnode>
       </node>
-      <node id="436">
+      <node id="435">
         <label>Aspose.Words.Cpp/Markup/SdtDateStorageFormat.h</label>
         <link refid="_sdt_date_storage_format_8h_source"/>
         <childnode refid="43" relation="include">
         </childnode>
       </node>
-      <node id="437">
+      <node id="436">
         <label>Aspose.Words.Cpp/Markup/SdtListItem.h</label>
         <link refid="_sdt_list_item_8h_source"/>
       </node>
-      <node id="438">
+      <node id="437">
         <label>Aspose.Words.Cpp/Markup/SdtListItemCollection.h</label>
         <link refid="_sdt_list_item_collection_8h_source"/>
       </node>
-      <node id="439">
+      <node id="438">
         <label>Aspose.Words.Cpp/Markup/SdtType.h</label>
         <link refid="_sdt_type_8h_source"/>
-        <childnode refid="431" relation="include">
+        <childnode refid="430" relation="include">
         </childnode>
         <childnode refid="43" relation="include">
         </childnode>
@@ -2988,11 +2980,11 @@
         <label>Aspose.Words.Cpp/Markup/StructuredDocumentTag.h</label>
         <link refid="_structured_document_tag_8h_source"/>
       </node>
-      <node id="440">
+      <node id="439">
         <label>Aspose.Words.Cpp/Markup/StructuredDocumentTagCollection.h</label>
         <link refid="_structured_document_tag_collection_8h_source"/>
       </node>
-      <node id="441">
+      <node id="440">
         <label>Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h</label>
         <link refid="_structured_document_tag_range_end_8h_source"/>
       </node>
@@ -3000,11 +2992,11 @@
         <label>Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeStart.h</label>
         <link refid="_structured_document_tag_range_start_8h_source"/>
       </node>
-      <node id="442">
+      <node id="441">
         <label>Aspose.Words.Cpp/Markup/XmlMapping.h</label>
         <link refid="_xml_mapping_8h_source"/>
       </node>
-      <node id="443">
+      <node id="442">
         <label>Aspose.Words.Cpp/Math/MathObjectType.h</label>
         <link refid="_math_object_type_8h_source"/>
         <childnode refid="44" relation="include">
@@ -3014,31 +3006,31 @@
         <label>Aspose.Words.Cpp/Math/OfficeMath.h</label>
         <link refid="_office_math_8h_source"/>
       </node>
-      <node id="444">
+      <node id="443">
         <label>Aspose.Words.Cpp/Math/OfficeMathDisplayType.h</label>
         <link refid="_office_math_display_type_8h_source"/>
         <childnode refid="44" relation="include">
         </childnode>
       </node>
-      <node id="445">
+      <node id="444">
         <label>Aspose.Words.Cpp/Math/OfficeMathJustification.h</label>
         <link refid="_office_math_justification_8h_source"/>
         <childnode refid="44" relation="include">
         </childnode>
       </node>
-      <node id="446">
+      <node id="445">
         <label>Aspose.Words.Cpp/MeasurementUnits.h</label>
         <link refid="_measurement_units_8h_source"/>
         <childnode refid="126" relation="include">
         </childnode>
       </node>
-      <node id="447">
+      <node id="446">
         <label>Aspose.Words.Cpp/Metered.h</label>
         <link refid="_metered_8h_source"/>
-        <childnode refid="448" relation="include">
+        <childnode refid="447" relation="include">
         </childnode>
       </node>
-      <node id="449">
+      <node id="448">
         <label>Aspose.Words.Cpp/Node.h</label>
         <link refid="_node_8h_source"/>
         <childnode refid="7" relation="include">
@@ -3055,9 +3047,9 @@
         </childnode>
         <childnode refid="166" relation="include">
         </childnode>
-        <childnode refid="347" relation="include">
+        <childnode refid="346" relation="include">
         </childnode>
-        <childnode refid="441" relation="include">
+        <childnode refid="440" relation="include">
         </childnode>
         <childnode refid="75" relation="include">
         </childnode>
@@ -3065,18 +3057,18 @@
         </childnode>
         <childnode refid="45" relation="include">
         </childnode>
+        <childnode refid="449" relation="include">
+        </childnode>
         <childnode refid="450" relation="include">
         </childnode>
-        <childnode refid="451" relation="include">
+      </node>
+      <node id="451">
+        <label>Aspose.Words.Cpp/NodeChangingAction.h</label>
+        <link refid="_node_changing_action_8h_source"/>
+        <childnode refid="452" relation="include">
         </childnode>
       </node>
       <node id="452">
-        <label>Aspose.Words.Cpp/NodeChangingAction.h</label>
-        <link refid="_node_changing_action_8h_source"/>
-        <childnode refid="453" relation="include">
-        </childnode>
-      </node>
-      <node id="453">
         <label>Aspose.Words.Cpp/NodeChangingArgs.h</label>
         <link refid="_node_changing_args_8h_source"/>
       </node>
@@ -3120,15 +3112,15 @@
         <childnode refid="75" relation="include">
         </childnode>
       </node>
-      <node id="344">
+      <node id="343">
         <label>Aspose.Words.Cpp/NodeImporter.h</label>
         <link refid="_node_importer_8h_source"/>
       </node>
-      <node id="450">
+      <node id="449">
         <label>Aspose.Words.Cpp/NodeList.h</label>
         <link refid="_node_list_8h_source"/>
       </node>
-      <node id="454">
+      <node id="453">
         <label>Aspose.Words.Cpp/NodeType.h</label>
         <link refid="_node_type_8h_source"/>
         <childnode refid="4" relation="include">
@@ -3173,25 +3165,25 @@
         </childnode>
         <childnode refid="43" relation="include">
         </childnode>
-        <childnode refid="441" relation="include">
+        <childnode refid="440" relation="include">
         </childnode>
         <childnode refid="75" relation="include">
         </childnode>
         <childnode refid="44" relation="include">
         </childnode>
-        <childnode refid="449" relation="include">
+        <childnode refid="448" relation="include">
         </childnode>
         <childnode refid="41" relation="include">
         </childnode>
         <childnode refid="54" relation="include">
         </childnode>
-        <childnode refid="348" relation="include">
+        <childnode refid="347" relation="include">
         </childnode>
         <childnode refid="55" relation="include">
         </childnode>
-        <childnode refid="349" relation="include">
+        <childnode refid="348" relation="include">
         </childnode>
-        <childnode refid="451" relation="include">
+        <childnode refid="450" relation="include">
         </childnode>
         <childnode refid="58" relation="include">
         </childnode>
@@ -3200,41 +3192,41 @@
         <childnode refid="12" relation="include">
         </childnode>
       </node>
-      <node id="455">
+      <node id="454">
         <label>Aspose.Words.Cpp/Notes/EndnoteOptions.h</label>
         <link refid="_endnote_options_8h_source"/>
       </node>
-      <node id="456">
+      <node id="455">
         <label>Aspose.Words.Cpp/Notes/EndnotePosition.h</label>
         <link refid="_endnote_position_8h_source"/>
-        <childnode refid="455" relation="include">
+        <childnode refid="454" relation="include">
         </childnode>
       </node>
       <node id="41">
         <label>Aspose.Words.Cpp/Notes/Footnote.h</label>
         <link refid="_footnote_8h_source"/>
       </node>
-      <node id="457">
+      <node id="456">
         <label>Aspose.Words.Cpp/Notes/FootnoteNumberingRule.h</label>
         <link refid="_footnote_numbering_rule_8h_source"/>
-        <childnode refid="455" relation="include">
+        <childnode refid="454" relation="include">
+        </childnode>
+        <childnode refid="457" relation="include">
         </childnode>
         <childnode refid="458" relation="include">
         </childnode>
-        <childnode refid="459" relation="include">
-        </childnode>
       </node>
-      <node id="458">
+      <node id="457">
         <label>Aspose.Words.Cpp/Notes/FootnoteOptions.h</label>
         <link refid="_footnote_options_8h_source"/>
       </node>
-      <node id="460">
+      <node id="459">
         <label>Aspose.Words.Cpp/Notes/FootnotePosition.h</label>
         <link refid="_footnote_position_8h_source"/>
-        <childnode refid="458" relation="include">
+        <childnode refid="457" relation="include">
         </childnode>
       </node>
-      <node id="461">
+      <node id="460">
         <label>Aspose.Words.Cpp/Notes/FootnoteType.h</label>
         <link refid="_footnote_type_8h_source"/>
         <childnode refid="14" relation="include">
@@ -3242,53 +3234,53 @@
         <childnode refid="41" relation="include">
         </childnode>
       </node>
-      <node id="459">
+      <node id="458">
         <label>Aspose.Words.Cpp/Notes/IFootnoteOptions.h</label>
         <link refid="_i_footnote_options_8h_source"/>
-        <childnode refid="455" relation="include">
+        <childnode refid="454" relation="include">
         </childnode>
-        <childnode refid="458" relation="include">
+        <childnode refid="457" relation="include">
         </childnode>
       </node>
-      <node id="462">
+      <node id="461">
         <label>Aspose.Words.Cpp/NumberStyle.h</label>
         <link refid="_number_style_8h_source"/>
         <childnode refid="279" relation="include">
         </childnode>
         <childnode refid="244" relation="include">
         </childnode>
-        <childnode refid="463" relation="include">
+        <childnode refid="462" relation="include">
         </childnode>
-        <childnode refid="388" relation="include">
+        <childnode refid="387" relation="include">
         </childnode>
-        <childnode refid="455" relation="include">
+        <childnode refid="454" relation="include">
+        </childnode>
+        <childnode refid="457" relation="include">
         </childnode>
         <childnode refid="458" relation="include">
-        </childnode>
-        <childnode refid="459" relation="include">
         </childnode>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="464">
+      <node id="463">
         <label>Aspose.Words.Cpp/Orientation.h</label>
         <link refid="_orientation_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="465">
+      <node id="464">
         <label>Aspose.Words.Cpp/OutlineLevel.h</label>
         <link refid="_outline_level_8h_source"/>
         <childnode refid="163" relation="include">
         </childnode>
       </node>
-      <node id="466">
+      <node id="465">
         <label>Aspose.Words.Cpp/PageBorderAppliesTo.h</label>
         <link refid="_page_border_applies_to_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="467">
+      <node id="466">
         <label>Aspose.Words.Cpp/PageBorderDistanceFrom.h</label>
         <link refid="_page_border_distance_from_8h_source"/>
         <childnode refid="25" relation="include">
@@ -3298,25 +3290,25 @@
         <label>Aspose.Words.Cpp/PageSetup.h</label>
         <link refid="_page_setup_8h_source"/>
       </node>
-      <node id="468">
+      <node id="467">
         <label>Aspose.Words.Cpp/PageVerticalAlignment.h</label>
         <link refid="_page_vertical_alignment_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="469">
+      <node id="468">
         <label>Aspose.Words.Cpp/PaperSize.h</label>
         <link refid="_paper_size_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
-        <childnode refid="470" relation="include">
+        <childnode refid="469" relation="include">
         </childnode>
       </node>
       <node id="54">
         <label>Aspose.Words.Cpp/Paragraph.h</label>
         <link refid="_paragraph_8h_source"/>
       </node>
-      <node id="471">
+      <node id="470">
         <label>Aspose.Words.Cpp/ParagraphAlignment.h</label>
         <link refid="_paragraph_alignment_8h_source"/>
         <childnode refid="88" relation="include">
@@ -3332,169 +3324,163 @@
         <label>Aspose.Words.Cpp/ParagraphFormat.h</label>
         <link refid="_paragraph_format_8h_source"/>
       </node>
-      <node id="472">
+      <node id="471">
         <label>Aspose.Words.Cpp/PlainTextDocument.h</label>
         <link refid="_plain_text_document_8h_source"/>
       </node>
-      <node id="473">
+      <node id="472">
         <label>Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h</label>
         <link refid="_built_in_document_properties_8h_source"/>
       </node>
-      <node id="474">
+      <node id="473">
         <label>Aspose.Words.Cpp/Properties/CustomDocumentProperties.h</label>
         <link refid="_custom_document_properties_8h_source"/>
       </node>
-      <node id="475">
+      <node id="474">
         <label>Aspose.Words.Cpp/Properties/DocumentProperty.h</label>
         <link refid="_document_property_8h_source"/>
       </node>
-      <node id="476">
+      <node id="475">
         <label>Aspose.Words.Cpp/Properties/DocumentPropertyCollection.h</label>
         <link refid="_document_property_collection_8h_source"/>
+        <childnode refid="472" relation="include">
+        </childnode>
         <childnode refid="473" relation="include">
         </childnode>
-        <childnode refid="474" relation="include">
+      </node>
+      <node id="476">
+        <label>Aspose.Words.Cpp/Properties/DocumentSecurity.h</label>
+        <link refid="_document_security_8h_source"/>
+        <childnode refid="472" relation="include">
         </childnode>
       </node>
       <node id="477">
-        <label>Aspose.Words.Cpp/Properties/DocumentSecurity.h</label>
-        <link refid="_document_security_8h_source"/>
-        <childnode refid="473" relation="include">
+        <label>Aspose.Words.Cpp/Properties/PropertyType.h</label>
+        <link refid="_property_type_8h_source"/>
+        <childnode refid="474" relation="include">
         </childnode>
       </node>
       <node id="478">
-        <label>Aspose.Words.Cpp/Properties/PropertyType.h</label>
-        <link refid="_property_type_8h_source"/>
-        <childnode refid="475" relation="include">
-        </childnode>
-      </node>
-      <node id="479">
         <label>Aspose.Words.Cpp/ProtectionType.h</label>
         <link refid="_protection_type_8h_source"/>
         <childnode refid="36" relation="include">
         </childnode>
       </node>
-      <node id="642">
+      <node id="640">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaModule.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_module_8h_source"/>
       </node>
-      <node id="644">
+      <node id="642">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaModuleCollection.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_module_collection_8h_source"/>
       </node>
-      <node id="646">
+      <node id="644">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaModuleType.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_module_type_8h_source"/>
       </node>
-      <node id="648">
+      <node id="646">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaProject.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_project_8h_source"/>
       </node>
-      <node id="650">
+      <node id="648">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaReference.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_reference_8h_source"/>
       </node>
-      <node id="652">
+      <node id="650">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaReferenceCollection.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_reference_collection_8h_source"/>
       </node>
-      <node id="654">
+      <node id="652">
         <label>Aspose.Words.Cpp/RW/Ole/Vba/VbaReferenceType.h</label>
         <link refid="_r_w_2_ole_2_vba_2_vba_reference_type_8h_source"/>
       </node>
-      <node id="480">
+      <node id="479">
         <label>Aspose.Words.Cpp/Range.h</label>
         <link refid="_range_8h_source"/>
       </node>
-      <node id="481">
+      <node id="480">
         <label>Aspose.Words.Cpp/Rendering/NodeRendererBase.h</label>
         <link refid="_node_renderer_base_8h_source"/>
+        <childnode refid="481" relation="include">
+        </childnode>
         <childnode refid="482" relation="include">
         </childnode>
-        <childnode refid="483" relation="include">
-        </childnode>
       </node>
-      <node id="482">
+      <node id="481">
         <label>Aspose.Words.Cpp/Rendering/OfficeMathRenderer.h</label>
         <link refid="_office_math_renderer_8h_source"/>
       </node>
-      <node id="470">
+      <node id="469">
         <label>Aspose.Words.Cpp/Rendering/PageInfo.h</label>
         <link refid="_page_info_8h_source"/>
       </node>
-      <node id="484">
-        <label>Aspose.Words.Cpp/Rendering/Pdf/Encryption/PdfUserAccessPermissions.h</label>
-        <link refid="_pdf_user_access_permissions_8h_source"/>
-        <childnode refid="485" relation="include">
-        </childnode>
-      </node>
-      <node id="483">
+      <node id="482">
         <label>Aspose.Words.Cpp/Rendering/ShapeRenderer.h</label>
         <link refid="_shape_renderer_8h_source"/>
       </node>
-      <node id="487">
+      <node id="483">
         <label>Aspose.Words.Cpp/Rendering/ThumbnailGeneratingOptions.h</label>
         <link refid="_thumbnail_generating_options_8h_source"/>
       </node>
-      <node id="488">
+      <node id="484">
         <label>Aspose.Words.Cpp/Replacing/FindReplaceDirection.h</label>
         <link refid="_find_replace_direction_8h_source"/>
-        <childnode refid="489" relation="include">
+        <childnode refid="485" relation="include">
         </childnode>
       </node>
-      <node id="489">
+      <node id="485">
         <label>Aspose.Words.Cpp/Replacing/FindReplaceOptions.h</label>
         <link refid="_find_replace_options_8h_source"/>
       </node>
-      <node id="490">
+      <node id="486">
         <label>Aspose.Words.Cpp/Replacing/IReplacingCallback.h</label>
         <link refid="_i_replacing_callback_8h_source"/>
       </node>
-      <node id="491">
+      <node id="487">
         <label>Aspose.Words.Cpp/Replacing/ReplaceAction.h</label>
         <link refid="_replace_action_8h_source"/>
-        <childnode refid="490" relation="include">
+        <childnode refid="486" relation="include">
         </childnode>
       </node>
-      <node id="492">
+      <node id="488">
         <label>Aspose.Words.Cpp/Replacing/ReplacingArgs.h</label>
         <link refid="_replacing_args_8h_source"/>
       </node>
-      <node id="493">
+      <node id="489">
         <label>Aspose.Words.Cpp/Revision.h</label>
         <link refid="_revision_8h_source"/>
       </node>
-      <node id="494">
+      <node id="490">
         <label>Aspose.Words.Cpp/RevisionCollection.h</label>
         <link refid="_revision_collection_8h_source"/>
       </node>
-      <node id="495">
+      <node id="491">
         <label>Aspose.Words.Cpp/RevisionGroup.h</label>
         <link refid="_revision_group_8h_source"/>
       </node>
-      <node id="496">
+      <node id="492">
         <label>Aspose.Words.Cpp/RevisionGroupCollection.h</label>
         <link refid="_revision_group_collection_8h_source"/>
       </node>
-      <node id="497">
+      <node id="493">
         <label>Aspose.Words.Cpp/RevisionType.h</label>
         <link refid="_revision_type_8h_source"/>
-        <childnode refid="493" relation="include">
+        <childnode refid="489" relation="include">
         </childnode>
-        <childnode refid="495" relation="include">
+        <childnode refid="491" relation="include">
         </childnode>
       </node>
-      <node id="498">
+      <node id="494">
         <label>Aspose.Words.Cpp/RevisionsView.h</label>
         <link refid="_revisions_view_8h_source"/>
         <childnode refid="36" relation="include">
         </childnode>
-        <childnode refid="499" relation="include">
+        <childnode refid="495" relation="include">
         </childnode>
-        <childnode refid="463" relation="include">
+        <childnode refid="462" relation="include">
         </childnode>
       </node>
-      <node id="348">
+      <node id="347">
         <label>Aspose.Words.Cpp/Run.h</label>
         <link refid="_run_8h_source"/>
       </node>
@@ -3502,14 +3488,22 @@
         <label>Aspose.Words.Cpp/RunCollection.h</label>
         <link refid="_run_collection_8h_source"/>
       </node>
-      <node id="502">
+      <node id="498">
         <label>Aspose.Words.Cpp/SaveFormat.h</label>
         <link refid="_save_format_8h_source"/>
         <childnode refid="36" relation="include">
         </childnode>
         <childnode refid="133" relation="include">
         </childnode>
-        <childnode refid="449" relation="include">
+        <childnode refid="448" relation="include">
+        </childnode>
+        <childnode refid="499" relation="include">
+        </childnode>
+        <childnode refid="500" relation="include">
+        </childnode>
+        <childnode refid="501" relation="include">
+        </childnode>
+        <childnode refid="502" relation="include">
         </childnode>
         <childnode refid="503" relation="include">
         </childnode>
@@ -3527,7 +3521,123 @@
         </childnode>
         <childnode refid="510" relation="include">
         </childnode>
+        <childnode refid="512" relation="include">
+        </childnode>
+        <childnode refid="516" relation="include">
+        </childnode>
+        <childnode refid="517" relation="include">
+        </childnode>
+        <childnode refid="513" relation="include">
+        </childnode>
+        <childnode refid="518" relation="include">
+        </childnode>
+        <childnode refid="514" relation="include">
+        </childnode>
+      </node>
+      <node id="519">
+        <label>Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h</label>
+        <link refid="_bookmarks_outline_level_collection_8h_source"/>
+      </node>
+      <node id="520">
+        <label>Aspose.Words.Cpp/Saving/ColorMode.h</label>
+        <link refid="_color_mode_8h_source"/>
         <childnode refid="511" relation="include">
+        </childnode>
+      </node>
+      <node id="521">
+        <label>Aspose.Words.Cpp/Saving/CompressionLevel.h</label>
+        <link refid="_compression_level_8h_source"/>
+        <childnode refid="505" relation="include">
+        </childnode>
+      </node>
+      <node id="522">
+        <label>Aspose.Words.Cpp/Saving/CssSavingArgs.h</label>
+        <link refid="_css_saving_args_8h_source"/>
+      </node>
+      <node id="523">
+        <label>Aspose.Words.Cpp/Saving/CssStyleSheetType.h</label>
+        <link refid="_css_style_sheet_type_8h_source"/>
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="524">
+        <label>Aspose.Words.Cpp/Saving/Dml3DEffectsRenderingMode.h</label>
+        <link refid="_dml3_d_effects_rendering_mode_8h_source"/>
+        <childnode refid="510" relation="include">
+        </childnode>
+      </node>
+      <node id="525">
+        <label>Aspose.Words.Cpp/Saving/DmlEffectsRenderingMode.h</label>
+        <link refid="_dml_effects_rendering_mode_8h_source"/>
+        <childnode refid="507" relation="include">
+        </childnode>
+        <childnode refid="510" relation="include">
+        </childnode>
+      </node>
+      <node id="526">
+        <label>Aspose.Words.Cpp/Saving/DmlRenderingMode.h</label>
+        <link refid="_dml_rendering_mode_8h_source"/>
+        <childnode refid="510" relation="include">
+        </childnode>
+      </node>
+      <node id="499">
+        <label>Aspose.Words.Cpp/Saving/DocSaveOptions.h</label>
+        <link refid="_doc_save_options_8h_source"/>
+      </node>
+      <node id="527">
+        <label>Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h</label>
+        <link refid="_document_part_saving_args_8h_source"/>
+      </node>
+      <node id="528">
+        <label>Aspose.Words.Cpp/Saving/DocumentSavingArgs.h</label>
+        <link refid="_document_saving_args_8h_source"/>
+      </node>
+      <node id="529">
+        <label>Aspose.Words.Cpp/Saving/DocumentSplitCriteria.h</label>
+        <link refid="_document_split_criteria_8h_source"/>
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="530">
+        <label>Aspose.Words.Cpp/Saving/DownsampleOptions.h</label>
+        <link refid="_downsample_options_8h_source"/>
+      </node>
+      <node id="531">
+        <label>Aspose.Words.Cpp/Saving/EmfPlusDualRenderingMode.h</label>
+        <link refid="_emf_plus_dual_rendering_mode_8h_source"/>
+        <childnode refid="532" relation="include">
+        </childnode>
+      </node>
+      <node id="533">
+        <label>Aspose.Words.Cpp/Saving/ExportFontFormat.h</label>
+        <link refid="_export_font_format_8h_source"/>
+        <childnode refid="500" relation="include">
+        </childnode>
+      </node>
+      <node id="534">
+        <label>Aspose.Words.Cpp/Saving/ExportHeadersFootersMode.h</label>
+        <link refid="_export_headers_footers_mode_8h_source"/>
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="535">
+        <label>Aspose.Words.Cpp/Saving/ExportListLabels.h</label>
+        <link refid="_export_list_labels_8h_source"/>
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="511">
+        <label>Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h</label>
+        <link refid="_fixed_page_save_options_8h_source"/>
+        <childnode refid="500" relation="include">
+        </childnode>
+        <childnode refid="502" relation="include">
+        </childnode>
+        <childnode refid="506" relation="include">
+        </childnode>
+        <childnode refid="507" relation="include">
+        </childnode>
+        <childnode refid="508" relation="include">
         </childnode>
         <childnode refid="512" relation="include">
         </childnode>
@@ -3535,472 +3645,348 @@
         </childnode>
         <childnode refid="514" relation="include">
         </childnode>
-        <childnode refid="516" relation="include">
-        </childnode>
-        <childnode refid="520" relation="include">
-        </childnode>
-        <childnode refid="521" relation="include">
-        </childnode>
-        <childnode refid="517" relation="include">
-        </childnode>
-        <childnode refid="522" relation="include">
-        </childnode>
-        <childnode refid="518" relation="include">
-        </childnode>
       </node>
-      <node id="523">
-        <label>Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h</label>
-        <link refid="_bookmarks_outline_level_collection_8h_source"/>
-      </node>
-      <node id="524">
-        <label>Aspose.Words.Cpp/Saving/ColorMode.h</label>
-        <link refid="_color_mode_8h_source"/>
-        <childnode refid="515" relation="include">
-        </childnode>
-      </node>
-      <node id="525">
-        <label>Aspose.Words.Cpp/Saving/CompressionLevel.h</label>
-        <link refid="_compression_level_8h_source"/>
-        <childnode refid="509" relation="include">
-        </childnode>
-      </node>
-      <node id="526">
-        <label>Aspose.Words.Cpp/Saving/CssSavingArgs.h</label>
-        <link refid="_css_saving_args_8h_source"/>
-      </node>
-      <node id="527">
-        <label>Aspose.Words.Cpp/Saving/CssStyleSheetType.h</label>
-        <link refid="_css_style_sheet_type_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="528">
-        <label>Aspose.Words.Cpp/Saving/Dml3DEffectsRenderingMode.h</label>
-        <link refid="_dml3_d_effects_rendering_mode_8h_source"/>
-        <childnode refid="514" relation="include">
-        </childnode>
-      </node>
-      <node id="529">
-        <label>Aspose.Words.Cpp/Saving/DmlEffectsRenderingMode.h</label>
-        <link refid="_dml_effects_rendering_mode_8h_source"/>
-        <childnode refid="511" relation="include">
-        </childnode>
-        <childnode refid="514" relation="include">
-        </childnode>
-      </node>
-      <node id="530">
-        <label>Aspose.Words.Cpp/Saving/DmlRenderingMode.h</label>
-        <link refid="_dml_rendering_mode_8h_source"/>
-        <childnode refid="514" relation="include">
-        </childnode>
-      </node>
-      <node id="503">
-        <label>Aspose.Words.Cpp/Saving/DocSaveOptions.h</label>
-        <link refid="_doc_save_options_8h_source"/>
-      </node>
-      <node id="531">
-        <label>Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h</label>
-        <link refid="_document_part_saving_args_8h_source"/>
-      </node>
-      <node id="532">
-        <label>Aspose.Words.Cpp/Saving/DocumentSavingArgs.h</label>
-        <link refid="_document_saving_args_8h_source"/>
-      </node>
-      <node id="533">
-        <label>Aspose.Words.Cpp/Saving/DocumentSplitCriteria.h</label>
-        <link refid="_document_split_criteria_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="534">
-        <label>Aspose.Words.Cpp/Saving/DownsampleOptions.h</label>
-        <link refid="_downsample_options_8h_source"/>
-      </node>
-      <node id="535">
-        <label>Aspose.Words.Cpp/Saving/EmfPlusDualRenderingMode.h</label>
-        <link refid="_emf_plus_dual_rendering_mode_8h_source"/>
-        <childnode refid="536" relation="include">
-        </childnode>
-      </node>
-      <node id="537">
-        <label>Aspose.Words.Cpp/Saving/ExportFontFormat.h</label>
-        <link refid="_export_font_format_8h_source"/>
-        <childnode refid="504" relation="include">
-        </childnode>
-      </node>
-      <node id="538">
-        <label>Aspose.Words.Cpp/Saving/ExportHeadersFootersMode.h</label>
-        <link refid="_export_headers_footers_mode_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="539">
-        <label>Aspose.Words.Cpp/Saving/ExportListLabels.h</label>
-        <link refid="_export_list_labels_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="515">
-        <label>Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h</label>
-        <link refid="_fixed_page_save_options_8h_source"/>
-        <childnode refid="504" relation="include">
-        </childnode>
-        <childnode refid="506" relation="include">
-        </childnode>
-        <childnode refid="510" relation="include">
-        </childnode>
-        <childnode refid="511" relation="include">
-        </childnode>
-        <childnode refid="512" relation="include">
-        </childnode>
-        <childnode refid="516" relation="include">
-        </childnode>
-        <childnode refid="517" relation="include">
-        </childnode>
-        <childnode refid="518" relation="include">
-        </childnode>
-      </node>
-      <node id="540">
+      <node id="536">
         <label>Aspose.Words.Cpp/Saving/FontSavingArgs.h</label>
         <link refid="_font_saving_args_8h_source"/>
       </node>
-      <node id="541">
+      <node id="537">
         <label>Aspose.Words.Cpp/Saving/HeaderFooterBookmarksExportMode.h</label>
         <link refid="_header_footer_bookmarks_export_mode_8h_source"/>
-        <childnode refid="511" relation="include">
+        <childnode refid="507" relation="include">
         </childnode>
       </node>
-      <node id="542">
+      <node id="538">
         <label>Aspose.Words.Cpp/Saving/HtmlElementSizeOutputMode.h</label>
         <link refid="_html_element_size_output_mode_8h_source"/>
-        <childnode refid="505" relation="include">
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="539">
+        <label>Aspose.Words.Cpp/Saving/HtmlFixedPageHorizontalAlignment.h</label>
+        <link refid="_html_fixed_page_horizontal_alignment_8h_source"/>
+        <childnode refid="500" relation="include">
+        </childnode>
+      </node>
+      <node id="500">
+        <label>Aspose.Words.Cpp/Saving/HtmlFixedSaveOptions.h</label>
+        <link refid="_html_fixed_save_options_8h_source"/>
+      </node>
+      <node id="540">
+        <label>Aspose.Words.Cpp/Saving/HtmlMetafileFormat.h</label>
+        <link refid="_html_metafile_format_8h_source"/>
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="541">
+        <label>Aspose.Words.Cpp/Saving/HtmlOfficeMathOutputMode.h</label>
+        <link refid="_html_office_math_output_mode_8h_source"/>
+        <childnode refid="501" relation="include">
+        </childnode>
+      </node>
+      <node id="501">
+        <label>Aspose.Words.Cpp/Saving/HtmlSaveOptions.h</label>
+        <link refid="_html_save_options_8h_source"/>
+      </node>
+      <node id="542">
+        <label>Aspose.Words.Cpp/Saving/HtmlVersion.h</label>
+        <link refid="_html_version_8h_source"/>
+        <childnode refid="501" relation="include">
         </childnode>
       </node>
       <node id="543">
-        <label>Aspose.Words.Cpp/Saving/HtmlFixedPageHorizontalAlignment.h</label>
-        <link refid="_html_fixed_page_horizontal_alignment_8h_source"/>
+        <label>Aspose.Words.Cpp/Saving/ICssSavingCallback.h</label>
+        <link refid="_i_css_saving_callback_8h_source"/>
+      </node>
+      <node id="544">
+        <label>Aspose.Words.Cpp/Saving/IDocumentPartSavingCallback.h</label>
+        <link refid="_i_document_part_saving_callback_8h_source"/>
+      </node>
+      <node id="545">
+        <label>Aspose.Words.Cpp/Saving/IDocumentSavingCallback.h</label>
+        <link refid="_i_document_saving_callback_8h_source"/>
+      </node>
+      <node id="546">
+        <label>Aspose.Words.Cpp/Saving/IFontSavingCallback.h</label>
+        <link refid="_i_font_saving_callback_8h_source"/>
+      </node>
+      <node id="547">
+        <label>Aspose.Words.Cpp/Saving/IImageSavingCallback.h</label>
+        <link refid="_i_image_saving_callback_8h_source"/>
+      </node>
+      <node id="548">
+        <label>Aspose.Words.Cpp/Saving/IPageSavingCallback.h</label>
+        <link refid="_i_page_saving_callback_8h_source"/>
+      </node>
+      <node id="549">
+        <label>Aspose.Words.Cpp/Saving/IResourceSavingCallback.h</label>
+        <link refid="_i_resource_saving_callback_8h_source"/>
+      </node>
+      <node id="550">
+        <label>Aspose.Words.Cpp/Saving/ImageBinarizationMethod.h</label>
+        <link refid="_image_binarization_method_8h_source"/>
+        <childnode refid="502" relation="include">
+        </childnode>
+      </node>
+      <node id="551">
+        <label>Aspose.Words.Cpp/Saving/ImageColorMode.h</label>
+        <link refid="_image_color_mode_8h_source"/>
+        <childnode refid="502" relation="include">
+        </childnode>
+      </node>
+      <node id="552">
+        <label>Aspose.Words.Cpp/Saving/ImagePixelFormat.h</label>
+        <link refid="_image_pixel_format_8h_source"/>
+        <childnode refid="502" relation="include">
+        </childnode>
+      </node>
+      <node id="502">
+        <label>Aspose.Words.Cpp/Saving/ImageSaveOptions.h</label>
+        <link refid="_image_save_options_8h_source"/>
+      </node>
+      <node id="553">
+        <label>Aspose.Words.Cpp/Saving/ImageSavingArgs.h</label>
+        <link refid="_image_saving_args_8h_source"/>
+      </node>
+      <node id="554">
+        <label>Aspose.Words.Cpp/Saving/ImlRenderingMode.h</label>
+        <link refid="_iml_rendering_mode_8h_source"/>
+        <childnode refid="510" relation="include">
+        </childnode>
+      </node>
+      <node id="503">
+        <label>Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h</label>
+        <link refid="_markdown_save_options_8h_source"/>
+      </node>
+      <node id="555">
+        <label>Aspose.Words.Cpp/Saving/MetafileRenderingMode.h</label>
+        <link refid="_metafile_rendering_mode_8h_source"/>
+        <childnode refid="532" relation="include">
+        </childnode>
+      </node>
+      <node id="532">
+        <label>Aspose.Words.Cpp/Saving/MetafileRenderingOptions.h</label>
+        <link refid="_metafile_rendering_options_8h_source"/>
+      </node>
+      <node id="556">
+        <label>Aspose.Words.Cpp/Saving/NumeralFormat.h</label>
+        <link refid="_numeral_format_8h_source"/>
+        <childnode refid="511" relation="include">
+        </childnode>
+      </node>
+      <node id="557">
+        <label>Aspose.Words.Cpp/Saving/OdtSaveMeasureUnit.h</label>
+        <link refid="_odt_save_measure_unit_8h_source"/>
         <childnode refid="504" relation="include">
         </childnode>
       </node>
       <node id="504">
-        <label>Aspose.Words.Cpp/Saving/HtmlFixedSaveOptions.h</label>
-        <link refid="_html_fixed_save_options_8h_source"/>
-      </node>
-      <node id="544">
-        <label>Aspose.Words.Cpp/Saving/HtmlMetafileFormat.h</label>
-        <link refid="_html_metafile_format_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="545">
-        <label>Aspose.Words.Cpp/Saving/HtmlOfficeMathOutputMode.h</label>
-        <link refid="_html_office_math_output_mode_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="505">
-        <label>Aspose.Words.Cpp/Saving/HtmlSaveOptions.h</label>
-        <link refid="_html_save_options_8h_source"/>
-      </node>
-      <node id="546">
-        <label>Aspose.Words.Cpp/Saving/HtmlVersion.h</label>
-        <link refid="_html_version_8h_source"/>
-        <childnode refid="505" relation="include">
-        </childnode>
-      </node>
-      <node id="547">
-        <label>Aspose.Words.Cpp/Saving/ICssSavingCallback.h</label>
-        <link refid="_i_css_saving_callback_8h_source"/>
-      </node>
-      <node id="548">
-        <label>Aspose.Words.Cpp/Saving/IDocumentPartSavingCallback.h</label>
-        <link refid="_i_document_part_saving_callback_8h_source"/>
-      </node>
-      <node id="549">
-        <label>Aspose.Words.Cpp/Saving/IDocumentSavingCallback.h</label>
-        <link refid="_i_document_saving_callback_8h_source"/>
-      </node>
-      <node id="550">
-        <label>Aspose.Words.Cpp/Saving/IFontSavingCallback.h</label>
-        <link refid="_i_font_saving_callback_8h_source"/>
-      </node>
-      <node id="551">
-        <label>Aspose.Words.Cpp/Saving/IImageSavingCallback.h</label>
-        <link refid="_i_image_saving_callback_8h_source"/>
-      </node>
-      <node id="552">
-        <label>Aspose.Words.Cpp/Saving/IPageSavingCallback.h</label>
-        <link refid="_i_page_saving_callback_8h_source"/>
-      </node>
-      <node id="553">
-        <label>Aspose.Words.Cpp/Saving/IResourceSavingCallback.h</label>
-        <link refid="_i_resource_saving_callback_8h_source"/>
-      </node>
-      <node id="554">
-        <label>Aspose.Words.Cpp/Saving/ImageBinarizationMethod.h</label>
-        <link refid="_image_binarization_method_8h_source"/>
-        <childnode refid="506" relation="include">
-        </childnode>
-      </node>
-      <node id="555">
-        <label>Aspose.Words.Cpp/Saving/ImageColorMode.h</label>
-        <link refid="_image_color_mode_8h_source"/>
-        <childnode refid="506" relation="include">
-        </childnode>
-      </node>
-      <node id="556">
-        <label>Aspose.Words.Cpp/Saving/ImagePixelFormat.h</label>
-        <link refid="_image_pixel_format_8h_source"/>
-        <childnode refid="506" relation="include">
-        </childnode>
-      </node>
-      <node id="506">
-        <label>Aspose.Words.Cpp/Saving/ImageSaveOptions.h</label>
-        <link refid="_image_save_options_8h_source"/>
-      </node>
-      <node id="557">
-        <label>Aspose.Words.Cpp/Saving/ImageSavingArgs.h</label>
-        <link refid="_image_saving_args_8h_source"/>
-      </node>
-      <node id="558">
-        <label>Aspose.Words.Cpp/Saving/ImlRenderingMode.h</label>
-        <link refid="_iml_rendering_mode_8h_source"/>
-        <childnode refid="514" relation="include">
-        </childnode>
-      </node>
-      <node id="507">
-        <label>Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h</label>
-        <link refid="_markdown_save_options_8h_source"/>
-      </node>
-      <node id="559">
-        <label>Aspose.Words.Cpp/Saving/MetafileRenderingMode.h</label>
-        <link refid="_metafile_rendering_mode_8h_source"/>
-        <childnode refid="536" relation="include">
-        </childnode>
-      </node>
-      <node id="536">
-        <label>Aspose.Words.Cpp/Saving/MetafileRenderingOptions.h</label>
-        <link refid="_metafile_rendering_options_8h_source"/>
-      </node>
-      <node id="560">
-        <label>Aspose.Words.Cpp/Saving/NumeralFormat.h</label>
-        <link refid="_numeral_format_8h_source"/>
-        <childnode refid="515" relation="include">
-        </childnode>
-      </node>
-      <node id="561">
-        <label>Aspose.Words.Cpp/Saving/OdtSaveMeasureUnit.h</label>
-        <link refid="_odt_save_measure_unit_8h_source"/>
-        <childnode refid="508" relation="include">
-        </childnode>
-      </node>
-      <node id="508">
         <label>Aspose.Words.Cpp/Saving/OdtSaveOptions.h</label>
         <link refid="_odt_save_options_8h_source"/>
       </node>
-      <node id="562">
+      <node id="558">
         <label>Aspose.Words.Cpp/Saving/OoxmlCompliance.h</label>
         <link refid="_ooxml_compliance_8h_source"/>
         <childnode refid="36" relation="include">
         </childnode>
-        <childnode refid="509" relation="include">
+        <childnode refid="505" relation="include">
         </childnode>
       </node>
-      <node id="509">
+      <node id="505">
         <label>Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h</label>
         <link refid="_ooxml_save_options_8h_source"/>
       </node>
-      <node id="563">
+      <node id="559">
         <label>Aspose.Words.Cpp/Saving/OutlineOptions.h</label>
         <link refid="_outline_options_8h_source"/>
       </node>
-      <node id="564">
+      <node id="560">
         <label>Aspose.Words.Cpp/Saving/PageRange.h</label>
         <link refid="_page_range_8h_source"/>
       </node>
-      <node id="565">
+      <node id="561">
         <label>Aspose.Words.Cpp/Saving/PageSavingArgs.h</label>
         <link refid="_page_saving_args_8h_source"/>
       </node>
-      <node id="566">
+      <node id="562">
         <label>Aspose.Words.Cpp/Saving/PageSet.h</label>
         <link refid="_page_set_8h_source"/>
       </node>
-      <node id="510">
+      <node id="506">
         <label>Aspose.Words.Cpp/Saving/PclSaveOptions.h</label>
         <link refid="_pcl_save_options_8h_source"/>
       </node>
-      <node id="567">
+      <node id="563">
         <label>Aspose.Words.Cpp/Saving/PdfCompliance.h</label>
         <link refid="_pdf_compliance_8h_source"/>
-        <childnode refid="511" relation="include">
+        <childnode refid="507" relation="include">
         </childnode>
       </node>
-      <node id="568">
+      <node id="564">
         <label>Aspose.Words.Cpp/Saving/PdfCustomPropertiesExport.h</label>
         <link refid="_pdf_custom_properties_export_8h_source"/>
-        <childnode refid="511" relation="include">
+        <childnode refid="507" relation="include">
         </childnode>
       </node>
-      <node id="569">
+      <node id="565">
         <label>Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h</label>
         <link refid="_pdf_digital_signature_details_8h_source"/>
       </node>
-      <node id="570">
+      <node id="566">
         <label>Aspose.Words.Cpp/Saving/PdfDigitalSignatureHashAlgorithm.h</label>
         <link refid="_pdf_digital_signature_hash_algorithm_8h_source"/>
-        <childnode refid="569" relation="include">
+        <childnode refid="565" relation="include">
         </childnode>
       </node>
-      <node id="571">
+      <node id="567">
         <label>Aspose.Words.Cpp/Saving/PdfDigitalSignatureTimestampSettings.h</label>
         <link refid="_pdf_digital_signature_timestamp_settings_8h_source"/>
       </node>
-      <node id="486">
+      <node id="568">
         <label>Aspose.Words.Cpp/Saving/PdfEncryptionDetails.h</label>
         <link refid="_pdf_encryption_details_8h_source"/>
       </node>
-      <node id="572">
+      <node id="569">
         <label>Aspose.Words.Cpp/Saving/PdfFontEmbeddingMode.h</label>
         <link refid="_pdf_font_embedding_mode_8h_source"/>
-        <childnode refid="511" relation="include">
+        <childnode refid="507" relation="include">
+        </childnode>
+      </node>
+      <node id="570">
+        <label>Aspose.Words.Cpp/Saving/PdfImageColorSpaceExportMode.h</label>
+        <link refid="_pdf_image_color_space_export_mode_8h_source"/>
+        <childnode refid="507" relation="include">
+        </childnode>
+      </node>
+      <node id="571">
+        <label>Aspose.Words.Cpp/Saving/PdfImageCompression.h</label>
+        <link refid="_pdf_image_compression_8h_source"/>
+        <childnode refid="507" relation="include">
+        </childnode>
+      </node>
+      <node id="572">
+        <label>Aspose.Words.Cpp/Saving/PdfPageMode.h</label>
+        <link refid="_pdf_page_mode_8h_source"/>
+        <childnode refid="507" relation="include">
         </childnode>
       </node>
       <node id="573">
-        <label>Aspose.Words.Cpp/Saving/PdfImageColorSpaceExportMode.h</label>
-        <link refid="_pdf_image_color_space_export_mode_8h_source"/>
-        <childnode refid="511" relation="include">
-        </childnode>
-      </node>
-      <node id="574">
-        <label>Aspose.Words.Cpp/Saving/PdfImageCompression.h</label>
-        <link refid="_pdf_image_compression_8h_source"/>
-        <childnode refid="511" relation="include">
-        </childnode>
-      </node>
-      <node id="575">
-        <label>Aspose.Words.Cpp/Saving/PdfPageMode.h</label>
-        <link refid="_pdf_page_mode_8h_source"/>
-        <childnode refid="511" relation="include">
-        </childnode>
-      </node>
-      <node id="485">
         <label>Aspose.Words.Cpp/Saving/PdfPermissions.h</label>
         <link refid="_pdf_permissions_8h_source"/>
-        <childnode refid="486" relation="include">
+        <childnode refid="568" relation="include">
         </childnode>
       </node>
-      <node id="511">
+      <node id="507">
         <label>Aspose.Words.Cpp/Saving/PdfSaveOptions.h</label>
         <link refid="_pdf_save_options_8h_source"/>
       </node>
-      <node id="576">
+      <node id="574">
         <label>Aspose.Words.Cpp/Saving/PdfTextCompression.h</label>
         <link refid="_pdf_text_compression_8h_source"/>
-        <childnode refid="511" relation="include">
+        <childnode refid="507" relation="include">
         </childnode>
       </node>
-      <node id="577">
+      <node id="575">
         <label>Aspose.Words.Cpp/Saving/PdfZoomBehavior.h</label>
         <link refid="_pdf_zoom_behavior_8h_source"/>
-        <childnode refid="511" relation="include">
+        <childnode refid="507" relation="include">
         </childnode>
       </node>
-      <node id="512">
+      <node id="508">
         <label>Aspose.Words.Cpp/Saving/PsSaveOptions.h</label>
         <link refid="_ps_save_options_8h_source"/>
       </node>
-      <node id="578">
+      <node id="576">
         <label>Aspose.Words.Cpp/Saving/ResourceSavingArgs.h</label>
         <link refid="_resource_saving_args_8h_source"/>
       </node>
-      <node id="513">
+      <node id="509">
         <label>Aspose.Words.Cpp/Saving/RtfSaveOptions.h</label>
         <link refid="_rtf_save_options_8h_source"/>
       </node>
-      <node id="514">
+      <node id="510">
         <label>Aspose.Words.Cpp/Saving/SaveOptions.h</label>
         <link refid="_save_options_8h_source"/>
-        <childnode refid="503" relation="include">
+        <childnode refid="499" relation="include">
         </childnode>
-        <childnode refid="515" relation="include">
+        <childnode refid="511" relation="include">
+        </childnode>
+        <childnode refid="501" relation="include">
+        </childnode>
+        <childnode refid="504" relation="include">
         </childnode>
         <childnode refid="505" relation="include">
         </childnode>
-        <childnode refid="508" relation="include">
-        </childnode>
         <childnode refid="509" relation="include">
         </childnode>
-        <childnode refid="513" relation="include">
+        <childnode refid="515" relation="include">
         </childnode>
-        <childnode refid="519" relation="include">
+        <childnode refid="517" relation="include">
         </childnode>
-        <childnode refid="521" relation="include">
-        </childnode>
-        <childnode refid="522" relation="include">
+        <childnode refid="518" relation="include">
         </childnode>
       </node>
-      <node id="579">
+      <node id="577">
         <label>Aspose.Words.Cpp/Saving/SaveOutputParameters.h</label>
         <link refid="_save_output_parameters_8h_source"/>
       </node>
-      <node id="516">
+      <node id="512">
         <label>Aspose.Words.Cpp/Saving/SvgSaveOptions.h</label>
         <link refid="_svg_save_options_8h_source"/>
       </node>
-      <node id="580">
+      <node id="578">
         <label>Aspose.Words.Cpp/Saving/SvgTextOutputMode.h</label>
         <link refid="_svg_text_output_mode_8h_source"/>
-        <childnode refid="516" relation="include">
+        <childnode refid="512" relation="include">
+        </childnode>
+      </node>
+      <node id="579">
+        <label>Aspose.Words.Cpp/Saving/TableContentAlignment.h</label>
+        <link refid="_table_content_alignment_8h_source"/>
+        <childnode refid="503" relation="include">
+        </childnode>
+      </node>
+      <node id="580">
+        <label>Aspose.Words.Cpp/Saving/TiffCompression.h</label>
+        <link refid="_tiff_compression_8h_source"/>
+        <childnode refid="502" relation="include">
         </childnode>
       </node>
       <node id="581">
-        <label>Aspose.Words.Cpp/Saving/TableContentAlignment.h</label>
-        <link refid="_table_content_alignment_8h_source"/>
-        <childnode refid="507" relation="include">
+        <label>Aspose.Words.Cpp/Saving/TxtExportHeadersFootersMode.h</label>
+        <link refid="_txt_export_headers_footers_mode_8h_source"/>
+        <childnode refid="515" relation="include">
         </childnode>
       </node>
       <node id="582">
-        <label>Aspose.Words.Cpp/Saving/TiffCompression.h</label>
-        <link refid="_tiff_compression_8h_source"/>
-        <childnode refid="506" relation="include">
-        </childnode>
-      </node>
-      <node id="583">
-        <label>Aspose.Words.Cpp/Saving/TxtExportHeadersFootersMode.h</label>
-        <link refid="_txt_export_headers_footers_mode_8h_source"/>
-        <childnode refid="519" relation="include">
-        </childnode>
-      </node>
-      <node id="584">
         <label>Aspose.Words.Cpp/Saving/TxtListIndentation.h</label>
         <link refid="_txt_list_indentation_8h_source"/>
       </node>
-      <node id="520">
+      <node id="516">
         <label>Aspose.Words.Cpp/Saving/TxtSaveOptions.h</label>
         <link refid="_txt_save_options_8h_source"/>
       </node>
-      <node id="519">
+      <node id="515">
         <label>Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h</label>
         <link refid="_txt_save_options_base_8h_source"/>
-        <childnode refid="507" relation="include">
+        <childnode refid="503" relation="include">
         </childnode>
-        <childnode refid="520" relation="include">
+        <childnode refid="516" relation="include">
         </childnode>
       </node>
-      <node id="521">
+      <node id="517">
         <label>Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h</label>
         <link refid="_word_m_l2003_save_options_8h_source"/>
       </node>
-      <node id="517">
+      <node id="513">
         <label>Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h</label>
         <link refid="_xaml_fixed_save_options_8h_source"/>
       </node>
-      <node id="522">
+      <node id="518">
         <label>Aspose.Words.Cpp/Saving/XamlFlowSaveOptions.h</label>
         <link refid="_xaml_flow_save_options_8h_source"/>
       </node>
-      <node id="518">
+      <node id="514">
         <label>Aspose.Words.Cpp/Saving/XpsSaveOptions.h</label>
         <link refid="_xps_save_options_8h_source"/>
       </node>
@@ -4012,133 +3998,133 @@
         <label>Aspose.Words.Cpp/SectionCollection.h</label>
         <link refid="_section_collection_8h_source"/>
       </node>
-      <node id="585">
+      <node id="583">
         <label>Aspose.Words.Cpp/SectionLayoutMode.h</label>
         <link refid="_section_layout_mode_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="586">
+      <node id="584">
         <label>Aspose.Words.Cpp/SectionStart.h</label>
         <link refid="_section_start_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="587">
+      <node id="585">
         <label>Aspose.Words.Cpp/Settings/Compatibility.h</label>
         <link refid="_compatibility_8h_source"/>
       </node>
-      <node id="588">
+      <node id="586">
         <label>Aspose.Words.Cpp/Settings/CompatibilityOptions.h</label>
         <link refid="_compatibility_options_8h_source"/>
       </node>
-      <node id="589">
+      <node id="587">
         <label>Aspose.Words.Cpp/Settings/HyphenationOptions.h</label>
         <link refid="_hyphenation_options_8h_source"/>
       </node>
-      <node id="590">
+      <node id="588">
         <label>Aspose.Words.Cpp/Settings/MailMergeCheckErrors.h</label>
         <link refid="_mail_merge_check_errors_8h_source"/>
-        <childnode refid="591" relation="include">
+        <childnode refid="589" relation="include">
         </childnode>
       </node>
-      <node id="592">
+      <node id="590">
         <label>Aspose.Words.Cpp/Settings/MailMergeDataType.h</label>
         <link refid="_mail_merge_data_type_8h_source"/>
-        <childnode refid="591" relation="include">
-        </childnode>
-      </node>
-      <node id="593">
-        <label>Aspose.Words.Cpp/Settings/MailMergeDestination.h</label>
-        <link refid="_mail_merge_destination_8h_source"/>
-        <childnode refid="591" relation="include">
-        </childnode>
-      </node>
-      <node id="594">
-        <label>Aspose.Words.Cpp/Settings/MailMergeMainDocumentType.h</label>
-        <link refid="_mail_merge_main_document_type_8h_source"/>
-        <childnode refid="591" relation="include">
+        <childnode refid="589" relation="include">
         </childnode>
       </node>
       <node id="591">
+        <label>Aspose.Words.Cpp/Settings/MailMergeDestination.h</label>
+        <link refid="_mail_merge_destination_8h_source"/>
+        <childnode refid="589" relation="include">
+        </childnode>
+      </node>
+      <node id="592">
+        <label>Aspose.Words.Cpp/Settings/MailMergeMainDocumentType.h</label>
+        <link refid="_mail_merge_main_document_type_8h_source"/>
+        <childnode refid="589" relation="include">
+        </childnode>
+      </node>
+      <node id="589">
         <label>Aspose.Words.Cpp/Settings/MailMergeSettings.h</label>
         <link refid="_mail_merge_settings_8h_source"/>
       </node>
-      <node id="595">
+      <node id="593">
         <label>Aspose.Words.Cpp/Settings/MsWordVersion.h</label>
         <link refid="_ms_word_version_8h_source"/>
-        <childnode refid="395" relation="include">
+        <childnode refid="394" relation="include">
         </childnode>
-        <childnode refid="588" relation="include">
+        <childnode refid="586" relation="include">
         </childnode>
       </node>
-      <node id="596">
+      <node id="594">
         <label>Aspose.Words.Cpp/Settings/MultiplePagesType.h</label>
         <link refid="_multiple_pages_type_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
       </node>
-      <node id="597">
+      <node id="595">
         <label>Aspose.Words.Cpp/Settings/Odso.h</label>
         <link refid="_odso_8h_source"/>
       </node>
-      <node id="598">
+      <node id="596">
         <label>Aspose.Words.Cpp/Settings/OdsoDataSourceType.h</label>
         <link refid="_odso_data_source_type_8h_source"/>
-        <childnode refid="597" relation="include">
+        <childnode refid="595" relation="include">
         </childnode>
       </node>
-      <node id="599">
+      <node id="597">
         <label>Aspose.Words.Cpp/Settings/OdsoFieldMapData.h</label>
         <link refid="_odso_field_map_data_8h_source"/>
       </node>
-      <node id="600">
+      <node id="598">
         <label>Aspose.Words.Cpp/Settings/OdsoFieldMapDataCollection.h</label>
         <link refid="_odso_field_map_data_collection_8h_source"/>
       </node>
-      <node id="601">
+      <node id="599">
         <label>Aspose.Words.Cpp/Settings/OdsoFieldMappingType.h</label>
         <link refid="_odso_field_mapping_type_8h_source"/>
-        <childnode refid="599" relation="include">
+        <childnode refid="597" relation="include">
         </childnode>
       </node>
-      <node id="602">
+      <node id="600">
         <label>Aspose.Words.Cpp/Settings/OdsoRecipientData.h</label>
         <link refid="_odso_recipient_data_8h_source"/>
       </node>
-      <node id="603">
+      <node id="601">
         <label>Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h</label>
         <link refid="_odso_recipient_data_collection_8h_source"/>
       </node>
-      <node id="604">
+      <node id="602">
         <label>Aspose.Words.Cpp/Settings/ViewOptions.h</label>
         <link refid="_view_options_8h_source"/>
       </node>
-      <node id="605">
+      <node id="603">
         <label>Aspose.Words.Cpp/Settings/ViewType.h</label>
         <link refid="_view_type_8h_source"/>
-        <childnode refid="604" relation="include">
+        <childnode refid="602" relation="include">
         </childnode>
       </node>
-      <node id="606">
+      <node id="604">
         <label>Aspose.Words.Cpp/Settings/WriteProtection.h</label>
         <link refid="_write_protection_8h_source"/>
       </node>
-      <node id="607">
+      <node id="605">
         <label>Aspose.Words.Cpp/Settings/ZoomType.h</label>
         <link refid="_zoom_type_8h_source"/>
-        <childnode refid="604" relation="include">
+        <childnode refid="602" relation="include">
         </childnode>
       </node>
-      <node id="351">
+      <node id="350">
         <label>Aspose.Words.Cpp/Shading.h</label>
         <link refid="_shading_8h_source"/>
       </node>
-      <node id="608">
+      <node id="606">
         <label>Aspose.Words.Cpp/SignatureLineOptions.h</label>
         <link refid="_signature_line_options_8h_source"/>
       </node>
-      <node id="349">
+      <node id="348">
         <label>Aspose.Words.Cpp/SpecialChar.h</label>
         <link refid="_special_char_8h_source"/>
         <childnode refid="2" relation="include">
@@ -4156,7 +4142,7 @@
         <childnode refid="57" relation="include">
         </childnode>
       </node>
-      <node id="609">
+      <node id="607">
         <label>Aspose.Words.Cpp/StoryType.h</label>
         <link refid="_story_type_8h_source"/>
         <childnode refid="27" relation="include">
@@ -4170,69 +4156,69 @@
         <childnode refid="56" relation="include">
         </childnode>
       </node>
-      <node id="500">
+      <node id="496">
         <label>Aspose.Words.Cpp/Style.h</label>
         <link refid="_style_8h_source"/>
-        <childnode refid="501" relation="include">
+        <childnode refid="497" relation="include">
         </childnode>
       </node>
-      <node id="610">
+      <node id="608">
         <label>Aspose.Words.Cpp/StyleCollection.h</label>
         <link refid="_style_collection_8h_source"/>
       </node>
-      <node id="611">
+      <node id="609">
         <label>Aspose.Words.Cpp/StyleIdentifier.h</label>
         <link refid="_style_identifier_8h_source"/>
         <childnode refid="122" relation="include">
         </childnode>
         <childnode refid="163" relation="include">
         </childnode>
-        <childnode refid="500" relation="include">
+        <childnode refid="496" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
         </childnode>
       </node>
-      <node id="612">
+      <node id="610">
         <label>Aspose.Words.Cpp/StyleType.h</label>
         <link refid="_style_type_8h_source"/>
-        <childnode refid="500" relation="include">
+        <childnode refid="496" relation="include">
         </childnode>
-        <childnode refid="610" relation="include">
+        <childnode refid="608" relation="include">
         </childnode>
       </node>
-      <node id="451">
+      <node id="450">
         <label>Aspose.Words.Cpp/SubDocument.h</label>
         <link refid="_sub_document_8h_source"/>
       </node>
-      <node id="613">
+      <node id="611">
         <label>Aspose.Words.Cpp/TabAlignment.h</label>
         <link refid="_tab_alignment_8h_source"/>
-        <childnode refid="614" relation="include">
+        <childnode refid="612" relation="include">
         </childnode>
-        <childnode refid="352" relation="include">
+        <childnode refid="351" relation="include">
         </childnode>
       </node>
-      <node id="615">
+      <node id="613">
         <label>Aspose.Words.Cpp/TabLeader.h</label>
         <link refid="_tab_leader_8h_source"/>
-        <childnode refid="614" relation="include">
+        <childnode refid="612" relation="include">
         </childnode>
-        <childnode refid="352" relation="include">
+        <childnode refid="351" relation="include">
         </childnode>
       </node>
-      <node id="614">
+      <node id="612">
         <label>Aspose.Words.Cpp/TabStop.h</label>
         <link refid="_tab_stop_8h_source"/>
       </node>
-      <node id="352">
+      <node id="351">
         <label>Aspose.Words.Cpp/TabStopCollection.h</label>
         <link refid="_tab_stop_collection_8h_source"/>
       </node>
-      <node id="501">
+      <node id="497">
         <label>Aspose.Words.Cpp/TableStyle.h</label>
         <link refid="_table_style_8h_source"/>
       </node>
-      <node id="616">
+      <node id="614">
         <label>Aspose.Words.Cpp/Tables/AutoFitBehavior.h</label>
         <link refid="_auto_fit_behavior_8h_source"/>
         <childnode refid="12" relation="include">
@@ -4246,32 +4232,32 @@
         <label>Aspose.Words.Cpp/Tables/CellCollection.h</label>
         <link refid="_cell_collection_8h_source"/>
       </node>
-      <node id="617">
+      <node id="615">
         <label>Aspose.Words.Cpp/Tables/CellFormat.h</label>
         <link refid="_cell_format_8h_source"/>
       </node>
-      <node id="618">
+      <node id="616">
         <label>Aspose.Words.Cpp/Tables/CellMerge.h</label>
         <link refid="_cell_merge_8h_source"/>
-        <childnode refid="617" relation="include">
+        <childnode refid="615" relation="include">
         </childnode>
       </node>
-      <node id="619">
+      <node id="617">
         <label>Aspose.Words.Cpp/Tables/CellVerticalAlignment.h</label>
         <link refid="_cell_vertical_alignment_8h_source"/>
-        <childnode refid="501" relation="include">
+        <childnode refid="497" relation="include">
         </childnode>
-        <childnode refid="617" relation="include">
+        <childnode refid="615" relation="include">
         </childnode>
       </node>
-      <node id="620">
+      <node id="618">
         <label>Aspose.Words.Cpp/Tables/PreferredWidth.h</label>
         <link refid="_preferred_width_8h_source"/>
       </node>
-      <node id="621">
+      <node id="619">
         <label>Aspose.Words.Cpp/Tables/PreferredWidthType.h</label>
         <link refid="_preferred_width_type_8h_source"/>
-        <childnode refid="620" relation="include">
+        <childnode refid="618" relation="include">
         </childnode>
       </node>
       <node id="59">
@@ -4282,7 +4268,7 @@
         <label>Aspose.Words.Cpp/Tables/RowCollection.h</label>
         <link refid="_row_collection_8h_source"/>
       </node>
-      <node id="331">
+      <node id="330">
         <label>Aspose.Words.Cpp/Tables/RowFormat.h</label>
         <link refid="_row_format_8h_source"/>
       </node>
@@ -4290,10 +4276,10 @@
         <label>Aspose.Words.Cpp/Tables/Table.h</label>
         <link refid="_table_8h_source"/>
       </node>
-      <node id="622">
+      <node id="620">
         <label>Aspose.Words.Cpp/Tables/TableAlignment.h</label>
         <link refid="_table_alignment_8h_source"/>
-        <childnode refid="501" relation="include">
+        <childnode refid="497" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
         </childnode>
@@ -4302,85 +4288,85 @@
         <label>Aspose.Words.Cpp/Tables/TableCollection.h</label>
         <link refid="_table_collection_8h_source"/>
       </node>
-      <node id="623">
+      <node id="621">
         <label>Aspose.Words.Cpp/Tables/TableStyleOptions.h</label>
         <link refid="_table_style_options_8h_source"/>
         <childnode refid="12" relation="include">
         </childnode>
       </node>
-      <node id="624">
+      <node id="622">
         <label>Aspose.Words.Cpp/Tables/TextWrapping.h</label>
         <link refid="_text_wrapping_8h_source"/>
         <childnode refid="12" relation="include">
         </childnode>
       </node>
-      <node id="625">
+      <node id="623">
         <label>Aspose.Words.Cpp/TextColumn.h</label>
         <link refid="_text_column_8h_source"/>
       </node>
-      <node id="626">
+      <node id="624">
         <label>Aspose.Words.Cpp/TextColumnCollection.h</label>
         <link refid="_text_column_collection_8h_source"/>
       </node>
-      <node id="627">
+      <node id="625">
         <label>Aspose.Words.Cpp/TextDmlEffect.h</label>
         <link refid="_text_dml_effect_8h_source"/>
         <childnode refid="122" relation="include">
         </childnode>
       </node>
-      <node id="628">
+      <node id="626">
         <label>Aspose.Words.Cpp/TextEffect.h</label>
         <link refid="_text_effect_8h_source"/>
         <childnode refid="122" relation="include">
         </childnode>
       </node>
-      <node id="629">
+      <node id="627">
         <label>Aspose.Words.Cpp/TextOrientation.h</label>
         <link refid="_text_orientation_8h_source"/>
         <childnode refid="25" relation="include">
         </childnode>
-        <childnode refid="617" relation="include">
+        <childnode refid="615" relation="include">
         </childnode>
       </node>
-      <node id="630">
+      <node id="628">
         <label>Aspose.Words.Cpp/TextWatermarkOptions.h</label>
         <link refid="_text_watermark_options_8h_source"/>
       </node>
-      <node id="631">
+      <node id="629">
         <label>Aspose.Words.Cpp/TextureIndex.h</label>
         <link refid="_texture_index_8h_source"/>
-        <childnode refid="351" relation="include">
+        <childnode refid="350" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
         </childnode>
       </node>
-      <node id="632">
+      <node id="630">
         <label>Aspose.Words.Cpp/Themes/Theme.h</label>
         <link refid="_theme_8h_source"/>
       </node>
-      <node id="633">
+      <node id="631">
         <label>Aspose.Words.Cpp/Themes/ThemeColor.h</label>
         <link refid="_theme_color_8h_source"/>
-        <childnode refid="634" relation="include">
+        <childnode refid="632" relation="include">
         </childnode>
         <childnode refid="122" relation="include">
         </childnode>
       </node>
-      <node id="635">
+      <node id="633">
         <label>Aspose.Words.Cpp/Themes/ThemeColors.h</label>
         <link refid="_theme_colors_8h_source"/>
       </node>
-      <node id="636">
+      <node id="634">
         <label>Aspose.Words.Cpp/Themes/ThemeFont.h</label>
         <link refid="_theme_font_8h_source"/>
         <childnode refid="122" relation="include">
         </childnode>
       </node>
-      <node id="637">
+      <node id="635">
         <label>Aspose.Words.Cpp/Themes/ThemeFonts.h</label>
         <link refid="_theme_fonts_8h_source"/>
       </node>
-      <node id="638">
+      <node id="636">
         <label>Aspose.Words.Cpp/Underline.h</label>
         <link refid="_underline_8h_source"/>
         <childnode refid="14" relation="include">
@@ -4388,174 +4374,174 @@
         <childnode refid="122" relation="include">
         </childnode>
       </node>
-      <node id="639">
+      <node id="637">
         <label>Aspose.Words.Cpp/UnsupportedFileFormatException.h</label>
         <link refid="_unsupported_file_format_exception_8h_source"/>
       </node>
-      <node id="640">
+      <node id="638">
         <label>Aspose.Words.Cpp/VariableCollection.h</label>
         <link refid="_variable_collection_8h_source"/>
       </node>
-      <node id="641">
+      <node id="639">
         <label>Aspose.Words.Cpp/Vba/VbaModule.h</label>
         <link refid="_vba_2_vba_module_8h_source"/>
+        <childnode refid="640" relation="include">
+        </childnode>
+      </node>
+      <node id="641">
+        <label>Aspose.Words.Cpp/Vba/VbaModuleCollection.h</label>
+        <link refid="_vba_2_vba_module_collection_8h_source"/>
         <childnode refid="642" relation="include">
         </childnode>
       </node>
       <node id="643">
-        <label>Aspose.Words.Cpp/Vba/VbaModuleCollection.h</label>
-        <link refid="_vba_2_vba_module_collection_8h_source"/>
+        <label>Aspose.Words.Cpp/Vba/VbaModuleType.h</label>
+        <link refid="_vba_2_vba_module_type_8h_source"/>
         <childnode refid="644" relation="include">
+        </childnode>
+        <childnode refid="639" relation="include">
         </childnode>
       </node>
       <node id="645">
-        <label>Aspose.Words.Cpp/Vba/VbaModuleType.h</label>
-        <link refid="_vba_2_vba_module_type_8h_source"/>
+        <label>Aspose.Words.Cpp/Vba/VbaProject.h</label>
+        <link refid="_vba_2_vba_project_8h_source"/>
         <childnode refid="646" relation="include">
-        </childnode>
-        <childnode refid="641" relation="include">
         </childnode>
       </node>
       <node id="647">
-        <label>Aspose.Words.Cpp/Vba/VbaProject.h</label>
-        <link refid="_vba_2_vba_project_8h_source"/>
+        <label>Aspose.Words.Cpp/Vba/VbaReference.h</label>
+        <link refid="_vba_2_vba_reference_8h_source"/>
         <childnode refid="648" relation="include">
         </childnode>
       </node>
       <node id="649">
-        <label>Aspose.Words.Cpp/Vba/VbaReference.h</label>
-        <link refid="_vba_2_vba_reference_8h_source"/>
+        <label>Aspose.Words.Cpp/Vba/VbaReferenceCollection.h</label>
+        <link refid="_vba_2_vba_reference_collection_8h_source"/>
         <childnode refid="650" relation="include">
         </childnode>
       </node>
       <node id="651">
-        <label>Aspose.Words.Cpp/Vba/VbaReferenceCollection.h</label>
-        <link refid="_vba_2_vba_reference_collection_8h_source"/>
+        <label>Aspose.Words.Cpp/Vba/VbaReferenceType.h</label>
+        <link refid="_vba_2_vba_reference_type_8h_source"/>
         <childnode refid="652" relation="include">
+        </childnode>
+        <childnode refid="647" relation="include">
         </childnode>
       </node>
       <node id="653">
-        <label>Aspose.Words.Cpp/Vba/VbaReferenceType.h</label>
-        <link refid="_vba_2_vba_reference_type_8h_source"/>
-        <childnode refid="654" relation="include">
-        </childnode>
-        <childnode refid="649" relation="include">
-        </childnode>
-      </node>
-      <node id="655">
         <label>Aspose.Words.Cpp/VisitorAction.h</label>
         <link refid="_visitor_action_8h_source"/>
         <childnode refid="77" relation="include">
         </childnode>
       </node>
-      <node id="656">
+      <node id="654">
         <label>Aspose.Words.Cpp/WarningInfo.h</label>
         <link refid="_warning_info_8h_source"/>
       </node>
-      <node id="341">
+      <node id="340">
         <label>Aspose.Words.Cpp/WarningInfoCollection.h</label>
         <link refid="_warning_info_collection_8h_source"/>
       </node>
-      <node id="657">
+      <node id="655">
         <label>Aspose.Words.Cpp/WarningSource.h</label>
         <link refid="_warning_source_8h_source"/>
-        <childnode refid="656" relation="include">
+        <childnode refid="654" relation="include">
         </childnode>
       </node>
-      <node id="658">
+      <node id="656">
         <label>Aspose.Words.Cpp/WarningType.h</label>
         <link refid="_warning_type_8h_source"/>
-        <childnode refid="656" relation="include">
+        <childnode refid="654" relation="include">
         </childnode>
       </node>
-      <node id="659">
+      <node id="657">
         <label>Aspose.Words.Cpp/Watermark.h</label>
         <link refid="_watermark_8h_source"/>
       </node>
-      <node id="660">
+      <node id="658">
         <label>Aspose.Words.Cpp/WatermarkLayout.h</label>
         <link refid="_watermark_layout_8h_source"/>
-        <childnode refid="630" relation="include">
+        <childnode refid="628" relation="include">
         </childnode>
       </node>
-      <node id="661">
+      <node id="659">
         <label>Aspose.Words.Cpp/WatermarkType.h</label>
         <link refid="_watermark_type_8h_source"/>
-        <childnode refid="659" relation="include">
+        <childnode refid="657" relation="include">
         </childnode>
       </node>
-      <node id="662">
+      <node id="660">
         <label>Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h</label>
         <link refid="_base_web_extension_collection_8h_source"/>
+        <childnode refid="661" relation="include">
+        </childnode>
+        <childnode refid="662" relation="include">
+        </childnode>
         <childnode refid="663" relation="include">
         </childnode>
         <childnode refid="664" relation="include">
         </childnode>
-        <childnode refid="665" relation="include">
+      </node>
+      <node id="665">
+        <label>Aspose.Words.Cpp/WebExtensions/TaskPane.h</label>
+        <link refid="_task_pane_8h_source"/>
+        <childnode refid="661" relation="include">
         </childnode>
-        <childnode refid="666" relation="include">
+      </node>
+      <node id="661">
+        <label>Aspose.Words.Cpp/WebExtensions/TaskPaneCollection.h</label>
+        <link refid="_task_pane_collection_8h_source"/>
+      </node>
+      <node id="666">
+        <label>Aspose.Words.Cpp/WebExtensions/TaskPaneDockState.h</label>
+        <link refid="_task_pane_dock_state_8h_source"/>
+        <childnode refid="665" relation="include">
         </childnode>
       </node>
       <node id="667">
-        <label>Aspose.Words.Cpp/WebExtensions/TaskPane.h</label>
-        <link refid="_task_pane_8h_source"/>
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtension.h</label>
+        <link refid="_web_extension_8h_source"/>
+      </node>
+      <node id="668">
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionBinding.h</label>
+        <link refid="_web_extension_binding_8h_source"/>
+        <childnode refid="662" relation="include">
+        </childnode>
+      </node>
+      <node id="662">
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionBindingCollection.h</label>
+        <link refid="_web_extension_binding_collection_8h_source"/>
+      </node>
+      <node id="669">
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionBindingType.h</label>
+        <link refid="_web_extension_binding_type_8h_source"/>
+        <childnode refid="668" relation="include">
+        </childnode>
+      </node>
+      <node id="670">
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionProperty.h</label>
+        <link refid="_web_extension_property_8h_source"/>
         <childnode refid="663" relation="include">
         </childnode>
       </node>
       <node id="663">
-        <label>Aspose.Words.Cpp/WebExtensions/TaskPaneCollection.h</label>
-        <link refid="_task_pane_collection_8h_source"/>
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionPropertyCollection.h</label>
+        <link refid="_web_extension_property_collection_8h_source"/>
       </node>
-      <node id="668">
-        <label>Aspose.Words.Cpp/WebExtensions/TaskPaneDockState.h</label>
-        <link refid="_task_pane_dock_state_8h_source"/>
-        <childnode refid="667" relation="include">
-        </childnode>
-      </node>
-      <node id="669">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtension.h</label>
-        <link refid="_web_extension_8h_source"/>
-      </node>
-      <node id="670">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionBinding.h</label>
-        <link refid="_web_extension_binding_8h_source"/>
+      <node id="671">
+        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h</label>
+        <link refid="_web_extension_reference_8h_source"/>
         <childnode refid="664" relation="include">
         </childnode>
       </node>
       <node id="664">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionBindingCollection.h</label>
-        <link refid="_web_extension_binding_collection_8h_source"/>
-      </node>
-      <node id="671">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionBindingType.h</label>
-        <link refid="_web_extension_binding_type_8h_source"/>
-        <childnode refid="670" relation="include">
-        </childnode>
-      </node>
-      <node id="672">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionProperty.h</label>
-        <link refid="_web_extension_property_8h_source"/>
-        <childnode refid="665" relation="include">
-        </childnode>
-      </node>
-      <node id="665">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionPropertyCollection.h</label>
-        <link refid="_web_extension_property_collection_8h_source"/>
-      </node>
-      <node id="673">
-        <label>Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h</label>
-        <link refid="_web_extension_reference_8h_source"/>
-        <childnode refid="666" relation="include">
-        </childnode>
-      </node>
-      <node id="666">
         <label>Aspose.Words.Cpp/WebExtensions/WebExtensionReferenceCollection.h</label>
         <link refid="_web_extension_reference_collection_8h_source"/>
       </node>
-      <node id="674">
+      <node id="672">
         <label>Aspose.Words.Cpp/WebExtensions/WebExtensionStoreType.h</label>
         <link refid="_web_extension_store_type_8h_source"/>
-        <childnode refid="673" relation="include">
+        <childnode refid="671" relation="include">
         </childnode>
       </node>
       <node id="1">
@@ -5131,11 +5117,9 @@
         </childnode>
         <childnode refid="324" relation="include">
         </childnode>
-        <childnode refid="325" relation="include">
-        </childnode>
         <childnode refid="318" relation="include">
         </childnode>
-        <childnode refid="326" relation="include">
+        <childnode refid="325" relation="include">
         </childnode>
         <childnode refid="319" relation="include">
         </childnode>
@@ -5145,75 +5129,77 @@
         </childnode>
         <childnode refid="125" relation="include">
         </childnode>
-        <childnode refid="327" relation="include">
+        <childnode refid="326" relation="include">
         </childnode>
-        <childnode refid="328" relation="include">
+        <childnode refid="327" relation="include">
         </childnode>
         <childnode refid="57" relation="include">
         </childnode>
         <childnode refid="47" relation="include">
         </childnode>
+        <childnode refid="328" relation="include">
+        </childnode>
         <childnode refid="329" relation="include">
         </childnode>
-        <childnode refid="330" relation="include">
+        <childnode refid="331" relation="include">
         </childnode>
         <childnode refid="332" relation="include">
         </childnode>
-        <childnode refid="333" relation="include">
+        <childnode refid="334" relation="include">
         </childnode>
         <childnode refid="335" relation="include">
         </childnode>
-        <childnode refid="336" relation="include">
+        <childnode refid="337" relation="include">
         </childnode>
         <childnode refid="338" relation="include">
         </childnode>
         <childnode refid="339" relation="include">
         </childnode>
-        <childnode refid="340" relation="include">
+        <childnode refid="341" relation="include">
         </childnode>
         <childnode refid="342" relation="include">
         </childnode>
-        <childnode refid="343" relation="include">
+        <childnode refid="344" relation="include">
         </childnode>
         <childnode refid="345" relation="include">
         </childnode>
         <childnode refid="346" relation="include">
         </childnode>
-        <childnode refid="347" relation="include">
-        </childnode>
         <childnode refid="40" relation="include">
         </childnode>
-        <childnode refid="350" relation="include">
+        <childnode refid="349" relation="include">
         </childnode>
-        <childnode refid="353" relation="include">
+        <childnode refid="352" relation="include">
         </childnode>
-        <childnode refid="357" relation="include">
+        <childnode refid="356" relation="include">
+        </childnode>
+        <childnode refid="358" relation="include">
+        </childnode>
+        <childnode refid="364" relation="include">
+        </childnode>
+        <childnode refid="366" relation="include">
         </childnode>
         <childnode refid="359" relation="include">
         </childnode>
-        <childnode refid="365" relation="include">
-        </childnode>
-        <childnode refid="367" relation="include">
-        </childnode>
         <childnode refid="360" relation="include">
         </childnode>
-        <childnode refid="361" relation="include">
+        <childnode refid="353" relation="include">
         </childnode>
-        <childnode refid="354" relation="include">
+        <childnode refid="368" relation="include">
         </childnode>
-        <childnode refid="369" relation="include">
+        <childnode refid="370" relation="include">
         </childnode>
-        <childnode refid="371" relation="include">
-        </childnode>
-        <childnode refid="373" relation="include">
+        <childnode refid="372" relation="include">
         </childnode>
         <childnode refid="126" relation="include">
         </childnode>
-        <childnode refid="375" relation="include">
+        <childnode refid="374" relation="include">
         </childnode>
-        <childnode refid="377" relation="include">
+        <childnode refid="376" relation="include">
         </childnode>
-        <childnode refid="379" relation="include">
+        <childnode refid="378" relation="include">
+        </childnode>
+        <childnode refid="380" relation="include">
         </childnode>
         <childnode refid="381" relation="include">
         </childnode>
@@ -5239,35 +5225,37 @@
         </childnode>
         <childnode refid="392" relation="include">
         </childnode>
-        <childnode refid="393" relation="include">
+        <childnode refid="399" relation="include">
+        </childnode>
+        <childnode refid="395" relation="include">
         </childnode>
         <childnode refid="400" relation="include">
-        </childnode>
-        <childnode refid="396" relation="include">
         </childnode>
         <childnode refid="401" relation="include">
         </childnode>
         <childnode refid="402" relation="include">
         </childnode>
-        <childnode refid="403" relation="include">
+        <childnode refid="404" relation="include">
+        </childnode>
+        <childnode refid="393" relation="include">
         </childnode>
         <childnode refid="405" relation="include">
         </childnode>
-        <childnode refid="394" relation="include">
-        </childnode>
         <childnode refid="406" relation="include">
         </childnode>
+        <childnode refid="403" relation="include">
+        </childnode>
+        <childnode refid="394" relation="include">
+        </childnode>
+        <childnode refid="396" relation="include">
+        </childnode>
         <childnode refid="407" relation="include">
-        </childnode>
-        <childnode refid="404" relation="include">
-        </childnode>
-        <childnode refid="395" relation="include">
-        </childnode>
-        <childnode refid="397" relation="include">
         </childnode>
         <childnode refid="408" relation="include">
         </childnode>
         <childnode refid="409" relation="include">
+        </childnode>
+        <childnode refid="397" relation="include">
         </childnode>
         <childnode refid="410" relation="include">
         </childnode>
@@ -5275,13 +5263,11 @@
         </childnode>
         <childnode refid="411" relation="include">
         </childnode>
-        <childnode refid="399" relation="include">
-        </childnode>
         <childnode refid="412" relation="include">
         </childnode>
         <childnode refid="413" relation="include">
         </childnode>
-        <childnode refid="414" relation="include">
+        <childnode refid="415" relation="include">
         </childnode>
         <childnode refid="416" relation="include">
         </childnode>
@@ -5289,9 +5275,9 @@
         </childnode>
         <childnode refid="418" relation="include">
         </childnode>
-        <childnode refid="419" relation="include">
+        <childnode refid="414" relation="include">
         </childnode>
-        <childnode refid="415" relation="include">
+        <childnode refid="419" relation="include">
         </childnode>
         <childnode refid="420" relation="include">
         </childnode>
@@ -5317,7 +5303,7 @@
         </childnode>
         <childnode refid="431" relation="include">
         </childnode>
-        <childnode refid="432" relation="include">
+        <childnode refid="433" relation="include">
         </childnode>
         <childnode refid="434" relation="include">
         </childnode>
@@ -5329,23 +5315,23 @@
         </childnode>
         <childnode refid="438" relation="include">
         </childnode>
-        <childnode refid="439" relation="include">
-        </childnode>
         <childnode refid="42" relation="include">
         </childnode>
         <childnode refid="43" relation="include">
         </childnode>
-        <childnode refid="440" relation="include">
+        <childnode refid="439" relation="include">
         </childnode>
-        <childnode refid="441" relation="include">
+        <childnode refid="440" relation="include">
         </childnode>
         <childnode refid="75" relation="include">
         </childnode>
+        <childnode refid="441" relation="include">
+        </childnode>
         <childnode refid="442" relation="include">
         </childnode>
-        <childnode refid="443" relation="include">
-        </childnode>
         <childnode refid="44" relation="include">
+        </childnode>
+        <childnode refid="443" relation="include">
         </childnode>
         <childnode refid="444" relation="include">
         </childnode>
@@ -5353,37 +5339,37 @@
         </childnode>
         <childnode refid="446" relation="include">
         </childnode>
-        <childnode refid="447" relation="include">
+        <childnode refid="448" relation="include">
         </childnode>
-        <childnode refid="449" relation="include">
+        <childnode refid="451" relation="include">
         </childnode>
         <childnode refid="452" relation="include">
-        </childnode>
-        <childnode refid="453" relation="include">
         </childnode>
         <childnode refid="46" relation="include">
         </childnode>
         <childnode refid="73" relation="include">
         </childnode>
-        <childnode refid="344" relation="include">
+        <childnode refid="343" relation="include">
+        </childnode>
+        <childnode refid="453" relation="include">
         </childnode>
         <childnode refid="454" relation="include">
         </childnode>
         <childnode refid="455" relation="include">
         </childnode>
-        <childnode refid="456" relation="include">
-        </childnode>
         <childnode refid="41" relation="include">
+        </childnode>
+        <childnode refid="456" relation="include">
         </childnode>
         <childnode refid="457" relation="include">
         </childnode>
-        <childnode refid="458" relation="include">
+        <childnode refid="459" relation="include">
         </childnode>
         <childnode refid="460" relation="include">
         </childnode>
         <childnode refid="461" relation="include">
         </childnode>
-        <childnode refid="462" relation="include">
+        <childnode refid="463" relation="include">
         </childnode>
         <childnode refid="464" relation="include">
         </childnode>
@@ -5391,21 +5377,21 @@
         </childnode>
         <childnode refid="466" relation="include">
         </childnode>
-        <childnode refid="467" relation="include">
-        </childnode>
         <childnode refid="25" relation="include">
+        </childnode>
+        <childnode refid="467" relation="include">
         </childnode>
         <childnode refid="468" relation="include">
         </childnode>
-        <childnode refid="469" relation="include">
-        </childnode>
         <childnode refid="54" relation="include">
         </childnode>
-        <childnode refid="471" relation="include">
+        <childnode refid="470" relation="include">
         </childnode>
         <childnode refid="48" relation="include">
         </childnode>
         <childnode refid="163" relation="include">
+        </childnode>
+        <childnode refid="471" relation="include">
         </childnode>
         <childnode refid="472" relation="include">
         </childnode>
@@ -5427,13 +5413,17 @@
         </childnode>
         <childnode refid="481" relation="include">
         </childnode>
+        <childnode refid="469" relation="include">
+        </childnode>
         <childnode refid="482" relation="include">
         </childnode>
-        <childnode refid="470" relation="include">
+        <childnode refid="483" relation="include">
         </childnode>
         <childnode refid="484" relation="include">
         </childnode>
-        <childnode refid="483" relation="include">
+        <childnode refid="485" relation="include">
+        </childnode>
+        <childnode refid="486" relation="include">
         </childnode>
         <childnode refid="487" relation="include">
         </childnode>
@@ -5451,19 +5441,19 @@
         </childnode>
         <childnode refid="494" relation="include">
         </childnode>
-        <childnode refid="495" relation="include">
-        </childnode>
-        <childnode refid="496" relation="include">
-        </childnode>
-        <childnode refid="497" relation="include">
-        </childnode>
-        <childnode refid="498" relation="include">
-        </childnode>
-        <childnode refid="348" relation="include">
+        <childnode refid="347" relation="include">
         </childnode>
         <childnode refid="49" relation="include">
         </childnode>
-        <childnode refid="502" relation="include">
+        <childnode refid="498" relation="include">
+        </childnode>
+        <childnode refid="519" relation="include">
+        </childnode>
+        <childnode refid="520" relation="include">
+        </childnode>
+        <childnode refid="521" relation="include">
+        </childnode>
+        <childnode refid="522" relation="include">
         </childnode>
         <childnode refid="523" relation="include">
         </childnode>
@@ -5473,6 +5463,8 @@
         </childnode>
         <childnode refid="526" relation="include">
         </childnode>
+        <childnode refid="499" relation="include">
+        </childnode>
         <childnode refid="527" relation="include">
         </childnode>
         <childnode refid="528" relation="include">
@@ -5481,11 +5473,7 @@
         </childnode>
         <childnode refid="530" relation="include">
         </childnode>
-        <childnode refid="503" relation="include">
-        </childnode>
         <childnode refid="531" relation="include">
-        </childnode>
-        <childnode refid="532" relation="include">
         </childnode>
         <childnode refid="533" relation="include">
         </childnode>
@@ -5493,29 +5481,31 @@
         </childnode>
         <childnode refid="535" relation="include">
         </childnode>
+        <childnode refid="511" relation="include">
+        </childnode>
+        <childnode refid="536" relation="include">
+        </childnode>
         <childnode refid="537" relation="include">
         </childnode>
         <childnode refid="538" relation="include">
         </childnode>
         <childnode refid="539" relation="include">
         </childnode>
-        <childnode refid="515" relation="include">
+        <childnode refid="500" relation="include">
         </childnode>
         <childnode refid="540" relation="include">
         </childnode>
         <childnode refid="541" relation="include">
         </childnode>
+        <childnode refid="501" relation="include">
+        </childnode>
         <childnode refid="542" relation="include">
         </childnode>
         <childnode refid="543" relation="include">
         </childnode>
-        <childnode refid="504" relation="include">
-        </childnode>
         <childnode refid="544" relation="include">
         </childnode>
         <childnode refid="545" relation="include">
-        </childnode>
-        <childnode refid="505" relation="include">
         </childnode>
         <childnode refid="546" relation="include">
         </childnode>
@@ -5531,35 +5521,37 @@
         </childnode>
         <childnode refid="552" relation="include">
         </childnode>
+        <childnode refid="502" relation="include">
+        </childnode>
         <childnode refid="553" relation="include">
         </childnode>
         <childnode refid="554" relation="include">
         </childnode>
+        <childnode refid="503" relation="include">
+        </childnode>
         <childnode refid="555" relation="include">
+        </childnode>
+        <childnode refid="532" relation="include">
         </childnode>
         <childnode refid="556" relation="include">
         </childnode>
-        <childnode refid="506" relation="include">
-        </childnode>
         <childnode refid="557" relation="include">
+        </childnode>
+        <childnode refid="504" relation="include">
         </childnode>
         <childnode refid="558" relation="include">
         </childnode>
-        <childnode refid="507" relation="include">
+        <childnode refid="505" relation="include">
         </childnode>
         <childnode refid="559" relation="include">
-        </childnode>
-        <childnode refid="536" relation="include">
         </childnode>
         <childnode refid="560" relation="include">
         </childnode>
         <childnode refid="561" relation="include">
         </childnode>
-        <childnode refid="508" relation="include">
-        </childnode>
         <childnode refid="562" relation="include">
         </childnode>
-        <childnode refid="509" relation="include">
+        <childnode refid="506" relation="include">
         </childnode>
         <childnode refid="563" relation="include">
         </childnode>
@@ -5568,8 +5560,6 @@
         <childnode refid="565" relation="include">
         </childnode>
         <childnode refid="566" relation="include">
-        </childnode>
-        <childnode refid="510" relation="include">
         </childnode>
         <childnode refid="567" relation="include">
         </childnode>
@@ -5581,21 +5571,23 @@
         </childnode>
         <childnode refid="571" relation="include">
         </childnode>
-        <childnode refid="486" relation="include">
-        </childnode>
         <childnode refid="572" relation="include">
         </childnode>
         <childnode refid="573" relation="include">
+        </childnode>
+        <childnode refid="507" relation="include">
         </childnode>
         <childnode refid="574" relation="include">
         </childnode>
         <childnode refid="575" relation="include">
         </childnode>
-        <childnode refid="485" relation="include">
-        </childnode>
-        <childnode refid="511" relation="include">
+        <childnode refid="508" relation="include">
         </childnode>
         <childnode refid="576" relation="include">
+        </childnode>
+        <childnode refid="509" relation="include">
+        </childnode>
+        <childnode refid="510" relation="include">
         </childnode>
         <childnode refid="577" relation="include">
         </childnode>
@@ -5603,13 +5595,7 @@
         </childnode>
         <childnode refid="578" relation="include">
         </childnode>
-        <childnode refid="513" relation="include">
-        </childnode>
-        <childnode refid="514" relation="include">
-        </childnode>
         <childnode refid="579" relation="include">
-        </childnode>
-        <childnode refid="516" relation="include">
         </childnode>
         <childnode refid="580" relation="include">
         </childnode>
@@ -5617,25 +5603,25 @@
         </childnode>
         <childnode refid="582" relation="include">
         </childnode>
-        <childnode refid="583" relation="include">
+        <childnode refid="516" relation="include">
         </childnode>
-        <childnode refid="584" relation="include">
-        </childnode>
-        <childnode refid="520" relation="include">
-        </childnode>
-        <childnode refid="519" relation="include">
-        </childnode>
-        <childnode refid="521" relation="include">
+        <childnode refid="515" relation="include">
         </childnode>
         <childnode refid="517" relation="include">
         </childnode>
-        <childnode refid="522" relation="include">
+        <childnode refid="513" relation="include">
         </childnode>
         <childnode refid="518" relation="include">
+        </childnode>
+        <childnode refid="514" relation="include">
         </childnode>
         <childnode refid="55" relation="include">
         </childnode>
         <childnode refid="50" relation="include">
+        </childnode>
+        <childnode refid="583" relation="include">
+        </childnode>
+        <childnode refid="584" relation="include">
         </childnode>
         <childnode refid="585" relation="include">
         </childnode>
@@ -5645,17 +5631,17 @@
         </childnode>
         <childnode refid="588" relation="include">
         </childnode>
-        <childnode refid="589" relation="include">
-        </childnode>
         <childnode refid="590" relation="include">
         </childnode>
+        <childnode refid="591" relation="include">
+        </childnode>
         <childnode refid="592" relation="include">
+        </childnode>
+        <childnode refid="589" relation="include">
         </childnode>
         <childnode refid="593" relation="include">
         </childnode>
         <childnode refid="594" relation="include">
-        </childnode>
-        <childnode refid="591" relation="include">
         </childnode>
         <childnode refid="595" relation="include">
         </childnode>
@@ -5679,45 +5665,45 @@
         </childnode>
         <childnode refid="605" relation="include">
         </childnode>
+        <childnode refid="350" relation="include">
+        </childnode>
         <childnode refid="606" relation="include">
         </childnode>
-        <childnode refid="607" relation="include">
-        </childnode>
-        <childnode refid="351" relation="include">
-        </childnode>
-        <childnode refid="608" relation="include">
-        </childnode>
-        <childnode refid="349" relation="include">
+        <childnode refid="348" relation="include">
         </childnode>
         <childnode refid="56" relation="include">
         </childnode>
-        <childnode refid="609" relation="include">
+        <childnode refid="607" relation="include">
         </childnode>
-        <childnode refid="500" relation="include">
+        <childnode refid="496" relation="include">
+        </childnode>
+        <childnode refid="608" relation="include">
+        </childnode>
+        <childnode refid="609" relation="include">
         </childnode>
         <childnode refid="610" relation="include">
         </childnode>
+        <childnode refid="450" relation="include">
+        </childnode>
         <childnode refid="611" relation="include">
-        </childnode>
-        <childnode refid="612" relation="include">
-        </childnode>
-        <childnode refid="451" relation="include">
         </childnode>
         <childnode refid="613" relation="include">
         </childnode>
-        <childnode refid="615" relation="include">
+        <childnode refid="612" relation="include">
+        </childnode>
+        <childnode refid="351" relation="include">
+        </childnode>
+        <childnode refid="497" relation="include">
         </childnode>
         <childnode refid="614" relation="include">
-        </childnode>
-        <childnode refid="352" relation="include">
-        </childnode>
-        <childnode refid="501" relation="include">
-        </childnode>
-        <childnode refid="616" relation="include">
         </childnode>
         <childnode refid="58" relation="include">
         </childnode>
         <childnode refid="51" relation="include">
+        </childnode>
+        <childnode refid="615" relation="include">
+        </childnode>
+        <childnode refid="616" relation="include">
         </childnode>
         <childnode refid="617" relation="include">
         </childnode>
@@ -5725,21 +5711,21 @@
         </childnode>
         <childnode refid="619" relation="include">
         </childnode>
-        <childnode refid="620" relation="include">
-        </childnode>
-        <childnode refid="621" relation="include">
-        </childnode>
         <childnode refid="59" relation="include">
         </childnode>
         <childnode refid="52" relation="include">
         </childnode>
-        <childnode refid="331" relation="include">
+        <childnode refid="330" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
         </childnode>
-        <childnode refid="622" relation="include">
+        <childnode refid="620" relation="include">
         </childnode>
         <childnode refid="53" relation="include">
+        </childnode>
+        <childnode refid="621" relation="include">
+        </childnode>
+        <childnode refid="622" relation="include">
         </childnode>
         <childnode refid="623" relation="include">
         </childnode>
@@ -5759,9 +5745,9 @@
         </childnode>
         <childnode refid="631" relation="include">
         </childnode>
-        <childnode refid="632" relation="include">
-        </childnode>
         <childnode refid="633" relation="include">
+        </childnode>
+        <childnode refid="634" relation="include">
         </childnode>
         <childnode refid="635" relation="include">
         </childnode>
@@ -5772,8 +5758,6 @@
         <childnode refid="638" relation="include">
         </childnode>
         <childnode refid="639" relation="include">
-        </childnode>
-        <childnode refid="640" relation="include">
         </childnode>
         <childnode refid="641" relation="include">
         </childnode>
@@ -5789,11 +5773,13 @@
         </childnode>
         <childnode refid="653" relation="include">
         </childnode>
+        <childnode refid="654" relation="include">
+        </childnode>
+        <childnode refid="340" relation="include">
+        </childnode>
         <childnode refid="655" relation="include">
         </childnode>
         <childnode refid="656" relation="include">
-        </childnode>
-        <childnode refid="341" relation="include">
         </childnode>
         <childnode refid="657" relation="include">
         </childnode>
@@ -5803,33 +5789,29 @@
         </childnode>
         <childnode refid="660" relation="include">
         </childnode>
+        <childnode refid="665" relation="include">
+        </childnode>
         <childnode refid="661" relation="include">
         </childnode>
-        <childnode refid="662" relation="include">
+        <childnode refid="666" relation="include">
         </childnode>
         <childnode refid="667" relation="include">
         </childnode>
-        <childnode refid="663" relation="include">
-        </childnode>
         <childnode refid="668" relation="include">
+        </childnode>
+        <childnode refid="662" relation="include">
         </childnode>
         <childnode refid="669" relation="include">
         </childnode>
         <childnode refid="670" relation="include">
         </childnode>
-        <childnode refid="664" relation="include">
+        <childnode refid="663" relation="include">
         </childnode>
         <childnode refid="671" relation="include">
         </childnode>
+        <childnode refid="664" relation="include">
+        </childnode>
         <childnode refid="672" relation="include">
-        </childnode>
-        <childnode refid="665" relation="include">
-        </childnode>
-        <childnode refid="673" relation="include">
-        </childnode>
-        <childnode refid="666" relation="include">
-        </childnode>
-        <childnode refid="674" relation="include">
         </childnode>
       </node>
     </invincdepgraph>
@@ -5882,6 +5864,31 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#if<sp/>defined(_MSC_VER)</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_SHARED_API<sp/>__declspec(dllimport)</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_LOCAL_API</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_SHARED_CLASS</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL()<sp/>RTTI_INFO_DECL_EX(ASPOSE_WORDS_SHARED_API)</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="preprocessor">#elif<sp/>defined(__GNUC__)</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_SHARED_API</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_LOCAL_API</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_SHARED_CLASS</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL()<sp/>RTTI_INFO_DECL()</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/aspose_words_api_defs.h"/>
   </compounddef>
 </doxygen>

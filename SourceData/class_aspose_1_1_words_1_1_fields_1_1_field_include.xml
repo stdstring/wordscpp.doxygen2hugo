@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="64" column="26" bodyfile="Aspose.Words.Cpp/Fields/FieldInclude.h" bodystart="64" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1a6c072f7dcf30fb936b793be62a78fc99" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldInclude::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -94,7 +94,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="186" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1a1ab47831a3abc41f23a50c248c657cad" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInclude::get_NamespaceMappings</definition>
         <argsstring>() override</argsstring>
         <name>get_NamespaceMappings</name>
@@ -122,7 +122,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="193" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1a3a90be7f503b8f36721a501fa6d8a45b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInclude::get_XPath</definition>
         <argsstring>() override</argsstring>
         <name>get_XPath</name>
@@ -136,7 +136,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="191" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1a8e3e6a5abee9ef27f03bac97c0e8a216" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInclude::get_XslTransformation</definition>
         <argsstring>() override</argsstring>
         <name>get_XslTransformation</name>
@@ -156,7 +156,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldInclude::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -181,7 +181,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="70" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1a383458d43d44b1543978da517281b7ea" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldInclude::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -198,7 +198,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1a0fc3eea0321ada5d9744cf405eb89829" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInclude::get_BookmarkName</definition>
         <argsstring>() override</argsstring>
         <name>get_BookmarkName</name>
@@ -220,7 +220,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
 <codeline><highlight class="normal">field-&gt;set_LockFields(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">field-&gt;set_TextConverter(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Word&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -253,7 +253,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
 <codeline><highlight class="normal">field-&gt;set_LockFields(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">field-&gt;set_TextConverter(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Word&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -264,7 +264,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="150" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1aa118f4ea812f9e6321b01e07a4c10a6b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInclude::get_SourceFullName</definition>
         <argsstring>() override</argsstring>
         <name>get_SourceFullName</name>
@@ -286,7 +286,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
 <codeline><highlight class="normal">field-&gt;set_LockFields(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">field-&gt;set_TextConverter(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Word&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -297,7 +297,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
         <location file="Aspose.Words.Cpp/Fields/FieldInclude.h" line="96" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_1ac815254a1b0426f5c5ee9c5daa34df3b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldInclude::get_TextConverter</definition>
         <argsstring>() override</argsstring>
         <name>get_TextConverter</name>
@@ -319,7 +319,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
 <codeline><highlight class="normal">field-&gt;set_LockFields(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">field-&gt;set_TextConverter(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Word&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -336,7 +336,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
         <name>set_BookmarkName</name>
         <qualifiedname>Aspose::Words::Fields::FieldInclude::set_BookmarkName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -374,7 +374,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
         <name>set_SourceFullName</name>
         <qualifiedname>Aspose::Words::Fields::FieldInclude::set_SourceFullName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -393,7 +393,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
         <name>set_TextConverter</name>
         <qualifiedname>Aspose::Words::Fields::FieldInclude::set_TextConverter</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -423,7 +423,7 @@ Shows how to create an INCLUDE field, and set its properties. <programlisting><c
 <codeline><highlight class="normal">field-&gt;set_LockFields(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">field-&gt;set_TextConverter(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Word&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(field-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDE<sp/>.*<sp/>MyBookmark1<sp/>\\\\c<sp/>\&quot;Microsoft<sp/>Word\&quot;&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>

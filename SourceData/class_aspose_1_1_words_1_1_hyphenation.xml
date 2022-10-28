@@ -16,12 +16,12 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="115" column="25" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="115" bodyend="-1"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="116" column="25" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="116" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-static-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1ad52623249651c0ee0ab691931cc931a5" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_hyphenation_callback" kindref="compound">Aspose::Words::IHyphenationCallback</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_hyphenation_callback" kindref="compound">Aspose::Words::IHyphenationCallback</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::IHyphenationCallback &gt; Aspose::Words::Hyphenation::get_Callback</definition>
         <argsstring>()</argsstring>
         <name>get_Callback</name>
@@ -100,10 +100,10 @@ Shows how to open and register a dictionary from a file. <programlisting><codeli
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="194" column="33"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="195" column="33"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a25640c3f46e9cd177cb8c4b5c3e82098" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; Aspose::Words::Hyphenation::get_WarningCallback</definition>
         <argsstring>()</argsstring>
         <name>get_WarningCallback</name>
@@ -182,7 +182,7 @@ Shows how to open and register a dictionary from a file. <programlisting><codeli
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="273" column="33"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="274" column="33"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -191,7 +191,7 @@ Shows how to open and register a dictionary from a file. <programlisting><codeli
         <name>IsDictionaryRegistered</name>
         <qualifiedname>Aspose::Words::Hyphenation::IsDictionaryRegistered</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>language</declname>
         </param>
         <briefdescription>
@@ -231,7 +231,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="544" column="20"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="545" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -240,11 +240,11 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         <name>RegisterDictionary</name>
         <qualifiedname>Aspose::Words::Hyphenation::RegisterDictionary</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>language</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>stream</declname>
         </param>
         <briefdescription>
@@ -338,7 +338,7 @@ Shows how to open and register a dictionary from a file. <programlisting><codeli
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="355" column="20"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="356" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a70360647cd27c8690e2899f94f56d16c" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -347,11 +347,11 @@ Shows how to open and register a dictionary from a file. <programlisting><codeli
         <name>RegisterDictionary</name>
         <qualifiedname>Aspose::Words::Hyphenation::RegisterDictionary</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>language</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>fileName</declname>
         </param>
         <briefdescription>
@@ -473,7 +473,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="468" column="20"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="469" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1ac6a96f1a7fb3cbbbd6b52cb40869279f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
         <templateparamlist>
@@ -490,7 +490,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         <name>RegisterDictionary</name>
         <qualifiedname>Aspose::Words::Hyphenation::RegisterDictionary</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
           <declname>language</declname>
         </param>
         <param>
@@ -503,7 +503,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="547" column="17" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="547" bodyend="551"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="548" column="17" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="548" bodyend="552"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -512,7 +512,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         <name>set_Callback</name>
         <qualifiedname>Aspose::Words::Hyphenation::set_Callback</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_hyphenation_callback" kindref="compound">Aspose::Words::IHyphenationCallback</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_hyphenation_callback" kindref="compound">Aspose::Words::IHyphenationCallback</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -522,7 +522,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="197" column="20"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="198" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -531,7 +531,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         <name>set_WarningCallback</name>
         <qualifiedname>Aspose::Words::Hyphenation::set_WarningCallback</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -541,7 +541,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="276" column="20"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="277" column="20"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a1edafa8f4e749ef860c718706de69a62" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -550,7 +550,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         <name>UnregisterDictionary</name>
         <qualifiedname>Aspose::Words::Hyphenation::UnregisterDictionary</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>language</declname>
         </param>
         <briefdescription>
@@ -599,7 +599,7 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="508" column="20"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="509" column="20"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -615,11 +615,11 @@ Shows how to register a hyphenation dictionary. <programlisting><codeline><highl
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Aspose.Words.Cpp/Hyphenation.h" line="558" column="5"/>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="559" column="5"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
-<para>Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated. </para>
+<para>Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated. To learn more, visit the <ulink url="https://docs.aspose.com/words/net/working-with-hyphenation/">Working with Hyphenation</ulink> documentation article. </para>
     </briefdescription>
     <detaileddescription>
 <para><simplesect kind="par"><title>Examples</title><para></para>
@@ -690,7 +690,7 @@ Shows how to open and register a dictionary from a file. <programlisting><codeli
 <codeline><highlight class="normal">};</highlight></codeline>
 </programlisting> </para>
     </detaileddescription>
-    <location file="Aspose.Words.Cpp/Hyphenation.h" line="113" column="1" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="114" bodyend="559"/>
+    <location file="Aspose.Words.Cpp/Hyphenation.h" line="114" column="1" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="115" bodyend="560"/>
     <listofallmembers>
       <member refid="class_aspose_1_1_words_1_1_hyphenation_1ad52623249651c0ee0ab691931cc931a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>get_Callback</name></member>
       <member refid="class_aspose_1_1_words_1_1_hyphenation_1a25640c3f46e9cd177cb8c4b5c3e82098" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>get_WarningCallback</name></member>

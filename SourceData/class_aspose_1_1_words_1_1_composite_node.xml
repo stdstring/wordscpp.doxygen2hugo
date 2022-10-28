@@ -35,7 +35,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="122" column="33" bodyfile="Aspose.Words.Cpp/CompositeNode.h" bodystart="122" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_composite_node_1a6c9203f3781a08ae865c8d4e13977027" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Node&gt; &gt; Aspose::Words::CompositeNode::BaseType1</definition>
         <argsstring></argsstring>
         <name>BaseType1</name>
@@ -77,7 +77,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="121" column="27" bodyfile="Aspose.Words.Cpp/CompositeNode.h" bodystart="121" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_composite_node_1acebf92279dd2da1db923c32743b3e462" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType1</ref>, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType1</ref>, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::CompositeNode::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -93,7 +93,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_composite_node_1a930cb11a53f75ed36e39832d8226b0c8" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::CompositeNode::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -107,7 +107,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1265" column="23" bodyfile="Aspose.Words.Cpp/CompositeNode.h" bodystart="1265" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_composite_node_1ac0e5e9a22adfe9eab810db2d3269e3b9" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::CompositeNode::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -121,7 +121,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1266" column="23" bodyfile="Aspose.Words.Cpp/CompositeNode.h" bodystart="1266" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_composite_node_1a8b1dd18d0b37f00762732a1ef45581c7" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::CompositeNode::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -188,7 +188,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_tables_1_1_row_1a8deeba4a1299873fca23a858bb688fac">AcceptEnd</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_tables_1_1_table_1a1793596066890401087435fc0d94819e">AcceptEnd</reimplementedby>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -222,7 +222,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_tables_1_1_row_1a3030fd2fdac0b9d1e62414aab2682c64">AcceptStart</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_tables_1_1_table_1a65c7dc97dff8e2ed738f9342eb540920">AcceptStart</reimplementedby>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -255,7 +255,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_tables_1_1_row_1a8838b41d1376ab44bcae31920bd00417">CanInsert</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_tables_1_1_table_1ae8013cd2286567e56f573a0e568bceaf">CanInsert</reimplementedby>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -266,7 +266,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1257" column="18"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1ae90ecec13614a52c3ab6fe645fb88807" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::Clone</definition>
         <argsstring>(bool, System::SharedPtr&lt; Aspose::Words::INodeCloningListener &gt;) override</argsstring>
         <name>Clone</name>
@@ -290,7 +290,7 @@
           <type>bool</type>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::INodeCloningListener &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::INodeCloningListener &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -301,7 +301,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1247" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1ad68bbc1bfe8fa2e07e9885743c6d16a9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">Aspose::Words::CompositeNode</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">Aspose::Words::CompositeNode</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::CompositeNode &gt; Aspose::Words::CompositeNode::get_Container</definition>
         <argsstring>() override</argsstring>
         <name>get_Container</name>
@@ -315,7 +315,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1263" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1ab8162dc3990b8e9af09036cf108637c0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::GetCurrentNode</definition>
         <argsstring>() override</argsstring>
         <name>GetCurrentNode</name>
@@ -329,7 +329,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1270" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a5d9f331ff03846906b8a0840dc9df3a3" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>virtual System::String Aspose::Words::CompositeNode::GetEndText</definition>
         <argsstring>()</argsstring>
         <name>GetEndText</name>
@@ -345,13 +345,13 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1252" column="31"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a6c5268f6b25ce8fedb4d08b08787d5af" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::GetNextMatchingNode</definition>
         <argsstring>(System::SharedPtr&lt; Aspose::Words::Node &gt;) override</argsstring>
         <name>GetNextMatchingNode</name>
         <qualifiedname>Aspose::Words::CompositeNode::GetNextMatchingNode</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -362,7 +362,7 @@
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1269" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1aa9a29b9508bfecc3e9ce16a2c28b9e02" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::GetNodeFromPos</definition>
         <argsstring>(int32_t) override</argsstring>
         <name>GetNodeFromPos</name>
@@ -402,7 +402,7 @@
         <qualifiedname>Aspose::Words::CompositeNode::GetTextToBuilder</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_node_1ac78f2ffd99e6e2b5227d6165502a824b">GetTextToBuilder</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.string_builder/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::StringBuilder</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.string_builder/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::StringBuilder</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -429,13 +429,13 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1af74bc4213aebbe5fd01d2fc0f08b2bec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::AppendChild</definition>
         <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;newChild)</argsstring>
         <name>AppendChild</name>
         <qualifiedname>Aspose::Words::CompositeNode::AppendChild</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>newChild</declname>
         </param>
         <briefdescription>
@@ -491,7 +491,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -504,7 +504,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="789" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a98d9935dcf818989566431ab3b75bbed" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::NodeCollection &gt; Aspose::Words::CompositeNode::get_ChildNodes</definition>
         <argsstring>()</argsstring>
         <name>get_ChildNodes</name>
@@ -628,7 +628,7 @@ Shows how to add, update and delete child nodes in a <ref refid="class_aspose_1_
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="404" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a052d0e4560975f6c19c77bf19d82eedf" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::get_FirstChild</definition>
         <argsstring>() const</argsstring>
         <name>get_FirstChild</name>
@@ -780,7 +780,7 @@ Shows how to traverse a composite node&apos;s tree of child nodes. <programlisti
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="178" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a58fae512d8549219b7c3a17ef2d46439" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::get_LastChild</definition>
         <argsstring>() const</argsstring>
         <name>get_LastChild</name>
@@ -817,7 +817,7 @@ Shows how to use of methods of <ref refid="class_aspose_1_1_words_1_1_node" kind
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="352" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a6d961b080681f8dc6ee551c6c0ce44da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::GetChild</definition>
         <argsstring>(Aspose::Words::NodeType nodeType, int32_t index, bool isDeep)</argsstring>
         <name>GetChild</name>
@@ -879,8 +879,8 @@ Shows how to apply the properties of a table&apos;s style directly to the table&
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">tableStyle-&gt;set_RowStripe(3);</highlight></codeline>
 <codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
-<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
-<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
@@ -940,7 +940,7 @@ Shows how to apply the properties of a table&apos;s style directly to the table&
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="658" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::NodeCollection &gt; Aspose::Words::CompositeNode::GetChildNodes</definition>
         <argsstring>(Aspose::Words::NodeType nodeType, bool isDeep)</argsstring>
         <name>GetChildNodes</name>
@@ -1075,7 +1075,7 @@ Shows how to print all of a document&apos;s comments and their replies. <program
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="570" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a6d3cc4280067e07fd504c11e6c968419" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt; &gt; Aspose::Words::CompositeNode::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -1136,7 +1136,7 @@ Shows how to traverse through a composite node&apos;s collection of child nodes.
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="730" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a08b4d2cc617495b60d85a550422e2d8f" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::CompositeNode::GetText</definition>
         <argsstring>() override</argsstring>
         <name>GetText</name>
@@ -1200,7 +1200,7 @@ Shows the difference between calling the GetText and ToString methods on a node.
         <name>IndexOf</name>
         <qualifiedname>Aspose::Words::CompositeNode::IndexOf</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>child</declname>
         </param>
         <briefdescription>
@@ -1222,17 +1222,17 @@ Shows how to get the index of a given child node from its parent. <programlistin
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1240" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::InsertAfter</definition>
         <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;newChild, const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;refChild)</argsstring>
         <name>InsertAfter</name>
         <qualifiedname>Aspose::Words::CompositeNode::InsertAfter</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>newChild</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>refChild</declname>
         </param>
         <briefdescription>
@@ -1357,17 +1357,17 @@ Shows how to add, update and delete child nodes in a <ref refid="class_aspose_1_
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="963" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::InsertBefore</definition>
         <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;newChild, const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;refChild)</argsstring>
         <name>InsertBefore</name>
         <qualifiedname>Aspose::Words::CompositeNode::InsertBefore</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>newChild</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>refChild</declname>
         </param>
         <briefdescription>
@@ -1448,13 +1448,13 @@ Shows how to add, update and delete child nodes in a <ref refid="class_aspose_1_
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1028" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1abae3ff6d970ba209cf4eb1c539b205ee" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::PrependChild</definition>
         <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;newChild)</argsstring>
         <name>PrependChild</name>
         <qualifiedname>Aspose::Words::CompositeNode::PrependChild</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>newChild</declname>
         </param>
         <briefdescription>
@@ -1571,7 +1571,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -1584,13 +1584,13 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1111" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a28888dd687866f66b3bb221e63b5063c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::RemoveChild</definition>
         <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;oldChild)</argsstring>
         <name>RemoveChild</name>
         <qualifiedname>Aspose::Words::CompositeNode::RemoveChild</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
           <declname>oldChild</declname>
         </param>
         <briefdescription>
@@ -1748,13 +1748,13 @@ Removes all smart tags from descendant nodes of a composite node. <programlistin
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="1225" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1a553923ba5225bd3d28f1960b72b45f4f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_list" kindref="compound">Aspose::Words::NodeList</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_list" kindref="compound">Aspose::Words::NodeList</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::NodeList &gt; Aspose::Words::CompositeNode::SelectNodes</definition>
         <argsstring>(const System::String &amp;xpath)</argsstring>
         <name>SelectNodes</name>
         <qualifiedname>Aspose::Words::CompositeNode::SelectNodes</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>xpath</declname>
         </param>
         <briefdescription>
@@ -1780,13 +1780,13 @@ Removes all smart tags from descendant nodes of a composite node. <programlistin
         <location file="Aspose.Words.Cpp/CompositeNode.h" line="668" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_composite_node_1aa2eb340deba06c3dcb7cc29dfeca5a99" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::CompositeNode::SelectSingleNode</definition>
         <argsstring>(const System::String &amp;xpath)</argsstring>
         <name>SelectSingleNode</name>
         <qualifiedname>Aspose::Words::CompositeNode::SelectSingleNode</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>xpath</declname>
         </param>
         <briefdescription>

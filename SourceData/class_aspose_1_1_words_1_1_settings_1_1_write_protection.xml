@@ -6,7 +6,7 @@
     <includes refid="_write_protection_8h" local="no">Aspose.Words.Cpp/Settings/WriteProtection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_write_protection_1a8201c4dfca6f5cb4181c6d3a27344f53" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Settings::WriteProtection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Settings/WriteProtection.h" line="61" column="29" bodyfile="Aspose.Words.Cpp/Settings/WriteProtection.h" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_write_protection_1ae668bfa79d7dd3a0d69bdbdc48bd66ef" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Settings::WriteProtection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Settings/WriteProtection.h" line="208" column="23" bodyfile="Aspose.Words.Cpp/Settings/WriteProtection.h" bodystart="208" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_write_protection_1aaff37754305f6893222dbfbc39e14290" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Settings::WriteProtection::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Settings/WriteProtection.h" line="209" column="20" bodyfile="Aspose.Words.Cpp/Settings/WriteProtection.h" bodystart="209" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_write_protection_1acf968aeb12f24d9f8a60783cf9121ee3" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Settings::WriteProtection::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -229,7 +229,7 @@ Shows how to protect a document with a password. <programlisting><codeline><high
         <name>SetPassword</name>
         <qualifiedname>Aspose::Words::Settings::WriteProtection::SetPassword</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>password</declname>
         </param>
         <briefdescription>
@@ -283,7 +283,7 @@ Shows how to protect a document with a password. <programlisting><codeline><high
         <name>ValidatePassword</name>
         <qualifiedname>Aspose::Words::Settings::WriteProtection::ValidatePassword</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>password</declname>
         </param>
         <briefdescription>

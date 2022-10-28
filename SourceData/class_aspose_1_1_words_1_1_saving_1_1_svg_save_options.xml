@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="82" column="28" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="82" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a05d7d1e8eab70c16059a2390b1b962a1" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::SvgSaveOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a57f73be44078a341d81a46ac504d3a1e" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::SvgSaveOptions::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="437" column="23" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="437" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a118b07bce9eea4061b25a1fba7af9d35" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::SvgSaveOptions::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="438" column="20" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="438" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab5338eab9fe983fc56deee4c11ec6ab9" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::SvgSaveOptions::mField4</definition>
         <argsstring></argsstring>
         <name>mField4</name>
@@ -203,7 +203,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -258,7 +258,7 @@ Shows how to mimic the properties of images when converting a .docx document to 
         <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="376" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a196a65b03d67d07839e002db0f0e7a75" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Saving::IResourceSavingCallback &gt; Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourceSavingCallback</name>
@@ -281,7 +281,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -309,7 +309,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
         <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="424" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourcesFolder</name>
@@ -338,7 +338,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -366,7 +366,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
         <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="248" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias</definition>
         <argsstring>() const</argsstring>
         <name>get_ResourcesFolderAlias</name>
@@ -392,7 +392,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -444,7 +444,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -572,7 +572,7 @@ Shows how to mimic the properties of images when converting a .docx document to 
         <name>set_ResourceSavingCallback</name>
         <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ResourceSavingCallback</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -591,7 +591,7 @@ Shows how to mimic the properties of images when converting a .docx document to 
         <name>set_ResourcesFolder</name>
         <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -610,7 +610,7 @@ Shows how to mimic the properties of images when converting a .docx document to 
         <name>set_ResourcesFolderAlias</name>
         <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolderAlias</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -699,7 +699,7 @@ Shows how to manipulate and print the URIs of linked resources created while con
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -784,7 +784,6 @@ Shows how to manipulate and print the URIs of linked resources created while con
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac857fd598476ac0239cc510a5a3208d4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ExportEmbeddedImages</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ExportGeneratorName</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab7b9051a5a9b6965758aa2261889ff69" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_FitToViewPort</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ImlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_JpegQuality</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_MemoryOptimization</name></member>
@@ -827,7 +826,6 @@ Shows how to manipulate and print the URIs of linked resources created while con
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9b042c4f533ac20b5bf4450d81101ea4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ExportEmbeddedImages</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ExportGeneratorName</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a218630bcfbbc425d025e164f0ed49f0d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_FitToViewPort</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ImlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_JpegQuality</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_MemoryOptimization</name></member>

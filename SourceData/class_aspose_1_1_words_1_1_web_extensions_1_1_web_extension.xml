@@ -6,7 +6,7 @@
     <includes refid="_web_extension_8h" local="no">Aspose.Words.Cpp/WebExtensions/WebExtension.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1addf9c749b3ba112e9645170a6acd366b" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::WebExtensions::WebExtension::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="81" column="26" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtension.h" bodystart="81" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1ae299f90355b5b8a667e6154ff5682b76" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::WebExtensions::WebExtension::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1ab27fdc1ddbac6139060e6928066953f1" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::WebExtensions::WebExtension::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="284" column="23" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtension.h" bodystart="284" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1a043e7c2bde56ef1d6e82f46bf1478a60" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WebExtensions::WebExtension::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="285" column="23" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtension.h" bodystart="285" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1a6756a6d527dbc7f3fc310376c878cddf" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WebExtensions::WebExtension::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="286" column="23" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtension.h" bodystart="286" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1ac387fbd6b1541368b8510637d3cbe578" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WebExtensions::WebExtension::mField4</definition>
         <argsstring></argsstring>
         <name>mField4</name>
@@ -120,7 +120,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="287" column="23" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtension.h" bodystart="287" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1a3d22c55464acd358af4c0af37f5d7c9b" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WebExtensions::WebExtension::mField5</definition>
         <argsstring></argsstring>
         <name>mField5</name>
@@ -134,7 +134,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="288" column="23" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtension.h" bodystart="288" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1a6e04ee7fabafeb55a77f91102f6e5b40" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WebExtensions::WebExtension::mField6</definition>
         <argsstring></argsstring>
         <name>mField6</name>
@@ -180,7 +180,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1af4212bd59c4e399396e87554f38d0d03" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_collection" kindref="compound">Aspose::Words::WebExtensions::WebExtensionReferenceCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_collection" kindref="compound">Aspose::Words::WebExtensions::WebExtensionReferenceCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::WebExtensions::WebExtensionReferenceCollection &gt; Aspose::Words::WebExtensions::WebExtension::get_AlternateReferences</definition>
         <argsstring>() const</argsstring>
         <name>get_AlternateReferences</name>
@@ -195,7 +195,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="231" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1adbc616b60def01d42975240b2c8327ce" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_binding_collection" kindref="compound">Aspose::Words::WebExtensions::WebExtensionBindingCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_binding_collection" kindref="compound">Aspose::Words::WebExtensions::WebExtensionBindingCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::WebExtensions::WebExtensionBindingCollection &gt; Aspose::Words::WebExtensions::WebExtension::get_Bindings</definition>
         <argsstring>() const</argsstring>
         <name>get_Bindings</name>
@@ -227,7 +227,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -248,7 +248,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="228" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1a6508198db918d3fddfba376c9546f060" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::WebExtensions::WebExtension::get_Id</definition>
         <argsstring>() const</argsstring>
         <name>get_Id</name>
@@ -295,7 +295,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -316,7 +316,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="137" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1aa79bdc961c0b6350c35c199a856d2f67" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound">Aspose::Words::WebExtensions::WebExtensionPropertyCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound">Aspose::Words::WebExtensions::WebExtensionPropertyCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::WebExtensions::WebExtensionPropertyCollection &gt; Aspose::Words::WebExtensions::WebExtension::get_Properties</definition>
         <argsstring>() const</argsstring>
         <name>get_Properties</name>
@@ -348,7 +348,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -369,7 +369,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/WebExtensions/WebExtension.h" line="275" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_1ab8829e0ea906c99f193cbcc40db3b635" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference" kindref="compound">Aspose::Words::WebExtensions::WebExtensionReference</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference" kindref="compound">Aspose::Words::WebExtensions::WebExtensionReference</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::WebExtensions::WebExtensionReference &gt; Aspose::Words::WebExtensions::WebExtension::get_Reference</definition>
         <argsstring>() const</argsstring>
         <name>get_Reference</name>
@@ -401,7 +401,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -428,7 +428,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
         <name>set_Id</name>
         <qualifiedname>Aspose::Words::WebExtensions::WebExtension::set_Id</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -487,7 +487,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

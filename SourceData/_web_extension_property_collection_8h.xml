@@ -9,8 +9,6 @@
       <node id="5">
         <label>Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h</label>
         <link refid="_base_web_extension_collection_8h_source"/>
-        <childnode refid="3" relation="include">
-        </childnode>
         <childnode refid="6" relation="include">
         </childnode>
         <childnode refid="7" relation="include">
@@ -24,6 +22,8 @@
         <childnode refid="11" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
         </childnode>
         <childnode refid="4" relation="include">
         </childnode>
@@ -50,26 +50,29 @@
         <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
         <link refid="aspose__words__api__defs_8h_source"/>
       </node>
-      <node id="12">
+      <node id="13">
         <label>cstdint</label>
       </node>
-      <node id="11">
+      <node id="12">
         <label>system/collections/ienumerable.h</label>
       </node>
-      <node id="10">
+      <node id="11">
         <label>system/collections/ienumerator.h</label>
       </node>
-      <node id="9">
+      <node id="10">
         <label>system/collections/list.h</label>
       </node>
-      <node id="8">
+      <node id="9">
         <label>system/constraints.h</label>
       </node>
-      <node id="7">
+      <node id="8">
         <label>system/details/pointer_collection_helpers.h</label>
       </node>
-      <node id="6">
+      <node id="7">
         <label>system/exceptions.h</label>
+      </node>
+      <node id="6">
+        <label>system/object_ext.h</label>
       </node>
       <node id="3">
         <label>system/string.h</label>
@@ -83,6 +86,49 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/WebExtensions/WebExtensionProperty.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">WebExtensions<sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63" refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal">ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound" tooltip="Specifies a set of web extension custom properties.">WebExtensionPropertyCollection</ref><sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection" kindref="compound" tooltip="Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and ...">Aspose::Words::WebExtensions::BaseWebExtensionCollection</ref>&lt;System::SharedPtr&lt;Aspose::Words::WebExtensions::WebExtensionProperty&gt;&gt;</highlight></codeline>
+<codeline lineno="64"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound" tooltip="Specifies a set of web extension custom properties.">WebExtensionPropertyCollection</ref><sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound" tooltip="Specifies a set of web extension custom properties.">ThisType</ref>;</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection" kindref="compound" tooltip="Base class for TaskPaneCollection, WebExtensionBindingCollection, WebExtensionPropertyCollection and ...">Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt;System::SharedPtr&lt;Aspose::Words::WebExtensions::WebExtensionProperty&gt;</ref>&gt;<sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection" kindref="compound">BaseType</ref>;</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal"><sp/><sp/><sp/><sp/>typedef<sp/>::System::BaseTypesInfo&lt;BaseType&gt;<sp/><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">ThisTypeBaseTypesInfo</ref>;</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_RTTI_INFO_DECL();</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="71"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight></codeline>
+<codeline lineno="73" refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection_1a3671f625d11f07e44300f09fcf2715d6" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_WORDS_SHARED_API<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection_1a3671f625d11f07e44300f09fcf2715d6" kindref="member">SetTemplateWeakPtr</ref>(uint32_t<sp/>argument)<sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound" tooltip="Specifies a set of web extension custom properties.">WebExtensionPropertyCollection</ref>();</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"></highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">virtual</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_property_collection" kindref="compound" tooltip="Specifies a set of web extension custom properties.">~WebExtensionPropertyCollection</ref>();</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="83"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="84"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="85"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionPropertyCollection.h"/>
   </compounddef>
 </doxygen>

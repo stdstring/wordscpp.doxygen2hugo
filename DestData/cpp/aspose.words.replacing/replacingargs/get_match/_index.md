@@ -28,11 +28,9 @@ void ConvertNumbersToHexadecimal()
     auto builder = MakeObject<DocumentBuilder>(doc);
 
     builder->get_Font()->set_Name(u"Arial");
-    builder->Writeln(String(u"Numbers that the find-and-replace operation will convert to hexadecimal and highlight:
+    builder->Writeln(String(u"Numbers that the find-and-replace operation will convert to hexadecimal and highlight:") + u"123, 456, 789 and 17379.");
 
-") + u"123, 456, 789 and 17379.");
-
-    // We can use a "[FindReplaceOptions](../../findreplaceoptions/)" object to modify the find-and-replace process.
+    // We can use a "FindReplaceOptions" object to modify the find-and-replace process.
     auto options = MakeObject<FindReplaceOptions>();
 
     // Set the "HighlightColor" property to a background color that we want to apply to the operation's resulting text.
@@ -77,11 +75,12 @@ public:
         mLog->AppendLine(String::Format(u"\tOffset in parent {0} node:\t{1}", args->get_MatchNode()->get_NodeType(), args->get_MatchOffset()));
 
         mLog->AppendLine(String::IsNullOrEmpty(args->get_GroupName()) ? String::Format(u"\tGroup index:\t{0}", args->get_GroupIndex())
-                                                                      : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));
+                                                                      : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
 
-        return ReplaceAction::Replace; }
+        return ReplaceAction::Replace;
+    }
 
-    String GetLog() { return mLog->**ToString(); }
+    String GetLog() { return mLog->ToString(); }
 
     NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }
 

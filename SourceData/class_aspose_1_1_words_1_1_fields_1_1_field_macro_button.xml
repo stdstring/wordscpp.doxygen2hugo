@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="80" column="30" bodyfile="Aspose.Words.Cpp/Fields/FieldMacroButton.h" bodystart="80" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a9d6fdda2a89a585a70827bc82d485b55" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldMacroButton::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -79,7 +79,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="181" column="10"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6f84bf7f425584c10a6c7cf332d3ddeb" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldMacroButton::GetFakeResult</definition>
         <argsstring>() override</argsstring>
         <name>GetFakeResult</name>
@@ -94,7 +94,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="176" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a41a23c4ed1ca1935bcf150c757d70766" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldMacroButton::GetMergeFieldName</definition>
         <argsstring>() override</argsstring>
         <name>GetMergeFieldName</name>
@@ -138,7 +138,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1aeca5fb779cf6c71ec4da4f7604e72bd7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldMacroButton::get_DisplayText</definition>
         <argsstring>()</argsstring>
         <name>get_DisplayText</name>
@@ -182,7 +182,7 @@ Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros 
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="169" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6f3a00664c368853e23cf80434b85b18" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt; Aspose::Words::Fields::FieldMacroButton::get_End</definition>
         <argsstring>() override</argsstring>
         <name>get_End</name>
@@ -197,7 +197,7 @@ Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros 
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="96" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a5c89c663855851fd9b037c8529f16778" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldMacroButton::get_MacroName</definition>
         <argsstring>()</argsstring>
         <name>get_MacroName</name>
@@ -241,7 +241,7 @@ Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros 
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="131" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a71413c7a79514616ad4f427e22f039d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt; Aspose::Words::Fields::FieldMacroButton::get_Separator</definition>
         <argsstring>() override</argsstring>
         <name>get_Separator</name>
@@ -256,7 +256,7 @@ Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros 
         <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="93" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a98314658f37bd7f8ece9e0e79d4633c6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt; Aspose::Words::Fields::FieldMacroButton::get_Start</definition>
         <argsstring>() override</argsstring>
         <name>get_Start</name>
@@ -277,7 +277,7 @@ Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros 
         <name>set_DisplayText</name>
         <qualifiedname>Aspose::Words::Fields::FieldMacroButton::set_DisplayText</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -296,7 +296,7 @@ Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros 
         <name>set_MacroName</name>
         <qualifiedname>Aspose::Words::Fields::FieldMacroButton::set_MacroName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

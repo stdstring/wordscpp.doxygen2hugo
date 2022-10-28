@@ -2,8 +2,8 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
   <compounddef id="_node_collection_enumerator_8h" kind="file" language="C++">
     <compoundname>NodeCollectionEnumerator.h</compoundname>
-    <includes local="no">system/string.h</includes>
     <includes local="no">system/scope_guard.h</includes>
+    <includes local="no">system/object_ext.h</includes>
     <includes local="no">system/make_const_ref.h</includes>
     <includes local="no">system/exceptions.h</includes>
     <includes local="no">system/details/pointer_collection_helpers.h</includes>
@@ -15,12 +15,12 @@
     <includes refid="_composite_node_8h" local="no">Aspose.Words.Cpp/CompositeNode.h</includes>
     <includedby refid="_node_collection_8h" local="no">Aspose.Words.Cpp/NodeCollection.h</includedby>
     <incdepgraph>
-      <node id="22">
+      <node id="21">
         <label>Aspose.Words.Cpp/CompositeNode.h</label>
         <link refid="_composite_node_8h_source"/>
         <childnode refid="6" relation="include">
         </childnode>
-        <childnode refid="23" relation="include">
+        <childnode refid="22" relation="include">
         </childnode>
         <childnode refid="12" relation="include">
         </childnode>
@@ -30,23 +30,23 @@
         </childnode>
         <childnode refid="10" relation="include">
         </childnode>
-        <childnode refid="21" relation="include">
+        <childnode refid="20" relation="include">
         </childnode>
-        <childnode refid="16" relation="include">
+        <childnode refid="15" relation="include">
         </childnode>
       </node>
-      <node id="17">
+      <node id="16">
         <label>Aspose.Words.Cpp/INodeCloningListener.h</label>
         <link refid="_i_node_cloning_listener_8h_source"/>
-        <childnode refid="18" relation="include">
+        <childnode refid="17" relation="include">
         </childnode>
       </node>
-      <node id="21">
+      <node id="20">
         <label>Aspose.Words.Cpp/INodeCollection.h</label>
         <link refid="_i_node_collection_8h_source"/>
-        <childnode refid="18" relation="include">
+        <childnode refid="17" relation="include">
         </childnode>
-        <childnode refid="16" relation="include">
+        <childnode refid="15" relation="include">
         </childnode>
       </node>
       <node id="10">
@@ -60,11 +60,11 @@
         </childnode>
         <childnode refid="13" relation="include">
         </childnode>
-        <childnode refid="17" relation="include">
-        </childnode>
-        <childnode refid="19" relation="include">
-        </childnode>
         <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
         </childnode>
       </node>
       <node id="1">
@@ -88,34 +88,34 @@
         </childnode>
         <childnode refid="10" relation="include">
         </childnode>
-        <childnode refid="21" relation="include">
+        <childnode refid="20" relation="include">
         </childnode>
-        <childnode refid="22" relation="include">
+        <childnode refid="21" relation="include">
         </childnode>
       </node>
       <node id="13">
         <label>Aspose.Words.Cpp/NodeType.h</label>
         <link refid="_node_type_8h_source"/>
+        <childnode refid="3" relation="include">
+        </childnode>
         <childnode refid="14" relation="include">
         </childnode>
         <childnode refid="15" relation="include">
         </childnode>
-        <childnode refid="16" relation="include">
-        </childnode>
       </node>
-      <node id="19">
+      <node id="18">
         <label>Aspose.Words.Cpp/SaveFormat.h</label>
         <link refid="_save_format_8h_source"/>
-        <childnode refid="14" relation="include">
+        <childnode refid="3" relation="include">
         </childnode>
-        <childnode refid="20" relation="include">
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
         </childnode>
         <childnode refid="15" relation="include">
         </childnode>
-        <childnode refid="16" relation="include">
-        </childnode>
       </node>
-      <node id="16">
+      <node id="15">
         <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
         <link refid="aspose__words__api__defs_8h_source"/>
       </node>
@@ -125,7 +125,7 @@
       <node id="12">
         <label>system/array.h</label>
       </node>
-      <node id="23">
+      <node id="22">
         <label>system/collections/ienumerable.h</label>
       </node>
       <node id="8">
@@ -140,10 +140,10 @@
       <node id="6">
         <label>system/details/pointer_collection_helpers.h</label>
       </node>
-      <node id="15">
+      <node id="14">
         <label>system/enum.h</label>
       </node>
-      <node id="20">
+      <node id="19">
         <label>system/enum_helpers.h</label>
       </node>
       <node id="5">
@@ -152,17 +152,14 @@
       <node id="4">
         <label>system/make_const_ref.h</label>
       </node>
-      <node id="18">
+      <node id="17">
         <label>system/object.h</label>
       </node>
-      <node id="14">
+      <node id="3">
         <label>system/object_ext.h</label>
       </node>
-      <node id="3">
-        <label>system/scope_guard.h</label>
-      </node>
       <node id="2">
-        <label>system/string.h</label>
+        <label>system/scope_guard.h</label>
       </node>
     </incdepgraph>
     <invincdepgraph>
@@ -235,6 +232,28 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/scope_guard.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/make_const_ref.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/exceptions.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/details/pointer_collection_helpers.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/details/dispose_guard.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/collections/ienumerator.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/Node.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/INodeCollection.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/CompositeNode.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/NodeCollectionEnumerator.h"/>
   </compounddef>
 </doxygen>

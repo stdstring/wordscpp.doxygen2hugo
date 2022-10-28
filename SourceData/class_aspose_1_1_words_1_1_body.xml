@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Body.h" line="87" column="18" bodyfile="Aspose.Words.Cpp/Body.h" bodystart="87" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_body_1a6c0eccfad5ed6ec541174bcc89f9113f" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_story" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_story" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Body::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -71,7 +71,7 @@
         <qualifiedname>Aspose::Words::Body::AcceptEnd</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1acfce958aecccd97d02b9ce640c71adb0">AcceptEnd</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -89,7 +89,7 @@
         <qualifiedname>Aspose::Words::Body::AcceptStart</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a4161179423c4ab1bd74fe8825dc06e2f">AcceptStart</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -107,7 +107,7 @@
         <qualifiedname>Aspose::Words::Body::CanInsert</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a06d62fddfb918b33b307b9201c7951aa">CanInsert</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -155,7 +155,7 @@
         <name>Body</name>
         <qualifiedname>Aspose::Words::Body::Body</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
           <declname>doc</declname>
         </param>
         <briefdescription>
@@ -209,7 +209,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -229,7 +229,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
         <qualifiedname>Aspose::Words::Body::Accept</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
           <declname>visitor</declname>
         </param>
         <briefdescription>
@@ -476,7 +476,7 @@ Shows how to iterate through the children of a composite node. <programlisting><
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:<sp/>{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/><ref refid="class/system.exception_wrapper_3_01_details___exception_01_4/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref>(u</highlight><highlight class="stringliteral">&quot;Unexpected<sp/>node<sp/>type<sp/>in<sp/>a<sp/>section.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/><ref refid="class/system.exception_wrapper_3_01_details___exception_01_4/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Exception</ref>(u</highlight><highlight class="stringliteral">&quot;Unexpected<sp/>node<sp/>type<sp/>in<sp/>a<sp/>section.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -487,7 +487,7 @@ Shows how to iterate through the children of a composite node. <programlisting><
         <location file="Aspose.Words.Cpp/Body.h" line="140" column="32"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1a452d57f13ed63e701611b8b9f9f39cde" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Section &gt; Aspose::Words::Body::get_ParentSection</definition>
         <argsstring>()</argsstring>
         <name>get_ParentSection</name>
@@ -595,7 +595,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>

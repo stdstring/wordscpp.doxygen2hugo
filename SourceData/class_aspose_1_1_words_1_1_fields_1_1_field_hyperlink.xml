@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="80" column="28" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="80" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a3f3ab563ad8fdc2126a34971018b6cb8" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldHyperlink::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -109,7 +109,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="311" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a05444fd6a41c5a61f23fc55683ad7587" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldResultFormatApplier &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldResultFormatApplier &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::IFieldResultFormatApplier &gt; Aspose::Words::Fields::FieldHyperlink::GetFormatApplier</definition>
         <argsstring>() override</argsstring>
         <name>GetFormatApplier</name>
@@ -123,7 +123,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="320" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ae1f52e5d3e2c7ef1cb359bc4e1f6150c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">Aspose::Words::Inline</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">Aspose::Words::Inline</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Inline &gt; Aspose::Words::Fields::FieldHyperlink::GetSourceNode</definition>
         <argsstring>() override</argsstring>
         <name>GetSourceNode</name>
@@ -143,7 +143,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldHyperlink::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -183,7 +183,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="86" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac22ff9595c5864c98a949b4becc57cff" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldHyperlink::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -200,7 +200,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0da3cc53e3234da527e860141238f1fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_Address</definition>
         <argsstring>()</argsstring>
         <name>get_Address</name>
@@ -326,7 +326,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="267" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac20fe09ab02cdcdd704a9a5322797330" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_ScreenTip</definition>
         <argsstring>()</argsstring>
         <name>get_ScreenTip</name>
@@ -368,7 +368,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="303" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ab1a5d9a2a181c437dc42c785a4c2b8bc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_SubAddress</definition>
         <argsstring>()</argsstring>
         <name>get_SubAddress</name>
@@ -410,7 +410,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="195" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aa0ed84bf806a324c599063a7bffed5d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_Target</definition>
         <argsstring>()</argsstring>
         <name>get_Target</name>
@@ -458,7 +458,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <name>set_Address</name>
         <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_Address</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -515,7 +515,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <name>set_ScreenTip</name>
         <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_ScreenTip</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -534,7 +534,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <name>set_SubAddress</name>
         <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_SubAddress</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -553,7 +553,7 @@ Shows how to use HYPERLINK fields to link to documents in the local file system.
         <name>set_Target</name>
         <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_Target</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

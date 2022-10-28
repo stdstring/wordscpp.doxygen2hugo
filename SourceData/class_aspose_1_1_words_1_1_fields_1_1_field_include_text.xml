@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="85" column="30" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ae34c4600b442274fd502ce6916146281" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldIncludeText::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -114,7 +114,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -139,7 +139,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="91" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ab6d7db58f6f274e8bc46bb43f7ac54de" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldIncludeText::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -156,7 +156,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1abf4d25ea963e72297a0302a3e6d17bcd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_BookmarkName</definition>
         <argsstring>() override</argsstring>
         <name>get_BookmarkName</name>
@@ -207,7 +207,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="186" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a063acf6514217f58135af59973bf5311" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_Encoding</definition>
         <argsstring>()</argsstring>
         <name>get_Encoding</name>
@@ -309,7 +309,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="234" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a906eb3577e0b22dbeefae73a091c523e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_MimeType</definition>
         <argsstring>()</argsstring>
         <name>get_MimeType</name>
@@ -360,7 +360,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="522" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4159b098bc9a0a42ba21eebe8da32936" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings</definition>
         <argsstring>() override</argsstring>
         <name>get_NamespaceMappings</name>
@@ -411,7 +411,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="330" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a74d15dbb9cfeb6b98b09041b4de0adb4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_SourceFullName</definition>
         <argsstring>() override</argsstring>
         <name>get_SourceFullName</name>
@@ -462,7 +462,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="138" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a18d5e24de96f397ca9ddb41e49a2f53a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_TextConverter</definition>
         <argsstring>() override</argsstring>
         <name>get_TextConverter</name>
@@ -513,7 +513,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="282" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1aff6b24aa1babc7b5686ba1b41822a2c3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_XPath</definition>
         <argsstring>() override</argsstring>
         <name>get_XPath</name>
@@ -564,7 +564,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="426" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4a4c1ff0bd0b058a07e8a3a4e698d4e0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_XslTransformation</definition>
         <argsstring>() override</argsstring>
         <name>get_XslTransformation</name>
@@ -621,7 +621,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_BookmarkName</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_BookmarkName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -640,7 +640,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_Encoding</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_Encoding</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -678,7 +678,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_MimeType</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_MimeType</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -697,7 +697,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_NamespaceMappings</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_NamespaceMappings</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -716,7 +716,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_SourceFullName</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_SourceFullName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -735,7 +735,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_TextConverter</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_TextConverter</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -754,7 +754,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_XPath</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_XPath</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -773,7 +773,7 @@ Shows how to create an INCLUDETEXT field, and set its properties. <programlistin
         <name>set_XslTransformation</name>
         <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_XslTransformation</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

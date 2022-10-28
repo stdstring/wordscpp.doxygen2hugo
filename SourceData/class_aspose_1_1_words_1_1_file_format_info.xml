@@ -6,7 +6,7 @@
     <includes refid="_file_format_info_8h" local="no">Aspose.Words.Cpp/FileFormatInfo.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_file_format_info_1a80375aef15c9e43ccbe93e2bc5504743" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::FileFormatInfo::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/FileFormatInfo.h" line="76" column="28" bodyfile="Aspose.Words.Cpp/FileFormatInfo.h" bodystart="76" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_file_format_info_1ac8444715781827803359d848e7119042" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::FileFormatInfo::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/FileFormatInfo.h" line="252" column="23" bodyfile="Aspose.Words.Cpp/FileFormatInfo.h" bodystart="252" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_file_format_info_1afcf0bf61ad19c93907bf2944df6632ee" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::FileFormatInfo::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -134,7 +134,7 @@
         <location file="Aspose.Words.Cpp/FileFormatInfo.h" line="255" column="23" bodyfile="Aspose.Words.Cpp/FileFormatInfo.h" bodystart="255" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_file_format_info_1ab9b94dceb89b6047d14e0dd487aa5f5d" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::FileFormatInfo::mField6</definition>
         <argsstring></argsstring>
         <name>mField6</name>
@@ -194,7 +194,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_file_format_info_1a74fb0ec2d7029ae8da9386121f226ece" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt;</type>
         <definition>System::SharedPtr&lt; System::Text::Encoding &gt; Aspose::Words::FileFormatInfo::get_Encoding</definition>
         <argsstring>() const</argsstring>
         <name>get_Encoding</name>
@@ -239,7 +239,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal">DigitalSignatureUtil::Sign(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;File.DetectDigitalSignatures.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>new<sp/>FileFormatInstance<sp/>to<sp/>confirm<sp/>that<sp/>it<sp/>is<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
@@ -328,7 +328,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal">DigitalSignatureUtil::Sign(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;File.DetectDigitalSignatures.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>new<sp/>FileFormatInstance<sp/>to<sp/>confirm<sp/>that<sp/>it<sp/>is<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
@@ -341,7 +341,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 </programlisting></para>
 <para>Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" kindref="compound">FileFormatUtil</ref> methods to detect the format of a document. <programlisting><codeline><highlight class="comment">//<sp/>Load<sp/>a<sp/>document<sp/>from<sp/>a<sp/>file<sp/>that<sp/>is<sp/>missing<sp/>a<sp/>file<sp/>extension,<sp/>and<sp/>then<sp/>detect<sp/>its<sp/>file<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FileFormatInfo&gt;<sp/>info<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(docStream);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member" tooltip="Indicates the format of the document that is to be loaded.">LoadFormat</ref><sp/>loadFormat<sp/>=<sp/>info-&gt;get_LoadFormat();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -399,7 +399,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal">DigitalSignatureUtil::Sign(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;File.DetectDigitalSignatures.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>new<sp/>FileFormatInstance<sp/>to<sp/>confirm<sp/>that<sp/>it<sp/>is<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>

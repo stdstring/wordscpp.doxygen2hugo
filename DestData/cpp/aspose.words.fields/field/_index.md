@@ -1,7 +1,7 @@
 ---
 title: Field
 second_title: Aspose.Words for C++ API Reference
-description: Represents a Microsoft Word document field.
+description: Represents a Microsoft Word document field. To learn more, visit the documentation article.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/field/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/field/
 ## Field class
 
 
-Represents a Microsoft Word document field.
+Represents a Microsoft Word document field. To learn more, visit the documentation article.
 
 ```cpp
 class Field : public virtual System::Object

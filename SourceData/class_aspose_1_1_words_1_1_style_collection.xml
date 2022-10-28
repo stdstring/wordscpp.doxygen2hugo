@@ -6,7 +6,7 @@
     <includes refid="_style_collection_8h" local="no">Aspose.Words.Cpp/StyleCollection.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_style_collection_1a44f409294aa243088eb109d917974219" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Style&gt; &gt; Aspose::Words::StyleCollection::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="83" column="29" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="83" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_style_collection_1aafc6714ccdce8270cc1a2e63d1c5cc09" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::StyleCollection::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a3807ec1453579e1c2f75a8eaca44bdec" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="473" column="21" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="473" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1adb96c7d5099456b26c825d71c1fde887" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="474" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="474" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a1d19b194483861ce292dc06dc35eb1b0" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="475" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="475" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a1650d72dc3dfb9a35885fb506159e8ef" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField3</definition>
         <argsstring></argsstring>
         <name>mField3</name>
@@ -106,7 +106,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="476" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="476" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a12fc5534c1f8ba04f9624bcdaa5b8a17" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField4</definition>
         <argsstring></argsstring>
         <name>mField4</name>
@@ -120,7 +120,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="477" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="477" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a5fc22618aba0534159810ab0add87e04" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField5</definition>
         <argsstring></argsstring>
         <name>mField5</name>
@@ -134,7 +134,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="478" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="478" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a78dc0eb371af842f1d22bcf54f3bb34c" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField6</definition>
         <argsstring></argsstring>
         <name>mField6</name>
@@ -148,7 +148,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="479" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="479" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a3fd65c965aa0205b22028af88a75a963" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField7</definition>
         <argsstring></argsstring>
         <name>mField7</name>
@@ -162,7 +162,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="481" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="481" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1aed4db8486c03350c6dc96e2ea802d0e2" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField8</definition>
         <argsstring></argsstring>
         <name>mField8</name>
@@ -176,7 +176,7 @@
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="482" column="23" bodyfile="Aspose.Words.Cpp/StyleCollection.h" bodystart="482" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_collection_1a1cda39ba2deff6610afd035b0f450ad9" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::StyleCollection::mField9</definition>
         <argsstring></argsstring>
         <name>mField9</name>
@@ -222,7 +222,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a0cfeb24da59f7f7773cf00522cf4d57e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::StyleCollection::Add</definition>
         <argsstring>(Aspose::Words::StyleType type, const System::String &amp;name)</argsstring>
         <name>Add</name>
@@ -232,7 +232,7 @@
           <declname>type</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -281,7 +281,7 @@ Shows how to create a list style and use it in a document. <programlisting><code
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>level<sp/>:<sp/>list1-&gt;get_ListLevels())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -335,13 +335,13 @@ Shows how to create a list style and use it in a document. <programlisting><code
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="405" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a419b1ecd515f546cd8a8262a32600c55" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::StyleCollection::AddCopy</definition>
         <argsstring>(const System::SharedPtr&lt; Aspose::Words::Style &gt; &amp;style)</argsstring>
         <name>AddCopy</name>
         <qualifiedname>Aspose::Words::StyleCollection::AddCopy</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &amp;</type>
           <declname>style</declname>
         </param>
         <briefdescription>
@@ -376,7 +376,7 @@ Shows how to clone a document&apos;s style. <programlisting><codeline><highlight
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>document<sp/>now<sp/>has<sp/>two<sp/>identical<sp/>looking<sp/>styles<sp/>with<sp/>different<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Changing<sp/>settings<sp/>of<sp/>one<sp/>of<sp/>the<sp/>styles<sp/>do<sp/>not<sp/>affect<sp/>the<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">newStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">newStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Heading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>newStyle-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">)-&gt;get_Name());</highlight></codeline>
@@ -390,7 +390,7 @@ Shows how to clone a document&apos;s style. <programlisting><codeline><highlight
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>style<sp/>for<sp/>the<sp/>source<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>srcStyle<sp/>=<sp/>srcDoc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">srcStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">srcStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Import<sp/>the<sp/>source<sp/>document&apos;s<sp/>custom<sp/>style<sp/>into<sp/>the<sp/>destination<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>dstDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
@@ -398,7 +398,7 @@ Shows how to clone a document&apos;s style. <programlisting><codeline><highlight
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>imported<sp/>style<sp/>has<sp/>an<sp/>appearance<sp/>identical<sp/>to<sp/>its<sp/>source<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">,<sp/>newStyle-&gt;get_Name());</highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>().ToArgb(),<sp/>newStyle-&gt;get_Font()-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>().ToArgb(),<sp/>newStyle-&gt;get_Font()-&gt;get_Color().ToArgb());</highlight></codeline>
 </programlisting> </para>
         </detaileddescription>
         <inbodydescription>
@@ -463,7 +463,7 @@ Shows how to add a <ref refid="class_aspose_1_1_words_1_1_style" kindref="compou
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="194" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a0f21ed456f29533c2c0824781a0189d0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Aspose::Words::Font</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Aspose::Words::Font</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Font &gt; Aspose::Words::StyleCollection::get_DefaultFont</definition>
         <argsstring>()</argsstring>
         <name>get_DefaultFont</name>
@@ -497,7 +497,7 @@ Shows how to add a <ref refid="class_aspose_1_1_words_1_1_style" kindref="compou
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="143" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1aa136cb2ddd5d84a7c3a440cd302231ea" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph_format" kindref="compound">Aspose::Words::ParagraphFormat</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph_format" kindref="compound">Aspose::Words::ParagraphFormat</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::ParagraphFormat &gt; Aspose::Words::StyleCollection::get_DefaultParagraphFormat</definition>
         <argsstring>()</argsstring>
         <name>get_DefaultParagraphFormat</name>
@@ -531,7 +531,7 @@ Shows how to add a <ref refid="class_aspose_1_1_words_1_1_style" kindref="compou
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="170" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a2887a39d6070d96310feb0ee0a021e6a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; Aspose::Words::StyleCollection::get_Document</definition>
         <argsstring>() const</argsstring>
         <name>get_Document</name>
@@ -567,7 +567,7 @@ Shows how to access a document&apos;s style collection. <programlisting><codelin
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="116" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a8bc2a0b3ec1be3a1ae714e1190888468" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Style &gt; &gt; &gt; Aspose::Words::StyleCollection::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>
@@ -603,7 +603,7 @@ Shows how to access a document&apos;s style collection. <programlisting><codelin
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="317" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a89dd0265599cfa73e338b4f141e6a5c8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::StyleCollection::idx_get</definition>
         <argsstring>(Aspose::Words::StyleIdentifier sti)</argsstring>
         <name>idx_get</name>
@@ -650,13 +650,13 @@ Shows how to add a <ref refid="class_aspose_1_1_words_1_1_style" kindref="compou
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="266" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1ae483a151cb7bcaa0a68737867209f43c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::StyleCollection::idx_get</definition>
         <argsstring>(const System::String &amp;name)</argsstring>
         <name>idx_get</name>
         <qualifiedname>Aspose::Words::StyleCollection::idx_get</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -690,7 +690,7 @@ Shows when to recalculate the page layout of the document. <programlisting><code
         <location file="Aspose.Words.Cpp/StyleCollection.h" line="238" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_collection_1a1257d537c07e61be0f9860490e78ea1f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::StyleCollection::idx_get</definition>
         <argsstring>(int32_t index)</argsstring>
         <name>idx_get</name>

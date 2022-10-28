@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Rendering/OfficeMathRenderer.h" line="78" column="32" bodyfile="Aspose.Words.Cpp/Rendering/OfficeMathRenderer.h" bodystart="78" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_office_math_renderer_1a5f9c841eed429077daf299fc0f7f1fce" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Rendering::OfficeMathRenderer::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -72,7 +72,7 @@
         <name>OfficeMathRenderer</name>
         <qualifiedname>Aspose::Words::Rendering::OfficeMathRenderer::OfficeMathRenderer</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">Aspose::Words::Math::OfficeMath</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">Aspose::Words::Math::OfficeMath</ref> &gt; &amp;</type>
           <declname>math</declname>
         </param>
         <briefdescription>
@@ -107,7 +107,7 @@ Shows how to measure and scale shapes. <programlisting><codeline><highlight clas
 <codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
@@ -157,7 +157,7 @@ Shows how to measure and scale shapes. <programlisting><codeline><highlight clas
 <codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>

@@ -1,7 +1,7 @@
 ---
 title: LoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify additional options (such as password or base URI) when loading a document into a Document object.
+description: Allows to specify additional options (such as password or base URI) when loading a document into a Document object. To learn more, visit the  documentation article.
 type: docs
 weight: 53
 url: /cpp/aspose.words.loading/loadoptions/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/loadoptions/
 ## LoadOptions class
 
 
-Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../../aspose.words/document/) object.
+Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../../aspose.words/document/) object. To learn more, visit the [Specify Load Options](https://docs.aspose.com/words/net/specify-load-options/) documentation article.
 
 ```cpp
 class LoadOptions : public System::Object
@@ -23,7 +23,6 @@ class LoadOptions : public System::Object
 | [get_ConvertMetafilesToPng](./get_convertmetafilestopng/)() const | Gets or sets whether to convert metafile (**Wmf** or **Emf**) images to **Png** image format. |
 | [get_ConvertShapeToOfficeMath](./get_convertshapetoofficemath/)() const | Gets or sets whether to convert shapes with EquationXML to Office [Math](../../aspose.words.math/) objects. |
 | [get_Encoding](./get_encoding/)() const | Gets or sets the encoding that will be used to load an HTML, TXT, or CHM document if the encoding is not specified inside the document. Can be null. Default is null. |
-| [get_FlatOpcXmlMappingOnly](./get_flatopcxmlmappingonly/)() const | Gets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [get_FontSettings](./get_fontsettings/)() const | Allows to specify document font settings. |
 | [get_LanguagePreferences](./get_languagepreferences/)() const | Gets language preferences that will be used when document is loading. |
 | [get_LoadFormat](./get_loadformat/)() const | Specifies the format of the document to be loaded. Default is **Auto**. |
@@ -42,7 +41,6 @@ class LoadOptions : public System::Object
 | [set_ConvertMetafilesToPng](./set_convertmetafilestopng/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng](./get_convertmetafilestopng/). |
 | [set_ConvertShapeToOfficeMath](./set_convertshapetoofficemath/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath](./get_convertshapetoofficemath/). |
 | [set_Encoding](./set_encoding/)(const System::SharedPtr\<System::Text::Encoding\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_Encoding](./get_encoding/). |
-| [set_FlatOpcXmlMappingOnly](./set_flatopcxmlmappingonly/)(bool) | Sets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [set_FontSettings](./set_fontsettings/)(const System::SharedPtr\<Aspose::Words::Fonts::FontSettings\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_FontSettings](./get_fontsettings/). |
 | [set_LoadFormat](./set_loadformat/)(Aspose::Words::LoadFormat) | Setter for [Aspose::Words::Loading::LoadOptions::get_LoadFormat](./get_loadformat/). |
 | [set_MswVersion](./set_mswversion/)(Aspose::Words::Settings::MsWordVersion) | Setter for [Aspose::Words::Loading::LoadOptions::get_MswVersion](./get_mswversion/). |

@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="59" column="30" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="59" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a1bcbbb6d878a7f8f16b3374aadc7a132" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::OoxmlSaveOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -92,7 +92,7 @@
         <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="365" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="365" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a5b768743bf4f69c46d52659579cba171" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::OoxmlSaveOptions::mField11</definition>
         <argsstring></argsstring>
         <name>mField11</name>
@@ -450,7 +450,7 @@ Shows how to specify the compression level to use while saving an OOXML document
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
 <codeline><highlight class="normal">saveOptions-&gt;set_CompressionLevel(compressionLevel);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">SharedPtr&lt;System::Diagnostics::Stopwatch&gt;<sp/>st<sp/>=<sp/><ref refid="class/system.diagnostics.stopwatch/_1a4d67a198f25cd108264557dfce1248ce" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Diagnostics::Stopwatch::StartNew</ref>();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Diagnostics::Stopwatch&gt;<sp/>st<sp/>=<sp/><ref refid="class/system.diagnostics.stopwatch/_1a4d67a198f25cd108264557dfce1248ce" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Diagnostics::Stopwatch::StartNew</ref>();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.DocumentCompression.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
 <codeline><highlight class="normal">st-&gt;Stop();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -501,7 +501,7 @@ Shows how to support legacy control characters when converting to .docx. <progra
         <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="246" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aeda1240b9dcf2faebad56ae78d4e7a08" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Saving::OoxmlSaveOptions::get_Password</definition>
         <argsstring>() const</argsstring>
         <name>get_Password</name>
@@ -642,7 +642,7 @@ Shows how to set an OOXML compliance specification for a saved document to adher
         <name>set_Password</name>
         <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::set_Password</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -754,7 +754,6 @@ Shows how to set an OOXML compliance specification for a saved document to adher
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_DmlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_ExportGeneratorName</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_ImlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a05600588657fd00b0b34d37c0c6043ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_KeepLegacyControlChars</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_MemoryOptimization</name></member>
@@ -794,7 +793,6 @@ Shows how to set an OOXML compliance specification for a saved document to adher
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_DmlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_ExportGeneratorName</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_ImlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a6a3eca8ba27d41dbc17813ac4226f946" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_KeepLegacyControlChars</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_MemoryOptimization</name></member>

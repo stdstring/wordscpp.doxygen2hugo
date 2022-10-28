@@ -8,7 +8,7 @@
     <includes refid="_i_structured_document_tag_8h" local="no">Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a57f9279b28bb087bbb24f4a3c740e867" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::Markup::IStructuredDocumentTag::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -36,7 +36,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="52" column="36" bodyfile="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" bodystart="52" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1aa2b4ce6cf2247199b039af5dc2e86e5a" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::IStructuredDocumentTag::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -70,7 +70,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a8a70df7237d09b7d5de1415fe3873779" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
         <definition>virtual System::Drawing::Color Aspose::Words::Markup::IStructuredDocumentTag::get_Color</definition>
         <argsstring>()=0</argsstring>
         <name>get_Color</name>
@@ -172,7 +172,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="117" column="18"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a992d885c9047a155b49add6a3d2317a0" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" kindref="compound">Aspose::Words::BuildingBlocks::BuildingBlock</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" kindref="compound">Aspose::Words::BuildingBlocks::BuildingBlock</ref> &gt;</type>
         <definition>virtual System::SharedPtr&lt; Aspose::Words::BuildingBlocks::BuildingBlock &gt; Aspose::Words::Markup::IStructuredDocumentTag::get_Placeholder</definition>
         <argsstring>()=0</argsstring>
         <name>get_Placeholder</name>
@@ -189,7 +189,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="82" column="31"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1ab9fa61541f7a536def5472a837ef7334" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_PlaceholderName</definition>
         <argsstring>()=0</argsstring>
         <name>get_PlaceholderName</name>
@@ -223,7 +223,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="108" column="44"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a8c37418724ab251a6fdf088bb9abb56f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_Tag</definition>
         <argsstring>() const =0</argsstring>
         <name>get_Tag</name>
@@ -240,7 +240,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="65" column="28"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a558d2b81b37cc048a18d3281f65b01d8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_Title</definition>
         <argsstring>() const =0</argsstring>
         <name>get_Title</name>
@@ -257,7 +257,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="73" column="28"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a73b0bf7b03751c8a6c8bdb3338fd059d" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_WordOpenXML</definition>
         <argsstring>()=0</argsstring>
         <name>get_WordOpenXML</name>
@@ -274,7 +274,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="133" column="28"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1ae409cb79e13ef5c53000fb1eab7ab663" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping" kindref="compound">Aspose::Words::Markup::XmlMapping</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping" kindref="compound">Aspose::Words::Markup::XmlMapping</ref> &gt;</type>
         <definition>virtual System::SharedPtr&lt; Aspose::Words::Markup::XmlMapping &gt; Aspose::Words::Markup::IStructuredDocumentTag::get_XmlMapping</definition>
         <argsstring>()=0</argsstring>
         <name>get_XmlMapping</name>
@@ -316,7 +316,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1a9054e949b27cf4738b16ab872043ef78">set_Color</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start_1a8c2d1eed7a871866bcc8da3ae565afa2">set_Color</reimplementedby>
         <param>
-          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -400,7 +400,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1a53765a01f03a3e523161ba52106dd2fc">set_PlaceholderName</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start_1a39b7e7ed0b0849eb7f62bbff6a3fadf7">set_PlaceholderName</reimplementedby>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -421,7 +421,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1a0293c03923848aeff9099cf35c9f61ae">set_Tag</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start_1a7a9a5d52feafb25753acef0ee760c94e">set_Tag</reimplementedby>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -442,7 +442,7 @@
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1aadde662f802acf78486f15e1a5ff35fa">set_Title</reimplementedby>
         <reimplementedby refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start_1ad9a6665496abdc2a209e7ebf3589d797">set_Title</reimplementedby>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -455,7 +455,7 @@
         <location file="Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h" line="77" column="18"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag_1a685e9d5dab356b6a55d8e1c18a2840ef" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
         <definition>virtual System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::Markup::IStructuredDocumentTag::StructuredDocumentTagNode</definition>
         <argsstring>()=0</argsstring>
         <name>StructuredDocumentTagNode</name>

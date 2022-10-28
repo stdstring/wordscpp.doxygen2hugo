@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldQuote.h" line="72" column="24" bodyfile="Aspose.Words.Cpp/Fields/FieldQuote.h" bodystart="72" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_quote_1aa5208e7cd461e15794eeb80c234e5701" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldQuote::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldQuote.h" line="76" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_quote_1a6a78b0e7caef19a3bb7e0c4b00c0a5e4" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldQuote::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -95,7 +95,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_quote_1a6c2fffa23715bef820377f3a6fc4aa5d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldQuote::get_Text</definition>
         <argsstring>()</argsstring>
         <name>get_Text</name>
@@ -124,7 +124,7 @@ Shows to use the QUOTE field. <programlisting><codeline><highlight class="keywor
 <codeline><highlight class="normal">builder-&gt;MoveTo(field-&gt;get_Separator());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>QUOTE<sp/>\u0013<sp/>DATE<sp/>\u0014&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date().ToShortDateString()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\u0015&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>QUOTE<sp/>\u0013<sp/>DATE<sp/>\u0014&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date().ToShortDateString()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\u0015&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>all<sp/>the<sp/>fields<sp/>to<sp/>display<sp/>their<sp/>correct<sp/>results.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
@@ -145,7 +145,7 @@ Shows to use the QUOTE field. <programlisting><codeline><highlight class="keywor
         <name>set_Text</name>
         <qualifiedname>Aspose::Words::Fields::FieldQuote::set_Text</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -182,7 +182,7 @@ Shows to use the QUOTE field. <programlisting><codeline><highlight class="keywor
 <codeline><highlight class="normal">builder-&gt;MoveTo(field-&gt;get_Separator());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>QUOTE<sp/>\u0013<sp/>DATE<sp/>\u0014&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date().ToShortDateString()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\u0015&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>QUOTE<sp/>\u0013<sp/>DATE<sp/>\u0014&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date().ToShortDateString()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\u0015&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>all<sp/>the<sp/>fields<sp/>to<sp/>display<sp/>their<sp/>correct<sp/>results.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>

@@ -27,7 +27,7 @@
         <name>ContentTypeToLoadFormat</name>
         <qualifiedname>Aspose::Words::FileFormatUtil::ContentTypeToLoadFormat</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>contentType</declname>
         </param>
         <briefdescription>
@@ -98,7 +98,7 @@ Shows how to find the corresponding <ref refid="namespace_aspose" kindref="compo
         <name>ContentTypeToSaveFormat</name>
         <qualifiedname>Aspose::Words::FileFormatUtil::ContentTypeToSaveFormat</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>contentType</declname>
         </param>
         <briefdescription>
@@ -163,13 +163,13 @@ Shows how to find the corresponding <ref refid="namespace_aspose" kindref="compo
         <location file="Aspose.Words.Cpp/FileFormatUtil.h" line="274" column="41"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_file_format_util_1a50891e234a7f1b869e6715d1e1892fcc" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_file_format_info" kindref="compound">Aspose::Words::FileFormatInfo</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_file_format_info" kindref="compound">Aspose::Words::FileFormatInfo</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::FileFormatInfo &gt; Aspose::Words::FileFormatUtil::DetectFileFormat</definition>
         <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
         <name>DetectFileFormat</name>
         <qualifiedname>Aspose::Words::FileFormatUtil::DetectFileFormat</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>stream</declname>
         </param>
         <briefdescription>
@@ -195,7 +195,7 @@ Shows how to find the corresponding <ref refid="namespace_aspose" kindref="compo
 </simplesect>
 Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" kindref="compound">FileFormatUtil</ref> methods to detect the format of a document. <programlisting><codeline><highlight class="comment">//<sp/>Load<sp/>a<sp/>document<sp/>from<sp/>a<sp/>file<sp/>that<sp/>is<sp/>missing<sp/>a<sp/>file<sp/>extension,<sp/>and<sp/>then<sp/>detect<sp/>its<sp/>file<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FileFormatInfo&gt;<sp/>info<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(docStream);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member" tooltip="Indicates the format of the document that is to be loaded.">LoadFormat</ref><sp/>loadFormat<sp/>=<sp/>info-&gt;get_LoadFormat();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -223,13 +223,13 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
         <location file="Aspose.Words.Cpp/FileFormatUtil.h" line="172" column="33"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_file_format_info" kindref="compound">Aspose::Words::FileFormatInfo</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_file_format_info" kindref="compound">Aspose::Words::FileFormatInfo</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::FileFormatInfo &gt; Aspose::Words::FileFormatUtil::DetectFileFormat</definition>
         <argsstring>(const System::String &amp;fileName)</argsstring>
         <name>DetectFileFormat</name>
         <qualifiedname>Aspose::Words::FileFormatUtil::DetectFileFormat</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>fileName</declname>
         </param>
         <briefdescription>
@@ -274,7 +274,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal">DigitalSignatureUtil::Sign(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;File.DetectDigitalSignatures.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>new<sp/>FileFormatInstance<sp/>to<sp/>confirm<sp/>that<sp/>it<sp/>is<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
@@ -299,7 +299,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
             <type>typename Traits</type>
           </param>
         </templateparamlist>
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_file_format_info" kindref="compound">Aspose::Words::FileFormatInfo</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_file_format_info" kindref="compound">Aspose::Words::FileFormatInfo</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::FileFormatInfo &gt; Aspose::Words::FileFormatUtil::DetectFileFormat</definition>
         <argsstring>(std::basic_istream&lt; CharType, Traits &gt; &amp;stream)</argsstring>
         <name>DetectFileFormat</name>
@@ -323,7 +323,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
         <name>ExtensionToSaveFormat</name>
         <qualifiedname>Aspose::Words::FileFormatUtil::ExtensionToSaveFormat</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>extension</declname>
         </param>
         <briefdescription>
@@ -353,7 +353,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 </simplesect>
 Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" kindref="compound">FileFormatUtil</ref> methods to detect the format of a document. <programlisting><codeline><highlight class="comment">//<sp/>Load<sp/>a<sp/>document<sp/>from<sp/>a<sp/>file<sp/>that<sp/>is<sp/>missing<sp/>a<sp/>file<sp/>extension,<sp/>and<sp/>then<sp/>detect<sp/>its<sp/>file<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FileFormatInfo&gt;<sp/>info<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(docStream);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member" tooltip="Indicates the format of the document that is to be loaded.">LoadFormat</ref><sp/>loadFormat<sp/>=<sp/>info-&gt;get_LoadFormat();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -381,7 +381,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
         <location file="Aspose.Words.Cpp/FileFormatUtil.h" line="436" column="41"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_file_format_util_1a21e427265e23db717e528d7f901e570e" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>static System::String Aspose::Words::FileFormatUtil::ImageTypeToExtension</definition>
         <argsstring>(Aspose::Words::Drawing::ImageType imageType)</argsstring>
         <name>ImageTypeToExtension</name>
@@ -433,7 +433,7 @@ Shows how to extract images from a document, and save them to the local file sys
         <location file="Aspose.Words.Cpp/FileFormatUtil.h" line="468" column="30"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_file_format_util_1aba6da22af8fec18907850767caff988c" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>static System::String Aspose::Words::FileFormatUtil::LoadFormatToExtension</definition>
         <argsstring>(Aspose::Words::LoadFormat loadFormat)</argsstring>
         <name>LoadFormatToExtension</name>
@@ -460,7 +460,7 @@ Shows how to extract images from a document, and save them to the local file sys
 </simplesect>
 Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" kindref="compound">FileFormatUtil</ref> methods to detect the format of a document. <programlisting><codeline><highlight class="comment">//<sp/>Load<sp/>a<sp/>document<sp/>from<sp/>a<sp/>file<sp/>that<sp/>is<sp/>missing<sp/>a<sp/>file<sp/>extension,<sp/>and<sp/>then<sp/>detect<sp/>its<sp/>file<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FileFormatInfo&gt;<sp/>info<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(docStream);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member" tooltip="Indicates the format of the document that is to be loaded.">LoadFormat</ref><sp/>loadFormat<sp/>=<sp/>info-&gt;get_LoadFormat();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -514,7 +514,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 </simplesect>
 Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" kindref="compound">FileFormatUtil</ref> methods to detect the format of a document. <programlisting><codeline><highlight class="comment">//<sp/>Load<sp/>a<sp/>document<sp/>from<sp/>a<sp/>file<sp/>that<sp/>is<sp/>missing<sp/>a<sp/>file<sp/>extension,<sp/>and<sp/>then<sp/>detect<sp/>its<sp/>file<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FileFormatInfo&gt;<sp/>info<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(docStream);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member" tooltip="Indicates the format of the document that is to be loaded.">LoadFormat</ref><sp/>loadFormat<sp/>=<sp/>info-&gt;get_LoadFormat();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -542,7 +542,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
         <location file="Aspose.Words.Cpp/FileFormatUtil.h" line="360" column="41"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_file_format_util_1a25fa8cb83c9d031cc931d95b101df2da" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>static System::String Aspose::Words::FileFormatUtil::SaveFormatToExtension</definition>
         <argsstring>(Aspose::Words::SaveFormat saveFormat)</argsstring>
         <name>SaveFormatToExtension</name>
@@ -570,7 +570,7 @@ Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" ki
 </simplesect>
 Shows how to use the <ref refid="class_aspose_1_1_words_1_1_file_format_util" kindref="compound">FileFormatUtil</ref> methods to detect the format of a document. <programlisting><codeline><highlight class="comment">//<sp/>Load<sp/>a<sp/>document<sp/>from<sp/>a<sp/>file<sp/>that<sp/>is<sp/>missing<sp/>a<sp/>file<sp/>extension,<sp/>and<sp/>then<sp/>detect<sp/>its<sp/>file<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::FileStream&gt;<sp/>docStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Word<sp/>document<sp/>with<sp/>missing<sp/>file<sp/>extension&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FileFormatInfo&gt;<sp/>info<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(docStream);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52" kindref="member" tooltip="Indicates the format of the document that is to be loaded.">LoadFormat</ref><sp/>loadFormat<sp/>=<sp/>info-&gt;get_LoadFormat();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

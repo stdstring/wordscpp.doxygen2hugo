@@ -48,6 +48,113 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Drawing<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Charts<sp/>{</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="103" refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36" kindref="member" tooltip="Specifies type of a chart.">ChartType</ref></highlight></codeline>
+<codeline lineno="104"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"></highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36adeec4ff19974f12ed781cb9a59064214" kindref="member" tooltip="Area chart.">Area</ref>,</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"></highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36af2fc859a7e842f5866d9b1dd2010cfab" kindref="member" tooltip="Stacked Area chart.">AreaStacked</ref>,</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"></highlight></codeline>
+<codeline lineno="113"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36aa1631fe56dba0f6ed6f1f836c3d79910" kindref="member" tooltip="100% Stacked Area chart.">AreaPercentStacked</ref>,</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"></highlight></codeline>
+<codeline lineno="116"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36adb377cb590a401f40da2010788ff1a3d" kindref="member" tooltip="3D Area chart.">Area3D</ref>,</highlight></codeline>
+<codeline lineno="117"><highlight class="normal"></highlight></codeline>
+<codeline lineno="119"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ab13d3d5e4678cc0fc41f9fcec2dbb3cb" kindref="member" tooltip="3D Stacked Area chart.">Area3DStacked</ref>,</highlight></codeline>
+<codeline lineno="120"><highlight class="normal"></highlight></codeline>
+<codeline lineno="122"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ac697e6e5de2e6235cec16d4be42442f5" kindref="member" tooltip="3D 100% Stacked Area chart.">Area3DPercentStacked</ref>,</highlight></codeline>
+<codeline lineno="123"><highlight class="normal"></highlight></codeline>
+<codeline lineno="125"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36addc35f88fa71b6ef142ae61f35364653" kindref="member" tooltip="Bar chart.">Bar</ref>,</highlight></codeline>
+<codeline lineno="126"><highlight class="normal"></highlight></codeline>
+<codeline lineno="128"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36af7e6c0c2fac6abedaa3dc57deb10ce12" kindref="member" tooltip="Stacked Bar chart.">BarStacked</ref>,</highlight></codeline>
+<codeline lineno="129"><highlight class="normal"></highlight></codeline>
+<codeline lineno="131"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a5232f2fa92406aeed167be5527edde1a" kindref="member" tooltip="100% Stacked Bar chart.">BarPercentStacked</ref>,</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"></highlight></codeline>
+<codeline lineno="134"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a0ac791a6bd636f339ae9942d305a5447" kindref="member" tooltip="3D Bar chart.">Bar3D</ref>,</highlight></codeline>
+<codeline lineno="135"><highlight class="normal"></highlight></codeline>
+<codeline lineno="137"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a1d72598cb5dab97795d1e1b081751703" kindref="member" tooltip="3D Stacked Bar chart.">Bar3DStacked</ref>,</highlight></codeline>
+<codeline lineno="138"><highlight class="normal"></highlight></codeline>
+<codeline lineno="140"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a75d601941bd5eda879871a598be32dcb" kindref="member" tooltip="3D 100% Stacked Bar chart.">Bar3DPercentStacked</ref>,</highlight></codeline>
+<codeline lineno="141"><highlight class="normal"></highlight></codeline>
+<codeline lineno="143"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ab6230dfc594205d0ea15d5890ac22d7f" kindref="member" tooltip="Bubble chart.">Bubble</ref>,</highlight></codeline>
+<codeline lineno="144"><highlight class="normal"></highlight></codeline>
+<codeline lineno="146"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ac5d8ef46785f893afc223799a099b167" kindref="member" tooltip="3D Bubble chart.">Bubble3D</ref>,</highlight></codeline>
+<codeline lineno="147"><highlight class="normal"></highlight></codeline>
+<codeline lineno="149"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a1976d7f704de389d9fe064e08ea35b2d" kindref="member" tooltip="Column chart.">Column</ref>,</highlight></codeline>
+<codeline lineno="150"><highlight class="normal"></highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a9c9cb1d4afb026611699ad70b3432ebf" kindref="member" tooltip="Stacked Column chart.">ColumnStacked</ref>,</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"></highlight></codeline>
+<codeline lineno="155"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ab6936a8c46bf92e00ac420d3ea3feab2" kindref="member" tooltip="100% Stacked Column chart.">ColumnPercentStacked</ref>,</highlight></codeline>
+<codeline lineno="156"><highlight class="normal"></highlight></codeline>
+<codeline lineno="158"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a432b16cf26e11486a1d0c2ab7ed2b250" kindref="member" tooltip="3D Column chart.">Column3D</ref>,</highlight></codeline>
+<codeline lineno="159"><highlight class="normal"></highlight></codeline>
+<codeline lineno="161"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ae550abfae49face2cfdbc735565df611" kindref="member" tooltip="3D Stacked Column chart.">Column3DStacked</ref>,</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"></highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ab4fc31b260610e38af018c122ccb4c64" kindref="member" tooltip="3D 100% Stacked Column chart.">Column3DPercentStacked</ref>,</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"></highlight></codeline>
+<codeline lineno="167"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a583eae78ab2c6c9d8b85a1e1a5d24269" kindref="member" tooltip="3D Clustered Column chart.">Column3DClustered</ref>,</highlight></codeline>
+<codeline lineno="168"><highlight class="normal"></highlight></codeline>
+<codeline lineno="170"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a36be7b5e5d564e42b75a16a2efdeff65" kindref="member" tooltip="Doughnut chart.">Doughnut</ref>,</highlight></codeline>
+<codeline lineno="171"><highlight class="normal"></highlight></codeline>
+<codeline lineno="173"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">Line</ref>,</highlight></codeline>
+<codeline lineno="174"><highlight class="normal"></highlight></codeline>
+<codeline lineno="176"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ab3bdecd6652e68eacf0ac3d1f1774b09" kindref="member" tooltip="Stacked Line chart.">LineStacked</ref>,</highlight></codeline>
+<codeline lineno="177"><highlight class="normal"></highlight></codeline>
+<codeline lineno="179"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a85ee0f6866235cc4bf6c688a9c8ae31d" kindref="member" tooltip="100% Stacked Line chart.">LinePercentStacked</ref>,</highlight></codeline>
+<codeline lineno="180"><highlight class="normal"></highlight></codeline>
+<codeline lineno="182"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a223c953b6130f20084fb1beb66c9ad4a" kindref="member" tooltip="3D Line chart.">Line3D</ref>,</highlight></codeline>
+<codeline lineno="183"><highlight class="normal"></highlight></codeline>
+<codeline lineno="185"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a996589a1a7e9604b0dbd63858a59b247" kindref="member" tooltip="Pie chart.">Pie</ref>,</highlight></codeline>
+<codeline lineno="186"><highlight class="normal"></highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a5a2b64ff75d7d3407904c29b411d5471" kindref="member" tooltip="3D Pie chart.">Pie3D</ref>,</highlight></codeline>
+<codeline lineno="189"><highlight class="normal"></highlight></codeline>
+<codeline lineno="191"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ab3c27bc8320a01ef98d47758cbf2db57" kindref="member" tooltip="Pie of Bar chart.">PieOfBar</ref>,</highlight></codeline>
+<codeline lineno="192"><highlight class="normal"></highlight></codeline>
+<codeline lineno="194"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ac6360409f71dccf0456851bd7ec011e2" kindref="member" tooltip="Pie of Pie chart.">PieOfPie</ref>,</highlight></codeline>
+<codeline lineno="195"><highlight class="normal"></highlight></codeline>
+<codeline lineno="197"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36adc1f6c5aadf26f4db06184cef0c2aa24" kindref="member" tooltip="Radar chart.">Radar</ref>,</highlight></codeline>
+<codeline lineno="198"><highlight class="normal"></highlight></codeline>
+<codeline lineno="200"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a09870720ca8134284e4e305ac6ce5f19" kindref="member" tooltip="Scatter chart.">Scatter</ref>,</highlight></codeline>
+<codeline lineno="201"><highlight class="normal"></highlight></codeline>
+<codeline lineno="203"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a27ce7f8b5623b2e2df568d64cf051607" kindref="member" tooltip="Stock chart.">Stock</ref>,</highlight></codeline>
+<codeline lineno="204"><highlight class="normal"></highlight></codeline>
+<codeline lineno="206"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36aaa0d528ba11ea1485d466dfe1ea40819" kindref="member" tooltip="Surface chart.">Surface</ref>,</highlight></codeline>
+<codeline lineno="207"><highlight class="normal"></highlight></codeline>
+<codeline lineno="209"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ae7b2b4b36296c6675a53487383fd7ed5" kindref="member" tooltip="3D Surface chart.">Surface3D</ref></highlight></codeline>
+<codeline lineno="210"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="211"><highlight class="normal"></highlight></codeline>
+<codeline lineno="212"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="213"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="214"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="215"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="216"><highlight class="normal"></highlight></codeline>
+<codeline lineno="217"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="218"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Drawing::Charts::ChartType&gt;</highlight></codeline>
+<codeline lineno="219"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="220"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Drawing::Charts::ChartType,<sp/>const<sp/>char_t*&gt;,<sp/>35&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="221"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Drawing/Charts/ChartType.h"/>
   </compounddef>
 </doxygen>

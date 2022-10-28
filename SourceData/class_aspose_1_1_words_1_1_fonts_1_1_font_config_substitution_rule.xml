@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Fonts/FontConfigSubstitutionRule.h" line="91" column="40" bodyfile="Aspose.Words.Cpp/Fonts/FontConfigSubstitutionRule.h" bodystart="91" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_config_substitution_rule_1ab67e55d02e1428af92faa1e040338c05" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontConfigSubstitutionRule::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_config_substitution_rule_1a4a0a44cb1c7aa54b842a88c9d02ab4d4" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontConfigSubstitutionRule::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -66,23 +66,23 @@
       </sectiondef>
       <sectiondef kind="private-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_config_substitution_rule_1a19670ea18b42b3ba6003a6a9aa2b89c7" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::TrueType::TTFont &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::TrueType::TTFont &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Fonts::TrueType::TTFont &gt; Aspose::Words::Fonts::FontConfigSubstitutionRule::PerformSubstitutionCore</definition>
         <argsstring>(System::String, System::Drawing::FontStyle, System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt;, System::SharedPtr&lt; Aspose::Fonts::ExternalFontCache &gt;) override</argsstring>
         <name>PerformSubstitutionCore</name>
         <qualifiedname>Aspose::Words::Fonts::FontConfigSubstitutionRule::PerformSubstitutionCore</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1a1860414de7d12eb748717230738b1472">PerformSubstitutionCore</reimplements>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <param>
-          <type><ref refid="namespace/system.drawing/_1a6c1fe3c1830d158116f3729801cd7b49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::FontStyle</ref></type>
+          <type><ref refid="namespace/system.drawing/_1a6c1fe3c1830d158116f3729801cd7b49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::FontStyle</ref></type>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::ExternalFontCache &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::ExternalFontCache &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -123,7 +123,7 @@
 Shows operating system-dependent font config substitution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;FontConfigSubstitutionRule&gt;<sp/>fontConfigSubstitution<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontConfigSubstitution();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -166,7 +166,7 @@ Shows operating system-dependent font config substitution. <programlisting><code
 Shows operating system-dependent font config substitution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;FontConfigSubstitutionRule&gt;<sp/>fontConfigSubstitution<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontConfigSubstitution();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -214,7 +214,7 @@ Shows operating system-dependent font config substitution. <programlisting><code
 Shows operating system-dependent font config substitution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;FontConfigSubstitutionRule&gt;<sp/>fontConfigSubstitution<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontConfigSubstitution();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -254,7 +254,7 @@ Shows operating system-dependent font config substitution. <programlisting><code
 Shows operating system-dependent font config substitution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;FontConfigSubstitutionRule&gt;<sp/>fontConfigSubstitution<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontConfigSubstitution();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>

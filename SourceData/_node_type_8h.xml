@@ -461,6 +461,115 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="70" refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member" tooltip="Specifies the type of a Word document node.">NodeType</ref></highlight></codeline>
+<codeline lineno="71"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">Any</ref>,</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"></highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_document" kindref="compound" tooltip="Represents a Word document. To learn more, visit the Working with Document documentation article.">Document</ref>,</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"></highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_section" kindref="compound" tooltip="Represents a single section in a document.">Section</ref>,</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_body" kindref="compound" tooltip="Represents a container for the main text of a section.">Body</ref>,</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound" tooltip="Represents a container for the header or footer text of a section.">HeaderFooter</ref>,</highlight></codeline>
+<codeline lineno="92"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">Table</ref>,</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aa70367aa7cb74e510f4f9413ccf059d3" kindref="member" tooltip="A row of a table. A Row node can have Cell nodes.">Row</ref>,</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="103"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member" tooltip="A cell of a table row. A Cell node can have Paragraph and Table nodes.">Cell</ref>,</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"></highlight></codeline>
+<codeline lineno="118"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound" tooltip="Represents a paragraph of text.">Paragraph</ref>,</highlight></codeline>
+<codeline lineno="119"><highlight class="normal"></highlight></codeline>
+<codeline lineno="121"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_bookmark_start" kindref="compound" tooltip="Represents a start of a bookmark in a Word document. To learn more, visit the Working with Bookmarks ...">BookmarkStart</ref>,</highlight></codeline>
+<codeline lineno="122"><highlight class="normal"></highlight></codeline>
+<codeline lineno="124"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_bookmark_end" kindref="compound" tooltip="Represents an end of a bookmark in a Word document. To learn more, visit the Working with Bookmarks d...">BookmarkEnd</ref>,</highlight></codeline>
+<codeline lineno="125"><highlight class="normal"></highlight></codeline>
+<codeline lineno="127"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_editable_range_start" kindref="compound" tooltip="Represents a start of an editable range in a Word document.">EditableRangeStart</ref>,</highlight></codeline>
+<codeline lineno="128"><highlight class="normal"></highlight></codeline>
+<codeline lineno="130"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_editable_range_end" kindref="compound" tooltip="Represents an end of an editable range in a Word document.">EditableRangeEnd</ref>,</highlight></codeline>
+<codeline lineno="131"><highlight class="normal"></highlight></codeline>
+<codeline lineno="133"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a105cecf3d6a4c4e585cf0eefd719c7fa" kindref="member" tooltip="A beginning of an MoveFrom range.">MoveFromRangeStart</ref>,</highlight></codeline>
+<codeline lineno="134"><highlight class="normal"></highlight></codeline>
+<codeline lineno="136"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aad6e83f48bc47c0c0c2195af74549bef" kindref="member" tooltip="An end of an MoveFrom range.">MoveFromRangeEnd</ref>,</highlight></codeline>
+<codeline lineno="137"><highlight class="normal"></highlight></codeline>
+<codeline lineno="139"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379af4934a13e5b5bd8ae83a7578936ffa3b" kindref="member" tooltip="A beginning of an MoveTo range.">MoveToRangeStart</ref>,</highlight></codeline>
+<codeline lineno="140"><highlight class="normal"></highlight></codeline>
+<codeline lineno="142"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a2b2ceb8731e74827adefafb74f007e24" kindref="member" tooltip="An end of an MoveTo range.">MoveToRangeEnd</ref>,</highlight></codeline>
+<codeline lineno="143"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ad508eb2fbe41d99bb795fb8b05ce868b" kindref="member" tooltip="A group of shapes, images, OLE objects or other group shapes. A GroupShape node can contain other Sha...">GroupShape</ref>,</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"></highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">Shape</ref>,</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"></highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound" tooltip="Represents a container for text of a comment.">Comment</ref>,</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"></highlight></codeline>
+<codeline lineno="160"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="A footnote or endnote in a Word document. A Footnote node can have Paragraph and Table nodes.">Footnote</ref>,</highlight></codeline>
+<codeline lineno="161"><highlight class="normal"></highlight></codeline>
+<codeline lineno="163"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_run" kindref="compound" tooltip="Represents a run of characters with the same font formatting.">Run</ref>,</highlight></codeline>
+<codeline lineno="164"><highlight class="normal"></highlight></codeline>
+<codeline lineno="166"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3cc2f5f11d41e29662a3f83110ccb6d3" kindref="member" tooltip="A special character that designates the start of a Word field.">FieldStart</ref>,</highlight></codeline>
+<codeline lineno="167"><highlight class="normal"></highlight></codeline>
+<codeline lineno="169"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aee8d639a38f8001a785215f8bcd940b8" kindref="member" tooltip="A special character that separates the field code from the field result.">FieldSeparator</ref>,</highlight></codeline>
+<codeline lineno="170"><highlight class="normal"></highlight></codeline>
+<codeline lineno="172"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a687d21072c62d81529f6220b650c1783" kindref="member" tooltip="A special character that designates the end of a Word field.">FieldEnd</ref>,</highlight></codeline>
+<codeline lineno="173"><highlight class="normal"></highlight></codeline>
+<codeline lineno="175"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379abc3ee36619f878ca7fb3724874fcec7d" kindref="member" tooltip="A form field.">FormField</ref>,</highlight></codeline>
+<codeline lineno="176"><highlight class="normal"></highlight></codeline>
+<codeline lineno="178"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_special_char" kindref="compound" tooltip="Base class for special characters in the document.">SpecialChar</ref>,</highlight></codeline>
+<codeline lineno="179"><highlight class="normal"></highlight></codeline>
+<codeline lineno="181"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">SmartTag</ref>,</highlight></codeline>
+<codeline lineno="182"><highlight class="normal"></highlight></codeline>
+<codeline lineno="184"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a68e4c6ed96f1d85ba56be9178fdbd738" kindref="member" tooltip="Allows to define customer-specific information and its means of presentation.">StructuredDocumentTag</ref>,</highlight></codeline>
+<codeline lineno="185"><highlight class="normal"></highlight></codeline>
+<codeline lineno="187"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a09b0876d6e390af48f5dc77052fd2380" kindref="member" tooltip="A start of ranged structured document tag which accepts multi-sections content.">StructuredDocumentTagRangeStart</ref>,</highlight></codeline>
+<codeline lineno="188"><highlight class="normal"></highlight></codeline>
+<codeline lineno="190"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a7fe740404365ef2376a2085ba839f9ba" kindref="member" tooltip="A end of ranged structured document tag which accepts multi-sections content.">StructuredDocumentTagRangeEnd</ref>,</highlight></codeline>
+<codeline lineno="191"><highlight class="normal"></highlight></codeline>
+<codeline lineno="193"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a323252d62a3ae1dc096ed058b8ab3d4c" kindref="member" tooltip="A glossary document within the main document.">GlossaryDocument</ref>,</highlight></codeline>
+<codeline lineno="194"><highlight class="normal"></highlight></codeline>
+<codeline lineno="196"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a846dc53a0b4b06de2cfd1c705dfff289" kindref="member" tooltip="A building block within a glossary document (e.g. glossary document entry).">BuildingBlock</ref>,</highlight></codeline>
+<codeline lineno="197"><highlight class="normal"></highlight></codeline>
+<codeline lineno="199"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound" tooltip="Denotes the start of a region of text that has a comment associated with it.">CommentRangeStart</ref>,</highlight></codeline>
+<codeline lineno="200"><highlight class="normal"></highlight></codeline>
+<codeline lineno="202"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_comment_range_end" kindref="compound" tooltip="Denotes the end of a region of text that has a comment associated with it.">CommentRangeEnd</ref>,</highlight></codeline>
+<codeline lineno="203"><highlight class="normal"></highlight></codeline>
+<codeline lineno="206"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">OfficeMath</ref>,</highlight></codeline>
+<codeline lineno="207"><highlight class="normal"></highlight></codeline>
+<codeline lineno="209"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_sub_document" kindref="compound" tooltip="Represents a SubDocument - which is a reference to an externally stored document.">SubDocument</ref>,</highlight></codeline>
+<codeline lineno="210"><highlight class="normal"></highlight></codeline>
+<codeline lineno="212"><highlight class="normal"><sp/><sp/><sp/><sp/>System,</highlight></codeline>
+<codeline lineno="213"><highlight class="normal"></highlight></codeline>
+<codeline lineno="215"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379abbb93ef26e3c101ff11cdd21cab08a94" kindref="member" tooltip="Reserved for internal use by Aspose.Words.">Null</ref></highlight></codeline>
+<codeline lineno="216"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="217"><highlight class="normal"></highlight></codeline>
+<codeline lineno="218"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="219"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="220"><highlight class="normal"></highlight></codeline>
+<codeline lineno="221"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="222"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::NodeType&gt;</highlight></codeline>
+<codeline lineno="223"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="224"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::NodeType,<sp/>const<sp/>char_t*&gt;,<sp/>39&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="225"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/NodeType.h"/>
   </compounddef>
 </doxygen>

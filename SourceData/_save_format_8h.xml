@@ -568,6 +568,116 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum_helpers.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34" refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member" tooltip="Indicates the format in which the document is saved.">SaveFormat</ref></highlight></codeline>
+<codeline lineno="35"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a88183b946cc5f0e8c96b2e66e1c74a7e" kindref="member" tooltip="Unrecognized format, cannot be loaded by Aspose.Words.">Unknown</ref><sp/>=<sp/>0,</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Microsoft Word 95 or Word 97 - 2003 Document.">Doc</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09daaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">Dot</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Office Open XML WordprocessingML Document (macro-free).">Docx</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"></highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52ae4a760f39d051de12fe119230787cf31" kindref="member" tooltip="Office Open XML WordprocessingML Macro-Enabled Document.">Docm</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52af677eacaea0757778d5ae6a5c7b6b33f" kindref="member" tooltip="Office Open XML WordprocessingML Template (macro-free).">Dotx</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"></highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9ade78f4046d6517a2b17884c1307845" kindref="member" tooltip="Office Open XML WordprocessingML Macro-Enabled Template.">Dotm</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"></highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a2b7085a73e76e581d28543a39fb2b981" kindref="member" tooltip="Office Open XML WordprocessingML stored in a flat XML file instead of a ZIP package.">FlatOpc</ref><sp/>=<sp/>24,</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a0a70e5a871131f05263692a728ec34f6" kindref="member" tooltip="Office Open XML WordprocessingML Macro-Enabled Document stored in a flat XML file instead of a ZIP pa...">FlatOpcMacroEnabled</ref><sp/>=<sp/>25,</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"></highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52af522ef73a5047501603a33245ca94079" kindref="member" tooltip="Office Open XML WordprocessingML Template (macro-free) stored in a flat XML file instead of a ZIP pac...">FlatOpcTemplate</ref><sp/>=<sp/>26,</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a3a804422d5337e2f00ab8a22e2ae9214" kindref="member" tooltip="Office Open XML WordprocessingML Macro-Enabled Template stored in a flat XML file instead of a ZIP pa...">FlatOpcTemplateMacroEnabled</ref><sp/>=<sp/>27,</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member" tooltip="RTF format.">Rtf</ref><sp/>=<sp/>30,</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52ad3fc933a3ff97915dd1fa4b6c524230e" kindref="member" tooltip="Microsoft Word 2003 WordprocessingML format.">WordML</ref><sp/>=<sp/>31,</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ae4204641574e4827600356b4dcacd276" kindref="member" tooltip="Saves the document as PDF (Adobe Portable Document) format.">Pdf</ref><sp/>=<sp/>40,</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">Xps</ref><sp/>=<sp/>41,</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member" tooltip="Saves the document in the Extensible Application Markup Language (XAML) format as a fixed document.">XamlFixed</ref><sp/>=<sp/>42,</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">Svg</ref><sp/>=<sp/>44,</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a4104cfeac027d4432d51a3d13a2ed58d" kindref="member" tooltip="Saves the document in the HTML format using absolutely positioned elements.">HtmlFixed</ref><sp/>=<sp/>45,</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"></highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a993106e06ab4738b58fc83817dcb3476" kindref="member" tooltip="Saves the document in the OpenXPS (Ecma-388) format.">OpenXps</ref><sp/>=<sp/>46,</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a896988541cc49716df87b702f23396d5" kindref="member" tooltip="Saves the document in the PS (PostScript) format.">Ps</ref><sp/>=<sp/>47,</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a139c6a937ba664f770071388bcb1624b" kindref="member" tooltip="Saves the document in the PCL (Printer Control Language) format.">Pcl</ref><sp/>=<sp/>48,</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a3135f4019bee015e2d1ae7f77f9f3f64" kindref="member" tooltip="HTML format.">Html</ref><sp/>=<sp/>50,</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"></highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52aaaed78da0c543c16df8f74dfec8ba388" kindref="member" tooltip="MHTML (Web archive) format.">Mhtml</ref><sp/>=<sp/>51,</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a0e478fd5e6d71926b253851dd9fcbda1" kindref="member" tooltip="EPUB format.">Epub</ref><sp/>=<sp/>52,</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"></highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a5f432cf9f04ad9b9c20d41651e6689fe" kindref="member" tooltip="AZW3 format. Used by Amazon Kindle readers.">Azw3</ref><sp/>=<sp/>53,</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"></highlight></codeline>
+<codeline lineno="114"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a62830bddfb361d1fe469dd20145f9e8b" kindref="member" tooltip="ODF Text Document.">Odt</ref><sp/>=<sp/>60,</highlight></codeline>
+<codeline lineno="115"><highlight class="normal"></highlight></codeline>
+<codeline lineno="117"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52af70f04f40f6b423ddfc11b1d8c6829d9" kindref="member" tooltip="ODF Text Document Template.">Ott</ref><sp/>=<sp/>61,</highlight></codeline>
+<codeline lineno="118"><highlight class="normal"></highlight></codeline>
+<codeline lineno="120"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref><sp/>=<sp/>70,</highlight></codeline>
+<codeline lineno="121"><highlight class="normal"></highlight></codeline>
+<codeline lineno="123"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9accaf21e34f41097d8c375deede20a3" kindref="member" tooltip="Beta. Saves the document in the Extensible Application Markup Language (XAML) format as a flow docume...">XamlFlow</ref><sp/>=<sp/>71,</highlight></codeline>
+<codeline lineno="124"><highlight class="normal"></highlight></codeline>
+<codeline lineno="126"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a00cd189dc7740f1f8b0ce510a0130c83" kindref="member" tooltip="Beta. Saves the document in the Extensible Application Markup Language (XAML) package format as a flo...">XamlFlowPack</ref><sp/>=<sp/>72,</highlight></codeline>
+<codeline lineno="127"><highlight class="normal"></highlight></codeline>
+<codeline lineno="129"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a2182a74bab7188d959e795d9301e87ff" kindref="member" tooltip="Markdown text document.">Markdown</ref><sp/>=<sp/>73,</highlight></codeline>
+<codeline lineno="130"><highlight class="normal"></highlight></codeline>
+<codeline lineno="132"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a72ab34b91787bd01f445189e04fef4ce" kindref="member" tooltip="Renders a page or pages of the document and saves them into a single or multipage TIFF file.">Tiff</ref><sp/>=<sp/>100,</highlight></codeline>
+<codeline lineno="133"><highlight class="normal"></highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af8fd4f1b5b05c6b1cc6a661141fd4f54" kindref="member" tooltip="Renders a page of the document and saves it as a PNG file.">Png</ref><sp/>=<sp/>101,</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"></highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a021d8346462df53d4272607b0f41a8d8" kindref="member" tooltip="Renders a page of the document and saves it as a BMP file.">Bmp</ref><sp/>=<sp/>102,</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"></highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a335e6de92c6443abe56fbd7eebd79f26" kindref="member" tooltip="Renders a page of the document and saves it as a vector EMF (Enhanced Meta File) file.">Emf</ref><sp/>=<sp/>103,</highlight></codeline>
+<codeline lineno="142"><highlight class="normal"></highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5023eac1d7fffa77b37c0e6797c97773" kindref="member" tooltip="Renders a page of the document and saves it as a JPEG file.">Jpeg</ref><sp/>=<sp/>104,</highlight></codeline>
+<codeline lineno="145"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ab28f315fa877ea6a840b6a4ea5401256" kindref="member" tooltip="Renders a page of the document and saves it as a GIF file.">Gif</ref><sp/>=<sp/>105</highlight></codeline>
+<codeline lineno="148"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="149"><highlight class="normal"></highlight></codeline>
+<codeline lineno="150"><highlight class="normal">DECLARE_ENUM_OPERATORS(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member" tooltip="Indicates the format in which the document is saved.">Aspose::Words::SaveFormat</ref>);</highlight></codeline>
+<codeline lineno="151"><highlight class="normal">DECLARE_USING_GLOBAL_OPERATORS</highlight></codeline>
+<codeline lineno="152"><highlight class="normal"></highlight></codeline>
+<codeline lineno="153"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="154"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="155"><highlight class="normal"></highlight></codeline>
+<codeline lineno="156"><highlight class="normal">DECLARE_USING_ENUM_OPERATORS(<ref refid="namespace_aspose_1_1_words" kindref="compound" tooltip="The Aspose.Words namespace provides classes for generating, converting, modifying,...">Aspose::Words</ref>);</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="158"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::SaveFormat&gt;</highlight></codeline>
+<codeline lineno="159"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="160"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::SaveFormat,<sp/>const<sp/>char_t*&gt;,<sp/>37&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="161"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/SaveFormat.h"/>
   </compounddef>
 </doxygen>

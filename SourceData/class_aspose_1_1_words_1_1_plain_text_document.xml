@@ -6,7 +6,7 @@
     <includes refid="_plain_text_document_8h" local="no">Aspose.Words.Cpp/PlainTextDocument.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_plain_text_document_1a1ade2aea5f65eef5724baf1fe0e784b7" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::PlainTextDocument::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="63" column="31" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_plain_text_document_1a288dede1438667d38d2d62073f3d6316" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::PlainTextDocument::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_plain_text_document_1a7f714c390ef71c0fea2a766e73946cd9" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::PlainTextDocument::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="272" column="20" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="272" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_plain_text_document_1a45f3b858ff6cc0ec1566b2a039c7cd61" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::PlainTextDocument::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -78,7 +78,7 @@
         <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="273" column="23" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="273" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_plain_text_document_1a6b157afbd0d251b38c80db0f55360121" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::PlainTextDocument::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -116,7 +116,7 @@
         <name>PlainTextDocument</name>
         <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>stream</declname>
         </param>
         <briefdescription>
@@ -151,7 +151,7 @@
 </parameteritem>
 <parameteritem>
 <parameternamelist>
-<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
 </parameternamelist>
 <parameterdescription>
 <para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
@@ -225,11 +225,11 @@ Shows how to load the contents of a Microsoft Word document in plaintext using s
         <name>PlainTextDocument</name>
         <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>stream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
           <declname>loadOptions</declname>
         </param>
         <briefdescription>
@@ -272,7 +272,7 @@ Shows how to load the contents of a Microsoft Word document in plaintext using s
 </parameteritem>
 <parameteritem>
 <parameternamelist>
-<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
 </parameternamelist>
 <parameterdescription>
 <para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
@@ -353,7 +353,7 @@ Shows how to load the contents of an encrypted Microsoft Word document in plaint
         <name>PlainTextDocument</name>
         <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>fileName</declname>
         </param>
         <briefdescription>
@@ -387,7 +387,7 @@ Shows how to load the contents of an encrypted Microsoft Word document in plaint
 </parameteritem>
 <parameteritem>
 <parameternamelist>
-<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
 </parameternamelist>
 <parameterdescription>
 <para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
@@ -442,11 +442,11 @@ Shows how to load the contents of a Microsoft Word document in plaintext. <progr
         <name>PlainTextDocument</name>
         <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>fileName</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
           <declname>loadOptions</declname>
         </param>
         <briefdescription>
@@ -488,7 +488,7 @@ Shows how to load the contents of a Microsoft Word document in plaintext. <progr
 </parameteritem>
 <parameteritem>
 <parameternamelist>
-<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
 </parameternamelist>
 <parameterdescription>
 <para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
@@ -571,7 +571,7 @@ Shows how to load the contents of an encrypted Microsoft Word document in plaint
           <declname>stream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
           <declname>loadOptions</declname>
         </param>
         <briefdescription>
@@ -583,7 +583,7 @@ Shows how to load the contents of an encrypted Microsoft Word document in plaint
         <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="268" column="8"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a205c7f9c472dd64af3cdcfe1138073ab" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties" kindref="compound">Aspose::Words::Properties::BuiltInDocumentProperties</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties" kindref="compound">Aspose::Words::Properties::BuiltInDocumentProperties</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::BuiltInDocumentProperties &gt; Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties</definition>
         <argsstring>() const</argsstring>
         <name>get_BuiltInDocumentProperties</name>
@@ -613,7 +613,7 @@ Shows how to load the contents of a Microsoft Word document in plaintext and the
         <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="108" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a3ff175fbd223f3b077b4bd286239aa9a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties" kindref="compound">Aspose::Words::Properties::CustomDocumentProperties</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties" kindref="compound">Aspose::Words::Properties::CustomDocumentProperties</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::CustomDocumentProperties &gt; Aspose::Words::PlainTextDocument::get_CustomDocumentProperties</definition>
         <argsstring>() const</argsstring>
         <name>get_CustomDocumentProperties</name>
@@ -643,7 +643,7 @@ Shows how to load the contents of a Microsoft Word document in plaintext and the
         <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="129" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1ab6c1dfa9b90bd30bd1ebb5bd45649a90" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::PlainTextDocument::get_Text</definition>
         <argsstring>() const</argsstring>
         <name>get_Text</name>

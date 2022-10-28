@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="102" column="22" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="102" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aa84c03bac9510d03a77c79d2273cb16d" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline_story" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline_story" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Notes::Footnote::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -93,7 +93,7 @@
         <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="539" column="23" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="539" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aee3a7819b8e40d4cb3162f5e90fd9c14" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Notes::Footnote::mField2</definition>
         <argsstring></argsstring>
         <name>mField2</name>
@@ -130,7 +130,7 @@
         <qualifiedname>Aspose::Words::Notes::Footnote::AcceptEnd</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1acfce958aecccd97d02b9ce640c71adb0">AcceptEnd</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -148,7 +148,7 @@
         <qualifiedname>Aspose::Words::Notes::Footnote::AcceptStart</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a4161179423c4ab1bd74fe8825dc06e2f">AcceptStart</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -210,7 +210,7 @@
         <name>Footnote</name>
         <qualifiedname>Aspose::Words::Notes::Footnote::Footnote</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
           <declname>doc</declname>
         </param>
         <param>
@@ -294,7 +294,7 @@ Shows how to insert and customize footnotes. <programlisting><codeline><highligh
         <qualifiedname>Aspose::Words::Notes::Footnote::Accept</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
           <declname>visitor</declname>
         </param>
         <briefdescription>
@@ -345,7 +345,7 @@ Shows how to print the node structure of every footnote in a document. <programl
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFootnoteStart(SharedPtr&lt;Footnote&gt;<sp/>footnote)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideFootnote<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -543,7 +543,7 @@ Shows how to traverse a composite node&apos;s tree of child nodes. <programlisti
         <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="155" column="32"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a96f8542f9bf0d69b0f072501a657fed2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Notes::Footnote::get_ReferenceMark</definition>
         <argsstring>() const</argsstring>
         <name>get_ReferenceMark</name>
@@ -636,14 +636,14 @@ Shows how to insert <ref refid="class_aspose_1_1_words_1_1_inline_story" kindref
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Edit<sp/>the<sp/>appearance<sp/>of<sp/>the<sp/>anchor,<sp/>which<sp/>is<sp/>the<sp/>small<sp/>superscript<sp/>number</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>main<sp/>text<sp/>that<sp/>points<sp/>to<sp/>the<sp/>footnote.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">footnote-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">footnote-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>All<sp/>inline<sp/>story<sp/>nodes<sp/>have<sp/>their<sp/>respective<sp/>story<sp/>types.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a94116f2446f9aa6f89d2b97593ffa119a668f1dcdb78a4d16c7e4a2f20dcac198" kindref="member" tooltip="Contains footnote text, represented by Footnote.">StoryType::Footnotes</ref>,<sp/>footnote-&gt;get_StoryType());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>comment<sp/>is<sp/>another<sp/>type<sp/>of<sp/>inline<sp/>story.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>=<sp/>System::DynamicCast&lt;Comment&gt;(</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;AppendChild(MakeObject&lt;Comment&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;AppendChild(MakeObject&lt;Comment&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>())));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>parent<sp/>paragraph<sp/>of<sp/>an<sp/>inline<sp/>story<sp/>node<sp/>will<sp/>be<sp/>the<sp/>one<sp/>from<sp/>the<sp/>main<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph(),<sp/>comment-&gt;get_ParentParagraph());</highlight></codeline>
@@ -695,7 +695,7 @@ Shows how to insert <ref refid="class_aspose_1_1_words_1_1_inline_story" kindref
         <name>set_ReferenceMark</name>
         <qualifiedname>Aspose::Words::Notes::Footnote::set_ReferenceMark</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

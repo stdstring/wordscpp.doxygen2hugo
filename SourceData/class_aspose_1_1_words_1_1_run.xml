@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Run.h" line="147" column="17" bodyfile="Aspose.Words.Cpp/Run.h" bodystart="147" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_run_1a67af77f577c4de6bde92c047742fe5d6" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Run::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_run_1a14a1e9a2dbe43b0c84e8823cfc3ffb08" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Run::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -117,7 +117,7 @@
         <name>Run</name>
         <qualifiedname>Aspose::Words::Run::Run</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
           <declname>doc</declname>
         </param>
         <briefdescription>
@@ -171,7 +171,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -190,11 +190,11 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
         <name>Run</name>
         <qualifiedname>Aspose::Words::Run::Run</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
           <declname>doc</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>text</declname>
         </param>
         <briefdescription>
@@ -228,7 +228,7 @@ Shows how to format a run of text using its font property. <programlisting><code
 <codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Font&gt;<sp/>font<sp/>=<sp/>run-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(36);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.CreateFormattedRun.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -246,7 +246,7 @@ Shows how to format a run of text using its font property. <programlisting><code
         <qualifiedname>Aspose::Words::Run::Accept</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
           <declname>visitor</declname>
         </param>
         <briefdescription>
@@ -311,7 +311,7 @@ Shows how to print the node structure of every header and footer in a document. 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitHeaderFooterStart(SharedPtr&lt;HeaderFooter&gt;<sp/>headerFooter)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -401,7 +401,7 @@ Shows how to traverse a composite node&apos;s tree of child nodes. <programlisti
         <location file="Aspose.Words.Cpp/Run.h" line="199" column="32"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_run_1a302e7ee52eb2204b93cfcceac8a4d74b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Run::get_Text</definition>
         <argsstring>() const</argsstring>
         <name>get_Text</name>
@@ -446,7 +446,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
@@ -459,7 +459,7 @@ Shows how to construct an Aspose.Words document by hand. <programlisting><codeli
         <location file="Aspose.Words.Cpp/Run.h" line="248" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_run_1a34f7344fe50ee62801dab323109fabe6" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Run::GetText</definition>
         <argsstring>() override</argsstring>
         <name>GetText</name>
@@ -516,7 +516,7 @@ Shows how to print the node structure of every header and footer in a document. 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitHeaderFooterStart(SharedPtr&lt;HeaderFooter&gt;<sp/>headerFooter)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -560,7 +560,7 @@ Shows how to print the node structure of every header and footer in a document. 
         <name>set_Text</name>
         <qualifiedname>Aspose::Words::Run::set_Text</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -587,7 +587,7 @@ Shows how to format a run of text using its font property. <programlisting><code
 <codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Font&gt;<sp/>font<sp/>=<sp/>run-&gt;get_Font();</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">font-&gt;set_Size(36);</highlight></codeline>
-<codeline><highlight class="normal">font-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.CreateFormattedRun.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -670,7 +670,7 @@ Shows how to format a run of text using its font property. <programlisting><code
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>

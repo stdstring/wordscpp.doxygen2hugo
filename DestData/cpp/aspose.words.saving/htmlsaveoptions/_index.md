@@ -56,7 +56,6 @@ class HtmlSaveOptions : public Aspose::Words::Saving::SaveOptions
 | [get_ExportTextInputFormFieldAsText](./get_exporttextinputformfieldastext/)() const | Controls how text input form fields are saved to HTML or MHTML. Default value is **false**. |
 | [get_ExportTocPageNumbers](./get_exporttocpagenumbers/)() const | Specifies whether to write page numbers to table of contents when saving HTML, MHTML and EPUB. Default value is **false**. |
 | [get_ExportXhtmlTransitional](./get_exportxhtmltransitional/)() const | Specifies whether to write the DOCTYPE declaration when saving to HTML or MHTML. When **true**, writes a DOCTYPE declaration in the document prior to the root element. Default value is **false**. When saving to EPUB or HTML5 (**Html5**) the DOCTYPE declaration is always written. |
-| [get_FlatOpcXmlMappingOnly](../saveoptions/get_flatopcxmlmappingonly/)() const | Gets or sets value determining which document formats are allowed to be mapped by [XmlMapping](../../aspose.words.markup/structureddocumenttag/get_xmlmapping/). By default only **FlatOpc** document format is allowed to be mapped. |
 | [get_FontResourcesSubsettingSizeThreshold](./get_fontresourcessubsettingsizethreshold/)() const | Controls which font resources need subsetting when saving to HTML, MHTML or EPUB. Default is **%0**. |
 | [get_FontSavingCallback](./get_fontsavingcallback/)() const | Allows to control how fonts are saved when a document is saved to HTML, MHTML or EPUB. |
 | [get_FontsFolder](./get_fontsfolder/)() const | Specifies the physical folder where fonts are saved when exporting a document to HTML. Default is an empty string. |
@@ -123,7 +122,6 @@ class HtmlSaveOptions : public Aspose::Words::Saving::SaveOptions
 | [set_ExportTextInputFormFieldAsText](./set_exporttextinputformfieldastext/)(bool) | Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportTextInputFormFieldAsText](./get_exporttextinputformfieldastext/). |
 | [set_ExportTocPageNumbers](./set_exporttocpagenumbers/)(bool) | Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportTocPageNumbers](./get_exporttocpagenumbers/). |
 | [set_ExportXhtmlTransitional](./set_exportxhtmltransitional/)(bool) | Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional](./get_exportxhtmltransitional/). |
-| [set_FlatOpcXmlMappingOnly](../saveoptions/set_flatopcxmlmappingonly/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_FlatOpcXmlMappingOnly](../saveoptions/get_flatopcxmlmappingonly/). |
 | [set_FontResourcesSubsettingSizeThreshold](./set_fontresourcessubsettingsizethreshold/)(int32_t) | Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold](./get_fontresourcessubsettingsizethreshold/). |
 | [set_FontSavingCallback](./set_fontsavingcallback/)(const System::SharedPtr\<Aspose::Words::Saving::IFontSavingCallback\>\&) | Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontSavingCallback](./get_fontsavingcallback/). |
 | [set_FontsFolder](./set_fontsfolder/)(const System::String\&) | Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder](./get_fontsfolder/). |

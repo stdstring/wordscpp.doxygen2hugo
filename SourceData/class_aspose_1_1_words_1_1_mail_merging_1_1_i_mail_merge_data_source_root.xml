@@ -6,7 +6,7 @@
     <includes refid="_i_mail_merge_data_source_root_8h" local="no">Aspose.Words.Cpp/MailMerging/IMailMergeDataSourceRoot.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source_root_1a3ccea49820f074e5b34bdf1eb3550a94" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::MailMerging::IMailMergeDataSourceRoot::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/IMailMergeDataSourceRoot.h" line="232" column="38" bodyfile="Aspose.Words.Cpp/MailMerging/IMailMergeDataSourceRoot.h" bodystart="232" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source_root_1aaeac8a1e7099a5a2656e769b8c88944a" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::IMailMergeDataSourceRoot::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -66,13 +66,13 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source_root_1a58c9d158f12fcc4d9662ffb89283a571" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source" kindref="compound">Aspose::Words::MailMerging::IMailMergeDataSource</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source" kindref="compound">Aspose::Words::MailMerging::IMailMergeDataSource</ref> &gt;</type>
         <definition>virtual System::SharedPtr&lt; Aspose::Words::MailMerging::IMailMergeDataSource &gt; Aspose::Words::MailMerging::IMailMergeDataSourceRoot::GetDataSource</definition>
         <argsstring>(System::String tableName)=0</argsstring>
         <name>GetDataSource</name>
         <qualifiedname>Aspose::Words::MailMerging::IMailMergeDataSourceRoot::GetDataSource</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
           <declname>tableName</declname>
         </param>
         <briefdescription>
@@ -144,7 +144,7 @@ Performs mail merge from a custom data source with master-detail data. <programl
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>doc;</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">Employee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">Employee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>get_FullName()</highlight></codeline>
@@ -183,7 +183,7 @@ Performs mail merge from a custom data source with master-detail data. <programl
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mSources-&gt;Add(sourceName,<sp/>source);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DataSourceRoot()<sp/>:<sp/>mSources(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::Dictionary&lt;<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>,<sp/><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">SharedPtr</ref>&lt;ExMailMergeCustom::EmployeeListMailMergeSource&gt;&gt;&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DataSourceRoot()<sp/>:<sp/>mSources(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::Dictionary&lt;<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>,<sp/><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">SharedPtr</ref>&lt;ExMailMergeCustom::EmployeeListMailMergeSource&gt;&gt;&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -199,7 +199,7 @@ Performs mail merge from a custom data source with master-detail data. <programl
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>u</highlight><highlight class="stringliteral">&quot;Employees&quot;</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EmployeeListMailMergeSource(SharedPtr&lt;<ref refid="class/system.collections.generic.list.enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt;SharedPtr&lt;ExMailMergeCustom::Employee&gt;&gt;&gt;<sp/>employees)<sp/>:<sp/>mRecordIndex(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EmployeeListMailMergeSource(SharedPtr&lt;<ref refid="class/system.collections.generic.list.enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt;SharedPtr&lt;ExMailMergeCustom::Employee&gt;&gt;&gt;<sp/>employees)<sp/>:<sp/>mRecordIndex(0)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mEmployees<sp/>=<sp/>employees;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mRecordIndex<sp/>=<sp/>-1;</highlight></codeline>
@@ -316,7 +316,7 @@ Performs mail merge from a custom data source with master-detail data. <programl
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>doc;</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">Employee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">Employee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>get_FullName()</highlight></codeline>
@@ -355,7 +355,7 @@ Performs mail merge from a custom data source with master-detail data. <programl
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mSources-&gt;Add(sourceName,<sp/>source);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DataSourceRoot()<sp/>:<sp/>mSources(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::Dictionary&lt;<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>,<sp/><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">SharedPtr</ref>&lt;ExMailMergeCustom::EmployeeListMailMergeSource&gt;&gt;&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DataSourceRoot()<sp/>:<sp/>mSources(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::Dictionary&lt;<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>,<sp/><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">SharedPtr</ref>&lt;ExMailMergeCustom::EmployeeListMailMergeSource&gt;&gt;&gt;())</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -371,7 +371,7 @@ Performs mail merge from a custom data source with master-detail data. <programl
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>u</highlight><highlight class="stringliteral">&quot;Employees&quot;</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EmployeeListMailMergeSource(SharedPtr&lt;<ref refid="class/system.collections.generic.list.enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt;SharedPtr&lt;ExMailMergeCustom::Employee&gt;&gt;&gt;<sp/>employees)<sp/>:<sp/>mRecordIndex(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EmployeeListMailMergeSource(SharedPtr&lt;<ref refid="class/system.collections.generic.list.enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt;SharedPtr&lt;ExMailMergeCustom::Employee&gt;&gt;&gt;<sp/>employees)<sp/>:<sp/>mRecordIndex(0)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mEmployees<sp/>=<sp/>employees;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mRecordIndex<sp/>=<sp/>-1;</highlight></codeline>

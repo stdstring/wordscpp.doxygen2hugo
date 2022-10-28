@@ -60,6 +60,82 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">Layout</ref><sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44" refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7c" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7c" kindref="member" tooltip="Allows to specify color of document revisions.">RevisionColor</ref></highlight></codeline>
+<codeline lineno="45"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca06b9281e396db002010bde1de57262eb" kindref="member" tooltip="Default.">Auto</ref>,</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cae90dfb84e30edf611e326eeb04d680de" kindref="member" tooltip="Represents 000000 color.">Black</ref>,</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca9594eec95be70e7b1710f730fdda33d9" kindref="member" tooltip="Represents 2e97d3 color.">Blue</ref>,</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"></highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" kindref="member" tooltip="Represents 84a35b color.">BrightGreen</ref>,</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7caa8d704274861c39f8c80087451928682" kindref="member" tooltip="Represents 0000ff color.">ClassicBlue</ref>,</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca588e5fb4179aab49a52b6917ff4fe090" kindref="member" tooltip="Represents ff0000 color.">ClassicRed</ref>,</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca877716336e4eb22ac67faaa9c2b86635" kindref="member" tooltip="Represents 376e96 color.">DarkBlue</ref>,</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8746d21f8164452063398744f06307dd" kindref="member" tooltip="Represents 881824 color.">DarkRed</ref>,</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca42d873bb34e1055e40aad0ec45039e8b" kindref="member" tooltip="Represents e09a2b color.">DarkYellow</ref>,</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8081ffaa0a02c8638cd2769d1e021f90" kindref="member" tooltip="Represents a0a3a9 color.">Gray25</ref>,</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca2ec7501bf615c174c820c580d1982d05" kindref="member" tooltip="Represents 50565e color.">Gray50</ref>,</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cad382816a3cbeed082c9e216e7392eed1" kindref="member" tooltip="Represents 2c6234 color.">Green</ref>,</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"></highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8dc5344bc0746e1cc5abf896ca03bbdf" kindref="member" tooltip="Represents ce338f color.">Pink</ref>,</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7caee38e4d5dd68c4e440825018d549cb47" kindref="member" tooltip="Represents b5082e color.">Red</ref>,</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cae20385a2b41df1743f787ebef18222b8" kindref="member" tooltip="Represents 1b9cab color.">Teal</ref>,</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"></highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cada3a4f0a911cebe3bc75f6e39c324696" kindref="member" tooltip="Represents 3eafc2 color.">Turquoise</ref>,</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca80f1187112e2e5e0403499147f7014b8" kindref="member" tooltip="Represents 633277 color.">Violet</ref>,</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca25a81701fbfa4a1efdf660a950c1d006" kindref="member" tooltip="Represents ffffff color.">White</ref>,</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca51e6cd92b6c45f9affdc158ecca2b8b8" kindref="member" tooltip="Represents fad272 color.">Yellow</ref>,</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"></highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca65fe6184005a267b6cdda31f081557bd" kindref="member" tooltip="No color is used to highlight revision changes.">NoHighlight</ref>,</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"></highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca9e58445ce081e022730fb530c77da1db" kindref="member" tooltip="Revisions of each author receive their own color for highlighting from a predfined set of hi-contrast...">ByAuthor</ref></highlight></codeline>
+<codeline lineno="109"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"></highlight></codeline>
+<codeline lineno="111"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="112"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="113"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"></highlight></codeline>
+<codeline lineno="115"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="116"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Layout::RevisionColor&gt;</highlight></codeline>
+<codeline lineno="117"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="118"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Layout::RevisionColor,<sp/>const<sp/>char_t*&gt;,<sp/>21&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="119"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Layout/RevisionColor.h"/>
   </compounddef>
 </doxygen>

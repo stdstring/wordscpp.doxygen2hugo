@@ -6,7 +6,7 @@
     <includes refid="_import_format_options_8h" local="no">Aspose.Words.Cpp/ImportFormatOptions.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_import_format_options_1a7a0a6848e5480d404844dead656c473e" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::ImportFormatOptions::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/ImportFormatOptions.h" line="53" column="33" bodyfile="Aspose.Words.Cpp/ImportFormatOptions.h" bodystart="53" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_import_format_options_1a130ed9d91b19559e85e4541ef5170818" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::ImportFormatOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -426,7 +426,7 @@ Shows how to resolve duplicate styles while inserting documents. <programlisting
 <codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>myStyle<sp/>=<sp/>builder-&gt;get_Document()-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Size(14);</highlight></codeline>
 <codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleName(myStyle-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -434,7 +434,7 @@ Shows how to resolve duplicate styles while inserting documents. <programlisting
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>document<sp/>and<sp/>edit<sp/>the<sp/>clone&apos;s<sp/>&quot;MyStyle&quot;<sp/>style,<sp/>so<sp/>it<sp/>is<sp/>a<sp/>different<sp/>color<sp/>than<sp/>that<sp/>of<sp/>the<sp/>original.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>insert<sp/>the<sp/>clone<sp/>into<sp/>the<sp/>original<sp/>document,<sp/>the<sp/>two<sp/>styles<sp/>with<sp/>the<sp/>same<sp/>name<sp/>will<sp/>cause<sp/>a<sp/>clash.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Document&gt;<sp/>srcDoc<sp/>=<sp/>dstDoc-&gt;Clone();</highlight></codeline>
-<codeline><highlight class="normal">srcDoc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">srcDoc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>enable<sp/>SmartStyleBehavior<sp/>and<sp/>use<sp/>the<sp/>KeepSourceFormatting<sp/>import<sp/>format<sp/>mode,</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>resolve<sp/>style<sp/>clashes<sp/>by<sp/>converting<sp/>source<sp/>document<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
@@ -578,7 +578,7 @@ Shows how to resolve duplicate styles while inserting documents. <programlisting
 <codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>myStyle<sp/>=<sp/>builder-&gt;get_Document()-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Size(14);</highlight></codeline>
 <codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleName(myStyle-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -586,7 +586,7 @@ Shows how to resolve duplicate styles while inserting documents. <programlisting
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>document<sp/>and<sp/>edit<sp/>the<sp/>clone&apos;s<sp/>&quot;MyStyle&quot;<sp/>style,<sp/>so<sp/>it<sp/>is<sp/>a<sp/>different<sp/>color<sp/>than<sp/>that<sp/>of<sp/>the<sp/>original.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>insert<sp/>the<sp/>clone<sp/>into<sp/>the<sp/>original<sp/>document,<sp/>the<sp/>two<sp/>styles<sp/>with<sp/>the<sp/>same<sp/>name<sp/>will<sp/>cause<sp/>a<sp/>clash.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;Document&gt;<sp/>srcDoc<sp/>=<sp/>dstDoc-&gt;Clone();</highlight></codeline>
-<codeline><highlight class="normal">srcDoc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">srcDoc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>enable<sp/>SmartStyleBehavior<sp/>and<sp/>use<sp/>the<sp/>KeepSourceFormatting<sp/>import<sp/>format<sp/>mode,</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>resolve<sp/>style<sp/>clashes<sp/>by<sp/>converting<sp/>source<sp/>document<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>

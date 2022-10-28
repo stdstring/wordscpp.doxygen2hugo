@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="93" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="93" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a81cbe064de0a64755e14ae5e2d051668" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldIf::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a2870c675093bca238359f27637c54b4d" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldIf::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -131,7 +131,7 @@
         <qualifiedname>Aspose::Words::Fields::FieldIf::GetChildFieldsUpdateStrategyInArgument</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1af2ca5299128e70f16f83c5706524f643">GetChildFieldsUpdateStrategyInArgument</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldArgument &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldArgument &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -142,7 +142,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="405" column="51"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ad9064816bf717e136bbd9ade62b67b13" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIf::GetMergeFieldName</definition>
         <argsstring>() override</argsstring>
         <name>GetMergeFieldName</name>
@@ -177,7 +177,7 @@
         <qualifiedname>Aspose::Words::Fields::FieldIf::NotifyChildFieldUpdated</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aff48bb5a80ad13f4e14f79c99cf1fb6d">NotifyChildFieldUpdated</reimplements>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldArgument &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldArgument &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -217,7 +217,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="98" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ae4537ab2a4042021f0608eccd657ff46" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldIf::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -290,7 +290,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="398" column="55"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5267eac4d443e2ca37dc9592794325db" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIf::get_ComparisonOperator</definition>
         <argsstring>()</argsstring>
         <name>get_ComparisonOperator</name>
@@ -344,7 +344,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="204" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a0207de0b0cac82c1bbb66cc34cd559a3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt; Aspose::Words::Fields::FieldIf::get_End</definition>
         <argsstring>() override</argsstring>
         <name>get_End</name>
@@ -359,7 +359,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="111" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ab67386a45321d89e84d9d4a360c44f8e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIf::get_FalseText</definition>
         <argsstring>()</argsstring>
         <name>get_FalseText</name>
@@ -413,7 +413,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="348" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a005b5114502f9a52d07774b2114da86f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIf::get_LeftExpression</definition>
         <argsstring>()</argsstring>
         <name>get_LeftExpression</name>
@@ -467,7 +467,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="156" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5f0ff4c658c480c7dba88dd62572c3bd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIf::get_RightExpression</definition>
         <argsstring>()</argsstring>
         <name>get_RightExpression</name>
@@ -521,7 +521,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="252" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a6c65905ae3273ff9b98b3ab4194e6cb0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt; Aspose::Words::Fields::FieldIf::get_Separator</definition>
         <argsstring>() override</argsstring>
         <name>get_Separator</name>
@@ -536,7 +536,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="108" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1aad4a11dc5091a590d5ffbf954cb958a4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt; Aspose::Words::Fields::FieldIf::get_Start</definition>
         <argsstring>() override</argsstring>
         <name>get_Start</name>
@@ -551,7 +551,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="105" column="26"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a7c9e0491d6abf60eb4dded193f8ce752" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldIf::get_TrueText</definition>
         <argsstring>()</argsstring>
         <name>get_TrueText</name>
@@ -611,7 +611,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <name>set_ComparisonOperator</name>
         <qualifiedname>Aspose::Words::Fields::FieldIf::set_ComparisonOperator</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -630,7 +630,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <name>set_FalseText</name>
         <qualifiedname>Aspose::Words::Fields::FieldIf::set_FalseText</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -649,7 +649,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <name>set_LeftExpression</name>
         <qualifiedname>Aspose::Words::Fields::FieldIf::set_LeftExpression</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -668,7 +668,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <name>set_RightExpression</name>
         <qualifiedname>Aspose::Words::Fields::FieldIf::set_RightExpression</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -687,7 +687,7 @@ Shows how to insert an IF field. <programlisting><codeline><highlight class="key
         <name>set_TrueText</name>
         <qualifiedname>Aspose::Words::Fields::FieldIf::set_TrueText</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

@@ -49,7 +49,7 @@
         <location file="Aspose.Words.Cpp/Tables/CellFormat.h" line="163" column="24" bodyfile="Aspose.Words.Cpp/Tables/CellFormat.h" bodystart="163" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1a3f6e415e2be1589f843e5f02578d08ec" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Tables::CellFormat::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -65,7 +65,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1a5fa4dda35b083315fb41b0a43fa71263" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Tables::CellFormat::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -79,7 +79,7 @@
         <location file="Aspose.Words.Cpp/Tables/CellFormat.h" line="1202" column="21" bodyfile="Aspose.Words.Cpp/Tables/CellFormat.h" bodystart="1202" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1a5e8db2f5a71fb9a4f2bd890c9740907c" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Tables::CellFormat::mField1</definition>
         <argsstring></argsstring>
         <name>mField1</name>
@@ -162,7 +162,7 @@ Shows how to combine the rows from two tables into one. <programlisting><codelin
         <location file="Aspose.Words.Cpp/Tables/CellFormat.h" line="1169" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1abb5ed397f7673c9839c35099d020c60a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::BorderCollection &gt; Aspose::Words::Tables::CellFormat::get_Borders</definition>
         <argsstring>()</argsstring>
         <name>get_Borders</name>
@@ -277,7 +277,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -285,7 +285,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -485,7 +485,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -493,7 +493,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -573,7 +573,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
         <location file="Aspose.Words.Cpp/Tables/CellFormat.h" line="1002" column="39"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1aee37c78572011e51c58e0dce7ec4a90a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width" kindref="compound">Aspose::Words::Tables::PreferredWidth</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width" kindref="compound">Aspose::Words::Tables::PreferredWidth</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Tables::PreferredWidth &gt; Aspose::Words::Tables::CellFormat::get_PreferredWidth</definition>
         <argsstring>()</argsstring>
         <name>get_PreferredWidth</name>
@@ -597,13 +597,13 @@ Shows how to set a preferred width for table cells. <programlisting><codeline><h
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>an<sp/>absolute<sp/>preferred<sp/>width<sp/>based<sp/>on<sp/>points:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_PreferredWidth(<ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width_1a6ade9ec15a397cbfcc193503ac606245" kindref="member" tooltip="A creation method that returns a new instance that represents a preferred width specified using a num...">PreferredWidth::FromPoints</ref>(40));</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a199339199c8bf5f857dc439fb9d291d4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a199339199c8bf5f857dc439fb9d291d4" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>with<sp/>a<sp/>width<sp/>of<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;get_CellFormat()-&gt;get_PreferredWidth()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Set<sp/>a<sp/>relative<sp/>preferred<sp/>width<sp/>based<sp/>on<sp/>percent<sp/>of<sp/>the<sp/>table&apos;s<sp/>width:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_PreferredWidth(<ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width_1a181872057b1b2a54cb5d0e660b23353e" kindref="member" tooltip="A creation method that returns a new instance that represents a preferred width specified as a percen...">PreferredWidth::FromPercent</ref>(20));</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a989243916cf2bfbe0fc140d29ec2ea2e" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a989243916cf2bfbe0fc140d29ec2ea2e" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightBlue</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>with<sp/>a<sp/>width<sp/>of<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;get_CellFormat()-&gt;get_PreferredWidth()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
@@ -612,10 +612,10 @@ Shows how to set a preferred width for table cells. <programlisting><codeline><h
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_PreferredWidth(<ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width_1adebc822a2114926b2d725a763863172b" kindref="member" tooltip="Returns an instance that represents the &quot;preferred width is not specified&quot; value.">PreferredWidth::Auto</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>configuration<sp/>of<sp/>the<sp/>&quot;PreferredWidth&quot;<sp/>property<sp/>creates<sp/>a<sp/>new<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(table-&gt;get_FirstRow()-&gt;get_Cells()-&gt;idx_get(1)-&gt;get_CellFormat()-&gt;get_PreferredWidth()),</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(builder-&gt;get_CellFormat()-&gt;get_PreferredWidth()));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NE(<ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(table-&gt;get_FirstRow()-&gt;get_Cells()-&gt;idx_get(1)-&gt;get_CellFormat()-&gt;get_PreferredWidth()),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(builder-&gt;get_CellFormat()-&gt;get_PreferredWidth()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ade19139d99999253a0c54558020c90d3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGreen</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ade19139d99999253a0c54558020c90d3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGreen</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Automatically<sp/>sized<sp/>cell.&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.InsertCellsWithPreferredWidths.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -681,7 +681,7 @@ Shows how to format cells with a document builder. <programlisting><codeline><hi
         <location file="Aspose.Words.Cpp/Tables/CellFormat.h" line="265" column="15"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1af451c96c9ecde2bdd2168acf8ae0e3f4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Shading &gt; Aspose::Words::Tables::CellFormat::get_Shading</definition>
         <argsstring>()</argsstring>
         <name>get_Shading</name>
@@ -704,7 +704,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -712,7 +712,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -768,12 +768,12 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>contents<sp/>of<sp/>all<sp/>cells<sp/>in<sp/>this<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;RowFormat&gt;<sp/>rowFormat<sp/>=<sp/>table-&gt;get_FirstRow()-&gt;get_RowFormat();</highlight></codeline>
 <codeline><highlight class="normal">rowFormat-&gt;set_Height(25);</highlight></codeline>
-<codeline><highlight class="normal">rowFormat-&gt;get_Borders()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">rowFormat-&gt;get_Borders()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;CellFormat&quot;<sp/>property<sp/>of<sp/>the<sp/>first<sp/>cell<sp/>in<sp/>the<sp/>last<sp/>row<sp/>to<sp/>modify<sp/>the<sp/>formatting<sp/>of<sp/>that<sp/>cell&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;CellFormat&gt;<sp/>cellFormat<sp/>=<sp/>table-&gt;get_LastRow()-&gt;get_FirstCell()-&gt;get_CellFormat();</highlight></codeline>
 <codeline><highlight class="normal">cellFormat-&gt;set_Width(100);</highlight></codeline>
-<codeline><highlight class="normal">cellFormat-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">cellFormat-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.RowCellFormat.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 </programlisting> </para>
@@ -861,7 +861,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -869,7 +869,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1024,7 +1024,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -1032,7 +1032,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1136,7 +1136,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -1144,7 +1144,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1288,7 +1288,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
         <name>set_PreferredWidth</name>
         <qualifiedname>Aspose::Words::Tables::CellFormat::set_PreferredWidth</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width" kindref="compound">Aspose::Words::Tables::PreferredWidth</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width" kindref="compound">Aspose::Words::Tables::PreferredWidth</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -1481,7 +1481,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -1489,7 +1489,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
-<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
 <codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1545,12 +1545,12 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>contents<sp/>of<sp/>all<sp/>cells<sp/>in<sp/>this<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;RowFormat&gt;<sp/>rowFormat<sp/>=<sp/>table-&gt;get_FirstRow()-&gt;get_RowFormat();</highlight></codeline>
 <codeline><highlight class="normal">rowFormat-&gt;set_Height(25);</highlight></codeline>
-<codeline><highlight class="normal">rowFormat-&gt;get_Borders()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">rowFormat-&gt;get_Borders()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;CellFormat&quot;<sp/>property<sp/>of<sp/>the<sp/>first<sp/>cell<sp/>in<sp/>the<sp/>last<sp/>row<sp/>to<sp/>modify<sp/>the<sp/>formatting<sp/>of<sp/>that<sp/>cell&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;CellFormat&gt;<sp/>cellFormat<sp/>=<sp/>table-&gt;get_LastRow()-&gt;get_FirstCell()-&gt;get_CellFormat();</highlight></codeline>
 <codeline><highlight class="normal">cellFormat-&gt;set_Width(100);</highlight></codeline>
-<codeline><highlight class="normal">cellFormat-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">cellFormat-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.RowCellFormat.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 </programlisting></para>
@@ -1561,7 +1561,7 @@ Shows how to build a table with custom borders. <programlisting><codeline><highl
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>cell&apos;s<sp/>&quot;CellFormat&quot;<sp/>property<sp/>to<sp/>set<sp/>formatting<sp/>that<sp/>modifies<sp/>the<sp/>appearance<sp/>of<sp/>that<sp/>cell.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">firstCell-&gt;get_CellFormat()-&gt;set_Width(30);</highlight></codeline>
 <codeline><highlight class="normal">firstCell-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a021f1340f5979a4f4f9642940221ad53" kindref="member" tooltip="Text is rotated 90 degrees to the right to appear from top to bottom (tb-rl).">TextOrientation::Downward</ref>);</highlight></codeline>
-<codeline><highlight class="normal">firstCell-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1ade19139d99999253a0c54558020c90d3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGreen</ref>());</highlight></codeline>
+<codeline><highlight class="normal">firstCell-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1ade19139d99999253a0c54558020c90d3" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGreen</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.CellFormat.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 </programlisting> </para>

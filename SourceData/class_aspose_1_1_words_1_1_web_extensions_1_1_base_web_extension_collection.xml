@@ -11,7 +11,7 @@
     </templateparamlist>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1a5c1a40386807a9fd5d47b7fb6caa3295" prot="private" static="no">
-        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; T &gt;</type>
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; T &gt;</type>
         <definition>typedef System::Collections::Generic::IEnumerable&lt;T&gt; Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -39,7 +39,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" line="63" column="40" bodyfile="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1a6f6675a04736b15c929171a34b142f15" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -55,7 +55,7 @@
       </sectiondef>
       <sectiondef kind="public-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1ab90f0beccc93bf109754ef4d6c1e5590" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
         <definition>using Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::const_iterator =  typename iterator_holder_type::const_iterator</definition>
         <argsstring></argsstring>
         <name>const_iterator</name>
@@ -69,7 +69,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" line="77" column="5" bodyfile="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" bodystart="77" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1a478bce0718e73737a8d69a8d5f4af7c2" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
         <definition>using Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::iterator =  typename iterator_holder_type::iterator</definition>
         <argsstring></argsstring>
         <name>iterator</name>
@@ -83,7 +83,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" line="75" column="5" bodyfile="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" bodystart="75" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1abe281d8223ae3f74f39a8e14f297cc0d" prot="public" static="no">
-        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; T &gt;</type>
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; T &gt;</type>
         <definition>using Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::iterator_holder_type =  System::Collections::Generic::List&lt;T&gt;</definition>
         <argsstring></argsstring>
         <name>iterator_holder_type</name>
@@ -97,7 +97,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" line="73" column="5" bodyfile="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" bodystart="73" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1a1507b9911b0edc92da216dce445fa100" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
         <definition>using Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator</name>
@@ -111,7 +111,7 @@
         <location file="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" line="81" column="5" bodyfile="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" bodystart="81" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1ab258042bb8b07a7e4da4ee9aea4a26e2" prot="public" static="no">
-        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
         <definition>using Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
         <argsstring></argsstring>
         <name>virtualized_iterator_element</name>
@@ -127,7 +127,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1a673f0d294b96f899c82bf57e164c0c82" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; T &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; T &gt; &gt;</type>
         <definition>System::SharedPtr&lt;System::Collections::Generic::List&lt;T&gt; &gt; Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::mItems</definition>
         <argsstring></argsstring>
         <name>mItems</name>
@@ -263,7 +263,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -372,7 +372,7 @@ Shows how to add a web extension to a document. <programlisting><codeline><highl
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
-<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -459,7 +459,7 @@ Shows how to work with a document&apos;s collection of web extensions. <programl
         <location file="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" line="112" column="13" bodyfile="Aspose.Words.Cpp/WebExtensions/BaseWebExtensionCollection.h" bodystart="112" bodyend="115"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_base_web_extension_collection_1a9fa7d68e5d72fb7b5a00729b3d4e9c27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; T &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; T &gt; &gt;</type>
         <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; T &gt; &gt; Aspose::Words::WebExtensions::BaseWebExtensionCollection&lt; T &gt;::GetEnumerator</definition>
         <argsstring>() override</argsstring>
         <name>GetEnumerator</name>

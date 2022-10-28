@@ -1983,6 +1983,7 @@
     <member refid="class_aspose_1_1_words_1_1_document_1a3d547fb49bc9212a271757b41e211921" kind="variable"><name>mField46</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_1a94cf425a8a256322cfc9a226c35e911d" kind="variable"><name>mField47</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_1a4613b034d290939f8aebd8582806063e" kind="variable"><name>mField48</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_1ada83b406e12bfec87374ed04f94431ba" kind="variable"><name>mField49</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_1afce20b5865ac42bf5decb868301840e5" kind="variable"><name>mField5</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_1a0612c82373c50af0d283ed6efd5529f9" kind="variable"><name>mField6</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_1a36baaf61abffaace8d0cf189d52bb4a6" kind="variable"><name>mField7</name></member>
@@ -2140,6 +2141,7 @@
     <member refid="class_aspose_1_1_words_1_1_document_base_1ae5c717dda6131509e3f1d40ac51d9f0a" kind="variable"><name>mField20</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_base_1a77aaea6a8b97e4408075bab3ecb0c95d" kind="variable"><name>mField21</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_base_1aa6066b93959eb7a9a2e271bf84dcdec0" kind="variable"><name>mField22</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_base_1a5eb46d7fb17cf9a8f5626566ed18a9bd" kind="variable"><name>mField23</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_base_1a8ae78f5b80e18e961037f5dcd425de94" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_base_1a679680f560c4544551cba224befcaa5d" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_base_1ab3c82e9ee7b24be9ba769336b3c2312a" kind="variable"><name>mField5</name></member>
@@ -2189,6 +2191,7 @@
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a9f80906b93e4a6d8fd604eeeabb96951" kind="variable"><name>mField13</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a63ce23f3c0a586012ca36e74b8e5f411" kind="variable"><name>mField14</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1af7ca5a92ca78ec850c65d3b2b7f22b16" kind="variable"><name>mField15</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_builder_1a9f79ffca90f41e61b465e4cf35b96f3c" kind="variable"><name>mField16</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a50100455f54adf32e6648292bb4ed958" kind="variable"><name>mField2</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a173676d0e14d9853bccce8eadadc47ed" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1aa0403c1ca09e7c911754a55452abc194" kind="variable"><name>mField4</name></member>
@@ -2214,9 +2217,11 @@
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a1d0509775253820dcb7231884e14d070" kind="function"><name>get_CurrentParagraph</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1ad7545e14ba06e588901b616aaf86598e" kind="function"><name>get_CurrentSection</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1ad39892460a31227f1a4cb0f4091409ab" kind="function"><name>get_CurrentStory</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_builder_1a7559ee478ac6f39d8a426ff934e526d1" kind="function"><name>get_CurrentStructuredDocumentTag</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1ad7f4c9930f6107e63082576d261cdef3" kind="function"><name>get_Document</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a49bd68eef34fcb42a305e7197c476fe5" kind="function"><name>get_Font</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a3f305d6002abe07bb3a8b9b7949050df" kind="function"><name>get_IsAtEndOfParagraph</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_builder_1ae7683bea54be7061cb0c0e6f4c2dc096" kind="function"><name>get_IsAtEndOfStructuredDocumentTag</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a1e089ae3c611ef9b7199b9ffafef2d56" kind="function"><name>get_IsAtStartOfParagraph</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1aff6212cdd69724c6b791ec0c39af384c" kind="function"><name>get_Italic</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1af9cc028cc784040418e16ad8ba8c084e" kind="function"><name>get_ListFormat</name></member>
@@ -2293,6 +2298,8 @@
     <member refid="class_aspose_1_1_words_1_1_document_builder_1ad924a5b4551935f70748aad8e57ba5f9" kind="function"><name>MoveToMergeField</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a47f4661fa21baca0fa4b694f4058a674" kind="function"><name>MoveToParagraph</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a415920fd3d8356ac7e6abbc41bc61a12" kind="function"><name>MoveToSection</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_builder_1acd358505e87badc8b31cdb2ddcf20953" kind="function"><name>MoveToStructuredDocumentTag</name></member>
+    <member refid="class_aspose_1_1_words_1_1_document_builder_1a6b8f0c1beade2fa8b45427582f1957aa" kind="function"><name>MoveToStructuredDocumentTag</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a5c8c7add514c77ac40e84ae43801b162" kind="function"><name>PopFont</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a88c174a51a51692e5f4fb559a4cb80c5" kind="function"><name>PushFont</name></member>
     <member refid="class_aspose_1_1_words_1_1_document_builder_1a84de613af2ada9885b0d85562bc50301" kind="function"><name>set_Bold</name></member>
@@ -3153,6 +3160,7 @@
     <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1ae2902c68c0d115270e125bc9c39105af" kind="function"><name>~FieldEQ</name></member>
     <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a4b947a3dedb4f3720833ce3ec9e1b8e4" kind="function"><name>GetFakeResult</name></member>
     <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a9abec8c26c8f172d44070a7f69d0d15b" kind="function"><name>RTTI_INFO_DECL_EX</name></member>
+    <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a0d1c0b66ac455247ea289c8d5dc37ff8" kind="function"><name>AsOfficeMath</name></member>
   </compound>
   <compound refid="class_aspose_1_1_words_1_1_fields_1_1_field_file_name" kind="class"><name>Aspose::Words::Fields::FieldFileName</name>
     <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_file_name_1abb8f93241e4c6d7e7f729854135ce9bb" kind="typedef"><name>BaseType</name></member>
@@ -4480,21 +4488,22 @@
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a6aeb1dfe1f2f0c4a6b4306bb122de56b" kind="typedef"><name>ThisTypeBaseTypesInfo</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a2456707944f15b988c40355f3c04a0ab" kind="variable"><name>mField0</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a07fd9dd79ed951df8f8c4340e2319603" kind="variable"><name>mField1</name></member>
-    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a9e4711cb8861a25edab9d979df6ce6fa" kind="variable"><name>mField10</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a4ed669847b205f51ff5e9427779b19d7" kind="variable"><name>mField10</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a9ac70971dbb855177ef3ecbc0b8f4266" kind="variable"><name>mField11</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1aa3495bc3fc171c06319d4c7f718ad590" kind="variable"><name>mField12</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a1a072332fef5c4ecf2bdc8f2b1ee4354" kind="variable"><name>mField13</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a1d20114352693eca31e676cac718b8b3" kind="variable"><name>mField14</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1abd0e251f6ef1e280f1700bc56fdd8f66" kind="variable"><name>mField15</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a917d803c5748c455309869acb7995a0a" kind="variable"><name>mField16</name></member>
-    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a6ba59bedfaa1d7aabed0d2ae4f1385d8" kind="variable"><name>mField2</name></member>
-    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a09de7f7205bf88197b21866810c9b54e" kind="variable"><name>mField3</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a0900489e1f859d9e11e3fbfd7e4013df" kind="variable"><name>mField17</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1abef2facebb3fbceab50f1a19d75d17d1" kind="variable"><name>mField2</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ad0ffa84ff3e4ded657acf67016e4e2d9" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a5b8d47be632846d0beaa8b867c58b384" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a33b2835cc744d95ea303961a7df5171b" kind="variable"><name>mField5</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a743974b085bc3daa1968ca51c3c8b190" kind="variable"><name>mField6</name></member>
-    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1aa0e157005adb02b969dd701740972665" kind="variable"><name>mField7</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a46d673caf0555a101b710db34d9154af" kind="variable"><name>mField7</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a72c9437da2fe35b3237089071b9a6eed" kind="variable"><name>mField8</name></member>
-    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1acd6e4964c099b81918fe3576026f8005" kind="variable"><name>mField9</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a79a96d2d439fe2634237177eaa4c9fa5" kind="variable"><name>mField9</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ad37f32cb559e74a9adcaa6b0106360d5" kind="function"><name>RTTI_INFO_DECL_EX</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a4ba15b8af44992953b1d5d73cb665035" kind="function"><name>FindReplaceOptions</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a0173012621760172dfb0ce2a3044bce8" kind="function"><name>FindReplaceOptions</name></member>
@@ -4509,6 +4518,7 @@
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ad1d6ffd2811f93722fb7c6e7a25ca641" kind="function"><name>get_IgnoreFields</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ac8eab04a2527ebde0439e560053125f6" kind="function"><name>get_IgnoreFootnotes</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1acab2ad6dcd055c092aa45aca692471d4" kind="function"><name>get_IgnoreInserted</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ab7f56b80dd50e4d503101e30f704c136" kind="function"><name>get_IgnoreStructuredDocumentTags</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1af75c989500af7f70aa7e198f88e755d5" kind="function"><name>get_LegacyMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ac482f46c21693d5cec8009789cfde18c" kind="function"><name>get_MatchCase</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ada2f7b98ffe3186c7867868ef135a783" kind="function"><name>get_ReplacingCallback</name></member>
@@ -4522,6 +4532,7 @@
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1acf22269e0ea135c2328ee5d36bbc2f33" kind="function"><name>set_IgnoreFields</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a168de3f5d68a1a1599e4c8ed96856923" kind="function"><name>set_IgnoreFootnotes</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1afd7198fbf4887db570f152224c669edf" kind="function"><name>set_IgnoreInserted</name></member>
+    <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1ad46129b37a1cf79f994c530383523629" kind="function"><name>set_IgnoreStructuredDocumentTags</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a8d80d6805b1d57b8600568c0ede00cf0" kind="function"><name>set_LegacyMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a198c85f044a76243f4d3aa7ebe3048e0" kind="function"><name>set_MatchCase</name></member>
     <member refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options_1a024f08d84dda3f1e16e6794e9713a56e" kind="function"><name>set_ReplacingCallback</name></member>
@@ -6059,6 +6070,7 @@
     <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aee0751e3a3907449732972ce3dc06cee" kind="variable"><name>mField1</name></member>
     <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1adaddb21e3dd5f84aede85d6f769061b5" kind="variable"><name>mField2</name></member>
     <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a33338e79bb9e1611cb7f07a5ec63e5de" kind="variable"><name>mField3</name></member>
+    <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a1fa271ce459318e99ad57a3b6346c92f" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aa9138f3aefe9ef6b4b9d4b0f8034bff7" kind="function"><name>~LayoutCollector</name></member>
     <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a2482a7e7374e18baa88a01c33a3a7def" kind="function"><name>RTTI_INFO_DECL_EX</name></member>
     <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1adbffa932be396d04920dd2d83f11b886" kind="function"><name>LayoutCollector</name></member>
@@ -6163,6 +6175,7 @@
     <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_1a318cd3c2131f79ba88506188d5f8292d" kind="function"><name>get_ListLevels</name></member>
     <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_1aac8b9aafe44d2bec7f21e86395444eab" kind="function"><name>get_Style</name></member>
     <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_1ada5e791b18cb2dd483bb705932c32b41" kind="function"><name>GetHashCode</name></member>
+    <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_1a13cfa0c015f25a7834c90c2ba2635b8d" kind="function"><name>HasSameTemplate</name></member>
     <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_1adffda8e0ac0c39198ceca420dd569ee7" kind="function"><name>set_IsRestartAtEachSection</name></member>
   </compound>
   <compound refid="class_aspose_1_1_words_1_1_lists_1_1_list_collection" kind="class"><name>Aspose::Words::Lists::ListCollection</name>
@@ -6336,27 +6349,26 @@
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af5407131d6084848b661cbd0ac39c203" kind="typedef"><name>BaseType</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adae1c5d21919626a98568f4ece60e09e" kind="typedef"><name>ThisType</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae0d6eb6565822c1b46a58c456e63724a" kind="typedef"><name>ThisTypeBaseTypesInfo</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9a5e49e5b2248b5518f3f125b276dea9" kind="variable"><name>mField0</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afbdb1f7160ab0cffcad85f56bd9c8b2e" kind="variable"><name>mField1</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a99950e36148d096473f31bc5a269f0c0" kind="variable"><name>mField10</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9fa1a379b54db7b3def59cb93c66cfc3" kind="variable"><name>mField11</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa7a4856c3e745b4d453d8342aa6ac5bf" kind="variable"><name>mField12</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8f7fe64d1638495865c879148888af25" kind="variable"><name>mField0</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0c4fb28fee83d29e68d6116f4f47a71a" kind="variable"><name>mField1</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aab10826fa82ccac15f8c102b65eea285" kind="variable"><name>mField10</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac220134bf1c21e7e35008ef5fef059f8" kind="variable"><name>mField11</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a2b2539d055e6c3d8559035dbfa2a4513" kind="variable"><name>mField12</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a54b9a1f0e730acad8a4871de68fcac0b" kind="variable"><name>mField13</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a64850985d748bb3901d53b114b56d10b" kind="variable"><name>mField14</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac10ad32ae8ce060ddb157ccd62fa4a1a" kind="variable"><name>mField15</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa54b8233946717ba25b7a0ade212d823" kind="variable"><name>mField16</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ace88352df2d3094d703d19480eaed329" kind="variable"><name>mField17</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a83910ba30be3544d57b7ebacb3c17034" kind="variable"><name>mField18</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7590b81071caca1f83cf6d9463f3e0c0" kind="variable"><name>mField14</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad8e9df1f743ef1286f57a5ef2ef25bfb" kind="variable"><name>mField15</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a9041a62d3b209141f439be635c6e5bcc" kind="variable"><name>mField16</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a17bbdfe622cf3064ef3797f52b03dfe3" kind="variable"><name>mField17</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ac7e6dfd880b0d75e0aec3b3408b620c5" kind="variable"><name>mField18</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a5ebb3bced1c1f3e08be8ffb31436005e" kind="variable"><name>mField19</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a2f1df65de3acb21a1eef42ed535ccb17" kind="variable"><name>mField2</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6207245149b09ba3a029213f5a19d121" kind="variable"><name>mField20</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aa08638bcb8d51a1c19d9d313a16a7752" kind="variable"><name>mField2</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1abd1ff60cfe7f8270b092d88196b123d2" kind="variable"><name>mField3</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ada570911b5ff156ecaf95777abc12e31" kind="variable"><name>mField4</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae3e82b78b817a7b8c2ff1cdb32a7cd8c" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a94ca817cc4ff49004e68f3be0cada7ff" kind="variable"><name>mField5</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0450245edd8ad0e70745306ed4d2a52e" kind="variable"><name>mField6</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8018ebc0999543e4c354dfd063851f97" kind="variable"><name>mField7</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a84340ee0edc563b6d1cfabfc4f15b590" kind="variable"><name>mField7</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a36a45456a092b64f0c9d3bc5bc2d9fc3" kind="variable"><name>mField8</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7b520a502e4b1eed52d5da83c3358a08" kind="variable"><name>mField9</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6f1bee91fc652f45752b937dd6746728" kind="variable"><name>mField9</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8e71ed9b72e2c6cc8a1504748217953f" kind="function"><name>~LoadOptions</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a609b68c3016b5a72bdcd4761689c0db6" kind="function"><name>Clone</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab292d00ea616e27b8a21bd1b423c7c0d" kind="function"><name>RTTI_INFO_DECL_EX</name></member>
@@ -6367,7 +6379,6 @@
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" kind="function"><name>get_ConvertMetafilesToPng</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" kind="function"><name>get_ConvertShapeToOfficeMath</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" kind="function"><name>get_Encoding</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" kind="function"><name>get_FlatOpcXmlMappingOnly</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" kind="function"><name>get_FontSettings</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" kind="function"><name>get_LanguagePreferences</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af9522ca2c1dd6eb41ce67d2e83640b16" kind="function"><name>get_LoadFormat</name></member>
@@ -6383,7 +6394,6 @@
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" kind="function"><name>set_ConvertMetafilesToPng</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" kind="function"><name>set_ConvertShapeToOfficeMath</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" kind="function"><name>set_Encoding</name></member>
-    <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" kind="function"><name>set_FlatOpcXmlMappingOnly</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" kind="function"><name>set_FontSettings</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" kind="function"><name>set_LoadFormat</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a816c70f5ed2d94a32504abda898f303e" kind="function"><name>set_MswVersion</name></member>
@@ -7280,15 +7290,15 @@
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a8e6b002cb3d3d7a1c1a5b96ce78277d4" kind="typedef"><name>BaseType3</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1af4fa63ce09ff09c5dea9b0f65f49aa3f" kind="typedef"><name>ThisType</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a357e1fb63800b6760599b5ecf85e16c9" kind="typedef"><name>ThisTypeBaseTypesInfo</name></member>
-    <member refid="class_aspose_1_1_words_1_1_paragraph_1ac1077f8d2757026edb670654b20c1ff2" kind="variable"><name>mField0</name></member>
-    <member refid="class_aspose_1_1_words_1_1_paragraph_1a303e78971de9ae0f7a6e88d6ffc5af81" kind="variable"><name>mField1</name></member>
+    <member refid="class_aspose_1_1_words_1_1_paragraph_1a23ec5323c31efb1a9dd1baf8c921f8e6" kind="variable"><name>mField0</name></member>
+    <member refid="class_aspose_1_1_words_1_1_paragraph_1adae9e1b88c24b05f88d9fa653c8b7c90" kind="variable"><name>mField1</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a0d72164f0bb3595ffa0f00e7fb83d7d3" kind="variable"><name>mField2</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1ac1e15dda9144785d44ed8e0940a4ef03" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a1dd0cb45820696ce1e7ae3c5cb2007f6" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a0ff1d7cb4eb3700a09d171c4ee44b751" kind="variable"><name>mField5</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a7f796e01c167759537f703f4d70006f2" kind="variable"><name>mField6</name></member>
-    <member refid="class_aspose_1_1_words_1_1_paragraph_1ad807d61d660f0e49e37e38e96b568f97" kind="variable"><name>mField7</name></member>
-    <member refid="class_aspose_1_1_words_1_1_paragraph_1a6f321d76dfe24347956afdfe25ce0b58" kind="variable"><name>mField8</name></member>
+    <member refid="class_aspose_1_1_words_1_1_paragraph_1a74f41c648df13209c74234fb1679f0ff" kind="variable"><name>mField7</name></member>
+    <member refid="class_aspose_1_1_words_1_1_paragraph_1a14ccab11b9e75961370f430853849721" kind="variable"><name>mField8</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1ac1cf6ea121b479b7d98a6d990b1cdffd" kind="function"><name>~Paragraph</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1a2d082903dc99847f3af1178b67aac96a" kind="function"><name>AcceptEnd</name></member>
     <member refid="class_aspose_1_1_words_1_1_paragraph_1aeb34f49923d81cfdc9b40bb2894c3f2f" kind="function"><name>AcceptStart</name></member>
@@ -7546,6 +7556,7 @@
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1acf98290f3d87947f5c83853040e16562" kind="variable"><name>mField23</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a0b38692aacb99dcf6f9761452d53c933" kind="variable"><name>mField24</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1ae6f4a0739540533610e7752ec640c2c8" kind="variable"><name>mField25</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1ae4f6eb83dacd1907e27ecee8e30ff263" kind="variable"><name>mField26</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a480b2b42ce3b96d7dd90abd5303848a7" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1ad18929845e38f7e29f4dd97252bb1ffb" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a1d0397efa5bff70a8b99742c77c80153" kind="variable"><name>mField5</name></member>
@@ -7559,6 +7570,7 @@
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a7d0528f520ac39c212c1c542bd8b3693" kind="function"><name>PdfSaveOptions</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1afaa31e5d3dc2e7f446cc83589c6161cb" kind="function"><name>Clone</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1af15683a0a3ac4d21bf1288061e7f1cad" kind="function"><name>get_AdditionalTextPositioning</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a79da4cd0174ed21cd4ef854d0794763e" kind="function"><name>get_CacheHeaderFooterShapes</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a013d5965c9d4eb9d6be872e49c7a5924" kind="function"><name>get_Compliance</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a39ccbed7a581c88b0408b155ba24dd9e" kind="function"><name>get_CreateNoteHyperlinks</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a4b082148d732a3d86f743c150420c363" kind="function"><name>get_CustomPropertiesExport</name></member>
@@ -7588,6 +7600,7 @@
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1ab283599c18c20622a1bc0d9f644db126" kind="function"><name>get_ZoomBehavior</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a7b60a4b5a40a6c12cb9a2c49fc5e0932" kind="function"><name>get_ZoomFactor</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a0d4cc7e87be586feb6da6388af967555" kind="function"><name>set_AdditionalTextPositioning</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a1f268d58c2409e62cb95bc70e6fba9d2" kind="function"><name>set_CacheHeaderFooterShapes</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a38c73e85ecd0c278a118e2cbbd599c05" kind="function"><name>set_Compliance</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a82162bf0f73666f9df9373cab45db095" kind="function"><name>set_CreateNoteHyperlinks</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1ad57dd2302a76031c21acabe4a702dd90" kind="function"><name>set_CustomPropertiesExport</name></member>
@@ -8041,18 +8054,18 @@
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2c950957df7e0eec7efe949937edd3bb" kind="variable"><name>mField17</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a040d22343e1b692db370482755a21c6c" kind="variable"><name>mField18</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2ff322e01c0e9b55faf779e659a54f78" kind="variable"><name>mField19</name></member>
-    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75c1ba777ea0f428dfa2d2cd2285ea89" kind="variable"><name>mField2</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7aee3a5b1f79e8d3d1d1de4b67289902" kind="variable"><name>mField2</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a34b757935902991da4842661e84386bb" kind="variable"><name>mField20</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ad798cb16b4a4282434f55d93a1b9aca8" kind="variable"><name>mField21</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1acffd00fa6112e0174d7cabeb1da575fb" kind="variable"><name>mField22</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aae0c53c388572093509131bd819f4835" kind="variable"><name>mField23</name></member>
-    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a37dc16f1768620afe155b8487a882d31" kind="variable"><name>mField3</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2db881f69f1d363f531202d57fb026df" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab0b32b51299f8b9439a818fbfecf5ece" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afac15aa1feba8fe284637aefe0ec107f" kind="variable"><name>mField5</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a813a4c47e45260f2fc1034648733b8c6" kind="variable"><name>mField6</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5a500c9d9f33c42b4bc7ec7955e9e63d" kind="variable"><name>mField7</name></member>
-    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6583036a9220f16bdca99ec79ace8678" kind="variable"><name>mField8</name></member>
-    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0e447cbf9e556d0f7e2875abbc282cb5" kind="variable"><name>mField9</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab8772162e1242f04c115bc9636855d5c" kind="variable"><name>mField8</name></member>
+    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6cca3220b723206ca9458e3b8ebe947d" kind="variable"><name>mField9</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a44197e80ce92afbea9b2b116e9d172c4" kind="function"><name>SaveOptions</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1a7171a0d88f5f11d721457980aff700" kind="function"><name>get_IsFlowFormat</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415dac3009afac14aae2b5743a48d64" kind="function"><name>get_IsMultipleMainPartsAllowed</name></member>
@@ -8065,7 +8078,6 @@
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" kind="function"><name>get_DmlEffectsRenderingMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" kind="function"><name>get_DmlRenderingMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" kind="function"><name>get_ExportGeneratorName</name></member>
-    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" kind="function"><name>get_FlatOpcXmlMappingOnly</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" kind="function"><name>get_ImlRenderingMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" kind="function"><name>get_MemoryOptimization</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" kind="function"><name>get_PrettyFormat</name></member>
@@ -8086,7 +8098,6 @@
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" kind="function"><name>set_DmlEffectsRenderingMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" kind="function"><name>set_DmlRenderingMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" kind="function"><name>set_ExportGeneratorName</name></member>
-    <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" kind="function"><name>set_FlatOpcXmlMappingOnly</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" kind="function"><name>set_ImlRenderingMode</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" kind="function"><name>set_MemoryOptimization</name></member>
     <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" kind="function"><name>set_PrettyFormat</name></member>
@@ -8135,6 +8146,7 @@
     <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1ab8564164a88f8bc59fc5eb3d056168ce" kind="variable"><name>mField0</name></member>
     <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a395da933fb2df56babcc080cc7065868" kind="variable"><name>mField1</name></member>
     <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1abda3ad2789fcf4e24a55ab9e98615070" kind="variable"><name>mField2</name></member>
+    <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a6ff0410e643de0420675d342f3160682" kind="variable"><name>mField3</name></member>
     <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1ab51a1ff31478bbc55729c142f52f4a48" kind="function"><name>SdtListItemCollection</name></member>
     <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1aee6e77f5ed91e02b32d41b9eba95a4d2" kind="function"><name>~SdtListItemCollection</name></member>
     <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection_1a55484cbf99df8c889946687ca405f2a0" kind="function"><name>RTTI_INFO_DECL_EX</name></member>
@@ -9527,12 +9539,15 @@
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6ae572d040e5e986c663b7aa8c7661d4" kind="variable"><name>mField1</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a4113ce78f8a8b3d1163a3ffd94aa0860" kind="variable"><name>mField2</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1ad6f35f83d0ffccd474f5f98ee91eb3a8" kind="variable"><name>mField3</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a9d66366c7c1c469d523303e856fa3350" kind="variable"><name>mField4</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a271759ee84ba7e41c7d78b31ac888a21" kind="function"><name>RTTI_INFO_DECL_EX</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a3d94edbb3f5bb908d18e196ece1d1407" kind="function"><name>TxtLoadOptions</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a90bc0e2533eb4e352c9ec00b881d5d9c" kind="function"><name>get_AutoNumberingDetection</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1af4032da2ea0e1d217c38289c6ced7283" kind="function"><name>get_DetectNumberingWithWhitespaces</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a2aa2a1d3b2165f46077168676a125a41" kind="function"><name>get_DocumentDirection</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a564f7e94f7c5fb6732038faa4973119d" kind="function"><name>get_LeadingSpacesOptions</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aed3aaf1c14ff05e0ec5c0615075c97e7" kind="function"><name>get_TrailingSpacesOptions</name></member>
+    <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa9db60249fa040a0b6de3ccda3f7d6db" kind="function"><name>set_AutoNumberingDetection</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa0a6aafd5885c249f08dae8ae541d1e1" kind="function"><name>set_DetectNumberingWithWhitespaces</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a519f7878ea68198df0f95a0fcdcb414d" kind="function"><name>set_DocumentDirection</name></member>
     <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a175e35ba81dd20f018c8909213b3b59f" kind="function"><name>set_LeadingSpacesOptions</name></member>

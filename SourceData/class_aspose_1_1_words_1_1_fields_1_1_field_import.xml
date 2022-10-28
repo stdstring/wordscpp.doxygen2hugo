@@ -64,7 +64,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="75" column="25" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="75" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a665732a6c6d1ab1ea34e0f98b8bf9748" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldImport::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -100,7 +100,7 @@
         <name>GetSwitchType</name>
         <qualifiedname>Aspose::Words::Fields::FieldImport::GetSwitchType</qualifiedname>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -125,7 +125,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="81" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aaad98edfb59269d0377879451fbd6bae" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldImport::UpdateCore</definition>
         <argsstring>() override</argsstring>
         <name>UpdateCore</name>
@@ -142,7 +142,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a9e1bca142c45dc662f1f43710f374a9f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldImport::get_GraphicFilter</definition>
         <argsstring>()</argsstring>
         <name>get_GraphicFilter</name>
@@ -161,7 +161,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -175,7 +175,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -205,7 +205,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -219,7 +219,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -230,7 +230,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
         <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="194" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a05ec728e02562f8bc7092fa768754e06" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldImport::get_SourceFullName</definition>
         <argsstring>() override</argsstring>
         <name>get_SourceFullName</name>
@@ -249,7 +249,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -263,7 +263,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -280,7 +280,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
         <name>set_GraphicFilter</name>
         <qualifiedname>Aspose::Words::Fields::FieldImport::set_GraphicFilter</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -318,7 +318,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
         <name>set_SourceFullName</name>
         <qualifiedname>Aspose::Words::Fields::FieldImport::set_SourceFullName</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -345,7 +345,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -359,7 +359,7 @@ Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisti
 <codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>

@@ -3,7 +3,7 @@ title: MoveToBookmark
 second_title: Aspose.Words for C++ API Reference
 description: Moves the cursor to a bookmark.
 type: docs
-weight: 599
+weight: 625
 url: /cpp/aspose.words/documentbuilder/movetobookmark/
 ---
 ## DocumentBuilder.MoveToBookmark(const System::String\&) method

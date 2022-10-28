@@ -54,6 +54,152 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Fields<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="88" refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" kindref="member" tooltip="Specifies a general format that is applied to a numeric, text, or any field result....">GeneralFormat</ref></highlight></codeline>
+<codeline lineno="89"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa6adf97f83acf6453d4a6a4b1070f3754" kindref="member">None</ref>,</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a936d6ada6b59d0136a3096987b4a3580" kindref="member" tooltip="Numeric formatting. Formats a numeric result using hiragana characters in the traditional a-i-u-e-o o...">Aiueo</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"></highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a5ee80e3fed2caf31e7c9a20491816888" kindref="member" tooltip="Numeric formatting. Formats a numeric result as one or more occurrences of an uppercase alphabetic La...">UppercaseAlphabetic</ref>,</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"></highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a5f3bffa012c7259d0c9421f2fc46955c" kindref="member" tooltip="Numeric formatting. Formats a numeric result as one or more occurrences of an lowercase alphabetic La...">LowercaseAlphabetic</ref>,</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"></highlight></codeline>
+<codeline lineno="104"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a272ccb8592bafde0baf1dedce0fd3ac2" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Arabic cardinal numerals.">Arabic</ref>,</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"></highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a255598c22a5ac51ce428d5ad249d99fd" kindref="member" tooltip="Numeric formatting. Formats a numeric result using ascending Abjad numerals.">ArabicAbjad</ref>,</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"></highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a79bf0b7569071598bf95d7cc2ff34a78" kindref="member" tooltip="Numeric formatting. Formats a numeric result using characters in the Arabic alphabet.">ArabicAlpha</ref>,</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"></highlight></codeline>
+<codeline lineno="113"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a81695f18d46ae4e6910f81208544db5e" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Arabic cardinal numerals, with a prefix of &quot;- &quot; an...">ArabicDash</ref>,</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"></highlight></codeline>
+<codeline lineno="116"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a40c2eeb87b2326d85775e7501dbcd718" kindref="member" tooltip="Numeric formatting. Formats a numeric result in the Thai counting system.">BahtText</ref>,</highlight></codeline>
+<codeline lineno="117"><highlight class="normal"></highlight></codeline>
+<codeline lineno="119"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a6cb6b44fe5f804d36e15e15b64099283" kindref="member" tooltip="Numeric formatting. Cardinal text (One, Two, Three, ...).">CardText</ref>,</highlight></codeline>
+<codeline lineno="120"><highlight class="normal"></highlight></codeline>
+<codeline lineno="122"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a840be6a157e6cbec78dd3412c7512435" kindref="member" tooltip="Numeric formatting. Formats a numeric result using ascending numbers from the appropriate counting sy...">ChineseNum1</ref>,</highlight></codeline>
+<codeline lineno="123"><highlight class="normal"></highlight></codeline>
+<codeline lineno="125"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a04d15bbf47a2321affe6b4f8d8f62501" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the appropriate legal form...">ChineseNum2</ref>,</highlight></codeline>
+<codeline lineno="126"><highlight class="normal"></highlight></codeline>
+<codeline lineno="128"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a0cdbdfc3ead07385dd85125d7f14f96b" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the appropriate counting t...">ChineseNum3</ref>,</highlight></codeline>
+<codeline lineno="129"><highlight class="normal"></highlight></codeline>
+<codeline lineno="131"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a3fddc4245117d908355af6722e5f2e19" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the Korean Chosung format.">Chosung</ref>,</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"></highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ac27367f467286ed8e65e4fa09bba3597" kindref="member" tooltip="Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle,...">CircleNum</ref>,</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"></highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a46d11fc93a0b4b8b113b8b0a4cfef818" kindref="member" tooltip="Numeric formatting. Formats a numeric result using double-byte Arabic numbering.">DBChar</ref>,</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"></highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ad13e512c847d13ba269bf95f65e0516f" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential digital ideographs, using the appropria...">DBNum1</ref>,</highlight></codeline>
+<codeline lineno="142"><highlight class="normal"></highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a8a3dc6b6a8dc6ebc0eaaf929757a14ca" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the appropriate counting s...">DBNum2</ref>,</highlight></codeline>
+<codeline lineno="145"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ac5d550e7767502e21feeede6cb3cadd0" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the appropriate legal coun...">DBNum3</ref>,</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"></highlight></codeline>
+<codeline lineno="150"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a7e190f4e3c1b596d72f023743688c4b7" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the appropriate digital co...">DBNum4</ref>,</highlight></codeline>
+<codeline lineno="151"><highlight class="normal"></highlight></codeline>
+<codeline lineno="153"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a69f8027c90c23787e02ec76196926698" kindref="member" tooltip="Numeric formatting. Dollar text (One, Two, Three, ... + AND 55/100).">DollarText</ref>,</highlight></codeline>
+<codeline lineno="154"><highlight class="normal"></highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960aa7018992bc3ae482cf42606fd05dc848" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the Korean Ganada format.">Ganada</ref>,</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"></highlight></codeline>
+<codeline lineno="160"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960abcdabc292fa8d5b60aafec61c5481396" kindref="member" tooltip="Numeric formatting. Formats a numeric result using decimal numbering followed by a period,...">GB1</ref>,</highlight></codeline>
+<codeline lineno="161"><highlight class="normal"></highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a101607d6b850f4144ca64f503f3e3531" kindref="member" tooltip="Numeric formatting. Formats a numeric result using decimal numbering enclosed in parenthesis,...">GB2</ref>,</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"></highlight></codeline>
+<codeline lineno="168"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a64040a493b3dac8b340ccb8a29f7ae98" kindref="member" tooltip="Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle,...">GB3</ref>,</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"></highlight></codeline>
+<codeline lineno="172"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a9ac7b637523af9eefe3ee224fc23acd0" kindref="member" tooltip="Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle,...">GB4</ref>,</highlight></codeline>
+<codeline lineno="173"><highlight class="normal"></highlight></codeline>
+<codeline lineno="175"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a423af1e578f6cd91aa58ae8c62e7f22b" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Hebrew numerals.">Hebrew1</ref>,</highlight></codeline>
+<codeline lineno="176"><highlight class="normal"></highlight></codeline>
+<codeline lineno="178"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a30602e39c72449517546871e5e51d76b" kindref="member" tooltip="Numeric formatting. Formats a numeric result using the Hebrew alphabet.">Hebrew2</ref>,</highlight></codeline>
+<codeline lineno="179"><highlight class="normal"></highlight></codeline>
+<codeline lineno="181"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a92640bd72988395b326c888614f8937a" kindref="member" tooltip="Numeric formatting. Formats the numeric result using uppercase hexadecimal digits.">Hex</ref>,</highlight></codeline>
+<codeline lineno="182"><highlight class="normal"></highlight></codeline>
+<codeline lineno="184"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a7c9a0ebf6f42214e796764cd9b4edf91" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Hindi numbers.">HindiArabic</ref>,</highlight></codeline>
+<codeline lineno="185"><highlight class="normal"></highlight></codeline>
+<codeline lineno="187"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a07b5937e947d2019806c1085b67200d5" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the Hindi counting system.">HindiCardText</ref>,</highlight></codeline>
+<codeline lineno="188"><highlight class="normal"></highlight></codeline>
+<codeline lineno="190"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ad1f8323432be166a44853d513bd09e4f" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Hindi vowels.">HindiLetter1</ref>,</highlight></codeline>
+<codeline lineno="191"><highlight class="normal"></highlight></codeline>
+<codeline lineno="193"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a60002a74c3eeca153060663cc5a901e6" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Hindi consonants.">HindiLetter2</ref>,</highlight></codeline>
+<codeline lineno="194"><highlight class="normal"></highlight></codeline>
+<codeline lineno="196"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a2dee0514b3614d97f6eb83ea10c368cd" kindref="member" tooltip="Numeric formatting. Formats a numeric result using the Japanese iroha.">Iroha</ref>,</highlight></codeline>
+<codeline lineno="197"><highlight class="normal"></highlight></codeline>
+<codeline lineno="199"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ae293fbb98ffe12313529a7112b6561b4" kindref="member" tooltip="Numeric formatting. Formats a numeric result using a Japanese style using the appropriate counting sy...">KanjiNum1</ref>,</highlight></codeline>
+<codeline lineno="200"><highlight class="normal"></highlight></codeline>
+<codeline lineno="202"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a4c0d7366592b37ad2e0be582f4f5b3c7" kindref="member" tooltip="Numeric formatting. Formats a numeric result using the appropriate counting system.">KanjiNum2</ref>,</highlight></codeline>
+<codeline lineno="203"><highlight class="normal"></highlight></codeline>
+<codeline lineno="205"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a6547bcc0ae7bccac15236f1b060bef68" kindref="member" tooltip="Numeric formatting. Formats a numeric result using the appropriate counting system.">KanjiNum3</ref>,</highlight></codeline>
+<codeline lineno="206"><highlight class="normal"></highlight></codeline>
+<codeline lineno="208"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ac9d539922221d77591558b5841d36fd1" kindref="member" tooltip="Numeric formatting. Ordinal (1st, 2nd, 3rd, ...).">Ordinal</ref>,</highlight></codeline>
+<codeline lineno="209"><highlight class="normal"></highlight></codeline>
+<codeline lineno="211"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a637d5dcb4a255ed36632ade2e190dc5f" kindref="member" tooltip="Numeric formatting. Ordinal text (First, Second, Third, ...).">OrdText</ref>,</highlight></codeline>
+<codeline lineno="212"><highlight class="normal"></highlight></codeline>
+<codeline lineno="214"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a3c04ee10e6af5c1dd2255e5bd5c078e9" kindref="member" tooltip="Numeric formatting. Uppercase Roman (I, II, III, ...).">UppercaseRoman</ref>,</highlight></codeline>
+<codeline lineno="215"><highlight class="normal"></highlight></codeline>
+<codeline lineno="217"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">LowercaseRoman</ref>,</highlight></codeline>
+<codeline lineno="218"><highlight class="normal"></highlight></codeline>
+<codeline lineno="220"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a49a9be680f9f336647efa1bf44655e48" kindref="member" tooltip="Numeric formatting. Formats a numeric result using single-byte Arabic numbering.">SBChar</ref>,</highlight></codeline>
+<codeline lineno="221"><highlight class="normal"></highlight></codeline>
+<codeline lineno="223"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a65e3a4208f86f9697a7481149f4a9da3" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Thai numbers.">ThaiArabic</ref>,</highlight></codeline>
+<codeline lineno="224"><highlight class="normal"></highlight></codeline>
+<codeline lineno="226"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a2dc806b2691e10c4425d9edd0cdec876" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numbers from the Thai counting system.">ThaiCardText</ref>,</highlight></codeline>
+<codeline lineno="227"><highlight class="normal"></highlight></codeline>
+<codeline lineno="229"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a875a52b1c3f4c506a23e2b6704737c84" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Thai letters.">ThaiLetter</ref>,</highlight></codeline>
+<codeline lineno="230"><highlight class="normal"></highlight></codeline>
+<codeline lineno="232"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a2a6d3e488b313a06f1678f9c9405007f" kindref="member" tooltip="Numeric formatting. Formats a numeric result using Vietnamese numerals.">VietCardText</ref>,</highlight></codeline>
+<codeline lineno="233"><highlight class="normal"></highlight></codeline>
+<codeline lineno="235"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a35d7f1168cd8a04a8c5de35baa01d9ad" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential numerical traditional ideographs.">Zodiac1</ref>,</highlight></codeline>
+<codeline lineno="236"><highlight class="normal"></highlight></codeline>
+<codeline lineno="238"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a881e3855951563a12086f6ae12f74537" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential zodiac ideographs.">Zodiac2</ref>,</highlight></codeline>
+<codeline lineno="239"><highlight class="normal"></highlight></codeline>
+<codeline lineno="241"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960af5a4a77ecc8404131d06a900e1b4862f" kindref="member" tooltip="Numeric formatting. Formats a numeric result using sequential traditional zodiac ideographs.">Zodiac3</ref>,</highlight></codeline>
+<codeline lineno="242"><highlight class="normal"></highlight></codeline>
+<codeline lineno="244"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a55dd587cdc4a278be6a5c37f9e539de1" kindref="member" tooltip="Text formatting. Capitalizes the first letter of each word.">Caps</ref>,</highlight></codeline>
+<codeline lineno="245"><highlight class="normal"></highlight></codeline>
+<codeline lineno="247"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a35921f1fc880e9f13b69dc79ea5a9fee" kindref="member" tooltip="Text formatting. Capitalizes the first letter of the first word.">FirstCap</ref>,</highlight></codeline>
+<codeline lineno="248"><highlight class="normal"></highlight></codeline>
+<codeline lineno="250"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ab75fcdd2d72d9e000beab48622402d93" kindref="member" tooltip="Text formatting. All letters are lowercase.">Lower</ref>,</highlight></codeline>
+<codeline lineno="251"><highlight class="normal"></highlight></codeline>
+<codeline lineno="253"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">Upper</ref>,</highlight></codeline>
+<codeline lineno="254"><highlight class="normal"></highlight></codeline>
+<codeline lineno="256"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a0a960da19bacc435b5324237774a04c4" kindref="member" tooltip="Field result formatting. The CHARFORMAT instruction.">CharFormat</ref>,</highlight></codeline>
+<codeline lineno="257"><highlight class="normal"></highlight></codeline>
+<codeline lineno="259"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960afb0901eea378cd5af651b4b996f48e52" kindref="member" tooltip="Field result formatting. The MERGEFORMAT instruction.">MergeFormat</ref>,</highlight></codeline>
+<codeline lineno="260"><highlight class="normal"></highlight></codeline>
+<codeline lineno="262"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a1e17cf276b7a91aff68601c5f8870410" kindref="member" tooltip="Field result formatting. The MERGEFORMATINET instruction.">MergeFormatInet</ref></highlight></codeline>
+<codeline lineno="263"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="264"><highlight class="normal"></highlight></codeline>
+<codeline lineno="265"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="266"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="267"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="268"><highlight class="normal"></highlight></codeline>
+<codeline lineno="269"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="270"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Fields::GeneralFormat&gt;</highlight></codeline>
+<codeline lineno="271"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="272"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Fields::GeneralFormat,<sp/>const<sp/>char_t*&gt;,<sp/>56&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="273"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Fields/GeneralFormat.h"/>
   </compounddef>
 </doxygen>

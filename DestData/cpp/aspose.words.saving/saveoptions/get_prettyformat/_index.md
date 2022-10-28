@@ -3,7 +3,7 @@ title: get_PrettyFormat
 second_title: Aspose.Words for C++ API Reference
 description: When true, pretty formats output where applicable. Default value is false.
 type: docs
-weight: 131
+weight: 118
 url: /cpp/aspose.words.saving/saveoptions/get_prettyformat/
 ---
 ## SaveOptions.get_PrettyFormat method
@@ -43,10 +43,10 @@ if (usePrettyFormat)
                   u"\t\t<meta http-equiv=\"Content-Style-Type\" content=\"text/css\" />\r\n" +
                   String::Format(u"\t\t<meta name=\"generator\" content=\"{0} {1}\" />\r\n", BuildVersionInfo::get_Product(),
                                  BuildVersionInfo::get_Version()) +
-                  u"\t\t<title></title>\r\n" + u"\t</head>\r\n" + u"\t<body style=\"font-family:'Times New Roman'; font-size:12pt\">\r\n" +
+                  u"\t\t<title>\r\n\t\t</title>\r\n" + u"\t</head>\r\n" + u"\t<body style=\"font-family:'Times New Roman'; font-size:12pt\">\r\n" +
                   u"\t\t<div>\r\n" + u"\t\t\t<p style=\"margin-top:0pt; margin-bottom:0pt\">\r\n" + u"\t\t\t\t<span>Hello world!</span>\r\n" +
                   u"\t\t\t</p>\r\n" + u"\t\t\t<p style=\"margin-top:0pt; margin-bottom:0pt\">\r\n" +
-                  u"\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n" + u"\t\t\t</p>\r\n" + u"\t\t</div>\r\n" + u"\t</body>\r\n</html>\r\n",
+                  u"\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n" + u"\t\t\t</p>\r\n" + u"\t\t</div>\r\n" + u"\t</body>\r\n</html>",
               html);
 }
 else

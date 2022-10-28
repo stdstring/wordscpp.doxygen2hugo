@@ -6,7 +6,7 @@
     <includes refid="_document_visitor_8h" local="no">Aspose.Words.Cpp/DocumentVisitor.h</includes>
       <sectiondef kind="private-type">
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_document_visitor_1a6bc8227ad6208d84be630e819eeb8e1d" prot="private" static="no">
-        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
         <definition>typedef System::Object Aspose::Words::DocumentVisitor::BaseType</definition>
         <argsstring></argsstring>
         <name>BaseType</name>
@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/DocumentVisitor.h" line="282" column="29" bodyfile="Aspose.Words.Cpp/DocumentVisitor.h" bodystart="282" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_document_visitor_1a510f80f2656e8f5ef34a9072eb862eed" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::DocumentVisitor::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -114,7 +114,7 @@
         <name>VisitMoveFromRangeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitMoveFromRangeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeEnd &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeEnd &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -131,7 +131,7 @@
         <name>VisitMoveFromRangeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitMoveFromRangeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeStart &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeStart &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -148,7 +148,7 @@
         <name>VisitMoveToRangeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitMoveToRangeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeEnd &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeEnd &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -165,7 +165,7 @@
         <name>VisitMoveToRangeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitMoveToRangeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeStart &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::MoveRangeStart &gt;</type>
         </param>
         <briefdescription>
         </briefdescription>
@@ -184,7 +184,7 @@
         <name>VisitAbsolutePositionTab</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitAbsolutePositionTab</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_absolute_position_tab" kindref="compound">Aspose::Words::AbsolutePositionTab</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_absolute_position_tab" kindref="compound">Aspose::Words::AbsolutePositionTab</ref> &gt;</type>
           <declname>tab</declname>
         </param>
         <briefdescription>
@@ -271,7 +271,7 @@ Shows how to process absolute position tab characters with a document visitor. <
         <name>VisitBodyEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitBodyEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_body" kindref="compound">Aspose::Words::Body</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_body" kindref="compound">Aspose::Words::Body</ref> &gt;</type>
           <declname>body</declname>
         </param>
         <briefdescription>
@@ -430,7 +430,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitBodyStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitBodyStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_body" kindref="compound">Aspose::Words::Body</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_body" kindref="compound">Aspose::Words::Body</ref> &gt;</type>
           <declname>body</declname>
         </param>
         <briefdescription>
@@ -589,7 +589,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitBookmarkEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitBookmarkEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark_end" kindref="compound">Aspose::Words::BookmarkEnd</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark_end" kindref="compound">Aspose::Words::BookmarkEnd</ref> &gt;</type>
           <declname>bookmarkEnd</declname>
         </param>
         <briefdescription>
@@ -695,7 +695,7 @@ Shows how to add bookmarks and update their contents. <programlisting><codeline>
         <name>VisitBookmarkStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitBookmarkStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark_start" kindref="compound">Aspose::Words::BookmarkStart</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark_start" kindref="compound">Aspose::Words::BookmarkStart</ref> &gt;</type>
           <declname>bookmarkStart</declname>
         </param>
         <briefdescription>
@@ -801,7 +801,7 @@ Shows how to add bookmarks and update their contents. <programlisting><codeline>
         <name>VisitBuildingBlockEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitBuildingBlockEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" kindref="compound">Aspose::Words::BuildingBlocks::BuildingBlock</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" kindref="compound">Aspose::Words::BuildingBlocks::BuildingBlock</ref> &gt;</type>
           <declname>block</declname>
         </param>
         <briefdescription>
@@ -830,7 +830,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>++i)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(5,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;get_Count());</highlight></codeline>
@@ -894,7 +894,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBlocksByGuid-&gt;Add(block-&gt;get_Guid(),<sp/>block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -902,9 +902,9 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tVisited<sp/>block<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Description:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Description());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
@@ -927,7 +927,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
         <name>VisitBuildingBlockStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitBuildingBlockStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" kindref="compound">Aspose::Words::BuildingBlocks::BuildingBlock</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" kindref="compound">Aspose::Words::BuildingBlocks::BuildingBlock</ref> &gt;</type>
           <declname>block</declname>
         </param>
         <briefdescription>
@@ -956,7 +956,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>++i)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(5,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;get_Count());</highlight></codeline>
@@ -1020,7 +1020,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBlocksByGuid-&gt;Add(block-&gt;get_Guid(),<sp/>block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -1028,9 +1028,9 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tVisited<sp/>block<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Description:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Description());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
@@ -1053,7 +1053,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
         <name>VisitCellEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitCellEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell" kindref="compound">Aspose::Words::Tables::Cell</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell" kindref="compound">Aspose::Words::Tables::Cell</ref> &gt;</type>
           <declname>cell</declname>
         </param>
         <briefdescription>
@@ -1391,7 +1391,7 @@ Shows how to print the node structure of every table in a document. <programlist
         <name>VisitCellStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitCellStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell" kindref="compound">Aspose::Words::Tables::Cell</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell" kindref="compound">Aspose::Words::Tables::Cell</ref> &gt;</type>
           <declname>cell</declname>
         </param>
         <briefdescription>
@@ -1557,7 +1557,7 @@ Shows how to print the node structure of every table in a document. <programlist
         <name>VisitCommentEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitCommentEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Aspose::Words::Comment</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Aspose::Words::Comment</ref> &gt;</type>
           <declname>comment</declname>
         </param>
         <briefdescription>
@@ -1679,7 +1679,7 @@ Shows how to print the node structure of every comment and comment range in a do
         <name>VisitCommentRangeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitCommentRangeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment_range_end" kindref="compound">Aspose::Words::CommentRangeEnd</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment_range_end" kindref="compound">Aspose::Words::CommentRangeEnd</ref> &gt;</type>
           <declname>commentRangeEnd</declname>
         </param>
         <briefdescription>
@@ -1801,7 +1801,7 @@ Shows how to print the node structure of every comment and comment range in a do
         <name>VisitCommentRangeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitCommentRangeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">Aspose::Words::CommentRangeStart</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">Aspose::Words::CommentRangeStart</ref> &gt;</type>
           <declname>commentRangeStart</declname>
         </param>
         <briefdescription>
@@ -1923,7 +1923,7 @@ Shows how to print the node structure of every comment and comment range in a do
         <name>VisitCommentStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitCommentStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Aspose::Words::Comment</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Aspose::Words::Comment</ref> &gt;</type>
           <declname>comment</declname>
         </param>
         <briefdescription>
@@ -2217,7 +2217,7 @@ Shows how to print the node structure of every comment and comment range in a do
         <name>VisitDocumentEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitDocumentEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
           <declname>doc</declname>
         </param>
         <briefdescription>
@@ -2376,7 +2376,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitDocumentStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitDocumentStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
           <declname>doc</declname>
         </param>
         <briefdescription>
@@ -2535,7 +2535,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitEditableRangeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitEditableRangeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range_end" kindref="compound">Aspose::Words::EditableRangeEnd</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range_end" kindref="compound">Aspose::Words::EditableRangeEnd</ref> &gt;</type>
           <declname>editableRangeEnd</declname>
         </param>
         <briefdescription>
@@ -2640,7 +2640,7 @@ Shows how to print the node structure of every editable range in a document. <pr
         <name>VisitEditableRangeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitEditableRangeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range_start" kindref="compound">Aspose::Words::EditableRangeStart</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range_start" kindref="compound">Aspose::Words::EditableRangeStart</ref> &gt;</type>
           <declname>editableRangeStart</declname>
         </param>
         <briefdescription>
@@ -2745,7 +2745,7 @@ Shows how to print the node structure of every editable range in a document. <pr
         <name>VisitFieldEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitFieldEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
           <declname>fieldEnd</declname>
         </param>
         <briefdescription>
@@ -2805,7 +2805,7 @@ Shows how to print the node structure of every field in a document. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFieldStart(SharedPtr&lt;FieldStart&gt;<sp/>fieldStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Field<sp/>start]<sp/>FieldType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fieldStart-&gt;get_FieldType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Field<sp/>start]<sp/>FieldType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fieldStart-&gt;get_FieldType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideField<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -2856,7 +2856,7 @@ Shows how to print the node structure of every field in a document. <programlist
         <name>VisitFieldSeparator</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitFieldSeparator</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
           <declname>fieldSeparator</declname>
         </param>
         <briefdescription>
@@ -2917,7 +2917,7 @@ Shows how to print the node structure of every field in a document. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFieldStart(SharedPtr&lt;FieldStart&gt;<sp/>fieldStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Field<sp/>start]<sp/>FieldType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fieldStart-&gt;get_FieldType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Field<sp/>start]<sp/>FieldType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fieldStart-&gt;get_FieldType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideField<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -2968,7 +2968,7 @@ Shows how to print the node structure of every field in a document. <programlist
         <name>VisitFieldStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitFieldStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
           <declname>fieldStart</declname>
         </param>
         <briefdescription>
@@ -3032,7 +3032,7 @@ Shows how to print the node structure of every field in a document. <programlist
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFieldStart(SharedPtr&lt;FieldStart&gt;<sp/>fieldStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Field<sp/>start]<sp/>FieldType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fieldStart-&gt;get_FieldType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Field<sp/>start]<sp/>FieldType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fieldStart-&gt;get_FieldType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideField<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -3083,7 +3083,7 @@ Shows how to print the node structure of every field in a document. <programlist
         <name>VisitFootnoteEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitFootnoteEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" kindref="compound">Aspose::Words::Notes::Footnote</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" kindref="compound">Aspose::Words::Notes::Footnote</ref> &gt;</type>
           <declname>footnote</declname>
         </param>
         <briefdescription>
@@ -3132,7 +3132,7 @@ Shows how to print the node structure of every footnote in a document. <programl
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFootnoteStart(SharedPtr&lt;Footnote&gt;<sp/>footnote)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideFootnote<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -3186,7 +3186,7 @@ Shows how to print the node structure of every footnote in a document. <programl
         <name>VisitFootnoteStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitFootnoteStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" kindref="compound">Aspose::Words::Notes::Footnote</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" kindref="compound">Aspose::Words::Notes::Footnote</ref> &gt;</type>
           <declname>footnote</declname>
         </param>
         <briefdescription>
@@ -3235,7 +3235,7 @@ Shows how to print the node structure of every footnote in a document. <programl
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFootnoteStart(SharedPtr&lt;Footnote&gt;<sp/>footnote)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideFootnote<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -3461,7 +3461,7 @@ Shows how to print the node structure of every footnote in a document. <programl
         <name>VisitFormField</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitFormField</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_form_field" kindref="compound">Aspose::Words::Fields::FormField</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_form_field" kindref="compound">Aspose::Words::Fields::FormField</ref> &gt;</type>
           <declname>formField</declname>
         </param>
         <briefdescription>
@@ -3665,7 +3665,7 @@ Shows how to use a <ref refid="class_aspose_1_1_words_1_1_document_visitor" kind
         <name>VisitGlossaryDocumentEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitGlossaryDocumentEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document" kindref="compound">Aspose::Words::BuildingBlocks::GlossaryDocument</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document" kindref="compound">Aspose::Words::BuildingBlocks::GlossaryDocument</ref> &gt;</type>
           <declname>glossary</declname>
         </param>
         <briefdescription>
@@ -3694,7 +3694,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>++i)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(5,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;get_Count());</highlight></codeline>
@@ -3758,7 +3758,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBlocksByGuid-&gt;Add(block-&gt;get_Guid(),<sp/>block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -3766,9 +3766,9 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tVisited<sp/>block<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Description:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Description());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
@@ -3791,7 +3791,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
         <name>VisitGlossaryDocumentStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitGlossaryDocumentStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document" kindref="compound">Aspose::Words::BuildingBlocks::GlossaryDocument</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document" kindref="compound">Aspose::Words::BuildingBlocks::GlossaryDocument</ref> &gt;</type>
           <declname>glossary</declname>
         </param>
         <briefdescription>
@@ -3820,7 +3820,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>++i)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(5,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;get_Count());</highlight></codeline>
@@ -3884,7 +3884,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBlocksByGuid-&gt;Add(block-&gt;get_Guid(),<sp/>block);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -3892,9 +3892,9 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tVisited<sp/>block<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Description:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Description());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
@@ -3917,7 +3917,7 @@ Shows ways of accessing building blocks in a glossary document. <programlisting>
         <name>VisitGroupShapeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitGroupShapeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">Aspose::Words::Drawing::GroupShape</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">Aspose::Words::Drawing::GroupShape</ref> &gt;</type>
           <declname>groupShape</declname>
         </param>
         <briefdescription>
@@ -3948,12 +3948,12 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Balloon);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Cube);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
@@ -3996,7 +3996,7 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
@@ -4026,7 +4026,7 @@ Shows how to create a group of shapes, and print its contents using a document v
         <name>VisitGroupShapeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitGroupShapeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">Aspose::Words::Drawing::GroupShape</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">Aspose::Words::Drawing::GroupShape</ref> &gt;</type>
           <declname>groupShape</declname>
         </param>
         <briefdescription>
@@ -4057,12 +4057,12 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Balloon);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Cube);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
@@ -4105,7 +4105,7 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
@@ -4307,7 +4307,7 @@ Shows how to create a group of shapes, and print its contents using a document v
         <name>VisitHeaderFooterEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitHeaderFooterEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt;</type>
           <declname>headerFooter</declname>
         </param>
         <briefdescription>
@@ -4370,7 +4370,7 @@ Shows how to print the node structure of every header and footer in a document. 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitHeaderFooterStart(SharedPtr&lt;HeaderFooter&gt;<sp/>headerFooter)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -4414,7 +4414,7 @@ Shows how to print the node structure of every header and footer in a document. 
         <name>VisitHeaderFooterStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitHeaderFooterStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt;</type>
           <declname>headerFooter</declname>
         </param>
         <briefdescription>
@@ -4477,7 +4477,7 @@ Shows how to print the node structure of every header and footer in a document. 
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitHeaderFooterStart(SharedPtr&lt;HeaderFooter&gt;<sp/>headerFooter)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -4521,7 +4521,7 @@ Shows how to print the node structure of every header and footer in a document. 
         <name>VisitOfficeMathEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitOfficeMathEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">Aspose::Words::Math::OfficeMath</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">Aspose::Words::Math::OfficeMath</ref> &gt;</type>
           <declname>officeMath</declname>
         </param>
         <briefdescription>
@@ -4580,7 +4580,7 @@ Shows how to print the node structure of every office math node in a document. <
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathStart(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -4624,7 +4624,7 @@ Shows how to print the node structure of every office math node in a document. <
         <name>VisitOfficeMathStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitOfficeMathStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">Aspose::Words::Math::OfficeMath</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">Aspose::Words::Math::OfficeMath</ref> &gt;</type>
           <declname>officeMath</declname>
         </param>
         <briefdescription>
@@ -4683,7 +4683,7 @@ Shows how to print the node structure of every office math node in a document. <
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathStart(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -4727,7 +4727,7 @@ Shows how to print the node structure of every office math node in a document. <
         <name>VisitParagraphEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitParagraphEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
           <declname>paragraph</declname>
         </param>
         <briefdescription>
@@ -4886,7 +4886,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitParagraphStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitParagraphStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
           <declname>paragraph</declname>
         </param>
         <briefdescription>
@@ -5217,7 +5217,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitRowEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitRowEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Aspose::Words::Tables::Row</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Aspose::Words::Tables::Row</ref> &gt;</type>
           <declname>row</declname>
         </param>
         <briefdescription>
@@ -5555,7 +5555,7 @@ Shows how to print the node structure of every table in a document. <programlist
         <name>VisitRowStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitRowStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Aspose::Words::Tables::Row</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Aspose::Words::Tables::Row</ref> &gt;</type>
           <declname>row</declname>
         </param>
         <briefdescription>
@@ -5721,7 +5721,7 @@ Shows how to print the node structure of every table in a document. <programlist
         <name>VisitRun</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitRun</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Aspose::Words::Run</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Aspose::Words::Run</ref> &gt;</type>
           <declname>run</declname>
         </param>
         <briefdescription>
@@ -5880,7 +5880,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitSectionEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitSectionEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
           <declname>section</declname>
         </param>
         <briefdescription>
@@ -6039,7 +6039,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitSectionStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitSectionStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
           <declname>section</declname>
         </param>
         <briefdescription>
@@ -6198,7 +6198,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitShapeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitShapeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt;</type>
           <declname>shape</declname>
         </param>
         <briefdescription>
@@ -6229,12 +6229,12 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Balloon);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Cube);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
@@ -6277,7 +6277,7 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
@@ -6307,7 +6307,7 @@ Shows how to create a group of shapes, and print its contents using a document v
         <name>VisitShapeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitShapeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt;</type>
           <declname>shape</declname>
         </param>
         <briefdescription>
@@ -6338,12 +6338,12 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Balloon);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Cube);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
@@ -6386,7 +6386,7 @@ Shows how to create a group of shapes, and print its contents using a document v
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
 <codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
@@ -6588,7 +6588,7 @@ Shows how to create a group of shapes, and print its contents using a document v
         <name>VisitSmartTagEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitSmartTagEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_smart_tag" kindref="compound">Aspose::Words::Markup::SmartTag</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_smart_tag" kindref="compound">Aspose::Words::Markup::SmartTag</ref> &gt;</type>
           <declname>smartTag</declname>
         </param>
         <briefdescription>
@@ -6691,7 +6691,7 @@ Shows how to print the node structure of every smart tag in a document. <program
         <name>VisitSmartTagStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitSmartTagStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_smart_tag" kindref="compound">Aspose::Words::Markup::SmartTag</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_smart_tag" kindref="compound">Aspose::Words::Markup::SmartTag</ref> &gt;</type>
           <declname>smartTag</declname>
         </param>
         <briefdescription>
@@ -6794,7 +6794,7 @@ Shows how to print the node structure of every smart tag in a document. <program
         <name>VisitSpecialChar</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitSpecialChar</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_special_char" kindref="compound">Aspose::Words::SpecialChar</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_special_char" kindref="compound">Aspose::Words::SpecialChar</ref> &gt;</type>
           <declname>specialChar</declname>
         </param>
         <briefdescription>
@@ -6998,7 +6998,7 @@ Shows how to use a <ref refid="class_aspose_1_1_words_1_1_document_visitor" kind
         <name>VisitStructuredDocumentTagEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" kindref="compound">Aspose::Words::Markup::StructuredDocumentTag</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" kindref="compound">Aspose::Words::Markup::StructuredDocumentTag</ref> &gt;</type>
           <declname>sdt</declname>
         </param>
         <briefdescription>
@@ -7099,7 +7099,7 @@ Shows how to print the node structure of every structured document tag in a docu
         <name>VisitStructuredDocumentTagRangeEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagRangeEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end" kindref="compound">Aspose::Words::Markup::StructuredDocumentTagRangeEnd</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end" kindref="compound">Aspose::Words::Markup::StructuredDocumentTagRangeEnd</ref> &gt;</type>
           <declname>sdtRangeEnd</declname>
         </param>
         <briefdescription>
@@ -7117,7 +7117,7 @@ Shows how to print the node structure of every structured document tag in a docu
         <name>VisitStructuredDocumentTagRangeStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagRangeStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start" kindref="compound">Aspose::Words::Markup::StructuredDocumentTagRangeStart</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start" kindref="compound">Aspose::Words::Markup::StructuredDocumentTagRangeStart</ref> &gt;</type>
           <declname>sdtRangeStart</declname>
         </param>
         <briefdescription>
@@ -7135,7 +7135,7 @@ Shows how to print the node structure of every structured document tag in a docu
         <name>VisitStructuredDocumentTagStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" kindref="compound">Aspose::Words::Markup::StructuredDocumentTag</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" kindref="compound">Aspose::Words::Markup::StructuredDocumentTag</ref> &gt;</type>
           <declname>sdt</declname>
         </param>
         <briefdescription>
@@ -7236,7 +7236,7 @@ Shows how to print the node structure of every structured document tag in a docu
         <name>VisitSubDocument</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitSubDocument</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_sub_document" kindref="compound">Aspose::Words::SubDocument</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_sub_document" kindref="compound">Aspose::Words::SubDocument</ref> &gt;</type>
           <declname>subDocument</declname>
         </param>
         <briefdescription>
@@ -7395,7 +7395,7 @@ Shows how to use a document visitor to print a document&apos;s node structure. <
         <name>VisitTableEnd</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitTableEnd</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table" kindref="compound">Aspose::Words::Tables::Table</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table" kindref="compound">Aspose::Words::Tables::Table</ref> &gt;</type>
           <declname>table</declname>
         </param>
         <briefdescription>
@@ -7733,7 +7733,7 @@ Shows how to print the node structure of every table in a document. <programlist
         <name>VisitTableStart</name>
         <qualifiedname>Aspose::Words::DocumentVisitor::VisitTableStart</qualifiedname>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table" kindref="compound">Aspose::Words::Tables::Table</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table" kindref="compound">Aspose::Words::Tables::Table</ref> &gt;</type>
           <declname>table</declname>
         </param>
         <briefdescription>

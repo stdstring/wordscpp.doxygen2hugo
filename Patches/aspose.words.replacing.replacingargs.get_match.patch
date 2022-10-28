@@ -1,8 +1,8 @@
 diff --git a/DestData/cpp/aspose.words.replacing/replacingargs/get_match/_index.md b/DestData/cpp/aspose.words.replacing/replacingargs/get_match/_index.md
-index 8a5937bcc..ace60a226 100644
+index 8a5937bcc..a48c695cb 100644
 --- a/DestData/cpp/aspose.words.replacing/replacingargs/get_match/_index.md
 +++ b/DestData/cpp/aspose.words.replacing/replacingargs/get_match/_index.md
-@@ -16,14 +16,12 @@ System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replac
+@@ -16,25 +16,21 @@ System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replac
  ```
  
  
@@ -20,18 +20,29 @@ index 8a5937bcc..ace60a226 100644
  void ConvertNumbersToHexadecimal()
  {
      auto doc = MakeObject<Document>();
-@@ -79,12 +77,16 @@ public:
-         mLog->AppendLine(String::Format(u"\tOffset in parent {0} node:\t{1}", args->get_MatchNode()->get_NodeType(), args->get_MatchOffset()));
+     auto builder = MakeObject<DocumentBuilder>(doc);
  
+     builder->get_Font()->set_Name(u"Arial");
+-    builder->Writeln(String(u"Numbers that the find-and-replace operation will convert to hexadecimal and highlight:
+-
+-") + u"123, 456, 789 and 17379.");
++    builder->Writeln(String(u"Numbers that the find-and-replace operation will convert to hexadecimal and highlight:") + u"123, 456, 789 and 17379.");
+ 
+-    // We can use a "[FindReplaceOptions](../../findreplaceoptions/)" object to modify the find-and-replace process.
++    // We can use a "FindReplaceOptions" object to modify the find-and-replace process.
+     auto options = MakeObject<FindReplaceOptions>();
+ 
+     // Set the "HighlightColor" property to a background color that we want to apply to the operation's resulting text.
+@@ -81,10 +77,15 @@ public:
          mLog->AppendLine(String::IsNullOrEmpty(args->get_GroupName()) ? String::Format(u"\tGroup index:\t{0}", args->get_GroupIndex())
--                                                                      : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
-+                                                                      : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));
+                                                                       : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
  
 -** return **ReplaceAction::Replace**; }**
-+        return ReplaceAction::Replace; }
++        return ReplaceAction::Replace;
++    }
  
 -** String GetLog() { return mLog->**ToString()**; }**
-+    String GetLog() { return mLog->**ToString(); }
++    String GetLog() { return mLog->ToString(); }
  
 -** NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }**
 +    NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }
@@ -42,4 +53,3 @@ index 8a5937bcc..ace60a226 100644
 +    SharedPtr<System::Text::StringBuilder> mLog;
 +};
 +```
-\ No newline at end of file

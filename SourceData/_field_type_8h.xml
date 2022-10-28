@@ -676,6 +676,234 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Fields<sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="64" refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edec" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edec" kindref="member" tooltip="Specifies Microsoft Word field types.">FieldType</ref></highlight></codeline>
+<codeline lineno="65"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca254b3f5921a732374e9c7739ba5e695b" kindref="member" tooltip="Field type is not specified or unknown.">FieldNone</ref><sp/>=<sp/>0,</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"></highlight></codeline>
+<codeline lineno="71"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9994a15a095decec546408de12c43bf4" kindref="member" tooltip="Specifies that the field was unable to be parsed.">FieldCannotParse</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca63ff2f6b87aa0a3abfcc34555478ea11" kindref="member" tooltip="Specifies the ADDIN field.">FieldAddin</ref><sp/>=<sp/>81,</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"></highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block" kindref="compound" tooltip="Implements the ADDRESSBLOCK field.">FieldAddressBlock</ref><sp/>=<sp/>93,</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"></highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance" kindref="compound" tooltip="Implements the ADVANCE field.">FieldAdvance</ref><sp/>=<sp/>84,</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"></highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_ask" kindref="compound" tooltip="Implements the ASK field.">FieldAsk</ref><sp/>=<sp/>38,</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"></highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_author" kindref="compound" tooltip="Implements the AUTHOR field.">FieldAuthor</ref><sp/>=<sp/>17,</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"></highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num" kindref="compound" tooltip="Implements the AUTONUM field.">FieldAutoNum</ref><sp/>=<sp/>54,</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldAutoNumLegal</ref><sp/>=<sp/>53,</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"></highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecabac1b10dea333c4672791d5b304f819a" kindref="member" tooltip="Specifies the AUTONUMOUT field.">FieldAutoNumOutline</ref><sp/>=<sp/>52,</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"></highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_text" kindref="compound" tooltip="Implements the AUTOTEXT field.">FieldAutoText</ref><sp/>=<sp/>79,</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"></highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_text_list" kindref="compound" tooltip="Implements the AUTOTEXTLIST field.">FieldAutoTextList</ref><sp/>=<sp/>89,</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"></highlight></codeline>
+<codeline lineno="104"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_barcode" kindref="compound" tooltip="Implements the BARCODE field.">FieldBarcode</ref><sp/>=<sp/>63,</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"></highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_bibliography" kindref="compound" tooltip="Implements the BIBLIOGRAPHY field.">FieldBibliography</ref><sp/>=<sp/>100500,</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"></highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline" kindref="compound" tooltip="Implements the BIDIOUTLINE field.">FieldBidiOutline</ref><sp/>=<sp/>92,</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"></highlight></codeline>
+<codeline lineno="113"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation" kindref="compound" tooltip="Implements the CITATION field.">FieldCitation</ref><sp/>=<sp/>1980,</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"></highlight></codeline>
+<codeline lineno="116"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_comments" kindref="compound" tooltip="Implements the COMMENTS field.">FieldComments</ref><sp/>=<sp/>19,</highlight></codeline>
+<codeline lineno="117"><highlight class="normal"></highlight></codeline>
+<codeline lineno="119"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_compare" kindref="compound" tooltip="Implements the COMPARE field.">FieldCompare</ref><sp/>=<sp/>80,</highlight></codeline>
+<codeline lineno="120"><highlight class="normal"></highlight></codeline>
+<codeline lineno="122"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_create_date" kindref="compound" tooltip="Implements the CREATEDATE field.">FieldCreateDate</ref><sp/>=<sp/>21,</highlight></codeline>
+<codeline lineno="123"><highlight class="normal"></highlight></codeline>
+<codeline lineno="125"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_data" kindref="compound" tooltip="Implements the DATA field.">FieldData</ref><sp/>=<sp/>40,</highlight></codeline>
+<codeline lineno="126"><highlight class="normal"></highlight></codeline>
+<codeline lineno="128"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_database" kindref="compound" tooltip="Implements the DATABASE field.">FieldDatabase</ref><sp/>=<sp/>78,</highlight></codeline>
+<codeline lineno="129"><highlight class="normal"></highlight></codeline>
+<codeline lineno="131"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_date" kindref="compound" tooltip="Implements the DATE field.">FieldDate</ref><sp/>=<sp/>31,</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"></highlight></codeline>
+<codeline lineno="134"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca2b312a91616addc8dd4f1e0d5419ee9d" kindref="member" tooltip="Specifies the DDE field.">FieldDDE</ref><sp/>=<sp/>45,</highlight></codeline>
+<codeline lineno="135"><highlight class="normal"></highlight></codeline>
+<codeline lineno="137"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode" kindref="compound" tooltip="Implements the DISPLAYBARCODE field.">FieldDisplayBarcode</ref><sp/>=<sp/>6301,</highlight></codeline>
+<codeline lineno="138"><highlight class="normal"></highlight></codeline>
+<codeline lineno="140"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode" kindref="compound" tooltip="Implements the MERGEBARCODE field.">FieldMergeBarcode</ref><sp/>=<sp/>6302,</highlight></codeline>
+<codeline lineno="141"><highlight class="normal"></highlight></codeline>
+<codeline lineno="143"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadfc51bf2dfa6dde007b31c7fc3373ea7" kindref="member" tooltip="Specifies the DDEAUTO field.">FieldDDEAuto</ref><sp/>=<sp/>46,</highlight></codeline>
+<codeline lineno="144"><highlight class="normal"></highlight></codeline>
+<codeline lineno="146"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_doc_property" kindref="compound" tooltip="Implements the DOCPROPERTY field.">FieldDocProperty</ref><sp/>=<sp/>85,</highlight></codeline>
+<codeline lineno="147"><highlight class="normal"></highlight></codeline>
+<codeline lineno="149"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_doc_variable" kindref="compound" tooltip="Implements DOCVARIABLE field.">FieldDocVariable</ref><sp/>=<sp/>64,</highlight></codeline>
+<codeline lineno="150"><highlight class="normal"></highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_edit_time" kindref="compound" tooltip="Implements the EDITTIME field.">FieldEditTime</ref><sp/>=<sp/>25,</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"></highlight></codeline>
+<codeline lineno="155"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed" kindref="compound" tooltip="Implements the EMBED field.">FieldEmbed</ref><sp/>=<sp/>58,</highlight></codeline>
+<codeline lineno="156"><highlight class="normal"></highlight></codeline>
+<codeline lineno="158"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecac56d26b7930bd47c7922e6df1a673816" kindref="member" tooltip="Specifies the EQ field.">FieldEquation</ref><sp/>=<sp/>49,</highlight></codeline>
+<codeline lineno="159"><highlight class="normal"></highlight></codeline>
+<codeline lineno="161"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_file_name" kindref="compound" tooltip="Implements the FILENAME field.">FieldFileName</ref><sp/>=<sp/>29,</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"></highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_file_size" kindref="compound" tooltip="Implements the FILESIZE field.">FieldFileSize</ref><sp/>=<sp/>69,</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"></highlight></codeline>
+<codeline lineno="167"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_fill_in" kindref="compound" tooltip="Implements the FILLIN field.">FieldFillIn</ref><sp/>=<sp/>39,</highlight></codeline>
+<codeline lineno="168"><highlight class="normal"></highlight></codeline>
+<codeline lineno="170"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_footnote_ref" kindref="compound" tooltip="Implements the FOOTNOTEREF field.">FieldFootnoteRef</ref><sp/>=<sp/>5,</highlight></codeline>
+<codeline lineno="171"><highlight class="normal"></highlight></codeline>
+<codeline lineno="173"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_form_check_box" kindref="compound" tooltip="Implements the FORMCHECKBOX field.">FieldFormCheckBox</ref><sp/>=<sp/>71,</highlight></codeline>
+<codeline lineno="174"><highlight class="normal"></highlight></codeline>
+<codeline lineno="176"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_form_drop_down" kindref="compound" tooltip="Implements the FORMDROPDOWN field.">FieldFormDropDown</ref><sp/>=<sp/>83,</highlight></codeline>
+<codeline lineno="177"><highlight class="normal"></highlight></codeline>
+<codeline lineno="179"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca63d00fd05e76f5f0ba9c100c1a833061" kindref="member" tooltip="Specifies the FORMTEXT field.">FieldFormTextInput</ref><sp/>=<sp/>70,</highlight></codeline>
+<codeline lineno="180"><highlight class="normal"></highlight></codeline>
+<codeline lineno="182"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_formula" kindref="compound" tooltip="Implements the = (formula) field.">FieldFormula</ref><sp/>=<sp/>34,</highlight></codeline>
+<codeline lineno="183"><highlight class="normal"></highlight></codeline>
+<codeline lineno="185"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line" kindref="compound" tooltip="Implements the GREETINGLINE field.">FieldGreetingLine</ref><sp/>=<sp/>94,</highlight></codeline>
+<codeline lineno="186"><highlight class="normal"></highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_glossary" kindref="compound" tooltip="Implements the GLOSSARY field.">FieldGlossary</ref><sp/>=<sp/>47,</highlight></codeline>
+<codeline lineno="189"><highlight class="normal"></highlight></codeline>
+<codeline lineno="191"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_go_to_button" kindref="compound" tooltip="Implements the GOTOBUTTON field.">FieldGoToButton</ref><sp/>=<sp/>50,</highlight></codeline>
+<codeline lineno="192"><highlight class="normal"></highlight></codeline>
+<codeline lineno="194"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca4ef5d09a7135443e6278c3afe90a0c49" kindref="member" tooltip="Specifies the field that represents an HTML control.">FieldHtmlActiveX</ref><sp/>=<sp/>91,</highlight></codeline>
+<codeline lineno="195"><highlight class="normal"></highlight></codeline>
+<codeline lineno="197"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink" kindref="compound" tooltip="Implements the HYPERLINK field.">FieldHyperlink</ref><sp/>=<sp/>88,</highlight></codeline>
+<codeline lineno="198"><highlight class="normal"></highlight></codeline>
+<codeline lineno="200"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if" kindref="compound" tooltip="Implements the IF field.">FieldIf</ref><sp/>=<sp/>7,</highlight></codeline>
+<codeline lineno="201"><highlight class="normal"></highlight></codeline>
+<codeline lineno="203"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include" kindref="compound" tooltip="Implements the INCLUDE field.">FieldInclude</ref><sp/>=<sp/>36,</highlight></codeline>
+<codeline lineno="204"><highlight class="normal"></highlight></codeline>
+<codeline lineno="206"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_picture" kindref="compound" tooltip="Implements the INCLUDEPICTURE field.">FieldIncludePicture</ref><sp/>=<sp/>67,</highlight></codeline>
+<codeline lineno="207"><highlight class="normal"></highlight></codeline>
+<codeline lineno="209"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text" kindref="compound" tooltip="Implements the INCLUDETEXT field.">FieldIncludeText</ref><sp/>=<sp/>68,</highlight></codeline>
+<codeline lineno="210"><highlight class="normal"></highlight></codeline>
+<codeline lineno="212"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_index" kindref="compound" tooltip="Implements the INDEX field.">FieldIndex</ref><sp/>=<sp/>8,</highlight></codeline>
+<codeline lineno="213"><highlight class="normal"></highlight></codeline>
+<codeline lineno="215"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldIndexEntry</ref><sp/>=<sp/>4,</highlight></codeline>
+<codeline lineno="216"><highlight class="normal"></highlight></codeline>
+<codeline lineno="218"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_info" kindref="compound" tooltip="Implements the INFO field.">FieldInfo</ref><sp/>=<sp/>14,</highlight></codeline>
+<codeline lineno="219"><highlight class="normal"></highlight></codeline>
+<codeline lineno="221"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_import" kindref="compound" tooltip="Implements the IMPORT field.">FieldImport</ref><sp/>=<sp/>55,</highlight></codeline>
+<codeline lineno="222"><highlight class="normal"></highlight></codeline>
+<codeline lineno="224"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca043cb399212ca4d34b15e0420b7c027d" kindref="member" tooltip="Specifies the KEYWORDS field.">FieldKeyword</ref><sp/>=<sp/>18,</highlight></codeline>
+<codeline lineno="225"><highlight class="normal"></highlight></codeline>
+<codeline lineno="227"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_last_saved_by" kindref="compound" tooltip="Implements the LASTSAVEDBY field.">FieldLastSavedBy</ref><sp/>=<sp/>20,</highlight></codeline>
+<codeline lineno="228"><highlight class="normal"></highlight></codeline>
+<codeline lineno="230"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_link" kindref="compound" tooltip="Implements the LINK field.">FieldLink</ref><sp/>=<sp/>56,</highlight></codeline>
+<codeline lineno="231"><highlight class="normal"></highlight></codeline>
+<codeline lineno="233"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_list_num" kindref="compound" tooltip="Implements the LISTNUM field.">FieldListNum</ref><sp/>=<sp/>90,</highlight></codeline>
+<codeline lineno="234"><highlight class="normal"></highlight></codeline>
+<codeline lineno="236"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button" kindref="compound" tooltip="Implements the MACROBUTTON field.">FieldMacroButton</ref><sp/>=<sp/>51,</highlight></codeline>
+<codeline lineno="237"><highlight class="normal"></highlight></codeline>
+<codeline lineno="239"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field" kindref="compound" tooltip="Implements the MERGEFIELD field.">FieldMergeField</ref><sp/>=<sp/>59,</highlight></codeline>
+<codeline lineno="240"><highlight class="normal"></highlight></codeline>
+<codeline lineno="242"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_rec" kindref="compound" tooltip="Implements the MERGEREC field.">FieldMergeRec</ref><sp/>=<sp/>44,</highlight></codeline>
+<codeline lineno="243"><highlight class="normal"></highlight></codeline>
+<codeline lineno="245"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_seq" kindref="compound" tooltip="Implements the MERGESEQ field.">FieldMergeSeq</ref><sp/>=<sp/>75,</highlight></codeline>
+<codeline lineno="246"><highlight class="normal"></highlight></codeline>
+<codeline lineno="248"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_next" kindref="compound" tooltip="Implements the NEXT field.">FieldNext</ref><sp/>=<sp/>41,</highlight></codeline>
+<codeline lineno="249"><highlight class="normal"></highlight></codeline>
+<codeline lineno="251"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_next_if" kindref="compound" tooltip="Implements the NEXTIF field.">FieldNextIf</ref><sp/>=<sp/>42,</highlight></codeline>
+<codeline lineno="252"><highlight class="normal"></highlight></codeline>
+<codeline lineno="254"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref" kindref="compound" tooltip="Implements the NOTEREF field.">FieldNoteRef</ref><sp/>=<sp/>72,</highlight></codeline>
+<codeline lineno="255"><highlight class="normal"></highlight></codeline>
+<codeline lineno="257"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_num_chars" kindref="compound" tooltip="Implements the NUMCHARS field.">FieldNumChars</ref><sp/>=<sp/>28,</highlight></codeline>
+<codeline lineno="258"><highlight class="normal"></highlight></codeline>
+<codeline lineno="260"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_num_pages" kindref="compound" tooltip="Implements the NUMPAGES field.">FieldNumPages</ref><sp/>=<sp/>26,</highlight></codeline>
+<codeline lineno="261"><highlight class="normal"></highlight></codeline>
+<codeline lineno="263"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_num_words" kindref="compound" tooltip="Implements the NUMWORDS field.">FieldNumWords</ref><sp/>=<sp/>27,</highlight></codeline>
+<codeline lineno="264"><highlight class="normal"></highlight></codeline>
+<codeline lineno="269"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_ocx" kindref="compound" tooltip="Implements the OCX field.">FieldOcx</ref><sp/>=<sp/>87,</highlight></codeline>
+<codeline lineno="270"><highlight class="normal"></highlight></codeline>
+<codeline lineno="272"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_page" kindref="compound" tooltip="Implements the PAGE field.">FieldPage</ref><sp/>=<sp/>33,</highlight></codeline>
+<codeline lineno="273"><highlight class="normal"></highlight></codeline>
+<codeline lineno="275"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_page_ref" kindref="compound" tooltip="Implements the PAGEREF field.">FieldPageRef</ref><sp/>=<sp/>37,</highlight></codeline>
+<codeline lineno="276"><highlight class="normal"></highlight></codeline>
+<codeline lineno="278"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_print" kindref="compound" tooltip="Implements the PRINT field.">FieldPrint</ref><sp/>=<sp/>48,</highlight></codeline>
+<codeline lineno="279"><highlight class="normal"></highlight></codeline>
+<codeline lineno="281"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_print_date" kindref="compound" tooltip="Implements the PRINTDATE field.">FieldPrintDate</ref><sp/>=<sp/>23,</highlight></codeline>
+<codeline lineno="282"><highlight class="normal"></highlight></codeline>
+<codeline lineno="284"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_private" kindref="compound" tooltip="Implements the PRIVATE field.">FieldPrivate</ref><sp/>=<sp/>77,</highlight></codeline>
+<codeline lineno="285"><highlight class="normal"></highlight></codeline>
+<codeline lineno="287"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_quote" kindref="compound" tooltip="Implements the QUOTE field.">FieldQuote</ref><sp/>=<sp/>35,</highlight></codeline>
+<codeline lineno="288"><highlight class="normal"></highlight></codeline>
+<codeline lineno="290"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_ref" kindref="compound" tooltip="Implements the REF field.">FieldRef</ref><sp/>=<sp/>3,</highlight></codeline>
+<codeline lineno="291"><highlight class="normal"></highlight></codeline>
+<codeline lineno="293"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecae885c38495ef1473c9adaa1c507169fb" kindref="member" tooltip="Specifies that the field represents a REF field where the keyword has been omitted.">FieldRefNoKeyword</ref><sp/>=<sp/>2,</highlight></codeline>
+<codeline lineno="294"><highlight class="normal"></highlight></codeline>
+<codeline lineno="296"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca387bbf9195bccabcdca03321473b8dd8" kindref="member" tooltip="Specifies the RD field.">FieldRefDoc</ref><sp/>=<sp/>11,</highlight></codeline>
+<codeline lineno="297"><highlight class="normal"></highlight></codeline>
+<codeline lineno="299"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83be3a6be198dd903a9e14320424f491" kindref="member" tooltip="Specifies the REVNUM field.">FieldRevisionNum</ref><sp/>=<sp/>24,</highlight></codeline>
+<codeline lineno="300"><highlight class="normal"></highlight></codeline>
+<codeline lineno="302"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_save_date" kindref="compound" tooltip="Implements the SAVEDATE field.">FieldSaveDate</ref><sp/>=<sp/>22,</highlight></codeline>
+<codeline lineno="303"><highlight class="normal"></highlight></codeline>
+<codeline lineno="305"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_section" kindref="compound" tooltip="Implements the SECTION field.">FieldSection</ref><sp/>=<sp/>65,</highlight></codeline>
+<codeline lineno="306"><highlight class="normal"></highlight></codeline>
+<codeline lineno="308"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_section_pages" kindref="compound" tooltip="Implements the SECTIONPAGES field.">FieldSectionPages</ref><sp/>=<sp/>66,</highlight></codeline>
+<codeline lineno="309"><highlight class="normal"></highlight></codeline>
+<codeline lineno="311"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldSequence</ref><sp/>=<sp/>12,</highlight></codeline>
+<codeline lineno="312"><highlight class="normal"></highlight></codeline>
+<codeline lineno="314"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_set" kindref="compound" tooltip="Implements the SET field.">FieldSet</ref><sp/>=<sp/>6,</highlight></codeline>
+<codeline lineno="315"><highlight class="normal"></highlight></codeline>
+<codeline lineno="317"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_shape" kindref="compound" tooltip="Implements the SHAPE field.">FieldShape</ref><sp/>=<sp/>95,</highlight></codeline>
+<codeline lineno="318"><highlight class="normal"></highlight></codeline>
+<codeline lineno="320"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_skip_if" kindref="compound" tooltip="Implements the SKIPIF field.">FieldSkipIf</ref><sp/>=<sp/>43,</highlight></codeline>
+<codeline lineno="321"><highlight class="normal"></highlight></codeline>
+<codeline lineno="323"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_style_ref" kindref="compound" tooltip="Implements the STYLEREF field.">FieldStyleRef</ref><sp/>=<sp/>10,</highlight></codeline>
+<codeline lineno="324"><highlight class="normal"></highlight></codeline>
+<codeline lineno="326"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_subject" kindref="compound" tooltip="Implements the SUBJECT field.">FieldSubject</ref><sp/>=<sp/>16,</highlight></codeline>
+<codeline lineno="327"><highlight class="normal"></highlight></codeline>
+<codeline lineno="329"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_symbol" kindref="compound" tooltip="Implements a SYMBOL field.">FieldSymbol</ref><sp/>=<sp/>57,</highlight></codeline>
+<codeline lineno="330"><highlight class="normal"></highlight></codeline>
+<codeline lineno="332"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_template" kindref="compound" tooltip="Implements the TEMPLATE field.">FieldTemplate</ref><sp/>=<sp/>30,</highlight></codeline>
+<codeline lineno="333"><highlight class="normal"></highlight></codeline>
+<codeline lineno="335"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_time" kindref="compound" tooltip="Implements the TIME field.">FieldTime</ref><sp/>=<sp/>32,</highlight></codeline>
+<codeline lineno="336"><highlight class="normal"></highlight></codeline>
+<codeline lineno="338"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_title" kindref="compound" tooltip="Implements the TITLE field.">FieldTitle</ref><sp/>=<sp/>15,</highlight></codeline>
+<codeline lineno="339"><highlight class="normal"></highlight></codeline>
+<codeline lineno="341"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldTOA</ref><sp/>=<sp/>73,</highlight></codeline>
+<codeline lineno="342"><highlight class="normal"></highlight></codeline>
+<codeline lineno="344"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldTOAEntry</ref><sp/>=<sp/>74,</highlight></codeline>
+<codeline lineno="345"><highlight class="normal"></highlight></codeline>
+<codeline lineno="347"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldTOC</ref><sp/>=<sp/>13,</highlight></codeline>
+<codeline lineno="348"><highlight class="normal"></highlight></codeline>
+<codeline lineno="350"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member" tooltip="Specifies the TC field.">FieldTOCEntry</ref><sp/>=<sp/>9,</highlight></codeline>
+<codeline lineno="351"><highlight class="normal"></highlight></codeline>
+<codeline lineno="353"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_address" kindref="compound" tooltip="Implements the USERADDRESS field.">FieldUserAddress</ref><sp/>=<sp/>62,</highlight></codeline>
+<codeline lineno="354"><highlight class="normal"></highlight></codeline>
+<codeline lineno="356"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials" kindref="compound" tooltip="Implements the USERINITIALS field.">FieldUserInitials</ref><sp/>=<sp/>61,</highlight></codeline>
+<codeline lineno="357"><highlight class="normal"></highlight></codeline>
+<codeline lineno="359"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_name" kindref="compound" tooltip="Implements the USERNAME field.">FieldUserName</ref><sp/>=<sp/>60</highlight></codeline>
+<codeline lineno="360"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="361"><highlight class="normal"></highlight></codeline>
+<codeline lineno="362"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="363"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="364"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="365"><highlight class="normal"></highlight></codeline>
+<codeline lineno="366"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="367"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::Fields::FieldType&gt;</highlight></codeline>
+<codeline lineno="368"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="369"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::Fields::FieldType,<sp/>const<sp/>char_t*&gt;,<sp/>97&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="370"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/Fields/FieldType.h"/>
   </compounddef>
 </doxygen>

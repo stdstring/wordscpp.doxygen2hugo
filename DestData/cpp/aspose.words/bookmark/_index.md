@@ -1,7 +1,7 @@
 ---
 title: Bookmark
 second_title: Aspose.Words for C++ API Reference
-description: Represents a single bookmark.
+description: Represents a single bookmark. To learn more, visit the  documentation article.
 type: docs
 weight: 27
 url: /cpp/aspose.words/bookmark/
@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmark/
 ## Bookmark class
 
 
-Represents a single bookmark.
+Represents a single bookmark. To learn more, visit the [Working with Bookmarks](https://docs.aspose.com/words/net/working-with-bookmarks/) documentation article.
 
 ```cpp
 class Bookmark : public System::Object

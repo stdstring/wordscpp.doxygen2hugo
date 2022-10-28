@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Fields/FieldGoToButton.h" line="62" column="29" bodyfile="Aspose.Words.Cpp/Fields/FieldGoToButton.h" bodystart="62" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_go_to_button_1af895546fb59be1c6eee4cfe3ab47629d" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldGoToButton::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_go_to_button_1a4b612fd6d2f23f4e24e4fbcbeb469819" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldGoToButton::GetFakeResult</definition>
         <argsstring>() override</argsstring>
         <name>GetFakeResult</name>
@@ -81,7 +81,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_go_to_button_1ae8299223636f027aab9666d6f748136c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldGoToButton::get_DisplayText</definition>
         <argsstring>()</argsstring>
         <name>get_DisplayText</name>
@@ -118,7 +118,7 @@ Shows to insert a GOTOBUTTON field. <programlisting><codeline><highlight class="
         <location file="Aspose.Words.Cpp/Fields/FieldGoToButton.h" line="127" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_go_to_button_1a14d68af4a98de1d92184feceae56cb41" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Fields::FieldGoToButton::get_Location</definition>
         <argsstring>()</argsstring>
         <name>get_Location</name>
@@ -161,7 +161,7 @@ Shows to insert a GOTOBUTTON field. <programlisting><codeline><highlight class="
         <name>set_DisplayText</name>
         <qualifiedname>Aspose::Words::Fields::FieldGoToButton::set_DisplayText</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -180,7 +180,7 @@ Shows to insert a GOTOBUTTON field. <programlisting><codeline><highlight class="
         <name>set_Location</name>
         <qualifiedname>Aspose::Words::Fields::FieldGoToButton::set_Location</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>

@@ -21,13 +21,13 @@
       </sectiondef>
       <sectiondef kind="public-static-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1a2c60c278039568edc960c4e0a1835174" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection &gt; Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures</definition>
         <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
         <name>LoadSignatures</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>stream</declname>
         </param>
         <briefdescription>
@@ -67,13 +67,13 @@ Shows how to load signatures from a digitally signed document. <programlisting><
         <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureUtil.h" line="513" column="33"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1adf40b7b0e71fbdfa695fd90b37e2b427" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection &gt; Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures</definition>
         <argsstring>(const System::String &amp;fileName)</argsstring>
         <name>LoadSignatures</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>fileName</declname>
         </param>
         <briefdescription>
@@ -140,7 +140,7 @@ Shows how to load signatures from a digitally signed document. <programlisting><
             <type>typename Traits</type>
           </param>
         </templateparamlist>
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</ref> &gt;</type>
         <definition>static System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection &gt; Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures</definition>
         <argsstring>(std::basic_istream&lt; CharType, Traits &gt; &amp;stream)</argsstring>
         <name>LoadSignatures</name>
@@ -164,11 +164,11 @@ Shows how to load signatures from a digitally signed document. <programlisting><
         <name>RemoveAllSignatures</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::RemoveAllSignatures</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>srcStream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>dstStream</declname>
         </param>
         <briefdescription>
@@ -208,11 +208,11 @@ Shows how to remove digital signatures from a digitally signed document. <progra
         <name>RemoveAllSignatures</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::RemoveAllSignatures</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>srcFileName</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>dstFileName</declname>
         </param>
         <briefdescription>
@@ -282,15 +282,15 @@ Shows how to remove digital signatures from a digitally signed document. <progra
         <name>Sign</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>srcStream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>dstStream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
           <declname>certHolder</declname>
         </param>
         <briefdescription>
@@ -333,7 +333,7 @@ Shows how to sign documents with X.509 certificates. <programlisting><codeline><
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -372,19 +372,19 @@ Shows how to sign documents with X.509 certificates. <programlisting><codeline><
         <name>Sign</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>srcStream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
           <declname>dstStream</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
           <declname>certHolder</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">Aspose::Words::DigitalSignatures::SignOptions</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">Aspose::Words::DigitalSignatures::SignOptions</ref> &gt; &amp;</type>
           <declname>signOptions</declname>
         </param>
         <briefdescription>
@@ -432,7 +432,7 @@ Shows how to digitally sign documents. <programlisting><codeline><highlight clas
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>comment<sp/>and<sp/>date<sp/>which<sp/>will<sp/>be<sp/>applied<sp/>with<sp/>our<sp/>new<sp/>digital<sp/>signature.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
 <codeline><highlight class="normal">signOptions-&gt;set_Comments(u</highlight><highlight class="stringliteral">&quot;My<sp/>comment&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Take<sp/>an<sp/>unsigned<sp/>document<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system<sp/>via<sp/>a<sp/>file<sp/>stream,</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>create<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>it<sp/>determined<sp/>by<sp/>the<sp/>filename<sp/>of<sp/>the<sp/>output<sp/>file<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
@@ -457,15 +457,15 @@ Shows how to digitally sign documents. <programlisting><codeline><highlight clas
         <name>Sign</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>srcFileName</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>dstFileName</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
           <declname>certHolder</declname>
         </param>
         <briefdescription>
@@ -508,7 +508,7 @@ Shows how to sign documents with X.509 certificates. <programlisting><codeline><
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
-<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -547,19 +547,19 @@ Shows how to sign documents with X.509 certificates. <programlisting><codeline><
         <name>Sign</name>
         <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>srcFileName</declname>
         </param>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>dstFileName</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
           <declname>certHolder</declname>
         </param>
         <param>
-          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">Aspose::Words::DigitalSignatures::SignOptions</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">Aspose::Words::DigitalSignatures::SignOptions</ref> &gt; &amp;</type>
           <declname>signOptions</declname>
         </param>
         <briefdescription>
@@ -611,7 +611,7 @@ Shows how to add a signature line to a document, and then sign it using a digita
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CreateSignees();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signeeInfo<sp/>=<sp/>mSignees-&gt;Find(<ref refid="class/system.multicast_delegate/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Predicate</ref>&lt;SharedPtr&lt;Signee&gt;&gt;([&amp;](SharedPtr&lt;Signee&gt;<sp/>c)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>c-&gt;get_Name()<sp/>==<sp/>signeeName;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signeeInfo<sp/>=<sp/>mSignees-&gt;Find(<ref refid="class/system.multicast_delegate/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Predicate</ref>&lt;SharedPtr&lt;Signee&gt;&gt;([&amp;](SharedPtr&lt;Signee&gt;<sp/>c)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>c-&gt;get_Name()<sp/>==<sp/>signeeName;<sp/>}));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(signeeInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -623,15 +623,15 @@ Shows how to add a signature line to a document, and then sign it using a digita
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Signee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Signee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>get_PersonId()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>get_PersonId()</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_PersonId;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_PersonId(<ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_PersonId(<ref refid="class/system.guid/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>value)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_PersonId<sp/>=<sp/>value;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
@@ -666,7 +666,7 @@ Shows how to add a signature line to a document, and then sign it using a digita
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Image<sp/>=<sp/>value;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>Signee(<ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>guid,<sp/>String<sp/>name,<sp/>String<sp/>position,<sp/>ArrayPtr&lt;uint8_t&gt;<sp/>image)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>Signee(<ref refid="class/system.guid/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>guid,<sp/>String<sp/>name,<sp/>String<sp/>position,<sp/>ArrayPtr&lt;uint8_t&gt;<sp/>image)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_PersonId(guid);</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Name(name);</highlight></codeline>
@@ -675,7 +675,7 @@ Shows how to add a signature line to a document, and then sign it using a digita
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>pr_PersonId;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>pr_PersonId;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>pr_Name;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>pr_Position;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>pr_Image;</highlight></codeline>
@@ -711,7 +711,7 @@ Shows how to add a signature line to a document, and then sign it using a digita
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>ms<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;();</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>imageIn-&gt;Save(ms,<sp/><ref refid="class/system.drawing.imaging.image_format/_1a854fe6ac4c8bb96087464e4e59112df5" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Imaging::ImageFormat::get_Png</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>imageIn-&gt;Save(ms,<sp/><ref refid="class/system.drawing.imaging.image_format/_1a854fe6ac4c8bb96087464e4e59112df5" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Imaging::ImageFormat::get_Png</ref>());</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ms-&gt;ToArray();</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
@@ -719,10 +719,10 @@ Shows how to add a signature line to a document, and then sign it using a digita
 <codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateSignees()</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;SharedPtr&lt;ExSignDocumentCustom::Signee&gt;&gt;&gt;();</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Ron<sp/>Williams&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Chief<sp/>Executive<sp/>Officer&quot;</highlight><highlight class="normal">,</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Stephen<sp/>Morse&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Head<sp/>of<sp/>Compliance&quot;</highlight><highlight class="normal">,</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Ron<sp/>Williams&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Chief<sp/>Executive<sp/>Officer&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Stephen<sp/>Morse&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Head<sp/>of<sp/>Compliance&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;SharedPtr&lt;ExSignDocumentCustom::Signee&gt;&gt;&gt;<sp/>mSignees;</highlight></codeline>
@@ -755,7 +755,7 @@ Shows how to add a signature line to a document, and then sign it using a digita
           <declname>dstStream</declname>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt;</type>
           <declname>certHolder</declname>
         </param>
         <briefdescription>
@@ -789,11 +789,11 @@ Shows how to add a signature line to a document, and then sign it using a digita
           <declname>dstStream</declname>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt;</type>
           <declname>certHolder</declname>
         </param>
         <param>
-          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">Aspose::Words::DigitalSignatures::SignOptions</ref> &gt;</type>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">Aspose::Words::DigitalSignatures::SignOptions</ref> &gt;</type>
           <declname>signOptions</declname>
         </param>
         <briefdescription>

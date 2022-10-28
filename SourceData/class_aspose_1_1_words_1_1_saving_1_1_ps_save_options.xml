@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Saving/PsSaveOptions.h" line="51" column="27" bodyfile="Aspose.Words.Cpp/Saving/PsSaveOptions.h" bodystart="51" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_ps_save_options_1a8300d0daa52cce77a764ae329d95fe0f" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::PsSaveOptions::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -304,7 +304,6 @@ Shows how to save a document to the Postscript format in the form of a book fold
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_DmlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_ExportGeneratorName</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_ImlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_JpegQuality</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>get_MemoryOptimization</name></member>
@@ -336,7 +335,6 @@ Shows how to save a document to the Postscript format in the form of a book fold
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_DmlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_ExportGeneratorName</name></member>
-      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_ImlRenderingMode</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_JpegQuality</name></member>
       <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PsSaveOptions</scope><name>set_MemoryOptimization</name></member>

@@ -3,7 +3,7 @@ title: InsertCell
 second_title: Aspose.Words for C++ API Reference
 description: Inserts a table cell into the document.
 type: docs
-weight: 313
+weight: 339
 url: /cpp/aspose.words/documentbuilder/insertcell/
 ---
 ## DocumentBuilder.InsertCell method

@@ -3,7 +3,7 @@ title: set_EmbedFullFonts
 second_title: Aspose.Words for C++ API Reference
 description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_EmbedFullFonts.'
 type: docs
-weight: 508
+weight: 534
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_embedfullfonts/
 ---
 ## PdfSaveOptions.set_EmbedFullFonts method

@@ -60,6 +60,82 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/>Copyright<sp/>2001-2022<sp/>Aspose<sp/>Pty<sp/>Ltd.<sp/>All<sp/>Rights<sp/>Reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>file<sp/>is<sp/>part<sp/>of<sp/>Aspose.Words.<sp/>The<sp/>source<sp/>code<sp/>in<sp/>this<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>only<sp/>intended<sp/>as<sp/>a<sp/>supplement<sp/>to<sp/>the<sp/>documentation,<sp/>and<sp/>is<sp/>provided</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;as<sp/>is&quot;,<sp/>without<sp/>warranty<sp/>of<sp/>any<sp/>kind,<sp/>either<sp/>expressed<sp/>or<sp/>implied.</highlight></codeline>
+<codeline lineno="9"><highlight class="comment"></highlight><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/object_ext.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;system/enum.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;cstdint&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;Aspose.Words.Cpp/aspose_words_api_defs.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose" kindref="compound">Aspose</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">BuildingBlocks<sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="130" refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08" refkind="member"><highlight class="keyword">enum<sp/>class</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_CLASS<sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08" kindref="member" tooltip="Specifies the predefined gallery into which a building block is classified.">BuildingBlockGallery</ref></highlight></codeline>
+<codeline lineno="131"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"></highlight></codeline>
+<codeline lineno="134"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" kindref="member" tooltip="Specifies that this glossary document entry shall be associated with all possible gallery classificat...">All</ref>,</highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08abd9d9e10eacd88dd09fcaad70374197d" kindref="member">AutoText</ref>,</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aa7cc81119daa478a68f07f26836adbbf" kindref="member">Bibliography</ref>,</highlight></codeline>
+<codeline lineno="137"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a08ef9561168a5268ec70203a01ce0d2a" kindref="member">CoverPage</ref>,</highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08af7356fabf9115f77275365458fdf8382" kindref="member">CustomAutoText</ref>,</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a0488d3f2a3c429ef9b462089f7e225bd" kindref="member">CustomBibliography</ref>,</highlight></codeline>
+<codeline lineno="140"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a4f2273a264c765fb8c8d38fb082b1989" kindref="member">CustomCoverPage</ref>,</highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1e5d9912c29d386405f819b31e6453f9" kindref="member">CustomEquations</ref>,</highlight></codeline>
+<codeline lineno="142"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a703cce48049e4b1d5ff5a3b30dd5fdd4" kindref="member">CustomFooters</ref>,</highlight></codeline>
+<codeline lineno="143"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a935028723e69a11ec7b45583eb8eeb36" kindref="member">CustomHeaders</ref>,</highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08abfacbbe4e8be8fbc78a60cd9f8e67dd5" kindref="member">Custom1</ref>,</highlight></codeline>
+<codeline lineno="145"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1d8ba0be5e8d76a3e6fb571c80929db2" kindref="member">Custom2</ref>,</highlight></codeline>
+<codeline lineno="146"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a01cd47f19cbca3337e2f0864d20544c8" kindref="member">Custom3</ref>,</highlight></codeline>
+<codeline lineno="147"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aadea16898400a3a8fa1921341144807e" kindref="member">Custom4</ref>,</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aee827f906d1f4427dd97b4d5d1a11118" kindref="member">Custom5</ref>,</highlight></codeline>
+<codeline lineno="149"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a73d96344d2b47f18f0d393f082a24ce5" kindref="member">CustomPageNumber</ref>,</highlight></codeline>
+<codeline lineno="150"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a3b66a1b13e46866d22c0623665b0002d" kindref="member">CustomPageNumberAtBottom</ref>,</highlight></codeline>
+<codeline lineno="151"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aaf844de0b214a8a9d39bc66c6c3fb892" kindref="member">CustomPageNumberAtMargin</ref>,</highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aeb39682c5eaab1f332b5797e54baf237" kindref="member">CustomPageNumberAtTop</ref>,</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab641d32788423cb5d4319c5dd15ff9de" kindref="member">CustomQuickParts</ref>,</highlight></codeline>
+<codeline lineno="154"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a21986135416ed59b0139a990e22eaad4" kindref="member">CustomTableOfContents</ref>,</highlight></codeline>
+<codeline lineno="155"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a19affc874aef410a2668224bc108646a" kindref="member">CustomTables</ref>,</highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a550003cf2f1f5e3fad28569a0dc2351e" kindref="member">CustomTextBox</ref>,</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a4d6a6f3a5664b45359827e21043b87a5" kindref="member">CustomWatermarks</ref>,</highlight></codeline>
+<codeline lineno="158"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ad2978add7c030312d3bb732677edacf6" kindref="member">NoGallery</ref>,</highlight></codeline>
+<codeline lineno="159"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aab6f92d73a7df27f0c99d4146c4107d2" kindref="member">QuickParts</ref>,</highlight></codeline>
+<codeline lineno="160"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a83140a627f470b6b4eefed9f9b96e475" kindref="member">Equations</ref>,</highlight></codeline>
+<codeline lineno="161"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1af85687f4d37290f06d9b684c7cdc15" kindref="member">Footers</ref>,</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a883d7615c4d2de3fa1218f1298c46d0e" kindref="member">Headers</ref>,</highlight></codeline>
+<codeline lineno="163"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a30844578151522babbfde2fe9b3a7a22" kindref="member">PageNumber</ref>,</highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a5b282ca27aeb210cc7bc8a03a9453447" kindref="member">PageNumberAtBottom</ref>,</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1eaa920de19d82b09ccc12646403c46d" kindref="member">PageNumberAtMargin</ref>,</highlight></codeline>
+<codeline lineno="166"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08af12747177a1d60403055e4078a01899d" kindref="member">PageNumberAtTop</ref>,</highlight></codeline>
+<codeline lineno="167"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a7aca530848e51a863d275a11aa5729a4" kindref="member">StructuredDocumentTagPlaceholderText</ref>,</highlight></codeline>
+<codeline lineno="168"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aa109d8b336b9d74d08d72d0ee6857bff" kindref="member">TableOfContents</ref>,</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a651ae5789ab776f2fcaf80b5e62801dc" kindref="member">Tables</ref>,</highlight></codeline>
+<codeline lineno="170"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08afbe16470e116e861d9fdf08f036ea22f" kindref="member">TextBox</ref>,</highlight></codeline>
+<codeline lineno="171"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08afaf4332505635e55ff1cdb47d504b302" kindref="member">Watermarks</ref>,</highlight></codeline>
+<codeline lineno="172"><highlight class="normal"></highlight></codeline>
+<codeline lineno="174"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475a7a1920d61156abc05a60135aefe8bc67" kindref="member" tooltip="Same as Content.">Default</ref><sp/>=<sp/></highlight><highlight class="keyword">static_cast&lt;</highlight><highlight class="normal">int32_t</highlight><highlight class="keyword">&gt;</highlight><highlight class="normal">(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" kindref="member" tooltip="Specifies that this glossary document entry shall be associated with all possible gallery classificat...">All</ref>)</highlight></codeline>
+<codeline lineno="175"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="176"><highlight class="normal"></highlight></codeline>
+<codeline lineno="177"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="178"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="179"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="180"><highlight class="normal"></highlight></codeline>
+<codeline lineno="181"><highlight class="normal"></highlight><highlight class="keyword">template</highlight><highlight class="normal">&lt;&gt;</highlight></codeline>
+<codeline lineno="182"><highlight class="normal"></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal">EnumMetaInfo&lt;<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::Words::BuildingBlocks::BuildingBlockGallery&gt;</highlight></codeline>
+<codeline lineno="183"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="184"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>ASPOSE_WORDS_SHARED_API<sp/>std::array&lt;std::pair&lt;Aspose::Words::BuildingBlocks::BuildingBlockGallery,<sp/>const<sp/>char_t*&gt;,<sp/>39&gt;&amp;<sp/>values();</highlight></codeline>
+<codeline lineno="185"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
     <location file="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockGallery.h"/>
   </compounddef>
 </doxygen>

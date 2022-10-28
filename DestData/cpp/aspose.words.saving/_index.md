@@ -41,7 +41,7 @@ The **Aspose.Words.Saving** namespace provides classes and enumerations that all
 | [PsSaveOptions](./pssaveoptions/) | Can be used to specify additional options when saving a document into the **Ps** format. |
 | [ResourceSavingArgs](./resourcesavingargs/) | Provides data for the [ResourceSaving()](./iresourcesavingcallback/resourcesaving/) event. |
 | [RtfSaveOptions](./rtfsaveoptions/) | Can be used to specify additional options when saving a document into the **Rtf** format. |
-| [SaveOptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. |
+| [SaveOptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. To learn more, visit the [Specify Save Options](https://docs.aspose.com/words/net/specify-save-options/) documentation article. |
 | [SaveOutputParameters](./saveoutputparameters/) | This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object. |
 | [SvgSaveOptions](./svgsaveoptions/) | Can be used to specify additional options when saving a document into the **Svg** format. |
 | [TxtListIndentation](./txtlistindentation/) | Specifies how list levels are indented when document is exporting to **Text** format. |

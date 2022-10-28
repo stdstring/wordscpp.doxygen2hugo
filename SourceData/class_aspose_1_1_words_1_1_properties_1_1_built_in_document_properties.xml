@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="92" column="39" bodyfile="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" bodystart="92" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1ac7627fcdcfb4b34a481bc10afc0404a6" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Properties::BuiltInDocumentProperties::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1ae8aa75ba364af2e82ed0cb6a9afea834" prot="private" static="no" mutable="no">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
         <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Properties::BuiltInDocumentProperties::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -94,7 +94,7 @@
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="2440" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1aee292fa286d32ea4873fa1d26b03f2e1" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">Aspose::Words::Properties::DocumentPropertyCollection</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">Aspose::Words::Properties::DocumentPropertyCollection</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentPropertyCollection &gt; Aspose::Words::Properties::BuiltInDocumentProperties::Create</definition>
         <argsstring>() override</argsstring>
         <name>Create</name>
@@ -125,7 +125,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a224231012532469f0b63f227cf3f99c3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Author</definition>
         <argsstring>()</argsstring>
         <name>get_Author</name>
@@ -246,7 +246,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -295,7 +295,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="263" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a1900a7c389ff994ec1037eca908c1a8c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Category</definition>
         <argsstring>()</argsstring>
         <name>get_Category</name>
@@ -442,7 +442,7 @@ Shows how to update all list labels in a document. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -558,7 +558,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -607,7 +607,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="525" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1ac9b2b2288824e5b7add014de09a427b5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments</definition>
         <argsstring>()</argsstring>
         <name>get_Comments</name>
@@ -660,7 +660,7 @@ Shows how to work with built-in document properties in the &quot;Description&quo
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="572" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a2e56e6e7d6b8a6e3aa204488df85f937" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Company</definition>
         <argsstring>()</argsstring>
         <name>get_Company</name>
@@ -693,7 +693,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -704,7 +704,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="657" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a39746ca1d59be6ae55d3501c1aad74a4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus</definition>
         <argsstring>()</argsstring>
         <name>get_ContentStatus</name>
@@ -770,7 +770,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -819,7 +819,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="2115" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a57ace2480dfb2b3f54a0f16414ea23d5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType</definition>
         <argsstring>()</argsstring>
         <name>get_ContentType</name>
@@ -885,7 +885,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -934,7 +934,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="2001" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1aefb734a64d1f970f2b8c65a35e07ce89" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
         <definition>System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime</definition>
         <argsstring>()</argsstring>
         <name>get_CreatedTime</name>
@@ -969,7 +969,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -980,7 +980,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="699" column="25"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a05b568cd37bf9b94f126cabac8d3d10c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt; &gt;</type>
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt; &gt;</type>
         <definition>System::ArrayPtr&lt; System::SharedPtr&lt; System::Object &gt; &gt; Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs</definition>
         <argsstring>()</argsstring>
         <name>get_HeadingPairs</name>
@@ -990,7 +990,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         </briefdescription>
         <detaileddescription>
 <para>Every heading pair occupies two elements in this array.</para>
-<para>The first element of the pair is a <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">String</ref> and specifies the heading name. The second element of the pair is an <ref refid="class/system.int32/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Int32</ref> and specifies the count of document parts for this heading in the <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a229eb04a41b9e8a8a64b710d97bd08a6" kindref="member">TitlesOfParts</ref> property.</para>
+<para>The first element of the pair is a <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">String</ref> and specifies the heading name. The second element of the pair is an <ref refid="class/system.int32/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">Int32</ref> and specifies the count of document parts for this heading in the <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a229eb04a41b9e8a8a64b710d97bd08a6" kindref="member">TitlesOfParts</ref> property.</para>
 <para>The total sum of counts for all heading pairs in this property must be equal to the number of elements in the <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a229eb04a41b9e8a8a64b710d97bd08a6" kindref="member">TitlesOfParts</ref> property.</para>
 <para>Aspose.Words does not update this property.</para>
 <para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a229eb04a41b9e8a8a64b710d97bd08a6" kindref="member">Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts</ref></para>
@@ -1013,7 +1013,7 @@ Shows the relationship between &quot;HeadingPairs&quot; and &quot;TitlesOfParts&
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(headingPairsIndex<sp/>&lt;<sp/>headingPairs-&gt;get_Length())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Parts<sp/>for<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>headingPairs[headingPairsIndex++]<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>partsCount<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(headingPairs[headingPairsIndex++]);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>partsCount<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(headingPairs[headingPairsIndex++]);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>partsCount;<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -1027,7 +1027,7 @@ Shows the relationship between &quot;HeadingPairs&quot; and &quot;TitlesOfParts&
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="2350" column="25"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a323b14c2a0533e9ecf9259678e253060" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase</definition>
         <argsstring>()</argsstring>
         <name>get_HyperlinkBase</name>
@@ -1048,7 +1048,7 @@ Shows how to store the base part of a hyperlink in the document&apos;s propertie
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>link<sp/>is<sp/>relative.<sp/>If<sp/>there<sp/>is<sp/>no<sp/>&quot;Document.docx&quot;<sp/>in<sp/>the<sp/>same<sp/>folder</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>as<sp/>the<sp/>document<sp/>that<sp/>contains<sp/>this<sp/>link,<sp/>the<sp/>link<sp/>will<sp/>be<sp/>broken.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.i_o.file/_1af98ce973b99b925a5ec0e58074f20206" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.i_o.file/_1af98ce973b99b925a5ec0e58074f20206" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.HyperlinkBase.BrokenLink.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>we<sp/>are<sp/>trying<sp/>to<sp/>link<sp/>to<sp/>is<sp/>in<sp/>a<sp/>different<sp/>directory<sp/>to<sp/>the<sp/>one<sp/>we<sp/>are<sp/>planning<sp/>to<sp/>save<sp/>the<sp/>document<sp/>in.</highlight><highlight class="normal"></highlight></codeline>
@@ -1058,7 +1058,7 @@ Shows how to store the base part of a hyperlink in the document&apos;s propertie
 <codeline><highlight class="normal">SharedPtr&lt;BuiltInDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_BuiltInDocumentProperties();</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_HyperlinkBase(MyDir);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.i_o.file/_1af98ce973b99b925a5ec0e58074f20206" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::Exists</ref>(properties-&gt;get_HyperlinkBase()<sp/>+</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.i_o.file/_1af98ce973b99b925a5ec0e58074f20206" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::Exists</ref>(properties-&gt;get_HyperlinkBase()<sp/>+</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(System::DynamicCast&lt;FieldHyperlink&gt;(doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(0)))-&gt;get_Address()));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.HyperlinkBase.WorkingLink.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1069,7 +1069,7 @@ Shows how to store the base part of a hyperlink in the document&apos;s propertie
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="736" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a86957d86711100f4ae7b45bd250467fe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords</definition>
         <argsstring>()</argsstring>
         <name>get_Keywords</name>
@@ -1122,7 +1122,7 @@ Shows how to work with built-in document properties in the &quot;Description&quo
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="783" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a9f61389290d69d79bb3670af2817d377" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
         <definition>System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_LastPrinted</definition>
         <argsstring>()</argsstring>
         <name>get_LastPrinted</name>
@@ -1158,7 +1158,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1169,7 +1169,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="827" column="25"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1acc2c32cd9d6f83849359c850c7bb33e5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy</definition>
         <argsstring>()</argsstring>
         <name>get_LastSavedBy</name>
@@ -1203,7 +1203,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1214,7 +1214,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="867" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a5201173c24c8f03388c23acffee9263b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
         <definition>System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedTime</definition>
         <argsstring>()</argsstring>
         <name>get_LastSavedTime</name>
@@ -1249,7 +1249,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1286,7 +1286,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>SAVEDATE<sp/>fields<sp/>draw<sp/>their<sp/>date/time<sp/>values<sp/>from<sp/>the<sp/>LastSavedTime<sp/>built-in<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document&apos;s<sp/>Save<sp/>method<sp/>will<sp/>not<sp/>update<sp/>this<sp/>value,<sp/>but<sp/>we<sp/>can<sp/>still<sp/>update<sp/>it<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">doc-&gt;get_BuiltInDocumentProperties()-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_BuiltInDocumentProperties()-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SAVEDATE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1391,7 +1391,7 @@ Shows how to update all list labels in a document. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -1507,7 +1507,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -1556,7 +1556,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1211" column="13"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a1b5842d36f6e131bde0522e3e04a0ef3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Manager</definition>
         <argsstring>()</argsstring>
         <name>get_Manager</name>
@@ -1589,7 +1589,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1600,7 +1600,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1249" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a6439bbaaa5ab514cc8ce3057051f307b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfApplication</definition>
         <argsstring>()</argsstring>
         <name>get_NameOfApplication</name>
@@ -1633,7 +1633,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -1711,7 +1711,7 @@ Shows how to work with document properties in the &quot;Content&quot; category. 
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -1854,7 +1854,7 @@ Shows how to update all list labels in a document. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -1937,7 +1937,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -2027,7 +2027,7 @@ Shows how to use document properties to display the security level of a document
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1670" column="52"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a7113e88541dca17111b4ca95499ac220" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject</definition>
         <argsstring>()</argsstring>
         <name>get_Subject</name>
@@ -2080,7 +2080,7 @@ Shows how to work with built-in document properties in the &quot;Description&quo
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1717" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a8c92b68822ecf7d511ebc6f37eb65d43" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Template</definition>
         <argsstring>()</argsstring>
         <name>get_Template</name>
@@ -2118,7 +2118,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -2129,7 +2129,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1765" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1aa79b25f9c348bd6ccdd8dac1fc64dc66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
         <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail</definition>
         <argsstring>()</argsstring>
         <name>get_Thumbnail</name>
@@ -2151,14 +2151,14 @@ Shows how to add a thumbnail to a document that we save as an Epub. <programlist
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>a<sp/>reader<sp/>that<sp/>opens<sp/>that<sp/>document<sp/>may<sp/>display<sp/>the<sp/>image<sp/>before<sp/>the<sp/>first<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;BuiltInDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_BuiltInDocumentProperties();</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>thumbnailBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>thumbnailBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_Thumbnail(thumbnailBytes);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Thumbnail.epub&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>extract<sp/>a<sp/>document&apos;s<sp/>thumbnail<sp/>image<sp/>and<sp/>save<sp/>it<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">SharedPtr&lt;DocumentProperty&gt;<sp/>thumbnail<sp/>=<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Thumbnail&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Thumbnail.gif&quot;</highlight><highlight class="normal">,<sp/>thumbnail-&gt;ToByteArray());</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Thumbnail.gif&quot;</highlight><highlight class="normal">,<sp/>thumbnail-&gt;ToByteArray());</highlight></codeline>
 </programlisting> </para>
         </detaileddescription>
         <inbodydescription>
@@ -2166,7 +2166,7 @@ Shows how to add a thumbnail to a document that we save as an Epub. <programlist
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1802" column="25"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a1b39fa8b0a3131346ecf099ab2208ecd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Title</definition>
         <argsstring>()</argsstring>
         <name>get_Title</name>
@@ -2219,7 +2219,7 @@ Shows how to work with built-in document properties in the &quot;Description&quo
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="1849" column="23"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a229eb04a41b9e8a8a64b710d97bd08a6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
         <definition>System::ArrayPtr&lt; System::String &gt; Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts</definition>
         <argsstring>()</argsstring>
         <name>get_TitlesOfParts</name>
@@ -2249,7 +2249,7 @@ Shows the relationship between &quot;HeadingPairs&quot; and &quot;TitlesOfParts&
 <codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(headingPairsIndex<sp/>&lt;<sp/>headingPairs-&gt;get_Length())</highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Parts<sp/>for<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>headingPairs[headingPairsIndex++]<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>partsCount<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(headingPairs[headingPairsIndex++]);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>partsCount<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(headingPairs[headingPairsIndex++]);</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>partsCount;<sp/>i++)</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
@@ -2296,7 +2296,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -2341,7 +2341,7 @@ Shows how to work with document properties in the &quot;Origin&quot; category. <
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>updates<sp/>the<sp/>following<sp/>properties<sp/>automatically<sp/>when<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>use<sp/>these<sp/>properties<sp/>with<sp/>Aspose.Words,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>set<sp/>values<sp/>for<sp/>them<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">properties-&gt;set_LastSavedBy(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
-<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_LastSavedTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>right-click<sp/>this<sp/>document<sp/>in<sp/>Windows<sp/>Explorer<sp/>and<sp/>find<sp/>these<sp/>properties<sp/>in<sp/>&quot;Properties&quot;<sp/>-&gt;<sp/>&quot;Details&quot;<sp/>-&gt;<sp/>&quot;Origin&quot;.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Origin.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
@@ -2446,7 +2446,7 @@ Shows how to update all list labels in a document. <programlisting><codeline><hi
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
 <codeline><highlight class="normal">}</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">LineCounter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
 <codeline><highlight class="normal">{</highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>LineCounter(SharedPtr&lt;Document&gt;<sp/>doc)<sp/>:<sp/>mLineCount(0),<sp/>mScanningLineForRealText(false)</highlight></codeline>
@@ -2495,14 +2495,14 @@ Shows how to update all list labels in a document. <programlisting><codeline><hi
         <location file="Aspose.Words.Cpp/Properties/BuiltInDocumentProperties.h" line="2302" column="16"/>
       </memberdef>
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a7dc59a10edee2daaeb10be84e09e3a78" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
-        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> &gt;</type>
         <definition>System::SharedPtr&lt; Aspose::Words::Properties::DocumentProperty &gt; Aspose::Words::Properties::BuiltInDocumentProperties::idx_get</definition>
         <argsstring>(System::String name) override</argsstring>
         <name>idx_get</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::idx_get</qualifiedname>
         <reimplements refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection_1adc980be7a6d96f84221b932394b8c1a1">idx_get</reimplements>
         <param>
-          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
           <declname>name</declname>
         </param>
         <briefdescription>
@@ -2527,7 +2527,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>document<sp/>contains<sp/>a<sp/>collection<sp/>of<sp/>custom<sp/>properties,<sp/>which,<sp/>like<sp/>the<sp/>built-in<sp/>properties,<sp/>are<sp/>key-value<sp/>pairs.</highlight><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>has<sp/>a<sp/>fixed<sp/>list<sp/>of<sp/>built-in<sp/>properties.<sp/>The<sp/>user<sp/>creates<sp/>all<sp/>of<sp/>the<sp/>custom<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;CustomProperty&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;CustomProperty&quot;</highlight><highlight class="normal">)));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;CustomProperty2&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property<sp/>#2&quot;</highlight><highlight class="normal">));</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
@@ -2551,7 +2551,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Author</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Author</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2589,7 +2589,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Category</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Category</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2646,7 +2646,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Comments</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Comments</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2665,7 +2665,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Company</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Company</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2684,7 +2684,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_ContentStatus</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_ContentStatus</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2703,7 +2703,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_ContentType</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_ContentType</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2722,7 +2722,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_CreatedTime</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_CreatedTime</qualifiedname>
         <param>
-          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2741,7 +2741,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_HeadingPairs</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_HeadingPairs</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt; &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt; &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2760,7 +2760,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_HyperlinkBase</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_HyperlinkBase</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2779,7 +2779,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Keywords</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Keywords</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2798,7 +2798,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_LastPrinted</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_LastPrinted</qualifiedname>
         <param>
-          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2817,7 +2817,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_LastSavedBy</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_LastSavedBy</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2836,7 +2836,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_LastSavedTime</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_LastSavedTime</qualifiedname>
         <param>
-          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2893,7 +2893,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Manager</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Manager</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -2912,7 +2912,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_NameOfApplication</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_NameOfApplication</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -3007,7 +3007,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Subject</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Subject</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -3026,7 +3026,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Template</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Template</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -3045,7 +3045,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Thumbnail</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Thumbnail</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -3064,7 +3064,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_Title</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_Title</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -3083,7 +3083,7 @@ Shows how to work with custom document properties. <programlisting><codeline><hi
         <name>set_TitlesOfParts</name>
         <qualifiedname>Aspose::Words::Properties::BuiltInDocumentProperties::set_TitlesOfParts</qualifiedname>
         <param>
-          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &amp;</type>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
@@ -3182,10 +3182,10 @@ Shows how to work with built-in document properties. <programlisting><codeline><
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>docProperty-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"></highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>properties<sp/>may<sp/>store<sp/>multiple<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="class/system.object_ext/_1a49cadf4152a1be9ca40712f579e660a6" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Is</ref>&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="class/system.object_ext/_1a49cadf4152a1be9ca40712f579e660a6" kindref="member" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Is</ref>&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value()))</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>value<sp/>:<sp/>System::IterateOver(</highlight></codeline>
-<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value())))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value())))</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>value<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
 <codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>

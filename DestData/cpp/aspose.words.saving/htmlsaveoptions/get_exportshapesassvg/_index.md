@@ -39,13 +39,13 @@ builder->Write(u"My text box");
 // If we set the "ExportShapesAsSvg" flag to "false",
 // the save operation will convert shapes with text into images.
 auto options = MakeObject<HtmlSaveOptions>();
-options->set_ExportShapesAsSvg(exportTextBoxAsSvg);
+options->set_ExportShapesAsSvg(exportShapesAsSvg);
 
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.ExportTextBox.html", options);
 
 String outDocContents = System::IO::File::ReadAllText(ArtifactsDir + u"HtmlSaveOptions.ExportTextBox.html");
 
-if (exportTextBoxAsSvg)
+if (exportShapesAsSvg)
 {
     ASSERT_TRUE(outDocContents.Contains(
         String(u"<span style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">") +

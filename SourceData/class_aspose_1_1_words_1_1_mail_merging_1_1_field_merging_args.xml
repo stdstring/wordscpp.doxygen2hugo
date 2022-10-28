@@ -34,7 +34,7 @@
         <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="103" column="30" bodyfile="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" bodystart="103" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a7c5a678a554307ed2fa94d2287c0867f" prot="private" static="no">
-        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" kindref="compound">BaseType</ref> &gt;</type>
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" kindref="compound">BaseType</ref> &gt;</type>
         <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::FieldMergingArgs::ThisTypeBaseTypesInfo</definition>
         <argsstring></argsstring>
         <name>ThisTypeBaseTypesInfo</name>
@@ -50,7 +50,7 @@
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a7cb36d1ca9c2ad61f08c60aecb342ad7" prot="private" static="no" mutable="no">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::MailMerging::FieldMergingArgs::mField0</definition>
         <argsstring></argsstring>
         <name>mField0</name>
@@ -82,7 +82,7 @@
       </sectiondef>
       <sectiondef kind="public-func">
       <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1afcf7795bc8948a4826cf9b1538841560" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
-        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
         <definition>System::String Aspose::Words::MailMerging::FieldMergingArgs::get_Text</definition>
         <argsstring>() const</argsstring>
         <name>get_Text</name>
@@ -154,7 +154,7 @@ Shows how to execute a mail merge with a custom callback that handles merge data
         <name>set_Text</name>
         <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::set_Text</qualifiedname>
         <param>
-          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/words-cpp-release/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
           <declname>value</declname>
         </param>
         <briefdescription>
