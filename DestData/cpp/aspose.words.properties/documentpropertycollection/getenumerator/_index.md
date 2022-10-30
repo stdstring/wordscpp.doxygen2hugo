@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.properties/documentpropertycollection/getenumerator/
 ---
-## DocumentPropertyCollection.GetEnumerator method
+## DocumentPropertyCollection::GetEnumerator method
 
 
 Returns an enumerator object that can be used to iterate over all items in the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/paragraphcollection/toarray/
 ---
-## ParagraphCollection.ToArray method
+## ParagraphCollection::ToArray method
 
 
 Copies all paragraphs from the collection to a new array of paragraphs.

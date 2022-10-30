@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.digitalsignatures/signoptions/get_comments/
 ---
-## SignOptions.get_Comments method
+## SignOptions::get_Comments method
 
 
 Specifies comments on the digital signature. Default value is **empty string**.

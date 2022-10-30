@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbareferencecollection/cbegin/
 ---
-## VbaReferenceCollection.cbegin method
+## VbaReferenceCollection::cbegin method
 
 
 

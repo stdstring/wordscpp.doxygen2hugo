@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.notes/footnoteoptions/set_columns/
 ---
-## FootnoteOptions.set_Columns method
+## FootnoteOptions::set_Columns method
 
 
 Setter for [Aspose::Words::Notes::FootnoteOptions::get_Columns](../get_columns/).

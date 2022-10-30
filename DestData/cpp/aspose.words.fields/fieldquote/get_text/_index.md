@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldquote/get_text/
 ---
-## FieldQuote.get_Text method
+## FieldQuote::get_Text method
 
 
 Gets or sets the text to retrieve.

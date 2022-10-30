@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/bookmarkstart/bookmarkstart/
 ---
-## BookmarkStart.BookmarkStart method
+## BookmarkStart::BookmarkStart method
 
 
 Initializes a new instance of the [BookmarkStart](../) class.

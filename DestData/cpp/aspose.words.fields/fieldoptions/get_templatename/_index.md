@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.fields/fieldoptions/get_templatename/
 ---
-## FieldOptions.get_TemplateName method
+## FieldOptions::get_TemplateName method
 
 
 Gets or sets the file name of the template used by the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/aspose.words/documentbuilder/set_italic/
 ---
-## DocumentBuilder.set_Italic method
+## DocumentBuilder::set_Italic method
 
 
 Setter for [Aspose::Words::DocumentBuilder::get_Italic](../get_italic/).

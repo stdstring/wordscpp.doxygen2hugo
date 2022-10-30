@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.markup/sdtlistitem/get_value/
 ---
-## SdtListItem.get_Value method
+## SdtListItem::get_Value method
 
 
 Gets the value of this list item.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.notes/endnoteoptions/get_numberstyle/
 ---
-## EndnoteOptions.get_NumberStyle method
+## EndnoteOptions::get_NumberStyle method
 
 
 Specifies the number format for automatically numbered endnotes.

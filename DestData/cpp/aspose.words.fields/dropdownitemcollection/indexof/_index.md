@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fields/dropdownitemcollection/indexof/
 ---
-## DropDownItemCollection.IndexOf method
+## DropDownItemCollection::IndexOf method
 
 
 Returns the zero-based index of the specified value in the collection.

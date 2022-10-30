@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/sectioncollection/toarray/
 ---
-## SectionCollection.ToArray method
+## SectionCollection::ToArray method
 
 
 Copies all sections from the collection to a new array of sections.

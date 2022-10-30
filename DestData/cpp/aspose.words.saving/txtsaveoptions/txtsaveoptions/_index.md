@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/txtsaveoptions/txtsaveoptions/
 ---
-## TxtSaveOptions.TxtSaveOptions method
+## TxtSaveOptions::TxtSaveOptions method
 
 
 

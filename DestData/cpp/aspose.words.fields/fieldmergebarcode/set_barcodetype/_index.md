@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.fields/fieldmergebarcode/set_barcodetype/
 ---
-## FieldMergeBarcode.set_BarcodeType method
+## FieldMergeBarcode::set_BarcodeType method
 
 
 Sets the barcode type (QR, etc.)

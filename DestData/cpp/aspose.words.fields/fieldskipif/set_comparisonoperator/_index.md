@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldskipif/set_comparisonoperator/
 ---
-## FieldSkipIf.set_ComparisonOperator method
+## FieldSkipIf::set_ComparisonOperator method
 
 
 Sets the comparison operator.

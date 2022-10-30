@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.notes/footnoteoptions/get_numberstyle/
 ---
-## FootnoteOptions.get_NumberStyle method
+## FootnoteOptions::get_NumberStyle method
 
 
 Specifies the number format for automatically numbered footnotes.

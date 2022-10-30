@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/warninginfocollection/virtualizeendconstiterator/
 ---
-## WarningInfoCollection.virtualizeEndConstIterator method
+## WarningInfoCollection::virtualizeEndConstIterator method
 
 
 

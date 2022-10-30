@@ -6,7 +6,7 @@ type: docs
 weight: 898
 url: /cpp/aspose.words/document/set_customxmlparts/
 ---
-## Document.set_CustomXmlParts method
+## Document::set_CustomXmlParts method
 
 
 Setter for [Aspose::Words::Document::get_CustomXmlParts](../get_customxmlparts/).

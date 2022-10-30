@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/textbox/isvalidlinktarget/
 ---
-## TextBox.IsValidLinkTarget method
+## TextBox::IsValidLinkTarget method
 
 
 Determines whether this [TextBox](../) can be linked to the target Textbox.

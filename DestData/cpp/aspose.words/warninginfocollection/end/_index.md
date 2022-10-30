@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/warninginfocollection/end/
 ---
-## WarningInfoCollection.end() const method
+## WarningInfoCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words/warninginfocollection/end/
 const_iterator Aspose::Words::WarningInfoCollection::end() const noexcept
 ```
 
-## WarningInfoCollection.end() method
+## WarningInfoCollection::end() method
 
 
 

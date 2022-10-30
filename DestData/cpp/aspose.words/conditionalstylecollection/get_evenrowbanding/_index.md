@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/conditionalstylecollection/get_evenrowbanding/
 ---
-## ConditionalStyleCollection.get_EvenRowBanding method
+## ConditionalStyleCollection::get_EvenRowBanding method
 
 
 Gets the even row banding style.

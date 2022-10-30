@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/dropdownitemcollection/idx_get/
 ---
-## DropDownItemCollection.idx_get method
+## DropDownItemCollection::idx_get method
 
 
 Gets or sets the element at the specified index.

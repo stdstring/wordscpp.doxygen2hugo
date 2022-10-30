@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_bytes/
 ---
-## BuiltInDocumentProperties.get_Bytes method
+## BuiltInDocumentProperties::get_Bytes method
 
 
 Represents an estimate of the number of bytes in the document.

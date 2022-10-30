@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.layout/ipagelayoutcallback/notify/
 ---
-## IPageLayoutCallback.Notify method
+## IPageLayoutCallback::Notify method
 
 
 This is called to notify of layout build and rendering progress.

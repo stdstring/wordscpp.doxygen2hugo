@@ -6,7 +6,7 @@ type: docs
 weight: 1041
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesavingcallback/
 ---
-## HtmlSaveOptions.set_ImageSavingCallback method
+## HtmlSaveOptions::set_ImageSavingCallback method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback](../get_imagesavingcallback/).

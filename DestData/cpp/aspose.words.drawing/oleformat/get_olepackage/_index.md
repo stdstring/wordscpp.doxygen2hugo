@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.drawing/oleformat/get_olepackage/
 ---
-## OleFormat.get_OlePackage method
+## OleFormat::get_OlePackage method
 
 
 Provide access to [OlePackage](../../olepackage/) if OLE object is an OLE Package. Returns null otherwise.

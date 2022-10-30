@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/border/get_isvisible/
 ---
-## Border.get_IsVisible method
+## Border::get_IsVisible method
 
 
 Returns true if the LineStyle is not **LineStyle.None**.

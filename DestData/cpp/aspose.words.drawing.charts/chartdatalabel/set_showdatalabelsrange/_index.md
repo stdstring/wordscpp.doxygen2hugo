@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showdatalabelsrange/
 ---
-## ChartDataLabel.set_ShowDataLabelsRange method
+## ChartDataLabel::set_ShowDataLabelsRange method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowDataLabelsRange](../get_showdatalabelsrange/).

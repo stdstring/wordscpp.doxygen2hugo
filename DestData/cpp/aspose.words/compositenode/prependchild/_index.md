@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words/compositenode/prependchild/
 ---
-## CompositeNode.PrependChild method
+## CompositeNode::PrependChild method
 
 
 Adds the specified node to the beginning of the list of child nodes for this node.

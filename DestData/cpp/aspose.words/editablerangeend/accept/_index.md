@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/editablerangeend/accept/
 ---
-## EditableRangeEnd.Accept method
+## EditableRangeEnd::Accept method
 
 
 Accepts a visitor.

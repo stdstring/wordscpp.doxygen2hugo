@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizeenditerator/
 ---
-## OdsoRecipientDataCollection.virtualizeEndIterator method
+## OdsoRecipientDataCollection::virtualizeEndIterator method
 
 
 

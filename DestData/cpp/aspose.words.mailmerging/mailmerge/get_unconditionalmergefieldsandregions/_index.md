@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.mailmerging/mailmerge/get_unconditionalmergefieldsandregions/
 ---
-## MailMerge.get_UnconditionalMergeFieldsAndRegions method
+## MailMerge::get_UnconditionalMergeFieldsAndRegions method
 
 
 Gets a value indicating whether merge fields and merge regions are merged regardless of the parent IF field's condition.

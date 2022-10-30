@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldskipif/set_rightexpression/
 ---
-## FieldSkipIf.set_RightExpression method
+## FieldSkipIf::set_RightExpression method
 
 
 Sets the right part of the comparison expression.

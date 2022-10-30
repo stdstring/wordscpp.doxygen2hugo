@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/toacategories/toacategories/
 ---
-## ToaCategories.ToaCategories method
+## ToaCategories::ToaCategories method
 
 
 

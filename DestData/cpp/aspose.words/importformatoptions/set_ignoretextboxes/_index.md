@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/importformatoptions/set_ignoretextboxes/
 ---
-## ImportFormatOptions.set_IgnoreTextBoxes method
+## ImportFormatOptions::set_IgnoreTextBoxes method
 
 
 Setter for [Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes](../get_ignoretextboxes/).

@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.saving/saveoptions/set_dml3deffectsrenderingmode/
 ---
-## SaveOptions.set_Dml3DEffectsRenderingMode method
+## SaveOptions::set_Dml3DEffectsRenderingMode method
 
 
 Sets a value determining how 3D effects are rendered.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/font/get_emboss/
 ---
-## Font.get_Emboss method
+## Font::get_Emboss method
 
 
 True if the font is formatted as embossed.

@@ -6,7 +6,7 @@ type: docs
 weight: 1353
 url: /cpp/aspose.words.settings/compatibilityoptions/set_nocolumnbalance/
 ---
-## CompatibilityOptions.set_NoColumnBalance method
+## CompatibilityOptions::set_NoColumnBalance method
 
 
 Do Not Balance Text Columns within a [Section](../../../aspose.words/section/).

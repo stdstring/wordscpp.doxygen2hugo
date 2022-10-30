@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/gradientstopcollection/add/
 ---
-## GradientStopCollection.Add method
+## GradientStopCollection::Add method
 
 
 Adds a specified [GradientStop](../../gradientstop/) to a gradient.

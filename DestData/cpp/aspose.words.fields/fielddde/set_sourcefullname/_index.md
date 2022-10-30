@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.fields/fielddde/set_sourcefullname/
 ---
-## FieldDde.set_SourceFullName method
+## FieldDde::set_SourceFullName method
 
 
 Setter for [Aspose::Words::Fields::FieldDde::get_SourceFullName](../get_sourcefullname/).

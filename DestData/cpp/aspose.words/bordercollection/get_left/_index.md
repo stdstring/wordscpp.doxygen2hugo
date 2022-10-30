@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/bordercollection/get_left/
 ---
-## BorderCollection.get_Left method
+## BorderCollection::get_Left method
 
 
 Gets the left border.

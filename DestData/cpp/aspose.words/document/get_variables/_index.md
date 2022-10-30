@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/aspose.words/document/get_variables/
 ---
-## Document.get_Variables method
+## Document::get_Variables method
 
 
 Returns the collection of variables added to a document or template.

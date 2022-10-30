@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_backgroundcolor/
 ---
-## FieldDisplayBarcode.get_BackgroundColor method
+## FieldDisplayBarcode::get_BackgroundColor method
 
 
 Gets or sets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF].

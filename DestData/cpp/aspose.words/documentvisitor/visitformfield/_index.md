@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words/documentvisitor/visitformfield/
 ---
-## DocumentVisitor.VisitFormField method
+## DocumentVisitor::VisitFormField method
 
 
 Called when a form field is encountered in the document.

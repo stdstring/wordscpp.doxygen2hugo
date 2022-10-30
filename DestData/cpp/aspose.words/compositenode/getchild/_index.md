@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/compositenode/getchild/
 ---
-## CompositeNode.GetChild method
+## CompositeNode::GetChild method
 
 
 Returns an Nth child node that matches the specified type.

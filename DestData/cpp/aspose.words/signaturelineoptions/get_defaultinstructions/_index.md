@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/signaturelineoptions/get_defaultinstructions/
 ---
-## SignatureLineOptions.get_DefaultInstructions method
+## SignatureLineOptions::get_DefaultInstructions method
 
 
 Gets or sets a value indicating that default instructions is shown in the Sign dialog. Default value for this property is **true**.

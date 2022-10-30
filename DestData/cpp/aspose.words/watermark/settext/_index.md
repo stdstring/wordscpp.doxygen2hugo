@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/watermark/settext/
 ---
-## Watermark.SetText(const System::String\&) method
+## Watermark::SetText(const System::String\&) method
 
 
 Adds Text watermark into the document.
@@ -52,7 +52,7 @@ if (doc->get_Watermark()->get_Type() == WatermarkType::Text)
 }
 ```
 
-## Watermark.SetText(const System::String\&, const System::SharedPtr\<Aspose::Words::TextWatermarkOptions\>\&) method
+## Watermark::SetText(const System::String\&, const System::SharedPtr\<Aspose::Words::TextWatermarkOptions\>\&) method
 
 
 Adds Text watermark into the document.

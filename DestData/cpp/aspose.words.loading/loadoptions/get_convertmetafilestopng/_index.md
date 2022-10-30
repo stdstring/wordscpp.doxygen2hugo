@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.loading/loadoptions/get_convertmetafilestopng/
 ---
-## LoadOptions.get_ConvertMetafilesToPng method
+## LoadOptions::get_ConvertMetafilesToPng method
 
 
 Gets or sets whether to convert metafile (**Wmf** or **Emf**) images to **Png** image format.

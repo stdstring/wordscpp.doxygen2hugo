@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldbarcode/set_isuspostaladdress/
 ---
-## FieldBarcode.set_IsUSPostalAddress method
+## FieldBarcode::set_IsUSPostalAddress method
 
 
 Setter for [Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress](../get_isuspostaladdress/).

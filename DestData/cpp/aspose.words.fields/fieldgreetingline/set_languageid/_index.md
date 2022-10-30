@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldgreetingline/set_languageid/
 ---
-## FieldGreetingLine.set_LanguageId method
+## FieldGreetingLine::set_LanguageId method
 
 
 Sets the language id used to format the name.

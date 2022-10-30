@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.lists/listformat/get_listlevelnumber/
 ---
-## ListFormat.get_ListLevelNumber method
+## ListFormat::get_ListLevelNumber method
 
 
 Gets or sets the list level number (0 to 8) for the paragraph.

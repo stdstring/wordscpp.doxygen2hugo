@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldlistnum/get_listlevel/
 ---
-## FieldListNum.get_ListLevel method
+## FieldListNum::get_ListLevel method
 
 
 Gets or sets the level in the list, overriding the default behavior of the field.

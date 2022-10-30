@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/stroke/get_forecolor/
 ---
-## Stroke.get_ForeColor method
+## Stroke::get_ForeColor method
 
 
 Gets or sets the foreground color of the stroke.

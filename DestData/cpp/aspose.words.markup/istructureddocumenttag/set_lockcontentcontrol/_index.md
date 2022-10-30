@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.markup/istructureddocumenttag/set_lockcontentcontrol/
 ---
-## IStructuredDocumentTag.set_LockContentControl method
+## IStructuredDocumentTag::set_LockContentControl method
 
 
 When set to true, this property will prohibit a user from deleting this **SDT**.

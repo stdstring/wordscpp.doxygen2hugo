@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.layout/layoutcollector/layoutcollector/
 ---
-## LayoutCollector.LayoutCollector method
+## LayoutCollector::LayoutCollector method
 
 
 Initializes an instance of this class.

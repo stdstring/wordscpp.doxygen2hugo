@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.loading/loadoptions/loadoptions/
 ---
-## LoadOptions.LoadOptions() method
+## LoadOptions::LoadOptions() method
 
 
 Initializes a new instance of this class with default values.
@@ -42,7 +42,7 @@ Shows how to open an HTML document with images from a stream using a base URI.
 }
 ```
 
-## LoadOptions.LoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) method
+## LoadOptions::LoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) method
 
 
 A shortcut to initialize a new instance of this class with properties set to the specified values.
@@ -104,7 +104,7 @@ ASSERT_TRUE(imageShape->get_IsImage());
 doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 ```
 
-## LoadOptions.LoadOptions(const System::String\&) method
+## LoadOptions::LoadOptions(const System::String\&) method
 
 
 A shortcut to initialize a new instance of this class with the specified password to load an encrypted document.

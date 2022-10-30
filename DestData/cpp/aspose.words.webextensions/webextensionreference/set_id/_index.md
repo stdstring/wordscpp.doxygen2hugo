@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.webextensions/webextensionreference/set_id/
 ---
-## WebExtensionReference.set_Id method
+## WebExtensionReference::set_Id method
 
 
 Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_Id](../get_id/).

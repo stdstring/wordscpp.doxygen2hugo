@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.drawing/stroke/set_color/
 ---
-## Stroke.set_Color method
+## Stroke::set_Color method
 
 
 Setter for [Aspose::Words::Drawing::Stroke::get_Color](../get_color/).

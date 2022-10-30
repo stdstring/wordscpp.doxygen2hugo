@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/headerfootercollection/idx_get/
 ---
-## HeaderFooterCollection.idx_get(Aspose::Words::HeaderFooterType) method
+## HeaderFooterCollection::idx_get(Aspose::Words::HeaderFooterType) method
 
 
 Retrieves a **HeaderFooter** of the specified type.
@@ -79,7 +79,7 @@ footer->get_Range()->Replace(u"(C) 2006 Aspose Pty Ltd.", String::Format(u"Copyr
 doc->Save(ArtifactsDir + u"HeaderFooter.ReplaceText.docx");
 ```
 
-## HeaderFooterCollection.idx_get(int32_t) method
+## HeaderFooterCollection::idx_get(int32_t) method
 
 
 Retrieves a **HeaderFooter** at the given index.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldend/get_nodetype/
 ---
-## FieldEnd.get_NodeType method
+## FieldEnd::get_NodeType method
 
 
 Returns **FieldEnd**.

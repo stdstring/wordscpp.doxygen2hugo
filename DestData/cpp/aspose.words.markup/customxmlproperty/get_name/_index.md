@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlproperty/get_name/
 ---
-## CustomXmlProperty.get_Name method
+## CustomXmlProperty::get_Name method
 
 
 Specifies the name of the custom XML attribute or smart tag property.

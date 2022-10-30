@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/commentrangeend/get_id/
 ---
-## CommentRangeEnd.get_Id method
+## CommentRangeEnd::get_Id method
 
 
 Specifies the identifier of the comment to which this region is linked to.

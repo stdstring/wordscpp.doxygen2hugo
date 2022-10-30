@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/iimagesavingcallback/imagesaving/
 ---
-## IImageSavingCallback.ImageSaving method
+## IImageSavingCallback::ImageSaving method
 
 
 Called when Aspose.Words saves an image to HTML.

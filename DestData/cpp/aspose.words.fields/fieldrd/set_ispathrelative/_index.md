@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldrd/set_ispathrelative/
 ---
-## FieldRD.set_IsPathRelative method
+## FieldRD::set_IsPathRelative method
 
 
 Setter for [Aspose::Words::Fields::FieldRD::get_IsPathRelative](../get_ispathrelative/).

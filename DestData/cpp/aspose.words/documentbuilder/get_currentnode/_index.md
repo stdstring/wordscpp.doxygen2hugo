@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/documentbuilder/get_currentnode/
 ---
-## DocumentBuilder.get_CurrentNode method
+## DocumentBuilder::get_CurrentNode method
 
 
 Gets the node that is currently selected in this [DocumentBuilder](../).

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_color/
 ---
-## IStructuredDocumentTag.get_Color method
+## IStructuredDocumentTag::get_Color method
 
 
 Gets the color of the structured document tag.

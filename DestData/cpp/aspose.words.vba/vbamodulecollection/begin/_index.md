@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbamodulecollection/begin/
 ---
-## VbaModuleCollection.begin() const method
+## VbaModuleCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.vba/vbamodulecollection/begin/
 const_iterator Aspose::Words::Vba::VbaModuleCollection::begin() const noexcept
 ```
 
-## VbaModuleCollection.begin() method
+## VbaModuleCollection::begin() method
 
 
 

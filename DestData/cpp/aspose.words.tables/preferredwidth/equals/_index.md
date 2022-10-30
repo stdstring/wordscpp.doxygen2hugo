@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.tables/preferredwidth/equals/
 ---
-## PreferredWidth.Equals(const System::SharedPtr\<Aspose::Words::Tables::PreferredWidth\>\&) method
+## PreferredWidth::Equals(const System::SharedPtr\<Aspose::Words::Tables::PreferredWidth\>\&) method
 
 
 Determines whether the specified [PreferredWidth](../) is equal in value to the current [PreferredWidth](../).
@@ -55,7 +55,7 @@ builder->Writeln(u"Automatically sized cell.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx");
 ```
 
-## PreferredWidth.Equals(System::SharedPtr\<System::Object\>) method
+## PreferredWidth::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified object is equal in value to the current object.

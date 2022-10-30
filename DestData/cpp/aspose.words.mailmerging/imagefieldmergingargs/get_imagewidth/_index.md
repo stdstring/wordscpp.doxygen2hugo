@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_imagewidth/
 ---
-## ImageFieldMergingArgs.get_ImageWidth method
+## ImageFieldMergingArgs::get_ImageWidth method
 
 
 Specifies the image width for the image to insert into the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 885
 url: /cpp/aspose.words/pagesetup/set_oddandevenpagesheaderfooter/
 ---
-## PageSetup.set_OddAndEvenPagesHeaderFooter method
+## PageSetup::set_OddAndEvenPagesHeaderFooter method
 
 
 Setter for [Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter](../get_oddandevenpagesheaderfooter/).

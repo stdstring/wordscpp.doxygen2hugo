@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_displaydoctitle/
 ---
-## PdfSaveOptions.set_DisplayDocTitle method
+## PdfSaveOptions::set_DisplayDocTitle method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DisplayDocTitle](../get_displaydoctitle/).

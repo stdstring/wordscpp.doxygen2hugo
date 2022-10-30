@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.drawing/fill/set_opacity/
 ---
-## Fill.set_Opacity method
+## Fill::set_Opacity method
 
 
 Setter for [Aspose::Words::Drawing::Fill::get_Opacity](../get_opacity/).

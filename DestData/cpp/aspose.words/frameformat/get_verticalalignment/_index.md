@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/frameformat/get_verticalalignment/
 ---
-## FrameFormat.get_VerticalAlignment method
+## FrameFormat::get_VerticalAlignment method
 
 
 Gets vertical alignment of the specified frame.

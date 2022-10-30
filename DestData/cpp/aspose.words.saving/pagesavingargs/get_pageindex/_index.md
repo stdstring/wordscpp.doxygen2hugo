@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pagesavingargs/get_pageindex/
 ---
-## PageSavingArgs.get_PageIndex method
+## PageSavingArgs::get_PageIndex method
 
 
 Current page index.

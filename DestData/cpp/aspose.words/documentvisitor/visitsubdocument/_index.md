@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/aspose.words/documentvisitor/visitsubdocument/
 ---
-## DocumentVisitor.VisitSubDocument method
+## DocumentVisitor::VisitSubDocument method
 
 
 Called when a subDocument is encountered.

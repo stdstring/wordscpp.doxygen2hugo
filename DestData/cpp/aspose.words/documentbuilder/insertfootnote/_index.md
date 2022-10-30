@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words/documentbuilder/insertfootnote/
 ---
-## DocumentBuilder.InsertFootnote(Aspose::Words::Notes::FootnoteType, const System::String\&) method
+## DocumentBuilder::InsertFootnote(Aspose::Words::Notes::FootnoteType, const System::String\&) method
 
 
 Inserts a footnote or endnote into the document.
@@ -56,7 +56,7 @@ builder->InsertBreak(BreakType::PageBreak);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertFootnote.docx");
 ```
 
-## DocumentBuilder.InsertFootnote(Aspose::Words::Notes::FootnoteType, const System::String\&, const System::String\&) method
+## DocumentBuilder::InsertFootnote(Aspose::Words::Notes::FootnoteType, const System::String\&, const System::String\&) method
 
 
 Inserts a footnote or endnote into the document.

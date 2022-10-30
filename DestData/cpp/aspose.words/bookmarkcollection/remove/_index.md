@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/bookmarkcollection/remove/
 ---
-## BookmarkCollection.Remove(const System::SharedPtr\<Aspose::Words::Bookmark\>\&) method
+## BookmarkCollection::Remove(const System::SharedPtr\<Aspose::Words::Bookmark\>\&) method
 
 
 Removes the specified bookmark from the document.
@@ -78,7 +78,7 @@ ASSERT_EQ(String(u"Text inside MyBookmark_1.\r") + u"Text inside MyBookmark_2.\r
           doc->GetText().Trim());
 ```
 
-## BookmarkCollection.Remove(const System::String\&) method
+## BookmarkCollection::Remove(const System::String\&) method
 
 
 Removes a bookmark with the specified name.

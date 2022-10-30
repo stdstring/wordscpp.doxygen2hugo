@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldrd/set_filename/
 ---
-## FieldRD.set_FileName method
+## FieldRD::set_FileName method
 
 
 Setter for [Aspose::Words::Fields::FieldRD::get_FileName](../get_filename/).

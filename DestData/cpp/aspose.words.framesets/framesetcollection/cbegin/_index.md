@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.framesets/framesetcollection/cbegin/
 ---
-## FramesetCollection.cbegin method
+## FramesetCollection::cbegin method
 
 
 

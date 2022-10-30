@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fielddde/set_insertashtml/
 ---
-## FieldDde.set_InsertAsHtml method
+## FieldDde::set_InsertAsHtml method
 
 
 Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsHtml](../get_insertashtml/).

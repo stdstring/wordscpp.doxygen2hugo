@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.loading/loadoptions/set_password/
 ---
-## LoadOptions.set_Password method
+## LoadOptions::set_Password method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_Password](../get_password/).

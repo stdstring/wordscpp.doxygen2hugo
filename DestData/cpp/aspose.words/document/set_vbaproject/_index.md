@@ -6,7 +6,7 @@ type: docs
 weight: 1080
 url: /cpp/aspose.words/document/set_vbaproject/
 ---
-## Document.set_VbaProject method
+## Document::set_VbaProject method
 
 
 Setter for [Aspose::Words::Document::get_VbaProject](../get_vbaproject/).

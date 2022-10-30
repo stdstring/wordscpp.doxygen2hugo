@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.tables/table/get_distancetop/
 ---
-## Table.get_DistanceTop method
+## Table::get_DistanceTop method
 
 
 Gets distance between table top and the surrounding text, in points.

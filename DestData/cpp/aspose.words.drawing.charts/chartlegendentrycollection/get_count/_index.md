@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/get_count/
 ---
-## ChartLegendEntryCollection.get_Count method
+## ChartLegendEntryCollection::get_Count method
 
 
 Returns the number of [ChartLegendEntry](../../chartlegendentry/) in this collection.

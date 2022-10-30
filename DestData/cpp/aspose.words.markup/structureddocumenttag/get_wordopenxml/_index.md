@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.markup/structureddocumenttag/get_wordopenxml/
 ---
-## StructuredDocumentTag.get_WordOpenXML method
+## StructuredDocumentTag::get_WordOpenXML method
 
 
 Gets a string that represents the XML contained within the node in the **FlatOpc** format.

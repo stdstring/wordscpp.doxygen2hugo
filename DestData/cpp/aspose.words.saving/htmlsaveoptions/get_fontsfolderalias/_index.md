@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsfolderalias/
 ---
-## HtmlSaveOptions.get_FontsFolderAlias method
+## HtmlSaveOptions::get_FontsFolderAlias method
 
 
 Specifies the name of the folder used to construct font URIs written into an HTML document. Default is an empty string.

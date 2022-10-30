@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/controlchar/cr/
 ---
-## ControlChar.Cr method
+## ControlChar::Cr method
 
 
 Carriage return character: "\x000d" or "\r". Same as [ParagraphBreak](../paragraphbreak/).

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words/bordercollection/getenumerator/
 ---
-## BorderCollection.GetEnumerator method
+## BorderCollection::GetEnumerator method
 
 
 Returns an enumerator object that can be used to iterate over all borders in the collection.

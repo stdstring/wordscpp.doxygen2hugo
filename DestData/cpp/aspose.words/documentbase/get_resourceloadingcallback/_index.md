@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/documentbase/get_resourceloadingcallback/
 ---
-## DocumentBase.get_ResourceLoadingCallback method
+## DocumentBase::get_ResourceLoadingCallback method
 
 
 Allows to control how external resources are loaded.

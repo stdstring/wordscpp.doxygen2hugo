@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.loading/languagepreferences/addeditinglanguage/
 ---
-## LanguagePreferences.AddEditingLanguage method
+## LanguagePreferences::AddEditingLanguage method
 
 
 Adds additional editing language.

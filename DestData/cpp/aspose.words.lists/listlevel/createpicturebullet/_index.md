@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listlevel/createpicturebullet/
 ---
-## ListLevel.CreatePictureBullet method
+## ListLevel::CreatePictureBullet method
 
 
 Creates picture bullet shape for the current list level.

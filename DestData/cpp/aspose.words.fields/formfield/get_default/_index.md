@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/formfield/get_default/
 ---
-## FormField.get_Default method
+## FormField::get_Default method
 
 
 Gets or sets the default value of the check box form field. Default value for this property is **false**.

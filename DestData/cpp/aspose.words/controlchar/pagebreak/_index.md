@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/controlchar/pagebreak/
 ---
-## ControlChar.PageBreak method
+## ControlChar::PageBreak method
 
 
 Page break character: "\x000c" or "\f". Note it has the same value as [SectionBreak](../sectionbreak/).

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.vba/vbamodule/set_name/
 ---
-## VbaModule.set_Name method
+## VbaModule::set_Name method
 
 
 Setter for [Aspose::Words::Vba::VbaModule::get_Name](../get_name/).

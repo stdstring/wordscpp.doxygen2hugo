@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldbuilder/fieldbuilder/
 ---
-## FieldBuilder.FieldBuilder method
+## FieldBuilder::FieldBuilder method
 
 
 Initializes an instance of the [FieldBuilder](../) class.

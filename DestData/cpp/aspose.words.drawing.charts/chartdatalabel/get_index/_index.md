@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_index/
 ---
-## ChartDataLabel.get_Index method
+## ChartDataLabel::get_Index method
 
 
 Specifies the index of the containing element. This index shall determine which of the parent's children collection this element applies to. Default value is 0.

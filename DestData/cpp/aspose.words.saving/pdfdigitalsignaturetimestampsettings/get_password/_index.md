@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_password/
 ---
-## PdfDigitalSignatureTimestampSettings.get_Password method
+## PdfDigitalSignatureTimestampSettings::get_Password method
 
 
 Timestamp server password.

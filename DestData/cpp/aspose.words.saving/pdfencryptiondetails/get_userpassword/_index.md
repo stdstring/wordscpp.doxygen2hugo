@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pdfencryptiondetails/get_userpassword/
 ---
-## PdfEncryptionDetails.get_UserPassword method
+## PdfEncryptionDetails::get_UserPassword method
 
 
 Specifies the user password required for opening the encrypted PDF document.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.markup/sdtlistitemcollection/cbegin/
 ---
-## SdtListItemCollection.cbegin method
+## SdtListItemCollection::cbegin method
 
 
 

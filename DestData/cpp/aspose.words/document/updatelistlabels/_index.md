@@ -6,7 +6,7 @@ type: docs
 weight: 1158
 url: /cpp/aspose.words/document/updatelistlabels/
 ---
-## Document.UpdateListLabels method
+## Document::UpdateListLabels method
 
 
 Updates list labels for all list items in the document.

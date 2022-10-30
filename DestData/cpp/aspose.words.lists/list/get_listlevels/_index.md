@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.lists/list/get_listlevels/
 ---
-## List.get_ListLevels method
+## List::get_ListLevels method
 
 
 Gets the collection of list levels for this list.

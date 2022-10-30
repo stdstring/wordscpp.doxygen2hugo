@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/get_invertifnegative/
 ---
-## IChartDataPoint.get_InvertIfNegative method
+## IChartDataPoint::get_InvertIfNegative method
 
 
 Specifies whether the parent element shall inverts its colors if the value is negative.

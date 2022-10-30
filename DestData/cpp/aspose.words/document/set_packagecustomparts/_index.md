@@ -6,7 +6,7 @@ type: docs
 weight: 976
 url: /cpp/aspose.words/document/set_packagecustomparts/
 ---
-## Document.set_PackageCustomParts method
+## Document::set_PackageCustomParts method
 
 
 Setter for [Aspose::Words::Document::get_PackageCustomParts](../get_packagecustomparts/).

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/comparisonexpression/get_leftexpression/
 ---
-## ComparisonExpression.get_LeftExpression method
+## ComparisonExpression::get_LeftExpression method
 
 
 Gets the left expression.

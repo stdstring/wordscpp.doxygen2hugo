@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/aspose.words.drawing/shapebase/get_verticalalignment/
 ---
-## ShapeBase.get_VerticalAlignment method
+## ShapeBase::get_VerticalAlignment method
 
 
 Specifies how the shape is positioned vertically.

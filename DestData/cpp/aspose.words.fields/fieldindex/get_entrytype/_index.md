@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldindex/get_entrytype/
 ---
-## FieldIndex.get_EntryType method
+## FieldIndex::get_EntryType method
 
 
 Gets or sets an index entry type used to build the index.

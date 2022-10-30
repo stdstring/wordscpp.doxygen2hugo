@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/bordercollection/get_vertical/
 ---
-## BorderCollection.get_Vertical method
+## BorderCollection::get_Vertical method
 
 
 Gets the vertical border that is used between cells.

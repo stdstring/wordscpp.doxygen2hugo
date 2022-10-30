@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.tables/tablecollection/toarray/
 ---
-## TableCollection.ToArray method
+## TableCollection::ToArray method
 
 
 Copies all tables from the collection to a new array of tables.

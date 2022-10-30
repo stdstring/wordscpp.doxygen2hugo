@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_titlesofparts/
 ---
-## BuiltInDocumentProperties.get_TitlesOfParts method
+## BuiltInDocumentProperties::get_TitlesOfParts method
 
 
 Each string in the array specifies the name of a part in the document.

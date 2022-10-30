@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.loading/loadoptions/get_tempfolder/
 ---
-## LoadOptions.get_TempFolder method
+## LoadOptions::get_TempFolder method
 
 
 Allows to use temporary files when reading document. By default this property is **null** and no temporary files are used.

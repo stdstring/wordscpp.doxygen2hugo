@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/variablecollection/begin/
 ---
-## VariableCollection.begin() const method
+## VariableCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words/variablecollection/begin/
 const_iterator Aspose::Words::VariableCollection::begin() const noexcept
 ```
 
-## VariableCollection.begin() method
+## VariableCollection::begin() method
 
 
 

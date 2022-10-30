@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/runcollection/idx_get/
 ---
-## RunCollection.idx_get method
+## RunCollection::idx_get method
 
 
 Retrieves a **Run** at the given index.

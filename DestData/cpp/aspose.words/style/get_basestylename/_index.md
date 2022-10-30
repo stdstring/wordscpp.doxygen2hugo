@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/style/get_basestylename/
 ---
-## Style.get_BaseStyleName method
+## Style::get_BaseStyleName method
 
 
 Gets/sets the name of the style this style is based on.

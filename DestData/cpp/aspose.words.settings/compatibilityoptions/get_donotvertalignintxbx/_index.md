@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotvertalignintxbx/
 ---
-## CompatibilityOptions.get_DoNotVertAlignInTxbx method
+## CompatibilityOptions::get_DoNotVertAlignInTxbx method
 
 
 Ignore Vertical Alignment in Textboxes.

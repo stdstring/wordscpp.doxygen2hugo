@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listlevelcollection/begin/
 ---
-## ListLevelCollection.begin() const method
+## ListLevelCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.lists/listlevelcollection/begin/
 const_iterator Aspose::Words::Lists::ListLevelCollection::begin() const noexcept
 ```
 
-## ListLevelCollection.begin() method
+## ListLevelCollection::begin() method
 
 
 

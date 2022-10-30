@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_scalingfactor/
 ---
-## FieldDisplayBarcode.set_ScalingFactor method
+## FieldDisplayBarcode::set_ScalingFactor method
 
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor](../get_scalingfactor/).

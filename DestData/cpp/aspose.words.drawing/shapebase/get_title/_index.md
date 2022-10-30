@@ -6,7 +6,7 @@ type: docs
 weight: 638
 url: /cpp/aspose.words.drawing/shapebase/get_title/
 ---
-## ShapeBase.get_Title method
+## ShapeBase::get_Title method
 
 
 Gets or sets the title (caption) of the current shape object.

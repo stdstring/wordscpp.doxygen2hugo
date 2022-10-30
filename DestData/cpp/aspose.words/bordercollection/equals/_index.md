@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/bordercollection/equals/
 ---
-## BorderCollection.Equals method
+## BorderCollection::Equals method
 
 
 Compares collections of borders.

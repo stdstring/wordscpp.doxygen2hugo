@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_findwholewordsonly/
 ---
-## FindReplaceOptions.set_FindWholeWordsOnly method
+## FindReplaceOptions::set_FindWholeWordsOnly method
 
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly](../get_findwholewordsonly/).

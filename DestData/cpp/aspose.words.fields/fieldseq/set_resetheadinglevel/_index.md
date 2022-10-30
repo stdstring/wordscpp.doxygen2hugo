@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldseq/set_resetheadinglevel/
 ---
-## FieldSeq.set_ResetHeadingLevel method
+## FieldSeq::set_ResetHeadingLevel method
 
 
 Setter for [Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel](../get_resetheadinglevel/).

@@ -6,7 +6,7 @@ type: docs
 weight: 898
 url: /cpp/aspose.words/font/set_italicbi/
 ---
-## Font.set_ItalicBi method
+## Font::set_ItalicBi method
 
 
 Setter for [Aspose::Words::Font::get_ItalicBi](../get_italicbi/).

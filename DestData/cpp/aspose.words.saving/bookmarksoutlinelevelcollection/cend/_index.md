@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/cend/
 ---
-## BookmarksOutlineLevelCollection.cend method
+## BookmarksOutlineLevelCollection::cend method
 
 
 

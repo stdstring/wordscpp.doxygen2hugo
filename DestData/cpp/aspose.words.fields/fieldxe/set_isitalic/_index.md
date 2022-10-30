@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldxe/set_isitalic/
 ---
-## FieldXE.set_IsItalic method
+## FieldXE::set_IsItalic method
 
 
 Setter for [Aspose::Words::Fields::FieldXE::get_IsItalic](../get_isitalic/).

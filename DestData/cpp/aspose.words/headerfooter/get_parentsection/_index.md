@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/headerfooter/get_parentsection/
 ---
-## HeaderFooter.get_ParentSection method
+## HeaderFooter::get_ParentSection method
 
 
 Gets the parent section of this story.

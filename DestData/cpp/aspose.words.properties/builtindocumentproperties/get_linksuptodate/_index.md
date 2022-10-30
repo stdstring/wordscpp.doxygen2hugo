@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_linksuptodate/
 ---
-## BuiltInDocumentProperties.get_LinksUpToDate method
+## BuiltInDocumentProperties::get_LinksUpToDate method
 
 
 Indicates whether hyperlinks in a document are up-to-date.

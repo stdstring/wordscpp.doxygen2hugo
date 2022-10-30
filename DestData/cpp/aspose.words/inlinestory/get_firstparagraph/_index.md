@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/inlinestory/get_firstparagraph/
 ---
-## InlineStory.get_FirstParagraph method
+## InlineStory::get_FirstParagraph method
 
 
 Gets the first paragraph in the story.

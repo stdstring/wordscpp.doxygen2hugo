@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/imagesaveoptions/get_imagecolormode/
 ---
-## ImageSaveOptions.get_ImageColorMode method
+## ImageSaveOptions::get_ImageColorMode method
 
 
 Gets or sets the color mode for the generated images.

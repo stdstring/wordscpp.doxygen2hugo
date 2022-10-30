@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/warninginfocollection/get_count/
 ---
-## WarningInfoCollection.get_Count method
+## WarningInfoCollection::get_Count method
 
 
 Gets the number of elements contained in the collection.

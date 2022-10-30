@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldautotext/set_entryname/
 ---
-## FieldAutoText.set_EntryName method
+## FieldAutoText::set_EntryName method
 
 
 Setter for [Aspose::Words::Fields::FieldAutoText::get_EntryName](../get_entryname/).

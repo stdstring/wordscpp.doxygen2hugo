@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_timestampsettings/
 ---
-## PdfDigitalSignatureDetails.set_TimestampSettings method
+## PdfDigitalSignatureDetails::set_TimestampSettings method
 
 
 Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings](../get_timestampsettings/).

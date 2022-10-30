@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.loading/pdfloadoptions/set_skippdfimages/
 ---
-## PdfLoadOptions.set_SkipPdfImages method
+## PdfLoadOptions::set_SkipPdfImages method
 
 
 Sets the flag indicating whether images must be skipped while loading PDF document. Default is False.

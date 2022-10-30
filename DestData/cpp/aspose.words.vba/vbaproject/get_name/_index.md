@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.vba/vbaproject/get_name/
 ---
-## VbaProject.get_Name method
+## VbaProject::get_Name method
 
 
 Gets or sets VBA project name.

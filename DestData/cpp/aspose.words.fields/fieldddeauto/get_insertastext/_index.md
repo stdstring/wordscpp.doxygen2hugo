@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldddeauto/get_insertastext/
 ---
-## FieldDdeAuto.get_InsertAsText method
+## FieldDdeAuto::get_InsertAsText method
 
 
 Gets or sets whether to insert the linked object in text-only format.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/paragraphcollection/idx_get/
 ---
-## ParagraphCollection.idx_get method
+## ParagraphCollection::idx_get method
 
 
 Retrieves a **Paragraph** at the given index.

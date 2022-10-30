@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/run/gettext/
 ---
-## Run.GetText method
+## Run::GetText method
 
 
 Gets the text of the run.

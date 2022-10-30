@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/cbegin/
 ---
-## OdsoFieldMapDataCollection.cbegin method
+## OdsoFieldMapDataCollection::cbegin method
 
 
 

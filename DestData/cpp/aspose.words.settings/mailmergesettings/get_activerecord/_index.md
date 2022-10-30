@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.settings/mailmergesettings/get_activerecord/
 ---
-## MailMergeSettings.get_ActiveRecord method
+## MailMergeSettings::get_ActiveRecord method
 
 
 Specifies the one-based index of the record from the data source which shall be displayed in Microsoft Word. The default value is 1.

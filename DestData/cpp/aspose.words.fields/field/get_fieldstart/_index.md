@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/field/get_fieldstart/
 ---
-## Field.get_FieldStart method
+## Field::get_FieldStart method
 
 
 Gets the node that represents the start of the field.

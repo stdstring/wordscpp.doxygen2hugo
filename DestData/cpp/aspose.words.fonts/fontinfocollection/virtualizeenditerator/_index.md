@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fonts/fontinfocollection/virtualizeenditerator/
 ---
-## FontInfoCollection.virtualizeEndIterator method
+## FontInfoCollection::virtualizeEndIterator method
 
 
 

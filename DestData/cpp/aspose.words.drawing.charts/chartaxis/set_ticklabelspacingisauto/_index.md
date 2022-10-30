@@ -6,7 +6,7 @@ type: docs
 weight: 586
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_ticklabelspacingisauto/
 ---
-## ChartAxis.set_TickLabelSpacingIsAuto method
+## ChartAxis::set_TickLabelSpacingIsAuto method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelSpacingIsAuto](../get_ticklabelspacingisauto/).

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/signaturelineoptions/get_email/
 ---
-## SignatureLineOptions.get_Email method
+## SignatureLineOptions::get_Email method
 
 
 Gets or sets suggested signer's e-mail address. Default value for this property is **empty string**.

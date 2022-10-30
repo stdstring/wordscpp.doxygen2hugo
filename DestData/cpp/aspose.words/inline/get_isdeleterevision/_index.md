@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/inline/get_isdeleterevision/
 ---
-## Inline.get_IsDeleteRevision method
+## Inline::get_IsDeleteRevision method
 
 
 Returns true if this object was deleted in Microsoft Word while change tracking was enabled.

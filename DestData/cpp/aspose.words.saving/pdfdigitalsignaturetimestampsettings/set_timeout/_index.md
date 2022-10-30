@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_timeout/
 ---
-## PdfDigitalSignatureTimestampSettings.set_Timeout method
+## PdfDigitalSignatureTimestampSettings::set_Timeout method
 
 
 Setter for [Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Timeout](../get_timeout/).

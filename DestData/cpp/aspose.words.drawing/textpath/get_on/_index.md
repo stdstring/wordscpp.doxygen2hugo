@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.drawing/textpath/get_on/
 ---
-## TextPath.get_On method
+## TextPath::get_On method
 
 
 Defines whether the text is displayed.

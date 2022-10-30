@@ -6,7 +6,7 @@ type: docs
 weight: 677
 url: /cpp/aspose.words.drawing/shapebase/get_width/
 ---
-## ShapeBase.get_Width method
+## ShapeBase::get_Width method
 
 
 Gets or sets the width of the containing block of the shape.

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/bookmarkend/get_nodetype/
 ---
-## BookmarkEnd.get_NodeType method
+## BookmarkEnd::get_NodeType method
 
 
 Returns **BookmarkEnd**.

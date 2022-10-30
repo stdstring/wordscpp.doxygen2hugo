@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldindex/get_hassequencename/
 ---
-## FieldIndex.get_HasSequenceName method
+## FieldIndex::get_HasSequenceName method
 
 
 Gets a value indicating whether a sequence should be used while the field's result building.

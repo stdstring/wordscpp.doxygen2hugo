@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/xamlflowsaveoptions/
 ---
-## XamlFlowSaveOptions.XamlFlowSaveOptions() method
+## XamlFlowSaveOptions::XamlFlowSaveOptions() method
 
 
 Initializes a new instance of this class that can be used to save a document in the **XamlFlow** format.
@@ -93,7 +93,7 @@ private:
 };
 ```
 
-## XamlFlowSaveOptions.XamlFlowSaveOptions(Aspose::Words::SaveFormat) method
+## XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::SaveFormat) method
 
 
 Initializes a new instance of this class that can be used to save a document in the **XamlFlow** or **XamlFlowPack** format.

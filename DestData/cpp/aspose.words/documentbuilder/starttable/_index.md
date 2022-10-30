@@ -6,7 +6,7 @@ type: docs
 weight: 872
 url: /cpp/aspose.words/documentbuilder/starttable/
 ---
-## DocumentBuilder.StartTable method
+## DocumentBuilder::StartTable method
 
 
 Starts a table in the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldxe/get_pagerangebookmarkname/
 ---
-## FieldXE.get_PageRangeBookmarkName method
+## FieldXE::get_PageRangeBookmarkName method
 
 
 Gets or sets the name of the bookmark that marks a range of pages that is inserted as the entry's page number.

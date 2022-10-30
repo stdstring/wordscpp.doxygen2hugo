@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/hyphenation/hyphenation/
 ---
-## Hyphenation.Hyphenation method
+## Hyphenation::Hyphenation method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 924
 url: /cpp/aspose.words/paragraphformat/set_stylename/
 ---
-## ParagraphFormat.set_StyleName method
+## ParagraphFormat::set_StyleName method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_StyleName](../get_stylename/).

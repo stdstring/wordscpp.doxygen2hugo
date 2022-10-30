@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.comparing/compareoptions/get_target/
 ---
-## CompareOptions.get_Target method
+## CompareOptions::get_Target method
 
 
 Specifies which document shall be used as a target during comparison.

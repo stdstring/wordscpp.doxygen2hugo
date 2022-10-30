@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words/document/get_grammarchecked/
 ---
-## Document.get_GrammarChecked method
+## Document::get_GrammarChecked method
 
 
 Returns **true** if the document has been checked for grammar.

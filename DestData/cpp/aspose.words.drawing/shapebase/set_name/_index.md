@@ -6,7 +6,7 @@ type: docs
 weight: 1002
 url: /cpp/aspose.words.drawing/shapebase/set_name/
 ---
-## ShapeBase.set_Name method
+## ShapeBase::set_Name method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_Name](../get_name/).

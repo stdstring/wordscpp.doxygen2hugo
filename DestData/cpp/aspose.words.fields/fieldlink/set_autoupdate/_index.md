@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldlink/set_autoupdate/
 ---
-## FieldLink.set_AutoUpdate method
+## FieldLink::set_AutoUpdate method
 
 
 Setter for [Aspose::Words::Fields::FieldLink::get_AutoUpdate](../get_autoupdate/).

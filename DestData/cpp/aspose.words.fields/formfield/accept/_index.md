@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/formfield/accept/
 ---
-## FormField.Accept method
+## FormField::Accept method
 
 
 Accepts a visitor.

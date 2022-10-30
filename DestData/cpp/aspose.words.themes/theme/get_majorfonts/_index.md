@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.themes/theme/get_majorfonts/
 ---
-## Theme.get_MajorFonts method
+## Theme::get_MajorFonts method
 
 
 Allows to specify the set of major fonts for different languages.

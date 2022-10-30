@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.words/paragraphformat/get_tabstops/
 ---
-## ParagraphFormat.get_TabStops method
+## ParagraphFormat::get_TabStops method
 
 
 Gets the collection of custom tab stops defined for this object.

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words/comment/removeallreplies/
 ---
-## Comment.RemoveAllReplies method
+## Comment::RemoveAllReplies method
 
 
 Removes all replies to this comment.

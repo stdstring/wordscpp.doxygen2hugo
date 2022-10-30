@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_imagecompression/
 ---
-## PdfSaveOptions.set_ImageCompression method
+## PdfSaveOptions::set_ImageCompression method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ImageCompression](../get_imagecompression/).

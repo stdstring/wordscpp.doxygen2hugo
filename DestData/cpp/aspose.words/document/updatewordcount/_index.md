@@ -6,7 +6,7 @@ type: docs
 weight: 1210
 url: /cpp/aspose.words/document/updatewordcount/
 ---
-## Document.UpdateWordCount() method
+## Document::UpdateWordCount() method
 
 
 Updates word count properties of the document.
@@ -57,7 +57,7 @@ doc->UpdateWordCount(true);
 ASSERT_EQ(4, doc->get_BuiltInDocumentProperties()->get_Lines());
 ```
 
-## Document.UpdateWordCount(bool) method
+## Document::UpdateWordCount(bool) method
 
 
 Updates word count properties of the document, optionally updates [Lines](../../../aspose.words.properties/builtindocumentproperties/get_lines/) property.

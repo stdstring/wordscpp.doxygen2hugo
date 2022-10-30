@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getenumerator/
 ---
-## StructuredDocumentTagCollection.GetEnumerator method
+## StructuredDocumentTagCollection::GetEnumerator method
 
 
 Returns an enumerator object.

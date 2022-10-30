@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/idx_get/
 ---
-## OdsoFieldMapDataCollection.idx_get method
+## OdsoFieldMapDataCollection::idx_get method
 
 
 Gets or sets an item in this collection.

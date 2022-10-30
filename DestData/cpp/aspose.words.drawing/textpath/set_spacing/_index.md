@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.drawing/textpath/set_spacing/
 ---
-## TextPath.set_Spacing method
+## TextPath::set_Spacing method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Spacing](../get_spacing/).

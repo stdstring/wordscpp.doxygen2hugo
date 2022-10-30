@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_forcepagebreaks/
 ---
-## TxtSaveOptionsBase.set_ForcePageBreaks method
+## TxtSaveOptionsBase::set_ForcePageBreaks method
 
 
 Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks](../get_forcepagebreaks/).

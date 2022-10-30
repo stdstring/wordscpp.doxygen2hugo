@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldtoc/get_captionlesstableoffigureslabel/
 ---
-## FieldToc.get_CaptionlessTableOfFiguresLabel method
+## FieldToc::get_CaptionlessTableOfFiguresLabel method
 
 
 Gets the name of the sequence identifier used when building a table of figures that does not include caption's label and number.

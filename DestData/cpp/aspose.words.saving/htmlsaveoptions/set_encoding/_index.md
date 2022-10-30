@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_encoding/
 ---
-## HtmlSaveOptions.set_Encoding method
+## HtmlSaveOptions::set_Encoding method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_Encoding](../get_encoding/).

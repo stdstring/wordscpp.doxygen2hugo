@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/commentcollection/idx_get/
 ---
-## CommentCollection.idx_get method
+## CommentCollection::idx_get method
 
 
 Retrieves a **Comment** at the given index.

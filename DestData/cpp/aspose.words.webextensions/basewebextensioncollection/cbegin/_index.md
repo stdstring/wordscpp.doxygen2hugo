@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/cbegin/
 ---
-## BaseWebExtensionCollection.cbegin method
+## BaseWebExtensionCollection::cbegin method
 
 
 

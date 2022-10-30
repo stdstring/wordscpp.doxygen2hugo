@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fields/barcodeparameters/get_symbolrotation/
 ---
-## BarcodeParameters.get_SymbolRotation method
+## BarcodeParameters::get_SymbolRotation method
 
 
 Rotation of the barcode symbol. Valid values are [0, 3].

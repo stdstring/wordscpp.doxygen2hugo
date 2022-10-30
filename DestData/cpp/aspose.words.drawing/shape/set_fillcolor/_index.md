@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.drawing/shape/set_fillcolor/
 ---
-## Shape.set_FillColor method
+## Shape::set_FillColor method
 
 
 Setter for [Aspose::Words::Drawing::Shape::get_FillColor](../get_fillcolor/).

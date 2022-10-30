@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_lastprinted/
 ---
-## BuiltInDocumentProperties.set_LastPrinted method
+## BuiltInDocumentProperties::set_LastPrinted method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_LastPrinted](../get_lastprinted/).

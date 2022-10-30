@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/revisiongroupcollection/getenumerator/
 ---
-## RevisionGroupCollection.GetEnumerator method
+## RevisionGroupCollection::GetEnumerator method
 
 
 Returns an enumerator object.

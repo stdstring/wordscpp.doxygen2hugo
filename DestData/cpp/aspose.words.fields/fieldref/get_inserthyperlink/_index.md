@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldref/get_inserthyperlink/
 ---
-## FieldRef.get_InsertHyperlink method
+## FieldRef::get_InsertHyperlink method
 
 
 Gets or sets whether to create a hyperlink to the bookmarked paragraph.

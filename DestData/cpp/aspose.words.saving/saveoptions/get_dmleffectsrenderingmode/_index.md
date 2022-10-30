@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/saveoptions/get_dmleffectsrenderingmode/
 ---
-## SaveOptions.get_DmlEffectsRenderingMode method
+## SaveOptions::get_DmlEffectsRenderingMode method
 
 
 Gets or sets a value determining how DrawingML effects are rendered.

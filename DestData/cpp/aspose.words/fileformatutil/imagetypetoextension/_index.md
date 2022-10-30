@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/fileformatutil/imagetypetoextension/
 ---
-## FileFormatUtil.ImageTypeToExtension method
+## FileFormatUtil::ImageTypeToExtension method
 
 
 Converts an Aspose.Words image type enumerated value into a file extension. The returned extension is a lower-case string with a leading dot.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.markup/xmlmapping/get_ismapped/
 ---
-## XmlMapping.get_IsMapped method
+## XmlMapping::get_IsMapped method
 
 
 Returns **true** if the parent structured document tag is successfully mapped to XML data.

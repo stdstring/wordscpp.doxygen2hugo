@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.drawing/stroke/set_startarrowlength/
 ---
-## Stroke.set_StartArrowLength method
+## Stroke::set_StartArrowLength method
 
 
 Setter for [Aspose::Words::Drawing::Stroke::get_StartArrowLength](../get_startarrowlength/).

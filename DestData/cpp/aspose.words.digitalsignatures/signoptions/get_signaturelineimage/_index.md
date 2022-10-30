@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.digitalsignatures/signoptions/get_signaturelineimage/
 ---
-## SignOptions.get_SignatureLineImage method
+## SignOptions::get_SignatureLineImage method
 
 
 The image that will be shown in associated [SignatureLine](../../../aspose.words.drawing/signatureline/). Default value is **null**.

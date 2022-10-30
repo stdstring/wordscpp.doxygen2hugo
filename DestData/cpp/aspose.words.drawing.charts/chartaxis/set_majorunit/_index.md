@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_majorunit/
 ---
-## ChartAxis.set_MajorUnit method
+## ChartAxis::set_MajorUnit method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnit](../get_majorunit/).

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/node/nextpreorder/
 ---
-## Node.NextPreOrder method
+## Node::NextPreOrder method
 
 
 Gets next node according to the pre-order tree traversal algorithm.

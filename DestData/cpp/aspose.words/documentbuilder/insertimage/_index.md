@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words/documentbuilder/insertimage/
 ---
-## DocumentBuilder.InsertImage(const System::ArrayPtr\<uint8_t\>\&) method
+## DocumentBuilder::InsertImage(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale.
@@ -63,7 +63,7 @@ SharedPtr<System::Drawing::Image> image = System::Drawing::Image::FromFile(Image
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertImage(const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an image from a byte array at the specified position and size.
@@ -127,7 +127,7 @@ SharedPtr<System::Drawing::Image> image = System::Drawing::Image::FromFile(Image
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::ArrayPtr\<uint8_t\>\&, double, double) method
+## DocumentBuilder::InsertImage(const System::ArrayPtr\<uint8_t\>\&, double, double) method
 
 
 Inserts an inline image from a byte array into the document and scales it to the specified size.
@@ -186,7 +186,7 @@ SharedPtr<System::Drawing::Image> image = System::Drawing::Image::FromFile(Image
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
+## DocumentBuilder::InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
 
 
 Inserts an image from a **Image** object into the document. The image is inserted inline and at 100% scale.
@@ -236,7 +236,7 @@ builder->InsertImage(image, RelativeHorizontalPosition::Margin, 100.0, RelativeV
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an image from a **Image** object at the specified position and size.
@@ -293,7 +293,7 @@ builder->InsertImage(image, RelativeHorizontalPosition::Margin, 100.0, RelativeV
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&, double, double) method
+## DocumentBuilder::InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&, double, double) method
 
 
 Inserts an inline image from a **Image** object into the document and scales it to the specified size.
@@ -345,7 +345,7 @@ builder->InsertImage(image, RelativeHorizontalPosition::Margin, 100.0, RelativeV
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::SharedPtr\<System::IO::Stream\>\&) method
+## DocumentBuilder::InsertImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Inserts an image from a stream into the document. The image is inserted inline and at 100% scale.
@@ -411,7 +411,7 @@ auto builder = MakeObject<DocumentBuilder>(doc);
 doc->Save(ArtifactsDir + u"Image.FromStream.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertImage(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an image from a stream at the specified position and size.
@@ -469,7 +469,7 @@ auto builder = MakeObject<DocumentBuilder>(doc);
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromStream.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::SharedPtr\<System::IO::Stream\>\&, double, double) method
+## DocumentBuilder::InsertImage(const System::SharedPtr\<System::IO::Stream\>\&, double, double) method
 
 
 Inserts an inline image from a stream into the document and scales it to the specified size.
@@ -522,7 +522,7 @@ auto builder = MakeObject<DocumentBuilder>(doc);
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromStream.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::String\&) method
+## DocumentBuilder::InsertImage(const System::String\&) method
 
 
 Inserts an image from a file or URL into the document. The image is inserted inline and at 100% scale.
@@ -648,7 +648,7 @@ shape->set_VerticalAlignment(VerticalAlignment::Center);
 doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::String\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertImage(const System::String\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an image from a file or URL at the specified position and size.
@@ -740,7 +740,7 @@ builder->InsertImage(ImageDir + u"Windows MetaFile.wmf", RelativeHorizontalPosit
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 ```
 
-## DocumentBuilder.InsertImage(const System::String\&, double, double) method
+## DocumentBuilder::InsertImage(const System::String\&, double, double) method
 
 
 Inserts an inline image from a file or URL into the document and scales it to the specified size.
@@ -791,7 +791,7 @@ builder->InsertImage(ImageDir + u"Windows MetaFile.wmf", RelativeHorizontalPosit
 doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 ```
 
-## DocumentBuilder.InsertImage(std::basic_istream\<CharType, Traits\>\&) method
+## DocumentBuilder::InsertImage(std::basic_istream\<CharType, Traits\>\&) method
 
 
 
@@ -800,7 +800,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertImage(std::basic_istream<CharType, Traits> &stream)
 ```
 
-## DocumentBuilder.InsertImage(std::basic_istream\<CharType, Traits\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertImage(std::basic_istream\<CharType, Traits\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 
@@ -809,7 +809,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder::InsertImage(std::basic_istream<CharType, Traits> &stream, Aspose::Words::Drawing::RelativeHorizontalPosition horzPos, double left, Aspose::Words::Drawing::RelativeVerticalPosition vertPos, double top, double width, double height, Aspose::Words::Drawing::WrapType wrapType)
 ```
 
-## DocumentBuilder.InsertImage(std::basic_istream\<CharType, Traits\>\&, double, double) method
+## DocumentBuilder::InsertImage(std::basic_istream\<CharType, Traits\>\&, double, double) method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.themes/themecolors/set_light1/
 ---
-## ThemeColors.set_Light1 method
+## ThemeColors::set_Light1 method
 
 
 Setter for [Aspose::Words::Themes::ThemeColors::get_Light1](../get_light1/).

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/documentbuilder/endbookmark/
 ---
-## DocumentBuilder.EndBookmark method
+## DocumentBuilder::EndBookmark method
 
 
 Marks the current position in the document as a bookmark end.

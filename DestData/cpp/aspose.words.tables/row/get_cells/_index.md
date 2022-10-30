@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.tables/row/get_cells/
 ---
-## Row.get_Cells method
+## Row::get_Cells method
 
 
 Provides typed access to the **Cell** child nodes of the row.

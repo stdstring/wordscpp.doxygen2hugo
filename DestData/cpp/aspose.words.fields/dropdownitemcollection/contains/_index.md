@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/dropdownitemcollection/contains/
 ---
-## DropDownItemCollection.Contains method
+## DropDownItemCollection::Contains method
 
 
 Determines whether the collection contains the specified value.

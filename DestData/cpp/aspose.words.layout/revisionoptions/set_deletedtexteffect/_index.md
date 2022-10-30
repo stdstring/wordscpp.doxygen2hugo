@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.layout/revisionoptions/set_deletedtexteffect/
 ---
-## RevisionOptions.set_DeletedTextEffect method
+## RevisionOptions::set_DeletedTextEffect method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_DeletedTextEffect](../get_deletedtexteffect/).

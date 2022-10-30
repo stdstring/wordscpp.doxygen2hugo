@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_description/
 ---
-## BuildingBlock.get_Description method
+## BuildingBlock::get_Description method
 
 
 Gets or sets the description associated with this building block.

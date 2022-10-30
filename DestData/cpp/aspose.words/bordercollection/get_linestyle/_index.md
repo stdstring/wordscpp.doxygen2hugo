@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/bordercollection/get_linestyle/
 ---
-## BorderCollection.get_LineStyle method
+## BorderCollection::get_LineStyle method
 
 
 Gets or sets the border style.

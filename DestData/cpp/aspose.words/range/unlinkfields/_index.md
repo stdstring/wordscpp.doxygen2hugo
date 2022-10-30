@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/range/unlinkfields/
 ---
-## Range.UnlinkFields method
+## Range::UnlinkFields method
 
 
 Unlinks fields in this range.

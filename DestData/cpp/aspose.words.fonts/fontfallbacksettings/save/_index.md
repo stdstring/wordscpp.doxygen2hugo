@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
 ---
-## FontFallbackSettings.Save(const System::SharedPtr\<System::IO::Stream\>\&) method
+## FontFallbackSettings::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves the current fallback settings to stream.
@@ -47,7 +47,7 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromStream.pdf")
 }
 ```
 
-## FontFallbackSettings.Save(const System::String\&) method
+## FontFallbackSettings::Save(const System::String\&) method
 
 
 Saves the current fallback settings to file.
@@ -81,7 +81,7 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromFile.pdf");
 doc->get_FontSettings()->get_FallbackSettings()->Save(ArtifactsDir + u"FallbackSettings.xml");
 ```
 
-## FontFallbackSettings.Save(std::basic_ostream\<CharType, Traits\>\&) method
+## FontFallbackSettings::Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 

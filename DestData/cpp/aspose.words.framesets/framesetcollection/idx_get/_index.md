@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.framesets/framesetcollection/idx_get/
 ---
-## FramesetCollection.idx_get method
+## FramesetCollection::idx_get method
 
 
 Gets a frame or frames page at the specified index.

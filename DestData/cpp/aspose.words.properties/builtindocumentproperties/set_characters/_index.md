@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_characters/
 ---
-## BuiltInDocumentProperties.set_Characters method
+## BuiltInDocumentProperties::set_Characters method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Characters](../get_characters/).

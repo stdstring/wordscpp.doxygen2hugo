@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/controlchar/linebreak/
 ---
-## ControlChar.LineBreak method
+## ControlChar::LineBreak method
 
 
 Line break character: "\x000b" or "\v".

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.framesets/framesetcollection/end/
 ---
-## FramesetCollection.end() const method
+## FramesetCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.framesets/framesetcollection/end/
 const_iterator Aspose::Words::Framesets::FramesetCollection::end() const noexcept
 ```
 
-## FramesetCollection.end() method
+## FramesetCollection::end() method
 
 
 

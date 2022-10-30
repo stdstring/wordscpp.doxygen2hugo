@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.layout/revisionoptions/set_revisionbarscolor/
 ---
-## RevisionOptions.set_RevisionBarsColor method
+## RevisionOptions::set_RevisionBarsColor method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisionBarsColor](../get_revisionbarscolor/).

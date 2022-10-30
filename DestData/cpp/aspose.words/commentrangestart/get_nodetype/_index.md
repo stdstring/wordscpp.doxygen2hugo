@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/commentrangestart/get_nodetype/
 ---
-## CommentRangeStart.get_NodeType method
+## CommentRangeStart::get_NodeType method
 
 
 Returns **CommentRangeStart**.

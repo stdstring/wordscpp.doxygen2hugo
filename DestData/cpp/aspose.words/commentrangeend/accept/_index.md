@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/commentrangeend/accept/
 ---
-## CommentRangeEnd.Accept method
+## CommentRangeEnd::Accept method
 
 
 Accepts a visitor.

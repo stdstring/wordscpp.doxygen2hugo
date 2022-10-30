@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/aspose.words/paragraphformat/set_addspacebetweenfareastanddigit/
 ---
-## ParagraphFormat.set_AddSpaceBetweenFarEastAndDigit method
+## ParagraphFormat::set_AddSpaceBetweenFarEastAndDigit method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndDigit](../get_addspacebetweenfareastanddigit/).

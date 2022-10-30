@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.markup/customxmlpart/set_id/
 ---
-## CustomXmlPart.set_Id method
+## CustomXmlPart::set_Id method
 
 
 Setter for [Aspose::Words::Markup::CustomXmlPart::get_Id](../get_id/).

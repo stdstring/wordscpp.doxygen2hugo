@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/removeat/
 ---
-## ChartSeriesCollection.RemoveAt method
+## ChartSeriesCollection::RemoveAt method
 
 
 Removes a [ChartSeries](../../chartseries/) at the specified index.

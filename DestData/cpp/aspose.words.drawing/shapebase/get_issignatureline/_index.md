@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.drawing/shapebase/get_issignatureline/
 ---
-## ShapeBase.get_IsSignatureLine method
+## ShapeBase::get_IsSignatureLine method
 
 
 Indicates that shape is a [SignatureLine](../../signatureline/).

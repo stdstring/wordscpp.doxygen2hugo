@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldformat/get_datetimeformat/
 ---
-## FieldFormat.get_DateTimeFormat method
+## FieldFormat::get_DateTimeFormat method
 
 
 Gets or sets a formatting that is applied to a date and time field result. Corresponds to the \@ switch.

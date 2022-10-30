@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_numeralformat/
 ---
-## FixedPageSaveOptions.set_NumeralFormat method
+## FixedPageSaveOptions::set_NumeralFormat method
 
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat](../get_numeralformat/).

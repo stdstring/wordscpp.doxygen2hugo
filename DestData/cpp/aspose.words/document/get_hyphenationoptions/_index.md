@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words/document/get_hyphenationoptions/
 ---
-## Document.get_HyphenationOptions method
+## Document::get_HyphenationOptions method
 
 
 Provides access to document hyphenation options.

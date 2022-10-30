@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/shape/get_stroke/
 ---
-## Shape.get_Stroke method
+## Shape::get_Stroke method
 
 
 Defines a stroke for a shape.

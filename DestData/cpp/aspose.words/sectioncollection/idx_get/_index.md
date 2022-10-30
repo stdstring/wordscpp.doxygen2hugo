@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/sectioncollection/idx_get/
 ---
-## SectionCollection.idx_get method
+## SectionCollection::idx_get method
 
 
 Retrieves a section at the given index.

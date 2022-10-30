@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/mergefieldimagedimension/set_value/
 ---
-## MergeFieldImageDimension.set_Value method
+## MergeFieldImageDimension::set_Value method
 
 
 The value.

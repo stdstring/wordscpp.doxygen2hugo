@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/tablestyle/get_conditionalstyles/
 ---
-## TableStyle.get_ConditionalStyles method
+## TableStyle::get_ConditionalStyles method
 
 
 Collection of conditional styles that may be defined for this table style.

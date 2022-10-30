@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/style/get_document/
 ---
-## Style.get_Document method
+## Style::get_Document method
 
 
 Gets the owner document.

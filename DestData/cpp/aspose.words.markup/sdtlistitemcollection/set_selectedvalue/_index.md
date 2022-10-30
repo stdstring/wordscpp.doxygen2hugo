@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.markup/sdtlistitemcollection/set_selectedvalue/
 ---
-## SdtListItemCollection.set_SelectedValue method
+## SdtListItemCollection::set_SelectedValue method
 
 
 Setter for [Aspose::Words::Markup::SdtListItemCollection::get_SelectedValue](../get_selectedvalue/).

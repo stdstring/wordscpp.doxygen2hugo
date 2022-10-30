@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.markup/customxmlschemacollection/indexof/
 ---
-## CustomXmlSchemaCollection.IndexOf method
+## CustomXmlSchemaCollection::IndexOf method
 
 
 Returns the zero-based index of the specified value in the collection.

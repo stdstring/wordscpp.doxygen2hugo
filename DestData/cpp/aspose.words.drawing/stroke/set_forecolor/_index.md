@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.drawing/stroke/set_forecolor/
 ---
-## Stroke.set_ForeColor method
+## Stroke::set_ForeColor method
 
 
 Setter for [Aspose::Words::Drawing::Stroke::get_ForeColor](../get_forecolor/).

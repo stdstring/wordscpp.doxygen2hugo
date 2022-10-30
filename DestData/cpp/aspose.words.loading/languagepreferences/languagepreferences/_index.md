@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.loading/languagepreferences/languagepreferences/
 ---
-## LanguagePreferences.LanguagePreferences method
+## LanguagePreferences::LanguagePreferences method
 
 
 

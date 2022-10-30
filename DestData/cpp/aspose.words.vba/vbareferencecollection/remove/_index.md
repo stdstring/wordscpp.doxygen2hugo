@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.vba/vbareferencecollection/remove/
 ---
-## VbaReferenceCollection.Remove method
+## VbaReferenceCollection::Remove method
 
 
 Removes the first occurrence of a specified [VbaReference](../../vbareference/) item from the collection.

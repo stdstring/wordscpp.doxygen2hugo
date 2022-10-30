@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/getenumerator/
 ---
-## OdsoFieldMapDataCollection.GetEnumerator method
+## OdsoFieldMapDataCollection::GetEnumerator method
 
 
 Returns an enumerator object that can be used to iterate over all items in the collection.

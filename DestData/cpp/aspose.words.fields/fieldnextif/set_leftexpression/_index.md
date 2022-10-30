@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldnextif/set_leftexpression/
 ---
-## FieldNextIf.set_LeftExpression method
+## FieldNextIf::set_LeftExpression method
 
 
 Sets the left part of the comparison expression.

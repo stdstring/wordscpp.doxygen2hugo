@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/idx_get/
 ---
-## ChartSeriesCollection.idx_get method
+## ChartSeriesCollection::idx_get method
 
 
 Returns a [ChartSeries](../../chartseries/) at the specified index.

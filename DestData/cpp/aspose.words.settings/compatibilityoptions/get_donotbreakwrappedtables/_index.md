@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotbreakwrappedtables/
 ---
-## CompatibilityOptions.get_DoNotBreakWrappedTables method
+## CompatibilityOptions::get_DoNotBreakWrappedTables method
 
 
 Do Not Allow Floating [Tables](../../../aspose.words.tables/) To Break Across Pages.

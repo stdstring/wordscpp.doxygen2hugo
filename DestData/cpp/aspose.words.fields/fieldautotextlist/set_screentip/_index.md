@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldautotextlist/set_screentip/
 ---
-## FieldAutoTextList.set_ScreenTip method
+## FieldAutoTextList::set_ScreenTip method
 
 
 Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip](../get_screentip/).

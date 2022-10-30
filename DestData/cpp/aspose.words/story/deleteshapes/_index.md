@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/story/deleteshapes/
 ---
-## Story.DeleteShapes method
+## Story::DeleteShapes method
 
 
 Deletes all shapes from the text of this story.

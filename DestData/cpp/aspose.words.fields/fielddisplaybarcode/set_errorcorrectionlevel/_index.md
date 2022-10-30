@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_errorcorrectionlevel/
 ---
-## FieldDisplayBarcode.set_ErrorCorrectionLevel method
+## FieldDisplayBarcode::set_ErrorCorrectionLevel method
 
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel](../get_errorcorrectionlevel/).

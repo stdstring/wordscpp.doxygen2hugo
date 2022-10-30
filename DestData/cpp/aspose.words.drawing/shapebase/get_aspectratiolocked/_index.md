@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/shapebase/get_aspectratiolocked/
 ---
-## ShapeBase.get_AspectRatioLocked method
+## ShapeBase::get_AspectRatioLocked method
 
 
 Specifies whether the shape's aspect ratio is locked.

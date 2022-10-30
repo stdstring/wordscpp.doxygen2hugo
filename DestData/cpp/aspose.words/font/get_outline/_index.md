@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words/font/get_outline/
 ---
-## Font.get_Outline method
+## Font::get_Outline method
 
 
 True if the font is formatted as outline.

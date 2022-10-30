@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/document/cleanup/
 ---
-## Document.Cleanup() method
+## Document::Cleanup() method
 
 
 Cleans unused styles and lists from the document.
@@ -57,7 +57,7 @@ doc->Cleanup();
 ASSERT_EQ(4, doc->get_Styles()->get_Count());
 ```
 
-## Document.Cleanup(const System::SharedPtr\<Aspose::Words::CleanupOptions\>\&) method
+## Document::Cleanup(const System::SharedPtr\<Aspose::Words::CleanupOptions\>\&) method
 
 
 Cleans unused styles and lists from the document depending on given [CleanupOptions](../../cleanupoptions/).

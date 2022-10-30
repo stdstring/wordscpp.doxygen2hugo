@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.lists/listlabel/get_labelvalue/
 ---
-## ListLabel.get_LabelValue method
+## ListLabel::get_LabelValue method
 
 
 Gets a numeric value for this label.

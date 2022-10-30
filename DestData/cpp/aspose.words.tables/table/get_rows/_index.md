@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.tables/table/get_rows/
 ---
-## Table.get_Rows method
+## Table::get_Rows method
 
 
 Provides typed access to the rows of the table.

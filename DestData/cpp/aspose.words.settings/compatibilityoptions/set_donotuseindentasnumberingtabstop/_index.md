@@ -6,7 +6,7 @@ type: docs
 weight: 1210
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotuseindentasnumberingtabstop/
 ---
-## CompatibilityOptions.set_DoNotUseIndentAsNumberingTabStop method
+## CompatibilityOptions::set_DoNotUseIndentAsNumberingTabStop method
 
 
 Ignore Hanging Indent When Creating Tab Stop After Numbering.

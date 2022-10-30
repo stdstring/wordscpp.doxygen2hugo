@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/warninginfo/get_warningtype/
 ---
-## WarningInfo.get_WarningType method
+## WarningInfo::get_WarningType method
 
 
 Returns the type of the warning.

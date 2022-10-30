@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words/border/set_linewidth/
 ---
-## Border.set_LineWidth method
+## Border::set_LineWidth method
 
 
 Setter for [Aspose::Words::Border::get_LineWidth](../get_linewidth/).

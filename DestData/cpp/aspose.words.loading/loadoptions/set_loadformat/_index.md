@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.loading/loadoptions/set_loadformat/
 ---
-## LoadOptions.set_LoadFormat method
+## LoadOptions::set_LoadFormat method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_LoadFormat](../get_loadformat/).

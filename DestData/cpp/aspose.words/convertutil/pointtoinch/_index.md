@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/convertutil/pointtoinch/
 ---
-## ConvertUtil.PointToInch method
+## ConvertUtil::PointToInch method
 
 
 Converts points to inches.

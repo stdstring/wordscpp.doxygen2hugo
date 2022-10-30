@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldstart/get_nodetype/
 ---
-## FieldStart.get_NodeType method
+## FieldStart::get_NodeType method
 
 
 Returns **FieldStart**.

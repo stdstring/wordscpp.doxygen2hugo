@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/aspose.words/pagesetup/set_borderappliesto/
 ---
-## PageSetup.set_BorderAppliesTo method
+## PageSetup::set_BorderAppliesTo method
 
 
 Setter for [Aspose::Words::PageSetup::get_BorderAppliesTo](../get_borderappliesto/).

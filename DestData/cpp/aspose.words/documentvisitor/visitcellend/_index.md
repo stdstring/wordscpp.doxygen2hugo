@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/documentvisitor/visitcellend/
 ---
-## DocumentVisitor.VisitCellEnd method
+## DocumentVisitor::VisitCellEnd method
 
 
 Called when enumeration of a table cell has ended.

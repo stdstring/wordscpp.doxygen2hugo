@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/set_invertifnegative/
 ---
-## ChartDataPoint.set_InvertIfNegative method
+## ChartDataPoint::set_InvertIfNegative method
 
 
 Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative](../../ichartdatapoint/get_invertifnegative/).

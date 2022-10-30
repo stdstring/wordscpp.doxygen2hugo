@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/horizontalruleformat/get_alignment/
 ---
-## HorizontalRuleFormat.get_Alignment method
+## HorizontalRuleFormat::get_Alignment method
 
 
 Gets or sets the alignment of the horizontal rule.

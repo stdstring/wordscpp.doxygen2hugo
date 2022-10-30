@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/nodecollection/clear/
 ---
-## NodeCollection.Clear method
+## NodeCollection::Clear method
 
 
 Removes all nodes from this collection and from the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.layout/revisionoptions/set_revisedpropertieseffect/
 ---
-## RevisionOptions.set_RevisedPropertiesEffect method
+## RevisionOptions::set_RevisedPropertiesEffect method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesEffect](../get_revisedpropertieseffect/).

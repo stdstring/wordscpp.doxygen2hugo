@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.webextensions/webextension/get_reference/
 ---
-## WebExtension.get_Reference method
+## WebExtension::get_Reference method
 
 
 Specifies the primary reference to an web extension.

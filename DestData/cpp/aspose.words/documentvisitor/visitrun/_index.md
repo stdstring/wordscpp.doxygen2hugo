@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.words/documentvisitor/visitrun/
 ---
-## DocumentVisitor.VisitRun method
+## DocumentVisitor::VisitRun method
 
 
 Called when a run of text in the is encountered.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/bookmark/get_lastcolumn/
 ---
-## Bookmark.get_LastColumn method
+## Bookmark::get_LastColumn method
 
 
 Gets the zero-based index of the last column of the table column range associated with the bookmark.

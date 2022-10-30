@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/inlinestory/get_lastparagraph/
 ---
-## InlineStory.get_LastParagraph method
+## InlineStory::get_LastParagraph method
 
 
 Gets the last paragraph in the story.

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/barcodeparameters/get_fixcheckdigit/
 ---
-## BarcodeParameters.get_FixCheckDigit method
+## BarcodeParameters::get_FixCheckDigit method
 
 
 Whether to fix the check digit if it’s invalid.

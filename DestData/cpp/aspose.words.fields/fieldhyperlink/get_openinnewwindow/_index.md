@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldhyperlink/get_openinnewwindow/
 ---
-## FieldHyperlink.get_OpenInNewWindow method
+## FieldHyperlink::get_OpenInNewWindow method
 
 
 Gets or sets whether to open the destination site in a new web browser window.

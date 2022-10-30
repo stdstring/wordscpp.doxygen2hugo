@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.drawing/stroke/get_startarrowwidth/
 ---
-## Stroke.get_StartArrowWidth method
+## Stroke::get_StartArrowWidth method
 
 
 Defines the arrowhead width for the start of a stroke.

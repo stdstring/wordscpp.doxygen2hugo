@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/aspose.words.settings/compatibilityoptions/get_underlinetabinnumlist/
 ---
-## CompatibilityOptions.get_UnderlineTabInNumList method
+## CompatibilityOptions::get_UnderlineTabInNumList method
 
 
 Underline Following Character Following Numbering.

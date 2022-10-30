@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pageset/get_even/
 ---
-## PageSet.get_Even method
+## PageSet::get_Even method
 
 
 Gets a set with all the even pages of the document in their original order.

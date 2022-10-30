@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/textpath/get_strikethrough/
 ---
-## TextPath.get_StrikeThrough method
+## TextPath::get_StrikeThrough method
 
 
 True if the font is formatted as strikethrough text.

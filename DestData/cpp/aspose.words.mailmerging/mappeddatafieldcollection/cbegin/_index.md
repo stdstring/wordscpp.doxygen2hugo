@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/cbegin/
 ---
-## MappedDataFieldCollection.cbegin method
+## MappedDataFieldCollection::cbegin method
 
 
 

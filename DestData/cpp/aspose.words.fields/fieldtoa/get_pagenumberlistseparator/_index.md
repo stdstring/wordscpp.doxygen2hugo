@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldtoa/get_pagenumberlistseparator/
 ---
-## FieldToa.get_PageNumberListSeparator method
+## FieldToa::get_PageNumberListSeparator method
 
 
 Gets or sets the character sequence that is used to separate two page numbers in a page number list.

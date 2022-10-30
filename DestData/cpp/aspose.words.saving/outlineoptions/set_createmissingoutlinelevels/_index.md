@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/outlineoptions/set_createmissingoutlinelevels/
 ---
-## OutlineOptions.set_CreateMissingOutlineLevels method
+## OutlineOptions::set_CreateMissingOutlineLevels method
 
 
 Setter for [Aspose::Words::Saving::OutlineOptions::get_CreateMissingOutlineLevels](../get_createmissingoutlinelevels/).

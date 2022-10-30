@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.fields/field/set_islocked/
 ---
-## Field.set_IsLocked method
+## Field::set_IsLocked method
 
 
 Setter for [Aspose::Words::Fields::Field::get_IsLocked](../get_islocked/).

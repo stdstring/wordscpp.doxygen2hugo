@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.settings/writeprotection/get_readonlyrecommended/
 ---
-## WriteProtection.get_ReadOnlyRecommended method
+## WriteProtection::get_ReadOnlyRecommended method
 
 
 Specifies whether the document author has recommended that the document be opened as read-only.

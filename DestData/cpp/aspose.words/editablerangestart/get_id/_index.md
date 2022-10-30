@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/editablerangestart/get_id/
 ---
-## EditableRangeStart.get_Id method
+## EditableRangeStart::get_Id method
 
 
 Specifies the identifier of the editable range.

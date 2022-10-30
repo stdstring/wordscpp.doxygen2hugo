@@ -6,7 +6,7 @@ type: docs
 weight: 690
 url: /cpp/aspose.words.tables/table/set_relativehorizontalalignment/
 ---
-## Table.set_RelativeHorizontalAlignment method
+## Table::set_RelativeHorizontalAlignment method
 
 
 Setter for [Aspose::Words::Tables::Table::get_RelativeHorizontalAlignment](../get_relativehorizontalalignment/).

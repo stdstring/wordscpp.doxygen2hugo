@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.drawing/shape/get_signatureline/
 ---
-## Shape.get_SignatureLine method
+## Shape::get_SignatureLine method
 
 
 Gets [SignatureLine](./) object if the shape is a signature line. Returns **null** otherwise.

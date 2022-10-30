@@ -6,7 +6,7 @@ type: docs
 weight: 781
 url: /cpp/aspose.words.tables/table/set_textwrapping/
 ---
-## Table.set_TextWrapping method
+## Table::set_TextWrapping method
 
 
 Setter for [Aspose::Words::Tables::Table::get_TextWrapping](../get_textwrapping/).

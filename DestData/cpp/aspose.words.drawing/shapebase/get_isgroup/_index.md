@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.drawing/shapebase/get_isgroup/
 ---
-## ShapeBase.get_IsGroup method
+## ShapeBase::get_IsGroup method
 
 
 Returns true if this is a group shape.

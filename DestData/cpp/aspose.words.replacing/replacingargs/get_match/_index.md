@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.replacing/replacingargs/get_match/
 ---
-## ReplacingArgs.get_Match method
+## ReplacingArgs::get_Match method
 
 
 The **Match** resulting from a single regular expression match during a **Replace**.
@@ -16,21 +16,25 @@ System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replac
 ```
 
 
-**Match.Index** gets the zero-based starting position of the match from the start of the find and replace range.
+**Match.Index"</b>
+gets the zero-based starting
+position of the match from the start of the find and replace range.
 
-## Examples
+@par Examples
 
 Shows how to apply a different font to new content via FindReplaceOptions.
-```cpp
+@code 
 void ConvertNumbersToHexadecimal()
 {
     auto doc = MakeObject<Document>();
     auto builder = MakeObject<DocumentBuilder>(doc);
 
     builder->get_Font()->set_Name(u"Arial");
-    builder->Writeln(String(u"Numbers that the find-and-replace operation will convert to hexadecimal and highlight:") + u"123, 456, 789 and 17379.");
+    builder->Writeln(String(u"Numbers that the find-and-replace operation will convert to hexadecimal and highlight:
 
-    // We can use a "FindReplaceOptions" object to modify the find-and-replace process.
+") + u"123, 456, 789 and 17379.");
+
+    // We can use a "[FindReplaceOptions](../../findreplaceoptions/)" object to modify the find-and-replace process.
     auto options = MakeObject<FindReplaceOptions>();
 
     // Set the "HighlightColor" property to a background color that we want to apply to the operation's resulting text.
@@ -77,15 +81,10 @@ public:
         mLog->AppendLine(String::IsNullOrEmpty(args->get_GroupName()) ? String::Format(u"\tGroup index:\t{0}", args->get_GroupIndex())
                                                                       : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
 
-        return ReplaceAction::Replace;
-    }
+** return **ReplaceAction::Replace**; }**
 
-    String GetLog() { return mLog->ToString(); }
+** String GetLog() { return mLog->**ToString()**; }**
 
-    NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }
+** NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }**
 
-private:
-    int mCurrentReplacementNumber;
-    SharedPtr<System::Text::StringBuilder> mLog;
-};
-```
+**private: int mCurrentReplacementNumber; SharedPtr<System::Text::StringBuilder> mLog; };  **

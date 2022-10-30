@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldhyperlink/set_target/
 ---
-## FieldHyperlink.set_Target method
+## FieldHyperlink::set_Target method
 
 
 Setter for [Aspose::Words::Fields::FieldHyperlink::get_Target](../get_target/).

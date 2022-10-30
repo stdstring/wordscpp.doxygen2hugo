@@ -6,7 +6,7 @@ type: docs
 weight: 1301
 url: /cpp/aspose.words/font/set_themefontfareast/
 ---
-## Font.set_ThemeFontFarEast method
+## Font::set_ThemeFontFarEast method
 
 
 Setter for [Aspose::Words::Font::get_ThemeFontFarEast](../get_themefontfareast/).

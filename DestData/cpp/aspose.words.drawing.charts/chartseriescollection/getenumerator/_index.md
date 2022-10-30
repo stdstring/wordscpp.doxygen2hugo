@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/getenumerator/
 ---
-## ChartSeriesCollection.GetEnumerator method
+## ChartSeriesCollection::GetEnumerator method
 
 
 Returns an enumerator object.

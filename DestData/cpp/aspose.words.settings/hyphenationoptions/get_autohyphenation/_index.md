@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.settings/hyphenationoptions/get_autohyphenation/
 ---
-## HyphenationOptions.get_AutoHyphenation method
+## HyphenationOptions::get_AutoHyphenation method
 
 
 Gets or sets value determining whether automatic hyphenation is turned on for the document. Default value for this property is **false**.

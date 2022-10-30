@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.settings/odso/clone/
 ---
-## Odso.Clone method
+## Odso::Clone method
 
 
 Returns a deep clone of this object.

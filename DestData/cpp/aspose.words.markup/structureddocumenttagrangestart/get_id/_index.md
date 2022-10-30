@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_id/
 ---
-## StructuredDocumentTagRangeStart.get_Id method
+## StructuredDocumentTagRangeStart::get_Id method
 
 
 Specifies a unique read-only persistent numerical Id for this structured document tag.

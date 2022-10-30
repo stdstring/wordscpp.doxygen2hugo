@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/fontinfocollection/cbegin/
 ---
-## FontInfoCollection.cbegin method
+## FontInfoCollection::cbegin method
 
 
 

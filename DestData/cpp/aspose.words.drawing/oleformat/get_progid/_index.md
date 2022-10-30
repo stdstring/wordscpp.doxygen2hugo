@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/oleformat/get_progid/
 ---
-## OleFormat.get_ProgId method
+## OleFormat::get_ProgId method
 
 
 Gets or sets the ProgID of the OLE object.

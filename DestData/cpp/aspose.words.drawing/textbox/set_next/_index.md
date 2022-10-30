@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/textbox/set_next/
 ---
-## TextBox.set_Next method
+## TextBox::set_Next method
 
 
 Setter for [Aspose::Words::Drawing::TextBox::get_Next](../get_next/).

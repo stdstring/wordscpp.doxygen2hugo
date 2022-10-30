@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.lists/listlevel/set_islegal/
 ---
-## ListLevel.set_IsLegal method
+## ListLevel::set_IsLegal method
 
 
 Setter for [Aspose::Words::Lists::ListLevel::get_IsLegal](../get_islegal/).

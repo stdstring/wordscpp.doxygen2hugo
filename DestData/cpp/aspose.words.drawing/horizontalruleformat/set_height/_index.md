@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_height/
 ---
-## HorizontalRuleFormat.set_Height method
+## HorizontalRuleFormat::set_Height method
 
 
 Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Height](../get_height/).

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.lists/listlevelcollection/cend/
 ---
-## ListLevelCollection.cend method
+## ListLevelCollection::cend method
 
 
 

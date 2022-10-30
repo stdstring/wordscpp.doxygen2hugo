@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/editablerangestart/accept/
 ---
-## EditableRangeStart.Accept method
+## EditableRangeStart::Accept method
 
 
 Accepts a visitor.

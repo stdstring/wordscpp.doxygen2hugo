@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/shape/get_chart/
 ---
-## Shape.get_Chart method
+## Shape::get_Chart method
 
 
 Provides access to the chart properties if this shape has a Chart.

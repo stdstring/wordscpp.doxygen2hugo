@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/docsaveoptions/docsaveoptions/
 ---
-## DocSaveOptions.DocSaveOptions() method
+## DocSaveOptions::DocSaveOptions() method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Doc** format.
@@ -48,7 +48,7 @@ doc = MakeObject<Document>(ArtifactsDir + u"DocSaveOptions.SaveAsDoc.doc", loadO
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
-## DocSaveOptions.DocSaveOptions(Aspose::Words::SaveFormat) method
+## DocSaveOptions::DocSaveOptions(Aspose::Words::SaveFormat) method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Doc** or **Dot** format.

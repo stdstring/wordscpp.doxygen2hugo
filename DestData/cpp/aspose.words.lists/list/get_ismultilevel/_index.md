@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.lists/list/get_ismultilevel/
 ---
-## List.get_IsMultiLevel method
+## List::get_IsMultiLevel method
 
 
 Returns true when the list contains 9 levels; false when 1 level.

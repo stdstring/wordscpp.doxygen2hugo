@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_totaleditingtime/
 ---
-## BuiltInDocumentProperties.get_TotalEditingTime method
+## BuiltInDocumentProperties::get_TotalEditingTime method
 
 
 Gets or sets the total editing time in minutes.

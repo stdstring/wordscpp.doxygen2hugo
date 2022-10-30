@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/paragraphformat/clearformatting/
 ---
-## ParagraphFormat.ClearFormatting method
+## ParagraphFormat::ClearFormatting method
 
 
 Resets to default paragraph formatting.

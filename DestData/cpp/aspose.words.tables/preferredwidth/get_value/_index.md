@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.tables/preferredwidth/get_value/
 ---
-## PreferredWidth.get_Value method
+## PreferredWidth::get_Value method
 
 
 Gets the preferred width value. The unit of measure is specified in the [Type](../get_type/) property.

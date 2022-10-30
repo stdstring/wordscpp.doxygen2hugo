@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words/documentbuilder/insertdocument/
 ---
-## DocumentBuilder.InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode) method
+## DocumentBuilder::InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode) method
 
 
 Inserts a document at the cursor position.
@@ -45,7 +45,7 @@ builder->InsertDocument(docToInsert, ImportFormatMode::KeepSourceFormatting);
 builder->get_Document()->Save(ArtifactsDir + u"DocumentBuilder.InsertDocument.docx");
 ```
 
-## DocumentBuilder.InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
+## DocumentBuilder::InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
 Inserts a document at the cursor position.

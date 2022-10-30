@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.drawing/shape/set_filled/
 ---
-## Shape.set_Filled method
+## Shape::set_Filled method
 
 
 Setter for [Aspose::Words::Drawing::Shape::get_Filled](../get_filled/).

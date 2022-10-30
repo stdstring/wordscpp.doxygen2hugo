@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fielddocvariable/get_variablename/
 ---
-## FieldDocVariable.get_VariableName method
+## FieldDocVariable::get_VariableName method
 
 
 Gets or sets the name of the document variable to retrieve.

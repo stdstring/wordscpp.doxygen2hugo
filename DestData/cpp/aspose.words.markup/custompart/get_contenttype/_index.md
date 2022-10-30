@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.markup/custompart/get_contenttype/
 ---
-## CustomPart.get_ContentType method
+## CustomPart::get_ContentType method
 
 
 Specifies the content type of this custom part.

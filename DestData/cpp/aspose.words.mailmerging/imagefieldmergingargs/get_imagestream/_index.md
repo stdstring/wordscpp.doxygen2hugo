@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_imagestream/
 ---
-## ImageFieldMergingArgs.get_ImageStream method
+## ImageFieldMergingArgs::get_ImageStream method
 
 
 Specifies the stream for the mail merge engine to read an image from.

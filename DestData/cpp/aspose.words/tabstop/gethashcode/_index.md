@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/tabstop/gethashcode/
 ---
-## TabStop.GetHashCode method
+## TabStop::GetHashCode method
 
 
 Calculates hash code for this object.

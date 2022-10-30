@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_saveformat/
 ---
-## OoxmlSaveOptions.set_SaveFormat method
+## OoxmlSaveOptions::set_SaveFormat method
 
 
 Setter for [Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat](../get_saveformat/).

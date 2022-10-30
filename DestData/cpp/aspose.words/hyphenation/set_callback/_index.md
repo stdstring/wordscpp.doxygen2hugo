@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/hyphenation/set_callback/
 ---
-## Hyphenation.set_Callback method
+## Hyphenation::set_Callback method
 
 
 Setter for [Aspose::Words::Hyphenation::get_Callback](../get_callback/).

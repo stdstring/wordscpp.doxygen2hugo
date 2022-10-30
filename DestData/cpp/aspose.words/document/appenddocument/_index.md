@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/document/appenddocument/
 ---
-## Document.AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode) method
+## Document::AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode) method
 
 
 Appends the specified document to the end of this document.
@@ -75,7 +75,7 @@ for (const auto& fileName : docFiles)
 dstDoc->Save(ArtifactsDir + u"Document.AppendAllDocumentsInFolder.doc");
 ```
 
-## Document.AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
+## Document::AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
 Appends the specified document to the end of this document.

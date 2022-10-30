@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/watermark/setimage/
 ---
-## Watermark.SetImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
+## Watermark::SetImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
 
 
 Adds Image watermark into the document.
@@ -21,7 +21,7 @@ void Aspose::Words::Watermark::SetImage(const System::SharedPtr<System::Drawing:
 | image | const System::SharedPtr\<System::Drawing::Image\>\& | Image that is displayed as a watermark. |
 
 
-## Watermark.SetImage(const System::SharedPtr\<System::Drawing::Image\>\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
+## Watermark::SetImage(const System::SharedPtr\<System::Drawing::Image\>\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
 
 
 Adds Image watermark into the document.
@@ -56,7 +56,7 @@ doc->get_Watermark()->SetImage(System::Drawing::Image::FromFile(ImageDir + u"Log
 doc->Save(ArtifactsDir + u"Document.ImageWatermark.docx");
 ```
 
-## Watermark.SetImage(const System::String\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
+## Watermark::SetImage(const System::String\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
 
 
 Adds Image watermark into the document.

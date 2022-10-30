@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldaddressblock/getfieldnames/
 ---
-## FieldAddressBlock.GetFieldNames method
+## FieldAddressBlock::GetFieldNames method
 
 
 Returns a collection of mail merge field names used by the field.

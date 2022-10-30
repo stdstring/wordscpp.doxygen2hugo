@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/documentbase/importnode/
 ---
-## DocumentBase.ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
+## DocumentBase::ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
 
 
 Imports a node from another document to the current document.
@@ -64,7 +64,7 @@ dstDoc->AppendChild(importedSection);
 ASSERT_EQ(u"Destination document first paragraph text.\r\nSource document first paragraph text.\r\n", dstDoc->ToString(SaveFormat::Text));
 ```
 
-## DocumentBase.ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool, Aspose::Words::ImportFormatMode) method
+## DocumentBase::ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool, Aspose::Words::ImportFormatMode) method
 
 
 Imports a node from another document to the current document with an option to control formatting.

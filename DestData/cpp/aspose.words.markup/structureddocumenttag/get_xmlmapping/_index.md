@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.markup/structureddocumenttag/get_xmlmapping/
 ---
-## StructuredDocumentTag.get_XmlMapping method
+## StructuredDocumentTag::get_XmlMapping method
 
 
 Gets an object that represents the mapping of this structured document tag to XML data in a custom XML part of the current document.

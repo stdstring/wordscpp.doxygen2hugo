@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.settings/viewoptions/set_zoomtype/
 ---
-## ViewOptions.set_ZoomType method
+## ViewOptions::set_ZoomType method
 
 
 Setter for [Aspose::Words::Settings::ViewOptions::get_ZoomType](../get_zoomtype/).

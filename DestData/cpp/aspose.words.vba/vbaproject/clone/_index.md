@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbaproject/clone/
 ---
-## VbaProject.Clone method
+## VbaProject::Clone method
 
 
 Performs a copy of the [VbaProject](../).

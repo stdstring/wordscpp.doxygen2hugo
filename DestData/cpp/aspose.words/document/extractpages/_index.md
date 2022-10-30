@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/document/extractpages/
 ---
-## Document.ExtractPages method
+## Document::ExtractPages method
 
 
 Returns the [Document](../) object representing specified range of pages.

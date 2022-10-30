@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fields/dropdownitemcollection/removeat/
 ---
-## DropDownItemCollection.RemoveAt method
+## DropDownItemCollection::RemoveAt method
 
 
 Removes a value at the specified index.

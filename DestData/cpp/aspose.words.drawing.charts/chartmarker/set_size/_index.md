@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chartmarker/set_size/
 ---
-## ChartMarker.set_Size method
+## ChartMarker::set_Size method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartMarker::get_Size](../get_size/).

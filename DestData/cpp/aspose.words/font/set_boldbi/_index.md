@@ -6,7 +6,7 @@ type: docs
 weight: 768
 url: /cpp/aspose.words/font/set_boldbi/
 ---
-## Font.set_BoldBi method
+## Font::set_BoldBi method
 
 
 Setter for [Aspose::Words::Font::get_BoldBi](../get_boldbi/).

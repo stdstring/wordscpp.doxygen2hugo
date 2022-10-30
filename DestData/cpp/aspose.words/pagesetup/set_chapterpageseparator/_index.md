@@ -6,7 +6,7 @@ type: docs
 weight: 677
 url: /cpp/aspose.words/pagesetup/set_chapterpageseparator/
 ---
-## PageSetup.set_ChapterPageSeparator method
+## PageSetup::set_ChapterPageSeparator method
 
 
 Sets the separator character that appears between the chapter number and the page number.

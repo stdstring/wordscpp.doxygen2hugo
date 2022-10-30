@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/xmlmapping/get_customxmlpart/
 ---
-## XmlMapping.get_CustomXmlPart method
+## XmlMapping::get_CustomXmlPart method
 
 
 Returns the custom XML data part to which the parent structured document tag is mapped.

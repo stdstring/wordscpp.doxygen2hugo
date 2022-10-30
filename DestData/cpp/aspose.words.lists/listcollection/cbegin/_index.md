@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.lists/listcollection/cbegin/
 ---
-## ListCollection.cbegin method
+## ListCollection::cbegin method
 
 
 

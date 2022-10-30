@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/imagedata/get_bilevel/
 ---
-## ImageData.get_BiLevel method
+## ImageData::get_BiLevel method
 
 
 Determines whether an image will be displayed in black and white.

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/signatureline/set_signer/
 ---
-## SignatureLine.set_Signer method
+## SignatureLine::set_Signer method
 
 
 Setter for [Aspose::Words::Drawing::SignatureLine::get_Signer](../get_signer/).

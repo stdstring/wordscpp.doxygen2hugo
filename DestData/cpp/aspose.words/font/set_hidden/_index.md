@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/aspose.words/font/set_hidden/
 ---
-## Font.set_Hidden method
+## Font::set_Hidden method
 
 
 Setter for [Aspose::Words::Font::get_Hidden](../get_hidden/).

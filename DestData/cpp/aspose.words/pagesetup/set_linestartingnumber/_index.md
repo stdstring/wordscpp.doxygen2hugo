@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/aspose.words/pagesetup/set_linestartingnumber/
 ---
-## PageSetup.set_LineStartingNumber method
+## PageSetup::set_LineStartingNumber method
 
 
 Setter for [Aspose::Words::PageSetup::get_LineStartingNumber](../get_linestartingnumber/).

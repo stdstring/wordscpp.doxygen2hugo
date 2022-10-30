@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words/compositenode/settemplateweakptr/
 ---
-## CompositeNode.SetTemplateWeakPtr method
+## CompositeNode::SetTemplateWeakPtr method
 
 
 

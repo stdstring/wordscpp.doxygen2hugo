@@ -6,7 +6,7 @@ type: docs
 weight: 898
 url: /cpp/aspose.words/documentbuilder/writeln/
 ---
-## DocumentBuilder.Writeln() method
+## DocumentBuilder::Writeln() method
 
 
 Inserts a paragraph break into the document.
@@ -17,7 +17,7 @@ void Aspose::Words::DocumentBuilder::Writeln()
 
 
 Calls [InsertParagraph](../insertparagraph/). 
-## DocumentBuilder.Writeln(const System::String\&) method
+## DocumentBuilder::Writeln(const System::String\&) method
 
 
 Inserts a string and a paragraph break into the document.

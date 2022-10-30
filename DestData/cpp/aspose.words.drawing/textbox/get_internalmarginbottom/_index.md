@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/textbox/get_internalmarginbottom/
 ---
-## TextBox.get_InternalMarginBottom method
+## TextBox::get_InternalMarginBottom method
 
 
 Specifies the inner bottom margin in points for a shape.

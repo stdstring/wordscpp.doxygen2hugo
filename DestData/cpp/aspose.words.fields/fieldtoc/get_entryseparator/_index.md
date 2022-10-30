@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldtoc/get_entryseparator/
 ---
-## FieldToc.get_EntrySeparator method
+## FieldToc::get_EntrySeparator method
 
 
 Gets or sets a sequence of characters that separate an entry and its page number.

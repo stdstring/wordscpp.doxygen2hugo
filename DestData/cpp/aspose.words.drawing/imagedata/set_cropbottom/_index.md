@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/imagedata/set_cropbottom/
 ---
-## ImageData.set_CropBottom method
+## ImageData::set_CropBottom method
 
 
 Setter for [Aspose::Words::Drawing::ImageData::get_CropBottom](../get_cropbottom/).

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/olepackage/get_displayname/
 ---
-## OlePackage.get_DisplayName method
+## OlePackage::get_DisplayName method
 
 
 Gets or sets OLE Package display name.

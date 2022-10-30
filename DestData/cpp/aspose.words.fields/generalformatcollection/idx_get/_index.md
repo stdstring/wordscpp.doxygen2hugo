@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/generalformatcollection/idx_get/
 ---
-## GeneralFormatCollection.idx_get method
+## GeneralFormatCollection::idx_get method
 
 
 Gets a general format at the specified index.

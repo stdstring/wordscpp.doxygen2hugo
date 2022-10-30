@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/tabstopcollection/removebyposition/
 ---
-## TabStopCollection.RemoveByPosition method
+## TabStopCollection::RemoveByPosition method
 
 
 Removes a tab stop at the specified position from the collection.

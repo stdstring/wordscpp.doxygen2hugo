@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.rendering/pageinfo/get_papertray/
 ---
-## PageInfo.get_PaperTray method
+## PageInfo::get_PaperTray method
 
 
 Gets the paper tray (bin) for this page as specified in the document. The value is implementation (printer) specific.

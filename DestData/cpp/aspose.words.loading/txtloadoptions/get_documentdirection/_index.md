@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.loading/txtloadoptions/get_documentdirection/
 ---
-## TxtLoadOptions.get_DocumentDirection method
+## TxtLoadOptions::get_DocumentDirection method
 
 
 Gets or sets a document direction. The default value is **LeftToRight**.

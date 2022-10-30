@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.fields/barcodeparameters/set_displaytext/
 ---
-## BarcodeParameters.set_DisplayText method
+## BarcodeParameters::set_DisplayText method
 
 
 Whether to display barcode data (text) along with image.

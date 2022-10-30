@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/physicalfontinfo/get_version/
 ---
-## PhysicalFontInfo.get_Version method
+## PhysicalFontInfo::get_Version method
 
 
 Version string of the font.

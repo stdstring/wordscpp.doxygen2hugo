@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_crossesat/
 ---
-## ChartAxis.set_CrossesAt method
+## ChartAxis::set_CrossesAt method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_CrossesAt](../get_crossesat/).

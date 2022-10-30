@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/stroke/get_imagebytes/
 ---
-## Stroke.get_ImageBytes method
+## Stroke::get_ImageBytes method
 
 
 Defines the image for a stroke image or pattern fill.

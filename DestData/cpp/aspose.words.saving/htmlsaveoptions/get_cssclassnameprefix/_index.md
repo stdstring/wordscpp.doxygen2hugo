@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_cssclassnameprefix/
 ---
-## HtmlSaveOptions.get_CssClassNamePrefix method
+## HtmlSaveOptions::get_CssClassNamePrefix method
 
 
 Specifies a prefix which is added to all CSS class names. Default value is an empty string and generated CSS class names have no common prefix.

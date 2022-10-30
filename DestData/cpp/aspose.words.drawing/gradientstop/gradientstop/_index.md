@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/gradientstop/gradientstop/
 ---
-## GradientStop.GradientStop(System::Drawing::Color, double) method
+## GradientStop::GradientStop(System::Drawing::Color, double) method
 
 
 Initializes a new instance of the [GradientStop](../) class.
@@ -74,7 +74,7 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);
 doc->Save(ArtifactsDir + u"Shape.GradientStops.docx", saveOptions);
 ```
 
-## GradientStop.GradientStop(System::Drawing::Color, double, double) method
+## GradientStop::GradientStop(System::Drawing::Color, double, double) method
 
 
 Initializes a new instance of the [GradientStop](../) class.

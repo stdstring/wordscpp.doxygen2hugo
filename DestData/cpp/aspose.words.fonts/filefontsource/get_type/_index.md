@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/filefontsource/get_type/
 ---
-## FileFontSource.get_Type method
+## FileFontSource::get_Type method
 
 
 Returns the type of the font source.

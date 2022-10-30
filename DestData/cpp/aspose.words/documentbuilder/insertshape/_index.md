@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/aspose.words/documentbuilder/insertshape/
 ---
-## DocumentBuilder.InsertShape(Aspose::Words::Drawing::ShapeType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertShape(Aspose::Words::Drawing::ShapeType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts free-floating shape with specified position, size and text wrap type.
@@ -58,7 +58,7 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Transitional);
 doc->Save(ArtifactsDir + u"Shape.ShapeInsertion.docx", saveOptions);
 ```
 
-## DocumentBuilder.InsertShape(Aspose::Words::Drawing::ShapeType, double, double) method
+## DocumentBuilder::InsertShape(Aspose::Words::Drawing::ShapeType, double, double) method
 
 
 Inserts inline shape with specified type and size.

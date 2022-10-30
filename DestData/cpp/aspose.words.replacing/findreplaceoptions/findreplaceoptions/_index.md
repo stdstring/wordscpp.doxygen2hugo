@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.replacing/findreplaceoptions/findreplaceoptions/
 ---
-## FindReplaceOptions.FindReplaceOptions() method
+## FindReplaceOptions::FindReplaceOptions() method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.replacing/findreplaceoptions/findreplaceoptions/
 Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions()
 ```
 
-## FindReplaceOptions.FindReplaceOptions(Aspose::Words::Replacing::FindReplaceDirection) method
+## FindReplaceOptions::FindReplaceOptions(Aspose::Words::Replacing::FindReplaceDirection) method
 
 
 
@@ -24,7 +24,7 @@ Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions()
 Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions(Aspose::Words::Replacing::FindReplaceDirection direction)
 ```
 
-## FindReplaceOptions.FindReplaceOptions(Aspose::Words::Replacing::FindReplaceDirection, const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) method
+## FindReplaceOptions::FindReplaceOptions(Aspose::Words::Replacing::FindReplaceDirection, const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) method
 
 
 
@@ -33,7 +33,7 @@ Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions(Aspose::Words::
 Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions(Aspose::Words::Replacing::FindReplaceDirection direction, const System::SharedPtr<Aspose::Words::Replacing::IReplacingCallback> &replacingCallback)
 ```
 
-## FindReplaceOptions.FindReplaceOptions(const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) method
+## FindReplaceOptions::FindReplaceOptions(const System::SharedPtr\<Aspose::Words::Replacing::IReplacingCallback\>\&) method
 
 
 

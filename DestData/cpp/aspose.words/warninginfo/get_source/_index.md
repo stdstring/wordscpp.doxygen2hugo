@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/warninginfo/get_source/
 ---
-## WarningInfo.get_Source method
+## WarningInfo::get_Source method
 
 
 Returns the source of the warning.

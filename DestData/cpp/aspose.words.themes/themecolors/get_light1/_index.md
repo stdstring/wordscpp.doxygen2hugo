@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.themes/themecolors/get_light1/
 ---
-## ThemeColors.get_Light1 method
+## ThemeColors::get_Light1 method
 
 
 Specifies color Light 1.

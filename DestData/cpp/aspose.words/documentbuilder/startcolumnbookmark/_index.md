@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/aspose.words/documentbuilder/startcolumnbookmark/
 ---
-## DocumentBuilder.StartColumnBookmark method
+## DocumentBuilder::StartColumnBookmark method
 
 
 Marks the current position in the document as a column bookmark start. The position must be in a table cell.

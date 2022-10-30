@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/fill/get_color/
 ---
-## Fill.get_Color method
+## Fill::get_Color method
 
 
 

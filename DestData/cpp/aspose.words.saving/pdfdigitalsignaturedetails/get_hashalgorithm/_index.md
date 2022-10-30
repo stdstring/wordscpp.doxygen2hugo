@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_hashalgorithm/
 ---
-## PdfDigitalSignatureDetails.get_HashAlgorithm method
+## PdfDigitalSignatureDetails::get_HashAlgorithm method
 
 
 Gets or sets the hash algorithm.

@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.words.drawing/shapebase/get_relativeverticalposition/
 ---
-## ShapeBase.get_RelativeVerticalPosition method
+## ShapeBase::get_RelativeVerticalPosition method
 
 
 Specifies relative to what the shape is positioned vertically.

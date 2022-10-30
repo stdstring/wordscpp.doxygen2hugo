@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldgotobutton/set_displaytext/
 ---
-## FieldGoToButton.set_DisplayText method
+## FieldGoToButton::set_DisplayText method
 
 
 Setter for [Aspose::Words::Fields::FieldGoToButton::get_DisplayText](../get_displaytext/).

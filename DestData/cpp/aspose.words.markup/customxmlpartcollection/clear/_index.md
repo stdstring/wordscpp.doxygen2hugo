@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/customxmlpartcollection/clear/
 ---
-## CustomXmlPartCollection.Clear method
+## CustomXmlPartCollection::Clear method
 
 
 Removes all elements from the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/saveoptions/get_defaulttemplate/
 ---
-## SaveOptions.get_DefaultTemplate method
+## SaveOptions::get_DefaultTemplate method
 
 
 Gets or sets path to default template (including filename). Default value for this property is **empty string**.

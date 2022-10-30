@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words/pagesetup/get_pagenumberstyle/
 ---
-## PageSetup.get_PageNumberStyle method
+## PageSetup::get_PageNumberStyle method
 
 
 Gets or sets the page number format.

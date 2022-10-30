@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.vba/vbareferencecollection/end/
 ---
-## VbaReferenceCollection.end() const method
+## VbaReferenceCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.vba/vbareferencecollection/end/
 const_iterator Aspose::Words::Vba::VbaReferenceCollection::end() const noexcept
 ```
 
-## VbaReferenceCollection.end() method
+## VbaReferenceCollection::end() method
 
 
 

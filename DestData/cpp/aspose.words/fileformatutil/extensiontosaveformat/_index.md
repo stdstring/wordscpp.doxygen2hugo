@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/fileformatutil/extensiontosaveformat/
 ---
-## FileFormatUtil.ExtensionToSaveFormat method
+## FileFormatUtil::ExtensionToSaveFormat method
 
 
 Converts a file name extension into a [SaveFormat](../../saveformat/) value.

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.framesets/framesetcollection/virtualizebeginiterator/
 ---
-## FramesetCollection.virtualizeBeginIterator method
+## FramesetCollection::virtualizeBeginIterator method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/getchildnodes/
 ---
-## StructuredDocumentTagRangeStart.GetChildNodes method
+## StructuredDocumentTagRangeStart::GetChildNodes method
 
 
 Returns a live collection of child nodes that match the specified types.

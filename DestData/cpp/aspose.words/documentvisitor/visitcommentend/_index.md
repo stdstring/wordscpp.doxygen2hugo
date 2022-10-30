@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/documentvisitor/visitcommentend/
 ---
-## DocumentVisitor.VisitCommentEnd method
+## DocumentVisitor::VisitCommentEnd method
 
 
 Called when enumeration of a comment text has ended.

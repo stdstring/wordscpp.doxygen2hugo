@@ -6,7 +6,7 @@ type: docs
 weight: 690
 url: /cpp/aspose.words/paragraphformat/set_keepwithnext/
 ---
-## ParagraphFormat.set_KeepWithNext method
+## ParagraphFormat::set_KeepWithNext method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_KeepWithNext](../get_keepwithnext/).

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/section/get_body/
 ---
-## Section.get_Body method
+## Section::get_Body method
 
 
 Returns the **Body** child node of the section.

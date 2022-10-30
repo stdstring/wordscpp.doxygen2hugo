@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.saving/imagesaveoptions/set_tiffbinarizationmethod/
 ---
-## ImageSaveOptions.set_TiffBinarizationMethod method
+## ImageSaveOptions::set_TiffBinarizationMethod method
 
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_TiffBinarizationMethod](../get_tiffbinarizationmethod/).

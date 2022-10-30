@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldxe/get_isitalic/
 ---
-## FieldXE.get_IsItalic method
+## FieldXE::get_IsItalic method
 
 
 Gets or sets whether to apply italic formatting to the entry's page number.

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignorefieldcodes/
 ---
-## FindReplaceOptions.set_IgnoreFieldCodes method
+## FindReplaceOptions::set_IgnoreFieldCodes method
 
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFieldCodes](../get_ignorefieldcodes/).

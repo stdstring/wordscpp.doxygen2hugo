@@ -6,7 +6,7 @@ type: docs
 weight: 677
 url: /cpp/aspose.words/documentbuilder/movetofield/
 ---
-## DocumentBuilder.MoveToField method
+## DocumentBuilder::MoveToField method
 
 
 Moves the cursor to a field in the document.

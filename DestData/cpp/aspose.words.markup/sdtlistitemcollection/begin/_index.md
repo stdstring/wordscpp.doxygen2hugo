@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/sdtlistitemcollection/begin/
 ---
-## SdtListItemCollection.begin() const method
+## SdtListItemCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/begin/
 const_iterator Aspose::Words::Markup::SdtListItemCollection::begin() const noexcept
 ```
 
-## SdtListItemCollection.begin() method
+## SdtListItemCollection::begin() method
 
 
 

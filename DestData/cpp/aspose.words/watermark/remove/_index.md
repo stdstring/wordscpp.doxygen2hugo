@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/watermark/remove/
 ---
-## Watermark.Remove method
+## Watermark::Remove method
 
 
 Removes the watermark.

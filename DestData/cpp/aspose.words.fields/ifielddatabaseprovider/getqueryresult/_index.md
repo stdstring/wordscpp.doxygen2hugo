@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/ifielddatabaseprovider/getqueryresult/
 ---
-## IFieldDatabaseProvider.GetQueryResult method
+## IFieldDatabaseProvider::GetQueryResult method
 
 
 Returns query result.

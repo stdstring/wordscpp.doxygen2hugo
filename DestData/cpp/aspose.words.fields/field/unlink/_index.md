@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.fields/field/unlink/
 ---
-## Field.Unlink method
+## Field::Unlink method
 
 
 Performs the field unlink.

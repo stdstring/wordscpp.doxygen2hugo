@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/fileformatinfo/get_loadformat/
 ---
-## FileFormatInfo.get_LoadFormat method
+## FileFormatInfo::get_LoadFormat method
 
 
 Gets the detected document format.

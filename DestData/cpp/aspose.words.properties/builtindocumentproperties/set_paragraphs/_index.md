@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_paragraphs/
 ---
-## BuiltInDocumentProperties.set_Paragraphs method
+## BuiltInDocumentProperties::set_Paragraphs method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Paragraphs](../get_paragraphs/).

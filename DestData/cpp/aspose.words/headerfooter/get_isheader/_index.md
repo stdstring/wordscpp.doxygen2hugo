@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/headerfooter/get_isheader/
 ---
-## HeaderFooter.get_IsHeader method
+## HeaderFooter::get_IsHeader method
 
 
 True if this **HeaderFooter** object is a header.

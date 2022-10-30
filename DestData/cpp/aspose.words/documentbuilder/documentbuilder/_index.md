@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/documentbuilder/documentbuilder/
 ---
-## DocumentBuilder.DocumentBuilder() method
+## DocumentBuilder::DocumentBuilder() method
 
 
 Initializes a new instance of this class.
@@ -15,7 +15,7 @@ Initializes a new instance of this class.
 Aspose::Words::DocumentBuilder::DocumentBuilder()
 ```
 
-## DocumentBuilder.DocumentBuilder(const System::SharedPtr\<Aspose::Words::Document\>\&) method
+## DocumentBuilder::DocumentBuilder(const System::SharedPtr\<Aspose::Words::Document\>\&) method
 
 
 Initializes a new instance of this class.

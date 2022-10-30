@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.words.saving/saveoptions/createsaveoptions/
 ---
-## SaveOptions.CreateSaveOptions(Aspose::Words::SaveFormat) method
+## SaveOptions::CreateSaveOptions(Aspose::Words::SaveFormat) method
 
 
 Creates a save options object of a class suitable for the specified save format.
@@ -46,7 +46,7 @@ saveOptions->set_MemoryOptimization(memoryOptimization);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.MemoryOptimization.pdf", saveOptions);
 ```
 
-## SaveOptions.CreateSaveOptions(const System::String\&) method
+## SaveOptions::CreateSaveOptions(const System::String\&) method
 
 
 Creates a save options object of a class suitable for the file extension specified in the given file name.

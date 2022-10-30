@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.tables/row/gettext/
 ---
-## Row.GetText method
+## Row::GetText method
 
 
 Gets the text of all cells in this row including the end of row character.

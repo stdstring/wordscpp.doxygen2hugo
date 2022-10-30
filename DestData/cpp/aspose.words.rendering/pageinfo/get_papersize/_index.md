@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.rendering/pageinfo/get_papersize/
 ---
-## PageInfo.get_PaperSize method
+## PageInfo::get_PaperSize method
 
 
 Gets the paper size as enumeration.

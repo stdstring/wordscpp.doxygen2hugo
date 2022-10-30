@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words.mailmerging/mailmerge/set_mailmergecallback/
 ---
-## MailMerge.set_MailMergeCallback method
+## MailMerge::set_MailMergeCallback method
 
 
 Allows to handle particular events during mail merge.

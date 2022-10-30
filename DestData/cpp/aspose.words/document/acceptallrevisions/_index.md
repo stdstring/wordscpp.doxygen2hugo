@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/document/acceptallrevisions/
 ---
-## Document.AcceptAllRevisions method
+## Document::AcceptAllRevisions method
 
 
 Accepts all tracked changes in the document.

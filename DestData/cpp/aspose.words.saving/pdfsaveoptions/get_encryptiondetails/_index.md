@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_encryptiondetails/
 ---
-## PdfSaveOptions.get_EncryptionDetails method
+## PdfSaveOptions::get_EncryptionDetails method
 
 
 Gets or sets the details for encrypting the output PDF document.

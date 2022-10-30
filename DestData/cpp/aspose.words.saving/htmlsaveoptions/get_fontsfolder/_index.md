@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsfolder/
 ---
-## HtmlSaveOptions.get_FontsFolder method
+## HtmlSaveOptions::get_FontsFolder method
 
 
 Specifies the physical folder where fonts are saved when exporting a document to HTML. Default is an empty string.

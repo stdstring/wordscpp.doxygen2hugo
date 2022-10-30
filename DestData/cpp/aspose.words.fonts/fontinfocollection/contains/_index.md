@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/fontinfocollection/contains/
 ---
-## FontInfoCollection.Contains method
+## FontInfoCollection::Contains method
 
 
 Determines whether the collection contains a font with the given name.

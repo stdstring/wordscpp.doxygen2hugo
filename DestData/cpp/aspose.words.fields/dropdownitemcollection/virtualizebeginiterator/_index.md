@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizebeginiterator/
 ---
-## DropDownItemCollection.virtualizeBeginIterator method
+## DropDownItemCollection::virtualizeBeginIterator method
 
 
 

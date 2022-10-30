@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.vba/vbamodulecollection/add/
 ---
-## VbaModuleCollection.Add method
+## VbaModuleCollection::Add method
 
 
 Adds a module to the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.saving/saveoptions/set_prettyformat/
 ---
-## SaveOptions.set_PrettyFormat method
+## SaveOptions::set_PrettyFormat method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_PrettyFormat](../get_prettyformat/).

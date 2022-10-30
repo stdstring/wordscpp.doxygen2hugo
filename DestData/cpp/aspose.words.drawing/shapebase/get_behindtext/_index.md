@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/shapebase/get_behindtext/
 ---
-## ShapeBase.get_BehindText method
+## ShapeBase::get_BehindText method
 
 
 Specifies whether the shape is below or above text.

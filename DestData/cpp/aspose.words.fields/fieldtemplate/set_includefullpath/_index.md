@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldtemplate/set_includefullpath/
 ---
-## FieldTemplate.set_IncludeFullPath method
+## FieldTemplate::set_IncludeFullPath method
 
 
 Setter for [Aspose::Words::Fields::FieldTemplate::get_IncludeFullPath](../get_includefullpath/).

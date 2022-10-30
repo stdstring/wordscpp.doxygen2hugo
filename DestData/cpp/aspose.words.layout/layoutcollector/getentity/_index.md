@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.layout/layoutcollector/getentity/
 ---
-## LayoutCollector.GetEntity method
+## LayoutCollector::GetEntity method
 
 
 Returns an opaque position of the [LayoutEnumerator](../../layoutenumerator/) which corresponds to the specified node. You can use returned value as an argument to [Current](../../layoutenumerator/get_current/) given the document being enumerated and the document of the node are the same.

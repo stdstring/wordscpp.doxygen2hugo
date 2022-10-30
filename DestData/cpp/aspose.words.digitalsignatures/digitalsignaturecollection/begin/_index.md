@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/begin/
 ---
-## DigitalSignatureCollection.begin() const method
+## DigitalSignatureCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/begin/
 const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin() const noexcept
 ```
 
-## DigitalSignatureCollection.begin() method
+## DigitalSignatureCollection::begin() method
 
 
 

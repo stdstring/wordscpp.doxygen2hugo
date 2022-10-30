@@ -6,7 +6,7 @@ type: docs
 weight: 729
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_security/
 ---
-## BuiltInDocumentProperties.set_Security method
+## BuiltInDocumentProperties::set_Security method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Security](../get_security/).

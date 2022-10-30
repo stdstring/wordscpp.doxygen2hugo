@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fonts/fontsettings/savesearchcache/
 ---
-## FontSettings.SaveSearchCache method
+## FontSettings::SaveSearchCache method
 
 
 Saves the font search cache to the stream.

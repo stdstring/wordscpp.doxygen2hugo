@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/folderfontsource/folderfontsource/
 ---
-## FolderFontSource.FolderFontSource(const System::String\&, bool) method
+## FolderFontSource::FolderFontSource(const System::String\&, bool) method
 
 
 Ctor.
@@ -41,7 +41,7 @@ ASSERT_EQ(FontSourceType::FontsFolder, folderFontSource->get_Type());
 ASSERT_EQ(1, folderFontSource->get_Priority());
 ```
 
-## FolderFontSource.FolderFontSource(const System::String\&, bool, int32_t) method
+## FolderFontSource::FolderFontSource(const System::String\&, bool, int32_t) method
 
 
 Ctor.

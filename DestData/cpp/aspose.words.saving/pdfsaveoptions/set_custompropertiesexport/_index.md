@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_custompropertiesexport/
 ---
-## PdfSaveOptions.set_CustomPropertiesExport method
+## PdfSaveOptions::set_CustomPropertiesExport method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_CustomPropertiesExport](../get_custompropertiesexport/).

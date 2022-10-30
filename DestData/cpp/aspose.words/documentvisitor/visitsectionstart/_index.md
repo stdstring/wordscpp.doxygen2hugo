@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.words/documentvisitor/visitsectionstart/
 ---
-## DocumentVisitor.VisitSectionStart method
+## DocumentVisitor::VisitSectionStart method
 
 
 Called when enumeration of a section has started.

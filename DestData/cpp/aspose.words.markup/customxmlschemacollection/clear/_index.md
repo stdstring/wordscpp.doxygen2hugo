@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.markup/customxmlschemacollection/clear/
 ---
-## CustomXmlSchemaCollection.Clear method
+## CustomXmlSchemaCollection::Clear method
 
 
 Removes all elements from the collection.

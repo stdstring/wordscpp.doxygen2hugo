@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/style/get_paragraphformat/
 ---
-## Style.get_ParagraphFormat method
+## Style::get_ParagraphFormat method
 
 
 Gets the paragraph formatting of the style.

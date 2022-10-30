@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/pdfdigitalsignaturetimestampsettings/
 ---
-## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings() method
+## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings() method
 
 
 Initializes an instance of this class.
@@ -15,7 +15,7 @@ Initializes an instance of this class.
 Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings()
 ```
 
-## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&) method
+## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&) method
 
 
 Initializes an instance of this class.
@@ -71,7 +71,7 @@ ASSERT_EQ(u"MyPassword", options->get_DigitalSignatureDetails()->get_TimestampSe
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", options);
 ```
 
-## PdfDigitalSignatureTimestampSettings.PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) method
+## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) method
 
 
 Initializes an instance of this class.

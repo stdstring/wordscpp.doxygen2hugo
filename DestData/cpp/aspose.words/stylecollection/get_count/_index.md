@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/stylecollection/get_count/
 ---
-## StyleCollection.get_Count method
+## StyleCollection::get_Count method
 
 
 Gets the number of styles in the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.properties/documentpropertycollection/indexof/
 ---
-## DocumentPropertyCollection.IndexOf method
+## DocumentPropertyCollection::IndexOf method
 
 
 Gets the index of a property by name.

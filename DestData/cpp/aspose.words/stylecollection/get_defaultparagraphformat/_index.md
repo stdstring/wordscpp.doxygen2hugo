@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/stylecollection/get_defaultparagraphformat/
 ---
-## StyleCollection.get_DefaultParagraphFormat method
+## StyleCollection::get_DefaultParagraphFormat method
 
 
 Gets document default paragraph formatting.

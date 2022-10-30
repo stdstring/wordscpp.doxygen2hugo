@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.tables/row/get_lastcell/
 ---
-## Row.get_LastCell method
+## Row::get_LastCell method
 
 
 Returns the last **Cell** in the row.

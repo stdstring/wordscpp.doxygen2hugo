@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/border/clearformatting/
 ---
-## Border.ClearFormatting method
+## Border::ClearFormatting method
 
 
 Resets border properties to default values.

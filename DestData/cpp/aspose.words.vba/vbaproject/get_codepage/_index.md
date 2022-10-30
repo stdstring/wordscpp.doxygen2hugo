@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.vba/vbaproject/get_codepage/
 ---
-## VbaProject.get_CodePage method
+## VbaProject::get_CodePage method
 
 
 Returns the VBA project’s code page.

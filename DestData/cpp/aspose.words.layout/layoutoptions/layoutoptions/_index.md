@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.layout/layoutoptions/layoutoptions/
 ---
-## LayoutOptions.LayoutOptions method
+## LayoutOptions::LayoutOptions method
 
 
 

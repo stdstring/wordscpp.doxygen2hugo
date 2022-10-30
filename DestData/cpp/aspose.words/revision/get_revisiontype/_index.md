@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/revision/get_revisiontype/
 ---
-## Revision.get_RevisionType method
+## Revision::get_RevisionType method
 
 
 Gets the type of this revision.

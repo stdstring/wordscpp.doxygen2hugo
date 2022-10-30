@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/controlchar/tab/
 ---
-## ControlChar.Tab method
+## ControlChar::Tab method
 
 
 Tab character: "\x0009" or "\t".

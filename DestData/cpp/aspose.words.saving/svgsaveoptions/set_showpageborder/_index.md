@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.saving/svgsaveoptions/set_showpageborder/
 ---
-## SvgSaveOptions.set_ShowPageBorder method
+## SvgSaveOptions::set_ShowPageBorder method
 
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ShowPageBorder](../get_showpageborder/).

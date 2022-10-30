@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/fileformatutil/detectfileformat/
 ---
-## FileFormatUtil.DetectFileFormat(const System::SharedPtr\<System::IO::Stream\>\&) method
+## FileFormatUtil::DetectFileFormat(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Detects and returns the information about a format of a document stored in a stream.
@@ -65,7 +65,7 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 }
 ```
 
-## FileFormatUtil.DetectFileFormat(const System::String\&) method
+## FileFormatUtil::DetectFileFormat(const System::String\&) method
 
 
 Detects and returns the information about a format of a document stored in a disk file.
@@ -134,7 +134,7 @@ ASSERT_TRUE(info->get_HasDigitalSignature());
 ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDigitalSignatures.docx")->get_Count());
 ```
 
-## FileFormatUtil.DetectFileFormat(std::basic_istream\<CharType, Traits\>\&) method
+## FileFormatUtil::DetectFileFormat(std::basic_istream\<CharType, Traits\>\&) method
 
 
 

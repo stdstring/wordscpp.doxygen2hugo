@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fielddatabase/set_insertheadings/
 ---
-## FieldDatabase.set_InsertHeadings method
+## FieldDatabase::set_InsertHeadings method
 
 
 Sets whether to insert the field names from the database as column headings in the resulting table.

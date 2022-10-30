@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_defaultfontsubstitution/
 ---
-## FontSubstitutionSettings.get_DefaultFontSubstitution method
+## FontSubstitutionSettings::get_DefaultFontSubstitution method
 
 
 [Settings](../../../aspose.words.settings/) related to default font substitution rule.

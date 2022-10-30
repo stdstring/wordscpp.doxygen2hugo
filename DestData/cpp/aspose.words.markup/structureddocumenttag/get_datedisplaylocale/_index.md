@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.markup/structureddocumenttag/get_datedisplaylocale/
 ---
-## StructuredDocumentTag.get_DateDisplayLocale method
+## StructuredDocumentTag::get_DateDisplayLocale method
 
 
 Allows to set/get the language format for the date displayed in this **SDT**.

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.vba/vbamodulecollection/get_count/
 ---
-## VbaModuleCollection.get_Count method
+## VbaModuleCollection::get_Count method
 
 
 Returns the number of VBA modules in the collection.

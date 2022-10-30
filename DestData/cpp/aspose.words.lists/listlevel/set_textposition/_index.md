@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.lists/listlevel/set_textposition/
 ---
-## ListLevel.set_TextPosition method
+## ListLevel::set_TextPosition method
 
 
 Setter for [Aspose::Words::Lists::ListLevel::get_TextPosition](../get_textposition/).

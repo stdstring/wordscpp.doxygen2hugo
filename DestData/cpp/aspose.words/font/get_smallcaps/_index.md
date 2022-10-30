@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words/font/get_smallcaps/
 ---
-## Font.get_SmallCaps method
+## Font::get_SmallCaps method
 
 
 True if the font is formatted as small capital letters.

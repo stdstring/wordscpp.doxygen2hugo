@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.words/documentbuilder/insertparagraph/
 ---
-## DocumentBuilder.InsertParagraph method
+## DocumentBuilder::InsertParagraph method
 
 
 Inserts a paragraph break into the document.

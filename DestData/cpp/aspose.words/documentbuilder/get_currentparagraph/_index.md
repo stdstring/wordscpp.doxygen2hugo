@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/documentbuilder/get_currentparagraph/
 ---
-## DocumentBuilder.get_CurrentParagraph method
+## DocumentBuilder::get_CurrentParagraph method
 
 
 Gets the paragraph that is currently selected in this [DocumentBuilder](../).

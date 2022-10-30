@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_paragraphbreak/
 ---
-## TxtSaveOptionsBase.set_ParagraphBreak method
+## TxtSaveOptionsBase::set_ParagraphBreak method
 
 
 Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak](../get_paragraphbreak/).

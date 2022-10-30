@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/downsampleoptions/get_downsampleimages/
 ---
-## DownsampleOptions.get_DownsampleImages method
+## DownsampleOptions::get_DownsampleImages method
 
 
 Specifies whether images should be downsampled.

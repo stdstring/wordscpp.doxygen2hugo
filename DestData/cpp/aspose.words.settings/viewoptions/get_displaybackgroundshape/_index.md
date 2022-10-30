@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.settings/viewoptions/get_displaybackgroundshape/
 ---
-## ViewOptions.get_DisplayBackgroundShape method
+## ViewOptions::get_DisplayBackgroundShape method
 
 
 Controls display of the background shape in print layout view.

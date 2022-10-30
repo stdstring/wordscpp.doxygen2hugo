@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/warninginfo/get_description/
 ---
-## WarningInfo.get_Description method
+## WarningInfo::get_Description method
 
 
 Returns the description of the warning.

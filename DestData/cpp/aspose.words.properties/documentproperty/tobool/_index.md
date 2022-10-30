@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.properties/documentproperty/tobool/
 ---
-## DocumentProperty.ToBool method
+## DocumentProperty::ToBool method
 
 
 Returns the property value as bool.

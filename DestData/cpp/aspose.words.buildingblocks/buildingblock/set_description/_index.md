@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_description/
 ---
-## BuildingBlock.set_Description method
+## BuildingBlock::set_Description method
 
 
 Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Description](../get_description/).

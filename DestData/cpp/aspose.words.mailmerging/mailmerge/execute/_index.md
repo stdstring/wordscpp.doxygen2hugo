@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ---
-## MailMerge.Execute(const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) method
+## MailMerge::Execute(const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) method
 
 
 Performs a mail merge operation for a single record.
@@ -57,7 +57,7 @@ doc->get_MailMerge()->Execute(columns, URIs);
 doc->Save(ArtifactsDir + u"MailMergeEvent.ImageFromUrl.docx");
 ```
 
-## MailMerge.Execute(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\&) method
+## MailMerge::Execute(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\&) method
 
 
 Performs a mail merge from a custom data source.

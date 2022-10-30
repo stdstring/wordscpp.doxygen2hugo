@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words/conditionalstylecollection/idx_get/
 ---
-## ConditionalStyleCollection.idx_get(Aspose::Words::ConditionalStyleType) method
+## ConditionalStyleCollection::idx_get(Aspose::Words::ConditionalStyleType) method
 
 
 Retrieves a [ConditionalStyle](../../conditionalstyle/) object by conditional style type.
@@ -90,7 +90,7 @@ table->set_StyleOptions(table->get_StyleOptions() | TableStyleOptions::LastRow |
 doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 ```
 
-## ConditionalStyleCollection.idx_get(int32_t) method
+## ConditionalStyleCollection::idx_get(int32_t) method
 
 
 Retrieves a [ConditionalStyle](../../conditionalstyle/) object by index.

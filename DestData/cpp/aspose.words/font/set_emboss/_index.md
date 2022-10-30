@@ -6,7 +6,7 @@ type: docs
 weight: 820
 url: /cpp/aspose.words/font/set_emboss/
 ---
-## Font.set_Emboss method
+## Font::set_Emboss method
 
 
 Setter for [Aspose::Words::Font::get_Emboss](../get_emboss/).

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words/pagesetup/get_headinglevelforchapter/
 ---
-## PageSetup.get_HeadingLevelForChapter method
+## PageSetup::get_HeadingLevelForChapter method
 
 
 Gets or sets the heading level style that is applied to the chapter titles in the document.

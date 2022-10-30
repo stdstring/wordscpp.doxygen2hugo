@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.words/documentbuilder/inserthyperlink/
 ---
-## DocumentBuilder.InsertHyperlink method
+## DocumentBuilder::InsertHyperlink method
 
 
 Inserts a hyperlink into the document.

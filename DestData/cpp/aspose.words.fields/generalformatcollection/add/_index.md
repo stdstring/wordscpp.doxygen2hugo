@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/generalformatcollection/add/
 ---
-## GeneralFormatCollection.Add method
+## GeneralFormatCollection::Add method
 
 
 Adds a general format to the collection.

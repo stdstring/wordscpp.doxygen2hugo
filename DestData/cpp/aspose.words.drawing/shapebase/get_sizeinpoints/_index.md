@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/aspose.words.drawing/shapebase/get_sizeinpoints/
 ---
-## ShapeBase.get_SizeInPoints method
+## ShapeBase::get_SizeInPoints method
 
 
 Gets the size of the shape in points.

@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_outlineoptions/
 ---
-## PdfSaveOptions.get_OutlineOptions method
+## PdfSaveOptions::get_OutlineOptions method
 
 
 Allows to specify outline options.

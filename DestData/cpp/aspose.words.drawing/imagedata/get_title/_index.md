@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/imagedata/get_title/
 ---
-## ImageData.get_Title method
+## ImageData::get_Title method
 
 
 Defines the title of an image.

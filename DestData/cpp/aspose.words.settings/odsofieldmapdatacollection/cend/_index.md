@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/cend/
 ---
-## OdsoFieldMapDataCollection.cend method
+## OdsoFieldMapDataCollection::cend method
 
 
 

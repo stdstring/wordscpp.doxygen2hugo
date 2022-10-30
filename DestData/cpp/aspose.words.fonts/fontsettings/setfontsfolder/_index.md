@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fonts/fontsettings/setfontsfolder/
 ---
-## FontSettings.SetFontsFolder method
+## FontSettings::SetFontsFolder method
 
 
 Sets the folder where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. This is a shortcut to **SetFontsFolders()** for setting only one font directory.

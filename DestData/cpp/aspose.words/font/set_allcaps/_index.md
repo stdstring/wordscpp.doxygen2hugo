@@ -6,7 +6,7 @@ type: docs
 weight: 729
 url: /cpp/aspose.words/font/set_allcaps/
 ---
-## Font.set_AllCaps method
+## Font::set_AllCaps method
 
 
 Setter for [Aspose::Words::Font::get_AllCaps](../get_allcaps/).

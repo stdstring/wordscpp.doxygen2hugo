@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/virtualizeendconstiterator/
 ---
-## OdsoFieldMapDataCollection.virtualizeEndConstIterator method
+## OdsoFieldMapDataCollection::virtualizeEndConstIterator method
 
 
 

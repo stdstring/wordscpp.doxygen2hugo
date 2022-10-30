@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/outlineoptions/get_bookmarksoutlinelevels/
 ---
-## OutlineOptions.get_BookmarksOutlineLevels method
+## OutlineOptions::get_BookmarksOutlineLevels method
 
 
 Allows to specify individual bookmarks outline level.

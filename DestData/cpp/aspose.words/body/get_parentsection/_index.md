@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/body/get_parentsection/
 ---
-## Body.get_ParentSection method
+## Body::get_ParentSection method
 
 
 Gets the parent section of this story.

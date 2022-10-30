@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesfolder/
 ---
-## XamlFixedSaveOptions.set_ResourcesFolder method
+## XamlFixedSaveOptions::set_ResourcesFolder method
 
 
 Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder](../get_resourcesfolder/).

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/stroke/get_endarrowtype/
 ---
-## Stroke.get_EndArrowType method
+## Stroke::get_EndArrowType method
 
 
 Defines the arrowhead for the end of a stroke.

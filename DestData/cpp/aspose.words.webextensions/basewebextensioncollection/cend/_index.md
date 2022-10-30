@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/cend/
 ---
-## BaseWebExtensionCollection.cend method
+## BaseWebExtensionCollection::cend method
 
 
 

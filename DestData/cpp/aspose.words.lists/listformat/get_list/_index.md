@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.lists/listformat/get_list/
 ---
-## ListFormat.get_List method
+## ListFormat::get_List method
 
 
 Gets or sets the list this paragraph is a member of.

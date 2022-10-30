@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/style/get_listformat/
 ---
-## Style.get_ListFormat method
+## Style::get_ListFormat method
 
 
 Provides access to the list formatting properties of a paragraph style.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.digitalsignatures/signoptions/signoptions/
 ---
-## SignOptions.SignOptions method
+## SignOptions::SignOptions method
 
 
 

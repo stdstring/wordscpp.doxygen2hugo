@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/imagesavingargs/get_imagefilename/
 ---
-## ImageSavingArgs.get_ImageFileName method
+## ImageSavingArgs::get_ImageFileName method
 
 
 Gets or sets the file name (without path) where the image will be saved to.

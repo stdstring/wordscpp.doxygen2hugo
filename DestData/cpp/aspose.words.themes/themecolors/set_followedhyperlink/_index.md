@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.themes/themecolors/set_followedhyperlink/
 ---
-## ThemeColors.set_FollowedHyperlink method
+## ThemeColors::set_FollowedHyperlink method
 
 
 Setter for [Aspose::Words::Themes::ThemeColors::get_FollowedHyperlink](../get_followedhyperlink/).

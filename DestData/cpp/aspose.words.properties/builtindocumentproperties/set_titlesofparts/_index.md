@@ -6,7 +6,7 @@ type: docs
 weight: 794
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_titlesofparts/
 ---
-## BuiltInDocumentProperties.set_TitlesOfParts method
+## BuiltInDocumentProperties::set_TitlesOfParts method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts](../get_titlesofparts/).

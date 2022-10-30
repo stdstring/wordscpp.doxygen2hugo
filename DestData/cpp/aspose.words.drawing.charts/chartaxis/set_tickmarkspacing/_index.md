@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_tickmarkspacing/
 ---
-## ChartAxis.set_TickMarkSpacing method
+## ChartAxis::set_TickMarkSpacing method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickMarkSpacing](../get_tickmarkspacing/).

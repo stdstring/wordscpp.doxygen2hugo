@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_encryptiondetails/
 ---
-## PdfSaveOptions.set_EncryptionDetails method
+## PdfSaveOptions::set_EncryptionDetails method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails](../get_encryptiondetails/).

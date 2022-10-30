@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/dropdownitemcollection/cbegin/
 ---
-## DropDownItemCollection.cbegin method
+## DropDownItemCollection::cbegin method
 
 
 

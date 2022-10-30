@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.layout/layoutcollector/get_document/
 ---
-## LayoutCollector.get_Document method
+## LayoutCollector::get_Document method
 
 
 Gets or sets the document this collector instance is attached to.

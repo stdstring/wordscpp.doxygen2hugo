@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/variablecollection/end/
 ---
-## VariableCollection.end() const method
+## VariableCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words/variablecollection/end/
 const_iterator Aspose::Words::VariableCollection::end() const noexcept
 ```
 
-## VariableCollection.end() method
+## VariableCollection::end() method
 
 
 

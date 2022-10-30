@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words/documentvisitor/visitrowstart/
 ---
-## DocumentVisitor.VisitRowStart method
+## DocumentVisitor::VisitRowStart method
 
 
 Called when enumeration of a table row has started.

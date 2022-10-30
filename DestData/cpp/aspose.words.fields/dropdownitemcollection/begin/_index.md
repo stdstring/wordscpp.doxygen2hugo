@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/dropdownitemcollection/begin/
 ---
-## DropDownItemCollection.begin() const method
+## DropDownItemCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/begin/
 const_iterator Aspose::Words::Fields::DropDownItemCollection::begin() const noexcept
 ```
 
-## DropDownItemCollection.begin() method
+## DropDownItemCollection::begin() method
 
 
 

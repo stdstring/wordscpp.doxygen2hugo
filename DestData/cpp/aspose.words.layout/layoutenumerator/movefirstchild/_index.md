@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.layout/layoutenumerator/movefirstchild/
 ---
-## LayoutEnumerator.MoveFirstChild method
+## LayoutEnumerator::MoveFirstChild method
 
 
 Moves to the first child entity.

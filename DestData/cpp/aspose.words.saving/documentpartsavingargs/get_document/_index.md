@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/documentpartsavingargs/get_document/
 ---
-## DocumentPartSavingArgs.get_Document method
+## DocumentPartSavingArgs::get_Document method
 
 
 Gets the document object that is being saved.

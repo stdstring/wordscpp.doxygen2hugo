@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.drawing/fill/twocolorgradient/
 ---
-## Fill.TwoColorGradient(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant) method
+## Fill::TwoColorGradient(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant) method
 
 
 Sets the specified fill to a two-color gradient.
@@ -62,7 +62,7 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);
 doc->Save(ArtifactsDir + u"Shape.GradientFill.docx", saveOptions);
 ```
 
-## Fill.TwoColorGradient(System::Drawing::Color, System::Drawing::Color, Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant) method
+## Fill::TwoColorGradient(System::Drawing::Color, System::Drawing::Color, Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant) method
 
 
 Sets the specified fill to a two-color gradient.

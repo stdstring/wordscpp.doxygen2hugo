@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_ticklabelalignment/
 ---
-## ChartAxis.set_TickLabelAlignment method
+## ChartAxis::set_TickLabelAlignment method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment](../get_ticklabelalignment/).

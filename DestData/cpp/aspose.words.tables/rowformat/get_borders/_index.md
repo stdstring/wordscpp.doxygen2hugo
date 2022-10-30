@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.tables/rowformat/get_borders/
 ---
-## RowFormat.get_Borders method
+## RowFormat::get_Borders method
 
 
 Gets the collection of default cell borders for the row.

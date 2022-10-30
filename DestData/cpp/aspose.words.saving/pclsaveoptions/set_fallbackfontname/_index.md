@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/pclsaveoptions/set_fallbackfontname/
 ---
-## PclSaveOptions.set_FallbackFontName method
+## PclSaveOptions::set_FallbackFontName method
 
 
 Setter for [Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName](../get_fallbackfontname/).

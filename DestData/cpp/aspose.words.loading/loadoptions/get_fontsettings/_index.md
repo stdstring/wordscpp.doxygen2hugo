@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.loading/loadoptions/get_fontsettings/
 ---
-## LoadOptions.get_FontSettings method
+## LoadOptions::get_FontSettings method
 
 
 Allows to specify document font settings.

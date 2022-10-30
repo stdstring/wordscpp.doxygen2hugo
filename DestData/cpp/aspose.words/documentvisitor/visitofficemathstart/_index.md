@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words/documentvisitor/visitofficemathstart/
 ---
-## DocumentVisitor.VisitOfficeMathStart method
+## DocumentVisitor::VisitOfficeMathStart method
 
 
 Called when enumeration of a Office [Math](../../../aspose.words.math/) object has started.

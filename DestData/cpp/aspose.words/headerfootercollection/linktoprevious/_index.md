@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/headerfootercollection/linktoprevious/
 ---
-## HeaderFooterCollection.LinkToPrevious(Aspose::Words::HeaderFooterType, bool) method
+## HeaderFooterCollection::LinkToPrevious(Aspose::Words::HeaderFooterType, bool) method
 
 
 Links or unlinks the specified header or footer to the corresponding header or footer in the previous section.
@@ -91,7 +91,7 @@ ASSERT_TRUE(doc->get_Sections()->idx_get(2)->get_HeadersFooters()->idx_get(3)->g
 doc->Save(ArtifactsDir + u"HeaderFooter.Link.docx");
 ```
 
-## HeaderFooterCollection.LinkToPrevious(bool) method
+## HeaderFooterCollection::LinkToPrevious(bool) method
 
 
 Links or unlinks all headers and footers to the corresponding headers and footers in the previous section.

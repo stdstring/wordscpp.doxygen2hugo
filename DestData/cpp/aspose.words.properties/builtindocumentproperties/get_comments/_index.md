@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_comments/
 ---
-## BuiltInDocumentProperties.get_Comments method
+## BuiltInDocumentProperties::get_Comments method
 
 
 Gets or sets the document comments.

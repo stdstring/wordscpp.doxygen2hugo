@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.saving/fontsavingargs/set_fontstream/
 ---
-## FontSavingArgs.set_FontStream(const System::SharedPtr\<System::IO::Stream\>\&) method
+## FontSavingArgs::set_FontStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Setter for [Aspose::Words::Saving::FontSavingArgs::get_FontStream](../get_fontstream/).
@@ -15,7 +15,7 @@ Setter for [Aspose::Words::Saving::FontSavingArgs::get_FontStream](../get_fontst
 void Aspose::Words::Saving::FontSavingArgs::set_FontStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
-## FontSavingArgs.set_FontStream(std::basic_ostream\<CharType, Traits\>\&) method
+## FontSavingArgs::set_FontStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 

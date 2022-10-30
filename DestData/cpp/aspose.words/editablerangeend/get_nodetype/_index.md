@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/editablerangeend/get_nodetype/
 ---
-## EditableRangeEnd.get_NodeType method
+## EditableRangeEnd::get_NodeType method
 
 
 Returns **EditableRangeEnd**.

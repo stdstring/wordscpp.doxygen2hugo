@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/aspose.words/document/get_sections/
 ---
-## Document.get_Sections method
+## Document::get_Sections method
 
 
 Returns a collection that represents all sections in the document.

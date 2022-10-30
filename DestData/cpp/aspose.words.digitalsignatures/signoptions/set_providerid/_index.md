@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.digitalsignatures/signoptions/set_providerid/
 ---
-## SignOptions.set_ProviderId method
+## SignOptions::set_ProviderId method
 
 
 Setter for [Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId](../get_providerid/).

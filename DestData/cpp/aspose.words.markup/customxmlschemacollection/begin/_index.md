@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlschemacollection/begin/
 ---
-## CustomXmlSchemaCollection.begin() const method
+## CustomXmlSchemaCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/begin/
 const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::begin() const noexcept
 ```
 
-## CustomXmlSchemaCollection.begin() method
+## CustomXmlSchemaCollection::begin() method
 
 
 

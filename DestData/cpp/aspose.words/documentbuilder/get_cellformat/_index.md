@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/documentbuilder/get_cellformat/
 ---
-## DocumentBuilder.get_CellFormat method
+## DocumentBuilder::get_CellFormat method
 
 
 Returns an object that represents current table cell formatting properties.

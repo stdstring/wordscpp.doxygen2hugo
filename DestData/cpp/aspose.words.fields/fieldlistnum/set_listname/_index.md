@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldlistnum/set_listname/
 ---
-## FieldListNum.set_ListName method
+## FieldListNum::set_ListName method
 
 
 Setter for [Aspose::Words::Fields::FieldListNum::get_ListName](../get_listname/).

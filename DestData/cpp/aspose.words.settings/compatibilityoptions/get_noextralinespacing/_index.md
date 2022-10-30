@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.settings/compatibilityoptions/get_noextralinespacing/
 ---
-## CompatibilityOptions.get_NoExtraLineSpacing method
+## CompatibilityOptions::get_NoExtraLineSpacing method
 
 
 Do Not Center Content on Lines With Exact Line Height.

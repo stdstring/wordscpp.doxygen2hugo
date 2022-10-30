@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words/font/get_name/
 ---
-## Font.get_Name method
+## Font::get_Name method
 
 
 Gets or sets the name of the font.

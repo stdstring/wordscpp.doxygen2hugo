@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.mailmerging/mailmerge/getregionshierarchy/
 ---
-## MailMerge.GetRegionsHierarchy method
+## MailMerge::GetRegionsHierarchy method
 
 
 Returns a full hierarchy of regions (with fields) available in the document.

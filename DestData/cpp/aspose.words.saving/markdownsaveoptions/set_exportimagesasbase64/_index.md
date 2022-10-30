@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/markdownsaveoptions/set_exportimagesasbase64/
 ---
-## MarkdownSaveOptions.set_ExportImagesAsBase64 method
+## MarkdownSaveOptions::set_ExportImagesAsBase64 method
 
 
 Setter for [Aspose::Words::Saving::MarkdownSaveOptions::get_ExportImagesAsBase64](../get_exportimagesasbase64/).

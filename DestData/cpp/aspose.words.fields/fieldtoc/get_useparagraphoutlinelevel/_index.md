@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.fields/fieldtoc/get_useparagraphoutlinelevel/
 ---
-## FieldToc.get_UseParagraphOutlineLevel method
+## FieldToc::get_UseParagraphOutlineLevel method
 
 
 Gets or sets whether to use the applied paragraph outline level.

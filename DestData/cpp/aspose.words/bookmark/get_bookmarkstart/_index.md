@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/bookmark/get_bookmarkstart/
 ---
-## Bookmark.get_BookmarkStart method
+## Bookmark::get_BookmarkStart method
 
 
 Gets the node that represents the start of the bookmark.

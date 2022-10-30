@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_words/
 ---
-## BuiltInDocumentProperties.set_Words method
+## BuiltInDocumentProperties::set_Words method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Words](../get_words/).

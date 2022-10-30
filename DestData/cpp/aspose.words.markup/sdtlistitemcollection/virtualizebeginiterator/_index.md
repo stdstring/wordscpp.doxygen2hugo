@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.markup/sdtlistitemcollection/virtualizebeginiterator/
 ---
-## SdtListItemCollection.virtualizeBeginIterator method
+## SdtListItemCollection::virtualizeBeginIterator method
 
 
 

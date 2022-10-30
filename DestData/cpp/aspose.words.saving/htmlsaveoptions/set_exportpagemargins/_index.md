@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportpagemargins/
 ---
-## HtmlSaveOptions.set_ExportPageMargins method
+## HtmlSaveOptions::set_ExportPageMargins method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins](../get_exportpagemargins/).

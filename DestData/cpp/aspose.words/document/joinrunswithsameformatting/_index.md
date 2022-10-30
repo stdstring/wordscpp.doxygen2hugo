@@ -6,7 +6,7 @@ type: docs
 weight: 768
 url: /cpp/aspose.words/document/joinrunswithsameformatting/
 ---
-## Document.JoinRunsWithSameFormatting method
+## Document::JoinRunsWithSameFormatting method
 
 
 Joins runs with same formatting in all paragraphs of the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/editablerange/set_editorgroup/
 ---
-## EditableRange.set_EditorGroup method
+## EditableRange::set_EditorGroup method
 
 
 Setter for [Aspose::Words::EditableRange::get_EditorGroup](../get_editorgroup/).

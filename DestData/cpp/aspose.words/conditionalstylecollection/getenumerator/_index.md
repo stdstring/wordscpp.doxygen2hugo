@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words/conditionalstylecollection/getenumerator/
 ---
-## ConditionalStyleCollection.GetEnumerator method
+## ConditionalStyleCollection::GetEnumerator method
 
 
 Returns an enumerator object that can be used to iterate over all conditional styles in the collection.

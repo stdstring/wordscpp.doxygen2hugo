@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.math/officemath/accept/
 ---
-## OfficeMath.Accept method
+## OfficeMath::Accept method
 
 
 Accepts a visitor.

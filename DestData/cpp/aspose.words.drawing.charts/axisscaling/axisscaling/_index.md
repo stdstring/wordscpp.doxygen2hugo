@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/axisscaling/axisscaling/
 ---
-## AxisScaling.AxisScaling method
+## AxisScaling::AxisScaling method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/downsampleoptions/downsampleoptions/
 ---
-## DownsampleOptions.DownsampleOptions method
+## DownsampleOptions::DownsampleOptions method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.vba/vbamodule/get_sourcecode/
 ---
-## VbaModule.get_SourceCode method
+## VbaModule::get_SourceCode method
 
 
 Gets or sets VBA project module source code.

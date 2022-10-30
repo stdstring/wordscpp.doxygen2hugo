@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/getsubstitutes/
 ---
-## TableSubstitutionRule.GetSubstitutes method
+## TableSubstitutionRule::GetSubstitutes method
 
 
 Returns array containing substitute font names for the specified original font name.

@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/aspose.words.tables/table/setborders/
 ---
-## Table.SetBorders method
+## Table::SetBorders method
 
 
 Sets all table borders to the specified line style, width and color.

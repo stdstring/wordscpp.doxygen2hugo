@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.replacing/ireplacingcallback/replacing/
 ---
-## IReplacingCallback.Replacing method
+## IReplacingCallback::Replacing method
 
 
 A user defined method that is called during a replace operation for each match found just before a replace is made.

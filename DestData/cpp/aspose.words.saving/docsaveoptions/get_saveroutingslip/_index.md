@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/docsaveoptions/get_saveroutingslip/
 ---
-## DocSaveOptions.get_SaveRoutingSlip method
+## DocSaveOptions::get_SaveRoutingSlip method
 
 
 When **false**, RoutingSlip data is not saved to output document. Default value is **true**.

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/shape/get_lastparagraph/
 ---
-## Shape.get_LastParagraph method
+## Shape::get_LastParagraph method
 
 
 Gets the last paragraph in the shape.

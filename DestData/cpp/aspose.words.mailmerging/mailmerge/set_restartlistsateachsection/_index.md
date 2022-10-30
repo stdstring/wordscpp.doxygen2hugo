@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.mailmerging/mailmerge/set_restartlistsateachsection/
 ---
-## MailMerge.set_RestartListsAtEachSection method
+## MailMerge::set_RestartListsAtEachSection method
 
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_RestartListsAtEachSection](../get_restartlistsateachsection/).

@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.tables/table/get_firstrow/
 ---
-## Table.get_FirstRow method
+## Table::get_FirstRow method
 
 
 Returns the first **Row** node in the table.

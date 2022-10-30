@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.saving/fontsavingargs/get_originalfilename/
 ---
-## FontSavingArgs.get_OriginalFileName method
+## FontSavingArgs::get_OriginalFileName method
 
 
 Gets the original font file name with an extension.

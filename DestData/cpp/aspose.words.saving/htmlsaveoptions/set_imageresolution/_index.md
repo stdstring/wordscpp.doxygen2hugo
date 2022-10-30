@@ -6,7 +6,7 @@ type: docs
 weight: 1028
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_imageresolution/
 ---
-## HtmlSaveOptions.set_ImageResolution method
+## HtmlSaveOptions::set_ImageResolution method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImageResolution](../get_imageresolution/).

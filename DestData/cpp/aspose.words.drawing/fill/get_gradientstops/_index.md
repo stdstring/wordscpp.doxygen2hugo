@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/fill/get_gradientstops/
 ---
-## Fill.get_GradientStops method
+## Fill::get_GradientStops method
 
 
 Gets a collection of [GradientStop](../../gradientstop/) objects for the fill.

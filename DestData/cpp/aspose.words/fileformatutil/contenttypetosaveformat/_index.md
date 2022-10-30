@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/fileformatutil/contenttypetosaveformat/
 ---
-## FileFormatUtil.ContentTypeToSaveFormat method
+## FileFormatUtil::ContentTypeToSaveFormat method
 
 
 Converts IANA content type into a save format enumerated value.

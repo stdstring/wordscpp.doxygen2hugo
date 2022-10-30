@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words/documentvisitor/visitheaderfooterstart/
 ---
-## DocumentVisitor.VisitHeaderFooterStart method
+## DocumentVisitor::VisitHeaderFooterStart method
 
 
 Called when enumeration of a header or footer in a section has started.

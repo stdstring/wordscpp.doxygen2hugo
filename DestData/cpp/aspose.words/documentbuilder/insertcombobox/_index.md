@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words/documentbuilder/insertcombobox/
 ---
-## DocumentBuilder.InsertComboBox method
+## DocumentBuilder::InsertComboBox method
 
 
 Inserts a combobox form field at the current position.

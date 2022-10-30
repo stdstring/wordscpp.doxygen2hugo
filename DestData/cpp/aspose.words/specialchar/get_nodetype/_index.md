@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/specialchar/get_nodetype/
 ---
-## SpecialChar.get_NodeType method
+## SpecialChar::get_NodeType method
 
 
 Returns **NodeType.SpecialChar**.

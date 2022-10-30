@@ -6,7 +6,7 @@ type: docs
 weight: 1080
 url: /cpp/aspose.words/pagesetup/set_topmargin/
 ---
-## PageSetup.set_TopMargin method
+## PageSetup::set_TopMargin method
 
 
 Setter for [Aspose::Words::PageSetup::get_TopMargin](../get_topmargin/).

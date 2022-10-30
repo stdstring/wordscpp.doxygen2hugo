@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.saving/imagesaveoptions/get_scale/
 ---
-## ImageSaveOptions.get_Scale method
+## ImageSaveOptions::get_Scale method
 
 
 Gets or sets the zoom factor for the generated images.

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/shading/set_foregroundpatterncolor/
 ---
-## Shading.set_ForegroundPatternColor method
+## Shading::set_ForegroundPatternColor method
 
 
 Setter for [Aspose::Words::Shading::get_ForegroundPatternColor](../get_foregroundpatterncolor/).

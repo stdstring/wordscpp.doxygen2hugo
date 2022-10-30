@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.settings/compatibilityoptions/get_autofittofirstfixedwidthcell/
 ---
-## CompatibilityOptions.get_AutofitToFirstFixedWidthCell method
+## CompatibilityOptions::get_AutofitToFirstFixedWidthCell method
 
 
 Allow Table Columns To Exceed Preferred Widths of Constituent Cells.

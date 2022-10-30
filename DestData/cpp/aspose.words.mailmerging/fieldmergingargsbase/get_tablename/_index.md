@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_tablename/
 ---
-## FieldMergingArgsBase.get_TableName method
+## FieldMergingArgsBase::get_TableName method
 
 
 Gets the name of the data table for the current merge operation or empty string if the name is not available.

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldcitation/get_prefix/
 ---
-## FieldCitation.get_Prefix method
+## FieldCitation::get_Prefix method
 
 
 Gets or sets a prefix that is prepended to the citation.

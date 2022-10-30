@@ -6,7 +6,7 @@ type: docs
 weight: 1548
 url: /cpp/aspose.words.settings/compatibilityoptions/set_suppressbottomspacing/
 ---
-## CompatibilityOptions.set_SuppressBottomSpacing method
+## CompatibilityOptions::set_SuppressBottomSpacing method
 
 
 Ignore Exact Line Height for Last Line on Page.

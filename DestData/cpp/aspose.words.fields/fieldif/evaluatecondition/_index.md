@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldif/evaluatecondition/
 ---
-## FieldIf.EvaluateCondition method
+## FieldIf::EvaluateCondition method
 
 
 Evaluates the condition.

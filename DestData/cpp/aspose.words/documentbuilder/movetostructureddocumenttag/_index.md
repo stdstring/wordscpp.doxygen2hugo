@@ -6,7 +6,7 @@ type: docs
 weight: 742
 url: /cpp/aspose.words/documentbuilder/movetostructureddocumenttag/
 ---
-## DocumentBuilder.MoveToStructuredDocumentTag(const System::SharedPtr\<Aspose::Words::Markup::StructuredDocumentTag\>\&, int32_t) method
+## DocumentBuilder::MoveToStructuredDocumentTag(const System::SharedPtr\<Aspose::Words::Markup::StructuredDocumentTag\>\&, int32_t) method
 
 
 Moves the cursor to the structured document tag.
@@ -22,7 +22,7 @@ void Aspose::Words::DocumentBuilder::MoveToStructuredDocumentTag(const System::S
 | characterIndex | int32_t | The index of the character inside the structured document tag. A negative value allows you to specify a position from the end of the structured document tag. Use -1 to move to the end of the structured document tag. If the structured document tag is at the block level, and you want to move the cursor to the end of its last paragraph, specify -2. |
 
 
-## DocumentBuilder.MoveToStructuredDocumentTag(int32_t, int32_t) method
+## DocumentBuilder::MoveToStructuredDocumentTag(int32_t, int32_t) method
 
 
 Moves the cursor to a structured document tag in the current section.

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.markup/customxmlpartcollection/virtualizebeginconstiterator/
 ---
-## CustomXmlPartCollection.virtualizeBeginConstIterator method
+## CustomXmlPartCollection::virtualizeBeginConstIterator method
 
 
 

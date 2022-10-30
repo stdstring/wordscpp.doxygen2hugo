@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.tables/cellformat/get_wraptext/
 ---
-## CellFormat.get_WrapText method
+## CellFormat::get_WrapText method
 
 
 If true, wrap text for the cell.

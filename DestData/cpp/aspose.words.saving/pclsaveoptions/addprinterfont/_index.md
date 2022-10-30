@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pclsaveoptions/addprinterfont/
 ---
-## PclSaveOptions.AddPrinterFont method
+## PclSaveOptions::AddPrinterFont method
 
 
 Adds information about font that is uploaded to the printer by manufacturer.

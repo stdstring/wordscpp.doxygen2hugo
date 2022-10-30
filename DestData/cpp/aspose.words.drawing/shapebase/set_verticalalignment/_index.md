@@ -6,7 +6,7 @@ type: docs
 weight: 1106
 url: /cpp/aspose.words.drawing/shapebase/set_verticalalignment/
 ---
-## ShapeBase.set_VerticalAlignment method
+## ShapeBase::set_VerticalAlignment method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment](../get_verticalalignment/).

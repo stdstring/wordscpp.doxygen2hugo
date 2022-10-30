@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.notes/footnoteoptions/get_restartrule/
 ---
-## FootnoteOptions.get_RestartRule method
+## FootnoteOptions::get_RestartRule method
 
 
 Determines when automatic numbering restarts.

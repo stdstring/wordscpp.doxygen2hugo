@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/dropdownitemcollection/cend/
 ---
-## DropDownItemCollection.cend method
+## DropDownItemCollection::cend method
 
 
 

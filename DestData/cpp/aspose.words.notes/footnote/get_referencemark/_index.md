@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.notes/footnote/get_referencemark/
 ---
-## Footnote.get_ReferenceMark method
+## Footnote::get_ReferenceMark method
 
 
 Gets/sets custom reference mark to be used for this footnote. Default value is **empty string**, meaning auto-numbered footnotes are used.

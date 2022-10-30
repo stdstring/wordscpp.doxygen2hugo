@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.webextensions/webextension/get_bindings/
 ---
-## WebExtension.get_Bindings method
+## WebExtension::get_Bindings method
 
 
 Specifies a list of web extension bindings.

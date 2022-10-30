@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/aspose.words.tables/table/setshading/
 ---
-## Table.SetShading method
+## Table::SetShading method
 
 
 Sets shading to the specified values on whole table.

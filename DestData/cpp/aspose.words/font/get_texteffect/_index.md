@@ -6,7 +6,7 @@ type: docs
 weight: 586
 url: /cpp/aspose.words/font/get_texteffect/
 ---
-## Font.get_TextEffect method
+## Font::get_TextEffect method
 
 
 Gets or sets the font animation effect.

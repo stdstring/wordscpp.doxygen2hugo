@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportimagesasbase64/
 ---
-## HtmlSaveOptions.set_ExportImagesAsBase64 method
+## HtmlSaveOptions::set_ExportImagesAsBase64 method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportImagesAsBase64](../get_exportimagesasbase64/).

@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words/compositenode/selectsinglenode/
 ---
-## CompositeNode.SelectSingleNode method
+## CompositeNode::SelectSingleNode method
 
 
 Selects the first [Node](../../node/) that matches the XPath expression.

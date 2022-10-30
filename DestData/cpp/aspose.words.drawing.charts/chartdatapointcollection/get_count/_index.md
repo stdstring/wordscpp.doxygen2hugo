@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/get_count/
 ---
-## ChartDataPointCollection.get_Count method
+## ChartDataPointCollection::get_Count method
 
 
 Returns the number of [ChartDataPoint](../../chartdatapoint/) in this collection.

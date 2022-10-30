@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.drawing/shapebase/get_islayoutincell/
 ---
-## ShapeBase.get_IsLayoutInCell method
+## ShapeBase::get_IsLayoutInCell method
 
 
 Gets or sets a flag indicating whether the shape is displayed inside a table or outside of it.

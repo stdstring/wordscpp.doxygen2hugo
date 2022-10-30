@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.loading/loadoptions/set_convertmetafilestopng/
 ---
-## LoadOptions.set_ConvertMetafilesToPng method
+## LoadOptions::set_ConvertMetafilesToPng method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng](../get_convertmetafilestopng/).

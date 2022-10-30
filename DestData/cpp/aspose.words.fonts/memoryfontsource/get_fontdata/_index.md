@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/memoryfontsource/get_fontdata/
 ---
-## MemoryFontSource.get_FontData method
+## MemoryFontSource::get_FontData method
 
 
 Binary font data.

@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_usecorefonts/
 ---
-## PdfSaveOptions.set_UseCoreFonts method
+## PdfSaveOptions::set_UseCoreFonts method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_UseCoreFonts](../get_usecorefonts/).

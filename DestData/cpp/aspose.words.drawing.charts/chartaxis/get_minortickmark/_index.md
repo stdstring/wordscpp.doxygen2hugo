@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_minortickmark/
 ---
-## ChartAxis.get_MinorTickMark method
+## ChartAxis::get_MinorTickMark method
 
 
 Returns or sets the minor tick marks for the axis.

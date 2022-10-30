@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldcitation/set_pagenumber/
 ---
-## FieldCitation.set_PageNumber method
+## FieldCitation::set_PageNumber method
 
 
 Setter for [Aspose::Words::Fields::FieldCitation::get_PageNumber](../get_pagenumber/).

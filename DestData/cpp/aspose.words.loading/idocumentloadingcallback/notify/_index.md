@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.loading/idocumentloadingcallback/notify/
 ---
-## IDocumentLoadingCallback.Notify method
+## IDocumentLoadingCallback::Notify method
 
 
 This is called to notify of document loading progress.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.framesets/frameset/set_framedefaulturl/
 ---
-## Frameset.set_FrameDefaultUrl method
+## Frameset::set_FrameDefaultUrl method
 
 
 Setter for [Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl](../get_framedefaulturl/).

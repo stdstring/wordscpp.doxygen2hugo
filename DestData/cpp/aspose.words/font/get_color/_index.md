@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/font/get_color/
 ---
-## Font.get_Color method
+## Font::get_Color method
 
 
 Gets or sets the color of the font.

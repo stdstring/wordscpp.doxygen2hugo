@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/clear/
 ---
-## MappedDataFieldCollection.Clear method
+## MappedDataFieldCollection::Clear method
 
 
 Removes all elements from the collection.

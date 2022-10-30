@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/get_explosion/
 ---
-## ChartDataPoint.get_Explosion method
+## ChartDataPoint::get_Explosion method
 
 
 Specifies the amount the data point shall be moved from the center of the pie. Can be negative, negative means that property is not set and no explosion should be applied. Applies only to Pie charts.

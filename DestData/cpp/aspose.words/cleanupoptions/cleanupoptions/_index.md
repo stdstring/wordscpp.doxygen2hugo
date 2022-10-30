@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/cleanupoptions/cleanupoptions/
 ---
-## CleanupOptions.CleanupOptions method
+## CleanupOptions::CleanupOptions method
 
 
 

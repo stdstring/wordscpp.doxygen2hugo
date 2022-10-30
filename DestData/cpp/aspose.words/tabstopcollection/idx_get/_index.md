@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/tabstopcollection/idx_get/
 ---
-## TabStopCollection.idx_get(double) method
+## TabStopCollection::idx_get(double) method
 
 
 Gets a tab stop at the specified position.
@@ -63,7 +63,7 @@ ASSERT_EQ(0, paragraphs->idx_get(1)->get_ParagraphFormat()->get_TabStops()->get_
 doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 ```
 
-## TabStopCollection.idx_get(int32_t) method
+## TabStopCollection::idx_get(int32_t) method
 
 
 Gets a tab stop at the given index.

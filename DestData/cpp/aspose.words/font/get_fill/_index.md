@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/font/get_fill/
 ---
-## Font.get_Fill method
+## Font::get_Fill method
 
 
 Gets fill formatting for the [Font](../).

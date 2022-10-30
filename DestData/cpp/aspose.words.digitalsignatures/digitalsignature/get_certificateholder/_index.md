@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_certificateholder/
 ---
-## DigitalSignature.get_CertificateHolder method
+## DigitalSignature::get_CertificateHolder method
 
 
 Returns the certificate holder object that contains the certificate was used to sign the document.

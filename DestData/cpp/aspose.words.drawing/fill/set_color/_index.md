@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.drawing/fill/set_color/
 ---
-## Fill.set_Color method
+## Fill::set_Color method
 
 
 

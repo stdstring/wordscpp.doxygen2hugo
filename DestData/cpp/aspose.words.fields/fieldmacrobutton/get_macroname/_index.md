@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldmacrobutton/get_macroname/
 ---
-## FieldMacroButton.get_MacroName method
+## FieldMacroButton::get_MacroName method
 
 
 Gets or sets the name of the macro or command to run.

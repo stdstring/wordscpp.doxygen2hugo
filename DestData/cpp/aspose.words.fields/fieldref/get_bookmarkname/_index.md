@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldref/get_bookmarkname/
 ---
-## FieldRef.get_BookmarkName method
+## FieldRef::get_BookmarkName method
 
 
 Gets or sets the referenced bookmark's name.

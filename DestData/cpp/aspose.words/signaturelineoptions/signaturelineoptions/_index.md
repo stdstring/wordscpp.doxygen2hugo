@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/signaturelineoptions/signaturelineoptions/
 ---
-## SignatureLineOptions.SignatureLineOptions method
+## SignatureLineOptions::SignatureLineOptions method
 
 
 

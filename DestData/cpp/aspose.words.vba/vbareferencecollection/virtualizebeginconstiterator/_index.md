@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.vba/vbareferencecollection/virtualizebeginconstiterator/
 ---
-## VbaReferenceCollection.virtualizeBeginConstIterator method
+## VbaReferenceCollection::virtualizeBeginConstIterator method
 
 
 

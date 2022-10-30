@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/cleanupoptions/set_duplicatestyle/
 ---
-## CleanupOptions.set_DuplicateStyle method
+## CleanupOptions::set_DuplicateStyle method
 
 
 Setter for [Aspose::Words::CleanupOptions::get_DuplicateStyle](../get_duplicatestyle/).

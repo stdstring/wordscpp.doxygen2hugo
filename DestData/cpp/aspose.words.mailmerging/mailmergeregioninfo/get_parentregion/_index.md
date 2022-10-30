@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_parentregion/
 ---
-## MailMergeRegionInfo.get_ParentRegion method
+## MailMergeRegionInfo::get_ParentRegion method
 
 
 Returns parent region info (null for top-level region).

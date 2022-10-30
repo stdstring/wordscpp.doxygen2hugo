@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontsubstitutionrule/get_enabled/
 ---
-## FontSubstitutionRule.get_Enabled method
+## FontSubstitutionRule::get_Enabled method
 
 
 Specifies whether the rule is enabled or not.

@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.saving/saveoptions/set_memoryoptimization/
 ---
-## SaveOptions.set_MemoryOptimization method
+## SaveOptions::set_MemoryOptimization method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_MemoryOptimization](../get_memoryoptimization/).

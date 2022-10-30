@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fielddatabasedatarow/createfrom/
 ---
-## FieldDatabaseDataRow.CreateFrom method
+## FieldDatabaseDataRow::CreateFrom method
 
 
 Initializes a new instance of the [FieldDatabaseDataRow](../) class from the **DataRow** instance.

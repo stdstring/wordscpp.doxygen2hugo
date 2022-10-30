@@ -6,7 +6,7 @@ type: docs
 weight: 911
 url: /cpp/aspose.words/document/set_defaulttabstop/
 ---
-## Document.set_DefaultTabStop method
+## Document::set_DefaultTabStop method
 
 
 Setter for [Aspose::Words::Document::get_DefaultTabStop](../get_defaulttabstop/).

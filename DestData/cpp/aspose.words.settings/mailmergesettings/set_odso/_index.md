@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.settings/mailmergesettings/set_odso/
 ---
-## MailMergeSettings.set_Odso method
+## MailMergeSettings::set_Odso method
 
 
 Sets the object that specifies the Office Data Source Object (ODSO) settings.

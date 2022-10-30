@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/htmlsaveoptions/htmlsaveoptions/
 ---
-## HtmlSaveOptions.HtmlSaveOptions() method
+## HtmlSaveOptions::HtmlSaveOptions() method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Html** format.
@@ -42,7 +42,7 @@ saveOptions->set_ExportDocumentProperties(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOptions);
 ```
 
-## HtmlSaveOptions.HtmlSaveOptions(Aspose::Words::SaveFormat) method
+## HtmlSaveOptions::HtmlSaveOptions(Aspose::Words::SaveFormat) method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Html**, **Mhtml**, **Epub** or **Azw3** format.

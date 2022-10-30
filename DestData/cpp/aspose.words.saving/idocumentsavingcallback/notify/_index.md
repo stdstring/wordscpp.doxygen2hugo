@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/idocumentsavingcallback/notify/
 ---
-## IDocumentSavingCallback.Notify method
+## IDocumentSavingCallback::Notify method
 
 
 This is called to notify of document saving progress.

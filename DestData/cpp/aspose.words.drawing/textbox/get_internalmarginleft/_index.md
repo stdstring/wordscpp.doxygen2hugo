@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/textbox/get_internalmarginleft/
 ---
-## TextBox.get_InternalMarginLeft method
+## TextBox::get_InternalMarginLeft method
 
 
 Specifies the inner left margin in points for a shape.

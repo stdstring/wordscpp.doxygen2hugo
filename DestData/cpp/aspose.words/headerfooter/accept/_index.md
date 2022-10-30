@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/headerfooter/accept/
 ---
-## HeaderFooter.Accept method
+## HeaderFooter::Accept method
 
 
 Accepts a visitor.

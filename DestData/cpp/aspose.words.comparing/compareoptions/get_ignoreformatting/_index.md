@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.comparing/compareoptions/get_ignoreformatting/
 ---
-## CompareOptions.get_IgnoreFormatting method
+## CompareOptions::get_IgnoreFormatting method
 
 
 True indicates that formatting is ignored. By default document formatting is not ignored.

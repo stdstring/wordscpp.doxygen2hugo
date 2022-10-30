@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.themes/themecolors/get_accent3/
 ---
-## ThemeColors.get_Accent3 method
+## ThemeColors::get_Accent3 method
 
 
 Specifies color Accent 3.

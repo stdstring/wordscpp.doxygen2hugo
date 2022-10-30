@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.fields/fieldindex/set_sequencename/
 ---
-## FieldIndex.set_SequenceName method
+## FieldIndex::set_SequenceName method
 
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_SequenceName](../get_sequencename/).

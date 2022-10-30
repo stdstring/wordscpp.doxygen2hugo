@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/aspose.words/font/get_strikethrough/
 ---
-## Font.get_StrikeThrough method
+## Font::get_StrikeThrough method
 
 
 True if the font is formatted as strikethrough text.

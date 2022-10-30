@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/nodecollection/indexof/
 ---
-## NodeCollection.IndexOf method
+## NodeCollection::IndexOf method
 
 
 Returns the zero-based index of the specified node.

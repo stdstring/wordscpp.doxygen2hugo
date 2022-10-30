@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fields/formfield/get_nodetype/
 ---
-## FormField.get_NodeType method
+## FormField::get_NodeType method
 
 
 Returns **NodeType.FormField**.

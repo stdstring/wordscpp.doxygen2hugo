@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/csssavingargs/get_document/
 ---
-## CssSavingArgs.get_Document method
+## CssSavingArgs::get_Document method
 
 
 Gets the document object that is currently being saved.

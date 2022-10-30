@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words/bordercollection/set_distancefromtext/
 ---
-## BorderCollection.set_DistanceFromText method
+## BorderCollection::set_DistanceFromText method
 
 
 Setter for [Aspose::Words::BorderCollection::get_DistanceFromText](../get_distancefromtext/).

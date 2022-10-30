@@ -6,7 +6,7 @@ type: docs
 weight: 1678
 url: /cpp/aspose.words.settings/compatibilityoptions/set_ultrailspace/
 ---
-## CompatibilityOptions.set_UlTrailSpace method
+## CompatibilityOptions::set_UlTrailSpace method
 
 
 Underline All Trailing Spaces.

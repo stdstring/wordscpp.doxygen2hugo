@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fielddatabase/set_connection/
 ---
-## FieldDatabase.set_Connection method
+## FieldDatabase::set_Connection method
 
 
 Sets a connection to the data.

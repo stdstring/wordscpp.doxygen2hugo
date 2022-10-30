@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/revisiongroupcollection/virtualizebeginiterator/
 ---
-## RevisionGroupCollection.virtualizeBeginIterator method
+## RevisionGroupCollection::virtualizeBeginIterator method
 
 
 

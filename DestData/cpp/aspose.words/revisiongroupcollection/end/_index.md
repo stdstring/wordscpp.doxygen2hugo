@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/revisiongroupcollection/end/
 ---
-## RevisionGroupCollection.end() const method
+## RevisionGroupCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words/revisiongroupcollection/end/
 const_iterator Aspose::Words::RevisionGroupCollection::end() const noexcept
 ```
 
-## RevisionGroupCollection.end() method
+## RevisionGroupCollection::end() method
 
 
 

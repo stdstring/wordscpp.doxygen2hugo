@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.settings/odsofieldmapdata/clone/
 ---
-## OdsoFieldMapData.Clone method
+## OdsoFieldMapData::Clone method
 
 
 Returns a deep clone of this object.

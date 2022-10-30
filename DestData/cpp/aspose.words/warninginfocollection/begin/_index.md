@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/warninginfocollection/begin/
 ---
-## WarningInfoCollection.begin() const method
+## WarningInfoCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words/warninginfocollection/begin/
 const_iterator Aspose::Words::WarningInfoCollection::begin() const noexcept
 ```
 
-## WarningInfoCollection.begin() method
+## WarningInfoCollection::begin() method
 
 
 

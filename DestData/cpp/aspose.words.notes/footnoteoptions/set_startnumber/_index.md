@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.notes/footnoteoptions/set_startnumber/
 ---
-## FootnoteOptions.set_StartNumber method
+## FootnoteOptions::set_StartNumber method
 
 
 Setter for [Aspose::Words::Notes::FootnoteOptions::get_StartNumber](../get_startnumber/).

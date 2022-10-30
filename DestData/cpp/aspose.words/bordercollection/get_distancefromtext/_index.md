@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/bordercollection/get_distancefromtext/
 ---
-## BorderCollection.get_DistanceFromText method
+## BorderCollection::get_DistanceFromText method
 
 
 Gets or sets distance of the border from text in points.

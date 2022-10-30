@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/aspose.words/documentbuilder/movetoparagraph/
 ---
-## DocumentBuilder.MoveToParagraph method
+## DocumentBuilder::MoveToParagraph method
 
 
 Moves the cursor to a paragraph in the current section.

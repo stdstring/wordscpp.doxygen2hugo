@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/textpath/set_bold/
 ---
-## TextPath.set_Bold method
+## TextPath::set_Bold method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Bold](../get_bold/).

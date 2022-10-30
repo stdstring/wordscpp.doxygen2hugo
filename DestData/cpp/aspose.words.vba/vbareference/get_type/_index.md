@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbareference/get_type/
 ---
-## VbaReference.get_Type method
+## VbaReference::get_Type method
 
 
 Gets [VbaReferenceType](../../vbareferencetype/) object that indicates the type of reference that a [VbaReference](../) object represents.

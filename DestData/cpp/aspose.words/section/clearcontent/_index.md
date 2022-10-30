@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/section/clearcontent/
 ---
-## Section.ClearContent method
+## Section::ClearContent method
 
 
 Clears the section.

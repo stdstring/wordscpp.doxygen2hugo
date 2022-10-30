@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_pagemargins/
 ---
-## HtmlFixedSaveOptions.set_PageMargins method
+## HtmlFixedSaveOptions::set_PageMargins method
 
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins](../get_pagemargins/).

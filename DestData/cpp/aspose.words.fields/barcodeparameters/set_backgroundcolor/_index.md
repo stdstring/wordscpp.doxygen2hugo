@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.fields/barcodeparameters/set_backgroundcolor/
 ---
-## BarcodeParameters.set_BackgroundColor method
+## BarcodeParameters::set_BackgroundColor method
 
 
 Bar code background color (0x000000 - 0xFFFFFF)

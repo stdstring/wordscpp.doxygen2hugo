@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.markup/customxmlpartcollection/end/
 ---
-## CustomXmlPartCollection.end() const method
+## CustomXmlPartCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/end/
 const_iterator Aspose::Words::Markup::CustomXmlPartCollection::end() const noexcept
 ```
 
-## CustomXmlPartCollection.end() method
+## CustomXmlPartCollection::end() method
 
 
 

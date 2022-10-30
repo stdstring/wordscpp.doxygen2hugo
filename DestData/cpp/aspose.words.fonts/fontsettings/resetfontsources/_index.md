@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fonts/fontsettings/resetfontsources/
 ---
-## FontSettings.ResetFontSources method
+## FontSettings::ResetFontSources method
 
 
 Resets the fonts sources to the system default.

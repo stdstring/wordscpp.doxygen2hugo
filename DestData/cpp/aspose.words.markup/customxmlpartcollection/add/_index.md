@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlpartcollection/add/
 ---
-## CustomXmlPartCollection.Add(const System::SharedPtr\<Aspose::Words::Markup::CustomXmlPart\>\&) method
+## CustomXmlPartCollection::Add(const System::SharedPtr\<Aspose::Words::Markup::CustomXmlPart\>\&) method
 
 
 Adds an item to the collection.
@@ -86,7 +86,7 @@ doc->get_FirstSection()->get_Body()->AppendChild(tag);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 ```
 
-## CustomXmlPartCollection.Add(const System::String\&, const System::String\&) method
+## CustomXmlPartCollection::Add(const System::String\&, const System::String\&) method
 
 
 Creates a new XML part with the specified XML and adds it to the collection.

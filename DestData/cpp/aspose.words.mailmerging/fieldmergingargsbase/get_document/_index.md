@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_document/
 ---
-## FieldMergingArgsBase.get_Document method
+## FieldMergingArgsBase::get_Document method
 
 
 Returns the [Document](./) object for which the mail merge is performed.

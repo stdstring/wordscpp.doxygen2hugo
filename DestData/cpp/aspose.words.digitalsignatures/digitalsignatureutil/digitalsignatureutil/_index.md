@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/digitalsignatureutil/
 ---
-## DigitalSignatureUtil.DigitalSignatureUtil method
+## DigitalSignatureUtil::DigitalSignatureUtil method
 
 
 

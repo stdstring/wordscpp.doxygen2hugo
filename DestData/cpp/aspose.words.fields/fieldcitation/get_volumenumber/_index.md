@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldcitation/get_volumenumber/
 ---
-## FieldCitation.get_VolumeNumber method
+## FieldCitation::get_VolumeNumber method
 
 
 Gets or sets a volume number associated with the citation.

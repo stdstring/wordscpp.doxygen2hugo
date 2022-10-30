@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words/paragraphformat/get_spacebeforeauto/
 ---
-## ParagraphFormat.get_SpaceBeforeAuto method
+## ParagraphFormat::get_SpaceBeforeAuto method
 
 
 True if the amount of spacing before the paragraph is set automatically.

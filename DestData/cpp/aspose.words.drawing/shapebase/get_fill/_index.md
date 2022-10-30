@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/shapebase/get_fill/
 ---
-## ShapeBase.get_Fill method
+## ShapeBase::get_Fill method
 
 
 Gets fill formatting for the shape.

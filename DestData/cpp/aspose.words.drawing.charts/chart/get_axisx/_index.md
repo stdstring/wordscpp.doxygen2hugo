@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chart/get_axisx/
 ---
-## Chart.get_AxisX method
+## Chart::get_AxisX method
 
 
 Provides access to properties of the X axis of the chart.

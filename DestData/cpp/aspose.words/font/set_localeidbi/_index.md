@@ -6,7 +6,7 @@ type: docs
 weight: 937
 url: /cpp/aspose.words/font/set_localeidbi/
 ---
-## Font.set_LocaleIdBi method
+## Font::set_LocaleIdBi method
 
 
 Setter for [Aspose::Words::Font::get_LocaleIdBi](../get_localeidbi/).

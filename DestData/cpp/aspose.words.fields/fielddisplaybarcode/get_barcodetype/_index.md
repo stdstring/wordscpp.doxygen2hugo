@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_barcodetype/
 ---
-## FieldDisplayBarcode.get_BarcodeType method
+## FieldDisplayBarcode::get_BarcodeType method
 
 
 Gets or sets the barcode type (QR, etc.)

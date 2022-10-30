@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.mailmerging/mailmerge/getfieldnamesforregion/
 ---
-## MailMerge.GetFieldNamesForRegion(const System::String\&) method
+## MailMerge::GetFieldNamesForRegion(const System::String\&) method
 
 
 Returns a collection of mail merge field names available in the region.
@@ -80,7 +80,7 @@ mergeFieldNames = doc->get_MailMerge()->GetFieldNamesForRegion(u"MailMergeRegion
 ASSERT_EQ(u"Column2", mergeFieldNames[0]);
 ```
 
-## MailMerge.GetFieldNamesForRegion(const System::String\&, int32_t) method
+## MailMerge::GetFieldNamesForRegion(const System::String\&, int32_t) method
 
 
 Returns a collection of mail merge field names available in the region.

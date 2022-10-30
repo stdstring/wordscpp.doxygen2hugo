@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/smarttag/accept/
 ---
-## SmartTag.Accept method
+## SmartTag::Accept method
 
 
 Accepts a visitor.

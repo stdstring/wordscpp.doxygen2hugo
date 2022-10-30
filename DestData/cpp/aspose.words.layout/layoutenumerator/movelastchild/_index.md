@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.layout/layoutenumerator/movelastchild/
 ---
-## LayoutEnumerator.MoveLastChild method
+## LayoutEnumerator::MoveLastChild method
 
 
 Moves to the last child entity.

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fielddde/get_sourcefullname/
 ---
-## FieldDde.get_SourceFullName method
+## FieldDde::get_SourceFullName method
 
 
 Gets or sets the name and location of the source file.

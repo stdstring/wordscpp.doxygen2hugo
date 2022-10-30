@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_noshade/
 ---
-## HorizontalRuleFormat.set_NoShade method
+## HorizontalRuleFormat::set_NoShade method
 
 
 Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade](../get_noshade/).

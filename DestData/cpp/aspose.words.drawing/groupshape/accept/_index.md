@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/groupshape/accept/
 ---
-## GroupShape.Accept method
+## GroupShape::Accept method
 
 
 Accepts a visitor.

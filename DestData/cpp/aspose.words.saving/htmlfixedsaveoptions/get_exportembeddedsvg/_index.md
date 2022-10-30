@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportembeddedsvg/
 ---
-## HtmlFixedSaveOptions.get_ExportEmbeddedSvg method
+## HtmlFixedSaveOptions::get_ExportEmbeddedSvg method
 
 
 Specifies whether SVG resources should be embedded into Html document. Default value is **true**.

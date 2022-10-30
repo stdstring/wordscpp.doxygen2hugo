@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_tag/
 ---
-## StructuredDocumentTagRangeStart.set_Tag method
+## StructuredDocumentTagRangeStart::set_Tag method
 
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Tag](../get_tag/).

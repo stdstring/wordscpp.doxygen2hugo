@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_showpageborder/
 ---
-## HtmlFixedSaveOptions.get_ShowPageBorder method
+## HtmlFixedSaveOptions::get_ShowPageBorder method
 
 
 Specifies whether border around pages should be shown. Default is **true**.

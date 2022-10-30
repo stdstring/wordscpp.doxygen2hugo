@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_placeholdername/
 ---
-## StructuredDocumentTagRangeStart.set_PlaceholderName method
+## StructuredDocumentTagRangeStart::set_PlaceholderName method
 
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_PlaceholderName](../get_placeholdername/).

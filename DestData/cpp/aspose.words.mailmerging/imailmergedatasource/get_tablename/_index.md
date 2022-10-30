@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.mailmerging/imailmergedatasource/get_tablename/
 ---
-## IMailMergeDataSource.get_TableName method
+## IMailMergeDataSource::get_TableName method
 
 
 Returns the name of the data source.

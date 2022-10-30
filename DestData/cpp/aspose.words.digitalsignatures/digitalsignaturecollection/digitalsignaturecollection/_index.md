@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/digitalsignaturecollection/
 ---
-## DigitalSignatureCollection.DigitalSignatureCollection method
+## DigitalSignatureCollection::DigitalSignatureCollection method
 
 
 

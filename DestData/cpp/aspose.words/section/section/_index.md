@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/section/section/
 ---
-## Section.Section method
+## Section::Section method
 
 
 Initializes a new instance of the [Section](../) class.

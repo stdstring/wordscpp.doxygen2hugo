@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.lists/listformat/listoutdent/
 ---
-## ListFormat.ListOutdent method
+## ListFormat::ListOutdent method
 
 
 Decreases the list level of the current paragraph by one level.

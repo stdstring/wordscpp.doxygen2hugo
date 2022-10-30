@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words/document/get_firstsection/
 ---
-## Document.get_FirstSection method
+## Document::get_FirstSection method
 
 
 Gets the first section in the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 1002
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolderalias/
 ---
-## HtmlSaveOptions.set_FontsFolderAlias method
+## HtmlSaveOptions::set_FontsFolderAlias method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias](../get_fontsfolderalias/).

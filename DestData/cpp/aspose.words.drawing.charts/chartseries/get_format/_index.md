@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chartseries/get_format/
 ---
-## ChartSeries.get_Format method
+## ChartSeries::get_Format method
 
 
 Provides access to fill and line formatting of the series.

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/smarttag/get_uri/
 ---
-## SmartTag.get_Uri method
+## SmartTag::get_Uri method
 
 
 Specifies the namespace URI of the smart tag.

@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.fields/fieldoptions/set_defaultdocumentauthor/
 ---
-## FieldOptions.set_DefaultDocumentAuthor method
+## FieldOptions::set_DefaultDocumentAuthor method
 
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_DefaultDocumentAuthor](../get_defaultdocumentauthor/).

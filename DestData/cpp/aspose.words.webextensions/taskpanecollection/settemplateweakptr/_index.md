@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/taskpanecollection/settemplateweakptr/
 ---
-## TaskPaneCollection.SetTemplateWeakPtr method
+## TaskPaneCollection::SetTemplateWeakPtr method
 
 
 

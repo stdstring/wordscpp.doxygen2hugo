@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontinfocollection/end/
 ---
-## FontInfoCollection.end() const method
+## FontInfoCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/end/
 const_iterator Aspose::Words::Fonts::FontInfoCollection::end() const noexcept
 ```
 
-## FontInfoCollection.end() method
+## FontInfoCollection::end() method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/comparisonexpression/get_comparisonoperator/
 ---
-## ComparisonExpression.get_ComparisonOperator method
+## ComparisonExpression::get_ComparisonOperator method
 
 
 Gets the comparison operator.

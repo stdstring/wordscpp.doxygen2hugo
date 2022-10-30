@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/tabstopcollection/before/
 ---
-## TabStopCollection.Before method
+## TabStopCollection::Before method
 
 
 Gets a first tab stop to the left of the specified position.

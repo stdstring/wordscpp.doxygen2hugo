@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fields/fieldlink/set_insertasrtf/
 ---
-## FieldLink.set_InsertAsRtf method
+## FieldLink::set_InsertAsRtf method
 
 
 Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsRtf](../get_insertasrtf/).

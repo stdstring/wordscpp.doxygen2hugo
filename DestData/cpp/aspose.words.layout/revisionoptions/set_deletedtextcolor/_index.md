@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.layout/revisionoptions/set_deletedtextcolor/
 ---
-## RevisionOptions.set_DeletedTextColor method
+## RevisionOptions::set_DeletedTextColor method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_DeletedTextColor](../get_deletedtextcolor/).

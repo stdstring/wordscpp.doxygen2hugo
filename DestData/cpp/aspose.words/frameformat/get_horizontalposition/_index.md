@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/frameformat/get_horizontalposition/
 ---
-## FrameFormat.get_HorizontalPosition method
+## FrameFormat::get_HorizontalPosition method
 
 
 Gets horizontal distance between the edge of the frame and the item specified by the [RelativeHorizontalPosition](../get_relativehorizontalposition/) property.

@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.lists/listlevel/gethashcode/
 ---
-## ListLevel.GetHashCode method
+## ListLevel::GetHashCode method
 
 
 Calculates hash code for this object.

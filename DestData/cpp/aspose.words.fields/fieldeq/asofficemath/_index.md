@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldeq/asofficemath/
 ---
-## FieldEQ.AsOfficeMath method
+## FieldEQ::AsOfficeMath method
 
 
 Returns Office [Math](../../../aspose.words.math/) object corresponded to the EQ field.

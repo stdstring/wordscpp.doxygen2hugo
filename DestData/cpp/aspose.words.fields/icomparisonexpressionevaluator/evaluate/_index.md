@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/icomparisonexpressionevaluator/evaluate/
 ---
-## IComparisonExpressionEvaluator.Evaluate method
+## IComparisonExpressionEvaluator::Evaluate method
 
 
 Evaluates comparison expression.

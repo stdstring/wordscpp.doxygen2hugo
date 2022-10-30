@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/documentbuilder/endtable/
 ---
-## DocumentBuilder.EndTable method
+## DocumentBuilder::EndTable method
 
 
 Ends a table in the document.

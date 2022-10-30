@@ -6,7 +6,7 @@ type: docs
 weight: 1106
 url: /cpp/aspose.words/document/stoptrackrevisions/
 ---
-## Document.StopTrackRevisions method
+## Document::StopTrackRevisions method
 
 
 Stops automatic marking of document changes as revisions.

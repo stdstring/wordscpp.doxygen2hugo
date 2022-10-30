@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/aspose.words/document/get_viewoptions/
 ---
-## Document.get_ViewOptions method
+## Document::get_ViewOptions method
 
 
 Provides options to control how the document is displayed in Microsoft Word.

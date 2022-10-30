@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/imagedata/get_islink/
 ---
-## ImageData.get_IsLink method
+## ImageData::get_IsLink method
 
 
 Returns true if the image is linked to the shape (when [SourceFullName](../get_sourcefullname/) is specified).

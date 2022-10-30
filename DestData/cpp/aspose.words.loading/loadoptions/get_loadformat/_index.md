@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.loading/loadoptions/get_loadformat/
 ---
-## LoadOptions.get_LoadFormat method
+## LoadOptions::get_LoadFormat method
 
 
 Specifies the format of the document to be loaded. Default is **Auto**.

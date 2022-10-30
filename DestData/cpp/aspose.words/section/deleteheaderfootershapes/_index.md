@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/section/deleteheaderfootershapes/
 ---
-## Section.DeleteHeaderFooterShapes method
+## Section::DeleteHeaderFooterShapes method
 
 
 Deletes all shapes (drawing objects) from the headers and footers of this section.

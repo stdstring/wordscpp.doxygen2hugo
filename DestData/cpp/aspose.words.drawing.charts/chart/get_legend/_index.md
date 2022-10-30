@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chart/get_legend/
 ---
-## Chart.get_Legend method
+## Chart::get_Legend method
 
 
 Provides access to the chart legend properties.

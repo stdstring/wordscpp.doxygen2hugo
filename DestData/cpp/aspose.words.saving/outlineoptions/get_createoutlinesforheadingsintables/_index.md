@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/outlineoptions/get_createoutlinesforheadingsintables/
 ---
-## OutlineOptions.get_CreateOutlinesForHeadingsInTables method
+## OutlineOptions::get_CreateOutlinesForHeadingsInTables method
 
 
 Specifies whether or not to create outlines for headings (paragraphs formatted with the Heading styles) inside tables.

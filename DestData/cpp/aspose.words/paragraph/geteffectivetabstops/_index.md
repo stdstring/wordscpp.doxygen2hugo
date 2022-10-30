@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words/paragraph/geteffectivetabstops/
 ---
-## Paragraph.GetEffectiveTabStops method
+## Paragraph::GetEffectiveTabStops method
 
 
 Returns array of all tab stops applied to this paragraph, including applied indirectly by styles or lists.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldautotextlist/set_liststyle/
 ---
-## FieldAutoTextList.set_ListStyle method
+## FieldAutoTextList::set_ListStyle method
 
 
 Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ListStyle](../get_liststyle/).

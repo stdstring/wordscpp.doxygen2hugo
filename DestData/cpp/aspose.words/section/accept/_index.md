@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/section/accept/
 ---
-## Section.Accept method
+## Section::Accept method
 
 
 Accepts a visitor.

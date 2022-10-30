@@ -6,7 +6,7 @@ type: docs
 weight: 729
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportcidurlsformhtmlresources/
 ---
-## HtmlSaveOptions.set_ExportCidUrlsForMhtmlResources method
+## HtmlSaveOptions::set_ExportCidUrlsForMhtmlResources method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources](../get_exportcidurlsformhtmlresources/).

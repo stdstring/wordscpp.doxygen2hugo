@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fieldif/get_truetext/
 ---
-## FieldIf.get_TrueText method
+## FieldIf::get_TrueText method
 
 
 Gets or sets the text displayed if the comparison expression is true.

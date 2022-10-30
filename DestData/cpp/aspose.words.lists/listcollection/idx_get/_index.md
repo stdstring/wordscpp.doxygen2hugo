@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.lists/listcollection/idx_get/
 ---
-## ListCollection.idx_get method
+## ListCollection::idx_get method
 
 
 Gets a list by index.

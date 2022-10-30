@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fonts/fontinfo/set_altname/
 ---
-## FontInfo.set_AltName method
+## FontInfo::set_AltName method
 
 
 Setter for [Aspose::Words::Fonts::FontInfo::get_AltName](../get_altname/).

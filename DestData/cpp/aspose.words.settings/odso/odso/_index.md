@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.settings/odso/odso/
 ---
-## Odso.Odso method
+## Odso::Odso method
 
 
 

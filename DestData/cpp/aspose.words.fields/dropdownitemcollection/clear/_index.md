@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/dropdownitemcollection/clear/
 ---
-## DropDownItemCollection.Clear method
+## DropDownItemCollection::Clear method
 
 
 Removes all elements from the collection.

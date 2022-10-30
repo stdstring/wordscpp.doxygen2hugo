@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.layout/layoutoptions/get_showhiddentext/
 ---
-## LayoutOptions.get_ShowHiddenText method
+## LayoutOptions::get_ShowHiddenText method
 
 
 Gets or sets indication of whether hidden text in the document is rendered. Default is False.

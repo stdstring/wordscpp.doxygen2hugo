@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/compositenode/get_firstchild/
 ---
-## CompositeNode.get_FirstChild method
+## CompositeNode::get_FirstChild method
 
 
 Gets the first child of the node.

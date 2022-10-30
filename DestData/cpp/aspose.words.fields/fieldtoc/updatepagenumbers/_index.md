@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.words.fields/fieldtoc/updatepagenumbers/
 ---
-## FieldToc.UpdatePageNumbers method
+## FieldToc::UpdatePageNumbers method
 
 
 Updates the page numbers for items in this table of contents.

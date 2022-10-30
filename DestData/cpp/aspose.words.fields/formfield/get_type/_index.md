@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.fields/formfield/get_type/
 ---
-## FormField.get_Type method
+## FormField::get_Type method
 
 
 Returns the form field type.

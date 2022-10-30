@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/textbox/get_internalmargintop/
 ---
-## TextBox.get_InternalMarginTop method
+## TextBox::get_InternalMarginTop method
 
 
 Specifies the inner top margin in points for a shape.

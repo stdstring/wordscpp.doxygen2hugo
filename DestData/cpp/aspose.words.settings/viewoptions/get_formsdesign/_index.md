@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.settings/viewoptions/get_formsdesign/
 ---
-## ViewOptions.get_FormsDesign method
+## ViewOptions::get_FormsDesign method
 
 
 Specifies whether the document is in forms design mode.

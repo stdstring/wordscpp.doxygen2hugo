@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/revisioncollection/get_count/
 ---
-## RevisionCollection.get_Count method
+## RevisionCollection::get_Count method
 
 
 Returns the number of revisions in the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.words/documentbuilder/startbookmark/
 ---
-## DocumentBuilder.StartBookmark method
+## DocumentBuilder::StartBookmark method
 
 
 Marks the current position in the document as a bookmark start.

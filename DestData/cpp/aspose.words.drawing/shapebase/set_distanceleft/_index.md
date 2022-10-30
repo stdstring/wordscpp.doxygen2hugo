@@ -6,7 +6,7 @@ type: docs
 weight: 872
 url: /cpp/aspose.words.drawing/shapebase/set_distanceleft/
 ---
-## ShapeBase.set_DistanceLeft method
+## ShapeBase::set_DistanceLeft method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceLeft](../get_distanceleft/).

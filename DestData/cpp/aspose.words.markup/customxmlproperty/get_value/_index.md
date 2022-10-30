@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/customxmlproperty/get_value/
 ---
-## CustomXmlProperty.get_Value method
+## CustomXmlProperty::get_Value method
 
 
 Gets or sets the value of the custom XML attribute or smart tag property.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldadvance/set_upoffset/
 ---
-## FieldAdvance.set_UpOffset method
+## FieldAdvance::set_UpOffset method
 
 
 Setter for [Aspose::Words::Fields::FieldAdvance::get_UpOffset](../get_upoffset/).

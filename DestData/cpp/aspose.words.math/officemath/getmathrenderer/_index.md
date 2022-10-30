@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.math/officemath/getmathrenderer/
 ---
-## OfficeMath.GetMathRenderer method
+## OfficeMath::GetMathRenderer method
 
 
 Creates and returns an object that can be used to render this equation into an image.

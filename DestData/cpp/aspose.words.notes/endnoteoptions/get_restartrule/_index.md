@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.notes/endnoteoptions/get_restartrule/
 ---
-## EndnoteOptions.get_RestartRule method
+## EndnoteOptions::get_RestartRule method
 
 
 Determines when automatic numbering restarts.

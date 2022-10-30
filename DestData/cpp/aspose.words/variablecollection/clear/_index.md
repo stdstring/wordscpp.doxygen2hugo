@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/variablecollection/clear/
 ---
-## VariableCollection.Clear method
+## VariableCollection::Clear method
 
 
 Removes all elements from the collection.

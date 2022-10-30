@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/clear/
 ---
-## ChartSeriesCollection.Clear method
+## ChartSeriesCollection::Clear method
 
 
 Removes all [ChartSeries](../../chartseries/) from this collection.

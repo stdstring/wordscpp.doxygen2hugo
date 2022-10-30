@@ -6,7 +6,7 @@ type: docs
 weight: 729
 url: /cpp/aspose.words.drawing/shapebase/getshaperenderer/
 ---
-## ShapeBase.GetShapeRenderer method
+## ShapeBase::GetShapeRenderer method
 
 
 Creates and returns an object that can be used to render this shape into an image.

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words/documentvisitor/visitfieldseparator/
 ---
-## DocumentVisitor.VisitFieldSeparator method
+## DocumentVisitor::VisitFieldSeparator method
 
 
 Called when a field separator is encountered in the document.

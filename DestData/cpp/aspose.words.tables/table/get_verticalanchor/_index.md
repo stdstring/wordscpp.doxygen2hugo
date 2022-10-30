@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/aspose.words.tables/table/get_verticalanchor/
 ---
-## Table.get_VerticalAnchor method
+## Table::get_VerticalAnchor method
 
 
 Gets the base object from which the vertical positioning of floating table should be calculated. Default value is **Margin**.

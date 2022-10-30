@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/aspose.words.tables/table/set_relativeverticalalignment/
 ---
-## Table.set_RelativeVerticalAlignment method
+## Table::set_RelativeVerticalAlignment method
 
 
 Setter for [Aspose::Words::Tables::Table::get_RelativeVerticalAlignment](../get_relativeverticalalignment/).

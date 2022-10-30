@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_legacymode/
 ---
-## FindReplaceOptions.get_LegacyMode method
+## FindReplaceOptions::get_LegacyMode method
 
 
 Gets or sets a boolean value indicating that old find/replace algorithm is used.

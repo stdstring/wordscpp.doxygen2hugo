@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.saving/imagesaveoptions/get_papercolor/
 ---
-## ImageSaveOptions.get_PaperColor method
+## ImageSaveOptions::get_PaperColor method
 
 
 Gets or sets the background (paper) color for the generated images. The default value is **White**.

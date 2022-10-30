@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words/font/get_shading/
 ---
-## Font.get_Shading method
+## Font::get_Shading method
 
 
 Returns a [Shading](../../shading/) object that refers to the shading formatting for the font.

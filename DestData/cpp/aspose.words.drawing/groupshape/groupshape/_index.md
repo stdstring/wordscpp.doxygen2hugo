@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/groupshape/groupshape/
 ---
-## GroupShape.GroupShape method
+## GroupShape::GroupShape method
 
 
 Creates a new group shape.

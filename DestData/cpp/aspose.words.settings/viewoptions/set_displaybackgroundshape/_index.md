@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.settings/viewoptions/set_displaybackgroundshape/
 ---
-## ViewOptions.set_DisplayBackgroundShape method
+## ViewOptions::set_DisplayBackgroundShape method
 
 
 Setter for [Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape](../get_displaybackgroundshape/).

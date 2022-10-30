@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/documentvisitor/visitbuildingblockstart/
 ---
-## DocumentVisitor.VisitBuildingBlockStart method
+## DocumentVisitor::VisitBuildingBlockStart method
 
 
 Called when enumeration of a building block has started.

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/getenumerator/
 ---
-## BookmarksOutlineLevelCollection.GetEnumerator method
+## BookmarksOutlineLevelCollection::GetEnumerator method
 
 
 

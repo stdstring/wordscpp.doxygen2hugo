@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.drawing/shapebase/get_distancetop/
 ---
-## ShapeBase.get_DistanceTop method
+## ShapeBase::get_DistanceTop method
 
 
 Returns or sets the distance (in points) between the document text and the top edge of the shape.

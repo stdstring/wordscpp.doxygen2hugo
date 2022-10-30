@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/comment/get_nodetype/
 ---
-## Comment.get_NodeType method
+## Comment::get_NodeType method
 
 
 Returns **NodeType.Comment**.

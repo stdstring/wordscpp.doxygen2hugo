@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/document/compare/
 ---
-## Document.Compare(const System::SharedPtr\<Aspose::Words::Document\>\&, const System::String\&, System::DateTime) method
+## Document::Compare(const System::SharedPtr\<Aspose::Words::Document\>\&, const System::String\&, System::DateTime) method
 
 
 Compares this document with another document producing changes as number of edit and format revisions [Revision](../../revision/).
@@ -67,7 +67,7 @@ docOriginal->get_Revisions()->AcceptAll();
 ASSERT_EQ(docOriginal->GetText(), docEdited->GetText());
 ```
 
-## Document.Compare(const System::SharedPtr\<Aspose::Words::Document\>\&, const System::String\&, System::DateTime, const System::SharedPtr\<Aspose::Words::Comparing::CompareOptions\>\&) method
+## Document::Compare(const System::SharedPtr\<Aspose::Words::Document\>\&, const System::String\&, System::DateTime, const System::SharedPtr\<Aspose::Words::Comparing::CompareOptions\>\&) method
 
 
 Compares this document with another document producing changes as a number of edit and format revisions [Revision](../../revision/). Allows to specify comparison options using [CompareOptions](../../../aspose.words.comparing/compareoptions/).

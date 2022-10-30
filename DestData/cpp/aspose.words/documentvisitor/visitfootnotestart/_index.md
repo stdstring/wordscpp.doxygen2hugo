@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words/documentvisitor/visitfootnotestart/
 ---
-## DocumentVisitor.VisitFootnoteStart method
+## DocumentVisitor::VisitFootnoteStart method
 
 
 Called when enumeration of a footnote or endnote text has started.

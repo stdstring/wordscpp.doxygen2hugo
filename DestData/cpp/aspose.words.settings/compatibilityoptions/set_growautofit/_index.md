@@ -6,7 +6,7 @@ type: docs
 weight: 1288
 url: /cpp/aspose.words.settings/compatibilityoptions/set_growautofit/
 ---
-## CompatibilityOptions.set_GrowAutofit method
+## CompatibilityOptions::set_GrowAutofit method
 
 
 Allow [Tables](../../../aspose.words.tables/) to AutoFit Into Page Margins.

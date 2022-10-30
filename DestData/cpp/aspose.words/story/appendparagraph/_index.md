@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/story/appendparagraph/
 ---
-## Story.AppendParagraph method
+## Story::AppendParagraph method
 
 
 A shortcut method that creates a [Paragraph](../../paragraph/) object with optional text and appends it to the end of this object.

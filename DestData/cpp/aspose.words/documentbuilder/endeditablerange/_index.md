@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/documentbuilder/endeditablerange/
 ---
-## DocumentBuilder.EndEditableRange() method
+## DocumentBuilder::EndEditableRange() method
 
 
 Marks the current position in the document as an editable range end.
@@ -70,7 +70,7 @@ doc->Save(ArtifactsDir + u"EditableRange.CreateAndRemove.docx");
 editableRange->Remove();
 ```
 
-## DocumentBuilder.EndEditableRange(const System::SharedPtr\<Aspose::Words::EditableRangeStart\>\&) method
+## DocumentBuilder::EndEditableRange(const System::SharedPtr\<Aspose::Words::EditableRangeStart\>\&) method
 
 
 Marks the current position in the document as an editable range end.

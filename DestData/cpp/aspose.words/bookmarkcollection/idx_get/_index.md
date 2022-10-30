@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/bookmarkcollection/idx_get/
 ---
-## BookmarkCollection.idx_get(const System::String\&) method
+## BookmarkCollection::idx_get(const System::String\&) method
 
 
 Returns a bookmark by name.
@@ -104,7 +104,7 @@ public:
 };
 ```
 
-## BookmarkCollection.idx_get(int32_t) method
+## BookmarkCollection::idx_get(int32_t) method
 
 
 Returns a bookmark at the specified index.

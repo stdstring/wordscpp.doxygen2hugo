@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.drawing/textpath/set_reverserows/
 ---
-## TextPath.set_ReverseRows method
+## TextPath::set_ReverseRows method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_ReverseRows](../get_reverserows/).

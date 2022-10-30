@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/markdownsaveoptions/set_imagesavingcallback/
 ---
-## MarkdownSaveOptions.set_ImageSavingCallback method
+## MarkdownSaveOptions::set_ImageSavingCallback method
 
 
 Setter for [Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback](../get_imagesavingcallback/).

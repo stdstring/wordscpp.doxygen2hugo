@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/axisbound/axisbound/
 ---
-## AxisBound.AxisBound() method
+## AxisBound::AxisBound() method
 
 
 Creates a new instance indicating that axis bound should be determined automatically by a word-processing application.
@@ -15,7 +15,7 @@ Creates a new instance indicating that axis bound should be determined automatic
 Aspose::Words::Drawing::Charts::AxisBound::AxisBound()
 ```
 
-## AxisBound.AxisBound(double) method
+## AxisBound::AxisBound(double) method
 
 
 Creates an axis bound represented as a number.
@@ -121,7 +121,7 @@ chart->get_AxisX()->get_Scaling()->set_Maximum(MakeObject<AxisBound>(System::Dat
 doc->Save(ArtifactsDir + u"Charts.AxisBound.docx");
 ```
 
-## AxisBound.AxisBound(System::DateTime) method
+## AxisBound::AxisBound(System::DateTime) method
 
 
 Creates an axis bound represented as datetime value.

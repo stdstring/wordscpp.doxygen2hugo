@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_fieldname/
 ---
-## FieldMergingArgsBase.get_FieldName method
+## FieldMergingArgsBase::get_FieldName method
 
 
 Gets the name of the merge field in the data source.

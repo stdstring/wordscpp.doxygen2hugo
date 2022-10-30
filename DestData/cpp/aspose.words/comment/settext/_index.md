@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words/comment/settext/
 ---
-## Comment.SetText method
+## Comment::SetText method
 
 
 This is a convenience method that allows to easily set text of the comment.

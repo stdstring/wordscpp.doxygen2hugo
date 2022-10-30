@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.mailmerging/mailmerge/get_mappeddatafields/
 ---
-## MailMerge.get_MappedDataFields method
+## MailMerge::get_MappedDataFields method
 
 
 Returns a collection that represents mapped data fields for the mail merge operation.

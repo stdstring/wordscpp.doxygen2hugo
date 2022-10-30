@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/idocumentpartsavingcallback/documentpartsaving/
 ---
-## IDocumentPartSavingCallback.DocumentPartSaving method
+## IDocumentPartSavingCallback::DocumentPartSaving method
 
 
 Called when Aspose.Words is about to save a document part.

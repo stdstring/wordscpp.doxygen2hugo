@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/cleanupoptions/set_unusedstyles/
 ---
-## CleanupOptions.set_UnusedStyles method
+## CleanupOptions::set_UnusedStyles method
 
 
 Setter for [Aspose::Words::CleanupOptions::get_UnusedStyles](../get_unusedstyles/).

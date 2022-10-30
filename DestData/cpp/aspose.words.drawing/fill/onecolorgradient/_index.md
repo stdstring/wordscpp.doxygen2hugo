@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/fill/onecolorgradient/
 ---
-## Fill.OneColorGradient(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant, double) method
+## Fill::OneColorGradient(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant, double) method
 
 
 Sets the specified fill to a one-color gradient.
@@ -63,7 +63,7 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);
 doc->Save(ArtifactsDir + u"Shape.GradientFill.docx", saveOptions);
 ```
 
-## Fill.OneColorGradient(System::Drawing::Color, Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant, double) method
+## Fill::OneColorGradient(System::Drawing::Color, Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant, double) method
 
 
 Sets the specified fill to a one-color gradient using the specified color.

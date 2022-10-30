@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.markup/customxmlschemacollection/get_count/
 ---
-## CustomXmlSchemaCollection.get_Count method
+## CustomXmlSchemaCollection::get_Count method
 
 
 Gets the number of elements contained in the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontinfocollection/begin/
 ---
-## FontInfoCollection.begin() const method
+## FontInfoCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.fonts/fontinfocollection/begin/
 const_iterator Aspose::Words::Fonts::FontInfoCollection::begin() const noexcept
 ```
 
-## FontInfoCollection.begin() method
+## FontInfoCollection::begin() method
 
 
 

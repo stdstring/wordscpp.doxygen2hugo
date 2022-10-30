@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.words.fields/fieldoptions/set_useinvariantculturenumberformat/
 ---
-## FieldOptions.set_UseInvariantCultureNumberFormat method
+## FieldOptions::set_UseInvariantCultureNumberFormat method
 
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat](../get_useinvariantculturenumberformat/).

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/variablecollection/indexofkey/
 ---
-## VariableCollection.IndexOfKey method
+## VariableCollection::IndexOfKey method
 
 
 Returns the zero-based index of the specified document variable in the collection.

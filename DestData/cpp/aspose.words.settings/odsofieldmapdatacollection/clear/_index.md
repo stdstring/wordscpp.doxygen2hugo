@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/clear/
 ---
-## OdsoFieldMapDataCollection.Clear method
+## OdsoFieldMapDataCollection::Clear method
 
 
 Removes all elements from this collection.

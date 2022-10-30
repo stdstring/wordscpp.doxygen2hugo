@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words/document/get_hasrevisions/
 ---
-## Document.get_HasRevisions method
+## Document::get_HasRevisions method
 
 
 Returns **true** if the document has any tracked changes.

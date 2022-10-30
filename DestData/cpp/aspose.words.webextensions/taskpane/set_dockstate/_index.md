@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.webextensions/taskpane/set_dockstate/
 ---
-## TaskPane.set_DockState method
+## TaskPane::set_DockState method
 
 
 Setter for [Aspose::Words::WebExtensions::TaskPane::get_DockState](../get_dockstate/).

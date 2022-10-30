@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words/document/get_originalfilename/
 ---
-## Document.get_OriginalFileName method
+## Document::get_OriginalFileName method
 
 
 Gets the original file name of the document.

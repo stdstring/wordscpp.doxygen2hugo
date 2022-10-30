@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.markup/sdtlistitemcollection/get_count/
 ---
-## SdtListItemCollection.get_Count method
+## SdtListItemCollection::get_Count method
 
 
 Gets number of items in the collection.

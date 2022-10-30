@@ -6,7 +6,7 @@ type: docs
 weight: 794
 url: /cpp/aspose.words.tables/table/set_title/
 ---
-## Table.set_Title method
+## Table::set_Title method
 
 
 Setter for [Aspose::Words::Tables::Table::get_Title](../get_title/).

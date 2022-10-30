@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/oleformat/set_sourceitem/
 ---
-## OleFormat.set_SourceItem method
+## OleFormat::set_SourceItem method
 
 
 Setter for [Aspose::Words::Drawing::OleFormat::get_SourceItem](../get_sourceitem/).

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/generalformatcollection/getenumerator/
 ---
-## GeneralFormatCollection.GetEnumerator method
+## GeneralFormatCollection::GetEnumerator method
 
 
 Returns an enumerator object.

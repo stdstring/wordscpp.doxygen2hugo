@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_characterswithspaces/
 ---
-## BuiltInDocumentProperties.get_CharactersWithSpaces method
+## BuiltInDocumentProperties::get_CharactersWithSpaces method
 
 
 Represents an estimate of the number of characters (including spaces) in the document.

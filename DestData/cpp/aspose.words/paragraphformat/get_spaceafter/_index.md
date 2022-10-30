@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words/paragraphformat/get_spaceafter/
 ---
-## ParagraphFormat.get_SpaceAfter method
+## ParagraphFormat::get_SpaceAfter method
 
 
 Gets or sets the amount of spacing (in points) after the paragraph.

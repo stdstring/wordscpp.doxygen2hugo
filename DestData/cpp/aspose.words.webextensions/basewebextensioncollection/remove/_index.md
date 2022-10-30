@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/remove/
 ---
-## BaseWebExtensionCollection.Remove method
+## BaseWebExtensionCollection::Remove method
 
 
 Removes the item at the specified index from the collection.

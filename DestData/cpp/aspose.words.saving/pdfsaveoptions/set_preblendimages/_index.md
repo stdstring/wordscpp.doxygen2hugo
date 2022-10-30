@@ -6,7 +6,7 @@ type: docs
 weight: 690
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_preblendimages/
 ---
-## PdfSaveOptions.set_PreblendImages method
+## PdfSaveOptions::set_PreblendImages method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages](../get_preblendimages/).

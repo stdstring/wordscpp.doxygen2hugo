@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/documentvisitor/visitcellstart/
 ---
-## DocumentVisitor.VisitCellStart method
+## DocumentVisitor::VisitCellStart method
 
 
 Called when enumeration of a table cell has started.

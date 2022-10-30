@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.properties/documentproperty/todouble/
 ---
-## DocumentProperty.ToDouble method
+## DocumentProperty::ToDouble method
 
 
 Returns the property value as double.

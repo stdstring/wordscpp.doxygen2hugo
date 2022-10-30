@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_casecodestyle/
 ---
-## FieldDisplayBarcode.get_CaseCodeStyle method
+## FieldDisplayBarcode::get_CaseCodeStyle method
 
 
 Gets or sets the style of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD].

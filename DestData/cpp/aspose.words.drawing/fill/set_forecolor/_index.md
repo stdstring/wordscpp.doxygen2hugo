@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.drawing/fill/set_forecolor/
 ---
-## Fill.set_ForeColor method
+## Fill::set_ForeColor method
 
 
 Setter for [Aspose::Words::Drawing::Fill::get_ForeColor](../get_forecolor/).

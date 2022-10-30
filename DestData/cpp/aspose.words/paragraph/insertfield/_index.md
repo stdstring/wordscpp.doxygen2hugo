@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words/paragraph/insertfield/
 ---
-## Paragraph.InsertField(Aspose::Words::Fields::FieldType, bool, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
+## Paragraph::InsertField(Aspose::Words::Fields::FieldType, bool, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
 
 
 Inserts a field into this paragraph.
@@ -68,7 +68,7 @@ ASSERT_EQ(u" Real value.", doc->get_Range()->get_Fields()->idx_get(1)->get_Resul
 doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 ```
 
-## Paragraph.InsertField(const System::String\&, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
+## Paragraph::InsertField(const System::String\&, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
 
 
 Inserts a field into this paragraph.
@@ -129,7 +129,7 @@ ASSERT_EQ(u" Real value.", doc->get_Range()->get_Fields()->idx_get(1)->get_Resul
 doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 ```
 
-## Paragraph.InsertField(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
+## Paragraph::InsertField(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
 
 
 Inserts a field into this paragraph.

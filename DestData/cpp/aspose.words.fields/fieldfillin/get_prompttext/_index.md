@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldfillin/get_prompttext/
 ---
-## FieldFillIn.get_PromptText method
+## FieldFillIn::get_PromptText method
 
 
 Gets or sets the prompt text (the title of the prompt window).

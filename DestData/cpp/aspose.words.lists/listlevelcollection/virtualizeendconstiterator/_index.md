@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.lists/listlevelcollection/virtualizeendconstiterator/
 ---
-## ListLevelCollection.virtualizeEndConstIterator method
+## ListLevelCollection::virtualizeEndConstIterator method
 
 
 

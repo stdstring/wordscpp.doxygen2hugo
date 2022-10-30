@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesavingcallback/
 ---
-## XamlFixedSaveOptions.set_ResourceSavingCallback method
+## XamlFixedSaveOptions::set_ResourceSavingCallback method
 
 
 Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback](../get_resourcesavingcallback/).

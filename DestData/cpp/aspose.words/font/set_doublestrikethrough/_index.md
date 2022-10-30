@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/aspose.words/font/set_doublestrikethrough/
 ---
-## Font.set_DoubleStrikeThrough method
+## Font::set_DoubleStrikeThrough method
 
 
 Setter for [Aspose::Words::Font::get_DoubleStrikeThrough](../get_doublestrikethrough/).

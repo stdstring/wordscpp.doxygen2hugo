@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldta/get_shortcitation/
 ---
-## FieldTA.get_ShortCitation method
+## FieldTA::get_ShortCitation method
 
 
 Gets or sets the short citation for the entry.

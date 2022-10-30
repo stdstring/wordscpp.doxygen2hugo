@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldautonumlgl/set_separatorcharacter/
 ---
-## FieldAutoNumLgl.set_SeparatorCharacter method
+## FieldAutoNumLgl::set_SeparatorCharacter method
 
 
 Setter for [Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter](../get_separatorcharacter/).

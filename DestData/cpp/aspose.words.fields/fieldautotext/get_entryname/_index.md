@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldautotext/get_entryname/
 ---
-## FieldAutoText.get_EntryName method
+## FieldAutoText::get_EntryName method
 
 
 Gets or sets the name of the AutoText entry.

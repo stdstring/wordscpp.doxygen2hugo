@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.fields/barcodeparameters/set_barcodetype/
 ---
-## BarcodeParameters.set_BarcodeType method
+## BarcodeParameters::set_BarcodeType method
 
 
 Bar code type.

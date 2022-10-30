@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.fields/formfield/get_statustext/
 ---
-## FormField.get_StatusText method
+## FormField::get_StatusText method
 
 
 Returns or sets the text that's displayed in the status bar when a form field has the focus.

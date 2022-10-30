@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizeendconstiterator/
 ---
-## DropDownItemCollection.virtualizeEndConstIterator method
+## DropDownItemCollection::virtualizeEndConstIterator method
 
 
 

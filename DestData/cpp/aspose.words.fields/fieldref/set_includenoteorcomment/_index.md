@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldref/set_includenoteorcomment/
 ---
-## FieldRef.set_IncludeNoteOrComment method
+## FieldRef::set_IncludeNoteOrComment method
 
 
 Setter for [Aspose::Words::Fields::FieldRef::get_IncludeNoteOrComment](../get_includenoteorcomment/).

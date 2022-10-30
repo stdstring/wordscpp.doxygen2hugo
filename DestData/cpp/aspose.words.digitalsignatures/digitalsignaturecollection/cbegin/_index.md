@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/cbegin/
 ---
-## DigitalSignatureCollection.cbegin method
+## DigitalSignatureCollection::cbegin method
 
 
 

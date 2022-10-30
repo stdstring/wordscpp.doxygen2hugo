@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/shading/gethashcode/
 ---
-## Shading.GetHashCode method
+## Shading::GetHashCode method
 
 
 Serves as a hash function for this type.

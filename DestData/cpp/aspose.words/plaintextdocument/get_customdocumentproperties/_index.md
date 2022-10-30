@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/plaintextdocument/get_customdocumentproperties/
 ---
-## PlainTextDocument.get_CustomDocumentProperties method
+## PlainTextDocument::get_CustomDocumentProperties method
 
 
 Gets [CustomDocumentProperties](./) of the document.

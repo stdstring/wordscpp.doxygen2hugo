@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/oleformat/get_clsid/
 ---
-## OleFormat.get_Clsid method
+## OleFormat::get_Clsid method
 
 
 Gets the CLSID of the OLE object.

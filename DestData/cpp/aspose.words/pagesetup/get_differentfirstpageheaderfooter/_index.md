@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/pagesetup/get_differentfirstpageheaderfooter/
 ---
-## PageSetup.get_DifferentFirstPageHeaderFooter method
+## PageSetup::get_DifferentFirstPageHeaderFooter method
 
 
 **True** if a different header or footer is used on the first page.

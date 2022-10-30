@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.replacing/replacingargs/get_replacement/
 ---
-## ReplacingArgs.get_Replacement method
+## ReplacingArgs::get_Replacement method
 
 
 Gets or sets the replacement string.

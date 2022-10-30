@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.markup/structureddocumenttag/get_endcharacterfont/
 ---
-## StructuredDocumentTag.get_EndCharacterFont method
+## StructuredDocumentTag::get_EndCharacterFont method
 
 
 [Font](../../../aspose.words/font/) formatting that will be applied to the last character of text entered into **SDT**.

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/stroke/get_linestyle/
 ---
-## Stroke.get_LineStyle method
+## Stroke::get_LineStyle method
 
 
 Defines the line style of the stroke.

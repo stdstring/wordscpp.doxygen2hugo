@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.saving/imagesaveoptions/set_pixelformat/
 ---
-## ImageSaveOptions.set_PixelFormat method
+## ImageSaveOptions::set_PixelFormat method
 
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat](../get_pixelformat/).

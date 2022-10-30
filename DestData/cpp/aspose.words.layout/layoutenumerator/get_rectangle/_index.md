@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.layout/layoutenumerator/get_rectangle/
 ---
-## LayoutEnumerator.get_Rectangle method
+## LayoutEnumerator::get_Rectangle method
 
 
 Returns the bounding rectangle of the current entity relative to the page top left corner (in points).

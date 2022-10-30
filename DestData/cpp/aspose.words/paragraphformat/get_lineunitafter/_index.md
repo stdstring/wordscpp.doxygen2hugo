@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words/paragraphformat/get_lineunitafter/
 ---
-## ParagraphFormat.get_LineUnitAfter method
+## ParagraphFormat::get_LineUnitAfter method
 
 
 Gets or sets the amount of spacing (in gridlines) after the paragraphs.

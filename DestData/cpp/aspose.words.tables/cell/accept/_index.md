@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.tables/cell/accept/
 ---
-## Cell.Accept method
+## Cell::Accept method
 
 
 Accepts a visitor.

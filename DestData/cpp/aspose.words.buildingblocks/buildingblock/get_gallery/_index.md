@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_gallery/
 ---
-## BuildingBlock.get_Gallery method
+## BuildingBlock::get_Gallery method
 
 
 Specifies the first-level categorization for the building block for the purposes of classification or user interface sorting.

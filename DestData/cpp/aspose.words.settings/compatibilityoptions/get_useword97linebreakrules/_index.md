@@ -6,7 +6,7 @@ type: docs
 weight: 872
 url: /cpp/aspose.words.settings/compatibilityoptions/get_useword97linebreakrules/
 ---
-## CompatibilityOptions.get_UseWord97LineBreakRules method
+## CompatibilityOptions::get_UseWord97LineBreakRules method
 
 
 Emulate Word 97 East Asian Line Breaking.

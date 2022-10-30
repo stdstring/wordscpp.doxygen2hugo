@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/pclsaveoptions/get_fallbackfontname/
 ---
-## PclSaveOptions.get_FallbackFontName method
+## PclSaveOptions::get_FallbackFontName method
 
 
 Name of the font that will be used if no expected font is found in printer and built-in fonts collections.

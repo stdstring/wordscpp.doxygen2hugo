@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/ooxmlsaveoptions/
 ---
-## OoxmlSaveOptions.OoxmlSaveOptions() method
+## OoxmlSaveOptions::OoxmlSaveOptions() method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Docx** format.
@@ -48,7 +48,7 @@ doc = MakeObject<Document>(ArtifactsDir + u"OoxmlSaveOptions.Iso29500Strict.docx
 ASSERT_EQ(ShapeMarkupLanguage::Dml, (System::DynamicCast<Shape>(doc->GetChild(NodeType::Shape, 0, true)))->get_MarkupLanguage());
 ```
 
-## OoxmlSaveOptions.OoxmlSaveOptions(Aspose::Words::SaveFormat) method
+## OoxmlSaveOptions::OoxmlSaveOptions(Aspose::Words::SaveFormat) method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Docx**, **Docm**, **Dotx**, **Dotm** or **FlatOpc** format.

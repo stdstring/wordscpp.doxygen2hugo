@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/saveoptions/get_dmlrenderingmode/
 ---
-## SaveOptions.get_DmlRenderingMode method
+## SaveOptions::get_DmlRenderingMode method
 
 
 Gets or sets a value determining how DrawingML shapes are rendered.

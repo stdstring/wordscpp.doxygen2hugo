@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.tables/cellformat/set_orientation/
 ---
-## CellFormat.set_Orientation method
+## CellFormat::set_Orientation method
 
 
 Setter for [Aspose::Words::Tables::CellFormat::get_Orientation](../get_orientation/).

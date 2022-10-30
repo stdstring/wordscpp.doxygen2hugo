@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/userinformation/get_name/
 ---
-## UserInformation.get_Name method
+## UserInformation::get_Name method
 
 
 Gets or sets the user's name.

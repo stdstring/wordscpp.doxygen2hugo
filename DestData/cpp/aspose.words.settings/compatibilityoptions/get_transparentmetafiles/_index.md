@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/aspose.words.settings/compatibilityoptions/get_transparentmetafiles/
 ---
-## CompatibilityOptions.get_TransparentMetafiles method
+## CompatibilityOptions::get_TransparentMetafiles method
 
 
 Specifies not to blank the area behind metafile pictures.

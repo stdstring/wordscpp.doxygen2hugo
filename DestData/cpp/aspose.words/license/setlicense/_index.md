@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/license/setlicense/
 ---
-## License.SetLicense(const System::SharedPtr\<System::IO::Stream\>\&) method
+## License::SetLicense(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Licenses the component.
@@ -37,7 +37,7 @@ Shows how to initialize a license for Aspose.Words from a stream.
 }
 ```
 
-## License.SetLicense(const System::String\&) method
+## License::SetLicense(const System::String\&) method
 
 
 Licenses the component.
@@ -82,7 +82,7 @@ System::IO::File::Copy(licenseFileName, licenseCopyFileName);
 license->SetLicense(u"Aspose.Words.Cpp.lic");
 ```
 
-## License.SetLicense(std::basic_istream\<CharType, Traits\>\&) method
+## License::SetLicense(std::basic_istream\<CharType, Traits\>\&) method
 
 
 

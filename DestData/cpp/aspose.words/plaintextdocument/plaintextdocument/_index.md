@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/plaintextdocument/plaintextdocument/
 ---
-## PlainTextDocument.PlainTextDocument(const System::SharedPtr\<System::IO::Stream\>\&) method
+## PlainTextDocument::PlainTextDocument(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Creates a plain text document from a stream. Automatically detects the file format.
@@ -43,7 +43,7 @@ doc->Save(ArtifactsDir + u"PlainTextDocument.LoadFromStream.docx");
 }
 ```
 
-## PlainTextDocument.PlainTextDocument(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
+## PlainTextDocument::PlainTextDocument(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
 Creates a plain text document from a stream. Allows to specify additional options such as an encryption password.
@@ -88,7 +88,7 @@ loadOptions->set_Password(u"MyPassword");
 }
 ```
 
-## PlainTextDocument.PlainTextDocument(const System::String\&) method
+## PlainTextDocument::PlainTextDocument(const System::String\&) method
 
 
 Creates a plain text document from a file. Automatically detects the file format.
@@ -120,7 +120,7 @@ auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocumen
 ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ```
 
-## PlainTextDocument.PlainTextDocument(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
+## PlainTextDocument::PlainTextDocument(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
 Creates a plain text document from a file. Allows to specify additional options such as an encryption password.
@@ -159,7 +159,7 @@ auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocumen
 ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ```
 
-## PlainTextDocument.PlainTextDocument(std::istream\&) method
+## PlainTextDocument::PlainTextDocument(std::istream\&) method
 
 
 
@@ -168,7 +168,7 @@ ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 Aspose::Words::PlainTextDocument::PlainTextDocument(std::istream &stream)
 ```
 
-## PlainTextDocument.PlainTextDocument(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
+## PlainTextDocument::PlainTextDocument(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
 

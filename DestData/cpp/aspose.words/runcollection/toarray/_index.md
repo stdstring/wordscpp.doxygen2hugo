@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/runcollection/toarray/
 ---
-## RunCollection.ToArray method
+## RunCollection::ToArray method
 
 
 Copies all runs from the collection to a new array of runs.

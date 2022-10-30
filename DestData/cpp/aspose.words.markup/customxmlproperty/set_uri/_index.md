@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.markup/customxmlproperty/set_uri/
 ---
-## CustomXmlProperty.set_Uri method
+## CustomXmlProperty::set_Uri method
 
 
 Setter for [Aspose::Words::Markup::CustomXmlProperty::get_Uri](../get_uri/).

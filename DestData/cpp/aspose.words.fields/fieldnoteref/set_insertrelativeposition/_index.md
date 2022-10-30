@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldnoteref/set_insertrelativeposition/
 ---
-## FieldNoteRef.set_InsertRelativePosition method
+## FieldNoteRef::set_InsertRelativePosition method
 
 
 Setter for [Aspose::Words::Fields::FieldNoteRef::get_InsertRelativePosition](../get_insertrelativeposition/).

@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/textpath/set_fontfamily/
 ---
-## TextPath.set_FontFamily method
+## TextPath::set_FontFamily method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_FontFamily](../get_fontfamily/).

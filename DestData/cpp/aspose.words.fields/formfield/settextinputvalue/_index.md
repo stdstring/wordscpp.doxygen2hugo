@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/aspose.words.fields/formfield/settextinputvalue/
 ---
-## FormField.SetTextInputValue method
+## FormField::SetTextInputValue method
 
 
 Applies the text format specified in [TextInputFormat](../get_textinputformat/) and stores the value in [Result](../get_result/).

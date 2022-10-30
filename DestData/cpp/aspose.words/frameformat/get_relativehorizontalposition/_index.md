@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/frameformat/get_relativehorizontalposition/
 ---
-## FrameFormat.get_RelativeHorizontalPosition method
+## FrameFormat::get_RelativeHorizontalPosition method
 
 
 Gets the relative horizontal position of a frame.

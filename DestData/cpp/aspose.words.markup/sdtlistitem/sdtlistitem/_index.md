@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/sdtlistitem/sdtlistitem/
 ---
-## SdtListItem.SdtListItem(const System::String\&, const System::String\&) method
+## SdtListItem::SdtListItem(const System::String\&, const System::String\&) method
 
 
 Initializes a new instance of this class.
@@ -77,7 +77,7 @@ listItems->Clear();
 ASSERT_EQ(0, listItems->get_Count());
 ```
 
-## SdtListItem.SdtListItem(const System::String\&) method
+## SdtListItem::SdtListItem(const System::String\&) method
 
 
 Initializes a new instance of this class.

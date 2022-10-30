@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_reason/
 ---
-## PdfDigitalSignatureDetails.set_Reason method
+## PdfDigitalSignatureDetails::set_Reason method
 
 
 Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason](../get_reason/).

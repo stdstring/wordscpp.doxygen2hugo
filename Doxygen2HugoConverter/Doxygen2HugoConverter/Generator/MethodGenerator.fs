@@ -41,7 +41,7 @@ let createArgTypeList (parameters: Defs.MethodArgDef list) =
 
 let generateHeader (hasOverloads: bool) (argsTypes: string list) (methodDef: Defs.MethodDef) =
     let result = new StringBuilder()
-    sprintf $"{methodDef.ClassName}.{methodDef.Name}" |> result.Append |> ignore
+    sprintf $"{methodDef.ClassName}::{methodDef.Name}" |> result.Append |> ignore
     if hasOverloads then
         "(" |> result.Append |> ignore
         argsTypes |> String.concat ", " |> result.Append |> ignore

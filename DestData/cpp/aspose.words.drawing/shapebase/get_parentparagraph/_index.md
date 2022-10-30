@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/aspose.words.drawing/shapebase/get_parentparagraph/
 ---
-## ShapeBase.get_ParentParagraph method
+## ShapeBase::get_ParentParagraph method
 
 
 Returns the immediate parent paragraph.

@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/aspose.words.tables/table/set_rightpadding/
 ---
-## Table.set_RightPadding method
+## Table::set_RightPadding method
 
 
 Setter for [Aspose::Words::Tables::Table::get_RightPadding](../get_rightpadding/).

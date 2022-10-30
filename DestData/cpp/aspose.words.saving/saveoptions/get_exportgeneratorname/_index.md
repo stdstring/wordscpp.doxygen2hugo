@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/saveoptions/get_exportgeneratorname/
 ---
-## SaveOptions.get_ExportGeneratorName method
+## SaveOptions::get_ExportGeneratorName method
 
 
 When true, causes the name and version of Aspose.Words to be embedded into produced files. Default value is **true**.

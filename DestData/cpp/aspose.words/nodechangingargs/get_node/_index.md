@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/nodechangingargs/get_node/
 ---
-## NodeChangingArgs.get_Node method
+## NodeChangingArgs::get_Node method
 
 
 Gets the [Node](./) that is being added or removed.

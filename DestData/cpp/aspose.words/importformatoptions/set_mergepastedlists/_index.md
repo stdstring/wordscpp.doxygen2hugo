@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/importformatoptions/set_mergepastedlists/
 ---
-## ImportFormatOptions.set_MergePastedLists method
+## ImportFormatOptions::set_MergePastedLists method
 
 
 Setter for [Aspose::Words::ImportFormatOptions::get_MergePastedLists](../get_mergepastedlists/).

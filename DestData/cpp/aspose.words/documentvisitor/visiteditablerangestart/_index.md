@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/documentvisitor/visiteditablerangestart/
 ---
-## DocumentVisitor.VisitEditableRangeStart method
+## DocumentVisitor::VisitEditableRangeStart method
 
 
 Called when a start of an editable range is encountered in the document.

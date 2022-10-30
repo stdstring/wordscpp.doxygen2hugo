@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.drawing/imagedata/setimage/
 ---
-## ImageData.SetImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
+## ImageData::SetImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
 
 
 Sets the image that the shape displays.
@@ -55,7 +55,7 @@ SharedPtr<Shape> imgShape;
 doc->Save(ArtifactsDir + u"Drawing.ImportImage.docx");
 ```
 
-## ImageData.SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
+## ImageData::SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Sets the image that the shape displays.
@@ -104,7 +104,7 @@ SharedPtr<Shape> imgShape;
 doc->Save(ArtifactsDir + u"Drawing.ImportImage.docx");
 ```
 
-## ImageData.SetImage(const System::String\&) method
+## ImageData::SetImage(const System::String\&) method
 
 
 Sets the image that the shape displays.
@@ -159,7 +159,7 @@ doc->Save(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx");
 ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx")->get_Length());
 ```
 
-## ImageData.SetImage(std::basic_istream\<CharType, Traits\>\&) method
+## ImageData::SetImage(std::basic_istream\<CharType, Traits\>\&) method
 
 
 

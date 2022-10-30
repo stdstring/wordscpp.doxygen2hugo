@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldoptions/get_fieldindexformat/
 ---
-## FieldOptions.get_FieldIndexFormat method
+## FieldOptions::get_FieldIndexFormat method
 
 
 Gets or sets a [FieldIndexFormat](./) that represents the formatting for the [FieldIndex](../../fieldindex/) fields in the document.

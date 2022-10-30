@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldtoc/set_entrylevelrange/
 ---
-## FieldToc.set_EntryLevelRange method
+## FieldToc::set_EntryLevelRange method
 
 
 Setter for [Aspose::Words::Fields::FieldToc::get_EntryLevelRange](../get_entrylevelrange/).

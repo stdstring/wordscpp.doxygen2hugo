@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/paragraph/accept/
 ---
-## Paragraph.Accept method
+## Paragraph::Accept method
 
 
 Accepts a visitor.

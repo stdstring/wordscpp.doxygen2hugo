@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.saving/fontsavingargs/get_keepfontstreamopen/
 ---
-## FontSavingArgs.get_KeepFontStreamOpen method
+## FontSavingArgs::get_KeepFontStreamOpen method
 
 
 Specifies whether Aspose.Words should keep the stream open or close it after saving a font.

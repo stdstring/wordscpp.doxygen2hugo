@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.saving/saveoptions/get_prettyformat/
 ---
-## SaveOptions.get_PrettyFormat method
+## SaveOptions::get_PrettyFormat method
 
 
 When **true**, pretty formats output where applicable. Default value is **false**.

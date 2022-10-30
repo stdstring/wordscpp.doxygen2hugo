@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/physicalfontinfo/get_filepath/
 ---
-## PhysicalFontInfo.get_FilePath method
+## PhysicalFontInfo::get_FilePath method
 
 
 Path to the font file if any.

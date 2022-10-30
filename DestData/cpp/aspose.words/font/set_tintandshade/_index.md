@@ -6,7 +6,7 @@ type: docs
 weight: 1327
 url: /cpp/aspose.words/font/set_tintandshade/
 ---
-## Font.set_TintAndShade method
+## Font::set_TintAndShade method
 
 
 Setter for [Aspose::Words::Font::get_TintAndShade](../get_tintandshade/).

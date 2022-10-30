@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/documentbuilder/get_bold/
 ---
-## DocumentBuilder.get_Bold method
+## DocumentBuilder::get_Bold method
 
 
 True if the font is formatted as bold.

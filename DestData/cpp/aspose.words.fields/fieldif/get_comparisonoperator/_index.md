@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldif/get_comparisonoperator/
 ---
-## FieldIf.get_ComparisonOperator method
+## FieldIf::get_ComparisonOperator method
 
 
 Gets or sets the comparison operator.

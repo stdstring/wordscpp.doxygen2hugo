@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words.drawing/textpath/set_strikethrough/
 ---
-## TextPath.set_StrikeThrough method
+## TextPath::set_StrikeThrough method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_StrikeThrough](../get_strikethrough/).

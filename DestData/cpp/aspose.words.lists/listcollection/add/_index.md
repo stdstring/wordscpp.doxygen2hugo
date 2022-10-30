@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listcollection/add/
 ---
-## ListCollection.Add(Aspose::Words::Lists::ListTemplate) method
+## ListCollection::Add(Aspose::Words::Lists::ListTemplate) method
 
 
 Creates a new list based on a predefined template and adds it to the collection of lists in the document.
@@ -145,7 +145,7 @@ for (const auto& paragraph : System::IterateOver(paras->LINQ_OfType<SharedPtr<Pa
 ASSERT_EQ(3, paras->LINQ_Count([](SharedPtr<Node> n) { return System::DynamicCast<Paragraph>(n)->get_ListFormat()->get_IsListItem(); }));
 ```
 
-## ListCollection.Add(const System::SharedPtr\<Aspose::Words::Style\>\&) method
+## ListCollection::Add(const System::SharedPtr\<Aspose::Words::Style\>\&) method
 
 
 Creates a new list that references a list style and adds it to the collection of lists in the document.

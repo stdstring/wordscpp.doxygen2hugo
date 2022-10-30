@@ -6,7 +6,7 @@ type: docs
 weight: 794
 url: /cpp/aspose.words/document/protect/
 ---
-## Document.Protect(Aspose::Words::ProtectionType) method
+## Document::Protect(Aspose::Words::ProtectionType) method
 
 
 Protects the document from changes without changing the existing password or assigns a random password.
@@ -54,7 +54,7 @@ doc->get_Sections()->idx_get(0)->set_ProtectedForForms(false);
 doc->Save(ArtifactsDir + u"Section.Protect.docx");
 ```
 
-## Document.Protect(Aspose::Words::ProtectionType, const System::String\&) method
+## Document::Protect(Aspose::Words::ProtectionType, const System::String\&) method
 
 
 Protects the document from changes and optionally sets a protection password.

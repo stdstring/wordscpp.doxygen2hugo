@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/section/get_pagesetup/
 ---
-## Section.get_PageSetup method
+## Section::get_PageSetup method
 
 
 Returns an object that represents page setup and section properties.

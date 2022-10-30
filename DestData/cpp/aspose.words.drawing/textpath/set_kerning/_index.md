@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.drawing/textpath/set_kerning/
 ---
-## TextPath.set_Kerning method
+## TextPath::set_Kerning method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_Kerning](../get_kerning/).

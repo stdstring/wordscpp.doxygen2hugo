@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.drawing.charts/chartseries/set_smooth/
 ---
-## ChartSeries.set_Smooth method
+## ChartSeries::set_Smooth method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartSeries::get_Smooth](../get_smooth/).

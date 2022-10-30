@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/htmlfixedsaveoptions/
 ---
-## HtmlFixedSaveOptions.HtmlFixedSaveOptions method
+## HtmlFixedSaveOptions::HtmlFixedSaveOptions method
 
 
 

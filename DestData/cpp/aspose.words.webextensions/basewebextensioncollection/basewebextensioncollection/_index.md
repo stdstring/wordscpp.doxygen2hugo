@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/basewebextensioncollection/
 ---
-## BaseWebExtensionCollection.BaseWebExtensionCollection method
+## BaseWebExtensionCollection::BaseWebExtensionCollection method
 
 
 

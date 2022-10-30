@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words/pagesetup/get_orientation/
 ---
-## PageSetup.get_Orientation method
+## PageSetup::get_Orientation method
 
 
 Returns or sets the orientation of the page.

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportfontresources/
 ---
-## HtmlSaveOptions.get_ExportFontResources method
+## HtmlSaveOptions::get_ExportFontResources method
 
 
 Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is **false**.

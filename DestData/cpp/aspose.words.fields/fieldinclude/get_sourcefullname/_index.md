@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldinclude/get_sourcefullname/
 ---
-## FieldInclude.get_SourceFullName method
+## FieldInclude::get_SourceFullName method
 
 
 Gets or sets the location of the document.

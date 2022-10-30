@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/gradientstop/get_color/
 ---
-## GradientStop.get_Color method
+## GradientStop::get_Color method
 
 
 Gets or sets a value representing the color of the gradient stop.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fielddatabasedatarow/get_values/
 ---
-## FieldDatabaseDataRow.get_Values method
+## FieldDatabaseDataRow::get_Values method
 
 
 Gets values that belong to this row.

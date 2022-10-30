@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/removeat/
 ---
-## StructuredDocumentTagCollection.RemoveAt method
+## StructuredDocumentTagCollection::RemoveAt method
 
 
 Removes a structured document tag at the specified index.

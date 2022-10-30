@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldautonum/get_separatorcharacter/
 ---
-## FieldAutoNum.get_SeparatorCharacter method
+## FieldAutoNum::get_SeparatorCharacter method
 
 
 Gets or sets the separator character to be used.

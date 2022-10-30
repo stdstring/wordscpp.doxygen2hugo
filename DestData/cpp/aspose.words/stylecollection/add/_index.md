@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/stylecollection/add/
 ---
-## StyleCollection.Add method
+## StyleCollection::Add method
 
 
 Creates a new user defined style and adds it the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcefilename/
 ---
-## ResourceSavingArgs.get_ResourceFileName method
+## ResourceSavingArgs::get_ResourceFileName method
 
 
 Gets or sets the file name (without path) where the resource will be saved to.

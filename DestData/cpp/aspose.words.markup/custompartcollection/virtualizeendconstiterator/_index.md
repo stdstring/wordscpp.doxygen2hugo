@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.markup/custompartcollection/virtualizeendconstiterator/
 ---
-## CustomPartCollection.virtualizeEndConstIterator method
+## CustomPartCollection::virtualizeEndConstIterator method
 
 
 

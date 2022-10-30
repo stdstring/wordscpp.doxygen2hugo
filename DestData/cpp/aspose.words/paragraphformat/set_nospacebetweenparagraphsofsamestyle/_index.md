@@ -6,7 +6,7 @@ type: docs
 weight: 781
 url: /cpp/aspose.words/paragraphformat/set_nospacebetweenparagraphsofsamestyle/
 ---
-## ParagraphFormat.set_NoSpaceBetweenParagraphsOfSameStyle method
+## ParagraphFormat::set_NoSpaceBetweenParagraphsOfSameStyle method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle](../get_nospacebetweenparagraphsofsamestyle/).

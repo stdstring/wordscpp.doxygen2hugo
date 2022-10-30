@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/shape/get_oleformat/
 ---
-## Shape.get_OleFormat method
+## Shape::get_OleFormat method
 
 
 Provides access to the OLE data of a shape. For a shape that is not an OLE object or ActiveX control, returns null.

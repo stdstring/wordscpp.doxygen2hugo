@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/warninginfocollection/virtualizebeginiterator/
 ---
-## WarningInfoCollection.virtualizeBeginIterator method
+## WarningInfoCollection::virtualizeBeginIterator method
 
 
 

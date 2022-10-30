@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.settings/odso/get_datasourcetype/
 ---
-## Odso.get_DataSourceType method
+## Odso::get_DataSourceType method
 
 
 Specifies the type of the external data source to be connected to as part of the ODSO connection information for this mail merge. The default value is **Default**.

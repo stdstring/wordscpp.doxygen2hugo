@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words/paragraphformat/get_pagebreakbefore/
 ---
-## ParagraphFormat.get_PageBreakBefore method
+## ParagraphFormat::get_PageBreakBefore method
 
 
 True if a page break is forced before the paragraph.

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.settings/compatibilityoptions/get_disableopentypefontformattingfeatures/
 ---
-## CompatibilityOptions.get_DisableOpenTypeFontFormattingFeatures method
+## CompatibilityOptions::get_DisableOpenTypeFontFormattingFeatures method
 
 
 

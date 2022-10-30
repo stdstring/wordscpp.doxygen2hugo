@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words/pagesetup/get_papersize/
 ---
-## PageSetup.get_PaperSize method
+## PageSetup::get_PaperSize method
 
 
 Returns or sets the paper size.

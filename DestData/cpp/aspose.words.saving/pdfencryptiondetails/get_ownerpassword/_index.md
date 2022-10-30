@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pdfencryptiondetails/get_ownerpassword/
 ---
-## PdfEncryptionDetails.get_OwnerPassword method
+## PdfEncryptionDetails::get_OwnerPassword method
 
 
 Specifies the owner password for the encrypted PDF document.

@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words/bordercollection/idx_get/
 ---
-## BorderCollection.idx_get(Aspose::Words::BorderType) method
+## BorderCollection::idx_get(Aspose::Words::BorderType) method
 
 
 Retrieves a [Border](../../border/) object by border type.
@@ -48,7 +48,7 @@ builder->Write(u"This paragraph is formatted with a double border and shading.")
 doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 ```
 
-## BorderCollection.idx_get(int32_t) method
+## BorderCollection::idx_get(int32_t) method
 
 
 Retrieves a [Border](../../border/) object by index.

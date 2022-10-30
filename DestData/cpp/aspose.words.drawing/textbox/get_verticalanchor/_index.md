@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/textbox/get_verticalanchor/
 ---
-## TextBox.get_VerticalAnchor method
+## TextBox::get_VerticalAnchor method
 
 
 Specifies the vertical alignment of the text within a shape.

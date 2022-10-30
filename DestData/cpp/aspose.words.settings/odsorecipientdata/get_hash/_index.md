@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.settings/odsorecipientdata/get_hash/
 ---
-## OdsoRecipientData.get_Hash method
+## OdsoRecipientData::get_Hash method
 
 
 Represents the hash code for this record. Sometimes Microsoft Word uses [Hash](./) of a whole record instead of a [UniqueTag](../get_uniquetag/) value. The default value is 0.

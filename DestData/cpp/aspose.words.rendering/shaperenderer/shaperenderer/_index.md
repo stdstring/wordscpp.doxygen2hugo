@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.rendering/shaperenderer/shaperenderer/
 ---
-## ShapeRenderer.ShapeRenderer method
+## ShapeRenderer::ShapeRenderer method
 
 
 Initializes a new instance of this class.

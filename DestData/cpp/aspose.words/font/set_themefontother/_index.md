@@ -6,7 +6,7 @@ type: docs
 weight: 1314
 url: /cpp/aspose.words/font/set_themefontother/
 ---
-## Font.set_ThemeFontOther method
+## Font::set_ThemeFontOther method
 
 
 Setter for [Aspose::Words::Font::get_ThemeFontOther](../get_themefontother/).

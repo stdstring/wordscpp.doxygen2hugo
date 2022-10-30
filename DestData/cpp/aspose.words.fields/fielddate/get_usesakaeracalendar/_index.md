@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fielddate/get_usesakaeracalendar/
 ---
-## FieldDate.get_UseSakaEraCalendar method
+## FieldDate::get_UseSakaEraCalendar method
 
 
 Gets or sets whether to use the Saka Era calendar.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/docsaveoptions/get_alwayscompressmetafiles/
 ---
-## DocSaveOptions.get_AlwaysCompressMetafiles method
+## DocSaveOptions::get_AlwaysCompressMetafiles method
 
 
 When **false**, small metafiles are not compressed for performance reason. Default value is **true**, all metafiles are compressed regardless of its size.

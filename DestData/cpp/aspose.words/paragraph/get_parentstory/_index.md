@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words/paragraph/get_parentstory/
 ---
-## Paragraph.get_ParentStory method
+## Paragraph::get_ParentStory method
 
 
 Retrieves the parent section-level story that can be [Body](../../body/) or [HeaderFooter](../../headerfooter/).

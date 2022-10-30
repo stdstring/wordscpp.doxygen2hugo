@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.buildingblocks/glossarydocument/accept/
 ---
-## GlossaryDocument.Accept method
+## GlossaryDocument::Accept method
 
 
 Accepts a visitor.

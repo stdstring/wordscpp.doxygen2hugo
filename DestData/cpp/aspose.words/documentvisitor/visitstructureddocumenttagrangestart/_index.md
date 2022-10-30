@@ -6,7 +6,7 @@ type: docs
 weight: 586
 url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagrangestart/
 ---
-## DocumentVisitor.VisitStructuredDocumentTagRangeStart method
+## DocumentVisitor::VisitStructuredDocumentTagRangeStart method
 
 
 

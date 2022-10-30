@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldif/get_leftexpression/
 ---
-## FieldIf.get_LeftExpression method
+## FieldIf::get_LeftExpression method
 
 
 Gets or sets the left part of the comparison expression.

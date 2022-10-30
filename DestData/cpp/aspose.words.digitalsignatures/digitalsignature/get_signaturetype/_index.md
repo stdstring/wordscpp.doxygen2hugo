@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_signaturetype/
 ---
-## DigitalSignature.get_SignatureType method
+## DigitalSignature::get_SignatureType method
 
 
 Gets the type of the digital signature.

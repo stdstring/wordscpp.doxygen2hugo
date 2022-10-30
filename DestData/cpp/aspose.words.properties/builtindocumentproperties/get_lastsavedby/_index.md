@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_lastsavedby/
 ---
-## BuiltInDocumentProperties.get_LastSavedBy method
+## BuiltInDocumentProperties::get_LastSavedBy method
 
 
 Gets or sets the name of the last author.

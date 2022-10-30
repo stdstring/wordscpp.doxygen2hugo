@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/oleformat/get_sourcefullname/
 ---
-## OleFormat.get_SourceFullName method
+## OleFormat::get_SourceFullName method
 
 
 Gets or sets the path and name of the source file for the linked OLE object.

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/revisioncollection/rejectall/
 ---
-## RevisionCollection.RejectAll method
+## RevisionCollection::RejectAll method
 
 
 Rejects all revisions in this collection.

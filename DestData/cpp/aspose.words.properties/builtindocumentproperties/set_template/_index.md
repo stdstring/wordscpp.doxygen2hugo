@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_template/
 ---
-## BuiltInDocumentProperties.set_Template method
+## BuiltInDocumentProperties::set_Template method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Template](../get_template/).

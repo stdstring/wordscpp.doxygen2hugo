@@ -6,7 +6,7 @@ type: docs
 weight: 794
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportheadersfootersmode/
 ---
-## HtmlSaveOptions.set_ExportHeadersFootersMode method
+## HtmlSaveOptions::set_ExportHeadersFootersMode method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode](../get_exportheadersfootersmode/).

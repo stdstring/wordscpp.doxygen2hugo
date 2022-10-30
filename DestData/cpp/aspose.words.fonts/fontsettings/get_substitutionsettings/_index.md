@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/fontsettings/get_substitutionsettings/
 ---
-## FontSettings.get_SubstitutionSettings method
+## FontSettings::get_SubstitutionSettings method
 
 
 [Settings](../../../aspose.words.settings/) related to font substitution mechanism.

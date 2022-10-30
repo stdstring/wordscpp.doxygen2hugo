@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldddeauto/get_insertasbitmap/
 ---
-## FieldDdeAuto.get_InsertAsBitmap method
+## FieldDdeAuto::get_InsertAsBitmap method
 
 
 Gets or sets whether to insert the linked object as a bitmap.

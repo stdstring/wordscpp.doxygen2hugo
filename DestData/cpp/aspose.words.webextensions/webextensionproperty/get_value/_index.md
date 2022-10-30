@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.webextensions/webextensionproperty/get_value/
 ---
-## WebExtensionProperty.get_Value method
+## WebExtensionProperty::get_Value method
 
 
 Specifies a custom property value.

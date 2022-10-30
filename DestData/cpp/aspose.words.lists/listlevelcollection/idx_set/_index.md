@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.lists/listlevelcollection/idx_set/
 ---
-## ListLevelCollection.idx_set method
+## ListLevelCollection::idx_set method
 
 
 Gets a list level by index.

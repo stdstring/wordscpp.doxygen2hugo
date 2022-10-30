@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/section/appendcontent/
 ---
-## Section.AppendContent method
+## Section::AppendContent method
 
 
 Inserts a copy of content of the source section at the end of this section.

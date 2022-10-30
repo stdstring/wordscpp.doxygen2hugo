@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words.saving/saveoptions/set_updatefields/
 ---
-## SaveOptions.set_UpdateFields method
+## SaveOptions::set_UpdateFields method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateFields](../get_updatefields/).

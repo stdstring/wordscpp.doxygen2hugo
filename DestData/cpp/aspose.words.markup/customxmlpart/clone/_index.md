@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlpart/clone/
 ---
-## CustomXmlPart.Clone method
+## CustomXmlPart::Clone method
 
 
 Makes a "deep enough" copy of the object. Does not duplicate the bytes of the [Data](../get_data/) value.

@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.fields/barcodeparameters/set_symbolheight/
 ---
-## BarcodeParameters.set_SymbolHeight method
+## BarcodeParameters::set_SymbolHeight method
 
 
 Bar code image height (in twips - 1/1440 inches)

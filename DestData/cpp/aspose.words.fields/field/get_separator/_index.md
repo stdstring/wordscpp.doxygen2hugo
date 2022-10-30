@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/field/get_separator/
 ---
-## Field.get_Separator method
+## Field::get_Separator method
 
 
 Gets the node that represents the field separator. Can be null.

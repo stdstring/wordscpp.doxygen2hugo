@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.properties/documentproperty/tobytearray/
 ---
-## DocumentProperty.ToByteArray method
+## DocumentProperty::ToByteArray method
 
 
 Returns the property value as byte array.

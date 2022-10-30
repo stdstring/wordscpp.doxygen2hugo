@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/txtlistindentation/txtlistindentation/
 ---
-## TxtListIndentation.TxtListIndentation method
+## TxtListIndentation::TxtListIndentation method
 
 
 

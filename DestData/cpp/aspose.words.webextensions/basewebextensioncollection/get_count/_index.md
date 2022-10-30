@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/get_count/
 ---
-## BaseWebExtensionCollection.get_Count method
+## BaseWebExtensionCollection::get_Count method
 
 
 Gets the number of elements contained in the collection.

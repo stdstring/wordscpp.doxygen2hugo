@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.properties/customdocumentproperties/add/
 ---
-## CustomDocumentProperties.Add(const System::String\&, bool) method
+## CustomDocumentProperties::Add(const System::String\&, bool) method
 
 
 Creates a new custom document property of the **PropertyType.Boolean** data type.
@@ -89,7 +89,7 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
-## CustomDocumentProperties.Add(const System::String\&, const System::String\&) method
+## CustomDocumentProperties::Add(const System::String\&, const System::String\&) method
 
 
 Creates a new custom document property of the **PropertyType.String** data type.
@@ -172,7 +172,7 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
-## CustomDocumentProperties.Add(const System::String\&, double) method
+## CustomDocumentProperties::Add(const System::String\&, double) method
 
 
 Creates a new custom document property of the **PropertyType.Float** data type.
@@ -255,7 +255,7 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
-## CustomDocumentProperties.Add(const System::String\&, int32_t) method
+## CustomDocumentProperties::Add(const System::String\&, int32_t) method
 
 
 Creates a new custom document property of the **PropertyType.Number** data type.
@@ -338,7 +338,7 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
-## CustomDocumentProperties.Add(const System::String\&, System::DateTime) method
+## CustomDocumentProperties::Add(const System::String\&, System::DateTime) method
 
 
 Creates a new custom document property of the **PropertyType.DateTime** data type.

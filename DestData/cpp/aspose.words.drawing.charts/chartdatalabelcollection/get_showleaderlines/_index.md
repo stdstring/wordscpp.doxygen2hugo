@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_showleaderlines/
 ---
-## ChartDataLabelCollection.get_ShowLeaderLines method
+## ChartDataLabelCollection::get_ShowLeaderLines method
 
 
 Allows to specify whether data label leader lines need be shown for the data labels of the entire series. Default value is **false**.

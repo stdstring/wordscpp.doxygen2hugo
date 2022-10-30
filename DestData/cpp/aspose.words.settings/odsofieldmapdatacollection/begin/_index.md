@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/begin/
 ---
-## OdsoFieldMapDataCollection.begin() const method
+## OdsoFieldMapDataCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/begin/
 const_iterator Aspose::Words::Settings::OdsoFieldMapDataCollection::begin() const noexcept
 ```
 
-## OdsoFieldMapDataCollection.begin() method
+## OdsoFieldMapDataCollection::begin() method
 
 
 

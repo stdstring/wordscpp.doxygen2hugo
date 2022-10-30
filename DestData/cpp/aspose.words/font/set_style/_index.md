@@ -6,7 +6,7 @@ type: docs
 weight: 1171
 url: /cpp/aspose.words/font/set_style/
 ---
-## Font.set_Style method
+## Font::set_Style method
 
 
 Setter for [Aspose::Words::Font::get_Style](../get_style/).

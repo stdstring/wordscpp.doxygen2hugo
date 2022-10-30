@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_scaling/
 ---
-## ChartAxis.get_Scaling method
+## ChartAxis::get_Scaling method
 
 
 Provides access to the scaling options of the axis.

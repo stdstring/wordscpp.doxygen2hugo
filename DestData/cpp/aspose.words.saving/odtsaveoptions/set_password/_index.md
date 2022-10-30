@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/odtsaveoptions/set_password/
 ---
-## OdtSaveOptions.set_Password method
+## OdtSaveOptions::set_Password method
 
 
 Setter for [Aspose::Words::Saving::OdtSaveOptions::get_Password](../get_password/).

@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_tag/
 ---
-## StructuredDocumentTagRangeStart.get_Tag method
+## StructuredDocumentTagRangeStart::get_Tag method
 
 
 Specifies a tag associated with the current structured document tag node. Can not be null.

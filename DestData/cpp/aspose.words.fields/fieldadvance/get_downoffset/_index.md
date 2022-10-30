@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldadvance/get_downoffset/
 ---
-## FieldAdvance.get_DownOffset method
+## FieldAdvance::get_DownOffset method
 
 
 Gets or sets the number of points by which the text that follows the field should be moved down.

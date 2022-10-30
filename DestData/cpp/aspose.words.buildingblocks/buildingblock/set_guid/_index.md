@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_guid/
 ---
-## BuildingBlock.set_Guid method
+## BuildingBlock::set_Guid method
 
 
 Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid](../get_guid/).

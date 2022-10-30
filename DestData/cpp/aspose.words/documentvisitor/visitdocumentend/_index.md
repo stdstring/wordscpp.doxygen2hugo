@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/documentvisitor/visitdocumentend/
 ---
-## DocumentVisitor.VisitDocumentEnd method
+## DocumentVisitor::VisitDocumentEnd method
 
 
 Called when enumeration of the document has finished.

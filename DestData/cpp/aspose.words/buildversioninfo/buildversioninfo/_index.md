@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/buildversioninfo/buildversioninfo/
 ---
-## BuildVersionInfo.BuildVersionInfo method
+## BuildVersionInfo::BuildVersionInfo method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.themes/themefonts/get_latin/
 ---
-## ThemeFonts.get_Latin method
+## ThemeFonts::get_Latin method
 
 
 Specifies font name for Latin characters.

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldformat/set_datetimeformat/
 ---
-## FieldFormat.set_DateTimeFormat method
+## FieldFormat::set_DateTimeFormat method
 
 
 Setter for [Aspose::Words::Fields::FieldFormat::get_DateTimeFormat](../get_datetimeformat/).

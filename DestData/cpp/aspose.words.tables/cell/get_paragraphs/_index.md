@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.tables/cell/get_paragraphs/
 ---
-## Cell.get_Paragraphs method
+## Cell::get_Paragraphs method
 
 
 Gets a collection of paragraphs that are immediate children of the cell.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.webextensions/webextensionreference/get_version/
 ---
-## WebExtensionReference.get_Version method
+## WebExtensionReference::get_Version method
 
 
 Specifies the version of the web extension.

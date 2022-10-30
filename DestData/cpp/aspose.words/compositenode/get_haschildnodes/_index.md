@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/compositenode/get_haschildnodes/
 ---
-## CompositeNode.get_HasChildNodes method
+## CompositeNode::get_HasChildNodes method
 
 
 Returns true if this node has any child nodes.

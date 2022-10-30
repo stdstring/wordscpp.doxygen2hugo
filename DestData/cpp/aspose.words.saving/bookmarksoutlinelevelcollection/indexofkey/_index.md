@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/indexofkey/
 ---
-## BookmarksOutlineLevelCollection.IndexOfKey method
+## BookmarksOutlineLevelCollection::IndexOfKey method
 
 
 Returns the zero-based index of the specified bookmark in the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words/documentbuilder/inserthtml/
 ---
-## DocumentBuilder.InsertHtml(const System::String\&) method
+## DocumentBuilder::InsertHtml(const System::String\&) method
 
 
 Inserts an HTML string into the document.
@@ -104,7 +104,7 @@ private:
 };
 ```
 
-## DocumentBuilder.InsertHtml(const System::String\&, Aspose::Words::HtmlInsertOptions) method
+## DocumentBuilder::InsertHtml(const System::String\&, Aspose::Words::HtmlInsertOptions) method
 
 
 Inserts an HTML string into the document. Allows to specify additional options.
@@ -146,7 +146,7 @@ builder->InsertHtml(u"<p>jsmith@example.com</p>", HtmlInsertOptions::UseBuilderF
 doc->Save(ArtifactsDir + u"MailMerge.RemoveLastEmptyParagraph.docx");
 ```
 
-## DocumentBuilder.InsertHtml(const System::String\&, bool) method
+## DocumentBuilder::InsertHtml(const System::String\&, bool) method
 
 
 Inserts an HTML string into the document.

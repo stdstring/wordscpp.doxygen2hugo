@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/aspose.words/documentbuilder/movetodocumentstart/
 ---
-## DocumentBuilder.MoveToDocumentStart method
+## DocumentBuilder::MoveToDocumentStart method
 
 
 Moves the cursor to the beginning of the document.

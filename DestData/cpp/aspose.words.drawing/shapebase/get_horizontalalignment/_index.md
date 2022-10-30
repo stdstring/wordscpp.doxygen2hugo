@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.drawing/shapebase/get_horizontalalignment/
 ---
-## ShapeBase.get_HorizontalAlignment method
+## ShapeBase::get_HorizontalAlignment method
 
 
 Specifies how the shape is positioned horizontally.

@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_allownegativeindent/
 ---
-## HtmlSaveOptions.set_AllowNegativeIndent method
+## HtmlSaveOptions::set_AllowNegativeIndent method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent](../get_allownegativeindent/).

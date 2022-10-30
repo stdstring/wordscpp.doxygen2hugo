@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words/style/remove/
 ---
-## Style.Remove method
+## Style::Remove method
 
 
 Removes the specified style from the document.

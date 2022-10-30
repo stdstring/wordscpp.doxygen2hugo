@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/textcolumncollection/get_count/
 ---
-## TextColumnCollection.get_Count method
+## TextColumnCollection::get_Count method
 
 
 Gets the number of columns in the section of a document.

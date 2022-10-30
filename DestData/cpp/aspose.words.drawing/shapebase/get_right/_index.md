@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/aspose.words.drawing/shapebase/get_right/
 ---
-## ShapeBase.get_Right method
+## ShapeBase::get_Right method
 
 
 Gets the position of the right edge of the containing block of the shape.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/bordercollection/get_bottom/
 ---
-## BorderCollection.get_Bottom method
+## BorderCollection::get_Bottom method
 
 
 Gets the bottom border.

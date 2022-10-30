@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/custompartcollection/add/
 ---
-## CustomPartCollection.Add method
+## CustomPartCollection::Add method
 
 
 Adds an item to the collection.

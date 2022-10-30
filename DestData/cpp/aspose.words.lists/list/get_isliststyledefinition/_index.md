@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.lists/list/get_isliststyledefinition/
 ---
-## List.get_IsListStyleDefinition method
+## List::get_IsListStyleDefinition method
 
 
 Returns true if this list is a definition of a list style.

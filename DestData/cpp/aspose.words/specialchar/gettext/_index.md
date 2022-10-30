@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/specialchar/gettext/
 ---
-## SpecialChar.GetText method
+## SpecialChar::GetText method
 
 
 Gets the special character that this node represents.

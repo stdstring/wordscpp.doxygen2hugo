@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/paragraphformat/get_characterunitleftindent/
 ---
-## ParagraphFormat.get_CharacterUnitLeftIndent method
+## ParagraphFormat::get_CharacterUnitLeftIndent method
 
 
 Gets or sets the left indent value (in characters) for the specified paragraphs.

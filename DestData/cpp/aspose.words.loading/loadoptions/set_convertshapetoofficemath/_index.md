@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.loading/loadoptions/set_convertshapetoofficemath/
 ---
-## LoadOptions.set_ConvertShapeToOfficeMath method
+## LoadOptions::set_ConvertShapeToOfficeMath method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath](../get_convertshapetoofficemath/).

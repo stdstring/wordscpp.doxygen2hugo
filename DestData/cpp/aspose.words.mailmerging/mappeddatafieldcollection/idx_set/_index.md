@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/idx_set/
 ---
-## MappedDataFieldCollection.idx_set method
+## MappedDataFieldCollection::idx_set method
 
 
 Gets or sets the name of the field in the data source associated with the specified mail merge field.

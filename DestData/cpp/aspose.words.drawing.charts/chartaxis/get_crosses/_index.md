@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_crosses/
 ---
-## ChartAxis.get_Crosses method
+## ChartAxis::get_Crosses method
 
 
 Specifies how this axis crosses the perpendicular axis.
