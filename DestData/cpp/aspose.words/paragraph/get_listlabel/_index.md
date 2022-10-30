@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words/paragraph/get_listlabel/
 ---
-## Paragraph.get_ListLabel method
+## Paragraph::get_ListLabel method
 
 
 Gets a [ListLabel](./) object that provides access to list numbering value and formatting for this paragraph.

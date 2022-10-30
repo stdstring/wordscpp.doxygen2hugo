@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/inodechangingcallback/noderemoving/
 ---
-## INodeChangingCallback.NodeRemoving method
+## INodeChangingCallback::NodeRemoving method
 
 
 Called just before a node belonging to this document is about to be removed from the document.

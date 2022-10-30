@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_numeralformat/
 ---
-## FixedPageSaveOptions.get_NumeralFormat method
+## FixedPageSaveOptions::get_NumeralFormat method
 
 
 Gets or sets [NumeralFormat](../../numeralformat/) used for rendering of numerals. European numerals are used by default.

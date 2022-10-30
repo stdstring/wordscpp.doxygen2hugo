@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldlink/get_sourcefullname/
 ---
-## FieldLink.get_SourceFullName method
+## FieldLink::get_SourceFullName method
 
 
 Gets or sets the name and location of the source file.

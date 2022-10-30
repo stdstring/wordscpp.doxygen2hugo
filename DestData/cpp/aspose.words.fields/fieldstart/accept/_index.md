@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldstart/accept/
 ---
-## FieldStart.Accept method
+## FieldStart::Accept method
 
 
 Accepts a visitor.

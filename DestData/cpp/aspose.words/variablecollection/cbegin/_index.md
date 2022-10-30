@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/variablecollection/cbegin/
 ---
-## VariableCollection.cbegin method
+## VariableCollection::cbegin method
 
 
 

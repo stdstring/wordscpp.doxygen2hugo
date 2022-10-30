@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.drawing.charts/axisbound/tostring/
 ---
-## AxisBound.ToString method
+## AxisBound::ToString method
 
 
 Returns a user-friendly string that displays the value of this object.

@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.words.drawing/shapebase/set_coordorigin/
 ---
-## ShapeBase.set_CoordOrigin method
+## ShapeBase::set_CoordOrigin method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_CoordOrigin](../get_coordorigin/).

@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportpagesetup/
 ---
-## HtmlSaveOptions.get_ExportPageSetup method
+## HtmlSaveOptions::get_ExportPageSetup method
 
 
 Specifies whether page setup is exported to HTML, MHTML or EPUB. Default is **false**.

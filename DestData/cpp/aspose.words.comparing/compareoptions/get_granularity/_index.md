@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.comparing/compareoptions/get_granularity/
 ---
-## CompareOptions.get_Granularity method
+## CompareOptions::get_Granularity method
 
 
 Specifies whether changes are tracked by character or by word. Default value is **WordLevel**.

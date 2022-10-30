@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words/paragraphformat/get_linespacingrule/
 ---
-## ParagraphFormat.get_LineSpacingRule method
+## ParagraphFormat::get_LineSpacingRule method
 
 
 Gets or sets the line spacing for the paragraph.

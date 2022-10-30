@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/tablestyle/get_bidi/
 ---
-## TableStyle.get_Bidi method
+## TableStyle::get_Bidi method
 
 
 Gets or sets whether this is a style for a right-to-left table.

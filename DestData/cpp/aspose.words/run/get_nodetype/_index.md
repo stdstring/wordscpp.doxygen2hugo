@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/run/get_nodetype/
 ---
-## Run.get_NodeType method
+## Run::get_NodeType method
 
 
 Returns **NodeType.Run**.

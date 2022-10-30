@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/userinformation/get_initials/
 ---
-## UserInformation.get_Initials method
+## UserInformation::get_Initials method
 
 
 Gets or sets the user's initials.

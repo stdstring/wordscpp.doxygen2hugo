@@ -6,7 +6,7 @@ type: docs
 weight: 1613
 url: /cpp/aspose.words.settings/compatibilityoptions/set_swapbordersfacingpgs/
 ---
-## CompatibilityOptions.set_SwapBordersFacingPgs method
+## CompatibilityOptions::set_SwapBordersFacingPgs method
 
 
 Swap [Paragraph](../../../aspose.words/paragraph/) Borders on Odd Numbered Pages.

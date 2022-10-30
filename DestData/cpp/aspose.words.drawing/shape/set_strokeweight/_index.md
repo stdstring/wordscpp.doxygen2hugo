@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.drawing/shape/set_strokeweight/
 ---
-## Shape.set_StrokeWeight method
+## Shape::set_StrokeWeight method
 
 
 Setter for [Aspose::Words::Drawing::Shape::get_StrokeWeight](../get_strokeweight/).

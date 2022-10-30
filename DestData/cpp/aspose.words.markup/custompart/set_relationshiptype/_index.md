@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.markup/custompart/set_relationshiptype/
 ---
-## CustomPart.set_RelationshipType method
+## CustomPart::set_RelationshipType method
 
 
 Setter for [Aspose::Words::Markup::CustomPart::get_RelationshipType](../get_relationshiptype/).

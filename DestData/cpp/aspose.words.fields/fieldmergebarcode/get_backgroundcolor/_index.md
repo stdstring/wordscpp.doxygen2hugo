@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldmergebarcode/get_backgroundcolor/
 ---
-## FieldMergeBarcode.get_BackgroundColor method
+## FieldMergeBarcode::get_BackgroundColor method
 
 
 Gets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF].

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words/documentbuilder/get_listformat/
 ---
-## DocumentBuilder.get_ListFormat method
+## DocumentBuilder::get_ListFormat method
 
 
 Returns an object that represents current list formatting properties.

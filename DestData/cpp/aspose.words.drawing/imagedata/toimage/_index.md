@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.drawing/imagedata/toimage/
 ---
-## ImageData.ToImage method
+## ImageData::ToImage method
 
 
 Gets the image stored in the shape as a **Image** object.

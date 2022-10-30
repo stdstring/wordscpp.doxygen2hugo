@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fields/field/set_isdirty/
 ---
-## Field.set_IsDirty method
+## Field::set_IsDirty method
 
 
 Setter for [Aspose::Words::Fields::Field::get_IsDirty](../get_isdirty/).

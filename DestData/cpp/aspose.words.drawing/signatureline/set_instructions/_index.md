@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/signatureline/set_instructions/
 ---
-## SignatureLine.set_Instructions method
+## SignatureLine::set_Instructions method
 
 
 Setter for [Aspose::Words::Drawing::SignatureLine::get_Instructions](../get_instructions/).

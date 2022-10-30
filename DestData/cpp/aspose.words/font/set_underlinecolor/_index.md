@@ -6,7 +6,7 @@ type: docs
 weight: 1353
 url: /cpp/aspose.words/font/set_underlinecolor/
 ---
-## Font.set_UnderlineColor method
+## Font::set_UnderlineColor method
 
 
 Setter for [Aspose::Words::Font::get_UnderlineColor](../get_underlinecolor/).

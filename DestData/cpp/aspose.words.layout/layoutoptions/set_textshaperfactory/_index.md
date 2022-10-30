@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.layout/layoutoptions/set_textshaperfactory/
 ---
-## LayoutOptions.set_TextShaperFactory method
+## LayoutOptions::set_TextShaperFactory method
 
 
 Sets **ITextShaperFactory** implementation used for Advanced Typography rendering features.

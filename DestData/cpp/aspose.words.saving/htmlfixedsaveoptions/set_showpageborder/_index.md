@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_showpageborder/
 ---
-## HtmlFixedSaveOptions.set_ShowPageBorder method
+## HtmlFixedSaveOptions::set_ShowPageBorder method
 
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ShowPageBorder](../get_showpageborder/).

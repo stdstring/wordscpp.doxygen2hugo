@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.themes/themecolors/get_dark2/
 ---
-## ThemeColors.get_Dark2 method
+## ThemeColors::get_Dark2 method
 
 
 Specifies color Dark 2.

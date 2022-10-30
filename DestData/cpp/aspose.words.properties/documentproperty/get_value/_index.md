@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.properties/documentproperty/get_value/
 ---
-## DocumentProperty.get_Value method
+## DocumentProperty::get_Value method
 
 
 Gets or sets the value of the property.

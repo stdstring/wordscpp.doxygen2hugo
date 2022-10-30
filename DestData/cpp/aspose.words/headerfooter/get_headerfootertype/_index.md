@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/headerfooter/get_headerfootertype/
 ---
-## HeaderFooter.get_HeaderFooterType method
+## HeaderFooter::get_HeaderFooterType method
 
 
 Gets the type of this header/footer.

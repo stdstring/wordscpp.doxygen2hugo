@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbytitle/
 ---
-## StructuredDocumentTagCollection.GetByTitle method
+## StructuredDocumentTagCollection::GetByTitle method
 
 
 Returns the first structured document tag encountered in the collection with the specified title.

@@ -6,7 +6,7 @@ type: docs
 weight: 924
 url: /cpp/aspose.words.drawing/shapebase/set_height/
 ---
-## ShapeBase.set_Height method
+## ShapeBase::set_Height method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_Height](../get_height/).

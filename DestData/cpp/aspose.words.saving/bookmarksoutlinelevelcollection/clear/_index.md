@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/clear/
 ---
-## BookmarksOutlineLevelCollection.Clear method
+## BookmarksOutlineLevelCollection::Clear method
 
 
 Removes all elements from the collection.

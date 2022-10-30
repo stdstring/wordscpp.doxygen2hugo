@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/shape/get_filled/
 ---
-## Shape.get_Filled method
+## Shape::get_Filled method
 
 
 Determines whether the closed path of the shape will be filled.

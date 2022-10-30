@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldargumentbuilder/addtext/
 ---
-## FieldArgumentBuilder.AddText method
+## FieldArgumentBuilder::AddText method
 
 
 Adds a plain text to the argument.

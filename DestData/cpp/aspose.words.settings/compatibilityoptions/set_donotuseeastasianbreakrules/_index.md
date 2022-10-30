@@ -6,7 +6,7 @@ type: docs
 weight: 1184
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotuseeastasianbreakrules/
 ---
-## CompatibilityOptions.set_DoNotUseEastAsianBreakRules method
+## CompatibilityOptions::set_DoNotUseEastAsianBreakRules method
 
 
 Do Not Compress Compressible Characters When Using [Document](../../../aspose.words/document/) Grid.

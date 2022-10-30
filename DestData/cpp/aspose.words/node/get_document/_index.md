@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/node/get_document/
 ---
-## Node.get_Document method
+## Node::get_Document method
 
 
 Gets the document to which this node belongs.

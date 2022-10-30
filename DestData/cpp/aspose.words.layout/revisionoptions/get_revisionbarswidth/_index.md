@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarswidth/
 ---
-## RevisionOptions.get_RevisionBarsWidth method
+## RevisionOptions::get_RevisionBarsWidth method
 
 
 Gets or sets width of revision bars, points.

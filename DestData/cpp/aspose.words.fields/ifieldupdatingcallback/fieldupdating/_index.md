@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/ifieldupdatingcallback/fieldupdating/
 ---
-## IFieldUpdatingCallback.FieldUpdating method
+## IFieldUpdatingCallback::FieldUpdating method
 
 
 A user defined method that is called just before a field is updated.

@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fields/field/set_result/
 ---
-## Field.set_Result method
+## Field::set_Result method
 
 
 Setter for [Aspose::Words::Fields::Field::get_Result](../get_result/).

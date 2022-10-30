@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.markup/structureddocumenttag/get_title/
 ---
-## StructuredDocumentTag.get_Title method
+## StructuredDocumentTag::get_Title method
 
 
 Specifies the friendly name associated with this **SDT**. Can not be null.

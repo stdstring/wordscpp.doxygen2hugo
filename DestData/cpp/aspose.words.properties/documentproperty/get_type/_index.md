@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.properties/documentproperty/get_type/
 ---
-## DocumentProperty.get_Type method
+## DocumentProperty::get_Type method
 
 
 Gets the data type of the property.

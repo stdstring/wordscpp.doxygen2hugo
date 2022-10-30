@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/pagesetup/get_borders/
 ---
-## PageSetup.get_Borders method
+## PageSetup::get_Borders method
 
 
 Gets a collection of the page borders.

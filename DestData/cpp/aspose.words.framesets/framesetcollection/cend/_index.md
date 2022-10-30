@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.framesets/framesetcollection/cend/
 ---
-## FramesetCollection.cend method
+## FramesetCollection::cend method
 
 
 

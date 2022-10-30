@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/pagesetup/get_borderappliesto/
 ---
-## PageSetup.get_BorderAppliesTo method
+## PageSetup::get_BorderAppliesTo method
 
 
 Specifies which pages the page border is printed on.

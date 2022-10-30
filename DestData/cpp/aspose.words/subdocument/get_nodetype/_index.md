@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/subdocument/get_nodetype/
 ---
-## SubDocument.get_NodeType method
+## SubDocument::get_NodeType method
 
 
 Returns **NodeType.SubDocument**

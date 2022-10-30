@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/fileformatutil/contenttypetoloadformat/
 ---
-## FileFormatUtil.ContentTypeToLoadFormat method
+## FileFormatUtil::ContentTypeToLoadFormat method
 
 
 Converts IANA content type into a load format enumerated value.

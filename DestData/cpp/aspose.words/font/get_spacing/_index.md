@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.words/font/get_spacing/
 ---
-## Font.get_Spacing method
+## Font::get_Spacing method
 
 
 Returns or sets the spacing (in points) between characters .

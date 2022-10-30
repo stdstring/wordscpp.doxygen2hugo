@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/subdocument/accept/
 ---
-## SubDocument.Accept method
+## SubDocument::Accept method
 
 
 Accepts a visitor.

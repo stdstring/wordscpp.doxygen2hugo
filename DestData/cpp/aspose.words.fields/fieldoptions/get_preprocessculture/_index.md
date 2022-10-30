@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fieldoptions/get_preprocessculture/
 ---
-## FieldOptions.get_PreProcessCulture method
+## FieldOptions::get_PreProcessCulture method
 
 
 Gets or sets the culture to preprocess field values.

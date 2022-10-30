@@ -6,7 +6,7 @@ type: docs
 weight: 937
 url: /cpp/aspose.words/document/set_glossarydocument/
 ---
-## Document.set_GlossaryDocument method
+## Document::set_GlossaryDocument method
 
 
 Setter for [Aspose::Words::Document::get_GlossaryDocument](../get_glossarydocument/).

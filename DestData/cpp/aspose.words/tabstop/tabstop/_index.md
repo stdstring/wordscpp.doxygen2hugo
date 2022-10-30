@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/tabstop/tabstop/
 ---
-## TabStop.TabStop(double) method
+## TabStop::TabStop(double) method
 
 
 Initializes a new instance of this class.
@@ -59,7 +59,7 @@ ASSERT_EQ(0, paragraphs->idx_get(1)->get_ParagraphFormat()->get_TabStops()->get_
 doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 ```
 
-## TabStop.TabStop(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
+## TabStop::TabStop(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
 
 
 Initializes a new instance of this class.

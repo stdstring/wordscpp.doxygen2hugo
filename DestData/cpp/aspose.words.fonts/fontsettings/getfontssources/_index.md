@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontsettings/getfontssources/
 ---
-## FontSettings.GetFontsSources method
+## FontSettings::GetFontsSources method
 
 
 Gets a copy of the array that contains the list of sources where Aspose.Words looks for TrueType fonts.

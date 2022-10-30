@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.themes/themecolors/get_hyperlink/
 ---
-## ThemeColors.get_Hyperlink method
+## ThemeColors::get_Hyperlink method
 
 
 Specifies color for a hyperlink.

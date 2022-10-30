@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/aspose.words/paragraphformat/set_spaceafter/
 ---
-## ParagraphFormat.set_SpaceAfter method
+## ParagraphFormat::set_SpaceAfter method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_SpaceAfter](../get_spaceafter/).

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/nodecollection/idx_get/
 ---
-## NodeCollection.idx_get method
+## NodeCollection::idx_get method
 
 
 Retrieves a node at the given index.

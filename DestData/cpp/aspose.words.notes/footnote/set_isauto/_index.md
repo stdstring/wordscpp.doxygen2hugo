@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.notes/footnote/set_isauto/
 ---
-## Footnote.set_IsAuto method
+## Footnote::set_IsAuto method
 
 
 Setter for [Aspose::Words::Notes::Footnote::get_IsAuto](../get_isauto/).

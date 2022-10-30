@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldnextif/set_rightexpression/
 ---
-## FieldNextIf.set_RightExpression method
+## FieldNextIf::set_RightExpression method
 
 
 Sets the right part of the comparison expression.

@@ -6,7 +6,7 @@ type: docs
 weight: 1041
 url: /cpp/aspose.words.settings/compatibilityoptions/set_convmailmergeesc/
 ---
-## CompatibilityOptions.set_ConvMailMergeEsc method
+## CompatibilityOptions::set_ConvMailMergeEsc method
 
 
 Treat Backslash Quotation Delimiter as Two Quotation Marks.

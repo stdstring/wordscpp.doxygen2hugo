@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/dropdownitemcollection/remove/
 ---
-## DropDownItemCollection.Remove method
+## DropDownItemCollection::Remove method
 
 
 Removes the specified value from the collection.

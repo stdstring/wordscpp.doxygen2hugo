@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/importformatoptions/get_keepsourcenumbering/
 ---
-## ImportFormatOptions.get_KeepSourceNumbering method
+## ImportFormatOptions::get_KeepSourceNumbering method
 
 
 Gets or sets a boolean value that specifies how the numbering will be imported when it clashes in source and destination documents. The default value is **false**.

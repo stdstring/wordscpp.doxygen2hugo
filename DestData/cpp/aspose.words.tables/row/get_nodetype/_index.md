@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.tables/row/get_nodetype/
 ---
-## Row.get_NodeType method
+## Row::get_NodeType method
 
 
 Returns **NodeType.Row**.

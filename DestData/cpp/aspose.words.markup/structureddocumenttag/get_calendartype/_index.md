@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.markup/structureddocumenttag/get_calendartype/
 ---
-## StructuredDocumentTag.get_CalendarType method
+## StructuredDocumentTag::get_CalendarType method
 
 
 Specifies the type of calendar for this **SDT**. Default is **Default**

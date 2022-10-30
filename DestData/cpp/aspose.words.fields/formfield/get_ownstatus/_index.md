@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.fields/formfield/get_ownstatus/
 ---
-## FormField.get_OwnStatus method
+## FormField::get_OwnStatus method
 
 
 Specifies the source of the text that's displayed in the status bar when a form field has the focus.

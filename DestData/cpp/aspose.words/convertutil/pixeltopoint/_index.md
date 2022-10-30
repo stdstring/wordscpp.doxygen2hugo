@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/convertutil/pixeltopoint/
 ---
-## ConvertUtil.PixelToPoint(double) method
+## ConvertUtil::PixelToPoint(double) method
 
 
 Converts pixels to points at 96 dpi.
@@ -58,7 +58,7 @@ builder->Writeln(
 doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndPixels.docx");
 ```
 
-## ConvertUtil.PixelToPoint(double, double) method
+## ConvertUtil::PixelToPoint(double, double) method
 
 
 Converts pixels to points at the specified pixel resolution.

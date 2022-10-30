@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.vba/vbaproject/get_modules/
 ---
-## VbaProject.get_Modules method
+## VbaProject::get_Modules method
 
 
 Returns collection of VBA project modules.

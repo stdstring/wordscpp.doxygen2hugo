@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/story/get_lastparagraph/
 ---
-## Story.get_LastParagraph method
+## Story::get_LastParagraph method
 
 
 Gets the last paragraph in the story.

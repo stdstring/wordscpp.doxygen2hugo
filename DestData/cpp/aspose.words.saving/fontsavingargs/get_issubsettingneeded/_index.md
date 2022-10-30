@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/fontsavingargs/get_issubsettingneeded/
 ---
-## FontSavingArgs.get_IsSubsettingNeeded method
+## FontSavingArgs::get_IsSubsettingNeeded method
 
 
 Allows to specify whether the current font will be subsetted before exporting as a font resource.

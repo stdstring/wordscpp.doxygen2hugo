@@ -6,7 +6,7 @@ type: docs
 weight: 586
 url: /cpp/aspose.words.tables/table/set_bidi/
 ---
-## Table.set_Bidi method
+## Table::set_Bidi method
 
 
 Setter for [Aspose::Words::Tables::Table::get_Bidi](../get_bidi/).

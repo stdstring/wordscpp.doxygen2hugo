@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/save/
 ---
-## TableSubstitutionRule.Save(const System::SharedPtr\<System::IO::Stream\>\&) method
+## TableSubstitutionRule::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves the current table substitution settings to stream.
@@ -56,7 +56,7 @@ ASPOSE_ASSERT_EQ(MakeArray<String>({u"FreeSerif", u"Liberation Serif", u"DejaVu 
 }
 ```
 
-## TableSubstitutionRule.Save(const System::String\&) method
+## TableSubstitutionRule::Save(const System::String\&) method
 
 
 Saves the current table substitution settings to file.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/fontsettings/get_fallbacksettings/
 ---
-## FontSettings.get_FallbackSettings method
+## FontSettings::get_FallbackSettings method
 
 
 [Settings](../../../aspose.words.settings/) related to font fallback mechanism.

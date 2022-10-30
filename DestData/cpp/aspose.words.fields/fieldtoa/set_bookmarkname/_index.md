@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldtoa/set_bookmarkname/
 ---
-## FieldToa.set_BookmarkName method
+## FieldToa::set_BookmarkName method
 
 
 Setter for [Aspose::Words::Fields::FieldToa::get_BookmarkName](../get_bookmarkname/).

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/customxmlpart/customxmlpart/
 ---
-## CustomXmlPart.CustomXmlPart method
+## CustomXmlPart::CustomXmlPart method
 
 
 

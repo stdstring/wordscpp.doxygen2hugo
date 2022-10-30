@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fielddatabase/set_formatattributes/
 ---
-## FieldDatabase.set_FormatAttributes method
+## FieldDatabase::set_FormatAttributes method
 
 
 Sets which attributes of the format are to be applied to the table.

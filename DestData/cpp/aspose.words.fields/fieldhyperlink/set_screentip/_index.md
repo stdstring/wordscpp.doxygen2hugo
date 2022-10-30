@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldhyperlink/set_screentip/
 ---
-## FieldHyperlink.set_ScreenTip method
+## FieldHyperlink::set_ScreenTip method
 
 
 Setter for [Aspose::Words::Fields::FieldHyperlink::get_ScreenTip](../get_screentip/).

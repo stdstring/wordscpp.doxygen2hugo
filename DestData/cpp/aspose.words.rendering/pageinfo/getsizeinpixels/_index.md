@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.rendering/pageinfo/getsizeinpixels/
 ---
-## PageInfo.GetSizeInPixels(float, float) method
+## PageInfo::GetSizeInPixels(float, float) method
 
 
 Calculates the page size in pixels for a specified zoom factor and resolution.
@@ -27,7 +27,7 @@ System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels(float 
 The size of the page in pixels.
 
 
-## PageInfo.GetSizeInPixels(float, float, float) method
+## PageInfo::GetSizeInPixels(float, float, float) method
 
 
 Calculates the page size in pixels for a specified zoom factor and resolution.

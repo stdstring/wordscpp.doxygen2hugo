@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_ishidden/
 ---
-## ChartDataLabel.set_IsHidden method
+## ChartDataLabel::set_IsHidden method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsHidden](../get_ishidden/).

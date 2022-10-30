@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.saving/docsaveoptions/set_saveroutingslip/
 ---
-## DocSaveOptions.set_SaveRoutingSlip method
+## DocSaveOptions::set_SaveRoutingSlip method
 
 
 Setter for [Aspose::Words::Saving::DocSaveOptions::get_SaveRoutingSlip](../get_saveroutingslip/).

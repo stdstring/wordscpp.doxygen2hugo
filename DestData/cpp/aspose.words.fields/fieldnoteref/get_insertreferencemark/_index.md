@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldnoteref/get_insertreferencemark/
 ---
-## FieldNoteRef.get_InsertReferenceMark method
+## FieldNoteRef::get_InsertReferenceMark method
 
 
 Inserts the reference mark with the same character formatting as the Footnote Reference or Endnote Reference style.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/border/equals/
 ---
-## Border.Equals(const System::SharedPtr\<Aspose::Words::Border\>\&) method
+## Border::Equals(const System::SharedPtr\<Aspose::Words::Border\>\&) method
 
 
 Determines whether the specified border is equal in value to the current border.
@@ -60,7 +60,7 @@ for (int i = 0; i < firstParagraphBorders->get_Count(); i++)
 doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 ```
 
-## Border.Equals(System::SharedPtr\<System::Object\>) method
+## Border::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified object is equal in value to the current object.

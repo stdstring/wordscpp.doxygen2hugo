@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.drawing/shapebase/get_ismovetorevision/
 ---
-## ShapeBase.get_IsMoveToRevision method
+## ShapeBase::get_IsMoveToRevision method
 
 
 Returns **true** if this object was moved (inserted) in Microsoft Word while change tracking was enabled.

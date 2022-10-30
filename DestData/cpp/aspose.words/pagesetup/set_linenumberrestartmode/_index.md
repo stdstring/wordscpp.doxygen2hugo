@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.words/pagesetup/set_linenumberrestartmode/
 ---
-## PageSetup.set_LineNumberRestartMode method
+## PageSetup::set_LineNumberRestartMode method
 
 
 Setter for [Aspose::Words::PageSetup::get_LineNumberRestartMode](../get_linenumberrestartmode/).

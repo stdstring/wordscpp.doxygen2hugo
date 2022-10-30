@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pdfsaveoptions/clone/
 ---
-## PdfSaveOptions.Clone method
+## PdfSaveOptions::Clone method
 
 
 Creates a deep clone of this object.

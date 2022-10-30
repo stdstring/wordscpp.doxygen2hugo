@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_errorcorrectionlevel/
 ---
-## FieldDisplayBarcode.get_ErrorCorrectionLevel method
+## FieldDisplayBarcode::get_ErrorCorrectionLevel method
 
 
 Gets or sets an error correction level of QR Code. Valid values are [0, 3].

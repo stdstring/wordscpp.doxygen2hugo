@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_encoding/
 ---
-## HtmlFixedSaveOptions.get_Encoding method
+## HtmlFixedSaveOptions::get_Encoding method
 
 
 Specifies the encoding to use when exporting to HTML. Default value is **new UTF8Encoding(true)** (UTF-8 with BOM).

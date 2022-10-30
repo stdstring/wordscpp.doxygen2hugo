@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.loading/loadoptions/set_encoding/
 ---
-## LoadOptions.set_Encoding method
+## LoadOptions::set_Encoding method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_Encoding](../get_encoding/).

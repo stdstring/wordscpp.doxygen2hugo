@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/olepackage/set_filename/
 ---
-## OlePackage.set_FileName method
+## OlePackage::set_FileName method
 
 
 Setter for [Aspose::Words::Drawing::OlePackage::get_FileName](../get_filename/).

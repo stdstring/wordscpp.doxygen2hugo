@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/aspose.words/pagesetup/set_bottommargin/
 ---
-## PageSetup.set_BottomMargin method
+## PageSetup::set_BottomMargin method
 
 
 Setter for [Aspose::Words::PageSetup::get_BottomMargin](../get_bottommargin/).

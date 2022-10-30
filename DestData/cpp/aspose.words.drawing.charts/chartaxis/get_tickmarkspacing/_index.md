@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_tickmarkspacing/
 ---
-## ChartAxis.get_TickMarkSpacing method
+## ChartAxis::get_TickMarkSpacing method
 
 
 Gets or sets the interval, at which tick marks are drawn.

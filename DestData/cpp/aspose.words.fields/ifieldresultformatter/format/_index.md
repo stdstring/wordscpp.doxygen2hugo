@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/ifieldresultformatter/format/
 ---
-## IFieldResultFormatter.Format(double, Aspose::Words::Fields::GeneralFormat) method
+## IFieldResultFormatter::Format(double, Aspose::Words::Fields::GeneralFormat) method
 
 
 Called when Aspose.Words applies a number format switch, i.e. \* Ordinal.
@@ -205,7 +205,7 @@ private:
 };
 ```
 
-## IFieldResultFormatter.Format(System::String, Aspose::Words::Fields::GeneralFormat) method
+## IFieldResultFormatter::Format(System::String, Aspose::Words::Fields::GeneralFormat) method
 
 
 Called when Aspose.Words applies a capitalization format switch, i.e. \* Upper.

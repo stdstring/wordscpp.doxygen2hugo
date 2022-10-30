@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldoptions/get_customtocstyleseparator/
 ---
-## FieldOptions.get_CustomTocStyleSeparator method
+## FieldOptions::get_CustomTocStyleSeparator method
 
 
 Gets or sets custom style separator for the \t switch in [FieldToc](../../fieldtoc/) field.

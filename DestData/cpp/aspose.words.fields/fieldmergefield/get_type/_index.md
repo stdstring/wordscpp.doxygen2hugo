@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldmergefield/get_type/
 ---
-## FieldMergeField.get_Type method
+## FieldMergeField::get_Type method
 
 
 Gets the Microsoft Word field type.

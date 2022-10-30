@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/paragraphformat/get_characterunitfirstlineindent/
 ---
-## ParagraphFormat.get_CharacterUnitFirstLineIndent method
+## ParagraphFormat::get_CharacterUnitFirstLineIndent method
 
 
 Gets or sets the value (in characters) for the first-line or hanging indent. Use positive values to set the first-line indent, and negative values to set the hanging indent.

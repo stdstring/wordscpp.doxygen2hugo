@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_keeplegacycontrolchars/
 ---
-## OoxmlSaveOptions.get_KeepLegacyControlChars method
+## OoxmlSaveOptions::get_KeepLegacyControlChars method
 
 
 Keeps original representation of legacy control characters.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/warninginfocollection/clear/
 ---
-## WarningInfoCollection.Clear method
+## WarningInfoCollection::Clear method
 
 
 Removes all elements from the collection.

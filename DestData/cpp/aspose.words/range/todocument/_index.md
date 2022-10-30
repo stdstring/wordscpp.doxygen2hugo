@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/range/todocument/
 ---
-## Range.ToDocument method
+## Range::ToDocument method
 
 
 Constructs a new fully formed document that contains the range.

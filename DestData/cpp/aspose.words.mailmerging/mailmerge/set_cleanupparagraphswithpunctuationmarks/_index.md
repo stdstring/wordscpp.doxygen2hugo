@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.mailmerging/mailmerge/set_cleanupparagraphswithpunctuationmarks/
 ---
-## MailMerge.set_CleanupParagraphsWithPunctuationMarks method
+## MailMerge::set_CleanupParagraphsWithPunctuationMarks method
 
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks](../get_cleanupparagraphswithpunctuationmarks/).

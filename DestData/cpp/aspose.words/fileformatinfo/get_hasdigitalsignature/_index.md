@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/fileformatinfo/get_hasdigitalsignature/
 ---
-## FileFormatInfo.get_HasDigitalSignature method
+## FileFormatInfo::get_HasDigitalSignature method
 
 
 Returns true if this document contains a digital signature. This property merely informs that a digital signature is present on a document, but it does not specify whether the signature is valid or not.

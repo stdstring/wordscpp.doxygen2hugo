@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/style/get_font/
 ---
-## Style.get_Font method
+## Style::get_Font method
 
 
 Gets the character formatting of the style.

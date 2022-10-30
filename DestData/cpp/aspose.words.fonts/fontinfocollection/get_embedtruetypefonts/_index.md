@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fonts/fontinfocollection/get_embedtruetypefonts/
 ---
-## FontInfoCollection.get_EmbedTrueTypeFonts method
+## FontInfoCollection::get_EmbedTrueTypeFonts method
 
 
 Specifies whether or not to embed TrueType fonts in a document when it is saved. Default value for this property is **false**.

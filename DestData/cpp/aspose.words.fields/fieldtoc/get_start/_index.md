@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.fields/fieldtoc/get_start/
 ---
-## FieldToc.get_Start method
+## FieldToc::get_Start method
 
 
 Gets the node that represents the start of the field.

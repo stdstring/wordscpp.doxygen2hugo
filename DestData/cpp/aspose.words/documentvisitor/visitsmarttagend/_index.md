@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.words/documentvisitor/visitsmarttagend/
 ---
-## DocumentVisitor.VisitSmartTagEnd method
+## DocumentVisitor::VisitSmartTagEnd method
 
 
 Called when enumeration of a smart tag has ended.

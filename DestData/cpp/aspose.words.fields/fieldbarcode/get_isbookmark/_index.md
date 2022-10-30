@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldbarcode/get_isbookmark/
 ---
-## FieldBarcode.get_IsBookmark method
+## FieldBarcode::get_IsBookmark method
 
 
 Gets or sets whether [PostalAddress](../get_postaladdress/) is the name of a bookmark.

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsuppressparagraphborders/
 ---
-## CompatibilityOptions.get_DoNotSuppressParagraphBorders method
+## CompatibilityOptions::get_DoNotSuppressParagraphBorders method
 
 
 Do Not Suppress [Paragraph](../../../aspose.words/paragraph/) Borders Next To Frames.

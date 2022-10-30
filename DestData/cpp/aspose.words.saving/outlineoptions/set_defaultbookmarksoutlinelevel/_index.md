@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.saving/outlineoptions/set_defaultbookmarksoutlinelevel/
 ---
-## OutlineOptions.set_DefaultBookmarksOutlineLevel method
+## OutlineOptions::set_DefaultBookmarksOutlineLevel method
 
 
 Setter for [Aspose::Words::Saving::OutlineOptions::get_DefaultBookmarksOutlineLevel](../get_defaultbookmarksoutlinelevel/).

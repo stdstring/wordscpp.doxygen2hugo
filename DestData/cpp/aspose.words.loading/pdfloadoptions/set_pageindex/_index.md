@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.loading/pdfloadoptions/set_pageindex/
 ---
-## PdfLoadOptions.set_PageIndex method
+## PdfLoadOptions::set_PageIndex method
 
 
 Sets the 0-based index of the first page to read. Default is 0.

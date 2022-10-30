@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exporttextinputformfieldastext/
 ---
-## HtmlSaveOptions.get_ExportTextInputFormFieldAsText method
+## HtmlSaveOptions::get_ExportTextInputFormFieldAsText method
 
 
 Controls how text input form fields are saved to HTML or MHTML. Default value is **false**.

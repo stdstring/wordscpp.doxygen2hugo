@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/nodecollection/contains/
 ---
-## NodeCollection.Contains method
+## NodeCollection::Contains method
 
 
 Determines whether a node is in the collection.

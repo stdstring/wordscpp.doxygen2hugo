@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldxe/set_text/
 ---
-## FieldXE.set_Text method
+## FieldXE::set_Text method
 
 
 Setter for [Aspose::Words::Fields::FieldXE::get_Text](../get_text/).

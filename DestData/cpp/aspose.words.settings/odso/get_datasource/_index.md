@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.settings/odso/get_datasource/
 ---
-## Odso.get_DataSource method
+## Odso::get_DataSource method
 
 
 Specifies the location of the external data source to be connected to a document to perform the mail merge. The default value is an empty string.

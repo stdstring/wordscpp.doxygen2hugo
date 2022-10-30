@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.words.drawing/shapebase/get_markuplanguage/
 ---
-## ShapeBase.get_MarkupLanguage method
+## ShapeBase::get_MarkupLanguage method
 
 
 Gets MarkupLanguage used for this graphic object.

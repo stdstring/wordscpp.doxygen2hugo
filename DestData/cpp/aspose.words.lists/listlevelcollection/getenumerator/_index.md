@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.lists/listlevelcollection/getenumerator/
 ---
-## ListLevelCollection.GetEnumerator method
+## ListLevelCollection::GetEnumerator method
 
 
 Gets the enumerator object that will enumerate levels in this list.

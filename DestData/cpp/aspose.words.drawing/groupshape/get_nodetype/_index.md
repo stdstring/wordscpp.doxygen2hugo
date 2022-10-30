@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/groupshape/get_nodetype/
 ---
-## GroupShape.get_NodeType method
+## GroupShape::get_NodeType method
 
 
 Returns **GroupShape**.

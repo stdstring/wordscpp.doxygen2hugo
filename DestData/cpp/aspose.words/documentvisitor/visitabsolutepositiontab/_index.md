@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/documentvisitor/visitabsolutepositiontab/
 ---
-## DocumentVisitor.VisitAbsolutePositionTab method
+## DocumentVisitor::VisitAbsolutePositionTab method
 
 
 Called when a [AbsolutePositionTab](../../absolutepositiontab/) node is encountered in the document.

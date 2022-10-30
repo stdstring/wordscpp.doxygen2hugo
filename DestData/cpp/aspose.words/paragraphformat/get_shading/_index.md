@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words/paragraphformat/get_shading/
 ---
-## ParagraphFormat.get_Shading method
+## ParagraphFormat::get_Shading method
 
 
 Returns a [Shading](../../shading/) object that refers to the shading formatting for the paragraph.

@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportformfields/
 ---
-## HtmlFixedSaveOptions.set_ExportFormFields method
+## HtmlFixedSaveOptions::set_ExportFormFields method
 
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportFormFields](../get_exportformfields/).

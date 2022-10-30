@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/documentvisitor/visitbuildingblockend/
 ---
-## DocumentVisitor.VisitBuildingBlockEnd method
+## DocumentVisitor::VisitBuildingBlockEnd method
 
 
 Called when enumeration of a building block has ended.

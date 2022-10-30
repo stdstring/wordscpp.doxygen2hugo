@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/node/get_nextsibling/
 ---
-## Node.get_NextSibling method
+## Node::get_NextSibling method
 
 
 Gets the node immediately following this node.

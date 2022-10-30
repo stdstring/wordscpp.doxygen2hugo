@@ -6,7 +6,7 @@ type: docs
 weight: 1210
 url: /cpp/aspose.words/font/set_subscript/
 ---
-## Font.set_Subscript method
+## Font::set_Subscript method
 
 
 Setter for [Aspose::Words::Font::get_Subscript](../get_subscript/).

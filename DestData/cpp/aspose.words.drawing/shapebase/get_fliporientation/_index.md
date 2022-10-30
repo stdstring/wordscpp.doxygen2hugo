@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/shapebase/get_fliporientation/
 ---
-## ShapeBase.get_FlipOrientation method
+## ShapeBase::get_FlipOrientation method
 
 
 Switches the orientation of a shape.

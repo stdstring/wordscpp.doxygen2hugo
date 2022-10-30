@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.markup/sdtlistitemcollection/virtualizeendconstiterator/
 ---
-## SdtListItemCollection.virtualizeEndConstIterator method
+## SdtListItemCollection::virtualizeEndConstIterator method
 
 
 

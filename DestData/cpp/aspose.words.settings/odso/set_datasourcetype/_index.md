@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.settings/odso/set_datasourcetype/
 ---
-## Odso.set_DataSourceType method
+## Odso::set_DataSourceType method
 
 
 Setter for [Aspose::Words::Settings::Odso::get_DataSourceType](../get_datasourcetype/).

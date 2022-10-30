@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/warninginfocollection/warning/
 ---
-## WarningInfoCollection.Warning method
+## WarningInfoCollection::Warning method
 
 
 Implements the [IWarningCallback](../../iwarningcallback/) interface. Adds a warning to this collection.

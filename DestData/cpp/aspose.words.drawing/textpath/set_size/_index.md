@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.drawing/textpath/set_size/
 ---
-## TextPath.set_Size method
+## TextPath::set_Size method
 
 
 Defines the size of the font in points.

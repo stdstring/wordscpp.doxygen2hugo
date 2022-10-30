@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_compliance/
 ---
-## OoxmlSaveOptions.set_Compliance method
+## OoxmlSaveOptions::set_Compliance method
 
 
 Setter for [Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance](../get_compliance/).

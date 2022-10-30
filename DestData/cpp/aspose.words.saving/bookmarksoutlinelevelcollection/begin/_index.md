@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/begin/
 ---
-## BookmarksOutlineLevelCollection.begin() const method
+## BookmarksOutlineLevelCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/begin/
 const_iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::begin() const noexcept
 ```
 
-## BookmarksOutlineLevelCollection.begin() method
+## BookmarksOutlineLevelCollection::begin() method
 
 
 

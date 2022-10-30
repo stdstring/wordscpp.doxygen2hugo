@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/clear/
 ---
-## OdsoRecipientDataCollection.Clear method
+## OdsoRecipientDataCollection::Clear method
 
 
 Removes all elements from this collection.

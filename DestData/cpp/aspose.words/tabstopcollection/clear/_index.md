@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/tabstopcollection/clear/
 ---
-## TabStopCollection.Clear method
+## TabStopCollection::Clear method
 
 
 Deletes all tab stop positions.

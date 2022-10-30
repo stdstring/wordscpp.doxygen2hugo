@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/begin/
 ---
-## OdsoRecipientDataCollection.begin() const method
+## OdsoRecipientDataCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/begin/
 const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin() const noexcept
 ```
 
-## OdsoRecipientDataCollection.begin() method
+## OdsoRecipientDataCollection::begin() method
 
 
 

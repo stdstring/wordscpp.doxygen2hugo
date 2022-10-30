@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/pagesavingargs/get_pagefilename/
 ---
-## PageSavingArgs.get_PageFileName method
+## PageSavingArgs::get_PageFileName method
 
 
 Gets or sets the file name where the document page will be saved to.

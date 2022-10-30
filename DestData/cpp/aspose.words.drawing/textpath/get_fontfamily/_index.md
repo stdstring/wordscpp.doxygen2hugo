@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/textpath/get_fontfamily/
 ---
-## TextPath.get_FontFamily method
+## TextPath::get_FontFamily method
 
 
 Defines the family of the textpath font.

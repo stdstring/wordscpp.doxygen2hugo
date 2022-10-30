@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.mailmerging/fieldmergingargs/get_text/
 ---
-## FieldMergingArgs.get_Text method
+## FieldMergingArgs::get_Text method
 
 
 Gets or sets the text that will be inserted into the document for the current merge field.

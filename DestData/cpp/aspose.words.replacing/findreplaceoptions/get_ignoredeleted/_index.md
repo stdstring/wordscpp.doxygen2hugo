@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignoredeleted/
 ---
-## FindReplaceOptions.get_IgnoreDeleted method
+## FindReplaceOptions::get_IgnoreDeleted method
 
 
 Gets or sets a boolean value indicating either to ignore text inside delete revisions. The default value is **false**.

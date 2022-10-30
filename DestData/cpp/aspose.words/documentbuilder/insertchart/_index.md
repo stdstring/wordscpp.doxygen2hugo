@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words/documentbuilder/insertchart/
 ---
-## DocumentBuilder.InsertChart(Aspose::Words::Drawing::Charts::ChartType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertChart(Aspose::Words::Drawing::Charts::ChartType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an chart object into the document and scales it to the specified size.
@@ -49,7 +49,7 @@ builder->InsertChart(ChartType::Pie, RelativeHorizontalPosition::Margin, 100, Re
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertedChartRelativePosition.docx");
 ```
 
-## DocumentBuilder.InsertChart(Aspose::Words::Drawing::Charts::ChartType, double, double) method
+## DocumentBuilder::InsertChart(Aspose::Words::Drawing::Charts::ChartType, double, double) method
 
 
 Inserts an chart object into the document and scales it to the specified size.

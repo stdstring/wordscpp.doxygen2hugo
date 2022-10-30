@@ -6,7 +6,7 @@ type: docs
 weight: 729
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_textcompression/
 ---
-## PdfSaveOptions.set_TextCompression method
+## PdfSaveOptions::set_TextCompression method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_TextCompression](../get_textcompression/).

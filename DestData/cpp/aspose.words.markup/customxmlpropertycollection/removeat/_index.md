@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.markup/customxmlpropertycollection/removeat/
 ---
-## CustomXmlPropertyCollection.RemoveAt method
+## CustomXmlPropertyCollection::RemoveAt method
 
 
 Removes a property at the specified index.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/formfieldcollection/remove/
 ---
-## FormFieldCollection.Remove method
+## FormFieldCollection::Remove method
 
 
 Removes a form field with the specified name.

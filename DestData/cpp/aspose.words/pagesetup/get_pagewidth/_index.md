@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words/pagesetup/get_pagewidth/
 ---
-## PageSetup.get_PageWidth method
+## PageSetup::get_PageWidth method
 
 
 Returns or sets the width of the page in points.

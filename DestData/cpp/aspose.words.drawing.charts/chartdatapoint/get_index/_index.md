@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/get_index/
 ---
-## ChartDataPoint.get_Index method
+## ChartDataPoint::get_Index method
 
 
 Index of the data point this object applies formatting to.

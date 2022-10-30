@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.layout/revisionoptions/set_insertedtexteffect/
 ---
-## RevisionOptions.set_InsertedTextEffect method
+## RevisionOptions::set_InsertedTextEffect method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_InsertedTextEffect](../get_insertedtexteffect/).

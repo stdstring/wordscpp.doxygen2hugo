@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.notes/endnoteoptions/set_position/
 ---
-## EndnoteOptions.set_Position method
+## EndnoteOptions::set_Position method
 
 
 Setter for [Aspose::Words::Notes::EndnoteOptions::get_Position](../get_position/).

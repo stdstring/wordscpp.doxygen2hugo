@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.tables/cellformat/set_verticalmerge/
 ---
-## CellFormat.set_VerticalMerge method
+## CellFormat::set_VerticalMerge method
 
 
 Setter for [Aspose::Words::Tables::CellFormat::get_VerticalMerge](../get_verticalmerge/).

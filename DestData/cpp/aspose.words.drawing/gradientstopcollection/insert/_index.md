@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/gradientstopcollection/insert/
 ---
-## GradientStopCollection.Insert method
+## GradientStopCollection::Insert method
 
 
 Inserts a [GradientStop](../../gradientstop/) to the collection at a specified index.

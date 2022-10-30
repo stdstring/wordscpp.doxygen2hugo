@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.markup/istructureddocumenttag/isranged/
 ---
-## IStructuredDocumentTag.IsRanged method
+## IStructuredDocumentTag::IsRanged method
 
 
 Returns true if this instance is a ranged structured document tag.

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldif/set_truetext/
 ---
-## FieldIf.set_TrueText method
+## FieldIf::set_TrueText method
 
 
 Setter for [Aspose::Words::Fields::FieldIf::get_TrueText](../get_truetext/).

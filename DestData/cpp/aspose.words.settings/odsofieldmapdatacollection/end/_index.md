@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/end/
 ---
-## OdsoFieldMapDataCollection.end() const method
+## OdsoFieldMapDataCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/end/
 const_iterator Aspose::Words::Settings::OdsoFieldMapDataCollection::end() const noexcept
 ```
 
-## OdsoFieldMapDataCollection.end() method
+## OdsoFieldMapDataCollection::end() method
 
 
 

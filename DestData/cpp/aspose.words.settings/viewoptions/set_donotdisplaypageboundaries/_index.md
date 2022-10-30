@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.settings/viewoptions/set_donotdisplaypageboundaries/
 ---
-## ViewOptions.set_DoNotDisplayPageBoundaries method
+## ViewOptions::set_DoNotDisplayPageBoundaries method
 
 
 Setter for [Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries](../get_donotdisplaypageboundaries/).

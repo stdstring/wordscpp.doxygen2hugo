@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldmergefield/get_ismapped/
 ---
-## FieldMergeField.get_IsMapped method
+## FieldMergeField::get_IsMapped method
 
 
 Gets whether this field is a mapped field.

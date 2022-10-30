@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/idx_get/
 ---
-## ChartDataPointCollection.idx_get method
+## ChartDataPointCollection::idx_get method
 
 
 Returns [ChartDataPoint](../../chartdatapoint/) for the specified index.

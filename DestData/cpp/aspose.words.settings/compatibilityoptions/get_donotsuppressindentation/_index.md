@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsuppressindentation/
 ---
-## CompatibilityOptions.get_DoNotSuppressIndentation method
+## CompatibilityOptions::get_DoNotSuppressIndentation method
 
 
 Do Not Ignore Floating Objects When Calculating [Paragraph](../../../aspose.words/paragraph/) Indentation.

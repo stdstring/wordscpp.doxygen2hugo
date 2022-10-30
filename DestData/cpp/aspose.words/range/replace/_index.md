@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/range/replace/
 ---
-## Range.Replace(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::String\&) method
+## Range::Replace(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::String\&) method
 
 
 Replaces all occurrences of a character pattern specified by a regular expression with another string.
@@ -56,7 +56,7 @@ doc->get_Range()->Replace(MakeObject<System::Text::RegularExpressions::Regex>(u"
 ASSERT_EQ(u"I decided to get the curtains in lavender, ideal for the lavender-accented room.", doc->GetText().Trim());
 ```
 
-## Range.Replace(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
+## Range::Replace(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
 
 
 Replaces all occurrences of a character pattern specified by a regular expression with another string.
@@ -219,7 +219,7 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 }
 ```
 
-## Range.Replace(const System::String\&, const System::String\&) method
+## Range::Replace(const System::String\&, const System::String\&) method
 
 
 Replaces all occurrences of a specified character string pattern with a replacement string.
@@ -308,7 +308,7 @@ ASSERT_EQ(String(u"Every paragraph that ends with a full stop like this one will
           doc->GetText().Trim());
 ```
 
-## Range.Replace(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
+## Range::Replace(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
 
 
 Replaces all occurrences of a specified character string pattern with a replacement string.

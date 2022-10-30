@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_image/
 ---
-## ImageFieldMergingArgs.set_Image method
+## ImageFieldMergingArgs::set_Image method
 
 
 Specifies the image that the mail merge engine must insert into the document.

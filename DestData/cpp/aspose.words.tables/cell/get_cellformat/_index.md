@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.tables/cell/get_cellformat/
 ---
-## Cell.get_CellFormat method
+## Cell::get_CellFormat method
 
 
 Provides access to the formatting properties of the cell.

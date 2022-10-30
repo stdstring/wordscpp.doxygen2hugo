@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/nodechangingargs/get_newparent/
 ---
-## NodeChangingArgs.get_NewParent method
+## NodeChangingArgs::get_NewParent method
 
 
 Gets the node's parent that will be set after the operation completes.

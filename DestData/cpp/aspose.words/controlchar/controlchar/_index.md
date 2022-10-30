@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words/controlchar/controlchar/
 ---
-## ControlChar.ControlChar method
+## ControlChar::ControlChar method
 
 
 

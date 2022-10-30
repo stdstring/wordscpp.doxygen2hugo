@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/shapebase/get_distanceright/
 ---
-## ShapeBase.get_DistanceRight method
+## ShapeBase::get_DistanceRight method
 
 
 Returns or sets the distance (in points) between the document text and the right edge of the shape.

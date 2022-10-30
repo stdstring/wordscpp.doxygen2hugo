@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.tables/row/get_firstcell/
 ---
-## Row.get_FirstCell method
+## Row::get_FirstCell method
 
 
 Returns the first **Cell** in the row.

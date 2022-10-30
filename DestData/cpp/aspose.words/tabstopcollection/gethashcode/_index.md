@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/tabstopcollection/gethashcode/
 ---
-## TabStopCollection.GetHashCode method
+## TabStopCollection::GetHashCode method
 
 
 Serves as a hash function for this type.

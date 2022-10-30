@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_pagemargins/
 ---
-## HtmlFixedSaveOptions.get_PageMargins method
+## HtmlFixedSaveOptions::get_PageMargins method
 
 
 Specifies the margins around pages in an HTML document. The margins value is measured in points and should be equal to or greater than 0. Default value is 10 points.

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/tabstop/get_leader/
 ---
-## TabStop.get_Leader method
+## TabStop::get_Leader method
 
 
 Gets or sets the type of the leader line displayed under the tab character.

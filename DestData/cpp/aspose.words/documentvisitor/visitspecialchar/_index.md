@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/aspose.words/documentvisitor/visitspecialchar/
 ---
-## DocumentVisitor.VisitSpecialChar method
+## DocumentVisitor::VisitSpecialChar method
 
 
 Called when a [SpecialChar](../../specialchar/) node is encountered in the document.

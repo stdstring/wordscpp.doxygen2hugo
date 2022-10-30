@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/shading/get_foregroundpatterncolor/
 ---
-## Shading.get_ForegroundPatternColor method
+## Shading::get_ForegroundPatternColor method
 
 
 Gets or sets the color that's applied to the foreground of the [Shading](../) object.

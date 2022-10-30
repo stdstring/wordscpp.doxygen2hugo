@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldta/get_longcitation/
 ---
-## FieldTA.get_LongCitation method
+## FieldTA::get_LongCitation method
 
 
 Gets or sets the long citation for the entry.

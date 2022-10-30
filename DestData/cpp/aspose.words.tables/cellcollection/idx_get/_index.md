@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.tables/cellcollection/idx_get/
 ---
-## CellCollection.idx_get method
+## CellCollection::idx_get method
 
 
 Retrieves a **Cell** at the given index.

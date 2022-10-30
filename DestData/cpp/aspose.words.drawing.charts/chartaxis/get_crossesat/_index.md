@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_crossesat/
 ---
-## ChartAxis.get_CrossesAt method
+## ChartAxis::get_CrossesAt method
 
 
 Specifies where on the perpendicular axis the axis crosses.

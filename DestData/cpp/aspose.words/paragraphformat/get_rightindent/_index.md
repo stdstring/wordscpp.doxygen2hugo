@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words/paragraphformat/get_rightindent/
 ---
-## ParagraphFormat.get_RightIndent method
+## ParagraphFormat::get_RightIndent method
 
 
 Gets or sets the value (in points) that represents the right indent for paragraph.

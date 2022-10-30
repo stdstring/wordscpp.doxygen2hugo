@@ -6,7 +6,7 @@ type: docs
 weight: 638
 url: /cpp/aspose.words/documentvisitor/visittablestart/
 ---
-## DocumentVisitor.VisitTableStart method
+## DocumentVisitor::VisitTableStart method
 
 
 Called when enumeration of a table has started.

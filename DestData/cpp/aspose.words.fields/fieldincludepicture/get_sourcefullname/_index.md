@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldincludepicture/get_sourcefullname/
 ---
-## FieldIncludePicture.get_SourceFullName method
+## FieldIncludePicture::get_SourceFullName method
 
 
 Gets or sets the location of the picture using an IRI.

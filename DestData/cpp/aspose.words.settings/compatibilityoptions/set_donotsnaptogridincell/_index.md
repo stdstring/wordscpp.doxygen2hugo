@@ -6,7 +6,7 @@ type: docs
 weight: 1145
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotsnaptogridincell/
 ---
-## CompatibilityOptions.set_DoNotSnapToGridInCell method
+## CompatibilityOptions::set_DoNotSnapToGridInCell method
 
 
 Do Not Snap to [Document](../../../aspose.words/document/) Grid in Table Cells with Objects.

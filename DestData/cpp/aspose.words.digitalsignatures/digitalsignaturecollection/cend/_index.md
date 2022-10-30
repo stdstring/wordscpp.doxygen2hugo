@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/cend/
 ---
-## DigitalSignatureCollection.cend method
+## DigitalSignatureCollection::cend method
 
 
 

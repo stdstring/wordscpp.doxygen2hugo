@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/inlinestory/ensureminimum/
 ---
-## InlineStory.EnsureMinimum method
+## InlineStory::EnsureMinimum method
 
 
 If the last child is not a paragraph, creates and appends one empty paragraph.

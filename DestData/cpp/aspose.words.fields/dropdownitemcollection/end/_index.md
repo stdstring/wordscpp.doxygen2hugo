@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/dropdownitemcollection/end/
 ---
-## DropDownItemCollection.end() const method
+## DropDownItemCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/end/
 const_iterator Aspose::Words::Fields::DropDownItemCollection::end() const noexcept
 ```
 
-## DropDownItemCollection.end() method
+## DropDownItemCollection::end() method
 
 
 

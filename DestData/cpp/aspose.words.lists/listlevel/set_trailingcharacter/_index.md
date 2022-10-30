@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.lists/listlevel/set_trailingcharacter/
 ---
-## ListLevel.set_TrailingCharacter method
+## ListLevel::set_TrailingCharacter method
 
 
 Setter for [Aspose::Words::Lists::ListLevel::get_TrailingCharacter](../get_trailingcharacter/).

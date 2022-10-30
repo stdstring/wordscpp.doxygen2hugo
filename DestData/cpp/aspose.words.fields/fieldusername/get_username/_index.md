@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldusername/get_username/
 ---
-## FieldUserName.get_UserName method
+## FieldUserName::get_UserName method
 
 
 Gest or sets the current user's name.

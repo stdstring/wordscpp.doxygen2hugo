@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fonts/fontinfocollection/virtualizebeginconstiterator/
 ---
-## FontInfoCollection.virtualizeBeginConstIterator method
+## FontInfoCollection::virtualizeBeginConstIterator method
 
 
 

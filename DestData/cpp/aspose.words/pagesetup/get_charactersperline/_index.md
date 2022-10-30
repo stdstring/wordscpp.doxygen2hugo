@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/pagesetup/get_charactersperline/
 ---
-## PageSetup.get_CharactersPerLine method
+## PageSetup::get_CharactersPerLine method
 
 
 Gets or sets the number of characters per line in the document grid.

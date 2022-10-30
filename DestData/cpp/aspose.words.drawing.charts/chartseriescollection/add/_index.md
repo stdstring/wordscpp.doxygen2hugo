@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/add/
 ---
-## ChartSeriesCollection.Add(const System::String\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&) method
+## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&) method
 
 
 Adds new [ChartSeries](../../chartseries/) to this collection. Use this method to add series to any type of Scatter charts.
@@ -99,7 +99,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
-## ChartSeriesCollection.Add(const System::String\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&) method
+## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&) method
 
 
 Adds new [ChartSeries](../../chartseries/) to this collection. Use this method to add series to any type of Bubble charts.
@@ -192,7 +192,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
-## ChartSeriesCollection.Add(const System::String\&, const System::ArrayPtr\<System::DateTime\>\&, const System::ArrayPtr\<double\>\&) method
+## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<System::DateTime\>\&, const System::ArrayPtr\<double\>\&) method
 
 
 Adds new [ChartSeries](../../chartseries/) to this collection. Use this method to add series to any type of Area, Radar and Stock charts.
@@ -280,7 +280,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
-## ChartSeriesCollection.Add(const System::String\&, const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<double\>\&) method
+## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<double\>\&) method
 
 
 Adds new [ChartSeries](../../chartseries/) to this collection. Use this method to add series to any type of Bar, Column, Line and Surface charts.

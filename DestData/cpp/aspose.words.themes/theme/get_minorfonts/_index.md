@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.themes/theme/get_minorfonts/
 ---
-## Theme.get_MinorFonts method
+## Theme::get_MinorFonts method
 
 
 Allows to specify the set of minor fonts for different languages.

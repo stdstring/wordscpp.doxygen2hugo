@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_showpercentage/
 ---
-## ChartDataLabel.get_ShowPercentage method
+## ChartDataLabel::get_ShowPercentage method
 
 
 Allows to specify if percentage value is to be displayed for the data labels on a chart. Default value is false.

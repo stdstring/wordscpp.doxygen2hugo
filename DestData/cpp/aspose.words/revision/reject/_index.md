@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/revision/reject/
 ---
-## Revision.Reject method
+## Revision::Reject method
 
 
 Reject this revision.

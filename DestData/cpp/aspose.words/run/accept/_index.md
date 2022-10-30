@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/run/accept/
 ---
-## Run.Accept method
+## Run::Accept method
 
 
 Accepts a visitor.

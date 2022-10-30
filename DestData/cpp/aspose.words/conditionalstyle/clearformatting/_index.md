@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/conditionalstyle/clearformatting/
 ---
-## ConditionalStyle.ClearFormatting method
+## ConditionalStyle::ClearFormatting method
 
 
 Clears formatting of this conditional style.

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.comparing/compareoptions/set_ignorecomments/
 ---
-## CompareOptions.set_IgnoreComments method
+## CompareOptions::set_IgnoreComments method
 
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreComments](../get_ignorecomments/).

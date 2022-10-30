@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.tables/table/ensureminimum/
 ---
-## Table.EnsureMinimum method
+## Table::EnsureMinimum method
 
 
 If the table has no rows, creates and appends one **Row**.

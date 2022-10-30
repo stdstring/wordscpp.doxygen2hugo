@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/frameformat/get_width/
 ---
-## FrameFormat.get_Width method
+## FrameFormat::get_Width method
 
 
 Gets the width of the specified frame, in points.

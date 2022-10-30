@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/tabstop/equals/
 ---
-## TabStop.Equals method
+## TabStop::Equals method
 
 
 Compares with the specified [TabStop](../).

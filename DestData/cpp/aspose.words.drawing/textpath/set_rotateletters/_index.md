@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.drawing/textpath/set_rotateletters/
 ---
-## TextPath.set_RotateLetters method
+## TextPath::set_RotateLetters method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_RotateLetters](../get_rotateletters/).

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words/documentvisitor/visitcommentstart/
 ---
-## DocumentVisitor.VisitCommentStart method
+## DocumentVisitor::VisitCommentStart method
 
 
 Called when enumeration of a comment text has started.

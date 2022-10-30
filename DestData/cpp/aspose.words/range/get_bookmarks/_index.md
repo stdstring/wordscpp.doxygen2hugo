@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/range/get_bookmarks/
 ---
-## Range.get_Bookmarks method
+## Range::get_Bookmarks method
 
 
 Returns a [Bookmarks](./) collection that represents all bookmarks in the range.

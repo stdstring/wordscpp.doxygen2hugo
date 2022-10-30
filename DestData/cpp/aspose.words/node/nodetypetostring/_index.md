@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words/node/nodetypetostring/
 ---
-## Node.NodeTypeToString method
+## Node::NodeTypeToString method
 
 
 A utility method that converts a node type enum value into a user friendly string.

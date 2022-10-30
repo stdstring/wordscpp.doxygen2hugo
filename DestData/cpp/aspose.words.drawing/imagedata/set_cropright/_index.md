@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.drawing/imagedata/set_cropright/
 ---
-## ImageData.set_CropRight method
+## ImageData::set_CropRight method
 
 
 Setter for [Aspose::Words::Drawing::ImageData::get_CropRight](../get_cropright/).

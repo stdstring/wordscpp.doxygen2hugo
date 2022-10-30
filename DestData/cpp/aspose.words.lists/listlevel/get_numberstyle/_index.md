@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.lists/listlevel/get_numberstyle/
 ---
-## ListLevel.get_NumberStyle method
+## ListLevel::get_NumberStyle method
 
 
 Returns or sets the number style for this list level.

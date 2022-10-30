@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/convertutil/convertutil/
 ---
-## ConvertUtil.ConvertUtil method
+## ConvertUtil::ConvertUtil method
 
 
 

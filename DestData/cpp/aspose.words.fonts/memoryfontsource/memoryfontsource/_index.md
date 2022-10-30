@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ---
-## MemoryFontSource.MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&) method
+## MemoryFontSource::MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 Ctor.
@@ -38,7 +38,7 @@ ASSERT_EQ(FontSourceType::MemoryFont, memoryFontSource->get_Type());
 ASSERT_EQ(0, memoryFontSource->get_Priority());
 ```
 
-## MemoryFontSource.MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&, int32_t) method
+## MemoryFontSource::MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&, int32_t) method
 
 
 Ctor.
@@ -71,7 +71,7 @@ ASSERT_EQ(FontSourceType::MemoryFont, memoryFontSource->get_Type());
 ASSERT_EQ(0, memoryFontSource->get_Priority());
 ```
 
-## MemoryFontSource.MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&, int32_t, const System::String\&) method
+## MemoryFontSource::MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&, int32_t, const System::String\&) method
 
 
 Ctor.

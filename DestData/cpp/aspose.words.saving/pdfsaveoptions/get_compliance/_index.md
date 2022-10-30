@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_compliance/
 ---
-## PdfSaveOptions.get_Compliance method
+## PdfSaveOptions::get_Compliance method
 
 
 Specifies the PDF standards compliance level for output documents.

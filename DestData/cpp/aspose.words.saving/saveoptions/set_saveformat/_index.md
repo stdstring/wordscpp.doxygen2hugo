@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.saving/saveoptions/set_saveformat/
 ---
-## SaveOptions.set_SaveFormat method
+## SaveOptions::set_SaveFormat method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_SaveFormat](../get_saveformat/).

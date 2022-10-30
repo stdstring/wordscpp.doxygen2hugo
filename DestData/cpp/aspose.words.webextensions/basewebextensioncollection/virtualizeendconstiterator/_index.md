@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/virtualizeendconstiterator/
 ---
-## BaseWebExtensionCollection.virtualizeEndConstIterator method
+## BaseWebExtensionCollection::virtualizeEndConstIterator method
 
 
 

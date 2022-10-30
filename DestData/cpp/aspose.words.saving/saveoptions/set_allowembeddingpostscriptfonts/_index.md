@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.saving/saveoptions/set_allowembeddingpostscriptfonts/
 ---
-## SaveOptions.set_AllowEmbeddingPostScriptFonts method
+## SaveOptions::set_AllowEmbeddingPostScriptFonts method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts](../get_allowembeddingpostscriptfonts/).

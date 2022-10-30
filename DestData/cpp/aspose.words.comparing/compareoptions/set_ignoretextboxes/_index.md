@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.comparing/compareoptions/set_ignoretextboxes/
 ---
-## CompareOptions.set_IgnoreTextboxes method
+## CompareOptions::set_IgnoreTextboxes method
 
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreTextboxes](../get_ignoretextboxes/).

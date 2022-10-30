@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/cbegin/
 ---
-## BookmarksOutlineLevelCollection.cbegin method
+## BookmarksOutlineLevelCollection::cbegin method
 
 
 

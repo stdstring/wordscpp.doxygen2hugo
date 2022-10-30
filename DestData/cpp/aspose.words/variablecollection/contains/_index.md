@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/variablecollection/contains/
 ---
-## VariableCollection.Contains method
+## VariableCollection::Contains method
 
 
 Determines whether the collection contains a document variable with the given name.

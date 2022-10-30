@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldmergefield/get_textbefore/
 ---
-## FieldMergeField.get_TextBefore method
+## FieldMergeField::get_TextBefore method
 
 
 Gets the text to be inserted before the field if the field is not blank.

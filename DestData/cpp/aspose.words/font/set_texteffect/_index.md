@@ -6,7 +6,7 @@ type: docs
 weight: 1236
 url: /cpp/aspose.words/font/set_texteffect/
 ---
-## Font.set_TextEffect method
+## Font::set_TextEffect method
 
 
 Setter for [Aspose::Words::Font::get_TextEffect](../get_texteffect/).

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.drawing/imagedata/get_imagetype/
 ---
-## ImageData.get_ImageType method
+## ImageData::get_ImageType method
 
 
 Gets the type of the image.

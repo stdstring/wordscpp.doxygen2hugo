@@ -6,7 +6,7 @@ type: docs
 weight: 1054
 url: /cpp/aspose.words/document/set_spellingchecked/
 ---
-## Document.set_SpellingChecked method
+## Document::set_SpellingChecked method
 
 
 Setter for [Aspose::Words::Document::get_SpellingChecked](../get_spellingchecked/).

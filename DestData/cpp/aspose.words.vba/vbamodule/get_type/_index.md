@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.vba/vbamodule/get_type/
 ---
-## VbaModule.get_Type method
+## VbaModule::get_Type method
 
 
 Specifies whether the module is a procedural module, document module, class module, or designer module.

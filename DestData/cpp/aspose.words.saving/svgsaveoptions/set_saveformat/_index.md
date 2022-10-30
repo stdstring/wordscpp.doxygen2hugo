@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.saving/svgsaveoptions/set_saveformat/
 ---
-## SvgSaveOptions.set_SaveFormat method
+## SvgSaveOptions::set_SaveFormat method
 
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat](../get_saveformat/).

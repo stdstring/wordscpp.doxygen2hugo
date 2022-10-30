@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagend/
 ---
-## DocumentVisitor.VisitStructuredDocumentTagEnd method
+## DocumentVisitor::VisitStructuredDocumentTagEnd method
 
 
 Called when enumeration of a structured document tag has ended.

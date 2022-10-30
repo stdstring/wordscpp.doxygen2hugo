@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/cend/
 ---
-## MappedDataFieldCollection.cend method
+## MappedDataFieldCollection::cend method
 
 
 

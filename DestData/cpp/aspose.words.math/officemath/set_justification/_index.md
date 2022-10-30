@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.math/officemath/set_justification/
 ---
-## OfficeMath.set_Justification method
+## OfficeMath::set_Justification method
 
 
 Setter for [Aspose::Words::Math::OfficeMath::get_Justification](../get_justification/).

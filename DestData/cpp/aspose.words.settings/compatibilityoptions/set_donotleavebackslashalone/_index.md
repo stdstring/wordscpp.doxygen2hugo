@@ -6,7 +6,7 @@ type: docs
 weight: 1132
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotleavebackslashalone/
 ---
-## CompatibilityOptions.set_DoNotLeaveBackslashAlone method
+## CompatibilityOptions::set_DoNotLeaveBackslashAlone method
 
 
 Convert Backslash To Yen Sign When Entered.

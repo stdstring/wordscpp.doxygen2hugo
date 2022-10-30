@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/compositenode/gettext/
 ---
-## CompositeNode.GetText method
+## CompositeNode::GetText method
 
 
 Gets the text of this node and of all its children.

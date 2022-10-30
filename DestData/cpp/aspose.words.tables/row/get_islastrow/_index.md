@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.tables/row/get_islastrow/
 ---
-## Row.get_IsLastRow method
+## Row::get_IsLastRow method
 
 
 True if this is the last row in a table; false otherwise.

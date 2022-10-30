@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words/documentvisitor/visitgroupshapeend/
 ---
-## DocumentVisitor.VisitGroupShapeEnd method
+## DocumentVisitor::VisitGroupShapeEnd method
 
 
 Called when enumeration of a group shape has ended.

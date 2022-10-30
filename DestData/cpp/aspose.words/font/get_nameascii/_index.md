@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words/font/get_nameascii/
 ---
-## Font.get_NameAscii method
+## Font::get_NameAscii method
 
 
 Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127).

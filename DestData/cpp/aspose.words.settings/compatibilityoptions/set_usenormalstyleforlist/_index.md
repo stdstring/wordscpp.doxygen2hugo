@@ -6,7 +6,7 @@ type: docs
 weight: 1743
 url: /cpp/aspose.words.settings/compatibilityoptions/set_usenormalstyleforlist/
 ---
-## CompatibilityOptions.set_UseNormalStyleForList method
+## CompatibilityOptions::set_UseNormalStyleForList method
 
 
 Do Not Automatically Apply List [Paragraph](../../../aspose.words/paragraph/)[Style](../../../aspose.words/style/) To Bulleted/Numbered Text.

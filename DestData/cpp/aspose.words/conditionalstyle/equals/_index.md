@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/conditionalstyle/equals/
 ---
-## ConditionalStyle.Equals method
+## ConditionalStyle::Equals method
 
 
 

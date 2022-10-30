@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsavingcallback/
 ---
-## HtmlSaveOptions.get_FontSavingCallback method
+## HtmlSaveOptions::get_FontSavingCallback method
 
 
 Allows to control how fonts are saved when a document is saved to HTML, MHTML or EPUB.

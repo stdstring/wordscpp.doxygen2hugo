@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/fontsavingargs/get_italic/
 ---
-## FontSavingArgs.get_Italic method
+## FontSavingArgs::get_Italic method
 
 
 Indicates whether the current font is italic.

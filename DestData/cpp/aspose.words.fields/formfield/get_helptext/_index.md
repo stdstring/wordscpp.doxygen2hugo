@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/formfield/get_helptext/
 ---
-## FormField.get_HelpText method
+## FormField::get_HelpText method
 
 
 Returns or sets the text that's displayed in a message box when the form field has the focus and the user presses F1.

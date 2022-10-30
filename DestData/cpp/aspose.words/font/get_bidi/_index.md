@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/font/get_bidi/
 ---
-## Font.get_Bidi method
+## Font::get_Bidi method
 
 
 Specifies whether the contents of this run shall have right-to-left characteristics.

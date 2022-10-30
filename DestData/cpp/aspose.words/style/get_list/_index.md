@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/style/get_list/
 ---
-## Style.get_List method
+## Style::get_List method
 
 
 Gets the list that defines formatting of this list style.

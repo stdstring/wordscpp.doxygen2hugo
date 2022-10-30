@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_majortickmark/
 ---
-## ChartAxis.get_MajorTickMark method
+## ChartAxis::get_MajorTickMark method
 
 
 Returns or sets the major tick marks.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/idocumentreaderplugin/read/
 ---
-## IDocumentReaderPlugin.Read method
+## IDocumentReaderPlugin::Read method
 
 
 Reads the data from the specified stream into the [Document](../../document/) instance.

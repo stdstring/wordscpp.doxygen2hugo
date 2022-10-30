@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/documentbuilder/get_isatendofparagraph/
 ---
-## DocumentBuilder.get_IsAtEndOfParagraph method
+## DocumentBuilder::get_IsAtEndOfParagraph method
 
 
 Returns true if the cursor is at the end of the current paragraph.

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/style/get_isheading/
 ---
-## Style.get_IsHeading method
+## Style::get_IsHeading method
 
 
 True when the style is one of the built-in Heading styles.

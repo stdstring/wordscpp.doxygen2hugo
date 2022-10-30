@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.words/pagesetup/set_borderalwaysinfront/
 ---
-## PageSetup.set_BorderAlwaysInFront method
+## PageSetup::set_BorderAlwaysInFront method
 
 
 Setter for [Aspose::Words::PageSetup::get_BorderAlwaysInFront](../get_borderalwaysinfront/).

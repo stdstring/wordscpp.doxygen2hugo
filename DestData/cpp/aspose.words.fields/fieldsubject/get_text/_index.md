@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldsubject/get_text/
 ---
-## FieldSubject.get_Text method
+## FieldSubject::get_Text method
 
 
 Gets or sets the text of the subject.

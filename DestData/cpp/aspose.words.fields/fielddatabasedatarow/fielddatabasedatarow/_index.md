@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fielddatabasedatarow/fielddatabasedatarow/
 ---
-## FieldDatabaseDataRow.FieldDatabaseDataRow method
+## FieldDatabaseDataRow::FieldDatabaseDataRow method
 
 
 Initializes a new instance of the [FieldDatabaseDataRow](../) class.

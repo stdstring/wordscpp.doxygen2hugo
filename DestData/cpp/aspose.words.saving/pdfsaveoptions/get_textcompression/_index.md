@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_textcompression/
 ---
-## PdfSaveOptions.get_TextCompression method
+## PdfSaveOptions::get_TextCompression method
 
 
 Specifies compression type to be used for all textual content in the document.

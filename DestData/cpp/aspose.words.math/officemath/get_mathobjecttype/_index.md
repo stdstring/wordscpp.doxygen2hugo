@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.math/officemath/get_mathobjecttype/
 ---
-## OfficeMath.get_MathObjectType method
+## OfficeMath::get_MathObjectType method
 
 
 Gets type [MathObjectType](./) of this Office [Math](../../) object.

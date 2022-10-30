@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.words.drawing/shapebase/get_relativehorizontalposition/
 ---
-## ShapeBase.get_RelativeHorizontalPosition method
+## ShapeBase::get_RelativeHorizontalPosition method
 
 
 Specifies relative to what the shape is positioned horizontally.

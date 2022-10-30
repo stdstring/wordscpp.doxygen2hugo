@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/stroke/get_backcolor/
 ---
-## Stroke.get_BackColor method
+## Stroke::get_BackColor method
 
 
 Gets or sets the background color of the stroke.

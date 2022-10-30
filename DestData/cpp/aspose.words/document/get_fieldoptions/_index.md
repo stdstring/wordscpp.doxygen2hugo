@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words/document/get_fieldoptions/
 ---
-## Document.get_FieldOptions method
+## Document::get_FieldOptions method
 
 
 Gets a **FieldOptions** object that represents options to control field handling in the document.

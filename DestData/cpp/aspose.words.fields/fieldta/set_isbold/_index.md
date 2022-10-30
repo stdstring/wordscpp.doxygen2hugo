@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldta/set_isbold/
 ---
-## FieldTA.set_IsBold method
+## FieldTA::set_IsBold method
 
 
 Setter for [Aspose::Words::Fields::FieldTA::get_IsBold](../get_isbold/).

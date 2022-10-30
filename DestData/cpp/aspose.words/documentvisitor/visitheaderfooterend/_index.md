@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words/documentvisitor/visitheaderfooterend/
 ---
-## DocumentVisitor.VisitHeaderFooterEnd method
+## DocumentVisitor::VisitHeaderFooterEnd method
 
 
 Called when enumeration of a header or footer in a section has ended.

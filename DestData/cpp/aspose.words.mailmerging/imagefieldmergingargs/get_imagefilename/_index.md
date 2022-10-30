@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_imagefilename/
 ---
-## ImageFieldMergingArgs.get_ImageFileName method
+## ImageFieldMergingArgs::get_ImageFileName method
 
 
 Sets the file name of the image that the mail merge engine must insert into the document.

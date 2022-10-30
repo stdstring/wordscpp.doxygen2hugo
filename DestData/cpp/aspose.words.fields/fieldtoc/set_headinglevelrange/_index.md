@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.fields/fieldtoc/set_headinglevelrange/
 ---
-## FieldToc.set_HeadingLevelRange method
+## FieldToc::set_HeadingLevelRange method
 
 
 Setter for [Aspose::Words::Fields::FieldToc::get_HeadingLevelRange](../get_headinglevelrange/).

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldhyperlink/get_isimagemap/
 ---
-## FieldHyperlink.get_IsImageMap method
+## FieldHyperlink::get_IsImageMap method
 
 
 Gets or sets whether to append coordinates to the hyperlink for a server-side image map.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/convertutil/pixeltonewdpi/
 ---
-## ConvertUtil.PixelToNewDpi method
+## ConvertUtil::PixelToNewDpi method
 
 
 Converts pixels from one resolution to another.

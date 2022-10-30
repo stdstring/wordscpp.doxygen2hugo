@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/metafilerenderingoptions/get_renderingmode/
 ---
-## MetafileRenderingOptions.get_RenderingMode method
+## MetafileRenderingOptions::get_RenderingMode method
 
 
 Gets or sets a value determining how metafile images should be rendered.

@@ -6,7 +6,7 @@ type: docs
 weight: 937
 url: /cpp/aspose.words/pagesetup/set_pagenumberstyle/
 ---
-## PageSetup.set_PageNumberStyle method
+## PageSetup::set_PageNumberStyle method
 
 
 Setter for [Aspose::Words::PageSetup::get_PageNumberStyle](../get_pagenumberstyle/).

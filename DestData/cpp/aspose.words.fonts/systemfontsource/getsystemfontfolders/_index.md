@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/systemfontsource/getsystemfontfolders/
 ---
-## SystemFontSource.GetSystemFontFolders method
+## SystemFontSource::GetSystemFontFolders method
 
 
 Returns system font folders or empty array if folders are not accessible.

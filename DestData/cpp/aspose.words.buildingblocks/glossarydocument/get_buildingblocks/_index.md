@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.buildingblocks/glossarydocument/get_buildingblocks/
 ---
-## GlossaryDocument.get_BuildingBlocks method
+## GlossaryDocument::get_BuildingBlocks method
 
 
 Returns a typed collection that represents all building blocks in the glossary document.

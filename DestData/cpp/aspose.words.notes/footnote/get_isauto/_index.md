@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.notes/footnote/get_isauto/
 ---
-## Footnote.get_IsAuto method
+## Footnote::get_IsAuto method
 
 
 Holds a value that specifies whether this is a auto-numbered footnote or footnote with user defined custom reference mark.

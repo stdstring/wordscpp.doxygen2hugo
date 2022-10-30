@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_cacheheaderfootershapes/
 ---
-## PdfSaveOptions.get_CacheHeaderFooterShapes method
+## PdfSaveOptions::get_CacheHeaderFooterShapes method
 
 
 Gets or sets a value determining whether or not to cache shapes placed in header and footer of document.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_nodetype/
 ---
-## BuildingBlock.get_NodeType method
+## BuildingBlock::get_NodeType method
 
 
 Returns the **BuildingBlock** value.

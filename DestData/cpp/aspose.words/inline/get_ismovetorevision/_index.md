@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/inline/get_ismovetorevision/
 ---
-## Inline.get_IsMoveToRevision method
+## Inline::get_IsMoveToRevision method
 
 
 Returns **true** if this object was moved (inserted) in Microsoft Word while change tracking was enabled.

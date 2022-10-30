@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.saving/saveoptions/set_updatelastsavedtimeproperty/
 ---
-## SaveOptions.set_UpdateLastSavedTimeProperty method
+## SaveOptions::set_UpdateLastSavedTimeProperty method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty](../get_updatelastsavedtimeproperty/).

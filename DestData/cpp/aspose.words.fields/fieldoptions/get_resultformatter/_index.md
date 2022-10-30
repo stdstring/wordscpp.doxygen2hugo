@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.fields/fieldoptions/get_resultformatter/
 ---
-## FieldOptions.get_ResultFormatter method
+## FieldOptions::get_ResultFormatter method
 
 
 Allows to control how the field result is formatted.

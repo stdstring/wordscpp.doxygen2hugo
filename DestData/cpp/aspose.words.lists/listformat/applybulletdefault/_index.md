@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listformat/applybulletdefault/
 ---
-## ListFormat.ApplyBulletDefault method
+## ListFormat::ApplyBulletDefault method
 
 
 Starts a new default bulleted list and applies it to the paragraph.

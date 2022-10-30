@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/ifieldmergingcallback/imagefieldmerging/
 ---
-## IFieldMergingCallback.ImageFieldMerging method
+## IFieldMergingCallback::ImageFieldMerging method
 
 
 Called when the Aspose.Words mail merge engine is about to insert an image into a merge field.

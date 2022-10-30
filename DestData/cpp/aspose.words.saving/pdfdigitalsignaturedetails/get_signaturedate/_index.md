@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_signaturedate/
 ---
-## PdfDigitalSignatureDetails.get_SignatureDate method
+## PdfDigitalSignatureDetails::get_SignatureDate method
 
 
 Gets or sets the date of the signing.

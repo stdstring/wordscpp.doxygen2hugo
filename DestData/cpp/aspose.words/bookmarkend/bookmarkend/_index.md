@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/bookmarkend/bookmarkend/
 ---
-## BookmarkEnd.BookmarkEnd method
+## BookmarkEnd::BookmarkEnd method
 
 
 Initializes a new instance of the [BookmarkEnd](../) class.

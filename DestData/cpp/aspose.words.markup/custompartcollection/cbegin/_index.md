@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/custompartcollection/cbegin/
 ---
-## CustomPartCollection.cbegin method
+## CustomPartCollection::cbegin method
 
 
 

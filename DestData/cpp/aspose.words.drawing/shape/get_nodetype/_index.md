@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.drawing/shape/get_nodetype/
 ---
-## Shape.get_NodeType method
+## Shape::get_NodeType method
 
 
 Returns **Shape**.

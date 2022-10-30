@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.fields/fieldoptions/set_comparisonexpressionevaluator/
 ---
-## FieldOptions.set_ComparisonExpressionEvaluator method
+## FieldOptions::set_ComparisonExpressionEvaluator method
 
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator](../get_comparisonexpressionevaluator/).

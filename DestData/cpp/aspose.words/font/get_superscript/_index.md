@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/aspose.words/font/get_superscript/
 ---
-## Font.get_Superscript method
+## Font::get_Superscript method
 
 
 True if the font is formatted as superscript.

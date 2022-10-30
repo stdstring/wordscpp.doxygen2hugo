@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.lists/listcollection/getenumerator/
 ---
-## ListCollection.GetEnumerator method
+## ListCollection::GetEnumerator method
 
 
 Gets the enumerator object that will enumerate lists in the document.

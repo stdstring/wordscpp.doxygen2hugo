@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadlinuxsettings/
 ---
-## TableSubstitutionRule.LoadLinuxSettings method
+## TableSubstitutionRule::LoadLinuxSettings method
 
 
 Loads predefined table substitution settings for Linux platform.

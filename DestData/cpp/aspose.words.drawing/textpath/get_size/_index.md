@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/textpath/get_size/
 ---
-## TextPath.get_Size method
+## TextPath::get_Size method
 
 
 Defines the size of the font in points.

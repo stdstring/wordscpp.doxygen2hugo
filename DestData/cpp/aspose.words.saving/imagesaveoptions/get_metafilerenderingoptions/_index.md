@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/imagesaveoptions/get_metafilerenderingoptions/
 ---
-## ImageSaveOptions.get_MetafileRenderingOptions method
+## ImageSaveOptions::get_MetafileRenderingOptions method
 
 
 Allows to specify how metafiles are treated in the rendered output.

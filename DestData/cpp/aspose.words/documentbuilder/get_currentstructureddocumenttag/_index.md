@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/documentbuilder/get_currentstructureddocumenttag/
 ---
-## DocumentBuilder.get_CurrentStructuredDocumentTag method
+## DocumentBuilder::get_CurrentStructuredDocumentTag method
 
 
 Gets the structured document tag that is currently selected in this [DocumentBuilder](../).

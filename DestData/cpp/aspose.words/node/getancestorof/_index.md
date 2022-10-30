@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/node/getancestorof/
 ---
-## Node.GetAncestorOf method
+## Node::GetAncestorOf method
 
 
 

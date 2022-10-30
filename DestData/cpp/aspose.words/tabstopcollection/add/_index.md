@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/tabstopcollection/add/
 ---
-## TabStopCollection.Add(const System::SharedPtr\<Aspose::Words::TabStop\>\&) method
+## TabStopCollection::Add(const System::SharedPtr\<Aspose::Words::TabStop\>\&) method
 
 
 Adds or replaces a tab stop in the collection.
@@ -53,7 +53,7 @@ builder->Writeln(u"Start\tTab 1\tTab 2\tTab 3\tTab 4");
 doc->Save(ArtifactsDir + u"TabStopCollection.AddTabStops.docx");
 ```
 
-## TabStopCollection.Add(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
+## TabStopCollection::Add(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
 
 
 Adds or replaces a tab stop in the collection.

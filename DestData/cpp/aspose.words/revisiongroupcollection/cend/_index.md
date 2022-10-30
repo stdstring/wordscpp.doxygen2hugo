@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/revisiongroupcollection/cend/
 ---
-## RevisionGroupCollection.cend method
+## RevisionGroupCollection::cend method
 
 
 

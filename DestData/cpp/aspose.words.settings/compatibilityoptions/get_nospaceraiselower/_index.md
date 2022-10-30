@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.words.settings/compatibilityoptions/get_nospaceraiselower/
 ---
-## CompatibilityOptions.get_NoSpaceRaiseLower method
+## CompatibilityOptions::get_NoSpaceRaiseLower method
 
 
 Do Not Increase Line Height for Raised/Lowered Text.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.webextensions/webextensionbinding/get_bindingtype/
 ---
-## WebExtensionBinding.get_BindingType method
+## WebExtensionBinding::get_BindingType method
 
 
 Specifies the binding type.

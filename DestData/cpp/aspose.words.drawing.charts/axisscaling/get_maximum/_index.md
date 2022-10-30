@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/axisscaling/get_maximum/
 ---
-## AxisScaling.get_Maximum method
+## AxisScaling::get_Maximum method
 
 
 Gets or sets the maximum value of the axis.

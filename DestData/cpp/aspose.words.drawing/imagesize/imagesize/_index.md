@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/imagesize/imagesize/
 ---
-## ImageSize.ImageSize(int32_t, int32_t) method
+## ImageSize::ImageSize(int32_t, int32_t) method
 
 
 Initializes width and height to the given values in pixels. Initializes resolution to 96 dpi.
@@ -22,7 +22,7 @@ Aspose::Words::Drawing::ImageSize::ImageSize(int32_t widthPixels, int32_t height
 | heightPixels | int32_t | Height in pixels. |
 
 
-## ImageSize.ImageSize(int32_t, int32_t, double, double) method
+## ImageSize::ImageSize(int32_t, int32_t, double, double) method
 
 
 Initializes width, height and resolution to the given values.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/warninginfocollection/cbegin/
 ---
-## WarningInfoCollection.cbegin method
+## WarningInfoCollection::cbegin method
 
 
 

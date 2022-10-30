@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_pagesavingcallback/
 ---
-## FixedPageSaveOptions.get_PageSavingCallback method
+## FixedPageSaveOptions::get_PageSavingCallback method
 
 
 Allows to control how separate pages are saved when a document is exported to fixed page format.

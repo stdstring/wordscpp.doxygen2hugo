@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.drawing/imagedata/get_cropright/
 ---
-## ImageData.get_CropRight method
+## ImageData::get_CropRight method
 
 
 Defines the fraction of picture removal from the right side.

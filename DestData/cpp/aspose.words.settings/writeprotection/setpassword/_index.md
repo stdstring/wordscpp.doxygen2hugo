@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.settings/writeprotection/setpassword/
 ---
-## WriteProtection.SetPassword method
+## WriteProtection::SetPassword method
 
 
 Sets the write protection password for the document.

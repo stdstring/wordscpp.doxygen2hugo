@@ -6,7 +6,7 @@ type: docs
 weight: 651
 url: /cpp/aspose.words/documentbuilder/movetodocumentend/
 ---
-## DocumentBuilder.MoveToDocumentEnd method
+## DocumentBuilder::MoveToDocumentEnd method
 
 
 Moves the cursor to the end of the document.

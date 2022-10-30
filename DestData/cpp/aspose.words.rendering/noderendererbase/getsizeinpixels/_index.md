@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.rendering/noderendererbase/getsizeinpixels/
 ---
-## NodeRendererBase.GetSizeInPixels(float, float) method
+## NodeRendererBase::GetSizeInPixels(float, float) method
 
 
 Calculates the size of the shape in pixels for a specified zoom factor and resolution.
@@ -74,7 +74,7 @@ ASSERT_EQ(159, bounds.get_Width());
 ASSERT_EQ(30, bounds.get_Height());
 ```
 
-## NodeRendererBase.GetSizeInPixels(float, float, float) method
+## NodeRendererBase::GetSizeInPixels(float, float, float) method
 
 
 Calculates the size of the shape in pixels for a specified zoom factor and resolution.

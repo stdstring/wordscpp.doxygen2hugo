@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.lists/list/get_isliststylereference/
 ---
-## List.get_IsListStyleReference method
+## List::get_IsListStyleReference method
 
 
 Returns true if this list is a reference to a list style.

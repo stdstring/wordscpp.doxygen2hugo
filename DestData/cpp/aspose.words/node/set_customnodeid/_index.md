@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/node/set_customnodeid/
 ---
-## Node.set_CustomNodeId method
+## Node::set_CustomNodeId method
 
 
 Setter for [Aspose::Words::Node::get_CustomNodeId](../get_customnodeid/).

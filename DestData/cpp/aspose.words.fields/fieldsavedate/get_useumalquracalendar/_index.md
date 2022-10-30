@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldsavedate/get_useumalquracalendar/
 ---
-## FieldSaveDate.get_UseUmAlQuraCalendar method
+## FieldSaveDate::get_UseUmAlQuraCalendar method
 
 
 Gets or sets whether to use the Um-al-Qura calendar.

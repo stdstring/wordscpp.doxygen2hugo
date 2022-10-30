@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldseparator/get_nodetype/
 ---
-## FieldSeparator.get_NodeType method
+## FieldSeparator::get_NodeType method
 
 
 Returns **FieldSeparator**.

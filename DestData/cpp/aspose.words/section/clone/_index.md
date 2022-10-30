@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/section/clone/
 ---
-## Section.Clone method
+## Section::Clone method
 
 
 Creates a duplicate of this section.

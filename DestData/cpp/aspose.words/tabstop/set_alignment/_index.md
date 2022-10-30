@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/tabstop/set_alignment/
 ---
-## TabStop.set_Alignment method
+## TabStop::set_Alignment method
 
 
 Setter for [Aspose::Words::TabStop::get_Alignment](../get_alignment/).

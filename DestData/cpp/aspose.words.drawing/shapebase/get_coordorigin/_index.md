@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/shapebase/get_coordorigin/
 ---
-## ShapeBase.get_CoordOrigin method
+## ShapeBase::get_CoordOrigin method
 
 
 The coordinates at the top-left corner of the containing block of this shape.

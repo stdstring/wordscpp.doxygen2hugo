@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/shapebase/get_boundswitheffects/
 ---
-## ShapeBase.get_BoundsWithEffects method
+## ShapeBase::get_BoundsWithEffects method
 
 
 Gets final extent that this shape object has after applying drawing effects. Value is measured in points.

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.tables/table/clearborders/
 ---
-## Table.ClearBorders method
+## Table::ClearBorders method
 
 
 Removes all table and cell borders on this table.

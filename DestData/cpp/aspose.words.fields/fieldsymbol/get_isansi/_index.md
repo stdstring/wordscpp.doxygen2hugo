@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldsymbol/get_isansi/
 ---
-## FieldSymbol.get_IsAnsi method
+## FieldSymbol::get_IsAnsi method
 
 
 Gets or sets whether the character code is interpreted as the value of an ANSI character.

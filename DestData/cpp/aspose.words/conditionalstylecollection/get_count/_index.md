@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/conditionalstylecollection/get_count/
 ---
-## ConditionalStyleCollection.get_Count method
+## ConditionalStyleCollection::get_Count method
 
 
 Gets the number of conditional styles in the collection.

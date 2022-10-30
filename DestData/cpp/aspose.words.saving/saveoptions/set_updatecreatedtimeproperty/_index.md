@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.saving/saveoptions/set_updatecreatedtimeproperty/
 ---
-## SaveOptions.set_UpdateCreatedTimeProperty method
+## SaveOptions::set_UpdateCreatedTimeProperty method
 
 
 Sets a value determining whether the [CreatedTime](../../../aspose.words.properties/builtindocumentproperties/get_createdtime/) property is updated before saving. Default value is false;.

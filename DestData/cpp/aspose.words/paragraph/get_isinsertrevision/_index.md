@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words/paragraph/get_isinsertrevision/
 ---
-## Paragraph.get_IsInsertRevision method
+## Paragraph::get_IsInsertRevision method
 
 
 Returns true if this object was inserted in Microsoft Word while change tracking was enabled.

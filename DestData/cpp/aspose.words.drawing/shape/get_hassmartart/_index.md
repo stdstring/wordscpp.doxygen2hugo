@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/shape/get_hassmartart/
 ---
-## Shape.get_HasSmartArt method
+## Shape::get_HasSmartArt method
 
 
 Returns true if this [Shape](../) has a SmartArt object.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_serverurl/
 ---
-## PdfDigitalSignatureTimestampSettings.get_ServerUrl method
+## PdfDigitalSignatureTimestampSettings::get_ServerUrl method
 
 
 Timestamp server URL.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/odtsaveoptions/odtsaveoptions/
 ---
-## OdtSaveOptions.OdtSaveOptions() method
+## OdtSaveOptions::OdtSaveOptions() method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Odt** format.
@@ -32,7 +32,7 @@ saveOptions->set_IsStrictSchema11(exportToOdt11Specs);
 doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
 ```
 
-## OdtSaveOptions.OdtSaveOptions(Aspose::Words::SaveFormat) method
+## OdtSaveOptions::OdtSaveOptions(Aspose::Words::SaveFormat) method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Odt** or **Ott** format.
@@ -79,7 +79,7 @@ doc = MakeObject<Document>(ArtifactsDir + u"OdtSaveOptions.Encrypt" + extensionS
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
-## OdtSaveOptions.OdtSaveOptions(const System::String\&) method
+## OdtSaveOptions::OdtSaveOptions(const System::String\&) method
 
 
 Initializes a new instance of this class that can be used to save a document in the **Odt** format encrypted with a password.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/bookmarkcollection/clear/
 ---
-## BookmarkCollection.Clear method
+## BookmarkCollection::Clear method
 
 
 Removes all bookmarks from this collection and from the document.

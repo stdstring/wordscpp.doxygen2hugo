@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/customxmlpart/get_schemas/
 ---
-## CustomXmlPart.get_Schemas method
+## CustomXmlPart::get_Schemas method
 
 
 Specifies the set of XML schemas that are associated with this custom XML part.

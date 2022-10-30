@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldbuilder/buildandinsert/
 ---
-## FieldBuilder.BuildAndInsert(const System::SharedPtr\<Aspose::Words::Inline\>\&) method
+## FieldBuilder::BuildAndInsert(const System::SharedPtr\<Aspose::Words::Inline\>\&) method
 
 
 Builds and inserts a field into the document before the specified inline node.
@@ -48,7 +48,7 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.CreateWithFieldBuilder.docx");
 ```
 
-## FieldBuilder.BuildAndInsert(const System::SharedPtr\<Aspose::Words::Paragraph\>\&) method
+## FieldBuilder::BuildAndInsert(const System::SharedPtr\<Aspose::Words::Paragraph\>\&) method
 
 
 Builds and inserts a field into the document to the end of the specified paragraph.

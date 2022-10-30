@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/fill/get_backcolor/
 ---
-## Fill.get_BackColor method
+## Fill::get_BackColor method
 
 
 Gets a Color object that represents the background color for the fill.

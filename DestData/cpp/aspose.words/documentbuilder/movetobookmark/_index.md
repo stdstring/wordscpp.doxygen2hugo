@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/aspose.words/documentbuilder/movetobookmark/
 ---
-## DocumentBuilder.MoveToBookmark(const System::String\&) method
+## DocumentBuilder::MoveToBookmark(const System::String\&) method
 
 
 Moves the cursor to a bookmark.
@@ -86,7 +86,7 @@ builder->MoveToDocumentStart();
 ASSERT_TRUE(builder->get_IsAtStartOfParagraph());
 ```
 
-## DocumentBuilder.MoveToBookmark(const System::String\&, bool, bool) method
+## DocumentBuilder::MoveToBookmark(const System::String\&, bool, bool) method
 
 
 Moves the cursor to a bookmark with greater precision.

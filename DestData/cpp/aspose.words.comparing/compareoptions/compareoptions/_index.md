@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.comparing/compareoptions/compareoptions/
 ---
-## CompareOptions.CompareOptions method
+## CompareOptions::CompareOptions method
 
 
 

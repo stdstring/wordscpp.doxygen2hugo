@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/shadowformat/set_type/
 ---
-## ShadowFormat.set_Type method
+## ShadowFormat::set_Type method
 
 
 Sets the specified [ShadowType](../../shadowtype/) for [ShadowFormat](../).

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/bookmarkcollection/get_count/
 ---
-## BookmarkCollection.get_Count method
+## BookmarkCollection::get_Count method
 
 
 Returns the number of bookmarks in the collection.

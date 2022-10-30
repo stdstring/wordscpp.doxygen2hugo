@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/aspose.words.tables/table/set_leftpadding/
 ---
-## Table.set_LeftPadding method
+## Table::set_LeftPadding method
 
 
 Setter for [Aspose::Words::Tables::Table::get_LeftPadding](../get_leftpadding/).

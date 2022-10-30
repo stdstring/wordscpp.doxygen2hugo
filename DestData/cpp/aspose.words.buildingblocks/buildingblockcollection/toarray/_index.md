@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.buildingblocks/buildingblockcollection/toarray/
 ---
-## BuildingBlockCollection.ToArray method
+## BuildingBlockCollection::ToArray method
 
 
 Copies all building blocks from the collection to a new array of building blocks.

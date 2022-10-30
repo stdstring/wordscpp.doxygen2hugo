@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldxe/get_text/
 ---
-## FieldXE.get_Text method
+## FieldXE::get_Text method
 
 
 Gets or sets the text of the entry.

@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_categorytype/
 ---
-## ChartAxis.set_CategoryType method
+## ChartAxis::set_CategoryType method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType](../get_categorytype/).

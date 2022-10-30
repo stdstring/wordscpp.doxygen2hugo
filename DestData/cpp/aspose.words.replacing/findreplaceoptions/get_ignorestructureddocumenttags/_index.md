@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignorestructureddocumenttags/
 ---
-## FindReplaceOptions.get_IgnoreStructuredDocumentTags method
+## FindReplaceOptions::get_IgnoreStructuredDocumentTags method
 
 
 Gets or sets a boolean value indicating either to ignore content of [StructuredDocumentTag](../../../aspose.words.markup/structureddocumenttag/). The default value is **false**.

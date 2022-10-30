@@ -6,7 +6,7 @@ type: docs
 weight: 1561
 url: /cpp/aspose.words.settings/compatibilityoptions/set_suppressspacingattopofpage/
 ---
-## CompatibilityOptions.set_SuppressSpacingAtTopOfPage method
+## CompatibilityOptions::set_SuppressSpacingAtTopOfPage method
 
 
 Ignore Minimum Line Height for First Line on Page.

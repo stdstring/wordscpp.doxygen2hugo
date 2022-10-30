@@ -6,7 +6,7 @@ type: docs
 weight: 911
 url: /cpp/aspose.words/pagesetup/set_otherpagestray/
 ---
-## PageSetup.set_OtherPagesTray method
+## PageSetup::set_OtherPagesTray method
 
 
 Sets the paper tray (bin) to be used for all but the first page of a section. The value is implementation (printer) specific.

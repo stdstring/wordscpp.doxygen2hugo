@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/appendchild/
 ---
-## StructuredDocumentTagRangeStart.AppendChild method
+## StructuredDocumentTagRangeStart::AppendChild method
 
 
 Adds the specified node to the end of the stdContent range.

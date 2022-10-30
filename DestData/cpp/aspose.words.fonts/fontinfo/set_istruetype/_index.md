@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.fonts/fontinfo/set_istruetype/
 ---
-## FontInfo.set_IsTrueType method
+## FontInfo::set_IsTrueType method
 
 
 Setter for [Aspose::Words::Fonts::FontInfo::get_IsTrueType](../get_istruetype/).

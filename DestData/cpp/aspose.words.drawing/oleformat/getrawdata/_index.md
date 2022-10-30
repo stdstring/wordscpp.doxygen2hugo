@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/oleformat/getrawdata/
 ---
-## OleFormat.GetRawData method
+## OleFormat::GetRawData method
 
 
 Gets OLE object raw data.

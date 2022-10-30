@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showvalue/
 ---
-## ChartDataLabel.set_ShowValue method
+## ChartDataLabel::set_ShowValue method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowValue](../get_showvalue/).

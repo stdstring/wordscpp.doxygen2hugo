@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldtoa/set_pagenumberlistseparator/
 ---
-## FieldToa.set_PageNumberListSeparator method
+## FieldToa::set_PageNumberListSeparator method
 
 
 Setter for [Aspose::Words::Fields::FieldToa::get_PageNumberListSeparator](../get_pagenumberlistseparator/).

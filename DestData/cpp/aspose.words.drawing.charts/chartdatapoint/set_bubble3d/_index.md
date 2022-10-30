@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/set_bubble3d/
 ---
-## ChartDataPoint.set_Bubble3D method
+## ChartDataPoint::set_Bubble3D method
 
 
 Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D](../../ichartdatapoint/get_bubble3d/).

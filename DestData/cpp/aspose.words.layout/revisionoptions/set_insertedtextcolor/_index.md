@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.layout/revisionoptions/set_insertedtextcolor/
 ---
-## RevisionOptions.set_InsertedTextColor method
+## RevisionOptions::set_InsertedTextColor method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_InsertedTextColor](../get_insertedtextcolor/).

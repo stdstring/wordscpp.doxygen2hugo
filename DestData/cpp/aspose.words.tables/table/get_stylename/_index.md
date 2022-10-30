@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words.tables/table/get_stylename/
 ---
-## Table.get_StyleName method
+## Table::get_StyleName method
 
 
 Gets or sets the name of the table style applied to this table.

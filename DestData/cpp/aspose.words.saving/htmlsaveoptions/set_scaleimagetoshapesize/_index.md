@@ -6,7 +6,7 @@ type: docs
 weight: 1158
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_scaleimagetoshapesize/
 ---
-## HtmlSaveOptions.set_ScaleImageToShapeSize method
+## HtmlSaveOptions::set_ScaleImageToShapeSize method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize](../get_scaleimagetoshapesize/).

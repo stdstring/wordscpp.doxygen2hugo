@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_color/
 ---
-## StructuredDocumentTagRangeStart.get_Color method
+## StructuredDocumentTagRangeStart::get_Color method
 
 
 Gets or sets the color of the structured document tag.

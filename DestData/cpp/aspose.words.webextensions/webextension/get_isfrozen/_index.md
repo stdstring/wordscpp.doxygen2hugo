@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.webextensions/webextension/get_isfrozen/
 ---
-## WebExtension.get_IsFrozen method
+## WebExtension::get_IsFrozen method
 
 
 Specifies whether the user can interact with the web extension or not.

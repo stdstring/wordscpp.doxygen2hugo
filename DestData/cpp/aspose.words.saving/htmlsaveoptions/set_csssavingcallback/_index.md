@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_csssavingcallback/
 ---
-## HtmlSaveOptions.set_CssSavingCallback method
+## HtmlSaveOptions::set_CssSavingCallback method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback](../get_csssavingcallback/).

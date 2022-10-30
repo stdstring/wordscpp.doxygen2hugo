@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldcollection/get_count/
 ---
-## FieldCollection.get_Count method
+## FieldCollection::get_Count method
 
 
 Returns the number of the fields in the collection.

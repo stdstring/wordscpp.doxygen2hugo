@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/idx_get/
 ---
-## ChartLegendEntryCollection.idx_get method
+## ChartLegendEntryCollection::idx_get method
 
 
 Returns [ChartLegendEntry](../../chartlegendentry/) for the specified index.

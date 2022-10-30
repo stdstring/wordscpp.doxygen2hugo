@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.fields/field/set_localeid/
 ---
-## Field.set_LocaleId method
+## Field::set_LocaleId method
 
 
 Setter for [Aspose::Words::Fields::Field::get_LocaleId](../get_localeid/).

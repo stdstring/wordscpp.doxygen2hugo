@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.comparing/compareoptions/set_target/
 ---
-## CompareOptions.set_Target method
+## CompareOptions::set_Target method
 
 
 Setter for [Aspose::Words::Comparing::CompareOptions::get_Target](../get_target/).

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_author/
 ---
-## BuiltInDocumentProperties.get_Author method
+## BuiltInDocumentProperties::get_Author method
 
 
 Gets or sets the name of the document's author.

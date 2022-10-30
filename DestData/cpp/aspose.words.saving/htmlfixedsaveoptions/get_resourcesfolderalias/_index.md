@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_resourcesfolderalias/
 ---
-## HtmlFixedSaveOptions.get_ResourcesFolderAlias method
+## HtmlFixedSaveOptions::get_ResourcesFolderAlias method
 
 
 Specifies the name of the folder used to construct image URIs written into an Html document. Default is **null**.

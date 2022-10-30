@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.drawing/shapebase/get_isimage/
 ---
-## ShapeBase.get_IsImage method
+## ShapeBase::get_IsImage method
 
 
 Returns true if this shape is an image shape.

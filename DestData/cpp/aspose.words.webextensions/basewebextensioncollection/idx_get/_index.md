@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/idx_get/
 ---
-## BaseWebExtensionCollection.idx_get method
+## BaseWebExtensionCollection::idx_get method
 
 
 Gets or sets an item at the specified index.

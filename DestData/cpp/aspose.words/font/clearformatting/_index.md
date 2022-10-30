@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/font/clearformatting/
 ---
-## Font.ClearFormatting method
+## Font::ClearFormatting method
 
 
 Resets to default font formatting.

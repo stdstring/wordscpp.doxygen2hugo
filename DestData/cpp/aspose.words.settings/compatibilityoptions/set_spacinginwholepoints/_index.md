@@ -6,7 +6,7 @@ type: docs
 weight: 1509
 url: /cpp/aspose.words.settings/compatibilityoptions/set_spacinginwholepoints/
 ---
-## CompatibilityOptions.set_SpacingInWholePoints method
+## CompatibilityOptions::set_SpacingInWholePoints method
 
 
 Only Expand/Condense Text By Whole Points.

@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/aspose.words/documentbuilder/insertoleobjectasicon/
 ---
-## DocumentBuilder.InsertOleObjectAsIcon(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::String\&, const System::String\&) method
+## DocumentBuilder::InsertOleObjectAsIcon(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::String\&, const System::String\&) method
 
 
 Inserts an embedded OLE object as icon from a stream into the document. Allows to specify icon file and caption. Detects OLE object type using given progID parameter.
@@ -58,7 +58,7 @@ builder->InsertBreak(BreakType::LineBreak);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOleObjectAsIcon.docx");
 ```
 
-## DocumentBuilder.InsertOleObjectAsIcon(const System::String\&, bool, const System::String\&, const System::String\&) method
+## DocumentBuilder::InsertOleObjectAsIcon(const System::String\&, bool, const System::String\&, const System::String\&) method
 
 
 Inserts an embedded or linked OLE object as icon into the document. Allows to specify icon file and caption. Detects OLE object type using file extension.
@@ -81,7 +81,7 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 Shape node containing Ole object and inserted at the current Builder position.
 
 
-## DocumentBuilder.InsertOleObjectAsIcon(const System::String\&, const System::String\&, bool, const System::String\&, const System::String\&) method
+## DocumentBuilder::InsertOleObjectAsIcon(const System::String\&, const System::String\&, bool, const System::String\&, const System::String\&) method
 
 
 Inserts an embedded or linked OLE object as icon into the document. Allows to specify icon file and caption. Detects OLE object type using given progID parameter.
@@ -134,7 +134,7 @@ builder->InsertBreak(BreakType::LineBreak);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOleObjectAsIcon.docx");
 ```
 
-## DocumentBuilder.InsertOleObjectAsIcon(std::basic_istream\<CharType, Traits\>\&, System::String, System::String, System::String) method
+## DocumentBuilder::InsertOleObjectAsIcon(std::basic_istream\<CharType, Traits\>\&, System::String, System::String, System::String) method
 
 
 

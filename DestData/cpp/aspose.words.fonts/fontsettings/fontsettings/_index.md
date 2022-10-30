@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/fontsettings/fontsettings/
 ---
-## FontSettings.FontSettings method
+## FontSettings::FontSettings method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words/paragraphformat/get_styleidentifier/
 ---
-## ParagraphFormat.get_StyleIdentifier method
+## ParagraphFormat::get_StyleIdentifier method
 
 
 Gets or sets the locale independent style identifier of the paragraph style applied to this formatting.

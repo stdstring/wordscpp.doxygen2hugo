@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/textcolumncollection/get_linebetween/
 ---
-## TextColumnCollection.get_LineBetween method
+## TextColumnCollection::get_LineBetween method
 
 
 When **true**, adds a vertical line between columns.

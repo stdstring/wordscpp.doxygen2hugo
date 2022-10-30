@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.markup/customxmlpartcollection/getenumerator/
 ---
-## CustomXmlPartCollection.GetEnumerator method
+## CustomXmlPartCollection::GetEnumerator method
 
 
 Returns an enumerator object that can be used to iterate over all items in the collection.

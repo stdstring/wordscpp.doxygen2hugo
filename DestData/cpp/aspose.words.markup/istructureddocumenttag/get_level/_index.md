@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_level/
 ---
-## IStructuredDocumentTag.get_Level method
+## IStructuredDocumentTag::get_Level method
 
 
 Gets the level at which this **SDT** occurs in the document tree.

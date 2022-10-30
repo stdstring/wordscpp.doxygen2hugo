@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_title/
 ---
-## StructuredDocumentTagRangeStart.get_Title method
+## StructuredDocumentTagRangeStart::get_Title method
 
 
 Specifies the friendly name associated with this structured document tag. Can not be null.

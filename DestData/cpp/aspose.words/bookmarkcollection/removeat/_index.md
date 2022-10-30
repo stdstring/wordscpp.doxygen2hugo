@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/bookmarkcollection/removeat/
 ---
-## BookmarkCollection.RemoveAt method
+## BookmarkCollection::RemoveAt method
 
 
 Removes a bookmark at the specified index.

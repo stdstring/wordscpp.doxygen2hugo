@@ -6,7 +6,7 @@ type: docs
 weight: 898
 url: /cpp/aspose.words/paragraphformat/set_style/
 ---
-## ParagraphFormat.set_Style method
+## ParagraphFormat::set_Style method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_Style](../get_style/).

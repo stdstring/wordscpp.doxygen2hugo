@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/textpath/get_italic/
 ---
-## TextPath.get_Italic method
+## TextPath::get_Italic method
 
 
 True if the font is formatted as italic.

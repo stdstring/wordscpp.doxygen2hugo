@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/aspose.words.tables/table/set_toppadding/
 ---
-## Table.set_TopPadding method
+## Table::set_TopPadding method
 
 
 Setter for [Aspose::Words::Tables::Table::get_TopPadding](../get_toppadding/).

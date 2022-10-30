@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorecomments/
 ---
-## CompareOptions.get_IgnoreComments method
+## CompareOptions::get_IgnoreComments method
 
 
 Specifies whether to compare differences in comments. By default comments are not ignored.

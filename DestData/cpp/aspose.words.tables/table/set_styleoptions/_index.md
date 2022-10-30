@@ -6,7 +6,7 @@ type: docs
 weight: 768
 url: /cpp/aspose.words.tables/table/set_styleoptions/
 ---
-## Table.set_StyleOptions method
+## Table::set_StyleOptions method
 
 
 Setter for [Aspose::Words::Tables::Table::get_StyleOptions](../get_styleoptions/).

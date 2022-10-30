@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/story/get_storytype/
 ---
-## Story.get_StoryType method
+## Story::get_StoryType method
 
 
 Gets the type of this story.

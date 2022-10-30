@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/compositenode/get_childnodes/
 ---
-## CompositeNode.get_ChildNodes method
+## CompositeNode::get_ChildNodes method
 
 
 Gets all immediate child nodes of this node.

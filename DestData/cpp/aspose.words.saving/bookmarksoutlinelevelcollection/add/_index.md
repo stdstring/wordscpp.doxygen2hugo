@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/add/
 ---
-## BookmarksOutlineLevelCollection.Add method
+## BookmarksOutlineLevelCollection::Add method
 
 
 Adds a bookmark to the collection.

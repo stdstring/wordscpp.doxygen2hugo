@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.drawing/imagedata/get_imagebytes/
 ---
-## ImageData.get_ImageBytes method
+## ImageData::get_ImageBytes method
 
 
 Gets or sets the raw bytes of the image stored in the shape.

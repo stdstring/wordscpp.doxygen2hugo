@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/comment/get_storytype/
 ---
-## Comment.get_StoryType method
+## Comment::get_StoryType method
 
 
 Returns **StoryType.Comments**.

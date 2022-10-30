@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldoptions/get_filename/
 ---
-## FieldOptions.get_FileName method
+## FieldOptions::get_FileName method
 
 
 Gets or sets the file name of the document.

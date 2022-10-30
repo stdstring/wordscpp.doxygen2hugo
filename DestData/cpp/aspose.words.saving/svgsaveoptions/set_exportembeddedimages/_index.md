@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.saving/svgsaveoptions/set_exportembeddedimages/
 ---
-## SvgSaveOptions.set_ExportEmbeddedImages method
+## SvgSaveOptions::set_ExportEmbeddedImages method
 
 
 Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages](../get_exportembeddedimages/).

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.markup/custompartcollection/idx_set/
 ---
-## CustomPartCollection.idx_set method
+## CustomPartCollection::idx_set method
 
 
 Gets or sets an item at the specified index.

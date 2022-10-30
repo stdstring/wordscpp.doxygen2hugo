@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.tables/row/get_parenttable/
 ---
-## Row.get_ParentTable method
+## Row::get_ParentTable method
 
 
 Returns the immediate parent table of the row.

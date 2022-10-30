@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldcollection/remove/
 ---
-## FieldCollection.Remove method
+## FieldCollection::Remove method
 
 
 Removes the specified field from this collection and from the document.

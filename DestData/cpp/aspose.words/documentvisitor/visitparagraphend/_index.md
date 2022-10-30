@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words/documentvisitor/visitparagraphend/
 ---
-## DocumentVisitor.VisitParagraphEnd method
+## DocumentVisitor::VisitParagraphEnd method
 
 
 Called when enumeration of a paragraph has ended.

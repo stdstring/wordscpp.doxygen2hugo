@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/textbox/get_internalmarginright/
 ---
-## TextBox.get_InternalMarginRight method
+## TextBox::get_InternalMarginRight method
 
 
 Specifies the inner right margin in points for a shape.

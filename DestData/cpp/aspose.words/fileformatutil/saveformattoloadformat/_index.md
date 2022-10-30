@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/fileformatutil/saveformattoloadformat/
 ---
-## FileFormatUtil.SaveFormatToLoadFormat method
+## FileFormatUtil::SaveFormatToLoadFormat method
 
 
 Converts a [SaveFormat](../../saveformat/) value to a [LoadFormat](../../loadformat/) value if possible.

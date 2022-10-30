@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/sdtlistitemcollection/end/
 ---
-## SdtListItemCollection.end() const method
+## SdtListItemCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/end/
 const_iterator Aspose::Words::Markup::SdtListItemCollection::end() const noexcept
 ```
 
-## SdtListItemCollection.end() method
+## SdtListItemCollection::end() method
 
 
 

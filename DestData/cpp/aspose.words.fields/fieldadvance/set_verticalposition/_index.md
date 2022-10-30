@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldadvance/set_verticalposition/
 ---
-## FieldAdvance.set_VerticalPosition method
+## FieldAdvance::set_VerticalPosition method
 
 
 Setter for [Aspose::Words::Fields::FieldAdvance::get_VerticalPosition](../get_verticalposition/).

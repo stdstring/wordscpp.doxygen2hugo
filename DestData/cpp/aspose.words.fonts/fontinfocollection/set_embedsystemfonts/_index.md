@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fonts/fontinfocollection/set_embedsystemfonts/
 ---
-## FontInfoCollection.set_EmbedSystemFonts method
+## FontInfoCollection::set_EmbedSystemFonts method
 
 
 Setter for [Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts](../get_embedsystemfonts/).

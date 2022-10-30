@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pageset/get_all/
 ---
-## PageSet.get_All method
+## PageSet::get_All method
 
 
 Gets a set with all the pages of the document in their original order.

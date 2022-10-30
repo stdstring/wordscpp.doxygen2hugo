@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.tables/cellformat/set_horizontalmerge/
 ---
-## CellFormat.set_HorizontalMerge method
+## CellFormat::set_HorizontalMerge method
 
 
 Setter for [Aspose::Words::Tables::CellFormat::get_HorizontalMerge](../get_horizontalmerge/).

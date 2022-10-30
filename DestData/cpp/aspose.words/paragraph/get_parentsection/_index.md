@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words/paragraph/get_parentsection/
 ---
-## Paragraph.get_ParentSection method
+## Paragraph::get_ParentSection method
 
 
 Retrieves the parent [Section](../../section/) of the paragraph.

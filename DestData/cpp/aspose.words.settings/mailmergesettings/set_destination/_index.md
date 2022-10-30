@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.settings/mailmergesettings/set_destination/
 ---
-## MailMergeSettings.set_Destination method
+## MailMergeSettings::set_Destination method
 
 
 Specifies how Microsoft Word will output the results of a mail merge. The default value is **Default**.

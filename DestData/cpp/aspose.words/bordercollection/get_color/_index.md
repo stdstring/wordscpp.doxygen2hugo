@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/bordercollection/get_color/
 ---
-## BorderCollection.get_Color method
+## BorderCollection::get_Color method
 
 
 Gets or sets the border color.

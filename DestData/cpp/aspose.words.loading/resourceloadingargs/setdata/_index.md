@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.loading/resourceloadingargs/setdata/
 ---
-## ResourceLoadingArgs.SetData method
+## ResourceLoadingArgs::SetData method
 
 
 Sets user provided data of the resource which is used if [ResourceLoading()](../../iresourceloadingcallback/resourceloading/) returns **UserProvided**.

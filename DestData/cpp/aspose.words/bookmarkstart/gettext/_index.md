@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/bookmarkstart/gettext/
 ---
-## BookmarkStart.GetText method
+## BookmarkStart::GetText method
 
 
 Returns an empty string.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/paragraph/appendfield/
 ---
-## Paragraph.AppendField(Aspose::Words::Fields::FieldType, bool) method
+## Paragraph::AppendField(Aspose::Words::Fields::FieldType, bool) method
 
 
 Appends a field to this paragraph.
@@ -56,7 +56,7 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
-## Paragraph.AppendField(const System::String\&) method
+## Paragraph::AppendField(const System::String\&) method
 
 
 Appends a field to this paragraph.
@@ -105,7 +105,7 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
-## Paragraph.AppendField(const System::String\&, const System::String\&) method
+## Paragraph::AppendField(const System::String\&, const System::String\&) method
 
 
 Appends a field to this paragraph.

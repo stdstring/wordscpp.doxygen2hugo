@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words/font/get_nameother/
 ---
-## Font.get_NameOther method
+## Font::get_NameOther method
 
 
 Returns or sets the font used for characters with character codes from 128 through 255.

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.saving/odtsaveoptions/set_measureunit/
 ---
-## OdtSaveOptions.set_MeasureUnit method
+## OdtSaveOptions::set_MeasureUnit method
 
 
 Setter for [Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit](../get_measureunit/).

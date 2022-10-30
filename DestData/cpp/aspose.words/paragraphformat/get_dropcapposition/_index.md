@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/paragraphformat/get_dropcapposition/
 ---
-## ParagraphFormat.get_DropCapPosition method
+## ParagraphFormat::get_DropCapPosition method
 
 
 Gets or sets the position for a drop cap text.

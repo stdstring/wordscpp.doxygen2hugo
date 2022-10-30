@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.fields/field/update/
 ---
-## Field.Update() method
+## Field::Update() method
 
 
 Performs the field update. Throws if the field is being updated already.
@@ -123,7 +123,7 @@ ASSERT_EQ(u"58", field->get_Result());
 ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 ```
 
-## Field.Update(bool) method
+## Field::Update(bool) method
 
 
 Performs a field update. Throws if the field is being updated already.

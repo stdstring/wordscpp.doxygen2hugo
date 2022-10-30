@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/fileformatinfo/get_isencrypted/
 ---
-## FileFormatInfo.get_IsEncrypted method
+## FileFormatInfo::get_IsEncrypted method
 
 
 Returns true if the document is encrypted and requires a password to open.

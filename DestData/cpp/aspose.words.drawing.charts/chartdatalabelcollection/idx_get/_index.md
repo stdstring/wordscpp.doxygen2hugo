@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/idx_get/
 ---
-## ChartDataLabelCollection.idx_get method
+## ChartDataLabelCollection::idx_get method
 
 
 Returns [ChartDataLabel](../../chartdatalabel/) for the specified index.

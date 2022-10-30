@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontresourcessubsettingsizethreshold/
 ---
-## HtmlSaveOptions.get_FontResourcesSubsettingSizeThreshold method
+## HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold method
 
 
 Controls which font resources need subsetting when saving to HTML, MHTML or EPUB. Default is **%0**.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorecasechanges/
 ---
-## CompareOptions.get_IgnoreCaseChanges method
+## CompareOptions::get_IgnoreCaseChanges method
 
 
 True indicates that documents comparison is case insensitive. By default comparison is case sensitive.

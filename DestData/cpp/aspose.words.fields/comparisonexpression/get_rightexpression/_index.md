@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/comparisonexpression/get_rightexpression/
 ---
-## ComparisonExpression.get_RightExpression method
+## ComparisonExpression::get_RightExpression method
 
 
 Gets the right expression.

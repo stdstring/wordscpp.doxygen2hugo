@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/load/
 ---
-## TableSubstitutionRule.Load(const System::SharedPtr\<System::IO::Stream\>\&) method
+## TableSubstitutionRule::Load(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Loads table substitution settings from XML stream.
@@ -79,7 +79,7 @@ builder->Writeln(u"Text written in Times New Roman, to be substituted by Squaris
 doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 ```
 
-## TableSubstitutionRule.Load(const System::String\&) method
+## TableSubstitutionRule::Load(const System::String\&) method
 
 
 Loads table substitution settings from XML file.

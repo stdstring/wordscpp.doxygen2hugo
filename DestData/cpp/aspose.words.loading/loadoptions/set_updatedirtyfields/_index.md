@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.words.loading/loadoptions/set_updatedirtyfields/
 ---
-## LoadOptions.set_UpdateDirtyFields method
+## LoadOptions::set_UpdateDirtyFields method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields](../get_updatedirtyfields/).

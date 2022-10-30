@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/revisioncollection/acceptall/
 ---
-## RevisionCollection.AcceptAll method
+## RevisionCollection::AcceptAll method
 
 
 Accepts all revisions in this collection.

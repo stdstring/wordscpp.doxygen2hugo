@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/customxmlschemacollection/cend/
 ---
-## CustomXmlSchemaCollection.cend method
+## CustomXmlSchemaCollection::cend method
 
 
 

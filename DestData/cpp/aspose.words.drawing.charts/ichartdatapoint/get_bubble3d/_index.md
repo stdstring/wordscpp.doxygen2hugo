@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/get_bubble3d/
 ---
-## IChartDataPoint.get_Bubble3D method
+## IChartDataPoint::get_Bubble3D method
 
 
 Specifies whether the bubbles in Bubble chart should have a 3-D effect applied to them.

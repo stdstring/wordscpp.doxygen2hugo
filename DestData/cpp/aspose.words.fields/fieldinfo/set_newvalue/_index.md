@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldinfo/set_newvalue/
 ---
-## FieldInfo.set_NewValue method
+## FieldInfo::set_NewValue method
 
 
 Setter for [Aspose::Words::Fields::FieldInfo::get_NewValue](../get_newvalue/).

@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words/documentvisitor/visitfieldstart/
 ---
-## DocumentVisitor.VisitFieldStart method
+## DocumentVisitor::VisitFieldStart method
 
 
 Called when a field starts in the document.

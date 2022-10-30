@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldstyleref/get_insertparagraphnumberinrelativecontext/
 ---
-## FieldStyleRef.get_InsertParagraphNumberInRelativeContext method
+## FieldStyleRef::get_InsertParagraphNumberInRelativeContext method
 
 
 Gets or sets whether to insert the paragraph number of the referenced paragraph in relative context.

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.fields/fieldoptions/set_barcodegenerator/
 ---
-## FieldOptions.set_BarcodeGenerator method
+## FieldOptions::set_BarcodeGenerator method
 
 
 Gets or set custom barcode generator.

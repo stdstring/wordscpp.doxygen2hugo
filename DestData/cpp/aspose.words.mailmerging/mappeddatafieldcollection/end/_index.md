@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/end/
 ---
-## MappedDataFieldCollection.end() const method
+## MappedDataFieldCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/end/
 const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::end() const noexcept
 ```
 
-## MappedDataFieldCollection.end() method
+## MappedDataFieldCollection::end() method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/compositenode/indexof/
 ---
-## CompositeNode.IndexOf method
+## CompositeNode::IndexOf method
 
 
 Returns the index of the specified child node in the child node array.

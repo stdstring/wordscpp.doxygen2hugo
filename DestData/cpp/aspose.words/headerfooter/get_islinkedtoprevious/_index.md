@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/headerfooter/get_islinkedtoprevious/
 ---
-## HeaderFooter.get_IsLinkedToPrevious method
+## HeaderFooter::get_IsLinkedToPrevious method
 
 
 True if this header or footer is linked to the corresponding header or footer in the previous section.

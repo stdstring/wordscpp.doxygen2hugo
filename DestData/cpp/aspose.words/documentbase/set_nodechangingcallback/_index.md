@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/documentbase/set_nodechangingcallback/
 ---
-## DocumentBase.set_NodeChangingCallback method
+## DocumentBase::set_NodeChangingCallback method
 
 
 Setter for [Aspose::Words::DocumentBase::get_NodeChangingCallback](../get_nodechangingcallback/).

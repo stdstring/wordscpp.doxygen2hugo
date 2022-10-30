@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/virtualizebeginconstiterator/
 ---
-## OdsoFieldMapDataCollection.virtualizeBeginConstIterator method
+## OdsoFieldMapDataCollection::virtualizeBeginConstIterator method
 
 
 

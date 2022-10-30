@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.words.drawing/shapebase/get_shapetype/
 ---
-## ShapeBase.get_ShapeType method
+## ShapeBase::get_ShapeType method
 
 
 Gets the shape type.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_compliance/
 ---
-## OoxmlSaveOptions.get_Compliance method
+## OoxmlSaveOptions::get_Compliance method
 
 
 Specifies the OOXML version for the output document. The default value is **Ecma376_2006**.

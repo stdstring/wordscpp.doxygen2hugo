@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/textcolumn/set_spaceafter/
 ---
-## TextColumn.set_SpaceAfter method
+## TextColumn::set_SpaceAfter method
 
 
 Setter for [Aspose::Words::TextColumn::get_SpaceAfter](../get_spaceafter/).

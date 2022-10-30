@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldcollection/removeat/
 ---
-## FieldCollection.RemoveAt method
+## FieldCollection::RemoveAt method
 
 
 Removes a field at the specified index from this collection and from the document.

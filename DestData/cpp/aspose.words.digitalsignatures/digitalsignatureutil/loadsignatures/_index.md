@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/loadsignatures/
 ---
-## DigitalSignatureUtil.LoadSignatures(const System::SharedPtr\<System::IO::Stream\>\&) method
+## DigitalSignatureUtil::LoadSignatures(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Loads digital signatures from document using stream.
@@ -47,7 +47,7 @@ ASSERT_EQ(1, digitalSignatures->get_Count());
 }
 ```
 
-## DigitalSignatureUtil.LoadSignatures(const System::String\&) method
+## DigitalSignatureUtil::LoadSignatures(const System::String\&) method
 
 
 Loads digital signatures from document.
@@ -111,7 +111,7 @@ ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignat
 ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignatureUtil.LoadAndRemove.FromStream.docx")->get_Count());
 ```
 
-## DigitalSignatureUtil.LoadSignatures(std::basic_istream\<CharType, Traits\>\&) method
+## DigitalSignatureUtil::LoadSignatures(std::basic_istream\<CharType, Traits\>\&) method
 
 
 

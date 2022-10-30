@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.layout/revisionoptions/get_revisedpropertiescolor/
 ---
-## RevisionOptions.get_RevisedPropertiesColor method
+## RevisionOptions::get_RevisedPropertiesColor method
 
 
 Allows to specify the color to be used for content with changes of formatting properties **FormatChange** Default value is **NoHighlight**.

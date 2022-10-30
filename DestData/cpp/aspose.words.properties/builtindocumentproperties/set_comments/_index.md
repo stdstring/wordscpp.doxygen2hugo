@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_comments/
 ---
-## BuiltInDocumentProperties.set_Comments method
+## BuiltInDocumentProperties::set_Comments method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments](../get_comments/).

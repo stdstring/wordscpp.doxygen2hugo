@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/aspose.words/documentbuilder/insertsignatureline/
 ---
-## DocumentBuilder.InsertSignatureLine(const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\&) method
+## DocumentBuilder::InsertSignatureLine(const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\&) method
 
 
 Inserts a signature line at the current position.
@@ -73,7 +73,7 @@ ASSERT_TRUE(signatureLine->get_IsSigned());
 ASSERT_TRUE(signatureLine->get_IsValid());
 ```
 
-## DocumentBuilder.InsertSignatureLine(const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertSignatureLine(const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts a signature line at the specified position.

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fieldtoc/get_preservetabs/
 ---
-## FieldToc.get_PreserveTabs method
+## FieldToc::get_PreserveTabs method
 
 
 Gets or sets whether to preserve tab entries within table entries.

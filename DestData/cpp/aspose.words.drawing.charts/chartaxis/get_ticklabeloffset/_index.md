@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabeloffset/
 ---
-## ChartAxis.get_TickLabelOffset method
+## ChartAxis::get_TickLabelOffset method
 
 
 Gets or sets the distance of labels from the axis.

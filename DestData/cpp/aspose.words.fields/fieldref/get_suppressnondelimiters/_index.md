@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldref/get_suppressnondelimiters/
 ---
-## FieldRef.get_SuppressNonDelimiters method
+## FieldRef::get_SuppressNonDelimiters method
 
 
 Gets or sets whether to suppress non-delimiter characters.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.loading/pdfloadoptions/get_pagecount/
 ---
-## PdfLoadOptions.get_PageCount method
+## PdfLoadOptions::get_PageCount method
 
 
 Gets the number of pages to read. Default is MaxValue which means all pages of the document will be read.

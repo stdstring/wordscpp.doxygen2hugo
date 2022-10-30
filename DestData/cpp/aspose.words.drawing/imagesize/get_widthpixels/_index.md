@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/imagesize/get_widthpixels/
 ---
-## ImageSize.get_WidthPixels method
+## ImageSize::get_WidthPixels method
 
 
 Gets the width of the image in pixels.

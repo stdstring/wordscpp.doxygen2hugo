@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/formfieldcollection/idx_get/
 ---
-## FormFieldCollection.idx_get(const System::String\&) method
+## FormFieldCollection::idx_get(const System::String\&) method
 
 
 Returns a form field by bookmark name.
@@ -154,7 +154,7 @@ private:
 };
 ```
 
-## FormFieldCollection.idx_get(int32_t) method
+## FormFieldCollection::idx_get(int32_t) method
 
 
 Returns a form field at the specified index.

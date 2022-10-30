@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.saving/imagesaveoptions/get_pixelformat/
 ---
-## ImageSaveOptions.get_PixelFormat method
+## ImageSaveOptions::get_PixelFormat method
 
 
 Gets or sets the pixel format for the generated images.

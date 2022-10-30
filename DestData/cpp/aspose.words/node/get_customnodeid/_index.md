@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/node/get_customnodeid/
 ---
-## Node.get_CustomNodeId method
+## Node::get_CustomNodeId method
 
 
 Specifies custom node identifier.

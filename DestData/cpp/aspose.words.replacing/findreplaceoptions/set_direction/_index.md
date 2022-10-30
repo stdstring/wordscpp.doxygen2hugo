@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_direction/
 ---
-## FindReplaceOptions.set_Direction method
+## FindReplaceOptions::set_Direction method
 
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_Direction](../get_direction/).

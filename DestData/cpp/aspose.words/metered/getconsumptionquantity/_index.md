@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/metered/getconsumptionquantity/
 ---
-## Metered.GetConsumptionQuantity method
+## Metered::GetConsumptionQuantity method
 
 
 Gets consumption file size.

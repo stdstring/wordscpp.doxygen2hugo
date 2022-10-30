@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fields/fielddde/set_insertasunicode/
 ---
-## FieldDde.set_InsertAsUnicode method
+## FieldDde::set_InsertAsUnicode method
 
 
 Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsUnicode](../get_insertasunicode/).

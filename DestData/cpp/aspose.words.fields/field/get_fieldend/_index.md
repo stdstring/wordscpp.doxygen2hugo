@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/field/get_fieldend/
 ---
-## Field.get_FieldEnd method
+## Field::get_FieldEnd method
 
 
 Gets the node that represents the field end.

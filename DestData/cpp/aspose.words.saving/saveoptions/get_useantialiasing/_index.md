@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.saving/saveoptions/get_useantialiasing/
 ---
-## SaveOptions.get_UseAntiAliasing method
+## SaveOptions::get_UseAntiAliasing method
 
 
 Gets or sets a value determining whether or not to use anti-aliasing for rendering.

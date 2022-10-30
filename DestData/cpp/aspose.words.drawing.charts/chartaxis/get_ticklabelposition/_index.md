@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelposition/
 ---
-## ChartAxis.get_TickLabelPosition method
+## ChartAxis::get_TickLabelPosition method
 
 
 Returns or sets the position of the tick labels on the axis.

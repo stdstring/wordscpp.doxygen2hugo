@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.vba/vbamodulecollection/cend/
 ---
-## VbaModuleCollection.cend method
+## VbaModuleCollection::cend method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words/style/set_nextparagraphstylename/
 ---
-## Style.set_NextParagraphStyleName method
+## Style::set_NextParagraphStyleName method
 
 
 Setter for [Aspose::Words::Style::get_NextParagraphStyleName](../get_nextparagraphstylename/).

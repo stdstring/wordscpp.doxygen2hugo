@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/compositenode/get_lastchild/
 ---
-## CompositeNode.get_LastChild method
+## CompositeNode::get_LastChild method
 
 
 Gets the last child of the node.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.settings/compatibilityoptions/get_displayhangulfixedwidth/
 ---
-## CompatibilityOptions.get_DisplayHangulFixedWidth method
+## CompatibilityOptions::get_DisplayHangulFixedWidth method
 
 
 Always Use Fixed Width for Hangul Characters.

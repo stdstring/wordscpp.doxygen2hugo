@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/paragraphformat/get_keepwithnext/
 ---
-## ParagraphFormat.get_KeepWithNext method
+## ParagraphFormat::get_KeepWithNext method
 
 
 True if the paragraph is to remains on the same page as the paragraph that follows it.

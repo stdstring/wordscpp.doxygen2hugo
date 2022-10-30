@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldddeauto/set_insertasbitmap/
 ---
-## FieldDdeAuto.set_InsertAsBitmap method
+## FieldDdeAuto::set_InsertAsBitmap method
 
 
 Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsBitmap](../get_insertasbitmap/).

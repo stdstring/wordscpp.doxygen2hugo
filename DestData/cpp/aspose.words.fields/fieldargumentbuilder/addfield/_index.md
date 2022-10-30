@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldargumentbuilder/addfield/
 ---
-## FieldArgumentBuilder.AddField method
+## FieldArgumentBuilder::AddField method
 
 
 Adds a field represented by a [FieldBuilder](../../fieldbuilder/) to the argument.

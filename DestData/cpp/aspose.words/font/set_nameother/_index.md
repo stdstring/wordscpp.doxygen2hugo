@@ -6,7 +6,7 @@ type: docs
 weight: 1015
 url: /cpp/aspose.words/font/set_nameother/
 ---
-## Font.set_NameOther method
+## Font::set_NameOther method
 
 
 Setter for [Aspose::Words::Font::get_NameOther](../get_nameother/).

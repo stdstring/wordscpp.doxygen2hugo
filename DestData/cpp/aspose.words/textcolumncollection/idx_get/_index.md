@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/textcolumncollection/idx_get/
 ---
-## TextColumnCollection.idx_get method
+## TextColumnCollection::idx_get method
 
 
 Returns a text column at the specified index.

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_keeplegacycontrolchars/
 ---
-## OoxmlSaveOptions.set_KeepLegacyControlChars method
+## OoxmlSaveOptions::set_KeepLegacyControlChars method
 
 
 Setter for [Aspose::Words::Saving::OoxmlSaveOptions::get_KeepLegacyControlChars](../get_keeplegacycontrolchars/).

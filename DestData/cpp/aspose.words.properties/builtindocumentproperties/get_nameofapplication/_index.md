@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_nameofapplication/
 ---
-## BuiltInDocumentProperties.get_NameOfApplication method
+## BuiltInDocumentProperties::get_NameOfApplication method
 
 
 Gets or sets the name of the application.

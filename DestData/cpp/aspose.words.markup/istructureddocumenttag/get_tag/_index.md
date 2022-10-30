@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_tag/
 ---
-## IStructuredDocumentTag.get_Tag method
+## IStructuredDocumentTag::get_Tag method
 
 
 Specifies a tag associated with the current SDT node. Can not be null.

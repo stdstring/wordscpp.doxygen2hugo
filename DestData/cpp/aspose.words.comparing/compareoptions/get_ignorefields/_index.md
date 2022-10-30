@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorefields/
 ---
-## CompareOptions.get_IgnoreFields method
+## CompareOptions::get_IgnoreFields method
 
 
 Specifies whether to compare differences in fields. By default fields are not ignored.

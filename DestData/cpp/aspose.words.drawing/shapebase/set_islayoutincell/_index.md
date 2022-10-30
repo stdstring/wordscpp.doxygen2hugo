@@ -6,7 +6,7 @@ type: docs
 weight: 976
 url: /cpp/aspose.words.drawing/shapebase/set_islayoutincell/
 ---
-## ShapeBase.set_IsLayoutInCell method
+## ShapeBase::set_IsLayoutInCell method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell](../get_islayoutincell/).

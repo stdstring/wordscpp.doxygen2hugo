@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/fill/get_filltype/
 ---
-## Fill.get_FillType method
+## Fill::get_FillType method
 
 
 Gets a fill type.

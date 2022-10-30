@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.loading/loadoptions/set_fontsettings/
 ---
-## LoadOptions.set_FontSettings method
+## LoadOptions::set_FontSettings method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_FontSettings](../get_fontsettings/).

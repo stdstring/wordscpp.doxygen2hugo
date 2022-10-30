@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_ishidden/
 ---
-## ChartDataLabel.get_IsHidden method
+## ChartDataLabel::get_IsHidden method
 
 
 Gets/sets a flag indicating whether this label is hidden. The default value is **false**.

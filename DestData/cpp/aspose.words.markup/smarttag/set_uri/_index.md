@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.markup/smarttag/set_uri/
 ---
-## SmartTag.set_Uri method
+## SmartTag::set_Uri method
 
 
 Setter for [Aspose::Words::Markup::SmartTag::get_Uri](../get_uri/).

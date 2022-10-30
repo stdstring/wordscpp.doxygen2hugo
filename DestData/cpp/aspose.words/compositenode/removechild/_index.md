@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/compositenode/removechild/
 ---
-## CompositeNode.RemoveChild method
+## CompositeNode::RemoveChild method
 
 
 Removes the specified child node.

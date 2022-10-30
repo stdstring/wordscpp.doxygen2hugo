@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.properties/documentpropertycollection/clear/
 ---
-## DocumentPropertyCollection.Clear method
+## DocumentPropertyCollection::Clear method
 
 
 Removes all properties from the collection.

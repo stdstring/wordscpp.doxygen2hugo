@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdateculturesource/
 ---
-## FieldOptions.get_FieldUpdateCultureSource method
+## FieldOptions::get_FieldUpdateCultureSource method
 
 
 Specifies what culture to use to format the field result.

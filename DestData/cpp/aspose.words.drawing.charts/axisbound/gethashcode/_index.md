@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/axisbound/gethashcode/
 ---
-## AxisBound.GetHashCode method
+## AxisBound::GetHashCode method
 
 
 Serves as a hash function for this type.

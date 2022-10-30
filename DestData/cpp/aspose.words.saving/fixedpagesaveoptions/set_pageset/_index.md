@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_pageset/
 ---
-## FixedPageSaveOptions.set_PageSet method
+## FixedPageSaveOptions::set_PageSet method
 
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet](../get_pageset/).

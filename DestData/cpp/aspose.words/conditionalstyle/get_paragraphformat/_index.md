@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/conditionalstyle/get_paragraphformat/
 ---
-## ConditionalStyle.get_ParagraphFormat method
+## ConditionalStyle::get_ParagraphFormat method
 
 
 Gets the paragraph formatting of the conditional style.

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.tables/cellformat/get_preferredwidth/
 ---
-## CellFormat.get_PreferredWidth method
+## CellFormat::get_PreferredWidth method
 
 
 Returns or sets the preferred width of the cell.

@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_title/
 ---
-## BuiltInDocumentProperties.get_Title method
+## BuiltInDocumentProperties::get_Title method
 
 
 Gets or sets the title of the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words/tablestyle/set_alignment/
 ---
-## TableStyle.set_Alignment method
+## TableStyle::set_Alignment method
 
 
 Setter for [Aspose::Words::TableStyle::get_Alignment](../get_alignment/).

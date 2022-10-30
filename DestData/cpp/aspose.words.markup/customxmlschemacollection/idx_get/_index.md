@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.markup/customxmlschemacollection/idx_get/
 ---
-## CustomXmlSchemaCollection.idx_get method
+## CustomXmlSchemaCollection::idx_get method
 
 
 Gets or sets the element at the specified index.

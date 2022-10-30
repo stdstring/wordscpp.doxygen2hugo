@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_keywords/
 ---
-## BuiltInDocumentProperties.get_Keywords method
+## BuiltInDocumentProperties::get_Keywords method
 
 
 Gets or sets the document keywords.

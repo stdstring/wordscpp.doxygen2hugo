@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/aspose.words/document/get_watermark/
 ---
-## Document.get_Watermark method
+## Document::get_Watermark method
 
 
 Provides access to the document watermark.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldargumentbuilder/addnode/
 ---
-## FieldArgumentBuilder.AddNode method
+## FieldArgumentBuilder::AddNode method
 
 
 Adds a node to the argument.

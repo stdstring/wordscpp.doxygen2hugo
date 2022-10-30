@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/axisbound/get_valueasdate/
 ---
-## AxisBound.get_ValueAsDate method
+## AxisBound::get_ValueAsDate method
 
 
 Returns value of axis bound represented as datetime.

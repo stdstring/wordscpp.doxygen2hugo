@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldincludepicture/get_resizehorizontally/
 ---
-## FieldIncludePicture.get_ResizeHorizontally method
+## FieldIncludePicture::get_ResizeHorizontally method
 
 
 Gets or sets whether to resize the picture horizontally from the source.

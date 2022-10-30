@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldoptions/get_currentuser/
 ---
-## FieldOptions.get_CurrentUser method
+## FieldOptions::get_CurrentUser method
 
 
 Gets or sets the current user information.

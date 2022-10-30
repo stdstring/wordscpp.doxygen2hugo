@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words/variablecollection/virtualizebeginconstiterator/
 ---
-## VariableCollection.virtualizeBeginConstIterator method
+## VariableCollection::virtualizeBeginConstIterator method
 
 
 

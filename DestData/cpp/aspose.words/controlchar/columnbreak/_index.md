@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/controlchar/columnbreak/
 ---
-## ControlChar.ColumnBreak method
+## ControlChar::ColumnBreak method
 
 
 End of column character: "\x000e".

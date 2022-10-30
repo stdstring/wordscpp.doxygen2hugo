@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/chartlegend/set_position/
 ---
-## ChartLegend.set_Position method
+## ChartLegend::set_Position method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartLegend::get_Position](../get_position/).

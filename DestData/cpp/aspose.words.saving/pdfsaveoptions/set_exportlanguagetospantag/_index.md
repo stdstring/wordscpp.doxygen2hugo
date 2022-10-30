@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_exportlanguagetospantag/
 ---
-## PdfSaveOptions.set_ExportLanguageToSpanTag method
+## PdfSaveOptions::set_ExportLanguageToSpanTag method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ExportLanguageToSpanTag](../get_exportlanguagetospantag/).

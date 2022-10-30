@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.words/documentbuilder/inserttextinput/
 ---
-## DocumentBuilder.InsertTextInput method
+## DocumentBuilder::InsertTextInput method
 
 
 Inserts a text form field at the current position.

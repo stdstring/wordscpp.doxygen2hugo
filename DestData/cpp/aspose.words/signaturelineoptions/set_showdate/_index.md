@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words/signaturelineoptions/set_showdate/
 ---
-## SignatureLineOptions.set_ShowDate method
+## SignatureLineOptions::set_ShowDate method
 
 
 Setter for [Aspose::Words::SignatureLineOptions::get_ShowDate](../get_showdate/).

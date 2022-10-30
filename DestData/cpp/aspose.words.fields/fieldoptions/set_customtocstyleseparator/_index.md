@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.fields/fieldoptions/set_customtocstyleseparator/
 ---
-## FieldOptions.set_CustomTocStyleSeparator method
+## FieldOptions::set_CustomTocStyleSeparator method
 
 
 Setter for [Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator](../get_customtocstyleseparator/).

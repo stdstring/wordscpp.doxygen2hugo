@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/textcolumncollection/get_evenlyspaced/
 ---
-## TextColumnCollection.get_EvenlySpaced method
+## TextColumnCollection::get_EvenlySpaced method
 
 
 **True** if text columns are of equal width and evenly spaced.

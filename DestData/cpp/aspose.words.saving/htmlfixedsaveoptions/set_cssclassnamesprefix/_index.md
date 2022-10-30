@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_cssclassnamesprefix/
 ---
-## HtmlFixedSaveOptions.set_CssClassNamesPrefix method
+## HtmlFixedSaveOptions::set_CssClassNamesPrefix method
 
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix](../get_cssclassnamesprefix/).

@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotwraptextwithpunct/
 ---
-## CompatibilityOptions.get_DoNotWrapTextWithPunct method
+## CompatibilityOptions::get_DoNotWrapTextWithPunct method
 
 
 Do Not Allow Hanging Punctuation With Character Grid.

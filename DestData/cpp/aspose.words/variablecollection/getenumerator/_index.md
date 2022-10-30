@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/variablecollection/getenumerator/
 ---
-## VariableCollection.GetEnumerator method
+## VariableCollection::GetEnumerator method
 
 
 Returns an enumerator object that can be used to iterate over all variable in the collection.

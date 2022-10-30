@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.saving/csssavingargs/set_cssstream/
 ---
-## CssSavingArgs.set_CssStream(const System::SharedPtr\<System::IO::Stream\>\&) method
+## CssSavingArgs::set_CssStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Setter for [Aspose::Words::Saving::CssSavingArgs::get_CssStream](../get_cssstream/).
@@ -15,7 +15,7 @@ Setter for [Aspose::Words::Saving::CssSavingArgs::get_CssStream](../get_cssstrea
 void Aspose::Words::Saving::CssSavingArgs::set_CssStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
-## CssSavingArgs.set_CssStream(std::basic_ostream\<CharType, Traits\>\&) method
+## CssSavingArgs::set_CssStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 

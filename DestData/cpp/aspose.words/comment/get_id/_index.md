@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/comment/get_id/
 ---
-## Comment.get_Id method
+## Comment::get_Id method
 
 
 Gets the comment identifier.

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/conditionalstylecollection/get_lastcolumn/
 ---
-## ConditionalStyleCollection.get_LastColumn method
+## ConditionalStyleCollection::get_LastColumn method
 
 
 Gets the last column style.

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldask/get_defaultresponse/
 ---
-## FieldAsk.get_DefaultResponse method
+## FieldAsk::get_DefaultResponse method
 
 
 Gets default user response (initial value contained in the prompt window).

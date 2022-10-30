@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/pagesetup/clearformatting/
 ---
-## PageSetup.ClearFormatting method
+## PageSetup::ClearFormatting method
 
 
 Resets page setup to default paper size, margins and orientation.

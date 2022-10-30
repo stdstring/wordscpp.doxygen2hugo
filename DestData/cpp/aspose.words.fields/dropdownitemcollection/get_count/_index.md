@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/dropdownitemcollection/get_count/
 ---
-## DropDownItemCollection.get_Count method
+## DropDownItemCollection::get_Count method
 
 
 Gets the number of elements contained in the collection.

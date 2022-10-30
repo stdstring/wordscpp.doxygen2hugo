@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/sdtlistitemcollection/cend/
 ---
-## SdtListItemCollection.cend method
+## SdtListItemCollection::cend method
 
 
 

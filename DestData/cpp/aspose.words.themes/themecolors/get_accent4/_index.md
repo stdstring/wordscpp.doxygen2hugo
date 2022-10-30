@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.themes/themecolors/get_accent4/
 ---
-## ThemeColors.get_Accent4 method
+## ThemeColors::get_Accent4 method
 
 
 Specifies color Accent 4.

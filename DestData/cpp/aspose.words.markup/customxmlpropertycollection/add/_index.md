@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/customxmlpropertycollection/add/
 ---
-## CustomXmlPropertyCollection.Add method
+## CustomXmlPropertyCollection::Add method
 
 
 Adds a property to the collection.

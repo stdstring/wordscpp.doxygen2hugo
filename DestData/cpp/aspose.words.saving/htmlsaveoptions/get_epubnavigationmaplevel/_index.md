@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_epubnavigationmaplevel/
 ---
-## HtmlSaveOptions.get_EpubNavigationMapLevel method
+## HtmlSaveOptions::get_EpubNavigationMapLevel method
 
 
 Specifies the maximum level of headings populated to the navigation map when exporting to IDPF EPUB format. Default value is **%3**.

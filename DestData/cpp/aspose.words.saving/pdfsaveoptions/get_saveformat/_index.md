@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_saveformat/
 ---
-## PdfSaveOptions.get_SaveFormat method
+## PdfSaveOptions::get_SaveFormat method
 
 
 Specifies the format in which the document will be saved if this save options object is used. Can only be **Pdf**.

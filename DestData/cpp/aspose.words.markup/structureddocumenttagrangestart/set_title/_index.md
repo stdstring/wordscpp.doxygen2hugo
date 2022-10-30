@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_title/
 ---
-## StructuredDocumentTagRangeStart.set_Title method
+## StructuredDocumentTagRangeStart::set_Title method
 
 
 Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title](../get_title/).

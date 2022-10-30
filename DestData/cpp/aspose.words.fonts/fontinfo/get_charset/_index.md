@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/fontinfo/get_charset/
 ---
-## FontInfo.get_Charset method
+## FontInfo::get_Charset method
 
 
 Gets or sets the character set for the font.

@@ -6,7 +6,7 @@ type: docs
 weight: 1145
 url: /cpp/aspose.words/font/set_spacing/
 ---
-## Font.set_Spacing method
+## Font::set_Spacing method
 
 
 Setter for [Aspose::Words::Font::get_Spacing](../get_spacing/).

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/fontsavingargs/get_bold/
 ---
-## FontSavingArgs.get_Bold method
+## FontSavingArgs::get_Bold method
 
 
 Indicates whether the current font is bold.

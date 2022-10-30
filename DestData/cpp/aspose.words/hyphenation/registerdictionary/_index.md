@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/hyphenation/registerdictionary/
 ---
-## Hyphenation.RegisterDictionary(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&) method
+## Hyphenation::RegisterDictionary(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Registers and loads a hyphenation dictionary for the specified language from a stream. Throws if dictionary cannot be read or has invalid format.
@@ -94,7 +94,7 @@ private:
 };
 ```
 
-## Hyphenation.RegisterDictionary(const System::String\&, const System::String\&) method
+## Hyphenation::RegisterDictionary(const System::String\&, const System::String\&) method
 
 
 Registers and loads a hyphenation dictionary for the specified language from file. Throws if dictionary cannot be read or has invalid format. This method can also be used to register Null dictionary to prevent [Callback](../get_callback/) from being called repeatedly for the same language.
@@ -214,7 +214,7 @@ private:
 };
 ```
 
-## Hyphenation.RegisterDictionary(System::String, std::basic_istream\<CharType, Traits\>\&) method
+## Hyphenation::RegisterDictionary(System::String, std::basic_istream\<CharType, Traits\>\&) method
 
 
 

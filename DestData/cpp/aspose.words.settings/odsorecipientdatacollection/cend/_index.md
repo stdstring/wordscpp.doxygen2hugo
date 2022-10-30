@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/cend/
 ---
-## OdsoRecipientDataCollection.cend method
+## OdsoRecipientDataCollection::cend method
 
 
 

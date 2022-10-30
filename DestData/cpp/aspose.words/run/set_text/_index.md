@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/run/set_text/
 ---
-## Run.set_Text method
+## Run::set_Text method
 
 
 Setter for [Aspose::Words::Run::get_Text](../get_text/).

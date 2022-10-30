@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/aspose.words/document/save/
 ---
-## Document.Save(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::SaveFormat) method
+## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::SaveFormat) method
 
 
 Saves the document to a stream using the specified format.
@@ -72,7 +72,7 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 }
 ```
 
-## Document.Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
+## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
 Saves the document to a stream using the specified save options.
@@ -122,7 +122,7 @@ builder->Writeln(u"Page 3.");
 }
 ```
 
-## Document.Save(const System::String\&) method
+## Document::Save(const System::String\&) method
 
 
 Saves the document to a file. Automatically determines the save format from the extension.
@@ -153,7 +153,7 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 ```
 
-## Document.Save(const System::String\&, Aspose::Words::SaveFormat) method
+## Document::Save(const System::String\&, Aspose::Words::SaveFormat) method
 
 
 Saves the document to a file in the specified format.
@@ -185,7 +185,7 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToHtml.html", SaveFormat::Html);
 ```
 
-## Document.Save(const System::String\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
+## Document::Save(const System::String\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
 Saves the document to a file using the specified save options.
@@ -364,7 +364,7 @@ options->get_OutlineOptions()->set_ExpandedOutlineLevels(2);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 ```
 
-## Document.Save(std::basic_ostream\<CharType, Traits\>\&, Aspose::Words::SaveFormat) method
+## Document::Save(std::basic_ostream\<CharType, Traits\>\&, Aspose::Words::SaveFormat) method
 
 
 
@@ -373,7 +373,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, Aspose::Words::SaveFormat saveFormat)
 ```
 
-## Document.Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>) method
+## Document::Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>) method
 
 
 

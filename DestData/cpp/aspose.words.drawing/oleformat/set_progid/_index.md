@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/oleformat/set_progid/
 ---
-## OleFormat.set_ProgId method
+## OleFormat::set_ProgId method
 
 
 Setter for [Aspose::Words::Drawing::OleFormat::get_ProgId](../get_progid/).

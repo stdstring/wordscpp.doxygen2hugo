@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.words.fields/fieldtoc/set_inserthyperlinks/
 ---
-## FieldToc.set_InsertHyperlinks method
+## FieldToc::set_InsertHyperlinks method
 
 
 Setter for [Aspose::Words::Fields::FieldToc::get_InsertHyperlinks](../get_inserthyperlinks/).

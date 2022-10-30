@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarsposition/
 ---
-## RevisionOptions.get_RevisionBarsPosition method
+## RevisionOptions::get_RevisionBarsPosition method
 
 
 Gets rendering position of revision bars. Default value is **Outside**.

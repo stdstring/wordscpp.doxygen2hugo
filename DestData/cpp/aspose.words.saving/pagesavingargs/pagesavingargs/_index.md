@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pagesavingargs/pagesavingargs/
 ---
-## PageSavingArgs.PageSavingArgs method
+## PageSavingArgs::PageSavingArgs method
 
 
 

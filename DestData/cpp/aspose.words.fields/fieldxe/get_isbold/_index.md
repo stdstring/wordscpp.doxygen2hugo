@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldxe/get_isbold/
 ---
-## FieldXE.get_IsBold method
+## FieldXE::get_IsBold method
 
 
 Gets or sets whether to apply bold formatting to the entry's page number.

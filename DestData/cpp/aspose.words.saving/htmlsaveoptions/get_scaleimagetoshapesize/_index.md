@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_scaleimagetoshapesize/
 ---
-## HtmlSaveOptions.get_ScaleImageToShapeSize method
+## HtmlSaveOptions::get_ScaleImageToShapeSize method
 
 
 Specifies whether images are scaled by Aspose.Words to the bounding shape size when exporting to HTML, MHTML or EPUB. Default value is **true**.

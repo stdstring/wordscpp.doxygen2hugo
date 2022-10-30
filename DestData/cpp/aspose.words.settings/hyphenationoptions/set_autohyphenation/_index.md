@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.settings/hyphenationoptions/set_autohyphenation/
 ---
-## HyphenationOptions.set_AutoHyphenation method
+## HyphenationOptions::set_AutoHyphenation method
 
 
 Setter for [Aspose::Words::Settings::HyphenationOptions::get_AutoHyphenation](../get_autohyphenation/).

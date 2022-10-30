@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelalignment/
 ---
-## ChartAxis.get_TickLabelAlignment method
+## ChartAxis::get_TickLabelAlignment method
 
 
 Gets or sets text alignment of axis tick labels.

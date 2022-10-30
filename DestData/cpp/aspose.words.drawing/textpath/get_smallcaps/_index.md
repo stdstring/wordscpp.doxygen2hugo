@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/textpath/get_smallcaps/
 ---
-## TextPath.get_SmallCaps method
+## TextPath::get_SmallCaps method
 
 
 True if the font is formatted as small capital letters.

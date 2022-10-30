@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.mailmerging/mailmerge/set_regionstarttag/
 ---
-## MailMerge.set_RegionStartTag method
+## MailMerge::set_RegionStartTag method
 
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_RegionStartTag](../get_regionstarttag/).

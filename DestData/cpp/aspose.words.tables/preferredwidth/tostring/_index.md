@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.tables/preferredwidth/tostring/
 ---
-## PreferredWidth.ToString method
+## PreferredWidth::ToString method
 
 
 Returns a user-friendly string that displays the value of this object.

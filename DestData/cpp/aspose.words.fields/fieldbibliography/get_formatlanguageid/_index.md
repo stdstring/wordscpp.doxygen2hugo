@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldbibliography/get_formatlanguageid/
 ---
-## FieldBibliography.get_FormatLanguageId method
+## FieldBibliography::get_FormatLanguageId method
 
 
 Gets or sets the language ID that is used to format the bibliographic sources in the document.

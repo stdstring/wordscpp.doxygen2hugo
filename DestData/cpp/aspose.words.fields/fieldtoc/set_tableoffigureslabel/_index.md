@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words.fields/fieldtoc/set_tableoffigureslabel/
 ---
-## FieldToc.set_TableOfFiguresLabel method
+## FieldToc::set_TableOfFiguresLabel method
 
 
 Setter for [Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel](../get_tableoffigureslabel/).

@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words/document/get_lastsection/
 ---
-## Document.get_LastSection method
+## Document::get_LastSection method
 
 
 Gets the last section in the document.

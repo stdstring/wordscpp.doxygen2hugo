@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/begin/
 ---
-## BaseWebExtensionCollection.begin() const method
+## BaseWebExtensionCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.webextensions/basewebextensioncollection/begin/
 const_iterator Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::begin() const noexcept
 ```
 
-## BaseWebExtensionCollection.begin() method
+## BaseWebExtensionCollection::begin() method
 
 
 

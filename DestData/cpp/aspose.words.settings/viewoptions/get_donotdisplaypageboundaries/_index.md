@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.settings/viewoptions/get_donotdisplaypageboundaries/
 ---
-## ViewOptions.get_DoNotDisplayPageBoundaries method
+## ViewOptions::get_DoNotDisplayPageBoundaries method
 
 
 Turns off display of the space between the top of the text and the top edge of the page.

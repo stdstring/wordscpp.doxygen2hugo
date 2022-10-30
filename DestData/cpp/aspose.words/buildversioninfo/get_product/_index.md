@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/buildversioninfo/get_product/
 ---
-## BuildVersionInfo.get_Product method
+## BuildVersionInfo::get_Product method
 
 
 Gets the full name of the product.

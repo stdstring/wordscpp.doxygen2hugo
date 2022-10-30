@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fieldtoa/set_usepassim/
 ---
-## FieldToa.set_UsePassim method
+## FieldToa::set_UsePassim method
 
 
 Setter for [Aspose::Words::Fields::FieldToa::get_UsePassim](../get_usepassim/).

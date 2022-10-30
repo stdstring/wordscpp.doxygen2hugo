@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/field/get_format/
 ---
-## Field.get_Format method
+## Field::get_Format method
 
 
 Gets a [FieldFormat](../../fieldformat/) object that provides typed access to field's formatting.

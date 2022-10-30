@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/section/prependcontent/
 ---
-## Section.PrependContent method
+## Section::PrependContent method
 
 
 Inserts a copy of content of the source section at the beginning of this section.

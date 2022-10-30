@@ -6,7 +6,7 @@ type: docs
 weight: 1119
 url: /cpp/aspose.words/document/unlinkfields/
 ---
-## Document.UnlinkFields method
+## Document::UnlinkFields method
 
 
 Unlinks fields in the whole document.

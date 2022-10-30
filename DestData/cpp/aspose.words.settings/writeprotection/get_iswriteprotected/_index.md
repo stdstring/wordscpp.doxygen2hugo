@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.settings/writeprotection/get_iswriteprotected/
 ---
-## WriteProtection.get_IsWriteProtected method
+## WriteProtection::get_IsWriteProtected method
 
 
 Returns true when a write protection password is set.

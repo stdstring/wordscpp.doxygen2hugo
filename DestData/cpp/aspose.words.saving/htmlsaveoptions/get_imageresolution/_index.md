@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_imageresolution/
 ---
-## HtmlSaveOptions.get_ImageResolution method
+## HtmlSaveOptions::get_ImageResolution method
 
 
 Specifies the output resolution for images when exporting to HTML, MHTML or EPUB. Default is **%96 dpi**.

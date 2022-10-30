@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/get_unit/
 ---
-## AxisDisplayUnit.get_Unit method
+## AxisDisplayUnit::get_Unit method
 
 
 Gets or sets the scaling value of the display units as one of the predefined values.

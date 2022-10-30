@@ -6,7 +6,7 @@ type: docs
 weight: 1574
 url: /cpp/aspose.words.settings/compatibilityoptions/set_suppressspbfafterpgbrk/
 ---
-## CompatibilityOptions.set_SuppressSpBfAfterPgBrk method
+## CompatibilityOptions::set_SuppressSpBfAfterPgBrk method
 
 
 Do Not Use Space Before On First Line After a Page Break.

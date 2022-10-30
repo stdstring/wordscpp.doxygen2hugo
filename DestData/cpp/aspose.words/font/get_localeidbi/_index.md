@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words/font/get_localeidbi/
 ---
-## Font.get_LocaleIdBi method
+## Font::get_LocaleIdBi method
 
 
 Gets or sets the locale identifier (language) of the formatted right-to-left characters.

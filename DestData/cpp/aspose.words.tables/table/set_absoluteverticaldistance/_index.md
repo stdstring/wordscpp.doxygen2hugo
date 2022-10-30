@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.words.tables/table/set_absoluteverticaldistance/
 ---
-## Table.set_AbsoluteVerticalDistance method
+## Table::set_AbsoluteVerticalDistance method
 
 
 Setter for [Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance](../get_absoluteverticaldistance/).

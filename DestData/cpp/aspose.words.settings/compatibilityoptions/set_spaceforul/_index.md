@@ -6,7 +6,7 @@ type: docs
 weight: 1496
 url: /cpp/aspose.words.settings/compatibilityoptions/set_spaceforul/
 ---
-## CompatibilityOptions.set_SpaceForUL method
+## CompatibilityOptions::set_SpaceForUL method
 
 
 Add Additional Space Below Baseline For Underlined East Asian Text.

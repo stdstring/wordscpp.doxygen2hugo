@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/bookmarkstart/set_name/
 ---
-## BookmarkStart.set_Name method
+## BookmarkStart::set_Name method
 
 
 Setter for [Aspose::Words::BookmarkStart::get_Name](../get_name/).

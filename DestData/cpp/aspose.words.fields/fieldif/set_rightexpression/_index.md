@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldif/set_rightexpression/
 ---
-## FieldIf.set_RightExpression method
+## FieldIf::set_RightExpression method
 
 
 Setter for [Aspose::Words::Fields::FieldIf::get_RightExpression](../get_rightexpression/).

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/customxmlschemacollection/clone/
 ---
-## CustomXmlSchemaCollection.Clone method
+## CustomXmlSchemaCollection::Clone method
 
 
 Makes a deep clone of this object.

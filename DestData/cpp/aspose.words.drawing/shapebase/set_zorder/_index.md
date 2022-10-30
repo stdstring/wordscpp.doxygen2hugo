@@ -6,7 +6,7 @@ type: docs
 weight: 1158
 url: /cpp/aspose.words.drawing/shapebase/set_zorder/
 ---
-## ShapeBase.set_ZOrder method
+## ShapeBase::set_ZOrder method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_ZOrder](../get_zorder/).

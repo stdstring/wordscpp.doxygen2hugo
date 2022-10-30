@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldbuilder/addswitch/
 ---
-## FieldBuilder.AddSwitch(const System::String\&) method
+## FieldBuilder::AddSwitch(const System::String\&) method
 
 
 Adds a field's switch.
@@ -103,7 +103,7 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
-## FieldBuilder.AddSwitch(const System::String\&, const System::String\&) method
+## FieldBuilder::AddSwitch(const System::String\&, const System::String\&) method
 
 
 Adds a field's switch.
@@ -201,7 +201,7 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
-## FieldBuilder.AddSwitch(const System::String\&, double) method
+## FieldBuilder::AddSwitch(const System::String\&, double) method
 
 
 Adds a field's switch.
@@ -299,7 +299,7 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
-## FieldBuilder.AddSwitch(const System::String\&, int32_t) method
+## FieldBuilder::AddSwitch(const System::String\&, int32_t) method
 
 
 Adds a field's switch.

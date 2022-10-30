@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_type/
 ---
-## BuildingBlock.get_Type method
+## BuildingBlock::get_Type method
 
 
 Specifies the building block type.

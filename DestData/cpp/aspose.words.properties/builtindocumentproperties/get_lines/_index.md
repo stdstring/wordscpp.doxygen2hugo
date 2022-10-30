@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_lines/
 ---
-## BuiltInDocumentProperties.get_Lines method
+## BuiltInDocumentProperties::get_Lines method
 
 
 Represents an estimate of the number of lines in the document.

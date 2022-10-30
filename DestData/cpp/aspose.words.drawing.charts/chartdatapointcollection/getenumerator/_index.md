@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/getenumerator/
 ---
-## ChartDataPointCollection.GetEnumerator method
+## ChartDataPointCollection::GetEnumerator method
 
 
 Returns an enumerator object.

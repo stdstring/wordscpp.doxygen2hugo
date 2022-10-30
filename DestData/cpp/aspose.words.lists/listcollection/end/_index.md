@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.lists/listcollection/end/
 ---
-## ListCollection.end() const method
+## ListCollection::end() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.lists/listcollection/end/
 const_iterator Aspose::Words::Lists::ListCollection::end() const noexcept
 ```
 
-## ListCollection.end() method
+## ListCollection::end() method
 
 
 

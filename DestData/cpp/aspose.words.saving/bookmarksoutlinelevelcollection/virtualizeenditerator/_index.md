@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizeenditerator/
 ---
-## BookmarksOutlineLevelCollection.virtualizeEndIterator method
+## BookmarksOutlineLevelCollection::virtualizeEndIterator method
 
 
 

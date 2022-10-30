@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldlink/set_formatupdatetype/
 ---
-## FieldLink.set_FormatUpdateType method
+## FieldLink::set_FormatUpdateType method
 
 
 Setter for [Aspose::Words::Fields::FieldLink::get_FormatUpdateType](../get_formatupdatetype/).

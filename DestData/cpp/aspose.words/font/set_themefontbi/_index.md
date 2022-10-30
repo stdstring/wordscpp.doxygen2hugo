@@ -6,7 +6,7 @@ type: docs
 weight: 1288
 url: /cpp/aspose.words/font/set_themefontbi/
 ---
-## Font.set_ThemeFontBi method
+## Font::set_ThemeFontBi method
 
 
 Setter for [Aspose::Words::Font::get_ThemeFontBi](../get_themefontbi/).

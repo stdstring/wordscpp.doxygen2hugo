@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizebeginiterator/
 ---
-## OdsoRecipientDataCollection.virtualizeBeginIterator method
+## OdsoRecipientDataCollection::virtualizeBeginIterator method
 
 
 

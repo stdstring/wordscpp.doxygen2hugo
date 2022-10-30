@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/horizontalruleformat/get_noshade/
 ---
-## HorizontalRuleFormat.get_NoShade method
+## HorizontalRuleFormat::get_NoShade method
 
 
 Indicates the presence of 3D shading for the horizontal rule. If true, then the horizontal rule is without 3D shading and solid color is used.

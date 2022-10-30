@@ -6,7 +6,7 @@ type: docs
 weight: 1145
 url: /cpp/aspose.words/document/updatefields/
 ---
-## Document.UpdateFields method
+## Document::UpdateFields method
 
 
 Updates the values of fields in the whole document.

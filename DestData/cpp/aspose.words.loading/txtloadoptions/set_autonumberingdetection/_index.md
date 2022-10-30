@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.loading/txtloadoptions/set_autonumberingdetection/
 ---
-## TxtLoadOptions.set_AutoNumberingDetection method
+## TxtLoadOptions::set_AutoNumberingDetection method
 
 
 Sets a boolean value indicating either automatic numbering detection will be performed while loading a document. The default value is **true**.

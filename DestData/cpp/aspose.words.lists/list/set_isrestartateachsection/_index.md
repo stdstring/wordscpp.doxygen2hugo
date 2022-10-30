@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.lists/list/set_isrestartateachsection/
 ---
-## List.set_IsRestartAtEachSection method
+## List::set_IsRestartAtEachSection method
 
 
 Setter for [Aspose::Words::Lists::List::get_IsRestartAtEachSection](../get_isrestartateachsection/).

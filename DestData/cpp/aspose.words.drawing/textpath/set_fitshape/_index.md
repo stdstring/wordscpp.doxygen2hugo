@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.drawing/textpath/set_fitshape/
 ---
-## TextPath.set_FitShape method
+## TextPath::set_FitShape method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_FitShape](../get_fitshape/).

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.fields/formfield/get_textinputformat/
 ---
-## FormField.get_TextInputFormat method
+## FormField::get_TextInputFormat method
 
 
 Returns or sets the text formatting for a text form field.

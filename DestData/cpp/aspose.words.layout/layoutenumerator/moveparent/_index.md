@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.layout/layoutenumerator/moveparent/
 ---
-## LayoutEnumerator.MoveParent() method
+## LayoutEnumerator::MoveParent() method
 
 
 Moves to the parent entity.
@@ -143,7 +143,7 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 }
 ```
 
-## LayoutEnumerator.MoveParent(Aspose::Words::Layout::LayoutEntityType) method
+## LayoutEnumerator::MoveParent(Aspose::Words::Layout::LayoutEntityType) method
 
 
 Moves to the parent entity of the specified type.

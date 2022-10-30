@@ -6,7 +6,7 @@ type: docs
 weight: 937
 url: /cpp/aspose.words.drawing/shapebase/set_horizontalalignment/
 ---
-## ShapeBase.set_HorizontalAlignment method
+## ShapeBase::set_HorizontalAlignment method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_HorizontalAlignment](../get_horizontalalignment/).

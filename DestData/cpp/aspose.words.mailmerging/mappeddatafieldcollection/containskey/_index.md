@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/containskey/
 ---
-## MappedDataFieldCollection.ContainsKey method
+## MappedDataFieldCollection::ContainsKey method
 
 
 Determines whether a mapping from the specified field in the document exists in the collection.

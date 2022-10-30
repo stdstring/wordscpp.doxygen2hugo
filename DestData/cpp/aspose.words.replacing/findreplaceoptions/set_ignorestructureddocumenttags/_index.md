@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignorestructureddocumenttags/
 ---
-## FindReplaceOptions.set_IgnoreStructuredDocumentTags method
+## FindReplaceOptions::set_IgnoreStructuredDocumentTags method
 
 
 Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreStructuredDocumentTags](../get_ignorestructureddocumenttags/).

@@ -6,7 +6,7 @@ type: docs
 weight: 963
 url: /cpp/aspose.words/document/set_mailmergesettings/
 ---
-## Document.set_MailMergeSettings method
+## Document::set_MailMergeSettings method
 
 
 Setter for [Aspose::Words::Document::get_MailMergeSettings](../get_mailmergesettings/).

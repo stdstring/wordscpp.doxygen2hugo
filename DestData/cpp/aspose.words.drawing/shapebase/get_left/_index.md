@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.drawing/shapebase/get_left/
 ---
-## ShapeBase.get_Left method
+## ShapeBase::get_Left method
 
 
 Gets or sets the position of the left edge of the containing block of the shape.

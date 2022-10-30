@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/nodeimporter/importnode/
 ---
-## NodeImporter.ImportNode method
+## NodeImporter::ImportNode method
 
 
 Imports a node from one document into another.

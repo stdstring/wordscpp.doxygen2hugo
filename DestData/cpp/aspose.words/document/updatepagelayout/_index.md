@@ -6,7 +6,7 @@ type: docs
 weight: 1171
 url: /cpp/aspose.words/document/updatepagelayout/
 ---
-## Document.UpdatePageLayout method
+## Document::UpdatePageLayout method
 
 
 Rebuilds the page layout of the document.

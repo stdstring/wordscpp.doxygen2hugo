@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.loading/loadoptions/get_progresscallback/
 ---
-## LoadOptions.get_ProgressCallback method
+## LoadOptions::get_ProgressCallback method
 
 
 Called during loading a document and accepts data about loading progress.

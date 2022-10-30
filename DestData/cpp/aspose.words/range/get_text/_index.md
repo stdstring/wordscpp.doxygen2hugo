@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/range/get_text/
 ---
-## Range.get_Text method
+## Range::get_Text method
 
 
 Gets the text of the range.

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.lists/listformat/listindent/
 ---
-## ListFormat.ListIndent method
+## ListFormat::ListIndent method
 
 
 Increases the list level of the current paragraph by one level.

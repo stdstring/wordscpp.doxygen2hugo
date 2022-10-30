@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.vba/vbamodulecollection/idx_get/
 ---
-## VbaModuleCollection.idx_get(const System::String\&) method
+## VbaModuleCollection::idx_get(const System::String\&) method
 
 
 Retrieves a [VbaModule](../../vbamodule/) object by name, or Null if not found.
@@ -50,7 +50,7 @@ vbaModules->idx_get(u"Module1")->set_SourceCode(u"Your VBA code...");
 vbaModules->Remove(vbaModules->idx_get(2));
 ```
 
-## VbaModuleCollection.idx_get(int32_t) method
+## VbaModuleCollection::idx_get(int32_t) method
 
 
 Retrieves a [VbaModule](../../vbamodule/) object by index.

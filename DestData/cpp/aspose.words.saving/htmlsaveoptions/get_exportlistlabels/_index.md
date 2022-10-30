@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportlistlabels/
 ---
-## HtmlSaveOptions.get_ExportListLabels method
+## HtmlSaveOptions::get_ExportListLabels method
 
 
 Controls how list labels are output to HTML, MHTML or EPUB. Default value is **Auto**.

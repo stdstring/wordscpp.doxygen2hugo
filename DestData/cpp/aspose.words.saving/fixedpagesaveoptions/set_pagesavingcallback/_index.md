@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_pagesavingcallback/
 ---
-## FixedPageSaveOptions.set_PageSavingCallback method
+## FixedPageSaveOptions::set_PageSavingCallback method
 
 
 Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback](../get_pagesavingcallback/).

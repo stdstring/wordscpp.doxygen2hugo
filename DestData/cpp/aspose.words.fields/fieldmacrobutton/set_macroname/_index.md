@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldmacrobutton/set_macroname/
 ---
-## FieldMacroButton.set_MacroName method
+## FieldMacroButton::set_MacroName method
 
 
 Setter for [Aspose::Words::Fields::FieldMacroButton::get_MacroName](../get_macroname/).

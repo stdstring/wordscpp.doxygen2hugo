@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.mailmerging/imailmergedatasource/getvalue/
 ---
-## IMailMergeDataSource.GetValue method
+## IMailMergeDataSource::GetValue method
 
 
 

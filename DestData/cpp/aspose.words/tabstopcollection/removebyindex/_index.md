@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/tabstopcollection/removebyindex/
 ---
-## TabStopCollection.RemoveByIndex method
+## TabStopCollection::RemoveByIndex method
 
 
 Removes a tab stop at the specified index from the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.vba/vbamodulecollection/virtualizebeginiterator/
 ---
-## VbaModuleCollection.virtualizeBeginIterator method
+## VbaModuleCollection::virtualizeBeginIterator method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/nodecollection/add/
 ---
-## NodeCollection.Add method
+## NodeCollection::Add method
 
 
 Adds a node to the end of the collection.

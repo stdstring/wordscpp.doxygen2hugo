@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words/documentvisitor/visitfieldend/
 ---
-## DocumentVisitor.VisitFieldEnd method
+## DocumentVisitor::VisitFieldEnd method
 
 
 Called when a field ends in the document.

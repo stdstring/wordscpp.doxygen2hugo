@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words/compositenode/insertbefore/
 ---
-## CompositeNode.InsertBefore method
+## CompositeNode::InsertBefore method
 
 
 Inserts the specified node immediately before the specified reference node.

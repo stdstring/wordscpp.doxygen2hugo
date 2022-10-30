@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.markup/custompartcollection/removeat/
 ---
-## CustomPartCollection.RemoveAt method
+## CustomPartCollection::RemoveAt method
 
 
 Removes an item at the specified index.

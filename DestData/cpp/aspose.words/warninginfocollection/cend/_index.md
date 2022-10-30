@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/warninginfocollection/cend/
 ---
-## WarningInfoCollection.cend method
+## WarningInfoCollection::cend method
 
 
 

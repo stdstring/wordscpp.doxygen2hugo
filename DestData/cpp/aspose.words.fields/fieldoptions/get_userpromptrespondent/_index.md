@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fieldoptions/get_userpromptrespondent/
 ---
-## FieldOptions.get_UserPromptRespondent method
+## FieldOptions::get_UserPromptRespondent method
 
 
 Gets or sets the respondent to user prompts during field update.

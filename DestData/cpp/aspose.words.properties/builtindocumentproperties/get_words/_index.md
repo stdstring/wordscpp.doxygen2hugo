@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_words/
 ---
-## BuiltInDocumentProperties.get_Words method
+## BuiltInDocumentProperties::get_Words method
 
 
 Represents an estimate of the number of words in the document.

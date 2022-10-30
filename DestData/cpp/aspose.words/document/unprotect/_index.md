@@ -6,7 +6,7 @@ type: docs
 weight: 1132
 url: /cpp/aspose.words/document/unprotect/
 ---
-## Document.Unprotect() method
+## Document::Unprotect() method
 
 
 Removes protection from the document regardless of the password.
@@ -65,7 +65,7 @@ doc->Unprotect(u"NewPassword");
 ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 ```
 
-## Document.Unprotect(const System::String\&) method
+## Document::Unprotect(const System::String\&) method
 
 
 Removes protection from the document if a correct password is specified.

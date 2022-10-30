@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/aspose.words/documentbuilder/moveto/
 ---
-## DocumentBuilder.MoveTo method
+## DocumentBuilder::MoveTo method
 
 
 Moves the cursor to an inline node or to the end of a paragraph.

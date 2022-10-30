@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextensionbindingcollection/settemplateweakptr/
 ---
-## WebExtensionBindingCollection.SetTemplateWeakPtr method
+## WebExtensionBindingCollection::SetTemplateWeakPtr method
 
 
 

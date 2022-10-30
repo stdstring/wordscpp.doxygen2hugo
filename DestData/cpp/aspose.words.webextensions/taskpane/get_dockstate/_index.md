@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.webextensions/taskpane/get_dockstate/
 ---
-## TaskPane.get_DockState method
+## TaskPane::get_DockState method
 
 
 Specifies the last-docked location of this task pane object.

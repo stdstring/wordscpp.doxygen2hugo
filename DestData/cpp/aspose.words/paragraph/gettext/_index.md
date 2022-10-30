@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words/paragraph/gettext/
 ---
-## Paragraph.GetText method
+## Paragraph::GetText method
 
 
 Gets the text of this paragraph including the end of paragraph character.

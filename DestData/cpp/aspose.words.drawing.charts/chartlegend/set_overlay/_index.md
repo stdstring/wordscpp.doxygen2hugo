@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chartlegend/set_overlay/
 ---
-## ChartLegend.set_Overlay method
+## ChartLegend::set_Overlay method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay](../get_overlay/).

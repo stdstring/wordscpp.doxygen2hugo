@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.drawing/textpath/get_shadow/
 ---
-## TextPath.get_Shadow method
+## TextPath::get_Shadow method
 
 
 Defines whether a shadow is applied to the text on a text path.

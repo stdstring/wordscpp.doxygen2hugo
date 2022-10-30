@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.buildingblocks/buildingblockcollection/idx_get/
 ---
-## BuildingBlockCollection.idx_get method
+## BuildingBlockCollection::idx_get method
 
 
 Retrieves a building block at the given index.

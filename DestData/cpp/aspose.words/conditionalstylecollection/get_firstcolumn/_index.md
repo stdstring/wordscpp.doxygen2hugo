@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/conditionalstylecollection/get_firstcolumn/
 ---
-## ConditionalStyleCollection.get_FirstColumn method
+## ConditionalStyleCollection::get_FirstColumn method
 
 
 Gets the first column style.

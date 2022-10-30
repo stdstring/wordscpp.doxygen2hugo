@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.layout/layoutoptions/get_revisionoptions/
 ---
-## LayoutOptions.get_RevisionOptions method
+## LayoutOptions::get_RevisionOptions method
 
 
 Gets revision options.

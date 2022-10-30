@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/field/get_localeid/
 ---
-## Field.get_LocaleId method
+## Field::get_LocaleId method
 
 
 Gets or sets the LCID of the field.

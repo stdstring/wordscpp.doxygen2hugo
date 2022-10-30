@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.comparing/compareoptions/get_ignoreheadersandfooters/
 ---
-## CompareOptions.get_IgnoreHeadersAndFooters method
+## CompareOptions::get_IgnoreHeadersAndFooters method
 
 
 True indicates that headers and footers content is ignored. By default headers and footers are not ignored.

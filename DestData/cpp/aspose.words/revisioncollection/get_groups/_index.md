@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/revisioncollection/get_groups/
 ---
-## RevisionCollection.get_Groups method
+## RevisionCollection::get_Groups method
 
 
 Collection of revision groups.

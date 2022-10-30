@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/getenumerator/
 ---
-## BaseWebExtensionCollection.GetEnumerator method
+## BaseWebExtensionCollection::GetEnumerator method
 
 
 Returns an enumerator that can iterate through a collection.

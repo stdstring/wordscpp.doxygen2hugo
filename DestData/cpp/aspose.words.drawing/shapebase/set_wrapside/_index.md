@@ -6,7 +6,7 @@ type: docs
 weight: 1132
 url: /cpp/aspose.words.drawing/shapebase/set_wrapside/
 ---
-## ShapeBase.set_WrapSide method
+## ShapeBase::set_WrapSide method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_WrapSide](../get_wrapside/).

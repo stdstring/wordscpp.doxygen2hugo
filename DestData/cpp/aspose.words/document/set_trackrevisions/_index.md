@@ -6,7 +6,7 @@ type: docs
 weight: 1067
 url: /cpp/aspose.words/document/set_trackrevisions/
 ---
-## Document.set_TrackRevisions method
+## Document::set_TrackRevisions method
 
 
 Setter for [Aspose::Words::Document::get_TrackRevisions](../get_trackrevisions/).

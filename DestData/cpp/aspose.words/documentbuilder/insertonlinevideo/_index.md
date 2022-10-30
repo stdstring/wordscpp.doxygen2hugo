@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.words/documentbuilder/insertonlinevideo/
 ---
-## DocumentBuilder.InsertOnlineVideo(const System::String\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertOnlineVideo(const System::String\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an online video object into the document and scales it to the specified size.
@@ -66,7 +66,7 @@ builder->InsertOnlineVideo(videoUrl, RelativeHorizontalPosition::LeftMargin, 0, 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideo.docx");
 ```
 
-## DocumentBuilder.InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
+## DocumentBuilder::InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
 Inserts an online video object into the document and scales it to the specified size.
@@ -135,7 +135,7 @@ ArrayPtr<uint8_t> thumbnailImageBytes = System::IO::File::ReadAllBytes(ImageDir 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx");
 ```
 
-## DocumentBuilder.InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, double, double) method
+## DocumentBuilder::InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, double, double) method
 
 
 Inserts an online video object into the document and scales it to the specified size.
@@ -199,7 +199,7 @@ ArrayPtr<uint8_t> thumbnailImageBytes = System::IO::File::ReadAllBytes(ImageDir 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx");
 ```
 
-## DocumentBuilder.InsertOnlineVideo(const System::String\&, double, double) method
+## DocumentBuilder::InsertOnlineVideo(const System::String\&, double, double) method
 
 
 Inserts an online video object into the document and scales it to the specified size.

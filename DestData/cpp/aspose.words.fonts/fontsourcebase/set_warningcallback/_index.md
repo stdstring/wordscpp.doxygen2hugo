@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontsourcebase/set_warningcallback/
 ---
-## FontSourceBase.set_WarningCallback method
+## FontSourceBase::set_WarningCallback method
 
 
 Setter for [Aspose::Words::Fonts::FontSourceBase::get_WarningCallback](../get_warningcallback/).

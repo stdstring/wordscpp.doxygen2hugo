@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_reverseorder/
 ---
-## ChartAxis.get_ReverseOrder method
+## ChartAxis::get_ReverseOrder method
 
 
 Returns or sets a flag indicating whether values of axis should be displayed in reverse order, i.e. from max to min.

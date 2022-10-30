@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.properties/documentproperty/get_name/
 ---
-## DocumentProperty.get_Name method
+## DocumentProperty::get_Name method
 
 
 Returns the name of the property.

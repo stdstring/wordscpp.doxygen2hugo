@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/filefontsource/get_filepath/
 ---
-## FileFontSource.get_FilePath method
+## FileFontSource::get_FilePath method
 
 
 Path to the font file.

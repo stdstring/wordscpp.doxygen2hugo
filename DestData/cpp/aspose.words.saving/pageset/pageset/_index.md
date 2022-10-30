@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pageset/pageset/
 ---
-## PageSet.PageSet(const System::ArrayPtr\<int32_t\>\&) method
+## PageSet::PageSet(const System::ArrayPtr\<int32_t\>\&) method
 
 
 Creates a page set based on exact page indices.
@@ -48,7 +48,7 @@ xpsOptions->set_PageSet(MakeObject<PageSet>(MakeArray<int>({0, 1, 3})));
 doc->Save(ArtifactsDir + u"XpsSaveOptions.ExportExactPages.xps", xpsOptions);
 ```
 
-## PageSet.PageSet(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Saving::PageRange\>\>\&) method
+## PageSet::PageSet(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Saving::PageRange\>\>\&) method
 
 
 Creates a page set based on ranges.
@@ -79,7 +79,7 @@ imageOptions->set_PageSet(pageSet);
 doc->Save(ArtifactsDir + u"ImageSaveOptions.ExportVariousPageRanges.tiff", imageOptions);
 ```
 
-## PageSet.PageSet(int32_t) method
+## PageSet::PageSet(int32_t) method
 
 
 Creates an one-page set based on exact page index.

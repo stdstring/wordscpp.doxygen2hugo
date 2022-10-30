@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.settings/hyphenationoptions/hyphenationoptions/
 ---
-## HyphenationOptions.HyphenationOptions method
+## HyphenationOptions::HyphenationOptions method
 
 
 

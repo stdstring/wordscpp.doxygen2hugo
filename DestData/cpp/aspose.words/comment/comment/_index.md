@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/comment/comment/
 ---
-## Comment.Comment(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method
+## Comment::Comment(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method
 
 
 Initializes a new instance of the **Comment** class.
@@ -168,7 +168,7 @@ private:
 };
 ```
 
-## Comment.Comment(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&, const System::String\&, System::DateTime) method
+## Comment::Comment(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&, const System::String\&, System::DateTime) method
 
 
 Initializes a new instance of the **Comment** class.

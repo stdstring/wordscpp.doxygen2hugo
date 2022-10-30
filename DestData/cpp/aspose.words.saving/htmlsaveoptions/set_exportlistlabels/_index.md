@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportlistlabels/
 ---
-## HtmlSaveOptions.set_ExportListLabels method
+## HtmlSaveOptions::set_ExportListLabels method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportListLabels](../get_exportlistlabels/).

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.properties/documentpropertycollection/remove/
 ---
-## DocumentPropertyCollection.Remove method
+## DocumentPropertyCollection::Remove method
 
 
 Removes a property with the specified name from the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.words/documentbuilder/inserthorizontalrule/
 ---
-## DocumentBuilder.InsertHorizontalRule method
+## DocumentBuilder::InsertHorizontalRule method
 
 
 Inserts a horizontal rule shape into the document.

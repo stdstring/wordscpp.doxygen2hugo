@@ -6,7 +6,7 @@ type: docs
 weight: 781
 url: /cpp/aspose.words/pagesetup/set_layoutmode/
 ---
-## PageSetup.set_LayoutMode method
+## PageSetup::set_LayoutMode method
 
 
 Setter for [Aspose::Words::PageSetup::get_LayoutMode](../get_layoutmode/).

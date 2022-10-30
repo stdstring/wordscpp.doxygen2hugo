@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/frameformat/get_relativeverticalposition/
 ---
-## FrameFormat.get_RelativeVerticalPosition method
+## FrameFormat::get_RelativeVerticalPosition method
 
 
 Gets the relative vertical position of a frame.

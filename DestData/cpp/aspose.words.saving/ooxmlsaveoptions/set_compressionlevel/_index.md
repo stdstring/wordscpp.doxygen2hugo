@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_compressionlevel/
 ---
-## OoxmlSaveOptions.set_CompressionLevel method
+## OoxmlSaveOptions::set_CompressionLevel method
 
 
 Setter for [Aspose::Words::Saving::OoxmlSaveOptions::get_CompressionLevel](../get_compressionlevel/).

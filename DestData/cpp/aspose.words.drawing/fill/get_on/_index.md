@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/fill/get_on/
 ---
-## Fill.get_On method
+## Fill::get_On method
 
 
 

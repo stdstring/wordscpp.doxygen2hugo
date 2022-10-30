@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.tables/tablecollection/idx_get/
 ---
-## TableCollection.idx_get method
+## TableCollection::idx_get method
 
 
 Retrieves a **Table** at the given index.

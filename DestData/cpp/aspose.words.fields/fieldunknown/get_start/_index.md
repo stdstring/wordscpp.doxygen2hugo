@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldunknown/get_start/
 ---
-## FieldUnknown.get_Start method
+## FieldUnknown::get_Start method
 
 
 Gets the node that represents the start of the field.

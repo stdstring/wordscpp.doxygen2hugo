@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/fill/patterned/
 ---
-## Fill.Patterned(Aspose::Words::Drawing::PatternType) method
+## Fill::Patterned(Aspose::Words::Drawing::PatternType) method
 
 
 Sets the specified fill to a pattern.
@@ -44,7 +44,7 @@ fill->Patterned(PatternType::DiagonalBrick, System::Drawing::Color::get_Aqua(), 
 doc->Save(ArtifactsDir + u"Shape.FillPattern.docx");
 ```
 
-## Fill.Patterned(Aspose::Words::Drawing::PatternType, System::Drawing::Color, System::Drawing::Color) method
+## Fill::Patterned(Aspose::Words::Drawing::PatternType, System::Drawing::Color, System::Drawing::Color) method
 
 
 Sets the specified fill to a pattern.

@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/aspose.words/pagesetup/set_linenumbercountby/
 ---
-## PageSetup.set_LineNumberCountBy method
+## PageSetup::set_LineNumberCountBy method
 
 
 Setter for [Aspose::Words::PageSetup::get_LineNumberCountBy](../get_linenumbercountby/).

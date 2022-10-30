@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.fields/field/get_type/
 ---
-## Field.get_Type method
+## Field::get_Type method
 
 
 Gets the Microsoft Word field type.

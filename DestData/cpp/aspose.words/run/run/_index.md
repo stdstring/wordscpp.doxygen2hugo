@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/run/run/
 ---
-## Run.Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method
+## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method
 
 
 Initializes a new instance of the **Run** class.
@@ -73,7 +73,7 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
-## Run.Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&) method
+## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&) method
 
 
 Initializes a new instance of the **Run** class.

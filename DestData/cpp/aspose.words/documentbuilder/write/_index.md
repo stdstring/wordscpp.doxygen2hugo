@@ -6,7 +6,7 @@ type: docs
 weight: 885
 url: /cpp/aspose.words/documentbuilder/write/
 ---
-## DocumentBuilder.Write method
+## DocumentBuilder::Write method
 
 
 Inserts a string into the document at the current insert position.

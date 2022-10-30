@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/revision/get_datetime/
 ---
-## Revision.get_DateTime method
+## Revision::get_DateTime method
 
 
 Gets or sets the date/time of this revision.

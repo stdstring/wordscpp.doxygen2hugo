@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.properties/documentpropertycollection/idx_get/
 ---
-## DocumentPropertyCollection.idx_get(int32_t) method
+## DocumentPropertyCollection::idx_get(int32_t) method
 
 
 Returns a [DocumentProperty](../../documentproperty/) object by index.
@@ -44,7 +44,7 @@ for (const auto& customDocumentProperty : System::IterateOver(doc->get_CustomDoc
 }
 ```
 
-## DocumentPropertyCollection.idx_get(System::String) method
+## DocumentPropertyCollection::idx_get(System::String) method
 
 
 Returns a [DocumentProperty](../../documentproperty/) object by the name of the property.

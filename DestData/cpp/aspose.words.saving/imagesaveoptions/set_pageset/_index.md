@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.saving/imagesaveoptions/set_pageset/
 ---
-## ImageSaveOptions.set_PageSet method
+## ImageSaveOptions::set_PageSet method
 
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PageSet](../get_pageset/).

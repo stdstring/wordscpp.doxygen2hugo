@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/specialchar/accept/
 ---
-## SpecialChar.Accept method
+## SpecialChar::Accept method
 
 
 Accepts a visitor.

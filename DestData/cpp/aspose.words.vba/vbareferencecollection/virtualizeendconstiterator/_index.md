@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.vba/vbareferencecollection/virtualizeendconstiterator/
 ---
-## VbaReferenceCollection.virtualizeEndConstIterator method
+## VbaReferenceCollection::virtualizeEndConstIterator method
 
 
 

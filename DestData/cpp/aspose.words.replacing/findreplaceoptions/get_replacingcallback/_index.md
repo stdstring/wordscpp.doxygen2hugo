@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_replacingcallback/
 ---
-## FindReplaceOptions.get_ReplacingCallback method
+## FindReplaceOptions::get_ReplacingCallback method
 
 
 The user-defined method which is called before every replace occurrence.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.themes/themecolors/get_accent1/
 ---
-## ThemeColors.get_Accent1 method
+## ThemeColors::get_Accent1 method
 
 
 Specifies color Accent 1.

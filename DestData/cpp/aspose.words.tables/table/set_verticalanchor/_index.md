@@ -6,7 +6,7 @@ type: docs
 weight: 820
 url: /cpp/aspose.words.tables/table/set_verticalanchor/
 ---
-## Table.set_VerticalAnchor method
+## Table::set_VerticalAnchor method
 
 
 Setter for [Aspose::Words::Tables::Table::get_VerticalAnchor](../get_verticalanchor/).

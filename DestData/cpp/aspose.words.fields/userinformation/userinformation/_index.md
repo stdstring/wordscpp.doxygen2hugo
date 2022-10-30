@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/userinformation/userinformation/
 ---
-## UserInformation.UserInformation method
+## UserInformation::UserInformation method
 
 
 

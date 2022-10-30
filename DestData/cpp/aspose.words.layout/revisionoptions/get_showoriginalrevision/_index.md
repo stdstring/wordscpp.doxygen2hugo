@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.layout/revisionoptions/get_showoriginalrevision/
 ---
-## RevisionOptions.get_ShowOriginalRevision method
+## RevisionOptions::get_ShowOriginalRevision method
 
 
 Allows to specify whether the original text should be shown instead of revised one. Default value is False.

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words/paragraph/get_paragraphformat/
 ---
-## Paragraph.get_ParagraphFormat method
+## Paragraph::get_ParagraphFormat method
 
 
 Provides access to the paragraph formatting properties.

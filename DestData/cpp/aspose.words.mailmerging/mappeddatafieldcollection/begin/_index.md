@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
 ---
-## MappedDataFieldCollection.begin() const method
+## MappedDataFieldCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
 const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() const noexcept
 ```
 
-## MappedDataFieldCollection.begin() method
+## MappedDataFieldCollection::begin() method
 
 
 

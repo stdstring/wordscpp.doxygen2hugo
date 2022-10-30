@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/tablestyle/get_cellspacing/
 ---
-## TableStyle.get_CellSpacing method
+## TableStyle::get_CellSpacing method
 
 
 Gets or sets the amount of space (in points) between the cells.

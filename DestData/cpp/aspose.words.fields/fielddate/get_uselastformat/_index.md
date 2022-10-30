@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fielddate/get_uselastformat/
 ---
-## FieldDate.get_UseLastFormat method
+## FieldDate::get_UseLastFormat method
 
 
 Gets or sets whether to use a format last used by the hosting application when inserting a new DATE field.

@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.drawing/textpath/set_textpathalignment/
 ---
-## TextPath.set_TextPathAlignment method
+## TextPath::set_TextPathAlignment method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_TextPathAlignment](../get_textpathalignment/).

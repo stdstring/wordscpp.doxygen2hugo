@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_digitalsignaturedetails/
 ---
-## PdfSaveOptions.set_DigitalSignatureDetails method
+## PdfSaveOptions::set_DigitalSignatureDetails method
 
 
 Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails](../get_digitalsignaturedetails/).

@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentpartsavingcallback/
 ---
-## HtmlSaveOptions.set_DocumentPartSavingCallback method
+## HtmlSaveOptions::set_DocumentPartSavingCallback method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback](../get_documentpartsavingcallback/).

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_jpegquality/
 ---
-## FixedPageSaveOptions.get_JpegQuality method
+## FixedPageSaveOptions::get_JpegQuality method
 
 
 Gets or sets a value determining the quality of the JPEG images inside Html document.

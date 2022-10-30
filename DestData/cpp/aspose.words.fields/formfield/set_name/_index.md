@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.words.fields/formfield/set_name/
 ---
-## FormField.set_Name method
+## FormField::set_Name method
 
 
 Setter for [Aspose::Words::Fields::FormField::get_Name](../get_name/).

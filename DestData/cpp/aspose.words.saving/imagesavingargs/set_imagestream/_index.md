@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.saving/imagesavingargs/set_imagestream/
 ---
-## ImageSavingArgs.set_ImageStream(const System::SharedPtr\<System::IO::Stream\>\&) method
+## ImageSavingArgs::set_ImageStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Setter for [Aspose::Words::Saving::ImageSavingArgs::get_ImageStream](../get_imagestream/).
@@ -15,7 +15,7 @@ Setter for [Aspose::Words::Saving::ImageSavingArgs::get_ImageStream](../get_imag
 void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
-## ImageSavingArgs.set_ImageStream(std::basic_ostream\<CharType, Traits\>\&) method
+## ImageSavingArgs::set_ImageStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 

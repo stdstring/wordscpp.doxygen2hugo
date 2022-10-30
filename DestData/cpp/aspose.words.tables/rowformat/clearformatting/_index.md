@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.tables/rowformat/clearformatting/
 ---
-## RowFormat.ClearFormatting method
+## RowFormat::ClearFormatting method
 
 
 Resets to default row formatting.

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_startfield/
 ---
-## MailMergeRegionInfo.get_StartField method
+## MailMergeRegionInfo::get_StartField method
 
 
 Returns a start field for the region.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.framesets/framesetcollection/virtualizeendconstiterator/
 ---
-## FramesetCollection.virtualizeEndConstIterator method
+## FramesetCollection::virtualizeEndConstIterator method
 
 
 

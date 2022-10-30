@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldadvance/set_rightoffset/
 ---
-## FieldAdvance.set_RightOffset method
+## FieldAdvance::set_RightOffset method
 
 
 Setter for [Aspose::Words::Fields::FieldAdvance::get_RightOffset](../get_rightoffset/).

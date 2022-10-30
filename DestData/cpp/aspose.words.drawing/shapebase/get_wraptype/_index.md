@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/aspose.words.drawing/shapebase/get_wraptype/
 ---
-## ShapeBase.get_WrapType method
+## ShapeBase::get_WrapType method
 
 
 Defines whether the shape is inline or floating. For floating shapes defines the wrapping mode for text around the shape.

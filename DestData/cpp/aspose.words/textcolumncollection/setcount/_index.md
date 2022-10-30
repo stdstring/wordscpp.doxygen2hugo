@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/textcolumncollection/setcount/
 ---
-## TextColumnCollection.SetCount method
+## TextColumnCollection::SetCount method
 
 
 Arranges text into the specified number of text columns.

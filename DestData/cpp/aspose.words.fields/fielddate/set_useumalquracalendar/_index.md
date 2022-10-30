@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fielddate/set_useumalquracalendar/
 ---
-## FieldDate.set_UseUmAlQuraCalendar method
+## FieldDate::set_UseUmAlQuraCalendar method
 
 
 Setter for [Aspose::Words::Fields::FieldDate::get_UseUmAlQuraCalendar](../get_useumalquracalendar/).

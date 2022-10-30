@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words.drawing/shapebase/get_ishorizontalrule/
 ---
-## ShapeBase.get_IsHorizontalRule method
+## ShapeBase::get_IsHorizontalRule method
 
 
 Returns true if this shape is a horizontal rule.

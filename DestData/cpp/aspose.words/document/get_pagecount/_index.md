@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/aspose.words/document/get_pagecount/
 ---
-## Document.get_PageCount method
+## Document::get_PageCount method
 
 
 Gets the number of pages in the document as calculated by the most recent page layout operation.

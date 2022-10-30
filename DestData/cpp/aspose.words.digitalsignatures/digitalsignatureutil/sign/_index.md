@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/sign/
 ---
-## DigitalSignatureUtil.Sign(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) method
+## DigitalSignatureUtil::Sign(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) method
 
 
 Signs source document using given [CertificateHolder](../../certificateholder/) with digital signature and writes signed document to destination stream. [Document](../../../aspose.words/document/) should be either **Doc** or **Docx**.**Output will be written to the start of stream and stream size will be updated with content length.**
@@ -66,7 +66,7 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_I
 ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_SubjectName());
 ```
 
-## DigitalSignatureUtil.Sign(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\&) method
+## DigitalSignatureUtil::Sign(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\&) method
 
 
 Signs source document using given [CertificateHolder](../../certificateholder/) and [SignOptions](../../signoptions/) with digital signature and writes signed document to destination stream. [Document](../../../aspose.words/document/) should be either **Doc** or **Docx**.**Output will be written to the start of stream and stream size will be updated with content length.**
@@ -110,7 +110,7 @@ signOptions->set_SignTime(System::DateTime::get_Now());
 }
 ```
 
-## DigitalSignatureUtil.Sign(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) method
+## DigitalSignatureUtil::Sign(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) method
 
 
 Signs source document using given [CertificateHolder](../../certificateholder/) with digital signature and writes signed document to destination file. [Document](../../../aspose.words/document/) should be either **Doc** or **Docx**.
@@ -170,7 +170,7 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_I
 ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_SubjectName());
 ```
 
-## DigitalSignatureUtil.Sign(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\&) method
+## DigitalSignatureUtil::Sign(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\&) method
 
 
 Signs source document using given [CertificateHolder](../../certificateholder/) and [SignOptions](../../signoptions/) with digital signature and writes signed document to destination file. [Document](../../../aspose.words/document/) should be either **Doc** or **Docx**.
@@ -321,7 +321,7 @@ static void CreateSignees()
 static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCustom::Signee>>> mSignees;
 ```
 
-## DigitalSignatureUtil.Sign(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>) method
+## DigitalSignatureUtil::Sign(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>) method
 
 
 
@@ -330,7 +330,7 @@ static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCust
 template<typename CharType,typename Traits> static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(std::basic_istream<CharType, Traits> &srcStream, std::basic_ostream<CharType, Traits> &dstStream, System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> certHolder)
 ```
 
-## DigitalSignatureUtil.Sign(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>, System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>) method
+## DigitalSignatureUtil::Sign(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>, System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>) method
 
 
 

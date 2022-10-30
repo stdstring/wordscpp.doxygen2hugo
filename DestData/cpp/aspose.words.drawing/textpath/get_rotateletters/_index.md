@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/textpath/get_rotateletters/
 ---
-## TextPath.get_RotateLetters method
+## TextPath::get_RotateLetters method
 
 
 Determines whether the letters of the text are rotated.

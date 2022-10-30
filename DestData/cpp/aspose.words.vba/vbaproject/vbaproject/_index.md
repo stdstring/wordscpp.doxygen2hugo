@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.vba/vbaproject/vbaproject/
 ---
-## VbaProject.VbaProject method
+## VbaProject::VbaProject method
 
 
 Creates a blank [VbaProject](../).

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.drawing.charts/chartseries/set_explosion/
 ---
-## ChartSeries.set_Explosion method
+## ChartSeries::set_Explosion method
 
 
 Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion](../../ichartdatapoint/get_explosion/).

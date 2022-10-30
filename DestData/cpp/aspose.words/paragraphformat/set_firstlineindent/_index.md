@@ -6,7 +6,7 @@ type: docs
 weight: 651
 url: /cpp/aspose.words/paragraphformat/set_firstlineindent/
 ---
-## ParagraphFormat.set_FirstLineIndent method
+## ParagraphFormat::set_FirstLineIndent method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_FirstLineIndent](../get_firstlineindent/).

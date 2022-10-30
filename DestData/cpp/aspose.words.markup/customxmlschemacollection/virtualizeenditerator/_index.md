@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.markup/customxmlschemacollection/virtualizeenditerator/
 ---
-## CustomXmlSchemaCollection.virtualizeEndIterator method
+## CustomXmlSchemaCollection::virtualizeEndIterator method
 
 
 

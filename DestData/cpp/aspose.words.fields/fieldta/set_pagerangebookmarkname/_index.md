@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldta/set_pagerangebookmarkname/
 ---
-## FieldTA.set_PageRangeBookmarkName method
+## FieldTA::set_PageRangeBookmarkName method
 
 
 Setter for [Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName](../get_pagerangebookmarkname/).

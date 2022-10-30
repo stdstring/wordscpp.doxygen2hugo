@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldhyperlink/get_target/
 ---
-## FieldHyperlink.get_Target method
+## FieldHyperlink::get_Target method
 
 
 Gets or sets the target to which the link should be redirected.

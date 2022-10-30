@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.loading/loadoptions/get_mswversion/
 ---
-## LoadOptions.get_MswVersion method
+## LoadOptions::get_MswVersion method
 
 
 Allows to specify that the document loading process should match a specific MS Word version. Default value is **Word2019**

@@ -6,7 +6,7 @@ type: docs
 weight: 950
 url: /cpp/aspose.words/pagesetup/set_pagestartingnumber/
 ---
-## PageSetup.set_PageStartingNumber method
+## PageSetup::set_PageStartingNumber method
 
 
 Setter for [Aspose::Words::PageSetup::get_PageStartingNumber](../get_pagestartingnumber/).

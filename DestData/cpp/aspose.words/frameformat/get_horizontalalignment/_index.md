@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words/frameformat/get_horizontalalignment/
 ---
-## FrameFormat.get_HorizontalAlignment method
+## FrameFormat::get_HorizontalAlignment method
 
 
 Gets horizontal alignment of the specified frame.

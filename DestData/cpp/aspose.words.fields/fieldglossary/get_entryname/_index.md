@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldglossary/get_entryname/
 ---
-## FieldGlossary.get_EntryName method
+## FieldGlossary::get_EntryName method
 
 
 Gets or sets the name of the glossary entry to insert.

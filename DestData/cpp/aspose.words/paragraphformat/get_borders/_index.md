@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/paragraphformat/get_borders/
 ---
-## ParagraphFormat.get_Borders method
+## ParagraphFormat::get_Borders method
 
 
 Gets collection of borders of the paragraph.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/shapebase/get_alternativetext/
 ---
-## ShapeBase.get_AlternativeText method
+## ShapeBase::get_AlternativeText method
 
 
 Defines alternative text to be displayed instead of a graphic.

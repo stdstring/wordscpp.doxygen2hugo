@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_security/
 ---
-## BuiltInDocumentProperties.get_Security method
+## BuiltInDocumentProperties::get_Security method
 
 
 Specifies the security level of a document as a numeric value.

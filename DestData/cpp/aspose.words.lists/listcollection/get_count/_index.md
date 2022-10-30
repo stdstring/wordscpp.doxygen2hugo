@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.lists/listcollection/get_count/
 ---
-## ListCollection.get_Count method
+## ListCollection::get_Count method
 
 
 Gets the count of numbered and bulleted lists in the document.

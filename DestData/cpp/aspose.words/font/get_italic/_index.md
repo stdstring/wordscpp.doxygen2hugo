@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/font/get_italic/
 ---
-## Font.get_Italic method
+## Font::get_Italic method
 
 
 True if the font is formatted as italic.

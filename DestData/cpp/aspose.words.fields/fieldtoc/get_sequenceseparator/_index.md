@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.fields/fieldtoc/get_sequenceseparator/
 ---
-## FieldToc.get_SequenceSeparator method
+## FieldToc::get_SequenceSeparator method
 
 
 Gets or sets the character sequence that is used to separate sequence numbers and page numbers.

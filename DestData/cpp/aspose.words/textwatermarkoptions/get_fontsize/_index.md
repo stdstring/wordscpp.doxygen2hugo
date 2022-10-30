@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/textwatermarkoptions/get_fontsize/
 ---
-## TextWatermarkOptions.get_FontSize method
+## TextWatermarkOptions::get_FontSize method
 
 
 Gets or sets a font size. The default value is 0 - auto.

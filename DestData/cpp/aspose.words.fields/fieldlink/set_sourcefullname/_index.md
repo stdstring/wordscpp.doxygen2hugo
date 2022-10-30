@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.words.fields/fieldlink/set_sourcefullname/
 ---
-## FieldLink.set_SourceFullName method
+## FieldLink::set_SourceFullName method
 
 
 Setter for [Aspose::Words::Fields::FieldLink::get_SourceFullName](../get_sourcefullname/).

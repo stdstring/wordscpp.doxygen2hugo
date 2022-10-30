@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_axisbetweencategories/
 ---
-## ChartAxis.get_AxisBetweenCategories method
+## ChartAxis::get_AxisBetweenCategories method
 
 
 Gets or sets a flag indicating whether the value axis crosses the category axis between categories.

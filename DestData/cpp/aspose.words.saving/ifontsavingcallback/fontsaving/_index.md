@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/ifontsavingcallback/fontsaving/
 ---
-## IFontSavingCallback.FontSaving method
+## IFontSavingCallback::FontSaving method
 
 
 Called when Aspose.Words is about to save a font resource.

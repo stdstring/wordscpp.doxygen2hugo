@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldnextif/get_leftexpression/
 ---
-## FieldNextIf.get_LeftExpression method
+## FieldNextIf::get_LeftExpression method
 
 
 Gets the left part of the comparison expression.

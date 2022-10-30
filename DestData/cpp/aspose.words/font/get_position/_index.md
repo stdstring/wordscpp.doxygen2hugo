@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words/font/get_position/
 ---
-## Font.get_Position method
+## Font::get_Position method
 
 
 Gets or sets the position of text (in points) relative to the base line. A positive number raises the text, and a negative number lowers it.

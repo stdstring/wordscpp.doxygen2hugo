@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/rtfsaveoptions/set_exportcompactsize/
 ---
-## RtfSaveOptions.set_ExportCompactSize method
+## RtfSaveOptions::set_ExportCompactSize method
 
 
 Setter for [Aspose::Words::Saving::RtfSaveOptions::get_ExportCompactSize](../get_exportcompactsize/).

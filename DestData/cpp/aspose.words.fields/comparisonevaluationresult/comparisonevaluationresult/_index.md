@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationresult/
 ---
-## ComparisonEvaluationResult.ComparisonEvaluationResult(bool) method
+## ComparisonEvaluationResult::ComparisonEvaluationResult(bool) method
 
 
 Creates a comparison evaluation result.
@@ -95,7 +95,7 @@ private:
 };
 ```
 
-## ComparisonEvaluationResult.ComparisonEvaluationResult(const System::String\&) method
+## ComparisonEvaluationResult::ComparisonEvaluationResult(const System::String\&) method
 
 
 Creates a failed comparison evaluation result with the corresponding error message.

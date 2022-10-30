@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/revision/accept/
 ---
-## Revision.Accept method
+## Revision::Accept method
 
 
 Accepts this revision.

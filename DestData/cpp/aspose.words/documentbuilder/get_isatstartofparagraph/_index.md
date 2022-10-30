@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words/documentbuilder/get_isatstartofparagraph/
 ---
-## DocumentBuilder.get_IsAtStartOfParagraph method
+## DocumentBuilder::get_IsAtStartOfParagraph method
 
 
 Returns true if the cursor is at the beginning of the current paragraph (no text before the cursor).

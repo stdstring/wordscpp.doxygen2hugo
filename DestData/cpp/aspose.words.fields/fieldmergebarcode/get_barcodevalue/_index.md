@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldmergebarcode/get_barcodevalue/
 ---
-## FieldMergeBarcode.get_BarcodeValue method
+## FieldMergeBarcode::get_BarcodeValue method
 
 
 Gets the barcode value.

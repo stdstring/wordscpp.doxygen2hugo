@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_usetargetmachinefonts/
 ---
-## HtmlFixedSaveOptions.set_UseTargetMachineFonts method
+## HtmlFixedSaveOptions::set_UseTargetMachineFonts method
 
 
 Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_UseTargetMachineFonts](../get_usetargetmachinefonts/).

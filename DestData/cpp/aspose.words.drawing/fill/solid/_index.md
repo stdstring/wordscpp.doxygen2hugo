@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.drawing/fill/solid/
 ---
-## Fill.Solid() method
+## Fill::Solid() method
 
 
 Sets the fill to a uniform color.
@@ -15,7 +15,7 @@ Sets the fill to a uniform color.
 void Aspose::Words::Drawing::Fill::Solid()
 ```
 
-## Fill.Solid(System::Drawing::Color) method
+## Fill::Solid(System::Drawing::Color) method
 
 
 Sets the fill to a specified uniform color.

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/imagedata/get_imagesize/
 ---
-## ImageData.get_ImageSize method
+## ImageData::get_ImageSize method
 
 
 Gets the information about image size and resolution.

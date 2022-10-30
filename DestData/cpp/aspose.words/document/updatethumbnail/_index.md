@@ -6,7 +6,7 @@ type: docs
 weight: 1197
 url: /cpp/aspose.words/document/updatethumbnail/
 ---
-## Document.UpdateThumbnail() method
+## Document::UpdateThumbnail() method
 
 
 Updates [Thumbnail](../../../aspose.words.properties/builtindocumentproperties/get_thumbnail/) of the document using default options.
@@ -43,7 +43,7 @@ doc->UpdateThumbnail(options);
 doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 ```
 
-## Document.UpdateThumbnail(const System::SharedPtr\<Aspose::Words::Rendering::ThumbnailGeneratingOptions\>\&) method
+## Document::UpdateThumbnail(const System::SharedPtr\<Aspose::Words::Rendering::ThumbnailGeneratingOptions\>\&) method
 
 
 Updates [Thumbnail](../../../aspose.words.properties/builtindocumentproperties/get_thumbnail/) of the document according to the specified options.

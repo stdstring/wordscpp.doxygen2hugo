@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/shapebase/get_font/
 ---
-## ShapeBase.get_Font method
+## ShapeBase::get_Font method
 
 
 Provides access to the font formatting of this object.

@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.saving/saveoptions/set_customtimezoneinfo/
 ---
-## SaveOptions.set_CustomTimeZoneInfo method
+## SaveOptions::set_CustomTimeZoneInfo method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/inlinestory/get_tables/
 ---
-## InlineStory.get_Tables method
+## InlineStory::get_Tables method
 
 
 Gets a collection of tables that are immediate children of the story.

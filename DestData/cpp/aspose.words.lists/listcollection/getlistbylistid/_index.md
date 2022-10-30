@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.lists/listcollection/getlistbylistid/
 ---
-## ListCollection.GetListByListId method
+## ListCollection::GetListByListId method
 
 
 Gets a list by a list identifier.

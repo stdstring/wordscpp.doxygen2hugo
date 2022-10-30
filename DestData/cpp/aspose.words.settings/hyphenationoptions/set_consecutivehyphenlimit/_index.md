@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.settings/hyphenationoptions/set_consecutivehyphenlimit/
 ---
-## HyphenationOptions.set_ConsecutiveHyphenLimit method
+## HyphenationOptions::set_ConsecutiveHyphenLimit method
 
 
 Setter for [Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit](../get_consecutivehyphenlimit/).

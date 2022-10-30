@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.vba/vbamodule/set_type/
 ---
-## VbaModule.set_Type method
+## VbaModule::set_Type method
 
 
 Setter for [Aspose::Words::Vba::VbaModule::get_Type](../get_type/).

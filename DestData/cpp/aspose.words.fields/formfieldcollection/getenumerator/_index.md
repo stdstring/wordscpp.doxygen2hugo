@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/formfieldcollection/getenumerator/
 ---
-## FormFieldCollection.GetEnumerator method
+## FormFieldCollection::GetEnumerator method
 
 
 Returns an enumerator object.

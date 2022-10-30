@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.markup/customxmlschemacollection/cbegin/
 ---
-## CustomXmlSchemaCollection.cbegin method
+## CustomXmlSchemaCollection::cbegin method
 
 
 

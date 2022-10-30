@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.drawing/textpath/set_smallcaps/
 ---
-## TextPath.set_SmallCaps method
+## TextPath::set_SmallCaps method
 
 
 Setter for [Aspose::Words::Drawing::TextPath::get_SmallCaps](../get_smallcaps/).

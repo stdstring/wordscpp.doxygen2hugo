@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.saving/saveoptions/set_progresscallback/
 ---
-## SaveOptions.set_ProgressCallback method
+## SaveOptions::set_ProgressCallback method
 
 
 Setter for [Aspose::Words::Saving::SaveOptions::get_ProgressCallback](../get_progresscallback/).

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldincludetext/get_textconverter/
 ---
-## FieldIncludeText.get_TextConverter method
+## FieldIncludeText::get_TextConverter method
 
 
 Gets or sets the name of the text converter for the format of the included file.

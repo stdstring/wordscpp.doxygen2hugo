@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizebeginconstiterator/
 ---
-## BookmarksOutlineLevelCollection.virtualizeBeginConstIterator method
+## BookmarksOutlineLevelCollection::virtualizeBeginConstIterator method
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.drawing/stroke/get_opacity/
 ---
-## Stroke.get_Opacity method
+## Stroke::get_Opacity method
 
 
 Defines the amount of transparency of a stroke. Valid range is from 0 to 1.

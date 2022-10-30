@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/ibarcodegenerator/getoldbarcodeimage/
 ---
-## IBarcodeGenerator.GetOldBarcodeImage method
+## IBarcodeGenerator::GetOldBarcodeImage method
 
 
 Generate barcode image using the set of parameters (for old-fashioned Barcode field).

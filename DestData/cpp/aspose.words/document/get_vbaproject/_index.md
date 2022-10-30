@@ -6,7 +6,7 @@ type: docs
 weight: 677
 url: /cpp/aspose.words/document/get_vbaproject/
 ---
-## Document.get_VbaProject method
+## Document::get_VbaProject method
 
 
 Gets or sets a [VbaProject](./).

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/sdtlistitemcollection/add/
 ---
-## SdtListItemCollection.Add method
+## SdtListItemCollection::Add method
 
 
 Adds an item to this collection.

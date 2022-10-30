@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_field/
 ---
-## FieldMergingArgsBase.get_Field method
+## FieldMergingArgsBase::get_Field method
 
 
 Gets the object that represents the current merge field.

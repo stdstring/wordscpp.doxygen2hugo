@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/tostring/
 ---
-## DigitalSignature.ToString method
+## DigitalSignature::ToString method
 
 
 Returns a user-friendly string that displays the value of this object.

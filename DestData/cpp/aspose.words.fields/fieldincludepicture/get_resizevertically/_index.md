@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldincludepicture/get_resizevertically/
 ---
-## FieldIncludePicture.get_ResizeVertically method
+## FieldIncludePicture::get_ResizeVertically method
 
 
 Gets or sets whether to resize the picture vertically from the source.

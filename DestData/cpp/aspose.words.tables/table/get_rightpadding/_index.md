@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.tables/table/get_rightpadding/
 ---
-## Table.get_RightPadding method
+## Table::get_RightPadding method
 
 
 Gets or sets the amount of space (in points) to add to the right of the contents of cells.

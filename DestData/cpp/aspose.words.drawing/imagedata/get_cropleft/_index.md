@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.drawing/imagedata/get_cropleft/
 ---
-## ImageData.get_CropLeft method
+## ImageData::get_CropLeft method
 
 
 Defines the fraction of picture removal from the left side.

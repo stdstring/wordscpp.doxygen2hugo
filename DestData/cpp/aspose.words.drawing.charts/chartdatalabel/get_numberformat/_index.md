@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_numberformat/
 ---
-## ChartDataLabel.get_NumberFormat method
+## ChartDataLabel::get_NumberFormat method
 
 
 Returns number format of the parent element.

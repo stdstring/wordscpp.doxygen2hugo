@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.themes/themefonts/set_latin/
 ---
-## ThemeFonts.set_Latin method
+## ThemeFonts::set_Latin method
 
 
 Setter for [Aspose::Words::Themes::ThemeFonts::get_Latin](../get_latin/).

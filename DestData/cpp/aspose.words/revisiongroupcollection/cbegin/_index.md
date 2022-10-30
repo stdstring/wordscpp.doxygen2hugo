@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/revisiongroupcollection/cbegin/
 ---
-## RevisionGroupCollection.cbegin method
+## RevisionGroupCollection::cbegin method
 
 
 

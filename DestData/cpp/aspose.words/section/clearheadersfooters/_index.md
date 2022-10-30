@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/section/clearheadersfooters/
 ---
-## Section.ClearHeadersFooters method
+## Section::ClearHeadersFooters method
 
 
 Clears the headers and footers of this section.

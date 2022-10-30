@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_firstsection/
 ---
-## BuildingBlock.get_FirstSection method
+## BuildingBlock::get_FirstSection method
 
 
 Gets the first section in the building block.

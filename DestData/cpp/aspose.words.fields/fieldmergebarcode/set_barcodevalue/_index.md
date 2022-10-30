@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fieldmergebarcode/set_barcodevalue/
 ---
-## FieldMergeBarcode.set_BarcodeValue method
+## FieldMergeBarcode::set_BarcodeValue method
 
 
 Sets the barcode value.

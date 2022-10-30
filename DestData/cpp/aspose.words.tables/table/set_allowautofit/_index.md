@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/aspose.words.tables/table/set_allowautofit/
 ---
-## Table.set_AllowAutoFit method
+## Table::set_AllowAutoFit method
 
 
 Setter for [Aspose::Words::Tables::Table::get_AllowAutoFit](../get_allowautofit/).

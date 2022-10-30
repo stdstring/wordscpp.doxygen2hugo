@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_colormode/
 ---
-## FixedPageSaveOptions.get_ColorMode method
+## FixedPageSaveOptions::get_ColorMode method
 
 
 Gets or sets a value determining how colors are rendered.

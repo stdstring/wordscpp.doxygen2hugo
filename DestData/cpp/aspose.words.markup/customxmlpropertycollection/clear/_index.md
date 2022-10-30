@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlpropertycollection/clear/
 ---
-## CustomXmlPropertyCollection.Clear method
+## CustomXmlPropertyCollection::Clear method
 
 
 Removes all elements from the collection.

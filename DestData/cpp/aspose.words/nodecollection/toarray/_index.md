@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/nodecollection/toarray/
 ---
-## NodeCollection.ToArray method
+## NodeCollection::ToArray method
 
 
 Copies all nodes from the collection to a new array of nodes.

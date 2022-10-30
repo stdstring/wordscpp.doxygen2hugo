@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualizebeginiterator/
 ---
-## MappedDataFieldCollection.virtualizeBeginIterator method
+## MappedDataFieldCollection::virtualizeBeginIterator method
 
 
 

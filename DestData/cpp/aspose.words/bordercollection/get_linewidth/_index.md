@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words/bordercollection/get_linewidth/
 ---
-## BorderCollection.get_LineWidth method
+## BorderCollection::get_LineWidth method
 
 
 Gets or sets the border width in points.

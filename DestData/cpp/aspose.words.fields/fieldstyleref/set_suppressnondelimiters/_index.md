@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldstyleref/set_suppressnondelimiters/
 ---
-## FieldStyleRef.set_SuppressNonDelimiters method
+## FieldStyleRef::set_SuppressNonDelimiters method
 
 
 Setter for [Aspose::Words::Fields::FieldStyleRef::get_SuppressNonDelimiters](../get_suppressnondelimiters/).

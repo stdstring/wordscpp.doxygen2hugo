@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words/pagesetup/get_footnoteoptions/
 ---
-## PageSetup.get_FootnoteOptions method
+## PageSetup::get_FootnoteOptions method
 
 
 Provides options that control numbering and positioning of footnotes in this section.

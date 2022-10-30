@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.mailmerging/mailmerge/set_usenonmergefields/
 ---
-## MailMerge.set_UseNonMergeFields method
+## MailMerge::set_UseNonMergeFields method
 
 
 Setter for [Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields](../get_usenonmergefields/).

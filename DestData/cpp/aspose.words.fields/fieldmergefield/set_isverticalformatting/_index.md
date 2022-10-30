@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldmergefield/set_isverticalformatting/
 ---
-## FieldMergeField.set_IsVerticalFormatting method
+## FieldMergeField::set_IsVerticalFormatting method
 
 
 Sets whether to enable character conversion for vertical formatting.

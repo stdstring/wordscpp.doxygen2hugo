@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/editablerangeend/get_editablerangestart/
 ---
-## EditableRangeEnd.get_EditableRangeStart method
+## EditableRangeEnd::get_EditableRangeStart method
 
 
 Corresponding [EditableRangeStart](../../editablerangestart/), received by ID.

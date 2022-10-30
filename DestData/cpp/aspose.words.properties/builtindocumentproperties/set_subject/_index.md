@@ -6,7 +6,7 @@ type: docs
 weight: 742
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_subject/
 ---
-## BuiltInDocumentProperties.set_Subject method
+## BuiltInDocumentProperties::set_Subject method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject](../get_subject/).

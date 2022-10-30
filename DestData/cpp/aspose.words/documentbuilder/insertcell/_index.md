@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.words/documentbuilder/insertcell/
 ---
-## DocumentBuilder.InsertCell method
+## DocumentBuilder::InsertCell method
 
 
 Inserts a table cell into the document.

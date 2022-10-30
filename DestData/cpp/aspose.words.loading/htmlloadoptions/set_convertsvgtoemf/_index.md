@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.loading/htmlloadoptions/set_convertsvgtoemf/
 ---
-## HtmlLoadOptions.set_ConvertSvgToEmf method
+## HtmlLoadOptions::set_ConvertSvgToEmf method
 
 
 Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf](../get_convertsvgtoemf/).

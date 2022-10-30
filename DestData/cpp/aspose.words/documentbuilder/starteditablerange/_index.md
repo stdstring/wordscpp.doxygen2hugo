@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/aspose.words/documentbuilder/starteditablerange/
 ---
-## DocumentBuilder.StartEditableRange method
+## DocumentBuilder::StartEditableRange method
 
 
 Marks the current position in the document as an editable range start.

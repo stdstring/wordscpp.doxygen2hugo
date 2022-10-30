@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldlink/get_progid/
 ---
-## FieldLink.get_ProgId method
+## FieldLink::get_ProgId method
 
 
 Gets or sets the application type of the link information.

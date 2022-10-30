@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/chart/get_series/
 ---
-## Chart.get_Series method
+## Chart::get_Series method
 
 
 Provides access to series collection.

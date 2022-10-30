@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.properties/documentproperty/todatetime/
 ---
-## DocumentProperty.ToDateTime method
+## DocumentProperty::ToDateTime method
 
 
 Returns the property value as DateTime in UTC.

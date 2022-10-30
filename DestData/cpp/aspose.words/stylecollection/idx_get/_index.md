@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/stylecollection/idx_get/
 ---
-## StyleCollection.idx_get(Aspose::Words::StyleIdentifier) method
+## StyleCollection::idx_get(Aspose::Words::StyleIdentifier) method
 
 
 Gets a built-in style by its locale independent identifier.
@@ -46,7 +46,7 @@ ASSERT_EQ(u"Courier New", styles->idx_get(4)->get_Font()->get_Name());
 ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_FirstLineIndent());
 ```
 
-## StyleCollection.idx_get(const System::String\&) method
+## StyleCollection::idx_get(const System::String\&) method
 
 
 Gets a style by name or alias.
@@ -85,7 +85,7 @@ doc->UpdatePageLayout();
 doc->Save(ArtifactsDir + u"Document.UpdatePageLayout.2.pdf");
 ```
 
-## StyleCollection.idx_get(int32_t) method
+## StyleCollection::idx_get(int32_t) method
 
 
 Gets a style by index.

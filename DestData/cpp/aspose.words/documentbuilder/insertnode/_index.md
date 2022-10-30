@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.words/documentbuilder/insertnode/
 ---
-## DocumentBuilder.InsertNode method
+## DocumentBuilder::InsertNode method
 
 
 Inserts a node before the cursor.

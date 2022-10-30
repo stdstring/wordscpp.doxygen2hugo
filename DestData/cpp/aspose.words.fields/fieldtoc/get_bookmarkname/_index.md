@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldtoc/get_bookmarkname/
 ---
-## FieldToc.get_BookmarkName method
+## FieldToc::get_BookmarkName method
 
 
 Gets or sets the name of the bookmark that marks the portion of the document used to build the table.

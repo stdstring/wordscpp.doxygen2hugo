@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/imagedata/save/
 ---
-## ImageData.Save(const System::SharedPtr\<System::IO::Stream\>\&) method
+## ImageData::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves the image into the specified stream.
@@ -57,7 +57,7 @@ auto formatConverter = MakeObject<System::Drawing::ImageFormatConverter>();
 }
 ```
 
-## ImageData.Save(const System::String\&) method
+## ImageData::Save(const System::String\&) method
 
 
 Saves the image into a file.
@@ -101,7 +101,7 @@ for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape
 }
 ```
 
-## ImageData.Save(std::basic_ostream\<CharType, Traits\>\&) method
+## ImageData::Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 

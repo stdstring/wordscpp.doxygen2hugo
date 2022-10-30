@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.notes/footnoteoptions/set_position/
 ---
-## FootnoteOptions.set_Position method
+## FootnoteOptions::set_Position method
 
 
 Setter for [Aspose::Words::Notes::FootnoteOptions::get_Position](../get_position/).

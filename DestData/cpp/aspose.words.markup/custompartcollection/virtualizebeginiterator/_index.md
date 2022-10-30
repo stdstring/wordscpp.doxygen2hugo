@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.words.markup/custompartcollection/virtualizebeginiterator/
 ---
-## CustomPartCollection.virtualizeBeginIterator method
+## CustomPartCollection::virtualizeBeginIterator method
 
 
 

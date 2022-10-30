@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.layout/layoutenumerator/get_text/
 ---
-## LayoutEnumerator.get_Text method
+## LayoutEnumerator::get_Text method
 
 
 Gets text of the current span entity. Throws for other entity types.

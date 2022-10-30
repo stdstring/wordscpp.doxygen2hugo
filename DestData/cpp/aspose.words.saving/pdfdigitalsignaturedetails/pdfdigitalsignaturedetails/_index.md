@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/
 ---
-## PdfDigitalSignatureDetails.PdfDigitalSignatureDetails() method
+## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails() method
 
 
 Initializes an instance of this class.
@@ -15,7 +15,7 @@ Initializes an instance of this class.
 Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails()
 ```
 
-## PdfDigitalSignatureDetails.PdfDigitalSignatureDetails(const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::String\&, const System::String\&, System::DateTime) method
+## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::String\&, const System::String\&, System::DateTime) method
 
 
 Initializes an instance of this class.

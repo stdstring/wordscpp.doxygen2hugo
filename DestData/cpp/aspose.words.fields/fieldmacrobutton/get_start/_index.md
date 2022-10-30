@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldmacrobutton/get_start/
 ---
-## FieldMacroButton.get_Start method
+## FieldMacroButton::get_Start method
 
 
 Gets the node that represents the start of the field.

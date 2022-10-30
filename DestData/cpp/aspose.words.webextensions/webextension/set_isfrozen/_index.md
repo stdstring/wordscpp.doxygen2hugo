@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.webextensions/webextension/set_isfrozen/
 ---
-## WebExtension.set_IsFrozen method
+## WebExtension::set_IsFrozen method
 
 
 Setter for [Aspose::Words::WebExtensions::WebExtension::get_IsFrozen](../get_isfrozen/).

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fonts/streamfontsource/get_type/
 ---
-## StreamFontSource.get_Type method
+## StreamFontSource::get_Type method
 
 
 Returns the type of the font source.

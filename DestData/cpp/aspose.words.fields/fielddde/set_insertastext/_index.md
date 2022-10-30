@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.fields/fielddde/set_insertastext/
 ---
-## FieldDde.set_InsertAsText method
+## FieldDde::set_InsertAsText method
 
 
 Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsText](../get_insertastext/).

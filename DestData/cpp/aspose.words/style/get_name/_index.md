@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/style/get_name/
 ---
-## Style.get_Name method
+## Style::get_Name method
 
 
 Gets or sets the name of the style.

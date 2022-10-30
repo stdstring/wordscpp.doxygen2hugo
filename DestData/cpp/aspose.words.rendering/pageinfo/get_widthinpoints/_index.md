@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.rendering/pageinfo/get_widthinpoints/
 ---
-## PageInfo.get_WidthInPoints method
+## PageInfo::get_WidthInPoints method
 
 
 Gets the width of the page in points.

@@ -6,7 +6,7 @@ type: docs
 weight: 820
 url: /cpp/aspose.words/documentbuilder/set_underline/
 ---
-## DocumentBuilder.set_Underline method
+## DocumentBuilder::set_Underline method
 
 
 Setter for [Aspose::Words::DocumentBuilder::get_Underline](../get_underline/).

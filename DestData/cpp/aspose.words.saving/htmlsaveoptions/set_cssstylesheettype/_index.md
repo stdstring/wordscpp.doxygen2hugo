@@ -6,7 +6,7 @@ type: docs
 weight: 651
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_cssstylesheettype/
 ---
-## HtmlSaveOptions.set_CssStyleSheetType method
+## HtmlSaveOptions::set_CssStyleSheetType method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType](../get_cssstylesheettype/).

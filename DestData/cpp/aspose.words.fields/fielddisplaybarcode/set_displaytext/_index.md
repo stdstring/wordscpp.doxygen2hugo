@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_displaytext/
 ---
-## FieldDisplayBarcode.set_DisplayText method
+## FieldDisplayBarcode::set_DisplayText method
 
 
 Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText](../get_displaytext/).

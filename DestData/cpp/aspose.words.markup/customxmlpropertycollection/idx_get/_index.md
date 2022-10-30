@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/customxmlpropertycollection/idx_get/
 ---
-## CustomXmlPropertyCollection.idx_get(const System::String\&) method
+## CustomXmlPropertyCollection::idx_get(const System::String\&) method
 
 
 Gets a property with the specified name.
@@ -76,7 +76,7 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
-## CustomXmlPropertyCollection.idx_get(int32_t) method
+## CustomXmlPropertyCollection::idx_get(int32_t) method
 
 
 Gets a property at the specified index.

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldnextif/get_rightexpression/
 ---
-## FieldNextIf.get_RightExpression method
+## FieldNextIf::get_RightExpression method
 
 
 Gets the right part of the comparison expression.

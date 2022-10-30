@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.loading/loadoptions/get_convertshapetoofficemath/
 ---
-## LoadOptions.get_ConvertShapeToOfficeMath method
+## LoadOptions::get_ConvertShapeToOfficeMath method
 
 
 Gets or sets whether to convert shapes with EquationXML to Office [Math](../../../aspose.words.math/) objects.

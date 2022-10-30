@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.mailmerging/mailmerge/get_regionendtag/
 ---
-## MailMerge.get_RegionEndTag method
+## MailMerge::get_RegionEndTag method
 
 
 Gets or sets a mail merge region end tag.

@@ -6,7 +6,7 @@ type: docs
 weight: 1821
 url: /cpp/aspose.words.settings/compatibilityoptions/set_wpjustification/
 ---
-## CompatibilityOptions.set_WPJustification method
+## CompatibilityOptions::set_WPJustification method
 
 
 Emulate WordPerfect 6.x [Paragraph](../../../aspose.words/paragraph/) Justification.

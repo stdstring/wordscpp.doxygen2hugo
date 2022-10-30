@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/aspose.words/font/hasdmleffect/
 ---
-## Font.HasDmlEffect method
+## Font::HasDmlEffect method
 
 
 Checks if particular DrawingML text effect is applied.

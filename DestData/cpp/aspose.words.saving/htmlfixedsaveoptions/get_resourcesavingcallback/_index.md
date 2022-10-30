@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_resourcesavingcallback/
 ---
-## HtmlFixedSaveOptions.get_ResourceSavingCallback method
+## HtmlFixedSaveOptions::get_ResourceSavingCallback method
 
 
 Allows to control how resources (images, fonts and css) are saved when a document is exported to fixed page Html format.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.fonts/fontinfocollection/idx_get/
 ---
-## FontInfoCollection.idx_get(const System::String\&) method
+## FontInfoCollection::idx_get(const System::String\&) method
 
 
 Gets a font with the specified name.
@@ -50,7 +50,7 @@ embeddedFontBytes = doc->get_FontInfos()->idx_get(u"Alte DIN 1451 Mittelschrift"
 System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf", embeddedFontBytes);
 ```
 
-## FontInfoCollection.idx_get(int32_t) method
+## FontInfoCollection::idx_get(int32_t) method
 
 
 Gets a font at the specified index.

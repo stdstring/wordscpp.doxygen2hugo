@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.lists/listlevel/get_linkedstyle/
 ---
-## ListLevel.get_LinkedStyle method
+## ListLevel::get_LinkedStyle method
 
 
 Gets or sets the paragraph style that is linked to this list level.

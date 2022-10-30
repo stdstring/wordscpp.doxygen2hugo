@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/accept/
 ---
-## StructuredDocumentTagRangeStart.Accept method
+## StructuredDocumentTagRangeStart::Accept method
 
 
 Accepts a visitor.

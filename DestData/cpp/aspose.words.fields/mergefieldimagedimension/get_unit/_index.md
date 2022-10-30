@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/mergefieldimagedimension/get_unit/
 ---
-## MergeFieldImageDimension.get_Unit method
+## MergeFieldImageDimension::get_Unit method
 
 
 The unit.

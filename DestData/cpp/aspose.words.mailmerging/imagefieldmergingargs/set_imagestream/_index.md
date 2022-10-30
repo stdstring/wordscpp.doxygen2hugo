@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imagestream/
 ---
-## ImageFieldMergingArgs.set_ImageStream(const System::SharedPtr\<System::IO::Stream\>\&) method
+## ImageFieldMergingArgs::set_ImageStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Specifies the stream for the mail merge engine to read an image from.
@@ -17,7 +17,7 @@ void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream(const Sy
 
 
 Aspose.Words closes this stream after it merges the image into the document. 
-## ImageFieldMergingArgs.set_ImageStream(std::basic_istream\<CharType, Traits\>\&) method
+## ImageFieldMergingArgs::set_ImageStream(std::basic_istream\<CharType, Traits\>\&) method
 
 
 

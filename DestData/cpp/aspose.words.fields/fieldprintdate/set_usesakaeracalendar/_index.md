@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldprintdate/set_usesakaeracalendar/
 ---
-## FieldPrintDate.set_UseSakaEraCalendar method
+## FieldPrintDate::set_UseSakaEraCalendar method
 
 
 Setter for [Aspose::Words::Fields::FieldPrintDate::get_UseSakaEraCalendar](../get_usesakaeracalendar/).

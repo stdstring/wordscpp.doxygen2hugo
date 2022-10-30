@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/shadowformat/clear/
 ---
-## ShadowFormat.Clear method
+## ShadowFormat::Clear method
 
 
 Clears shadow format.

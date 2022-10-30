@@ -6,7 +6,7 @@ type: docs
 weight: 872
 url: /cpp/aspose.words/font/set_highlightcolor/
 ---
-## Font.set_HighlightColor method
+## Font::set_HighlightColor method
 
 
 Setter for [Aspose::Words::Font::get_HighlightColor](../get_highlightcolor/).

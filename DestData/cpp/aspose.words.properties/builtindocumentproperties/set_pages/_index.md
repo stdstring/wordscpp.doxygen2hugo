@@ -6,7 +6,7 @@ type: docs
 weight: 690
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_pages/
 ---
-## BuiltInDocumentProperties.set_Pages method
+## BuiltInDocumentProperties::set_Pages method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_Pages](../get_pages/).

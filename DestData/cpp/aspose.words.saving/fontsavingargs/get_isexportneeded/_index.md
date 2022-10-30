@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.saving/fontsavingargs/get_isexportneeded/
 ---
-## FontSavingArgs.get_IsExportNeeded method
+## FontSavingArgs::get_IsExportNeeded method
 
 
 Allows to specify whether the current font will be exported as a font resource. Default is **true**.

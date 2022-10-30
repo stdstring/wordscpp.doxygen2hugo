@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words.drawing/shapebase/get_ismovefromrevision/
 ---
-## ShapeBase.get_IsMoveFromRevision method
+## ShapeBase::get_IsMoveFromRevision method
 
 
 Returns **true** if this object was moved (deleted) in Microsoft Word while change tracking was enabled.

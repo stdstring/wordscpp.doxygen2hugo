@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_subject/
 ---
-## BuiltInDocumentProperties.get_Subject method
+## BuiltInDocumentProperties::get_Subject method
 
 
 Gets or sets the subject of the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 911
 url: /cpp/aspose.words/paragraphformat/set_styleidentifier/
 ---
-## ParagraphFormat.set_StyleIdentifier method
+## ParagraphFormat::set_StyleIdentifier method
 
 
 Setter for [Aspose::Words::ParagraphFormat::get_StyleIdentifier](../get_styleidentifier/).

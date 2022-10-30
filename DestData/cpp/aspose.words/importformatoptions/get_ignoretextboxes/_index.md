@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/importformatoptions/get_ignoretextboxes/
 ---
-## ImportFormatOptions.get_IgnoreTextBoxes method
+## ImportFormatOptions::get_IgnoreTextBoxes method
 
 
 Gets or sets a boolean value that specifies that source formatting of textboxes content ignored if **KeepSourceFormatting** mode is used. The default value is **true**.

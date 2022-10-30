@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/shape/get_strokecolor/
 ---
-## Shape.get_StrokeColor method
+## Shape::get_StrokeColor method
 
 
 Defines the color of a stroke.

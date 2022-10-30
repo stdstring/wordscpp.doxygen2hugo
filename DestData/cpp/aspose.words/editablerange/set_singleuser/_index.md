@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words/editablerange/set_singleuser/
 ---
-## EditableRange.set_SingleUser method
+## EditableRange::set_SingleUser method
 
 
 Setter for [Aspose::Words::EditableRange::get_SingleUser](../get_singleuser/).

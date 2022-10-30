@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.words.drawing/stroke/set_transparency/
 ---
-## Stroke.set_Transparency method
+## Stroke::set_Transparency method
 
 
 Setter for [Aspose::Words::Drawing::Stroke::get_Transparency](../get_transparency/).

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/add/
 ---
-## OdsoFieldMapDataCollection.Add method
+## OdsoFieldMapDataCollection::Add method
 
 
 Adds an object to the end of this collection.

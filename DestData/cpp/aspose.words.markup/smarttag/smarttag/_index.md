@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/smarttag/smarttag/
 ---
-## SmartTag.SmartTag method
+## SmartTag::SmartTag method
 
 
 Initializes a new instance of the [SmartTag](../) class.

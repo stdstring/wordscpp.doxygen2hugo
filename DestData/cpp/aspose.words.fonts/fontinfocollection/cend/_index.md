@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.fonts/fontinfocollection/cend/
 ---
-## FontInfoCollection.cend method
+## FontInfoCollection::cend method
 
 
 

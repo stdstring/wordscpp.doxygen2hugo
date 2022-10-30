@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words.layout/revisionoptions/set_showinballoons/
 ---
-## RevisionOptions.set_ShowInBalloons method
+## RevisionOptions::set_ShowInBalloons method
 
 
 Setter for [Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons](../get_showinballoons/).

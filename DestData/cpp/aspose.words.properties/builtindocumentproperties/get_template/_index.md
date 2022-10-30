@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_template/
 ---
-## BuiltInDocumentProperties.get_Template method
+## BuiltInDocumentProperties::get_Template method
 
 
 Gets or sets the informational name of the document template.

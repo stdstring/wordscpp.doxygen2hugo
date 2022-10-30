@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.drawing/imagedata/tobytearray/
 ---
-## ImageData.ToByteArray method
+## ImageData::ToByteArray method
 
 
 Returns image bytes for any image regardless whether the image is stored or linked.

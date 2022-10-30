@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words/document/get_frameset/
 ---
-## Document.get_Frameset method
+## Document::get_Frameset method
 
 
 Returns a [Frameset](./) instance if this document represents a frames page.

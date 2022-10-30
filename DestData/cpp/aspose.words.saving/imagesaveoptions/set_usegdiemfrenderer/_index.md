@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.words.saving/imagesaveoptions/set_usegdiemfrenderer/
 ---
-## ImageSaveOptions.set_UseGdiEmfRenderer method
+## ImageSaveOptions::set_UseGdiEmfRenderer method
 
 
 Setter for [Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer](../get_usegdiemfrenderer/).

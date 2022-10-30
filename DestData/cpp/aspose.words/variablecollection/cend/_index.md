@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words/variablecollection/cend/
 ---
-## VariableCollection.cend method
+## VariableCollection::cend method
 
 
 

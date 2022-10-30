@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.drawing/oleformat/getoleentry/
 ---
-## OleFormat.GetOleEntry method
+## OleFormat::GetOleEntry method
 
 
 Gets OLE object data entry.

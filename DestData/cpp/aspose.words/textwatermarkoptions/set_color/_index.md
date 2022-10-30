@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/textwatermarkoptions/set_color/
 ---
-## TextWatermarkOptions.set_Color method
+## TextWatermarkOptions::set_Color method
 
 
 Setter for [Aspose::Words::TextWatermarkOptions::get_Color](../get_color/).

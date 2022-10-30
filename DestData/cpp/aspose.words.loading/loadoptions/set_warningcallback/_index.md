@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.loading/loadoptions/set_warningcallback/
 ---
-## LoadOptions.set_WarningCallback method
+## LoadOptions::set_WarningCallback method
 
 
 Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](../get_warningcallback/).

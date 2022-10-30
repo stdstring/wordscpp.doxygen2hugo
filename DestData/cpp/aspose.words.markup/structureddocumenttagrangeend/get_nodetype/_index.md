@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.markup/structureddocumenttagrangeend/get_nodetype/
 ---
-## StructuredDocumentTagRangeEnd.get_NodeType method
+## StructuredDocumentTagRangeEnd::get_NodeType method
 
 
 Gets the type of this node.

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.tables/preferredwidth/gethashcode/
 ---
-## PreferredWidth.GetHashCode method
+## PreferredWidth::GetHashCode method
 
 
 Serves as a hash function for this type.

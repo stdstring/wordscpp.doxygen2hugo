@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_embedfullfonts/
 ---
-## PdfSaveOptions.get_EmbedFullFonts method
+## PdfSaveOptions::get_EmbedFullFonts method
 
 
 Controls how fonts are embedded into the resulting PDF documents.

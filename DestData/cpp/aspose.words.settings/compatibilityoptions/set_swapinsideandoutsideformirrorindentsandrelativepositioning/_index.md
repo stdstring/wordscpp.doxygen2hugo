@@ -6,7 +6,7 @@ type: docs
 weight: 1626
 url: /cpp/aspose.words.settings/compatibilityoptions/set_swapinsideandoutsideformirrorindentsandrelativepositioning/
 ---
-## CompatibilityOptions.set_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning method
+## CompatibilityOptions::set_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning method
 
 
 

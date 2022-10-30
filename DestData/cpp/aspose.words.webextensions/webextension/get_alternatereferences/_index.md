@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextension/get_alternatereferences/
 ---
-## WebExtension.get_AlternateReferences method
+## WebExtension::get_AlternateReferences method
 
 
 Specifies alternate references to a web extension.

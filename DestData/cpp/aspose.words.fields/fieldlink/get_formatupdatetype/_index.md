@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldlink/get_formatupdatetype/
 ---
-## FieldLink.get_FormatUpdateType method
+## FieldLink::get_FormatUpdateType method
 
 
 Gets or sets a way the linked object updates its formatting.

@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/aspose.words/documentbuilder/insertstyleseparator/
 ---
-## DocumentBuilder.InsertStyleSeparator method
+## DocumentBuilder::InsertStyleSeparator method
 
 
 Inserts style separator into the document.

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showlegendkey/
 ---
-## ChartDataLabel.set_ShowLegendKey method
+## ChartDataLabel::set_ShowLegendKey method
 
 
 Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowLegendKey](../get_showlegendkey/).

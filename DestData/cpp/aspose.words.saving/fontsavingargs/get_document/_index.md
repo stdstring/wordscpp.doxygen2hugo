@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/fontsavingargs/get_document/
 ---
-## FontSavingArgs.get_Document method
+## FontSavingArgs::get_Document method
 
 
 Gets the document object that is being saved.

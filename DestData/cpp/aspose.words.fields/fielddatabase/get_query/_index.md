@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fielddatabase/get_query/
 ---
-## FieldDatabase.get_Query method
+## FieldDatabase::get_Query method
 
 
 Gets a set of SQL instructions that query the database.

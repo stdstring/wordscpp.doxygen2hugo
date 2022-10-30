@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/textpath/get_text/
 ---
-## TextPath.get_Text method
+## TextPath::get_Text method
 
 
 Defines the text of the text path.

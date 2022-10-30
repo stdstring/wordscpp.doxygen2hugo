@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.words/font/get_styleidentifier/
 ---
-## Font.get_StyleIdentifier method
+## Font::get_StyleIdentifier method
 
 
 Gets or sets the locale independent style identifier of the character style applied to this formatting.

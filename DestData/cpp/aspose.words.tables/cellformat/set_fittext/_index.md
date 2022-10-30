@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words.tables/cellformat/set_fittext/
 ---
-## CellFormat.set_FitText method
+## CellFormat::set_FitText method
 
 
 Setter for [Aspose::Words::Tables::CellFormat::get_FitText](../get_fittext/).

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.vba/vbamodule/set_sourcecode/
 ---
-## VbaModule.set_SourceCode method
+## VbaModule::set_SourceCode method
 
 
 Setter for [Aspose::Words::Vba::VbaModule::get_SourceCode](../get_sourcecode/).

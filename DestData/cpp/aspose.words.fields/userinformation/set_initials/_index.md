@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.fields/userinformation/set_initials/
 ---
-## UserInformation.set_Initials method
+## UserInformation::set_Initials method
 
 
 Setter for [Aspose::Words::Fields::UserInformation::get_Initials](../get_initials/).

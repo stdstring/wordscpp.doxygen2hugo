@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.words/font/get_emphasismark/
 ---
-## Font.get_EmphasisMark method
+## Font::get_EmphasisMark method
 
 
 Gets or sets the emphasis mark applied to this formatting.

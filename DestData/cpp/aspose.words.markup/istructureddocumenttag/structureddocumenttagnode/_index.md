@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.words.markup/istructureddocumenttag/structureddocumenttagnode/
 ---
-## IStructuredDocumentTag.StructuredDocumentTagNode method
+## IStructuredDocumentTag::StructuredDocumentTagNode method
 
 
 Returns [Node](../../../aspose.words/node/) object that implements this interface.

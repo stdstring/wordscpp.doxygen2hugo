@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.tables/cellformat/get_width/
 ---
-## CellFormat.get_Width method
+## CellFormat::get_Width method
 
 
 Gets the width of the cell in points.

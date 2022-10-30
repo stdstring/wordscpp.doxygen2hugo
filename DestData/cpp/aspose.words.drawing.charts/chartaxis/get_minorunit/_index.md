@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_minorunit/
 ---
-## ChartAxis.get_MinorUnit method
+## ChartAxis::get_MinorUnit method
 
 
 Returns or sets the distance between minor tick marks.

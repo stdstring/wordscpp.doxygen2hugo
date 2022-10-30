@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.words.drawing/imagedata/tostream/
 ---
-## ImageData.ToStream method
+## ImageData::ToStream method
 
 
 Creates and returns a stream that contains the image bytes.

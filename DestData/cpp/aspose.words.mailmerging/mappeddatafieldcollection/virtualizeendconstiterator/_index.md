@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualizeendconstiterator/
 ---
-## MappedDataFieldCollection.virtualizeEndConstIterator method
+## MappedDataFieldCollection::virtualizeEndConstIterator method
 
 
 

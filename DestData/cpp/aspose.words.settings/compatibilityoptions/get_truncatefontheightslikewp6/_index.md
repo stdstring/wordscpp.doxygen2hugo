@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/aspose.words.settings/compatibilityoptions/get_truncatefontheightslikewp6/
 ---
-## CompatibilityOptions.get_TruncateFontHeightsLikeWP6 method
+## CompatibilityOptions::get_TruncateFontHeightsLikeWP6 method
 
 
 Emulate WordPerfect 6.x [Font](../../../aspose.words/font/) Height Calculation.

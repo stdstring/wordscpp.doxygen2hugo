@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.markup/structureddocumenttag/get_checked/
 ---
-## StructuredDocumentTag.get_Checked method
+## StructuredDocumentTag::get_Checked method
 
 
 Gets/Sets current state of the Checkbox **SDT**. Default value for this property is false.

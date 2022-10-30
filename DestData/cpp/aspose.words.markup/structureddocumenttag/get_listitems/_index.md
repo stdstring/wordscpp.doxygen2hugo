@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.words.markup/structureddocumenttag/get_listitems/
 ---
-## StructuredDocumentTag.get_ListItems method
+## StructuredDocumentTag::get_ListItems method
 
 
 Gets [SdtListItemCollection](../../sdtlistitemcollection/) associated with this **SDT**.

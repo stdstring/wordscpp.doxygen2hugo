@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words.framesets/framesetcollection/getenumerator/
 ---
-## FramesetCollection.GetEnumerator method
+## FramesetCollection::GetEnumerator method
 
 
 

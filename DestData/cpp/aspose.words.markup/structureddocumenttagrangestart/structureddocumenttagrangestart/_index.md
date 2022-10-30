@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/structureddocumenttagrangestart/
 ---
-## StructuredDocumentTagRangeStart.StructuredDocumentTagRangeStart method
+## StructuredDocumentTagRangeStart::StructuredDocumentTagRangeStart method
 
 
 Initializes a new instance of the **Structured document tag range start** class.

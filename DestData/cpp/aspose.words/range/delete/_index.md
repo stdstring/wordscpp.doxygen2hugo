@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/range/delete/
 ---
-## Range.Delete method
+## Range::Delete method
 
 
 Deletes all characters of the range.

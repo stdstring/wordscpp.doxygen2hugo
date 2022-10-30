@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.notes/footnote/footnote/
 ---
-## Footnote.Footnote method
+## Footnote::Footnote method
 
 
 Initializes an instance of the **Footnote** class.

@@ -6,7 +6,7 @@ type: docs
 weight: 911
 url: /cpp/aspose.words.drawing/shapebase/set_fliporientation/
 ---
-## ShapeBase.set_FlipOrientation method
+## ShapeBase::set_FlipOrientation method
 
 
 Setter for [Aspose::Words::Drawing::ShapeBase::get_FlipOrientation](../get_fliporientation/).

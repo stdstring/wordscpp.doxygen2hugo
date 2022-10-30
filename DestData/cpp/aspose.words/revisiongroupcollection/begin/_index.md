@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/revisiongroupcollection/begin/
 ---
-## RevisionGroupCollection.begin() const method
+## RevisionGroupCollection::begin() const method
 
 
 
@@ -15,7 +15,7 @@ url: /cpp/aspose.words/revisiongroupcollection/begin/
 const_iterator Aspose::Words::RevisionGroupCollection::begin() const noexcept
 ```
 
-## RevisionGroupCollection.begin() method
+## RevisionGroupCollection::begin() method
 
 
 

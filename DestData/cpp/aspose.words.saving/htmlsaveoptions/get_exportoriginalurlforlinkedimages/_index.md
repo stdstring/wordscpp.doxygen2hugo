@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportoriginalurlforlinkedimages/
 ---
-## HtmlSaveOptions.get_ExportOriginalUrlForLinkedImages method
+## HtmlSaveOptions::get_ExportOriginalUrlForLinkedImages method
 
 
 Specifies whether original URL should be used as the URL of the linked images. Default value is **false**.

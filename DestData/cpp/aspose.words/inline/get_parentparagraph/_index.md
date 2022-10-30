@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.words/inline/get_parentparagraph/
 ---
-## Inline.get_ParentParagraph method
+## Inline::get_ParentParagraph method
 
 
 Retrieves the parent [Paragraph](../../paragraph/) of this node.

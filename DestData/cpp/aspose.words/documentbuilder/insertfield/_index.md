@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.words/documentbuilder/insertfield/
 ---
-## DocumentBuilder.InsertField(Aspose::Words::Fields::FieldType, bool) method
+## DocumentBuilder::InsertField(Aspose::Words::Fields::FieldType, bool) method
 
 
 Inserts a Word field into a document and optionally updates the field result.
@@ -72,7 +72,7 @@ else
 }
 ```
 
-## DocumentBuilder.InsertField(const System::String\&) method
+## DocumentBuilder::InsertField(const System::String\&) method
 
 
 Inserts a Word field into a document and updates the field result.
@@ -136,7 +136,7 @@ ASSERT_EQ(u"DATE \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
 ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - System::DateTime::get_Today()).get_Hours()), 24);
 ```
 
-## DocumentBuilder.InsertField(const System::String\&, const System::String\&) method
+## DocumentBuilder::InsertField(const System::String\&, const System::String\&) method
 
 
 Inserts a Word field into a document without updating the field result.

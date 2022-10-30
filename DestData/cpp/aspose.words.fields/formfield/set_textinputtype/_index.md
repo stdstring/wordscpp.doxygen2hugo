@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/aspose.words.fields/formfield/set_textinputtype/
 ---
-## FormField.set_TextInputType method
+## FormField::set_TextInputType method
 
 
 Setter for [Aspose::Words::Fields::FormField::get_TextInputType](../get_textinputtype/).

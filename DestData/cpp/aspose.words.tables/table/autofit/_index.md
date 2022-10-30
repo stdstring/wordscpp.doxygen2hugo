@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.tables/table/autofit/
 ---
-## Table.AutoFit method
+## Table::AutoFit method
 
 
 Resizes the table and cells according to the specified auto fit behavior.

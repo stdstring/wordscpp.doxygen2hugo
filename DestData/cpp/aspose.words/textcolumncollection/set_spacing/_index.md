@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words/textcolumncollection/set_spacing/
 ---
-## TextColumnCollection.set_Spacing method
+## TextColumnCollection::set_Spacing method
 
 
 Setter for [Aspose::Words::TextColumnCollection::get_Spacing](../get_spacing/).

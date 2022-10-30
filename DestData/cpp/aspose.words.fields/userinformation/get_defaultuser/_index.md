@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.fields/userinformation/get_defaultuser/
 ---
-## UserInformation.get_DefaultUser method
+## UserInformation::get_DefaultUser method
 
 
 Default user information.

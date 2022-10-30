@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.words.fields/formfield/set_checkboxsize/
 ---
-## FormField.set_CheckBoxSize method
+## FormField::set_CheckBoxSize method
 
 
 Setter for [Aspose::Words::Fields::FormField::get_CheckBoxSize](../get_checkboxsize/).

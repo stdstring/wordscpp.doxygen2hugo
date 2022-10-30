@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.saving/imagesavingargs/set_keepimagestreamopen/
 ---
-## ImageSavingArgs.set_KeepImageStreamOpen method
+## ImageSavingArgs::set_KeepImageStreamOpen method
 
 
 Setter for [Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen](../get_keepimagestreamopen/).

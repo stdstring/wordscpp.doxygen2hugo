@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.tables/row/get_rowformat/
 ---
-## Row.get_RowFormat method
+## Row::get_RowFormat method
 
 
 Provides access to the formatting properties of the row.

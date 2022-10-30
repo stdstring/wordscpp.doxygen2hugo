@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.words.fields/fieldoptions/get_toacategories/
 ---
-## FieldOptions.get_ToaCategories method
+## FieldOptions::get_ToaCategories method
 
 
 Gets or sets the table of authorities categories.

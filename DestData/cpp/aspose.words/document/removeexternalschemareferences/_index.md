@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/aspose.words/document/removeexternalschemareferences/
 ---
-## Document.RemoveExternalSchemaReferences method
+## Document::RemoveExternalSchemaReferences method
 
 
 Removes external XML schema references from this document.

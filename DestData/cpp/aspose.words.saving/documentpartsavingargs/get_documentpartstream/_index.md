@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.saving/documentpartsavingargs/get_documentpartstream/
 ---
-## DocumentPartSavingArgs.get_DocumentPartStream method
+## DocumentPartSavingArgs::get_DocumentPartStream method
 
 
 Allows to specify the stream where the document part will be saved to.

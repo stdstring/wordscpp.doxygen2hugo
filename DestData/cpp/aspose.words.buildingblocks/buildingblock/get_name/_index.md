@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_name/
 ---
-## BuildingBlock.get_Name method
+## BuildingBlock::get_Name method
 
 
 Gets or sets the name of this building block.

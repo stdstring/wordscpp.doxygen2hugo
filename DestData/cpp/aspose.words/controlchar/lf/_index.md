@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.words/controlchar/lf/
 ---
-## ControlChar.Lf method
+## ControlChar::Lf method
 
 
 Line feed character: "\x000a" or "\n". Same as [LineFeed](../linefeed/).

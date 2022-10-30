@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words/signaturelineoptions/set_email/
 ---
-## SignatureLineOptions.set_Email method
+## SignatureLineOptions::set_Email method
 
 
 Setter for [Aspose::Words::SignatureLineOptions::get_Email](../get_email/).

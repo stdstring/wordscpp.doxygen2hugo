@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.words.lists/listcollection/virtualizebeginiterator/
 ---
-## ListCollection.virtualizeBeginIterator method
+## ListCollection::virtualizeBeginIterator method
 
 
 

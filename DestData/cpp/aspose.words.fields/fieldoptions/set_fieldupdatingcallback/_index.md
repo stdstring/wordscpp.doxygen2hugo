@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.words.fields/fieldoptions/set_fieldupdatingcallback/
 ---
-## FieldOptions.set_FieldUpdatingCallback method
+## FieldOptions::set_FieldUpdatingCallback method
 
 
 Sets [IFieldUpdatingCallback](../../ifieldupdatingcallback/) implementation.

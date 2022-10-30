@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/aspose.words/documentbuilder/popfont/
 ---
-## DocumentBuilder.PopFont method
+## DocumentBuilder::PopFont method
 
 
 Retrieves character formatting previously saved on the stack.

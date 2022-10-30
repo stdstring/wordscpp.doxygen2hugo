@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_barcodevalue/
 ---
-## FieldDisplayBarcode.get_BarcodeValue method
+## FieldDisplayBarcode::get_BarcodeValue method
 
 
 Gets or sets the barcode value.

@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/aspose.words/document/get_showspellingerrors/
 ---
-## Document.get_ShowSpellingErrors method
+## Document::get_ShowSpellingErrors method
 
 
 Specifies whether to display spelling errors in this document.

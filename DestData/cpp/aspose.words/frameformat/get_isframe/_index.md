@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words/frameformat/get_isframe/
 ---
-## FrameFormat.get_IsFrame method
+## FrameFormat::get_IsFrame method
 
 
 Returns true if the paragraph is a frame.

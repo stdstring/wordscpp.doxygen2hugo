@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/oleformat/save/
 ---
-## OleFormat.Save(const System::SharedPtr\<System::IO::Stream\>\&) method
+## OleFormat::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves the data of the embedded object into the specified stream.
@@ -57,7 +57,7 @@ ASSERT_EQ(u".xlsx", oleFormat->get_SuggestedExtension());
 oleFormat->Save(ArtifactsDir + u"OLE spreadsheet saved directly" + oleFormat->get_SuggestedExtension());
 ```
 
-## OleFormat.Save(const System::String\&) method
+## OleFormat::Save(const System::String\&) method
 
 
 Saves the data of the embedded object into a file with the specified name.
@@ -106,7 +106,7 @@ ASSERT_EQ(u".xlsx", oleFormat->get_SuggestedExtension());
 oleFormat->Save(ArtifactsDir + u"OLE spreadsheet saved directly" + oleFormat->get_SuggestedExtension());
 ```
 
-## OleFormat.Save(std::basic_ostream\<CharType, Traits\>\&) method
+## OleFormat::Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
 

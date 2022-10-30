@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/set_fieldvalue/
 ---
-## FieldMergingArgsBase.set_FieldValue method
+## FieldMergingArgsBase::set_FieldValue method
 
 
 Sets the value of the field from the data source.

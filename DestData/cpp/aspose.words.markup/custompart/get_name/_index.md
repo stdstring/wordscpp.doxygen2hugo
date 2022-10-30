@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.markup/custompart/get_name/
 ---
-## CustomPart.get_Name method
+## CustomPart::get_Name method
 
 
 Gets or sets this part's absolute name within the OOXML package or the target URL.

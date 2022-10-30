@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyparagraphformat/
 ---
-## FindReplaceOptions.get_ApplyParagraphFormat method
+## FindReplaceOptions::get_ApplyParagraphFormat method
 
 
 [Paragraph](../../../aspose.words/paragraph/) formatting applied to new content.

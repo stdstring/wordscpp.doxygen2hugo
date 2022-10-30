@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.words/pagesetup/get_sectionstart/
 ---
-## PageSetup.get_SectionStart method
+## PageSetup::get_SectionStart method
 
 
 Returns or sets the type of section break for the specified object.

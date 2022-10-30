@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words/documentvisitor/visitofficemathend/
 ---
-## DocumentVisitor.VisitOfficeMathEnd method
+## DocumentVisitor::VisitOfficeMathEnd method
 
 
 Called when enumeration of a Office [Math](../../../aspose.words.math/) object has ended.

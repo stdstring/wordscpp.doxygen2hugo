@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/shading/clearformatting/
 ---
-## Shading.ClearFormatting method
+## Shading::ClearFormatting method
 
 
 Removes shading from the object.

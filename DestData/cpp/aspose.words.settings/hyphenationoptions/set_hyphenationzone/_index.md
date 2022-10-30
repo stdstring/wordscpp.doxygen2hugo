@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.settings/hyphenationoptions/set_hyphenationzone/
 ---
-## HyphenationOptions.set_HyphenationZone method
+## HyphenationOptions::set_HyphenationZone method
 
 
 Setter for [Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone](../get_hyphenationzone/).

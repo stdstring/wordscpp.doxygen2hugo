@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/get_count/
 ---
-## BookmarksOutlineLevelCollection.get_Count method
+## BookmarksOutlineLevelCollection::get_Count method
 
 
 Gets the number of elements contained in the collection.

@@ -6,7 +6,7 @@ type: docs
 weight: 1093
 url: /cpp/aspose.words/document/starttrackrevisions/
 ---
-## Document.StartTrackRevisions(const System::String\&) method
+## Document::StartTrackRevisions(const System::String\&) method
 
 
 Starts automatically marking all further changes you make to the document programmatically as revision changes.
@@ -75,7 +75,7 @@ ASSERT_EQ(System::DateTime::MinValue, doc->get_Revisions()->idx_get(1)->get_Date
 doc->Save(ArtifactsDir + u"Document.StartTrackRevisions.docx");
 ```
 
-## Document.StartTrackRevisions(const System::String\&, System::DateTime) method
+## Document::StartTrackRevisions(const System::String\&, System::DateTime) method
 
 
 Starts automatically marking all further changes you make to the document programmatically as revision changes.

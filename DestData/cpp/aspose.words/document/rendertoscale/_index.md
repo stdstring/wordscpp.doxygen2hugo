@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.words/document/rendertoscale/
 ---
-## Document.RenderToScale method
+## Document::RenderToScale method
 
 
 Renders a document page into a object to a specified scale.

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.words.lists/listlevel/get_numberposition/
 ---
-## ListLevel.get_NumberPosition method
+## ListLevel::get_NumberPosition method
 
 
 Returns or sets the position (in points) of the number or bullet for the list level.

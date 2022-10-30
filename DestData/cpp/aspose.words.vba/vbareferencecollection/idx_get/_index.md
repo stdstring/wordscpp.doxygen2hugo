@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.vba/vbareferencecollection/idx_get/
 ---
-## VbaReferenceCollection.idx_get method
+## VbaReferenceCollection::idx_get method
 
 
 Gets [VbaReference](../../vbareference/) object at the specified index.

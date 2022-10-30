@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.words/style/get_type/
 ---
-## Style.get_Type method
+## Style::get_Type method
 
 
 Gets the style type (paragraph or character).

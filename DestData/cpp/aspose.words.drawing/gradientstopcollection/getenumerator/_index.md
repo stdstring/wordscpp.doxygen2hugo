@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/gradientstopcollection/getenumerator/
 ---
-## GradientStopCollection.GetEnumerator method
+## GradientStopCollection::GetEnumerator method
 
 
 Returns an enumerator that iterates through the collection.

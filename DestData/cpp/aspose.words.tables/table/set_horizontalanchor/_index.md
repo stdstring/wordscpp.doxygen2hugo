@@ -6,7 +6,7 @@ type: docs
 weight: 638
 url: /cpp/aspose.words.tables/table/set_horizontalanchor/
 ---
-## Table.set_HorizontalAnchor method
+## Table::set_HorizontalAnchor method
 
 
 Setter for [Aspose::Words::Tables::Table::get_HorizontalAnchor](../get_horizontalanchor/).

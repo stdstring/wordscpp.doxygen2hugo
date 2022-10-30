@@ -6,7 +6,7 @@ type: docs
 weight: 1093
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_officemathoutputmode/
 ---
-## HtmlSaveOptions.set_OfficeMathOutputMode method
+## HtmlSaveOptions::set_OfficeMathOutputMode method
 
 
 Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_OfficeMathOutputMode](../get_officemathoutputmode/).

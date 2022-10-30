@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_isvalid/
 ---
-## DigitalSignature.get_IsValid method
+## DigitalSignature::get_IsValid method
 
 
 Returns true if this digital signature is valid and the document has not been tampered with.

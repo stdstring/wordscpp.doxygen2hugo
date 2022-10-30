@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.saving/imagesaveoptions/clone/
 ---
-## ImageSaveOptions.Clone method
+## ImageSaveOptions::Clone method
 
 
 Creates a deep clone of this object.

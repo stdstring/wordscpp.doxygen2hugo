@@ -6,7 +6,7 @@ type: docs
 weight: 690
 url: /cpp/aspose.words/font/get_underline/
 ---
-## Font.get_Underline method
+## Font::get_Underline method
 
 
 Gets or sets the type of underline applied to the font.

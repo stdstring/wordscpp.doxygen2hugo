@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.words.digitalsignatures/signoptions/get_decryptionpassword/
 ---
-## SignOptions.get_DecryptionPassword method
+## SignOptions::get_DecryptionPassword method
 
 
 The password to decrypt source document. Default value is **empty string**.

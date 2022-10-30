@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.words.fields/fieldindex/set_useyomi/
 ---
-## FieldIndex.set_UseYomi method
+## FieldIndex::set_UseYomi method
 
 
 Setter for [Aspose::Words::Fields::FieldIndex::get_UseYomi](../get_useyomi/).

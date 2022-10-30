@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/shape/get_hasimage/
 ---
-## Shape.get_HasImage method
+## Shape::get_HasImage method
 
 
 Returns true if the shape has image bytes or links an image.

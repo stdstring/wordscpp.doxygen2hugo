@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.words.mailmerging/mailmerge/get_fieldmergingcallback/
 ---
-## MailMerge.get_FieldMergingCallback method
+## MailMerge::get_FieldMergingCallback method
 
 
 Occurs during mail merge when a mail merge field is encountered in the document.

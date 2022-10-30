@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.vba/vbamodule/vbamodule/
 ---
-## VbaModule.VbaModule method
+## VbaModule::VbaModule method
 
 
 Creates an empty module.

@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_characterswithspaces/
 ---
-## BuiltInDocumentProperties.set_CharactersWithSpaces method
+## BuiltInDocumentProperties::set_CharactersWithSpaces method
 
 
 Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_CharactersWithSpaces](../get_characterswithspaces/).

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words/convertutil/millimetertopoint/
 ---
-## ConvertUtil.MillimeterToPoint method
+## ConvertUtil::MillimeterToPoint method
 
 
 Converts millimeters to points.

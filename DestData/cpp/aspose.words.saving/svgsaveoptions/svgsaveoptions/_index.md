@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/svgsaveoptions/svgsaveoptions/
 ---
-## SvgSaveOptions.SvgSaveOptions method
+## SvgSaveOptions::SvgSaveOptions method
 
 
 

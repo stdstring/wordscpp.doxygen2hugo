@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.words.digitalsignatures/certificateholder/create/
 ---
-## CertificateHolder.Create(const System::ArrayPtr\<uint8_t\>\&, const System::SharedPtr\<System::Security::SecureString\>\&) method
+## CertificateHolder::Create(const System::ArrayPtr\<uint8_t\>\&, const System::SharedPtr\<System::Security::SecureString\>\&) method
 
 
 Creates [CertificateHolder](../) object using byte array of PKCS12 store and its password.
@@ -27,7 +27,7 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 An instance of [CertificateHolder](../)
 
 
-## CertificateHolder.Create(const System::ArrayPtr\<uint8_t\>\&, const System::String\&) method
+## CertificateHolder::Create(const System::ArrayPtr\<uint8_t\>\&, const System::String\&) method
 
 
 Creates [CertificateHolder](../) object using byte array of PKCS12 store and its password.
@@ -48,7 +48,7 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 An instance of [CertificateHolder](../)
 
 
-## CertificateHolder.Create(const System::String\&, const System::String\&) method
+## CertificateHolder::Create(const System::String\&, const System::String\&) method
 
 
 Creates [CertificateHolder](../) object using path to PKCS12 store and its password.
@@ -95,7 +95,7 @@ signOptions->set_SignTime(System::DateTime::get_Now());
 }
 ```
 
-## CertificateHolder.Create(const System::String\&, const System::String\&, const System::String\&) method
+## CertificateHolder::Create(const System::String\&, const System::String\&, const System::String\&) method
 
 
 Creates [CertificateHolder](../) object using path to PKCS12 store, its password and the alias by using which private key and certificate will be found.
