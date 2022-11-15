@@ -104,8 +104,7 @@ let parseCodeBlockLine (source: XElement): CodeBlockLineMarkup =
                 seq {yield highlightClass |> CodeBlockPortionMarkup.HighlightStart;
                      yield! element.Nodes() |> Seq.map parseCodeBlockLineImpl |> Seq.concat;
                      yield CodeBlockPortionMarkup.HighlightEnd}
-            | "ref" ->
-                seq {yield element |> parseMarkupRef |> CodeBlockPortionMarkup.Ref}
+            | "ref" -> element |> parseMarkupRef |> CodeBlockPortionMarkup.Ref |> Seq.singleton
             | "sp" -> CodeBlockPortionMarkup.Space |> Seq.singleton
             | name -> name |> failwithf "Unexpected Codeline markup XML element with name \"%s\""
         | :? XText -> (node :?> XText).Value |> CodeBlockPortionMarkup.Text |> Seq.singleton
@@ -156,9 +155,9 @@ let parseDetailedDescription (source: XElement): DetailedDescription =
             | "emphasis" -> element.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat
             // special processing for outer code (for classes & methods)
             | "parameterlist" -> Seq.empty
-            | name -> name |> failwithf "Unexpected enum detailed description XML element with name \"%s\""
+            | name -> name |> failwithf "Unexpected detailed description XML element with name \"%s\""
         | :? XText -> (node :?> XText).Value |> SimpleMarkupDef.Text |> DetailedDescriptionPart.SimpleMarkupPart |> Seq.singleton
-        | _ -> node.NodeType |> failwithf "Unexpected enum detailed description XML node with type %A"
+        | _ -> node.NodeType |> failwithf "Unexpected detailed description XML node with type %A"
     source.Nodes() |> Seq.map parseDetailedDescriptionPart |> Seq.concat |> Seq.toList
 
 let parseTemplateParameter (source: XElement) =

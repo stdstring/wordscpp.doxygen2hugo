@@ -249,7 +249,7 @@ let parseFieldDef (context: Context) (source: XElement) =
     let definition = "definition" |> Utils.getElementValue source
     let initializer = "initializer" |> Utils.findElementValue source
     let briefDescription = source |> parseBriefDescription
-    let detailedDescription = source |> parseTypedefDetailedDescription
+    let detailedDescription = source |> parseFieldDetailedDescription
     let fieldDef = {FieldDef.Id = id;
                     FieldDef.ParentId = context.ParentId;
                     FieldDef.IsStatic = staticValue;
