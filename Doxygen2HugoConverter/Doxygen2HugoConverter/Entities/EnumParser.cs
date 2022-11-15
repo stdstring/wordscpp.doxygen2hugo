@@ -9,13 +9,13 @@ namespace Doxygen2HugoConverter.Entities
 
     internal static class EnumParser
     {
-        public static EntityDef.EnumEntity? Parse(ParseState state, XElement source)
+        public static EntityDef.EnumEntity? ParseEnumEntity(this XElement source, ParseState state)
         {
             switch (source.GetAttributeValue("prot"))
             {
                 case "public":
                     String id = source.GetAttributeValue("id");
-                    BriefDescriptionPortion briefDescription = ParserUtils.ParseBriefDescription(source);
+                    BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
                     DetailedDescriptionPortion detailedDescription = ParseEnumDetailedDescription(source);
                     String name = source.GetChildElementValue("name");
                     String qualifiedName = source.GetChildElementValue("qualifiedname");
@@ -28,7 +28,7 @@ namespace Doxygen2HugoConverter.Entities
                             0 => null,
                             _ => values.Last().Initializer
                         };
-                        values.Add(ParseEnumValueEntity(values.Count == 0, prevValue, valueElement));
+                        values.Add(valueElement.ParseEnumValueEntity(values.Count == 0, prevValue));
                     }
                     EntityDef.EnumEntity result = new EntityDef.EnumEntity(id,
                                                                            state.ParentId,
@@ -45,7 +45,7 @@ namespace Doxygen2HugoConverter.Entities
             }
         }
 
-        private static Int32? ParseEnumValueInitializer(Boolean isFirst, Int32? prevValue, String? initializerSource)
+        private static Int32? ParseEnumValueInitializer(String? initializerSource, Boolean isFirst, Int32? prevValue)
         {
             return initializerSource?.Trim(' ', '=') switch
             {
@@ -71,17 +71,17 @@ namespace Doxygen2HugoConverter.Entities
             };
         }
 
-        private static EnumValueEntity ParseEnumValueEntity(Boolean isFirst, Int32? prevValue, XElement source)
+        private static EnumValueEntity ParseEnumValueEntity(this XElement source, Boolean isFirst, Int32? prevValue)
         {
             String id = source.GetAttributeValue("id");
             String name = source.GetChildElementValue("name");
-            BriefDescriptionPortion briefDescription = ParserUtils.ParseBriefDescription(source);
-            Int32? initializer = ParseEnumValueInitializer(isFirst, prevValue, source.FindChildElementValue("initializer"));
+            BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
+            Int32? initializer = ParseEnumValueInitializer(source.FindChildElementValue("initializer"), isFirst, prevValue);
             return new EnumValueEntity(id, name, initializer, briefDescription);
         }
 
         private static DetailedDescriptionPortion ParseEnumDetailedDescription(XElement source) =>
-            MarkupParser.ParseDetailedDescription(source.Element("detaileddescription")!);
+            source.Element("detaileddescription")!.ParseDetailedDescription();
 
         private const Int32 DefaultStartEnumValue = 0;
     }

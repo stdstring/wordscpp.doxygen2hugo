@@ -8,7 +8,7 @@ namespace Doxygen2HugoConverter.Entities
 
     internal static class ClassParser
     {
-        public static EntityDef.ClassEntity? Parse(ParseState state, XElement source)
+        public static EntityDef.ClassEntity? ParseClassEntity(this XElement source, ParseState state)
         {
             switch (source.GetAttributeValue("prot"))
             {
@@ -20,13 +20,13 @@ namespace Doxygen2HugoConverter.Entities
                         "interface" => ClassKind.Interface,
                         var value => throw new InvalidOperationException($"Unexpected kind value \"{value}\"")
                     };
-                    BriefDescriptionPortion briefDescription = ParserUtils.ParseBriefDescription(source);
-                    ClassDetailedDescription detailedDescription = MarkupParser.ParseClassDetailedDescription(source);
+                    BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
+                    ClassDetailedDescription detailedDescription = ParseClassDetailedDescription(source);
                     String fullName = source.GetChildElementValue("compoundname");
                     String name = NameUtils.GetClassName(fullName);
                     Boolean finalValue = source.FindYesNoValue("final");
                     IList<BaseClassEntity> baseClasses = source.Elements("basecompoundref").Select(ParseBaseClassDef).ToList();
-                    IList<String> templateParameters = ParserUtils.ParseTemplateParameters(source);
+                    IList<String> templateParameters = source.ParseTemplateParameters();
                     ParseState currentState = state with {ParentId = id, ParentName = name};
                     // Possible kind attribute values:
                     // "private-type",
@@ -37,9 +37,9 @@ namespace Doxygen2HugoConverter.Entities
                     // "public-static-func",
                     // "public-static-attrib",
                     // "public-type"
-                    IList<EntityDef.MethodGroupEntity> directMethods = ParseDirectMethods(currentState, source);
-                    IList<EntityDef.FieldEntity> fields = ParseDirectFields(currentState, source);
-                    IList<EntityDef.TypedefEntity> typedefs = ParseDirectTypedefs(currentState, source);
+                    IList<EntityDef.MethodGroupEntity> directMethods = source.ParseDirectMethods(currentState);
+                    IList<EntityDef.FieldEntity> fields = source.ParseDirectFields(currentState);
+                    IList<EntityDef.TypedefEntity> typedefs = source.ParseDirectTypedefs(currentState);
                     IList<MemberRef> memberRefs = source.Element("listofallmembers")!
                                                         .Elements("member")
                                                         .Choose(RefParser.ParseMemberRef)
@@ -58,7 +58,8 @@ namespace Doxygen2HugoConverter.Entities
                                                                              fields,
                                                                              typedefs,
                                                                              memberRefs);
-            throw new NotImplementedException();
+                    state.CommonEntityRepo.Add(id, result);
+                    return result;
                 default:
                     return null;
             }
@@ -72,10 +73,7 @@ namespace Doxygen2HugoConverter.Entities
             return new BaseClassEntity(access, virtualValue, qualifiedName);
         }
 
-        private static ClassDetailedDescription ParseClassDetailedDescription(XElement source) =>
-            MarkupParser.ParseClassDetailedDescription(source.Element("detaileddescription")!);
-
-        private static IList<EntityDef.MethodGroupEntity> ParseDirectMethods(ParseState state, XElement source)
+        private static IList<EntityDef.MethodGroupEntity> ParseDirectMethods(this XElement source, ParseState state)
         {
             Boolean KindFilterFun(XElement element)
             {
@@ -89,13 +87,13 @@ namespace Doxygen2HugoConverter.Entities
             return source.Elements("sectiondef")
                          .Where(KindFilterFun)
                          .SelectMany(section => section.Elements("memberdef"))
-                         .Select(element => MethodParser.Parse(state, element))
+                         .Select(element => element.ParseMethodEntity(state))
                          .GroupBy(methodEntity => methodEntity.Name)
                          .Select(group => new EntityDef.MethodGroupEntity(group.Key, group.ToList()))
                          .ToList();
         }
 
-        private static IList<EntityDef.FieldEntity> ParseDirectFields(ParseState state, XElement source)
+        private static IList<EntityDef.FieldEntity> ParseDirectFields(this XElement source, ParseState state)
         {
             Boolean KindFilterFun(XElement element)
             {
@@ -108,11 +106,11 @@ namespace Doxygen2HugoConverter.Entities
             return source.Elements("sectiondef")
                          .Where(KindFilterFun)
                          .SelectMany(section => section.Elements("memberdef"))
-                         .Select(element => FieldParser.Parse(state, element))
+                         .Select(element => element.ParseFieldEntity(state))
                          .ToList();
         }
 
-        private static IList<EntityDef.TypedefEntity> ParseDirectTypedefs(ParseState state, XElement source)
+        private static IList<EntityDef.TypedefEntity> ParseDirectTypedefs(this XElement source, ParseState state)
         {
             Boolean KindFilterFun(XElement element)
             {
@@ -125,8 +123,11 @@ namespace Doxygen2HugoConverter.Entities
             return source.Elements("sectiondef")
                          .Where(KindFilterFun)
                          .SelectMany(section => section.Elements("memberdef"))
-                         .Choose(element => TypedefParser.Parse(state, element))
+                         .Choose(element => element.ParseTypedefEntity(state))
                          .ToList();
         }
+
+        private static ClassDetailedDescription ParseClassDetailedDescription(XElement source) =>
+            source.Element("detaileddescription")!.ParseClassDetailedDescription();
     }
 }

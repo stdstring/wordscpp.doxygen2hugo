@@ -11,23 +11,23 @@ internal static class NamespaceParser
     {
         XDocument document = XDocument.Load(Path.Combine(config.SourceDirectory, namespaceRef.RefId + Common.SourceFileExtension));
         ParseState state = new ParseState("", "", commonEntityRepo);
-        return ParseNamespaceEntity(config, state, document.Root!.Elements("compounddef").Single());
+        return document.Root!.Elements("compounddef").Single().ParseNamespaceEntity(config, state);
     }
 
-    private static EntityDef.NamespaceEntity ParseNamespaceEntity(ConfigData config, ParseState state, XElement source)
+    private static EntityDef.NamespaceEntity ParseNamespaceEntity(this XElement source, ConfigData config, ParseState state)
     {
         String id = source.GetAttributeValue("id");
         String name = source.GetChildElementValue("compoundname");
-        IList<SimpleMarkupEntry> briefDescription = ParserUtils.ParseBriefDescription(source);
+        IList<SimpleMarkupEntry> briefDescription = source.ParseBriefDescription();
         IList<DetailedDescriptionMarkupEntry> detailedDescription = ParseNamespaceDetailedDescription(source);
         ParseState currentState = state with {ParentId = id, ParentName = name};
         IList<EntityDef.ClassEntity> classEntitySources = source.Elements("innerclass")
-            .SelectMany(element => ParseClassEntities(config, currentState, element))
+            .SelectMany(element => element.ParseClassEntities(config, currentState))
             .ToList();
         IList<EntityDef.ClassEntity> classEntities = classEntitySources.Where(entity => entity.Kind == ClassKind.Class).ToList();
         IList<EntityDef.ClassEntity> interfaceEntities = classEntitySources.Where(entity => entity.Kind == ClassKind.Interface).ToList();
-        IList<EntityDef.EnumEntity> enumEntities = ParseEnumEntities(currentState, source).ToList();
-        IList<EntityDef.TypedefEntity> typedefEntities = ParseTypedefEntities(currentState, source).ToList();
+        IList<EntityDef.EnumEntity> enumEntities = source.ParseEnumEntities(currentState).ToList();
+        IList<EntityDef.TypedefEntity> typedefEntities = source.ParseTypedefEntities(currentState).ToList();
         EntityDef.NamespaceEntity result = new EntityDef.NamespaceEntity(id,
             name,
             briefDescription,
@@ -40,34 +40,34 @@ internal static class NamespaceParser
         return result;
     }
 
-    private static IEnumerable<EntityDef.ClassEntity> ParseClassEntities(ConfigData config, ParseState state, XElement source)
+    private static IEnumerable<EntityDef.ClassEntity> ParseClassEntities(this XElement source, ConfigData config, ParseState state)
     {
         switch (source.GetAttributeValue("prot"))
         {
             case "public":
                 String refId = source.GetAttributeValue("refid");
                 XDocument document = XDocument.Load(Path.Combine(config.SourceDirectory, refId + Common.SourceFileExtension));
-                return document.Root!.Elements("compounddef").Select(element => ClassParser.Parse(state, element)).Choose();
+                return document.Root!.Elements("compounddef").Select(element => element.ParseClassEntity(state)).Choose();
             default:
                 return Enumerable.Empty<EntityDef.ClassEntity>();
 
         }
     }
 
-    private static IEnumerable<EntityDef.EnumEntity> ParseEnumEntities(ParseState state, XElement source)
+    private static IEnumerable<EntityDef.EnumEntity> ParseEnumEntities(this XElement source, ParseState state)
     {
         return source.Elements("sectiondef")
             .Where(element => element.GetAttributeValue("kind") == "enum")
-            .SelectMany(section => section.Elements("memberdef").Choose(def => EnumParser.Parse(state, def)));
+            .SelectMany(section => section.Elements("memberdef").Choose(def => def.ParseEnumEntity(state)));
     }
 
-    private static IEnumerable<EntityDef.TypedefEntity> ParseTypedefEntities(ParseState state, XElement source)
+    private static IEnumerable<EntityDef.TypedefEntity> ParseTypedefEntities(this XElement source, ParseState state)
     {
         return source.Elements("sectiondef")
             .Where(element => element.GetAttributeValue("kind") == "typedef")
-            .SelectMany(section => section.Elements("memberdef").Choose(def => TypedefParser.Parse(state, def)));
+            .SelectMany(section => section.Elements("memberdef").Choose(def => def.ParseTypedefEntity(state)));
     }
 
     private static IList<DetailedDescriptionMarkupEntry> ParseNamespaceDetailedDescription(XElement source) =>
-        MarkupParser.ParseDetailedDescription(source.Element("detaileddescription")!);
+        source.Element("detaileddescription")!.ParseDetailedDescription();
 }

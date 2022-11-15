@@ -37,12 +37,12 @@ namespace Doxygen2HugoConverter.Entities
                 var value => throw new InvalidOperationException($"Unexpected \"{name}\" attribute value \"{value}\"")
             };
 
-        public static IList<String> ParseTemplateParameters(XElement source) =>
+        public static IList<String> ParseTemplateParameters(this XElement source) =>
             source.Elements("templateparamlist")
                   .SelectMany(paramElement => paramElement.Elements("param").Select(element => element.Descendants("type").Single().Value))
                   .ToList();
 
-        public static BriefDescriptionPortion ParseBriefDescription(XElement source) =>
-            MarkupParser.ParseSimpleMarkup(source.Element("briefdescription")!);
+        public static BriefDescriptionPortion ParseBriefDescription(this XElement source) =>
+            source.Element("briefdescription")!.ParseSimpleMarkup();
     }
 }

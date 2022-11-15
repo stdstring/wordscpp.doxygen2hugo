@@ -8,7 +8,7 @@ namespace Doxygen2HugoConverter.Entities
 
     internal static class FieldParser
     {
-        public static EntityDef.FieldEntity Parse(ParseState state, XElement source)
+        public static EntityDef.FieldEntity ParseFieldEntity(this XElement source, ParseState state)
         {
             String id = source.GetAttributeValue("id");
             Boolean staticValue = source.GetYesNoValue("static");
@@ -19,7 +19,7 @@ namespace Doxygen2HugoConverter.Entities
             String fieldType = source.GetChildElementValue("type");
             String definition = source.GetChildElementValue("definition");
             String? initializer = source.FindChildElementValue("initializer");
-            BriefDescriptionPortion briefDescription = ParserUtils.ParseBriefDescription(source);
+            BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
             DetailedDescriptionPortion detailedDescription = ParseFieldDetailedDescription(source);
             EntityDef.FieldEntity result = new EntityDef.FieldEntity(id,
                                                                      state.ParentId,
@@ -38,6 +38,6 @@ namespace Doxygen2HugoConverter.Entities
         }
 
         private static DetailedDescriptionPortion ParseFieldDetailedDescription(XElement source) =>
-            MarkupParser.ParseDetailedDescription(source.Element("detaileddescription")!);
+            source.Element("detaileddescription")!.ParseDetailedDescription();
     }
 }

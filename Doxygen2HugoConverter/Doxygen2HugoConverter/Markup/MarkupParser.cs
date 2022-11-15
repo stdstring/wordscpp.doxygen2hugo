@@ -14,7 +14,7 @@ namespace Doxygen2HugoConverter.Markup
 
     internal static class MarkupParser
     {
-        public static SimpleMarkupPortion ParseSimpleMarkup(XElement source)
+        public static SimpleMarkupPortion ParseSimpleMarkup(this XElement source)
         {
             IEnumerable<SimpleMarkupEntry> ParseSimpleMarkupImpl(XNode node)
             {
@@ -34,9 +34,9 @@ namespace Doxygen2HugoConverter.Markup
                                 SimpleMarkupEntry boldEnd = new SimpleMarkupEntry.BoldEndEntry();
                                 return elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).CreateFrame(boldStart, boldEnd);
                             case "ref":
-                                return EnumerableUtils.CreateSingle(new SimpleMarkupEntry.RefEntry(ParseMarkupRef(elementNode)));
+                                return EnumerableUtils.CreateSingle(new SimpleMarkupEntry.RefEntry(elementNode.ParseMarkupRef()));
                             case "ulink":
-                                return EnumerableUtils.CreateSingle(new SimpleMarkupEntry.ExternalLinkEntry(ParseExternalLink(elementNode)));
+                                return EnumerableUtils.CreateSingle(new SimpleMarkupEntry.ExternalLinkEntry(elementNode.ParseExternalLink()));
                             default:
                                 throw new InvalidOperationException($"Unexpected SimpleMarkupEntry XML element named \"{elementNode.Name}\"");
                         }
@@ -53,7 +53,7 @@ namespace Doxygen2HugoConverter.Markup
             };
         }
 
-        public static DetailedDescriptionPortion ParseDetailedDescription(XElement source)
+        public static DetailedDescriptionPortion ParseDetailedDescription(this XElement source)
         {
             IEnumerable<DetailedDescriptionMarkupEntry> ParseDetailedDescriptionImpl(XNode node)
             {
@@ -73,9 +73,9 @@ namespace Doxygen2HugoConverter.Markup
                                 DetailedDescriptionMarkupEntry boldEnd = new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.BoldEndEntry());
                                 return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).CreateFrame(boldStart, boldEnd);
                             case "ref":
-                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.RefEntry(ParseMarkupRef(elementNode))));
+                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.RefEntry(elementNode.ParseMarkupRef())));
                             case "ulink":
-                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.ExternalLinkEntry(ParseExternalLink(elementNode))));
+                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.ExternalLinkEntry(elementNode.ParseExternalLink())));
                             case "linebreak":
                                 return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.LineBreakEntry()));
                             case "title":
@@ -92,9 +92,9 @@ namespace Doxygen2HugoConverter.Markup
                                 };
                             case "orderedlist":
                             case "itemizedlist":
-                                return EnumerableUtils.CreateSingle(ParseMarkupList(elementNode));
+                                return EnumerableUtils.CreateSingle(elementNode.ParseMarkupList());
                             case "programlisting":
-                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.CodeBlockEntry(ParseCodeBlock(elementNode)));
+                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.CodeBlockEntry(elementNode.ParseCodeBlock()));
                             case "emphasis":
                                 return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl);
                             // special processing for outer code (for classes & methods)
@@ -112,9 +112,9 @@ namespace Doxygen2HugoConverter.Markup
             return source.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList();
         }
 
-        public static ClassDetailedDescription ParseClassDetailedDescription(XElement source)
+        public static ClassDetailedDescription ParseClassDetailedDescription(this XElement source)
         {
-            DetailedDescriptionPortion detailedDescription = ParseDetailedDescription(source);
+            DetailedDescriptionPortion detailedDescription = source.ParseDetailedDescription();
             IList<TemplateParameter> templateParameters = source.Descendants("parameterlist")
                                                                 .Where(element => element.GetAttributeValue("kind") == "templateparam")
                                                                 .SelectMany(ParseTemplateParameters)
@@ -122,9 +122,9 @@ namespace Doxygen2HugoConverter.Markup
             return new ClassDetailedDescription(templateParameters, detailedDescription);
         }
 
-        public static MethodDetailedDescription ParseMethodDetailedDescription(XElement source)
+        public static MethodDetailedDescription ParseMethodDetailedDescription(this XElement source)
         {
-            DetailedDescriptionPortion detailedDescription = ParseDetailedDescription(source);
+            DetailedDescriptionPortion detailedDescription = source.ParseDetailedDescription();
             IList<TemplateParameter> templateParameters = source.Descendants("parameterlist")
                                                                 .Where(element => element.GetAttributeValue("kind") == "templateparam")
                                                                 .SelectMany(ParseTemplateParameters)
@@ -133,7 +133,7 @@ namespace Doxygen2HugoConverter.Markup
                                                 .SingleOrDefault(element => element.GetAttributeValue("kind") == "return");
             SimpleMarkupPortion returnValue = returnValueSource == null
                 ? new List<SimpleMarkupEntry>()
-                : ParseSimpleMarkup(returnValueSource);
+                : returnValueSource.ParseSimpleMarkup();
             IList<MethodArg> methodArgs = source.Descendants("parameterlist")
                                                 .Where(element => element.GetAttributeValue("kind") == "param")
                                                 .SelectMany(ParseMethodArgs)
@@ -141,7 +141,7 @@ namespace Doxygen2HugoConverter.Markup
             return new MethodDetailedDescription(templateParameters, methodArgs, returnValue, detailedDescription);
         }
 
-    private static MarkupRef ParseMarkupRef(XElement source)
+        private static MarkupRef ParseMarkupRef(this XElement source)
         {
             String refId = source.GetAttributeValue("refid");
             String? kind = source.FindAttributeValue("kindref");
@@ -151,7 +151,7 @@ namespace Doxygen2HugoConverter.Markup
             return new MarkupRef(refId, kind, external, tooltip, text);
         }
 
-        private static ExternalLinkData ParseExternalLink(XElement source)
+        private static ExternalLinkData ParseExternalLink(this XElement source)
         {
             String url = source.GetAttributeValue("url");
             String text = source.Value;
@@ -173,7 +173,7 @@ namespace Doxygen2HugoConverter.Markup
                                 CodeBlockMarkupEntry frameEnd = new CodeBlockMarkupEntry.HighlightEndEntry();
                                 return elementNode.Nodes().SelectMany(ParseCodeBlockLineImpl).CreateFrame(frameStart, frameEnd);
                             case "ref":
-                                return EnumerableUtils.CreateSingle(new CodeBlockMarkupEntry.RefEntry(ParseMarkupRef(elementNode)));
+                                return EnumerableUtils.CreateSingle(new CodeBlockMarkupEntry.RefEntry(elementNode.ParseMarkupRef()));
                             case "sp":
                                 return EnumerableUtils.CreateSingle(new CodeBlockMarkupEntry.SpaceEntry());
                             default:
@@ -188,10 +188,10 @@ namespace Doxygen2HugoConverter.Markup
             return source.Nodes().SelectMany(ParseCodeBlockLineImpl).ToList();
         }
 
-        private static IList<CodeBlockMarkupLine> ParseCodeBlock(XElement source) =>
+        private static IList<CodeBlockMarkupLine> ParseCodeBlock(this XElement source) =>
             source.Elements("codeline").Select(ParseCodeBlockLine).ToList();
 
-        private static DetailedDescriptionMarkupEntry.ListEntry ParseMarkupList(XElement source)
+        private static DetailedDescriptionMarkupEntry.ListEntry ParseMarkupList(this XElement source)
         {
             IList<SimpleMarkupPortion> items = source.Elements("listitem").Select(ParseSimpleMarkup).ToList();
             return source.Name.LocalName switch
@@ -205,7 +205,7 @@ namespace Doxygen2HugoConverter.Markup
         private static TemplateParameter ParseTemplateParameter(XElement source)
         {
             String name = source.Descendants("parametername").Single().Value;
-            SimpleMarkupPortion description = ParseSimpleMarkup(source.Descendants("parameterdescription").Single());
+            SimpleMarkupPortion description = source.Descendants("parameterdescription").Single().ParseSimpleMarkup();
             return new TemplateParameter(name, description);
         }
 
@@ -215,7 +215,7 @@ namespace Doxygen2HugoConverter.Markup
         private static MethodArg ParseMethodArg(XElement source)
         {
             String name = source.Descendants("parametername").Single().Value;
-            SimpleMarkupPortion description = ParseSimpleMarkup(source.Descendants("parameterdescription").Single());
+            SimpleMarkupPortion description = source.Descendants("parameterdescription").Single().ParseSimpleMarkup();
             return new MethodArg(name, description);
         }
 

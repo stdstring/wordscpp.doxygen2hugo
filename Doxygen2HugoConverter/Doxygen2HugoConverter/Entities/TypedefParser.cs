@@ -8,13 +8,13 @@ namespace Doxygen2HugoConverter.Entities
 
     internal static class TypedefParser
     {
-        public static EntityDef.TypedefEntity? Parse(ParseState state, XElement source)
+        public static EntityDef.TypedefEntity? ParseTypedefEntity(this XElement source, ParseState state)
         {
             switch (source.GetAttributeValue("prot"))
             {
                 case "public":
                     String id = source.GetAttributeValue("id");
-                    BriefDescriptionPortion briefDescription = ParserUtils.ParseBriefDescription(source);
+                    BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
                     DetailedDescriptionPortion detailedDescription = ParseTypedefDetailedDescription(source);
                     String name = source.GetChildElementValue("name");
                     String qualifiedName = source.GetChildElementValue("qualifiedname");
@@ -36,6 +36,6 @@ namespace Doxygen2HugoConverter.Entities
         }
 
         private static DetailedDescriptionPortion ParseTypedefDetailedDescription(XElement source) =>
-            MarkupParser.ParseDetailedDescription(source.Element("detaileddescription")!);
+            source.Element("detaileddescription")!.ParseDetailedDescription();
     }
 }

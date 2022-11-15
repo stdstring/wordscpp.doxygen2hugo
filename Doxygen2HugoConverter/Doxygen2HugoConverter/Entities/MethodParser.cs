@@ -7,7 +7,7 @@ namespace Doxygen2HugoConverter.Entities
 
     internal static class MethodParser
     {
-        public static EntityDef.MethodEntity Parse(ParseState state, XElement source)
+        public static EntityDef.MethodEntity ParseMethodEntity(this XElement source, ParseState state)
         {
             String id = source.GetAttributeValue("id");
             Boolean staticValue = source.GetYesNoValue("static");
@@ -16,13 +16,13 @@ namespace Doxygen2HugoConverter.Entities
             Boolean virtualValue = source.GetVirtualValue();
             String name = source.GetChildElementValue("name");
             //String qualifiedName = source.GetChildElementValue("qualifiedname");
-            BriefDescriptionPortion returnType = MarkupParser.ParseSimpleMarkup(source.GetChildElement("type"));
+            BriefDescriptionPortion returnType = source.GetChildElement("type").ParseSimpleMarkup();
             String definition = source.GetChildElementValue("definition");
             String argString = source.GetChildElementValue("argsstring");
-            BriefDescriptionPortion briefDescription = MarkupParser.ParseSimpleMarkup(source);
+            BriefDescriptionPortion briefDescription = source.ParseSimpleMarkup();
             MethodDetailedDescription detailedDescription = ParseMethodDetailedDescription(source);
             Boolean overrideValue = argString.EndsWith(OverrideSuffix);
-            IList<String> templateParameters = ParserUtils.ParseTemplateParameters(source);
+            IList<String> templateParameters = source.ParseTemplateParameters();
             IList<MethodArgEntity> parameters = source.Elements("param").Select(ParseMethodParameter).ToList();
             EntityDef.MethodEntity result = new EntityDef.MethodEntity(id,
                                                                        state.ParentId,
@@ -47,12 +47,12 @@ namespace Doxygen2HugoConverter.Entities
         private static MethodArgEntity ParseMethodParameter(XElement source)
         {
             String paramName = source.GetChildElementValue("declname");
-            BriefDescriptionPortion paramType = MarkupParser.ParseSimpleMarkup(source.GetChildElement("type"));
+            BriefDescriptionPortion paramType = source.GetChildElement("type").ParseSimpleMarkup();
             return new MethodArgEntity(paramName, paramType);
         }
 
         private static MethodDetailedDescription ParseMethodDetailedDescription(XElement source) =>
-            MarkupParser.ParseMethodDetailedDescription(source.Element("detaileddescription")!);
+            source.Element("detaileddescription")!.ParseMethodDetailedDescription();
 
         private const String OverrideSuffix = " override";
     }

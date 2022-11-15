@@ -36,7 +36,7 @@ namespace Doxygen2HugoConverter.Refs
             };
         }
 
-        private static NamespaceRef ParseNamespaceRef(XElement source)
+        private static NamespaceRef ParseNamespaceRef(this XElement source)
         {
             String refId = source.GetAttributeValue("refid");
             String name = source.GetAttributeValue("name");
@@ -47,7 +47,7 @@ namespace Doxygen2HugoConverter.Refs
         private static NamespaceRef? ParseCompoundElement(XElement source) =>
             source.GetAttributeValue("kind") switch
             {
-                "namespace" => ParseNamespaceRef(source),
+                "namespace" => source.ParseNamespaceRef(),
                 "class" => null,
                 "interface" => null,
                 "file" => null,
