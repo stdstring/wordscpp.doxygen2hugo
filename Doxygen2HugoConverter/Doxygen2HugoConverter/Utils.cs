@@ -69,5 +69,19 @@ namespace Doxygen2HugoConverter
         {
             return Enumerable.Repeat(item, 1);
         }
+
+        public static void Iterate<TItem>(this IEnumerable<TItem> source, Action<TItem> action)
+        {
+            foreach (TItem item in source)
+                action(item);
+        }
+    }
+
+    internal static class ListUtils
+    {
+        public static Boolean IsEmpty<TItem>(this IList<TItem> source)
+        {
+            return source.Count == 0;
+        }
     }
 }

@@ -15,7 +15,7 @@ namespace Doxygen2HugoConverter.Entities
             Boolean explicitValue = source.GetYesNoValue("explicit");
             Boolean virtualValue = source.GetVirtualValue();
             String name = source.GetChildElementValue("name");
-            //String qualifiedName = source.GetChildElementValue("qualifiedname");
+            String qualifiedName = source.GetChildElementValue("qualifiedname");
             BriefDescriptionPortion returnType = source.GetChildElement("type").ParseSimpleMarkup();
             String definition = source.GetChildElementValue("definition");
             String argString = source.GetChildElementValue("argsstring");
@@ -28,6 +28,7 @@ namespace Doxygen2HugoConverter.Entities
                                                                        state.ParentId,
                                                                        name,
                                                                        state.ParentName,
+                                                                       qualifiedName,
                                                                        staticValue,
                                                                        constValue,
                                                                        explicitValue,

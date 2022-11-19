@@ -18,6 +18,8 @@ namespace Doxygen2HugoConverter.Entities
 
     internal record BaseClassEntity(String Access, Boolean Virtual, String QualifiedName);
 
+    internal record MethodGroupEntity(String Name, IList<EntityDef.MethodEntity> Methods);
+
     internal abstract record EntityDef
     {
         internal record EnumEntity(String Id,
@@ -55,6 +57,7 @@ namespace Doxygen2HugoConverter.Entities
                                      String ParentId,
                                      String Name,
                                      String ClassName,
+                                     String QualifiedName,
                                      Boolean IsStatic,
                                      Boolean IsConst,
                                      Boolean IsExplicit,
@@ -67,8 +70,6 @@ namespace Doxygen2HugoConverter.Entities
                                      IList<String> TemplateParameters,
                                      IList<MethodArgEntity> Args,
                                      SimpleMarkupPortion ReturnType) : EntityDef;
-
-        internal record MethodGroupEntity(String Name, IList<MethodEntity> Methods) : EntityDef;
 
         internal record ClassEntity(String Id,
                                     String ParentId,

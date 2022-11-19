@@ -37,7 +37,7 @@ namespace Doxygen2HugoConverter.Entities
                     // "public-static-func",
                     // "public-static-attrib",
                     // "public-type"
-                    IList<EntityDef.MethodGroupEntity> directMethods = source.ParseDirectMethods(currentState);
+                    IList<MethodGroupEntity> directMethods = source.ParseDirectMethods(currentState);
                     IList<EntityDef.FieldEntity> fields = source.ParseDirectFields(currentState);
                     IList<EntityDef.TypedefEntity> typedefs = source.ParseDirectTypedefs(currentState);
                     IList<MemberRef> memberRefs = source.Element("listofallmembers")!
@@ -73,7 +73,7 @@ namespace Doxygen2HugoConverter.Entities
             return new BaseClassEntity(access, virtualValue, qualifiedName);
         }
 
-        private static IList<EntityDef.MethodGroupEntity> ParseDirectMethods(this XElement source, ParseState state)
+        private static IList<MethodGroupEntity> ParseDirectMethods(this XElement source, ParseState state)
         {
             Boolean KindFilterFun(XElement element)
             {
@@ -89,7 +89,7 @@ namespace Doxygen2HugoConverter.Entities
                          .SelectMany(section => section.Elements("memberdef"))
                          .Select(element => element.ParseMethodEntity(state))
                          .GroupBy(methodEntity => methodEntity.Name)
-                         .Select(group => new EntityDef.MethodGroupEntity(group.Key, group.ToList()))
+                         .Select(group => new MethodGroupEntity(group.Key, group.ToList()))
                          .ToList();
         }
 

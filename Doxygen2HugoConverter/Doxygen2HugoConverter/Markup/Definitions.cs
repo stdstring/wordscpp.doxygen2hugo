@@ -1,17 +1,15 @@
 ﻿namespace Doxygen2HugoConverter.Markup
 {
     using SimpleMarkupPortion = IList<SimpleMarkupEntry>;
-
     using CodeBlockMarkupLine = IList<CodeBlockMarkupEntry>;
-
     using DetailedDescriptionPortion = IList<DetailedDescriptionMarkupEntry>;
-
     using TemplateParameters = IList<TemplateParameter>;
-
     using MethodArgs = IList<MethodArg>;
 
+    // TODO (std_string) : think about moving data into RefEntry
     internal record MarkupRef(String RefId, String? Kind, String? External, String? Tooltip, String Text);
 
+    // TODO (std_string) : think about moving data into ExternalLinkEntry
     internal record ExternalLinkData(String Url, String Text);
 
     internal abstract record SimpleMarkupEntry
