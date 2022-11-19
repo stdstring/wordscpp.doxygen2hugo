@@ -19,7 +19,7 @@ namespace Doxygen2HugoConverter.Entities
             BriefDescriptionPortion returnType = source.GetChildElement("type").ParseSimpleMarkup();
             String definition = source.GetChildElementValue("definition");
             String argString = source.GetChildElementValue("argsstring");
-            BriefDescriptionPortion briefDescription = source.ParseSimpleMarkup();
+            BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
             MethodDetailedDescription detailedDescription = ParseMethodDetailedDescription(source);
             Boolean overrideValue = argString.EndsWith(OverrideSuffix);
             IList<String> templateParameters = source.ParseTemplateParameters();

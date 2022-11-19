@@ -93,7 +93,6 @@ namespace Doxygen2HugoConverter.Generator
             GeneratorUtils.GenerateTableHeader(new[] {"Enum", "Description"}, dest);
             enumEntities.Iterate(entity => entity.GenerateForEnum(state));
             enumEntities.CreateEnumEntries(state).Iterate(entry => { dest.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
-            throw new NotImplementedException();
         }
     }
 }

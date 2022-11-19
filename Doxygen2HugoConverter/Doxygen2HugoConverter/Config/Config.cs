@@ -52,7 +52,7 @@
             String[] mandatoryKeys = {SourceKey, DestKey};
             foreach (String key in mandatoryKeys)
             {
-                if (configData.ContainsKey(key) || String.IsNullOrEmpty(configData[key]))
+                if (!configData.ContainsKey(key) || String.IsNullOrEmpty(configData[key]))
                     return new ConfigResult.WrongConfig(Help);
             }
             ConfigData data = new ConfigData(configData[SourceKey], configData[DestKey]);
