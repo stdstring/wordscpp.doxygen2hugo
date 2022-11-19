@@ -7,7 +7,7 @@ namespace Doxygen2HugoConverter.Entities;
 
 internal static class NamespaceParser
 {
-    public static EntityDef.NamespaceEntity ParseNamespaceFile(ConfigData config, IDictionary<String, EntityDef> commonEntityRepo, NamespaceRef namespaceRef)
+    public static EntityDef.NamespaceEntity ParseNamespaceFile(this NamespaceRef namespaceRef, ConfigData config, IDictionary<String, EntityDef> commonEntityRepo)
     {
         XDocument document = XDocument.Load(Path.Combine(config.SourceDirectory, namespaceRef.RefId + Common.SourceFileExtension));
         ParseState state = new ParseState("", "", commonEntityRepo);

@@ -5,11 +5,11 @@ namespace Doxygen2HugoConverter.Refs
 {
     internal static class RefParser
     {
-        public static NamespaceRef[] ParseIndexFile(ConfigData config)
+        public static IList<NamespaceRef> ParseIndexFile(ConfigData config)
         {
             XDocument document = XDocument.Load(Path.Combine(config.SourceDirectory, Common.IndexFilename));
             XElement root = document.Root!;
-            return root.Elements("compound").Choose(ParseCompoundElement).ToArray();
+            return root.Elements("compound").Choose(ParseCompoundElement).ToList();
         }
 
         public static MemberRef? ParseMemberRef(XElement source)

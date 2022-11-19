@@ -6,7 +6,7 @@ namespace Doxygen2HugoConverter.Generator
 {
     internal static class RootGenerator
     {
-        internal static void Generate(this IList<EntityDef.NamespaceEntity> entities, ConfigData config, IDictionary<string, EntityDef> commonEntityRepo)
+        internal static void GenerateForNamespaces(this IList<EntityDef.NamespaceEntity> entities, ConfigData config, IDictionary<string, EntityDef> commonEntityRepo)
         {
             String rootDirectory = PrepareDirectory(config);
             IList<String> rootUrl = new List<String>{Common.RootDirectory};
