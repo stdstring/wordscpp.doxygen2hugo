@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/sectionbreakchar/
 End of section character: (char)12 or "\f".
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::SectionBreakChar
+static constexpr char16_t Aspose::Words::ControlChar::SectionBreakChar
 ```
 
 

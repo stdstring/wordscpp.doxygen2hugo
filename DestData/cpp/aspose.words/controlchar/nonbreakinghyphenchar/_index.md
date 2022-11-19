@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/nonbreakinghyphenchar/
 Nonbreaking Hyphen in Microsoft Word is (char)30.
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::NonBreakingHyphenChar
+static constexpr char16_t Aspose::Words::ControlChar::NonBreakingHyphenChar
 ```
 
 

@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/spacechar/
 Space character: (char)32.
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::SpaceChar
+static constexpr char16_t Aspose::Words::ControlChar::SpaceChar
 ```
 
 

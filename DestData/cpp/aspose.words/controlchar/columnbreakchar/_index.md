@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/columnbreakchar/
 End of column character: (char)14.
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::ColumnBreakChar
+static constexpr char16_t Aspose::Words::ControlChar::ColumnBreakChar
 ```
 
 

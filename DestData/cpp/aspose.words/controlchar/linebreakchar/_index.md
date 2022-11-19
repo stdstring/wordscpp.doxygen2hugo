@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/linebreakchar/
 Line break character: (char)11 or "\v".
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::LineBreakChar
+static constexpr char16_t Aspose::Words::ControlChar::LineBreakChar
 ```
 
 

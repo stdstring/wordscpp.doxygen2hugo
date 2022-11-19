@@ -5,7 +5,7 @@ open System.Text
 
 let generateDefinition (fieldDef: Defs.FieldDef) (dest: StringBuilder) =
     "```cpp" |> dest.AppendLine |> ignore
-    if fieldDef.IsStatic |> not then
+    if fieldDef.IsStatic then
         "static " |> dest.Append |> ignore
     fieldDef.Definition.Replace("< ", "<").Replace(" >", ">") |> dest.Append |> ignore
     dest.AppendLine() |> ignore
