@@ -22,7 +22,6 @@ bool Aspose::Words::Fields::FormField::Accept(System::SharedPtr<Aspose::Words::D
 
 ### ReturnValue
 
-
 False if the visitor requested the enumeration to stop.
 
 Calls [DocumentVisitor.VisitFormField](../../../aspose.words/documentvisitor/visitformfield/).

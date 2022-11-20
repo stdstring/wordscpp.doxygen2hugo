@@ -18,7 +18,6 @@ virtual System::SharedPtr<System::IO::Stream> Aspose::Words::Fonts::StreamFontSo
 
 ### ReturnValue
 
-
 [Font](../../../aspose.words/font/) data stream.
 
 ## Examples

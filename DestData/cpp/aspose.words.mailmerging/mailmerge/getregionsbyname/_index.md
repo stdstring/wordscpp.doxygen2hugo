@@ -22,7 +22,6 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 
 ### ReturnValue
 
-
 The list of regions.
 
 ## Examples

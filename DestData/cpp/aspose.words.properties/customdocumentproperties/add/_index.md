@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 ### ReturnValue
 
-
 The newly created property object.
 
 ## Examples
@@ -105,7 +104,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 | value | const System::String\& | The value of the property. |
 
 ### ReturnValue
-
 
 The newly created property object.
 
@@ -189,7 +187,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 ### ReturnValue
 
-
 The newly created property object.
 
 ## Examples
@@ -272,7 +269,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 ### ReturnValue
 
-
 The newly created property object.
 
 ## Examples
@@ -354,7 +350,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 | value | System::DateTime | The value of the property. |
 
 ### ReturnValue
-
 
 The newly created property object.
 

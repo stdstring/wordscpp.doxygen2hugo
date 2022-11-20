@@ -25,7 +25,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 Shape node containing Ole object and inserted at the current Builder position.
 
 
@@ -47,7 +46,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 | presentation | const System::SharedPtr\<System::IO::Stream\>\& | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
 
 ### ReturnValue
-
 
 Shape node containing Ole object and inserted at the current Builder position.
 
@@ -71,7 +69,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 | presentation | const System::SharedPtr\<System::IO::Stream\>\& | Image presentation of OLE object. If value is null Aspose.Words will use one of the predefined images. |
 
 ### ReturnValue
-
 
 Shape node containing Ole object and inserted at the current Builder position.
 

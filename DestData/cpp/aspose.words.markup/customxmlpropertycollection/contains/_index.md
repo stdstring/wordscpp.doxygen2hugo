@@ -22,7 +22,6 @@ bool Aspose::Words::Markup::CustomXmlPropertyCollection::Contains(const System::
 
 ### ReturnValue
 
-
 True if the item is found in the collection; otherwise, false.
 
 ## Examples

@@ -81,7 +81,6 @@ bool Aspose::Words::Document::Unprotect(const System::String &password)
 
 ### ReturnValue
 
-
 True if a correct password was specified and the document was unprotected.
 
 This method unprotects the document only if a correct password is specified.

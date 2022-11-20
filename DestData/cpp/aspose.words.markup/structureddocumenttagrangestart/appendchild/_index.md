@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::StructuredDocument
 
 ### ReturnValue
 
-
 The node added.
 
 

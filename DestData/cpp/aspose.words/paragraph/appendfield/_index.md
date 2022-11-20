@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 
 ### ReturnValue
 
-
 A [Field](../../../aspose.words.fields/field/) object that represents the appended field.
 
 ## Examples
@@ -71,7 +70,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 | fieldCode | const System::String\& | The field code to append (without curly braces). |
 
 ### ReturnValue
-
 
 A [Field](../../../aspose.words.fields/field/) object that represents the appended field.
 
@@ -121,7 +119,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 | fieldValue | const System::String\& | The field value to append. Pass null for fields that do not have a value. |
 
 ### ReturnValue
-
 
 A [Field](../../../aspose.words.fields/field/) object that represents the appended field.
 

@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::DocumentBuilder::De
 
 ### ReturnValue
 
-
 The row node that was just removed.
 
 If the cursor is inside the row that is being deleted, the cursor is moved out to the next row or to the next paragraph after the table.

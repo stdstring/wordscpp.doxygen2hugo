@@ -22,7 +22,6 @@ bool Aspose::Words::VariableCollection::Contains(const System::String &name)
 
 ### ReturnValue
 
-
 True if item is found in the collection; otherwise, false.
 
 ## Examples

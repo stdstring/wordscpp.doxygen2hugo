@@ -25,7 +25,6 @@ virtual System::SharedPtr<Aspose::Words::Fields::FieldDatabaseDataTable> Aspose:
 
 ### ReturnValue
 
-
 The [FieldDatabaseDataTable](../../fielddatabasedatatable/) instance that should be used for the field's update.
 
 

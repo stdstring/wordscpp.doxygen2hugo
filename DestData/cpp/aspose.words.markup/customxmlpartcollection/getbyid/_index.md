@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::C
 
 ### ReturnValue
 
-
 Returns **null** if a custom XML part with the specified identifier is not found.
 
 ## Examples

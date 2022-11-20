@@ -29,7 +29,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 The image node that was just inserted.
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
@@ -66,7 +65,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 | height | double | The height of the image in points. Can be a negative or zero value to request 100% scale. |
 
 ### ReturnValue
-
 
 The image node that was just inserted.
 

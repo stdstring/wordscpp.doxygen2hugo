@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::DocumentBuilder::En
 
 ### ReturnValue
 
-
 The row node that was just finished.
 
 Call **EndRow** to end a table row. If you call [InsertCell](../insertcell/) immediately after that, then the table continues on a new row.

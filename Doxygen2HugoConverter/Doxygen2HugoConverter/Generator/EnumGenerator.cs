@@ -11,7 +11,7 @@ namespace Doxygen2HugoConverter.Generator
             String enumDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(enumDirectory);
             IList<String> enumUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = state with {Directory = enumDirectory, Url = enumUrl};
+            GenerateState currentState = new GenerateState(enumDirectory, enumUrl, state.CommonEntityRepo);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
@@ -48,10 +48,10 @@ namespace Doxygen2HugoConverter.Generator
             foreach (EnumValueEntity enumValue in enumValues)
             {
                 String valueBriefDescription = enumValue.BriefDescription.CreateSimpleMarkup(relativeUrlGenerator);
-                String? initializer = enumValue.Initializer switch
+                String initializer = enumValue.Initializer switch
                 {
-                    null => null,
-                    var value => value.ToString()
+                    null => "n/a",
+                    var value => value.Value.ToString()
                 };
                 dest.AppendLine($"| {enumValue.Name} | {initializer} | {valueBriefDescription} |");
             }

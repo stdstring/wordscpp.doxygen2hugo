@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::CompositeNode> Aspose::Words::Node::GetAncestor
 
 ### ReturnValue
 
-
 The ancestor of the specified type or null if no ancestor of this type was found.
 
 ## Examples

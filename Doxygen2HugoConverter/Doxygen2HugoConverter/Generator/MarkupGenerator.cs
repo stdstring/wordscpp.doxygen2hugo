@@ -24,7 +24,8 @@ namespace Doxygen2HugoConverter.Generator
                         break;
                 }
             }
-            return result.ToString();
+            // TODO (std_string) : think about removing call of Trim method
+            return result.ToString().Trim();
         }
 
         // TODO (std_string) : think about name
@@ -144,7 +145,7 @@ namespace Doxygen2HugoConverter.Generator
                 StringBuilder line = new StringBuilder();
                 item.Iterate(entry => entry.GenerateSimpleMarkupEntry(relativeUrlGenerator, line));
                 dest.Append(listMarker);
-                dest.Append(line.ToString().Trim());
+                dest.AppendLine(line.ToString().Trim());
             });
             dest.AppendLine();
         }

@@ -22,7 +22,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerable<System::String>> Asp
 
 ### ReturnValue
 
-
 List of alternative font names.
 
 ## Examples

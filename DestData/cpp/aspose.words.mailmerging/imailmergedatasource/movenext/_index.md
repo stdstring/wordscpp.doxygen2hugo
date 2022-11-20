@@ -18,7 +18,6 @@ virtual bool Aspose::Words::MailMerging::IMailMergeDataSource::MoveNext()=0
 
 ### ReturnValue
 
-
 True if moved to next record successfully. False if reached end of the data source.
 
 ## Examples

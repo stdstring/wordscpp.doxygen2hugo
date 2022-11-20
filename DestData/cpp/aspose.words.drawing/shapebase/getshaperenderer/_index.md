@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Rendering::ShapeRenderer> Aspose::Words::Drawin
 
 ### ReturnValue
 
-
 The renderer object for this shape.
 
 This method just invokes the [ShapeRenderer](../../../aspose.words.rendering/shaperenderer/) constructor and passes this object as a parameter.

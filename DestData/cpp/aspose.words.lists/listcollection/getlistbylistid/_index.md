@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 ### ReturnValue
 
-
 Returns the list object. Returns null if a list with the specified identifier was not found.
 
 You don't normally need to use this method. Most of the time you apply list formatting to paragraphs just by settings the [List](../../listformat/get_list/) property of the [ListFormat](../../listformat/) object.

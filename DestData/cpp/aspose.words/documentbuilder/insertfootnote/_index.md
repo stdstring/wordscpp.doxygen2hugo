@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Notes::Footnote> Aspose::Words::DocumentBuilder
 
 ### ReturnValue
 
-
 Returns a footnote object that was just created.
 
 ## Examples
@@ -73,7 +72,6 @@ System::SharedPtr<Aspose::Words::Notes::Footnote> Aspose::Words::DocumentBuilder
 | referenceMark | const System::String\& | Specifies the custom reference mark of the footnote. |
 
 ### ReturnValue
-
 
 Returns a footnote object that was just created.
 

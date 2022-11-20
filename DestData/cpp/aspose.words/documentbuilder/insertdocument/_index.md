@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBuilder::InsertDoc
 
 ### ReturnValue
 
-
 First node of the inserted content.
 
 ## Examples
@@ -62,7 +61,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBuilder::InsertDoc
 | importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Allows to specify options that affect formatting of a result document. |
 
 ### ReturnValue
-
 
 First node of the inserted content.
 

@@ -22,7 +22,6 @@ int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey(const
 
 ### ReturnValue
 
-
 The zero based index. Negative value if not found.
 
 ## Examples

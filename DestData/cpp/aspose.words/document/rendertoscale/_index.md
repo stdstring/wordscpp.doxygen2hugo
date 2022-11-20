@@ -26,7 +26,6 @@ System::Drawing::SizeF Aspose::Words::Document::RenderToScale(int32_t pageIndex,
 
 ### ReturnValue
 
-
 The width and height (in world units) of the rendered page.
 
 ## Examples

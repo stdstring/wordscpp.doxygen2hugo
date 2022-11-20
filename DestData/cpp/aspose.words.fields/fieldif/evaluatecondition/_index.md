@@ -18,7 +18,6 @@ Aspose::Words::Fields::FieldIfComparisonResult Aspose::Words::Fields::FieldIf::E
 
 ### ReturnValue
 
-
 A [FieldIfComparisonResult](../../fieldifcomparisonresult/) value that represents the result of the condition evaluation.
 
 ## Examples

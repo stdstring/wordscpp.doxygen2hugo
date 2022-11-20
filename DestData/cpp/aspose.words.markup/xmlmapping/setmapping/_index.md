@@ -24,7 +24,6 @@ bool Aspose::Words::Markup::XmlMapping::SetMapping(const System::SharedPtr<Aspos
 
 ### ReturnValue
 
-
 A flag indicating whether the parent structured document tag is successfully mapped to the XML node.
 
 ## Examples

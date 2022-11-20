@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Document::Clone()
 
 ### ReturnValue
 
-
 The cloned document.
 
 ## Examples

@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Paragraph>> Aspose::Words::Par
 
 ### ReturnValue
 
-
 An array of paragraphs.
 
 ## Examples

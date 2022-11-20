@@ -22,7 +22,6 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set(const Syste
 
 ### ReturnValue
 
-
 The outline level of the bookmark. Valid range is 0 to 9.
 
 ## Examples
@@ -97,7 +96,6 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set(int32_t ind
 | index | int32_t | Zero-based index of the bookmark. |
 
 ### ReturnValue
-
 
 The outline level of the bookmark. Valid range is 0 to 9.
 

@@ -23,7 +23,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 ### ReturnValue
 
-
 An instance of [CertificateHolder](../)
 
 
@@ -44,7 +43,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 ### ReturnValue
 
-
 An instance of [CertificateHolder](../)
 
 
@@ -64,7 +62,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 | password | const System::String\& | The password required to access the X.509 certificate data. |
 
 ### ReturnValue
-
 
 An instance of [CertificateHolder](../)
 
@@ -112,7 +109,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 | alias | const System::String\& | The associated alias for a certificate and its private key |
 
 ### ReturnValue
-
 
 An instance of [CertificateHolder](../)
 

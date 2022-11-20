@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 
 ### ReturnValue
 
-
 The form field node that was just inserted.
 
 If you specify a name for the form field, then a bookmark is automatically created with the same name.
@@ -76,7 +75,6 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 | size | int32_t | Specifies the size of the checkbox in points. Specify 0 for MS Word to calculate the size of the checkbox automatically. |
 
 ### ReturnValue
-
 
 The form field node that was just inserted.
 

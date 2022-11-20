@@ -22,7 +22,6 @@ int32_t Aspose::Words::VariableCollection::IndexOfKey(const System::String &name
 
 ### ReturnValue
 
-
 The zero based index. Negative value if not found.
 
 ## Examples

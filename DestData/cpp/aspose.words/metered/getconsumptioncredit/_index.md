@@ -18,7 +18,6 @@ static System::Decimal Aspose::Words::Metered::GetConsumptionCredit()
 
 ### ReturnValue
 
-
 consumption quantity
 
 

@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldBuil
 
 ### ReturnValue
 
-
 A [Field](../../field/) object that represents the inserted field.
 
 ## Examples
@@ -59,7 +58,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldBuil
 
 
 ### ReturnValue
-
 
 A [Field](../../field/) object that represents the inserted field.
 

@@ -22,7 +22,6 @@ int32_t Aspose::Words::Properties::DocumentPropertyCollection::IndexOf(const Sys
 
 ### ReturnValue
 
-
 The zero based index. Negative value if not found.
 
 ## Examples

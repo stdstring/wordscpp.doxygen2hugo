@@ -24,7 +24,6 @@ static System::String Aspose::Words::Lists::ListLevel::GetEffectiveValue(int32_t
 
 ### ReturnValue
 
-
 The string representation of the [ListLevel](../) object, described by the numberStyle parameter and the customNumberStyleFormat parameter, in the list item at the position determined by the index parameter.
 
 ## Examples

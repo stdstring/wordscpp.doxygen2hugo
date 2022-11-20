@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Node>> Aspose::Words::NodeColl
 
 ### ReturnValue
 
-
 An array of nodes.
 
 You should not be adding/removing nodes while iterating over a collection of nodes because it invalidates the iterator and requires refreshes for live collections.

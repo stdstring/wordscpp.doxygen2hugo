@@ -22,7 +22,6 @@ Aspose::Words::Fields::GeneralFormat Aspose::Words::Fields::GeneralFormatCollect
 
 ### ReturnValue
 
-
 A general format.
 
 ## Examples

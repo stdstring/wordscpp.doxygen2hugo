@@ -25,7 +25,6 @@ System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::RenderToScale
 
 ### ReturnValue
 
-
 The width and height (in world units) of the rendered shape.
 
 

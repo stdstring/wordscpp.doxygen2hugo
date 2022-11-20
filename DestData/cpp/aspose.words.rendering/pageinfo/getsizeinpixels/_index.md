@@ -23,7 +23,6 @@ System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels(float 
 
 ### ReturnValue
 
-
 The size of the page in pixels.
 
 
@@ -44,7 +43,6 @@ System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels(float 
 | verticalDpi | float | The vertical resolution to convert from points to pixels (dots per inch). |
 
 ### ReturnValue
-
 
 The size of the page in pixels.
 

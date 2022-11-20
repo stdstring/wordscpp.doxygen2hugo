@@ -22,7 +22,6 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 
 ### ReturnValue
 
-
 True if the merge field was found and the cursor was moved; false otherwise.
 
 Note that this method deletes the merge field from the document after moving the cursor.
@@ -75,7 +74,6 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 | isDeleteField | bool | When true, deletes the merge field. |
 
 ### ReturnValue
-
 
 True if the merge field was found and the cursor was moved; false otherwise.
 

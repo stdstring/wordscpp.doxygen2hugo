@@ -11,7 +11,7 @@ namespace Doxygen2HugoConverter.Generator
             String classDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(classDirectory);
             IList<String> classUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = state with {Directory = classDirectory, Url = classUrl};
+            GenerateState currentState = new GenerateState(classDirectory, classUrl, state.CommonEntityRepo);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
@@ -67,7 +67,7 @@ namespace Doxygen2HugoConverter.Generator
                 dest.Append($"template<{String.Join(',', entity.TemplateParameters)}>");
             dest.Append($"class {entity.Name}");
             if (!entity.BaseClasses.IsEmpty())
-                dest.Append($": {String.Join(", ", entity.BaseClasses.Select(CreateBaseClass))}");
+                dest.Append($" : {String.Join(", ", entity.BaseClasses.Select(CreateBaseClass))}");
             dest.AppendLine();
             dest.AppendLine("```");
             dest.AppendLine();

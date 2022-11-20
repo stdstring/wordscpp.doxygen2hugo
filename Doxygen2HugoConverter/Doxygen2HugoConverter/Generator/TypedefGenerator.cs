@@ -11,7 +11,7 @@ namespace Doxygen2HugoConverter.Generator
             String typedefDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(typedefDirectory);
             IList<String> typedefUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = state with {Directory = typedefDirectory, Url = typedefUrl};
+            GenerateState currentState = new GenerateState(typedefDirectory, typedefUrl, state.CommonEntityRepo);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();

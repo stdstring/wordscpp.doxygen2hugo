@@ -22,7 +22,6 @@ bool Aspose::Words::Font::HasDmlEffect(Aspose::Words::TextDmlEffect dmlEffectTyp
 
 ### ReturnValue
 
-
 True if particular DrawingML text effect is applied.
 
 ## Examples

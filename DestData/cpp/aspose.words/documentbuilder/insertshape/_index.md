@@ -29,7 +29,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 The shape node that was inserted.
 
 ## Examples
@@ -75,7 +74,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 | height | double | The height of the shape in points. |
 
 ### ReturnValue
-
 
 The shape node that was inserted.
 

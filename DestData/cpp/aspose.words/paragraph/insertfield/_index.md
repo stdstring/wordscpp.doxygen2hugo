@@ -25,7 +25,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Insert
 
 ### ReturnValue
 
-
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 
 ## Examples
@@ -85,7 +84,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Insert
 | isAfter | bool | Whether to insert the field after or before reference node. |
 
 ### ReturnValue
-
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 
@@ -147,7 +145,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Insert
 | isAfter | bool | Whether to insert the field after or before reference node. |
 
 ### ReturnValue
-
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 

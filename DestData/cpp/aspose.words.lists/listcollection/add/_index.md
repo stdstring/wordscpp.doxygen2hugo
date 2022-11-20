@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 ### ReturnValue
 
-
 The newly created list.
 
 Aspose.Words list templates correspond to the 21 list templates available in the Bullets and Numbering dialog box in Microsoft Word 2003.
@@ -160,7 +159,6 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 | listStyle | const System::SharedPtr\<Aspose::Words::Style\>\& | The list style. |
 
 ### ReturnValue
-
 
 The newly created list.
 

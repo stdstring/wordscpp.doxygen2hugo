@@ -37,7 +37,7 @@ namespace Doxygen2HugoConverter.Generator
             String methodDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(methodDirectory);
             IList<String> methodUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = state with {Directory = methodDirectory, Url = methodUrl};
+            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.CommonEntityRepo);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             if (isFirst)
@@ -121,7 +121,7 @@ namespace Doxygen2HugoConverter.Generator
         {
             dest.AppendLine("```cpp");
             if (!entity.TemplateParameters.IsEmpty())
-                dest.AppendLine($"template<{String.Join(",", entity.TemplateParameters)}>");
+                dest.Append($"template<{String.Join(",", entity.TemplateParameters)}> ");
             dest.Append(entity.Definition.Replace("< ", "<").Replace(" >", ">"));
             dest.Append(entity.ArgString.Replace("< ", "<").Replace(" >", ">"));
             dest.AppendLine();

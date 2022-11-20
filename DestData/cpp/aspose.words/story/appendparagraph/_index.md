@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Story::AppendParagrap
 
 ### ReturnValue
 
-
 The newly created and appended paragraph.
 
 ## Examples

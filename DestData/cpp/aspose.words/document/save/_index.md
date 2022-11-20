@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 ### ReturnValue
 
-
 Additional information that you can optionally use.
 
 ## Examples
@@ -89,7 +88,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 ### ReturnValue
 
-
 Additional information that you can optionally use.
 
 ## Examples
@@ -138,7 +136,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 ### ReturnValue
 
-
 Additional information that you can optionally use.
 
 ## Examples
@@ -170,7 +167,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 
 ### ReturnValue
 
-
 Additional information that you can optionally use.
 
 ## Examples
@@ -201,7 +197,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 | saveOptions | const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\& | Specifies the options that control how the document is saved. Can be null. |
 
 ### ReturnValue
-
 
 Additional information that you can optionally use.
 

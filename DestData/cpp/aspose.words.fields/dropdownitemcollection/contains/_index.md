@@ -22,7 +22,6 @@ bool Aspose::Words::Fields::DropDownItemCollection::Contains(const System::Strin
 
 ### ReturnValue
 
-
 True if the item is found in the collection; otherwise, false.
 
 ## Examples

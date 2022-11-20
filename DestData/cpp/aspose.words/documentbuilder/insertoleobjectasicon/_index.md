@@ -25,7 +25,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 Shape node containing Ole object and inserted at the current Builder position.
 
 ## Examples
@@ -77,7 +76,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 Shape node containing Ole object and inserted at the current Builder position.
 
 
@@ -100,7 +98,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 | iconCaption | const System::String\& | Icon caption. If the value is null, Aspose.Words will use the file name. |
 
 ### ReturnValue
-
 
 Shape node containing Ole object and inserted at the current Builder position.
 

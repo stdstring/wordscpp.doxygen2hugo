@@ -22,7 +22,6 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitHeader
 
 ### ReturnValue
 
-
 A [VisitorAction](../../visitoraction/) value that specifies how to continue the enumeration.
 
 ## Examples
