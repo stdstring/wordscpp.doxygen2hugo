@@ -5,6 +5,8 @@ using Doxygen2HugoConverter.Refs;
 
 namespace Doxygen2HugoConverter.Entities;
 
+using DetailedDescriptionPortion = IList<DetailedDescriptionMarkupEntry>;
+
 internal static class NamespaceParser
 {
     public static EntityDef.NamespaceEntity ParseNamespaceFile(this NamespaceRef namespaceRef, ConfigData config, IDictionary<String, EntityDef> commonEntityRepo)
@@ -68,6 +70,6 @@ internal static class NamespaceParser
             .SelectMany(section => section.Elements("memberdef").Choose(def => def.ParseTypedefEntity(state)));
     }
 
-    private static IList<DetailedDescriptionMarkupEntry> ParseNamespaceDetailedDescription(XElement source) =>
+    private static DetailedDescriptionPortion ParseNamespaceDetailedDescription(XElement source) =>
         source.Element("detaileddescription")!.ParseDetailedDescription();
 }

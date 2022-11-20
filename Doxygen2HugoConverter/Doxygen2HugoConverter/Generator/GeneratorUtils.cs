@@ -66,8 +66,6 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine();
         }
 
-        public static String CreateLink(String name, String url) => $"[{name}]({url})";
-
         public static void GenerateTemplateParameters(this TemplateParameters templateParameters, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
         {
             if (templateParameters.IsEmpty())
@@ -80,5 +78,7 @@ namespace Doxygen2HugoConverter.Generator
                 dest.AppendLine($"| {templateParameter.Name} | {parameterDescription} |");
             }
         }
+
+        public static String CreateLink(String name, String url) => $"[{name}]({url})";
     }
 }

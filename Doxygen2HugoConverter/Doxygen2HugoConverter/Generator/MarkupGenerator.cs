@@ -33,7 +33,7 @@ namespace Doxygen2HugoConverter.Generator
         {
             StringBuilder result = new StringBuilder();
             description.Iterate(entry => entry.GenerateSimpleMarkupEntry(relativeUrlGenerator, result));
-            // TODO (std_string) : think about removing call of Trim method
+            // TODO (std_string) : think about removing call of Trim method (probably use more smart solution)
             return result.ToString().Trim();
         }
 
