@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldprint/
 Implements the PRINT field.
 
 ```cpp
-class FieldPrint : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldPrint : public Aspose::Words::Fields::Field,
+                   public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

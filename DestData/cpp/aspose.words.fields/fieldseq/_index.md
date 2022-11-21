@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldseq/
 Implements the SEQ field.
 
 ```cpp
-class FieldSeq : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldSeq : public Aspose::Words::Fields::Field,
+                 public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

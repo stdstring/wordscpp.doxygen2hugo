@@ -12,7 +12,8 @@ url: /cpp/aspose.words/paragraphformat/
 Represents all the formatting for a paragraph.
 
 ```cpp
-class ParagraphFormat : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource
+class ParagraphFormat : public Aspose::Words::IBorderAttrSource,
+                        public Aspose::Words::IShadingAttrSource
 ```
 
 ## Methods

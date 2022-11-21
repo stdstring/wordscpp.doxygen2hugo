@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldadvance/
 Implements the ADVANCE field.
 
 ```cpp
-class FieldAdvance : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldAdvance : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

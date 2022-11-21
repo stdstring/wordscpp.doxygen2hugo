@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldxe/
 Implements the XE field.
 
 ```cpp
-class FieldXE : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldXE : public Aspose::Words::Fields::Field,
+                public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldimport/
 Implements the IMPORT field.
 
 ```cpp
-class FieldImport : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludePictureCode
+class FieldImport : public Aspose::Words::Fields::Field,
+                    public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                    public Aspose::Words::Fields::IFieldIncludePictureCode
 ```
 
 ## Methods

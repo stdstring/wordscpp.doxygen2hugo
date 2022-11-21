@@ -12,7 +12,8 @@ url: /cpp/aspose.words/shading/
 Contains shading attributes for an object.
 
 ```cpp
-class Shading : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IComplexAttr
+class Shading : public Aspose::Words::InternableComplexAttr,
+                public Aspose::Words::IComplexAttr
 ```
 
 ## Methods

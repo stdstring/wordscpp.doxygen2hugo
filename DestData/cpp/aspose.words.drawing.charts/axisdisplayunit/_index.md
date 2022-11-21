@@ -12,7 +12,8 @@ url: /cpp/aspose.words.drawing.charts/axisdisplayunit/
 Provides access to the scaling options of the display units for the value axis.
 
 ```cpp
-class AxisDisplayUnit : public Aspose::Words::Drawing::Charts::Core::IDmlChartTitleHolder, public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
+class AxisDisplayUnit : public Aspose::Words::Drawing::Charts::Core::IDmlChartTitleHolder,
+                        public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
 ## Methods

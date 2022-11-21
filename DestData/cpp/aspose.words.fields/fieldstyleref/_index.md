@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldstyleref/
 Implements the STYLEREF field.
 
 ```cpp
-class FieldStyleRef : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldStyleRef : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

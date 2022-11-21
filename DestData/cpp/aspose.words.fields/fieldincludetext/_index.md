@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldincludetext/
 Implements the INCLUDETEXT field.
 
 ```cpp
-class FieldIncludeText : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludeTextCode
+class FieldIncludeText : public Aspose::Words::Fields::Field,
+                         public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                         public Aspose::Words::Fields::IFieldIncludeTextCode
 ```
 
 ## Methods

@@ -12,7 +12,9 @@ url: /cpp/aspose.words.drawing.charts/chartaxis/
 Represents the axis options of the chart.
 
 ```cpp
-class ChartAxis : public Aspose::Words::Drawing::Charts::Core::IDmlChartTitleHolder, public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource, public Aspose::Words::Drawing::Charts::Core::INumberFormatProvider
+class ChartAxis : public Aspose::Words::Drawing::Charts::Core::IDmlChartTitleHolder,
+                  public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource,
+                  public Aspose::Words::Drawing::Charts::Core::INumberFormatProvider
 ```
 
 ## Methods

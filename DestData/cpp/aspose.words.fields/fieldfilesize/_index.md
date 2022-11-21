@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldfilesize/
 Implements the FILESIZE field.
 
 ```cpp
-class FieldFileSize : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldFileSize : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

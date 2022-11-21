@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldref/
 Implements the REF field.
 
 ```cpp
-class FieldRef : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IMergeFieldSurrogate
+class FieldRef : public Aspose::Words::Fields::Field,
+                 public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                 public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
 ## Methods

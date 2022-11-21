@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldindex/
 Implements the INDEX field.
 
 ```cpp
-class FieldIndex : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldIndex : public Aspose::Words::Fields::Field,
+                   public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

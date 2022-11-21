@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldlistnum/
 Implements the LISTNUM field.
 
 ```cpp
-class FieldListNum : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldListNum : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldnoteref/
 Implements the NOTEREF field.
 
 ```cpp
-class FieldNoteRef : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldNoteRef : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

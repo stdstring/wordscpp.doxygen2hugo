@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldmacrobutton/
 Implements the MACROBUTTON field.
 
 ```cpp
-class FieldMacroButton : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
+class FieldMacroButton : public Aspose::Words::Fields::Field,
+                         public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
 ## Methods

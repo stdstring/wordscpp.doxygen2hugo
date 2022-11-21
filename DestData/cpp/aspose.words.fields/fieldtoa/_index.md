@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldtoa/
 Implements the TOA field.
 
 ```cpp
-class FieldToa : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldToa : public Aspose::Words::Fields::Field,
+                 public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

@@ -12,7 +12,8 @@ url: /cpp/aspose.words.drawing.charts/charttitle/
 Provides access to the chart title properties.
 
 ```cpp
-class ChartTitle : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource, public Aspose::Words::IRunAttrSource
+class ChartTitle : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource,
+                   public Aspose::Words::IRunAttrSource
 ```
 
 ## Methods

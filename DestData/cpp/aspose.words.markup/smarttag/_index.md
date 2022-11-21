@@ -12,7 +12,8 @@ url: /cpp/aspose.words.markup/smarttag/
 This element specifies the presence of a smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.
 
 ```cpp
-class SmartTag : public Aspose::Words::CompositeNode, public Aspose::Words::Markup::IMarkupNode
+class SmartTag : public Aspose::Words::CompositeNode,
+                 public Aspose::Words::Markup::IMarkupNode
 ```
 
 ## Methods

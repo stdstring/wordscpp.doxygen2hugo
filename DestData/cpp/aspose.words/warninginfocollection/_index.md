@@ -12,7 +12,8 @@ url: /cpp/aspose.words/warninginfocollection/
 Represents a typed collection of [WarningInfo](../warninginfo/) objects.
 
 ```cpp
-class WarningInfoCollection : public Aspose::Words::IWarningCallback, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::WarningInfo>>
+class WarningInfoCollection : public Aspose::Words::IWarningCallback,
+                              public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::WarningInfo>>
 ```
 
 ## Methods

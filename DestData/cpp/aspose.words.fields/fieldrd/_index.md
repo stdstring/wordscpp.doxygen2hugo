@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldrd/
 Implements the RD field.
 
 ```cpp
-class FieldRD : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldRD : public Aspose::Words::Fields::Field,
+                public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

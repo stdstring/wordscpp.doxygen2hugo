@@ -12,7 +12,8 @@ url: /cpp/aspose.words.drawing.charts/chartseries/
 Represents chart series properties.
 
 ```cpp
-class ChartSeries : public Aspose::Words::Drawing::Charts::IChartDataPoint, public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
+class ChartSeries : public Aspose::Words::Drawing::Charts::IChartDataPoint,
+                    public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource
 ```
 
 ## Methods

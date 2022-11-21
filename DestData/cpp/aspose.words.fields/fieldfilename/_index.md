@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldfilename/
 Implements the FILENAME field.
 
 ```cpp
-class FieldFileName : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldFileName : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

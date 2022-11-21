@@ -50,7 +50,7 @@ namespace Doxygen2HugoConverter.Generator
             return entities.Choose(CreateEntry).ToList();
         }
 
-        private static String CreateBaseClass(BaseClassEntity entity)
+        private static String CreateBaseClass(this BaseClassEntity entity)
         {
             StringBuilder result = new StringBuilder();
             result.Append($"{entity.Access} ");
@@ -60,15 +60,30 @@ namespace Doxygen2HugoConverter.Generator
             return result.ToString();
         }
 
+        private static void GenerateBaseClasses(this IList<BaseClassEntity> entities, Int32 indentationValue, StringBuilder dest)
+        {
+            dest.AppendLine($"{entities[0].CreateBaseClass()}{(entities.Count > 1 ? "," : "")}");
+            String indentation = new String(' ', indentationValue);
+            Int32 maxIndex = entities.Count - 1;
+            for (Int32 index = 1; index < entities.Count; ++index)
+                dest.AppendLine($"{indentation}{entities[index].CreateBaseClass()}{(index < maxIndex ? "," : "")}");
+        }
+
         private static void GenerateClassDefinition(this EntityDef.ClassEntity entity, StringBuilder dest)
         {
             dest.AppendLine("```cpp");
+            Int32 startSize = dest.Length;
             if (!entity.TemplateParameters.IsEmpty())
                 dest.Append($"template<{String.Join(',', entity.TemplateParameters)}>");
             dest.Append($"class {entity.Name}");
-            if (!entity.BaseClasses.IsEmpty())
-                dest.Append($" : {String.Join(", ", entity.BaseClasses.Select(CreateBaseClass))}");
-            dest.AppendLine();
+            if (entity.BaseClasses.IsEmpty())
+                dest.AppendLine();
+            else
+            {
+                dest.Append(" : ");
+                Int32 indentationValue = dest.Length - startSize;
+                entity.BaseClasses.GenerateBaseClasses(indentationValue, dest);
+            }
             dest.AppendLine("```");
             dest.AppendLine();
         }

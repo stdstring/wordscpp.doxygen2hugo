@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fonts/streamfontsource/
 Base class for user-defined stream font source.
 
 ```cpp
-class StreamFontSource : public Aspose::Words::Fonts::FontSourceBase, public Aspose::Fonts::IFontData
+class StreamFontSource : public Aspose::Words::Fonts::FontSourceBase,
+                         public Aspose::Fonts::IFontData
 ```
 
 ## Methods

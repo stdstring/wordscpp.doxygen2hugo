@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldunknown/
 Implements an unknown or unrecognized field.
 
 ```cpp
-class FieldUnknown : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
+class FieldUnknown : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
 ## Methods

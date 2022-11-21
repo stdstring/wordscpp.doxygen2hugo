@@ -12,7 +12,9 @@ url: /cpp/aspose.words/comment/
 Represents a container for text of a comment.
 
 ```cpp
-class Comment : public Aspose::Words::InlineStory, public Aspose::Words::INodeWithAnnotationId, public Aspose::Words::Revisions::IMoveTrackableNode
+class Comment : public Aspose::Words::InlineStory,
+                public Aspose::Words::INodeWithAnnotationId,
+                public Aspose::Words::Revisions::IMoveTrackableNode
 ```
 
 ## Methods

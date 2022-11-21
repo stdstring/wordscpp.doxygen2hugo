@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldtc/
 Implements the TC field.
 
 ```cpp
-class FieldTC : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::ITocEntry
+class FieldTC : public Aspose::Words::Fields::Field,
+                public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                public Aspose::Words::Fields::ITocEntry
 ```
 
 ## Methods

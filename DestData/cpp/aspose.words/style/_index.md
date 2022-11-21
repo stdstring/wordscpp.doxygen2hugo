@@ -12,7 +12,8 @@ url: /cpp/aspose.words/style/
 Represents a single built-in or user-defined style.
 
 ```cpp
-class Style : public Aspose::Words::IParaAttrSource, public Aspose::Words::IRunAttrSource
+class Style : public Aspose::Words::IParaAttrSource,
+              public Aspose::Words::IRunAttrSource
 ```
 
 ## Methods

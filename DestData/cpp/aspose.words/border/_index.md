@@ -12,7 +12,8 @@ url: /cpp/aspose.words/border/
 Represents a border of an object.
 
 ```cpp
-class Border : public Aspose::Words::InternableComplexAttr, public Aspose::Words::IComplexAttr
+class Border : public Aspose::Words::InternableComplexAttr,
+               public Aspose::Words::IComplexAttr
 ```
 
 ## Methods

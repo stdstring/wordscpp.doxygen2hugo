@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldpageref/
 Implements the PAGEREF field.
 
 ```cpp
-class FieldPageRef : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldPageRef : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldddeauto/
 Implements the DDEAUTO field.
 
 ```cpp
-class FieldDdeAuto : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldDdeAuto : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

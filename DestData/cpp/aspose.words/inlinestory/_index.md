@@ -12,7 +12,8 @@ url: /cpp/aspose.words/inlinestory/
 Base class for inline-level nodes that can contain paragraphs and tables.
 
 ```cpp
-class InlineStory : public Aspose::Words::CompositeNode, public Aspose::Words::IInline
+class InlineStory : public Aspose::Words::CompositeNode,
+                    public Aspose::Words::IInline
 ```
 
 ## Methods

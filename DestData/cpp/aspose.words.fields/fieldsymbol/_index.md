@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldsymbol/
 Implements a SYMBOL field.
 
 ```cpp
-class FieldSymbol : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldSymbol : public Aspose::Words::Fields::Field,
+                    public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

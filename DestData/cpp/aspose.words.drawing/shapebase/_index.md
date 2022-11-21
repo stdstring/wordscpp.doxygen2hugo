@@ -12,7 +12,12 @@ url: /cpp/aspose.words.drawing/shapebase/
 Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture.
 
 ```cpp
-class ShapeBase : public Aspose::Words::CompositeNode, public Aspose::Words::IInline, public Aspose::Words::Drawing::Core::IShape, public Aspose::Words::IShapeAttrSource, public Aspose::Words::Revisions::ITrackableNode, public Aspose::Words::Drawing::Core::IFillable
+class ShapeBase : public Aspose::Words::CompositeNode,
+                  public Aspose::Words::IInline,
+                  public Aspose::Words::Drawing::Core::IShape,
+                  public Aspose::Words::IShapeAttrSource,
+                  public Aspose::Words::Revisions::ITrackableNode,
+                  public Aspose::Words::Drawing::Core::IFillable
 ```
 
 ## Methods

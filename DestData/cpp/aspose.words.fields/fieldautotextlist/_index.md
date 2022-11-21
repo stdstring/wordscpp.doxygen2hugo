@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldautotextlist/
 Implements the AUTOTEXTLIST field.
 
 ```cpp
-class FieldAutoTextList : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldAutoTextList : public Aspose::Words::Fields::Field,
+                          public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

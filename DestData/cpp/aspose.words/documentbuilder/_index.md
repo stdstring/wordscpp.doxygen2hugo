@@ -12,7 +12,9 @@ url: /cpp/aspose.words/documentbuilder/
 Provides methods to insert text, images and other content, specify font, paragraph and section formatting. To learn more, visit the [Document Builder Overview](https://docs.aspose.com/words/net/document-builder-overview/) documentation article.
 
 ```cpp
-class DocumentBuilder : public Aspose::Words::IRunAttrSource, public Aspose::Words::IRowAttrSource, public Aspose::Words::ICellAttrSource
+class DocumentBuilder : public Aspose::Words::IRunAttrSource,
+                        public Aspose::Words::IRowAttrSource,
+                        public Aspose::Words::ICellAttrSource
 ```
 
 ## Methods

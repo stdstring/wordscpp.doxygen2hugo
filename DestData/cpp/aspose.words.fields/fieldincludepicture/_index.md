@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldincludepicture/
 Implements the INCLUDEPICTURE field.
 
 ```cpp
-class FieldIncludePicture : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFieldIncludePictureCode
+class FieldIncludePicture : public Aspose::Words::Fields::Field,
+                            public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                            public Aspose::Words::Fields::IFieldIncludePictureCode
 ```
 
 ## Methods

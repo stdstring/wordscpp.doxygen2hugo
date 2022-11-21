@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldcitation/
 Implements the CITATION field.
 
 ```cpp
-class FieldCitation : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldCitation : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

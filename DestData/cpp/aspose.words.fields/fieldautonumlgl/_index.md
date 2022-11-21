@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldautonumlgl/
 Implements the AUTONUMLGL field.
 
 ```cpp
-class FieldAutoNumLgl : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldAutoNumLgl : public Aspose::Words::Fields::Field,
+                        public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

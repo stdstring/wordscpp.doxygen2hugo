@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fielddatabase/
 Implements the DATABASE field.
 
 ```cpp
-class FieldDatabase : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldDatabase : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

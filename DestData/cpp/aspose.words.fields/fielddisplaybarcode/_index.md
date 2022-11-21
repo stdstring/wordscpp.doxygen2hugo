@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fielddisplaybarcode/
 Implements the DISPLAYBARCODE field.
 
 ```cpp
-class FieldDisplayBarcode : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldDisplayBarcode : public Aspose::Words::Fields::Field,
+                            public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

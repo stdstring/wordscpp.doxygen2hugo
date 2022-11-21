@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldcreatedate/
 Implements the CREATEDATE field.
 
 ```cpp
-class FieldCreateDate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldCreateDate : public Aspose::Words::Fields::Field,
+                        public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

@@ -12,7 +12,8 @@ url: /cpp/aspose.words.notes/footnote/
 Represents a container for text of a footnote or endnote.
 
 ```cpp
-class Footnote : public Aspose::Words::InlineStory, public Aspose::Words::Revisions::ITrackableNode
+class Footnote : public Aspose::Words::InlineStory,
+                 public Aspose::Words::Revisions::ITrackableNode
 ```
 
 ## Methods

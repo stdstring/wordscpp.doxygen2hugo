@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fielddate/
 Implements the DATE field.
 
 ```cpp
-class FieldDate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldDate : public Aspose::Words::Fields::Field,
+                  public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

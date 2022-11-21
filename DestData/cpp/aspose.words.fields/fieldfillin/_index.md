@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldfillin/
 Implements the FILLIN field.
 
 ```cpp
-class FieldFillIn : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldFillIn : public Aspose::Words::Fields::Field,
+                    public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

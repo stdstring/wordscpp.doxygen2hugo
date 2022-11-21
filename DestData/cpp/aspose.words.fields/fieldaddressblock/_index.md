@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldaddressblock/
 Implements the ADDRESSBLOCK field.
 
 ```cpp
-class FieldAddressBlock : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::IFormattableMergeField
+class FieldAddressBlock : public Aspose::Words::Fields::Field,
+                          public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                          public Aspose::Words::Fields::IFormattableMergeField
 ```
 
 ## Methods

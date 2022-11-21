@@ -12,7 +12,9 @@ url: /cpp/aspose.words/commentrangestart/
 Denotes the start of a region of text that has a comment associated with it.
 
 ```cpp
-class CommentRangeStart : public Aspose::Words::Node, public Aspose::Words::IDisplaceableByCustomXml, public Aspose::Words::INodeWithAnnotationId
+class CommentRangeStart : public Aspose::Words::Node,
+                          public Aspose::Words::IDisplaceableByCustomXml,
+                          public Aspose::Words::INodeWithAnnotationId
 ```
 
 ## Methods

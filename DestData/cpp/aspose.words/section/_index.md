@@ -12,7 +12,8 @@ url: /cpp/aspose.words/section/
 Represents a single section in a document.
 
 ```cpp
-class Section : public Aspose::Words::CompositeNode, public Aspose::Words::ISectionAttrSource
+class Section : public Aspose::Words::CompositeNode,
+                public Aspose::Words::ISectionAttrSource
 ```
 
 ## Methods

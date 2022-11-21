@@ -12,7 +12,9 @@ url: /cpp/aspose.words.tables/cell/
 Represents a table cell.
 
 ```cpp
-class Cell : public Aspose::Words::CompositeNode, public Aspose::Words::ICellAttrSource, public Aspose::Words::Revisions::ITrackableNode
+class Cell : public Aspose::Words::CompositeNode,
+             public Aspose::Words::ICellAttrSource,
+             public Aspose::Words::Revisions::ITrackableNode
 ```
 
 ## Methods

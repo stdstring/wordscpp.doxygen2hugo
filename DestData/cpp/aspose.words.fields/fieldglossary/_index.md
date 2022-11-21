@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldglossary/
 Implements the GLOSSARY field.
 
 ```cpp
-class FieldGlossary : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldAutoTextCode
+class FieldGlossary : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldAutoTextCode
 ```
 
 ## Methods

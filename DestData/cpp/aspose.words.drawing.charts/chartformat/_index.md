@@ -12,7 +12,8 @@ url: /cpp/aspose.words.drawing.charts/chartformat/
 Represents the formatting of a chart element.
 
 ```cpp
-class ChartFormat : public Aspose::Words::Drawing::Core::IFillable, public Aspose::Words::Drawing::Core::IStrokable
+class ChartFormat : public Aspose::Words::Drawing::Core::IFillable,
+                    public Aspose::Words::Drawing::Core::IStrokable
 ```
 
 ## Methods

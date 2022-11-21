@@ -12,7 +12,8 @@ url: /cpp/aspose.words.drawing.charts/chartlegendentry/
 Represents a chart legend entry.
 
 ```cpp
-class ChartLegendEntry : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource, public Aspose::Words::IRunAttrSource
+class ChartLegendEntry : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource,
+                         public Aspose::Words::IRunAttrSource
 ```
 
 ## Methods

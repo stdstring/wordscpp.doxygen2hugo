@@ -12,7 +12,9 @@ url: /cpp/aspose.words.layout/layoutenumerator/
 Enumerates page layout entities of a document. You can use this class to walk over the page layout model. Available properties are type, geometry, text and page index where entity is rendered, as well as overall structure and relationships. Use combination of **GetEntity()** and [Current](./get_current/) move to the entity which corresponds to a document node.
 
 ```cpp
-class LayoutEnumerator : public System::Object, public System::Details::EnumeratorBasedIterator<System::SharedPtr<System::Object>>, private System::Details::IteratorPointerUpdater<System::SharedPtr<System::Object>, false>
+class LayoutEnumerator : public System::Object,
+                         public System::Details::EnumeratorBasedIterator<System::SharedPtr<System::Object>>,
+                         private System::Details::IteratorPointerUpdater<System::SharedPtr<System::Object>, false>
 ```
 
 ## Methods

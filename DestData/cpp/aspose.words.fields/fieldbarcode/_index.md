@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldbarcode/
 Implements the BARCODE field.
 
 ```cpp
-class FieldBarcode : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldBarcode : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

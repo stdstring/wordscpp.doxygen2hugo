@@ -12,7 +12,9 @@ url: /cpp/aspose.words.drawing/shape/
 Represents an object in the drawing layer, such as an AutoShape, textbox, freeform, OLE object, ActiveX control, or picture.
 
 ```cpp
-class Shape : public Aspose::Words::Drawing::ShapeBase, public Aspose::Words::Drawing::Core::ITextBox, public Aspose::Words::Drawing::Core::IStrokable
+class Shape : public Aspose::Words::Drawing::ShapeBase,
+              public Aspose::Words::Drawing::Core::ITextBox,
+              public Aspose::Words::Drawing::Core::IStrokable
 ```
 
 ## Methods

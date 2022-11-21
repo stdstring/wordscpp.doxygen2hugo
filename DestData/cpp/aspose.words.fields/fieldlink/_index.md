@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldlink/
 Implements the LINK field.
 
 ```cpp
-class FieldLink : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldLink : public Aspose::Words::Fields::Field,
+                  public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

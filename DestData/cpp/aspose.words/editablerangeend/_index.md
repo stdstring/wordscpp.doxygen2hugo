@@ -12,7 +12,9 @@ url: /cpp/aspose.words/editablerangeend/
 Represents an end of an editable range in a Word document.
 
 ```cpp
-class EditableRangeEnd : public Aspose::Words::Node, public Aspose::Words::IDisplaceableByCustomXml, public Aspose::Words::INodeWithAnnotationId
+class EditableRangeEnd : public Aspose::Words::Node,
+                         public Aspose::Words::IDisplaceableByCustomXml,
+                         public Aspose::Words::INodeWithAnnotationId
 ```
 
 ## Methods

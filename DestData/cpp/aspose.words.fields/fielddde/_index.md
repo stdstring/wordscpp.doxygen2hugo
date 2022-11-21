@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fielddde/
 Implements the DDE field.
 
 ```cpp
-class FieldDde : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldDde : public Aspose::Words::Fields::Field,
+                 public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

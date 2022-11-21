@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldinfo/
 Implements the INFO field.
 
 ```cpp
-class FieldInfo : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldInfo : public Aspose::Words::Fields::Field,
+                  public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

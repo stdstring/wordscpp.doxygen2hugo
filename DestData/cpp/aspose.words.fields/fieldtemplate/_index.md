@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldtemplate/
 Implements the TEMPLATE field.
 
 ```cpp
-class FieldTemplate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldTemplate : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

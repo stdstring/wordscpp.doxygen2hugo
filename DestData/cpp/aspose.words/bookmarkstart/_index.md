@@ -12,7 +12,9 @@ url: /cpp/aspose.words/bookmarkstart/
 Represents a start of a bookmark in a Word document. To learn more, visit the [Working with Bookmarks](https://docs.aspose.com/words/net/working-with-bookmarks/) documentation article.
 
 ```cpp
-class BookmarkStart : public Aspose::Words::Node, public Aspose::Words::IBookmarkNode, public Aspose::Words::IDisplaceableByCustomXml
+class BookmarkStart : public Aspose::Words::Node,
+                      public Aspose::Words::IBookmarkNode,
+                      public Aspose::Words::IDisplaceableByCustomXml
 ```
 
 ## Methods

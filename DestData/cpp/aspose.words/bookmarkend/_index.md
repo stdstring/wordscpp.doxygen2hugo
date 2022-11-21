@@ -12,7 +12,9 @@ url: /cpp/aspose.words/bookmarkend/
 Represents an end of a bookmark in a Word document. To learn more, visit the [Working with Bookmarks](https://docs.aspose.com/words/net/working-with-bookmarks/) documentation article.
 
 ```cpp
-class BookmarkEnd : public Aspose::Words::Node, public Aspose::Words::IBookmarkNode, public Aspose::Words::IDisplaceableByCustomXml
+class BookmarkEnd : public Aspose::Words::Node,
+                    public Aspose::Words::IBookmarkNode,
+                    public Aspose::Words::IDisplaceableByCustomXml
 ```
 
 ## Methods

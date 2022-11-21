@@ -12,7 +12,9 @@ url: /cpp/aspose.words/editablerangestart/
 Represents a start of an editable range in a Word document.
 
 ```cpp
-class EditableRangeStart : public Aspose::Words::Node, public Aspose::Words::IDisplaceableByCustomXml, public Aspose::Words::INodeWithAnnotationId
+class EditableRangeStart : public Aspose::Words::Node,
+                           public Aspose::Words::IDisplaceableByCustomXml,
+                           public Aspose::Words::INodeWithAnnotationId
 ```
 
 ## Methods

@@ -12,7 +12,9 @@ url: /cpp/aspose.words.tables/row/
 Represents a table row.
 
 ```cpp
-class Row : public Aspose::Words::CompositeNode, public Aspose::Words::IRowAttrSource, public Aspose::Words::Revisions::ITrackableNode
+class Row : public Aspose::Words::CompositeNode,
+            public Aspose::Words::IRowAttrSource,
+            public Aspose::Words::Revisions::ITrackableNode
 ```
 
 ## Methods

@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldbibliography/
 Implements the BIBLIOGRAPHY field.
 
 ```cpp
-class FieldBibliography : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldBibliography : public Aspose::Words::Fields::Field,
+                          public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

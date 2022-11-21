@@ -12,7 +12,9 @@ url: /cpp/aspose.words.fields/fieldtoc/
 Implements the TOC field.
 
 ```cpp
-class FieldToc : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider, public Aspose::Words::Fields::ITocEntryExtractorOptions
+class FieldToc : public Aspose::Words::Fields::Field,
+                 public Aspose::Words::Fields::IFieldCodeTokenInfoProvider,
+                 public Aspose::Words::Fields::ITocEntryExtractorOptions
 ```
 
 ## Methods

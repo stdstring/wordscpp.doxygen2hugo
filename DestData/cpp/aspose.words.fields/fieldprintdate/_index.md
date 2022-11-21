@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldprintdate/
 Implements the PRINTDATE field.
 
 ```cpp
-class FieldPrintDate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldPrintDate : public Aspose::Words::Fields::Field,
+                       public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

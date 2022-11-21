@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldta/
 Implements the TA field.
 
 ```cpp
-class FieldTA : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldTA : public Aspose::Words::Fields::Field,
+                public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

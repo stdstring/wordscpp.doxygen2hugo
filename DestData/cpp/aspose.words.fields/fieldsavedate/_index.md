@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldsavedate/
 Implements the SAVEDATE field.
 
 ```cpp
-class FieldSaveDate : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldSaveDate : public Aspose::Words::Fields::Field,
+                      public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

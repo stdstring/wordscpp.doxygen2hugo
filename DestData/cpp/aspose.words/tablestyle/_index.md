@@ -12,7 +12,11 @@ url: /cpp/aspose.words/tablestyle/
 Represents a table style.
 
 ```cpp
-class TableStyle : public Aspose::Words::Style, public Aspose::Words::ICellAttrSource, public Aspose::Words::IRowAttrSource, public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource
+class TableStyle : public Aspose::Words::Style,
+                   public Aspose::Words::ICellAttrSource,
+                   public Aspose::Words::IRowAttrSource,
+                   public Aspose::Words::IBorderAttrSource,
+                   public Aspose::Words::IShadingAttrSource
 ```
 
 ## Methods

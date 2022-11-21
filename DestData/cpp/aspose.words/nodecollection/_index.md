@@ -12,7 +12,8 @@ url: /cpp/aspose.words/nodecollection/
 Represents a collection of nodes of a specific type.
 
 ```cpp
-class NodeCollection : public Aspose::Words::INodeCollection, public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>
+class NodeCollection : public Aspose::Words::INodeCollection,
+                       public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>
 ```
 
 ## Methods

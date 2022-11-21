@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldautonum/
 Implements the AUTONUM field.
 
 ```cpp
-class FieldAutoNum : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
+class FieldAutoNum : public Aspose::Words::Fields::Field,
+                     public Aspose::Words::Fields::IFieldCodeTokenInfoProvider
 ```
 
 ## Methods

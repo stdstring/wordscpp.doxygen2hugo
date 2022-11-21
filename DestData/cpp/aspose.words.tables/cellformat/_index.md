@@ -12,7 +12,8 @@ url: /cpp/aspose.words.tables/cellformat/
 Represents all formatting for a table cell.
 
 ```cpp
-class CellFormat : public Aspose::Words::IBorderAttrSource, public Aspose::Words::IShadingAttrSource
+class CellFormat : public Aspose::Words::IBorderAttrSource,
+                   public Aspose::Words::IShadingAttrSource
 ```
 
 ## Methods

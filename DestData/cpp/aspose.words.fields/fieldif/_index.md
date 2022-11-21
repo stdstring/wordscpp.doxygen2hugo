@@ -12,7 +12,8 @@ url: /cpp/aspose.words.fields/fieldif/
 Implements the IF field.
 
 ```cpp
-class FieldIf : public Aspose::Words::Fields::Field, public Aspose::Words::Fields::IMergeFieldSurrogate
+class FieldIf : public Aspose::Words::Fields::Field,
+                public Aspose::Words::Fields::IMergeFieldSurrogate
 ```
 
 ## Methods
