@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::DocumentBuilder::I
 
 ### ReturnValue
 
-
 The cell node that was just inserted.
 
 To start a table, just call **InsertCell**. After this, any content you add using other methods of the [DocumentBuilder](../) class will be added to the current cell.

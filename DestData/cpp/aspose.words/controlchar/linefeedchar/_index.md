@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/linefeedchar/
 Line feed character: (char)10 or "\n".
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::LineFeedChar
+static constexpr char16_t Aspose::Words::ControlChar::LineFeedChar
 ```
 
 

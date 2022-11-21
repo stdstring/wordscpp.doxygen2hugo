@@ -22,7 +22,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureColle
 
 ### ReturnValue
 
-
 Collection of digital signatures. Returns empty collection if file is not signed.
 
 ## Examples
@@ -62,7 +61,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureColle
 | fileName | const System::String\& | Path to the document. |
 
 ### ReturnValue
-
 
 Collection of digital signatures. Returns empty collection if file is not signed.
 

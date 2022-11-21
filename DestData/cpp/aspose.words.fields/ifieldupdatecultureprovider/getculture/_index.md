@@ -23,7 +23,6 @@ virtual System::SharedPtr<System::Globalization::CultureInfo> Aspose::Words::Fie
 
 ### ReturnValue
 
-
 The culture object that should be used for the field's update.
 
 ## Examples

@@ -22,7 +22,6 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 
 ### ReturnValue
 
-
 A [FileFormatInfo](../../fileformatinfo/) object that contains the detected information.
 
 The stream must be positioned at the beginning of the document.
@@ -80,7 +79,6 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 | fileName | const System::String\& | The file name. |
 
 ### ReturnValue
-
 
 A [FileFormatInfo](../../fileformatinfo/) object that contains the detected information.
 

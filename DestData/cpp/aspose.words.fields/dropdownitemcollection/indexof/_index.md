@@ -22,7 +22,6 @@ int32_t Aspose::Words::Fields::DropDownItemCollection::IndexOf(const System::Str
 
 ### ReturnValue
 
-
 The zero based index. Negative value if not found.
 
 ## Examples

@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Vba::VbaModule> Aspose::Words::Vba::VbaModule::
 
 ### ReturnValue
 
-
 The cloned [VbaModule](../).
 
 ## Examples

@@ -22,7 +22,6 @@ bool Aspose::Words::CommentRangeEnd::Accept(System::SharedPtr<Aspose::Words::Doc
 
 ### ReturnValue
 
-
 False if the visitor requested the enumeration to stop.
 
 Calls [VisitCommentRangeEnd()](../../documentvisitor/visitcommentrangeend/).

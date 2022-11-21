@@ -18,7 +18,6 @@ int32_t Aspose::Words::Paragraph::JoinRunsWithSameFormatting()
 
 ### ReturnValue
 
-
 Number of joins performed. When **N** adjacent runs are being joined they count as **N - 1** joins.
 
 ## Examples

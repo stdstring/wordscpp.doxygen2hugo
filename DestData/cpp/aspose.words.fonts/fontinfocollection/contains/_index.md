@@ -22,7 +22,6 @@ bool Aspose::Words::Fonts::FontInfoCollection::Contains(const System::String &na
 
 ### ReturnValue
 
-
 True if the item is found in the collection; otherwise, false.
 
 ## Examples

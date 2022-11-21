@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Fonts::FontSourceBase>> Aspose
 
 ### ReturnValue
 
-
 A copy of the current font sources.
 
 The returned value is a copy of the data that Aspose.Words uses. If you change the entries in the returned array, it will have no effect on document rendering. To specify new font sources use the **SetFontsSources()** method.

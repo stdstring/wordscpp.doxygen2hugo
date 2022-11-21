@@ -18,7 +18,6 @@ virtual Aspose::Words::Replacing::ReplaceAction Aspose::Words::Replacing::IRepla
 
 ### ReturnValue
 
-
 A [ReplaceAction](../../replaceaction/) value that specifies the action to be taken for the current match.
 
 ## Examples

@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 ### ReturnValue
 
-
 The newly created property object or null when the linkSource is invalid.
 
 ## Examples

@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/tabchar/
 Tab character: (char)9 or "\t".
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::TabChar
+static constexpr char16_t Aspose::Words::ControlChar::TabChar
 ```
 
 

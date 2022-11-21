@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::HeaderFooter>> Aspose::Words::
 
 ### ReturnValue
 
-
 An array of **HeaderFoorter**s.
 
 ## Examples

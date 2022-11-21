@@ -22,7 +22,6 @@ double Aspose::Words::TabStopCollection::GetPositionByIndex(int32_t index)
 
 ### ReturnValue
 
-
 The position of the tab stop.
 
 ## Examples

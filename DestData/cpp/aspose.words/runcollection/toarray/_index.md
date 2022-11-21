@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Run>> Aspose::Words::RunCollec
 
 ### ReturnValue
 
-
 An array of runs.
 
 ## Examples

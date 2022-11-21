@@ -22,7 +22,6 @@ bool Aspose::Words::Properties::DocumentPropertyCollection::Contains(const Syste
 
 ### ReturnValue
 
-
 True if the property exists in the collection; false otherwise.
 
 ## Examples

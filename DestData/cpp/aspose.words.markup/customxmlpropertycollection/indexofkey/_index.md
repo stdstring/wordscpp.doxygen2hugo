@@ -22,7 +22,6 @@ int32_t Aspose::Words::Markup::CustomXmlPropertyCollection::IndexOfKey(const Sys
 
 ### ReturnValue
 
-
 The zero based index. Negative value if not found.
 
 ## Examples

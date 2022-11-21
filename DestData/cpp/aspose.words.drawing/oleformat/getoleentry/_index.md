@@ -22,7 +22,6 @@ System::SharedPtr<System::IO::MemoryStream> Aspose::Words::Drawing::OleFormat::G
 
 ### ReturnValue
 
-
 An OLE data stream or null.
 
 ## Examples

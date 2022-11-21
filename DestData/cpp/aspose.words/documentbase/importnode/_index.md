@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 
 ### ReturnValue
 
-
 The cloned node that belongs to the current document.
 
 This method uses the **UseDestinationStyles** option to resolve formatting.
@@ -81,7 +80,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 | importFormatMode | Aspose::Words::ImportFormatMode | Specifies how to merge style formatting that clashes. |
 
 ### ReturnValue
-
 
 The cloned, imported node. The node belongs to the destination document, but has no parent.
 

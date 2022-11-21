@@ -51,7 +51,6 @@ let generateCodeBlock (codeBlock: Markup.CodeBlockMarkup) =
             | Markup.CodeBlockPortionMarkup.Space -> " " |> result.Append |> ignore
             | Markup.CodeBlockPortionMarkup.Ref data -> data.Text |> result.Append |> ignore
         result.AppendLine() |> ignore
-        ()
     "```" |> result.AppendLine |> ignore
     result.ToString()
 

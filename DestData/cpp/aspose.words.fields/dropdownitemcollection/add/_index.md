@@ -22,7 +22,6 @@ int32_t Aspose::Words::Fields::DropDownItemCollection::Add(const System::String 
 
 ### ReturnValue
 
-
 The zero-based index at which the new element is inserted.
 
 ## Examples

@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::PrependChil
 
 ### ReturnValue
 
-
 The node added.
 
 If the newChild is already in the tree, it is first removed.

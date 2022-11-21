@@ -22,7 +22,6 @@ System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenT
 
 ### ReturnValue
 
-
 Returns **null** if the specified font is not embedded.
 
 ## Examples

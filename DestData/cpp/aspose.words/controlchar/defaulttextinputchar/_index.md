@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/defaulttextinputchar/
 This is the "o" character used as a default value in text input form fields.
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::DefaultTextInputChar
+static constexpr char16_t Aspose::Words::ControlChar::DefaultTextInputChar
 ```
 
 

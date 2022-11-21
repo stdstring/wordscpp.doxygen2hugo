@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::RemoveChild
 
 ### ReturnValue
 
-
 The removed node.
 
 The parent of oldChild is set to null after the node is removed.

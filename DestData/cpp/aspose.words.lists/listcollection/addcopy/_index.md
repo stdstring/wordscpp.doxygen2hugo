@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 ### ReturnValue
 
-
 The newly created list.
 
 The source list can be from any document. If the source list belongs to a different document, a copy of the list is created and added to the current document.

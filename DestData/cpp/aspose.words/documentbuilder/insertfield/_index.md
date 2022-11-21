@@ -23,7 +23,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 ### ReturnValue
 
-
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 
 This method inserts a field into a document. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
@@ -88,7 +87,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 
 ### ReturnValue
 
-
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 
 This method inserts a field into a document and updates the field result immediately. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
@@ -152,7 +150,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 | fieldValue | const System::String\& | The field value to insert. Pass null for fields that do not have a value. |
 
 ### ReturnValue
-
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 

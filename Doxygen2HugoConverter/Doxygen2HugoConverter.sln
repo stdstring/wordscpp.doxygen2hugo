@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Doxygen2HugoConverter", "Doxygen2HugoConverter\Doxygen2HugoConverter.fsproj", "{C078DD70-2C90-4C49-92A8-85DCDBB0EB8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doxygen2HugoConverter", "Doxygen2HugoConverter\Doxygen2HugoConverter.csproj", "{1798BDBF-39BD-42DA-913E-AD24C817617B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doxygen2HugoConverter.Tests", "Doxygen2HugoConverter.Tests\Doxygen2HugoConverter.Tests.csproj", "{A6497FB5-B0E2-4858-B800-4990F461AACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C078DD70-2C90-4C49-92A8-85DCDBB0EB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C078DD70-2C90-4C49-92A8-85DCDBB0EB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C078DD70-2C90-4C49-92A8-85DCDBB0EB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C078DD70-2C90-4C49-92A8-85DCDBB0EB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1798BDBF-39BD-42DA-913E-AD24C817617B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1798BDBF-39BD-42DA-913E-AD24C817617B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1798BDBF-39BD-42DA-913E-AD24C817617B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1798BDBF-39BD-42DA-913E-AD24C817617B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6497FB5-B0E2-4858-B800-4990F461AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6497FB5-B0E2-4858-B800-4990F461AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6497FB5-B0E2-4858-B800-4990F461AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6497FB5-B0E2-4858-B800-4990F461AACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {ACD1EAED-B838-4AD3-AB32-D9BB45B0C61B}
+		SolutionGuid = {893A163E-90A0-4BBE-92CC-EF782068A931}
 	EndGlobalSection
 EndGlobal

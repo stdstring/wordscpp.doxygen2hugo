@@ -22,7 +22,6 @@ bool Aspose::Words::BookmarkStart::Accept(System::SharedPtr<Aspose::Words::Docum
 
 ### ReturnValue
 
-
 False if the visitor requested the enumeration to stop.
 
 Calls [VisitBookmarkStart()](../../documentvisitor/visitbookmarkstart/).

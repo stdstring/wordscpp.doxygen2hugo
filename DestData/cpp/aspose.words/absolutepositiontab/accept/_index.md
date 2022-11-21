@@ -22,7 +22,6 @@ bool Aspose::Words::AbsolutePositionTab::Accept(System::SharedPtr<Aspose::Words:
 
 ### ReturnValue
 
-
 False if the visitor requested the enumeration to stop.
 
 Calls [DocumentVisitor.VisitAbsolutePositionTab](../../documentvisitor/visitabsolutepositiontab/).

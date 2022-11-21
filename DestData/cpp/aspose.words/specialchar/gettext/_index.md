@@ -18,7 +18,6 @@ System::String Aspose::Words::SpecialChar::GetText() override
 
 ### ReturnValue
 
-
 The string that contains the character that this node represents.
 
 

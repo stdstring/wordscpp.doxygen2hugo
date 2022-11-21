@@ -18,7 +18,6 @@ virtual System::String Aspose::Words::MailMerging::IMailMergeDataSource::get_Tab
 
 ### ReturnValue
 
-
 The name of the data source. Empty string if the data source has no name.
 
 If you are implementing [IMailMergeDataSource](../), return the name of the data source from this property.

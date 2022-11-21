@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/optionalhyphenchar/
 Optional Hyphen in Microsoft Word is (char)31.
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::OptionalHyphenChar
+static constexpr char16_t Aspose::Words::ControlChar::OptionalHyphenChar
 ```
 
 

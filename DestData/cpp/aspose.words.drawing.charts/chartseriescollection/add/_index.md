@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 
 ### ReturnValue
 
-
 Recently added [ChartSeries](../../chartseries/) object.
 
 ## Examples
@@ -110,7 +109,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 
 
 ### ReturnValue
-
 
 Recently added [ChartSeries](../../chartseries/) object.
 
@@ -291,7 +289,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 
 
 ### ReturnValue
-
 
 Recently added [ChartSeries](../../chartseries/) object.
 

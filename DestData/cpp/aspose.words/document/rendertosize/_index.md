@@ -27,7 +27,6 @@ float Aspose::Words::Document::RenderToSize(int32_t pageIndex, const System::Sha
 
 ### ReturnValue
 
-
 The scale that was automatically calculated for the rendered page to fit the specified size.
 
 ## Examples

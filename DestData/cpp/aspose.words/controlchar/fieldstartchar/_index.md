@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/fieldstartchar/
 Start of MS Word field character: (char)19.
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::FieldStartChar
+static constexpr char16_t Aspose::Words::ControlChar::FieldStartChar
 ```
 
 

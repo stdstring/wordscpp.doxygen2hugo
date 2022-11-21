@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 The shape that is a horizontal rule.
 
 ## Examples

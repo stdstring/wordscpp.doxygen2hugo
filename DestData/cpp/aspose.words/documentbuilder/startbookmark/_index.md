@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::DocumentBuilder::
 
 ### ReturnValue
 
-
 The bookmark start node that was just created.
 
 Bookmarks in a document can overlap and span any range. To create a valid bookmark you need to call both **StartBookmark()** and **EndBookmark()** with the same **bookmarkName** parameter.

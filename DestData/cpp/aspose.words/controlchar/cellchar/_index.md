@@ -12,7 +12,7 @@ url: /cpp/aspose.words/controlchar/cellchar/
 End of a table cell or end of a table row character: (char)7 or "\a".
 
 ```cpp
-constexpr char16_t Aspose::Words::ControlChar::CellChar
+static constexpr char16_t Aspose::Words::ControlChar::CellChar
 ```
 
 

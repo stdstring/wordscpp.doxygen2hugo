@@ -22,7 +22,6 @@ virtual System::SharedPtr<System::Drawing::Image> Aspose::Words::Fields::IBarcod
 
 ### ReturnValue
 
-
 Image representing generated barcode.
 
 

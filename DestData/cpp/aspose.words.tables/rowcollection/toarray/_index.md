@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Tables::Row>> Aspose::Words::T
 
 ### ReturnValue
 
-
 An array of rows.
 
 ## Examples

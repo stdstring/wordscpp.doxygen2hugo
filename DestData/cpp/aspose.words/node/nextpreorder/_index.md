@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::NextPreOrder(const S
 
 ### ReturnValue
 
-
 Next node in pre-order order. Null if reached the rootNode.
 
 ## Examples

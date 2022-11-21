@@ -22,7 +22,6 @@ bool Aspose::Words::Run::Accept(System::SharedPtr<Aspose::Words::DocumentVisitor
 
 ### ReturnValue
 
-
 False if the visitor requested the enumeration to stop.
 
 Calls [DocumentVisitor.VisitRun](../../documentvisitor/visitrun/).

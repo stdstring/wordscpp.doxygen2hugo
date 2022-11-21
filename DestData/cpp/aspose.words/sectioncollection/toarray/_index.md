@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Section>> Aspose::Words::Secti
 
 ### ReturnValue
 
-
 An array of sections.
 
 

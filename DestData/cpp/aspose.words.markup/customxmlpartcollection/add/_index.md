@@ -103,7 +103,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::C
 
 ### ReturnValue
 
-
 Created custom XML part.
 
 ## Examples

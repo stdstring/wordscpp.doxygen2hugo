@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 ### ReturnValue
 
-
 The signature line node that was just inserted.
 
 ## Examples
@@ -93,7 +92,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 | wrapType | Aspose::Words::Drawing::WrapType | Specifies how to wrap text around the signature line. |
 
 ### ReturnValue
-
 
 The signature line node that was just inserted.
 

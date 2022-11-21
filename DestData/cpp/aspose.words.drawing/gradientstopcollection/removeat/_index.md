@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Drawing::GradientStop> Aspose::Words::Drawing::
 
 ### ReturnValue
 
-
 Removed [GradientStop](../../gradientstop/).
 
 ## Examples

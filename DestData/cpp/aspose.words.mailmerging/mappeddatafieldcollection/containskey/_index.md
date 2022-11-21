@@ -22,7 +22,6 @@ bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey(const Sy
 
 ### ReturnValue
 
-
 True if item is found in the collection; otherwise, false.
 
 

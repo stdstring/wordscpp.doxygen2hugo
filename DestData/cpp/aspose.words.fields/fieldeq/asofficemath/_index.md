@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Math::OfficeMath> Aspose::Words::Fields::FieldE
 
 ### ReturnValue
 
-
 Returns **null** if field code is empty or invalid, otherwise an [OfficeMath](../../../aspose.words.math/officemath/) instance.
 
 

@@ -22,7 +22,6 @@ static System::SharedPtr<Aspose::Words::Saving::SaveOptions> Aspose::Words::Savi
 
 ### ReturnValue
 
-
 An object of a class that derives from [SaveOptions](../).
 
 ## Examples
@@ -61,7 +60,6 @@ static System::SharedPtr<Aspose::Words::Saving::SaveOptions> Aspose::Words::Savi
 | fileName | const System::String\& | The extension of this file name determines the class of the save options object to create. |
 
 ### ReturnValue
-
 
 An object of a class that derives from [SaveOptions](../).
 

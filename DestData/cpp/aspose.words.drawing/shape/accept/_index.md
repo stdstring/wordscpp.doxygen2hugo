@@ -22,7 +22,6 @@ bool Aspose::Words::Drawing::Shape::Accept(System::SharedPtr<Aspose::Words::Docu
 
 ### ReturnValue
 
-
 True if all nodes were visited; false if [DocumentVisitor](../../../aspose.words/documentvisitor/) stopped the operation before visiting all nodes.
 
 Enumerates over this node and all of its children. Each node calls a corresponding method on [DocumentVisitor](../../../aspose.words/documentvisitor/).

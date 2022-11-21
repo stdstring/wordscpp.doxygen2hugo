@@ -18,7 +18,6 @@ bool Aspose::Words::Drawing::GradientStopCollection::Remove(const System::Shared
 
 ### ReturnValue
 
-
 True if gradient stop was successfully removed, otherwise false.
 
 ## Examples

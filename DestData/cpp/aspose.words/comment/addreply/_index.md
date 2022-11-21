@@ -25,7 +25,6 @@ System::SharedPtr<Aspose::Words::Comment> Aspose::Words::Comment::AddReply(const
 
 ### ReturnValue
 
-
 The created [Comment](../) node for the reply.
 
 ## Examples

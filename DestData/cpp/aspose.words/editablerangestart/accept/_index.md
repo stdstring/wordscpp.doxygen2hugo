@@ -22,7 +22,6 @@ bool Aspose::Words::EditableRangeStart::Accept(System::SharedPtr<Aspose::Words::
 
 ### ReturnValue
 
-
 False if the visitor requested the enumeration to stop.
 
 Calls [VisitEditableRangeStart()](../../documentvisitor/visiteditablerangestart/).

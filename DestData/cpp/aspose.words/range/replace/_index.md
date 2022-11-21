@@ -23,7 +23,6 @@ int32_t Aspose::Words::Range::Replace(const System::SharedPtr<System::Text::Regu
 
 ### ReturnValue
 
-
 The number of replacements made.
 
 Replaces the whole match captured by the regular expression.
@@ -73,7 +72,6 @@ int32_t Aspose::Words::Range::Replace(const System::SharedPtr<System::Text::Regu
 | options | const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\& | [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/) object to specify additional options. |
 
 ### ReturnValue
-
 
 The number of replacements made.
 
@@ -236,7 +234,6 @@ int32_t Aspose::Words::Range::Replace(const System::String &pattern, const Syste
 
 ### ReturnValue
 
-
 The number of replacements made.
 
 The pattern will not be used as regular expression. Please use **Replace()** if you need regular expressions.
@@ -325,7 +322,6 @@ int32_t Aspose::Words::Range::Replace(const System::String &pattern, const Syste
 | options | const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\& | [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/) object to specify additional options. |
 
 ### ReturnValue
-
 
 The number of replacements made.
 

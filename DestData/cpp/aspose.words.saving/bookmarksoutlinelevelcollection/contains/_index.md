@@ -22,7 +22,6 @@ bool Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains(const Syst
 
 ### ReturnValue
 
-
 True if item is found in the collection; otherwise, false.
 
 ## Examples

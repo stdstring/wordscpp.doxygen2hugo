@@ -18,7 +18,6 @@ System::String Aspose::Words::Node::ToString(Aspose::Words::SaveFormat saveForma
 
 ### ReturnValue
 
-
 The content of the node in the specified format.
 
 ## Examples
@@ -108,7 +107,6 @@ System::String Aspose::Words::Node::ToString(const System::SharedPtr<Aspose::Wor
 | saveOptions | const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\& | Specifies the options that control how the node is saved. |
 
 ### ReturnValue
-
 
 The content of the node in the specified format.
 

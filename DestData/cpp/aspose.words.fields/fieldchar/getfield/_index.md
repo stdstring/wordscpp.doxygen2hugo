@@ -18,7 +18,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldChar
 
 ### ReturnValue
 
-
 A field for the field char.
 
 ## Examples

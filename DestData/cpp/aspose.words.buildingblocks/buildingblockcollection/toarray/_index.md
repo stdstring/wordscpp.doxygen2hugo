@@ -18,7 +18,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock>
 
 ### ReturnValue
 
-
 An array of building blocks.
 
 ## Examples
