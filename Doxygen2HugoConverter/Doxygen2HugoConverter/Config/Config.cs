@@ -69,8 +69,6 @@
 
         public const String Version = "0.0.1";
 
-        /*public const String Help = "Doxygen 2 HUGO converter for Aspose.Words for C++\n" +
-                                   "Usage: <app> --source=<source-directory> --dest=<dest-directory>";*/
         public const String Help = "Usage: <app> --source=<source-directory> --dest=<dest-directory>";
     }
 }

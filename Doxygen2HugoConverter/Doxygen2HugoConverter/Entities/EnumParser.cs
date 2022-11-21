@@ -16,7 +16,7 @@ namespace Doxygen2HugoConverter.Entities
                 case "public":
                     String id = source.GetAttributeValue("id");
                     BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
-                    DetailedDescriptionPortion detailedDescription = ParseEnumDetailedDescription(source);
+                    DetailedDescriptionPortion detailedDescription = source.ParseDetailedDescriptionForEnum();
                     String name = source.GetChildElementValue("name");
                     String qualifiedName = source.GetChildElementValue("qualifiedname");
                     String baseType = source.GetChildElementValue("type");
@@ -80,7 +80,7 @@ namespace Doxygen2HugoConverter.Entities
             return new EnumValueEntity(id, name, initializer, briefDescription);
         }
 
-        private static DetailedDescriptionPortion ParseEnumDetailedDescription(XElement source) =>
+        private static DetailedDescriptionPortion ParseDetailedDescriptionForEnum(this XElement source) =>
             source.Element("detaileddescription")!.ParseDetailedDescription();
 
         private const Int32 DefaultStartEnumValue = 0;

@@ -15,7 +15,7 @@ namespace Doxygen2HugoConverter.Entities
                 case "public":
                     String id = source.GetAttributeValue("id");
                     BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
-                    DetailedDescriptionPortion detailedDescription = ParseTypedefDetailedDescription(source);
+                    DetailedDescriptionPortion detailedDescription = source.ParseDetailedDescriptionForTypedef();
                     String name = source.GetChildElementValue("name");
                     String qualifiedName = source.GetChildElementValue("qualifiedname");
                     String sourceType = source.GetChildElementValue("type");
@@ -35,7 +35,7 @@ namespace Doxygen2HugoConverter.Entities
             }
         }
 
-        private static DetailedDescriptionPortion ParseTypedefDetailedDescription(XElement source) =>
+        private static DetailedDescriptionPortion ParseDetailedDescriptionForTypedef(this XElement source) =>
             source.Element("detaileddescription")!.ParseDetailedDescription();
     }
 }

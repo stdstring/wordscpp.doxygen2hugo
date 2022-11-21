@@ -20,7 +20,7 @@ namespace Doxygen2HugoConverter.Entities
             String definition = source.GetChildElementValue("definition");
             String? initializer = source.FindChildElementValue("initializer");
             BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
-            DetailedDescriptionPortion detailedDescription = ParseFieldDetailedDescription(source);
+            DetailedDescriptionPortion detailedDescription = source.ParseDetailedDescriptionForField();
             EntityDef.FieldEntity result = new EntityDef.FieldEntity(id,
                                                                      state.ParentId,
                                                                      staticValue,
@@ -37,7 +37,7 @@ namespace Doxygen2HugoConverter.Entities
             return result;
         }
 
-        private static DetailedDescriptionPortion ParseFieldDetailedDescription(XElement source) =>
+        private static DetailedDescriptionPortion ParseDetailedDescriptionForField(this XElement source) =>
             source.Element("detaileddescription")!.ParseDetailedDescription();
     }
 }

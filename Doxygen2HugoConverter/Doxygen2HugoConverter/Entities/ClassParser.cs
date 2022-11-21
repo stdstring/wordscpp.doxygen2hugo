@@ -21,7 +21,7 @@ namespace Doxygen2HugoConverter.Entities
                         var value => throw new InvalidOperationException($"Unexpected kind value \"{value}\"")
                     };
                     BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
-                    ClassDetailedDescription detailedDescription = ParseClassDetailedDescription(source);
+                    ClassDetailedDescription detailedDescription = source.ParseDetailedDescriptionForClass();
                     String fullName = source.GetChildElementValue("compoundname");
                     String name = NameUtils.GetClassName(fullName);
                     Boolean finalValue = source.FindYesNoValue("final");
@@ -127,7 +127,7 @@ namespace Doxygen2HugoConverter.Entities
                          .ToList();
         }
 
-        private static ClassDetailedDescription ParseClassDetailedDescription(XElement source) =>
+        private static ClassDetailedDescription ParseDetailedDescriptionForClass(this XElement source) =>
             source.Element("detaileddescription")!.ParseClassDetailedDescription();
     }
 }

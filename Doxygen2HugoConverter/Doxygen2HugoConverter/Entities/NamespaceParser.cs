@@ -21,7 +21,7 @@ internal static class NamespaceParser
         String id = source.GetAttributeValue("id");
         String name = source.GetChildElementValue("compoundname");
         IList<SimpleMarkupEntry> briefDescription = source.ParseBriefDescription();
-        IList<DetailedDescriptionMarkupEntry> detailedDescription = ParseNamespaceDetailedDescription(source);
+        IList<DetailedDescriptionMarkupEntry> detailedDescription = source.ParseDetailedDescriptionForNamespace();
         ParseState currentState = state with {ParentId = id, ParentName = name};
         IList<EntityDef.ClassEntity> classEntitySources = source.Elements("innerclass")
             .SelectMany(element => element.ParseClassEntities(config, currentState))
@@ -70,6 +70,6 @@ internal static class NamespaceParser
             .SelectMany(section => section.Elements("memberdef").Choose(def => def.ParseTypedefEntity(state)));
     }
 
-    private static DetailedDescriptionPortion ParseNamespaceDetailedDescription(XElement source) =>
+    private static DetailedDescriptionPortion ParseDetailedDescriptionForNamespace(this XElement source) =>
         source.Element("detaileddescription")!.ParseDetailedDescription();
 }

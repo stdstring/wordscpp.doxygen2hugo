@@ -20,7 +20,7 @@ namespace Doxygen2HugoConverter.Entities
             String definition = source.GetChildElementValue("definition");
             String argString = source.GetChildElementValue("argsstring");
             BriefDescriptionPortion briefDescription = source.ParseBriefDescription();
-            MethodDetailedDescription detailedDescription = ParseMethodDetailedDescription(source);
+            MethodDetailedDescription detailedDescription = source.ParseDetailedDescriptionForMethod();
             Boolean overrideValue = argString.EndsWith(OverrideSuffix);
             IList<String> templateParameters = source.ParseTemplateParameters();
             IList<MethodArgEntity> parameters = source.Elements("param").Select(ParseMethodParameter).ToList();
@@ -52,7 +52,7 @@ namespace Doxygen2HugoConverter.Entities
             return new MethodArgEntity(paramName, paramType);
         }
 
-        private static MethodDetailedDescription ParseMethodDetailedDescription(XElement source) =>
+        private static MethodDetailedDescription ParseDetailedDescriptionForMethod(this XElement source) =>
             source.Element("detaileddescription")!.ParseMethodDetailedDescription();
 
         private const String OverrideSuffix = " override";
