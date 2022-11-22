@@ -54,8 +54,21 @@
 
     internal abstract record DetailedDescriptionMarkupEntry
     {
-        // TODO (std_string) : think about replacing by direct cases
-        internal record SimpleMarkupPartEntry(SimpleMarkupEntry SimpleMarkup) : DetailedDescriptionMarkupEntry;
+        internal record TextEntry(String Text) : DetailedDescriptionMarkupEntry;
+
+        internal record ParagraphStartEntry : DetailedDescriptionMarkupEntry;
+
+        internal record ParagraphEndEntry : DetailedDescriptionMarkupEntry;
+
+        internal record BoldStartEntry : DetailedDescriptionMarkupEntry;
+
+        internal record BoldEndEntry : DetailedDescriptionMarkupEntry;
+
+        internal record LineBreakEntry : DetailedDescriptionMarkupEntry;
+
+        internal record RefEntry(MarkupRef Ref) : DetailedDescriptionMarkupEntry;
+
+        internal record ExternalLinkEntry(ExternalLinkData Link) : DetailedDescriptionMarkupEntry;
 
         internal record TitleEntry(String Title) : DetailedDescriptionMarkupEntry;
 

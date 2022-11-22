@@ -43,8 +43,29 @@ namespace Doxygen2HugoConverter.Generator
             {
                 switch (part)
                 {
-                    case DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry entry:
-                        entry.SimpleMarkup.GenerateSimpleMarkupEntry(relativeUrlGenerator, dest);
+                    case DetailedDescriptionMarkupEntry.TextEntry entry:
+                        dest.Append(entry.Text);
+                        break;
+                    case DetailedDescriptionMarkupEntry.RefEntry entry:
+                        entry.Ref.GenerateRef(relativeUrlGenerator, dest);
+                        break;
+                    case DetailedDescriptionMarkupEntry.ExternalLinkEntry entry:
+                        dest.Append(GeneratorUtils.CreateLink(entry.Link.Text, entry.Link.Url));
+                        break;
+                    case DetailedDescriptionMarkupEntry.ParagraphStartEntry:
+                        dest.AppendLine();
+                        break;
+                    case DetailedDescriptionMarkupEntry.ParagraphEndEntry:
+                        dest.AppendLine();
+                        break;
+                    case DetailedDescriptionMarkupEntry.BoldStartEntry:
+                        dest.Append("**");
+                        break;
+                    case DetailedDescriptionMarkupEntry.BoldEndEntry:
+                        dest.Append("**");
+                        break;
+                    case DetailedDescriptionMarkupEntry.LineBreakEntry:
+                        dest.AppendLine();
                         break;
                     case DetailedDescriptionMarkupEntry.TitleEntry entry:
                         GeneratorUtils.GenerateHeader(entry.Title, 2, dest);
@@ -67,7 +88,7 @@ namespace Doxygen2HugoConverter.Generator
                     dest.Append(entry.Text);
                     break;
                 case SimpleMarkupEntry.RefEntry entry:
-                    entry.GenerateRef(relativeUrlGenerator, dest);
+                    entry.Ref.GenerateRef(relativeUrlGenerator, dest);
                     break;
                 case SimpleMarkupEntry.ExternalLinkEntry entry:
                     dest.Append(GeneratorUtils.CreateLink(entry.Link.Text, entry.Link.Url));
@@ -90,15 +111,15 @@ namespace Doxygen2HugoConverter.Generator
             }
         }
 
-        private static void GenerateRef(this SimpleMarkupEntry.RefEntry entry, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
+        private static void GenerateRef(this MarkupRef reference, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
         {
-            switch (relativeUrlGenerator(entry.Ref.RefId))
+            switch (relativeUrlGenerator(reference.RefId))
             {
                 case null:
-                    dest.Append($"**{entry.Ref.Text}**");
+                    dest.Append($"**{reference.Text}**");
                     break;
                 case var relativeUrl:
-                    dest.Append(GeneratorUtils.CreateLink(entry.Ref.Text, relativeUrl));
+                    dest.Append(GeneratorUtils.CreateLink(reference.Text, relativeUrl));
                     break;
             }
         }
