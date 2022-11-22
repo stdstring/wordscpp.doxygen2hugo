@@ -11,6 +11,10 @@ url: /cpp/aspose.words.buildingblocks/buildingblockgallery/
 
 Specifies the predefined gallery into which a building block is classified.
 
+```cpp
+enum class BuildingBlockGallery
+```
+
 ### Values
 
 | Name | Value | Description |

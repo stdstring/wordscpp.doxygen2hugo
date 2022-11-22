@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/filltype/
 
 Specifies fill type for a fillable object.
 
+```cpp
+enum class FillType
+```
+
 ### Values
 
 | Name | Value | Description |

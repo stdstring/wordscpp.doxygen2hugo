@@ -11,6 +11,10 @@ url: /cpp/aspose.words/importformatmode/
 
 Specifies how formatting is merged when importing content from another document.
 
+```cpp
+enum class ImportFormatMode
+```
+
 ### Values
 
 | Name | Value | Description |

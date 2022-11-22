@@ -11,6 +11,10 @@ url: /cpp/aspose.words/tableader/
 
 Specifies the type of the leader line displayed under the tab character.
 
+```cpp
+enum class TabLeader
+```
+
 ### Values
 
 | Name | Value | Description |

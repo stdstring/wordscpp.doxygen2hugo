@@ -11,6 +11,10 @@ url: /cpp/aspose.words.math/officemathdisplaytype/
 
 Specifies the display format type of the equation.
 
+```cpp
+enum class OfficeMathDisplayType
+```
+
 ### Values
 
 | Name | Value | Description |

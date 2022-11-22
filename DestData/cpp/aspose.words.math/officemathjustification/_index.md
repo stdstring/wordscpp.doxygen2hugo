@@ -11,6 +11,10 @@ url: /cpp/aspose.words.math/officemathjustification/
 
 Specifies the justification of the equation.
 
+```cpp
+enum class OfficeMathJustification
+```
+
 ### Values
 
 | Name | Value | Description |

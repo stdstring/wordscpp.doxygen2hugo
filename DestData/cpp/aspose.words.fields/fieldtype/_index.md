@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fields/fieldtype/
 
 Specifies Microsoft Word field types.
 
+```cpp
+enum class FieldType
+```
+
 ### Values
 
 | Name | Value | Description |

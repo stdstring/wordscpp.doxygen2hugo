@@ -11,6 +11,10 @@ url: /cpp/aspose.words.settings/viewtype/
 
 Possible values for the view mode in Microsoft Word.
 
+```cpp
+enum class ViewType
+```
+
 ### Values
 
 | Name | Value | Description |

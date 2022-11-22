@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/markersymbol/
 
 Specifies marker symbol style.
 
+```cpp
+enum class MarkerSymbol
+```
+
 ### Values
 
 | Name | Value | Description |

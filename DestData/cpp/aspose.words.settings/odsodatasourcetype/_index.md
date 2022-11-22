@@ -11,6 +11,10 @@ url: /cpp/aspose.words.settings/odsodatasourcetype/
 
 Specifies the type of the external data source to be connected to as part of the ODSO connection information.
 
+```cpp
+enum class OdsoDataSourceType
+```
+
 ### Values
 
 | Name | Value | Description |

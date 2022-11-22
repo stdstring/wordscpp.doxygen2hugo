@@ -11,6 +11,10 @@ url: /cpp/aspose.words/dropcapposition/
 
 Specifies the position for a drop cap text.
 
+```cpp
+enum class DropCapPosition
+```
+
 ### Values
 
 | Name | Value | Description |

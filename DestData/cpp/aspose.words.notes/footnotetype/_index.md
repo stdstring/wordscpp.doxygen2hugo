@@ -11,6 +11,10 @@ url: /cpp/aspose.words.notes/footnotetype/
 
 Specifies whether this is a footnote or an endnote.
 
+```cpp
+enum class FootnoteType
+```
+
 ### Values
 
 | Name | Value | Description |

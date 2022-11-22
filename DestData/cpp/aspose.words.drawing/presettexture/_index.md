@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/presettexture/
 
 Specifies texture to be used to fill a shape.
 
+```cpp
+enum class PresetTexture
+```
+
 ### Values
 
 | Name | Value | Description |

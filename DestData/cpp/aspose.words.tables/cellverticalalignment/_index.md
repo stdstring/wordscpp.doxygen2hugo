@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/cellverticalalignment/
 
 Specifies vertical justification of text inside a table cell.
 
+```cpp
+enum class CellVerticalAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

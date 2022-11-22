@@ -11,6 +11,10 @@ url: /cpp/aspose.words/pageborderappliesto/
 
 Specifies which pages the page border is printed on.
 
+```cpp
+enum class PageBorderAppliesTo
+```
+
 ### Values
 
 | Name | Value | Description |

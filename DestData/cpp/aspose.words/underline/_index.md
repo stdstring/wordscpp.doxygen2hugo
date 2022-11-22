@@ -11,6 +11,10 @@ url: /cpp/aspose.words/underline/
 
 Indicates type of the underline applied to a font.
 
+```cpp
+enum class Underline
+```
+
 ### Values
 
 | Name | Value | Description |

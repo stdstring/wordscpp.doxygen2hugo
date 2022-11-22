@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/arrowlength/
 
 Length of the arrow at the end of a line.
 
+```cpp
+enum class ArrowLength
+```
+
 ### Values
 
 | Name | Value | Description |

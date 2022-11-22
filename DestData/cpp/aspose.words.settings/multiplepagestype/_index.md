@@ -11,6 +11,10 @@ url: /cpp/aspose.words.settings/multiplepagestype/
 
 Specifies how document is printed out.
 
+```cpp
+enum class MultiplePagesType
+```
+
 ### Values
 
 | Name | Value | Description |

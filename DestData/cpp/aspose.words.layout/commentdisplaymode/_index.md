@@ -11,6 +11,10 @@ url: /cpp/aspose.words.layout/commentdisplaymode/
 
 Specifies the rendering mode for document comments.
 
+```cpp
+enum class CommentDisplayMode
+```
+
 ### Values
 
 | Name | Value | Description |

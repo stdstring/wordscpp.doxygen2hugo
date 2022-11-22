@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/verticalalignment/
 
 Specifies vertical alignment of a floating shape, text frame or a floating table.
 
+```cpp
+enum class VerticalAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

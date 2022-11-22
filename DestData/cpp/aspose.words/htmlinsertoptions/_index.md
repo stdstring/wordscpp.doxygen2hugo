@@ -11,6 +11,10 @@ url: /cpp/aspose.words/htmlinsertoptions/
 
 Specifies options for the **InsertHtml()** method.
 
+```cpp
+enum class HtmlInsertOptions
+```
+
 ### Values
 
 | Name | Value | Description |

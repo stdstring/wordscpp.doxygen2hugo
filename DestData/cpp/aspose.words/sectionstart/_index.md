@@ -11,6 +11,10 @@ url: /cpp/aspose.words/sectionstart/
 
 The type of break at the beginning of the section.
 
+```cpp
+enum class SectionStart
+```
+
 ### Values
 
 | Name | Value | Description |

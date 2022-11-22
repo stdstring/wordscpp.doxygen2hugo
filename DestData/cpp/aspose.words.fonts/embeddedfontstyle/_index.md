@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fonts/embeddedfontstyle/
 
 Specifies the style of an embedded font inside a [FontInfo](../fontinfo/) object.
 
+```cpp
+enum class EmbeddedFontStyle
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.loading/blockimportmode/
 
 Specifies how properties of block-level elements are imported from HTML-based documents.
 
+```cpp
+enum class BlockImportMode
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/patterntype/
 
 Specifies the fill pattern to be used to fill a shape.
 
+```cpp
+enum class PatternType
+```
+
 ### Values
 
 | Name | Value | Description |

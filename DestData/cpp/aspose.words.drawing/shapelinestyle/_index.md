@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/shapelinestyle/
 
 Specifies the compound line style of a [Shape](../shape/).
 
+```cpp
+enum class ShapeLineStyle
+```
+
 ### Values
 
 | Name | Value | Description |

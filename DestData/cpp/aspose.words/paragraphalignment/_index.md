@@ -11,6 +11,10 @@ url: /cpp/aspose.words/paragraphalignment/
 
 Specifies text alignment in a paragraph.
 
+```cpp
+enum class ParagraphAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

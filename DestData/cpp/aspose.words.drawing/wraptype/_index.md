@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/wraptype/
 
 Specifies how text is wrapped around a shape or picture.
 
+```cpp
+enum class WrapType
+```
+
 ### Values
 
 | Name | Value | Description |

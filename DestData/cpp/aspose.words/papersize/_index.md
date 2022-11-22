@@ -11,6 +11,10 @@ url: /cpp/aspose.words/papersize/
 
 Specifies paper size.
 
+```cpp
+enum class PaperSize
+```
+
 ### Values
 
 | Name | Value | Description |

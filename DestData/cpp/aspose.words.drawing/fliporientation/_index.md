@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/fliporientation/
 
 Possible values for the orientation of a shape.
 
+```cpp
+enum class FlipOrientation
+```
+
 ### Values
 
 | Name | Value | Description |

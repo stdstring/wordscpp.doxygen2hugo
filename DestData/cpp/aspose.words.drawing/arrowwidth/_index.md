@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/arrowwidth/
 
 Width of the arrow at the end of a line.
 
+```cpp
+enum class ArrowWidth
+```
+
 ### Values
 
 | Name | Value | Description |

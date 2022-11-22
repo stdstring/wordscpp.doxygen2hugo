@@ -11,6 +11,10 @@ url: /cpp/aspose.words/linespacingrule/
 
 Specifies line spacing values for a paragraph.
 
+```cpp
+enum class LineSpacingRule
+```
+
 ### Values
 
 | Name | Value | Description |

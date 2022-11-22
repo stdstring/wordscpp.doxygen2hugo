@@ -11,6 +11,10 @@ url: /cpp/aspose.words.layout/revisiontexteffect/
 
 Allows to specify decoration effect for revisions of document text.
 
+```cpp
+enum class RevisionTextEffect
+```
+
 ### Values
 
 | Name | Value | Description |

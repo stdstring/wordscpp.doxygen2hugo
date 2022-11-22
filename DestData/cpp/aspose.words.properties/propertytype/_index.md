@@ -11,6 +11,10 @@ url: /cpp/aspose.words.properties/propertytype/
 
 Specifies data type of a document property.
 
+```cpp
+enum class PropertyType
+```
+
 ### Values
 
 | Name | Value | Description |

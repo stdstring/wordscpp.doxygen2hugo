@@ -11,6 +11,10 @@ url: /cpp/aspose.words.layout/showinballoons/
 
 Specifies which revisions are rendered in balloons.
 
+```cpp
+enum class ShowInBalloons
+```
+
 ### Values
 
 | Name | Value | Description |

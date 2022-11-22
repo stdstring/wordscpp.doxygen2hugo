@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/imagecolormode/
 
 Specifies the color mode for the generated images of document pages.
 
+```cpp
+enum class ImageColorMode
+```
+
 ### Values
 
 | Name | Value | Description |

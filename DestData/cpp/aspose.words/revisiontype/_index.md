@@ -11,6 +11,10 @@ url: /cpp/aspose.words/revisiontype/
 
 Specifies the type of change being tracked in [Revision](../revision/).
 
+```cpp
+enum class RevisionType
+```
+
 ### Values
 
 | Name | Value | Description |

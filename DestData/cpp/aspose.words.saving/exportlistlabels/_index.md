@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/exportlistlabels/
 
 Specifies how list labels are exported to HTML, MHTML and EPUB.
 
+```cpp
+enum class ExportListLabels
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/loadformat/
 
 Indicates the format of the document that is to be loaded.
 
+```cpp
+enum class LoadFormat
+```
+
 ### Values
 
 | Name | Value | Description |

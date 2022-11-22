@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/dml3deffectsrenderingmode/
 
 Specifies how 3D shape effects are rendered.
 
+```cpp
+enum class Dml3DEffectsRenderingMode
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fonts/fontfamily/
 
 Represents the font family.
 
+```cpp
+enum class FontFamily
+```
+
 ### Values
 
 | Name | Value | Description |

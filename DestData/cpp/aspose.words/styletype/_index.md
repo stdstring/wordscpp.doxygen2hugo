@@ -11,6 +11,10 @@ url: /cpp/aspose.words/styletype/
 
 Represents type of the style.
 
+```cpp
+enum class StyleType
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/textureindex/
 
 Specifies shading texture.
 
+```cpp
+enum class TextureIndex
+```
+
 ### Values
 
 | Name | Value | Description |

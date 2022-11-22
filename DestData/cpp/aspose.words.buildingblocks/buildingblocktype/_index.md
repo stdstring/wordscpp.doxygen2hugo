@@ -11,6 +11,10 @@ url: /cpp/aspose.words.buildingblocks/buildingblocktype/
 
 Specifies a building block type. The type might affect the visibility and behavior of the building block in Microsoft Word.
 
+```cpp
+enum class BuildingBlockType
+```
+
 ### Values
 
 | Name | Value | Description |

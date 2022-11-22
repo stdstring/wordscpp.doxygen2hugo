@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/cssstylesheettype/
 
 Specifies how CSS (Cascading [Style](../../aspose.words/style/) Sheet) styles are exported to HTML.
 
+```cpp
+enum class CssStyleSheetType
+```
+
 ### Values
 
 | Name | Value | Description |

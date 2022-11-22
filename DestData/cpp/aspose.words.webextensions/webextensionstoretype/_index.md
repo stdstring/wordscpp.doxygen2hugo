@@ -11,6 +11,10 @@ url: /cpp/aspose.words.webextensions/webextensionstoretype/
 
 Enumerates available types of a web extension store.
 
+```cpp
+enum class WebExtensionStoreType
+```
+
 ### Values
 
 | Name | Value | Description |

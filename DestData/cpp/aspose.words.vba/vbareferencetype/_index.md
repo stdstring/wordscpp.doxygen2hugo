@@ -11,6 +11,10 @@ url: /cpp/aspose.words.vba/vbareferencetype/
 
 Allows to specify the type of a [VbaReference](../vbareference/) object.
 
+```cpp
+enum class VbaReferenceType
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/htmlofficemathoutputmode/
 
 Specifies how Aspose.Words exports OfficeMath to HTML, MHTML and EPUB.
 
+```cpp
+enum class HtmlOfficeMathOutputMode
+```
+
 ### Values
 
 | Name | Value | Description |

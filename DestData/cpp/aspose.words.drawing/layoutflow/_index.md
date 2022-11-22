@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/layoutflow/
 
 Determines the flow of the text layout in a textbox.
 
+```cpp
+enum class LayoutFlow
+```
+
 ### Values
 
 | Name | Value | Description |

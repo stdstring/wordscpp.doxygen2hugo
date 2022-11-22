@@ -11,6 +11,10 @@ url: /cpp/aspose.words/linenumberrestartmode/
 
 Determines when automatic line numbering restarts.
 
+```cpp
+enum class LineNumberRestartMode
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.themes/themefont/
 
 Specifies the types of theme font names for document themes.
 
+```cpp
+enum class ThemeFont
+```
+
 ### Values
 
 | Name | Value | Description |

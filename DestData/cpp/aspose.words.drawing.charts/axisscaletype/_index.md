@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/axisscaletype/
 
 Specifies the possible scale types for an axis.
 
+```cpp
+enum class AxisScaleType
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/loadformattest/
 
 LoadFormatTest enumeration.
 
+```cpp
+enum class LoadFormatTest
+```
+
 ### Values
 
 | Name | Value | Description |

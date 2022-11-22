@@ -11,6 +11,10 @@ url: /cpp/aspose.words/revisionsview/
 
 Allows to specify whether to work with the original or revised version of a document.
 
+```cpp
+enum class RevisionsView
+```
+
 ### Values
 
 | Name | Value | Description |

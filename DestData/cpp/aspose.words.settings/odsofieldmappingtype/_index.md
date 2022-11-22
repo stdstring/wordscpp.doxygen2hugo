@@ -11,6 +11,10 @@ url: /cpp/aspose.words.settings/odsofieldmappingtype/
 
 Specifies the possible types used to indicate if a given mail merge field has been mapped to a column in the given external data source.
 
+```cpp
+enum class OdsoFieldMappingType
+```
+
 ### Values
 
 | Name | Value | Description |

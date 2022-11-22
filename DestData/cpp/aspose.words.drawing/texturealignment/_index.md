@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/texturealignment/
 
 Specifies the alignment for the tiling of the texture fill.
 
+```cpp
+enum class TextureAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

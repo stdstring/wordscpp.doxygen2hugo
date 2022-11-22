@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/tablecontentalignment/
 
 Allows to specify the alignment of the content of the table to be used when exporting into Markdown format.
 
+```cpp
+enum class TableContentAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

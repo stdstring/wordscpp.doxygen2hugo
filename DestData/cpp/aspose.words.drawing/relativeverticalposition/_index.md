@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/relativeverticalposition/
 
 Specifies to what the vertical position of a shape or text frame is relative.
 
+```cpp
+enum class RelativeVerticalPosition
+```
+
 ### Values
 
 | Name | Value | Description |

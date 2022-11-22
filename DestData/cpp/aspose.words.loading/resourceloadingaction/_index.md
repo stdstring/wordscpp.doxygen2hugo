@@ -11,6 +11,10 @@ url: /cpp/aspose.words.loading/resourceloadingaction/
 
 Specifies the mode of resource loading.
 
+```cpp
+enum class ResourceLoadingAction
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/numberstyle/
 
 Specifies the number style for a list, footnotes and endnotes, page numbers.
 
+```cpp
+enum class NumberStyle
+```
+
 ### Values
 
 | Name | Value | Description |

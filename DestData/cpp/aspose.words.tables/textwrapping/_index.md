@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/textwrapping/
 
 Specifies how text is wrapped around the table.
 
+```cpp
+enum class TextWrapping
+```
+
 ### Values
 
 | Name | Value | Description |

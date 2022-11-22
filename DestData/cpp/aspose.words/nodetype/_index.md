@@ -11,6 +11,10 @@ url: /cpp/aspose.words/nodetype/
 
 Specifies the type of a Word document node.
 
+```cpp
+enum class NodeType
+```
+
 ### Values
 
 | Name | Value | Description |

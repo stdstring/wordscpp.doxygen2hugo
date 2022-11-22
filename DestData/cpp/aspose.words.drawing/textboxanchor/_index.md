@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/textboxanchor/
 
 Specifies values used for shape text vertical alignment.
 
+```cpp
+enum class TextBoxAnchor
+```
+
 ### Values
 
 | Name | Value | Description |

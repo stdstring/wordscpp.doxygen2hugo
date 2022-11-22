@@ -11,6 +11,10 @@ url: /cpp/aspose.words/texteffect/
 
 Animation effect for text runs.
 
+```cpp
+enum class TextEffect
+```
+
 ### Values
 
 | Name | Value | Description |

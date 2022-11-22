@@ -11,6 +11,10 @@ url: /cpp/aspose.words/measurementunits/
 
 Specifies the unit of measurement.
 
+```cpp
+enum class MeasurementUnits
+```
+
 ### Values
 
 | Name | Value | Description |

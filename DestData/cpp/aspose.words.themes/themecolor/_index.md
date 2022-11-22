@@ -11,6 +11,10 @@ url: /cpp/aspose.words.themes/themecolor/
 
 Specifies the theme colors for document themes.
 
+```cpp
+enum class ThemeColor
+```
+
 ### Values
 
 | Name | Value | Description |

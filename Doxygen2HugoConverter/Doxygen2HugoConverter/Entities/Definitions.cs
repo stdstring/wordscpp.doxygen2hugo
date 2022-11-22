@@ -26,7 +26,7 @@ namespace Doxygen2HugoConverter.Entities
                                    String ParentId,
                                    String Name,
                                    String QualifiedName,
-                                   String BaseType,
+                                   String? BaseType,
                                    SimpleMarkupPortion BriefDescription,
                                    DetailedDescriptionPortion DetailedDescription,
                                    IList<EnumValueEntity> Values) : EntityDef;

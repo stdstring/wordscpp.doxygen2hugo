@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/shapetype/
 
 Specifies the type of shape in a Microsoft Word document.
 
+```cpp
+enum class ShapeType
+```
+
 ### Values
 
 | Name | Value | Description |

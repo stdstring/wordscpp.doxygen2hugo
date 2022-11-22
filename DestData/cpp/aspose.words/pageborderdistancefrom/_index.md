@@ -11,6 +11,10 @@ url: /cpp/aspose.words/pageborderdistancefrom/
 
 Specifies the positioning of the page border relative to the page margin.
 
+```cpp
+enum class PageBorderDistanceFrom
+```
+
 ### Values
 
 | Name | Value | Description |

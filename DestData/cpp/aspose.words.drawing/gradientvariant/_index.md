@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/gradientvariant/
 
 Specifies the variant for a gradient fill.
 
+```cpp
+enum class GradientVariant
+```
+
 ### Values
 
 | Name | Value | Description |

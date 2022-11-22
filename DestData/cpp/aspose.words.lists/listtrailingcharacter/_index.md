@@ -11,6 +11,10 @@ url: /cpp/aspose.words.lists/listtrailingcharacter/
 
 Specifies the character that separates the list label from the text of the paragraph.
 
+```cpp
+enum class ListTrailingCharacter
+```
+
 ### Values
 
 | Name | Value | Description |

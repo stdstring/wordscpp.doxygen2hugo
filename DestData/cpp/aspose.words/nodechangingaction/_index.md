@@ -11,6 +11,10 @@ url: /cpp/aspose.words/nodechangingaction/
 
 Specifies the type of node change.
 
+```cpp
+enum class NodeChangingAction
+```
+
 ### Values
 
 | Name | Value | Description |

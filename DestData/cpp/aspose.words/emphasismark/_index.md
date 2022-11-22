@@ -11,6 +11,10 @@ url: /cpp/aspose.words/emphasismark/
 
 Specifies possible types of emphasis mark.
 
+```cpp
+enum class EmphasisMark
+```
+
 ### Values
 
 | Name | Value | Description |

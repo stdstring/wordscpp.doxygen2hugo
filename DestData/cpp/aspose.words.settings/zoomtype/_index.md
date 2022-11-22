@@ -11,6 +11,10 @@ url: /cpp/aspose.words.settings/zoomtype/
 
 Possible values for how large or small the document appears on the screen in Microsoft Word.
 
+```cpp
+enum class ZoomType
+```
+
 ### Values
 
 | Name | Value | Description |

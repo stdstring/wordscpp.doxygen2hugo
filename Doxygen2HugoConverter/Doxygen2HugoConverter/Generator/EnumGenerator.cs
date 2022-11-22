@@ -22,6 +22,7 @@ namespace Doxygen2HugoConverter.Generator
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
+            entity.GenerateEnumDefinition(builder);
             entity.Values.ProcessEnumValues(CreateUrl, builder);
             builder.AppendLine();
             entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder);
@@ -39,6 +40,17 @@ namespace Doxygen2HugoConverter.Generator
                 return new GenerateEntry(title, briefDescription);
             }
             return entities.Select(CreateEntry).ToList();
+        }
+
+        private static void GenerateEnumDefinition(this EntityDef.EnumEntity entity, StringBuilder dest)
+        {
+            dest.AppendLine("```cpp");
+            dest.Append($"enum class {entity.Name}");
+            if (entity.BaseType != null)
+                dest.Append($" : {entity.BaseType}");
+            dest.AppendLine();
+            dest.AppendLine("```");
+            dest.AppendLine();
         }
 
         private static void ProcessEnumValues(this IList<EnumValueEntity> enumValues, Func<String, String?> relativeUrlGenerator, StringBuilder dest)

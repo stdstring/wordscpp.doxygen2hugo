@@ -11,6 +11,10 @@ url: /cpp/aspose.words/watermarktype/
 
 Specifies the watermark type.
 
+```cpp
+enum class WatermarkType
+```
+
 ### Values
 
 | Name | Value | Description |

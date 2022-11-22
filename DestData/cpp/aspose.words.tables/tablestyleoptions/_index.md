@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/tablestyleoptions/
 
 Specifies how table style is applied to a table.
 
+```cpp
+enum class TableStyleOptions
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.markup/sdttype/
 
 Specifies the type of a structured document tag (SDT) node.
 
+```cpp
+enum class SdtType
+```
+
 ### Values
 
 | Name | Value | Description |

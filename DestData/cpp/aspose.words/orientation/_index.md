@@ -11,6 +11,10 @@ url: /cpp/aspose.words/orientation/
 
 Specifies page orientation.
 
+```cpp
+enum class Orientation
+```
+
 ### Values
 
 | Name | Value | Description |

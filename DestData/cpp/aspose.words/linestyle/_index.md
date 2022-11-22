@@ -11,6 +11,10 @@ url: /cpp/aspose.words/linestyle/
 
 Specifies line style of a [Border](../border/).
 
+```cpp
+enum class LineStyle
+```
+
 ### Values
 
 | Name | Value | Description |

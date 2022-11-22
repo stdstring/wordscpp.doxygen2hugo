@@ -11,6 +11,10 @@ url: /cpp/aspose.words.mailmerging/mailmergecleanupoptions/
 
 Specifies options that determine what items are removed during mail merge.
 
+```cpp
+enum class MailMergeCleanupOptions
+```
+
 ### Values
 
 | Name | Value | Description |

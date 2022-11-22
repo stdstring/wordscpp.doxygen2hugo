@@ -11,6 +11,10 @@ url: /cpp/aspose.words/bordertype/
 
 Specifies sides of a border.
 
+```cpp
+enum class BorderType
+```
+
 ### Values
 
 | Name | Value | Description |

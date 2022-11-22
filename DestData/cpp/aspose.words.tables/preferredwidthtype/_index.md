@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/preferredwidthtype/
 
 Specifies the unit of measurement for the preferred width of a table or cell.
 
+```cpp
+enum class PreferredWidthType
+```
+
 ### Values
 
 | Name | Value | Description |

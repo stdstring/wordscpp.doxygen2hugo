@@ -11,6 +11,10 @@ url: /cpp/aspose.words.notes/endnoteposition/
 
 Defines the endnote position.
 
+```cpp
+enum class EndnotePosition
+```
+
 ### Values
 
 | Name | Value | Description |

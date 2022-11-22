@@ -11,6 +11,10 @@ url: /cpp/aspose.words/tabalignment/
 
 Specifies the alignment/type of a tab stop.
 
+```cpp
+enum class TabAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

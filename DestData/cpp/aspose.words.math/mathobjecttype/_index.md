@@ -11,6 +11,10 @@ url: /cpp/aspose.words.math/mathobjecttype/
 
 Specifies type of an Office [Math](../) object.
 
+```cpp
+enum class MathObjectType
+```
+
 ### Values
 
 | Name | Value | Description |

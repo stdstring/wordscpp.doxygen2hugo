@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/textpathalignment/
 
 WordArt alignment.
 
+```cpp
+enum class TextPathAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

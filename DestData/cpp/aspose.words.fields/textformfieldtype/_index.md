@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fields/textformfieldtype/
 
 Specifies the type of a text form field.
 
+```cpp
+enum class TextFormFieldType
+```
+
 ### Values
 
 | Name | Value | Description |

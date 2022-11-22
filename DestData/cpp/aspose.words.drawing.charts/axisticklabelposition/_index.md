@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/axisticklabelposition/
 
 Specifies the possible positions for tick labels.
 
+```cpp
+enum class AxisTickLabelPosition
+```
+
 ### Values
 
 | Name | Value | Description |

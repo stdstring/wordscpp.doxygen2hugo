@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/tiffcompression/
 
 Specifies what type of compression to apply when saving page images into a TIFF file.
 
+```cpp
+enum class TiffCompression
+```
+
 ### Values
 
 | Name | Value | Description |

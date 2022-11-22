@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/exportheadersfootersmode/
 
 Specifies how headers and footers are exported to HTML, MHTML or EPUB.
 
+```cpp
+enum class ExportHeadersFootersMode
+```
+
 ### Values
 
 | Name | Value | Description |

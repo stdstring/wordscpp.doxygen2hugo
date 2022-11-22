@@ -11,6 +11,10 @@ url: /cpp/aspose.words.loading/resourcetype/
 
 Type of loaded resource.
 
+```cpp
+enum class ResourceType
+```
+
 ### Values
 
 | Name | Value | Description |

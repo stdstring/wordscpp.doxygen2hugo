@@ -11,6 +11,10 @@ url: /cpp/aspose.words/protectiontype/
 
 Protection type for a document.
 
+```cpp
+enum class ProtectionType
+```
+
 ### Values
 
 | Name | Value | Description |

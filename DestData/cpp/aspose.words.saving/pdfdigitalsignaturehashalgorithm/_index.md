@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/pdfdigitalsignaturehashalgorithm/
 
 Specifies a digital hash algorithm used by a digital signature.
 
+```cpp
+enum class PdfDigitalSignatureHashAlgorithm
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.lists/listtemplate/
 
 Specifies one of the predefined list formats available in Microsoft Word.
 
+```cpp
+enum class ListTemplate
+```
+
 ### Values
 
 | Name | Value | Description |

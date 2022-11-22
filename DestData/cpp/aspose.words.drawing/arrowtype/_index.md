@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/arrowtype/
 
 Specifies the type of an arrow at a line end.
 
+```cpp
+enum class ArrowType
+```
+
 ### Values
 
 | Name | Value | Description |

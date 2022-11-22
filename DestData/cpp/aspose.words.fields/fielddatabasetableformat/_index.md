@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fields/fielddatabasetableformat/
 
 FieldDatabaseTableFormat enumeration.
 
+```cpp
+enum class FieldDatabaseTableFormat
+```
+
 ### Values
 
 | Name | Value | Description |

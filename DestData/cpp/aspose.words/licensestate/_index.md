@@ -11,6 +11,10 @@ url: /cpp/aspose.words/licensestate/
 
 LicenseState enumeration.
 
+```cpp
+enum class LicenseState
+```
+
 ### Values
 
 | Name | Value | Description |

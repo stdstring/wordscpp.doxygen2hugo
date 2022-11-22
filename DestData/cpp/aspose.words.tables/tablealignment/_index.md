@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/tablealignment/
 
 Specifies alignment for an inline table.
 
+```cpp
+enum class TableAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

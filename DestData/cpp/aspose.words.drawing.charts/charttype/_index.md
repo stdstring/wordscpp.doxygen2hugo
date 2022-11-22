@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/charttype/
 
 Specifies type of a chart.
 
+```cpp
+enum class ChartType
+```
+
 ### Values
 
 | Name | Value | Description |

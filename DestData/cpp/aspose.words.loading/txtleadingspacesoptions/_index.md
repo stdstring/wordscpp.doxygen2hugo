@@ -11,6 +11,10 @@ url: /cpp/aspose.words.loading/txtleadingspacesoptions/
 
 Specifies available options for leading space handling during import from **Text** file.
 
+```cpp
+enum class TxtLeadingSpacesOptions
+```
+
 ### Values
 
 | Name | Value | Description |

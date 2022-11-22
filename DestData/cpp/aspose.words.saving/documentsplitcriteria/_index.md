@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/documentsplitcriteria/
 
 Specifies how the document is split into parts when saving to **Html**, **Epub** or **Azw3** format.
 
+```cpp
+enum class DocumentSplitCriteria
+```
+
 ### Values
 
 | Name | Value | Description |

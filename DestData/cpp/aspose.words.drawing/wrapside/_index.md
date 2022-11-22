@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/wrapside/
 
 Specifies what side(s) of the shape or picture the text wraps around.
 
+```cpp
+enum class WrapSide
+```
+
 ### Values
 
 | Name | Value | Description |

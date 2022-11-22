@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/dashstyle/
 
 Dashed line style.
 
+```cpp
+enum class DashStyle
+```
+
 ### Values
 
 | Name | Value | Description |

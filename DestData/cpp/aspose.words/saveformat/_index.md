@@ -11,6 +11,10 @@ url: /cpp/aspose.words/saveformat/
 
 Indicates the format in which the document is saved.
 
+```cpp
+enum class SaveFormat
+```
+
 ### Values
 
 | Name | Value | Description |

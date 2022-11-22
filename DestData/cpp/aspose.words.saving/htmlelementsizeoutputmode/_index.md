@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/htmlelementsizeoutputmode/
 
 Specifies how Aspose.Words exports element widths and heights to HTML, MHTML and EPUB.
 
+```cpp
+enum class HtmlElementSizeOutputMode
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/textorientation/
 
 Specifies orientation of text on a page, in a table cell or a text frame.
 
+```cpp
+enum class TextOrientation
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/axisbuiltinunit/
 
 Specifies the display units for an axis.
 
+```cpp
+enum class AxisBuiltInUnit
+```
+
 ### Values
 
 | Name | Value | Description |

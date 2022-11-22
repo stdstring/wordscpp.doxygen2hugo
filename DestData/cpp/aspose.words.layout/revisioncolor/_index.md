@@ -11,6 +11,10 @@ url: /cpp/aspose.words.layout/revisioncolor/
 
 Allows to specify color of document revisions.
 
+```cpp
+enum class RevisionColor
+```
+
 ### Values
 
 | Name | Value | Description |

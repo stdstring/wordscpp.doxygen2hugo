@@ -11,6 +11,10 @@ url: /cpp/aspose.words/sectionlayoutmode/
 
 Specifies the layout mode for a section allowing to define the document grid behavior.
 
+```cpp
+enum class SectionLayoutMode
+```
+
 ### Values
 
 | Name | Value | Description |

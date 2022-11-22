@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/joinstyle/
 
 Line join style.
 
+```cpp
+enum class JoinStyle
+```
+
 ### Values
 
 | Name | Value | Description |

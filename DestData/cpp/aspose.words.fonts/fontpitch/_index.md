@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fonts/fontpitch/
 
 Represents the font pitch.
 
+```cpp
+enum class FontPitch
+```
+
 ### Values
 
 | Name | Value | Description |

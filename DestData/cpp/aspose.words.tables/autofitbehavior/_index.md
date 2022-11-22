@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/autofitbehavior/
 
 Determines how Aspose.Words resizes the table when you invoke the [AutoFit()](../table/autofit/) method.
 
+```cpp
+enum class AutoFitBehavior
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/warningsource/
 
 Specifies the module that produces a warning during document loading or saving.
 
+```cpp
+enum class WarningSource
+```
+
 ### Values
 
 | Name | Value | Description |

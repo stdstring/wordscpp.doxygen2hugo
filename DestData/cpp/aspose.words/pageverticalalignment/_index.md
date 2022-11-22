@@ -11,6 +11,10 @@ url: /cpp/aspose.words/pageverticalalignment/
 
 Specifies vertical justification of text on each page.
 
+```cpp
+enum class PageVerticalAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

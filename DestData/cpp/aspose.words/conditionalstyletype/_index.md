@@ -11,6 +11,10 @@ url: /cpp/aspose.words/conditionalstyletype/
 
 Represents possible table areas to which conditional formatting may be defined in a table style.
 
+```cpp
+enum class ConditionalStyleType
+```
+
 ### Values
 
 | Name | Value | Description |

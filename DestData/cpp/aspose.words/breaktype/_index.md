@@ -11,6 +11,10 @@ url: /cpp/aspose.words/breaktype/
 
 Specifies type of a break inside a document.
 
+```cpp
+enum class BreakType
+```
+
 ### Values
 
 | Name | Value | Description |

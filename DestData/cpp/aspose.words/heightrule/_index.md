@@ -11,6 +11,10 @@ url: /cpp/aspose.words/heightrule/
 
 Specifies the rule for determining the height of an object.
 
+```cpp
+enum class HeightRule
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/styleidentifier/
 
 Locale independent style identifier.
 
+```cpp
+enum class StyleIdentifier
+```
+
 ### Values
 
 | Name | Value | Description |

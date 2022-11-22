@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/pdfpermissions/
 
 Specifies the operations that are allowed to a user on an encrypted PDF document.
 
+```cpp
+enum class PdfPermissions
+```
+
 ### Values
 
 | Name | Value | Description |

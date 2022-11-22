@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/axistickmark/
 
 Specifies the possible positions for tick marks.
 
+```cpp
+enum class AxisTickMark
+```
+
 ### Values
 
 | Name | Value | Description |

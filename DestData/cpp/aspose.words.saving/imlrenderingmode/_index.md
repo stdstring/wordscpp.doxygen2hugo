@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/imlrenderingmode/
 
 Specifies how ink (InkML) objects are rendered to fixed page formats.
 
+```cpp
+enum class ImlRenderingMode
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/warningtype/
 
 Specifies the type of a warning that is issued by Aspose.Words during document loading or saving.
 
+```cpp
+enum class WarningType
+```
+
 ### Values
 
 | Name | Value | Description |

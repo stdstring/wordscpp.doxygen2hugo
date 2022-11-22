@@ -11,6 +11,10 @@ url: /cpp/aspose.words.notes/footnoteposition/
 
 Defines the footnote position.
 
+```cpp
+enum class FootnotePosition
+```
+
 ### Values
 
 | Name | Value | Description |

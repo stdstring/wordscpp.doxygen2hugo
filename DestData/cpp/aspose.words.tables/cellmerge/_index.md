@@ -11,6 +11,10 @@ url: /cpp/aspose.words.tables/cellmerge/
 
 Specifies how a cell in a table is merged with other cells.
 
+```cpp
+enum class CellMerge
+```
+
 ### Values
 
 | Name | Value | Description |

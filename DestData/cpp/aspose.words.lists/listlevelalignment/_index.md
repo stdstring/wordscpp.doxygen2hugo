@@ -11,6 +11,10 @@ url: /cpp/aspose.words.lists/listlevelalignment/
 
 Specifies alignment for the list number or bullet.
 
+```cpp
+enum class ListLevelAlignment
+```
+
 ### Values
 
 | Name | Value | Description |

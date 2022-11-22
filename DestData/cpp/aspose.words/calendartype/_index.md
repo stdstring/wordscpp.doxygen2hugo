@@ -11,6 +11,10 @@ url: /cpp/aspose.words/calendartype/
 
 Specifies the type of a calendar.
 
+```cpp
+enum class CalendarType
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturetype/
 
 Specifies the type of a digital signature.
 
+```cpp
+enum class DigitalSignatureType
+```
+
 ### Values
 
 | Name | Value | Description |

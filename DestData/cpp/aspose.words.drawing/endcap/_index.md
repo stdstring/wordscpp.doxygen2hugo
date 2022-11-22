@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/endcap/
 
 Specifies line cap style.
 
+```cpp
+enum class EndCap
+```
+
 ### Values
 
 | Name | Value | Description |

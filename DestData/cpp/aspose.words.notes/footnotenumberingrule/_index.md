@@ -11,6 +11,10 @@ url: /cpp/aspose.words.notes/footnotenumberingrule/
 
 Determines when automatic footnote or endnote numbering restarts.
 
+```cpp
+enum class FootnoteNumberingRule
+```
+
 ### Values
 
 | Name | Value | Description |

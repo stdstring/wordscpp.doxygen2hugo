@@ -11,6 +11,10 @@ url: /cpp/aspose.words.layout/continuoussectionrestart/
 
 Represents different behaviors when computing page numbers in a continuous section that restarts page numbering.
 
+```cpp
+enum class ContinuousSectionRestart
+```
+
 ### Values
 
 | Name | Value | Description |

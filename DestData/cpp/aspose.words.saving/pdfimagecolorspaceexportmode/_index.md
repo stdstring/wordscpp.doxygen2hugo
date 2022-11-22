@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/pdfimagecolorspaceexportmode/
 
 Specifies how the color space will be selected for the images in PDF document.
 
+```cpp
+enum class PdfImageColorSpaceExportMode
+```
+
 ### Values
 
 | Name | Value | Description |

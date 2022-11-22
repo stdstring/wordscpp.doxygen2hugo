@@ -11,6 +11,10 @@ url: /cpp/aspose.words.markup/sdtappearance/
 
 Specifies the appearance of a structured document tag.
 
+```cpp
+enum class SdtAppearance
+```
+
 ### Values
 
 | Name | Value | Description |

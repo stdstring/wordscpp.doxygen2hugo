@@ -11,6 +11,10 @@ url: /cpp/aspose.words/outlinelevel/
 
 Specifies the outline level of a paragraph in the document.
 
+```cpp
+enum class OutlineLevel
+```
+
 ### Values
 
 | Name | Value | Description |

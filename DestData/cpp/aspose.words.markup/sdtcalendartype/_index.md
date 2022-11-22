@@ -11,6 +11,10 @@ url: /cpp/aspose.words.markup/sdtcalendartype/
 
 Specifies the possible types of calendars which can be used to specify [CalendarType](../structureddocumenttag/get_calendartype/) in an Office Open XML document.
 
+```cpp
+enum class SdtCalendarType
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.settings/compatibility/
 
 Specifies names of compatibility options.
 
+```cpp
+enum class Compatibility
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words.loading/txttrailingspacesoptions/
 
 Specifies available options for trailing spaces handling during import from **Text** file.
 
+```cpp
+enum class TxtTrailingSpacesOptions
+```
+
 ### Values
 
 | Name | Value | Description |

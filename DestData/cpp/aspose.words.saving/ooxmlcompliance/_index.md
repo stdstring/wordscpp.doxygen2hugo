@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/ooxmlcompliance/
 
 Allows to specify which OOXML specification will be used when saving in the DOCX format.
 
+```cpp
+enum class OoxmlCompliance
+```
+
 ### Values
 
 | Name | Value | Description |

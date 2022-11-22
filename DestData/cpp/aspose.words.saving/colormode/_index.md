@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/colormode/
 
 Specifies how colors are rendered.
 
+```cpp
+enum class ColorMode
+```
+
 ### Values
 
 | Name | Value | Description |

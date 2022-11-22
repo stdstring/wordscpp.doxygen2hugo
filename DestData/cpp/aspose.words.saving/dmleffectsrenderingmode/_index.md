@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/dmleffectsrenderingmode/
 
 Specifies how DrawingML effects are rendered to fixed page formats.
 
+```cpp
+enum class DmlEffectsRenderingMode
+```
+
 ### Values
 
 | Name | Value | Description |

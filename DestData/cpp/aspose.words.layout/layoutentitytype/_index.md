@@ -11,6 +11,10 @@ url: /cpp/aspose.words.layout/layoutentitytype/
 
 Types of the layout entities.
 
+```cpp
+enum class LayoutEntityType
+```
+
 ### Values
 
 | Name | Value | Description |

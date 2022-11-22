@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fields/fieldupdateculturesource/
 
 Indicates what culture to use during field update.
 
+```cpp
+enum class FieldUpdateCultureSource
+```
+
 ### Values
 
 | Name | Value | Description |

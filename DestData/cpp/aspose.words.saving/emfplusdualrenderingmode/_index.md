@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/emfplusdualrenderingmode/
 
 Specifies how Aspose.Words should render EMF+ Dual metafiles.
 
+```cpp
+enum class EmfPlusDualRenderingMode
+```
+
 ### Values
 
 | Name | Value | Description |

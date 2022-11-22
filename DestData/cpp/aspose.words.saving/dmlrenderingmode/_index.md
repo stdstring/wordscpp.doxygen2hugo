@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/dmlrenderingmode/
 
 Specifies how DrawingML shapes are rendered to fixed page formats.
 
+```cpp
+enum class DmlRenderingMode
+```
+
 ### Values
 
 | Name | Value | Description |

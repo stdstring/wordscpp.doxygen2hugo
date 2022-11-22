@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing/relativehorizontalposition/
 
 Specifies to what the horizontal position of a shape or text frame is relative.
 
+```cpp
+enum class RelativeHorizontalPosition
+```
+
 ### Values
 
 | Name | Value | Description |

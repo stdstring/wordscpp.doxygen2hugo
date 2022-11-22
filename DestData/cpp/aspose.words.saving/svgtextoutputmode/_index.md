@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/svgtextoutputmode/
 
 
 
+```cpp
+enum class SvgTextOutputMode
+```
+
 ### Values
 
 | Name | Value | Description |

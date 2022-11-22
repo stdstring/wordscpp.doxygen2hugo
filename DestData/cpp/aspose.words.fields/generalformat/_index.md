@@ -11,6 +11,10 @@ url: /cpp/aspose.words.fields/generalformat/
 
 Specifies a general format that is applied to a numeric, text, or any field result. A field may have a combination of general formats.
 
+```cpp
+enum class GeneralFormat
+```
+
 ### Values
 
 | Name | Value | Description |

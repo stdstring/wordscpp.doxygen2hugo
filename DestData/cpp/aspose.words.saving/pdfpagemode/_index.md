@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/pdfpagemode/
 
 Specifies how the PDF document should be displayed when opened in the PDF reader.
 
+```cpp
+enum class PdfPageMode
+```
+
 ### Values
 
 | Name | Value | Description |

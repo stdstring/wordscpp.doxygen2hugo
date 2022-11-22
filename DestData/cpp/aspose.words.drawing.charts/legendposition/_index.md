@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/legendposition/
 
 Specifies the possible positions for a chart legend.
 
+```cpp
+enum class LegendPosition
+```
+
 ### Values
 
 | Name | Value | Description |

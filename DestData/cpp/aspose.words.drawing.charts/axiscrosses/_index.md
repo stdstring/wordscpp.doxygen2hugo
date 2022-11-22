@@ -11,6 +11,10 @@ url: /cpp/aspose.words.drawing.charts/axiscrosses/
 
 Specifies the possible crossing points for an axis.
 
+```cpp
+enum class AxisCrosses
+```
+
 ### Values
 
 | Name | Value | Description |

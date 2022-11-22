@@ -11,6 +11,10 @@ url: /cpp/aspose.words.loading/htmlcontroltype/
 
 Type of document nodes that represent <input> and <select> elements imported from HTML.
 
+```cpp
+enum class HtmlControlType
+```
+
 ### Values
 
 | Name | Value | Description |

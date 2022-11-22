@@ -11,6 +11,10 @@ url: /cpp/aspose.words.saving/pdfimagecompression/
 
 Specifies the type of compression applied to images in the PDF file.
 
+```cpp
+enum class PdfImageCompression
+```
+
 ### Values
 
 | Name | Value | Description |

@@ -11,6 +11,10 @@ url: /cpp/aspose.words/storytype/
 
 Text of a Word document is stored in stories. **StoryType** identifies a story.
 
+```cpp
+enum class StoryType
+```
+
 ### Values
 
 | Name | Value | Description |
