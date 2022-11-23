@@ -15,6 +15,8 @@ True if this header or footer is linked to the corresponding header or footer in
 bool Aspose::Words::HeaderFooter::get_IsLinkedToPrevious()
 ```
 
+## Remarks
+
 
 Default is true.
 

@@ -29,6 +29,8 @@ class TextColumnCollection : public System::Object
 | [set_LineBetween](./set_linebetween/)(bool) | Setter for [Aspose::Words::TextColumnCollection::get_LineBetween](./get_linebetween/). |
 | [set_Spacing](./set_spacing/)(double) | Setter for [Aspose::Words::TextColumnCollection::get_Spacing](./get_spacing/). |
 | [SetCount](./setcount/)(int32_t) | Arranges text into the specified number of text columns. |
+## Remarks
+
 
 Use [SetCount()](./setcount/) to set the number of text columns.
 

@@ -23,6 +23,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -85,6 +87,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -142,6 +146,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -197,6 +203,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -252,6 +260,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -302,6 +312,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -350,6 +362,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -421,6 +435,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -472,6 +488,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -521,6 +539,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 This overload will automatically download the image before inserting into the document if you specify a remote URI.
 
@@ -652,6 +672,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
@@ -737,6 +759,8 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 The image node that was just inserted.
+## Remarks
+
 
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 

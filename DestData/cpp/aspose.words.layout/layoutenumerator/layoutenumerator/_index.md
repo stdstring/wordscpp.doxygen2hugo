@@ -19,6 +19,8 @@ Aspose::Words::Layout::LayoutEnumerator::LayoutEnumerator(const System::SharedPt
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | const System::SharedPtr\<Aspose::Words::Document\>\& | A document whose page layout model to enumerate. |
+## Remarks
+
 
 If page layout model of the document hasn't been built the enumerator calls [UpdatePageLayout](../../../aspose.words/document/updatepagelayout/) to build it.
 

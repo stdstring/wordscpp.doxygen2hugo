@@ -15,6 +15,8 @@ Specifies whether font sizes should be output in relative units when saving to H
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportRelativeFontSize() const
 ```
 
+## Remarks
+
 
 In many existing documents (HTML, IDPF EPUB) font sizes are specified in relative units. This allows applications to adjust text size when viewing/processing documents. For instance, Microsoft Internet Explorer has "View->Text Size" submenu, Adobe Digital Editions has two buttons: Increase/Decrease Text Size. If you expect this functionality to work then set [ExportRelativeFontSize](./) property to **true**.
 

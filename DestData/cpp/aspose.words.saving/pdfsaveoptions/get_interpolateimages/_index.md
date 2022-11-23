@@ -15,6 +15,8 @@ A flag indicating whether image interpolation shall be performed by a conforming
 bool Aspose::Words::Saving::PdfSaveOptions::get_InterpolateImages() const
 ```
 
+## Remarks
+
 
 When the resolution of a source image is significantly lower than that of the output device, each source sample covers many device pixels. As a result, images can appear jaggy or blocky. These visual artifacts can be reduced by applying an image interpolation algorithm during rendering. Instead of painting all pixels covered by a source sample with the same color, image interpolation attempts to produce a smooth transition between adjacent sample values.
 

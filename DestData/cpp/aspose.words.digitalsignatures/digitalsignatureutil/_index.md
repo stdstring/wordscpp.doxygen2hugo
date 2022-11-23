@@ -32,6 +32,8 @@ class DigitalSignatureUtil
 | static [Sign](./sign/)(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) | Signs source document using given [CertificateHolder](../certificateholder/) with digital signature and writes signed document to destination file. [Document](../../aspose.words/document/) should be either **Doc** or **Docx**. |
 | static [Sign](./sign/)(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>, System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>) |  |
 | static [Sign](./sign/)(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>) |  |
+## Remarks
+
 
 Since digital signature works with file content rather than [Document](../../aspose.words/document/) Object Model these methods are put into a separate class.
 

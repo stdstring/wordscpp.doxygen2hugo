@@ -15,6 +15,8 @@ Gets or sets a boolean value indicating whether the document should be saved usi
 bool Aspose::Words::Saving::PsSaveOptions::get_UseBookFoldPrintingSettings() const
 ```
 
+## Remarks
+
 
 If this option is specified, [PageSet](../../fixedpagesaveoptions/get_pageset/) is ignored when saving. This behavior matches MS Word. If book fold printing settings are not specified in page setup, this option will have no effect.
 

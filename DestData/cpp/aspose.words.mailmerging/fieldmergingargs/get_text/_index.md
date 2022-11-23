@@ -15,6 +15,8 @@ Gets or sets the text that will be inserted into the document for the current me
 System::String Aspose::Words::MailMerging::FieldMergingArgs::get_Text() const
 ```
 
+## Remarks
+
 
 When your event handler is called, this property is set to null.
 

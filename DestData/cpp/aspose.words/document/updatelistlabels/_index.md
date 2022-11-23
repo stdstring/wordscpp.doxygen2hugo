@@ -15,6 +15,8 @@ Updates list labels for all list items in the document.
 void Aspose::Words::Document::UpdateListLabels()
 ```
 
+## Remarks
+
 
 This method updates list label properties such as [LabelValue](../../../aspose.words.lists/listlabel/get_labelvalue/) and [LabelString](../../../aspose.words.lists/listlabel/get_labelstring/) for each [ListLabel](../../paragraph/get_listlabel/) object in the document.
 

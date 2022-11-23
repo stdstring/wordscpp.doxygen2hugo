@@ -15,6 +15,8 @@ Determines whether Microsoft Word will grow the shape to fit text.
 bool Aspose::Words::Drawing::TextBox::get_FitShapeToText()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

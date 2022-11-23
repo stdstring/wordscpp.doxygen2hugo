@@ -15,6 +15,8 @@ True if the font is underlined.
 bool Aspose::Words::Drawing::TextPath::get_Underline()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

@@ -15,6 +15,8 @@ Gets or sets the position of the left edge of the containing block of the shape.
 double Aspose::Words::Drawing::ShapeBase::get_Left()
 ```
 
+## Remarks
+
 
 For a top-level shape, the value is in points and relative to the shape anchor.
 

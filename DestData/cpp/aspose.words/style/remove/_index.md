@@ -15,6 +15,8 @@ Removes the specified style from the document.
 void Aspose::Words::Style::Remove()
 ```
 
+## Remarks
+
 
 [Style](../) removal has following effects on the document model:
 

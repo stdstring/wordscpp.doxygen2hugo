@@ -19,6 +19,8 @@ void Aspose::Words::Drawing::OleFormat::Save(const System::SharedPtr<System::IO:
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | Where to save the object data. |
+## Remarks
+
 
 It is the responsibility of the caller to dispose the stream.
 

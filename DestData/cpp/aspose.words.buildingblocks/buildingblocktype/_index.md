@@ -29,6 +29,8 @@ enum class BuildingBlockType
 | All | 7 | The building block is associated with all types. |
 | Default | n/a | Save as **None**. |
 
+## Remarks
+
 
 Corresponds to the **ST_DocPartType** type in OOXML.
 

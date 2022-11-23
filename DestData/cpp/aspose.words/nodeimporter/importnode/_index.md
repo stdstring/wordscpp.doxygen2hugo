@@ -24,6 +24,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeImporter::ImportNode(c
 ### ReturnValue
 
 The cloned, imported node. The node belongs to the destination document, but has no parent.
+## Remarks
+
 
 Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.
 

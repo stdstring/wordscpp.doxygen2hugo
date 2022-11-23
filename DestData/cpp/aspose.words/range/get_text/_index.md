@@ -15,6 +15,8 @@ Gets the text of the range.
 System::String Aspose::Words::Range::get_Text()
 ```
 
+## Remarks
+
 
 The returned string includes all control and special characters as described in [ControlChar](../../controlchar/).
 

@@ -15,6 +15,8 @@ Defines a second color for a stroke.
 System::Drawing::Color Aspose::Words::Drawing::Stroke::get_Color2()
 ```
 
+## Remarks
+
 
 The default value for a [Shape](../../shape/) is **White**.
 

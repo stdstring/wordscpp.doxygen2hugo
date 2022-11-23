@@ -15,6 +15,8 @@ Gets or sets the details for encrypting the output PDF document.
 System::SharedPtr<Aspose::Words::Saving::PdfEncryptionDetails> Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails() const
 ```
 
+## Remarks
+
 
 The default value is null and the output document will not be encrypted. When this property is set to a valid [PdfEncryptionDetails](../../pdfencryptiondetails/) object, then the output PDF document will be encrypted.
 

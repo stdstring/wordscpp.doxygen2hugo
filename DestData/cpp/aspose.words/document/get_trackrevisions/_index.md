@@ -15,6 +15,8 @@ url: /cpp/aspose.words/document/get_trackrevisions/
 bool Aspose::Words::Document::get_TrackRevisions()
 ```
 
+## Remarks
+
 
 Setting this option only instructs Microsoft Word whether the track changes is turned on or off. This property has no effect on changes to the document that you make programmatically via Aspose.Words.
 

@@ -15,6 +15,8 @@ Returns or sets the text that's displayed in a message box when the form field h
 System::String Aspose::Words::Fields::FormField::get_HelpText()
 ```
 
+## Remarks
+
 
 If the OwnHelp property is set to True, HelpText specifies the text string value. If OwnHelp is set to False, HelpText specifies the name of an AutoText entry that contains help text for the form field.
 

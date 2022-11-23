@@ -15,6 +15,8 @@ Provides access to the items of a dropdown form field.
 System::SharedPtr<Aspose::Words::Fields::DropDownItemCollection> Aspose::Words::Fields::FormField::get_DropDownItems()
 ```
 
+## Remarks
+
 
 Microsoft Word allows maximum 25 items in a dropdown form field.
 

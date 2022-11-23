@@ -15,6 +15,8 @@ Returns a collection of styles defined in the document.
 System::SharedPtr<Aspose::Words::StyleCollection> Aspose::Words::DocumentBase::get_Styles() const
 ```
 
+## Remarks
+
 
 For more information see the description of the [StyleCollection](../../stylecollection/) class.
 

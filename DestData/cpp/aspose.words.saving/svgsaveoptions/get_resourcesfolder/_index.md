@@ -15,6 +15,8 @@ Specifies the physical folder where resources (images) are saved when exporting 
 System::String Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder() const
 ```
 
+## Remarks
+
 
 Has effect only if [ExportEmbeddedImages](../get_exportembeddedimages/) property is false.
 

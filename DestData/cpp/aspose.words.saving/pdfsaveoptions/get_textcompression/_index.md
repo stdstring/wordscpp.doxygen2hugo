@@ -15,6 +15,8 @@ Specifies compression type to be used for all textual content in the document.
 Aspose::Words::Saving::PdfTextCompression Aspose::Words::Saving::PdfSaveOptions::get_TextCompression() const
 ```
 
+## Remarks
+
 
 Default is **Flate**.
 

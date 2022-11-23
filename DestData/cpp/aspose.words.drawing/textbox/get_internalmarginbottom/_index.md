@@ -15,6 +15,8 @@ Specifies the inner bottom margin in points for a shape.
 double Aspose::Words::Drawing::TextBox::get_InternalMarginBottom()
 ```
 
+## Remarks
+
 
 The default value is 1/20 inch.
 

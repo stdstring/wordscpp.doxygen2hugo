@@ -15,6 +15,8 @@ Gets or sets the amount of spacing (in points) before the paragraph.
 double Aspose::Words::ParagraphFormat::get_SpaceBefore()
 ```
 
+## Remarks
+
 
 Has no effect when [SpaceBeforeAuto](../get_spacebeforeauto/) is true.
 

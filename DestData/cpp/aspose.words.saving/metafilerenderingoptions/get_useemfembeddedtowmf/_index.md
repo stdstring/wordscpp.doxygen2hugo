@@ -15,6 +15,8 @@ Gets or sets a value determining how WMF metafiles with embedded EMF metafiles s
 bool Aspose::Words::Saving::MetafileRenderingOptions::get_UseEmfEmbeddedToWmf() const
 ```
 
+## Remarks
+
 
 WMF metafiles could contain embedded EMF data. MS Word in most cases uses embedded EMF data. GDI+ always uses WMF data.
 

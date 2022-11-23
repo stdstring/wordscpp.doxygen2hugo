@@ -15,6 +15,8 @@ Gets the position of the right edge of the containing block of the shape.
 double Aspose::Words::Drawing::ShapeBase::get_Right()
 ```
 
+## Remarks
+
 
 For a top-level shape, the value is in points and relative to the shape anchor.
 

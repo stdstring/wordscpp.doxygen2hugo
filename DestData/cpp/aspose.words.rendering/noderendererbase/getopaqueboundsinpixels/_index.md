@@ -24,6 +24,8 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetOpaque
 ### ReturnValue
 
 The opaque rectangle of the shape in pixels.
+## Remarks
+
 
 This method converts [OpaqueBoundsInPoints](../get_opaqueboundsinpoints/) into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.
 
@@ -91,6 +93,8 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetOpaque
 ### ReturnValue
 
 The opaque rectangle of the shape in pixels.
+## Remarks
+
 
 This method converts [OpaqueBoundsInPoints](../get_opaqueboundsinpoints/) into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.
 

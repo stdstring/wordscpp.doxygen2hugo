@@ -15,6 +15,8 @@ Gets or sets the glossary document within this document or template. A glossary 
 System::SharedPtr<Aspose::Words::BuildingBlocks::GlossaryDocument> Aspose::Words::Document::get_GlossaryDocument() const
 ```
 
+## Remarks
+
 
 This property returns **null** if the document does not have a glossary document.
 

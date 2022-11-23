@@ -15,6 +15,8 @@ Gets or sets the date when the document was last printed in UTC.
 System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_LastPrinted()
 ```
 
+## Remarks
+
 
 For documents originated from RTF format this property returns the local time of last print operation.
 

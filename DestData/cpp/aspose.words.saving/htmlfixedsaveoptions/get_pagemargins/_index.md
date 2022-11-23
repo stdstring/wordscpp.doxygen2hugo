@@ -15,6 +15,8 @@ Specifies the margins around pages in an HTML document. The margins value is mea
 double Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins() const
 ```
 
+## Remarks
+
 
 Depends on the value of [PageHorizontalAlignment](../get_pagehorizontalalignment/) property:
 

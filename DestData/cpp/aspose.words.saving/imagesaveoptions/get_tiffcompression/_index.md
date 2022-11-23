@@ -15,6 +15,8 @@ Gets or sets the type of compression to apply when saving generated images to th
 Aspose::Words::Saving::TiffCompression Aspose::Words::Saving::ImageSaveOptions::get_TiffCompression() const
 ```
 
+## Remarks
+
 
 Has effect only when saving to TIFF.
 

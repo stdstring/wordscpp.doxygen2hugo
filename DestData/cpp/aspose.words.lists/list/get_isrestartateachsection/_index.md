@@ -15,6 +15,8 @@ Specifies whether list should be restarted at each section. Default value is **f
 bool Aspose::Words::Lists::List::get_IsRestartAtEachSection()
 ```
 
+## Remarks
+
 
 This option is supported only in RTF, DOC and DOCX document formats.
 

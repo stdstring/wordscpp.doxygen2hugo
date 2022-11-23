@@ -15,6 +15,8 @@ Specifies the full date and time last entered into this **SDT**.
 System::DateTime Aspose::Words::Markup::StructuredDocumentTag::get_FullDate()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **Date** SDT type.
 

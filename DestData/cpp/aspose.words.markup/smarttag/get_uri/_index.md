@@ -15,6 +15,8 @@ Specifies the namespace URI of the smart tag.
 System::String Aspose::Words::Markup::SmartTag::get_Uri() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 

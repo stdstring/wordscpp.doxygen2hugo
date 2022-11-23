@@ -15,6 +15,8 @@ Gets or sets the border width in points.
 double Aspose::Words::Border::get_LineWidth()
 ```
 
+## Remarks
+
 
 If you set line width greater than zero when line style is none, the line style is automatically changed to single line.
 

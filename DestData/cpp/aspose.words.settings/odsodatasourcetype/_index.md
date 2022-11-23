@@ -31,6 +31,8 @@ enum class OdsoDataSourceType
 | Master | 9 | Specifies that a given document has been connected to a data source which aggregates other data sources. |
 | Default | n/a | Equals to **None**. |
 
+## Remarks
+
 
 The OOXML specification is very vague for this enum. I guess it might correspond to the WdMergeSubType enumeration [http://msdn.microsoft.com/en-us/library/bb237801.aspx](http://msdn.microsoft.com/en-us/library/bb237801.aspx).
 

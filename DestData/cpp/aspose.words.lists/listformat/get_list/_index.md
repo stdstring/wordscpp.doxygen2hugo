@@ -15,6 +15,8 @@ Gets or sets the list this paragraph is a member of.
 System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListFormat::get_List()
 ```
 
+## Remarks
+
 
 The list that is being assigned to this property must belong to the current document.
 

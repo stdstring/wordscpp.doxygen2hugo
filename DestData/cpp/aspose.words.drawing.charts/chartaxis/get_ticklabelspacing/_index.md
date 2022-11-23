@@ -15,6 +15,8 @@ Gets or sets the interval, at which tick labels are drawn.
 int32_t Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelSpacing()
 ```
 
+## Remarks
+
 
 The property has effect for text category and series axes. It is not supported by MS Office 2016 new charts. Valid range of a value is greater than or equal to 1.
 

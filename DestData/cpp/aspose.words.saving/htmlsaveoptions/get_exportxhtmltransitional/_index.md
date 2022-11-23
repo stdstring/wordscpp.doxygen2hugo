@@ -15,6 +15,8 @@ Specifies whether to write the DOCTYPE declaration when saving to HTML or MHTML.
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional() const
 ```
 
+## Remarks
+
 
 Aspose.Words always writes well formed HTML regardless of this setting.
 

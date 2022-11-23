@@ -15,6 +15,8 @@ Returns an opaque position of the [LayoutEnumerator](../../layoutenumerator/) wh
 System::SharedPtr<System::Object> Aspose::Words::Layout::LayoutCollector::GetEntity(const System::SharedPtr<Aspose::Words::Node> &node)
 ```
 
+## Remarks
+
 
 This method works for only [Paragraph](../../../aspose.words/paragraph/) nodes, as well as indivisible inline nodes, e.g. [BookmarkStart](../../../aspose.words/bookmarkstart/) or [Shape](../../../aspose.words.drawing/shape/). It doesn't work for [Run](../../../aspose.words/run/), [Cell](../../../aspose.words.tables/cell/)[Row](../../../aspose.words.tables/row/) or [Table](../../../aspose.words.tables/table/) nodes, and nodes within header/footer.
 

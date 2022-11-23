@@ -158,6 +158,8 @@ void Aspose::Words::DocumentBuilder::InsertHtml(const System::String &html, bool
 | --- | --- | --- |
 | html | const System::String\& | An HTML string to insert into the document. |
 | useBuilderFormatting | bool | A value indicating whether formatting specified in [DocumentBuilder](../) is used as base formatting for text imported from HTML. |
+## Remarks
+
 
 You can use this method to insert an HTML fragment or whole HTML document.
 

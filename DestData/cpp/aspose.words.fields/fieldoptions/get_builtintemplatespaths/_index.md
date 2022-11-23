@@ -15,6 +15,8 @@ Gets or sets paths of MS Word built-in templates.
 System::ArrayPtr<System::String> Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths() const
 ```
 
+## Remarks
+
 
 This property is used by the [FieldAutoText](../../fieldautotext/) and [FieldGlossary](../../fieldglossary/) fields, if referenced auto text entry is not found in the [AttachedTemplate](../../../aspose.words/document/get_attachedtemplate/) template.
 

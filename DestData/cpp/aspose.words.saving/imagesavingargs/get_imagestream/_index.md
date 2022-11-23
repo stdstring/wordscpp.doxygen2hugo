@@ -15,6 +15,8 @@ Allows to specify the stream where the image will be saved to.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::ImageSavingArgs::get_ImageStream() const
 ```
 
+## Remarks
+
 
 This property allows you to save images to streams instead of files during HTML.
 

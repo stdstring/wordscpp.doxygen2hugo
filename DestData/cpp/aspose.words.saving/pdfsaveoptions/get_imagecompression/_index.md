@@ -15,6 +15,8 @@ Specifies compression type to be used for all images in the document.
 Aspose::Words::Saving::PdfImageCompression Aspose::Words::Saving::PdfSaveOptions::get_ImageCompression() const
 ```
 
+## Remarks
+
 
 Default is **Auto**.
 

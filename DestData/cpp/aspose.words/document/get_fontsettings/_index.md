@@ -15,6 +15,8 @@ Gets or sets document font settings.
 System::SharedPtr<Aspose::Words::Fonts::FontSettings> Aspose::Words::Document::get_FontSettings() const
 ```
 
+## Remarks
+
 
 This property allows to specify font settings per document. If set to null, default static font settings [DefaultInstance](../../../aspose.words.fonts/fontsettings/get_defaultinstance/) will be used.
 

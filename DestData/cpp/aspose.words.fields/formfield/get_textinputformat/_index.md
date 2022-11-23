@@ -15,6 +15,8 @@ Returns or sets the text formatting for a text form field.
 System::String Aspose::Words::Fields::FormField::get_TextInputFormat()
 ```
 
+## Remarks
+
 
 If the text form field contains regular text, then valid format strings are "", "UPPERCASE", "LOWERCASE", "FIRST CAPITAL" and "TITLE CASE". The strings are case-insensitive.
 

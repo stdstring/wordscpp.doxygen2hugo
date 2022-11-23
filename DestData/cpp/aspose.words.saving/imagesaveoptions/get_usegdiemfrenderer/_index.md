@@ -15,6 +15,8 @@ Gets or sets a value determining whether to use GDI+ or Aspose.Words metafile re
 bool Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer() const
 ```
 
+## Remarks
+
 
 If set to **true** GDI+ metafile renderer is used. I.e. content is written to GDI+ graphics object and saved to metafile.
 

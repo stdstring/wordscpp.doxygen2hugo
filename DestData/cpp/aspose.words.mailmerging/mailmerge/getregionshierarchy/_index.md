@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::MailMerging::MailMergeRegionInfo> Aspose::Words
 ### ReturnValue
 
 Regions' hierarchy.
+## Remarks
+
 
 Hierarchy is returned in the form of the [MailMergeRegionInfo](../../mailmergeregioninfo/) class.
 

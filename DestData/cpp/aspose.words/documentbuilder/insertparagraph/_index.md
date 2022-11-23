@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::DocumentBuilder::Inse
 ### ReturnValue
 
 The paragraph node that was just inserted. It is the same node as [CurrentParagraph](../get_currentparagraph/).
+## Remarks
+
 
 Current paragraph formatting specified by the [ParagraphFormat](../get_paragraphformat/) property is used.
 

@@ -23,6 +23,8 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldE
 ### ReturnValue
 
 A [VisitorAction](../../visitoraction/) value that specifies how to continue the enumeration.
+## Remarks
+
 
 For more info see [VisitFieldStart()](../visitfieldstart/)
 

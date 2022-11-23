@@ -126,6 +126,8 @@ class Font : public Aspose::Words::IBorderAttrSource,
 | [set_TintAndShade](./set_tintandshade/)(double) | Setter for [Aspose::Words::Font::get_TintAndShade](./get_tintandshade/). |
 | [set_Underline](./set_underline/)(Aspose::Words::Underline) | Setter for [Aspose::Words::Font::get_Underline](./get_underline/). |
 | [set_UnderlineColor](./set_underlinecolor/)(System::Drawing::Color) | Setter for [Aspose::Words::Font::get_UnderlineColor](./get_underlinecolor/). |
+## Remarks
+
 
 You do not create instances of the [Font](./) class directly. You just use [Font](./) to access the font properties of the various objects such as [Run](../run/), [Paragraph](../paragraph/), [Style](../style/), [DocumentBuilder](../documentbuilder/).
 

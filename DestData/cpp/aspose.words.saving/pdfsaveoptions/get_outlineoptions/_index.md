@@ -15,6 +15,8 @@ Allows to specify outline options.
 System::SharedPtr<Aspose::Words::Saving::OutlineOptions> Aspose::Words::Saving::PdfSaveOptions::get_OutlineOptions() const
 ```
 
+## Remarks
+
 
 Outlines can be created from headings and bookmarks.
 

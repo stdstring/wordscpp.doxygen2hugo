@@ -15,6 +15,8 @@ Gets the owner document.
 System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::Lists::List::get_Document() const
 ```
 
+## Remarks
+
 
 A list always has a parent document and is valid only in the context of that document.
 

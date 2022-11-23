@@ -15,6 +15,8 @@ Defines the brush thickness that strokes the path of a shape in points.
 double Aspose::Words::Drawing::Shape::get_StrokeWeight()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [Weight](../../stroke/get_weight/) property.
 

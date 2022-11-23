@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to substitute TrueType fonts Ari
 bool Aspose::Words::Saving::PdfSaveOptions::get_UseCoreFonts() const
 ```
 
+## Remarks
+
 
 The default value is **false**. When this value is set to **true** Arial, Times New Roman, Courier New and Symbol fonts are replaced in PDF document with corresponding core Type 1 font.
 

@@ -15,6 +15,8 @@ Allows to specify the stream where the document page will be saved to.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::PageSavingArgs::get_PageStream() const
 ```
 
+## Remarks
+
 
 This property allows you to save document pages to streams instead of files.
 

@@ -15,6 +15,8 @@ True if the font is formatted as bold.
 bool Aspose::Words::Drawing::TextPath::get_Bold()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

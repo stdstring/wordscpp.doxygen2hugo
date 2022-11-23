@@ -15,6 +15,8 @@ Defines the amount of spacing for text. 1 means 100%.
 double Aspose::Words::Drawing::TextPath::get_Spacing()
 ```
 
+## Remarks
+
 
 The default value is 1.
 

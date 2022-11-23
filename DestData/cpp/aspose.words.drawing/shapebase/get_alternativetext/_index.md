@@ -15,6 +15,8 @@ Defines alternative text to be displayed instead of a graphic.
 System::String Aspose::Words::Drawing::ShapeBase::get_AlternativeText()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

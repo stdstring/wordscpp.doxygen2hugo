@@ -15,6 +15,8 @@ Removes protection from the document regardless of the password.
 void Aspose::Words::Document::Unprotect()
 ```
 
+## Remarks
+
 
 This method unprotects the document even if it has a protection password.
 
@@ -81,6 +83,8 @@ bool Aspose::Words::Document::Unprotect(const System::String &password)
 ### ReturnValue
 
 True if a correct password was specified and the document was unprotected.
+## Remarks
+
 
 This method unprotects the document only if a correct password is specified.
 

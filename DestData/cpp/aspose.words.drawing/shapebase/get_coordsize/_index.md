@@ -15,6 +15,8 @@ The width and height of the coordinate space inside the containing block of this
 System::Drawing::Size Aspose::Words::Drawing::ShapeBase::get_CoordSize()
 ```
 
+## Remarks
+
 
 The default value is (1000, 1000).
 

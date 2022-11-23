@@ -15,6 +15,8 @@ Gets or sets the page color of the document. This property is a simpler version 
 System::Drawing::Color Aspose::Words::DocumentBase::get_PageColor()
 ```
 
+## Remarks
+
 
 This property provides a simple way to specify a solid page color for the document. Setting this property creates and sets an appropriate [BackgroundShape](../get_backgroundshape/).
 

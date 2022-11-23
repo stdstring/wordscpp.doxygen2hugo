@@ -15,6 +15,8 @@ Specifies how the shape is positioned horizontally.
 Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::Drawing::ShapeBase::get_HorizontalAlignment()
 ```
 
+## Remarks
+
 
 The default value is **None**.
 

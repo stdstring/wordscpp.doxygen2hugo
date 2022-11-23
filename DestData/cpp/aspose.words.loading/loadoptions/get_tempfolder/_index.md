@@ -15,6 +15,8 @@ Allows to use temporary files when reading document. By default this property is
 System::String Aspose::Words::Loading::LoadOptions::get_TempFolder() const
 ```
 
+## Remarks
+
 
 The folder must exist and be writable, otherwise an exception will be thrown.
 

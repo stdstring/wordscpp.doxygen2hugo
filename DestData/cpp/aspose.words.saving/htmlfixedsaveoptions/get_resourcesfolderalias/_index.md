@@ -15,6 +15,8 @@ Specifies the name of the folder used to construct image URIs written into an Ht
 System::String Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourcesFolderAlias() const
 ```
 
+## Remarks
+
 
 When you save a [Document](../../../aspose.words/document/) in Html format, Aspose.Words needs to save all images embedded in the document as standalone files. [ResourcesFolder](../get_resourcesfolder/) allows you to specify where the images will be saved and [ResourcesFolderAlias](./) allows to specify how the image URIs will be constructed.
 

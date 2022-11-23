@@ -15,6 +15,8 @@ Specifies how many levels in the document outline to show expanded when the file
 int32_t Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels() const
 ```
 
+## Remarks
+
 
 Note that this options will not work when saving to XPS.
 

@@ -15,6 +15,8 @@ Gets or sets a value determining whether hyperlinks in the output Pdf document a
 bool Aspose::Words::Saving::PdfSaveOptions::get_OpenHyperlinksInNewWindow() const
 ```
 
+## Remarks
+
 
 The default value is **false**. When this value is set to **true** hyperlinks are saved using JavaScript code. JavaScript code is **app.launchURL("URL", true);**, where **URL** is a hyperlink.
 

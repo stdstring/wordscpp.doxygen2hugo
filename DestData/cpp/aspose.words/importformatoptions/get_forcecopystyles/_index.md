@@ -15,6 +15,8 @@ Gets or sets a boolean value indicating either to copy conflicting styles in **K
 bool Aspose::Words::ImportFormatOptions::get_ForceCopyStyles() const
 ```
 
+## Remarks
+
 
 By default, if a matching style already exists in a destination document, the source style formatting is expanded into direct node attributes and the style of this node is reset to a default.
 

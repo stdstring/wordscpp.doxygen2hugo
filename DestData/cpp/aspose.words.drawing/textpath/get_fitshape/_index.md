@@ -15,6 +15,8 @@ Defines whether the text fits bounding box of a shape.
 bool Aspose::Words::Drawing::TextPath::get_FitShape()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

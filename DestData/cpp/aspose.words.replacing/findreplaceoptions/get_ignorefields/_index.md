@@ -15,6 +15,8 @@ Gets or sets a boolean value indicating either to ignore text inside fields. The
 bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields() const
 ```
 
+## Remarks
+
 
 This option affects whole field (all nodes between **FieldStart** and **FieldEnd**).
 

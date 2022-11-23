@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::EditableRangeEnd> Aspose::Words::DocumentBuilde
 ### ReturnValue
 
 The editable range end node that was just created.
+## Remarks
+
 
 Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or **EndEditableRange()** methods.
 
@@ -85,6 +87,8 @@ System::SharedPtr<Aspose::Words::EditableRangeEnd> Aspose::Words::DocumentBuilde
 ### ReturnValue
 
 The editable range end node that was just created.
+## Remarks
+
 
 Use this overload during creating nested editable ranges.
 

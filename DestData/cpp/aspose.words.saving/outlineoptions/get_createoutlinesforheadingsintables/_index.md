@@ -15,6 +15,8 @@ Specifies whether or not to create outlines for headings (paragraphs formatted w
 bool Aspose::Words::Saving::OutlineOptions::get_CreateOutlinesForHeadingsInTables() const
 ```
 
+## Remarks
+
 
 Default value is **false**.
 

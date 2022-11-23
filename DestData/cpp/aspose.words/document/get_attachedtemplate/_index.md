@@ -15,6 +15,8 @@ Gets or sets the full path of the template attached to the document.
 System::String Aspose::Words::Document::get_AttachedTemplate()
 ```
 
+## Remarks
+
 
 Empty string means the document is attached to the Normal template.
 

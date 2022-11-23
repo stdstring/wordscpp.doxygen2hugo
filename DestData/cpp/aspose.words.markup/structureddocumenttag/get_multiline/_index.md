@@ -15,6 +15,8 @@ Specifies whether this **SDT** allows multiple lines of text.
 bool Aspose::Words::Markup::StructuredDocumentTag::get_Multiline()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **RichText** and **PlainText** SDT type.
 

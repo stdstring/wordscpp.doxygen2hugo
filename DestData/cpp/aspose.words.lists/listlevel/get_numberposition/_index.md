@@ -15,6 +15,8 @@ Returns or sets the position (in points) of the number or bullet for the list le
 double Aspose::Words::Lists::ListLevel::get_NumberPosition() const
 ```
 
+## Remarks
+
 
 [NumberPosition](./) corresponds to LeftIndent plus FirstLineIndent of the paragraph.
 

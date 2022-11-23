@@ -15,6 +15,8 @@ Gets the value of this list item.
 System::String Aspose::Words::Markup::SdtListItem::get_Value() const
 ```
 
+## Remarks
+
 
 Cannot be null and cannot be an empty string.
 

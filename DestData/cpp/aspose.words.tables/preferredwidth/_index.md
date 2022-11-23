@@ -28,6 +28,8 @@ class PreferredWidth : public System::Object
 | [get_Value](./get_value/)() const | Gets the preferred width value. The unit of measure is specified in the [Type](./get_type/) property. |
 | [GetHashCode](./gethashcode/)() const override | Serves as a hash function for this type. |
 | [ToString](./tostring/)() const override | Returns a user-friendly string that displays the value of this object. |
+## Remarks
+
 
 Preferred width can be specified as a percentage, number of points or a special "none/auto" value.
 

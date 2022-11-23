@@ -15,6 +15,8 @@ Allows to specify how metafiles are treated in the rendered output.
 System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> Aspose::Words::Saving::ImageSaveOptions::get_MetafileRenderingOptions()
 ```
 
+## Remarks
+
 
 When **Vector** is specified, Aspose.Words renders metafile to vector graphics using its own metafile rendering engine first and then renders vector graphics to the image.
 

@@ -15,6 +15,8 @@ Determines how bookmarks in headers/footers are exported.
 Aspose::Words::Saving::HeaderFooterBookmarksExportMode Aspose::Words::Saving::PdfSaveOptions::get_HeaderFooterBookmarksExportMode() const
 ```
 
+## Remarks
+
 
 The default value is **All**.
 

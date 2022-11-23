@@ -15,6 +15,8 @@ Gets or sets the namespace URI of the custom XML attribute or smart tag property
 System::String Aspose::Words::Markup::CustomXmlProperty::get_Uri() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 

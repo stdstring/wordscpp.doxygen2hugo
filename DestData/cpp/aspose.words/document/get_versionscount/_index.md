@@ -15,6 +15,8 @@ Gets the number of document versions that was stored in the DOC document.
 int32_t Aspose::Words::Document::get_VersionsCount()
 ```
 
+## Remarks
+
 
 Versions in Microsoft Word are accessed via the File/Versions menu. Microsoft Word supports versions only for DOC files.
 

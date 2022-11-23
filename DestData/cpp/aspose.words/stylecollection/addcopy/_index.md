@@ -23,6 +23,8 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::AddCopy(
 ### ReturnValue
 
 Copied style ready for usage.
+## Remarks
+
 
 [Style](../../style/) to be copied can belong to the same document as well as to different document.
 

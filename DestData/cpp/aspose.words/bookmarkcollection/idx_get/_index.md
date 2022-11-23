@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Bookmark> Aspose::Words::BookmarkCollection::id
 | Parameter | Type | Description |
 | --- | --- | --- |
 | bookmarkName | const System::String\& | Case-insensitive name of the bookmark. |
+## Remarks
+
 
 Returns null if the bookmark with the specified name cannot be found.
 
@@ -116,6 +118,8 @@ System::SharedPtr<Aspose::Words::Bookmark> Aspose::Words::BookmarkCollection::id
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
+## Remarks
+
 
 The index is zero-based.
 

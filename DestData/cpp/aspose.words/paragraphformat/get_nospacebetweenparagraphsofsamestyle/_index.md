@@ -15,6 +15,8 @@ When true, [SpaceBefore](../get_spacebefore/) and [SpaceAfter](../get_spaceafter
 bool Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle()
 ```
 
+## Remarks
+
 
 This setting only takes affect when applied to a paragraph style. If applied to a paragraph directly, it has no effect.
 

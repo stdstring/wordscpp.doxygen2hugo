@@ -19,6 +19,8 @@ void Aspose::Words::Section::PrependContent(const System::SharedPtr<Aspose::Word
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceSection | const System::SharedPtr\<Aspose::Words::Section\>\& | The section to copy content from. |
+## Remarks
+
 
 Only content of [Body](../get_body/) of the source section is copied, page setup, headers and footers are not copied.
 

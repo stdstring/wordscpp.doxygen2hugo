@@ -15,6 +15,8 @@ Gets the document to which this node belongs.
 System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::DocumentBase::get_Document() const override
 ```
 
+## Remarks
+
 
 The node always belongs to a document even if it has just been created and not yet added to the tree, or if it has been removed from the tree.
 

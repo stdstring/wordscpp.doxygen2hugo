@@ -15,6 +15,8 @@ Gets or sets whether this is a style for a right-to-left table.
 bool Aspose::Words::TableStyle::get_Bidi()
 ```
 
+## Remarks
+
 
 When **true**, the cells in rows are laid out right to left.
 

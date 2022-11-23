@@ -15,6 +15,8 @@ Provides access to the list formatting used in the document.
 System::SharedPtr<Aspose::Words::Lists::ListCollection> Aspose::Words::DocumentBase::get_Lists() const
 ```
 
+## Remarks
+
 
 For more information see the description of the [ListCollection](../../../aspose.words.lists/listcollection/) class.
 

@@ -15,6 +15,8 @@ Gets or sets the password for opening an encrypted document. Can be null or empt
 System::String Aspose::Words::Loading::LoadOptions::get_Password() const
 ```
 
+## Remarks
+
 
 You need to know the password to open an encrypted document. If the document is not encrypted, set this to null or empty string.
 

@@ -15,6 +15,8 @@ True if the amount of spacing after the paragraph is set automatically.
 bool Aspose::Words::ParagraphFormat::get_SpaceAfterAuto()
 ```
 
+## Remarks
+
 
 When set to true, overrides the effect of [SpaceAfter](../get_spaceafter/).
 

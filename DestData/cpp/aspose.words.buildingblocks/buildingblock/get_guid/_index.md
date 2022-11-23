@@ -15,6 +15,8 @@ Gets or sets an identifier (a 128-bit GUID) that uniquely identifies this buildi
 System::Guid Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid() const
 ```
 
+## Remarks
+
 
 Can be used by an application to uniquely reference a building block regardless of different naming due to localization.
 

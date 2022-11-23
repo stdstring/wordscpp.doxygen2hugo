@@ -19,6 +19,8 @@ void Aspose::Words::Document::Protect(Aspose::Words::ProtectionType type)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type | Aspose::Words::ProtectionType | Specifies the protection type for the document. |
+## Remarks
+
 
 When a document is protected, the user can make only limited changes, such as adding annotations, making revisions, or completing a form.
 
@@ -67,6 +69,8 @@ void Aspose::Words::Document::Protect(Aspose::Words::ProtectionType type, const 
 | --- | --- | --- |
 | type | Aspose::Words::ProtectionType | Specifies the protection type for the document. |
 | password | const System::String\& | The password to protect the document with. Specify null or empty string if you want to protect the document without a password. |
+## Remarks
+
 
 When a document is protected, the user can make only limited changes, such as adding annotations, making revisions, or completing a form.
 

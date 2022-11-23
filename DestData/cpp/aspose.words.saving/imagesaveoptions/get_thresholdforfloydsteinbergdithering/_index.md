@@ -15,6 +15,8 @@ Gets or sets the threshold that determines the value of the binarization error i
 uint8_t Aspose::Words::Saving::ImageSaveOptions::get_ThresholdForFloydSteinbergDithering() const
 ```
 
+## Remarks
+
 
 The default value is 128.
 

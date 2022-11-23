@@ -15,6 +15,8 @@ Gets or sets the name of the style.
 System::String Aspose::Words::Style::get_Name() const
 ```
 
+## Remarks
+
 
 Can not be empty string.
 

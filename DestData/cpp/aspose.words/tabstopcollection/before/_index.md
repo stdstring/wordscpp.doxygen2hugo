@@ -23,6 +23,8 @@ System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::Befo
 ### ReturnValue
 
 A tab stop object or null if a suitable tab stop was not found.
+## Remarks
+
 
 Skips tab stops with **Alignment** set to **TabAlignment.Bar**.
 

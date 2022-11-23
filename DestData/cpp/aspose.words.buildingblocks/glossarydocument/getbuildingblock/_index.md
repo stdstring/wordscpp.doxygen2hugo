@@ -25,6 +25,8 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::B
 ### ReturnValue
 
 The matching building block or null if a match was not found.
+## Remarks
+
 
 This is a convenience method that iterates over all building blocks in this collection and returns the first building block that matches the specified gallery, category and name.
 

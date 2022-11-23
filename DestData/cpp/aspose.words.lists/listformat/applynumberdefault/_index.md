@@ -15,6 +15,8 @@ Starts a new default numbered list and applies it to the paragraph.
 void Aspose::Words::Lists::ListFormat::ApplyNumberDefault()
 ```
 
+## Remarks
+
 
 This is a shortcut method that creates a new list using the default numbered template, applies it to the paragraph and selects the 1st list level.
 

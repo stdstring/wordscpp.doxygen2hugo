@@ -15,6 +15,8 @@ Allows to specify document font settings.
 System::SharedPtr<Aspose::Words::Fonts::FontSettings> Aspose::Words::Loading::LoadOptions::get_FontSettings() const
 ```
 
+## Remarks
+
 
 When loading some formats, Aspose.Words may require to resolve the fonts. For example, when loading HTML documents [Aspose.Words](../../../aspose.words/) may resolve the fonts to perform font fallback.
 

@@ -15,6 +15,8 @@ Gets or sets the line spacing (in points) for the paragraph.
 double Aspose::Words::ParagraphFormat::get_LineSpacing()
 ```
 
+## Remarks
+
 
 When LineSpacingRule property is set to AtLeast, the line spacing can be greater than or equal to, but never less than the specified LineSpacing value.
 

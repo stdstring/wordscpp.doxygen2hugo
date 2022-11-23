@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Tables::Table> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 The table node that was just finished.
+## Remarks
+
 
 This method should be called only once after [EndRow](../endrow/) was called. When called, **EndTable** moves the cursor out of the current cell to point just after the table.
 

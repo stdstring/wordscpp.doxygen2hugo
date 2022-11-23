@@ -15,6 +15,8 @@ Allows to specify the stream where the resource will be saved to.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream() const
 ```
 
+## Remarks
+
 
 This property allows you to save resources to streams instead of files.
 

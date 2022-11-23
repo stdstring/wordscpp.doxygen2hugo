@@ -15,6 +15,8 @@ Returns the property value as bool.
 bool Aspose::Words::Properties::DocumentProperty::ToBool()
 ```
 
+## Remarks
+
 
 Throws an exception if the property type is not **Boolean**.
 

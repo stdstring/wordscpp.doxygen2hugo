@@ -15,6 +15,8 @@ Specifies how this axis crosses the perpendicular axis.
 Aspose::Words::Drawing::Charts::AxisCrosses Aspose::Words::Drawing::Charts::ChartAxis::get_Crosses()
 ```
 
+## Remarks
+
 
 Default value is **Automatic**.
 

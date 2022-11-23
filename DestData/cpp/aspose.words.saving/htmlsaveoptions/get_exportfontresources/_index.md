@@ -15,6 +15,8 @@ Specifies whether font resources should be exported to HTML, MHTML or EPUB. Defa
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources() const
 ```
 
+## Remarks
+
 
 Exporting font resources allows for consistent document rendering independent of the fonts available in a given user's environment.
 

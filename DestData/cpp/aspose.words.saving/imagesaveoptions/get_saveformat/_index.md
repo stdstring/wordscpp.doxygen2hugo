@@ -15,6 +15,8 @@ Specifies the format in which the rendered document pages or shapes will be save
 Aspose::Words::SaveFormat Aspose::Words::Saving::ImageSaveOptions::get_SaveFormat() override
 ```
 
+## Remarks
+
 
 On different platforms, the supported formats may be different. The number of other options depends on the selected format.
 

@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to use high quality (i.e. slow) 
 bool Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering() const
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

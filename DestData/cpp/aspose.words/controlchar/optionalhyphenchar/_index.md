@@ -15,6 +15,8 @@ Optional Hyphen in Microsoft Word is (char)31.
 static constexpr char16_t Aspose::Words::ControlChar::OptionalHyphenChar
 ```
 
+## Remarks
+
 
 Optional Hyphen in Microsoft Word does not correspond to the Unicode character U+00AD soft hyphen. Instead, it inserts internal information that tells Word about a possible hyphenation point.
 

@@ -15,6 +15,8 @@ Determines when automatic numbering restarts.
 Aspose::Words::Notes::FootnoteNumberingRule Aspose::Words::Notes::EndnoteOptions::get_RestartRule() override
 ```
 
+## Remarks
+
 
 Not all values are applicable to endnotes. To ascertain which values are applicable see [FootnoteNumberingRule](../../footnotenumberingrule/).
 

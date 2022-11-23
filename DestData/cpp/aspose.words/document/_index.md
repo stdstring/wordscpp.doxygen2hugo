@@ -187,6 +187,8 @@ class Document : public Aspose::Words::DocumentBase,
 | [UpdateThumbnail](./updatethumbnail/)() | Updates [Thumbnail](../../aspose.words.properties/builtindocumentproperties/get_thumbnail/) of the document using default options. |
 | [UpdateWordCount](./updatewordcount/)() | Updates word count properties of the document. |
 | [UpdateWordCount](./updatewordcount/)(bool) | Updates word count properties of the document, optionally updates [Lines](../../aspose.words.properties/builtindocumentproperties/get_lines/) property. |
+## Remarks
+
 
 The **Document** is a central object in the Aspose.Words library.
 

@@ -15,6 +15,8 @@ Specifies the user password required for opening the encrypted PDF document.
 System::String Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword() const
 ```
 
+## Remarks
+
 
 The user password will be required to open an encrypted PDF document for viewing. The permissions specified in [Permissions](../get_permissions/) will be enforced by the reader software.
 

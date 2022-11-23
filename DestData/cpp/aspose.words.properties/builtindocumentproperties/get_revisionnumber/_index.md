@@ -15,6 +15,8 @@ Gets or sets the document revision number.
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber()
 ```
 
+## Remarks
+
 
 Aspose.Words does not update this property.
 

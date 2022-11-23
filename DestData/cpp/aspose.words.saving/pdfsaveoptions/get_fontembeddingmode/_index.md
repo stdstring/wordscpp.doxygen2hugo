@@ -15,6 +15,8 @@ Specifies the font embedding mode.
 Aspose::Words::Saving::PdfFontEmbeddingMode Aspose::Words::Saving::PdfSaveOptions::get_FontEmbeddingMode() const
 ```
 
+## Remarks
+
 
 The default value is **EmbedAll**.
 

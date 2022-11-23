@@ -15,6 +15,8 @@ Gets or sets a value determining how DrawingML shapes are rendered.
 Aspose::Words::Saving::DmlRenderingMode Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode() const
 ```
 
+## Remarks
+
 
 The default value is **Fallback**.
 

@@ -15,6 +15,8 @@ Returns or sets the distance (in points) between the document text and the left 
 double Aspose::Words::Drawing::ShapeBase::get_DistanceLeft()
 ```
 
+## Remarks
+
 
 The default value is 1/8 inch.
 

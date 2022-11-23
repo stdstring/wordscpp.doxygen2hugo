@@ -15,6 +15,8 @@ Specifies how headers and footers are output to HTML, MHTML or EPUB. Default val
 Aspose::Words::Saving::ExportHeadersFootersMode Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode() const
 ```
 
+## Remarks
+
 
 It is hard to meaningfully output headers and footers to HTML because HTML is not paginated.
 

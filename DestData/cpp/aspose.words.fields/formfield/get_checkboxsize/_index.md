@@ -15,6 +15,8 @@ Gets or sets the size of the checkbox in points. Has effect only when [IsCheckBo
 double Aspose::Words::Fields::FormField::get_CheckBoxSize()
 ```
 
+## Remarks
+
 
 Applicable for a check box form field only.
 

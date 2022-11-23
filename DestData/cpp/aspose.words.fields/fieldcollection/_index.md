@@ -25,6 +25,8 @@ class FieldCollection : public System::Collections::Generic::IEnumerable<System:
 | [idx_get](./idx_get/)(int32_t) | Returns a field at the specified index. |
 | [Remove](./remove/)(const System::SharedPtr\<Aspose::Words::Fields::Field\>\&) | Removes the specified field from this collection and from the document. |
 | [RemoveAt](./removeat/)(int32_t) | Removes a field at the specified index from this collection and from the document. |
+## Remarks
+
 
 An instance of this collection iterates fields which start fall within the specified range.
 

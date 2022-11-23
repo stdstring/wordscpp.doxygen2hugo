@@ -30,6 +30,8 @@ class FontSettings : public System::Object
 | [SetFontsFolders](./setfontsfolders/)(const System::ArrayPtr\<System::String\>\&, bool) | Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. |
 | [SetFontsSources](./setfontssources/)(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Fonts::FontSourceBase\>\>\&) | Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. |
 | [SetFontsSources](./setfontssources/)(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Fonts::FontSourceBase\>\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Sets the sources where Aspose.Words looks for TrueType fonts and additionally loads previously saved font search cache. |
+## Remarks
+
 
 Aspose.Words uses font settings to resolve the fonts in the document. [Fonts](../) are resolved mostly when building document layout or rendering to fixed page formats. But when loading some formats, Aspose.Words also may require to resolve the fonts. For example, when loading HTML documents Aspose.Words may resolve the fonts to perform font fallback. So it is recommended that you set the font settings in [LoadOptions](../../aspose.words.loading/loadoptions/) when loading the document. Or at least before building the layout or rendering the document to the fixed-page format.
 

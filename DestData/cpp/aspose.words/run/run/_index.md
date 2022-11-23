@@ -19,6 +19,8 @@ Aspose::Words::Run::Run(const System::SharedPtr<Aspose::Words::DocumentBase> &do
 | Parameter | Type | Description |
 | --- | --- | --- |
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+## Remarks
+
 
 When **Run** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 
@@ -86,6 +88,8 @@ Aspose::Words::Run::Run(const System::SharedPtr<Aspose::Words::DocumentBase> &do
 | --- | --- | --- |
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 | text | const System::String\& | The text of the run. |
+## Remarks
+
 
 When **Run** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

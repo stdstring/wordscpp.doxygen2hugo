@@ -15,6 +15,8 @@ Gets or sets the border style.
 Aspose::Words::LineStyle Aspose::Words::Border::get_LineStyle()
 ```
 
+## Remarks
+
 
 If you set line style to none, then line width is automatically changed to zero.
 

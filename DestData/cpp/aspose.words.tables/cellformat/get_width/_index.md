@@ -15,6 +15,8 @@ Gets the width of the cell in points.
 double Aspose::Words::Tables::CellFormat::get_Width()
 ```
 
+## Remarks
+
 
 The width is calculated by Aspose.Words on document loading and saving. Currently, not every combination of table, cell and document properties is supported. The returned value may not be accurate for some documents. It may not exactly match the cell width as calculated by MS Word when the document is opened in MS Word.
 

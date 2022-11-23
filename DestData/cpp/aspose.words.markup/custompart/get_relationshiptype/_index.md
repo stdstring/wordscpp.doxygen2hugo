@@ -15,6 +15,8 @@ Gets or sets the relationship type from the parent part to this custom part.
 System::String Aspose::Words::Markup::CustomPart::get_RelationshipType() const
 ```
 
+## Remarks
+
 
 The relationship type for a custom part must be "unknown" e.g. a custom relationship type, not one of the relationship types defined within ISO/IEC 29500.
 

@@ -15,6 +15,8 @@ Returns or sets the distance between major tick marks.
 double Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnit()
 ```
 
+## Remarks
+
 
 Valid range of a value is greater than zero. The property has effect for time category and value axes.
 

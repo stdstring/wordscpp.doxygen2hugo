@@ -15,6 +15,8 @@ Gets or sets the collection of custom parts (arbitrary content) that are linked 
 System::SharedPtr<Aspose::Words::Markup::CustomPartCollection> Aspose::Words::Document::get_PackageCustomParts() const
 ```
 
+## Remarks
+
 
 Do not confuse these custom parts with Custom XML Data. If you need to access Custom XML parts, use the [CustomXmlParts](../get_customxmlparts/) property.
 

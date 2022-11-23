@@ -19,6 +19,8 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::SharedPtr<Syst
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to extract the text from. |
+## Remarks
+
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
@@ -56,6 +58,8 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::SharedPtr<Syst
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to extract the text from. |
 | loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
+## Remarks
+
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 

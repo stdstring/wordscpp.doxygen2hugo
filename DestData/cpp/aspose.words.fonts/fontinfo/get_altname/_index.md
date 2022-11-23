@@ -15,6 +15,8 @@ Gets or sets the alternate name for the font.
 System::String Aspose::Words::Fonts::FontInfo::get_AltName() const
 ```
 
+## Remarks
+
 
 Cannot be **null**. Can be an empty string.
 

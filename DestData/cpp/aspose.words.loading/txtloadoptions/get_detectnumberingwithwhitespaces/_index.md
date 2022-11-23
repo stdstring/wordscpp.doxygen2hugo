@@ -15,6 +15,8 @@ Allows to specify how numbered list items are recognized when document is import
 bool Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces() const
 ```
 
+## Remarks
+
 
 If this option is set to false, lists recognition algorithm detects list paragraphs, when list numbers ends with either dot, right bracket or bullet symbols (such as "•", "*", "-" or "o").
 

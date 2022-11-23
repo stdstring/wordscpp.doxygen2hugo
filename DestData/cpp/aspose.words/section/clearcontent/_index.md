@@ -15,6 +15,8 @@ Clears the section.
 void Aspose::Words::Section::ClearContent()
 ```
 
+## Remarks
+
 
 The text of [Body](../get_body/) is cleared, only one empty paragraph is left that represents the section break.
 

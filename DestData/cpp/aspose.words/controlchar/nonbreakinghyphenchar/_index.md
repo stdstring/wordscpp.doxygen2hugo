@@ -15,6 +15,8 @@ Nonbreaking Hyphen in Microsoft Word is (char)30.
 static constexpr char16_t Aspose::Words::ControlChar::NonBreakingHyphenChar
 ```
 
+## Remarks
+
 
 Nonbreaking Hyphen in Microsoft Word does not correspond to the Unicode character U+2011 non-breaking hyphen but instead represents internal information that tells Microsoft Word to display a hyphen and not to break a line.
 

@@ -15,6 +15,8 @@ Allows to specify individual bookmarks outline level.
 System::SharedPtr<Aspose::Words::Saving::BookmarksOutlineLevelCollection> Aspose::Words::Saving::OutlineOptions::get_BookmarksOutlineLevels() const
 ```
 
+## Remarks
+
 
 If bookmark level is not specified in this collection then [DefaultBookmarksOutlineLevel](../get_defaultbookmarksoutlinelevel/) value is used.
 

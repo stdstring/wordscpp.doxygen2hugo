@@ -15,6 +15,8 @@ Defines the family of the textpath font.
 System::String Aspose::Words::Drawing::TextPath::get_FontFamily()
 ```
 
+## Remarks
+
 
 The default value is Arial.
 

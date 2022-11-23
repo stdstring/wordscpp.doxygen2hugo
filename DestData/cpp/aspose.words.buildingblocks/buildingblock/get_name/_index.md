@@ -15,6 +15,8 @@ Gets or sets the name of this building block.
 System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Name() const
 ```
 
+## Remarks
+
 
 The name may contain any string content, usually a friendly identifier. Multiple building blocks can have the same name.
 

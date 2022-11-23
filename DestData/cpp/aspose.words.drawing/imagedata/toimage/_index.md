@@ -15,6 +15,8 @@ Gets the image stored in the shape as a **Image** object.
 System::SharedPtr<System::Drawing::Image> Aspose::Words::Drawing::ImageData::ToImage()
 ```
 
+## Remarks
+
 
 A new **Image** object is created every time this method is called.
 

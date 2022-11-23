@@ -15,6 +15,8 @@ Specifies whether the keywords for "old readers" are written to RTF or not. This
 bool Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders() const
 ```
 
+## Remarks
+
 
 "Old readers" are pre-Microsoft Word 97 applications and also WordPad. When this option is **true** Aspose.Words writes additional RTF keywords. These keywords allow the document to be displayed correctly when opened in an "old reader" application, but can significantly increase the size of the document.
 

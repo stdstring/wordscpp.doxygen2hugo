@@ -15,6 +15,8 @@ Gets or sets the brightness for the generated images.
 float Aspose::Words::Saving::ImageSaveOptions::get_ImageBrightness() const
 ```
 
+## Remarks
+
 
 This property has effect only when saving to raster image formats.
 

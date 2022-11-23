@@ -20,6 +20,8 @@ void Aspose::Words::Markup::StructuredDocumentTag::SetUncheckedSymbol(int32_t ch
 | --- | --- | --- |
 | characterCode | int32_t | The character code for the specified symbol. |
 | fontName | const System::String\& | The name of the font that contains the symbol. |
+## Remarks
+
 
 Accessing this method will only work for **Checkbox** SDT types.
 

@@ -15,6 +15,8 @@ Specifies how the color space will be selected for the images in PDF document.
 Aspose::Words::Saving::PdfImageColorSpaceExportMode Aspose::Words::Saving::PdfSaveOptions::get_ImageColorSpaceExportMode() const
 ```
 
+## Remarks
+
 
 The default value is **Auto**.
 

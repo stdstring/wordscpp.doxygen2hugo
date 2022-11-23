@@ -15,6 +15,8 @@ Gets the name of the merge field in the data source.
 System::String Aspose::Words::MailMerging::FieldMergingArgsBase::get_FieldName() const
 ```
 
+## Remarks
+
 
 If you have a mapping from a document field name to a different data source field name, then this is the mapped field name.
 

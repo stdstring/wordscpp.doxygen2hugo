@@ -15,6 +15,8 @@ Specifies whether negative left and right indents of paragraphs are normalized w
 bool Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent() const
 ```
 
+## Remarks
+
 
 When negative indent is not allowed, it is exported as zero margin to HTML. When negative indent is allowed, a paragraph might appear partially outside of the browser window.
 

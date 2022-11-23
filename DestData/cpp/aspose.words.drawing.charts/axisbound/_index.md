@@ -28,6 +28,8 @@ class AxisBound : public System::Object
 | [get_ValueAsDate](./get_valueasdate/)() | Returns value of axis bound represented as datetime. |
 | [GetHashCode](./gethashcode/)() const override | Serves as a hash function for this type. |
 | [ToString](./tostring/)() const override | Returns a user-friendly string that displays the value of this object. |
+## Remarks
+
 
 Bound can be specified as a numeric, datetime or a special "auto" value.
 

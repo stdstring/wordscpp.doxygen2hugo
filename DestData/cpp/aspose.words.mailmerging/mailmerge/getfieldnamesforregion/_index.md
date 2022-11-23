@@ -19,6 +19,8 @@ System::ArrayPtr<System::String> Aspose::Words::MailMerging::MailMerge::GetField
 | Parameter | Type | Description |
 | --- | --- | --- |
 | regionName | const System::String\& | Region name (case-insensitive). |
+## Remarks
+
 
 Returns full merge field names including optional prefix. Does not eliminate duplicate field names.
 
@@ -93,6 +95,8 @@ System::ArrayPtr<System::String> Aspose::Words::MailMerging::MailMerge::GetField
 | --- | --- | --- |
 | regionName | const System::String\& | Region name (case-insensitive). |
 | regionIndex | int32_t | Region index (zero-based). |
+## Remarks
+
 
 Returns full merge field names including optional prefix. Does not eliminate duplicate field names.
 

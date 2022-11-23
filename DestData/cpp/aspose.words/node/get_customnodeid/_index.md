@@ -15,6 +15,8 @@ Specifies custom node identifier.
 int32_t Aspose::Words::Node::get_CustomNodeId() const
 ```
 
+## Remarks
+
 
 Default is zero.
 

@@ -15,6 +15,8 @@ Specifies whether images are scaled by Aspose.Words to the bounding shape size w
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize() const
 ```
 
+## Remarks
+
 
 An image in a Microsoft Word document is a shape. The shape has a size and the image has its own size. The sizes are not directly linked. For example, the image can be 1024x786 pixels, but shape that displays this image can be 400x300 points.
 

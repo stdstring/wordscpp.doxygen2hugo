@@ -15,6 +15,8 @@ Gets or sets description of this table. It provides an alternative text represen
 System::String Aspose::Words::Tables::Table::get_Description()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

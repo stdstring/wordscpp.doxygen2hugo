@@ -15,6 +15,8 @@ Determines the flow of the text layout in a shape.
 Aspose::Words::Drawing::LayoutFlow Aspose::Words::Drawing::TextBox::get_LayoutFlow()
 ```
 
+## Remarks
+
 
 The default value is **Horizontal**.
 

@@ -15,6 +15,8 @@ Specifies the security level of a document as a numeric value.
 Aspose::Words::Properties::DocumentSecurity Aspose::Words::Properties::BuiltInDocumentProperties::get_Security()
 ```
 
+## Remarks
+
 
 Use this property for informational purposes only because Microsoft Word does not always set this property. This property is available in DOC and OOXML documents only.
 

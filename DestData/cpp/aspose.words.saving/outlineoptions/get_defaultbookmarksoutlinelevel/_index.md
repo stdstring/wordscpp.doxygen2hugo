@@ -15,6 +15,8 @@ Specifies the default level in the document outline at which to display Word boo
 int32_t Aspose::Words::Saving::OutlineOptions::get_DefaultBookmarksOutlineLevel() const
 ```
 
+## Remarks
+
 
 Individual bookmarks level could be specified using [BookmarksOutlineLevels](../get_bookmarksoutlinelevels/) property.
 

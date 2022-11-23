@@ -24,6 +24,8 @@ class WriteProtection : public System::Object
 | [set_ReadOnlyRecommended](./set_readonlyrecommended/)(bool) | Setter for [Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended](./get_readonlyrecommended/). |
 | [SetPassword](./setpassword/)(const System::String\&) | Sets the write protection password for the document. |
 | [ValidatePassword](./validatepassword/)(const System::String\&) | Returns true if the specified password is the same as the write-protection password the document was protected with. If document is not write-protected with password then returns false. |
+## Remarks
+
 
 Write protection specifies whether the author has recommended that the document is to be opened as read-only and/or require a password to modify a document.
 

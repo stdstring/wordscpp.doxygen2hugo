@@ -15,6 +15,8 @@ Gets the text to display in the run content in place of the [Value](../get_value
 System::String Aspose::Words::Markup::SdtListItem::get_DisplayText() const
 ```
 
+## Remarks
+
 
 Cannot be null and cannot be an empty string.
 

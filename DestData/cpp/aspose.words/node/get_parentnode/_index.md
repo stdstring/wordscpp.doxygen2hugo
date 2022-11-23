@@ -15,6 +15,8 @@ Gets the immediate parent of this node.
 System::SharedPtr<Aspose::Words::CompositeNode> Aspose::Words::Node::get_ParentNode()
 ```
 
+## Remarks
+
 
 If a node has just been created and not yet added to the tree, or if it has been removed from the tree, the parent is null.
 

@@ -15,6 +15,8 @@ Gets or sets the value indicating whether legacy (early than AW 13.10) number fo
 bool Aspose::Words::Fields::FieldOptions::get_LegacyNumberFormat() const
 ```
 
+## Remarks
+
 
 When this property is set to **true**, template symbol "#" worked as in .net: Replaces the pound sign with the corresponding digit if one is present; otherwise, no symbols appears in the result string.
 

@@ -15,6 +15,8 @@ Updates word count properties of the document.
 void Aspose::Words::Document::UpdateWordCount()
 ```
 
+## Remarks
+
 
 **UpdateWordCount** recalculates and updates Characters, [Words](../../) and Paragraphs properties in the [BuiltInDocumentProperties](../get_builtindocumentproperties/) collection of the **Document**.
 

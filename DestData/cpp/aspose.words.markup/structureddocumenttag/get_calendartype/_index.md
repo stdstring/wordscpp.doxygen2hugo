@@ -15,6 +15,8 @@ Specifies the type of calendar for this **SDT**. Default is **Default**
 Aspose::Words::Markup::SdtCalendarType Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **Date** SDT type.
 

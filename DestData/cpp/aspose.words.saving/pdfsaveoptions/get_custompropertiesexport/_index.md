@@ -15,6 +15,8 @@ Gets or sets a value determining the way [CustomDocumentProperties](../../../asp
 Aspose::Words::Saving::PdfCustomPropertiesExport Aspose::Words::Saving::PdfSaveOptions::get_CustomPropertiesExport() const
 ```
 
+## Remarks
+
 
 Default value is **None**.
 

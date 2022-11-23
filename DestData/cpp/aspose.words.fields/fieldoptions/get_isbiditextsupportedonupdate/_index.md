@@ -15,6 +15,8 @@ Gets or sets the value indicating whether bidirectional text is fully supported 
 bool Aspose::Words::Fields::FieldOptions::get_IsBidiTextSupportedOnUpdate() const
 ```
 
+## Remarks
+
 
 When this property is set to **true**, additional steps are performed to produce Right-To-Left language (i.e. Arabic or Hebrew) compatible field result during its update.
 

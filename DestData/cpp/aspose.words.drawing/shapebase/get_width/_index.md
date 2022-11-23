@@ -15,6 +15,8 @@ Gets or sets the width of the containing block of the shape.
 double Aspose::Words::Drawing::ShapeBase::get_Width()
 ```
 
+## Remarks
+
 
 For a top-level shape, the value is in points.
 

@@ -15,6 +15,8 @@ Represents an estimate of the number of characters (including spaces) in the doc
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_CharactersWithSpaces()
 ```
 
+## Remarks
+
 
 Aspose.Words updates this property when you call [UpdateWordCount](../../../aspose.words/document/updatewordcount/).
 

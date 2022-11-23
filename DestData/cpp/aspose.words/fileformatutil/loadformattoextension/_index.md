@@ -15,6 +15,8 @@ Converts a load format enumerated value into a file extension. The returned exte
 static System::String Aspose::Words::FileFormatUtil::LoadFormatToExtension(Aspose::Words::LoadFormat loadFormat)
 ```
 
+## Remarks
+
 
 The **WordML** value is converted to ".wml".
 

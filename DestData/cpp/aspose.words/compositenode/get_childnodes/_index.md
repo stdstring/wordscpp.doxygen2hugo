@@ -15,6 +15,8 @@ Gets all immediate child nodes of this node.
 System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::CompositeNode::get_ChildNodes()
 ```
 
+## Remarks
+
 
 Note, [ChildNodes](./) is equivalent to calling **GetChildNodes(**NodeType.Any**, false)** and creates and returns a new collection every time it is accessed.
 

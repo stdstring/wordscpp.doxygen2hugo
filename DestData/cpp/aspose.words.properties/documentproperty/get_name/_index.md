@@ -15,6 +15,8 @@ Returns the name of the property.
 System::String Aspose::Words::Properties::DocumentProperty::get_Name() const
 ```
 
+## Remarks
+
 
 Cannot be null and cannot be an empty string.
 

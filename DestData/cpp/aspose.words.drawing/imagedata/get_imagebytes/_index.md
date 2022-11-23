@@ -15,6 +15,8 @@ Gets or sets the raw bytes of the image stored in the shape.
 System::ArrayPtr<uint8_t> Aspose::Words::Drawing::ImageData::get_ImageBytes()
 ```
 
+## Remarks
+
 
 Setting the value to **null** or an empty array will remove the image from the shape.
 

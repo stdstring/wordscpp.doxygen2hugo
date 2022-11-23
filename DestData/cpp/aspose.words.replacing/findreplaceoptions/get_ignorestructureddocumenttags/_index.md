@@ -15,6 +15,8 @@ Gets or sets a boolean value indicating either to ignore content of [StructuredD
 bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreStructuredDocumentTags() const
 ```
 
+## Remarks
+
 
 When this option is set to **true**, the content of [StructuredDocumentTag](../../../aspose.words.markup/structureddocumenttag/) will be treated as a simple text.
 

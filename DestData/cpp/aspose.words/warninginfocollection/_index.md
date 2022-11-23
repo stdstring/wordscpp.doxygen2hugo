@@ -45,6 +45,8 @@ class WarningInfoCollection : public Aspose::Words::IWarningCallback,
 | [iterator_holder_type](./iterator_holder_type/) |  |
 | [virtualized_iterator](./virtualized_iterator/) |  |
 | [virtualized_iterator_element](./virtualized_iterator_element/) |  |
+## Remarks
+
 
 You can use this collection object as the simplest form of [IWarningCallback](../iwarningcallback/) implementation to gather all warnings that Aspose.Words generates during a load or save operation. Create an instance of this class and assign it to the [WarningCallback](../../aspose.words.loading/loadoptions/get_warningcallback/) or [WarningCallback](../documentbase/get_warningcallback/) property.
 

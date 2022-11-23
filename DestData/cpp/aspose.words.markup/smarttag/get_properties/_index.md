@@ -15,6 +15,8 @@ A collection of the smart tag properties.
 System::SharedPtr<Aspose::Words::Markup::CustomXmlPropertyCollection> Aspose::Words::Markup::SmartTag::get_Properties() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 

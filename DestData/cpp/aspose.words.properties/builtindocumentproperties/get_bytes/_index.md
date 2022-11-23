@@ -15,6 +15,8 @@ Represents an estimate of the number of bytes in the document.
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Bytes()
 ```
 
+## Remarks
+
 
 Microsoft Word does not always set this property.
 

@@ -15,6 +15,8 @@ Specifies relative to what the shape is positioned vertically.
 Aspose::Words::Drawing::RelativeVerticalPosition Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition()
 ```
 
+## Remarks
+
 
 The default value is **Paragraph**.
 

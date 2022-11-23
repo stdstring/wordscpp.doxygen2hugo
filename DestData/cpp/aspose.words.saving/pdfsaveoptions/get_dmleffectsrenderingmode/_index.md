@@ -15,6 +15,8 @@ Gets or sets a value determining how DrawingML effects are rendered.
 Aspose::Words::Saving::DmlEffectsRenderingMode Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode() override
 ```
 
+## Remarks
+
 
 The default value is **Simplified**.
 

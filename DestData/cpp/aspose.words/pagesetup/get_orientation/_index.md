@@ -15,6 +15,8 @@ Returns or sets the orientation of the page.
 Aspose::Words::Orientation Aspose::Words::PageSetup::get_Orientation()
 ```
 
+## Remarks
+
 
 Changing **Orientation** swaps [PageWidth](../get_pagewidth/) and [PageHeight](../get_pageheight/).
 

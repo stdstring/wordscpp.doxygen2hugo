@@ -15,6 +15,8 @@ Defines the color of a stroke.
 System::Drawing::Color Aspose::Words::Drawing::Stroke::get_Color()
 ```
 
+## Remarks
+
 
 The default value for a [Shape](../../shape/) is **Black**.
 

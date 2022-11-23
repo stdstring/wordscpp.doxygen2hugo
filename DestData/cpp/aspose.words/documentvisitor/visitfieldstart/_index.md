@@ -23,6 +23,8 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldS
 ### ReturnValue
 
 A [VisitorAction](../../visitoraction/) value that specifies how to continue the enumeration.
+## Remarks
+
 
 A field in a Word document consists of a field code and field value.
 

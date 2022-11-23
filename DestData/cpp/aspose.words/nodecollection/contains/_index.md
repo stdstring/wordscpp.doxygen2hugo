@@ -23,6 +23,8 @@ bool Aspose::Words::NodeCollection::Contains(const System::SharedPtr<Aspose::Wor
 ### ReturnValue
 
 True if item is found in the collection; otherwise, false.
+## Remarks
+
 
 This method performs a linear search; therefore, the average execution time is proportional to Count.
 

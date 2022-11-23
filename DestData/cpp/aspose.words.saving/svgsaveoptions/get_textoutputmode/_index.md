@@ -15,6 +15,8 @@ Gets or sets a value determining how text should be rendered in SVG.
 Aspose::Words::Saving::SvgTextOutputMode Aspose::Words::Saving::SvgSaveOptions::get_TextOutputMode() const
 ```
 
+## Remarks
+
 
 Use this property to get or set the mode of how text inside a document should be rendered when saving in SVG format.
 

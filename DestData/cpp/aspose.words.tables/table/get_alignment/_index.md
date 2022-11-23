@@ -15,6 +15,8 @@ Specifies how an inline table is aligned in the document.
 Aspose::Words::Tables::TableAlignment Aspose::Words::Tables::Table::get_Alignment()
 ```
 
+## Remarks
+
 
 The default value is **Left**.
 

@@ -15,6 +15,8 @@ Gets the opaque bounds of the shape in points.
 System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::get_OpaqueBoundsInPoints()
 ```
 
+## Remarks
+
 
 This property returns the opaque (i.e. transparent parts of the shape are ignored) bounding box of the shape. The bounds takes the shape rotation into account.
 

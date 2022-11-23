@@ -15,6 +15,8 @@ Changes field type values [FieldType](../../../aspose.words.fields/fieldchar/get
 void Aspose::Words::Range::NormalizeFieldTypes()
 ```
 
+## Remarks
+
 
 Use this method after document changes that affect field types.
 

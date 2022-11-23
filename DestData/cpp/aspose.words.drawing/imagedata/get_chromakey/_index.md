@@ -15,6 +15,8 @@ Defines the color value of the image that will be treated as transparent.
 System::Drawing::Color Aspose::Words::Drawing::ImageData::get_ChromaKey()
 ```
 
+## Remarks
+
 
 The default value is 0.
 

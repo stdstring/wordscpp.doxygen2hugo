@@ -15,6 +15,8 @@ Gets or sets the paragraph style that is linked to this list level.
 System::SharedPtr<Aspose::Words::Style> Aspose::Words::Lists::ListLevel::get_LinkedStyle()
 ```
 
+## Remarks
+
 
 This property is null when the list level is not linked to a paragraph style. This property can be set to null.
 

@@ -15,6 +15,8 @@ Gets or sets the optional shape name.
 System::String Aspose::Words::Drawing::ShapeBase::get_Name()
 ```
 
+## Remarks
+
 
 Default is empty string.
 

@@ -15,6 +15,8 @@ Specifies the name of the folder used to construct URIs of all resources written
 System::String Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolderAlias() const
 ```
 
+## Remarks
+
 
 [ResourceFolderAlias](./) is the simplest way to specify how URIs for all resource files should be constructed. Same information can be specified for images and fonts separately via [ImagesFolderAlias](../get_imagesfolderalias/) and [FontsFolderAlias](../get_fontsfolderalias/) properties, respectively. However, there is no individual property for CSS.
 

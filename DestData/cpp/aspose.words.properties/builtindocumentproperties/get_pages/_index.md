@@ -15,6 +15,8 @@ Represents an estimate of the number of pages in the document.
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Pages()
 ```
 
+## Remarks
+
 
 Aspose.Words updates this property when you call [UpdatePageLayout](../../../aspose.words/document/updatepagelayout/).
 

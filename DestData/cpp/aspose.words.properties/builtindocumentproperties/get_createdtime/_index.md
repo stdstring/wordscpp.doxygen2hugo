@@ -15,6 +15,8 @@ Gets or sets date of the document creation in UTC.
 System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime()
 ```
 
+## Remarks
+
 
 For documents originated from RTF format this property returns local time of the author's machine at the moment of document creation.
 

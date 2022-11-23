@@ -15,6 +15,8 @@ Specifies a unique read-only persistent numerical Id for this structured documen
 int32_t Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Id() override
 ```
 
+## Remarks
+
 
 Id attribute shall follow these rules:* The document shall retain structured document tag ids only if the whole document is cloned [Clone](../../../aspose.words/document/clone/).
 * During **ImportNode()** Id shall be retained if import does not cause conflicts with other structured document tag Ids in the target document.

@@ -42,6 +42,8 @@ enum class ListTemplate
 | OutlineHeadingsNumbers | n/a | An outline list with levels linked to Heading styles. Corresponds to the 6th outline list template in the Bullets and Numbering dialog box in Microsoft Word. |
 | OutlineHeadingsChapter | n/a | An outline list with levels linked to Heading styles. Corresponds to the 7th outline list template in the Bullets and Numbering dialog box in Microsoft Word. |
 
+## Remarks
+
 
 A list template value is used as a parameter into the [Add()](../listcollection/add/) method.
 

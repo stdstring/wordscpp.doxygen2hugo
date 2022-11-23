@@ -15,6 +15,8 @@ Gets the draw aspect of the OLE object. When **true**, the OLE object is display
 bool Aspose::Words::Drawing::OleFormat::get_OleIcon()
 ```
 
+## Remarks
+
 
 Aspose.Words does not allow to set this property to avoid confusion. If you were able to change the draw aspect in Aspose.Words, Microsoft Word would still display the OLE object in its original draw aspect until you edit or update the OLE object in Microsoft Word.
 

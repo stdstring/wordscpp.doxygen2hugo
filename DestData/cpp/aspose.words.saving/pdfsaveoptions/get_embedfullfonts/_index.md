@@ -15,6 +15,8 @@ Controls how fonts are embedded into the resulting PDF documents.
 bool Aspose::Words::Saving::PdfSaveOptions::get_EmbedFullFonts() const
 ```
 
+## Remarks
+
 
 The default value is **false**, which means the fonts are subsetted before embedding. Subsetting is useful if you want to keep the output file size smaller. Subsetting removes all unused glyphs from a font.
 

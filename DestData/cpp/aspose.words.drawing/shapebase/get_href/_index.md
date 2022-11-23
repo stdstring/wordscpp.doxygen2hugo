@@ -15,6 +15,8 @@ Gets or sets the full hyperlink address for a shape.
 System::String Aspose::Words::Drawing::ShapeBase::get_HRef()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

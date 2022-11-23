@@ -15,6 +15,8 @@ True if the amount of spacing before the paragraph is set automatically.
 bool Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto()
 ```
 
+## Remarks
+
 
 When set to true, overrides the effect of [SpaceBefore](../get_spacebefore/).
 

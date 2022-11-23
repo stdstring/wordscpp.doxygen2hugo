@@ -23,6 +23,8 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitFieldS
 ### ReturnValue
 
 A [VisitorAction](../../visitoraction/) value that specifies how to continue the enumeration.
+## Remarks
+
 
 The field separator separates field code from field value in the document. Note that some fields have only field code and do not have field separator and field value.
 

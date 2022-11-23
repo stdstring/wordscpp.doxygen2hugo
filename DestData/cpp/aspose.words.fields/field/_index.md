@@ -41,6 +41,8 @@ class Field : public virtual System::Object
 | [Unlink](./unlink/)() | Performs the field unlink. |
 | [Update](./update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](./update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+## Remarks
+
 
 A field in a Word document is a complex structure consisting of multiple nodes that include field start, field code, field separator, field result and field end. [Fields](../) can be nested, contain rich content and span multiple paragraphs or sections in a document. The [Field](./) class is a "facade" object that provides properties and methods that allow to work with a field as a single object.
 

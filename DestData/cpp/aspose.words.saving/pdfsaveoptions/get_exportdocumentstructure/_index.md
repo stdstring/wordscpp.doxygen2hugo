@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to export document structure.
 bool Aspose::Words::Saving::PdfSaveOptions::get_ExportDocumentStructure() const
 ```
 
+## Remarks
+
 
 This value is ignored when saving to PDF/A-1a, PDF/A-2a and PDF/UA-1 because document structure is required for this compliance.
 

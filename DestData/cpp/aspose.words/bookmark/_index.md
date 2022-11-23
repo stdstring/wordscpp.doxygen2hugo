@@ -29,6 +29,8 @@ class Bookmark : public System::Object
 | [Remove](./remove/)() | Removes the bookmark from the document. Does not remove text inside the bookmark. |
 | [set_Name](./set_name/)(const System::String\&) | Setter for [Aspose::Words::Bookmark::get_Name](./get_name/). |
 | [set_Text](./set_text/)(const System::String\&) | Setter for [Aspose::Words::Bookmark::get_Text](./get_text/). |
+## Remarks
+
 
 [Bookmark](./) is a "facade" object that encapsulates two nodes [BookmarkStart](./get_bookmarkstart/) and [BookmarkEnd](./get_bookmarkend/) in a document tree and allows to work with a bookmark as a single object.
 

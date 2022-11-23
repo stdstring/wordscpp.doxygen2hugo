@@ -15,6 +15,8 @@ Gets or sets a string that is used to identify the portion of the source file th
 System::String Aspose::Words::Drawing::OleFormat::get_SourceItem()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

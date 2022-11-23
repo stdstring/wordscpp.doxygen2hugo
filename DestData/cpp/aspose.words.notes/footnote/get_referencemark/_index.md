@@ -15,6 +15,8 @@ Gets/sets custom reference mark to be used for this footnote. Default value is *
 System::String Aspose::Words::Notes::Footnote::get_ReferenceMark() const
 ```
 
+## Remarks
+
 
 If this property is set to **empty string** or null, then [IsAuto](../get_isauto/) property will automatically be set to true, if set to anything else then [IsAuto](../get_isauto/) will be set to false.
 

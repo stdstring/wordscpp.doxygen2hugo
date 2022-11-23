@@ -15,6 +15,8 @@ Determines whether all letters will be the same height regardless of initial cas
 bool Aspose::Words::Drawing::TextPath::get_SameLetterHeights()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

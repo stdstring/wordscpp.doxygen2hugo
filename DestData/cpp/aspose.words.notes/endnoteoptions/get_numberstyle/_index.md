@@ -15,6 +15,8 @@ Specifies the number format for automatically numbered endnotes.
 Aspose::Words::NumberStyle Aspose::Words::Notes::EndnoteOptions::get_NumberStyle() override
 ```
 
+## Remarks
+
 
 Not all number styles are applicable for this property. For the list of applicable number styles see the Insert [Footnote](../../footnote/) or Endnote dialog box in Microsoft Word. If you select a number style that is not applicable, Microsoft Word will revert to a default value.
 

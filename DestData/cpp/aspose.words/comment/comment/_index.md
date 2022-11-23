@@ -19,6 +19,8 @@ Aspose::Words::Comment::Comment(const System::SharedPtr<Aspose::Words::DocumentB
 | Parameter | Type | Description |
 | --- | --- | --- |
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+## Remarks
+
 
 When **Comment** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

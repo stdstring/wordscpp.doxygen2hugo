@@ -24,6 +24,8 @@ System::Drawing::Size Aspose::Words::Rendering::NodeRendererBase::GetSizeInPixel
 ### ReturnValue
 
 The size of the shape in pixels.
+## Remarks
+
 
 This method converts [SizeInPoints](../get_sizeinpoints/) into size in pixels and it is useful when you want to create a bitmap for rendering the shape neatly onto the bitmap.
 
@@ -91,6 +93,8 @@ System::Drawing::Size Aspose::Words::Rendering::NodeRendererBase::GetSizeInPixel
 ### ReturnValue
 
 The size of the shape in pixels.
+## Remarks
+
 
 This method converts [SizeInPoints](../get_sizeinpoints/) into size in pixels and it is useful when you want to create a bitmap for rendering the shape neatly onto the bitmap.
 

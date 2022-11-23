@@ -15,6 +15,8 @@ Gets the locale independent style identifier for a built-in style.
 Aspose::Words::StyleIdentifier Aspose::Words::Style::get_StyleIdentifier() const
 ```
 
+## Remarks
+
 
 For user defined (custom) styles, this property returns **User**.
 

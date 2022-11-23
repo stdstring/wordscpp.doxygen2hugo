@@ -59,6 +59,8 @@ class TextPath : public System::Object
 | [set_Trim](./set_trim/)(bool) | Setter for [Aspose::Words::Drawing::TextPath::get_Trim](./get_trim/). |
 | [set_Underline](./set_underline/)(bool) | Setter for [Aspose::Words::Drawing::TextPath::get_Underline](./get_underline/). |
 | [set_XScale](./set_xscale/)(bool) | Setter for [Aspose::Words::Drawing::TextPath::get_XScale](./get_xscale/). |
+## Remarks
+
 
 Use the [TextPath](../shape/get_textpath/) property to access WordArt properties of a shape. You do not create instances of the [TextPath](./) class directly.
 

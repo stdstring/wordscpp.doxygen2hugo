@@ -15,6 +15,8 @@ Gets or sets the alignment of the horizontal rule.
 Aspose::Words::Drawing::HorizontalRuleAlignment Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment()
 ```
 
+## Remarks
+
 
 The default value is **Left**.
 

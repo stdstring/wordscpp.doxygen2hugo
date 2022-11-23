@@ -15,6 +15,8 @@ Specifies whether original URL should be used as the URL of the linked images. D
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportOriginalUrlForLinkedImages() const
 ```
 
+## Remarks
+
 
 If value is set to **true**[SourceFullName](../../../aspose.words.drawing/imagedata/get_sourcefullname/) value is used as the URL of linked images and linked images are not loaded into document's folder or [ImagesFolder](../get_imagesfolder/).
 

@@ -19,6 +19,8 @@ void Aspose::Words::TabStopCollection::Add(const System::SharedPtr<Aspose::Words
 | Parameter | Type | Description |
 | --- | --- | --- |
 | tabStop | const System::SharedPtr\<Aspose::Words::TabStop\>\& | A tab stop object to add. |
+## Remarks
+
 
 If a tab stop already exists at the specified position, it is replaced.
 
@@ -67,6 +69,8 @@ void Aspose::Words::TabStopCollection::Add(double position, Aspose::Words::TabAl
 | position | double | A position (in points) where to add the tab stop. |
 | alignment | Aspose::Words::TabAlignment | A [TabAlignment](../../tabalignment/) value that specifies the alignment of text at the tab stop. |
 | leader | Aspose::Words::TabLeader | A [TabLeader](../../tableader/) value that specifies the type of the leader line displayed under the tab character. |
+## Remarks
+
 
 If a tab stop already exists at the specified position, it is replaced.
 

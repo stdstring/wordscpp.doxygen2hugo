@@ -23,6 +23,8 @@ enum class ListTrailingCharacter
 | Space | 1 | A space character is placed between the list label and text of the paragraph. |
 | Nothing | 2 | There is no separator character between the list label and text of the paragraph. |
 
+## Remarks
+
 
 Used as a value for the [TrailingCharacter](../listlevel/get_trailingcharacter/) property.
 

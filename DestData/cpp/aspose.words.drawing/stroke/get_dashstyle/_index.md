@@ -15,6 +15,8 @@ Specifies the dot and dash pattern for a stroke.
 Aspose::Words::Drawing::DashStyle Aspose::Words::Drawing::Stroke::get_DashStyle()
 ```
 
+## Remarks
+
 
 The default value is **Solid**.
 

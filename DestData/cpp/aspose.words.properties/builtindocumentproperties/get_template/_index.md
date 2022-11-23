@@ -15,6 +15,8 @@ Gets or sets the informational name of the document template.
 System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Template()
 ```
 
+## Remarks
+
 
 In Microsoft Word, this property is for informational purposes only and usually contains only the file name of the template without the path.
 

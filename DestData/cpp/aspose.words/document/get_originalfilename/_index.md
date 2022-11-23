@@ -15,6 +15,8 @@ Gets the original file name of the document.
 System::String Aspose::Words::Document::get_OriginalFileName() const
 ```
 
+## Remarks
+
 
 Returns null if the document was loaded from a stream or created blank.
 

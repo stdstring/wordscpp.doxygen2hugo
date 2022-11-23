@@ -15,6 +15,8 @@ Increases the list level of the current paragraph by one level.
 void Aspose::Words::Lists::ListFormat::ListIndent()
 ```
 
+## Remarks
+
 
 This method changes the list level and applies formatting properties of the new level.
 

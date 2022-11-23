@@ -46,6 +46,8 @@ class FieldFileSize : public Aspose::Words::Fields::Field,
 | [Unlink](../field/unlink/)() | Performs the field unlink. |
 | [Update](../field/update/)() | Performs the field update. Throws if the field is being updated already. |
 | [Update](../field/update/)(bool) | Performs a field update. Throws if the field is being updated already. |
+## Remarks
+
 
 Retrieves the size of the current document's file or 0 if the size cannot be determined.
 

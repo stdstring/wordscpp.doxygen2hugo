@@ -15,6 +15,8 @@ Specifies how CSS (Cascading [Style](../../../aspose.words/style/) Sheet) styles
 Aspose::Words::Saving::CssStyleSheetType Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType() const
 ```
 
+## Remarks
+
 
 [Saving](../../) CSS style sheet into an external file is only supported when saving to HTML. When you are exporting to one of the container formats (EPUB or MHTML) and specifying **External**, CSS file will be encapsulated into the output package.
 

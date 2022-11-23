@@ -15,6 +15,8 @@ Gets or sets the uniform resource identifier (URI) used to reference the resourc
 System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri() const
 ```
 
+## Remarks
+
 
 This property allows you to change URIs of resource files exported to fixed page HTML or SVG documents.
 

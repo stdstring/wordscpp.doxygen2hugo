@@ -15,6 +15,8 @@ Converts formatting specified in table styles into direct formatting on tables i
 void Aspose::Words::Document::ExpandTableStylesToDirectFormatting()
 ```
 
+## Remarks
+
 
 This method exists because this version of Aspose.Words provides only limited support for table styles (see below). This method might be useful when you load a DOCX or WordprocessingML document that contains tables formatted with table styles and you need to query formatting of tables, cells, paragraphs or text.
 

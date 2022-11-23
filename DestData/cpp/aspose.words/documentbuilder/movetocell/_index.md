@@ -22,6 +22,8 @@ void Aspose::Words::DocumentBuilder::MoveToCell(int32_t tableIndex, int32_t rowI
 | rowIndex | int32_t | The index of the row in the table. |
 | columnIndex | int32_t | The index of the column in the table. |
 | characterIndex | int32_t | The index of the character inside the cell. A negative value allows you to specify a position from the end of the cell. Use -1 to move to the end of the cell. |
+## Remarks
+
 
 The navigation is performed inside the current story of the current section.
 

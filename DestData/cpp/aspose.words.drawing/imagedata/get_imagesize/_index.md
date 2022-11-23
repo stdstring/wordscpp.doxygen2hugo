@@ -15,6 +15,8 @@ Gets the information about image size and resolution.
 System::SharedPtr<Aspose::Words::Drawing::ImageSize> Aspose::Words::Drawing::ImageData::get_ImageSize()
 ```
 
+## Remarks
+
 
 If the image is linked only and not stored in the document, returns zero size.
 

@@ -31,6 +31,8 @@ class NodeCollection : public Aspose::Words::INodeCollection,
 | [Remove](./remove/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the node from the collection and from the document. |
 | [RemoveAt](./removeat/)(int32_t) | Removes the node at the specified index from the collection and from the document. |
 | [ToArray](./toarray/)() | Copies all nodes from the collection to a new array of nodes. |
+## Remarks
+
 
 **NodeCollection** does not own the nodes it contains, rather, is just a selection of nodes of the specified type, but the nodes are stored in the tree under their respective parent nodes.
 

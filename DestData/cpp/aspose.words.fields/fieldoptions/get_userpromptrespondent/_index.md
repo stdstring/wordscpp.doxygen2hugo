@@ -15,6 +15,8 @@ Gets or sets the respondent to user prompts during field update.
 const System::SharedPtr<Aspose::Words::Fields::IFieldUserPromptRespondent> & Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent() const
 ```
 
+## Remarks
+
 
 If the value of this property is set to **null**, the fields that require user response on prompting (such as [FieldAsk](../../fieldask/) or [FieldFillIn](../../fieldfillin/)) are not updated.
 

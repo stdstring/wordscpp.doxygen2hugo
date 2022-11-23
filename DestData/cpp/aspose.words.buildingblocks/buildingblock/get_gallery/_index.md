@@ -15,6 +15,8 @@ Specifies the first-level categorization for the building block for the purposes
 Aspose::Words::BuildingBlocks::BuildingBlockGallery Aspose::Words::BuildingBlocks::BuildingBlock::get_Gallery() const
 ```
 
+## Remarks
+
 
 Building blocks in Microsoft Word user interface are arranged into Galleries. Each [Gallery](./) can have multiple Categories. Each block within a [Category](../get_category/) has a [Name](../get_name/).
 

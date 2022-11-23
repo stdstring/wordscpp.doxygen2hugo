@@ -20,6 +20,8 @@ Aspose::Words::Markup::StructuredDocumentTagRangeStart::StructuredDocumentTagRan
 | --- | --- | --- |
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 | type | Aspose::Words::Markup::SdtType | Type of SDT node. |
+## Remarks
+
 
 The following types of SDT can be created:
 

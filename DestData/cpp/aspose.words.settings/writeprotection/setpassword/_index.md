@@ -19,6 +19,8 @@ void Aspose::Words::Settings::WriteProtection::SetPassword(const System::String 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | password | const System::String\& | The password to set. Cannot be null, but can be an empty string. |
+## Remarks
+
 
 If a password is set, Microsoft Word will require the user to enter it or open the document as read-only.
 

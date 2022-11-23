@@ -15,6 +15,8 @@ Gets the raw bytes of the fill texture or pattern.
 System::ArrayPtr<uint8_t> Aspose::Words::Drawing::Fill::get_ImageBytes()
 ```
 
+## Remarks
+
 
 The default value is null.
 

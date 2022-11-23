@@ -15,6 +15,8 @@ Gets or sets a value determining how metafile images should be rendered.
 Aspose::Words::Saving::MetafileRenderingMode Aspose::Words::Saving::MetafileRenderingOptions::get_RenderingMode() const
 ```
 
+## Remarks
+
 
 The default value depends on the save format. For images it is **Bitmap**. For other formats it is **VectorWithFallback**.
 

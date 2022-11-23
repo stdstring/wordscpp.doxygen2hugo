@@ -15,6 +15,8 @@ Gets or sets the thumbnail of the document.
 System::ArrayPtr<uint8_t> Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail()
 ```
 
+## Remarks
+
 
 For now this property is used only when a document is being exported to ePub, it's not read from and written to other document formats.
 

@@ -15,6 +15,8 @@ Returns or sets the paper size.
 Aspose::Words::PaperSize Aspose::Words::PageSetup::get_PaperSize()
 ```
 
+## Remarks
+
 
 Setting this property updates [PageWidth](../get_pagewidth/) and [PageHeight](../get_pageheight/) values. Setting this value to **Custom** does not change existing values.
 

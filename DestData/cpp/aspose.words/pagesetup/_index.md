@@ -104,6 +104,8 @@ class PageSetup : public Aspose::Words::IBorderAttrSource
 | [set_TextOrientation](./set_textorientation/)(Aspose::Words::TextOrientation) | Setter for [Aspose::Words::PageSetup::get_TextOrientation](./get_textorientation/). |
 | [set_TopMargin](./set_topmargin/)(double) | Setter for [Aspose::Words::PageSetup::get_TopMargin](./get_topmargin/). |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Words::PageVerticalAlignment) | Setter for [Aspose::Words::PageSetup::get_VerticalAlignment](./get_verticalalignment/). |
+## Remarks
+
 
 **PageSetup** object contains all the page setup attributes of a section (left margin, bottom margin, paper size, and so on) as properties.
 

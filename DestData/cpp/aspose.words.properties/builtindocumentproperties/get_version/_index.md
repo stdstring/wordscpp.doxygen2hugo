@@ -15,6 +15,8 @@ Represents the version number of the application that created the document.
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Version()
 ```
 
+## Remarks
+
 
 When a document was created by Microsoft Word, then high 16 bit represent the major version and low 16 bit represent the build number.
 

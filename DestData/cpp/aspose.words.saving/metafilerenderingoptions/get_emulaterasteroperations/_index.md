@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not the raster operations should be 
 bool Aspose::Words::Saving::MetafileRenderingOptions::get_EmulateRasterOperations() const
 ```
 
+## Remarks
+
 
 Specific raster operations could be used in metafiles. They can not be rendered directly to vector graphics. Emulating raster operations requires partial rasterization of the resulting vector graphics which may affect the metafile rendering performance.
 

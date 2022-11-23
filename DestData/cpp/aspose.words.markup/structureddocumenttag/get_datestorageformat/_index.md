@@ -15,6 +15,8 @@ Gets/sets format in which the date for a date SDT is stored when the **SDT** is 
 Aspose::Words::Markup::SdtDateStorageFormat Aspose::Words::Markup::StructuredDocumentTag::get_DateStorageFormat()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **Date** SDT type.
 

@@ -24,6 +24,8 @@ enum class BuildingBlockBehavior
 | Page | 2 | Specifies that the building block shall be added into its own page. |
 | Default | n/a | Same as **Content**. |
 
+## Remarks
+
 
 Corresponds to the **ST_DocPartBehavior** type in OOXML.
 

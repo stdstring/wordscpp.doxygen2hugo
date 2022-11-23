@@ -15,6 +15,8 @@ Defines the title of an image.
 System::String Aspose::Words::Drawing::ImageData::get_Title()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

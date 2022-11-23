@@ -15,6 +15,8 @@ Gets the list style that this list references or defines.
 System::SharedPtr<Aspose::Words::Style> Aspose::Words::Lists::List::get_Style()
 ```
 
+## Remarks
+
 
 If this list is not associated with a list style, the property will return null.
 

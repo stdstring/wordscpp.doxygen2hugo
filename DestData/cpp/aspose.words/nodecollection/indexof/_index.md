@@ -23,6 +23,8 @@ int32_t Aspose::Words::NodeCollection::IndexOf(const System::SharedPtr<Aspose::W
 ### ReturnValue
 
 The zero-based index of the node within the collection, if found; otherwise, -1.
+## Remarks
+
 
 This method performs a linear search; therefore, the average execution time is proportional to Count.
 

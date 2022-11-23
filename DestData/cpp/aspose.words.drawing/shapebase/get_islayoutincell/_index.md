@@ -15,6 +15,8 @@ Gets or sets a flag indicating whether the shape is displayed inside a table or 
 bool Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell()
 ```
 
+## Remarks
+
 
 The default value is **true**.
 

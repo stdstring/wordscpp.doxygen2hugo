@@ -23,6 +23,8 @@ bool Aspose::Words::CommentRangeStart::Accept(System::SharedPtr<Aspose::Words::D
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [VisitCommentRangeStart()](../../documentvisitor/visitcommentrangestart/).
 

@@ -69,6 +69,8 @@ class OfficeMath : public Aspose::Words::CompositeNode,
 | [SetTemplateWeakPtr](../../aspose.words/compositenode/settemplateweakptr/)(uint32_t) override |  |
 | [ToString](../../aspose.words/node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../../aspose.words/node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+## Remarks
+
 
 In this version of Aspose.Words, [OfficeMath](./) nodes do not provide public methods and properties to create or modify a [OfficeMath](./) object. In this version you are not able to instantiate [Math](../) nodes or modify existing except deleting them.
 

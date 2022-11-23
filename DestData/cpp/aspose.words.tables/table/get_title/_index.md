@@ -15,6 +15,8 @@ Gets or sets title of this table. It provides an alternative text representation
 System::String Aspose::Words::Tables::Table::get_Title()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

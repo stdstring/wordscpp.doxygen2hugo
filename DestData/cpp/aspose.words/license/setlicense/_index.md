@@ -19,6 +19,8 @@ void Aspose::Words::License::SetLicense(const System::SharedPtr<System::IO::Stre
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | A stream that contains the license. |
+## Remarks
+
 
 Use this method to load a license from a stream.
 
@@ -49,6 +51,8 @@ void Aspose::Words::License::SetLicense(const System::String &licenseName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | licenseName | const System::String\& | Can be a full or short file name. Use an empty string to switch to evaluation mode. |
+## Remarks
+
 
 Tries to find the license in the following locations:
 

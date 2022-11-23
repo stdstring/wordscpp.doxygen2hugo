@@ -15,6 +15,8 @@ Gets or sets the table preferred width.
 System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::Tables::Table::get_PreferredWidth()
 ```
 
+## Remarks
+
 
 The default value is [Auto](../../preferredwidth/auto/).
 

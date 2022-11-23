@@ -15,6 +15,8 @@ Creates a blank Word document.
 Aspose::Words::Document::Document()
 ```
 
+## Remarks
+
 
 The document paper size is Letter by default. If you want to change page setup, use [Section.PageSetup](../../section/get_pagesetup/).
 
@@ -75,6 +77,8 @@ Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where to load the document from. |
+## Remarks
+
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
@@ -132,6 +136,8 @@ Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &s
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where to load the document from. |
 | loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
+## Remarks
+
 
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 

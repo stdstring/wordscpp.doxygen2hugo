@@ -15,6 +15,8 @@ Gets or sets the contrast for the specified picture. The value for this property
 double Aspose::Words::Drawing::ImageData::get_Contrast()
 ```
 
+## Remarks
+
 
 The default value is 0.5.
 

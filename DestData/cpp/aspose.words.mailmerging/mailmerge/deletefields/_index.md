@@ -15,6 +15,8 @@ Removes mail merge related fields from the document.
 void Aspose::Words::MailMerging::MailMerge::DeleteFields()
 ```
 
+## Remarks
+
 
 This method removes MERGEFIELD and NEXT fields from the document.
 

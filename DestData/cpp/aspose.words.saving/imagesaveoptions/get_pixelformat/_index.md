@@ -15,6 +15,8 @@ Gets or sets the pixel format for the generated images.
 Aspose::Words::Saving::ImagePixelFormat Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat() const
 ```
 
+## Remarks
+
 
 This property has effect only when saving to raster image formats.
 

@@ -15,6 +15,8 @@ Gets or sets the title (caption) of the current shape object.
 System::String Aspose::Words::Drawing::ShapeBase::get_Title()
 ```
 
+## Remarks
+
 
 Default is empty string.
 

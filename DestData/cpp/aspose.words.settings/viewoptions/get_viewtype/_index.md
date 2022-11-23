@@ -15,6 +15,8 @@ Controls the view mode in Microsoft Word.
 Aspose::Words::Settings::ViewType Aspose::Words::Settings::ViewOptions::get_ViewType() const
 ```
 
+## Remarks
+
 
 Although Aspose.Words is able to read and write this option, its usage is application-specific. For example MS Word 2013 does not respect the value of this option.
 

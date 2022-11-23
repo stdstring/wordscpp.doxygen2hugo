@@ -15,6 +15,8 @@ Specifies the image height for the image to insert into the document.
 const System::SharedPtr<Aspose::Words::Fields::MergeFieldImageDimension> & Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight() const
 ```
 
+## Remarks
+
 
 The value of this property initially comes from the corresponding MERGEFIELD's code, contained in the template document. To override the initial value, you should assign an instance of [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/) class to this property or set the properties for the instance of [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/) class, returned by this property.
 

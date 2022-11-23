@@ -15,6 +15,8 @@ Determines whether the layout order of rows is reversed.
 bool Aspose::Words::Drawing::TextPath::get_ReverseRows()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

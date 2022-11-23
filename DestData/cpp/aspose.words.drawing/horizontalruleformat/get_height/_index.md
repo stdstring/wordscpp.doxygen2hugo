@@ -15,6 +15,8 @@ Gets or sets the height of the horizontal rule.
 double Aspose::Words::Drawing::HorizontalRuleFormat::get_Height()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [Height](../../shapebase/get_height/) property.
 

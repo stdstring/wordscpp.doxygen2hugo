@@ -56,6 +56,8 @@ virtual System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::W
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | The case-insensitive name of the property to retrieve. |
+## Remarks
+
 
 Returns null if a property with the specified name is not found.
 

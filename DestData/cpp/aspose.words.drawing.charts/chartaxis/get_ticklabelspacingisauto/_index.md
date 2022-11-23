@@ -15,6 +15,8 @@ Gets or sets a flag indicating whether automatic interval of drawing tick labels
 bool Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelSpacingIsAuto()
 ```
 
+## Remarks
+
 
 Default value is **true**.
 

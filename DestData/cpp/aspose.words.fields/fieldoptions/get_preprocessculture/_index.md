@@ -15,6 +15,8 @@ Gets or sets the culture to preprocess field values.
 const System::SharedPtr<System::Globalization::CultureInfo> & Aspose::Words::Fields::FieldOptions::get_PreProcessCulture() const
 ```
 
+## Remarks
+
 
 Currently this property only affects value of the [FieldDocProperty](../../fielddocproperty/) field.
 

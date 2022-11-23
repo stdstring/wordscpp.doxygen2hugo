@@ -34,6 +34,8 @@ class FontInfo : public System::Object
 | [set_IsTrueType](./set_istruetype/)(bool) | Setter for [Aspose::Words::Fonts::FontInfo::get_IsTrueType](./get_istruetype/). |
 | [set_Panose](./set_panose/)(const System::ArrayPtr\<uint8_t\>\&) | Setter for [Aspose::Words::Fonts::FontInfo::get_Panose](./get_panose/). |
 | [set_Pitch](./set_pitch/)(Aspose::Words::Fonts::FontPitch) | Setter for [Aspose::Words::Fonts::FontInfo::get_Pitch](./get_pitch/). |
+## Remarks
+
 
 You do not create instances of this class directly. Use the [FontInfos](../../aspose.words/documentbase/get_fontinfos/) property to access the collection of fonts defined in a document.
 

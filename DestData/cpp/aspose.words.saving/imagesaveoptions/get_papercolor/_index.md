@@ -15,6 +15,8 @@ Gets or sets the background (paper) color for the generated images. The default 
 System::Drawing::Color Aspose::Words::Saving::ImageSaveOptions::get_PaperColor()
 ```
 
+## Remarks
+
 
 When rendering pages of a document that specifies its own background color, then the document background color will override the color specified by this property.
 

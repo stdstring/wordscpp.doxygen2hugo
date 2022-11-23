@@ -15,6 +15,8 @@ Switches the orientation of a shape.
 Aspose::Words::Drawing::FlipOrientation Aspose::Words::Drawing::ShapeBase::get_FlipOrientation()
 ```
 
+## Remarks
+
 
 The default value is **None**.
 

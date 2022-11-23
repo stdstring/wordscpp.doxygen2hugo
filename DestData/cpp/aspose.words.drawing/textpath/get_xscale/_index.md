@@ -15,6 +15,8 @@ Determines whether a straight textpath will be used instead of the shape path.
 bool Aspose::Words::Drawing::TextPath::get_XScale()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

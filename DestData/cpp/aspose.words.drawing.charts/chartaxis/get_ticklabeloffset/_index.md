@@ -15,6 +15,8 @@ Gets or sets the distance of labels from the axis.
 int32_t Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelOffset()
 ```
 
+## Remarks
+
 
 The property represents a percentage of the default label offset.
 

@@ -15,6 +15,8 @@ Returns true if this list is a reference to a list style.
 bool Aspose::Words::Lists::List::get_IsListStyleReference()
 ```
 
+## Remarks
+
 
 Note, modifying properties of a list that is a reference to list style has no effect. The list formatting specified in the list style itself always takes precedence.
 

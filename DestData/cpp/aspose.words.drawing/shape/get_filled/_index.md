@@ -15,6 +15,8 @@ Determines whether the closed path of the shape will be filled.
 bool Aspose::Words::Drawing::Shape::get_Filled()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [On](../../fill/get_on/) property.
 

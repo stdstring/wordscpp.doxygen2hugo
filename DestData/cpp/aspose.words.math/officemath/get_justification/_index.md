@@ -15,6 +15,8 @@ Gets/sets Office [Math](../../) justification.
 Aspose::Words::Math::OfficeMathJustification Aspose::Words::Math::OfficeMath::get_Justification()
 ```
 
+## Remarks
+
 
 Justification cannot be set to the Office [Math](../../) with display format type **Inline**.
 

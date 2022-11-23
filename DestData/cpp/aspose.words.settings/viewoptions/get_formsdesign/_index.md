@@ -15,6 +15,8 @@ Specifies whether the document is in forms design mode.
 bool Aspose::Words::Settings::ViewOptions::get_FormsDesign() const
 ```
 
+## Remarks
+
 
 Currently works only for documents in WordML format.
 

@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to cache shapes placed in header
 bool Aspose::Words::Saving::PdfSaveOptions::get_CacheHeaderFooterShapes() const
 ```
 
+## Remarks
+
 
 Default value is **false** and shapes are not cached.
 

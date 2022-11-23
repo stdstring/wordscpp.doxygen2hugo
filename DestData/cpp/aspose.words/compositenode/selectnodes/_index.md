@@ -23,6 +23,8 @@ System::SharedPtr<Aspose::Words::NodeList> Aspose::Words::CompositeNode::SelectN
 ### ReturnValue
 
 A list of nodes matching the XPath query.
+## Remarks
+
 
 Only expressions with element names are supported at the moment. Expressions that use attribute names are not supported.
 

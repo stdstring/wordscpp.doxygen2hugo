@@ -15,6 +15,8 @@ Represents an estimate of the number of characters in the document.
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_Characters()
 ```
 
+## Remarks
+
 
 Aspose.Words updates this property when you call [UpdateWordCount](../../../aspose.words/document/updatewordcount/).
 

@@ -15,6 +15,8 @@ Specifies how the shape is positioned vertically.
 Aspose::Words::Drawing::VerticalAlignment Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment()
 ```
 
+## Remarks
+
 
 The default value is **None**.
 

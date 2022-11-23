@@ -15,6 +15,8 @@ Defines the color of a stroke.
 System::Drawing::Color Aspose::Words::Drawing::Shape::get_StrokeColor()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [Color](../../stroke/get_color/) property.
 

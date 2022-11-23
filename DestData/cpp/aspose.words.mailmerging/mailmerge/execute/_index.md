@@ -20,6 +20,8 @@ void Aspose::Words::MailMerging::MailMerge::Execute(const System::ArrayPtr<Syste
 | --- | --- | --- |
 | fieldNames | const System::ArrayPtr\<System::String\>\& | Array of merge field names. Field names are not case sensitive. If a field name that is not found in the document is encountered, it is ignored. |
 | values | const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\& | Array of values to be inserted into the merge fields. Number of elements in this array must be the same as the number of elements in fieldNames. |
+## Remarks
+
 
 Use this method to fill mail merge fields in the document with values from an array of objects.
 
@@ -69,6 +71,8 @@ void Aspose::Words::MailMerging::MailMerge::Execute(const System::SharedPtr<Aspo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | dataSource | const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\& | An object that implements the custom mail merge data source interface. |
+## Remarks
+
 
 Use this method to fill mail merge fields in the document with values from any data source such as a list or hashtable or objects. You need to write your own class that implements the [IMailMergeDataSource](../../imailmergedatasource/) interface.
 

@@ -15,6 +15,8 @@ Gets or sets the details for signing the output PDF document.
 System::SharedPtr<Aspose::Words::Saving::PdfDigitalSignatureDetails> Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails() const
 ```
 
+## Remarks
+
 
 The default value is null and the output document will not be signed. When this property is set to a valid [PdfDigitalSignatureDetails](../../pdfdigitalsignaturedetails/) object, then the output PDF document will be digitally signed.
 

@@ -24,6 +24,8 @@ class NodeList : public System::Collections::Generic::IEnumerable<System::Shared
 | [idx_get](./idx_get/)(int32_t) const | Retrieves a node at the given index. |
 | [NodeList](./nodelist/)(const System::SharedPtr\<Aspose::Words::NodeCollection\>\&) |  |
 | [ToArray](./toarray/)() const | Copies all nodes from the collection to a new array of nodes. |
+## Remarks
+
 
 **NodeList** is returned by **SelectNodes()** and contains a collection of nodes matching the XPath query.
 

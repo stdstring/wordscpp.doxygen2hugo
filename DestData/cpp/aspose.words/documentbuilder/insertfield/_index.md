@@ -24,6 +24,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
+## Remarks
+
 
 This method inserts a field into a document. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
 
@@ -87,6 +89,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
+## Remarks
+
 
 This method inserts a field into a document and updates the field result immediately. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
 
@@ -150,6 +154,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
+## Remarks
+
 
 [Fields](../../../aspose.words.fields/) in Microsoft Word documents consist of a field code and a field result. The field code is like a formula and the field result is like the value that the formula produces. The field code may also contain field switches that are like additional instructions to perform a specific action.
 

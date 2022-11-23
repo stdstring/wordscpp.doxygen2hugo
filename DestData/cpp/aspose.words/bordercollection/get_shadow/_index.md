@@ -15,6 +15,8 @@ Gets or sets a value indicating whether the border has a shadow.
 bool Aspose::Words::BorderCollection::get_Shadow()
 ```
 
+## Remarks
+
 
 Gets the value from the first border in the collection.
 

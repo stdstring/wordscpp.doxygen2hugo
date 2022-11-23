@@ -15,6 +15,8 @@ Gets document default text formatting.
 System::SharedPtr<Aspose::Words::Font> Aspose::Words::StyleCollection::get_DefaultFont()
 ```
 
+## Remarks
+
 
 Note that document-wide defaults were introduced in Microsoft Word 2007 and are fully supported in OOXML formats (**Docx**) only. Earlier document formats have limited support for this feature and only font names can be stored.
 

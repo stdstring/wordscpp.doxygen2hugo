@@ -15,6 +15,8 @@ Gets the unique identifier of the list.
 int32_t Aspose::Words::Lists::List::get_ListId() const
 ```
 
+## Remarks
+
 
 You do not normally need to use this property. But if you use it, you normally do so in conjunction with the [GetListByListId()](../../listcollection/getlistbylistid/) method to find a list by its identifier.
 

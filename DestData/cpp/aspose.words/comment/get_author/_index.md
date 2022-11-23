@@ -15,6 +15,8 @@ Returns or sets the author name for a comment.
 System::String Aspose::Words::Comment::get_Author() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 

@@ -15,6 +15,8 @@ Specifies whether the shape is below or above text.
 bool Aspose::Words::Drawing::ShapeBase::get_BehindText()
 ```
 
+## Remarks
+
 
 Has effect only for top level shapes.
 

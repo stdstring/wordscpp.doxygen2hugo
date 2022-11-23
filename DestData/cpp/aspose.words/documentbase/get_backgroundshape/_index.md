@@ -15,6 +15,8 @@ Gets or sets the background shape of the document. Can be null.
 System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBase::get_BackgroundShape() const
 ```
 
+## Remarks
+
 
 Microsoft Word allows only a shape that has its [ShapeType](../../../aspose.words.drawing/shapebase/get_shapetype/) property equal to **Rectangle** to be used as a background shape for a document.
 

@@ -15,6 +15,8 @@ Gets or sets this part's absolute name within the OOXML package or the target UR
 System::String Aspose::Words::Markup::CustomPart::get_Name() const
 ```
 
+## Remarks
+
 
 If the relationship target is internal, then this property is the absolute part name within the package. If the relationship target is external, then this property is the target URL.
 

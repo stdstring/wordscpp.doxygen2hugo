@@ -15,6 +15,8 @@ Defines the cap style for the end of a stroke.
 Aspose::Words::Drawing::EndCap Aspose::Words::Drawing::Stroke::get_EndCap()
 ```
 
+## Remarks
+
 
 The default value is **Flat**.
 

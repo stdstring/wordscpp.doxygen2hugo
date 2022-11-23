@@ -15,6 +15,8 @@ Returns or sets the number format for the list level.
 System::String Aspose::Words::Lists::ListLevel::get_NumberFormat() const
 ```
 
+## Remarks
+
 
 Among normal text characters, the string can contain placeholder characters \x0000 to \x0008 representing the numbers from the corresponding list levels.
 

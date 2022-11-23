@@ -15,6 +15,8 @@ Gets or sets the PANOSE typeface classification number.
 System::ArrayPtr<uint8_t> Aspose::Words::Fonts::FontInfo::get_Panose() const
 ```
 
+## Remarks
+
 
 PANOSE is a compact 10-byte description of a fonts critical visual characteristics, such as contrast, weight, and serif style. The digits represent Family Kind, Serif [Style](../../../aspose.words/style/), Weight, Proportion, Contrast, Stroke Variation, Arm [Style](../../../aspose.words/style/), Letterform, Midline, and X-Height.
 

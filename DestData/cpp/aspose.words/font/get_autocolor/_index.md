@@ -15,6 +15,8 @@ Returns the present calculated color of the text (black or white) to be used for
 System::Drawing::Color Aspose::Words::Font::get_AutoColor()
 ```
 
+## Remarks
+
 
 When text has 'automatic color', the actual color of text is calculated automatically so that it is readable against the background color. As you change the background color, the text color will automatically switch to black or white in MS Word to maximize legibility.
 

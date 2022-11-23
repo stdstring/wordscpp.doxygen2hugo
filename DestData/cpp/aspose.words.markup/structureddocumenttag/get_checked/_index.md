@@ -15,6 +15,8 @@ Gets/Sets current state of the Checkbox **SDT**. Default value for this property
 bool Aspose::Words::Markup::StructuredDocumentTag::get_Checked()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **Checkbox** SDT types.
 

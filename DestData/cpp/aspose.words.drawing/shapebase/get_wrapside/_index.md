@@ -15,6 +15,8 @@ Specifies how the text is wrapped around the shape.
 Aspose::Words::Drawing::WrapSide Aspose::Words::Drawing::ShapeBase::get_WrapSide()
 ```
 
+## Remarks
+
 
 The default value is **Both**.
 

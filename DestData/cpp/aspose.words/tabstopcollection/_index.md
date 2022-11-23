@@ -35,6 +35,8 @@ class TabStopCollection : public Aspose::Words::InternableComplexAttr,
 | [idx_get](./idx_get/)(double) | Gets a tab stop at the specified position. |
 | [RemoveByIndex](./removebyindex/)(int32_t) | Removes a tab stop at the specified index from the collection. |
 | [RemoveByPosition](./removebyposition/)(double) | Removes a tab stop at the specified position from the collection. |
+## Remarks
+
 
 In Microsoft Word documents, a tab stop can be defined in the properties of a paragraph style or directly in the properties of a paragraph. A style can be based on another style. Therefore, the complete set of tab stops for a given object is a combination of tab stops defined directly on this object and tab stops inherited from the parent styles.
 

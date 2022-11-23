@@ -115,7 +115,7 @@ namespace Doxygen2HugoConverter.Markup
                         throw new InvalidOperationException($"Unexpected DetailedDescriptionMarkupEntry XML node with type {node.NodeType}");
                 }
             }
-            return source.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList();
+            return source.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList().PostProcessDetailedDescription().ToList();
         }
 
         public static ClassDetailedDescription ParseClassDetailedDescription(this XElement source)
@@ -227,5 +227,29 @@ namespace Doxygen2HugoConverter.Markup
 
         private static MethodArgs ParseMethodArgs(XElement source) =>
             source.Elements("parameteritem").Select(ParseMethodArg).ToList();
+
+        private static IEnumerable<DetailedDescriptionMarkupEntry> PostProcessDetailedDescription(this IList<DetailedDescriptionMarkupEntry> source)
+        {
+            Boolean IsTextFirst()
+            {
+                foreach (DetailedDescriptionMarkupEntry entry in source)
+                {
+                    switch (entry)
+                    {
+                        case DetailedDescriptionMarkupEntry.TitleEntry:
+                            return false;
+                        case DetailedDescriptionMarkupEntry.TextEntry:
+                        case DetailedDescriptionMarkupEntry.RefEntry:
+                        case DetailedDescriptionMarkupEntry.ExternalLinkEntry:
+                        case DetailedDescriptionMarkupEntry.CodeBlockEntry:
+                        case DetailedDescriptionMarkupEntry.ListEntry:
+                            return true;
+                    }
+                }
+                return false;
+            }
+            // we insert title "Remarks" if detailed description isn't started with other title
+            return IsTextFirst() ? EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.TitleEntry("Remarks")).Concat(source) : source;
+        }
     }
 }

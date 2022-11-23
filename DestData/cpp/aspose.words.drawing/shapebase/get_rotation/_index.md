@@ -15,6 +15,8 @@ Defines the angle (in degrees) that a shape is rotated. Positive value correspon
 double Aspose::Words::Drawing::ShapeBase::get_Rotation()
 ```
 
+## Remarks
+
 
 The default value is 0.
 

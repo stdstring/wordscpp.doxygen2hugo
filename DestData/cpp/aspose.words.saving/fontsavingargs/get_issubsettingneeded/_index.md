@@ -15,6 +15,8 @@ Allows to specify whether the current font will be subsetted before exporting as
 bool Aspose::Words::Saving::FontSavingArgs::get_IsSubsettingNeeded() const
 ```
 
+## Remarks
+
 
 [Fonts](../../../aspose.words.fonts/) can be exported as complete original font files or subsetted to include only the characters that are used in the document. Subsetting allows to reduce the resulting font resource size.
 

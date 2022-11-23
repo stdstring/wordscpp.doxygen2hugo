@@ -15,6 +15,8 @@ Specifies whether the shape's anchor is locked.
 bool Aspose::Words::Drawing::ShapeBase::get_AnchorLocked()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

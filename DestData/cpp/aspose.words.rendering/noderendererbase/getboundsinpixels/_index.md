@@ -24,6 +24,8 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBounds
 ### ReturnValue
 
 The actual (as rendered on the page) bounding box of the shape in pixels.
+## Remarks
+
 
 This method converts [BoundsInPoints](../get_boundsinpoints/) into rectangle in pixels.
 
@@ -91,6 +93,8 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBounds
 ### ReturnValue
 
 The actual (as rendered on the page) bounding box of the shape in pixels.
+## Remarks
+
 
 This method converts [BoundsInPoints](../get_boundsinpoints/) into rectangle in pixels.
 

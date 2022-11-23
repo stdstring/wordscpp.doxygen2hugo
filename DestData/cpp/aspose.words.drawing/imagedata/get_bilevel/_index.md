@@ -15,6 +15,8 @@ Determines whether an image will be displayed in black and white.
 bool Aspose::Words::Drawing::ImageData::get_BiLevel()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

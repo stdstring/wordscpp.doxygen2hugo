@@ -15,6 +15,8 @@ Defines the brush thickness that strokes the path of a shape in points.
 double Aspose::Words::Drawing::Stroke::get_Weight()
 ```
 
+## Remarks
+
 
 The default value for a [Shape](../../shape/) is 0.75.
 

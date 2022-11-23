@@ -15,6 +15,8 @@ When **false**, PictureBullet data is not saved to output document. Default valu
 bool Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet() const
 ```
 
+## Remarks
+
 
 This option is provided for Word 97, which cannot work correctly with PictureBullet data. To remove PictureBullet data, set the option to "false".
 

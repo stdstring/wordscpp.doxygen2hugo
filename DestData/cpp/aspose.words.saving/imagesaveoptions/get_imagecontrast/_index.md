@@ -15,6 +15,8 @@ Gets or sets the contrast for the generated images.
 float Aspose::Words::Saving::ImageSaveOptions::get_ImageContrast() const
 ```
 
+## Remarks
+
 
 This property has effect only when saving to raster image formats.
 

@@ -24,6 +24,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 ### ReturnValue
 
 The cloned node that belongs to the current document.
+## Remarks
+
 
 This method uses the **UseDestinationStyles** option to resolve formatting.
 
@@ -81,6 +83,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 ### ReturnValue
 
 The cloned, imported node. The node belongs to the destination document, but has no parent.
+## Remarks
+
 
 This overload is useful to control how styles and list formatting are imported.
 

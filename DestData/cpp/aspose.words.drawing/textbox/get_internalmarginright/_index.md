@@ -15,6 +15,8 @@ Specifies the inner right margin in points for a shape.
 double Aspose::Words::Drawing::TextBox::get_InternalMarginRight()
 ```
 
+## Remarks
+
 
 The default value is 1/10 inch.
 

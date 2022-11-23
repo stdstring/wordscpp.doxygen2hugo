@@ -15,6 +15,8 @@ Defines the arrowhead length for the start of a stroke.
 Aspose::Words::Drawing::ArrowLength Aspose::Words::Drawing::Stroke::get_StartArrowLength()
 ```
 
+## Remarks
+
 
 The default value is **Medium**.
 

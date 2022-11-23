@@ -15,6 +15,8 @@ Determines whether a picture will display in grayscale mode.
 bool Aspose::Words::Drawing::ImageData::get_GrayScale()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

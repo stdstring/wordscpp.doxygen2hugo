@@ -15,6 +15,8 @@ Gets or sets a value indicating whether paragraphs with punctuation marks are co
 bool Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks() const
 ```
 
+## Remarks
+
 
 The default value is **true**. Here is the complete list of cleanable punctuation marks:
 

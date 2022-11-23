@@ -15,6 +15,8 @@ Creates and returns a stream that contains the image bytes.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Drawing::ImageData::ToStream()
 ```
 
+## Remarks
+
 
 If the image bytes are stored in the shape, creates and returns a **MemoryStream** object.
 

@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Rendering::OfficeMathRenderer> Aspose::Words::M
 ### ReturnValue
 
 The renderer object for this equation.
+## Remarks
+
 
 This method just invokes the [OfficeMathRenderer](../../../aspose.words.rendering/officemathrenderer/) constructor and passes this object as a parameter.
 

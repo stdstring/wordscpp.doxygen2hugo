@@ -15,6 +15,8 @@ Returns or sets the initials of the user associated with a specific comment.
 System::String Aspose::Words::Comment::get_Initial() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 

@@ -15,6 +15,8 @@ Returns the property value as byte array.
 System::ArrayPtr<uint8_t> Aspose::Words::Properties::DocumentProperty::ToByteArray()
 ```
 
+## Remarks
+
 
 Throws an exception if the property type is not **ByteArray**.
 

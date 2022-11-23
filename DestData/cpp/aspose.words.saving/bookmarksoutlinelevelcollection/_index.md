@@ -51,6 +51,8 @@ class BookmarksOutlineLevelCollection : public System::Collections::Generic::IEn
 | [iterator_holder_type](./iterator_holder_type/) |  |
 | [virtualized_iterator](./virtualized_iterator/) |  |
 | [virtualized_iterator_element](./virtualized_iterator_element/) |  |
+## Remarks
+
 
 Key is a case-insensitive string bookmark name. Value is a int bookmark outline level.
 

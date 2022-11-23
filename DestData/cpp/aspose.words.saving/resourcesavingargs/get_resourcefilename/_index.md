@@ -15,6 +15,8 @@ Gets or sets the file name (without path) where the resource will be saved to.
 System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName() const
 ```
 
+## Remarks
+
 
 This property allows you to redefine how the resource file names are generated during export to fixed page HTML or SVG.
 

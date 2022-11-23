@@ -21,6 +21,8 @@ void Aspose::Words::Document::Compare(const System::SharedPtr<Aspose::Words::Doc
 | document | const System::SharedPtr\<Aspose::Words::Document\>\& | [Document](../) to compare. |
 | author | const System::String\& | Initials of the author to use for revisions. |
 | dateTime | System::DateTime | The date and time to use for revisions. |
+## Remarks
+
 
 The following document nodes are not compared at the moment:
 

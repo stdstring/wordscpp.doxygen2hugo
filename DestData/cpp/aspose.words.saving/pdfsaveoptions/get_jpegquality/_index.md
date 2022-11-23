@@ -15,6 +15,8 @@ Gets or sets a value determining the quality of the JPEG images inside PDF docum
 int32_t Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality()
 ```
 
+## Remarks
+
 
 The default value is 100.
 

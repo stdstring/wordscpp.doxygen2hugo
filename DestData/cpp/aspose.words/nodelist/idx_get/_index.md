@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeList::idx_get(int32_t 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the list of nodes. |
+## Remarks
+
 
 The index is zero-based.
 

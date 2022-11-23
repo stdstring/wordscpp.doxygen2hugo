@@ -15,6 +15,8 @@ Specifies the physical folder where resources (images and fonts) are saved when 
 System::String Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder() const
 ```
 
+## Remarks
+
 
 When you save a [Document](../../../aspose.words/document/) in fixed page Xaml format, Aspose.Words needs to save all images embedded in the document as standalone files. [ResourcesFolder](./) allows you to specify where the images will be saved and [ResourcesFolderAlias](../get_resourcesfolderalias/) allows to specify how the image URIs will be constructed.
 

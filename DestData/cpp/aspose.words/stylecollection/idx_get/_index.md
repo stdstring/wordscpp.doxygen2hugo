@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::idx_get(
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sti | Aspose::Words::StyleIdentifier | A [StyleIdentifier](../../styleidentifier/) value that specifies the built in style to retrieve. |
+## Remarks
+
 
 When accessing a style that does not yet exist, automatically creates it.
 
@@ -53,6 +55,8 @@ Gets a style by name or alias.
 ```cpp
 System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::idx_get(const System::String &name)
 ```
+
+## Remarks
 
 
 Case sensitive, returns null if the style with the given name is not found.

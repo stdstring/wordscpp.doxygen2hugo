@@ -15,6 +15,8 @@ Defines the text of the text path.
 System::String Aspose::Words::Drawing::TextPath::get_Text()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

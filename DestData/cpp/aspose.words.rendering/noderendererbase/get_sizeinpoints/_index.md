@@ -15,6 +15,8 @@ Gets the actual size of the shape in points.
 System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints()
 ```
 
+## Remarks
+
 
 This property returns the size of the actual (as rendered on the page) bounding box of the shape. The size takes into account shape rotation (if any).
 

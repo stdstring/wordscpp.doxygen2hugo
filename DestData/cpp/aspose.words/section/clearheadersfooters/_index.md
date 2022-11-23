@@ -15,6 +15,8 @@ Clears the headers and footers of this section.
 void Aspose::Words::Section::ClearHeadersFooters()
 ```
 
+## Remarks
+
 
 The text of all headers and footers is cleared, but [HeaderFooter](../../headerfooter/) objects themselves are not removed.
 

@@ -15,6 +15,8 @@ Specifies the folder for temporary files used when saving to a DOC or DOCX file.
 System::String Aspose::Words::Saving::SaveOptions::get_TempFolder() const
 ```
 
+## Remarks
+
 
 When Aspose.Words saves a document, it needs to create temporary internal structures. By default, these internal structures are created in memory and the memory usage spikes for a short period while the document is being saved. When saving is complete, the memory is freed and reclaimed by the garbage collector.
 

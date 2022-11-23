@@ -15,6 +15,8 @@ Gets or sets method used while converting images to 1 bpp format when [SaveForma
 Aspose::Words::Saving::ImageBinarizationMethod Aspose::Words::Saving::ImageSaveOptions::get_TiffBinarizationMethod() const
 ```
 
+## Remarks
+
 
 The default value is **ImageBinarizationMethod.Threshold**.
 

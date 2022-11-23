@@ -15,6 +15,8 @@ Specifies category of building block for this **SDT** node. Can not be null.
 System::String Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **BuildingBlockGallery** and **DocPartObj** SDT types. It is read-only for **SDT** of the document part type.
 

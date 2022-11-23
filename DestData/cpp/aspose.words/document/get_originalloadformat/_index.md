@@ -15,6 +15,8 @@ Gets the format of the original document that was loaded into this object.
 Aspose::Words::LoadFormat Aspose::Words::Document::get_OriginalLoadFormat() const
 ```
 
+## Remarks
+
 
 If you created a new blank document, returns the **Doc** value.
 

@@ -15,6 +15,8 @@ url: /cpp/aspose.words.markup/custompart/get_isexternal/
 bool Aspose::Words::Markup::CustomPart::get_IsExternal() const
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

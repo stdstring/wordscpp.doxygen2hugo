@@ -54,6 +54,8 @@ class MailMergeSettings : public System::Object
 | [set_Odso](./set_odso/)(const System::SharedPtr\<Aspose::Words::Settings::Odso\>\&) | Sets the object that specifies the Office Data Source Object (ODSO) settings. |
 | [set_Query](./set_query/)(const System::String\&) | Contains the Structured Query Language string that shall be run against the specified external data source to return the set of records which shall be imported into the document when the mail merge operation is performed. The default value is an empty string. |
 | [set_ViewMergedData](./set_viewmergeddata/)(bool) | Specifies that Microsoft Word shall display the data from the specified external data source where merge fields have been inserted (e.g. preview merged data). The default value is **false**. |
+## Remarks
+
 
 You can use this object to specify a mail merge data source for a document and this information (along with the available data fields) will appear in Microsoft Word when the user opens this document. Or you can use this object to query mail merge settings that the user has specified in Microsoft Word for this document.
 

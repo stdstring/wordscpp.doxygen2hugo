@@ -15,6 +15,8 @@ Gets the text of this paragraph including the end of paragraph character.
 System::String Aspose::Words::Paragraph::GetText() override
 ```
 
+## Remarks
+
 
 The text of all child nodes is concatenated and the end of paragraph character is appended as follows:
 

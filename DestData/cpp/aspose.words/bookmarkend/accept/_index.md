@@ -23,6 +23,8 @@ bool Aspose::Words::BookmarkEnd::Accept(System::SharedPtr<Aspose::Words::Documen
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [VisitBookmarkEnd()](../../documentvisitor/visitbookmarkend/).
 

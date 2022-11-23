@@ -132,6 +132,8 @@ class DocumentBuilder : public Aspose::Words::IRunAttrSource,
 | [Write](./write/)(const System::String\&) | Inserts a string into the document at the current insert position. |
 | [Writeln](./writeln/)(const System::String\&) | Inserts a string and a paragraph break into the document. |
 | [Writeln](./writeln/)() | Inserts a paragraph break into the document. |
+## Remarks
+
 
 **DocumentBuilder** makes the process of building a **Document** easier. **Document** is a composite object consisting of a tree of nodes and while inserting content nodes directly into the tree is possible, it requires good understanding of the tree structure. **DocumentBuilder** is a "facade" for the complex structure of **Document** and allows to insert content and formatting quickly and easily.
 

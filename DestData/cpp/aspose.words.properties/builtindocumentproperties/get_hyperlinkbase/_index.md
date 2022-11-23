@@ -15,6 +15,8 @@ Specifies the base string used for evaluating relative hyperlinks in this docume
 System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase()
 ```
 
+## Remarks
+
 
 Aspose.Words does not use this property.
 

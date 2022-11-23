@@ -15,6 +15,8 @@ Gets or sets a user-defined divisor to scale display units on the value axis.
 double Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit() const
 ```
 
+## Remarks
+
 
 The property is not supported by MS Office 2016 new charts. Default value is 1.
 

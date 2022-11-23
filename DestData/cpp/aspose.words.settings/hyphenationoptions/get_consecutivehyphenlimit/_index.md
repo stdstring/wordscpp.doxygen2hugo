@@ -15,6 +15,8 @@ Gets or sets the maximum number of consecutive lines that can end with hyphens. 
 int32_t Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit() const
 ```
 
+## Remarks
+
 
 If value of this property is set to 0, any number of consecutive lines can end with hyphens.
 

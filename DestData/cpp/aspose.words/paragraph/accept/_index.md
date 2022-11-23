@@ -23,6 +23,8 @@ bool Aspose::Words::Paragraph::Accept(System::SharedPtr<Aspose::Words::DocumentV
 ### ReturnValue
 
 True if all nodes were visited; false if [DocumentVisitor](../../documentvisitor/) stopped the operation before visiting all nodes.
+## Remarks
+
 
 Enumerates over this node and all of its children. Each node calls a corresponding method on [DocumentVisitor](../../documentvisitor/).
 

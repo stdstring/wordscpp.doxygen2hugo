@@ -15,6 +15,8 @@ Gets or sets a font size. The default value is 0 - auto.
 float Aspose::Words::TextWatermarkOptions::get_FontSize() const
 ```
 
+## Remarks
+
 
 Valid values range from 0 to 65.5 inclusive.
 

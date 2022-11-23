@@ -15,6 +15,8 @@ Specifies whether to write the roundtrip information when saving to HTML, MHTML 
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportRoundtripInformation() const
 ```
 
+## Remarks
+
 
 [Saving](../../) of the roundtrip information allows to restore document properties such as tab stops, comments, headers and footers during the HTML documents loading back into a [Document](../../../aspose.words/document/) object.
 

@@ -15,6 +15,8 @@ Gets or sets a boolean value that specifies how styles will be imported when the
 bool Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior() const
 ```
 
+## Remarks
+
 
 When this option is **enabled**, the source style will be expanded into a direct attributes inside a destination document, if **KeepSourceFormatting** importing mode is used.
 

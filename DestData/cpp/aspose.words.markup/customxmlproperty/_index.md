@@ -25,6 +25,8 @@ class CustomXmlProperty : public System::Object
 | [get_Value](./get_value/)() const | Gets or sets the value of the custom XML attribute or smart tag property. |
 | [set_Uri](./set_uri/)(const System::String\&) | Setter for [Aspose::Words::Markup::CustomXmlProperty::get_Uri](./get_uri/). |
 | [set_Value](./set_value/)(const System::String\&) | Setter for [Aspose::Words::Markup::CustomXmlProperty::get_Value](./get_value/). |
+## Remarks
+
 
 Used as an item of a [CustomXmlPropertyCollection](../customxmlpropertycollection/) collection.
 

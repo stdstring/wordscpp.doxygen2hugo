@@ -15,6 +15,8 @@ Determines whether the letters of the text are rotated.
 bool Aspose::Words::Drawing::TextPath::get_RotateLetters()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

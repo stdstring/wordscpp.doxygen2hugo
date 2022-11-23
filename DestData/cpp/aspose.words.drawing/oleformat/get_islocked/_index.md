@@ -15,6 +15,8 @@ Specifies whether the link to the OLE object is locked from updates.
 bool Aspose::Words::Drawing::OleFormat::get_IsLocked()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

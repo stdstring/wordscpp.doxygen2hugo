@@ -15,6 +15,8 @@ Gets or sets the path and name of the source file for the linked OLE object.
 System::String Aspose::Words::Drawing::OleFormat::get_SourceFullName()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

@@ -15,6 +15,8 @@ Specifies whether Aspose.Words should keep the stream open or close it after sav
 bool Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen() const
 ```
 
+## Remarks
+
 
 Default is **false** and Aspose.Words will close the stream you provided in the [CssStream](../get_cssstream/) property after writing an CSS information into it. Specify **true** to keep the stream open.
 

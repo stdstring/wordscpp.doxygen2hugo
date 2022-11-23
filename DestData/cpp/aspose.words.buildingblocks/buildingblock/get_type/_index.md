@@ -15,6 +15,8 @@ Specifies the building block type.
 Aspose::Words::BuildingBlocks::BuildingBlockType Aspose::Words::BuildingBlocks::BuildingBlock::get_Type() const
 ```
 
+## Remarks
+
 
 The building block type can influence the visibility and behavior of the building block in Microsoft Word.
 

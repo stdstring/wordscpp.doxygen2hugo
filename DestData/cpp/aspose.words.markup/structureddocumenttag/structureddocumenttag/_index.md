@@ -21,6 +21,8 @@ Aspose::Words::Markup::StructuredDocumentTag::StructuredDocumentTag(const System
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 | type | Aspose::Words::Markup::SdtType | Type of SDT node. |
 | level | Aspose::Words::Markup::MarkupLevel | Level of SDT node within the document. |
+## Remarks
+
 
 The following types of SDT can be created:
 

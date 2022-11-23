@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | The case-insensitive name of the property to retrieve. |
+## Remarks
+
 
 The string names of the properties correspond to the names of the typed properties available from [BuiltInDocumentProperties](../).
 

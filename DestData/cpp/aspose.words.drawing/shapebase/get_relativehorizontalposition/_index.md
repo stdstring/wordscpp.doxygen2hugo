@@ -15,6 +15,8 @@ Specifies relative to what the shape is positioned horizontally.
 Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::Drawing::ShapeBase::get_RelativeHorizontalPosition()
 ```
 
+## Remarks
+
 
 The default value is **Column**.
 

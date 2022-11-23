@@ -15,6 +15,8 @@ Specifies whether font family names used in the document are resolved and substi
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ResolveFontNames() const
 ```
 
+## Remarks
+
 
 By default, this option is set to **false** and font family names are written to HTML as specified in source documents. That is, [FontSettings](../../../aspose.words/document/get_fontsettings/) are ignored and no resolution or substitution of font family names is performed.
 

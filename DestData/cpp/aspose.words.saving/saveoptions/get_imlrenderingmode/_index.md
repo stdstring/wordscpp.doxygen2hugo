@@ -15,6 +15,8 @@ Gets or sets a value determining how ink (InkML) objects are rendered.
 Aspose::Words::Saving::ImlRenderingMode Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode() const
 ```
 
+## Remarks
+
 
 The default value is **InkML**.
 

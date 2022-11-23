@@ -15,6 +15,8 @@ Specifies the maximum level of headings populated to the navigation map when exp
 int32_t Aspose::Words::Saving::HtmlSaveOptions::get_EpubNavigationMapLevel() const
 ```
 
+## Remarks
+
 
 Navigation map in IDPF EPUB format allows user agents to provide easy way of navigation through the document structure. Usually navigation points correspond to headings in the document. To populate headings up to level **N** assign this value to [EpubNavigationMapLevel](./).
 

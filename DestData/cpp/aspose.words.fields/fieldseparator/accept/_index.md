@@ -23,6 +23,8 @@ bool Aspose::Words::Fields::FieldSeparator::Accept(System::SharedPtr<Aspose::Wor
 ### ReturnValue
 
 **False** if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls **VisitFieldSeparator()**.
 

@@ -15,5 +15,7 @@ Specifies the mail-merge main document type. The default value is **Default**.
 Aspose::Words::Settings::MailMergeMainDocumentType Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType() const
 ```
 
+## Remarks
+
 
 The main document is the document that contains information that is the same for each version of the merged document. 

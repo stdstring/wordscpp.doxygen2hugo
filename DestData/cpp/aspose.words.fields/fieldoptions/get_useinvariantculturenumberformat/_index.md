@@ -15,6 +15,8 @@ Gets or sets the value indicating that number format is parsed using invariant c
 bool Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat() const
 ```
 
+## Remarks
+
 
 When this property is set to **true**, number format is taken from an invariant culture.
 

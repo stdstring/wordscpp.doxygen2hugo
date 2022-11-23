@@ -27,6 +27,8 @@ class CssSavingArgs : public System::Object
 | [set_CssStream](./set_cssstream/)(std::basic_ostream\<CharType, Traits\>\&) |  |
 | [set_IsExportNeeded](./set_isexportneeded/)(bool) | Setter for [Aspose::Words::Saving::CssSavingArgs::get_IsExportNeeded](./get_isexportneeded/). |
 | [set_KeepCssStreamOpen](./set_keepcssstreamopen/)(bool) | Setter for [Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen](./get_keepcssstreamopen/). |
+## Remarks
+
 
 By default, when Aspose.Words saves a document to HTML, it saves CSS information inline (as a value of the **style** attribute on every element).
 

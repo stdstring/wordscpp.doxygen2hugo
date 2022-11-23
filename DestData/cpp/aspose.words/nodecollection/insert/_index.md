@@ -20,6 +20,8 @@ void Aspose::Words::NodeCollection::Insert(int32_t index, const System::SharedPt
 | --- | --- | --- |
 | index | int32_t | The zero-based index of the node. Negative indexes are allowed and indicate access from the back of the list. For example -1 means the last node, -2 means the second before last and so on. |
 | node | const System::SharedPtr\<Aspose::Words::Node\>\& | The node to insert. |
+## Remarks
+
 
 The node is inserted as a child into the node object from which the collection was created.
 

@@ -15,6 +15,8 @@ Allows to specify the stream where the document part will be saved to.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream() const
 ```
 
+## Remarks
+
 
 This property allows you to save document parts to streams instead of files during HTML export.
 

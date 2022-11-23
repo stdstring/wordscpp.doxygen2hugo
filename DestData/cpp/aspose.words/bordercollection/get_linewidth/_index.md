@@ -15,6 +15,8 @@ Gets or sets the border width in points.
 double Aspose::Words::BorderCollection::get_LineWidth()
 ```
 
+## Remarks
+
 
 Returns the width of the first border in the collection.
 

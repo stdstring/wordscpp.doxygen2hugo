@@ -35,6 +35,8 @@ class Border : public Aspose::Words::InternableComplexAttr,
 | [set_LineStyle](./set_linestyle/)(Aspose::Words::LineStyle) | Setter for [Aspose::Words::Border::get_LineStyle](./get_linestyle/). |
 | [set_LineWidth](./set_linewidth/)(double) | Setter for [Aspose::Words::Border::get_LineWidth](./get_linewidth/). |
 | [set_Shadow](./set_shadow/)(bool) | Setter for [Aspose::Words::Border::get_Shadow](./get_shadow/). |
+## Remarks
+
 
 Borders can be applied to various document elements including paragraph, run of text inside a paragraph or a table cell.
 

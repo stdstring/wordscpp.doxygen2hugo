@@ -15,6 +15,8 @@ Returns or sets an entry macro name for the form field.
 System::String Aspose::Words::Fields::FormField::get_EntryMacro()
 ```
 
+## Remarks
+
 
 The entry macro runs when the form field gets the focus in Microsoft Word.
 

@@ -37,6 +37,8 @@ class Odso : public System::Object
 | [set_RecipientDatas](./set_recipientdatas/)(const System::SharedPtr\<Aspose::Words::Settings::OdsoRecipientDataCollection\>\&) | Sets a collection of objects that specify inclusion/exclusion of individual records in the mail merge. This object is never null. |
 | [set_TableName](./set_tablename/)(const System::String\&) | Specifies the particular set of data that a source shall be connected to within an external data source. The default value is an empty string. |
 | [set_UdlConnectString](./set_udlconnectstring/)(const System::String\&) | Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string. |
+## Remarks
+
 
 ODSO seems to be the "new" way the newer Microsoft Word versions prefer to use when specifying certain types of data sources for a mail merge document. ODSO probably first appeared in Microsoft Word 2000.
 

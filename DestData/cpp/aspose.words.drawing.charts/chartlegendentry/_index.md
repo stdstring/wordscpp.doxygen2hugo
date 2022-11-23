@@ -23,6 +23,8 @@ class ChartLegendEntry : public Aspose::Words::Drawing::Core::Dml::IDmlExtension
 | [get_Font](./get_font/)() | Provides access to the font formatting of this legend entry. |
 | [get_IsHidden](./get_ishidden/)() const | Gets a value indicating whether this entry is hidden in the chart legend. The default value is **false**. |
 | [set_IsHidden](./set_ishidden/)(bool) | Sets a value indicating whether this entry is hidden in the chart legend. The default value is **false**. |
+## Remarks
+
 
 A legend entry corresponds to a specific chart series or trendline.
 

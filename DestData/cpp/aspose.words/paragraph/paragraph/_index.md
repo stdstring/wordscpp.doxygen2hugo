@@ -19,6 +19,8 @@ Aspose::Words::Paragraph::Paragraph(const System::SharedPtr<Aspose::Words::Docum
 | Parameter | Type | Description |
 | --- | --- | --- |
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
+## Remarks
+
 
 When **Paragraph** is created, it belongs to the specified document, but is not yet part of the document and **ParentNode** is null.
 

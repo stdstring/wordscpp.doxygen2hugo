@@ -15,6 +15,8 @@ Returns true if this list is a definition of a list style.
 bool Aspose::Words::Lists::List::get_IsListStyleDefinition()
 ```
 
+## Remarks
+
 
 When this property is true, the [Style](../get_style/) property returns the list style that this list defines.
 

@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Tables::Table> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 The table node that was just created.
+## Remarks
+
 
 The next method to call is [InsertCell](../insertcell/).
 

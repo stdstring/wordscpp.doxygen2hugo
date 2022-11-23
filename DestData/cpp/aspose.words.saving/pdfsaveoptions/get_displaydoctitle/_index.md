@@ -15,6 +15,8 @@ A flag specifying whether the window’s title bar should display the document t
 bool Aspose::Words::Saving::PdfSaveOptions::get_DisplayDocTitle() const
 ```
 
+## Remarks
+
 
 If **false**, the title bar should instead display the name of the PDF file containing the document.
 

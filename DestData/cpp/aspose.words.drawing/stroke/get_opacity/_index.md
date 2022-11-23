@@ -15,6 +15,8 @@ Defines the amount of transparency of a stroke. Valid range is from 0 to 1.
 double Aspose::Words::Drawing::Stroke::get_Opacity()
 ```
 
+## Remarks
+
 
 The default value is 1.
 

@@ -15,6 +15,8 @@ Gets or sets a boolean value indicating whether to allow embedding fonts with Po
 bool Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts() const
 ```
 
+## Remarks
+
 
 Note, Word does not embed PostScript fonts, but can open documents with embedded fonts of this type.
 

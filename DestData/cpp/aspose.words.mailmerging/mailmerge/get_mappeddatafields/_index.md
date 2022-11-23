@@ -15,5 +15,7 @@ Returns a collection that represents mapped data fields for the mail merge opera
 System::SharedPtr<Aspose::Words::MailMerging::MappedDataFieldCollection> Aspose::Words::MailMerging::MailMerge::get_MappedDataFields()
 ```
 
+## Remarks
+
 
 Mapped data fields allow to automatically map between names of fields in your data source and names of mail merge fields in the document. 

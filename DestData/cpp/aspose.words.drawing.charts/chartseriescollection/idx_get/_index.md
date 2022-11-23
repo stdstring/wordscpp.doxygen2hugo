@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
+## Remarks
+
 
 The index is zero-based.
 

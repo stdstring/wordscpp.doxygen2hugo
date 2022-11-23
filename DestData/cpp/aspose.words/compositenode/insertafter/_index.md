@@ -24,6 +24,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::InsertAfter
 ### ReturnValue
 
 The inserted node.
+## Remarks
+
 
 If refChild is null, inserts newChild at the beginning of the list of child nodes.
 

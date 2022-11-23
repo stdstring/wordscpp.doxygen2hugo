@@ -15,6 +15,8 @@ Defines whether the path will be stroked.
 bool Aspose::Words::Drawing::Shape::get_Stroked()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [On](../../stroke/get_on/) property.
 

@@ -15,6 +15,8 @@ Provides access to the list formatting properties of a paragraph style.
 System::SharedPtr<Aspose::Words::Lists::ListFormat> Aspose::Words::Style::get_ListFormat()
 ```
 
+## Remarks
+
 
 This property is only valid for paragraph styles. For other style types this property returns null.
 

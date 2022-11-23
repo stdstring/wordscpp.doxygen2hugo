@@ -15,6 +15,8 @@ Specifies that this section contains bidirectional (complex scripts) text.
 bool Aspose::Words::PageSetup::get_Bidi()
 ```
 
+## Remarks
+
 
 When true, the columns in this section are laid out from right to left.
 

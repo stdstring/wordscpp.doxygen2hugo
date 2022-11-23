@@ -15,6 +15,8 @@ Gets or sets the brightness of the picture. The value for this property must be 
 double Aspose::Words::Drawing::ImageData::get_Brightness()
 ```
 
+## Remarks
+
 
 The default value is 0.5.
 

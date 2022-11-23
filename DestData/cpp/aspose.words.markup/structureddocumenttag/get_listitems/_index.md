@@ -15,6 +15,8 @@ Gets [SdtListItemCollection](../../sdtlistitemcollection/) associated with this 
 System::SharedPtr<Aspose::Words::Markup::SdtListItemCollection> Aspose::Words::Markup::StructuredDocumentTag::get_ListItems()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **ComboBox** or **DropDownList** SDT types.
 

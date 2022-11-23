@@ -15,6 +15,8 @@ Gets or sets the pages to render. Default is all the pages in the document.
 System::SharedPtr<Aspose::Words::Saving::PageSet> Aspose::Words::Saving::ImageSaveOptions::get_PageSet()
 ```
 
+## Remarks
+
 
 This property has effect only when rendering document pages. This property is ignored when rendering shapes to images.
 

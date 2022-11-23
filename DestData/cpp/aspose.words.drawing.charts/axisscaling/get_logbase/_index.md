@@ -15,6 +15,8 @@ Gets or sets the logarithmic base for a logarithmic axis.
 double Aspose::Words::Drawing::Charts::AxisScaling::get_LogBase() const
 ```
 
+## Remarks
+
 
 The property is not supported by MS Office 2016 new charts.
 

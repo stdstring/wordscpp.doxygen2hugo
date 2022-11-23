@@ -15,6 +15,8 @@ Specifies the content type of this custom part.
 System::String Aspose::Words::Markup::CustomPart::get_ContentType() const
 ```
 
+## Remarks
+
 
 This property is applicable only when [IsExternal](../get_isexternal/) is **false**.
 

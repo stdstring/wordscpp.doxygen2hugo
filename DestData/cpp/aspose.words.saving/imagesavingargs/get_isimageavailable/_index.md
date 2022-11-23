@@ -15,6 +15,8 @@ Returns **true** if the current image is available for export.
 bool Aspose::Words::Saving::ImageSavingArgs::get_IsImageAvailable() const
 ```
 
+## Remarks
+
 
 Some images in the document can be unavailable, for example, because the image is linked and the link is inaccessible or does not point to a valid image. In this case Aspose.Words exports an icon with a red cross. This property returns **true** if the original image is available; returns **false** if the original image is not available and a "no image" icon will be offered for save.
 

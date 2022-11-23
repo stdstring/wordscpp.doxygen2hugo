@@ -15,6 +15,8 @@ Indicates the presence of 3D shading for the horizontal rule. If true, then the 
 bool Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade()
 ```
 
+## Remarks
+
 
 The default value is false.
 

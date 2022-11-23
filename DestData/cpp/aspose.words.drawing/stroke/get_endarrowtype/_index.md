@@ -15,6 +15,8 @@ Defines the arrowhead for the end of a stroke.
 Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Stroke::get_EndArrowType()
 ```
 
+## Remarks
+
 
 The default value is **None**.
 

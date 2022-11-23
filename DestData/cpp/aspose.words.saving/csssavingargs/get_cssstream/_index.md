@@ -15,6 +15,8 @@ Allows to specify the stream where the CSS information will be saved to.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::CssSavingArgs::get_CssStream() const
 ```
 
+## Remarks
+
 
 This property allows you to save CSS information to a stream.
 

@@ -15,6 +15,8 @@ Gets the original font file size.
 int32_t Aspose::Words::Saving::FontSavingArgs::get_OriginalFileSize() const
 ```
 
+## Remarks
+
 
 This property contains the original file size of the current font if it is known. Otherwise it can be zero.
 

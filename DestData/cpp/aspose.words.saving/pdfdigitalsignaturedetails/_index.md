@@ -33,6 +33,8 @@ class PdfDigitalSignatureDetails : public System::Object
 | [set_Reason](./set_reason/)(const System::String\&) | Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason](./get_reason/). |
 | [set_SignatureDate](./set_signaturedate/)(System::DateTime) | Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate](./get_signaturedate/). |
 | [set_TimestampSettings](./set_timestampsettings/)(const System::SharedPtr\<Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings\>\&) | Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings](./get_timestampsettings/). |
+## Remarks
+
 
 At the moment digitally signing PDF documents is only available on .NET 2.0 or higher.
 

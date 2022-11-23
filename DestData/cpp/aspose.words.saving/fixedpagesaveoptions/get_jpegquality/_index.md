@@ -15,6 +15,8 @@ Gets or sets a value determining the quality of the JPEG images inside Html docu
 int32_t Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality() const
 ```
 
+## Remarks
+
 
 Has effect only when a document contains JPEG images.
 

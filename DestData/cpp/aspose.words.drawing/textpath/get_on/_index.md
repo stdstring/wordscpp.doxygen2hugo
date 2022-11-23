@@ -15,6 +15,8 @@ Defines whether the text is displayed.
 bool Aspose::Words::Drawing::TextPath::get_On()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

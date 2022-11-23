@@ -15,5 +15,7 @@ Specifies that a hosting application shall treat the first row of data in the sp
 bool Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames() const
 ```
 
+## Remarks
+
 
 RK I have never seen this in use. 

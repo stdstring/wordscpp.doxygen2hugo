@@ -15,6 +15,8 @@ Gets or sets the border style.
 Aspose::Words::LineStyle Aspose::Words::BorderCollection::get_LineStyle()
 ```
 
+## Remarks
+
 
 Returns the style of the first border in the collection.
 

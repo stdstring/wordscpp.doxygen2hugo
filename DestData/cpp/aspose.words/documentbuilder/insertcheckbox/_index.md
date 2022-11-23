@@ -25,6 +25,8 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 ### ReturnValue
 
 The form field node that was just inserted.
+## Remarks
+
 
 If you specify a name for the form field, then a bookmark is automatically created with the same name.
 
@@ -76,6 +78,8 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 ### ReturnValue
 
 The form field node that was just inserted.
+## Remarks
+
 
 If you specify a name for the form field, then a bookmark is automatically created with the same name.
 

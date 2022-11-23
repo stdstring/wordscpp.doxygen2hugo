@@ -19,6 +19,8 @@ void Aspose::Words::DocumentBuilder::MoveToHeaderFooter(Aspose::Words::HeaderFoo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | headerFooterType | Aspose::Words::HeaderFooterType | Specifies the header or footer to move to. |
+## Remarks
+
 
 After you moved the cursor into a header or footer, you can use the rest of [DocumentBuilder](../) methods to modify the contents of the header or footer.
 

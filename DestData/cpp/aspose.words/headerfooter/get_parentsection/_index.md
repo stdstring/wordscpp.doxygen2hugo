@@ -15,6 +15,8 @@ Gets the parent section of this story.
 System::SharedPtr<Aspose::Words::Section> Aspose::Words::HeaderFooter::get_ParentSection()
 ```
 
+## Remarks
+
 
 **ParentSection** is equivalent to **%([Section](../../section/))ParentNode**.
 

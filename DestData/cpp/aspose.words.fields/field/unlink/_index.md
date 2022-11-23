@@ -19,6 +19,8 @@ bool Aspose::Words::Fields::Field::Unlink()
 ### ReturnValue
 
 **True** if the field has been unlinked, otherwise **false**.
+## Remarks
+
 
 Replaces the field with its most recent result.
 

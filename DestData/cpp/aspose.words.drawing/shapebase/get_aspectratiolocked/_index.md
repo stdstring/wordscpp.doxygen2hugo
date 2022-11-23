@@ -15,6 +15,8 @@ Specifies whether the shape's aspect ratio is locked.
 bool Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked()
 ```
 
+## Remarks
+
 
 The default value depends on the [ShapeType](../get_shapetype/), for the **ShapeType.Image** it is **true** but for the other shape types it is **false**.
 

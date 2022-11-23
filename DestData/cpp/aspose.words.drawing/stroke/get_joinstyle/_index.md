@@ -15,6 +15,8 @@ Defines the join style of a polyline.
 Aspose::Words::Drawing::JoinStyle Aspose::Words::Drawing::Stroke::get_JoinStyle()
 ```
 
+## Remarks
+
 
 The default value is **Round**.
 

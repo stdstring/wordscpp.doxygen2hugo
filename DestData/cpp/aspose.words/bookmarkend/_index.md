@@ -44,6 +44,8 @@ class BookmarkEnd : public Aspose::Words::Node,
 | [set_Name](./set_name/)(System::String) override | Setter for [Aspose::Words::BookmarkEnd::get_Name](./get_name/). |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+## Remarks
+
 
 A complete bookmark in a Word document consists of a [BookmarkStart](../bookmarkstart/) and a matching [BookmarkEnd](./) with the same bookmark name.
 

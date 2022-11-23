@@ -35,6 +35,8 @@ class LayoutOptions : public System::Object
 | [set_ShowHiddenText](./set_showhiddentext/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText](./get_showhiddentext/). |
 | [set_ShowParagraphMarks](./set_showparagraphmarks/)(bool) | Setter for [Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks](./get_showparagraphmarks/). |
 | [set_TextShaperFactory](./set_textshaperfactory/)(const System::SharedPtr\<Aspose::Words::Shaping::ITextShaperFactory\>\&) | Sets **ITextShaperFactory** implementation used for Advanced Typography rendering features. |
+## Remarks
+
 
 You do not create instances of this class directly. Use the [LayoutOptions](../../aspose.words/document/get_layoutoptions/) property to access layout options for this document.
 

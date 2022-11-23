@@ -15,6 +15,8 @@ Gets or sets distance of the border from text in points.
 double Aspose::Words::BorderCollection::get_DistanceFromText()
 ```
 
+## Remarks
+
 
 Gets the distance from text for the first border.
 

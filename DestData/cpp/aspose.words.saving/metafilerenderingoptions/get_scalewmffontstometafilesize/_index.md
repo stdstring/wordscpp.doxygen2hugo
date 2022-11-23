@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to scale fonts in WMF metafile a
 bool Aspose::Words::Saving::MetafileRenderingOptions::get_ScaleWmfFontsToMetafileSize() const
 ```
 
+## Remarks
+
 
 When WMF metafiles are displayed in MS Word, fonts may be scaled according to actual metafile size on the page.
 

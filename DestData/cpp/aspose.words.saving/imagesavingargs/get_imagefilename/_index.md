@@ -15,6 +15,8 @@ Gets or sets the file name (without path) where the image will be saved to.
 System::String Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName() const
 ```
 
+## Remarks
+
 
 This property allows you to redefine how the image file names are generated during export to HTML.
 

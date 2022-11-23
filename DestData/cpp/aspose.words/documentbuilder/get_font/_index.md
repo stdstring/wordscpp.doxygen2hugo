@@ -15,6 +15,8 @@ Returns an object that represents current font formatting properties.
 System::SharedPtr<Aspose::Words::Font> Aspose::Words::DocumentBuilder::get_Font()
 ```
 
+## Remarks
+
 
 Use **Font** to access and modify font formatting properties.
 

@@ -49,6 +49,8 @@ class CustomXmlPartCollection : public System::Collections::Generic::IEnumerable
 | [iterator_holder_type](./iterator_holder_type/) |  |
 | [virtualized_iterator](./virtualized_iterator/) |  |
 | [virtualized_iterator_element](./virtualized_iterator_element/) |  |
+## Remarks
+
 
 You do not normally need to create instances of this class. You can access custom XML data stored in a document via the [CustomXmlParts](../../aspose.words/document/get_customxmlparts/) property.
 

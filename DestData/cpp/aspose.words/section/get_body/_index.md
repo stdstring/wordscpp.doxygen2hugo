@@ -15,6 +15,8 @@ Returns the **Body** child node of the section.
 System::SharedPtr<Aspose::Words::Body> Aspose::Words::Section::get_Body()
 ```
 
+## Remarks
+
 
 **Body** contains main text of the section.
 

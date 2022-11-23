@@ -15,6 +15,8 @@ Gets or sets the scale factor expressed as a fraction of the image. The default 
 double Aspose::Words::ImageWatermarkOptions::get_Scale() const
 ```
 
+## Remarks
+
 
 Valid values range from 0 to 65.5 inclusive.
 

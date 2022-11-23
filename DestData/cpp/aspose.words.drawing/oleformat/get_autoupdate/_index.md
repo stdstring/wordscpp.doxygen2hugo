@@ -15,6 +15,8 @@ Specifies whether the link to the OLE object is automatically updated or not in 
 bool Aspose::Words::Drawing::OleFormat::get_AutoUpdate()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

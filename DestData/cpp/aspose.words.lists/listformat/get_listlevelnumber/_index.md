@@ -15,6 +15,8 @@ Gets or sets the list level number (0 to 8) for the paragraph.
 int32_t Aspose::Words::Lists::ListFormat::get_ListLevelNumber()
 ```
 
+## Remarks
+
 
 In Word documents, lists may consist of 1 or 9 levels, numbered 0 to 8.
 

@@ -15,6 +15,8 @@ Gets/sets Office [Math](../../) display format type which represents whether an 
 Aspose::Words::Math::OfficeMathDisplayType Aspose::Words::Math::OfficeMath::get_DisplayType()
 ```
 
+## Remarks
+
 
 Display format type has effect for top level Office [Math](../../) only.
 

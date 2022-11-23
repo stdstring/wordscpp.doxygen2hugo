@@ -30,6 +30,8 @@ class BuildingBlockCollection : public Aspose::Words::NodeCollection
 | [Remove](../../aspose.words/nodecollection/remove/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the node from the collection and from the document. |
 | [RemoveAt](../../aspose.words/nodecollection/removeat/)(int32_t) | Removes the node at the specified index from the collection and from the document. |
 | [ToArray](./toarray/)() | Copies all building blocks from the collection to a new array of building blocks. |
+## Remarks
+
 
 You do not create instances of this class directly. To access a collection of building blocks use the [BuildingBlocks](../glossarydocument/get_buildingblocks/) property.
 

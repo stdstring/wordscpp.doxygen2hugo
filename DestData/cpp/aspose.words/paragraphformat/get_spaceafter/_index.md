@@ -15,6 +15,8 @@ Gets or sets the amount of spacing (in points) after the paragraph.
 double Aspose::Words::ParagraphFormat::get_SpaceAfter()
 ```
 
+## Remarks
+
 
 Has no effect when [SpaceAfterAuto](../get_spaceafterauto/) is true.
 

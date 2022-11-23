@@ -15,6 +15,8 @@ Specifies whether the contents of this run shall have right-to-left characterist
 bool Aspose::Words::Font::get_Bidi()
 ```
 
+## Remarks
+
 
 This property, when on, shall not be used with strongly left-to-right text. Any behavior under that condition is unspecified. This property, when off, shall not be used with strong right-to-left text. Any behavior under that condition is unspecified.
 

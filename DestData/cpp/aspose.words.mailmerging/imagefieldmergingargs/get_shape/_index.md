@@ -15,6 +15,8 @@ Specifies the shape that the mail merge engine must insert into the document.
 const System::SharedPtr<Aspose::Words::Drawing::Shape> & Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape() const
 ```
 
+## Remarks
+
 
 When this property is specified, the mail merge engine ignores all other properties like [ImageFileName](../get_imagefilename/) or [ImageStream](../get_imagestream/) and simply inserts the shape into the document.
 

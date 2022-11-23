@@ -15,6 +15,8 @@ Defines the arrowhead width for the end of a stroke.
 Aspose::Words::Drawing::ArrowWidth Aspose::Words::Drawing::Stroke::get_EndArrowWidth()
 ```
 
+## Remarks
+
 
 The default value is **Medium**.
 

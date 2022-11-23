@@ -44,6 +44,8 @@ class CommentRangeEnd : public Aspose::Words::Node,
 | [set_Id](./set_id/)(int32_t) | Setter for [Aspose::Words::CommentRangeEnd::get_Id](./get_id/). |
 | [ToString](../node/tostring/)(Aspose::Words::SaveFormat) | Exports the content of the node into a string in the specified format. |
 | [ToString](../node/tostring/)(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) | Exports the content of the node into a string using the specified save options. |
+## Remarks
+
 
 To create a comment anchored to a region of text, you need to create a [Comment](../comment/) and then create [CommentRangeStart](../commentrangestart/) and [CommentRangeEnd](./) and set their identifiers to the same [Id](../comment/get_id/) value.
 

@@ -15,6 +15,8 @@ Returns or sets an alias (or editing group) which shall be used to determine if 
 Aspose::Words::EditorType Aspose::Words::EditableRange::get_EditorGroup()
 ```
 
+## Remarks
+
 
 Single user and editor group cannot be set simultaneously for the specific editable range, if the one is set, the other will be clear.
 

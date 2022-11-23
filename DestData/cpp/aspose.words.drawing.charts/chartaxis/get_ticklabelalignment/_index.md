@@ -15,6 +15,8 @@ Gets or sets text alignment of axis tick labels.
 Aspose::Words::ParagraphAlignment Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment()
 ```
 
+## Remarks
+
 
 This property has effect only for multi-line labels.
 

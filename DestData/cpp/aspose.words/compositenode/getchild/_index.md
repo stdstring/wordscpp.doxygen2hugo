@@ -25,6 +25,8 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::GetChild(As
 ### ReturnValue
 
 The child node that matches the criteria or null if no matching node is found.
+## Remarks
+
 
 If index is out of range, a null is returned.
 

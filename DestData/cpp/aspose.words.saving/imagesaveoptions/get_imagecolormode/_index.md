@@ -15,6 +15,8 @@ Gets or sets the color mode for the generated images.
 Aspose::Words::Saving::ImageColorMode Aspose::Words::Saving::ImageSaveOptions::get_ImageColorMode() const
 ```
 
+## Remarks
+
 
 This property has effect only when saving to raster image formats.
 

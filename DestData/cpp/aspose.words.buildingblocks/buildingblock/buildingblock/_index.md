@@ -19,6 +19,8 @@ Aspose::Words::BuildingBlocks::BuildingBlock::BuildingBlock(const System::Shared
 | Parameter | Type | Description |
 | --- | --- | --- |
 | glossaryDoc | const System::SharedPtr\<Aspose::Words::BuildingBlocks::GlossaryDocument\>\& | The owner document. |
+## Remarks
+
 
 When [BuildingBlock](../) is created, it belongs to the specified glossary document, but is not yet part of the glossary document and [ParentNode](../../../aspose.words/node/get_parentnode/) is **null**.
 

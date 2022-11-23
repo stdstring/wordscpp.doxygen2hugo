@@ -15,6 +15,8 @@ Allows Microsoft Word and Aspose.Words to automatically resize cells in a table 
 bool Aspose::Words::Tables::Table::get_AllowAutoFit()
 ```
 
+## Remarks
+
 
 The default value is **true**.
 

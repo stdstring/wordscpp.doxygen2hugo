@@ -15,6 +15,8 @@ Returns or sets the distance (in points) between the document text and the botto
 double Aspose::Words::Drawing::ShapeBase::get_DistanceBottom()
 ```
 
+## Remarks
+
 
 The default value is 0.
 

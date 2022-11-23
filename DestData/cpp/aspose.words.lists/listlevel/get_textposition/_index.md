@@ -15,6 +15,8 @@ Returns or sets the position (in points) for the second line of wrapping text fo
 double Aspose::Words::Lists::ListLevel::get_TextPosition() const
 ```
 
+## Remarks
+
 
 [TextPosition](./) corresponds to LeftIndent of the paragraph.
 

@@ -15,6 +15,8 @@ Defines whether the path will be stroked.
 bool Aspose::Words::Drawing::Stroke::get_On()
 ```
 
+## Remarks
+
 
 The default value for a [Shape](../../shape/) is **true**.
 

@@ -15,6 +15,8 @@ Provides access to properties of fonts used in this document.
 System::SharedPtr<Aspose::Words::Fonts::FontInfoCollection> Aspose::Words::DocumentBase::get_FontInfos() const
 ```
 
+## Remarks
+
 
 This collection of font definitions is loaded as is from the document. [Font](../../font/) definitions might be optional, missing or incomplete in some documents.
 

@@ -15,6 +15,8 @@ Gets the product version.
 static System::String Aspose::Words::BuildVersionInfo::get_Version()
 ```
 
+## Remarks
+
 
 The product version is in the "Major.Minor.Hotfix.0" format.
 

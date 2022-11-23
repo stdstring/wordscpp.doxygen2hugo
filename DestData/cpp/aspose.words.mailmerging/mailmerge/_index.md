@@ -60,6 +60,8 @@ class MailMerge : public System::Object
 | [set_UnconditionalMergeFieldsAndRegions](./set_unconditionalmergefieldsandregions/)(bool) | Sets a value indicating whether merge fields and merge regions are merged regardless of the parent IF field's condition. |
 | [set_UseNonMergeFields](./set_usenonmergefields/)(bool) | Setter for [Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields](./get_usenonmergefields/). |
 | [set_UseWholeParagraphAsRegion](./set_usewholeparagraphasregion/)(bool) | Sets a value indicating whether whole paragraph with TableStart or TableEnd field or particular range between TableStart and TableEnd fields should be included into mail merge region. |
+## Remarks
+
 
 For mail merge operation to work, the document should contain Word MERGEFIELD and optionally NEXT fields. During mail merge operation, merge fields in the document are replaced with values from your data source.
 

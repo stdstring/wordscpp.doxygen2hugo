@@ -15,6 +15,8 @@ Gets or sets the description associated with this building block.
 System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Description() const
 ```
 
+## Remarks
+
 
 The description may contain any string content, usually additional information.
 

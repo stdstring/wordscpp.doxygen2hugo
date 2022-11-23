@@ -15,6 +15,8 @@ True if the font is formatted as small capital letters.
 bool Aspose::Words::Drawing::TextPath::get_SmallCaps()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

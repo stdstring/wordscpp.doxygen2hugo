@@ -15,6 +15,8 @@ Gets the text of this node and of all its children.
 virtual System::String Aspose::Words::Node::GetText()
 ```
 
+## Remarks
+
 
 The returned string includes all control and special characters as described in [ControlChar](../../controlchar/).
 

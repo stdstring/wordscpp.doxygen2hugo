@@ -15,6 +15,8 @@ Determines how text wraps inside a shape.
 Aspose::Words::Drawing::TextBoxWrapMode Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode()
 ```
 
+## Remarks
+
 
 The default value is **Square**.
 

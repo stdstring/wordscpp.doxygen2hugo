@@ -15,6 +15,8 @@ Gets or sets the brush color that fills the horizontal rule.
 System::Drawing::Color Aspose::Words::Drawing::HorizontalRuleFormat::get_Color()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [Color](../../fill/get_color/) property.
 

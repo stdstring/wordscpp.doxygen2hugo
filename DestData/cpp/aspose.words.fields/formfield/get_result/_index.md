@@ -15,6 +15,8 @@ Gets or sets a string that represents the result of this form field.
 System::String Aspose::Words::Fields::FormField::get_Result()
 ```
 
+## Remarks
+
 
 For a text form field the result is the text that is in the field.
 

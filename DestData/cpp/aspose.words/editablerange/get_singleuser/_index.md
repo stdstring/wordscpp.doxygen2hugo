@@ -15,6 +15,8 @@ Returns or sets the single user for editable range.
 System::String Aspose::Words::EditableRange::get_SingleUser()
 ```
 
+## Remarks
+
 
 This editor can be stored in one of the following forms:
 

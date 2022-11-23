@@ -59,6 +59,8 @@ enum class BuildingBlockGallery
 | Watermarks | 37 |  |
 | Default | n/a | Same as **All**. |
 
+## Remarks
+
 
 Corresponds to the **ST_DocPartGallery** type in OOXML.
 

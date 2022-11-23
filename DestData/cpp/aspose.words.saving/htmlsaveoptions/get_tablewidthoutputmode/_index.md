@@ -15,6 +15,8 @@ Controls how table, row and cell widths are exported to HTML, MHTML or EPUB. Def
 Aspose::Words::Saving::HtmlElementSizeOutputMode Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode() const
 ```
 
+## Remarks
+
 
 In the HTML format, table, row and cell elements (**%<table>**, **%<tr>**, **%<th>**, **%<td>**) can have their widths specified either in relative (percentage) or in absolute units. In a document in Aspose.Words, tables, rows and cells can have their widths specified using either relative or absolute units too.
 

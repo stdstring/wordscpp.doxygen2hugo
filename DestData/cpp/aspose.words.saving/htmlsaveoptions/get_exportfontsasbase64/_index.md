@@ -15,6 +15,8 @@ Specifies whether fonts resources should be embedded to HTML in Base64 encoding.
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontsAsBase64() const
 ```
 
+## Remarks
+
 
 By default, fonts are written to separate files. If this option is set to **true**, fonts will be embedded into the document's CSS in Base64 encoding.
 

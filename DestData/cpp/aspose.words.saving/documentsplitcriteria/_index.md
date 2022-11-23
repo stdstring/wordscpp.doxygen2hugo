@@ -25,6 +25,8 @@ enum class DocumentSplitCriteria
 | SectionBreak | 4 | The document is split into parts at a section break of any type. |
 | HeadingParagraph | 8 | The document is split into parts at a paragraph formatted using a heading style **Heading 1**, **Heading 2** etc. Use together with [DocumentSplitHeadingLevel](../htmlsaveoptions/get_documentsplitheadinglevel/) to specify the heading levels (from 1 to the specified level) at which to split. |
 
+## Remarks
+
 
 [DocumentSplitCriteria](./) is a set of flags which can be combined. For instance you can split the document at page breaks and heading paragraphs in the same export operation.
 

@@ -23,6 +23,8 @@ enum class ListLevelAlignment
 | Center | 1 | The list label is centered at the number position. |
 | Right | 2 | This list label is aligned to the right of the number position. |
 
+## Remarks
+
 
 Used as a value for the [Alignment](../listlevel/get_alignment/) property.
 

@@ -15,6 +15,8 @@ Defines the arrowhead for the start of a stroke.
 Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Stroke::get_StartArrowType()
 ```
 
+## Remarks
+
 
 The default value is **None**.
 

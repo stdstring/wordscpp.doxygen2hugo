@@ -15,6 +15,8 @@ Gets the character formatting of the style.
 System::SharedPtr<Aspose::Words::Font> Aspose::Words::Style::get_Font()
 ```
 
+## Remarks
+
 
 For list styles this property returns null.
 

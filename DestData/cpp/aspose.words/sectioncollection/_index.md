@@ -30,6 +30,8 @@ class SectionCollection : public Aspose::Words::NodeCollection
 | [Remove](../nodecollection/remove/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Removes the node from the collection and from the document. |
 | [RemoveAt](../nodecollection/removeat/)(int32_t) | Removes the node at the specified index from the collection and from the document. |
 | [ToArray](./toarray/)() | Copies all sections from the collection to a new array of sections. |
+## Remarks
+
 
 A Microsoft Word document can contain multiple sections. To create a section in a Microsoft Word, select the Insert/Break command and select a break type. The break specifies whether section starts on a new page or on the same page.
 

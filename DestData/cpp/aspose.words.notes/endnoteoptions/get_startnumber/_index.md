@@ -15,6 +15,8 @@ Specifies the starting number or character for the first automatically numbered 
 int32_t Aspose::Words::Notes::EndnoteOptions::get_StartNumber() override
 ```
 
+## Remarks
+
 
 This property has effect only when [RestartRule](../get_restartrule/) is set to **Continuous**.
 

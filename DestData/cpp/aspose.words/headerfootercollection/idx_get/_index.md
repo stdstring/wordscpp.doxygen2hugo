@@ -91,6 +91,8 @@ System::SharedPtr<Aspose::Words::HeaderFooter> Aspose::Words::HeaderFooterCollec
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
+## Remarks
+
 
 The index is zero-based.
 

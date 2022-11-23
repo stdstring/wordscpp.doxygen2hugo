@@ -15,6 +15,8 @@ Gets or sets the justification of the actual number of the list item.
 Aspose::Words::Lists::ListLevelAlignment Aspose::Words::Lists::ListLevel::get_Alignment() const
 ```
 
+## Remarks
+
 
 The list label is justified relative to the [NumberPosition](../get_numberposition/) property.
 

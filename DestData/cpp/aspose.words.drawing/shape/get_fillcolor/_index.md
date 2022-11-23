@@ -15,6 +15,8 @@ Defines the brush color that fills the closed path of the shape.
 System::Drawing::Color Aspose::Words::Drawing::Shape::get_FillColor()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [Color](../../fill/get_color/) property.
 

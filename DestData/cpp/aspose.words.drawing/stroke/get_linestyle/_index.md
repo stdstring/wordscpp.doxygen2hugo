@@ -15,6 +15,8 @@ Defines the line style of the stroke.
 Aspose::Words::Drawing::ShapeLineStyle Aspose::Words::Drawing::Stroke::get_LineStyle()
 ```
 
+## Remarks
+
 
 The default value is **Single**.
 

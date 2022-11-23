@@ -15,6 +15,8 @@ Gets or sets whether this is a right-to-left paragraph.
 bool Aspose::Words::ParagraphFormat::get_Bidi()
 ```
 
+## Remarks
+
 
 When true, the runs and other inline objects in this paragraph are laid out right to left.
 

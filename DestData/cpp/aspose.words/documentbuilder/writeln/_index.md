@@ -15,6 +15,8 @@ Inserts a paragraph break into the document.
 void Aspose::Words::DocumentBuilder::Writeln()
 ```
 
+## Remarks
+
 
 Calls [InsertParagraph](../insertparagraph/). 
 ## DocumentBuilder::Writeln(const System::String\&) method

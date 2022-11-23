@@ -15,6 +15,8 @@ Specifies the maximum level of headings at which to split the document. Default 
 int32_t Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel() const
 ```
 
+## Remarks
+
 
 When [DocumentSplitCriteria](../get_documentsplitcriteria/) includes **HeadingParagraph** and this property is set to a value from 1 to 9, the document will be split at paragraphs formatted using **Heading 1**, **Heading 2** , **Heading 3** etc. styles up to the specified heading level.
 

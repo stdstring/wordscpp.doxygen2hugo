@@ -15,6 +15,8 @@ Determines whether kerning is turned on.
 bool Aspose::Words::Drawing::TextPath::get_Kerning()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

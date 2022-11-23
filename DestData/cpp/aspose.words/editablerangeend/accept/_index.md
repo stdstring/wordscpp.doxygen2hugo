@@ -23,6 +23,8 @@ bool Aspose::Words::EditableRangeEnd::Accept(System::SharedPtr<Aspose::Words::Do
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [VisitEditableRangeEnd()](../../documentvisitor/visiteditablerangeend/).
 

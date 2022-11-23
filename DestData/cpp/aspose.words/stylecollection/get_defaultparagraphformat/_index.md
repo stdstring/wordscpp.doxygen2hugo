@@ -15,6 +15,8 @@ Gets document default paragraph formatting.
 System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::StyleCollection::get_DefaultParagraphFormat()
 ```
 
+## Remarks
+
 
 Note that document-wide defaults were introduced in Microsoft Word 2007 and are fully supported in OOXML formats (**Docx**) only. Earlier document formats have no support for document default paragraph formatting.
 

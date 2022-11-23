@@ -15,6 +15,8 @@ Gets or sets the heading level style that is applied to the chapter titles in th
 int32_t Aspose::Words::PageSetup::get_HeadingLevelForChapter()
 ```
 
+## Remarks
+
 
 Can be a number from 0 through 9. 0 means no chapter number if applied to page number.
 

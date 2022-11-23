@@ -15,6 +15,8 @@ Gets or sets a value that specifies whether this shape can overlap other shapes.
 bool Aspose::Words::Drawing::ShapeBase::get_AllowOverlap()
 ```
 
+## Remarks
+
 
 This property affects behavior of the shape in Microsoft Word. Aspose.Words ignores the value of this property.
 

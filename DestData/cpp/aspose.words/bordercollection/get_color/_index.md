@@ -15,6 +15,8 @@ Gets or sets the border color.
 System::Drawing::Color Aspose::Words::BorderCollection::get_Color()
 ```
 
+## Remarks
+
 
 Returns the color of the first border in the collection.
 

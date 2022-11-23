@@ -15,6 +15,8 @@ Gets or sets the encoding that will be used to load an HTML, TXT, or CHM documen
 System::SharedPtr<System::Text::Encoding> Aspose::Words::Loading::LoadOptions::get_Encoding() const
 ```
 
+## Remarks
+
 
 This property is used only when loading HTML, TXT, or CHM documents.
 

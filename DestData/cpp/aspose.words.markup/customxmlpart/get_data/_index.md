@@ -15,6 +15,8 @@ Gets or sets the XML content of this Custom XML Data Storage Part.
 System::ArrayPtr<uint8_t> Aspose::Words::Markup::CustomXmlPart::get_Data() const
 ```
 
+## Remarks
+
 
 The default value is an empty byte array. The value cannot be **null**.
 

@@ -15,6 +15,8 @@ Specifies the physical folder where resources (images, fonts, css) are saved whe
 System::String Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourcesFolder() const
 ```
 
+## Remarks
+
 
 Has effect only if [ExportEmbeddedImages](../get_exportembeddedimages/) property is false.
 

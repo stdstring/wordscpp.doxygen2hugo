@@ -15,6 +15,8 @@ The coordinates at the top-left corner of the containing block of this shape.
 System::Drawing::Point Aspose::Words::Drawing::ShapeBase::get_CoordOrigin()
 ```
 
+## Remarks
+
 
 The default value is (0,0).
 

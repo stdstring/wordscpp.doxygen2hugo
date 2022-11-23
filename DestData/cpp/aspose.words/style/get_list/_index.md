@@ -15,6 +15,8 @@ Gets the list that defines formatting of this list style.
 System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Style::get_List()
 ```
 
+## Remarks
+
 
 This property is only valid for list styles. For other style types this property returns null.
 

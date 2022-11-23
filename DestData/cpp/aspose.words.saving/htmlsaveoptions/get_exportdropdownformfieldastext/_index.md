@@ -15,6 +15,8 @@ Controls how drop-down form fields are saved to HTML or MHTML. Default value is 
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportDropDownFormFieldAsText() const
 ```
 
+## Remarks
+
 
 When set to **true**, exports drop-down form fields as normal text. When **false**, exports drop-down form fields as SELECT element in HTML.
 

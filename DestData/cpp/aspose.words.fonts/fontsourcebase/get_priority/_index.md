@@ -15,6 +15,8 @@ Returns the font source priority.
 int32_t Aspose::Words::Fonts::FontSourceBase::get_Priority() const
 ```
 
+## Remarks
+
 
 This value is used when there are fonts with the same family name and style in different font sources. In this case Aspose.Words selects the font from the source with the higher priority value.
 

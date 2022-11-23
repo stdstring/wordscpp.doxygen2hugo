@@ -31,6 +31,8 @@ class FrameFormat : public System::Object
 | [get_VerticalDistanceFromText](./get_verticaldistancefromtext/)() | Specifies vertical distance (in points) between a frame and the surrounding text. |
 | [get_VerticalPosition](./get_verticalposition/)() | Gets vertical distance between the edge of the frame and the item specified by the [RelativeVerticalPosition](./get_relativeverticalposition/) property. |
 | [get_Width](./get_width/)() | Gets the width of the specified frame, in points. |
+## Remarks
+
 
 This object is always created. If a paragraph is a frame, then all properties will contain respective values, otherwise all properties are set to their defaults.
 

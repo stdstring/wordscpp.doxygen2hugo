@@ -27,6 +27,8 @@ class LayoutCollector : public System::Object
 | [GetStartPageIndex](./getstartpageindex/)(const System::SharedPtr\<Aspose::Words::Node\>\&) | Gets 1-based index of the page where node begins. Returns 0 if node cannot be mapped to a page. |
 | [LayoutCollector](./layoutcollector/)(const System::SharedPtr\<Aspose::Words::Document\>\&) | Initializes an instance of this class. |
 | [set_Document](./set_document/)(const System::SharedPtr\<Aspose::Words::Document\>\&) | Setter for [Aspose::Words::Layout::LayoutCollector::get_Document](./get_document/). |
+## Remarks
+
 
 When you create a [LayoutCollector](./) and specify a [Document](../../aspose.words/document/) document object to attach to, the collector will record mapping of document nodes to layout objects when the document is formatted into pages.
 

@@ -15,6 +15,8 @@ Gets a collection of revisions (tracked changes) that exist in this document.
 System::SharedPtr<Aspose::Words::RevisionCollection> Aspose::Words::Document::get_Revisions()
 ```
 
+## Remarks
+
 
 The returned collection is a "live" collection, which means if you remove parts of a document that contain revisions, the deleted revisions will automatically disappear from this collection.
 

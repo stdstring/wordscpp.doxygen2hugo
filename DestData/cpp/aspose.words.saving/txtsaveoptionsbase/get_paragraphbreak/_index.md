@@ -15,6 +15,8 @@ Specifies the string to use as a paragraph break when exporting in text formats.
 System::String Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak() const
 ```
 
+## Remarks
+
 
 The default value is [CrLf](../../../aspose.words/controlchar/crlf/).
 

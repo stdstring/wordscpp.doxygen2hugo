@@ -15,6 +15,8 @@ Specifies document headings and their names.
 System::ArrayPtr<System::SharedPtr<System::Object>> Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs()
 ```
 
+## Remarks
+
 
 Every heading pair occupies two elements in this array.
 

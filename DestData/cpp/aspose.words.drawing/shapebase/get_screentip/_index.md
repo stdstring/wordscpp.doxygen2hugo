@@ -15,6 +15,8 @@ Defines the text displayed when the mouse pointer moves over the shape.
 System::String Aspose::Words::Drawing::ShapeBase::get_ScreenTip()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

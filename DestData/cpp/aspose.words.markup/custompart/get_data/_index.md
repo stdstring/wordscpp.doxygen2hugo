@@ -15,6 +15,8 @@ Contains the data of this custom part.
 System::ArrayPtr<uint8_t> Aspose::Words::Markup::CustomPart::get_Data() const
 ```
 
+## Remarks
+
 
 This property is applicable only when [IsExternal](../get_isexternal/) is **false**.
 

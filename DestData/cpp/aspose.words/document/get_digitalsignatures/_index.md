@@ -15,6 +15,8 @@ Gets the collection of digital signatures for this document and their validation
 System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureCollection> Aspose::Words::Document::get_DigitalSignatures() const
 ```
 
+## Remarks
+
 
 This collection contains digital signatures that were loaded from the original document. These digital signatures will not be saved when you save this [Document](../) object into a file or stream because saving or converting will produce a document that is different from the original and the original digital signatures will no longer be valid.
 

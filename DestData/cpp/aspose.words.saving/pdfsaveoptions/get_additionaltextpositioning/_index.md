@@ -15,6 +15,8 @@ A flag specifying whether to write additional text positioning operators or not.
 bool Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning() const
 ```
 
+## Remarks
+
 
 If **true**, additional text positioning operators are written to the output PDF. This may help to overcome issues with inaccurate text positioning with some printers. The downside is the increased PDF document size.
 

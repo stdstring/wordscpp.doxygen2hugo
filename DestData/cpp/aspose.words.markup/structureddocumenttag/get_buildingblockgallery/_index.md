@@ -15,6 +15,8 @@ Specifies type of building block for this **SDT**. Can not be null.
 System::String Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGallery()
 ```
 
+## Remarks
+
 
 Accessing this property will only work for **BuildingBlockGallery** and **DocPartObj** SDT types. It is read-only for **SDT** of the document part type.
 

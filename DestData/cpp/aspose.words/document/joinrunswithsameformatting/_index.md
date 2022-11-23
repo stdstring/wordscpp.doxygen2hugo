@@ -19,6 +19,8 @@ int32_t Aspose::Words::Document::JoinRunsWithSameFormatting()
 ### ReturnValue
 
 Number of joins performed. When **N** adjacent runs are being joined they count as **N - 1** joins.
+## Remarks
+
 
 This is an optimization method. Some documents contain adjacent runs with same formatting. Usually this occurs if a document was intensively edited manually. You can reduce the document size and speed up further processing by joining these runs.
 

@@ -15,6 +15,8 @@ Gets or sets the location and size of the containing block of the shape.
 System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_Bounds()
 ```
 
+## Remarks
+
 
 Ignores aspect ratio lock upon setting.
 

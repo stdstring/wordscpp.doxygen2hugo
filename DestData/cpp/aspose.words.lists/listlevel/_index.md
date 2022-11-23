@@ -49,6 +49,8 @@ class ListLevel : public Aspose::Words::IRunAttrSource
 | [set_TabPosition](./set_tabposition/)(double) | Setter for [Aspose::Words::Lists::ListLevel::get_TabPosition](./get_tabposition/). |
 | [set_TextPosition](./set_textposition/)(double) | Setter for [Aspose::Words::Lists::ListLevel::get_TextPosition](./get_textposition/). |
 | [set_TrailingCharacter](./set_trailingcharacter/)(Aspose::Words::Lists::ListTrailingCharacter) | Setter for [Aspose::Words::Lists::ListLevel::get_TrailingCharacter](./get_trailingcharacter/). |
+## Remarks
+
 
 You do not create objects of this class. [List](../list/) level objects are created automatically when a list is created. You access [ListLevel](./) objects via the [ListLevelCollection](../listlevelcollection/) collection.
 

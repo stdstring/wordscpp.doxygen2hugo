@@ -20,6 +20,8 @@ Aspose::Words::CommentRangeEnd::CommentRangeEnd(const System::SharedPtr<Aspose::
 | --- | --- | --- |
 | doc | const System::SharedPtr\<Aspose::Words::DocumentBase\>\& | The owner document. |
 | id | int32_t | The comment identifier to which this object is linked. |
+## Remarks
+
 
 When [CommentRangeEnd](../) is created, it belongs to the specified document, but is not yet part of the document and [ParentNode](../../node/get_parentnode/) is null.
 

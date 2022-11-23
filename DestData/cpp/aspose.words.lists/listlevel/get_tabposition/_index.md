@@ -15,6 +15,8 @@ Returns or sets the tab position (in points) for the list level.
 double Aspose::Words::Lists::ListLevel::get_TabPosition() const
 ```
 
+## Remarks
+
 
 Has effect only when [TrailingCharacter](../get_trailingcharacter/) is a tab.
 

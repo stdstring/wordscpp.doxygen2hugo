@@ -23,6 +23,8 @@ System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 The bookmark start node that was just created.
+## Remarks
+
 
 A column bookmark covers one or more columns in a range of rows. To create a valid bookmark you need to call both **StartColumnBookmark()** and **EndColumnBookmark()** with the same **bookmarkName** parameter.
 

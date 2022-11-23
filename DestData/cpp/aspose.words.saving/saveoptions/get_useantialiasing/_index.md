@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to use anti-aliasing for renderi
 bool Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing() const
 ```
 
+## Remarks
+
 
 The default value is **false**. When this value is set to **true** anti-aliasing is used for rendering.
 

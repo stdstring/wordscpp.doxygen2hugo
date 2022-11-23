@@ -15,6 +15,8 @@ Gets or sets the interval, at which tick marks are drawn.
 int32_t Aspose::Words::Drawing::Charts::ChartAxis::get_TickMarkSpacing()
 ```
 
+## Remarks
+
 
 The property has effect for text category and series axes. It is not supported by MS Office 2016 new charts.
 

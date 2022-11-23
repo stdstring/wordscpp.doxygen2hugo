@@ -23,6 +23,8 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 ### ReturnValue
 
 A [FileFormatInfo](../../fileformatinfo/) object that contains the detected information.
+## Remarks
+
 
 The stream must be positioned at the beginning of the document.
 
@@ -80,6 +82,8 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 ### ReturnValue
 
 A [FileFormatInfo](../../fileformatinfo/) object that contains the detected information.
+## Remarks
+
 
 Even if this method detects the document format, it does not guarantee that the specified document is valid. This method only detects the document format by reading data that is sufficient for detection. To fully verify that a document is valid you need to load the document into a [Document](../../document/) object.
 

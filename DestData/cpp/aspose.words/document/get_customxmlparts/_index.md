@@ -15,6 +15,8 @@ Gets or sets the collection of Custom XML Data Storage Parts.
 System::SharedPtr<Aspose::Words::Markup::CustomXmlPartCollection> Aspose::Words::Document::get_CustomXmlParts() const
 ```
 
+## Remarks
+
 
 Aspose.Words loads and saves Custom XML Parts into OOXML and DOC documents only.
 

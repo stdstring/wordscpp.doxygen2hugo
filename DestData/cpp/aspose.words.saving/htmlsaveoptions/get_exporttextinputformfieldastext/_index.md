@@ -15,6 +15,8 @@ Controls how text input form fields are saved to HTML or MHTML. Default value is
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportTextInputFormFieldAsText() const
 ```
 
+## Remarks
+
 
 When set to **true**, exports text input form fields as normal text. When **false**, exports Word text input form fields as INPUT elements in HTML.
 

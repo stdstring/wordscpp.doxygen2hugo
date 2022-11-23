@@ -15,6 +15,8 @@ Returns or sets the distance (in points) between the document text and the top e
 double Aspose::Words::Drawing::ShapeBase::get_DistanceTop()
 ```
 
+## Remarks
+
 
 The default value is 0.
 

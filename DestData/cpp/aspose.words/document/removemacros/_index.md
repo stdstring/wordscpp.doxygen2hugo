@@ -15,6 +15,8 @@ Removes all macros (the VBA project) as well as toolbars and command customizati
 void Aspose::Words::Document::RemoveMacros()
 ```
 
+## Remarks
+
 
 By removing all macros from a document you can ensure the document contains no macro viruses.
 

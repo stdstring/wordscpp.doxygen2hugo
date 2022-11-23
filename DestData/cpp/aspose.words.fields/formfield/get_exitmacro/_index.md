@@ -15,6 +15,8 @@ Returns or sets an exit macro name for the form field.
 System::String Aspose::Words::Fields::FormField::get_ExitMacro()
 ```
 
+## Remarks
+
 
 The exit macro runs when the form field loses the focus in Microsoft Word.
 

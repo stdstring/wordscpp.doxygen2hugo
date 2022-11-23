@@ -15,6 +15,8 @@ Gets or sets the target frame for the shape hyperlink.
 System::String Aspose::Words::Drawing::ShapeBase::get_Target()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 

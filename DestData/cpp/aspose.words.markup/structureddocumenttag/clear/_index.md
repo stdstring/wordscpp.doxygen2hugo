@@ -15,6 +15,8 @@ Clears contents of this structured document tag and displays a placeholder if it
 void Aspose::Words::Markup::StructuredDocumentTag::Clear()
 ```
 
+## Remarks
+
 
 It is not possible to clear contents of a structured document tag if it has revisions.
 

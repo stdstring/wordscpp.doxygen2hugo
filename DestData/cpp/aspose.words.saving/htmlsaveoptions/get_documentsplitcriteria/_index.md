@@ -15,6 +15,8 @@ Specifies how the document should be split when saving to **Html**, **Epub** or 
 Aspose::Words::Saving::DocumentSplitCriteria Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria() const
 ```
 
+## Remarks
+
 
 Normally you would want a document saved to HTML as a single file. But in some cases it is preferable to split the output into several smaller HTML pages. When saving to HTML format these pages will be output to individual files or streams. When saving to EPUB format they will be incorporated into corresponding packages.
 

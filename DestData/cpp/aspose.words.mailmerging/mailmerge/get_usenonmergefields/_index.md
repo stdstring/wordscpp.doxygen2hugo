@@ -15,6 +15,8 @@ When true, specifies that in addition to MERGEFIELD fields, mail merge is perfor
 bool Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields() const
 ```
 
+## Remarks
+
 
 Normally, mail merge is only performed into MERGEFIELD fields, but several customers had their reporting built using other fields and had many documents created this way. To simplify migration (and because this approach was independently used by several customers) the ability to mail merge into other fields was introduced.
 

@@ -15,6 +15,8 @@ Indicates whether hyperlinks in a document are up-to-date.
 bool Aspose::Words::Properties::BuiltInDocumentProperties::get_LinksUpToDate()
 ```
 
+## Remarks
+
 
 Aspose.Words does not update this property.
 

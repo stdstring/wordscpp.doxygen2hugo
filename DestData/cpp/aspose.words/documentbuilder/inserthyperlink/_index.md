@@ -25,6 +25,8 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
+## Remarks
+
 
 Note that you need to specify font formatting for the hyperlink display text explicitly using the [Font](../get_font/) property.
 

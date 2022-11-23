@@ -15,6 +15,8 @@ Identifies, by name, a captured group in the [Match](../get_match/) that is to b
 System::String Aspose::Words::Replacing::ReplacingArgs::get_GroupName() const
 ```
 
+## Remarks
+
 
 When group name is null, [GroupIndex](../get_groupindex/) is used to identify the group.
 

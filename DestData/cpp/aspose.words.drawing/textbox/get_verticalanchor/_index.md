@@ -15,6 +15,8 @@ Specifies the vertical alignment of the text within a shape.
 Aspose::Words::Drawing::TextBoxAnchor Aspose::Words::Drawing::TextBox::get_VerticalAnchor()
 ```
 
+## Remarks
+
 
 The default value is **Top**.
 

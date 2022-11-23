@@ -23,6 +23,8 @@ bool Aspose::Words::DocumentBuilder::MoveToBookmark(const System::String &bookma
 ### ReturnValue
 
 True if the bookmark was found; false otherwise.
+## Remarks
+
 
 Moves the cursor to a position just after the start of the bookmark with the specified name.
 
@@ -103,6 +105,8 @@ bool Aspose::Words::DocumentBuilder::MoveToBookmark(const System::String &bookma
 ### ReturnValue
 
 True if the bookmark was found; false otherwise.
+## Remarks
+
 
 Moves the cursor to a position before or after the bookmark start or end.
 

@@ -15,6 +15,8 @@ Gets the actual bounds of the shape in points.
 System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::get_BoundsInPoints() const
 ```
 
+## Remarks
+
 
 This property returns the actual (as rendered on the page) bounding box of the shape. The bounds takes into account shape rotation (if any).
 

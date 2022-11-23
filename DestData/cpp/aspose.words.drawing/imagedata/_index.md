@@ -59,6 +59,8 @@ class ImageData : public Aspose::Words::IBorderAttrSource
 | [ToByteArray](./tobytearray/)() | Returns image bytes for any image regardless whether the image is stored or linked. |
 | [ToImage](./toimage/)() | Gets the image stored in the shape as a **Image** object. |
 | [ToStream](./tostream/)() | Creates and returns a stream that contains the image bytes. |
+## Remarks
+
 
 Use the [ImageData](../shape/get_imagedata/) property to access and modify the image inside a shape. You do not create instances of the [ImageData](./) class directly.
 

@@ -15,6 +15,8 @@ A quick way to determine if this shape is positioned inline with text.
 bool Aspose::Words::Drawing::ShapeBase::get_IsInline()
 ```
 
+## Remarks
+
 
 Has effect only for top level shapes.
 

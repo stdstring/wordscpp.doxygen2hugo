@@ -15,6 +15,8 @@ Gets the editable range identifier.
 int32_t Aspose::Words::EditableRange::get_Id()
 ```
 
+## Remarks
+
 
 The region must be demarcated using the [EditableRangeStart](../get_editablerangestart/) and [EditableRangeEnd](../get_editablerangeend/)
 

@@ -15,6 +15,8 @@ Gets or sets the vertical resolution for the generated images, in dots per inch.
 float Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution() const
 ```
 
+## Remarks
+
 
 This property has effect only when saving to raster image formats and affects the output size in pixels.
 

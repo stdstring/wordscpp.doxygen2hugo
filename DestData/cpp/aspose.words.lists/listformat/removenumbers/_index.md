@@ -15,6 +15,8 @@ Removes numbers or bullets from the current paragraph and sets list level to zer
 void Aspose::Words::Lists::ListFormat::RemoveNumbers()
 ```
 
+## Remarks
+
 
 Calling this method is equivalent to setting the [List](../get_list/) property to null.
 

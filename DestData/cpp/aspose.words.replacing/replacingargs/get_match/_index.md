@@ -15,6 +15,8 @@ The **Match** resulting from a single regular expression match during a **Replac
 System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replacing::ReplacingArgs::get_Match() const
 ```
 
+## Remarks
+
 
 **Match.Index"</b>
 gets the zero-based starting

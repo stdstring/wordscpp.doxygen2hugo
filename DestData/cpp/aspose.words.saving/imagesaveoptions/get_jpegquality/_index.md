@@ -15,6 +15,8 @@ Gets or sets a value determining the quality of the generated JPEG images.
 int32_t Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality()
 ```
 
+## Remarks
+
 
 Has effect only when saving to JPEG.
 

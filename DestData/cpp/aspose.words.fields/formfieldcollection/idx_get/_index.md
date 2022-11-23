@@ -166,6 +166,8 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::Fields::FormF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
+## Remarks
+
 
 The index is zero-based.
 

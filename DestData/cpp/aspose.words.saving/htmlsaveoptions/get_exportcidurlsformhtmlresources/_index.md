@@ -15,6 +15,8 @@ Specifies whether to use CID (Content-ID) URLs to reference resources (images, f
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources() const
 ```
 
+## Remarks
+
 
 This option affects only documents being saved to MHTML.
 

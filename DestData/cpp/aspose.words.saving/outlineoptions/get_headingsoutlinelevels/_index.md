@@ -15,6 +15,8 @@ Specifies how many levels of headings (paragraphs formatted with the Heading sty
 int32_t Aspose::Words::Saving::OutlineOptions::get_HeadingsOutlineLevels() const
 ```
 
+## Remarks
+
 
 Specify 0 for no headings in the outline; specify 1 for one level of headings in the outline and so on.
 

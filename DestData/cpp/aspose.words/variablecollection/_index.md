@@ -50,6 +50,8 @@ class VariableCollection : public System::Collections::Generic::IEnumerable<Syst
 | [iterator_holder_type](./iterator_holder_type/) |  |
 | [virtualized_iterator](./virtualized_iterator/) |  |
 | [virtualized_iterator_element](./virtualized_iterator_element/) |  |
+## Remarks
+
 
 Variable names and values are strings.
 

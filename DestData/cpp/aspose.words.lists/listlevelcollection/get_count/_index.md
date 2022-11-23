@@ -15,6 +15,8 @@ Gets the number of levels in this list.
 int32_t Aspose::Words::Lists::ListLevelCollection::get_Count()
 ```
 
+## Remarks
+
 
 There could be 1 or 9 levels in a list.
 

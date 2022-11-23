@@ -24,6 +24,8 @@ class FontSubstitutionSettings : public System::Object
 | [get_FontInfoSubstitution](./get_fontinfosubstitution/)() const | [Settings](../../aspose.words.settings/) related to font info substitution rule. |
 | [get_FontNameSubstitution](./get_fontnamesubstitution/)() const | [Settings](../../aspose.words.settings/) related to font name substitution rule. |
 | [get_TableSubstitution](./get_tablesubstitution/)() const | [Settings](../../aspose.words.settings/) related to table substitution rule. |
+## Remarks
+
 
 [Font](../../aspose.words/font/) substitution process consists of several rules which are checked one by one in specific order. If the first rule can't resolve the font then second rule is checked and so on.
 

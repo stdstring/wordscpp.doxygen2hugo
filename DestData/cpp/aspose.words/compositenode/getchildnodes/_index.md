@@ -24,6 +24,8 @@ System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::CompositeNode::G
 ### ReturnValue
 
 A live collection of child nodes of the specified type.
+## Remarks
+
 
 The collection of nodes returned by this method is always live.
 

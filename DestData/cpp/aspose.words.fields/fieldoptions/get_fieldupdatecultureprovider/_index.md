@@ -15,6 +15,8 @@ Gets or sets a provider that returns a culture object specific for each particul
 const System::SharedPtr<Aspose::Words::Fields::IFieldUpdateCultureProvider> & Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider() const
 ```
 
+## Remarks
+
 
 The provider is requested when the value of [FieldUpdateCultureSource](../get_fieldupdateculturesource/) is **FieldUpdateCultureSource.FieldCode**.
 

@@ -15,6 +15,8 @@ Determines whether extra space is removed above and below the text.
 bool Aspose::Words::Drawing::TextPath::get_Trim()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 

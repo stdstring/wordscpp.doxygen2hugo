@@ -15,6 +15,8 @@ True if the font is formatted as italic.
 bool Aspose::Words::Drawing::TextPath::get_Italic()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 
