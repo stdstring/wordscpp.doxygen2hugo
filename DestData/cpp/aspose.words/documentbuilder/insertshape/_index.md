@@ -35,7 +35,6 @@ The shape node that was inserted.
 
 
 
-
 Shows how to insert DML shapes into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,7 +77,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 The shape node that was inserted.
 
 ## Examples
-
 
 
 

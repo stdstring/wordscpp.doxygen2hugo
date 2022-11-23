@@ -20,7 +20,6 @@ Aspose::Words::Loading::EditingLanguage Aspose::Words::Loading::LanguagePreferen
 
 
 
-
 Shows how set a default language when loading a document. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();

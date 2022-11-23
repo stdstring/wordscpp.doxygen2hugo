@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_ComplexScript()
 
 
 
-
 Shows how to add text that is always treated as complex script. 
 ```cpp
 auto doc = MakeObject<Document>();

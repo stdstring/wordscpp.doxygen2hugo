@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Fields::Field::Remove()
 
 
 
-
 Shows how to remove fields from a field collection. 
 ```cpp
 auto doc = MakeObject<Document>();

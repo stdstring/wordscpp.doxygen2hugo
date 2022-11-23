@@ -20,7 +20,6 @@ Aspose::Words::LineNumberRestartMode Aspose::Words::PageSetup::get_LineNumberRes
 
 
 
-
 Shows how to enable line numbering for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

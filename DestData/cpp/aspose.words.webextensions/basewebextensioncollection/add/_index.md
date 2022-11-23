@@ -24,7 +24,6 @@ void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Add(T item)
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

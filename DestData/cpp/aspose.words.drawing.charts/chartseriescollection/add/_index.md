@@ -24,7 +24,6 @@ Recently added [ChartSeries](../../chartseries/) object.
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -116,7 +115,6 @@ Recently added [ChartSeries](../../chartseries/) object.
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -201,7 +199,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 
 
 ## Examples
-
 
 
 
@@ -293,7 +290,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 Recently added [ChartSeries](../../chartseries/) object.
 
 ## Examples
-
 
 
 

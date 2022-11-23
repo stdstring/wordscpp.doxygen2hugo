@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::DocumentBuilder
 
 
 
-
 Shows how to create a formatted table using [DocumentBuilder](../). 
 ```cpp
 auto doc = MakeObject<Document>();

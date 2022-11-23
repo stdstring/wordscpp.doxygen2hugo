@@ -25,7 +25,6 @@ Aspose::Words::BookmarkEnd::BookmarkEnd(const System::SharedPtr<Aspose::Words::D
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

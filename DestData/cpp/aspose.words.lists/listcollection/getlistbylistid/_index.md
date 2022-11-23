@@ -30,7 +30,6 @@ You don't normally need to use this method. Most of the time you apply list form
 
 
 
-
 Shows how to verify owner document properties of lists. 
 ```cpp
 auto doc = MakeObject<Document>();

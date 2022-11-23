@@ -24,7 +24,6 @@ This option works for DOC, DOCX and RTF formats only.
 
 
 
-
 Shows how to save a document with embedded TrueType fonts. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

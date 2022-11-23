@@ -24,7 +24,6 @@ Do not rely on this collection to ascertain that a particular font is used in th
 
 
 
-
 Shows how to print the details of what fonts are present in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");

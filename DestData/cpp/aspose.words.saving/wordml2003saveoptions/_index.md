@@ -68,7 +68,6 @@ At the moment provides only the [SaveFormat](./get_saveformat/) property, but in
 
 
 
-
 Shows how to manage output document's raw content. 
 ```cpp
 auto doc = MakeObject<Document>();

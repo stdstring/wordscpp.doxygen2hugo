@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to use a document visitor to print a document's node structure. 
 ```cpp
 void DocStructureToText()

@@ -28,7 +28,6 @@ enum class PdfFontEmbeddingMode
 
 
 
-
 Shows how to set Aspose.Words to skip embedding Arial and Times New Roman fonts into a PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

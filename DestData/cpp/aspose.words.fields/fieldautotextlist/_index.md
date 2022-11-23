@@ -53,7 +53,6 @@ class FieldAutoTextList : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use an AUTOTEXTLIST field to select from a list of AutoText entries. 
 ```cpp
 void FieldAutoTextList_()

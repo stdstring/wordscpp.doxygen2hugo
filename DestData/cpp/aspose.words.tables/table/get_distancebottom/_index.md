@@ -20,7 +20,6 @@ double Aspose::Words::Tables::Table::get_DistanceBottom()
 
 
 
-
 Shows the minimum distance operations between table boundaries and text. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table wrapped by text.docx");

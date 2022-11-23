@@ -31,7 +31,6 @@ class MailMergeRegionInfo : public System::Object
 
 
 
-
 Shows how to verify mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Mail merge regions.docx");

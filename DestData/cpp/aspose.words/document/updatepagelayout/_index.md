@@ -24,7 +24,6 @@ This method is automatically invoked when you first convert a document to PDF, X
 
 
 
-
 Shows when to recalculate the page layout of the document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

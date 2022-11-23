@@ -20,7 +20,6 @@ bool Aspose::Words::InlineStory::get_IsDeleteRevision()
 
 
 
-
 Shows how to view revision-related properties of [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision footnotes.docx");

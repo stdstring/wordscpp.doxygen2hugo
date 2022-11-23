@@ -22,7 +22,6 @@ This property returns the actual (as rendered on the page) bounding box of the s
 
 
 
-
 Shows how to measure and scale shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

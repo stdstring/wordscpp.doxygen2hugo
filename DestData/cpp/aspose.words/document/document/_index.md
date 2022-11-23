@@ -24,7 +24,6 @@ After creation, you can use [DocumentBuilder](../../documentbuilder/) to add doc
 
 
 
-
 Shows how to create and load documents. 
 ```cpp
 // There are two ways of creating a Document object using Aspose.Words.
@@ -83,7 +82,6 @@ The document must be stored at the beginning of the stream. The stream must supp
 
 
 
-
 Shows how to load a document using a stream. 
 ```cpp
 {
@@ -138,7 +136,6 @@ Aspose::Words::Document::Document(const System::SharedPtr<System::IO::Stream> &s
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
 ## Examples
-
 
 
 
@@ -225,7 +222,6 @@ Aspose::Words::Document::Document(const System::String &fileName)
 
 
 
-
 Shows how to open a document and convert it to .PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -249,7 +245,6 @@ Aspose::Words::Document::Document(const System::String &fileName, const System::
 | loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
 
 ## Examples
-
 
 
 

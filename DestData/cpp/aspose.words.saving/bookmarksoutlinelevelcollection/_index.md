@@ -60,7 +60,6 @@ Key is a case-insensitive string bookmark name. Value is a int bookmark outline 
 
 
 
-
 Shows how to set outline levels for bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>();

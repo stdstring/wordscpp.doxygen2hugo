@@ -35,7 +35,6 @@ Treat the **NodeList** collection as a "snapshot" collection. **NodeList** start
 
 
 
-
 Shows how to find all hyperlinks in a Word document, and then change their URLs and display names. 
 ```cpp
 #include <cstdint>

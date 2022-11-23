@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::Field::get_DisplayResult()
 
 
 
-
 Shows how to get the real text that a field displays in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

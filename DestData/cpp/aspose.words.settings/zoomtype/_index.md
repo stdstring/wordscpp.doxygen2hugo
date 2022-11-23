@@ -26,4 +26,3 @@ enum class ZoomType
 | TextFit | 3 | Zoom percentage is automatically recalculated to fit text. |
 
 
-

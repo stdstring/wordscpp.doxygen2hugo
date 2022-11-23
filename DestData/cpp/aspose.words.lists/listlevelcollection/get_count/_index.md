@@ -22,7 +22,6 @@ There could be 1 or 9 levels in a list.
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

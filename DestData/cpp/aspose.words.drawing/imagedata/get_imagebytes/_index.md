@@ -24,7 +24,6 @@ Returns **null** if the image is not stored in the document (e.g the image is pr
 
 
 
-
 Shows how to create an image file from a shape's raw image data. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");

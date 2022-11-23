@@ -20,7 +20,6 @@ void Aspose::Words::Revision::Reject()
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

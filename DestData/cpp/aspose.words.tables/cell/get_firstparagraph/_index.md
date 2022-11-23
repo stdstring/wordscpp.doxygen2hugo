@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Tables::Cell::get_Fir
 
 
 
-
 Shows how to create a nested table using a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

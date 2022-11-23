@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Emboss()
 
 
 
-
 Shows how to apply engraving/embossing effects to text. 
 ```cpp
 auto doc = MakeObject<Document>();

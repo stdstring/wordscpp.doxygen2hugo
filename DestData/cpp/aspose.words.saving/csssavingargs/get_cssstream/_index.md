@@ -26,7 +26,6 @@ Using [ICssSavingCallback](../../icsssavingcallback/) you cannot substitute CSS 
 
 
 
-
 Shows how to work with CSS stylesheets that an HTML conversion creates. 
 ```cpp
 void ExternalCssFilenames()

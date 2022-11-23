@@ -20,7 +20,6 @@ double Aspose::Words::Font::get_Position()
 
 
 
-
 Shows how to format text to offset its position. 
 ```cpp
 auto doc = MakeObject<Document>();

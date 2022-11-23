@@ -24,7 +24,6 @@ The text of all headers and footers is cleared, but [HeaderFooter](../../headerf
 
 
 
-
 Shows how to clear the contents of a section. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,4 +24,3 @@ The primary uses for this interface is to allow application code to obtain progr
 
 An exception should be threw from the progress callback for abortion and it should be caught in the consumer code.
 
-

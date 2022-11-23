@@ -32,7 +32,6 @@ If the source list is a reference to or a definition of a list style, the newly 
 
 
 
-
 Shows how to restart numbering in a list by copying a list. 
 ```cpp
 auto doc = MakeObject<Document>();

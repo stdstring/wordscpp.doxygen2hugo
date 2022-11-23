@@ -29,7 +29,6 @@ When paragraphIndex is greater than or equal to 0, it specifies an index from th
 
 
 
-
 Shows how to move a builder's cursor position to a specified paragraph. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");

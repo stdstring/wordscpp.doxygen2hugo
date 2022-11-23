@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartSeries::get_InvertIfNegative() overrid
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

@@ -20,7 +20,6 @@ virtual System::SharedPtr<Aspose::Words::Drawing::Charts::ChartMarker> Aspose::W
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

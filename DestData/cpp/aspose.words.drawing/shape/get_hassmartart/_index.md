@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Shape::get_HasSmartArt()
 
 
 
-
 Shows how to count the number of shapes in a document with SmartArt objects. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"SmartArt.docx");

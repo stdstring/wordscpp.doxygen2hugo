@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_IsListItem()
 
 
 
-
 Shows how to nest a list inside another list. 
 ```cpp
 auto doc = MakeObject<Document>();

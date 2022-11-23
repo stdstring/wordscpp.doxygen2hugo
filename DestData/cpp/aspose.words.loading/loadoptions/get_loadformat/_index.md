@@ -22,7 +22,6 @@ It is recommended that you specify the **Auto** value and let Aspose.Words detec
 
 
 
-
 Shows how to specify a base URI when opening an html document. 
 ```cpp
 // Suppose we want to load an .html document that contains an image linked by a relative URI

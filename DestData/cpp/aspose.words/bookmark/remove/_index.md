@@ -20,7 +20,6 @@ void Aspose::Words::Bookmark::Remove()
 
 
 
-
 Shows how to remove bookmarks from a document. 
 ```cpp
 auto doc = MakeObject<Document>();

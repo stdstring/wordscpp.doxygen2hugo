@@ -20,7 +20,6 @@ Aspose::Words::Saving::ExportListLabels Aspose::Words::Saving::HtmlSaveOptions::
 
 
 
-
 Shows how to configure list exporting to HTML. 
 ```cpp
 auto doc = MakeObject<Document>();

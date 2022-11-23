@@ -28,7 +28,6 @@ Collection of digital signatures. Returns empty collection if file is not signed
 
 
 
-
 Shows how to load signatures from a digitally signed document. 
 ```cpp
 // There are two ways of loading a signed document's collection of digital signatures using the DigitalSignatureUtil class.
@@ -65,7 +64,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureColle
 Collection of digital signatures. Returns empty collection if file is not signed.
 
 ## Examples
-
 
 
 

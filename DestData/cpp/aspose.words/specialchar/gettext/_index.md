@@ -20,4 +20,3 @@ System::String Aspose::Words::SpecialChar::GetText() override
 
 The string that contains the character that this node represents.
 
-

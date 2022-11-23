@@ -35,7 +35,6 @@ class Shading : public Aspose::Words::InternableComplexAttr,
 
 
 
-
 Shows how to apply border and shading color while building a table. 
 ```cpp
 auto doc = MakeObject<Document>();

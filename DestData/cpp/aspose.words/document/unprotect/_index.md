@@ -24,7 +24,6 @@ Note that document protection is different from write protection. Write protecti
 
 
 
-
 Shows how to protect and unprotect a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -88,7 +87,6 @@ This method unprotects the document only if a correct password is specified.
 Note that document protection is different from write protection. Write protection is specified using the [WriteProtection](../get_writeprotection/).
 
 ## Examples
-
 
 
 

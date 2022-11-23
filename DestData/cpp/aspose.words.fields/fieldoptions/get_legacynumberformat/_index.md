@@ -26,7 +26,6 @@ The default value is **false**.
 
 
 
-
 Shows how enable legacy number formatting for fields. 
 ```cpp
 auto doc = MakeObject<Document>();

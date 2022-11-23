@@ -20,7 +20,6 @@ Aspose::Words::TextOrientation Aspose::Words::Tables::CellFormat::get_Orientatio
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

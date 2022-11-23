@@ -24,7 +24,6 @@ An array of building blocks.
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

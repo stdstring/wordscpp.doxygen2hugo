@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldUserAddress::get_UserAddress()
 
 
 
-
 Shows how to use the USERADDRESS field. 
 ```cpp
 auto doc = MakeObject<Document>();

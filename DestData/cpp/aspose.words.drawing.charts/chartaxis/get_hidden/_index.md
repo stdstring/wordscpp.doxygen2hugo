@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden()
 
 
 
-
 Shows how to hide chart axes. 
 ```cpp
 auto doc = MakeObject<Document>();

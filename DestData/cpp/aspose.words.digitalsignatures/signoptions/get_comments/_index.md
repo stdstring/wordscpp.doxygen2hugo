@@ -20,7 +20,6 @@ System::String Aspose::Words::DigitalSignatures::SignOptions::get_Comments() con
 
 
 
-
 Shows how to digitally sign documents. 
 ```cpp
 // Create an X.509 certificate from a PKCS#12 store, which should contain a private key.

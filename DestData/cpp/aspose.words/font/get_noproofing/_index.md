@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_NoProofing()
 
 
 
-
 Shows how to prevent text from being spell checked by Microsoft Word. 
 ```cpp
 auto doc = MakeObject<Document>();

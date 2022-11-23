@@ -53,7 +53,6 @@ class FieldPageRef : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows to insert PAGEREF fields to display the relative location of bookmarks. 
 ```cpp
 void FieldPageRef_()

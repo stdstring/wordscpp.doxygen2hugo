@@ -24,7 +24,6 @@ If **true**, the text runs along a path from left to right along the x value of 
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

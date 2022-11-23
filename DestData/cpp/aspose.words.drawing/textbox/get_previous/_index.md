@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::TextB
 
 
 
-
 Shows how to link text boxes. 
 ```cpp
 auto doc = MakeObject<Document>();

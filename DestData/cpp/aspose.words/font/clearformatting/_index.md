@@ -22,7 +22,6 @@ Removes all font formatting specified explicitly on the object from which **Font
 
 
 
-
 Shows how to insert a hyperlink field. 
 ```cpp
 auto doc = MakeObject<Document>();

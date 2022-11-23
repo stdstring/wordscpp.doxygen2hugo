@@ -53,7 +53,6 @@ class FieldPrintDate : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows read PRINTDATE fields. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Field sample - PRINTDATE.docx");

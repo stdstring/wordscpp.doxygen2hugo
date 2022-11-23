@@ -30,7 +30,6 @@ For more info see [VisitFieldStart()](../visitfieldstart/)
 
 
 
-
 Shows how to print the node structure of every field in a document. 
 ```cpp
 void FieldToText()

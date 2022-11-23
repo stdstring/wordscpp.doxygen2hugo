@@ -30,7 +30,6 @@ Single user and editor group cannot be set simultaneously for the specific edita
 
 
 
-
 Shows how to limit the editing rights of editable ranges to a specific group/user. 
 ```cpp
 void Visitor()

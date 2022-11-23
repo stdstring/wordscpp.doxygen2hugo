@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldShape::get_Text()
 
 
 
-
 Shows how to create right-to-left language-compatible lists with BIDIOUTLINE fields. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -25,7 +25,6 @@ Aspose::Words::Saving::PageRange::PageRange(int32_t from, int32_t to)
 
 
 
-
 Shows how to extract pages based on exact page ranges. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

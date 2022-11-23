@@ -26,7 +26,6 @@ Using [IResourceSavingCallback](../../iresourcesavingcallback/) you cannot subst
 
 
 
-
 Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. 
 ```cpp
 void HtmlFixedResourceFolder()

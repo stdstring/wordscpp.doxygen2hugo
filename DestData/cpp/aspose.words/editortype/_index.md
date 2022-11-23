@@ -34,7 +34,6 @@ enum class EditorType
 
 
 
-
 Shows how to limit the editing rights of editable ranges to a specific group/user. 
 ```cpp
 void Visitor()

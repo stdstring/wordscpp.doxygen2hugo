@@ -25,7 +25,6 @@ class IWarningCallback : public virtual System::Object
 
 
 
-
 Shows how to use the [IWarningCallback](./) interface to monitor font substitution warnings. 
 ```cpp
 void SubstitutionWarning()

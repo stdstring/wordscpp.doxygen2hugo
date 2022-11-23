@@ -48,7 +48,6 @@ class FieldComments : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the COMMENTS field. 
 ```cpp
 auto doc = MakeObject<Document>();

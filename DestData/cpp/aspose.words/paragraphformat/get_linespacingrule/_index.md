@@ -20,7 +20,6 @@ Aspose::Words::LineSpacingRule Aspose::Words::ParagraphFormat::get_LineSpacingRu
 
 
 
-
 Shows how to work with line spacing. 
 ```cpp
 auto doc = MakeObject<Document>();

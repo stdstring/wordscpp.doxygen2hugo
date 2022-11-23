@@ -20,7 +20,6 @@ Aspose::Words::StoryType Aspose::Words::Story::get_StoryType() const
 
 
 
-
 Shows how to remove all shapes from a node. 
 ```cpp
 auto doc = MakeObject<Document>();

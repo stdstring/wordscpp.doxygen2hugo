@@ -22,7 +22,6 @@ The default value depends on the save format. For images it is **Bitmap**. For o
 
 
 
-
 Shows added a fallback to bitmap rendering and changing type of warnings about unsupported metafile records. 
 ```cpp
 void HandleBinaryRasterWarnings()

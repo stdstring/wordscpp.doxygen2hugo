@@ -24,7 +24,6 @@ The default value is **Black**.
 
 
 
-
 Shows how to fill a shape with a solid color. 
 ```cpp
 auto doc = MakeObject<Document>();

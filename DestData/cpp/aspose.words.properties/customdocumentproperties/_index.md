@@ -45,7 +45,6 @@ The properties in the collection are sorted alphabetically by name.
 
 
 
-
 Shows how to work with custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");

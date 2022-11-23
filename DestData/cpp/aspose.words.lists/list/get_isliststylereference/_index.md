@@ -22,7 +22,6 @@ Note, modifying properties of a list that is a reference to list style has no ef
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::OoxmlSaveOptions::get_SaveForma
 
 
 
-
 Shows how to set an OOXML compliance specification for a saved document to adhere to. 
 ```cpp
 auto doc = MakeObject<Document>();

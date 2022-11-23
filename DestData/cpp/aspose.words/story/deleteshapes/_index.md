@@ -20,7 +20,6 @@ void Aspose::Words::Story::DeleteShapes()
 
 
 
-
 Shows how to remove all shapes from a node. 
 ```cpp
 auto doc = MakeObject<Document>();

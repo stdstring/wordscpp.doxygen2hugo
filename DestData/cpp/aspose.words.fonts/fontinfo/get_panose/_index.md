@@ -24,7 +24,6 @@ Can be **null**.
 
 
 
-
 Shows how to access and print details of each font in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

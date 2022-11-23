@@ -28,7 +28,6 @@ The zero based index. Negative value if not found.
 
 
 
-
 Shows how to set outline levels for bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Note that exporting the document structure significantly increases the memory co
 
 
 
-
 Shows how to preserve document structure elements, which can assist in programmatically interpreting our document. 
 ```cpp
 auto doc = MakeObject<Document>();

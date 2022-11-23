@@ -24,7 +24,6 @@ A [FieldIfComparisonResult](../../fieldifcomparisonresult/) value that represent
 
 
 
-
 Shows how to insert an IF field. 
 ```cpp
 auto doc = MakeObject<Document>();

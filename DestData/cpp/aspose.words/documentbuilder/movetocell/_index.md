@@ -31,7 +31,6 @@ For the index parameters, when index is greater than or equal to 0, it specifies
 
 
 
-
 Shows how to move a document builder's cursor to a cell in a table. 
 ```cpp
 auto doc = MakeObject<Document>();

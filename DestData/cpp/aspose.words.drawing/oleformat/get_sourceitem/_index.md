@@ -24,7 +24,6 @@ For example, if the source file is a Microsoft Excel workbook, the [SourceItem](
 
 
 
-
 Shows how to insert linked and unlinked OLE objects. 
 ```cpp
 auto doc = MakeObject<Document>();

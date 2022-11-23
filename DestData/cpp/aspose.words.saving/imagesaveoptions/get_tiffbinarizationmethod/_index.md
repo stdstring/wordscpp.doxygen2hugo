@@ -22,7 +22,6 @@ The default value is **ImageBinarizationMethod.Threshold**.
 
 
 
-
 Shows how to set the TIFF binarization error threshold when using the Floyd-Steinberg method to render a TIFF image. 
 ```cpp
 auto doc = MakeObject<Document>();

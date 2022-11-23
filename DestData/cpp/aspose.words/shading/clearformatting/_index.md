@@ -20,7 +20,6 @@ void Aspose::Words::Shading::ClearFormatting()
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

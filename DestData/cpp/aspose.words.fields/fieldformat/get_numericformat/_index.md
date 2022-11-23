@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldFormat::get_NumericFormat()
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

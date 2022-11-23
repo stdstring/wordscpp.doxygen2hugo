@@ -20,7 +20,6 @@ System::String Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Title
 
 
 
-
 Shows how to get the properties of multi-section structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Multi-section structured document tags.docx");

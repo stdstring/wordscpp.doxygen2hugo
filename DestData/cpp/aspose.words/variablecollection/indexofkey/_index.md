@@ -28,7 +28,6 @@ The zero based index. Negative value if not found.
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

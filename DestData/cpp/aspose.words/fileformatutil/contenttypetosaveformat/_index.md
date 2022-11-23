@@ -20,7 +20,6 @@ static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::ContentTypeToSav
 
 
 
-
 Shows how to find the corresponding **Aspose** load/save format from each media type string. 
 ```cpp
 // The ContentTypeToSaveFormat/ContentTypeToLoadFormat methods only accept official IANA media type names, also known as MIME types.

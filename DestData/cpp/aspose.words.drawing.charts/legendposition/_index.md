@@ -31,7 +31,6 @@ enum class LegendPosition
 
 
 
-
 Shows how to edit the appearance of a chart's legend. 
 ```cpp
 auto doc = MakeObject<Document>();

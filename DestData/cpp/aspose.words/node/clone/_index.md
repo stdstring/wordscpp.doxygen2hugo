@@ -32,7 +32,6 @@ This method always performs a deep copy of the node. The isCloneChildren paramet
 
 
 
-
 Shows how to clone a composite node. 
 ```cpp
 auto doc = MakeObject<Document>();

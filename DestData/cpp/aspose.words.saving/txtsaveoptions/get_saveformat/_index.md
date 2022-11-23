@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::TxtSaveOptions::get_SaveFormat(
 
 
 
-
 Shows how to save a .txt document with a custom paragraph break. 
 ```cpp
 auto doc = MakeObject<Document>();

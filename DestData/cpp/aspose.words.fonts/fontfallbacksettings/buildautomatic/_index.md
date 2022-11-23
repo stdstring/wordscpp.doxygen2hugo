@@ -20,7 +20,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::BuildAutomatic()
 
 
 
-
 Shows how to distribute fallback fonts across Unicode character code ranges. 
 ```cpp
 auto doc = MakeObject<Document>();

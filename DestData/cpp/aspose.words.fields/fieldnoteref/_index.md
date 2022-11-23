@@ -55,7 +55,6 @@ class FieldNoteRef : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows to insert NOTEREF fields, and modify their appearance. 
 ```cpp
 void FieldNoteRef_()

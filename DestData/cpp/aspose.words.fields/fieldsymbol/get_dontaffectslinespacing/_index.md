@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldSymbol::get_DontAffectsLineSpacing()
 
 
 
-
 Shows how to use the SYMBOL field. 
 ```cpp
 auto doc = MakeObject<Document>();

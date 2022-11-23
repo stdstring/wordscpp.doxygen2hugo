@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAutoNum::get_SeparatorCharacter()
 
 
 
-
 Shows how to number paragraphs using autonum fields. 
 ```cpp
 auto doc = MakeObject<Document>();

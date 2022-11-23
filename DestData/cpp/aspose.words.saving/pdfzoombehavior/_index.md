@@ -31,7 +31,6 @@ enum class PdfZoomBehavior
 
 
 
-
 Shows how to set the default zooming that a reader applies when opening a rendered PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

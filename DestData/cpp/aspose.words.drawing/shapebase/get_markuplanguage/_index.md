@@ -20,7 +20,6 @@ Aspose::Words::Drawing::ShapeMarkupLanguage Aspose::Words::Drawing::ShapeBase::g
 
 
 
-
 Shows how to verify a shape's size and markup language. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ If a password is set, Microsoft Word will require the user to enter it or open t
 
 
 
-
 Shows how to protect a document with a password. 
 ```cpp
 auto doc = MakeObject<Document>();

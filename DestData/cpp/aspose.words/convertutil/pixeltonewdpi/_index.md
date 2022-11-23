@@ -26,7 +26,6 @@ static int32_t Aspose::Words::ConvertUtil::PixelToNewDpi(double pixels, double o
 
 
 
-
 Shows how to use convert points to pixels with default and custom resolution. 
 ```cpp
 auto doc = MakeObject<Document>();

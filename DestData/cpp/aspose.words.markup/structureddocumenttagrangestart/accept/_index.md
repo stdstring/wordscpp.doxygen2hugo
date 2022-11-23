@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to use a [DocumentVisitor](../../../aspose.words/documentvisitor/) implementation to remove all hidden content from a document. 
 ```cpp
 void RemoveHiddenContentFromDocument()

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::TextColumnCollection> Aspose::Words::PageSetup:
 
 
 
-
 Shows how to create multiple evenly spaced columns in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

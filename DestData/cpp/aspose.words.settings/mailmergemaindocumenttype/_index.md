@@ -29,4 +29,3 @@ enum class MailMergeMainDocumentType
 | Default | n/a | Equals to **NotAMergeDocument** |
 
 
-

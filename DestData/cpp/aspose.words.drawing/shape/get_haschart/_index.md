@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Shape::get_HasChart()
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()

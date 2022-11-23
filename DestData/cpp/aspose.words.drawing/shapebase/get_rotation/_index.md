@@ -22,7 +22,6 @@ The default value is 0.
 
 
 
-
 Shows how to insert and rotate an image. 
 ```cpp
 auto doc = MakeObject<Document>();

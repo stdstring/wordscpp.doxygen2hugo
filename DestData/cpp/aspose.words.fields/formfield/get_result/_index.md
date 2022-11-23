@@ -30,7 +30,6 @@ For a text form field the [TextInputDefault](../get_textinputdefault/) value is 
 
 
 
-
 Shows how to insert a combo box. 
 ```cpp
 auto doc = MakeObject<Document>();

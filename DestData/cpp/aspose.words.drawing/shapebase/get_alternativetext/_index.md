@@ -22,7 +22,6 @@ The default value is an empty string.
 
 
 
-
 Shows how to use a shape's alternative text. 
 ```cpp
 auto doc = MakeObject<Document>();

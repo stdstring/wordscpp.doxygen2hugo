@@ -20,7 +20,6 @@ Aspose::Words::HeightRule Aspose::Words::Tables::RowFormat::get_HeightRule()
 
 
 
-
 Shows how to create a formatted table using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

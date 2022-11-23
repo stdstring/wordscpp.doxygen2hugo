@@ -32,7 +32,6 @@ class VbaModule : public System::Object
 
 
 
-
 Shows how to access a document's VBA project information. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");

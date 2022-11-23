@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11() const
 
 
 
-
 Shows how to make a saved document conform to an older ODT schema. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

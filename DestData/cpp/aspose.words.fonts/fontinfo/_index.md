@@ -41,7 +41,6 @@ You do not create instances of this class directly. Use the [FontInfos](../../as
 
 
 
-
 Shows how to print the details of what fonts are present in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");

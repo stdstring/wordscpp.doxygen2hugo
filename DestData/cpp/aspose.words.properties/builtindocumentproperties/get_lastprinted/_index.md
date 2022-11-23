@@ -26,7 +26,6 @@ Aspose.Words does not update this property.
 
 
 
-
 Shows how to work with document properties in the "Origin" category. 
 ```cpp
 // Open a document that we have created and edited using Microsoft Word.

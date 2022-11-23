@@ -24,7 +24,6 @@ This method could be useful if your mail merge operation does not always need to
 
 
 
-
 Shows how to delete all MERGEFIELDs from a document. 
 ```cpp
 auto doc = MakeObject<Document>();

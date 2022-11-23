@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Drawing::Shape::get_F
 
 
 
-
 Shows how to create and format a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

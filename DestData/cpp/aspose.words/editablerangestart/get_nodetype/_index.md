@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::EditableRangeStart::get_NodeType() const 
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();

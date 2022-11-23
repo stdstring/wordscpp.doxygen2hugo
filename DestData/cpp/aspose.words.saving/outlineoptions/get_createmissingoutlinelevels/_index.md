@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::OutlineOptions::get_CreateMissingOutlineLevels() con
 
 
 
-
 Shows how to work with outline levels that do not contain any corresponding headings when saving a PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

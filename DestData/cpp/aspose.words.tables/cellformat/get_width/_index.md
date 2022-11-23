@@ -24,7 +24,6 @@ Setting this property is not recommended. There is no guarantee that the cell wi
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

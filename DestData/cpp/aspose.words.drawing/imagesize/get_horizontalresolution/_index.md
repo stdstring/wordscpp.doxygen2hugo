@@ -20,7 +20,6 @@ double Aspose::Words::Drawing::ImageSize::get_HorizontalResolution() const
 
 
 
-
 Shows how to read the properties of an image in a shape. 
 ```cpp
 auto doc = MakeObject<Document>();

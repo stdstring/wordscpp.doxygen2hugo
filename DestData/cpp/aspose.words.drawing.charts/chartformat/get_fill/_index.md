@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Drawing::Charts::
 
 
 
-
 Show how to set marker formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

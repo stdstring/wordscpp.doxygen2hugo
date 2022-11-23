@@ -20,7 +20,6 @@ void Aspose::Words::Markup::XmlMapping::Delete()
 
 
 
-
 Shows how to set XML mappings for custom XML parts. 
 ```cpp
 auto doc = MakeObject<Document>();

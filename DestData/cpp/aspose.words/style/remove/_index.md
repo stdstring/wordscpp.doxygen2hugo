@@ -28,7 +28,6 @@ void Aspose::Words::Style::Remove()
 
 
 
-
 Shows how to create and apply a custom style. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -43,7 +43,6 @@ enum class StoryType
 
 
 
-
 Shows how to remove all shapes from a node. 
 ```cpp
 auto doc = MakeObject<Document>();

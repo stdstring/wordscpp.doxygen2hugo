@@ -26,7 +26,6 @@ It is the responsibility of the caller to dispose the stream.
 
 
 
-
 Shows how to extract embedded OLE objects into files. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"OLE spreadsheet.docm");
@@ -72,7 +71,6 @@ void Aspose::Words::Drawing::OleFormat::Save(const System::String &fileName)
 | fileName | const System::String\& | Name of the file to save the OLE object data. |
 
 ## Examples
-
 
 
 

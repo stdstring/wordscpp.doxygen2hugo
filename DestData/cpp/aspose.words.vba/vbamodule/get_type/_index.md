@@ -20,7 +20,6 @@ Aspose::Words::Vba::VbaModuleType Aspose::Words::Vba::VbaModule::get_Type() cons
 
 
 
-
 Shows how to create a VBA project using macros. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -29,7 +29,6 @@ enum class CompressionLevel
 
 
 
-
 Shows how to specify the compression level to use while saving an OOXML document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Big document.docx");

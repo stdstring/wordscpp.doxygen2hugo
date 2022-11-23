@@ -46,7 +46,6 @@ class FieldRevNum : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to work with REVNUM fields. 
 ```cpp
 auto doc = MakeObject<Document>();

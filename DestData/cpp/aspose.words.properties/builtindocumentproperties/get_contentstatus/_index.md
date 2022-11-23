@@ -20,7 +20,6 @@ System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Content
 
 
 
-
 Shows how to work with document properties in the "Content" category. 
 ```cpp
 void Content()

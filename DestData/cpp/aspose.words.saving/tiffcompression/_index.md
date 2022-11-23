@@ -30,7 +30,6 @@ enum class TiffCompression
 
 
 
-
 Shows how to select the compression scheme to apply to a document that we convert into a TIFF image. 
 ```cpp
 auto doc = MakeObject<Document>();

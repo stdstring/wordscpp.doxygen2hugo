@@ -28,7 +28,6 @@ A [VisitorAction](../../visitoraction/) value that specifies how to continue the
 
 
 
-
 Shows how to process absolute position tab characters with a document visitor. 
 ```cpp
 void DocumentToTxt()

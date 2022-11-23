@@ -49,7 +49,6 @@ class FieldGlossary : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to display a building block with AUTOTEXT and GLOSSARY fields. 
 ```cpp
 auto doc = MakeObject<Document>();

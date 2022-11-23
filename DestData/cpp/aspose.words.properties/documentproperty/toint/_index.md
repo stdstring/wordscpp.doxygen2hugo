@@ -20,7 +20,6 @@ int32_t Aspose::Words::Properties::DocumentProperty::ToInt()
 
 
 
-
 Shows various type conversion methods of custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>();

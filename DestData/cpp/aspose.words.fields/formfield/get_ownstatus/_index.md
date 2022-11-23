@@ -22,7 +22,6 @@ If true, the text specified by the StatusText property is displayed. If false, t
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

@@ -20,7 +20,6 @@ Aspose::Words::Fields::TextFormFieldType Aspose::Words::Fields::FormField::get_T
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

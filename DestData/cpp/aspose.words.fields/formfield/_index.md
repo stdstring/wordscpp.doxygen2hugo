@@ -101,7 +101,6 @@ A complete form field in a Word document is a complex structure represented by s
 
 
 
-
 Shows how to insert a combo box. 
 ```cpp
 auto doc = MakeObject<Document>();

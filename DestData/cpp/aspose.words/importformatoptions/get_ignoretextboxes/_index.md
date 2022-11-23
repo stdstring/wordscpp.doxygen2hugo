@@ -20,7 +20,6 @@ bool Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes() const
 
 
 
-
 Shows how to manage text box formatting while appending a document. 
 ```cpp
 // Create a document that will have nodes from another document inserted into it.

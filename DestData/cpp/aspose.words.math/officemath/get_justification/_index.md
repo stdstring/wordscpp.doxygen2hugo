@@ -26,7 +26,6 @@ Corresponding [DisplayType](../get_displaytype/) has to be set before setting Of
 
 
 
-
 Shows how to set office math display formatting. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

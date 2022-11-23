@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsInsertRevision()
 
 
 
-
 Shows how to work with revision paragraphs. 
 ```cpp
 auto doc = MakeObject<Document>();

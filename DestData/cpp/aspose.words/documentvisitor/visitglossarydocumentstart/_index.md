@@ -30,7 +30,6 @@ Note: A glossary document node and its children are not visited when you execute
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

@@ -28,7 +28,6 @@ To append **Body** to a **Section** use [Section.InsertAfter](../../compositenod
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

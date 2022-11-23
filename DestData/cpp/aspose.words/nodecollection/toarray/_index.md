@@ -28,7 +28,6 @@ To be able to add/remove nodes during iteration, use this method to copy nodes i
 
 
 
-
 Shows how to replace all textbox shapes with image shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Textboxes in drawing canvas.docx");

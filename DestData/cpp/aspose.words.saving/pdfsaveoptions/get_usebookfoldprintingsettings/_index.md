@@ -22,7 +22,6 @@ If this option is specified, [PageSet](../../fixedpagesaveoptions/get_pageset/) 
 
 
 
-
 Shows how to save a document to the PDF format in the form of a book fold. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");

@@ -32,7 +32,6 @@ If index is negative and its absolute value is greater than the number of items 
 
 
 
-
 Shows how to check whether a paragraph is a move revision. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

@@ -24,7 +24,6 @@ Has effect only for top level floating shapes.
 
 
 
-
 Shows how to insert a floating image to the center of a page. 
 ```cpp
 auto doc = MakeObject<Document>();

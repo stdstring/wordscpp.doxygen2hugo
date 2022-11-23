@@ -22,7 +22,6 @@ This property effects raster images when [ScaleImageToShapeSize](../get_scaleima
 
 
 
-
 Shows how to set folders and folder aliases for externally saved resources that Aspose.Words will create when saving a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

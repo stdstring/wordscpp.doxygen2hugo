@@ -20,7 +20,6 @@ System::ArrayPtr<System::String> Aspose::Words::Style::get_Aliases()
 
 
 
-
 Shows how to use style aliases. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Style with alias.docx");

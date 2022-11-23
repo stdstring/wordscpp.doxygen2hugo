@@ -20,7 +20,6 @@ Aspose::Words::Saving::CompressionLevel Aspose::Words::Saving::OoxmlSaveOptions:
 
 
 
-
 Shows how to specify the compression level to use while saving an OOXML document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Big document.docx");

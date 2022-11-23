@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_HasRevisions()
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

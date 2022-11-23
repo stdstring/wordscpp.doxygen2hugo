@@ -20,7 +20,6 @@ Aspose::Words::StoryType Aspose::Words::Drawing::Shape::get_StoryType()
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()

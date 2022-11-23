@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldSaveDate::get_UseLunarCalendar()
 
 
 
-
 Shows how to use the SAVEDATE field to display the date/time of the document's most recent save operation performed using Microsoft Word. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

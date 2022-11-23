@@ -52,7 +52,6 @@ You can use this collection object as the simplest form of [IWarningCallback](..
 
 
 
-
 Shows how to set the property for finding the closest match for a missing font from the available font sources. 
 ```cpp
 void EnableFontSubstitution()

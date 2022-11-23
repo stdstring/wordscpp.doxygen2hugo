@@ -35,7 +35,6 @@ enum class TextureAlignment
 
 
 
-
 Shows how to fill and tiling the texture inside the shape. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ The zero-based index at which the new element is inserted.
 
 
 
-
 Shows how to insert a combo box field, and edit the elements in its item collection. 
 ```cpp
 auto doc = MakeObject<Document>();

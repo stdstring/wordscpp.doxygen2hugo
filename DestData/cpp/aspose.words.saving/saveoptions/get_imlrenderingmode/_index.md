@@ -24,7 +24,6 @@ This property is used when the document is exported to fixed page formats.
 
 
 
-
 Shows how to render Ink object. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Ink object.docx");

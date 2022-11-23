@@ -22,7 +22,6 @@ You need to know the password to open an encrypted document. If the document is 
 
 
 
-
 Shows how to sign encrypted document file. 
 ```cpp
 // Create an X.509 certificate from a PKCS#12 store, which should contain a private key.

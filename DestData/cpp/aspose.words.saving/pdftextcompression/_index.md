@@ -27,7 +27,6 @@ enum class PdfTextCompression
 
 
 
-
 Shows how to apply text compression when saving a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

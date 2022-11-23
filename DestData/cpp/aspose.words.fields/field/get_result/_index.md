@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::Field::get_Result()
 
 
 
-
 Shows how to insert a field into a document using a field code. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -22,7 +22,6 @@ The default value is **true**.
 
 
 
-
 Shows how to enable/disable automatic table cell resizing. 
 ```cpp
 auto doc = MakeObject<Document>();

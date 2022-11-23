@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveF
 
 
 
-
 Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. 
 ```cpp
 void HtmlFixedResourceFolder()

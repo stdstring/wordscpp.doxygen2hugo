@@ -22,7 +22,6 @@ The default value is 1.
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

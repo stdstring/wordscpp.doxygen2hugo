@@ -22,7 +22,6 @@ Changing **Orientation** swaps [PageWidth](../get_pagewidth/) and [PageHeight](.
 
 
 
-
 Shows how to apply and revert page setup settings to sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

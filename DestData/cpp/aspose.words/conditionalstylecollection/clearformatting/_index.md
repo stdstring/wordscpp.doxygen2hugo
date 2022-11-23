@@ -20,7 +20,6 @@ void Aspose::Words::ConditionalStyleCollection::ClearFormatting()
 
 
 
-
 Shows how to reset conditional table styles. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -46,7 +46,6 @@ class FieldAddIn : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to process an ADDIN field. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Field sample - ADDIN.docx");

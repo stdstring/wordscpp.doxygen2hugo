@@ -41,7 +41,6 @@ Changing font settings is safe at any time from any thread. But it is recommende
 
 
 
-
 Shows how to set a font source directory. 
 ```cpp
 auto doc = MakeObject<Document>();

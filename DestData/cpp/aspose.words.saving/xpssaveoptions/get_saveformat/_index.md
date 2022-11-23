@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::XpsSaveOptions::get_SaveFormat(
 
 
 
-
 Shows how to limit the headings' level that will appear in the outline of a saved XPS document. 
 ```cpp
 auto doc = MakeObject<Document>();

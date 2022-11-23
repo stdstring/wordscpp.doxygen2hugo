@@ -20,7 +20,6 @@ int32_t Aspose::Words::TableStyle::get_RowStripe()
 
 
 
-
 Shows how to create conditional table styles that alternate between rows. 
 ```cpp
 auto doc = MakeObject<Document>();

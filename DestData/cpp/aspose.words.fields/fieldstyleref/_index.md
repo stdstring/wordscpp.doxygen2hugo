@@ -61,7 +61,6 @@ class FieldStyleRef : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use STYLEREF fields. 
 ```cpp
 auto doc = MakeObject<Document>();

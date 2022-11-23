@@ -28,7 +28,6 @@ The signature line node that was just inserted.
 
 
 
-
 Shows how to sign a document with a personal certificate and a signature line. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -98,7 +97,6 @@ The signature line node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 

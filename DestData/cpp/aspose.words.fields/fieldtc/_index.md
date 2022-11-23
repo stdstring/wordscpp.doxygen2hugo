@@ -57,7 +57,6 @@ class FieldTC : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to insert a TOC field, and filter which TC fields end up as entries. 
 ```cpp
 void FieldTocEntryIdentifier()

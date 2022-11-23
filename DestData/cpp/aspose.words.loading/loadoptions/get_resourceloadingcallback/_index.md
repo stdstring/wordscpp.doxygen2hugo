@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Loading::IResourceLoadingCallback> Aspose::Word
 
 
 
-
 Shows how to handle external resources when loading Html documents. 
 ```cpp
 void LoadOptionsCallback()

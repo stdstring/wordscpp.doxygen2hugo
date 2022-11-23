@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Fields::FieldSeparator::get_NodeType() co
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

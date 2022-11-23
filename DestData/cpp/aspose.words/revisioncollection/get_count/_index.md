@@ -20,7 +20,6 @@ int32_t Aspose::Words::RevisionCollection::get_Count()
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

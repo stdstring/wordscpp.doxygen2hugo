@@ -28,7 +28,6 @@ Is it the responsibility of the caller to dispose the stream object.
 
 
 
-
 Shows how to create an image file from a shape's raw image data. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");

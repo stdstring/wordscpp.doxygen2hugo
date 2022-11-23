@@ -24,7 +24,6 @@ The returned string includes all control and special characters as described in 
 
 
 
-
 Shows how to print the node structure of every table in a document. 
 ```cpp
 void TableToText()

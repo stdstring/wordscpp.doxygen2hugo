@@ -20,7 +20,6 @@ bool Aspose::Words::MailMerging::MailMerge::get_RestartListsAtEachSection() cons
 
 
 
-
 Shows how to control whether or not list numbering is restarted at each section when mail merge is performed. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Section breaks with numbering.docx");

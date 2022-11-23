@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::PageSet> Aspose::Words::Saving::FixedPa
 
 
 
-
 Shows how to convert only some of the pages in a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

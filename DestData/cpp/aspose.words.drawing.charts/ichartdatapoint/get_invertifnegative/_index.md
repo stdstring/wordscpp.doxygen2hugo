@@ -20,7 +20,6 @@ virtual bool Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegati
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

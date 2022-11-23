@@ -28,7 +28,6 @@ Use the [RowFormat](../get_rowformat/) property to specify row formatting.
 
 
 
-
 Shows how to merge table cells vertically. 
 ```cpp
 auto doc = MakeObject<Document>();

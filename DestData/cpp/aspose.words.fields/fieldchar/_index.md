@@ -61,7 +61,6 @@ To easily insert a new field into a document, use the **InsertField()** method.
 
 
 
-
 Shows how to work with a [FieldStart](../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();

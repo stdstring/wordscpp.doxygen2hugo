@@ -20,7 +20,6 @@ Aspose::Words::Saving::PdfDigitalSignatureHashAlgorithm Aspose::Words::Saving::P
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

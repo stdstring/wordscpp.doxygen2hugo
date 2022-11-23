@@ -48,7 +48,6 @@ class FieldKeywords : public Aspose::Words::Fields::Field
 
 
 
-
 Shows to insert a KEYWORDS field. 
 ```cpp
 auto doc = MakeObject<Document>();

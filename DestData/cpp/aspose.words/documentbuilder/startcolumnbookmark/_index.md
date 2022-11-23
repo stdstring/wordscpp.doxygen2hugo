@@ -34,7 +34,6 @@ The actual position of the inserted [BookmarkStart](../../bookmarkstart/) node m
 
 
 
-
 Shows how to create a column bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();

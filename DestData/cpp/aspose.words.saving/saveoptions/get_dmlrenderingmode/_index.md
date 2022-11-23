@@ -24,7 +24,6 @@ This property is used when the document is exported to fixed page formats.
 
 
 
-
 Shows how to configure the rendering quality of DrawingML effects in a document as we save it to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"DrawingML shape effects.docx");

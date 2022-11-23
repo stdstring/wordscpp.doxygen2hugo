@@ -24,7 +24,6 @@ The content of the node in the specified format.
 
 
 
-
 Shows the difference between calling the GetText and ToString methods on a node. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -111,7 +110,6 @@ System::String Aspose::Words::Node::ToString(const System::SharedPtr<Aspose::Wor
 The content of the node in the specified format.
 
 ## Examples
-
 
 
 

@@ -24,7 +24,6 @@ void Aspose::Words::Drawing::Charts::ChartSeriesCollection::RemoveAt(int32_t ind
 
 
 
-
 Shows how to add and remove series data in a chart. 
 ```cpp
 auto doc = MakeObject<Document>();

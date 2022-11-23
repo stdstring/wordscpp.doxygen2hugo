@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartNumberFormat> Aspose::Wor
 
 
 
-
 Shows how to enable and configure data labels for a chart series. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlSchemaCollection> Aspose::Word
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

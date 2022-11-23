@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartTitle::get_Show()
 
 
 
-
 Shows how to insert a chart and set a title. 
 ```cpp
 auto doc = MakeObject<Document>();

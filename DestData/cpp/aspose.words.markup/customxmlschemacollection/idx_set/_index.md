@@ -20,7 +20,6 @@ void Aspose::Words::Markup::CustomXmlSchemaCollection::idx_set(int32_t index, co
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

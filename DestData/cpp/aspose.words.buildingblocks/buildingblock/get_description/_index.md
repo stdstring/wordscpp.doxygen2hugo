@@ -26,7 +26,6 @@ Corresponds to the **docPartPr.description** element in OOXML.
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

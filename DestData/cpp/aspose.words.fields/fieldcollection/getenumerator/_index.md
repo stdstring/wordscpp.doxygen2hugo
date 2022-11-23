@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to work with a collection of fields. 
 ```cpp
 void FieldCollection_()

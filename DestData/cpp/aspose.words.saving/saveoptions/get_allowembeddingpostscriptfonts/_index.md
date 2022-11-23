@@ -24,7 +24,6 @@ This option only works when [EmbedTrueTypeFonts](../../../aspose.words.fonts/fon
 
 
 
-
 Shows how to save the document with PostScript font. 
 ```cpp
 auto doc = MakeObject<Document>();

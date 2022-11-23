@@ -22,7 +22,6 @@ Calling this method is equivalent to setting the [List](../get_list/) property t
 
 
 
-
 Shows how to create bulleted and numbered lists. 
 ```cpp
 auto doc = MakeObject<Document>();

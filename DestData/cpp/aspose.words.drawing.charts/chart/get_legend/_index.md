@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegend> Aspose::Words::Dr
 
 
 
-
 Shows how to edit the appearance of a chart's legend. 
 ```cpp
 auto doc = MakeObject<Document>();

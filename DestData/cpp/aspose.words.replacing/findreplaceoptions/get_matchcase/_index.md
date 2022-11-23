@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase() const
 
 
 
-
 Shows how to toggle case sensitivity when performing a find-and-replace operation. 
 ```cpp
 auto doc = MakeObject<Document>();

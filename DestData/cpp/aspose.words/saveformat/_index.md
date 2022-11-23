@@ -62,7 +62,6 @@ enum class SaveFormat
 
 
 
-
 Shows how to convert from DOCX to HTML format. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

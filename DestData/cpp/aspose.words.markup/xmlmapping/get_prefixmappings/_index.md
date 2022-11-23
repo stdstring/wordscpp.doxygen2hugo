@@ -20,7 +20,6 @@ System::String Aspose::Words::Markup::XmlMapping::get_PrefixMappings() const
 
 
 
-
 Shows how to set XML mappings for custom XML parts. 
 ```cpp
 auto doc = MakeObject<Document>();

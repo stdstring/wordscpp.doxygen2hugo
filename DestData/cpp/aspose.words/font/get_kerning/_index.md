@@ -20,7 +20,6 @@ double Aspose::Words::Font::get_Kerning()
 
 
 
-
 Shows how to specify the font size at which kerning begins to take effect. 
 ```cpp
 auto doc = MakeObject<Document>();

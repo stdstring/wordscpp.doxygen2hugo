@@ -24,7 +24,6 @@ The **FlatOpc** value is converted to ".fopc".
 
 
 
-
 Shows how to use the [FileFormatUtil](../) methods to detect the format of a document. 
 ```cpp
 // Load a document from a file that is missing a file extension, and then detect its file format.

@@ -32,7 +32,6 @@ Use the [CellFormat](../get_cellformat/) property to specify cell formatting.
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

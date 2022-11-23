@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ParagraphCollection> Aspose::Words::InlineStory
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -53,7 +53,6 @@ To create a comment anchored to a region of text, you need to create a [Comment]
 
 
 
-
 Shows how print the contents of all comments and their comment ranges using a document visitor. 
 ```cpp
 void CreateCommentsAndPrintAllInfo()

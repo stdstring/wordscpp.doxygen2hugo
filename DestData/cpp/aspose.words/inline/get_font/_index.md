@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Inline::get_Font()
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

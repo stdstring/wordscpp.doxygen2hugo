@@ -20,7 +20,6 @@ System::SharedPtr<System::Text::Encoding> Aspose::Words::FileFormatInfo::get_Enc
 
 
 
-
 Shows how to detect encoding in an html file. 
 ```cpp
 SharedPtr<FileFormatInfo> info = FileFormatUtil::DetectFileFormat(MyDir + u"Document.html");

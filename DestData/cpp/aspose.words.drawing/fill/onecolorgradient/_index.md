@@ -26,7 +26,6 @@ void Aspose::Words::Drawing::Fill::OneColorGradient(Aspose::Words::Drawing::Grad
 
 
 
-
 Shows how to fill a shape with a gradients. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,7 +80,6 @@ void Aspose::Words::Drawing::Fill::OneColorGradient(System::Drawing::Color color
 | degree | double | The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light). |
 
 ## Examples
-
 
 
 

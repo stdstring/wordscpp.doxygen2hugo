@@ -24,7 +24,6 @@ Value defined for this property can be overridden for an individual data label w
 
 
 
-
 Shows how to work with data labels of a pie chart. 
 ```cpp
 auto doc = MakeObject<Document>();

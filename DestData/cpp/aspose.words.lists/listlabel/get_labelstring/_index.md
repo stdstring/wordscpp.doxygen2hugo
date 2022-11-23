@@ -20,7 +20,6 @@ System::String Aspose::Words::Lists::ListLabel::get_LabelString()
 
 
 
-
 Shows how to extract the list labels of all paragraphs that are list items. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

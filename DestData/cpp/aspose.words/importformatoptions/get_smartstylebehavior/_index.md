@@ -24,7 +24,6 @@ When this option is **disabled**, the source style will be expanded only if it i
 
 
 
-
 Shows how to resolve duplicate styles while inserting documents. 
 ```cpp
 auto dstDoc = MakeObject<Document>();

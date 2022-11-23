@@ -24,7 +24,6 @@ If the value is not **null** or empty, it must be a valid CSS identifier.
 
 
 
-
 Shows how to save a document to HTML, and add a prefix to all of its CSS class names. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");

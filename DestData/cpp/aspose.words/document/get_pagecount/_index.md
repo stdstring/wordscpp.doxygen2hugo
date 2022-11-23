@@ -20,7 +20,6 @@ int32_t Aspose::Words::Document::get_PageCount()
 
 
 
-
 Shows how to count the number of pages in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

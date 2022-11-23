@@ -20,7 +20,6 @@ bool Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries() cons
 
 
 
-
 Shows how to hide vertical whitespace and headers/footers in view options. 
 ```cpp
 auto doc = MakeObject<Document>();

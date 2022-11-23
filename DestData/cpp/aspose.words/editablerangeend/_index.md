@@ -57,7 +57,6 @@ Currently editable ranges are supported only at the inline-level, that is inside
 
 
 
-
 Shows how to limit the editing rights of editable ranges to a specific group/user. 
 ```cpp
 void Visitor()

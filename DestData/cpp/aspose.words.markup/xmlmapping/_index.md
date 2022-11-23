@@ -31,7 +31,6 @@ class XmlMapping : public System::Object
 
 
 
-
 Shows how to set XML mappings for custom XML parts. 
 ```cpp
 auto doc = MakeObject<Document>();

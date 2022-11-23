@@ -22,7 +22,6 @@ The returned string includes all control and special characters as described in 
 
 
 
-
 Shows the difference between calling the GetText and ToString methods on a node. 
 ```cpp
 auto doc = MakeObject<Document>();

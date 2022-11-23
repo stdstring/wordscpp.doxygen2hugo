@@ -24,7 +24,6 @@ For all other SDT types exception will occur.
 
 
 
-
 Shows how to insert a structured document tag as a building block, and set its category and gallery. 
 ```cpp
 auto doc = MakeObject<Document>();

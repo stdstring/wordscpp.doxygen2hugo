@@ -42,7 +42,6 @@ When using custom column widths, make sure the sum of all column widths and spac
 
 
 
-
 Shows how to create multiple evenly spaced columns in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

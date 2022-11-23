@@ -51,7 +51,6 @@ To save fonts into streams instead of files, use the [FontStream](./get_fontstre
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

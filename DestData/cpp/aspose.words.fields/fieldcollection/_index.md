@@ -36,7 +36,6 @@ The [FieldCollection](./) collection is "live", i.e. changes to the children of 
 
 
 
-
 Shows how to work with a collection of fields. 
 ```cpp
 void FieldCollection_()

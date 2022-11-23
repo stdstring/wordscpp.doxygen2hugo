@@ -24,7 +24,6 @@ Removed [GradientStop](../../gradientstop/).
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();

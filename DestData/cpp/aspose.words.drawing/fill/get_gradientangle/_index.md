@@ -20,7 +20,6 @@ double Aspose::Words::Drawing::Fill::get_GradientAngle()
 
 
 
-
 Shows how to fill a shape with a gradients. 
 ```cpp
 auto doc = MakeObject<Document>();

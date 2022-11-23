@@ -22,7 +22,6 @@ By default, fonts are written to separate files. If this option is set to **true
 
 
 
-
 Shows how to save a .html document with images embedded inside it. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

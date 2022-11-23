@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::Charts::ChartSeriesCollection::get_Count()
 
 
 
-
 Shows how to add and remove series data in a chart. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to access and print details of each font in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

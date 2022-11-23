@@ -51,7 +51,6 @@ class FieldInfo : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to work with INFO fields. 
 ```cpp
 auto doc = MakeObject<Document>();

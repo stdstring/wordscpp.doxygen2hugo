@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition()
 
 
 
-
 Shows to insert PAGEREF fields to display the relative location of bookmarks. 
 ```cpp
 void FieldPageRef_()

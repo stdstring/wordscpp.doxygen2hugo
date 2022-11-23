@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFootnotes() const
 
 
 
-
 Shows how to ignore footnotes during a find-and-replace operation. 
 ```cpp
 auto doc = MakeObject<Document>();

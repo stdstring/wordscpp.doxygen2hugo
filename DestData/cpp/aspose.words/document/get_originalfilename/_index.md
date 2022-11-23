@@ -22,7 +22,6 @@ Returns null if the document was loaded from a stream or created blank.
 
 
 
-
 Shows how to retrieve details of a document's load operation. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

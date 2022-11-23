@@ -65,7 +65,6 @@ Use the [Fill](../shapebase/get_fill/) or [Fill](../../aspose.words/font/get_fil
 
 
 
-
 Shows how to fill a shape with a solid color. 
 ```cpp
 auto doc = MakeObject<Document>();

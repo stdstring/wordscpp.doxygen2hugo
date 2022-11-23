@@ -22,7 +22,6 @@ In order to save document without encryption this property should be null or emp
 
 
 
-
 Shows how to set save options for older Microsoft Word formats. 
 ```cpp
 auto doc = MakeObject<Document>();

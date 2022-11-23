@@ -20,7 +20,6 @@ int32_t Aspose::Words::StyleCollection::get_Count()
 
 
 
-
 Shows how to add a [Style](../../style/) to a document's styles collection. 
 ```cpp
 auto doc = MakeObject<Document>();

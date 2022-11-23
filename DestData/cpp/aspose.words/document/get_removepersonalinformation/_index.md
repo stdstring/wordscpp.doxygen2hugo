@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_RemovePersonalInformation()
 
 
 
-
 Shows how to enable the removal of personal information during a manual save. 
 ```cpp
 auto doc = MakeObject<Document>();

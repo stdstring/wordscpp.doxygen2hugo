@@ -20,7 +20,6 @@ bool Aspose::Words::Section::get_ProtectedForForms()
 
 
 
-
 Shows how to turn off protection for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

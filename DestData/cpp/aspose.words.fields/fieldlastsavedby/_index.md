@@ -46,7 +46,6 @@ class FieldLastSavedBy : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the LASTSAVEDBY field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ Next node in pre-order order. Null if reached the rootNode.
 
 
 
-
 Shows how to traverse the document's node tree using the pre-order traversal algorithm, and delete any encountered shape with an image. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

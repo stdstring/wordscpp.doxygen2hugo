@@ -22,7 +22,6 @@ Default is **false** and Aspose.Words will close the stream you provided in the 
 
 
 
-
 Shows how to involve an image saving callback in an HTML conversion process. 
 ```cpp
 void ImageSavingCallback()

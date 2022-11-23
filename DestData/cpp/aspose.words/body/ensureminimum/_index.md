@@ -20,7 +20,6 @@ void Aspose::Words::Body::EnsureMinimum()
 
 
 
-
 Clears main text from all sections from the document leaving the sections themselves. 
 ```cpp
 auto doc = MakeObject<Document>();

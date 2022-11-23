@@ -32,7 +32,6 @@ If fontconfig utility is not available then this rule will be ignored.
 
 
 
-
 Shows operating system-dependent font config substitution. 
 ```cpp
 auto fontSettings = MakeObject<FontSettings>();

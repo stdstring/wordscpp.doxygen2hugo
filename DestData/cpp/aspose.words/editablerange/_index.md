@@ -34,7 +34,6 @@ class EditableRange : public System::Object
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::SignatureLineOptions::get_Signer() const
 
 
 
-
 Shows how to add a signature line to a document, and then sign it using a digital certificate. 
 ```cpp
 static void Sign()

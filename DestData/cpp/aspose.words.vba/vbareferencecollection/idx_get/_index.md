@@ -20,4 +20,3 @@ System::SharedPtr<Aspose::Words::Vba::VbaReference> Aspose::Words::Vba::VbaRefer
 | --- | --- | --- |
 | index | int32_t | The zero-based index of the reference to get. |
 
-

@@ -27,4 +27,3 @@ System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::RenderToScale
 
 The width and height (in world units) of the rendered shape.
 
-

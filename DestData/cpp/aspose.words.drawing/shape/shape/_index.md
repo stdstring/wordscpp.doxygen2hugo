@@ -27,7 +27,6 @@ You should specify desired shape properties after you created a shape.
 
 
 
-
 Shows how to insert a shape with an image from the local file system into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

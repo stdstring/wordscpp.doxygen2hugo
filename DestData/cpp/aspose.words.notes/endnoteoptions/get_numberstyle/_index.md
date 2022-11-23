@@ -22,7 +22,6 @@ Not all number styles are applicable for this property. For the list of applicab
 
 
 
-
 Shows how to change the number style of footnote/endnote reference marks. 
 ```cpp
 auto doc = MakeObject<Document>();

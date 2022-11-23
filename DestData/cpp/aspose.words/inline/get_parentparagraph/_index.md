@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Inline::get_ParentPar
 
 
 
-
 Shows how to determine the revision type of an inline node. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision runs.docx");

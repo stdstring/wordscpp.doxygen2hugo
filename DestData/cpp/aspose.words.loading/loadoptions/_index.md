@@ -56,7 +56,6 @@ class LoadOptions : public System::Object
 
 
 
-
 Shows how to load an encrypted Microsoft Word document. 
 ```cpp
 SharedPtr<Document> doc;

@@ -20,7 +20,6 @@ void Aspose::Words::Fields::GeneralFormatCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

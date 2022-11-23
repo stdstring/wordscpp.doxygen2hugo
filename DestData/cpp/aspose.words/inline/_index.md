@@ -55,7 +55,6 @@ A class derived from **Inline** can be a child of **Paragraph**.
 
 
 
-
 Shows how to determine the revision type of an inline node. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision runs.docx");

@@ -20,7 +20,6 @@ System::String Aspose::Words::Font::get_NameFarEast()
 
 
 
-
 Shows how to insert and format text in a Far East language. 
 ```cpp
 auto doc = MakeObject<Document>();

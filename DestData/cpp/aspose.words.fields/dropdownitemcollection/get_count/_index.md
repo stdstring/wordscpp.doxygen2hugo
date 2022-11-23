@@ -20,7 +20,6 @@ int32_t Aspose::Words::Fields::DropDownItemCollection::get_Count()
 
 
 
-
 Shows how to insert a combo box field, and edit the elements in its item collection. 
 ```cpp
 auto doc = MakeObject<Document>();

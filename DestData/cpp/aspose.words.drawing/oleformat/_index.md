@@ -49,7 +49,6 @@ Use the [OleFormat](../shape/get_oleformat/) property to access the data of an O
 
 
 
-
 Shows how to extract embedded OLE objects into files. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"OLE spreadsheet.docm");

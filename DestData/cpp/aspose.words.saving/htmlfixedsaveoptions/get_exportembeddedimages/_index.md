@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages() con
 
 
 
-
 Shows how to determine where to store images when exporting a document to Html. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

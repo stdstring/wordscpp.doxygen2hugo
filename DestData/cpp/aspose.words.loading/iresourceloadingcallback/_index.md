@@ -25,7 +25,6 @@ class IResourceLoadingCallback : public virtual System::Object
 
 
 
-
 Shows how to customize the process of loading external resources into a document. 
 ```cpp
 void ResourceLoadingCallback()

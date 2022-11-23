@@ -43,7 +43,6 @@ enum class Underline
 
 
 
-
 Shows how to insert a hyperlink field. 
 ```cpp
 auto doc = MakeObject<Document>();

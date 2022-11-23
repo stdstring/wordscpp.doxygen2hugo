@@ -22,7 +22,6 @@ When this property is set to **true** Aspose.Words outputs **lang** HTML attribu
 
 
 
-
 Shows how to preserve language information when saving to .html. 
 ```cpp
 auto doc = MakeObject<Document>();

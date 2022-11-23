@@ -26,7 +26,6 @@ This method mimics the commands available in the Auto Fit menu for a table in Mi
 
 
 
-
 Shows how to build a new table while applying a style. 
 ```cpp
 auto doc = MakeObject<Document>();

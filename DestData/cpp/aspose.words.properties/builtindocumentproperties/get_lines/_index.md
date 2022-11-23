@@ -22,7 +22,6 @@ Aspose.Words updates this property when you call [UpdateWordCount()](../../../as
 
 
 
-
 Shows how to update all list labels in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ int32_t Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_Id() const
 
 
 
-
 Shows how to get the properties of multi-section structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Multi-section structured document tags.docx");

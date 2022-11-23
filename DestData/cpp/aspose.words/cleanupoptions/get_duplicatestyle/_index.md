@@ -20,7 +20,6 @@ bool Aspose::Words::CleanupOptions::get_DuplicateStyle() const
 
 
 
-
 Shows how to remove duplicated styles from the document. 
 ```cpp
 auto doc = MakeObject<Document>();

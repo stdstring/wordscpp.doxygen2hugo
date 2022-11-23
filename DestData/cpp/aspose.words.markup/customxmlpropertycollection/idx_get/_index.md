@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> Aspose::Words::Marku
 
 
 
-
 Shows how to work with smart tag properties to get in depth information about smart tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Smart tags.doc");
@@ -91,7 +90,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> Aspose::Words::Marku
 | index | int32_t | Zero-based index of the property. |
 
 ## Examples
-
 
 
 

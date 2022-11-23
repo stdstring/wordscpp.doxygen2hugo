@@ -22,7 +22,6 @@ Cannot be **null**. Can be an empty string.
 
 
 
-
 Shows how to print the details of what fonts are present in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");

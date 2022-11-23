@@ -20,7 +20,6 @@ void Aspose::Words::Vba::VbaReferenceCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to get/remove an element from the VBA reference collection. 
 ```cpp
 void RemoveVbaReference()

@@ -20,7 +20,6 @@ bool Aspose::Words::Settings::WriteProtection::ValidatePassword(const System::St
 
 
 
-
 Shows how to protect a document with a password. 
 ```cpp
 auto doc = MakeObject<Document>();

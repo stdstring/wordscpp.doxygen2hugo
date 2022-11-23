@@ -20,7 +20,6 @@ void Aspose::Words::Markup::StructuredDocumentTag::RemoveSelfOnly()
 
 
 
-
 Shows how to create a structured document tag in a plain text box and modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();

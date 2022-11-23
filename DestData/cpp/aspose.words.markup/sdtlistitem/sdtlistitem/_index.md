@@ -20,7 +20,6 @@ Aspose::Words::Markup::SdtListItem::SdtListItem(const System::String &displayTex
 
 
 
-
 Shows how to work with drop down-list structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -88,7 +87,6 @@ Aspose::Words::Markup::SdtListItem::SdtListItem(const System::String &value)
 
 
 ## Examples
-
 
 
 

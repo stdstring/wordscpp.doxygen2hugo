@@ -22,7 +22,6 @@ This property exists to help you sort documents that are encrypted from those th
 
 
 
-
 Shows how to use the [FileFormatUtil](../../fileformatutil/) class to detect the document format and encryption. 
 ```cpp
 auto doc = MakeObject<Document>();

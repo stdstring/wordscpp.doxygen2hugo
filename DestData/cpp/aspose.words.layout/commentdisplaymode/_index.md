@@ -28,7 +28,6 @@ enum class CommentDisplayMode
 
 
 
-
 Shows how to show comments when saving a document to a rendered format. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ bool Aspose::Words::Border::Equals(const System::SharedPtr<Aspose::Words::Border
 
 
 
-
 Shows how border collections can share elements. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -71,7 +70,6 @@ bool Aspose::Words::Border::Equals(System::SharedPtr<System::Object> obj) overri
 
 
 ## Examples
-
 
 
 

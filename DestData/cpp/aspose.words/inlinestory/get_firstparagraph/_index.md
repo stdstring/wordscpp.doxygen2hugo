@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::InlineStory::get_Firs
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

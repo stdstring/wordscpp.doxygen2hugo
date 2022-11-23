@@ -20,7 +20,6 @@ int32_t Aspose::Words::DigitalSignatures::DigitalSignatureCollection::get_Count(
 
 
 
-
 Shows how to sign documents with X.509 certificates. 
 ```cpp
 // Verify that a document is not signed.

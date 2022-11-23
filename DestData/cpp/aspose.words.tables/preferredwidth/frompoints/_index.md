@@ -24,7 +24,6 @@ static System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::T
 
 
 
-
 Shows how to set a preferred width for table cells. 
 ```cpp
 auto doc = MakeObject<Document>();

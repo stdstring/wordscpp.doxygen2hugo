@@ -24,7 +24,6 @@ The property has effect for text category and series axes. It is not supported b
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

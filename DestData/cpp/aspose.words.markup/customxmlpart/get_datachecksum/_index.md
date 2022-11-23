@@ -20,7 +20,6 @@ int64_t Aspose::Words::Markup::CustomXmlPart::get_DataChecksum()
 
 
 
-
 Shows how the checksum is calculated in a runtime. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -22,7 +22,6 @@ Currently works only for documents in WordML format.
 
 
 
-
 Shows how to enable/disable forms design mode. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -36,7 +36,6 @@ class ViewOptions : public System::Object
 
 
 
-
 Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. 
 ```cpp
 auto doc = MakeObject<Document>();

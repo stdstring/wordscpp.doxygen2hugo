@@ -20,7 +20,6 @@ int32_t Aspose::Words::Markup::SdtListItemCollection::get_Count()
 
 
 
-
 Shows how to work with drop down-list structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ If [ExportFontsAsBase64](../get_exportfontsasbase64/) is set to **true**, fonts 
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

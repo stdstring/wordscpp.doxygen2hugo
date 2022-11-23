@@ -28,7 +28,6 @@ enum class HtmlOfficeMathOutputMode
 
 
 
-
 Shows how to specify how to export Microsoft OfficeMath objects to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

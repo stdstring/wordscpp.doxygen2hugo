@@ -22,7 +22,6 @@ If the image is linked, downloads the image every time it is called.
 
 
 
-
 Shows how to create an image file from a shape's raw image data. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");

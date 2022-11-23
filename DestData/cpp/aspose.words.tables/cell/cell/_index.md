@@ -28,7 +28,6 @@ To append **Cell** to the document use InsertAfter or InsertBefore on the row wh
 
 
 
-
 Shows how to build a nested table without using a document builder. 
 ```cpp
 void CreateNestedTable()

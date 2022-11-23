@@ -37,7 +37,6 @@ The instances of this class are immutable.
 
 
 
-
 Shows how to insert chart with date/time values. 
 ```cpp
 auto doc = MakeObject<Document>();

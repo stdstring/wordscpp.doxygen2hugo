@@ -20,7 +20,6 @@ void Aspose::Words::Range::Delete()
 
 
 
-
 Shows how to delete all the nodes from a range. 
 ```cpp
 auto doc = MakeObject<Document>();

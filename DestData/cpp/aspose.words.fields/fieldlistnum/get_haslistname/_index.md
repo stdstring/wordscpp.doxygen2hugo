@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldListNum::get_HasListName()
 
 
 
-
 Shows how to number paragraphs with LISTNUM fields. 
 ```cpp
 auto doc = MakeObject<Document>();

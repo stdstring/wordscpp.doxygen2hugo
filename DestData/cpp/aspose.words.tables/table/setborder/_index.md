@@ -28,7 +28,6 @@ void Aspose::Words::Tables::Table::SetBorder(Aspose::Words::BorderType borderTyp
 
 
 
-
 Shows how to apply an outline border to a table. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

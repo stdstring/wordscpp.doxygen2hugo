@@ -20,7 +20,6 @@ double Aspose::Words::ParagraphFormat::get_LineUnitAfter()
 
 
 
-
 Shows how to change paragraph spacing and indents. 
 ```cpp
 auto doc = MakeObject<Document>();

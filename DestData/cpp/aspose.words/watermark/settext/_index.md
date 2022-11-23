@@ -24,7 +24,6 @@ void Aspose::Words::Watermark::SetText(const System::String &text)
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -68,7 +67,6 @@ void Aspose::Words::Watermark::SetText(const System::String &text, const System:
 | options | const System::SharedPtr\<Aspose::Words::TextWatermarkOptions\>\& | Defines additional options for the text watermark. |
 
 ## Examples
-
 
 
 

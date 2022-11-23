@@ -24,7 +24,6 @@ void Aspose::Words::Vba::VbaModuleCollection::Remove(const System::SharedPtr<Asp
 
 
 
-
 Shows how to access a document's VBA project information. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");

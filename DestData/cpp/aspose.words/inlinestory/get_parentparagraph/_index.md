@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::InlineStory::get_Pare
 
 
 
-
 Shows how to insert [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

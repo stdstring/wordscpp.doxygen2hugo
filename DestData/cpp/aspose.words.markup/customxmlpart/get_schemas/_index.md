@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlSchemaCollection> Aspose::Word
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

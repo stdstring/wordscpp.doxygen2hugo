@@ -39,7 +39,6 @@ Programmatically inserting and removing sections can be used to customize docume
 
 
 
-
 Shows how to add and remove sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

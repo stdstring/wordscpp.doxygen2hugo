@@ -46,7 +46,6 @@ class FieldPrivate : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to process PRIVATE fields. 
 ```cpp
 void FieldPrivate_()

@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::Body::get_ParentSection
 
 
 
-
 Shows how to store endnotes at the end of each section, and modify their positions. 
 ```cpp
 void SuppressEndnotes()

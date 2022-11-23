@@ -29,4 +29,3 @@ enum class MailMergeDataType
 | Default | n/a | Equals to **None**. |
 
 
-

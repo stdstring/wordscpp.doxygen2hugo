@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::ParagraphFormat::get_Styl
 
 
 
-
 Shows how to create and use a paragraph style with list formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

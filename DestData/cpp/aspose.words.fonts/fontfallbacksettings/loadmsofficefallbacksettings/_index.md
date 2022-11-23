@@ -20,7 +20,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::LoadMsOfficeFallbackSettings()
 
 
 
-
 Shows how to load pre-defined fallback font settings. 
 ```cpp
 auto doc = MakeObject<Document>();

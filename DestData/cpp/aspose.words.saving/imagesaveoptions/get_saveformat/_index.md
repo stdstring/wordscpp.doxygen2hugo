@@ -24,7 +24,6 @@ Also, it is possible to save to SVG both via [ImageSaveOptions](../) and via [Sv
 
 
 
-
 Shows how to edit the image while Aspose.Words converts a document to one. 
 ```cpp
 auto doc = MakeObject<Document>();

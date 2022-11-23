@@ -37,7 +37,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to specify position and wrapping while inserting a chart. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -71,7 +70,6 @@ The image node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 

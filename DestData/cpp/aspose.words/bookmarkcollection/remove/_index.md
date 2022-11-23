@@ -24,7 +24,6 @@ void Aspose::Words::BookmarkCollection::Remove(const System::SharedPtr<Aspose::W
 
 
 
-
 Shows how to remove bookmarks from a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -93,7 +92,6 @@ void Aspose::Words::BookmarkCollection::Remove(const System::String &bookmarkNam
 | bookmarkName | const System::String\& | The case-insensitive name of the bookmark to remove. |
 
 ## Examples
-
 
 
 

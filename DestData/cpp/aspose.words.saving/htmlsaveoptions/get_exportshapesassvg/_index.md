@@ -22,7 +22,6 @@ If this option is set to **true**, [Shape](../../../aspose.words.drawing/shape/)
 
 
 
-
 Shows how to export text boxes as scalable vector graphics. 
 ```cpp
 auto doc = MakeObject<Document>();

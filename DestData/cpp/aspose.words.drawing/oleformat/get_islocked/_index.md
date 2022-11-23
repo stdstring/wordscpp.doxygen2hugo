@@ -22,7 +22,6 @@ The default value is **false**.
 
 
 
-
 Shows how to extract embedded OLE objects into files. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"OLE spreadsheet.docm");

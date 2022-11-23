@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::StyleCollection> Aspose::Words::Style::get_Styl
 
 
 
-
 Shows how to access a document's style collection. 
 ```cpp
 auto doc = MakeObject<Document>();

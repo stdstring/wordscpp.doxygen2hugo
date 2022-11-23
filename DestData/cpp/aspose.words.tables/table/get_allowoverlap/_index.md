@@ -20,7 +20,6 @@ bool Aspose::Words::Tables::Table::get_AllowOverlap()
 
 
 
-
 Shows how to work with floating tables properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table wrapped by text.docx");

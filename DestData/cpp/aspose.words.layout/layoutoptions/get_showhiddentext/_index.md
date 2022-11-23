@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText() const
 
 
 
-
 Shows how to hide text in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();

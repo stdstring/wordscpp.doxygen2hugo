@@ -20,7 +20,6 @@ Aspose::Words::WebExtensions::TaskPaneDockState Aspose::Words::WebExtensions::Ta
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

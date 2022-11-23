@@ -59,7 +59,6 @@ class FieldTA : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to build and customize a table of authorities using TOA and TA fields. 
 ```cpp
 void FieldTOA_()

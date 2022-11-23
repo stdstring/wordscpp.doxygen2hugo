@@ -29,7 +29,6 @@ enum class ExportHeadersFootersMode
 
 
 
-
 Shows how to omit headers/footers when saving a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Header and footer types.docx");

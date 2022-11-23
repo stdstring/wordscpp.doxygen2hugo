@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod()
 
 
 
-
 Shows how to organize a document using AUTONUMLGL fields. 
 ```cpp
 void FieldAutoNumLgl_()

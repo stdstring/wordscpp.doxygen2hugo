@@ -35,7 +35,6 @@ If the node being inserted was created from another document, you should use **I
 
 
 
-
 Shows how to add, update and delete child nodes in a [CompositeNode](../)'s collection of children. 
 ```cpp
 auto doc = MakeObject<Document>();

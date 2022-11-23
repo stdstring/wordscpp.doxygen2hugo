@@ -26,7 +26,6 @@ Use this method to transforms table cells horizontally merged by width to cells 
 
 
 
-
 Shows how to convert cells horizontally merged by width to cells merged by CellFormat.HorizontalMerge. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table with merged cells.docx");

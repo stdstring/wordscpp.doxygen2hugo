@@ -407,7 +407,6 @@ All user defined styles are assigned the **StyleIdentifier.User** value.
 
 
 
-
 Shows how to change the style of existing text. 
 ```cpp
 auto doc = MakeObject<Document>();

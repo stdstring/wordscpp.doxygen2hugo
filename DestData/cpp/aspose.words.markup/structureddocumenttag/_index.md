@@ -135,7 +135,6 @@ In this version Aspose.Words provides a number of public methods and properties 
 
 
 
-
 Shows how to work with styles for content control elements. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::get_NextSibling()
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

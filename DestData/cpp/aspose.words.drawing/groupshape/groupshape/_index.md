@@ -28,7 +28,6 @@ You should specify desired shape properties after you created a shape.
 
 
 
-
 Shows how to create a group of shapes, and print its contents using a document visitor. 
 ```cpp
 void GroupOfShapes()

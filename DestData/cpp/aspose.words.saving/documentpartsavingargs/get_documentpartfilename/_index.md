@@ -26,7 +26,6 @@ When the callback is invoked, this property contains the file name that was gene
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

@@ -89,7 +89,6 @@ Corresponds to the **docPart**, **docPartPr** and **docPartBody** elements in OO
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

@@ -38,7 +38,6 @@ When you no longer need to collect layout information, it is best to set the [Do
 
 
 
-
 Shows how to see the the ranges of pages that a node spans. 
 ```cpp
 auto doc = MakeObject<Document>();

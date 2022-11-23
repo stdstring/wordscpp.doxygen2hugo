@@ -36,7 +36,6 @@ Relative file name: **%..\\My Documents\\SalesReport.doc**.
 
 
 
-
 Shows how to insert a shape which contains an image, and is also a hyperlink. 
 ```cpp
 auto doc = MakeObject<Document>();

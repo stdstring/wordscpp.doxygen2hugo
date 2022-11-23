@@ -24,7 +24,6 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 
 
 
-
 Shows how to use a font file in the local file system as a font source. 
 ```cpp
 auto fileFontSource = MakeObject<FileFontSource>(MyDir + u"Alte DIN 1451 Mittelschrift.ttf", 0);
@@ -57,7 +56,6 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 
 
 
-
 Shows how to use a font file in the local file system as a font source. 
 ```cpp
 auto fileFontSource = MakeObject<FileFontSource>(MyDir + u"Alte DIN 1451 Mittelschrift.ttf", 0);
@@ -86,5 +84,4 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 | filePath | const System::String\& | Path to font file. |
 | priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 | cacheKey | const System::String\& | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
-
 

@@ -29,7 +29,6 @@ Aspose::Words::Drawing::Charts::AxisBound::AxisBound(double value)
 
 
 
-
 Shows how to insert chart with date/time values. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -132,7 +131,6 @@ Aspose::Words::Drawing::Charts::AxisBound::AxisBound(System::DateTime datetime)
 
 
 ## Examples
-
 
 
 

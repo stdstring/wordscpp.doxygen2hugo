@@ -78,7 +78,6 @@ At the moment provides only the [SaveFormat](./get_saveformat/) property, but in
 
 
 
-
 Shows how to set save options for older Microsoft Word formats. 
 ```cpp
 auto doc = MakeObject<Document>();

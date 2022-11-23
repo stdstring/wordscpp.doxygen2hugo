@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()

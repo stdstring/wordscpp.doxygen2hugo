@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::TableCollection> Aspose::Words::Story::
 
 
 
-
 Shows how to remove the first and last rows of all tables in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

@@ -20,7 +20,6 @@ Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::Tables::Table:
 
 
 
-
 Shows how to work with floating tables properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table wrapped by text.docx");

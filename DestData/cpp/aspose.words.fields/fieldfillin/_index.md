@@ -53,7 +53,6 @@ class FieldFillIn : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use the FILLIN field to prompt the user for a response. 
 ```cpp
 void FieldFillIn_()

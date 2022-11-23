@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowBubbleSize()
 
 
 
-
 Shows how to use 3D effects with bubble charts. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -73,7 +73,6 @@ class RtfSaveOptions : public Aspose::Words::Saving::SaveOptions
 
 
 
-
 Shows how to save a document to .rtf with custom options. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

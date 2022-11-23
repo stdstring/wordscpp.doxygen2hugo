@@ -24,7 +24,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::SharedPtr<Sy
 
 
 
-
 Shows how to load and save font fallback settings to/from a stream. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -62,7 +61,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::Save(const System::String &file
 | fileName | const System::String\& | Output file name. |
 
 ## Examples
-
 
 
 

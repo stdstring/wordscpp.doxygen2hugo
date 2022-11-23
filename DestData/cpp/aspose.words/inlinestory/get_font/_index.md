@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::InlineStory::get_Font()
 
 
 
-
 Shows how to insert [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

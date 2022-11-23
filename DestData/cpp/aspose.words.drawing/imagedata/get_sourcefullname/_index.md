@@ -24,7 +24,6 @@ If [SourceFullName](./) is not an empty string, the image is linked.
 
 
 
-
 Shows how to insert a linked image into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

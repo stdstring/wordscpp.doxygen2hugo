@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels() const
 
 
 
-
 Shows how to change the appearance of lists when saving a document to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

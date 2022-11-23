@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::EditableRange> Aspose::Words::EditableRangeStar
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();

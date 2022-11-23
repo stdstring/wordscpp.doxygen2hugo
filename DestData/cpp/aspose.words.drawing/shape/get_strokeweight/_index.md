@@ -24,7 +24,6 @@ The default value is 0.75.
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()

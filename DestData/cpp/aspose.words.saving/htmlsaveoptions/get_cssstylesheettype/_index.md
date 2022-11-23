@@ -22,7 +22,6 @@ Aspose::Words::Saving::CssStyleSheetType Aspose::Words::Saving::HtmlSaveOptions:
 
 
 
-
 Shows how to work with CSS stylesheets that an HTML conversion creates. 
 ```cpp
 void ExternalCssFilenames()

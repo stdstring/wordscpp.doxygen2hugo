@@ -42,7 +42,6 @@ class ChartSeries : public Aspose::Words::Drawing::Charts::IChartDataPoint,
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

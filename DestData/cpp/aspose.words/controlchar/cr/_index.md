@@ -20,7 +20,6 @@ static System::String & Aspose::Words::ControlChar::Cr()
 
 
 
-
 Shows how to use control characters. 
 ```cpp
 auto doc = MakeObject<Document>();

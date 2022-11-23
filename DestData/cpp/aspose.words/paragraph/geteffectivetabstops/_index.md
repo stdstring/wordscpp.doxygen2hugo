@@ -20,7 +20,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::TabStop>> Aspose::Words::Parag
 
 
 
-
 Shows how to set custom tab stops for a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();

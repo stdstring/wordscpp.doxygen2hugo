@@ -28,7 +28,6 @@ enum class HeightRule
 
 
 
-
 Shows how to format rows with a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -27,7 +27,6 @@ enum class NodeChangingAction
 
 
 
-
 Shows how to use a NodeChangingCallback to monitor changes to the document tree in real-time as we edit it. 
 ```cpp
 void NodeChangingCallback()

@@ -20,7 +20,6 @@ Aspose::Words::Tables::CellVerticalAlignment Aspose::Words::TableStyle::get_Vert
 
 
 
-
 Shows how to create custom style settings for the table. 
 ```cpp
 auto doc = MakeObject<Document>();

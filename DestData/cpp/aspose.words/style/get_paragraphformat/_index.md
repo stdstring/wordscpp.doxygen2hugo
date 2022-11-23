@@ -22,7 +22,6 @@ For character and list styles this property returns null.
 
 
 
-
 Shows how to create and use a paragraph style with list formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

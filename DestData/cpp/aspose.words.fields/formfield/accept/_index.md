@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

@@ -20,7 +20,6 @@ bool Aspose::Words::TextColumnCollection::get_LineBetween()
 
 
 
-
 Shows how to separate columns with a vertical line. 
 ```cpp
 auto doc = MakeObject<Document>();

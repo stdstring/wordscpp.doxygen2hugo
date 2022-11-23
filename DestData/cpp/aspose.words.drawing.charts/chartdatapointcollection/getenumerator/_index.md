@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

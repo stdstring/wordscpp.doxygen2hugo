@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIndex::get_LanguageId()
 
 
 
-
 Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();

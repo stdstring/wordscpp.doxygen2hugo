@@ -28,7 +28,6 @@ A [VisitorAction](../../visitoraction/) value that specifies how to continue the
 
 
 
-
 Shows how to print the node structure of every editable range in a document. 
 ```cpp
 void EditableRangeToText()

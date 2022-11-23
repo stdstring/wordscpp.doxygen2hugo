@@ -20,7 +20,6 @@ Aspose::Words::Vba::VbaModule::VbaModule()
 
 
 
-
 Shows how to create a VBA project using macros. 
 ```cpp
 auto doc = MakeObject<Document>();

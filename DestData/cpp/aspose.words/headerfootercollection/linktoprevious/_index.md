@@ -27,7 +27,6 @@ If the header or footer of the specified type does not exist, creates it automat
 
 
 
-
 Shows how to link headers and footers between sections. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -108,7 +107,6 @@ void Aspose::Words::HeaderFooterCollection::LinkToPrevious(bool isLinkToPrevious
 If any of the headers or footers do not exist, creates them automatically.
 
 ## Examples
-
 
 
 

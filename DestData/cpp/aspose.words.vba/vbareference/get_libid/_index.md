@@ -27,7 +27,6 @@ Depending on reference type, the value of this property can be:
 
 
 
-
 Shows how to get/remove an element from the VBA reference collection. 
 ```cpp
 void RemoveVbaReference()

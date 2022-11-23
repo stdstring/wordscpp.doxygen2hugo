@@ -66,7 +66,6 @@ Corresponds to the **ST_DocPartGallery** type in OOXML.
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

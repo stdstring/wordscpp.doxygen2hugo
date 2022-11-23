@@ -24,7 +24,6 @@ In most cases HTML is intended for viewing in browsers where pagination is not p
 
 
 
-
 Shows how decide whether to preserve section structure/page setup information when saving to HTML. 
 ```cpp
 auto doc = MakeObject<Document>();

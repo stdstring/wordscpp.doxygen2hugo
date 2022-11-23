@@ -55,7 +55,6 @@ class FieldBarcode : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use the BARCODE field to display U.S. ZIP codes in the form of a barcode. 
 ```cpp
 auto doc = MakeObject<Document>();

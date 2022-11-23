@@ -24,7 +24,6 @@ Aspose.Words automatically deletes all temporary files when reading is complete.
 
 
 
-
 Shows how to load a document using temporary files. 
 ```cpp
 // Note that such an approach can reduce memory usage but degrades speed

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Story> Aspose::Words::Paragraph::get_ParentStor
 
 
 
-
 Shows how to create a header and a footer. 
 ```cpp
 auto doc = MakeObject<Document>();

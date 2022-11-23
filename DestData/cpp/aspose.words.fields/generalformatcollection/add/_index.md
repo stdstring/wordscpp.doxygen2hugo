@@ -24,7 +24,6 @@ void Aspose::Words::Fields::GeneralFormatCollection::Add(Aspose::Words::Fields::
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

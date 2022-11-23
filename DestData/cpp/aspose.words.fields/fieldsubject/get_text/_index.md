@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSubject::get_Text()
 
 
 
-
 Shows how to use the SUBJECT field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ static double Aspose::Words::ConvertUtil::MillimeterToPoint(double millimeters)
 
 
 
-
 Shows how to specify page properties in millimeters. 
 ```cpp
 auto doc = MakeObject<Document>();

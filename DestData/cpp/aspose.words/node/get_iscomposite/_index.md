@@ -20,7 +20,6 @@ virtual bool Aspose::Words::Node::get_IsComposite()
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

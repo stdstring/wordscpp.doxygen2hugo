@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_ExportGeneratorName() const
 
 
 
-
 Shows how to disable adding name and version of Aspose.Words into produced files. 
 ```cpp
 auto doc = MakeObject<Document>();

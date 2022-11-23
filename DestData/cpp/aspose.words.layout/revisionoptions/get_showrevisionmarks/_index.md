@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::RevisionOptions::get_ShowRevisionMarks() const
 
 
 
-
 Shows how to modify the appearance of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

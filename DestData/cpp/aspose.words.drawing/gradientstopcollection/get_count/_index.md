@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::GradientStopCollection::get_Count()
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();

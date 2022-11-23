@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::XamlFixedSaveOptions::get_SaveF
 
 
 
-
 Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. 
 ```cpp
 void ResourceFolder()

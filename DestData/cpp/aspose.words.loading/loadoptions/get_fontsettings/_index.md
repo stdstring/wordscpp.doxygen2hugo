@@ -26,7 +26,6 @@ The default value is null.
 
 
 
-
 Shows how to designate font substitutes during loading. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();

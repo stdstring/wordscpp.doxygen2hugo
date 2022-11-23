@@ -22,7 +22,6 @@ Throws an exception if the property type is not **ByteArray**.
 
 
 
-
 Shows how to add a thumbnail to a document that we save as an Epub. 
 ```cpp
 auto doc = MakeObject<Document>();

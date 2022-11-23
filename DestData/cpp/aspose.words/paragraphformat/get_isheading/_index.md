@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_IsHeading()
 
 
 
-
 Shows how to limit the headings' level that will appear in the outline of a saved PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

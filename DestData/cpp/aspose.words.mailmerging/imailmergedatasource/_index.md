@@ -30,7 +30,6 @@ When a data source is created, it should be initialized to point to BOF (before 
 
 
 
-
 Shows how to execute a mail merge with a data source in the form of a custom object. 
 ```cpp
 void CustomDataSource()

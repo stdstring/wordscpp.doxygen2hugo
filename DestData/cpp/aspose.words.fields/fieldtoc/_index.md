@@ -84,7 +84,6 @@ class FieldToc : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to insert a TOC, and populate it with entries based on heading styles. 
 ```cpp
 void FieldToc_()

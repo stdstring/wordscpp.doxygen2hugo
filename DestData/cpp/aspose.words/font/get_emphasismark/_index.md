@@ -20,7 +20,6 @@ Aspose::Words::EmphasisMark Aspose::Words::Font::get_EmphasisMark()
 
 
 
-
 Shows how to add additional character rendered above/below the glyph-character. 
 ```cpp
 auto builder = MakeObject<DocumentBuilder>();

@@ -21,4 +21,3 @@ void Aspose::Words::Metered::SetMeteredKey(const System::String &publicKey, cons
 | publicKey | const System::String\& | public key |
 | privateKey | const System::String\& | private key |
 
-

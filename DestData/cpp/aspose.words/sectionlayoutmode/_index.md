@@ -29,7 +29,6 @@ enum class SectionLayoutMode
 
 
 
-
 Shows how to specify a for the number of characters that each line may have. 
 ```cpp
 auto doc = MakeObject<Document>();

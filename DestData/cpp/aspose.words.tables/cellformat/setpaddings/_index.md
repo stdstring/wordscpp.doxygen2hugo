@@ -20,7 +20,6 @@ void Aspose::Words::Tables::CellFormat::SetPaddings(double leftPadding, double t
 
 
 
-
 Shows how to pad the contents of a cell with whitespace. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIncludeText::get_BookmarkName() overr
 
 
 
-
 Shows how to create an INCLUDETEXT field, and set its properties. 
 ```cpp
 void FieldIncludeText_()

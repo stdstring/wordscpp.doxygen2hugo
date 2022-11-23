@@ -20,7 +20,6 @@ float Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth() const
 
 
 
-
 Shows how to modify the appearance of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

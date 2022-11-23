@@ -20,7 +20,6 @@ static System::SharedPtr<Aspose::Words::IHyphenationCallback> Aspose::Words::Hyp
 
 
 
-
 Shows how to open and register a dictionary from a file. 
 ```cpp
 void RegisterDictionary()

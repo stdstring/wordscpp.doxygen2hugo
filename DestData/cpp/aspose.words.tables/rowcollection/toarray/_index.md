@@ -24,7 +24,6 @@ An array of rows.
 
 
 
-
 Shows how to iterate through all tables in the document and print the contents of each cell. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

@@ -24,7 +24,6 @@ A [ReplaceAction](../../replaceaction/) value that specifies the action to be ta
 
 
 
-
 Shows how to replace all occurrences of a regular expression pattern with another string, while tracking all such replacements. 
 ```cpp
 void ReplaceWithCallback()

@@ -32,7 +32,6 @@ If a data source (table) with the specified name does not exist, your implementa
 
 
 
-
 Performs mail merge from a custom data source with master-detail data. 
 ```cpp
 void CustomDataSourceRoot()

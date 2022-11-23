@@ -26,7 +26,6 @@ In addition, all the installed cryptographic providers are enumerated in windows
 
 
 
-
 Shows how to sign a document with a personal certificate and a signature line. 
 ```cpp
 auto doc = MakeObject<Document>();

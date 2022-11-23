@@ -32,7 +32,6 @@ If you specify a name for the form field, then a bookmark is automatically creat
 
 
 
-
 Shows how to insert checkboxes into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,7 +80,6 @@ The form field node that was just inserted.
 If you specify a name for the form field, then a bookmark is automatically created with the same name.
 
 ## Examples
-
 
 
 

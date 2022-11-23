@@ -20,7 +20,6 @@ System::Drawing::RectangleF Aspose::Words::Layout::LayoutEnumerator::get_Rectang
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()

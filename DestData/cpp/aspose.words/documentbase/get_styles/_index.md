@@ -22,7 +22,6 @@ For more information see the description of the [StyleCollection](../../stylecol
 
 
 
-
 Shows how to access a document's style collection. 
 ```cpp
 auto doc = MakeObject<Document>();

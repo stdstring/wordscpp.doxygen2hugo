@@ -20,7 +20,6 @@ bool Aspose::Words::DocumentBuilder::get_Bold()
 
 
 
-
 Shows how to fill MERGEFIELDs with data with a document builder instead of a mail merge. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ Badly formed editable range will be ignored when the document is saved.
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();

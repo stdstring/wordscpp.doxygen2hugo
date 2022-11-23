@@ -26,4 +26,3 @@ enum class MailMergeDestination
 | Default | n/a | Equals to the **NewDocument** value. |
 
 
-

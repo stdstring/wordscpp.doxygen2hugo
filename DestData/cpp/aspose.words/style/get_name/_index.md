@@ -24,7 +24,6 @@ If there already is a style with such name in the collection, then this style wi
 
 
 
-
 Shows how to access a document's style collection. 
 ```cpp
 auto doc = MakeObject<Document>();

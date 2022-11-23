@@ -24,7 +24,6 @@ void Aspose::Words::Fields::GeneralFormatCollection::Remove(Aspose::Words::Field
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

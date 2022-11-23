@@ -26,7 +26,6 @@ Also, when the contents of this run are displayed, this property acts as a right
 
 
 
-
 Shows how to define separate sets of font settings for right-to-left, and right-to-left text. 
 ```cpp
 auto doc = MakeObject<Document>();

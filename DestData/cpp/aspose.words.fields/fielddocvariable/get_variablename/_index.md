@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldDocVariable::get_VariableName()
 
 
 
-
 Shows how to use DOCPROPERTY fields to display document properties and variables. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ bool Aspose::Words::CompositeNode::get_HasChildNodes()
 
 
 
-
 Shows how to combine the rows from two tables into one. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

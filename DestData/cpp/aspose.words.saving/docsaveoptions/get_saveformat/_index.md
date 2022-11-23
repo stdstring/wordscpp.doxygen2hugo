@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::DocSaveOptions::get_SaveFormat(
 
 
 
-
 Shows how to set save options for older Microsoft Word formats. 
 ```cpp
 auto doc = MakeObject<Document>();

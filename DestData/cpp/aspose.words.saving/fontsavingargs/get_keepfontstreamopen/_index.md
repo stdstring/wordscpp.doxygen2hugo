@@ -22,7 +22,6 @@ Default is **false** and Aspose.Words will close the stream you provided in the 
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

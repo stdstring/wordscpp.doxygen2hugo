@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::PageSetup> Aspose::Words::Section::get_PageSetu
 
 
 
-
 Shows how to create a wide blue band border at the top of the first page. 
 ```cpp
 auto doc = MakeObject<Document>();

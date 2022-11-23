@@ -28,7 +28,6 @@ enum class FieldIfComparisonResult
 
 
 
-
 Shows how to insert an IF field. 
 ```cpp
 auto doc = MakeObject<Document>();

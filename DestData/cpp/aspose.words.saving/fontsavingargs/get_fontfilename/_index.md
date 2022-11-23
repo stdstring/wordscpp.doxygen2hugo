@@ -32,7 +32,6 @@ When saving a document to a stream, the generated font file name looks like Aspo
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

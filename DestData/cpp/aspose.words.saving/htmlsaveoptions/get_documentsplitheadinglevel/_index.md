@@ -24,7 +24,6 @@ By default, only **Heading 1** and **Heading 2** paragraphs cause the document t
 
 
 
-
 Shows how to split an output HTML document by headings into several parts. 
 ```cpp
 auto doc = MakeObject<Document>();

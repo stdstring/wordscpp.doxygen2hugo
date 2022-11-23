@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 
 
 
-
 Shows how to apply list formatting of an existing list to a collection of paragraphs. 
 ```cpp
 auto doc = MakeObject<Document>();

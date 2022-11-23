@@ -22,7 +22,6 @@ Cannot be null.
 
 
 
-
 Shows how to work with built-in document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");

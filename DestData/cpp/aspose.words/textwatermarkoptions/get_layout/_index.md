@@ -20,7 +20,6 @@ Aspose::Words::WatermarkLayout Aspose::Words::TextWatermarkOptions::get_Layout()
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

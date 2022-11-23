@@ -20,7 +20,6 @@ double Aspose::Words::Font::get_LineSpacing()
 
 
 
-
 Shows how to get a font's line spacing, in points. 
 ```cpp
 auto doc = MakeObject<Document>();

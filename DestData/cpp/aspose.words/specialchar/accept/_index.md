@@ -28,4 +28,3 @@ Calls [DocumentVisitor.VisitSpecialChar](../../documentvisitor/visitspecialchar/
 
 For more info see the Visitor design pattern.
 
-

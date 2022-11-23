@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartAxis::get_AxisBetweenCategories()
 
 
 
-
 Shows how to get a graph axis to cross at a custom location. 
 ```cpp
 auto doc = MakeObject<Document>();

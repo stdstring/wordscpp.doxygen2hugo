@@ -24,7 +24,6 @@ The property is not supported by MS Office 2016 new charts.
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

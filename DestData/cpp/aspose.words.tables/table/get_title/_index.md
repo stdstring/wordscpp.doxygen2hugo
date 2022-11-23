@@ -24,7 +24,6 @@ This property is meaningful for ISO/IEC 29500 compliant DOCX documents ([OoxmlCo
 
 
 
-
 Shows how to build a nested table without using a document builder. 
 ```cpp
 void CreateNestedTable()

@@ -20,7 +20,6 @@ System::String Aspose::Words::Layout::LayoutEnumerator::get_Kind()
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()

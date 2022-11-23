@@ -20,7 +20,6 @@ System::String Aspose::Words::Themes::ThemeFonts::get_Latin()
 
 
 
-
 Shows how to set custom colors and fonts for themes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Theme colors.docx");

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::DownsampleOptions> Aspose::Words::Savin
 
 
 
-
 Shows how to change the resolution of images in the PDF document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

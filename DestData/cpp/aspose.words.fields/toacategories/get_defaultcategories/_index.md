@@ -20,7 +20,6 @@ static System::SharedPtr<Aspose::Words::Fields::ToaCategories> Aspose::Words::Fi
 
 
 
-
 Shows how to specify a set of categories for TOA fields. 
 ```cpp
 auto doc = MakeObject<Document>();

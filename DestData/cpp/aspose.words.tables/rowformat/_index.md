@@ -34,7 +34,6 @@ class RowFormat : public Aspose::Words::IBorderAttrSource
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

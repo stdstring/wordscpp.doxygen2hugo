@@ -32,7 +32,6 @@ You do not create instances of this class directly. Use the [Revisions](../docum
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

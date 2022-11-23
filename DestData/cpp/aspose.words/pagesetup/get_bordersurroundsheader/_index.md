@@ -20,7 +20,6 @@ bool Aspose::Words::PageSetup::get_BorderSurroundsHeader()
 
 
 
-
 Shows how to apply a border to the page and header/footer. 
 ```cpp
 auto doc = MakeObject<Document>();

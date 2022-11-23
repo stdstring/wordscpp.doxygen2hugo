@@ -24,7 +24,6 @@ void Aspose::Words::NodeCollection::Remove(const System::SharedPtr<Aspose::Words
 
 
 
-
 Shows how to work with a [NodeCollection](../). 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ int32_t Aspose::Words::VariableCollection::get_Count()
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

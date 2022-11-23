@@ -59,7 +59,6 @@ All text of the document is stored in runs of text.
 
 
 
-
 Shows how to format a run of text using its font property. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ int32_t Aspose::Words::TabStopCollection::GetHashCode() const override
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Framesets::Frameset> Aspose::Words::Document::g
 
 
 
-
 Shows how to access frames on-page. 
 ```cpp
 // Document contains several frames with links to other documents.

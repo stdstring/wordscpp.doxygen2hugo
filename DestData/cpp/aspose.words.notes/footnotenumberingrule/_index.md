@@ -29,7 +29,6 @@ enum class FootnoteNumberingRule
 
 
 
-
 Shows how to restart footnote/endnote numbering at certain places in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

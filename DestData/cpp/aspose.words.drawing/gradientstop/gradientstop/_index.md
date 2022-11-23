@@ -25,7 +25,6 @@ Aspose::Words::Drawing::GradientStop::GradientStop(System::Drawing::Color color,
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -91,7 +90,6 @@ Aspose::Words::Drawing::GradientStop::GradientStop(System::Drawing::Color color,
 | transparency | double | Represents the transparency of a stop within the gradient expressed as a percent in range 0.0 to 1.0. |
 
 ## Examples
-
 
 
 

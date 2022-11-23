@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignature> Aspose::Wo
 
 
 
-
 Shows how to sign documents with X.509 certificates. 
 ```cpp
 // Verify that a document is not signed.

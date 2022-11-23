@@ -24,7 +24,6 @@ void Aspose::Words::Drawing::Fill::PresetTextured(Aspose::Words::Drawing::Preset
 
 
 
-
 Show how to set marker formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

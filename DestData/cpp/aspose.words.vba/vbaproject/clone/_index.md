@@ -24,7 +24,6 @@ The cloned [VbaProject](../).
 
 
 
-
 Shows how to deep clone a VBA project and module. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");

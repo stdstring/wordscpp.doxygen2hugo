@@ -24,7 +24,6 @@ Valid values range from 0 to 1584 inclusive.
 
 
 
-
 Shows how to set automatic paragraph spacing. 
 ```cpp
 auto doc = MakeObject<Document>();

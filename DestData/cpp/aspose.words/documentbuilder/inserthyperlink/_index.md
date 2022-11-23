@@ -34,7 +34,6 @@ This methods internally calls **InsertField()** to insert an MS Word HYPERLINK f
 
 
 
-
 Shows how to insert a hyperlink field. 
 ```cpp
 auto doc = MakeObject<Document>();

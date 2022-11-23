@@ -20,7 +20,6 @@ double Aspose::Words::Tables::PreferredWidth::get_Value() const
 
 
 
-
 Shows how to verify the preferred width type and value of a table cell. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

@@ -20,7 +20,6 @@ Aspose::Words::ParagraphAlignment Aspose::Words::ParagraphFormat::get_Alignment(
 
 
 
-
 Shows how to insert a paragraph into the document. 
 ```cpp
 auto doc = MakeObject<Document>();

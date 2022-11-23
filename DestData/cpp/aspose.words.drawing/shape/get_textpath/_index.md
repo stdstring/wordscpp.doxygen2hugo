@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::TextPath> Aspose::Words::Drawing::Shap
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

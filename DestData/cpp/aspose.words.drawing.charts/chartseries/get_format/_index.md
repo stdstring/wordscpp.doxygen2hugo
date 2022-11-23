@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Dr
 
 
 
-
 Sows how to set series color. 
 ```cpp
 auto doc = MakeObject<Document>();

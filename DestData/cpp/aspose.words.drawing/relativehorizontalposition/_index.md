@@ -34,7 +34,6 @@ enum class RelativeHorizontalPosition
 
 
 
-
 Shows how to insert an image, and use it as a watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

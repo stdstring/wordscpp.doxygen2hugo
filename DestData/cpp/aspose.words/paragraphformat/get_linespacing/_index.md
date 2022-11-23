@@ -24,7 +24,6 @@ When LineSpacingRule property is set to Exactly, the line spacing never changes 
 
 
 
-
 Shows how to work with line spacing. 
 ```cpp
 auto doc = MakeObject<Document>();

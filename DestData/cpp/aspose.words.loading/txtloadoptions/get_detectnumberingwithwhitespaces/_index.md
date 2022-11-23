@@ -24,7 +24,6 @@ If this option is set to true, whitespaces are also used as list number delimite
 
 
 
-
 Shows how to detect lists when loading plaintext documents. 
 ```cpp
 // Create a plaintext document in a string with four separate parts that we may interpret as lists,

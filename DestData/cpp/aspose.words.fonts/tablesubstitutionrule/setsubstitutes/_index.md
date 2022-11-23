@@ -25,7 +25,6 @@ void Aspose::Words::Fonts::TableSubstitutionRule::SetSubstitutes(const System::S
 
 
 
-
 Shows how set font substitution rules. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -33,7 +33,6 @@ class ChartSeriesCollection : public System::Collections::Generic::IEnumerable<S
 
 
 
-
 Shows how to add and remove series data in a chart. 
 ```cpp
 auto doc = MakeObject<Document>();

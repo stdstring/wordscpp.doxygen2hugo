@@ -20,7 +20,6 @@ System::TimeSpan Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::ge
 
 
 
-
 Shows how to sign a saved PDF document digitally and timestamp it. 
 ```cpp
 auto doc = MakeObject<Document>();

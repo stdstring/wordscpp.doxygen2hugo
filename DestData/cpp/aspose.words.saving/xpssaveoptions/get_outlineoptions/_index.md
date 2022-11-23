@@ -22,7 +22,6 @@ Note that ExpandedOutlineLevels option will not work when saving to XPS.
 
 
 
-
 Shows how to limit the headings' level that will appear in the outline of a saved XPS document. 
 ```cpp
 auto doc = MakeObject<Document>();

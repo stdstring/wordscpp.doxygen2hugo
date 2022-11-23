@@ -26,7 +26,6 @@ Default value is **None**.
 
 
 
-
 Shows how to export custom properties while converting a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

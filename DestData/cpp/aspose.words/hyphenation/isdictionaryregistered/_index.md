@@ -20,7 +20,6 @@ static bool Aspose::Words::Hyphenation::IsDictionaryRegistered(const System::Str
 
 
 
-
 Shows how to register a hyphenation dictionary. 
 ```cpp
 // A hyphenation dictionary contains a list of strings that define hyphenation rules for the dictionary's language.

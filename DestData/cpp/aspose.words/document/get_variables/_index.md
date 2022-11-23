@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::VariableCollection> Aspose::Words::Document::ge
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ enum class ImageColorMode
 
 
 
-
 Shows how to set a color mode when rendering documents. 
 ```cpp
 auto doc = MakeObject<Document>();

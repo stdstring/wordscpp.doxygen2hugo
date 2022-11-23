@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::DocumentBuilder::get_
 
 
 
-
 Shows how to move a document builder's cursor to different nodes in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

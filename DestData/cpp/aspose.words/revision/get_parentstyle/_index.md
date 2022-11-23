@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::Revision::get_ParentStyle
 
 
 
-
 Shows how to work with a document's collection of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

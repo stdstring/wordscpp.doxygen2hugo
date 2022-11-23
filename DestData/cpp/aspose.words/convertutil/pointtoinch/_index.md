@@ -24,7 +24,6 @@ static double Aspose::Words::ConvertUtil::PointToInch(double points)
 
 
 
-
 Shows how to specify page properties in inches. 
 ```cpp
 auto doc = MakeObject<Document>();

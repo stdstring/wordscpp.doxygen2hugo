@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Bold()
 
 
 
-
 Shows how to insert formatted text using [DocumentBuilder](../../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

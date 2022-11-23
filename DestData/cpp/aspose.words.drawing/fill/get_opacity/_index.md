@@ -20,7 +20,6 @@ double Aspose::Words::Drawing::Fill::get_Opacity()
 
 
 
-
 Shows how to fill a shape with a solid color. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to print the node structure of every header and footer in a document. 
 ```cpp
 void HeaderFooterToText()

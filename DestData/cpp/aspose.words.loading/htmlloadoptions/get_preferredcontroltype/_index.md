@@ -20,7 +20,6 @@ Aspose::Words::Loading::HtmlControlType Aspose::Words::Loading::HtmlLoadOptions:
 
 
 
-
 Shows how to set preferred type of document nodes that will represent imported <input> and <select> elements. 
 ```cpp
 const String html = u"\r\n                <html>\r\n                    <select name='ComboBox' size='1'>\r\n                        <option "

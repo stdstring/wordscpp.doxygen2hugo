@@ -24,7 +24,6 @@ static System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::T
 
 
 
-
 Shows how to set a table to auto fit to 50% of the width of the page. 
 ```cpp
 auto doc = MakeObject<Document>();

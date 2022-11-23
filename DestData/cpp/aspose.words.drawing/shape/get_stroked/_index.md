@@ -24,7 +24,6 @@ The default value is **true**.
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()

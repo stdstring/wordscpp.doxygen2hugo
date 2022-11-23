@@ -78,7 +78,6 @@ In this version of Aspose.Words, [OfficeMath](./) nodes do not provide public me
 
 
 
-
 Shows how to set office math display formatting. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

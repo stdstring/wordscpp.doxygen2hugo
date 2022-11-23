@@ -20,7 +20,6 @@ bool Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirst
 
 
 
-
 Shows how to update a document's thumbnail. 
 ```cpp
 auto doc = MakeObject<Document>();

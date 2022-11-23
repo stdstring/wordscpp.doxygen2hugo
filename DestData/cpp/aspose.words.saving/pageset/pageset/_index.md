@@ -24,7 +24,6 @@ Aspose::Words::Saving::PageSet::PageSet(const System::ArrayPtr<int32_t> &pages)
 
 
 
-
 Shows how to extract pages based on exact page indices. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -66,7 +65,6 @@ Aspose::Words::Saving::PageSet::PageSet(const System::ArrayPtr<System::SharedPtr
 
 
 
-
 Shows how to extract pages based on exact page ranges. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -92,5 +90,4 @@ Aspose::Words::Saving::PageSet::PageSet(int32_t page)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | int32_t | Zero-based index of the page. |
-
 

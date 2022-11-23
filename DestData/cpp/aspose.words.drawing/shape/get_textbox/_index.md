@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::Shape
 
 
 
-
 Shows how to set the orientation of text inside a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

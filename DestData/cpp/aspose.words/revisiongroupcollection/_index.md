@@ -48,7 +48,6 @@ You do not create instances of this class directly. Use the [Groups](../revision
 
 
 
-
 Shows how to print info about a group of revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

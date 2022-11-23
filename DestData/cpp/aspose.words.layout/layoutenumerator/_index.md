@@ -45,7 +45,6 @@ class LayoutEnumerator : public System::Object,
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()

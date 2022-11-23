@@ -20,7 +20,6 @@ int32_t Aspose::Words::RevisionGroupCollection::get_Count()
 
 
 
-
 Shows how to print info about a group of revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

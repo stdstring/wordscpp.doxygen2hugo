@@ -28,7 +28,6 @@ enum class HtmlFixedPageHorizontalAlignment
 
 
 
-
 Shows how to set the horizontal alignment of pages when saving a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_ShowPageBorder() const
 
 
 
-
 Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. 
 ```cpp
 void HtmlFixedResourceFolder()

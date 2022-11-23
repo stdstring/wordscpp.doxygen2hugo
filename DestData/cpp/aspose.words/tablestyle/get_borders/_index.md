@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::TableStyle::ge
 
 
 
-
 Shows how to create custom style settings for the table. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<System::Text::Encoding> Aspose::Words::Saving::TxtSaveOptionsB
 
 
 
-
 Shows how to set encoding for a .txt output document. 
 ```cpp
 auto doc = MakeObject<Document>();

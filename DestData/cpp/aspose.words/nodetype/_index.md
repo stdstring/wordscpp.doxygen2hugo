@@ -64,7 +64,6 @@ enum class NodeType
 
 
 
-
 Shows how to traverse through a composite node's collection of child nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

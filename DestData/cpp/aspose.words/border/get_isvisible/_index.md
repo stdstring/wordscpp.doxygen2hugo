@@ -20,7 +20,6 @@ bool Aspose::Words::Border::get_IsVisible()
 
 
 
-
 Shows how to remove borders from a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Borders.docx");

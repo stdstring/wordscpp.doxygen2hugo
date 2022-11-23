@@ -20,7 +20,6 @@ Aspose::Words::Underline Aspose::Words::DocumentBuilder::get_Underline()
 
 
 
-
 Shows how to format text inserted by a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

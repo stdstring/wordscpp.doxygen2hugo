@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::Fields::FormF
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()
@@ -177,7 +176,6 @@ If index is greater than or equal to the number of items in the list, this retur
 If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.
 
 ## Examples
-
 
 
 

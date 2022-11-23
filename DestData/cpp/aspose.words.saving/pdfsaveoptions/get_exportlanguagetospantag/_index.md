@@ -26,7 +26,6 @@ This value is ignored when [ExportDocumentStructure](../get_exportdocumentstruct
 
 
 
-
 Shows how to create a "Span" tag in the document structure to export the text language. 
 ```cpp
 auto doc = MakeObject<Document>();

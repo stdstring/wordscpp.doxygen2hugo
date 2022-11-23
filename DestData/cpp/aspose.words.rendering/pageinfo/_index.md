@@ -30,4 +30,3 @@ class PageInfo : public System::Object
 
 The page width and height returned by this object represent the "final" size of the page e.g. they are already rotated to the correct orientation.
 
-

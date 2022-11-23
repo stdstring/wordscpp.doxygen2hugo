@@ -32,7 +32,6 @@ This method does not change the [TrackRevisions](../get_trackrevisions/) option 
 
 
 
-
 Shows how to track revisions while editing a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -99,7 +98,6 @@ Automatic tracking of changes is supported both when modifying this document thr
 This method does not change the [TrackRevisions](../get_trackrevisions/) option and does not use its value for the purposes of revision tracking.
 
 ## Examples
-
 
 
 

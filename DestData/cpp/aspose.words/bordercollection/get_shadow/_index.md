@@ -24,7 +24,6 @@ Sets the value for all borders in the collection excluding diagonal borders.
 
 
 
-
 Shows how to create green wavy page border with a shadow. 
 ```cpp
 auto doc = MakeObject<Document>();

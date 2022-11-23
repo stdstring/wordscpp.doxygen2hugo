@@ -22,7 +22,6 @@ Empty string means the document is attached to the Normal template.
 
 
 
-
 Shows how to set a default template for documents that do not have attached templates. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -29,7 +29,6 @@ class Theme : public Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider,
 
 
 
-
 Shows how to set custom colors and fonts for themes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Theme colors.docx");

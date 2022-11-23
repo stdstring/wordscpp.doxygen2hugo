@@ -22,7 +22,6 @@ This property contains the original file size of the current font if it is known
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

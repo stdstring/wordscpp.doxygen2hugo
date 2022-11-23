@@ -20,7 +20,6 @@ bool Aspose::Words::Settings::HyphenationOptions::get_HyphenateCaps() const
 
 
 
-
 Shows how to configure automatic hyphenation. 
 ```cpp
 auto doc = MakeObject<Document>();

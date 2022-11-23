@@ -58,7 +58,6 @@ class FindReplaceOptions : public System::Object
 
 
 
-
 Shows how to toggle case sensitivity when performing a find-and-replace operation. 
 ```cpp
 auto doc = MakeObject<Document>();

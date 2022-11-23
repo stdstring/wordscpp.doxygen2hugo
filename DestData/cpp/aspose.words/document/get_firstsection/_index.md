@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::Document::get_FirstSect
 
 
 
-
 Shows how to replace text in a document's footer. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Footer.docx");

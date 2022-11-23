@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::TextBox::IsValidLinkTarget(const System::SharedPtr<
 
 
 
-
 Shows how to link text boxes. 
 ```cpp
 auto doc = MakeObject<Document>();

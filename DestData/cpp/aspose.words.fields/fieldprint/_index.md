@@ -51,7 +51,6 @@ class FieldPrint : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows to insert a PRINT field. 
 ```cpp
 auto doc = MakeObject<Document>();

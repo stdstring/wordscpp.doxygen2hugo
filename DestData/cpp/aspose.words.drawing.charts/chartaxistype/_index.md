@@ -28,7 +28,6 @@ enum class ChartAxisType
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()

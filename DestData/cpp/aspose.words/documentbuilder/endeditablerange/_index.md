@@ -28,7 +28,6 @@ Badly formed editable range will be ignored when the document is saved.
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -94,7 +93,6 @@ Editable range in a document can overlap and span any range. To create a valid e
 Badly formed editable range will be ignored when the document is saved.
 
 ## Examples
-
 
 
 

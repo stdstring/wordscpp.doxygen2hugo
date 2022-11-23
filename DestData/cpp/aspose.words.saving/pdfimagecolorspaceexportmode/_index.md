@@ -27,7 +27,6 @@ enum class PdfImageColorSpaceExportMode
 
 
 
-
 Shows how to set a different color space for images in a document as we export it to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

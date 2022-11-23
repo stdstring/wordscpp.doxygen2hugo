@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BookmarkStart> Aspose::Words::Bookmark::get_Boo
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

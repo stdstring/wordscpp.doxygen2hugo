@@ -20,7 +20,6 @@ System::String Aspose::Words::Font::get_StyleName()
 
 
 
-
 Shows how to change the style of existing text. 
 ```cpp
 auto doc = MakeObject<Document>();

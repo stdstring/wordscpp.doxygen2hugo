@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomXmlPropertyCollection::Add(const System::Share
 
 
 
-
 Shows how to work with smart tag properties to get in depth information about smart tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Smart tags.doc");

@@ -26,7 +26,6 @@ Pixel format of the output image may differ from the set value because of work o
 
 
 
-
 Shows how to select a bit-per-pixel rate with which to render a document to an image. 
 ```cpp
 auto doc = MakeObject<Document>();

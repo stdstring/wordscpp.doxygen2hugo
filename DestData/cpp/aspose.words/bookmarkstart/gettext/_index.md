@@ -24,7 +24,6 @@ An empty string.
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

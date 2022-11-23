@@ -20,7 +20,6 @@ bool Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended() const
 
 
 
-
 Shows how to protect a document with a password. 
 ```cpp
 auto doc = MakeObject<Document>();

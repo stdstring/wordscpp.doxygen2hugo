@@ -42,7 +42,6 @@ Custom with color - "[Red]-#,##0.0"
 
 
 
-
 Shows how to enable and configure data labels for a chart series. 
 ```cpp
 auto doc = MakeObject<Document>();

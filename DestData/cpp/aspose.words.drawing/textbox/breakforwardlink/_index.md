@@ -20,7 +20,6 @@ void Aspose::Words::Drawing::TextBox::BreakForwardLink()
 
 
 
-
 Shows how to link text boxes. 
 ```cpp
 auto doc = MakeObject<Document>();

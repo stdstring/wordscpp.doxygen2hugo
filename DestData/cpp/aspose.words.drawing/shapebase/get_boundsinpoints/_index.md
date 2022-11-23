@@ -20,7 +20,6 @@ System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_BoundsInPoint
 
 
 
-
 Shows how to verify shape containing block boundaries. 
 ```cpp
 auto doc = MakeObject<Document>();

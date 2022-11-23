@@ -20,7 +20,6 @@ Aspose::Words::Math::MathObjectType Aspose::Words::Math::OfficeMath::get_MathObj
 
 
 
-
 Shows how to print the node structure of every office math node in a document. 
 ```cpp
 void OfficeMathToText()

@@ -20,7 +20,6 @@ void Aspose::Words::Loading::ResourceLoadingArgs::SetData(const System::ArrayPtr
 
 
 
-
 Shows how to customize the process of loading external resources into a document. 
 ```cpp
 void ResourceLoadingCallback()

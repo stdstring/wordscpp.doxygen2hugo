@@ -20,7 +20,6 @@ int32_t Aspose::Words::ConditionalStyleCollection::get_Count() const
 
 
 
-
 Shows how to work with certain area styles of a table. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ class SdtListItem : public System::Object
 
 
 
-
 Shows how to work with drop down-list structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();

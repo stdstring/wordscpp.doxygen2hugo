@@ -24,7 +24,6 @@ One of the possible use cases may be using a MERGEFIELD as a child field to dyna
 
 
 
-
 Shows how to preserve or discard INCLUDEPICTURE fields when loading a document. 
 ```cpp
 auto doc = MakeObject<Document>();

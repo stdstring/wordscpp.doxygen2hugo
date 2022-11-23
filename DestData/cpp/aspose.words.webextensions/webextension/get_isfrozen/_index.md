@@ -20,7 +20,6 @@ bool Aspose::Words::WebExtensions::WebExtension::get_IsFrozen() const
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

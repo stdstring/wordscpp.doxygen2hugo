@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldIndex::get_HasSequenceName()
 
 
 
-
 Shows how to split a document into portions by combining INDEX and SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();

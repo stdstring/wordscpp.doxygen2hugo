@@ -31,7 +31,6 @@ A [Field](../../../aspose.words.fields/field/) object that represents the insert
 
 
 
-
 Shows various ways of adding fields to a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -88,7 +87,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Insert
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 
 ## Examples
-
 
 
 
@@ -149,7 +147,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Insert
 A [Field](../../../aspose.words.fields/field/) object that represents the inserted field.
 
 ## Examples
-
 
 
 

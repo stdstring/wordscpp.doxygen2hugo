@@ -30,7 +30,6 @@ class GeneralFormatCollection : public System::Collections::Generic::IEnumerable
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

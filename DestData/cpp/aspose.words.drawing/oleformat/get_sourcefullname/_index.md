@@ -24,7 +24,6 @@ If [SourceFullName](./) is not an empty string, the OLE object is linked.
 
 
 
-
 Shows how to insert linked and unlinked OLE objects. 
 ```cpp
 auto doc = MakeObject<Document>();

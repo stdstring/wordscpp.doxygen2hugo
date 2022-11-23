@@ -20,7 +20,6 @@ bool Aspose::Words::Properties::DocumentProperty::get_IsLinkToContent()
 
 
 
-
 Shows how to link a custom document property to a bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();

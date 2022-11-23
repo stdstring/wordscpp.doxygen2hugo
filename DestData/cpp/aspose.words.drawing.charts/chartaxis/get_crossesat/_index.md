@@ -24,7 +24,6 @@ The units are determined by the type of axis. When the axis is a value axis, the
 
 
 
-
 Shows how to get a graph axis to cross at a custom location. 
 ```cpp
 auto doc = MakeObject<Document>();

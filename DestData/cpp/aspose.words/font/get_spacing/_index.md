@@ -20,7 +20,6 @@ double Aspose::Words::Font::get_Spacing()
 
 
 
-
 Shows how to set horizontal scaling and spacing for characters. 
 ```cpp
 auto doc = MakeObject<Document>();

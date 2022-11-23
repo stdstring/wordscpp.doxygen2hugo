@@ -74,7 +74,6 @@ class XamlFlowSaveOptions : public Aspose::Words::Saving::SaveOptions
 
 
 
-
 Shows how to print the filenames of linked images created while converting a document to flow-form .xaml. 
 ```cpp
 void ImageFolder()

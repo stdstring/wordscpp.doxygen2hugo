@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::OoxmlSaveOptions::get_KeepLegacyControlChars() const
 
 
 
-
 Shows how to support legacy control characters when converting to .docx. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Legacy control character.doc");

@@ -20,7 +20,6 @@ System::Guid Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId(
 
 
 
-
 Shows how to add a signature line to a document, and then sign it using a digital certificate. 
 ```cpp
 static void Sign()

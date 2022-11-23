@@ -134,7 +134,6 @@ A minimal valid table needs to have at least one **Row**.
 
 
 
-
 Shows how to build a formatted 2x2 table. 
 ```cpp
 auto doc = MakeObject<Document>();

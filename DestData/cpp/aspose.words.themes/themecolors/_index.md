@@ -48,7 +48,6 @@ class ThemeColors : public System::Object
 
 
 
-
 Shows how to set custom colors and fonts for themes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Theme colors.docx");

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Lists::ListFormat> Aspose::Words::DocumentBuild
 
 
 
-
 Shows how to create bulleted and numbered lists. 
 ```cpp
 auto doc = MakeObject<Document>();

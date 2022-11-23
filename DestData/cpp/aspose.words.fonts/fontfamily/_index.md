@@ -33,7 +33,6 @@ A font family is a set of fonts having common stroke width and serif characteris
 
 
 
-
 Shows how to access and print details of each font in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

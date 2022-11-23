@@ -28,7 +28,6 @@ A general format.
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

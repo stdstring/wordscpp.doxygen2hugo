@@ -22,7 +22,6 @@ The returned collection is a "live" collection, which means if you remove parts 
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

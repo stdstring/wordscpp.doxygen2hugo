@@ -22,7 +22,6 @@ Converts a boolean property into "Y" or "N". Converts a date property into a sho
 
 
 
-
 Shows how to work with custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");

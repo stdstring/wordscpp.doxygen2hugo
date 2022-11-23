@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to process absolute position tab characters with a document visitor. 
 ```cpp
 void DocumentToTxt()

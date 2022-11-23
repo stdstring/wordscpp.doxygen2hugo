@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens()
 
 
 
-
 Shows how to suppress hyphenation for a paragraph. 
 ```cpp
 Hyphenation::RegisterDictionary(u"de-CH", MyDir + u"hyph_de_CH.dic");

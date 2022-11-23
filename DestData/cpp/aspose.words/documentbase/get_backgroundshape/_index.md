@@ -26,7 +26,6 @@ Setting this property to a non-null value will also set the [DisplayBackgroundSh
 
 
 
-
 Shows how to set a background shape for every page of a document. 
 ```cpp
 auto doc = MakeObject<Document>();

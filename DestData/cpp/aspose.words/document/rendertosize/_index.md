@@ -33,7 +33,6 @@ The scale that was automatically calculated for the rendered page to fit the spe
 
 
 
-
 Shows how to render a document to a bitmap at a specified location and size. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldAddressBlock::get_FormatAddressOnCountryOrRegio
 
 
 
-
 Shows how to insert an ADDRESSBLOCK field. 
 ```cpp
 auto doc = MakeObject<Document>();

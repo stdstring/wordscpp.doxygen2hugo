@@ -24,7 +24,6 @@ If, however, this option is set to **true**, Aspose.Words will convert loaded SV
 
 
 
-
 Shows how to convert SVG objects to a different format when saving HTML documents. 
 ```cpp
 String html =

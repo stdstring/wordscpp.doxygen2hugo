@@ -28,7 +28,6 @@ Setting this property resets the cache of all previously loaded fonts.
 
 
 
-
 Shows how to add a font source to our existing font sources. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -95,5 +94,4 @@ void Aspose::Words::Fonts::FontSettings::SetFontsSources(const System::ArrayPtr<
 When saving and loading font search cache, fonts in the provided sources are identified via cache key. For the fonts in the [SystemFontSource](../../systemfontsource/) and [FolderFontSource](../../folderfontsource/) cache key is the path to the font file. For [MemoryFontSource](../../memoryfontsource/) and [StreamFontSource](../../streamfontsource/) cache key is defined in the [CacheKey](../../memoryfontsource/get_cachekey/) and [CacheKey](../../streamfontsource/get_cachekey/) properties respectively. For the [FileFontSource](../../filefontsource/) cache key is either [CacheKey](../../filefontsource/get_cachekey/) property or a file path if the [CacheKey](../../filefontsource/get_cachekey/) is **null**.
 
 It is highly recommended to provide the same font sources when loading cache as at the time the cache was saved. Any changes in the font sources (e.g. adding new fonts, moving font files or changing the cache key) may lead to the inaccurate font resolving by Aspose.Words.
-
 

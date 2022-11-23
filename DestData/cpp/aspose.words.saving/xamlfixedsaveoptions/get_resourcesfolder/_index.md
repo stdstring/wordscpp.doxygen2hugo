@@ -26,7 +26,6 @@ If you save a document into a stream, Aspose.Words does not have a folder where 
 
 
 
-
 Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. 
 ```cpp
 void ResourceFolder()

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartNumberFormat> Aspose::Wor
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

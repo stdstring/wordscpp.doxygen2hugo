@@ -32,7 +32,6 @@ class SystemFontSource : public Aspose::Words::Fonts::FontSourceBase
 
 
 
-
 Shows how to access a document's system font source and set font substitutes. 
 ```cpp
 auto doc = MakeObject<Document>();

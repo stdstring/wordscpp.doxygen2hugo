@@ -20,7 +20,6 @@ void Aspose::Words::Loading::LanguagePreferences::AddEditingLanguage(Aspose::Wor
 
 
 
-
 Shows how to apply language preferences when loading a document. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();

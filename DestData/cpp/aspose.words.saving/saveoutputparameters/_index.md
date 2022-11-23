@@ -25,7 +25,6 @@ class SaveOutputParameters : public System::Object
 
 
 
-
 Shows how to access output parameters of a document's save operation. 
 ```cpp
 auto doc = MakeObject<Document>();

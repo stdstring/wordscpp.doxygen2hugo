@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::TableCollection> Aspose::Words::Tables:
 
 
 
-
 Shows how to find out if a tables are nested. 
 ```cpp
 void CalculateDepthOfNestedTables()

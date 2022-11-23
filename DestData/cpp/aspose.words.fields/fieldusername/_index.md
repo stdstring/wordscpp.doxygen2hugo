@@ -48,7 +48,6 @@ class FieldUserName : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the USERNAME field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to print the node structure of every office math node in a document. 
 ```cpp
 void OfficeMathToText()

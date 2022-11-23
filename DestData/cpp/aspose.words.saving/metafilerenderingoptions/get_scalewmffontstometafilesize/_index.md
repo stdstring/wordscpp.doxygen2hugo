@@ -30,7 +30,6 @@ The default value is **true**.
 
 
 
-
 Shows how to WMF fonts scaling according to metafile size on the page. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"WMF with text.docx");

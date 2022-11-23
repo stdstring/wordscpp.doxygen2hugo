@@ -20,7 +20,6 @@ void Aspose::Words::Fields::DropDownItemCollection::idx_set(int32_t index, const
 
 
 
-
 Shows how to insert a combo box field, and edit the elements in its item collection. 
 ```cpp
 auto doc = MakeObject<Document>();

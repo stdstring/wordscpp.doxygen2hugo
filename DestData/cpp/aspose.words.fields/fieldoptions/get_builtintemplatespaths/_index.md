@@ -24,7 +24,6 @@ By default MS Word stores built-in templates in c:\Users\<username>\AppData\Roam
 
 
 
-
 Shows how to display a building block with AUTOTEXT and GLOSSARY fields. 
 ```cpp
 auto doc = MakeObject<Document>();

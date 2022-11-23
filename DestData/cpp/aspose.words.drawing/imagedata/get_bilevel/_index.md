@@ -22,7 +22,6 @@ The default value is **false**.
 
 
 
-
 Shows how to edit a shape's image data. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");

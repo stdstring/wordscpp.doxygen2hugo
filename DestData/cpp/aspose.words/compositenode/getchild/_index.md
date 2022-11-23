@@ -32,7 +32,6 @@ If index is out of range, a null is returned.
 
 
 
-
 Shows how to apply the properties of a table's style directly to the table's elements. 
 ```cpp
 auto doc = MakeObject<Document>();

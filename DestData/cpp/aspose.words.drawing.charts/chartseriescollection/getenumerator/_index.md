@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to add and remove series data in a chart. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ The default value is 0.
 
 
 
-
 Shows how to insert a floating image, and specify its position and size. 
 ```cpp
 auto doc = MakeObject<Document>();

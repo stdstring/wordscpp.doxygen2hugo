@@ -32,7 +32,6 @@ class EndnoteOptions : public Aspose::Words::Notes::IFootnoteOptions
 
 
 
-
 Shows how to select a different place where the document collects and displays its endnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

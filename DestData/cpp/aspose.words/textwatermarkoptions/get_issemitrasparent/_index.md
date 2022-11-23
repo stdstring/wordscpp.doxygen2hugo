@@ -20,7 +20,6 @@ bool Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent() const
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

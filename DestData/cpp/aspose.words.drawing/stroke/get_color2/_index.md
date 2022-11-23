@@ -22,7 +22,6 @@ The default value for a [Shape](../../shape/) is **White**.
 
 
 
-
 Shows how to process shape stroke features. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape stroke pattern border.docx");

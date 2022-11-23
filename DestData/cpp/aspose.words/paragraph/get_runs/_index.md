@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::RunCollection> Aspose::Words::Paragraph::get_Ru
 
 
 
-
 Shows how to determine the revision type of an inline node. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision runs.docx");

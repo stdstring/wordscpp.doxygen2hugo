@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::PageSetup::get
 
 
 
-
 Shows how to create green wavy page border with a shadow. 
 ```cpp
 auto doc = MakeObject<Document>();

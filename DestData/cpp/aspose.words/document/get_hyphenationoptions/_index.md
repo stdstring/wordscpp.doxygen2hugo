@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Settings::HyphenationOptions> Aspose::Words::Do
 
 
 
-
 Shows how to configure automatic hyphenation. 
 ```cpp
 auto doc = MakeObject<Document>();

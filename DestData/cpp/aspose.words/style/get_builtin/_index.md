@@ -20,7 +20,6 @@ bool Aspose::Words::Style::get_BuiltIn()
 
 
 
-
 Shows how to differentiate custom styles from built-in styles. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ If **true**, the layout order of rows is reversed. This attribute is used for ve
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

@@ -22,7 +22,6 @@ In Microsoft Word, for a border to have a shadow, the borders on all four sides 
 
 
 
-
 Shows how to create green wavy page border with a shadow. 
 ```cpp
 auto doc = MakeObject<Document>();

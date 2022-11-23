@@ -24,7 +24,6 @@ Returns null if the section does not have a **Body** node among its children.
 
 
 
-
 Clears main text from all sections from the document leaving the sections themselves. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Setting this property for [Font](../) object with non-theme colors results in a 
 
 
 
-
 Shows how to create and use themed style. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Auto font size means that the watermark will be scaled to its max width and max 
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

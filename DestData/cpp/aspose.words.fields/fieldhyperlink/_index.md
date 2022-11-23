@@ -60,7 +60,6 @@ class FieldHyperlink : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use HYPERLINK fields to link to documents in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>();

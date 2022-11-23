@@ -30,7 +30,6 @@ enum class GradientVariant
 
 
 
-
 Shows how to fill a shape with a gradients. 
 ```cpp
 auto doc = MakeObject<Document>();

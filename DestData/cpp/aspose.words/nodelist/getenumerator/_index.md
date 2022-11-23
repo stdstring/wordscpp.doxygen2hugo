@@ -20,4 +20,3 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 An IEnumerator.
 
-

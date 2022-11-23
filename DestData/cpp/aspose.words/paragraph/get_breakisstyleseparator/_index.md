@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_BreakIsStyleSeparator()
 
 
 
-
 Shows how to write text to the same line as a TOC heading and have it not show up in the TOC. 
 ```cpp
 auto doc = MakeObject<Document>();

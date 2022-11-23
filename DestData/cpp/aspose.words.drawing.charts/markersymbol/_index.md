@@ -37,7 +37,6 @@ enum class MarkerSymbol
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

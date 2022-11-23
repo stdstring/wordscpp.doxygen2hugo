@@ -33,7 +33,6 @@ class PlainTextDocument : public System::Object
 
 
 
-
 Shows how to load the contents of a Microsoft Word document in plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -52,7 +52,6 @@ enum class LineStyle
 
 
 
-
 Shows how to insert a string surrounded by a border into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

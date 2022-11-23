@@ -24,7 +24,6 @@ By default, the property has a value, on which character pitch equals to font si
 
 
 
-
 Shows how to specify a for the number of characters that each line may have. 
 ```cpp
 auto doc = MakeObject<Document>();

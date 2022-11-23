@@ -29,7 +29,6 @@ To append **Footnote** to the document use InsertAfter or InsertBefore on the pa
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

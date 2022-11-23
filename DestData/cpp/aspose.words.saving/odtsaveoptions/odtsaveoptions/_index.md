@@ -20,7 +20,6 @@ Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions()
 
 
 
-
 Shows how to make a saved document conform to an older ODT schema. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -47,7 +46,6 @@ Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions(Aspose::Words::SaveFormat 
 | saveFormat | Aspose::Words::SaveFormat | Can be **Odt** or **Ott**. |
 
 ## Examples
-
 
 
 

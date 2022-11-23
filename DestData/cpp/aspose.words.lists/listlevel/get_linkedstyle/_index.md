@@ -22,7 +22,6 @@ This property is null when the list level is not linked to a paragraph style. Th
 
 
 
-
 Shows advances ways of customizing list labels. 
 ```cpp
 auto doc = MakeObject<Document>();

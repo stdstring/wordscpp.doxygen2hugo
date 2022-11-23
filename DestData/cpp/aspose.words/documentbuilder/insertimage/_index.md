@@ -30,7 +30,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from a byte array into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -93,7 +92,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from a byte array into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -148,7 +146,6 @@ The image node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 
@@ -207,7 +204,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from an object into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -263,7 +259,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from an object into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -314,7 +309,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from an object into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -360,7 +354,6 @@ The image node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 
@@ -435,7 +428,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from a stream into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -487,7 +479,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image from a stream into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -536,7 +527,6 @@ This overload will automatically download the image before inserting into the do
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 
@@ -669,7 +659,6 @@ You can change the image size, location, positioning method and other settings u
 
 
 
-
 Shows how to insert an image. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -752,7 +741,6 @@ The image node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 

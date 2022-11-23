@@ -20,7 +20,6 @@ Aspose::Words::Notes::FootnoteType Aspose::Words::Notes::Footnote::get_FootnoteT
 
 
 
-
 Shows the difference between footnotes and endnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

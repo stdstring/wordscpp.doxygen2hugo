@@ -20,7 +20,6 @@ int32_t Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::get_Count()
 
 
 
-
 Shows how to work with a document's collection of web extensions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Web extension.docx");

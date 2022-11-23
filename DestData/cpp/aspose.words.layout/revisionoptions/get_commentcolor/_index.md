@@ -20,7 +20,6 @@ Aspose::Words::Layout::RevisionColor Aspose::Words::Layout::RevisionOptions::get
 
 
 
-
 Shows how to modify the appearance of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

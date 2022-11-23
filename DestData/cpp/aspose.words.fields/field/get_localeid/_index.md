@@ -20,7 +20,6 @@ int32_t Aspose::Words::Fields::Field::get_LocaleId()
 
 
 
-
 Shows how to insert a field and work with its locale. 
 ```cpp
 auto doc = MakeObject<Document>();

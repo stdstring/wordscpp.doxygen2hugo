@@ -44,7 +44,6 @@ In Aspose.Words, when you obtain a **TabStops** collection for a paragraph or a 
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -48,7 +48,6 @@ class VbaModuleCollection : public System::Collections::Generic::IEnumerable<Sys
 
 
 
-
 Shows how to access a document's VBA project information. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");

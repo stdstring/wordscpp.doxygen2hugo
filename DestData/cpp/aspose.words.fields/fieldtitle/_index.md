@@ -48,7 +48,6 @@ class FieldTitle : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the TITLE field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ A list that is a definition of a list style cannot be applied directly to paragr
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

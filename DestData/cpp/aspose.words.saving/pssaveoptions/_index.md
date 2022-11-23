@@ -84,7 +84,6 @@ class PsSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 
 
 
-
 Shows how to save a document to the Postscript format in the form of a book fold. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");

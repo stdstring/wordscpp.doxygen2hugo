@@ -24,7 +24,6 @@ Default is zero.
 
 
 
-
 Shows how to apply a different font to new content via [FindReplaceOptions](../../findreplaceoptions/). 
 ```cpp
 void ConvertNumbersToHexadecimal()

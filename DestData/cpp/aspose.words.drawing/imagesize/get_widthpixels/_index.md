@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::ImageSize::get_WidthPixels() const
 
 
 
-
 Shows how to read the properties of an image in a shape. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -30,7 +30,6 @@ If the node being inserted was created from another document, you should use **I
 
 
 
-
 Shows how to prepare a new section node for editing. 
 ```cpp
 auto doc = MakeObject<Document>();

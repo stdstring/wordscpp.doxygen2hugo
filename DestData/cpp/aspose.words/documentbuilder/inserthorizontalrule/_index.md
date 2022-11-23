@@ -24,7 +24,6 @@ The shape that is a horizontal rule.
 
 
 
-
 Shows how to insert a horizontal rule shape, and customize its formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

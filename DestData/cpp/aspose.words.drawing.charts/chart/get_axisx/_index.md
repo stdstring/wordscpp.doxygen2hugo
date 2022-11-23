@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartAxis> Aspose::Words::Draw
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

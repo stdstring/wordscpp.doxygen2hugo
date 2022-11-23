@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::SaveOptions::get_DefaultTemplate() const
 
 
 
-
 Shows how to set a default template for documents that do not have attached templates. 
 ```cpp
 auto doc = MakeObject<Document>();

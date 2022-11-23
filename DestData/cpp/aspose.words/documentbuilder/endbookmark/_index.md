@@ -32,7 +32,6 @@ Badly formed bookmarks or bookmarks with duplicate names will be ignored when th
 
 
 
-
 Shows how create a bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();

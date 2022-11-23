@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location()
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

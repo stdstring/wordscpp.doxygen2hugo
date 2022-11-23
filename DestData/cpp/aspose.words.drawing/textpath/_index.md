@@ -66,7 +66,6 @@ Use the [TextPath](../shape/get_textpath/) property to access WordArt properties
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

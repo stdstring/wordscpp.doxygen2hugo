@@ -24,7 +24,6 @@ If the page color is not set (e.g. there is no background shape in the document)
 
 
 
-
 Shows how to set the background color for all pages of a document. 
 ```cpp
 auto doc = MakeObject<Document>();

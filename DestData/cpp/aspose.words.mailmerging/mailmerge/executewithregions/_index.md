@@ -28,7 +28,6 @@ You can use this method only when [IsBidiTextSupportedOnUpdate](../../../aspose.
 
 
 
-
 Shows how to use mail merge regions to execute a nested mail merge. 
 ```cpp
 void CustomDataSource()
@@ -312,7 +311,6 @@ Use this method to fill mail merge fields in the document with values from any c
 You can use this method only when [IsBidiTextSupportedOnUpdate](../../../aspose.words.fields/fieldoptions/get_isbiditextsupportedonupdate/) is false, that is you do not need Right-To-Left language (such as Arabic or Hebrew) compatibility.
 
 ## Examples
-
 
 
 

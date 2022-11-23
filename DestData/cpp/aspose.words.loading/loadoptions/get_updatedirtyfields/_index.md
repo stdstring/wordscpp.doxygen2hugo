@@ -20,7 +20,6 @@ bool Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields() const
 
 
 
-
 Shows how to use special property for updating field result. 
 ```cpp
 auto doc = MakeObject<Document>();

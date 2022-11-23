@@ -66,7 +66,6 @@ To easily insert a new field into a document, use the **InsertField()** method.
 
 
 
-
 Shows how to work with a collection of fields. 
 ```cpp
 void FieldCollection_()

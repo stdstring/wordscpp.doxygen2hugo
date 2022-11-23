@@ -28,7 +28,6 @@ Aspose.Words uses this name to match against the mail merge region name specifie
 
 
 
-
 Shows how to execute a mail merge with a data source in the form of a custom object. 
 ```cpp
 void CustomDataSource()

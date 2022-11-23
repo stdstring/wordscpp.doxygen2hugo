@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel() overri
 
 
 
-
 Shows how to populate a TOC field with entries using SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();

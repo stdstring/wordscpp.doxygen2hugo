@@ -20,7 +20,6 @@ virtual System::String Aspose::Words::Fields::IFieldResultFormatter::Format(doub
 
 
 
-
 Shows how to automatically apply a custom format to field results as the fields are updated. 
 ```cpp
 void FieldResultFormatting_()
@@ -216,7 +215,6 @@ virtual System::String Aspose::Words::Fields::IFieldResultFormatter::Format(Syst
 
 
 ## Examples
-
 
 
 

@@ -22,7 +22,6 @@ The default value is null and the digital signature will not be time-stamped. Wh
 
 
 
-
 Shows how to sign a saved PDF document digitally and timestamp it. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::OlePackage::get_FileName() const
 
 
 
-
 Shows how insert an OLE object into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

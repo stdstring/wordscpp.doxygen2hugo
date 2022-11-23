@@ -29,7 +29,6 @@ Setting this property resets the cache of all previously loaded fonts.
 
 
 
-
 Shows how to set multiple font source directories. 
 ```cpp
 auto doc = MakeObject<Document>();

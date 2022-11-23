@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::AxisTickLabelPosition Aspose::Words::Drawing::Ch
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

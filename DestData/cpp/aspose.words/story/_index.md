@@ -72,7 +72,6 @@ Text of a Word document is said to consist of several stories. The main text is 
 
 
 
-
 Shows how to remove all shapes from a node. 
 ```cpp
 auto doc = MakeObject<Document>();

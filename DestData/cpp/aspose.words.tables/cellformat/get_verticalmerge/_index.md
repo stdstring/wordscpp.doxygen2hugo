@@ -24,7 +24,6 @@ When cells are vertically merged, the display areas of the merged cells are cons
 
 
 
-
 Shows how to merge table cells vertically. 
 ```cpp
 auto doc = MakeObject<Document>();

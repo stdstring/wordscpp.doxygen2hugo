@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_SuppressLineNumbers()
 
 
 
-
 Shows how to enable line numbering for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::OlePackage> Aspose::Words::Drawing::Ol
 
 
 
-
 Shows how insert an OLE object into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

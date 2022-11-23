@@ -27,7 +27,6 @@ enum class TxtTrailingSpacesOptions
 
 
 
-
 Shows how to trim whitespace when loading plaintext documents. 
 ```cpp
 String textDoc = String(u"      Line 1 \n") + u"    Line 2   \n" + u" Line 3       ";

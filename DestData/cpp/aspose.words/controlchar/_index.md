@@ -57,7 +57,6 @@ class ControlChar
 
 
 
-
 Shows how to use control characters. 
 ```cpp
 auto doc = MakeObject<Document>();

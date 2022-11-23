@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::BuildingBlocks::Buildin
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

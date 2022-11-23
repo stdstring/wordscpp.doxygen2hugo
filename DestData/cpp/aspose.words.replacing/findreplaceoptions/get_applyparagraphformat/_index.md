@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::Replacing::Find
 
 
 
-
 Shows how to add formatting to paragraphs in which a find-and-replace operation has found matches. 
 ```cpp
 auto doc = MakeObject<Document>();

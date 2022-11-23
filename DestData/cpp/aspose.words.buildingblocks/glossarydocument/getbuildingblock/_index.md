@@ -34,7 +34,6 @@ Microsoft Word organizes building blocks into galleries. The galleries are prede
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

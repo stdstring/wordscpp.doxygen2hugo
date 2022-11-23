@@ -20,7 +20,6 @@ void Aspose::Words::Document::Cleanup()
 
 
 
-
 Shows how to remove unused custom styles from a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -68,7 +67,6 @@ void Aspose::Words::Document::Cleanup(const System::SharedPtr<Aspose::Words::Cle
 
 
 ## Examples
-
 
 
 

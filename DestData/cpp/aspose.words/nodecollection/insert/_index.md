@@ -35,7 +35,6 @@ If the node being inserted was created from another document, you should use **I
 
 
 
-
 Shows how to work with a [NodeCollection](../). 
 ```cpp
 auto doc = MakeObject<Document>();

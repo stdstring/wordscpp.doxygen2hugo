@@ -24,7 +24,6 @@ To change field type values in a specific part of the document use [NormalizeFie
 
 
 
-
 Shows how to get the keep a field's type up to date with its field code. 
 ```cpp
 auto doc = MakeObject<Document>();

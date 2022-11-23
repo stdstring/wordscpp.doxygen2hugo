@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsGroup()
 
 
 
-
 Shows how to create a group of shapes, and print its contents using a document visitor. 
 ```cpp
 void GroupOfShapes()

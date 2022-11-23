@@ -22,7 +22,6 @@ When rendering pages of a document that specifies its own background color, then
 
 
 
-
 Renders a page of a Word document into an image with transparent or colored background. 
 ```cpp
 auto doc = MakeObject<Document>();

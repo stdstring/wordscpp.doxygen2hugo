@@ -30,7 +30,6 @@ A new string array is created on every call.
 
 
 
-
 Shows how to create, list, and read mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -102,7 +101,6 @@ If document contains multiple regions with the same name the Nth region (zero-ba
 A new string array is created on every call.
 
 ## Examples
-
 
 
 

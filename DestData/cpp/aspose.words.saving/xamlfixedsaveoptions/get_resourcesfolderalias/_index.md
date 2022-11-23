@@ -22,7 +22,6 @@ When you save a [Document](../../../aspose.words/document/) in fixed page Xaml f
 
 
 
-
 Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. 
 ```cpp
 void ResourceFolder()

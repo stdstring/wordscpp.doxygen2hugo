@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldGoToButton::get_Location()
 
 
 
-
 Shows to insert a GOTOBUTTON field. 
 ```cpp
 auto doc = MakeObject<Document>();

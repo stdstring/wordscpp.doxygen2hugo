@@ -28,7 +28,6 @@ Has effect only for floating shapes.
 
 
 
-
 Shows how to insert a floating image, and specify its position and size. 
 ```cpp
 auto doc = MakeObject<Document>();

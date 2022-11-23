@@ -20,7 +20,6 @@ void Aspose::Words::Drawing::Charts::ChartSeriesCollection::Clear()
 
 
 
-
 Shows how to add and remove series data in a chart. 
 ```cpp
 auto doc = MakeObject<Document>();

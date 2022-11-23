@@ -30,7 +30,6 @@ Note that this method deletes the merge field from the document after moving the
 
 
 
-
 Shows how to fill MERGEFIELDs with data with a document builder instead of a mail merge. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,7 +77,6 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 True if the merge field was found and the cursor was moved; false otherwise.
 
 ## Examples
-
 
 
 

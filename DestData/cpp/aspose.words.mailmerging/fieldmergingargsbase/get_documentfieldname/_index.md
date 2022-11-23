@@ -24,7 +24,6 @@ If you specified a field name prefix, for example "Image:MyFieldName" in the doc
 
 
 
-
 Shows how to execute a mail merge with a custom callback that handles merge data in the form of HTML documents. 
 ```cpp
 void MergeHtml()

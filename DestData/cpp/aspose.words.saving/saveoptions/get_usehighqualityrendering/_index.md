@@ -24,7 +24,6 @@ This property is used when the document is exported to image formats: **Tiff**, 
 
 
 
-
 Shows how to improve the quality of a rendered document with [SaveOptions](../). 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

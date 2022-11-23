@@ -35,7 +35,6 @@ You do not create instances of this class directly. You access document protecti
 
 
 
-
 Shows how to protect a document with a password. 
 ```cpp
 auto doc = MakeObject<Document>();

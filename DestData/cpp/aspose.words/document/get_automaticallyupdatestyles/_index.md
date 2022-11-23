@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_AutomaticallyUpdateStyles()
 
 
 
-
 Shows how to attach a template to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

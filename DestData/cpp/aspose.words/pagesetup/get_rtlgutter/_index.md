@@ -20,7 +20,6 @@ bool Aspose::Words::PageSetup::get_RtlGutter()
 
 
 
-
 Shows how to set gutter margins. 
 ```cpp
 auto doc = MakeObject<Document>();

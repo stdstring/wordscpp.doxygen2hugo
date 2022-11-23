@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics() const
 
 
 
-
 Shows how to ignore 'Use printer metrics to lay out document' option. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

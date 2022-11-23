@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::Charts::ChartTitle::get_Text()
 
 
 
-
 Shows how to insert a chart and set a title. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::Drawing::GradientVariant Aspose::Words::Drawing::Fill::get_Gradie
 
 
 
-
 Shows how to fill a shape with a gradients. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -25,7 +25,6 @@ class WebExtensionPropertyCollection : public Aspose::Words::WebExtensions::Base
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

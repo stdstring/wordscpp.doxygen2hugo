@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndAlpha()
 
 
 
-
 Shows how to insert a paragraph into the document. 
 ```cpp
 auto doc = MakeObject<Document>();

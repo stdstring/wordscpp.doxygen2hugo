@@ -22,7 +22,6 @@ The default value for a [Shape](../../shape/) is **true**.
 
 
 
-
 Shows how change stroke properties. 
 ```cpp
 auto doc = MakeObject<Document>();

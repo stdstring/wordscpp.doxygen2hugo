@@ -20,7 +20,6 @@ void Aspose::Words::Markup::SdtListItemCollection::Clear()
 
 
 
-
 Shows how to work with drop down-list structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();

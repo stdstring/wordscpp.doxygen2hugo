@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText()
 
 
 
-
 Shows how to insert a DISPLAYBARCODE field, and set its properties. 
 ```cpp
 auto doc = MakeObject<Document>();

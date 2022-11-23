@@ -24,7 +24,6 @@ When the current paragraph is empty or the cursor is positioned just before the 
 
 
 
-
 Shows how to move a document builder's cursor to different nodes in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

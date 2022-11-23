@@ -20,7 +20,6 @@ void Aspose::Words::CompositeNode::RemoveAllChildren()
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

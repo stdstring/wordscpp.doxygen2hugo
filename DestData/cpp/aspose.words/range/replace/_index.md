@@ -42,7 +42,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 
-
 Shows how to replace all occurrences of a regular expression pattern with other text. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -90,7 +89,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 ## Examples
-
 
 
 
@@ -255,7 +253,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 
-
 Shows how to perform a find-and-replace text operation on the contents of a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -340,7 +337,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 ## Examples
-
 
 
 

@@ -22,7 +22,6 @@ Aspose.Words does not use this property.
 
 
 
-
 Shows how to store the base part of a hyperlink in the document's properties. 
 ```cpp
 auto doc = MakeObject<Document>();

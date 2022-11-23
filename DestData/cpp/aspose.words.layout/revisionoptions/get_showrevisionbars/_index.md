@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars() const
 
 
 
-
 Shows how to alter the appearance of revisions in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();

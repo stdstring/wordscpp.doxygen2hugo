@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartAxis::get_ReverseOrder()
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

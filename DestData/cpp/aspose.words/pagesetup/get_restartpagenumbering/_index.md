@@ -20,7 +20,6 @@ bool Aspose::Words::PageSetup::get_RestartPageNumbering()
 
 
 
-
 Shows how to set up page numbering in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

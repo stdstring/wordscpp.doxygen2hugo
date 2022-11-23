@@ -22,7 +22,6 @@ When true, the columns in this section are laid out from right to left.
 
 
 
-
 Shows how to set the order of text columns in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

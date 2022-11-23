@@ -24,7 +24,6 @@ By default, the property has a value, on which line pitch is in 1.5 times greate
 
 
 
-
 Shows how to specify a limit for the number of lines that each page may have. 
 ```cpp
 auto doc = MakeObject<Document>();

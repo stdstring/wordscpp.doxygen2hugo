@@ -26,7 +26,6 @@ When **false**, causes no roundtrip information to be output into produced files
 
 
 
-
 Shows how to preserve hidden elements when converting to .html. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

@@ -47,7 +47,6 @@ class Style : public Aspose::Words::IParaAttrSource,
 
 
 
-
 Shows how to create and apply a custom style. 
 ```cpp
 auto doc = MakeObject<Document>();

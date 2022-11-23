@@ -22,7 +22,6 @@ This option is provided for Word 97, which cannot work correctly with PictureBul
 
 
 
-
 Shows how to omit PictureBullet data from the document when saving. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Image bullet points.docx");

@@ -24,7 +24,6 @@ If this property is empty, the default template file name **Normal.dotm** is use
 
 
 
-
 Shows how to use a TEMPLATE field to display the local file system location of a document's template. 
 ```cpp
 auto doc = MakeObject<Document>();

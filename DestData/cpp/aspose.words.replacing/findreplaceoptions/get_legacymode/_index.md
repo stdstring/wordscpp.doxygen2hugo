@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode() const
 
 
 
-
 Shows how to recognize and use substitutions within replacement patterns. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -31,7 +31,6 @@ Throws an exception if a style with this name already exists.
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

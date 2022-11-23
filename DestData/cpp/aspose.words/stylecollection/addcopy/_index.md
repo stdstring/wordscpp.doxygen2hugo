@@ -36,7 +36,6 @@ If collection already contains a style with the same name, then new name is auto
 
 
 
-
 Shows how to clone a document's style. 
 ```cpp
 auto doc = MakeObject<Document>();

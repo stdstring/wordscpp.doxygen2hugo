@@ -20,7 +20,6 @@ virtual System::String Aspose::Words::Fields::IFieldResultFormatter::FormatDateT
 
 
 
-
 Shows how to automatically apply a custom format to field results as the fields are updated. 
 ```cpp
 void FieldResultFormatting_()

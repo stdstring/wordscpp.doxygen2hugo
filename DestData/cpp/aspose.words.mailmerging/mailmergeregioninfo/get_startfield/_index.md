@@ -20,7 +20,6 @@ const System::SharedPtr<Aspose::Words::Fields::FieldMergeField> & Aspose::Words:
 
 
 
-
 Shows how to verify mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Mail merge regions.docx");

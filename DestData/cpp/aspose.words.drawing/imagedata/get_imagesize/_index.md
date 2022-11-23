@@ -22,7 +22,6 @@ If the image is linked only and not stored in the document, returns zero size.
 
 
 
-
 Shows how to resize a shape with an image. 
 ```cpp
 // When we insert an image using the "InsertImage" method, the builder scales the shape that displays the image so that,

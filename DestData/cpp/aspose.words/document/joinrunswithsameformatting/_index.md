@@ -28,7 +28,6 @@ The operation checks every [Paragraph](../../paragraph/) node in the document fo
 
 
 
-
 Shows how to join runs in a document to reduce unneeded runs. 
 ```cpp
 // Open a document that contains adjacent runs of text with identical formatting,

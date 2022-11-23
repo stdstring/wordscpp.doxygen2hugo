@@ -20,7 +20,6 @@ Aspose::Words::Tables::TextWrapping Aspose::Words::Tables::Table::get_TextWrappi
 
 
 
-
 Shows how to work with table text wrapping. 
 ```cpp
 auto doc = MakeObject<Document>();

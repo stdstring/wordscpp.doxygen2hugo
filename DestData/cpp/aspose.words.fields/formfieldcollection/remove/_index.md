@@ -24,7 +24,6 @@ void Aspose::Words::Fields::FormFieldCollection::Remove(const System::String &fo
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

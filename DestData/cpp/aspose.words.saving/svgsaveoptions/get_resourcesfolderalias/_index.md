@@ -22,7 +22,6 @@ When you save a [Document](../../../aspose.words/document/) in SVG format, Aspos
 
 
 
-
 Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. 
 ```cpp
 void SvgResourceFolder()

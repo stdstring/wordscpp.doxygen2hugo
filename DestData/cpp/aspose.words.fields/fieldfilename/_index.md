@@ -53,7 +53,6 @@ In the current implementation, uses the [OriginalFileName](../../aspose.words/do
 
 
 
-
 Shows how to use [FieldOptions](../fieldoptions/) to override the default value for the FILENAME field. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

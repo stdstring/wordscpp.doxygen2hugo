@@ -32,7 +32,6 @@ If index is negative and its absolute value is greater than the number of items 
 
 
 
-
 Shows how to add and remove series data in a chart. 
 ```cpp
 auto doc = MakeObject<Document>();

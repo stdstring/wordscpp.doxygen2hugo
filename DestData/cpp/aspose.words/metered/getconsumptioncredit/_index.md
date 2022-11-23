@@ -20,4 +20,3 @@ static System::Decimal Aspose::Words::Metered::GetConsumptionCredit()
 
 consumption quantity
 
-

@@ -20,7 +20,6 @@ void Aspose::Words::DocumentBuilder::InsertStyleSeparator()
 
 
 
-
 Shows how to work with style separators. 
 ```cpp
 auto doc = MakeObject<Document>();

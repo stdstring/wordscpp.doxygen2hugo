@@ -20,7 +20,6 @@ double Aspose::Words::ParagraphFormat::get_RightIndent()
 
 
 
-
 Shows how to configure paragraph formatting to create off-center text. 
 ```cpp
 auto doc = MakeObject<Document>();

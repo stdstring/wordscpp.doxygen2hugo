@@ -26,7 +26,6 @@ Exception when thrown by implementation aborts layout build process.
 
 
 
-
 Shows how to track layout changes with a layout callback. 
 ```cpp
 void PageLayoutCallback()

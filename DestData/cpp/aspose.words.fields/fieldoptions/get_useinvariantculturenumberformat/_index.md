@@ -26,7 +26,6 @@ The default value is **false**.
 
 
 
-
 Shows how to format numbers according to the invariant culture. 
 ```cpp
 auto doc = MakeObject<Document>();

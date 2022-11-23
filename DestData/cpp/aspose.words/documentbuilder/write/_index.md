@@ -24,7 +24,6 @@ void Aspose::Words::DocumentBuilder::Write(const System::String &text)
 
 
 
-
 Shows how to insert a string surrounded by a border into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

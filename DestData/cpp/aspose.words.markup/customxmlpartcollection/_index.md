@@ -56,7 +56,6 @@ You do not normally need to create instances of this class. You can access custo
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

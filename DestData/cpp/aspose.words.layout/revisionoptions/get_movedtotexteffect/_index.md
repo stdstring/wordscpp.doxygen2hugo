@@ -20,7 +20,6 @@ Aspose::Words::Layout::RevisionTextEffect Aspose::Words::Layout::RevisionOptions
 
 
 
-
 Shows how to modify the appearance of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

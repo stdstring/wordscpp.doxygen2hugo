@@ -46,7 +46,6 @@ class FieldFootnoteRef : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to cross-reference footnotes with the FOOTNOTEREF field. 
 ```cpp
 auto doc = MakeObject<Document>();

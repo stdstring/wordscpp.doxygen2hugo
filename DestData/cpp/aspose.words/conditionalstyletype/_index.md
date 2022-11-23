@@ -37,7 +37,6 @@ enum class ConditionalStyleType
 
 
 
-
 Shows how to work with certain area styles of a table. 
 ```cpp
 auto doc = MakeObject<Document>();

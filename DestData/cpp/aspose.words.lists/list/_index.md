@@ -48,7 +48,6 @@ To apply or remove list formatting from a paragraph, use [ListFormat](../listfor
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();

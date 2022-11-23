@@ -36,7 +36,6 @@ class FileFormatUtil
 
 
 
-
 Shows how to detect encoding in an html file. 
 ```cpp
 SharedPtr<FileFormatInfo> info = FileFormatUtil::DetectFileFormat(MyDir + u"Document.html");

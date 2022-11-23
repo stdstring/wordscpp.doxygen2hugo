@@ -44,7 +44,6 @@ Note that after changing any of the options present in this class, [UpdatePageLa
 
 
 
-
 Shows how to alter the appearance of revisions in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();

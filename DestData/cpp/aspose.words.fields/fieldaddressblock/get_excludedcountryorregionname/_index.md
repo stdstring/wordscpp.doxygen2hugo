@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRe
 
 
 
-
 Shows how to insert an ADDRESSBLOCK field. 
 ```cpp
 auto doc = MakeObject<Document>();

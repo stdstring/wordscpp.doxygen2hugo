@@ -20,7 +20,6 @@ double Aspose::Words::TextColumn::get_Width()
 
 
 
-
 Shows how to create unevenly spaced columns. 
 ```cpp
 auto doc = MakeObject<Document>();

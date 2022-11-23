@@ -33,7 +33,6 @@ When you set paragraph Space Before and Space After to Auto, **Microsoft** Word 
 
 
 
-
 Shows how to set automatic paragraph spacing. 
 ```cpp
 auto doc = MakeObject<Document>();

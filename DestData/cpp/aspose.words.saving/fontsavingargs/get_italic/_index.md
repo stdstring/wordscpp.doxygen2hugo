@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::FontSavingArgs::get_Italic() const
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

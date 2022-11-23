@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

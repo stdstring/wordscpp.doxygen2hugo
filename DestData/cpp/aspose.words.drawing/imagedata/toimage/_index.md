@@ -24,7 +24,6 @@ It is the responsibility of the caller to dispose the image object.
 
 
 
-
 Shows how to save all images from a document to the file system. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");

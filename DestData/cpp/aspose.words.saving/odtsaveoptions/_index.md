@@ -77,7 +77,6 @@ At the moment provides only the [SaveFormat](./get_saveformat/) property, but in
 
 
 
-
 Shows how to make a saved document conform to an older ODT schema. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

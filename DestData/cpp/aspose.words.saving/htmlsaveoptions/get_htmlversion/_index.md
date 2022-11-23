@@ -20,7 +20,6 @@ Aspose::Words::Saving::HtmlVersion Aspose::Words::Saving::HtmlSaveOptions::get_H
 
 
 
-
 Shows how to save a document to a specific version of HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

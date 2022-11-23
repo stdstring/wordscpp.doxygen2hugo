@@ -77,7 +77,6 @@ class FieldIndex : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to create an INDEX field, and then use XE fields to populate it with entries. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Default is empty string.
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

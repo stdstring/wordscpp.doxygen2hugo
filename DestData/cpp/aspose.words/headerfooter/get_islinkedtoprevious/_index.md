@@ -24,7 +24,6 @@ Note, when your link a header or footer, its contents is cleared.
 
 
 
-
 Shows how to link headers and footers between sections. 
 ```cpp
 auto doc = MakeObject<Document>();

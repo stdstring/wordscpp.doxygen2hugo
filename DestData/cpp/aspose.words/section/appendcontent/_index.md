@@ -30,7 +30,6 @@ No new section is created in the destination document.
 
 
 
-
 Shows how to append the contents of a section to another section. 
 ```cpp
 auto doc = MakeObject<Document>();

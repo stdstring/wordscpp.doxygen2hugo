@@ -22,7 +22,6 @@ For list styles this property returns null.
 
 
 
-
 Shows how to create and apply a custom style. 
 ```cpp
 auto doc = MakeObject<Document>();

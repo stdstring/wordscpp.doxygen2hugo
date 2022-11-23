@@ -25,7 +25,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 An instance of [CertificateHolder](../)
 
-
 ## CertificateHolder::Create(const System::ArrayPtr\<uint8_t\>\&, const System::String\&) method
 
 
@@ -44,7 +43,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 ### ReturnValue
 
 An instance of [CertificateHolder](../)
-
 
 ## CertificateHolder::Create(const System::String\&, const System::String\&) method
 
@@ -66,7 +64,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 An instance of [CertificateHolder](../)
 
 ## Examples
-
 
 
 
@@ -111,5 +108,4 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 ### ReturnValue
 
 An instance of [CertificateHolder](../)
-
 

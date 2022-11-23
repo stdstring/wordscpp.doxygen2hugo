@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAdvance::get_UpOffset()
 
 
 
-
 Shows how to insert an ADVANCE field, and edit its properties. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -30,7 +30,6 @@ This version of Aspose.Words provides limited support for table styles as follow
 
 
 
-
 Shows how to apply the properties of a table's style directly to the table's elements. 
 ```cpp
 auto doc = MakeObject<Document>();

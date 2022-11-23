@@ -22,7 +22,6 @@ The default value is null and the output document will not be signed. When this 
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

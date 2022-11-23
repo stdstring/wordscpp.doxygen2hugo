@@ -33,7 +33,6 @@ class FolderFontSource : public Aspose::Words::Fonts::FontSourceBase
 
 
 
-
 Shows how to use a local system folder which contains fonts as a font source. 
 ```cpp
 // Create a font source from a folder that contains font files.

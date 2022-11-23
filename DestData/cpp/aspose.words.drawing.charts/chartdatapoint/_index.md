@@ -35,7 +35,6 @@ class ChartDataPoint : public Aspose::Words::Drawing::Charts::IChartDataPoint,
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

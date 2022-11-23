@@ -24,7 +24,6 @@ RTF-format can only store 1 symbol as custom reference mark, so upon export only
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

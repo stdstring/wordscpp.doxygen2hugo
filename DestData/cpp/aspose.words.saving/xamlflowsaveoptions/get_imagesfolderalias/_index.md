@@ -28,7 +28,6 @@ If [ImagesFolderAlias](./) is set to '.' (dot), then the image file name will be
 
 
 
-
 Shows how to print the filenames of linked images created while converting a document to flow-form .xaml. 
 ```cpp
 void ImageFolder()

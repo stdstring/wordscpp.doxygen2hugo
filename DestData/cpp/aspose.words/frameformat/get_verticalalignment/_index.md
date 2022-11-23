@@ -20,7 +20,6 @@ Aspose::Words::Drawing::VerticalAlignment Aspose::Words::FrameFormat::get_Vertic
 
 
 
-
 Shows how to get information about formatting properties of paragraphs that are frames. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraph frame.docx");

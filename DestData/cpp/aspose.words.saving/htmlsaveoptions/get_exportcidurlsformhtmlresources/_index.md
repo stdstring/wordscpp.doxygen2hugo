@@ -28,7 +28,6 @@ In theory, there should be no difference between the two referencing methods and
 
 
 
-
 Shows how to enable content IDs for output MHTML documents. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

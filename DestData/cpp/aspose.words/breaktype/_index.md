@@ -34,7 +34,6 @@ enum class BreakType
 
 
 
-
 Shows how to create headers and footers in a document using [DocumentBuilder](../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::Tables::CellVerticalAlignment Aspose::Words::Tables::CellFormat::
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

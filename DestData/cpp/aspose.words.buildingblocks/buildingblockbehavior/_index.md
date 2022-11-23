@@ -31,7 +31,6 @@ Corresponds to the **ST_DocPartBehavior** type in OOXML.
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

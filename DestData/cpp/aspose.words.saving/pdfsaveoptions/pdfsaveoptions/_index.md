@@ -20,7 +20,6 @@ Aspose::Words::Saving::PdfSaveOptions::PdfSaveOptions()
 
 
 
-
 Shows how to enable or disable subsetting when embedding fonts while rendering a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

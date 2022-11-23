@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::SaveOutputParameters::get_ContentType() co
 
 
 
-
 Shows how to access output parameters of a document's save operation. 
 ```cpp
 auto doc = MakeObject<Document>();

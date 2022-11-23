@@ -32,7 +32,6 @@ If index is negative and its absolute value is greater than the number of items 
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

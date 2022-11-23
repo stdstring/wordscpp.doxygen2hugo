@@ -30,7 +30,6 @@ This method performs a linear search; therefore, the average execution time is p
 
 
 
-
 Shows how to work with a [NodeCollection](../). 
 ```cpp
 auto doc = MakeObject<Document>();

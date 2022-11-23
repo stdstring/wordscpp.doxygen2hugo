@@ -20,7 +20,6 @@ Aspose::Words::Loading::LoadOptions::LoadOptions()
 
 
 
-
 Shows how to open an HTML document with images from a stream using a base URI. 
 ```cpp
 {
@@ -59,7 +58,6 @@ Aspose::Words::Loading::LoadOptions::LoadOptions(Aspose::Words::LoadFormat loadF
 | baseUri | const System::String\& | The string that will be used to resolve relative URIs to absolute. Can be null or empty string. |
 
 ## Examples
-
 
 
 
@@ -119,7 +117,6 @@ Aspose::Words::Loading::LoadOptions::LoadOptions(const System::String &password)
 | password | const System::String\& | The password to open an encrypted document. Can be null or empty string. |
 
 ## Examples
-
 
 
 

@@ -22,7 +22,6 @@ Set to **true** to make HTML, MHTML, EPUB, WordML, RTF, DOCX and ODT output huma
 
 
 
-
 Shows how to enhance the readability of the raw code of a saved .html document. 
 ```cpp
 auto doc = MakeObject<Document>();

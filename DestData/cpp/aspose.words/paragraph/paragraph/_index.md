@@ -28,7 +28,6 @@ To append **Paragraph** to the document use InsertAfter or InsertBefore on the s
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

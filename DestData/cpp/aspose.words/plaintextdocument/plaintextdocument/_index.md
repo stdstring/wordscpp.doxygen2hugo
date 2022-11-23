@@ -26,7 +26,6 @@ The document must be stored at the beginning of the stream. The stream must supp
 
 
 
-
 Shows how to load the contents of a Microsoft Word document in plaintext using stream. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -61,7 +60,6 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::SharedPtr<Syst
 The document must be stored at the beginning of the stream. The stream must support random positioning.
 
 ## Examples
-
 
 
 
@@ -106,7 +104,6 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::String &fileNa
 
 
 
-
 Shows how to load the contents of a Microsoft Word document in plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -136,7 +133,6 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(const System::String &fileNa
 | loadOptions | const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\& | Additional options to use when loading a document. Can be null. |
 
 ## Examples
-
 
 
 

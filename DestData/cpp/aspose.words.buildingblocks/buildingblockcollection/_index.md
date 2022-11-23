@@ -37,7 +37,6 @@ You do not create instances of this class directly. To access a collection of bu
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

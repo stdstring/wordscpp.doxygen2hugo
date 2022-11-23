@@ -28,7 +28,6 @@ To include [Section](../) into a document use [Document.InsertAfter](../../compo
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

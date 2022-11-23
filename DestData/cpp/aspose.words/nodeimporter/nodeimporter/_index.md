@@ -26,7 +26,6 @@ Aspose::Words::NodeImporter::NodeImporter(const System::SharedPtr<Aspose::Words:
 
 
 
-
 Shows how to insert the contents of one document to a bookmark in another document. 
 ```cpp
 void InsertAtBookmark()
@@ -106,7 +105,6 @@ Aspose::Words::NodeImporter::NodeImporter(const System::SharedPtr<Aspose::Words:
 | importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Specifies various options to format imported node. |
 
 ## Examples
-
 
 
 

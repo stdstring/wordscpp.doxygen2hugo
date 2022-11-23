@@ -30,7 +30,6 @@ When node is a block-level node but not a [Paragraph](../../paragraph/), the cur
 
 
 
-
 Shows how to move a document builder's cursor to different nodes in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

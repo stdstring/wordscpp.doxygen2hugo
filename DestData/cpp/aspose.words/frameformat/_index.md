@@ -40,7 +40,6 @@ Use [IsFrame](./get_isframe/) to check whether paragraph is a frame.
 
 
 
-
 Shows how to get information about formatting properties of paragraphs that are frames. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraph frame.docx");

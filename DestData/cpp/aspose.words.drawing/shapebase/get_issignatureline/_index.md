@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsSignatureLine()
 
 
 
-
 Shows how to create a line for a signature and insert it into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

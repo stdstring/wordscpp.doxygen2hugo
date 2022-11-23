@@ -40,7 +40,6 @@ To suppress saving CSS into a file and embedding to HTML document use the [IsExp
 
 
 
-
 Shows how to work with CSS stylesheets that an HTML conversion creates. 
 ```cpp
 void ExternalCssFilenames()

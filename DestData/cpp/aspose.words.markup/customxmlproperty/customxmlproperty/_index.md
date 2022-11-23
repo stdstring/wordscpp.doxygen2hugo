@@ -26,7 +26,6 @@ Aspose::Words::Markup::CustomXmlProperty::CustomXmlProperty(const System::String
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

@@ -24,7 +24,6 @@ In Word documents, lists may consist of up to nine levels. [List](../../list/) f
 
 
 
-
 Shows how to create bulleted and numbered lists. 
 ```cpp
 auto doc = MakeObject<Document>();

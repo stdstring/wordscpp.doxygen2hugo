@@ -79,7 +79,6 @@ enum class TextureIndex
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();

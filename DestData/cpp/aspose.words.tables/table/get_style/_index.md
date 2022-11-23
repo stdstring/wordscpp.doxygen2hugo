@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::Tables::Table::get_Style(
 
 
 
-
 Shows how to create custom style settings for the table. 
 ```cpp
 auto doc = MakeObject<Document>();

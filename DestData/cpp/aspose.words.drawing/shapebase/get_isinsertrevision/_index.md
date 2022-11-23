@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsInsertRevision()
 
 
 
-
 Shows how to work with revision shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

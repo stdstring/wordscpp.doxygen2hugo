@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 
 
 
-
 Shows how to list available fonts. 
 ```cpp
 // Configure Aspose.Words to source fonts from a custom folder, and then print every available font.

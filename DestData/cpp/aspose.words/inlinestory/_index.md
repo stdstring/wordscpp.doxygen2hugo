@@ -80,7 +80,6 @@ The classes that derive from **InlineStory** are inline-level nodes that can con
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

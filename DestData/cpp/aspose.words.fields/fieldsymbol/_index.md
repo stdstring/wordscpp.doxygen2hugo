@@ -61,7 +61,6 @@ class FieldSymbol : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use the SYMBOL field. 
 ```cpp
 auto doc = MakeObject<Document>();

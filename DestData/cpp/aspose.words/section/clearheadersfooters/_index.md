@@ -24,7 +24,6 @@ This makes headers and footers of this section linked to headers and footers of 
 
 
 
-
 Shows how to clear the contents of all headers and footers in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

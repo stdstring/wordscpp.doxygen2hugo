@@ -24,7 +24,6 @@ void Aspose::Words::Drawing::Fill::Patterned(Aspose::Words::Drawing::PatternType
 
 
 
-
 Shows how to set pattern for a shape. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape stroke pattern border.docx");
@@ -61,7 +60,6 @@ void Aspose::Words::Drawing::Fill::Patterned(Aspose::Words::Drawing::PatternType
 | backColor | System::Drawing::Color | The color of the background fill. |
 
 ## Examples
-
 
 
 

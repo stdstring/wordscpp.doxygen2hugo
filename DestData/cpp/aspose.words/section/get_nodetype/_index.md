@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Section::get_NodeType() const override
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

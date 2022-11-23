@@ -22,7 +22,6 @@ Setting this property updates [PageWidth](../get_pagewidth/) and [PageHeight](..
 
 
 
-
 Shows how to adjust paper size, orientation, margins, along with other settings for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

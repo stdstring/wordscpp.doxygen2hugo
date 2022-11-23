@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomXmlPartCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

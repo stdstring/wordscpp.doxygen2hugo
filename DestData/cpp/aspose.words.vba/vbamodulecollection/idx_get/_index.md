@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Vba::VbaModule> Aspose::Words::Vba::VbaModuleCo
 
 
 
-
 Shows how to access a document's VBA project information. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");
@@ -65,7 +64,6 @@ System::SharedPtr<Aspose::Words::Vba::VbaModule> Aspose::Words::Vba::VbaModuleCo
 | index | int32_t | Zero-based index of the module to retrieve. |
 
 ## Examples
-
 
 
 

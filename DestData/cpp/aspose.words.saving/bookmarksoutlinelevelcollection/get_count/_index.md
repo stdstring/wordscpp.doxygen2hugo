@@ -20,7 +20,6 @@ int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::get_Count()
 
 
 
-
 Shows how to set outline levels for bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>();

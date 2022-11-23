@@ -35,7 +35,6 @@ Documents must not have revisions before comparison.
 
 
 
-
 Shows how to compare documents. 
 ```cpp
 auto docOriginal = MakeObject<Document>();
@@ -78,7 +77,6 @@ void Aspose::Words::Document::Compare(const System::SharedPtr<Aspose::Words::Doc
 
 
 ## Examples
-
 
 
 

@@ -26,7 +26,6 @@ The returned value is a copy of the data that Aspose.Words uses. If you change t
 
 
 
-
 Shows how to add a font source to our existing font sources. 
 ```cpp
 auto doc = MakeObject<Document>();

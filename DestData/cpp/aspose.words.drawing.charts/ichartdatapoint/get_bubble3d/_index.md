@@ -20,7 +20,6 @@ virtual bool Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D()=0
 
 
 
-
 Shows how to use 3D effects with bubble charts. 
 ```cpp
 auto doc = MakeObject<Document>();

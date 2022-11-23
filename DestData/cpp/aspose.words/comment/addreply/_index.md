@@ -31,7 +31,6 @@ The created [Comment](../) node for the reply.
 
 
 
-
 Shows how to add a comment to a document, and then reply to it. 
 ```cpp
 auto doc = MakeObject<Document>();

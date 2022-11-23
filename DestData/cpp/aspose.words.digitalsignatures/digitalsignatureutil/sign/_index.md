@@ -26,7 +26,6 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 
 
 
-
 Shows how to sign documents with X.509 certificates. 
 ```cpp
 // Verify that a document is not signed.
@@ -87,7 +86,6 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 
 
 
-
 Shows how to digitally sign documents. 
 ```cpp
 // Create an X.509 certificate from a PKCS#12 store, which should contain a private key.
@@ -127,7 +125,6 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 | certHolder | const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\& | [CertificateHolder](../../certificateholder/) object with certificate that used to sign file. The certificate in holder MUST contain private keys. |
 
 ## Examples
-
 
 
 
@@ -188,7 +185,6 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(const S
 | signOptions | const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\& | [SignOptions](../../signoptions/) object with various signing options. |
 
 ## Examples
-
 
 
 

@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::Charts::ChartSeries::get_Name()
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

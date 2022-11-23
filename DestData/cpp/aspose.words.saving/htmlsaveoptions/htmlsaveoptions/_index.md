@@ -20,7 +20,6 @@ Aspose::Words::Saving::HtmlSaveOptions::HtmlSaveOptions()
 
 
 
-
 Shows how to use a specific encoding when saving a document to .epub. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -57,7 +56,6 @@ Aspose::Words::Saving::HtmlSaveOptions::HtmlSaveOptions(Aspose::Words::SaveForma
 | saveFormat | Aspose::Words::SaveFormat | Can be **Html**, **Mhtml**, **Epub** or **Azw3**. |
 
 ## Examples
-
 
 
 

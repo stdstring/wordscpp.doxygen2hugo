@@ -28,7 +28,6 @@ enum class TxtExportHeadersFootersMode
 
 
 
-
 Shows how to specify how to export headers and footers to plain text format. 
 ```cpp
 auto doc = MakeObject<Document>();

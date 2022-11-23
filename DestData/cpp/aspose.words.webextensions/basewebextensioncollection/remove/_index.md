@@ -24,7 +24,6 @@ void Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::Remove(int32_t
 
 
 
-
 Shows how to work with a document's collection of web extensions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Web extension.docx");

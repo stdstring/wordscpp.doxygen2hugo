@@ -24,7 +24,6 @@ Corresponds to the **docPartPr.category.gallery** element in OOXML.
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

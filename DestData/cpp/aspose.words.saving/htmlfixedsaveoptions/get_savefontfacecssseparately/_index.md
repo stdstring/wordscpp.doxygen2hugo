@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveFontFaceCssSeparately(
 
 
 
-
 Shows how to place CSS into a separate file and add a prefix to all of its CSS class names. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Bookmarks.docx");

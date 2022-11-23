@@ -22,7 +22,6 @@ Setting **CalculateOnExit** only affects the behavior of the form field when the
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

@@ -71,7 +71,6 @@ class FieldLink : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use various field types to link to other documents in the local file system, and display their contents. 
 ```cpp
 enum class InsertLinkedObjectAs

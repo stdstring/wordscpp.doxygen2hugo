@@ -20,7 +20,6 @@ Aspose::Words::Tables::TableStyleOptions Aspose::Words::Tables::Table::get_Style
 
 
 
-
 Shows how to build a new table while applying a style. 
 ```cpp
 auto doc = MakeObject<Document>();

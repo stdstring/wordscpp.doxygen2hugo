@@ -20,7 +20,6 @@ bool Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering() const
 
 
 
-
 Shows how to import a document with numbered lists. 
 ```cpp
 auto srcDoc = MakeObject<Document>(MyDir + u"List source.docx");

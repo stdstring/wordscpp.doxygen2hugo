@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::UserInformation::get_Name() const
 
 
 
-
 Shows how to set user details, and display them using fields. 
 ```cpp
 auto doc = MakeObject<Document>();

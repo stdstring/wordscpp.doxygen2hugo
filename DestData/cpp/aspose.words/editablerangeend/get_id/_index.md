@@ -20,7 +20,6 @@ int32_t Aspose::Words::EditableRangeEnd::get_Id() const
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();

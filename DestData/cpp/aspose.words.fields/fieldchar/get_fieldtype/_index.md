@@ -20,7 +20,6 @@ Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldChar::get_FieldType
 
 
 
-
 Shows how to work with a [FieldStart](../../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();

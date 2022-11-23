@@ -56,7 +56,6 @@ template<typename T>class BaseWebExtensionCollection : public System::Collection
 
 
 
-
 Shows how to work with a document's collection of web extensions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Web extension.docx");

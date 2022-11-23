@@ -20,7 +20,6 @@ bool Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng() const
 
 
 
-
 Shows how to convert WMF/EMF to PNG during loading document. 
 ```cpp
 auto doc = MakeObject<Document>();

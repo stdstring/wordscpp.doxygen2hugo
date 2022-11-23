@@ -20,7 +20,6 @@ int32_t Aspose::Words::BorderCollection::get_Count()
 
 
 
-
 Shows how border collections can share elements. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ For shapes in a group, the value is in the coordinate space and units of the par
 
 
 
-
 Shows how to create and populate a group shape. 
 ```cpp
 auto doc = MakeObject<Document>();

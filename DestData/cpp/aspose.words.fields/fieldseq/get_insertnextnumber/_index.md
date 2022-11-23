@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldSeq::get_InsertNextNumber()
 
 
 
-
 Shows create numbering using SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();

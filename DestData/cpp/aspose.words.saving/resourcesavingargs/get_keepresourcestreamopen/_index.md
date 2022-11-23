@@ -22,7 +22,6 @@ Default is **false** and Aspose.Words will close the stream you provided in the 
 
 
 
-
 Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. 
 ```cpp
 void HtmlFixedResourceFolder()

@@ -20,7 +20,6 @@ bool Aspose::Words::TextColumnCollection::get_EvenlySpaced()
 
 
 
-
 Shows how to create unevenly spaced columns. 
 ```cpp
 auto doc = MakeObject<Document>();

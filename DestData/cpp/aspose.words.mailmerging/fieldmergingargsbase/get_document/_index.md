@@ -20,7 +20,6 @@ const System::SharedPtr<Aspose::Words::Document> & Aspose::Words::MailMerging::F
 
 
 
-
 Shows how to execute a mail merge with a custom callback that handles merge data in the form of HTML documents. 
 ```cpp
 void MergeHtml()

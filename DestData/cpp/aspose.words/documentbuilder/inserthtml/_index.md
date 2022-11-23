@@ -24,7 +24,6 @@ void Aspose::Words::DocumentBuilder::InsertHtml(const System::String &html)
 
 
 
-
 Shows how to use a document builder to insert html content into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -123,7 +122,6 @@ void Aspose::Words::DocumentBuilder::InsertHtml(const System::String &html, Aspo
 
 
 
-
 Shows how to use options while inserting html. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -168,7 +166,6 @@ When useBuilderFormatting is **false**, [DocumentBuilder](../) formating is igno
 When useBuilderFormatting is **true**, formatting of inserted text is based on [DocumentBuilder](../) formatting, and the text looks as if it were inserted with **Write()**.
 
 ## Examples
-
 
 
 

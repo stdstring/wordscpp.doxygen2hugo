@@ -29,7 +29,6 @@ enum class StyleType
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

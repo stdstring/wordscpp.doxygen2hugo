@@ -20,7 +20,6 @@ void Aspose::Words::Fields::FieldCollection::Clear()
 
 
 
-
 Shows how to remove fields from a field collection. 
 ```cpp
 auto doc = MakeObject<Document>();

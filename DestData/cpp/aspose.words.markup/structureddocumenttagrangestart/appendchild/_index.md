@@ -24,4 +24,3 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::StructuredDocument
 
 The node added.
 
-

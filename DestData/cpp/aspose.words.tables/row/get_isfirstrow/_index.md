@@ -20,7 +20,6 @@ bool Aspose::Words::Tables::Row::get_IsFirstRow()
 
 
 
-
 Shows how to print the node structure of every table in a document. 
 ```cpp
 void TableToText()

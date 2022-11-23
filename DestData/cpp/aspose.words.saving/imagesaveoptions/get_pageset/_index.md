@@ -22,7 +22,6 @@ This property has effect only when rendering document pages. This property is ig
 
 
 
-
 Shows how to render one page from a document to a JPEG image. 
 ```cpp
 auto doc = MakeObject<Document>();

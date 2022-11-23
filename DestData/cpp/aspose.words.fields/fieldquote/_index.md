@@ -48,7 +48,6 @@ class FieldQuote : public Aspose::Words::Fields::Field
 
 
 
-
 Shows to use the QUOTE field. 
 ```cpp
 auto doc = MakeObject<Document>();

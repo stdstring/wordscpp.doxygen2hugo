@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartDataPointCollection> Aspo
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

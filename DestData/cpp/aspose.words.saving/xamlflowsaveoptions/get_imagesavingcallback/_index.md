@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IImageSavingCallback> Aspose::Words::Sa
 
 
 
-
 Shows how to print the filenames of linked images created while converting a document to flow-form .xaml. 
 ```cpp
 void ImageFolder()

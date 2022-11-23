@@ -57,7 +57,6 @@ class FieldSeq : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to populate a TOC field with entries using SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();

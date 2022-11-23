@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FormField::get_Name()
 
 
 
-
 Shows how to insert a combo box. 
 ```cpp
 auto doc = MakeObject<Document>();

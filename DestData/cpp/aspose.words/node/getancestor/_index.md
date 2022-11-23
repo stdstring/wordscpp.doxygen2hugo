@@ -28,7 +28,6 @@ The ancestor of the specified type or null if no ancestor of this type was found
 
 
 
-
 Shows how to find out if a tables are nested. 
 ```cpp
 void CalculateDepthOfNestedTables()

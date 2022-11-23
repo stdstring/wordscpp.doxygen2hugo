@@ -20,7 +20,6 @@ Aspose::Words::Settings::MultiplePagesType Aspose::Words::PageSetup::get_Multipl
 
 
 
-
 Shows how to set gutter margins. 
 ```cpp
 auto doc = MakeObject<Document>();

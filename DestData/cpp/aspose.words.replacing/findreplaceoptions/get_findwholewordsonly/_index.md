@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly() cons
 
 
 
-
 Shows how to toggle standalone word-only find-and-replace operations. 
 ```cpp
 auto doc = MakeObject<Document>();

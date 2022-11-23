@@ -28,7 +28,6 @@ To append **Table** to the document use InsertAfter or InsertBefore on the story
 
 
 
-
 Shows how to create a table. 
 ```cpp
 auto doc = MakeObject<Document>();

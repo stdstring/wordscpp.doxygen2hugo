@@ -31,7 +31,6 @@ This method converts [SizeInPoints](../get_sizeinpoints/) into size in pixels an
 
 
 
-
 Shows how to measure and scale shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");
@@ -96,7 +95,6 @@ The size of the shape in pixels.
 This method converts [SizeInPoints](../get_sizeinpoints/) into size in pixels and it is useful when you want to create a bitmap for rendering the shape neatly onto the bitmap.
 
 ## Examples
-
 
 
 

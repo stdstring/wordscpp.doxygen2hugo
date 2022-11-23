@@ -26,7 +26,6 @@ Setting this property to null removes bullets and numbering from the paragraph a
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();

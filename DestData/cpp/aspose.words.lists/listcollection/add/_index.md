@@ -32,7 +32,6 @@ All lists created using this method have 9 list levels.
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -165,7 +164,6 @@ The newly created list.
 The newly created list references the list style. If you change the properties of the list style, it is reflected in the properties of the list. Vice versa, if you change the properties of the list, it is reflected in the properties of the list style.
 
 ## Examples
-
 
 
 

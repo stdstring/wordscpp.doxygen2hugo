@@ -20,7 +20,6 @@ Aspose::Words::OutlineLevel Aspose::Words::ParagraphFormat::get_OutlineLevel()
 
 
 
-
 Shows how to configure paragraph outline levels to create collapsible text. 
 ```cpp
 auto doc = MakeObject<Document>();

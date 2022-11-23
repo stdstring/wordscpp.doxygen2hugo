@@ -20,7 +20,6 @@ System::String Aspose::Words::Properties::DocumentProperty::get_LinkSource() con
 
 
 
-
 Shows how to link a custom document property to a bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();

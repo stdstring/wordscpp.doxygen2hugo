@@ -20,7 +20,6 @@ int32_t Aspose::Words::Notes::FootnoteOptions::get_Columns()
 
 
 
-
 Shows how to split the footnote section into a given number of columns. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Footnotes and endnotes.docx");

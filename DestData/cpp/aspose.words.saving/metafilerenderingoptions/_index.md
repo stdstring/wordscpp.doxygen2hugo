@@ -35,7 +35,6 @@ class MetafileRenderingOptions : public System::Object
 
 
 
-
 Shows added a fallback to bitmap rendering and changing type of warnings about unsupported metafile records. 
 ```cpp
 void HandleBinaryRasterWarnings()

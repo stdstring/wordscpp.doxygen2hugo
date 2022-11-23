@@ -24,7 +24,6 @@ void Aspose::Words::Fonts::TableSubstitutionRule::Load(const System::SharedPtr<S
 
 
 
-
 Shows how to work with custom font substitution tables. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -94,7 +93,6 @@ void Aspose::Words::Fonts::TableSubstitutionRule::Load(const System::String &fil
 | fileName | const System::String\& | Input file name. |
 
 ## Examples
-
 
 
 

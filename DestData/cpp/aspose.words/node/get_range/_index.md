@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Range> Aspose::Words::Node::get_Range()
 
 
 
-
 Shows how to delete all the nodes from a range. 
 ```cpp
 auto doc = MakeObject<Document>();

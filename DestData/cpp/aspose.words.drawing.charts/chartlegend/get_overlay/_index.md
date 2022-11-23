@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay() const
 
 
 
-
 Shows how to edit the appearance of a chart's legend. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::OleFormat::get_SuggestedExtension()
 
 
 
-
 Shows how to extract embedded OLE objects into files. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"OLE spreadsheet.docm");

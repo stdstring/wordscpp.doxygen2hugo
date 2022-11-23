@@ -27,7 +27,6 @@ enum class ColorMode
 
 
 
-
 Shows how to change image color with saving options property. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

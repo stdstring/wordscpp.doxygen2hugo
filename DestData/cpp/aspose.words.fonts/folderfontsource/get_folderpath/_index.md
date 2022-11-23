@@ -20,7 +20,6 @@ System::String Aspose::Words::Fonts::FolderFontSource::get_FolderPath() const
 
 
 
-
 Shows how to use a local system folder which contains fonts as a font source. 
 ```cpp
 // Create a font source from a folder that contains font files.

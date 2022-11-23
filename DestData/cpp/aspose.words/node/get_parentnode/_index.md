@@ -22,7 +22,6 @@ If a node has just been created and not yet added to the tree, or if it has been
 
 
 
-
 Shows how to access a node's parent node. 
 ```cpp
 auto doc = MakeObject<Document>();

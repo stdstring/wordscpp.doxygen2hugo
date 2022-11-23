@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSeq::get_BookmarkName()
 
 
 
-
 Shows how to combine table of contents and sequence fields. 
 ```cpp
 auto doc = MakeObject<Document>();

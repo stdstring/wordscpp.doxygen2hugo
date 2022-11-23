@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsEndOfHeaderFooter()
 
 
 
-
 Shows how to create a header and a footer. 
 ```cpp
 auto doc = MakeObject<Document>();

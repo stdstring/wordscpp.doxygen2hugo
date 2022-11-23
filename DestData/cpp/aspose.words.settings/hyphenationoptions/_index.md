@@ -33,7 +33,6 @@ class HyphenationOptions : public System::Object
 
 
 
-
 Shows how to configure automatic hyphenation. 
 ```cpp
 auto doc = MakeObject<Document>();

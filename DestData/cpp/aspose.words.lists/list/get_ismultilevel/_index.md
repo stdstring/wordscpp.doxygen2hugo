@@ -24,7 +24,6 @@ Microsoft Word 2003 and later always create multi-level lists with 9 levels. But
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

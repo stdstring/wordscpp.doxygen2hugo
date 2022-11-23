@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsMoveFromRevision()
 
 
 
-
 Shows how to check whether a paragraph is a move revision. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

@@ -20,7 +20,6 @@ System::DateTime Aspose::Words::Revision::get_DateTime()
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

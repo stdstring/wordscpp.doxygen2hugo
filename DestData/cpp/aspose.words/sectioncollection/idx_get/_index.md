@@ -32,7 +32,6 @@ If index is negative and its absolute value is greater than the number of items 
 
 
 
-
 Shows when to recalculate the page layout of the document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

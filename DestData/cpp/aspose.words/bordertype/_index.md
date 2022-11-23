@@ -34,7 +34,6 @@ enum class BorderType
 
 
 
-
 Shows how to insert a paragraph with a top border. 
 ```cpp
 auto doc = MakeObject<Document>();

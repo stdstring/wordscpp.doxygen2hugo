@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::OleFormat::get_IconCaption()
 
 
 
-
 Shows how to insert linked and unlinked OLE objects. 
 ```cpp
 auto doc = MakeObject<Document>();

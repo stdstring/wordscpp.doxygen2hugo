@@ -55,7 +55,6 @@ Use the [Bookmark](../bookmark/) class as a "facade" to work with a bookmark as 
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

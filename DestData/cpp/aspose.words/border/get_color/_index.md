@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Border::get_Color()
 
 
 
-
 Shows how to insert a string surrounded by a border into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

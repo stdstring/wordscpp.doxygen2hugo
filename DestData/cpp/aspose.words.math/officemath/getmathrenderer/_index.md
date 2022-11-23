@@ -26,7 +26,6 @@ This method just invokes the [OfficeMathRenderer](../../../aspose.words.renderin
 
 
 
-
 Shows how to render an Office [Math](../../) object into an image file in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

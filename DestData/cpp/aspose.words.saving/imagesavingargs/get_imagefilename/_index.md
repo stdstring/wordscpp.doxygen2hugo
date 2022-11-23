@@ -32,7 +32,6 @@ When saving a document to a stream, the generated image file name looks like Asp
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

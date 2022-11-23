@@ -20,7 +20,6 @@ Aspose::Words::PageVerticalAlignment Aspose::Words::PageSetup::get_VerticalAlign
 
 
 
-
 Shows how to apply and revert page setup settings to sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::WebExtensions::WebExtensionStoreType Aspose::Words::WebExtensions
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

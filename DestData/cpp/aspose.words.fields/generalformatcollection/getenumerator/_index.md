@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<Aspose::Words::Field
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ class GradientStopCollection : public System::Collections::Generic::IEnumerable<
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();

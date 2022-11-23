@@ -24,7 +24,6 @@ A [Field](../../field/) object that represents the inserted field.
 
 
 
-
 Shows how to create and insert a field using a field builder. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -62,7 +61,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldBuil
 A [Field](../../field/) object that represents the inserted field.
 
 ## Examples
-
 
 
 

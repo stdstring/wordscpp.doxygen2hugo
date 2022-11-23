@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldUserName::get_UserName()
 
 
 
-
 Shows how to use the USERNAME field. 
 ```cpp
 auto doc = MakeObject<Document>();

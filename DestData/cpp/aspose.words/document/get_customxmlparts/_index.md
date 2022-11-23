@@ -24,7 +24,6 @@ This property cannot be **null**.
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

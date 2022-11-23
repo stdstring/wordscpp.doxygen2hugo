@@ -22,7 +22,6 @@ Aspose.Words updates this property when you call [UpdatePageLayout](../../../asp
 
 
 
-
 Shows how to work with document properties in the "Content" category. 
 ```cpp
 void Content()

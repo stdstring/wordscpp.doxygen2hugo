@@ -28,7 +28,6 @@ enum class TextWrapping
 
 
 
-
 Shows how to work with table text wrapping. 
 ```cpp
 auto doc = MakeObject<Document>();

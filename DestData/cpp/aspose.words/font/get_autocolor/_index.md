@@ -22,7 +22,6 @@ When text has 'automatic color', the actual color of text is calculated automati
 
 
 
-
 Shows how to improve readability by automatically selecting text color based on the brightness of its background. 
 ```cpp
 auto doc = MakeObject<Document>();

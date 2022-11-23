@@ -20,7 +20,6 @@ System::String Aspose::Words::Markup::CustomXmlSchemaCollection::idx_get(int32_t
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

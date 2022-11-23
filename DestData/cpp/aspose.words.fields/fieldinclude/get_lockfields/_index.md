@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldInclude::get_LockFields() override
 
 
 
-
 Shows how to create an INCLUDE field, and set its properties. 
 ```cpp
 auto doc = MakeObject<Document>();

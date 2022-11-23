@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::M
 
 
 
-
 Shows how to use a building block's contents as a custom placeholder text for a structured document tag. 
 ```cpp
 auto doc = MakeObject<Document>();

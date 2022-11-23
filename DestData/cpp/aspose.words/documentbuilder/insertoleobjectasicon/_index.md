@@ -31,7 +31,6 @@ Shape node containing Ole object and inserted at the current Builder position.
 
 
 
-
 Shows how to insert an embedded or linked OLE object as icon into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,7 +77,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 Shape node containing Ole object and inserted at the current Builder position.
 
-
 ## DocumentBuilder::InsertOleObjectAsIcon(const System::String\&, const System::String\&, bool, const System::String\&, const System::String\&) method
 
 
@@ -102,7 +100,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 Shape node containing Ole object and inserted at the current Builder position.
 
 ## Examples
-
 
 
 

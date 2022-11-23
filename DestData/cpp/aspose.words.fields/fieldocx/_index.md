@@ -46,7 +46,6 @@ class FieldOcx : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to insert an OCX field. 
 ```cpp
 auto doc = MakeObject<Document>();

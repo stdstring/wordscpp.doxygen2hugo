@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IFontSavingCallback> Aspose::Words::Sav
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

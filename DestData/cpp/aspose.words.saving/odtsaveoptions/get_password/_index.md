@@ -22,7 +22,6 @@ In order to save document without encryption this property should be null or emp
 
 
 
-
 Shows how to encrypt a saved ODT/OTT document with a password, and then load it using Aspose.Words. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ This method allows to quickly set text of a comment from a string. The string ca
 
 
 
-
 Shows how to add a comment to a document, and then reply to it. 
 ```cpp
 auto doc = MakeObject<Document>();

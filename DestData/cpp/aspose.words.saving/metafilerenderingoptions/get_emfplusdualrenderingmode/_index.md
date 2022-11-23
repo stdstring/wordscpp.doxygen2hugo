@@ -26,7 +26,6 @@ The default value is **EmfPlusWithFallback**.
 
 
 
-
 Shows how to configure Enhanced Windows Metafile-related rendering options when saving to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"EMF.docx");

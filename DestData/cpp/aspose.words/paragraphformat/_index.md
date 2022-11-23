@@ -101,7 +101,6 @@ class ParagraphFormat : public Aspose::Words::IBorderAttrSource,
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

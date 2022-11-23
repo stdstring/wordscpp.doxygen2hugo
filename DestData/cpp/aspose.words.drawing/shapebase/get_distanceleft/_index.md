@@ -24,7 +24,6 @@ Has effect only for top level shapes.
 
 
 
-
 Shows how to set the wrapping distance for a text that surrounds a shape. 
 ```cpp
 auto doc = MakeObject<Document>();

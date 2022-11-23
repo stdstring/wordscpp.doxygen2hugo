@@ -25,7 +25,6 @@ void Aspose::Words::Fonts::FontSettings::SetFontsFolder(const System::String &fo
 
 
 
-
 Shows how to set a font source directory. 
 ```cpp
 auto doc = MakeObject<Document>();

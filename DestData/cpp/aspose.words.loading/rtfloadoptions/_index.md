@@ -59,7 +59,6 @@ class RtfLoadOptions : public Aspose::Words::Loading::LoadOptions
 
 
 
-
 Shows how to detect UTF-8 characters while loading an RTF document. 
 ```cpp
 // Create an "RtfLoadOptions" object to modify how we load an RTF document.

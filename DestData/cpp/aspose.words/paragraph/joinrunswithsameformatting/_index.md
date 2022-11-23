@@ -24,7 +24,6 @@ Number of joins performed. When **N** adjacent runs are being joined they count 
 
 
 
-
 Shows how to simplify paragraphs by merging superfluous runs. 
 ```cpp
 auto doc = MakeObject<Document>();

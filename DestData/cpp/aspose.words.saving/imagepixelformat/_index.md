@@ -36,7 +36,6 @@ enum class ImagePixelFormat
 
 
 
-
 Shows how to select a bit-per-pixel rate with which to render a document to an image. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Setting this property sets the [MinorUnitIsAuto](../get_minorunitisauto/) proper
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

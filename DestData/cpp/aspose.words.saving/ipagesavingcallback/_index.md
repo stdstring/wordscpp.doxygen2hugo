@@ -25,7 +25,6 @@ class IPageSavingCallback : public System::Object
 
 
 
-
 Shows how to use a callback to save a document to HTML page by page. 
 ```cpp
 void PageFileNames()

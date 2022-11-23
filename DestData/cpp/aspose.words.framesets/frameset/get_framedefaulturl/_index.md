@@ -20,7 +20,6 @@ System::String Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl()
 
 
 
-
 Shows how to access frames on-page. 
 ```cpp
 // Document contains several frames with links to other documents.

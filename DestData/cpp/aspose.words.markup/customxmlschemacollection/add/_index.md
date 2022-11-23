@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomXmlSchemaCollection::Add(const System::String 
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

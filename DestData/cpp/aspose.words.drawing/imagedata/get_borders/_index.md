@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::Drawing::Image
 
 
 
-
 Shows how to edit a shape's image data. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");

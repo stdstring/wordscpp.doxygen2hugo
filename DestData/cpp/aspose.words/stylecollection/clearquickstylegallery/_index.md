@@ -20,7 +20,6 @@ void Aspose::Words::StyleCollection::ClearQuickStyleGallery()
 
 
 
-
 Shows how to remove styles from [Style](../../style/) Gallery panel. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ enum class LineNumberRestartMode
 
 
 
-
 Shows how to enable line numbering for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

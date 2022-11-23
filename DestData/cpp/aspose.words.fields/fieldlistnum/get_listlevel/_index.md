@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldListNum::get_ListLevel()
 
 
 
-
 Shows how to number paragraphs with LISTNUM fields. 
 ```cpp
 auto doc = MakeObject<Document>();

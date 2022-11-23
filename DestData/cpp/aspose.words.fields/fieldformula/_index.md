@@ -46,7 +46,6 @@ class FieldFormula : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the formula field to display the result of an equation. 
 ```cpp
 auto doc = MakeObject<Document>();

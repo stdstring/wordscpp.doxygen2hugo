@@ -22,7 +22,6 @@ If you set line style to none, then line width is automatically changed to zero.
 
 
 
-
 Shows how to insert a string surrounded by a border into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

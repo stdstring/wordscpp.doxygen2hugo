@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fonts::DefaultFontSubstitutionRule> Aspose::Wor
 
 
 
-
 Shows how to set the default font substitution rule. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ class ChartNumberFormat : public System::Object
 
 
 
-
 Shows how to set formatting for chart values. 
 ```cpp
 auto doc = MakeObject<Document>();

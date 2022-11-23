@@ -34,7 +34,6 @@ enum class PropertyType
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();

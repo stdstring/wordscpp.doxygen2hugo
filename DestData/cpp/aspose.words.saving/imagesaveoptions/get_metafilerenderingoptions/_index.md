@@ -28,7 +28,6 @@ The default value for [MetafileRenderingMode](../../metafilerenderingmode/) is *
 
 
 
-
 Shows how to set the rendering mode when saving documents with Windows Metafile images to other image formats. 
 ```cpp
 auto doc = MakeObject<Document>();

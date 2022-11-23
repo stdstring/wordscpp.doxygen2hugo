@@ -24,7 +24,6 @@ Cannot be null, but can be an empty string.
 
 
 
-
 Shows how to set the title of a shape. 
 ```cpp
 auto doc = MakeObject<Document>();

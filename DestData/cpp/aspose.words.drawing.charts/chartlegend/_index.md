@@ -30,7 +30,6 @@ class ChartLegend : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListS
 
 
 
-
 Shows how to edit the appearance of a chart's legend. 
 ```cpp
 auto doc = MakeObject<Document>();

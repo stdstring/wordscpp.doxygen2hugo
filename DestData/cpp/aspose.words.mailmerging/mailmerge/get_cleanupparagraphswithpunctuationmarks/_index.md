@@ -33,7 +33,6 @@ The default value is **true**. Here is the complete list of cleanable punctuatio
 
 
 
-
 Shows how to remove paragraphs with punctuation marks after a mail merge operation. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty() const
 
 
 
-
 Shows how to update a document's "Last printed" property when saving. 
 ```cpp
 auto doc = MakeObject<Document>();

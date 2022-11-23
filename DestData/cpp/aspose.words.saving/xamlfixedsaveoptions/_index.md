@@ -87,7 +87,6 @@ class XamlFixedSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 
 
 
-
 Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. 
 ```cpp
 void ResourceFolder()

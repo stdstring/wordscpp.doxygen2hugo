@@ -22,7 +22,6 @@ If you created a new blank document, returns the **Doc** value.
 
 
 
-
 Shows how to retrieve details of a document's load operation. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

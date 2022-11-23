@@ -20,7 +20,6 @@ Aspose::Words::Loading::HtmlLoadOptions::HtmlLoadOptions()
 
 
 
-
 Shows how to support conditional comments while loading an HTML document. 
 ```cpp
 auto loadOptions = MakeObject<HtmlLoadOptions>();
@@ -64,7 +63,6 @@ Aspose::Words::Loading::HtmlLoadOptions::HtmlLoadOptions(Aspose::Words::LoadForm
 
 
 
-
 Shows how to specify a base URI when opening an html document. 
 ```cpp
 // Suppose we want to load an .html document that contains an image linked by a relative URI
@@ -99,7 +97,6 @@ Aspose::Words::Loading::HtmlLoadOptions::HtmlLoadOptions(const System::String &p
 | password | const System::String\& | The password to open an encrypted document. Can be null or empty string. |
 
 ## Examples
-
 
 
 

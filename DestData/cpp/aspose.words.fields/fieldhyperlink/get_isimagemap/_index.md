@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldHyperlink::get_IsImageMap()
 
 
 
-
 Shows how to use HYPERLINK fields to link to documents in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>();

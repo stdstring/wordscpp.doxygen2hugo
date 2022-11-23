@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldComments::get_Text()
 
 
 
-
 Shows how to use the COMMENTS field. 
 ```cpp
 auto doc = MakeObject<Document>();

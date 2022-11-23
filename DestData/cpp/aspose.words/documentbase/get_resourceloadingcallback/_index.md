@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Loading::IResourceLoadingCallback> Aspose::Word
 
 
 
-
 Shows how to customize the process of loading external resources into a document. 
 ```cpp
 void ResourceLoadingCallback()

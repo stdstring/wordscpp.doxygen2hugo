@@ -24,7 +24,6 @@ The default value is null.
 
 
 
-
 Shows how set font substitution rules. 
 ```cpp
 auto doc = MakeObject<Document>();

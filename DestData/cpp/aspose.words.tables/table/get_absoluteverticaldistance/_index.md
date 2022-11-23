@@ -20,7 +20,6 @@ double Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance()
 
 
 
-
 Shows how set the location of floating tables. 
 ```cpp
 auto doc = MakeObject<Document>();

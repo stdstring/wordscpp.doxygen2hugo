@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ParagraphCollection> Aspose::Words::Story::get_
 
 
 
-
 Shows how to check whether a paragraph is a move revision. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

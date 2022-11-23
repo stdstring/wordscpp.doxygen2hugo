@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::OleFormat::get_IsLink()
 
 
 
-
 Shows how to insert linked and unlinked OLE objects. 
 ```cpp
 auto doc = MakeObject<Document>();

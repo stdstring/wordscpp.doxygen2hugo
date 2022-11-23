@@ -24,7 +24,6 @@ Useful info: [http://www.cs.tut.fi/~jkorpela/dashes.html#linebreaks](http://www.
 
 
 
-
 Shows how to add various control characters to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

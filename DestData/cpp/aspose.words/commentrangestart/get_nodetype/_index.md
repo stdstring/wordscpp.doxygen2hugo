@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::CommentRangeStart::get_NodeType() const o
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

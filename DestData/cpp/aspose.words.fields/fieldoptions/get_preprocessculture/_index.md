@@ -24,7 +24,6 @@ The default value is **null**. When this property is set to **null**, the [Field
 
 
 
-
 Shows how to set the preprocess culture. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

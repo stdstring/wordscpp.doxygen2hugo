@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::OleFormat> Aspose::Words::Drawing::Sha
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()

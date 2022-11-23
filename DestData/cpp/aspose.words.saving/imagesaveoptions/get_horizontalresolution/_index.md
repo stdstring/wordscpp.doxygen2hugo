@@ -24,7 +24,6 @@ The default value is 96.
 
 
 
-
 Shows how to edit the image while Aspose.Words converts a document to one. 
 ```cpp
 auto doc = MakeObject<Document>();

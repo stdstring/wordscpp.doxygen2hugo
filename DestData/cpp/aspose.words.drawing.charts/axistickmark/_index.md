@@ -29,7 +29,6 @@ enum class AxisTickMark
 
 
 
-
 Shows how to insert chart with date/time values. 
 ```cpp
 auto doc = MakeObject<Document>();

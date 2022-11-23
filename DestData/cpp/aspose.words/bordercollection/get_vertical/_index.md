@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::get_Ve
 
 
 
-
 Shows how to apply settings to vertical borders to a table row's format. 
 ```cpp
 auto doc = MakeObject<Document>();

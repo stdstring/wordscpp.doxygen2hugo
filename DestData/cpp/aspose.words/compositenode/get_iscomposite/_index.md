@@ -20,7 +20,6 @@ bool Aspose::Words::CompositeNode::get_IsComposite() override
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

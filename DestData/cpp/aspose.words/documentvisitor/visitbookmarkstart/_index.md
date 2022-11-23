@@ -28,7 +28,6 @@ A [VisitorAction](../../visitoraction/) value that specifies how to continue the
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

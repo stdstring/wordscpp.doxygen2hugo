@@ -29,7 +29,6 @@ A [Field](../../../aspose.words.fields/field/) object that represents the append
 
 
 
-
 Shows various ways of appending fields to a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -74,7 +73,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 A [Field](../../../aspose.words.fields/field/) object that represents the appended field.
 
 ## Examples
-
 
 
 
@@ -123,7 +121,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Paragraph::Append
 A [Field](../../../aspose.words.fields/field/) object that represents the appended field.
 
 ## Examples
-
 
 
 

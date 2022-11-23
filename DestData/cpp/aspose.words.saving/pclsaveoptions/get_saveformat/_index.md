@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::PclSaveOptions::get_SaveFormat(
 
 
 
-
 Shows how to rasterize complex elements while saving a document to PCL. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

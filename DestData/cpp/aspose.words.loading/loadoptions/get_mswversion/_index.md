@@ -20,7 +20,6 @@ Aspose::Words::Settings::MsWordVersion Aspose::Words::Loading::LoadOptions::get_
 
 
 
-
 Shows how to emulate the loading procedure of a specific Microsoft Word version during document loading. 
 ```cpp
 // By default, Aspose.Words load documents according to Microsoft Word 2019 specification.

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> Aspose::Words:
 
 
 
-
 Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. 
 ```cpp
 void HtmlFixedResourceFolder()

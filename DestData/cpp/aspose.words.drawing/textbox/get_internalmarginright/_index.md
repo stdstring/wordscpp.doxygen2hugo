@@ -22,7 +22,6 @@ The default value is 1/10 inch.
 
 
 
-
 Shows how to set internal margins for a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

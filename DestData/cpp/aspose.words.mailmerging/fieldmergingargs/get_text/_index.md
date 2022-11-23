@@ -26,7 +26,6 @@ If you set Text to any string (including empty), the string will be inserted int
 
 
 
-
 Shows how to execute a mail merge with a custom callback that handles merge data in the form of HTML documents. 
 ```cpp
 void MergeHtml()

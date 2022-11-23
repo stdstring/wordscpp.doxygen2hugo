@@ -22,7 +22,6 @@ When true, the runs and other inline objects in this paragraph are laid out righ
 
 
 
-
 Shows how to create right-to-left language-compatible lists with BIDIOUTLINE fields. 
 ```cpp
 auto doc = MakeObject<Document>();

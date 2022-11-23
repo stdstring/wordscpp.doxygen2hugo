@@ -20,7 +20,6 @@ System::String Aspose::Words::Bookmark::get_Name()
 
 
 
-
 Shows how to insert a bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();

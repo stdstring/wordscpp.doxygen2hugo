@@ -34,7 +34,6 @@ class HorizontalRuleFormat : public System::Object
 
 
 
-
 Shows how to insert a horizontal rule shape, and customize its formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

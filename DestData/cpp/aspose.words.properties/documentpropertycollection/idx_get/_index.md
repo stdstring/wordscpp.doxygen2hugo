@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 
 
-
 Shows how to work with custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");
@@ -61,7 +60,6 @@ virtual System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::W
 Returns null if a property with the specified name is not found.
 
 ## Examples
-
 
 
 

@@ -24,7 +24,6 @@ For all other SDT types exception will occur.
 
 
 
-
 Shows how to prompt the user to enter a date with a structured document tag. 
 ```cpp
 auto doc = MakeObject<Document>();

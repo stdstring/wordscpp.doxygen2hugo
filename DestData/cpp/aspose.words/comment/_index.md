@@ -104,7 +104,6 @@ To anchor a comment to a region of text three objects are required: [Comment](./
 
 
 
-
 Shows how to add a comment to a document, and then reply to it. 
 ```cpp
 auto doc = MakeObject<Document>();

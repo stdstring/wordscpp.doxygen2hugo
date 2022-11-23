@@ -26,4 +26,3 @@ enum class ChapterPageSeparator
 | EnDash | 4 | A standard dash. |
 
 
-

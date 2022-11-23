@@ -28,7 +28,6 @@ An OLE data stream or null.
 
 
 
-
 Shows how to insert linked and unlinked OLE objects. 
 ```cpp
 auto doc = MakeObject<Document>();

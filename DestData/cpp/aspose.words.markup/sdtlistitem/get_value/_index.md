@@ -22,7 +22,6 @@ Cannot be null and cannot be an empty string.
 
 
 
-
 Shows how to work with drop down-list structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();

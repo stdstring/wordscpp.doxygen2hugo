@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource()
 
 
 
-
 Shows how to set formatting for chart values. 
 ```cpp
 auto doc = MakeObject<Document>();

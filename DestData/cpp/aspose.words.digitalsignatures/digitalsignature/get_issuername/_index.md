@@ -20,7 +20,6 @@ System::String Aspose::Words::DigitalSignatures::DigitalSignature::get_IssuerNam
 
 
 
-
 Shows how to sign documents with X.509 certificates. 
 ```cpp
 // Verify that a document is not signed.

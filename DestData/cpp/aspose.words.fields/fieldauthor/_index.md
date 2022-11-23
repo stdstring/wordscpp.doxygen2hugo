@@ -48,7 +48,6 @@ class FieldAuthor : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use an AUTHOR field to display a document creator's name. 
 ```cpp
 auto doc = MakeObject<Document>();

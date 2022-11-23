@@ -22,7 +22,6 @@ The default value is [CrLf](../../../aspose.words/controlchar/crlf/).
 
 
 
-
 Shows how to save a .txt document with a custom paragraph break. 
 ```cpp
 auto doc = MakeObject<Document>();

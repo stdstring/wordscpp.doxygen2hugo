@@ -25,7 +25,6 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Document::ExtractPages
 
 
 
-
 Shows how to get specified range of pages from the document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Layout entities.docx");

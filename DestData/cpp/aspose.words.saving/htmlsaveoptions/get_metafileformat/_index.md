@@ -24,7 +24,6 @@ Some image transforms, in particular image cropping, will not be applied to meta
 
 
 
-
 Shows how to convert SVG objects to a different format when saving HTML documents. 
 ```cpp
 String html =

@@ -20,7 +20,6 @@ System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfA
 
 
 
-
 Shows how to work with document properties in the "Origin" category. 
 ```cpp
 // Open a document that we have created and edited using Microsoft Word.

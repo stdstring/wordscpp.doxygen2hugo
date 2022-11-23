@@ -20,7 +20,6 @@ System::String Aspose::Words::MailMerging::MailMerge::get_RegionEndTag() const
 
 
 
-
 Shows how to create, list, and read mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>();

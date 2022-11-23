@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::TextWatermarkOptions::get_Color() const
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

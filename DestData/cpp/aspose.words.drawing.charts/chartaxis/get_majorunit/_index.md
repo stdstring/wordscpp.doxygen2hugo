@@ -24,7 +24,6 @@ Setting this property sets the [MajorUnitIsAuto](../get_majorunitisauto/) proper
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

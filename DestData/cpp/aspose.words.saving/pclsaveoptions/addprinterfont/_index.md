@@ -25,7 +25,6 @@ void Aspose::Words::Saving::PclSaveOptions::AddPrinterFont(const System::String 
 
 
 
-
 Shows how to get a printer to substitute all instances of a specific font with a different font. 
 ```cpp
 auto doc = MakeObject<Document>();

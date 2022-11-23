@@ -20,7 +20,6 @@ double Aspose::Words::Drawing::Stroke::get_Transparency()
 
 
 
-
 Show how to set marker formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

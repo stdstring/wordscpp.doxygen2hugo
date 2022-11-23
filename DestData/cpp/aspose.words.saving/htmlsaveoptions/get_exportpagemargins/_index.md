@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins() const
 
 
 
-
 Shows how to show out-of-bounds objects in output HTML documents. 
 ```cpp
 auto doc = MakeObject<Document>();

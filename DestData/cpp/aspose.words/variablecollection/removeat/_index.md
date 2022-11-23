@@ -24,7 +24,6 @@ void Aspose::Words::VariableCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

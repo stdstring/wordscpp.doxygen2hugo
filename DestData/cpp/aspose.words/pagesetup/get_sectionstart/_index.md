@@ -20,7 +20,6 @@ Aspose::Words::SectionStart Aspose::Words::PageSetup::get_SectionStart()
 
 
 
-
 Shows how to specify how a new section separates itself from the previous. 
 ```cpp
 auto doc = MakeObject<Document>();

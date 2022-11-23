@@ -26,7 +26,6 @@ Hierarchy is returned in the form of the [MailMergeRegionInfo](../../mailmergere
 
 
 
-
 Shows how to verify mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Mail merge regions.docx");

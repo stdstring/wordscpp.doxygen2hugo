@@ -22,7 +22,6 @@ By removing all macros from a document you can ensure the document contains no m
 
 
 
-
 Shows how to remove all macros from a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Macro.docm");

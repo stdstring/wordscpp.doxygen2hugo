@@ -20,4 +20,3 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
 
-

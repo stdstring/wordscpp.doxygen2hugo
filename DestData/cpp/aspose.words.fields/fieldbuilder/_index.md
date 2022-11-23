@@ -36,7 +36,6 @@ class FieldBuilder : public Aspose::Words::Fields::IFieldBuildingBlock
 
 
 
-
 Shows how to construct fields using a field builder, and then insert them into the document. 
 ```cpp
 auto doc = MakeObject<Document>();

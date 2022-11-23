@@ -25,4 +25,3 @@ enum class MailMergeCheckErrors
 | Default | n/a | Equals to the **PauseOnError** value. |
 
 
-

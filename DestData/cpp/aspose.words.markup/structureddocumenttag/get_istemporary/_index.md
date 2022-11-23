@@ -20,7 +20,6 @@ bool Aspose::Words::Markup::StructuredDocumentTag::get_IsTemporary() const
 
 
 
-
 Shows how to make single-use controls. 
 ```cpp
 auto doc = MakeObject<Document>();

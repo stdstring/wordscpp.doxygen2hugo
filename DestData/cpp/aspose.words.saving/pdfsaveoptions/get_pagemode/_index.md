@@ -20,7 +20,6 @@ Aspose::Words::Saving::PdfPageMode Aspose::Words::Saving::PdfSaveOptions::get_Pa
 
 
 
-
 Shows to process bookmarks in headers/footers in a document that we are rendering to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Bookmarks in headers and footers.docx");

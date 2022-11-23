@@ -28,7 +28,6 @@ Depends on the value of [PageHorizontalAlignment](../get_pagehorizontalalignment
 
 
 
-
 Shows how to adjust page margins when saving a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

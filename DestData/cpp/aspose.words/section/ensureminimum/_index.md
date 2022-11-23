@@ -20,7 +20,6 @@ void Aspose::Words::Section::EnsureMinimum()
 
 
 
-
 Shows how to prepare a new section node for editing. 
 ```cpp
 auto doc = MakeObject<Document>();

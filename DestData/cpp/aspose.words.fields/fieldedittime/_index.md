@@ -46,7 +46,6 @@ class FieldEditTime : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the EDITTIME field. 
 ```cpp
 auto doc = MakeObject<Document>();

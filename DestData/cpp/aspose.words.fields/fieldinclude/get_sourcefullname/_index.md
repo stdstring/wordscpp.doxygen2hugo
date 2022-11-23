@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldInclude::get_SourceFullName() overrid
 
 
 
-
 Shows how to create an INCLUDE field, and set its properties. 
 ```cpp
 auto doc = MakeObject<Document>();

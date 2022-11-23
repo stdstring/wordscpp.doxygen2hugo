@@ -28,7 +28,6 @@ This method starts a nested table when called inside a cell.
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

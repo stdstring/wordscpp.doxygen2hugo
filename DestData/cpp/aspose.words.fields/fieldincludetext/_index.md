@@ -66,7 +66,6 @@ class FieldIncludeText : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to create an INCLUDETEXT field, and set its properties. 
 ```cpp
 void FieldIncludeText_()

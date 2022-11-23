@@ -20,7 +20,6 @@ bool Aspose::Words::Comparing::CompareOptions::get_IgnoreDmlUniqueId() const
 
 
 
-
 Shows how to compare documents ignoring DML unique ID. 
 ```cpp
 auto docA = MakeObject<Document>(MyDir + u"DML unique ID original.docx");

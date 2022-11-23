@@ -24,7 +24,6 @@ When exporting to EPUB, text drop-down form fields are always saved as text due 
 
 
 
-
 Shows how to get drop-down combo box form fields to blend in with paragraph text when saving to html. 
 ```cpp
 auto doc = MakeObject<Document>();

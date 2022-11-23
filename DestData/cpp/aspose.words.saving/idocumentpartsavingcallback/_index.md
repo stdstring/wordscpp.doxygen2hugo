@@ -25,7 +25,6 @@ class IDocumentPartSavingCallback : public System::Object
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

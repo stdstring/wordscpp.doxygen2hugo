@@ -20,7 +20,6 @@ int32_t Aspose::Words::CommentRangeStart::get_Id() const
 
 
 
-
 Shows how print the contents of all comments and their comment ranges using a document visitor. 
 ```cpp
 void CreateCommentsAndPrintAllInfo()

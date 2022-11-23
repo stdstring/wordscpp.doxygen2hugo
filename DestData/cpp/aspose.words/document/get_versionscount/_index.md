@@ -24,7 +24,6 @@ This property allows to detect if there were document versions stored in this do
 
 
 
-
 Shows how to work with the versions count feature of older Microsoft Word documents. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Versions.doc");

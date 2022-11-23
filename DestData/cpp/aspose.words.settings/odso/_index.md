@@ -44,4 +44,3 @@ The use of ODSO is poorly documented and the best way to learn how to use the pr
 
 You do not normally need to create objects of this class directly because ODSO settings are always available via the [Odso](../mailmergesettings/get_odso/) property.
 
-

@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::Field::get_IsLocked()
 
 
 
-
 Shows how to work with a [FieldStart](../../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();

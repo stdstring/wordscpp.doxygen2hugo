@@ -43,7 +43,6 @@ Note that font config substitution rule will resolve the font in most cases and 
 
 
 
-
 Shows how to access a document's system font source and set font substitutes. 
 ```cpp
 auto doc = MakeObject<Document>();

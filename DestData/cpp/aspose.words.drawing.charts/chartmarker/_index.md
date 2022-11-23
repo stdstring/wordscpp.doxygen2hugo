@@ -29,7 +29,6 @@ class ChartMarker : public Aspose::Words::Drawing::Charts::Core::IChartFormatSou
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

@@ -22,7 +22,6 @@ The returned string includes all control and special characters as described in 
 
 
 
-
 Shows how to get the text contents of all the nodes that a range covers. 
 ```cpp
 auto doc = MakeObject<Document>();

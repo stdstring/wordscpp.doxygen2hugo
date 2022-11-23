@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldStyleRef::get_SuppressNonDelimiters()
 
 
 
-
 Shows how to use STYLEREF fields. 
 ```cpp
 auto doc = MakeObject<Document>();

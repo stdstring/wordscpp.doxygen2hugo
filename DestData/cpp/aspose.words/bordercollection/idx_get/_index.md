@@ -26,7 +26,6 @@ Note that not all borders are present for different document elements. This meth
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -63,7 +62,6 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::idx_ge
 | index | int32_t | Zero-based index of the border to retrieve. |
 
 ## Examples
-
 
 
 

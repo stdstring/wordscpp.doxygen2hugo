@@ -22,4 +22,3 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 
 Returns null if the structured document tag with the specified title cannot be found.
 
-

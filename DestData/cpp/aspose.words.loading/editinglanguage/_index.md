@@ -252,7 +252,6 @@ enum class EditingLanguage
 
 
 
-
 Shows how to apply language preferences when loading a document. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();

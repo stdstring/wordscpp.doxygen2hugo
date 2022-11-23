@@ -31,7 +31,6 @@ enum class ShapeLineStyle
 
 
 
-
 Shows how change stroke properties. 
 ```cpp
 auto doc = MakeObject<Document>();

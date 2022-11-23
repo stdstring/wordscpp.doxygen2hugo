@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 
 
-
 Shows how to construct fields using a field builder, and then insert them into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -110,7 +109,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 
 ## Examples
-
 
 
 
@@ -210,7 +208,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 
 
-
 Shows how to construct fields using a field builder, and then insert them into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -307,7 +304,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 
 
 
-
 Shows how to construct fields using a field builder, and then insert them into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -401,7 +397,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldBuilder> Aspose::Words::Fields::Fi
 | argument | int32_t | The argument value. |
 
 ## Examples
-
 
 
 

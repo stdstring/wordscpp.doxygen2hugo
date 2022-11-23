@@ -30,7 +30,6 @@ enum class RevisionType
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

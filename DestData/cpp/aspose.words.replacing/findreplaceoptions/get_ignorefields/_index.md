@@ -24,7 +24,6 @@ To ignore only field codes, please use corresponding option [IgnoreFieldCodes](.
 
 
 
-
 Shows how to ignore text inside fields. 
 ```cpp
 auto doc = MakeObject<Document>();

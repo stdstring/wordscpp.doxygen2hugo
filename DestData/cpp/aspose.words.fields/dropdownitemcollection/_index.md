@@ -55,7 +55,6 @@ class DropDownItemCollection : public System::Collections::Generic::IEnumerable<
 
 
 
-
 Shows how to insert a combo box field, and edit the elements in its item collection. 
 ```cpp
 auto doc = MakeObject<Document>();

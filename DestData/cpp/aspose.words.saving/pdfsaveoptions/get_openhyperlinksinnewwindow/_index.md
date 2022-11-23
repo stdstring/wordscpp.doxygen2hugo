@@ -26,7 +26,6 @@ JavaScript actions are prohibited by PDF/A-1 and PDF/A-2 compliance. **false** w
 
 
 
-
 Shows how to save hyperlinks in a document we convert to PDF so that they open new pages when we click on them. 
 ```cpp
 auto doc = MakeObject<Document>();

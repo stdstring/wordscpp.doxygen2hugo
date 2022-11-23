@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldUserInitials::get_UserInitials()
 
 
 
-
 Shows how to use the USERINITIALS field. 
 ```cpp
 auto doc = MakeObject<Document>();

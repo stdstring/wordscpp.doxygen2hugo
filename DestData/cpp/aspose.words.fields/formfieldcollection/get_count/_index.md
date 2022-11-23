@@ -20,7 +20,6 @@ int32_t Aspose::Words::Fields::FormFieldCollection::get_Count()
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

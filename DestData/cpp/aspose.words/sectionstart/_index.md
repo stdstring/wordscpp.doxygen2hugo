@@ -30,7 +30,6 @@ enum class SectionStart
 
 
 
-
 Shows how to specify how a new section separates itself from the previous. 
 ```cpp
 auto doc = MakeObject<Document>();

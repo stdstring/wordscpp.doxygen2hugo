@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldRD::get_FileName()
 
 
 
-
 Shows to use the RD field to create a table of contents entries from headings in other documents. 
 ```cpp
 auto doc = MakeObject<Document>();

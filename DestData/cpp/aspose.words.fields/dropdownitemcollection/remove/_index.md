@@ -24,7 +24,6 @@ void Aspose::Words::Fields::DropDownItemCollection::Remove(const System::String 
 
 
 
-
 Shows how to insert a combo box field, and edit the elements in its item collection. 
 ```cpp
 auto doc = MakeObject<Document>();

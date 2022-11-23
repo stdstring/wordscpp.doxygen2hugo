@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Shading::get_ForegroundPatternColor()
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ Used as an item of a [CustomXmlPropertyCollection](../customxmlpropertycollectio
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

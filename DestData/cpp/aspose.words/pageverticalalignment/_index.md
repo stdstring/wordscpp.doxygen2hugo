@@ -29,7 +29,6 @@ enum class PageVerticalAlignment
 
 
 
-
 Shows how to apply and revert page setup settings to sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

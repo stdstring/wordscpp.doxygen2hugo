@@ -20,7 +20,6 @@ bool Aspose::Words::Inline::get_IsDeleteRevision()
 
 
 
-
 Shows how to determine the revision type of an inline node. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision runs.docx");

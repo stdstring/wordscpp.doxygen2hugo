@@ -22,7 +22,6 @@ When negative indent is not allowed, it is exported as zero margin to HTML. When
 
 
 
-
 Shows how to preserve negative indents in the output .html. 
 ```cpp
 auto doc = MakeObject<Document>();

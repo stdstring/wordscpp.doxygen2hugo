@@ -31,7 +31,6 @@ This method converts [OpaqueBoundsInPoints](../get_opaqueboundsinpoints/) into r
 
 
 
-
 Shows how to measure and scale shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");
@@ -96,7 +95,6 @@ The opaque rectangle of the shape in pixels.
 This method converts [OpaqueBoundsInPoints](../get_opaqueboundsinpoints/) into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.
 
 ## Examples
-
 
 
 

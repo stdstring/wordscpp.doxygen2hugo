@@ -28,7 +28,6 @@ Id attribute shall follow these rules:* The document shall retain structured doc
 
 
 
-
 Shows how to get the properties of multi-section structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Multi-section structured document tags.docx");

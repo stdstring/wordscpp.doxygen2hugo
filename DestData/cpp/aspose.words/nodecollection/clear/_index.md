@@ -20,7 +20,6 @@ void Aspose::Words::NodeCollection::Clear()
 
 
 
-
 Shows how to remove all sections from a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

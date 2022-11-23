@@ -22,7 +22,6 @@ When an OOXML document is encrypted, it is not possible to ascertained whether i
 
 
 
-
 Shows how to use the [FileFormatUtil](../../fileformatutil/) class to detect the document format and encryption. 
 ```cpp
 auto doc = MakeObject<Document>();

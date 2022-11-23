@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::RevisionGroup> Aspose::Words::RevisionGroupColl
 
 
 
-
 Shows how to get a group of revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

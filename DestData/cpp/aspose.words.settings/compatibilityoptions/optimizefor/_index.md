@@ -20,7 +20,6 @@ void Aspose::Words::Settings::CompatibilityOptions::OptimizeFor(Aspose::Words::S
 
 
 
-
 Shows how to set an OOXML compliance specification for a saved document to adhere to. 
 ```cpp
 auto doc = MakeObject<Document>();

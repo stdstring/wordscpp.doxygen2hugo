@@ -20,7 +20,6 @@ Aspose::Words::TextureIndex Aspose::Words::Shading::get_Texture()
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();

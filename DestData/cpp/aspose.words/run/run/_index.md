@@ -28,7 +28,6 @@ To append **Run** to the document use InsertAfter or InsertBefore on the paragra
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -93,7 +92,6 @@ When **Run** is created, it belongs to the specified document, but is not yet pa
 To append **Run** to the document use InsertAfter or InsertBefore on the paragraph where you want the run inserted.
 
 ## Examples
-
 
 
 

@@ -20,7 +20,6 @@ System::String Aspose::Words::Font::get_NameOther()
 
 
 
-
 Shows how Microsoft Word can combine two different fonts in one run. 
 ```cpp
 auto doc = MakeObject<Document>();

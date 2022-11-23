@@ -20,7 +20,6 @@ int32_t Aspose::Words::Fields::FieldCollection::get_Count()
 
 
 
-
 Shows how to work with a collection of fields. 
 ```cpp
 void FieldCollection_()

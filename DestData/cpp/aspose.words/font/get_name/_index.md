@@ -24,7 +24,6 @@ When setting, sets [NameAscii](../get_nameascii/), [NameBi](../get_namebi/), [Na
 
 
 
-
 Shows how to insert formatted text using [DocumentBuilder](../../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

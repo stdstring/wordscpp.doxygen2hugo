@@ -28,7 +28,6 @@ The outline level of the bookmark. Valid range is 0 to 9.
 
 
 
-
 Shows how to set outline levels for bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -100,7 +99,6 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set(int32_t ind
 The outline level of the bookmark. Valid range is 0 to 9.
 
 ## Examples
-
 
 
 

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::AxisBound> Aspose::Words::Draw
 
 
 
-
 Shows how to insert chart with date/time values. 
 ```cpp
 auto doc = MakeObject<Document>();

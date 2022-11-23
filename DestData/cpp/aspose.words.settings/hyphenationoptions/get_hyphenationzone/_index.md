@@ -20,7 +20,6 @@ int32_t Aspose::Words::Settings::HyphenationOptions::get_HyphenationZone() const
 
 
 
-
 Shows how to configure automatic hyphenation. 
 ```cpp
 auto doc = MakeObject<Document>();

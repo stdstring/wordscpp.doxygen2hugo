@@ -48,7 +48,6 @@ The code for embedding video can vary between providers, consult your correspond
 
 
 
-
 Shows how to insert an online video into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -95,7 +94,6 @@ The image node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 
@@ -158,7 +156,6 @@ The image node that was just inserted.
 You can change the image size, location, positioning method and other settings using the [Shape](../../../aspose.words.drawing/shape/) object returned by this method.
 
 ## Examples
-
 
 
 
@@ -230,7 +227,6 @@ If your online video is not displaying correctly, use **InsertOnlineVideo()**, w
 The code for embedding video can vary between providers, consult your corresponding provider of choice for details.
 
 ## Examples
-
 
 
 

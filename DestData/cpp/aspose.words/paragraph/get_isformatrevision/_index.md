@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsFormatRevision()
 
 
 
-
 Shows how to check whether a paragraph is a format revision. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Format revision.docx");

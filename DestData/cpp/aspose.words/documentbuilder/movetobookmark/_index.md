@@ -36,7 +36,6 @@ Note that some bookmarks in the document are assigned to form fields. Moving to 
 
 
 
-
 Shows how to move a document builder's cursor to different nodes in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -112,7 +111,6 @@ If desired position is not at inline level, moves to the next paragraph.
 The comparison is not case-sensitive. If the bookmark was not found, false is returned and the cursor is not moved.
 
 ## Examples
-
 
 
 

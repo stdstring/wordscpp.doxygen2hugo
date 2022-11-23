@@ -24,7 +24,6 @@ void Aspose::Words::Comment::RemoveReply(const System::SharedPtr<Aspose::Words::
 
 
 
-
 Shows how to remove comment replies. 
 ```cpp
 auto doc = MakeObject<Document>();

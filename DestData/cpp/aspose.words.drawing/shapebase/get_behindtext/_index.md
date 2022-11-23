@@ -24,7 +24,6 @@ The default value is **false**.
 
 
 
-
 Shows how to insert a floating image to the center of a page. 
 ```cpp
 auto doc = MakeObject<Document>();

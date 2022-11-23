@@ -20,7 +20,6 @@ bool Aspose::Words::Tables::CellFormat::get_WrapText()
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

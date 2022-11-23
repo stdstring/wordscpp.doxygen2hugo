@@ -25,7 +25,6 @@ class IReplacingCallback : public System::Object
 
 
 
-
 Shows how to track the order in which a text replacement operation traverses nodes. 
 ```cpp
 void Order(bool differentFirstPageHeaderFooter)

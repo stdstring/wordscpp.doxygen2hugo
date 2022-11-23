@@ -24,7 +24,6 @@ void Aspose::Words::Properties::DocumentPropertyCollection::Remove(const System:
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ If you want to automatically track changes as they are made programmatically by 
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

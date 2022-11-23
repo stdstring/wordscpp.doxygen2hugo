@@ -24,7 +24,6 @@ Default is empty string.
 
 
 
-
 Shows how print the contents of all comments and their comment ranges using a document visitor. 
 ```cpp
 void CreateCommentsAndPrintAllInfo()

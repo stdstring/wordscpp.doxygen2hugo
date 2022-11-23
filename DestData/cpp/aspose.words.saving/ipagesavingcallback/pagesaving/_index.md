@@ -20,7 +20,6 @@ virtual void Aspose::Words::Saving::IPageSavingCallback::PageSaving(System::Shar
 
 
 
-
 Shows how to use a callback to save a document to HTML page by page. 
 ```cpp
 void PageFileNames()

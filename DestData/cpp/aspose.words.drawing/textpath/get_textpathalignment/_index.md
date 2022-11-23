@@ -22,7 +22,6 @@ The default value is **Center**.
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

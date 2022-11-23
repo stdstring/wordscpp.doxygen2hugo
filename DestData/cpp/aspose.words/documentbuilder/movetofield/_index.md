@@ -25,7 +25,6 @@ void Aspose::Words::DocumentBuilder::MoveToField(const System::SharedPtr<Aspose:
 
 
 
-
 Shows how to move a document builder's node insertion point cursor to a specific field. 
 ```cpp
 auto doc = MakeObject<Document>();

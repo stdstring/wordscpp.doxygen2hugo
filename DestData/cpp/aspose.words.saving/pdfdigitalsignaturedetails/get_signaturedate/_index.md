@@ -24,7 +24,6 @@ This value will appear in the digital signature as an unverified computer time.
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

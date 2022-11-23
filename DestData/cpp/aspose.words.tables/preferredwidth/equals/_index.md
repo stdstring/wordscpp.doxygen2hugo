@@ -20,7 +20,6 @@ bool Aspose::Words::Tables::PreferredWidth::Equals(const System::SharedPtr<Aspos
 
 
 
-
 Shows how to set a preferred width for table cells. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -66,7 +65,6 @@ bool Aspose::Words::Tables::PreferredWidth::Equals(System::SharedPtr<System::Obj
 
 
 ## Examples
-
 
 
 

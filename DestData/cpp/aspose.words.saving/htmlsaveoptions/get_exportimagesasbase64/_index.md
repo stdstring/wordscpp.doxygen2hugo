@@ -22,7 +22,6 @@ When this property is set to **true** images data are exported directly into the
 
 
 
-
 Shows how to save a .html document with images embedded inside it. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

@@ -20,7 +20,6 @@ bool Aspose::Words::TabStopCollection::Equals(const System::SharedPtr<Aspose::Wo
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -70,7 +69,6 @@ bool Aspose::Words::TabStopCollection::Equals(System::SharedPtr<System::Object> 
 
 
 ## Examples
-
 
 
 

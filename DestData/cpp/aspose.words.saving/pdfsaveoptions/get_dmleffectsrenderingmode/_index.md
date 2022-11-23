@@ -26,7 +26,6 @@ If [Compliance](../get_compliance/) is set to **PdfA1a** or **PdfA1b**, property
 
 
 
-
 Shows how to configure the rendering quality of DrawingML effects in a document as we save it to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"DrawingML shape effects.docx");

@@ -24,7 +24,6 @@ void Aspose::Words::NodeCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to add and remove sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

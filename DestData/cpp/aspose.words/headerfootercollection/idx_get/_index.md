@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::HeaderFooter> Aspose::Words::HeaderFooterCollec
 
 
 
-
 Shows how to delete all footers from a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Header and footer types.docx");
@@ -102,7 +101,6 @@ If index is greater than or equal to the number of items in the list, this retur
 If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.
 
 ## Examples
-
 
 
 

@@ -28,7 +28,6 @@ enum class DropCapPosition
 
 
 
-
 Shows how to create a drop cap. 
 ```cpp
 auto doc = MakeObject<Document>();

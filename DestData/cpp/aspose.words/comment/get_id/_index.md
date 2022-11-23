@@ -26,7 +26,6 @@ You would use this value when looking for the [CommentRangeStart](../../commentr
 
 
 
-
 Shows how print the contents of all comments and their comment ranges using a document visitor. 
 ```cpp
 void CreateCommentsAndPrintAllInfo()

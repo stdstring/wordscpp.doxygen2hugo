@@ -20,7 +20,6 @@ bool Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath() const
 
 
 
-
 Shows how to convert EquationXML shapes to Office [Math](../../../aspose.words.math/) objects. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();

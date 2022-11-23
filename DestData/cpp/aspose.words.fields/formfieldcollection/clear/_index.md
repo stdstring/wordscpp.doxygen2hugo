@@ -20,7 +20,6 @@ void Aspose::Words::Fields::FormFieldCollection::Clear()
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

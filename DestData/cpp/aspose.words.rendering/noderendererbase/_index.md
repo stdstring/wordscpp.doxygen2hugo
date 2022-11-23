@@ -39,7 +39,6 @@ class NodeRendererBase : public System::Object
 
 
 
-
 Shows how to measure and scale shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

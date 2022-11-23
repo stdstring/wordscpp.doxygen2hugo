@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldKeywords::get_Text()
 
 
 
-
 Shows to insert a KEYWORDS field. 
 ```cpp
 auto doc = MakeObject<Document>();

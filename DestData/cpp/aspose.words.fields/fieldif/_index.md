@@ -64,7 +64,6 @@ A field in the following format will be used as a mail merge source: { IF 0 = 0 
 
 
 
-
 Shows how to insert an IF field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -25,7 +25,6 @@ void Aspose::Words::VariableCollection::Add(const System::String &name, const Sy
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

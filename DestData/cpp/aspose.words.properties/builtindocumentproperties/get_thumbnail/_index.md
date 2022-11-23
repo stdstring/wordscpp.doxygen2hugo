@@ -26,7 +26,6 @@ Only gif, jpeg and png images can be used for ePub publication.
 
 
 
-
 Shows how to add a thumbnail to a document that we save as an Epub. 
 ```cpp
 auto doc = MakeObject<Document>();

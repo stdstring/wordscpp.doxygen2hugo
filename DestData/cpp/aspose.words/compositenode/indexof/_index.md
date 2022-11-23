@@ -20,7 +20,6 @@ int32_t Aspose::Words::CompositeNode::IndexOf(const System::SharedPtr<Aspose::Wo
 
 
 
-
 Shows how to get the index of a given child node from its parent. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

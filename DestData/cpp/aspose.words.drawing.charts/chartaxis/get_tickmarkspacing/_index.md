@@ -24,7 +24,6 @@ Valid range of a value is greater than or equal to 1.
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

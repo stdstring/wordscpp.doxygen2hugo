@@ -26,7 +26,6 @@ When this option is enabled, document elements other than text will still have a
 
 
 
-
 Shows how to use relative font sizes when saving to .html. 
 ```cpp
 auto doc = MakeObject<Document>();

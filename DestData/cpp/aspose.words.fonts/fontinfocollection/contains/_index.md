@@ -28,7 +28,6 @@ True if the item is found in the collection; otherwise, false.
 
 
 
-
 Shows info about the fonts that are present in the blank document. 
 ```cpp
 auto doc = MakeObject<Document>();

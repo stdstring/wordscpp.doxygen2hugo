@@ -24,7 +24,6 @@ If you set this option to **false**, then only images in WMF, EMF and BMP format
 
 
 
-
 Shows how to save a document to .rtf with custom options. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

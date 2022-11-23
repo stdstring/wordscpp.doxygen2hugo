@@ -22,7 +22,6 @@ double Aspose::Words::Lists::ListLevel::get_NumberPosition() const
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

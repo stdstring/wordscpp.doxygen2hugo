@@ -30,7 +30,6 @@ The display order of child shapes in a group shape is determined by their order 
 
 
 
-
 Shows how to manipulate the order of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -105,7 +105,6 @@ Do not include the end of paragraph [ControlChar.ParagraphBreak](../controlchar/
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

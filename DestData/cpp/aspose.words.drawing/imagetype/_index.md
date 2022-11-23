@@ -33,7 +33,6 @@ enum class ImageType
 
 
 
-
 Shows how to add an image to a shape and check its type. 
 ```cpp
 auto doc = MakeObject<Document>();

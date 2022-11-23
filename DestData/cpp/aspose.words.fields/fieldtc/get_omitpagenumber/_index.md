@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldTC::get_OmitPageNumber() override
 
 
 
-
 Shows how to insert a TOC field, and filter which TC fields end up as entries. 
 ```cpp
 void FieldTocEntryIdentifier()

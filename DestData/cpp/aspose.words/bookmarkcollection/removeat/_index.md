@@ -24,7 +24,6 @@ void Aspose::Words::BookmarkCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to remove bookmarks from a document. 
 ```cpp
 auto doc = MakeObject<Document>();

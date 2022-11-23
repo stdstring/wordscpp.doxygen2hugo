@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplac
 
 
 
-
 Shows how to remove paragraph from a table cell with a nested table. 
 ```cpp
 auto doc = MakeObject<Document>();

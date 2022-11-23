@@ -28,7 +28,6 @@ True if item is found in the collection; otherwise, false.
 
 
 
-
 Shows how to set outline levels for bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>();

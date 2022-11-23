@@ -46,7 +46,6 @@ The **NodeCollection** collection is "live", i.e. changes to the children of the
 
 
 
-
 Shows how to replace all textbox shapes with image shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Textboxes in drawing canvas.docx");

@@ -24,7 +24,6 @@ virtual void Aspose::Words::IHyphenationCallback::RequestDictionary(System::Stri
 
 
 
-
 Shows how to open and register a dictionary from a file. 
 ```cpp
 void RegisterDictionary()

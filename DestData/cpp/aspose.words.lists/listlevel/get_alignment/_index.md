@@ -22,7 +22,6 @@ The list label is justified relative to the [NumberPosition](../get_numberpositi
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

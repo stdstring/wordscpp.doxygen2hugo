@@ -20,7 +20,6 @@ Aspose::Words::TextOrientation Aspose::Words::PageSetup::get_TextOrientation()
 
 
 
-
 Shows how to set text orientation. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::TabStop::TabStop(double position)
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -76,7 +75,6 @@ Aspose::Words::TabStop::TabStop(double position, Aspose::Words::TabAlignment ali
 | leader | Aspose::Words::TabLeader | A [TabLeader](../../tableader/) value that specifies the type of the leader line displayed under the tab character. |
 
 ## Examples
-
 
 
 

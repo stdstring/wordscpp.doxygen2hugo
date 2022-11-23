@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Replacing::IReplacingCallback> Aspose::Words::R
 
 
 
-
 Shows how to replace all occurrences of a regular expression pattern with another string, while tracking all such replacements. 
 ```cpp
 void ReplaceWithCallback()

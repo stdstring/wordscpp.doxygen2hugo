@@ -39,7 +39,6 @@ The following types of SDT can be created:
 
 
 
-
 Shows how to create/remove structured document tag and its content. 
 ```cpp
 void SdtRangeExtendedMethods()

@@ -58,7 +58,6 @@ class FieldIncludePicture : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to insert images using IMPORT and INCLUDEPICTURE fields. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ void Aspose::Words::Document::StopTrackRevisions()
 
 
 
-
 Shows how to track revisions while editing a document. 
 ```cpp
 auto doc = MakeObject<Document>();

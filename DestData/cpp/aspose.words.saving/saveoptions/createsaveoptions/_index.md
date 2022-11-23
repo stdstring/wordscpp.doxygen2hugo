@@ -28,7 +28,6 @@ An object of a class that derives from [SaveOptions](../).
 
 
 
-
 Shows an option to optimize memory consumption when rendering large documents to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -64,7 +63,6 @@ static System::SharedPtr<Aspose::Words::Saving::SaveOptions> Aspose::Words::Savi
 An object of a class that derives from [SaveOptions](../).
 
 ## Examples
-
 
 
 

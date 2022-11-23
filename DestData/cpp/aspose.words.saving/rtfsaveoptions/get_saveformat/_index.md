@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat(
 
 
 
-
 Shows how to save a document to .rtf with custom options. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

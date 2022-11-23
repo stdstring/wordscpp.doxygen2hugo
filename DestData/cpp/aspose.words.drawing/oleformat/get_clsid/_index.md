@@ -20,7 +20,6 @@ System::Guid Aspose::Words::Drawing::OleFormat::get_Clsid()
 
 
 
-
 Shows how to access an OLE control embedded in a document and its child controls. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"OLE ActiveX controls.docm");

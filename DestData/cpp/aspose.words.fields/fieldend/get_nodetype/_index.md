@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Fields::FieldEnd::get_NodeType() const ov
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

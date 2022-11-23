@@ -24,7 +24,6 @@ Aspose::Words::Saving::ImageSaveOptions::ImageSaveOptions(Aspose::Words::SaveFor
 
 
 
-
 Shows how to configure compression while saving a document as a JPEG. 
 ```cpp
 auto doc = MakeObject<Document>();

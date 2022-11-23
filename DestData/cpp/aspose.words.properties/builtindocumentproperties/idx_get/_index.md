@@ -30,7 +30,6 @@ If you request a property that is not present in the document and the name is no
 
 
 
-
 Shows how to work with custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");

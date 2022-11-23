@@ -24,7 +24,6 @@ The text of the run.
 
 
 
-
 Shows how to print the node structure of every header and footer in a document. 
 ```cpp
 void HeaderFooterToText()

@@ -22,7 +22,6 @@ The value of -1 means the numbering will continue.
 
 
 
-
 Shows advances ways of customizing list labels. 
 ```cpp
 auto doc = MakeObject<Document>();

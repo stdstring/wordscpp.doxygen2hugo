@@ -20,7 +20,6 @@ void Aspose::Words::EditableRange::Remove()
 
 
 
-
 Shows how to work with an editable range. 
 ```cpp
 auto doc = MakeObject<Document>();

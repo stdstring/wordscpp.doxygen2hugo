@@ -48,7 +48,6 @@ Use the [TextBox](../shape/get_textbox/) property to access text properties of a
 
 
 
-
 Shows how to set the orientation of text inside a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

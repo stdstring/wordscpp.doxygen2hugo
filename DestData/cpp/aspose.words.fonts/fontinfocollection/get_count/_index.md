@@ -20,7 +20,6 @@ int32_t Aspose::Words::Fonts::FontInfoCollection::get_Count()
 
 
 
-
 Shows info about the fonts that are present in the blank document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ virtual Aspose::Words::StoryType Aspose::Words::InlineStory::get_StoryType()=0
 
 
 
-
 Shows how to insert [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

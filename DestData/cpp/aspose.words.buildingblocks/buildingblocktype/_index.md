@@ -36,7 +36,6 @@ Corresponds to the **ST_DocPartType** type in OOXML.
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

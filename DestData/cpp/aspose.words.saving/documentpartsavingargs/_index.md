@@ -38,7 +38,6 @@ To save document parts into streams instead of files, use the [DocumentPartStrea
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

@@ -20,7 +20,6 @@ bool Aspose::Words::DocumentBuilder::get_IsAtEndOfParagraph()
 
 
 
-
 Shows how to move a document builder's cursor to different nodes in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

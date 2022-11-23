@@ -20,7 +20,6 @@ System::String Aspose::Words::Markup::XmlMapping::get_StoreItemId()
 
 
 
-
 Shows how to get the custom XML data identifier of an XML part. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Custom XML part in structured document tag.docx");

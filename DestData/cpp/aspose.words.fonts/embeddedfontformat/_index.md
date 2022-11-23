@@ -27,7 +27,6 @@ enum class EmbeddedFontFormat
 
 
 
-
 Shows how to extract an embedded font from a document, and save it to the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");

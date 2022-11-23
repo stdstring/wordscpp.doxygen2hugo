@@ -20,7 +20,6 @@ System::SharedPtr<System::Text::Encoding> Aspose::Words::Saving::HtmlFixedSaveOp
 
 
 
-
 Shows how to set which encoding to use while exporting a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>();

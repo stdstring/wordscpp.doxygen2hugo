@@ -32,7 +32,6 @@ class WebExtension : public System::Object
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

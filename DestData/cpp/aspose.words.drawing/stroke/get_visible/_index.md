@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Stroke::get_Visible()
 
 
 
-
 Show how to set marker formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

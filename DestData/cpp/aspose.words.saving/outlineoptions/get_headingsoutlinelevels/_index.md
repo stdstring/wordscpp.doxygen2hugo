@@ -24,7 +24,6 @@ Default is 0. Valid range is 0 to 9.
 
 
 
-
 Shows how to convert a whole document to PDF with three levels in the document outline. 
 ```cpp
 auto doc = MakeObject<Document>();

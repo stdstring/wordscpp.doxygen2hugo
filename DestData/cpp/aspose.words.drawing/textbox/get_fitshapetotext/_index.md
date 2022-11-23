@@ -22,7 +22,6 @@ The default value is **false**.
 
 
 
-
 Shows how to get a text box to resize itself to fit its contents tightly. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ The default value is **false**.
 
 
 
-
 Show how to write additional text positioning operators. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Text positioning operators.docx");

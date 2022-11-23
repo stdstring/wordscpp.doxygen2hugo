@@ -24,4 +24,3 @@ virtual System::SharedPtr<System::Drawing::Image> Aspose::Words::Fields::IBarcod
 
 Image representing generated barcode.
 
-

@@ -30,7 +30,6 @@ The returned string includes all control and special characters as described in 
 
 
 
-
 Shows how to add, update and delete child nodes in a [CompositeNode](../../compositenode/)'s collection of children. 
 ```cpp
 auto doc = MakeObject<Document>();

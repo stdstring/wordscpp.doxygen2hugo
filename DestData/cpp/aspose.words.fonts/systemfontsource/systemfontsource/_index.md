@@ -20,7 +20,6 @@ Aspose::Words::Fonts::SystemFontSource::SystemFontSource()
 
 
 
-
 Shows how to access a document's system font source and set font substitutes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -87,7 +86,6 @@ Aspose::Words::Fonts::SystemFontSource::SystemFontSource(int32_t priority)
 | priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 
 ## Examples
-
 
 
 

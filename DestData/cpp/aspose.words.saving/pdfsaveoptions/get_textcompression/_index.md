@@ -24,7 +24,6 @@ Significantly increases output size when saving a document without compression.
 
 
 
-
 Shows how to apply text compression when saving a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

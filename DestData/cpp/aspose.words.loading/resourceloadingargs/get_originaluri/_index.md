@@ -20,7 +20,6 @@ System::String Aspose::Words::Loading::ResourceLoadingArgs::get_OriginalUri() co
 
 
 
-
 Shows how to customize the process of loading external resources into a document. 
 ```cpp
 void ResourceLoadingCallback()

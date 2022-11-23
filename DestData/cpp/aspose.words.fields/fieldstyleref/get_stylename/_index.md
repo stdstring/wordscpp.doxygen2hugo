@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldStyleRef::get_StyleName()
 
 
 
-
 Shows how to use STYLEREF fields. 
 ```cpp
 auto doc = MakeObject<Document>();

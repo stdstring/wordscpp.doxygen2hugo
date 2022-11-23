@@ -20,7 +20,6 @@ virtual bool Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput()
 
 
 
-
 Shows how to optimize document objects while saving to xps. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Unoptimized document.docx");

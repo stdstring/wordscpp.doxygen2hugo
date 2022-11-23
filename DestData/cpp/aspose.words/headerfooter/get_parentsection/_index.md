@@ -22,7 +22,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::HeaderFooter::get_Paren
 
 
 
-
 Shows how to link headers and footers between sections. 
 ```cpp
 auto doc = MakeObject<Document>();

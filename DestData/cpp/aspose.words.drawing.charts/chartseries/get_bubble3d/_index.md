@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartSeries::get_Bubble3D() override
 
 
 
-
 Shows how to use 3D effects with bubble charts. 
 ```cpp
 auto doc = MakeObject<Document>();

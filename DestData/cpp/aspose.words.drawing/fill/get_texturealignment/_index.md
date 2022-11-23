@@ -20,7 +20,6 @@ Aspose::Words::Drawing::TextureAlignment Aspose::Words::Drawing::Fill::get_Textu
 
 
 
-
 Shows how to fill and tiling the texture inside the shape. 
 ```cpp
 auto doc = MakeObject<Document>();

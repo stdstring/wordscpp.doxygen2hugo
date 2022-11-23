@@ -28,7 +28,6 @@ True if particular DrawingML text effect is applied.
 
 
 
-
 Shows how to check if a run displays a DrawingML text effect. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"DrawingML text effects.docx");

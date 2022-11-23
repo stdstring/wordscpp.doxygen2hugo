@@ -55,7 +55,6 @@ class FieldDate : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to use DATE fields to display dates according to different kinds of calendars. 
 ```cpp
 auto doc = MakeObject<Document>();

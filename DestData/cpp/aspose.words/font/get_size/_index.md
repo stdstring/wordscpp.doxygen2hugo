@@ -20,7 +20,6 @@ double Aspose::Words::Font::get_Size()
 
 
 
-
 Shows how to insert formatted text using [DocumentBuilder](../../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Drawing::Fill::get_ForeColor()
 
 
 
-
 Shows to create a variety of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

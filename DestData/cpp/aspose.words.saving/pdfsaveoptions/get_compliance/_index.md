@@ -22,7 +22,6 @@ Default is **Pdf17**.
 
 
 
-
 Shows how to set the PDF standards compliance level of saved PDF documents. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

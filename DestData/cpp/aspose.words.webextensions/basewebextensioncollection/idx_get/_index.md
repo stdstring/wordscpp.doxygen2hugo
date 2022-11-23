@@ -24,7 +24,6 @@ T Aspose::Words::WebExtensions::BaseWebExtensionCollection<T>::idx_get(int32_t i
 
 
 
-
 Shows how to work with a document's collection of web extensions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Web extension.docx");

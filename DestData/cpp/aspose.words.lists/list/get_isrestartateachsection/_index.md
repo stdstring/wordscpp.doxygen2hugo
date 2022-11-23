@@ -24,7 +24,6 @@ This option will be written to DOCX only if [OoxmlCompliance](../../../aspose.wo
 
 
 
-
 Shows how to configure a list to restart numbering at each section. 
 ```cpp
 auto doc = MakeObject<Document>();

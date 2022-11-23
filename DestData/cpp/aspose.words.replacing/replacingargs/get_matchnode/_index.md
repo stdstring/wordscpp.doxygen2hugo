@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Replacing::ReplacingArgs::
 
 
 
-
 Shows how to insert an entire document's contents as a replacement of a match in a find-and-replace operation. 
 ```cpp
 void InsertDocumentAtReplace()

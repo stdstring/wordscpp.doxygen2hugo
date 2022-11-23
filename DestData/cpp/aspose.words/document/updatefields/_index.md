@@ -32,7 +32,6 @@ To update fields in a specific part of the document use [UpdateFields](../../ran
 
 
 
-
 Shows how to insert a Table of contents (TOC) into a document using heading styles as entries. 
 ```cpp
 auto doc = MakeObject<Document>();

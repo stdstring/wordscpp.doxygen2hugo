@@ -26,7 +26,6 @@ The default value is **false**.
 
 
 
-
 Shows how to display the title of the document as the title bar. 
 ```cpp
 auto doc = MakeObject<Document>();

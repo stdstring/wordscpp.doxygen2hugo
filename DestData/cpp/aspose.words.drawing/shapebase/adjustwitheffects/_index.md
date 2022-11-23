@@ -20,7 +20,6 @@ System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::AdjustWithEffects
 
 
 
-
 Shows how to check how a shape's bounds are affected by shape effects. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape shadow effect.docx");

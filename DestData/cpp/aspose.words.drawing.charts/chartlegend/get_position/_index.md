@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::LegendPosition Aspose::Words::Drawing::Charts::C
 
 
 
-
 Shows how to edit the appearance of a chart's legend. 
 ```cpp
 auto doc = MakeObject<Document>();

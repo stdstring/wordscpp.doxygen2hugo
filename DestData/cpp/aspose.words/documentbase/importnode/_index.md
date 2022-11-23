@@ -37,7 +37,6 @@ If the source node already belongs to the destination document, then simply a de
 
 
 
-
 Shows how to import a node from one document to another. 
 ```cpp
 auto srcDoc = MakeObject<Document>();
@@ -92,7 +91,6 @@ Before a node from another document can be inserted into this document, it must 
 If the source node already belongs to the destination document, then simply a deep clone of the source node is created.
 
 ## Examples
-
 
 
 

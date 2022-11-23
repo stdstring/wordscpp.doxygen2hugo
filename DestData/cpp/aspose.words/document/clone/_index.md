@@ -24,7 +24,6 @@ The cloned document.
 
 
 
-
 Shows how to deep clone a document. 
 ```cpp
 auto doc = MakeObject<Document>();

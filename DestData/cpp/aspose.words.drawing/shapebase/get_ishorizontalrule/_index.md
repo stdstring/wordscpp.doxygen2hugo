@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsHorizontalRule()
 
 
 
-
 Shows how to insert a horizontal rule shape, and customize its formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

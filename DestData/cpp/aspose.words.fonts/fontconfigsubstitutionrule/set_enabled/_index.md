@@ -20,7 +20,6 @@ void Aspose::Words::Fonts::FontConfigSubstitutionRule::set_Enabled(bool value) o
 
 
 
-
 Shows operating system-dependent font config substitution. 
 ```cpp
 auto fontSettings = MakeObject<FontSettings>();

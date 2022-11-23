@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::DocSaveOptions::get_SaveRoutingSlip() const
 
 
 
-
 Shows how to set save options for older Microsoft Word formats. 
 ```cpp
 auto doc = MakeObject<Document>();

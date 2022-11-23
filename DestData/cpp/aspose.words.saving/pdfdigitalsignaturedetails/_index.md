@@ -44,7 +44,6 @@ Aspose.Words creates a PKCS#7 signature over the whole PDF document and uses the
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ bool Aspose::Words::Style::get_IsHeading()
 
 
 
-
 Shows how to access a document's style collection. 
 ```cpp
 auto doc = MakeObject<Document>();

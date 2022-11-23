@@ -22,7 +22,6 @@ Single user and editor group cannot be set simultaneously for the specific edita
 
 
 
-
 Shows how to create nested editable ranges. 
 ```cpp
 auto doc = MakeObject<Document>();

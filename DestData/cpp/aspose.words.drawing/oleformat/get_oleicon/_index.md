@@ -22,7 +22,6 @@ Aspose.Words does not allow to set this property to avoid confusion. If you were
 
 
 
-
 Shows how to insert linked and unlinked OLE objects. 
 ```cpp
 auto doc = MakeObject<Document>();

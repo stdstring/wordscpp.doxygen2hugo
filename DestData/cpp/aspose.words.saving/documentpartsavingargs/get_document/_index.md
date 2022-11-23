@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::DocumentPartSa
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

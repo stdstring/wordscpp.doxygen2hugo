@@ -20,7 +20,6 @@ Aspose::Words::NumberStyle Aspose::Words::PageSetup::get_PageNumberStyle()
 
 
 
-
 Shows how to set up page numbering in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

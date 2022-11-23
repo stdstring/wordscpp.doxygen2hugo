@@ -20,7 +20,6 @@ Aspose::Words::Drawing::VerticalAlignment Aspose::Words::Tables::Table::get_Rela
 
 
 
-
 Shows how set the location of floating tables. 
 ```cpp
 auto doc = MakeObject<Document>();

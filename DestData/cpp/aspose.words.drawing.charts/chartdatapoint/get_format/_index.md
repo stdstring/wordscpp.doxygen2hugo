@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Dr
 
 
 
-
 Shows how to set individual formatting for categories of a column chart. 
 ```cpp
 auto doc = MakeObject<Document>();

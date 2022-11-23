@@ -24,7 +24,6 @@ The user password can be null or empty string, in this case no password will be 
 
 
 
-
 Shows how to set permissions on a saved PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ int32_t Aspose::Words::Properties::DocumentPropertyCollection::get_Count()
 
 
 
-
 Shows how to work with custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");

@@ -16,4 +16,3 @@ virtual void Aspose::Words::MailMerging::IMailMergeCallback::TagsReplaced()=0
 ```
 
 
-

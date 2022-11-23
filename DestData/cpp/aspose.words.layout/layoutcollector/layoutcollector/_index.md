@@ -24,7 +24,6 @@ Aspose::Words::Layout::LayoutCollector::LayoutCollector(const System::SharedPtr<
 
 
 
-
 Shows how to see the the ranges of pages that a node spans. 
 ```cpp
 auto doc = MakeObject<Document>();

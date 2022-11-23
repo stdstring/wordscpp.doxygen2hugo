@@ -20,7 +20,6 @@ int32_t Aspose::Words::PageSetup::get_LineStartingNumber()
 
 
 
-
 Shows how to enable line numbering for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ The default value is 95.
 
 
 
-
 Shows how to configure compression while saving a document as a JPEG. 
 ```cpp
 auto doc = MakeObject<Document>();

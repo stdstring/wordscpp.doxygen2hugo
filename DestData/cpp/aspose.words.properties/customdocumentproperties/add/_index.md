@@ -29,7 +29,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -108,7 +107,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 The newly created property object.
 
 ## Examples
-
 
 
 
@@ -193,7 +191,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -275,7 +272,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -354,7 +350,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 The newly created property object.
 
 ## Examples
-
 
 
 

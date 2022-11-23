@@ -32,7 +32,6 @@ int32_t Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeT
 
 
 
-
 Shows how to work with font subsetting. 
 ```cpp
 auto doc = MakeObject<Document>();

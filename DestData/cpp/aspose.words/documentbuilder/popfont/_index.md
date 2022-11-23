@@ -20,7 +20,6 @@ void Aspose::Words::DocumentBuilder::PopFont()
 
 
 
-
 Shows how to use a document builder's formatting stack. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsEndOfSection()
 
 
 
-
 Shows how to insert the contents of one document to a bookmark in another document. 
 ```cpp
 void InsertAtBookmark()

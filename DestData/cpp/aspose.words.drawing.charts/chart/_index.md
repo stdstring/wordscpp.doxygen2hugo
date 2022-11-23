@@ -32,7 +32,6 @@ class Chart : public System::Object
 
 
 
-
 Shows how to insert a chart and set a title. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::X
 
 
 
-
 Shows how to set XML mappings for custom XML parts. 
 ```cpp
 auto doc = MakeObject<Document>();

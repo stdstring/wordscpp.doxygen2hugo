@@ -26,7 +26,6 @@ Null is not allowed, but an empty string meaning no number is valid.
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

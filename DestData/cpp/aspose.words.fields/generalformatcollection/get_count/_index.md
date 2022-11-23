@@ -20,7 +20,6 @@ int32_t Aspose::Words::Fields::GeneralFormatCollection::get_Count()
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

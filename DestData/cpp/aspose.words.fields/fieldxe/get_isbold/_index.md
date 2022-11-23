@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldXE::get_IsBold()
 
 
 
-
 Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();

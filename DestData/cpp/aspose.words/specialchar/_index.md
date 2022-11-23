@@ -57,7 +57,6 @@ A Microsoft Word document can include a number of special characters that repres
 
 
 
-
 Shows how to use a [DocumentVisitor](../documentvisitor/) implementation to remove all hidden content from a document. 
 ```cpp
 void RemoveHiddenContentFromDocument()

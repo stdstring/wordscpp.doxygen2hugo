@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Outline()
 
 
 
-
 Shows how to create a run of text formatted as outline. 
 ```cpp
 auto doc = MakeObject<Document>();

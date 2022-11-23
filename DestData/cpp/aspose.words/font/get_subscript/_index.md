@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Subscript()
 
 
 
-
 Shows how to format text to offset its position. 
 ```cpp
 auto doc = MakeObject<Document>();

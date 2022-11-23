@@ -65,7 +65,6 @@ Use the [Stroke](../shape/get_stroke/) property to access stroke properties of a
 
 
 
-
 Shows how change stroke properties. 
 ```cpp
 auto doc = MakeObject<Document>();

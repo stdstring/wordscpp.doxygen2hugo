@@ -20,7 +20,6 @@ System::String Aspose::Words::TextWatermarkOptions::get_FontFamily() const
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

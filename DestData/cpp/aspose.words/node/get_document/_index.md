@@ -22,7 +22,6 @@ The node always belongs to a document even if it has just been created and not y
 
 
 
-
 Shows how to create a node and set its owning document. 
 ```cpp
 auto doc = MakeObject<Document>();

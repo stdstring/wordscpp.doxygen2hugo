@@ -20,7 +20,6 @@ double Aspose::Words::PageSetup::get_TopMargin()
 
 
 
-
 Shows how to adjust paper size, orientation, margins, along with other settings for a section. 
 ```cpp
 auto doc = MakeObject<Document>();

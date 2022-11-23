@@ -20,7 +20,6 @@ double Aspose::Words::Properties::DocumentProperty::ToDouble()
 
 
 
-
 Shows various type conversion methods of custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>();

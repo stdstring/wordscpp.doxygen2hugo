@@ -20,7 +20,6 @@ Aspose::Words::Loading::DocumentDirection Aspose::Words::Loading::TxtLoadOptions
 
 
 
-
 Shows how to detect plaintext document text direction. 
 ```cpp
 // Create a "TxtLoadOptions" object, which we can pass to a document's constructor

@@ -29,7 +29,6 @@ To append a [CommentRangeEnd](../) to the document use InsertAfter or InsertBefo
 
 
 
-
 Shows how print the contents of all comments and their comment ranges using a document visitor. 
 ```cpp
 void CreateCommentsAndPrintAllInfo()

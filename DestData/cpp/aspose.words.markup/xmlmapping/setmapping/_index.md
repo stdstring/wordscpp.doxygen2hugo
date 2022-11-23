@@ -30,7 +30,6 @@ A flag indicating whether the parent structured document tag is successfully map
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

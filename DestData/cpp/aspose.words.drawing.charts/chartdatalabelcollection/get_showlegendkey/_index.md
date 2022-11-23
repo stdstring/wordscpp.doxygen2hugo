@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowLegendKey
 
 
 
-
 Shows how to work with data labels of a pie chart. 
 ```cpp
 auto doc = MakeObject<Document>();

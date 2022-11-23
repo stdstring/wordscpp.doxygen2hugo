@@ -28,7 +28,6 @@ enum class JoinStyle
 
 
 
-
 Shows to create a variety of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

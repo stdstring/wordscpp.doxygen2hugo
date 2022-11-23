@@ -20,7 +20,6 @@ System::String Aspose::Words::Bookmark::get_Text()
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

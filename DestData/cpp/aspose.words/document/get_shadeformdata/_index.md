@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_ShadeFormData()
 
 
 
-
 Shows how to apply gray shading to form fields. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::FrameFormat> Aspose::Words::Paragraph::get_Fram
 
 
 
-
 Shows how to get information about formatting properties of paragraphs that are frames. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraph frame.docx");

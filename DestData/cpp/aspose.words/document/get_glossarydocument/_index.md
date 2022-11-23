@@ -24,7 +24,6 @@ You can add a glossary document to a document by creating a [GlossaryDocument](.
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

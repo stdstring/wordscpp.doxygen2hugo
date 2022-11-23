@@ -30,7 +30,6 @@ Another way to specify a folder where external CSS file is saved is to use [Reso
 
 
 
-
 Shows how to work with CSS stylesheets that an HTML conversion creates. 
 ```cpp
 void ExternalCssFilenames()

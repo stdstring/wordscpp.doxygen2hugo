@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Font::get_UnderlineColor()
 
 
 
-
 Shows how to configure the style and color of a text underline. 
 ```cpp
 auto doc = MakeObject<Document>();

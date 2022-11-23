@@ -26,7 +26,6 @@ This method should be called only once after [EndRow](../endrow/) was called. Wh
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

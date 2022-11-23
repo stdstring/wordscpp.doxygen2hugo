@@ -73,7 +73,6 @@ class FieldDisplayBarcode : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to insert a DISPLAYBARCODE field, and set its properties. 
 ```cpp
 auto doc = MakeObject<Document>();

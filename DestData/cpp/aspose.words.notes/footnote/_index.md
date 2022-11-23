@@ -88,7 +88,6 @@ The **Footnote** class is used to represent both footnotes and endnotes in a Wor
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

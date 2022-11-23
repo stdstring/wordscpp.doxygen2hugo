@@ -22,7 +22,6 @@ The default value is **Horizontal**.
 
 
 
-
 Shows how to set the orientation of text inside a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

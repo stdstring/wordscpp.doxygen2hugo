@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator()
 
 
 
-
 Shows how to edit the page number separator in an INDEX field. 
 ```cpp
 auto doc = MakeObject<Document>();

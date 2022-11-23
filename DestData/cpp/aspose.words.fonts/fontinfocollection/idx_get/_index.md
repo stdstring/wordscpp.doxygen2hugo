@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Fonts::FontInfo> Aspose::Words::Fonts::FontInfo
 
 
 
-
 Shows how to extract an embedded font from a document, and save it to the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");
@@ -65,7 +64,6 @@ System::SharedPtr<Aspose::Words::Fonts::FontInfo> Aspose::Words::Fonts::FontInfo
 | index | int32_t | Zero-based index of the font. |
 
 ## Examples
-
 
 
 

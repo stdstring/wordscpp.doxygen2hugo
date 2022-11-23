@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Drawing::Stroke::get_BackColor()
 
 
 
-
 Show how to set marker formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

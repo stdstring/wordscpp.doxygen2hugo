@@ -96,7 +96,6 @@ class SvgSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 
 
 
-
 Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. 
 ```cpp
 void SvgResourceFolder()

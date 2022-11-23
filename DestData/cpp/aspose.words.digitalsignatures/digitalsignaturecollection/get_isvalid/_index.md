@@ -20,7 +20,6 @@ bool Aspose::Words::DigitalSignatures::DigitalSignatureCollection::get_IsValid()
 
 
 
-
 Shows how to sign documents with X.509 certificates. 
 ```cpp
 // Verify that a document is not signed.

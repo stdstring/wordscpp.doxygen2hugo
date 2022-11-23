@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInFullContex
 
 
 
-
 Shows how to use STYLEREF fields. 
 ```cpp
 auto doc = MakeObject<Document>();

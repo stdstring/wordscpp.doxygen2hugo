@@ -82,7 +82,6 @@ Aspose.Words represents a Word document as a tree of nodes. [DocumentBase](./) i
 
 
 
-
 Shows how to initialize the subclasses of [DocumentBase](./). 
 ```cpp
 auto doc = MakeObject<Document>();

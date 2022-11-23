@@ -26,7 +26,6 @@ The default value is 1.5.
 
 
 
-
 Shows how to insert a horizontal rule shape, and customize its formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

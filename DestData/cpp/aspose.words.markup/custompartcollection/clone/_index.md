@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomPartCollection> Aspose::Words::Ma
 
 
 
-
 Shows how to access a document's arbitrary custom parts collection. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Custom parts OOXML package.docx");

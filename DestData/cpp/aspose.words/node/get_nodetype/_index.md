@@ -20,7 +20,6 @@ virtual Aspose::Words::NodeType Aspose::Words::Node::get_NodeType() const =0
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

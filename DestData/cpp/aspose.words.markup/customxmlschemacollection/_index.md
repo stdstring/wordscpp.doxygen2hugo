@@ -55,7 +55,6 @@ You do not create instances of this class. You access the collection of XML sche
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

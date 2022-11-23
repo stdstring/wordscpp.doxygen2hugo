@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::idx_
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,7 +77,6 @@ System::SharedPtr<Aspose::Words::TabStop> Aspose::Words::TabStopCollection::idx_
 | index | int32_t | An index into the collection of tab stops. |
 
 ## Examples
-
 
 
 

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Shading> Aspose::Words::Font::get_Shading()
 
 
 
-
 Shows how to apply shading to text created by a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

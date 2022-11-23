@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::FontSavingArgs::get_IsExportNeeded() const
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

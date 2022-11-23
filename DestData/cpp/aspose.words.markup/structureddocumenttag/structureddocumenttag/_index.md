@@ -40,7 +40,6 @@ The following types of SDT can be created:
 
 
 
-
 Show how to create a structured document tag in the form of a check box. 
 ```cpp
 auto doc = MakeObject<Document>();

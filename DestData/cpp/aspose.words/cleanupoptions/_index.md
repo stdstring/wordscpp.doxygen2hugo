@@ -33,7 +33,6 @@ class CleanupOptions : public System::Object
 
 
 
-
 Shows how to remove all unused custom styles from a document. 
 ```cpp
 auto doc = MakeObject<Document>();

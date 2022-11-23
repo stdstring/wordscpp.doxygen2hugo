@@ -20,7 +20,6 @@ Aspose::Words::Fields::FieldType Aspose::Words::Fields::FormField::get_Type()
 
 
 
-
 Shows how to insert a combo box. 
 ```cpp
 auto doc = MakeObject<Document>();

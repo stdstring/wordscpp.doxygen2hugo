@@ -68,7 +68,6 @@ class FieldRef : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to insert REF fields to reference bookmarks. 
 ```cpp
 void FieldRef_()

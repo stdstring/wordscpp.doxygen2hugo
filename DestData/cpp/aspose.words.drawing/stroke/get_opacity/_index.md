@@ -22,7 +22,6 @@ The default value is 1.
 
 
 
-
 Shows to create a variety of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

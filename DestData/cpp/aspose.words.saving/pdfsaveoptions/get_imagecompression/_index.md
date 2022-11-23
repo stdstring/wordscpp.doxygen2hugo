@@ -28,7 +28,6 @@ Using **Auto** lets to control the quality of Jpeg in the output document throug
 
 
 
-
 Shows how to specify a compression type for all images in a document that we are converting to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

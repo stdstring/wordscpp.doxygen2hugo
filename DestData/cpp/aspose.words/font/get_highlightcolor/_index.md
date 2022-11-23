@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Font::get_HighlightColor()
 
 
 
-
 Shows how to format a run of text using its font property. 
 ```cpp
 auto doc = MakeObject<Document>();

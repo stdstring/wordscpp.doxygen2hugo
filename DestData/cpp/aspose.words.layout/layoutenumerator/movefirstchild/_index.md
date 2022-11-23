@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::LayoutEnumerator::MoveFirstChild()
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()

@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSeq::get_ResetNumber()
 
 
 
-
 Shows create numbering using SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();

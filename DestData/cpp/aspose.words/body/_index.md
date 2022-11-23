@@ -79,7 +79,6 @@ A minimal valid **Body** needs to contain at least one **Paragraph**.
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

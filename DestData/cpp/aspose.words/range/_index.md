@@ -44,7 +44,6 @@ The document is represented by a tree of nodes and the nodes provide operations 
 
 
 
-
 Shows how to get the text contents of all the nodes that a range covers. 
 ```cpp
 auto doc = MakeObject<Document>();

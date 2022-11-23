@@ -20,7 +20,6 @@ void Aspose::Words::RevisionCollection::AcceptAll()
 
 
 
-
 Shows how to compare documents. 
 ```cpp
 auto docOriginal = MakeObject<Document>();

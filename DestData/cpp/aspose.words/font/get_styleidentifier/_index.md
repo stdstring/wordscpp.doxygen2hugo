@@ -20,7 +20,6 @@ Aspose::Words::StyleIdentifier Aspose::Words::Font::get_StyleIdentifier()
 
 
 
-
 Shows how to change the style of existing text. 
 ```cpp
 auto doc = MakeObject<Document>();

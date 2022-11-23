@@ -51,7 +51,6 @@ enum class LoadFormat
 
 
 
-
 Shows how save a web page as a .docx file. 
 ```cpp
 const String url = u"https://www.aspose.com/";

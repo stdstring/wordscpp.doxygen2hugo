@@ -28,7 +28,6 @@ Whenever document is updated and new page layout model is created, a new enumera
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()

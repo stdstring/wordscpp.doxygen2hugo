@@ -29,7 +29,6 @@ For all other SDT types exception will occur.
 
 
 
-
 Show how to create a structured document tag in the form of a check box. 
 ```cpp
 auto doc = MakeObject<Document>();

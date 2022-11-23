@@ -25,7 +25,6 @@ Aspose::Words::Fonts::FolderFontSource::FolderFontSource(const System::String &f
 
 
 
-
 Shows how to use a local system folder which contains fonts as a font source. 
 ```cpp
 // Create a font source from a folder that contains font files.
@@ -58,7 +57,6 @@ Aspose::Words::Fonts::FolderFontSource::FolderFontSource(const System::String &f
 | priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 
 ## Examples
-
 
 
 

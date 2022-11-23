@@ -30,7 +30,6 @@ After creating a comment, don't forget to set its [Author](../get_author/), [Ini
 
 
 
-
 Shows how print the contents of all comments and their comment ranges using a document visitor. 
 ```cpp
 void CreateCommentsAndPrintAllInfo()
@@ -186,7 +185,6 @@ Aspose::Words::Comment::Comment(const System::SharedPtr<Aspose::Words::DocumentB
 | dateTime | System::DateTime | The date and time for the comment. |
 
 ## Examples
-
 
 
 

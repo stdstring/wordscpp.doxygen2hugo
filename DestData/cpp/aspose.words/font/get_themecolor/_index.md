@@ -20,7 +20,6 @@ Aspose::Words::Themes::ThemeColor Aspose::Words::Font::get_ThemeColor()
 
 
 
-
 Shows how to work with theme fonts and colors. 
 ```cpp
 auto doc = MakeObject<Document>();

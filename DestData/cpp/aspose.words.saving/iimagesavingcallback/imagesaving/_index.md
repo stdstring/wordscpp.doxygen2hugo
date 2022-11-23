@@ -20,7 +20,6 @@ virtual void Aspose::Words::Saving::IImageSavingCallback::ImageSaving(System::Sh
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

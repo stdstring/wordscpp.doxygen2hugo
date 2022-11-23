@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Themes::ThemeColors::get_Accent4()
 
 
 
-
 Shows how to set custom colors and fonts for themes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Theme colors.docx");

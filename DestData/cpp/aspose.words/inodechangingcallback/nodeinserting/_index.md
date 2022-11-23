@@ -20,7 +20,6 @@ virtual void Aspose::Words::INodeChangingCallback::NodeInserting(System::SharedP
 
 
 
-
 Shows how customize node changing with a callback. 
 ```cpp
 void FontChangeViaCallback()

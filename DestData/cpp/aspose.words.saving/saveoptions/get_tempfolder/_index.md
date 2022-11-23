@@ -28,7 +28,6 @@ Aspose.Words automatically deletes all temporary files when saving is complete.
 
 
 
-
 Shows how to use the hard drive instead of memory when saving a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

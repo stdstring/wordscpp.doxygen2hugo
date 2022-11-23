@@ -49,7 +49,6 @@ The paragraphs do not physically belong to a list. The paragraphs just reference
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::Drawing::Size Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_
 
 
 
-
 Shows how to update a document's thumbnail. 
 ```cpp
 auto doc = MakeObject<Document>();

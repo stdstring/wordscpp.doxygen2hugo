@@ -20,7 +20,6 @@ double Aspose::Words::Tables::CellFormat::get_BottomPadding()
 
 
 
-
 Shows how to format cells with a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

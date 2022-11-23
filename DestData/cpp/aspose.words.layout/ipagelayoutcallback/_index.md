@@ -33,7 +33,6 @@ This technique may not work for every document or may fail completely.
 
 
 
-
 Shows how to track layout changes with a layout callback. 
 ```cpp
 void PageLayoutCallback()

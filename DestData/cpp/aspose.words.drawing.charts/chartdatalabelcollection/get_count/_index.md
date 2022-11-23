@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Count()
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

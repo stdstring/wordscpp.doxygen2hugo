@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSet::get_BookmarkText()
 
 
 
-
 Shows how to create bookmarked text with a SET field, and then display it in the document using a REF field. 
 ```cpp
 auto doc = MakeObject<Document>();

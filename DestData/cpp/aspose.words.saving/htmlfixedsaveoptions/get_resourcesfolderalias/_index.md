@@ -22,7 +22,6 @@ When you save a [Document](../../../aspose.words/document/) in Html format, Aspo
 
 
 
-
 Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. 
 ```cpp
 void HtmlFixedResourceFolder()

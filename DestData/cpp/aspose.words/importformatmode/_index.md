@@ -48,7 +48,6 @@ Using **KeepDifferentStyles** option allows to reuse destination styles if the f
 
 
 
-
 Shows how to insert a document into another document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

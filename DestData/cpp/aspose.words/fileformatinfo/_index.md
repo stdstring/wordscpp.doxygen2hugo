@@ -30,7 +30,6 @@ You do not create instances of this class directly. Objects of this class are re
 
 
 
-
 Shows how to use the [FileFormatUtil](../fileformatutil/) class to detect the document format and encryption. 
 ```cpp
 auto doc = MakeObject<Document>();

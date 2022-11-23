@@ -36,7 +36,6 @@ Note: A building block node and its children are not visited when you execute a 
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

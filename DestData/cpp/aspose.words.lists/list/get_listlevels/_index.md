@@ -22,7 +22,6 @@ Use this property to access and modify formatting individual to each level of th
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::Saving::PdfEncryptionDetails::PdfEncryptionDetails(const System::
 
 
 
-
 Shows how to set permissions on a saved PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

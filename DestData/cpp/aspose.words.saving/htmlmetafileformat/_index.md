@@ -28,7 +28,6 @@ enum class HtmlMetafileFormat
 
 
 
-
 Shows how to convert SVG objects to a different format when saving HTML documents. 
 ```cpp
 String html =

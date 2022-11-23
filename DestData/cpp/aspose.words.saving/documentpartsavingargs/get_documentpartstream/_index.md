@@ -28,7 +28,6 @@ When saving to EPUB format that is a container format based on HTML, [DocumentPa
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

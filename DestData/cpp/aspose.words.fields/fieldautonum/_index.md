@@ -49,7 +49,6 @@ class FieldAutoNum : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to number paragraphs using autonum fields. 
 ```cpp
 auto doc = MakeObject<Document>();

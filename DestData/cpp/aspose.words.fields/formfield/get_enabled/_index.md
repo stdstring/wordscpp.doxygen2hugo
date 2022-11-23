@@ -22,7 +22,6 @@ If a form field is enabled, its contents can be changed as the form is filled in
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

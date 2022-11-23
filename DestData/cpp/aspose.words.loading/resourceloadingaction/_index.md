@@ -28,7 +28,6 @@ enum class ResourceLoadingAction
 
 
 
-
 Shows how to customize the process of loading external resources into a document. 
 ```cpp
 void ResourceLoadingCallback()

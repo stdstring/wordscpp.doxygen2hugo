@@ -28,7 +28,6 @@ If you need to navigate to a [Cell](../../../aspose.words.tables/cell/) node the
 
 
 
-
 Shows how to see the the ranges of pages that a node spans. 
 ```cpp
 auto doc = MakeObject<Document>();

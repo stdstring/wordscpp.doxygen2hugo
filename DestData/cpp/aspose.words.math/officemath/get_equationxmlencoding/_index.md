@@ -20,7 +20,6 @@ System::SharedPtr<System::Text::Encoding> Aspose::Words::Math::OfficeMath::get_E
 
 
 
-
 Shows how to set office math display formatting. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

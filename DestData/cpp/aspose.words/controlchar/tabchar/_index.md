@@ -20,7 +20,6 @@ static constexpr char16_t Aspose::Words::ControlChar::TabChar
 
 
 
-
 Shows how to set a custom interval for tab stop positions. 
 ```cpp
 auto doc = MakeObject<Document>();

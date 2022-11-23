@@ -22,7 +22,6 @@ The default value is (0,0).
 
 
 
-
 Shows how to create and populate a group shape. 
 ```cpp
 auto doc = MakeObject<Document>();

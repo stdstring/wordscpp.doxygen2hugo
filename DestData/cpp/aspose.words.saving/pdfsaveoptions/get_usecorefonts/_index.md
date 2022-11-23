@@ -32,7 +32,6 @@ This option has a higher priority then [FontEmbeddingMode](../get_fontembeddingm
 
 
 
-
 Shows how enable/disable PDF Type 1 font substitution. 
 ```cpp
 auto doc = MakeObject<Document>();

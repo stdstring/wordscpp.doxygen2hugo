@@ -30,7 +30,6 @@ enum class NumeralFormat
 
 
 
-
 Shows how to set the numeral format used when saving to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

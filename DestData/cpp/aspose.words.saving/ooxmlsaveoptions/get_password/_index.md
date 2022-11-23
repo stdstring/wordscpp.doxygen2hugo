@@ -22,7 +22,6 @@ In order to save document without encryption this property should be null or emp
 
 
 
-
 Shows how to create a password encrypted Office Open XML document. 
 ```cpp
 auto doc = MakeObject<Document>();

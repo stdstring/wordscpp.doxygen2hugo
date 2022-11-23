@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 
 
 
-
 Shows how to verify mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Mail merge regions.docx");

@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldCompare::get_LeftExpression()
 
 
 
-
 Shows how to compare expressions using a COMPARE field. 
 ```cpp
 auto doc = MakeObject<Document>();

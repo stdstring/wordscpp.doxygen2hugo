@@ -26,7 +26,6 @@ Some fonts are large (several megabytes) and embedding them without subsetting w
 
 
 
-
 Shows how to enable or disable subsetting when embedding fonts while rendering a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

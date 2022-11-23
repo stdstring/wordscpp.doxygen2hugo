@@ -20,7 +20,6 @@ virtual void Aspose::Words::Saving::ICssSavingCallback::CssSaving(System::Shared
 
 
 
-
 Shows how to work with CSS stylesheets that an HTML conversion creates. 
 ```cpp
 void ExternalCssFilenames()

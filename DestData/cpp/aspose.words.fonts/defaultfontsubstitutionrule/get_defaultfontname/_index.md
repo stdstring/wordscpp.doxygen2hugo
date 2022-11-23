@@ -22,7 +22,6 @@ The default value is 'Times New Roman'.
 
 
 
-
 Shows how to specify a default font. 
 ```cpp
 auto doc = MakeObject<Document>();

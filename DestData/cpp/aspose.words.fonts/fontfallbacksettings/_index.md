@@ -33,7 +33,6 @@ class FontFallbackSettings : public System::Object
 
 
 
-
 Shows how to distribute fallback fonts across Unicode character code ranges. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -22,7 +22,6 @@ This property has effect only when saving to raster image formats.
 
 
 
-
 Shows how to specify a resolution while rendering a document to PNG. 
 ```cpp
 auto doc = MakeObject<Document>();

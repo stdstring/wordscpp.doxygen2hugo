@@ -35,7 +35,6 @@ class StyleCollection : public System::Collections::Generic::IEnumerable<System:
 
 
 
-
 Shows how to create and use a paragraph style with list formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

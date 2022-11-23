@@ -24,7 +24,6 @@ Default is empty string.
 
 
 
-
 Shows how to print all of a document's comments and their replies. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Comments.docx");

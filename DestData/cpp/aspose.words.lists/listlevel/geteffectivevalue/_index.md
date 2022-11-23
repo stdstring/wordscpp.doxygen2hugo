@@ -30,7 +30,6 @@ The string representation of the [ListLevel](../) object, described by the numbe
 
 
 
-
 Shows how to get the format for a list with the custom number style. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"List with leading zero.docx");

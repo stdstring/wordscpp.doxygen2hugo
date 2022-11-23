@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldCitation::get_SourceTag()
 
 
 
-
 Shows how to work with CITATION and BIBLIOGRAPHY fields. 
 ```cpp
 // Open a document containing bibliographical sources that we can find in

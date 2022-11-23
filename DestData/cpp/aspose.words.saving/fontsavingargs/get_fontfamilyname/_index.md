@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::FontSavingArgs::get_FontFamilyName() const
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

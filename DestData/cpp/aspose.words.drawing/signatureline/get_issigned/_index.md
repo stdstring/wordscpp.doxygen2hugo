@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::SignatureLine::get_IsSigned()
 
 
 
-
 Shows how to sign a document with a personal certificate and a signature line. 
 ```cpp
 auto doc = MakeObject<Document>();

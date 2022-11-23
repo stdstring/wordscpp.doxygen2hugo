@@ -30,7 +30,6 @@ The parent of oldChild is set to null after the node is removed.
 
 
 
-
 Shows how to use of methods of [Node](../../node/) and [CompositeNode](../) to remove a section before the last section in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

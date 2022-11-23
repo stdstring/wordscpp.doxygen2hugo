@@ -26,7 +26,6 @@ The default value is [Auto](../../preferredwidth/auto/).
 
 
 
-
 Shows how to set a preferred width for table cells. 
 ```cpp
 auto doc = MakeObject<Document>();

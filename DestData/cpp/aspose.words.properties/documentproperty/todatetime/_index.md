@@ -24,7 +24,6 @@ Microsoft Word stores only the date part (no time) for custom date properties.
 
 
 
-
 Shows how to create a custom document property which contains a date and time. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ If both PageStream and PageFileName are set, then PageStream will be used.
 
 
 
-
 Shows how to use a callback to save a document to HTML page by page. 
 ```cpp
 void PageFileNames()

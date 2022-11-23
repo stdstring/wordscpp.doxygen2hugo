@@ -22,7 +22,6 @@ Default is **false** and Aspose.Words will close the stream you provided in the 
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

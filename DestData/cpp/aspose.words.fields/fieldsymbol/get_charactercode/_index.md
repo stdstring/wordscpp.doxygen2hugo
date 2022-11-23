@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSymbol::get_CharacterCode()
 
 
 
-
 Shows how to use the SYMBOL field. 
 ```cpp
 auto doc = MakeObject<Document>();

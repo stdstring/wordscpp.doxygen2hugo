@@ -20,7 +20,6 @@ int32_t Aspose::Words::Vba::VbaModuleCollection::get_Count()
 
 
 
-
 Shows how to access a document's VBA project information. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");

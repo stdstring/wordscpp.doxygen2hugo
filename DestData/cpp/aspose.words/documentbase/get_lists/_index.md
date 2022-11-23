@@ -22,7 +22,6 @@ For more information see the description of the [ListCollection](../../../aspose
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ bool Aspose::Words::Bookmark::get_IsColumn()
 
 
 
-
 Shows how to get information about table column bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table column bookmarks.doc");

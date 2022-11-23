@@ -28,7 +28,6 @@ To append **Row** to the document use InsertAfter or InsertBefore on the table w
 
 
 
-
 Shows how to build a nested table without using a document builder. 
 ```cpp
 void CreateNestedTable()

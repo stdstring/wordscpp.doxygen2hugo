@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_PageBreakBefore()
 
 
 
-
 Shows how to create paragraphs with page breaks at the beginning. 
 ```cpp
 auto doc = MakeObject<Document>();

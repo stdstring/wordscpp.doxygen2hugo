@@ -20,7 +20,6 @@ void Aspose::Words::Layout::LayoutCollector::Clear()
 
 
 
-
 Shows how to see the the ranges of pages that a node spans. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ Use [MoveToSection()](../movetosection/) to move out of the header into the main
 
 
 
-
 Shows how to create headers and footers in a document using [DocumentBuilder](../). 
 ```cpp
 auto doc = MakeObject<Document>();

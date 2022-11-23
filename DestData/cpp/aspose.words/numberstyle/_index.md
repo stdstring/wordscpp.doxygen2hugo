@@ -87,7 +87,6 @@ enum class NumberStyle
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

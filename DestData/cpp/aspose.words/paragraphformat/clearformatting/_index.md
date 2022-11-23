@@ -20,7 +20,6 @@ void Aspose::Words::ParagraphFormat::ClearFormatting()
 
 
 
-
 Shows how to nest a list inside another list. 
 ```cpp
 auto doc = MakeObject<Document>();

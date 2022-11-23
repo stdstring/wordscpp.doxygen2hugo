@@ -46,7 +46,6 @@ class FieldSectionPages : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use SECTION and SECTIONPAGES fields to number pages by sections. 
 ```cpp
 auto doc = MakeObject<Document>();

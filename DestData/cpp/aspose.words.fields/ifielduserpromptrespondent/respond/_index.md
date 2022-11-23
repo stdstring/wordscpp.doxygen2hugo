@@ -25,4 +25,3 @@ virtual System::String Aspose::Words::Fields::IFieldUserPromptRespondent::Respon
 
 User response (i.e. confirmed value contained in the prompt window).
 
-

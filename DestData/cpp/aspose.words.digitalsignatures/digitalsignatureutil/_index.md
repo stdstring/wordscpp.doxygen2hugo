@@ -41,7 +41,6 @@ Supported formats are **Doc** and **Docx**.
 
 
 
-
 Shows how to load signatures from a digitally signed document. 
 ```cpp
 // There are two ways of loading a signed document's collection of digital signatures using the DigitalSignatureUtil class.

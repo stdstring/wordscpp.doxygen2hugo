@@ -20,7 +20,6 @@ Aspose::Words::Loading::ResourceType Aspose::Words::Loading::ResourceLoadingArgs
 
 
 
-
 Shows how to customize the process of loading external resources into a document. 
 ```cpp
 void ResourceLoadingCallback()

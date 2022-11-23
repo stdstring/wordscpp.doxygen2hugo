@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_ShowGrammaticalErrors()
 
 
 
-
 Shows how to show/hide errors in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

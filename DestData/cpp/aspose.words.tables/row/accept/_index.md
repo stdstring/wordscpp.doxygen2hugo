@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to print the node structure of every table in a document. 
 ```cpp
 void TableToText()

@@ -24,7 +24,6 @@ The default value is **null**. When this property is **null**, the font will be 
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

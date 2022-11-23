@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fonts::TableSubstitutionRule> Aspose::Words::Fo
 
 
 
-
 Shows how to work with custom font substitution tables. 
 ```cpp
 auto doc = MakeObject<Document>();

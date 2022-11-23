@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::GradientStopCollection> Aspose::Words:
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();

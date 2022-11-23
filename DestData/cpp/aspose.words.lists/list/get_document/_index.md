@@ -22,7 +22,6 @@ A list always has a parent document and is valid only in the context of that doc
 
 
 
-
 Shows how to verify owner document properties of lists. 
 ```cpp
 auto doc = MakeObject<Document>();

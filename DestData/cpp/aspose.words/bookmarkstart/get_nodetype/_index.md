@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::BookmarkStart::get_NodeType() const overr
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

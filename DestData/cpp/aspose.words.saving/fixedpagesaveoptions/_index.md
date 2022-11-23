@@ -81,7 +81,6 @@ class FixedPageSaveOptions : public Aspose::Words::Saving::SaveOptions
 
 
 
-
 Shows how to render one page from a document to a JPEG image. 
 ```cpp
 auto doc = MakeObject<Document>();

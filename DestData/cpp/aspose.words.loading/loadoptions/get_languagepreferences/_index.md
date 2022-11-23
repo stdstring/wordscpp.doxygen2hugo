@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Loading::LanguagePreferences> Aspose::Words::Lo
 
 
 
-
 Shows how to apply language preferences when loading a document. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();

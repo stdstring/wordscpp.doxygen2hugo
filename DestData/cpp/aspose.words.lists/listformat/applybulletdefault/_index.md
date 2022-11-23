@@ -22,7 +22,6 @@ This is a shortcut method that creates a new list using the default bulleted tem
 
 
 
-
 Shows how to create bulleted and numbered lists. 
 ```cpp
 auto doc = MakeObject<Document>();

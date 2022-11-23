@@ -30,7 +30,6 @@ Alternative way to specify the name of the folder to construct image URIs is to 
 
 
 
-
 Shows how to set folders and folder aliases for externally saved resources that Aspose.Words will create when saving a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

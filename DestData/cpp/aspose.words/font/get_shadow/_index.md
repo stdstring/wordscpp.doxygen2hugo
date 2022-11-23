@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Shadow()
 
 
 
-
 Shows how to create a run of text formatted with a shadow. 
 ```cpp
 auto doc = MakeObject<Document>();

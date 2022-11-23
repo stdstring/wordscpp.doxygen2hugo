@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAuthor::get_AuthorName()
 
 
 
-
 Shows how to use an AUTHOR field to display a document creator's name. 
 ```cpp
 auto doc = MakeObject<Document>();

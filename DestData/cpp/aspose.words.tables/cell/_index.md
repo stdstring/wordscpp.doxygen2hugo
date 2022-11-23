@@ -81,7 +81,6 @@ A minimal valid cell needs to have at least one **Paragraph**.
 
 
 
-
 Shows how to create a table. 
 ```cpp
 auto doc = MakeObject<Document>();

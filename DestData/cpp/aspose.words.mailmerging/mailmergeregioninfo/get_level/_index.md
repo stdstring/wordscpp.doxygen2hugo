@@ -20,7 +20,6 @@ int32_t Aspose::Words::MailMerging::MailMergeRegionInfo::get_Level() const
 
 
 
-
 Shows how to verify mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Mail merge regions.docx");

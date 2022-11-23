@@ -26,4 +26,3 @@ The first [Node](../../node/) that matches the XPath query or null if no matchin
 
 Only expressions with element names are supported at the moment. Expressions that use attribute names are not supported.
 
-

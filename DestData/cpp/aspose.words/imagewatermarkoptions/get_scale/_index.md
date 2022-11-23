@@ -24,7 +24,6 @@ Auto scale means that the watermark will be scaled to its max width and max heig
 
 
 
-
 Shows how to create a watermark from an image in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>();

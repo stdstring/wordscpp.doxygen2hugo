@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::Charts::ChartDataPointCollection::get_Count()
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

@@ -20,7 +20,6 @@ System::String Aspose::Words::Markup::StructuredDocumentTag::get_Tag() const ove
 
 
 
-
 Shows how to create a structured document tag in a plain text box and modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();

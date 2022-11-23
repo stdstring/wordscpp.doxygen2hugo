@@ -28,7 +28,6 @@ Id attribute shall follow these rules:* The document shall retain SDT ids only i
 
 
 
-
 Shows how to create a structured document tag in a plain text box and modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();

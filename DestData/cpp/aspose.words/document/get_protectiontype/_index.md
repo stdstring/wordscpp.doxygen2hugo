@@ -26,7 +26,6 @@ Note that document protection is different from write protection. Write protecti
 
 
 
-
 Shows how to protect and unprotect a document. 
 ```cpp
 auto doc = MakeObject<Document>();

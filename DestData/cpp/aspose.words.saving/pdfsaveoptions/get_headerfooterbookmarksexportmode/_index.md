@@ -24,7 +24,6 @@ This property is used in conjunction with the [OutlineOptions](../get_outlineopt
 
 
 
-
 Shows to process bookmarks in headers/footers in a document that we are rendering to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Bookmarks in headers and footers.docx");

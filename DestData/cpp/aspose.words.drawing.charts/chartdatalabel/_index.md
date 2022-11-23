@@ -48,7 +48,6 @@ class ChartDataLabel : public Aspose::Words::Drawing::Charts::Core::INumberForma
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

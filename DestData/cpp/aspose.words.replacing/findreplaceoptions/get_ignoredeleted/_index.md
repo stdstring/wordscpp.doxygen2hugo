@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreDeleted() const
 
 
 
-
 Shows how to include or ignore text inside delete revisions during a find-and-replace operation. 
 ```cpp
 auto doc = MakeObject<Document>();

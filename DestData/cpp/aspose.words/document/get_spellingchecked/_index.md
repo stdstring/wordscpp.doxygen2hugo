@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_SpellingChecked()
 
 
 
-
 Shows how to set spelling or grammar verifying. 
 ```cpp
 auto doc = MakeObject<Document>();

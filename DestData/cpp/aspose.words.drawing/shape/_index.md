@@ -189,7 +189,6 @@ Shapes that can have text, can contain [Paragraph](../../aspose.words/paragraph/
 
 
 
-
 Shows how to extract images from a document, and save them to the local file system as individual files. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

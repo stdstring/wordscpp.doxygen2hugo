@@ -26,7 +26,6 @@ If a tab stop already exists at the specified position, it is replaced.
 
 
 
-
 Shows how to add custom tab stops to a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,7 +71,6 @@ void Aspose::Words::TabStopCollection::Add(double position, Aspose::Words::TabAl
 If a tab stop already exists at the specified position, it is replaced.
 
 ## Examples
-
 
 
 

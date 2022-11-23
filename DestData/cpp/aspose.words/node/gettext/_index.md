@@ -22,7 +22,6 @@ The returned string includes all control and special characters as described in 
 
 
 
-
 Shows how to use control characters. 
 ```cpp
 auto doc = MakeObject<Document>();

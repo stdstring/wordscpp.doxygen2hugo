@@ -30,7 +30,6 @@ To update fields in the whole document use [UpdateFields](../../document/updatef
 
 
 
-
 Shows how to update all the fields in a range. 
 ```cpp
 auto doc = MakeObject<Document>();

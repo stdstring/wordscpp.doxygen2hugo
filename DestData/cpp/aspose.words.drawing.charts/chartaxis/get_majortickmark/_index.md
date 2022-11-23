@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::AxisTickMark Aspose::Words::Drawing::Charts::Cha
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

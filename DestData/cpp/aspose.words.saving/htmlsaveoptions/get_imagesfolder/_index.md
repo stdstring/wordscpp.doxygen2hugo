@@ -30,7 +30,6 @@ If the folder specified by [ImagesFolder](./) doesn't exist, it will be created 
 
 
 
-
 Shows how to specify the folder for storing linked images after saving to .html. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

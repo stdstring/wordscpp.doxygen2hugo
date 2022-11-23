@@ -20,7 +20,6 @@ void Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings()
 
 
 
-
 Shows how to access font substitution tables for Windows and Linux. 
 ```cpp
 auto doc = MakeObject<Document>();

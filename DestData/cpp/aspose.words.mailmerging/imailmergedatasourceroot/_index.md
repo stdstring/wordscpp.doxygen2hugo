@@ -25,7 +25,6 @@ class IMailMergeDataSourceRoot : public virtual System::Object
 
 
 
-
 Performs mail merge from a custom data source with master-detail data. 
 ```cpp
 void CustomDataSourceRoot()

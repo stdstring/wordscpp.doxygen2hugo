@@ -24,7 +24,6 @@ Has effect only when the [List](../get_list/) property is set to reference a val
 
 
 
-
 Shows how to create bulleted and numbered lists. 
 ```cpp
 auto doc = MakeObject<Document>();

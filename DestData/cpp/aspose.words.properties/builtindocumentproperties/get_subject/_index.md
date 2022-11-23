@@ -20,7 +20,6 @@ System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject
 
 
 
-
 Shows how to work with built-in document properties in the "Description" category. 
 ```cpp
 auto doc = MakeObject<Document>();

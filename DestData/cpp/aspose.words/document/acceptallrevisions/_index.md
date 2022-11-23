@@ -20,7 +20,6 @@ void Aspose::Words::Document::AcceptAllRevisions()
 
 
 
-
 Shows how to accept all tracking changes in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

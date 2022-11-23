@@ -24,7 +24,6 @@ Has effect for top level shapes only.
 
 
 
-
 Shows how to lock/unlock a shape's aspect ratio. 
 ```cpp
 auto doc = MakeObject<Document>();

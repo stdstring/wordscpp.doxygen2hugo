@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_OptimizeOutput() override
 
 
 
-
 Shows how to simplify a document when saving it to HTML by removing various redundant objects. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

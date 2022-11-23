@@ -24,7 +24,6 @@ True if moved to next record successfully. False if reached end of the data sour
 
 
 
-
 Shows how to execute a mail merge with a data source in the form of a custom object. 
 ```cpp
 void CustomDataSource()

@@ -29,7 +29,6 @@ class ThumbnailGeneratingOptions : public System::Object
 
 
 
-
 Shows how to update a document's thumbnail. 
 ```cpp
 auto doc = MakeObject<Document>();

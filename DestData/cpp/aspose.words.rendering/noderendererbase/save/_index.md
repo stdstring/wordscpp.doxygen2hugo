@@ -25,7 +25,6 @@ void Aspose::Words::Rendering::NodeRendererBase::Save(const System::SharedPtr<Sy
 
 
 
-
 Shows how to use a shape renderer to export shapes to files in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Various shapes.docx");
@@ -61,7 +60,6 @@ void Aspose::Words::Rendering::NodeRendererBase::Save(const System::String &file
 | saveOptions | System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\> | Specifies the options that control how the shape is rendered and saved. Can be null. |
 
 ## Examples
-
 
 
 

@@ -57,7 +57,6 @@ In Aspose.Words this field can also act as a merge field.
 
 
 
-
 Shows how to use MACROBUTTON fields to allow us to run a document's macros by clicking. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Macro.docm");

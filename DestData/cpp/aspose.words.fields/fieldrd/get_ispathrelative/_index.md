@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldRD::get_IsPathRelative()
 
 
 
-
 Shows to use the RD field to create a table of contents entries from headings in other documents. 
 ```cpp
 auto doc = MakeObject<Document>();

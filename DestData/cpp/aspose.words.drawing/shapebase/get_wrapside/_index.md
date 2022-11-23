@@ -24,7 +24,6 @@ Has effect only for top level shapes.
 
 
 
-
 Shows how to replace all textbox shapes with image shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Textboxes in drawing canvas.docx");

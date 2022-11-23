@@ -22,7 +22,6 @@ The default value is **Round**.
 
 
 
-
 Shows how change stroke properties. 
 ```cpp
 auto doc = MakeObject<Document>();

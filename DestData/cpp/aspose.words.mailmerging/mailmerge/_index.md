@@ -73,4 +73,3 @@ Use **ExecuteWithRegions** methods to merge information into a document with mai
 
 You need to use mail merge regions if you want to dynamically grow portions inside the document. Without mail merge regions whole document will be repeated for every record of the data source.
 
-

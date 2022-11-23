@@ -51,7 +51,6 @@ class FieldAutoNumLgl : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to organize a document using AUTONUMLGL fields. 
 ```cpp
 void FieldAutoNumLgl_()

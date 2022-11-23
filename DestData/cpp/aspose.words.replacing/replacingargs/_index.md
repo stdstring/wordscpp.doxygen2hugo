@@ -33,7 +33,6 @@ class ReplacingArgs : public System::Object
 
 
 
-
 Shows how to replace all occurrences of a regular expression pattern with another string, while tracking all such replacements. 
 ```cpp
 void ReplaceWithCallback()

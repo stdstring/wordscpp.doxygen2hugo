@@ -32,7 +32,6 @@ When saving a document to a stream, the generated resource file name looks like 
 
 
 
-
 Shows how to use a callback to track external resources created while converting a document to HTML. 
 ```cpp
 void ResourceSavingCallback()

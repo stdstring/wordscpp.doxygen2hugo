@@ -50,7 +50,6 @@ class FieldGoToButton : public Aspose::Words::Fields::Field
 
 
 
-
 Shows to insert a GOTOBUTTON field. 
 ```cpp
 auto doc = MakeObject<Document>();

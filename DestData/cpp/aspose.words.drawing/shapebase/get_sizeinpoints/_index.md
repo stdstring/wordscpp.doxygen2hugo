@@ -20,7 +20,6 @@ System::Drawing::SizeF Aspose::Words::Drawing::ShapeBase::get_SizeInPoints()
 
 
 
-
 Shows how to verify a shape's size and markup language. 
 ```cpp
 auto doc = MakeObject<Document>();

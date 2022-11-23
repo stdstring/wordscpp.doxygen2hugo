@@ -31,7 +31,6 @@ This method inserts a field into a document. Aspose.Words can update fields of m
 
 
 
-
 Shows how to insert a field into a document using FieldType. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -92,7 +91,6 @@ A [Field](../../../aspose.words.fields/field/) object that represents the insert
 This method inserts a field into a document and updates the field result immediately. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
 
 ## Examples
-
 
 
 
@@ -162,7 +160,6 @@ To create a field, you need to specify a field type, field code and a "placehold
 Aspose.Words can calculate field results for most of the field types, but this method does not update the field result automatically. Because the field result is not calculated automatically, you are expected to pass some string value (or even an empty string) that will be inserted into the field result. This value will remain in the field result as a placeholder until the field is updated. To update the field result you can call [Update](../../../aspose.words.fields/field/update/) on the field object returned to you or [UpdateFields](../../document/updatefields/) to update fields in the whole document.
 
 ## Examples
-
 
 
 

@@ -59,7 +59,6 @@ Variable names are case-insensitive.
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

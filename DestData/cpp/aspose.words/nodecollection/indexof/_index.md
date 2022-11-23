@@ -30,7 +30,6 @@ This method performs a linear search; therefore, the average execution time is p
 
 
 
-
 Shows how to get the index of a node in a collection. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

@@ -20,7 +20,6 @@ System::String Aspose::Words::Style::get_NextParagraphStyleName()
 
 
 
-
 Shows how to access a document's style collection. 
 ```cpp
 auto doc = MakeObject<Document>();

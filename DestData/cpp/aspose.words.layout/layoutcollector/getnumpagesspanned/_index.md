@@ -20,7 +20,6 @@ int32_t Aspose::Words::Layout::LayoutCollector::GetNumPagesSpanned(const System:
 
 
 
-
 Shows how to see the the ranges of pages that a node spans. 
 ```cpp
 auto doc = MakeObject<Document>();

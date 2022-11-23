@@ -31,7 +31,6 @@ enum class TextFormFieldType
 
 
 
-
 Shows how to create form fields. 
 ```cpp
 auto builder = MakeObject<DocumentBuilder>();

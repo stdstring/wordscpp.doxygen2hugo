@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Lists::ListLevel::get_Font
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

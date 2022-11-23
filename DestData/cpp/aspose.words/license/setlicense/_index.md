@@ -26,7 +26,6 @@ Use this method to load a license from a stream.
 
 
 
-
 Shows how to initialize a license for Aspose.Words from a stream. 
 ```cpp
 // Set the license for our Aspose.Words product by passing a stream for a valid license file in our local file system.
@@ -60,7 +59,6 @@ Tries to find the license in the following locations:
 
 
 ## Examples
-
 
 
 

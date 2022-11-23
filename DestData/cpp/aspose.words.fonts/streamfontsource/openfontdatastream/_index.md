@@ -24,7 +24,6 @@ virtual System::SharedPtr<System::IO::Stream> Aspose::Words::Fonts::StreamFontSo
 
 
 
-
 Shows how to load fonts from stream. 
 ```cpp
 void StreamFontSourceFileRendering()

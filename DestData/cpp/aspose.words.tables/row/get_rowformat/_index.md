@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::RowFormat> Aspose::Words::Tables::Row::
 
 
 
-
 Shows how to modify the format of rows and cells in a table. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -22,7 +22,6 @@ Default is **false** and Aspose.Words will close the stream you provided in the 
 
 
 
-
 Shows how to use a callback to save a document to HTML page by page. 
 ```cpp
 void PageFileNames()

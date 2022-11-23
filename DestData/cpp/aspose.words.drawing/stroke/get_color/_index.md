@@ -22,7 +22,6 @@ The default value for a [Shape](../../shape/) is **Black**.
 
 
 
-
 Shows to create a variety of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

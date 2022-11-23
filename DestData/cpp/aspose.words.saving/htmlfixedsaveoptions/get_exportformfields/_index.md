@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportFormFields() const
 
 
 
-
 Shows how to export form fields to Html. 
 ```cpp
 auto doc = MakeObject<Document>();

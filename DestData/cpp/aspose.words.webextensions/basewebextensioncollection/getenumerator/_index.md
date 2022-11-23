@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<T>> Aspose::Words::W
 
 
 
-
 Shows how to work with a document's collection of web extensions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Web extension.docx");

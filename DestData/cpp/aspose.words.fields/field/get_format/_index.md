@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldFormat> Aspose::Words::Fields::Fie
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

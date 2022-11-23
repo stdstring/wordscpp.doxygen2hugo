@@ -22,7 +22,6 @@ Microsoft Word allows maximum 25 items in a dropdown form field.
 
 
 
-
 Shows how insert different kinds of form fields into a document, and process them with using a document visitor implementation. 
 ```cpp
 void Visitor()

@@ -28,7 +28,6 @@ enum class ExportListLabels
 
 
 
-
 Shows how to configure list exporting to HTML. 
 ```cpp
 auto doc = MakeObject<Document>();

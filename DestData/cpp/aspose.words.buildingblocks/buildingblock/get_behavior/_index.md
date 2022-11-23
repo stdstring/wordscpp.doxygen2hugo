@@ -20,7 +20,6 @@ Aspose::Words::BuildingBlocks::BuildingBlockBehavior Aspose::Words::BuildingBloc
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()

@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::LayoutEnumerator::MoveParent()
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()
@@ -158,7 +157,6 @@ bool Aspose::Words::Layout::LayoutEnumerator::MoveParent(Aspose::Words::Layout::
 | types | Aspose::Words::Layout::LayoutEntityType | The parent entity type to move to. Use bitwise-OR to specify multiple parent types. |
 
 ## Examples
-
 
 
 

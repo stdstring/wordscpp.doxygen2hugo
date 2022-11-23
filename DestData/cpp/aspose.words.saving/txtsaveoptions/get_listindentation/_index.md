@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::TxtListIndentation> Aspose::Words::Savi
 
 
 
-
 Shows how to configure list indenting when saving a document to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

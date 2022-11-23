@@ -133,7 +133,6 @@ You do not create instances of the [Font](./) class directly. You just use [Font
 
 
 
-
 Shows how to insert a string surrounded by a border into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

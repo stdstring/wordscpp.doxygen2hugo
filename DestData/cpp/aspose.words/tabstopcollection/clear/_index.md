@@ -20,7 +20,6 @@ void Aspose::Words::TabStopCollection::Clear()
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -27,7 +27,6 @@ This property is used to resolve relative URIs into absolute in the following ca
 
 
 
-
 Shows how to open an HTML document with images from a stream using a base URI. 
 ```cpp
 {

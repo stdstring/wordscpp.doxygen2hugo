@@ -32,7 +32,6 @@ If the node being inserted was created from another document, you should use **I
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

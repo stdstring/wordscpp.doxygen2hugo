@@ -20,7 +20,6 @@ int32_t Aspose::Words::BookmarkCollection::get_Count()
 
 
 
-
 Shows how to remove bookmarks from a document. 
 ```cpp
 auto doc = MakeObject<Document>();

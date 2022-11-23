@@ -48,7 +48,6 @@ In this version of Aspose.Words, [SubDocument](./) nodes do not provide public m
 
 
 
-
 Shows how to access a master document's subdocument. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Master document.docx");

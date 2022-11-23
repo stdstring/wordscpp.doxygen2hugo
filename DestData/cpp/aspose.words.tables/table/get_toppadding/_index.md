@@ -20,7 +20,6 @@ double Aspose::Words::Tables::Table::get_TopPadding()
 
 
 
-
 Shows how to configure content padding in a table. 
 ```cpp
 auto doc = MakeObject<Document>();

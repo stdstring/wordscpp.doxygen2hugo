@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::AxisBuiltInUnit Aspose::Words::Drawing::Charts::
 
 
 
-
 Shows how to manipulate the tick marks and displayed values of a chart axis. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -36,7 +36,6 @@ Aspose.Words aims to output XHTML according to the XHTML 1.0 Transitional specif
 
 
 
-
 Shows how to display a DOCTYPE heading when converting documents to the Xhtml 1.0 transitional standard. 
 ```cpp
 auto doc = MakeObject<Document>();

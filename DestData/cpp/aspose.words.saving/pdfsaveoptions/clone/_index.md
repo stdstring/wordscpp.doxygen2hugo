@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::PdfSaveOptions> Aspose::Words::Saving::
 
 
 
-
 Shows how to update all the fields in a document immediately before saving it to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

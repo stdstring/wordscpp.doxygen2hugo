@@ -24,7 +24,6 @@ Aspose::Words::Fields::FieldBuilder::FieldBuilder(Aspose::Words::Fields::FieldTy
 
 
 
-
 Shows how to create and insert a field using a field builder. 
 ```cpp
 auto doc = MakeObject<Document>();

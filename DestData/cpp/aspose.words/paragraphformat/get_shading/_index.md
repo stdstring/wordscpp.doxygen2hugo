@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Shading> Aspose::Words::ParagraphFormat::get_Sh
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();

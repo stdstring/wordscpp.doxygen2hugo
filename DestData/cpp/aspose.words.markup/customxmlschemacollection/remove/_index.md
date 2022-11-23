@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomXmlSchemaCollection::Remove(const System::Stri
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

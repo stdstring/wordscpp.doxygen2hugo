@@ -20,7 +20,6 @@ static constexpr char16_t Aspose::Words::ControlChar::ColumnBreakChar
 
 
 
-
 Shows how to add various control characters to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

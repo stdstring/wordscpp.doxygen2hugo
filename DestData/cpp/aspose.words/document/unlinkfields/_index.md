@@ -24,7 +24,6 @@ To unlink fields in a specific part of the document use [UnlinkFields](../../ran
 
 
 
-
 Shows how to unlink all fields in the document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Linked fields.docx");

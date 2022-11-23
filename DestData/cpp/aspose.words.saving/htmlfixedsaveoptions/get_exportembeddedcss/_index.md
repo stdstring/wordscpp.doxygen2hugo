@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedCss() const
 
 
 
-
 Shows how to determine where to store CSS stylesheets when exporting a document to Html. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

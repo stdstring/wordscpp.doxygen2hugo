@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomPartCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to access a document's arbitrary custom parts collection. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Custom parts OOXML package.docx");

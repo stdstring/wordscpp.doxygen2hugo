@@ -31,7 +31,6 @@ enum class OfficeMathJustification
 
 
 
-
 Shows how to set office math display formatting. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

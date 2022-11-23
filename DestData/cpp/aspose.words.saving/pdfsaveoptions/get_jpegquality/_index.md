@@ -28,7 +28,6 @@ Use this property to get or set the quality of the images inside a document when
 
 
 
-
 Shows how to specify a compression type for all images in a document that we are converting to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

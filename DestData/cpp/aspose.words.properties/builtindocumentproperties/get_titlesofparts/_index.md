@@ -22,7 +22,6 @@ Aspose.Words does not update this property.
 
 
 
-
 Shows the relationship between "HeadingPairs" and "TitlesOfParts" properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Heading pairs and titles of parts.docx");

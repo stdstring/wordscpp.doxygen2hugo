@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::Tables::Row::get_F
 
 
 
-
 Shows how to print the node structure of every table in a document. 
 ```cpp
 void TableToText()

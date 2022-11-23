@@ -25,7 +25,6 @@ class IFieldUpdateCultureProvider : public System::Object
 
 
 
-
 Shows how to specify a culture which parses date/time formatting for each field. 
 ```cpp
 void DefineDateTimeFormatting()

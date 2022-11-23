@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldNoteRef::get_InsertReferenceMark()
 
 
 
-
 Shows to insert NOTEREF fields, and modify their appearance. 
 ```cpp
 void FieldNoteRef_()

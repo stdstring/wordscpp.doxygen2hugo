@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Drawing::GradientStop::get_Color()
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();

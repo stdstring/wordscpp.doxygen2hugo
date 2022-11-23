@@ -20,7 +20,6 @@ Aspose::Words::Layout::LayoutEntityType Aspose::Words::Layout::LayoutEnumerator:
 
 
 
-
 Shows ways of traversing a document's layout entities. 
 ```cpp
 void LayoutEnumerator_()

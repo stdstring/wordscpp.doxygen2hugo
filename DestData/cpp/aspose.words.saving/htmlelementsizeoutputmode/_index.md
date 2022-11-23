@@ -28,7 +28,6 @@ enum class HtmlElementSizeOutputMode
 
 
 
-
 Shows how to preserve negative indents in the output .html. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Setting this property sets the [Unit](../get_unit/) property to **Custom**.
 
 
 
-
 Shows how to manipulate the tick marks and displayed values of a chart axis. 
 ```cpp
 auto doc = MakeObject<Document>();

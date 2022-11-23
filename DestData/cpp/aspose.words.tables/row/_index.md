@@ -80,7 +80,6 @@ A minimal valid row needs to have at least one **Cell**.
 
 
 
-
 Shows how to create a table. 
 ```cpp
 auto doc = MakeObject<Document>();

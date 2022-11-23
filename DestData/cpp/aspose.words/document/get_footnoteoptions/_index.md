@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Notes::FootnoteOptions> Aspose::Words::Document
 
 
 
-
 Shows how to select a different place where the document collects and displays its footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

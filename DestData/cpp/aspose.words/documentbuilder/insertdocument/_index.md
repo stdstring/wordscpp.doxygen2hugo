@@ -29,7 +29,6 @@ First node of the inserted content.
 
 
 
-
 Shows how to insert a document into another document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -65,7 +64,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBuilder::InsertDoc
 First node of the inserted content.
 
 ## Examples
-
 
 
 

@@ -22,7 +22,6 @@ Although Microsoft Word has a special shape type for images, it appears that in 
 
 
 
-
 Shows how to insert and rotate an image. 
 ```cpp
 auto doc = MakeObject<Document>();

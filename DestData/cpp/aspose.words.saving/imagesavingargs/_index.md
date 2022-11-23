@@ -42,7 +42,6 @@ To save images into streams instead of files, use the [ImageStream](./get_images
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()

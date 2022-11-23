@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldTA::get_IsBold()
 
 
 
-
 Shows how to build and customize a table of authorities using TOA and TA fields. 
 ```cpp
 void FieldTOA_()

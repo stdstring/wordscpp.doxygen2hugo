@@ -26,7 +26,10 @@ namespace Doxygen2HugoConverter.Markup
                             case "para":
                                 SimpleMarkupEntry paragraphStart = new SimpleMarkupEntry.ParagraphStartEntry();
                                 SimpleMarkupEntry paragraphEnd = new SimpleMarkupEntry.ParagraphEndEntry();
-                                return elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).CreateFrame(paragraphStart, paragraphEnd);
+                                IList<SimpleMarkupEntry> innerEntries = elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).ToList();
+                                return innerEntries.IsEmpty() ?
+                                    EnumerableUtils.CreateSingle(new SimpleMarkupEntry.LineBreakEntry()) :
+                                    innerEntries.CreateFrame(paragraphStart, paragraphEnd);
                             // TODO (std_string) : think about special processing of computeroutput node
                             case "computeroutput":
                             case "bold":
@@ -65,7 +68,10 @@ namespace Doxygen2HugoConverter.Markup
                             case "para":
                                 DetailedDescriptionMarkupEntry paragraphStart = new DetailedDescriptionMarkupEntry.ParagraphStartEntry();
                                 DetailedDescriptionMarkupEntry paragraphEnd = new DetailedDescriptionMarkupEntry.ParagraphEndEntry();
-                                return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).CreateFrame(paragraphStart, paragraphEnd);
+                                IList<DetailedDescriptionMarkupEntry> innerEntries = elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList();
+                                return innerEntries.IsEmpty() ?
+                                    EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.LineBreakEntry()) :
+                                    innerEntries.CreateFrame(paragraphStart, paragraphEnd);
                             // TODO (std_string) : think about special processing of computeroutput node
                             case "computeroutput":
                             case "bold":

@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomXmlPartCollection::Add(const System::SharedPtr
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -106,7 +105,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlPart> Aspose::Words::Markup::C
 Created custom XML part.
 
 ## Examples
-
 
 
 

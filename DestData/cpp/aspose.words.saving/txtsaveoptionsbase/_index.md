@@ -75,7 +75,6 @@ class TxtSaveOptionsBase : public Aspose::Words::Saving::SaveOptions
 
 
 
-
 Shows how to save a .txt document with a custom paragraph break. 
 ```cpp
 auto doc = MakeObject<Document>();

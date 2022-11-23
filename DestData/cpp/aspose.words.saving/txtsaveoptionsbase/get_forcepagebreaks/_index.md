@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks() const
 
 
 
-
 Shows how to specify whether to preserve page breaks when exporting a document to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

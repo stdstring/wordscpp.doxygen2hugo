@@ -22,7 +22,6 @@ Optional Hyphen in Microsoft Word does not correspond to the Unicode character U
 
 
 
-
 Shows how to add various control characters to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

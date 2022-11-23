@@ -20,7 +20,6 @@ void Aspose::Words::Comment::RemoveAllReplies()
 
 
 
-
 Shows how to remove comment replies. 
 ```cpp
 auto doc = MakeObject<Document>();

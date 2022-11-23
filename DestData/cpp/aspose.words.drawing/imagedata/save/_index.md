@@ -26,7 +26,6 @@ Is it the responsibility of the caller to dispose the stream object.
 
 
 
-
 Shows how to save all images from a document to the file system. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -72,7 +71,6 @@ void Aspose::Words::Drawing::ImageData::Save(const System::String &fileName)
 | fileName | const System::String\& | The file name where to save the image. |
 
 ## Examples
-
 
 
 

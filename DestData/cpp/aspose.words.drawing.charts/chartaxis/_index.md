@@ -73,7 +73,6 @@ class ChartAxis : public Aspose::Words::Drawing::Charts::Core::IDmlChartTitleHol
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

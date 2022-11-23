@@ -22,7 +22,6 @@ Cannot be null.
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

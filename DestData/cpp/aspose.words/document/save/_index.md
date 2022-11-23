@@ -29,7 +29,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to save a document to an image via stream, and then read the image from that stream. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -94,7 +93,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to convert only some of the pages in a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -142,7 +140,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to open a document and convert it to .PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -173,7 +170,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to convert from DOCX to HTML format. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -201,7 +197,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 Additional information that you can optionally use.
 
 ## Examples
-
 
 
 

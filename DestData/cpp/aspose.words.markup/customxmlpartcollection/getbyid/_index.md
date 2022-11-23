@@ -28,7 +28,6 @@ Returns **null** if a custom XML part with the specified identifier is not found
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

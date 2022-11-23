@@ -26,7 +26,6 @@ Has no effect and will be automatically reset to zero for borders of table cells
 
 
 
-
 Shows how to create green wavy page border with a shadow. 
 ```cpp
 auto doc = MakeObject<Document>();

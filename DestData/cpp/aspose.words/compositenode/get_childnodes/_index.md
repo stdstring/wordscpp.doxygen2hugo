@@ -24,7 +24,6 @@ If there are no child nodes, this property returns an empty collection.
 
 
 
-
 Shows how to traverse through a composite node's collection of child nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldToa::get_SequenceName()
 
 
 
-
 Shows how to build and customize a table of authorities using TOA and TA fields. 
 ```cpp
 void FieldTOA_()

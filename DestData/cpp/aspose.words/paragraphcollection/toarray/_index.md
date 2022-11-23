@@ -24,7 +24,6 @@ An array of paragraphs.
 
 
 
-
 Shows how to create an array from a [NodeCollection](../../nodecollection/). 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");

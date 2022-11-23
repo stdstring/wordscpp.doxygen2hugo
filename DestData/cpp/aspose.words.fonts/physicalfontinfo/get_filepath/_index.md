@@ -20,7 +20,6 @@ System::String Aspose::Words::Fonts::PhysicalFontInfo::get_FilePath() const
 
 
 
-
 Shows how to list available fonts. 
 ```cpp
 // Configure Aspose.Words to source fonts from a custom folder, and then print every available font.

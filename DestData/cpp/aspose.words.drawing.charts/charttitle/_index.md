@@ -31,7 +31,6 @@ class ChartTitle : public Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSo
 
 
 
-
 Shows how to insert a chart and set a title. 
 ```cpp
 auto doc = MakeObject<Document>();

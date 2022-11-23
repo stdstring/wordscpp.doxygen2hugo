@@ -28,7 +28,6 @@ The position of the tab stop.
 
 
 
-
 Shows how to find a tab, stop by its index and verify its position. 
 ```cpp
 auto doc = MakeObject<Document>();

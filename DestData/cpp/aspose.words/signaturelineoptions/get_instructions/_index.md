@@ -20,7 +20,6 @@ System::String Aspose::Words::SignatureLineOptions::get_Instructions() const
 
 
 
-
 Shows how to sign a document with a personal certificate and a signature line. 
 ```cpp
 auto doc = MakeObject<Document>();

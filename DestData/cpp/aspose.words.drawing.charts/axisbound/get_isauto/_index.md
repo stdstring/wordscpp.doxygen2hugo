@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::AxisBound::get_IsAuto() const
 
 
 
-
 Shows how to set custom axis bounds. 
 ```cpp
 auto doc = MakeObject<Document>();

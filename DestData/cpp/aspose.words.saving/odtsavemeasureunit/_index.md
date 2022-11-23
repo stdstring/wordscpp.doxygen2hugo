@@ -27,7 +27,6 @@ enum class OdtSaveMeasureUnit
 
 
 
-
 Shows how to use different measurement units to define style parameters of a saved ODT document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

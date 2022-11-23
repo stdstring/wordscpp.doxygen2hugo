@@ -20,7 +20,6 @@ static System::String Aspose::Words::Node::NodeTypeToString(Aspose::Words::NodeT
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

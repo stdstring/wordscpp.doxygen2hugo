@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::RevisionGroup> Aspose::Words::Revision::get_Gro
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

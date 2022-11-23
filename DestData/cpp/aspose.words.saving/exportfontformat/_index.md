@@ -27,7 +27,6 @@ enum class ExportFontFormat
 
 
 
-
 Shows how use fonts only from the target machine when saving a document to HTML. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Bullet points with alternative font.docx");

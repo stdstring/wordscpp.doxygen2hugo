@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::DocumentBase::
 
 
 
-
 Shows how to use the [IWarningCallback](../../iwarningcallback/) interface to monitor font substitution warnings. 
 ```cpp
 void SubstitutionWarning()

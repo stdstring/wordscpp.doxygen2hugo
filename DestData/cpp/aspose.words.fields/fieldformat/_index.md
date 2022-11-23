@@ -29,7 +29,6 @@ class FieldFormat : public System::Object
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();

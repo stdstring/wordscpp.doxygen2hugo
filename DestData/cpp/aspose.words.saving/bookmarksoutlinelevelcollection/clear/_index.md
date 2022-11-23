@@ -20,7 +20,6 @@ void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Clear()
 
 
 
-
 Shows how to set outline levels for bookmarks. 
 ```cpp
 auto doc = MakeObject<Document>();

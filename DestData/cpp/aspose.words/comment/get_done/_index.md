@@ -20,7 +20,6 @@ bool Aspose::Words::Comment::get_Done() const
 
 
 
-
 Shows how to mark a comment as "done". 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -35,7 +35,6 @@ class ParagraphCollection : public Aspose::Words::NodeCollection
 
 
 
-
 Shows how to check whether a paragraph is a move revision. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

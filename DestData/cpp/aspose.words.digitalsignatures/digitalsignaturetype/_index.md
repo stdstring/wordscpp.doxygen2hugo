@@ -28,7 +28,6 @@ enum class DigitalSignatureType
 
 
 
-
 Shows how to sign documents with X.509 certificates. 
 ```cpp
 // Verify that a document is not signed.

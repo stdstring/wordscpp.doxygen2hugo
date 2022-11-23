@@ -20,7 +20,6 @@ Aspose::Words::Layout::ShowInBalloons Aspose::Words::Layout::RevisionOptions::ge
 
 
 
-
 Shows how to display revisions in balloons. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

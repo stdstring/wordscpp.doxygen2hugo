@@ -172,7 +172,6 @@ A floating shape be positioned explicitly using the [Left](./get_left/) and [Top
 
 
 
-
 Shows how to insert a floating image to the center of a page. 
 ```cpp
 auto doc = MakeObject<Document>();

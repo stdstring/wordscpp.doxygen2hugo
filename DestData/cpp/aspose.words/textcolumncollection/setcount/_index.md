@@ -26,7 +26,6 @@ When [EvenlySpaced](../get_evenlyspaced/) is **false** and you increase the numb
 
 
 
-
 Shows how to create multiple evenly spaced columns in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

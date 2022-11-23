@@ -20,7 +20,6 @@ int32_t Aspose::Words::Markup::CustomXmlPartCollection::get_Count()
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

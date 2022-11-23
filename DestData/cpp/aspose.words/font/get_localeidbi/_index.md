@@ -20,7 +20,6 @@ int32_t Aspose::Words::Font::get_LocaleIdBi()
 
 
 
-
 Shows how to define separate sets of font settings for right-to-left, and right-to-left text. 
 ```cpp
 auto doc = MakeObject<Document>();

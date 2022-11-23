@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

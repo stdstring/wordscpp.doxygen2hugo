@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_KeepWithNext()
 
 
 
-
 Shows how to set a table to stay together on the same page. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table spanning two pages.docx");

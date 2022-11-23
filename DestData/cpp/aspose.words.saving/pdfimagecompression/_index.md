@@ -27,7 +27,6 @@ enum class PdfImageCompression
 
 
 
-
 Shows how to specify a compression type for all images in a document that we are converting to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();

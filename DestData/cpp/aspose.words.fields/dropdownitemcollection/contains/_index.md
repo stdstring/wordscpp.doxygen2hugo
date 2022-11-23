@@ -28,7 +28,6 @@ True if the item is found in the collection; otherwise, false.
 
 
 
-
 Shows how to insert a combo box field, and edit the elements in its item collection. 
 ```cpp
 auto doc = MakeObject<Document>();

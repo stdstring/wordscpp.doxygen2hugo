@@ -20,7 +20,6 @@ int32_t Aspose::Words::Lists::ListCollection::get_Count()
 
 
 
-
 Shows how to verify owner document properties of lists. 
 ```cpp
 auto doc = MakeObject<Document>();

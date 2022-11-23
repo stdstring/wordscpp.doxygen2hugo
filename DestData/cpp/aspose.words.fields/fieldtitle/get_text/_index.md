@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldTitle::get_Text()
 
 
 
-
 Shows how to use the TITLE field. 
 ```cpp
 auto doc = MakeObject<Document>();

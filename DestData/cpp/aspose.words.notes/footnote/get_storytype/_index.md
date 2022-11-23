@@ -20,7 +20,6 @@ Aspose::Words::StoryType Aspose::Words::Notes::Footnote::get_StoryType() overrid
 
 
 
-
 Shows how to insert [InlineStory](../../../aspose.words/inlinestory/) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

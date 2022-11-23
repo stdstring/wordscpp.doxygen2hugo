@@ -26,7 +26,6 @@ A list could be a definition of a list style, in this case [IsListStyleDefinitio
 
 
 
-
 Shows how to create a list style and use it in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -28,7 +28,6 @@ Some fields, such as XE (Index Entry) fields and SEQ (Sequence) fields, cannot b
 
 
 
-
 Shows how to unlink a field. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Linked fields.docx");

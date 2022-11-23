@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldXE::get_Yomi()
 
 
 
-
 Shows how to sort INDEX field entries phonetically. 
 ```cpp
 auto doc = MakeObject<Document>();

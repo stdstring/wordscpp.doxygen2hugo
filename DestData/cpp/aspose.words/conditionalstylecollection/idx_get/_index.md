@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalSty
 
 
 
-
 Shows how to work with certain area styles of a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -105,7 +104,6 @@ System::SharedPtr<Aspose::Words::ConditionalStyle> Aspose::Words::ConditionalSty
 | index | int32_t | Zero-based index of the conditional style to retrieve. |
 
 ## Examples
-
 
 
 

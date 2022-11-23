@@ -111,7 +111,6 @@ class ImageSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 
 
 
-
 Renders a page of a Word document into an image with transparent or colored background. 
 ```cpp
 auto doc = MakeObject<Document>();

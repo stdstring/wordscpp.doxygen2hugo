@@ -20,7 +20,6 @@ Aspose::Words::StyleType Aspose::Words::Style::get_Type() const
 
 
 
-
 Shows how to access a document's style collection. 
 ```cpp
 auto doc = MakeObject<Document>();

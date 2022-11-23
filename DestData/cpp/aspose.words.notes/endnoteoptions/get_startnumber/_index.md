@@ -22,7 +22,6 @@ This property has effect only when [RestartRule](../get_restartrule/) is set to 
 
 
 
-
 Shows how to set a number at which the document begins the footnote/endnote count. 
 ```cpp
 auto doc = MakeObject<Document>();

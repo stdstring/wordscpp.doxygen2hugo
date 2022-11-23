@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeriesCollection> Aspose:
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()

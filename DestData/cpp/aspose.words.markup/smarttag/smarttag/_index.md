@@ -28,7 +28,6 @@ When a node is created, it belongs to a document, but is not yet part of the doc
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartNumberFormat> Aspose::Wor
 
 
 
-
 Shows how to set formatting for chart values. 
 ```cpp
 auto doc = MakeObject<Document>();

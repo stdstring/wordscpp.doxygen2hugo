@@ -20,7 +20,6 @@ Aspose::Words::License::License()
 
 
 
-
 Shows how initialize a license for Aspose.Words using a license file in the local file system. 
 ```cpp
 // Set the license for our Aspose.Words product by passing the local file system filename of a valid license file.

@@ -20,7 +20,6 @@ int32_t Aspose::Words::PageSetup::get_SheetsPerBooklet() const
 
 
 
-
 Shows how to configure a document that can be printed as a book fold. 
 ```cpp
 auto doc = MakeObject<Document>();

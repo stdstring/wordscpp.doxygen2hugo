@@ -30,7 +30,6 @@ The default value is **true**.
 
 
 
-
 Shows how to choose a renderer when converting a document to .emf. 
 ```cpp
 auto doc = MakeObject<Document>();

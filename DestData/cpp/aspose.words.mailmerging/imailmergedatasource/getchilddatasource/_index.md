@@ -38,7 +38,6 @@ If a table with the specified name does not exist, your implementation should re
 
 
 
-
 Shows how to execute a mail merge with a data source in the form of a custom object. 
 ```cpp
 void CustomDataSource()

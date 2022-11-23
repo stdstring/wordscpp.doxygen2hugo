@@ -20,7 +20,6 @@ int32_t Aspose::Words::WebExtensions::TaskPane::get_Row() const
 
 
 
-
 Shows how to add a web extension to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

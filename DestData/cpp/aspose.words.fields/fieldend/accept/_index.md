@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to work with a collection of fields. 
 ```cpp
 void FieldCollection_()

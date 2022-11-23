@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIndex::get_EntryType()
 
 
 
-
 Shows how to create an INDEX field, and then use XE fields to populate it with entries. 
 ```cpp
 auto doc = MakeObject<Document>();

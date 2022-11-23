@@ -20,7 +20,6 @@ void Aspose::Words::Watermark::Remove()
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

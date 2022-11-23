@@ -20,7 +20,6 @@ System::DateTime Aspose::Words::Drawing::Charts::AxisBound::get_ValueAsDate()
 
 
 
-
 Shows how to set custom axis bounds. 
 ```cpp
 auto doc = MakeObject<Document>();

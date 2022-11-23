@@ -20,7 +20,6 @@ int32_t Aspose::Words::Markup::CustomXmlSchemaCollection::get_Count()
 
 
 
-
 Shows how to work with an XML schema collection. 
 ```cpp
 auto doc = MakeObject<Document>();

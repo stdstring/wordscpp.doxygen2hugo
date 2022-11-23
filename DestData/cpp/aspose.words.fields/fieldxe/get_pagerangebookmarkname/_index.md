@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName()
 
 
 
-
 Shows how to specify a bookmark's spanned pages as a page range for an INDEX field entry. 
 ```cpp
 auto doc = MakeObject<Document>();

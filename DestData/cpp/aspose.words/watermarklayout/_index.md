@@ -27,7 +27,6 @@ enum class WatermarkLayout
 
 
 
-
 Shows how to create a text watermark. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ void Aspose::Words::DocumentBuilder::MoveToDocumentEnd()
 
 
 
-
 Shows how to move a document builder's cursor to different nodes in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

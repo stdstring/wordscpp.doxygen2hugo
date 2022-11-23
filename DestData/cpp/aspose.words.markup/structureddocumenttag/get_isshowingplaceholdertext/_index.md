@@ -20,7 +20,6 @@ bool Aspose::Words::Markup::StructuredDocumentTag::get_IsShowingPlaceholderText(
 
 
 
-
 Shows how to use a building block's contents as a custom placeholder text for a structured document tag. 
 ```cpp
 auto doc = MakeObject<Document>();

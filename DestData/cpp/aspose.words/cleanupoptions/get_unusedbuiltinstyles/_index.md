@@ -20,7 +20,6 @@ bool Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles() const
 
 
 
-
 Shows how to remove all unused custom styles from a document. 
 ```cpp
 auto doc = MakeObject<Document>();

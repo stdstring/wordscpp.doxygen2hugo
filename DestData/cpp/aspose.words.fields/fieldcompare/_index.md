@@ -52,7 +52,6 @@ class FieldCompare : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to compare expressions using a COMPARE field. 
 ```cpp
 auto doc = MakeObject<Document>();

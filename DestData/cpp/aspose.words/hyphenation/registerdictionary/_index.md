@@ -25,7 +25,6 @@ static void Aspose::Words::Hyphenation::RegisterDictionary(const System::String 
 
 
 
-
 Shows how to open and register a dictionary from a file. 
 ```cpp
 void RegisterDictionary()
@@ -110,7 +109,6 @@ static void Aspose::Words::Hyphenation::RegisterDictionary(const System::String 
 | fileName | const System::String\& | A path to the dictionary file in Open Office format. If this parameter is null or empty string then registered is Null dictionary and callback is not called anymore for this language. To enable callback again use **UnregisterDictionary()** method. |
 
 ## Examples
-
 
 
 

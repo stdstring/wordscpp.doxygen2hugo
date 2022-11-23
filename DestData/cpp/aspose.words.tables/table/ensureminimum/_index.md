@@ -20,7 +20,6 @@ void Aspose::Words::Tables::Table::EnsureMinimum()
 
 
 
-
 Shows how to ensure that a table node contains the nodes we need to add content. 
 ```cpp
 auto doc = MakeObject<Document>();

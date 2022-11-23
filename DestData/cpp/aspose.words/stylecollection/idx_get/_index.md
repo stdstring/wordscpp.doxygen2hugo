@@ -26,7 +26,6 @@ When accessing a style that does not yet exist, automatically creates it.
 
 
 
-
 Shows how to add a [Style](../../style/) to a document's styles collection. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -64,7 +63,6 @@ If this is an English name of a built in style that does not yet exist, automati
 
 
 
-
 Shows when to recalculate the page layout of the document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -96,7 +94,6 @@ System::SharedPtr<Aspose::Words::Style> Aspose::Words::StyleCollection::idx_get(
 
 
 ## Examples
-
 
 
 

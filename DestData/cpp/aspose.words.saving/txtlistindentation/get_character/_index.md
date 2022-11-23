@@ -20,7 +20,6 @@ char16_t Aspose::Words::Saving::TxtListIndentation::get_Character() const
 
 
 
-
 Shows how to configure list indenting when saving a document to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

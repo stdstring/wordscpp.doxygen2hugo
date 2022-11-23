@@ -26,7 +26,6 @@ Use this property as a filter to specify what table widths values are exported i
 
 
 
-
 Shows how to preserve negative indents in the output .html. 
 ```cpp
 auto doc = MakeObject<Document>();

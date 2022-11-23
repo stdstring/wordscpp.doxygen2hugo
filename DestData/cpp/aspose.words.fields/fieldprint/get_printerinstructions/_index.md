@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldPrint::get_PrinterInstructions()
 
 
 
-
 Shows to insert a PRINT field. 
 ```cpp
 auto doc = MakeObject<Document>();

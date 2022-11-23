@@ -29,7 +29,6 @@ enum class VbaModuleType
 
 
 
-
 Shows how to create a VBA project using macros. 
 ```cpp
 auto doc = MakeObject<Document>();

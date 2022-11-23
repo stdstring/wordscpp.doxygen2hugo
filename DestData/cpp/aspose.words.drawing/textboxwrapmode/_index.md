@@ -27,7 +27,6 @@ enum class TextBoxWrapMode
 
 
 
-
 Shows how to set a wrapping mode for the contents of a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

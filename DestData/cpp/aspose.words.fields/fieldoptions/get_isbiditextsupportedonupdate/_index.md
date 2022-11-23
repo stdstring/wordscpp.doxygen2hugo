@@ -26,7 +26,6 @@ The default value is **false**.
 
 
 
-
 Shows how to use [FieldOptions](../) to ensure that field updating fully supports bi-directional text. 
 ```cpp
 auto doc = MakeObject<Document>();

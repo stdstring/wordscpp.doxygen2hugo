@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows advances ways of customizing list labels. 
 ```cpp
 auto doc = MakeObject<Document>();

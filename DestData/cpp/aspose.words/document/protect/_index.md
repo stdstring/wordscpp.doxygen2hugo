@@ -30,7 +30,6 @@ When you protect a document, and the document does not have a protection passwor
 
 
 
-
 Shows how to turn off protection for a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -74,7 +73,6 @@ When a document is protected, the user can make only limited changes, such as ad
 Note that document protection is different from write protection. Write protection is specified using the [WriteProtection](../get_writeprotection/).
 
 ## Examples
-
 
 
 

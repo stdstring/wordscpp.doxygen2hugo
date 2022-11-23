@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Italic()
 
 
 
-
 Shows how to write italicized text using a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

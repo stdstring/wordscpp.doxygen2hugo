@@ -35,7 +35,6 @@ For the index parameters, when index is greater than or equal to 0, it specifies
 
 
 
-
 Shows how to delete a row from a table. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Settings::WriteProtection> Aspose::Words::Docum
 
 
 
-
 Shows how to protect a document with a password. 
 ```cpp
 auto doc = MakeObject<Document>();

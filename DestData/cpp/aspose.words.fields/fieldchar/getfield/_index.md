@@ -24,7 +24,6 @@ A field for the field char.
 
 
 
-
 Shows how to work with a [FieldStart](../../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();

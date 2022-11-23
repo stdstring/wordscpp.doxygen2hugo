@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Story> Aspose::Words::DocumentBuilder::get_Curr
 
 
 
-
 Shows how to work with a document builder's current story. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ Aspose::Words::Markup::SdtType Aspose::Words::Markup::StructuredDocumentTag::get
 
 
 
-
 Shows how to get the type of a structured document tag. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Structured document tags.docx");

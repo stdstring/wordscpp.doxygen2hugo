@@ -76,7 +76,6 @@ The complete list of child nodes that can occur inside a smart tag consists of [
 
 
 
-
 Shows how to create smart tags. 
 ```cpp
 void Create()

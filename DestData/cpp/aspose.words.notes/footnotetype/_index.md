@@ -29,7 +29,6 @@ Both footnotes and endnotes are represented by objects by the **Footnote** class
 
 
 
-
 Shows how to reference text with a footnote and an endnote. 
 ```cpp
 auto doc = MakeObject<Document>();

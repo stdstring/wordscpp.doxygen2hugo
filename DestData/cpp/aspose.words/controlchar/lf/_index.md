@@ -20,7 +20,6 @@ static System::String & Aspose::Words::ControlChar::Lf()
 
 
 
-
 Shows how to add various control characters to a document. 
 ```cpp
 auto doc = MakeObject<Document>();

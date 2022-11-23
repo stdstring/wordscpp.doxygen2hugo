@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Drawing::ShapeBas
 
 
 
-
 Shows how to fill a shape with a solid color. 
 ```cpp
 auto doc = MakeObject<Document>();

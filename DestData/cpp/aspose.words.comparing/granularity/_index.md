@@ -27,7 +27,6 @@ enum class Granularity
 
 
 
-
 Shows to specify a granularity while comparing documents. 
 ```cpp
 auto docA = MakeObject<Document>();

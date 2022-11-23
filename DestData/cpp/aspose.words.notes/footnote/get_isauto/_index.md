@@ -20,7 +20,6 @@ bool Aspose::Words::Notes::Footnote::get_IsAuto() const
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ For more info see the Visitor design pattern.
 
 
 
-
 Shows how to limit the editing rights of editable ranges to a specific group/user. 
 ```cpp
 void Visitor()

@@ -26,7 +26,6 @@ This property affects behavior of the shape's anchor in Microsoft Word. When the
 
 
 
-
 Shows how to lock or unlock a shape's paragraph anchor. 
 ```cpp
 auto doc = MakeObject<Document>();

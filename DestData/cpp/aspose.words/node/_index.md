@@ -58,7 +58,6 @@ The [Node](./) class:
 
 
 
-
 Shows how to clone a composite node. 
 ```cpp
 auto doc = MakeObject<Document>();

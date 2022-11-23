@@ -20,7 +20,6 @@ System::String Aspose::Words::Lists::ListLevel::get_CustomNumberStyleFormat()
 
 
 
-
 Shows how to get the format for a list with the custom number style. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"List with leading zero.docx");

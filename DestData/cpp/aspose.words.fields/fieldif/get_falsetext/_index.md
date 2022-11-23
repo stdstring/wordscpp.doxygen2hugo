@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIf::get_FalseText()
 
 
 
-
 Shows how to insert an IF field. 
 ```cpp
 auto doc = MakeObject<Document>();

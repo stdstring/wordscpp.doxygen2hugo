@@ -20,7 +20,6 @@ bool Aspose::Words::Markup::StructuredDocumentTag::get_LockContentControl() over
 
 
 
-
 Shows how to apply editing restrictions to structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();

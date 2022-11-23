@@ -24,7 +24,6 @@ If encoding is not specified inside the document and this property is **null**, 
 
 
 
-
 Shows how to set the encoding with which to open a document. 
 ```cpp
 // A FileFormatInfo object will detect this file as being encoded in something other than UTF-7.

@@ -29,7 +29,6 @@ The newly created property object or null when the linkSource is invalid.
 
 
 
-
 Shows how to link a custom document property to a bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();

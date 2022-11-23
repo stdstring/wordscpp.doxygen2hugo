@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowPercentage()
 
 
 
-
 Shows how to apply labels to data points in a line chart. 
 ```cpp
 void DataLabels()

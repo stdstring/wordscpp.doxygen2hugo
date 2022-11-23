@@ -24,7 +24,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::SharedPtr<System:
 
 
 
-
 Shows how to display images from the local file system in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -73,7 +72,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::SharedPtr<System:
 
 
 
-
 Shows how to display images from the local file system in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -119,7 +117,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::String &fileName)
 | fileName | const System::String\& | The image file. Can be a file name or a URL. |
 
 ## Examples
-
 
 
 

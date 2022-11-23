@@ -30,7 +30,6 @@ Used as a value for the [TrailingCharacter](../listlevel/get_trailingcharacter/)
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

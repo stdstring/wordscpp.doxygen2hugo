@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BookmarkCollection> Aspose::Words::Range::get_B
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

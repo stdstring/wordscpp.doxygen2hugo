@@ -20,7 +20,6 @@ Aspose::Words::Tables::PreferredWidthType Aspose::Words::Tables::PreferredWidth:
 
 
 
-
 Shows how to verify the preferred width type and value of a table cell. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

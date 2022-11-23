@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty() const
 
 
 
-
 Shows how to determine whether to preserve the document's "Last saved time" property when saving. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

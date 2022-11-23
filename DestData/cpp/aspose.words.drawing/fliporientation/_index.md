@@ -29,7 +29,6 @@ enum class FlipOrientation
 
 
 
-
 Shows how to flip a shape on an axis. 
 ```cpp
 auto doc = MakeObject<Document>();

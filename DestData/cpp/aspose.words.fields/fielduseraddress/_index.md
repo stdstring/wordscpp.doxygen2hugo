@@ -48,7 +48,6 @@ class FieldUserAddress : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the USERADDRESS field. 
 ```cpp
 auto doc = MakeObject<Document>();

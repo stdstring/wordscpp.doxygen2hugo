@@ -29,7 +29,6 @@ To append **HeaderFooter** to a **Section** use [Section.InsertAfter](../../comp
 
 
 
-
 Shows how to create a header and a footer. 
 ```cpp
 auto doc = MakeObject<Document>();

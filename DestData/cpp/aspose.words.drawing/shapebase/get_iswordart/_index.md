@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsWordArt()
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()

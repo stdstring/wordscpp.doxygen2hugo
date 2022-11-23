@@ -31,7 +31,6 @@ enum class LayoutFlow
 
 
 
-
 Shows how to add text to a text box, and change its orientation 
 ```cpp
 auto doc = MakeObject<Document>();

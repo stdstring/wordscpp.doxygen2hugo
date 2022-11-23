@@ -20,7 +20,6 @@ void Aspose::Words::VariableCollection::Clear()
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

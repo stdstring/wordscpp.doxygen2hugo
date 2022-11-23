@@ -20,7 +20,6 @@ double Aspose::Words::Drawing::GradientStop::get_Position() const
 
 
 
-
 Shows how to add gradient stops to the gradient fill. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fonts::FontInfoSubstitutionRule> Aspose::Words:
 
 
 
-
 Shows how to set the property for finding the closest match for a missing font from the available font sources. 
 ```cpp
 void EnableFontSubstitution()

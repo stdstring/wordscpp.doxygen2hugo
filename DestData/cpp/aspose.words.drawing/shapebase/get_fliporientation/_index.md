@@ -22,7 +22,6 @@ The default value is **None**.
 
 
 
-
 Shows how to flip a shape on an axis. 
 ```cpp
 auto doc = MakeObject<Document>();

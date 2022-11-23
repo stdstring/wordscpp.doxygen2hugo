@@ -30,7 +30,6 @@ enum class DocumentSecurity
 
 
 
-
 Shows how to use document properties to display the security level of a document. 
 ```cpp
 auto doc = MakeObject<Document>();

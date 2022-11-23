@@ -24,7 +24,6 @@ void Aspose::Words::Fields::FieldCollection::Remove(const System::SharedPtr<Aspo
 
 
 
-
 Shows how to remove fields from a field collection. 
 ```cpp
 auto doc = MakeObject<Document>();

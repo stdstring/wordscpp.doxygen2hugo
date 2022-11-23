@@ -20,7 +20,6 @@ System::String Aspose::Words::ParagraphFormat::get_StyleName()
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ void Aspose::Words::Tables::Table::ClearBorders()
 
 
 
-
 Shows how to apply an outline border to a table. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");

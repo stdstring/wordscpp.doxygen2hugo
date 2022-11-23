@@ -27,7 +27,6 @@ enum class ImlRenderingMode
 
 
 
-
 Shows how to render Ink object. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Ink object.docx");

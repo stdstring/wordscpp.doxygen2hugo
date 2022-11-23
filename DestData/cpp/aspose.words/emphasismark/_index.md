@@ -30,7 +30,6 @@ enum class EmphasisMark
 
 
 
-
 Shows how to add additional character rendered above/below the glyph-character. 
 ```cpp
 auto builder = MakeObject<DocumentBuilder>();

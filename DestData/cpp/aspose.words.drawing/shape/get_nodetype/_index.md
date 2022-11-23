@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Drawing::Shape::get_NodeType() const over
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()

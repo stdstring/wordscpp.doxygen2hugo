@@ -20,7 +20,6 @@ double Aspose::Words::ParagraphFormat::get_FirstLineIndent()
 
 
 
-
 Shows how to insert a paragraph into the document. 
 ```cpp
 auto doc = MakeObject<Document>();

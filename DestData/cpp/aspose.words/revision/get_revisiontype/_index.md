@@ -20,7 +20,6 @@ Aspose::Words::RevisionType Aspose::Words::Revision::get_RevisionType() const
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

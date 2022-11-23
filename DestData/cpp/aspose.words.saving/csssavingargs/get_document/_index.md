@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::CssSavingArgs:
 
 
 
-
 Shows how to work with CSS stylesheets that an HTML conversion creates. 
 ```cpp
 void ExternalCssFilenames()

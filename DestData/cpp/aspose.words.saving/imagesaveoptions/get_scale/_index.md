@@ -20,7 +20,6 @@ float Aspose::Words::Saving::ImageSaveOptions::get_Scale() const
 
 
 
-
 Shows how to edit the image while Aspose.Words converts a document to one. 
 ```cpp
 auto doc = MakeObject<Document>();

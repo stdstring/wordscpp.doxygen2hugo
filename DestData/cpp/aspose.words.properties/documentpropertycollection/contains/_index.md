@@ -28,7 +28,6 @@ True if the property exists in the collection; false otherwise.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();

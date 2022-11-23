@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::Document::get_LastSecti
 
 
 
-
 Shows how to create a new section with a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();

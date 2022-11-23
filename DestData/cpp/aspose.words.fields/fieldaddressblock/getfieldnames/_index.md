@@ -20,7 +20,6 @@ System::ArrayPtr<System::String> Aspose::Words::Fields::FieldAddressBlock::GetFi
 
 
 
-
 Shows how to get mail merge field names used by a field. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Field sample - ADDRESSBLOCK.docx");

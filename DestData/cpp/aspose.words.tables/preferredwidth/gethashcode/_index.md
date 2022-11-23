@@ -20,7 +20,6 @@ int32_t Aspose::Words::Tables::PreferredWidth::GetHashCode() const override
 
 
 
-
 Shows how to set a preferred width for table cells. 
 ```cpp
 auto doc = MakeObject<Document>();

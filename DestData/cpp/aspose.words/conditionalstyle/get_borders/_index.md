@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::ConditionalSty
 
 
 
-
 Shows how to work with certain area styles of a table. 
 ```cpp
 auto doc = MakeObject<Document>();

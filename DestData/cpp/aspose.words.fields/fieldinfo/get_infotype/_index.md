@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldInfo::get_InfoType()
 
 
 
-
 Shows how to work with INFO fields. 
 ```cpp
 auto doc = MakeObject<Document>();

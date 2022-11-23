@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight()
 
 
 
-
 Shows how to insert a DISPLAYBARCODE field, and set its properties. 
 ```cpp
 auto doc = MakeObject<Document>();

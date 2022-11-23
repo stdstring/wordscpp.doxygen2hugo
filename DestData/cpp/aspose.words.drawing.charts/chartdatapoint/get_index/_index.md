@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::Charts::ChartDataPoint::get_Index()
 
 
 
-
 Shows how to work with data points on a line chart. 
 ```cpp
 void ChartDataPoint_()

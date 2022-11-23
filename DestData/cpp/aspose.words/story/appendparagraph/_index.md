@@ -28,7 +28,6 @@ The newly created and appended paragraph.
 
 
 
-
 Shows how to create a header and a footer. 
 ```cpp
 auto doc = MakeObject<Document>();

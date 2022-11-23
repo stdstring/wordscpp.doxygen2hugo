@@ -35,7 +35,6 @@ Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignature
 
 
 
-
 Shows how to sign a saved PDF document digitally and timestamp it. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -89,7 +88,6 @@ Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignature
 | timeout | System::TimeSpan | Time-out value for accessing timestamp server. |
 
 ## Examples
-
 
 
 

@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties() cons
 
 
 
-
 Shows how to use a specific encoding when saving a document to .epub. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

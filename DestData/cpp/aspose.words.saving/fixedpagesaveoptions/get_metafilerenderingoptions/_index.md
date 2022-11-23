@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> Aspose::Words
 
 
 
-
 Shows added a fallback to bitmap rendering and changing type of warnings about unsupported metafile records. 
 ```cpp
 void HandleBinaryRasterWarnings()

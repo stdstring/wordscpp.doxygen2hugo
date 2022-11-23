@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldRef::get_InsertParagraphNumberInRelativeContext
 
 
 
-
 Shows how to insert REF fields to reference bookmarks. 
 ```cpp
 void FieldRef_()

@@ -29,7 +29,6 @@ class TxtListIndentation : public System::Object
 
 
 
-
 Shows how to configure list indenting when saving a document to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

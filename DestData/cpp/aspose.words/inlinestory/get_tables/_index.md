@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::TableCollection> Aspose::Words::InlineS
 
 
 
-
 Shows how to insert [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

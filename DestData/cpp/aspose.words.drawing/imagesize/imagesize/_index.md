@@ -21,7 +21,6 @@ Aspose::Words::Drawing::ImageSize::ImageSize(int32_t widthPixels, int32_t height
 | widthPixels | int32_t | Width in pixels. |
 | heightPixels | int32_t | Height in pixels. |
 
-
 ## ImageSize::ImageSize(int32_t, int32_t, double, double) method
 
 
@@ -38,5 +37,4 @@ Aspose::Words::Drawing::ImageSize::ImageSize(int32_t widthPixels, int32_t height
 | heightPixels | int32_t | Height in pixels. |
 | horizontalResolution | double | Horizontal resolution in DPI. |
 | verticalResolution | double | Vertical resolution in DPI. |
-
 

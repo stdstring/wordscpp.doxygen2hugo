@@ -24,7 +24,6 @@ Cannot be null, but can be an empty string.
 
 
 
-
 Shows how to use a shape's alternative text. 
 ```cpp
 auto doc = MakeObject<Document>();

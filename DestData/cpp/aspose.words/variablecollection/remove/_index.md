@@ -24,7 +24,6 @@ void Aspose::Words::VariableCollection::Remove(const System::String &name)
 
 
 
-
 Shows how to work with a document's variable collection. 
 ```cpp
 auto doc = MakeObject<Document>();

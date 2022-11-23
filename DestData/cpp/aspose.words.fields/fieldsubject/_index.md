@@ -48,7 +48,6 @@ class FieldSubject : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the SUBJECT field. 
 ```cpp
 auto doc = MakeObject<Document>();

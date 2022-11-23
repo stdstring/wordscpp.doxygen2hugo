@@ -20,7 +20,6 @@ Aspose::Words::Fields::ComparisonEvaluationResult::ComparisonEvaluationResult(bo
 
 
 
-
 Shows how to implement custom evaluation for the IF and COMPARE fields. 
 ```cpp
 void ConditionEvaluationExtensionPoint(String fieldCode, int8_t comparisonResult, String comparisonError, String expectedResult)
@@ -106,7 +105,6 @@ Aspose::Words::Fields::ComparisonEvaluationResult::ComparisonEvaluationResult(co
 
 
 ## Examples
-
 
 
 

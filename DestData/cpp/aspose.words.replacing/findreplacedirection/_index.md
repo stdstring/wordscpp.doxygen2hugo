@@ -27,7 +27,6 @@ enum class FindReplaceDirection
 
 
 
-
 Shows how to determine which direction a find-and-replace operation traverses the document in. 
 ```cpp
 void Direction(FindReplaceDirection findReplaceDirection)

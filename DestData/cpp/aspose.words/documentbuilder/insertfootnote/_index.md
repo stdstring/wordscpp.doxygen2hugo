@@ -29,7 +29,6 @@ Returns a footnote object that was just created.
 
 
 
-
 Shows how to reference text with a footnote and an endnote. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -76,7 +75,6 @@ System::SharedPtr<Aspose::Words::Notes::Footnote> Aspose::Words::DocumentBuilder
 Returns a footnote object that was just created.
 
 ## Examples
-
 
 
 

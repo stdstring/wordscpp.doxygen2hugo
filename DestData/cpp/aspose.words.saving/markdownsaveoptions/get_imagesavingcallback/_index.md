@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IImageSavingCallback> Aspose::Words::Sa
 
 
 
-
 Shows how to rename the image name during saving into Markdown document. 
 ```cpp
 void RenameImages()

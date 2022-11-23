@@ -24,7 +24,6 @@ The property does not have effect when saving to fixed page formats e.g. PDF.
 
 
 
-
 Shows how to configure automatic hyphenation. 
 ```cpp
 auto doc = MakeObject<Document>();

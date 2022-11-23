@@ -29,4 +29,3 @@ System::String Aspose::Words::VariableCollection::idx_get(int32_t index)
 | --- | --- | --- |
 | index | int32_t | Zero-based index of the document variable. |
 
-

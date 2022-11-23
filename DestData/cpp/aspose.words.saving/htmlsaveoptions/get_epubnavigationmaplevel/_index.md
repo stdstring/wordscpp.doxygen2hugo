@@ -24,7 +24,6 @@ By default, three levels of headings are populated: paragraphs of styles **Headi
 
 
 
-
 Shows how to filter headings that appear in the navigation panel of a saved Epub document. 
 ```cpp
 auto doc = MakeObject<Document>();

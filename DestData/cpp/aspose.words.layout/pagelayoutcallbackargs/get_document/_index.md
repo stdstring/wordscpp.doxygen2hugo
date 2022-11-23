@@ -20,7 +20,6 @@ const System::SharedPtr<Aspose::Words::Document> & Aspose::Words::Layout::PageLa
 
 
 
-
 Shows how to track layout changes with a layout callback. 
 ```cpp
 void PageLayoutCallback()

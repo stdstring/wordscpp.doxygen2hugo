@@ -36,7 +36,6 @@ Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(co
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();

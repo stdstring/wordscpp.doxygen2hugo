@@ -22,7 +22,6 @@ If you created a new blank document or load non OOXML document returns the **Ecm
 
 
 
-
 Shows how to read a loaded document's Open Office XML compliance version. 
 ```cpp
 // The compliance version varies between documents created by different versions of Microsoft Word.

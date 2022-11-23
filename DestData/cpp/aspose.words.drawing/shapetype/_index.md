@@ -275,7 +275,6 @@ enum class ShapeType
 
 
 
-
 Shows how to insert a shape with an image from the local file system into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

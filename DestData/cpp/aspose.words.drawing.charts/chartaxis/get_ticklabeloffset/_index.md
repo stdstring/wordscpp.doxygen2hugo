@@ -26,7 +26,6 @@ The property has effect only for category axes. It is not supported by MS Office
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();

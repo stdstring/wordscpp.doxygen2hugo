@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Sep
 
 
 
-
 Shows how to work with data labels of a bubble chart. 
 ```cpp
 auto doc = MakeObject<Document>();

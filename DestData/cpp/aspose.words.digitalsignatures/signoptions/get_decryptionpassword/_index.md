@@ -20,7 +20,6 @@ System::String Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPass
 
 
 
-
 Shows how to sign encrypted document file. 
 ```cpp
 // Create an X.509 certificate from a PKCS#12 store, which should contain a private key.

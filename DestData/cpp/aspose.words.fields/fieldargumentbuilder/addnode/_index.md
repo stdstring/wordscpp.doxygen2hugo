@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldArgumentBuilder> Aspose::Words::Fi
 
 
 
-
 Shows how to construct fields using a field builder, and then insert them into the document. 
 ```cpp
 auto doc = MakeObject<Document>();

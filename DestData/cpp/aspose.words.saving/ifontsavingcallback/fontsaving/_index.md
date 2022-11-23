@@ -20,7 +20,6 @@ virtual void Aspose::Words::Saving::IFontSavingCallback::FontSaving(System::Shar
 
 
 
-
 Shows how to define custom logic for exporting fonts when saving to HTML. 
 ```cpp
 void SaveExportedFonts()

@@ -24,7 +24,6 @@ void Aspose::Words::Markup::CustomXmlPartCollection::idx_set(int32_t index, cons
 
 
 
-
 Shows how to create a structured document tag with custom XML data. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -24,7 +24,6 @@ Also, this method is sometimes implicitly called when updating fields in the doc
 
 
 
-
 Shows how to extract the list labels of all paragraphs that are list items. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");

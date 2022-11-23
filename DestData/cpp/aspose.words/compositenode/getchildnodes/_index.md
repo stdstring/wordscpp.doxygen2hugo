@@ -33,7 +33,6 @@ A live collection is always in sync with the document. For example, if you selec
 
 
 
-
 Shows how to print all of a document's comments and their replies. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Comments.docx");

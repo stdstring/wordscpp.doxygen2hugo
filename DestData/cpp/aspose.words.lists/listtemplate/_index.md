@@ -51,7 +51,6 @@ Aspose.Words list templates correspond to the 21 list templates available in the
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();

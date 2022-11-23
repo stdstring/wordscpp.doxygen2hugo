@@ -22,7 +22,6 @@ Throws an exception if the property type is not **Boolean**.
 
 
 
-
 Shows various type conversion methods of custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>();

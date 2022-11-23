@@ -31,7 +31,6 @@ This method converts [BoundsInPoints](../get_boundsinpoints/) into rectangle in 
 
 
 
-
 Shows how to measure and scale shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");
@@ -96,7 +95,6 @@ The actual (as rendered on the page) bounding box of the shape in pixels.
 This method converts [BoundsInPoints](../get_boundsinpoints/) into rectangle in pixels.
 
 ## Examples
-
 
 
 

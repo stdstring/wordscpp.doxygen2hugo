@@ -20,7 +20,6 @@ Aspose::Words::Comparing::Granularity Aspose::Words::Comparing::CompareOptions::
 
 
 
-
 Shows to specify a granularity while comparing documents. 
 ```cpp
 auto docA = MakeObject<Document>();

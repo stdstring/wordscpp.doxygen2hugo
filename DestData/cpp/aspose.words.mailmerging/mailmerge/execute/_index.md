@@ -33,7 +33,6 @@ This method ignores the **RemoveUnusedRegions** option.
 
 
 
-
 Shows how to merge an image from a URI as mail merge data into a MERGEFIELD. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,7 +77,6 @@ You can use this method only when [IsBidiTextSupportedOnUpdate](../../../aspose.
 This method ignores the **RemoveUnusedRegions** option.
 
 ## Examples
-
 
 
 

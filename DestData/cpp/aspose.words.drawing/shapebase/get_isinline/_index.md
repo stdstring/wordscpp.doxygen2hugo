@@ -22,7 +22,6 @@ Has effect only for top level shapes.
 
 
 
-
 Shows how to determine whether a shape is inline or floating. 
 ```cpp
 auto doc = MakeObject<Document>();

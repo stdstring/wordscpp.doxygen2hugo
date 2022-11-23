@@ -20,7 +20,6 @@ Aspose::Words::Layout::ContinuousSectionRestart Aspose::Words::Layout::LayoutOpt
 
 
 
-
 Shows how to control page numbering in a continuous section. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Continuous section page numbering.docx");

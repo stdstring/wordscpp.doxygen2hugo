@@ -48,7 +48,6 @@ class FieldUserInitials : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to use the USERINITIALS field. 
 ```cpp
 auto doc = MakeObject<Document>();

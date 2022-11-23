@@ -22,7 +22,6 @@ This setting only takes affect when applied to a paragraph style. If applied to 
 
 
 
-
 Shows how to apply no spacing between paragraphs with the same style. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::SignatureLine::get_SignerTitle()
 
 
 
-
 Shows how to create a line for a signature and insert it into a document. 
 ```cpp
 auto doc = MakeObject<Document>();

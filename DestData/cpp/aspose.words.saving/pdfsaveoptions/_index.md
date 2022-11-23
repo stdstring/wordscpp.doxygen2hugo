@@ -137,7 +137,6 @@ class PdfSaveOptions : public Aspose::Words::Saving::FixedPageSaveOptions
 
 
 
-
 Shows how to convert a whole document to PDF with three levels in the document outline. 
 ```cpp
 auto doc = MakeObject<Document>();

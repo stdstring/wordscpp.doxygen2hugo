@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat(
 
 
 
-
 Shows how to encrypt a saved ODT/OTT document with a password, and then load it using Aspose.Words. 
 ```cpp
 auto doc = MakeObject<Document>();

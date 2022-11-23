@@ -22,7 +22,6 @@ Not all values are applicable to endnotes. To ascertain which values are applica
 
 
 
-
 Shows how to restart footnote/endnote numbering at certain places in the document. 
 ```cpp
 auto doc = MakeObject<Document>();

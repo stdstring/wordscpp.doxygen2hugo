@@ -20,7 +20,6 @@ Aspose::Words::Saving::XamlFlowSaveOptions::XamlFlowSaveOptions()
 
 
 
-
 Shows how to print the filenames of linked images created while converting a document to flow-form .xaml. 
 ```cpp
 void ImageFolder()
@@ -108,7 +107,6 @@ Aspose::Words::Saving::XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::S
 | saveFormat | Aspose::Words::SaveFormat | Can be **XamlFlow** or **XamlFlowPack**. |
 
 ## Examples
-
 
 
 

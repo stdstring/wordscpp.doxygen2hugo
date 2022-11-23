@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Drawing::Fill::get_Color()
 
 
 
-
 Shows how to convert any of the fills back to solid fill. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Two color gradient.docx");

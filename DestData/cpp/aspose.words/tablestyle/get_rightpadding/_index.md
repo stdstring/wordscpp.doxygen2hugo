@@ -20,7 +20,6 @@ double Aspose::Words::TableStyle::get_RightPadding()
 
 
 
-
 Shows how to create custom style settings for the table. 
 ```cpp
 auto doc = MakeObject<Document>();

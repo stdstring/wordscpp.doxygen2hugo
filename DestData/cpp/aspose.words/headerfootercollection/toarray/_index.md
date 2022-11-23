@@ -24,7 +24,6 @@ An array of **HeaderFoorter**s.
 
 
 
-
 Shows how to print the node structure of every header and footer in a document. 
 ```cpp
 void HeaderFooterToText()

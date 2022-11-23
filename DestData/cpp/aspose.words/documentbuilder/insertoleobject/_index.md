@@ -27,7 +27,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 
 Shape node containing Ole object and inserted at the current Builder position.
 
-
 ## DocumentBuilder::InsertOleObject(const System::String\&, bool, bool, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -48,7 +47,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 Shape node containing Ole object and inserted at the current Builder position.
-
 
 ## DocumentBuilder::InsertOleObject(const System::String\&, const System::String\&, bool, bool, const System::SharedPtr\<System::IO::Stream\>\&) method
 
@@ -71,7 +69,6 @@ System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::DocumentBuilder:
 ### ReturnValue
 
 Shape node containing Ole object and inserted at the current Builder position.
-
 
 ## DocumentBuilder::InsertOleObject(std::basic_istream\<CharType, Traits\>\&, System::String, bool, std::basic_istream\<CharType, Traits\>\&) method
 

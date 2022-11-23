@@ -25,7 +25,6 @@ void Aspose::Words::Document::AppendDocument(const System::SharedPtr<Aspose::Wor
 
 
 
-
 Shows how to append a document to the end of another document. 
 ```cpp
 auto srcDoc = MakeObject<Document>();
@@ -92,7 +91,6 @@ void Aspose::Words::Document::AppendDocument(const System::SharedPtr<Aspose::Wor
 | importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Allows to specify options that affect formatting of a result document. |
 
 ## Examples
-
 
 
 

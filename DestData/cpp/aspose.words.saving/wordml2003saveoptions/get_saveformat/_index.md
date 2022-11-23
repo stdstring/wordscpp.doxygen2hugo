@@ -20,7 +20,6 @@ Aspose::Words::SaveFormat Aspose::Words::Saving::WordML2003SaveOptions::get_Save
 
 
 
-
 Shows how to manage output document's raw content. 
 ```cpp
 auto doc = MakeObject<Document>();

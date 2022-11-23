@@ -34,7 +34,6 @@ enum class RevisionTextEffect
 
 
 
-
 Shows how to modify the appearance of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");

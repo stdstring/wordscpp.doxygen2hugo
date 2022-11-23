@@ -20,4 +20,3 @@ The value of this property initially comes from the corresponding MERGEFIELD's c
 
 To indicate that the original value of the image height should be applied, you should assign the **null** value to this property or set the [Value](../../../aspose.words.fields/mergefieldimagedimension/get_value/) property for the instance of [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/) class, returned by this property, to a negative value.
 
-

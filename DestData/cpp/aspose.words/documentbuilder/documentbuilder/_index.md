@@ -33,7 +33,6 @@ Aspose::Words::DocumentBuilder::DocumentBuilder(const System::SharedPtr<Aspose::
 
 
 
-
 Shows how to insert formatted text using [DocumentBuilder](../). 
 ```cpp
 auto doc = MakeObject<Document>();

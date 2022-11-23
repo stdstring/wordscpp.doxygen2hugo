@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::DocumentBuilder::get_Cu
 
 
 
-
 Shows how to insert a floating image, and specify its position and size. 
 ```cpp
 auto doc = MakeObject<Document>();

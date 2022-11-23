@@ -89,7 +89,6 @@ To copy and insert just content of the section excluding the section break and s
 
 
 
-
 Shows how to construct an Aspose.Words document by hand. 
 ```cpp
 auto doc = MakeObject<Document>();

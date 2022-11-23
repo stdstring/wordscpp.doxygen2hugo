@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::PdfSaveOptions::get_CreateNoteHyperlinks() const
 
 
 
-
 Shows how to make footnotes and endnotes function as hyperlinks. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Footnotes and endnotes.docx");

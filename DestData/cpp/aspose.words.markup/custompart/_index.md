@@ -44,7 +44,6 @@ Do not confuse custom parts with Custom XML Data. Use [CustomXmlPart](../customx
 
 
 
-
 Shows how to access a document's arbitrary custom parts collection. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Custom parts OOXML package.docx");

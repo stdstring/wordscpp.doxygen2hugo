@@ -24,4 +24,3 @@ enum class OdsoFieldMappingType
 | Default | n/a | Equals to **Null**. |
 
 
-

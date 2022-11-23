@@ -28,4 +28,3 @@ float Aspose::Words::Rendering::NodeRendererBase::RenderToSize(const System::Sha
 
 The scale that was automatically calculated for the rendered shape to fit the specified size.
 
-

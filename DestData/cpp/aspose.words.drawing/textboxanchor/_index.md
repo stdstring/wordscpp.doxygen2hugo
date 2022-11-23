@@ -35,7 +35,6 @@ enum class TextBoxAnchor
 
 
 
-
 Shows how to vertically align the text contents of a text box. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Stroke> Aspose::Words::Drawing::Shape:
 
 
 
-
 Shows to create a variety of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

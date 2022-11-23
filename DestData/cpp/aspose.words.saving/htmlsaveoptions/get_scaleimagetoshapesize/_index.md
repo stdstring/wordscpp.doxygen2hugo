@@ -28,7 +28,6 @@ In general, browsers do quick and poor quality scaling. As a result, you will no
 
 
 
-
 Shows how to disable the scaling of images to their parent shape dimensions when saving to .html. 
 ```cpp
 auto doc = MakeObject<Document>();

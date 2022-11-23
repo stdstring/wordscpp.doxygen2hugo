@@ -29,7 +29,6 @@ enum class EndCap
 
 
 
-
 Shows to create a variety of shapes. 
 ```cpp
 auto doc = MakeObject<Document>();

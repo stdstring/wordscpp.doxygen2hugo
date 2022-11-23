@@ -37,7 +37,6 @@ class ImportFormatOptions : public System::Object
 
 
 
-
 Shows how to resolve duplicate styles while inserting documents. 
 ```cpp
 auto dstDoc = MakeObject<Document>();

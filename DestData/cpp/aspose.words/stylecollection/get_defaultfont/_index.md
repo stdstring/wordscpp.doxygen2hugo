@@ -22,7 +22,6 @@ Note that document-wide defaults were introduced in Microsoft Word 2007 and are 
 
 
 
-
 Shows how to add a [Style](../../style/) to a document's styles collection. 
 ```cpp
 auto doc = MakeObject<Document>();

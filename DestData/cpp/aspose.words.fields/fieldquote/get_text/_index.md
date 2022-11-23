@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldQuote::get_Text()
 
 
 
-
 Shows to use the QUOTE field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -26,7 +26,6 @@ When you use an evaluation version, the evaluation watermark will also be includ
 
 
 
-
 Shows how to update all list labels in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,7 +71,6 @@ void Aspose::Words::Document::UpdateWordCount(bool updateLinesCount)
 | updateLinesCount | bool | True if number of lines in the document shall be calculated. |
 
 ## Examples
-
 
 
 

@@ -20,7 +20,6 @@ void Aspose::Words::Lists::ListLevelCollection::idx_set(int32_t index, const Sys
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

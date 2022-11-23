@@ -24,7 +24,6 @@ Has effect only for top level shapes, the property [WrapType](../get_wraptype/) 
 
 
 
-
 Shows how to determine how to display a shape in a table cell. 
 ```cpp
 auto doc = MakeObject<Document>();

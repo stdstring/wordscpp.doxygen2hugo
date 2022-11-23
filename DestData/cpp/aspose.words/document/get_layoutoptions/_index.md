@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Layout::LayoutOptions> Aspose::Words::Document:
 
 
 
-
 Shows how to alter the appearance of revisions in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();

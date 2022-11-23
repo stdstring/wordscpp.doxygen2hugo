@@ -20,7 +20,6 @@ int32_t Aspose::Words::Saving::TxtListIndentation::get_Count() const
 
 
 
-
 Shows how to configure list indenting when saving a document to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();

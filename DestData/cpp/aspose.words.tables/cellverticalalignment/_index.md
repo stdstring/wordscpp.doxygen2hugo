@@ -28,7 +28,6 @@ enum class CellVerticalAlignment
 
 
 
-
 Shows how to build a formatted 2x2 table. 
 ```cpp
 auto doc = MakeObject<Document>();

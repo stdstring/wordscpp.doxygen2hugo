@@ -20,7 +20,6 @@ System::DateTime Aspose::Words::DigitalSignatures::DigitalSignature::get_SignTim
 
 
 
-
 Shows how to validate and display information about each signature in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Digitally signed.docx");

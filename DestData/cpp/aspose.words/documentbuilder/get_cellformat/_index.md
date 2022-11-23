@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::CellFormat> Aspose::Words::DocumentBuil
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();

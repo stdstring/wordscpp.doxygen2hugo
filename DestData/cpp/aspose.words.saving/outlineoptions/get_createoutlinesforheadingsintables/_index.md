@@ -22,7 +22,6 @@ Default value is **false**.
 
 
 
-
 Shows how to create PDF document outline entries for headings inside tables. 
 ```cpp
 auto doc = MakeObject<Document>();

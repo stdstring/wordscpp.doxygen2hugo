@@ -22,7 +22,6 @@ This property exists to help you sort documents that are digitally signed from t
 
 
 
-
 Shows how to use the [FileFormatUtil](../../fileformatutil/) class to detect the document format and presence of digital signatures. 
 ```cpp
 // Use a FileFormatInfo instance to verify that a document is not digitally signed.

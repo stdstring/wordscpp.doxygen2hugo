@@ -22,7 +22,6 @@ This property is only valid for paragraph styles. For other style types this pro
 
 
 
-
 Shows how to create and use a paragraph style with list formatting. 
 ```cpp
 auto doc = MakeObject<Document>();

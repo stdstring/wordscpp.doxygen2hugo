@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldIncludePicture::get_IsLinked() override
 
 
 
-
 Shows how to insert images using IMPORT and INCLUDEPICTURE fields. 
 ```cpp
 auto doc = MakeObject<Document>();

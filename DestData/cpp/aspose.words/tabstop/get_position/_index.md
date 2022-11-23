@@ -20,7 +20,6 @@ double Aspose::Words::TabStop::get_Position()
 
 
 
-
 Shows how to modify the position of the right tab stop in TOC related paragraphs. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table of contents.docx");

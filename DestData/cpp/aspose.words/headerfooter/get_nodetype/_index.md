@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::HeaderFooter::get_NodeType() const overri
 
 
 
-
 Shows how to iterate through the children of a composite node. 
 ```cpp
 auto doc = MakeObject<Document>();

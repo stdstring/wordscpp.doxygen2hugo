@@ -28,4 +28,3 @@ Enumerates over this node and all of its children. Each node calls a correspondi
 
 For more info see the Visitor design pattern.
 
-

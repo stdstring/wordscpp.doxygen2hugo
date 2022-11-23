@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::get_Ho
 
 
 
-
 Shows how to apply settings to horizontal borders to a paragraph's format. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -32,7 +32,6 @@ When a new **TextColumn** is created it has its width and spacing set to zero.
 
 
 
-
 Shows how to create unevenly spaced columns. 
 ```cpp
 auto doc = MakeObject<Document>();

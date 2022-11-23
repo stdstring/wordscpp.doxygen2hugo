@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::Field::GetFieldCode()
 
 
 
-
 Shows how to insert a field into a document using a field code. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -69,7 +68,6 @@ System::String Aspose::Words::Fields::Field::GetFieldCode(bool includeChildField
 | includeChildFieldCodes | bool | **True** if child field codes should be included. |
 
 ## Examples
-
 
 
 

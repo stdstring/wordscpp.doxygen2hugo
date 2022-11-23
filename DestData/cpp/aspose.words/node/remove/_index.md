@@ -20,7 +20,6 @@ void Aspose::Words::Node::Remove()
 
 
 
-
 Shows how to delete all shapes with images from a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

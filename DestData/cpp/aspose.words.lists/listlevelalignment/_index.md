@@ -30,7 +30,6 @@ Used as a value for the [Alignment](../listlevel/get_alignment/) property.
 
 
 
-
 Shows how to apply custom list formatting to paragraphs when using [DocumentBuilder](../../aspose.words/documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldXE::get_PageNumberReplacement()
 
 
 
-
 Shows how to define cross references in an INDEX field. 
 ```cpp
 auto doc = MakeObject<Document>();

@@ -30,7 +30,6 @@ Note: A building block node and its children are not visited when you execute a 
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()

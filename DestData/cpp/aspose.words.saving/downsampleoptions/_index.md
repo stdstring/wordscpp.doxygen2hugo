@@ -31,7 +31,6 @@ class DownsampleOptions : public System::Object
 
 
 
-
 Shows how to change the resolution of images in the PDF document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");

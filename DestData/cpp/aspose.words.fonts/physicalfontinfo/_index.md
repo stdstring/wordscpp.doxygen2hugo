@@ -28,7 +28,6 @@ class PhysicalFontInfo : public System::Object
 
 
 
-
 Shows how to list available fonts. 
 ```cpp
 // Configure Aspose.Words to source fonts from a custom folder, and then print every available font.

@@ -36,7 +36,6 @@ class TableSubstitutionRule : public Aspose::Words::Fonts::FontSubstitutionRule
 
 
 
-
 Shows how to access font substitution tables for Windows and Linux. 
 ```cpp
 auto doc = MakeObject<Document>();

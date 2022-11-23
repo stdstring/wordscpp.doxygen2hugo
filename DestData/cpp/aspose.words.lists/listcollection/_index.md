@@ -69,7 +69,6 @@ It is not possible to delete lists once they are created in the current version 
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();

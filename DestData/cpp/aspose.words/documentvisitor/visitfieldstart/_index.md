@@ -38,7 +38,6 @@ The field separator separates field code from field value in the document. Note 
 
 
 
-
 Shows how to print the node structure of every field in a document. 
 ```cpp
 void FieldToText()

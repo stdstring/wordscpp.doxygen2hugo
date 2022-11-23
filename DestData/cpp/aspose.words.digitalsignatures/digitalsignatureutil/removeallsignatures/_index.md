@@ -20,7 +20,6 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::RemoveAllSig
 
 
 
-
 Shows how to remove digital signatures from a digitally signed document. 
 ```cpp
 // There are two ways of using the DigitalSignatureUtil class to remove digital signatures
@@ -54,7 +53,6 @@ static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::RemoveAllSig
 
 
 ## Examples
-
 
 
 

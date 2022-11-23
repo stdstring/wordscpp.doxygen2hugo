@@ -20,7 +20,6 @@ void Aspose::Words::Document::UpdateThumbnail()
 
 
 
-
 Shows how to update a document's thumbnail. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -58,7 +57,6 @@ void Aspose::Words::Document::UpdateThumbnail(const System::SharedPtr<Aspose::Wo
 | options | const System::SharedPtr\<Aspose::Words::Rendering::ThumbnailGeneratingOptions\>\& | The generating options to use. |
 
 ## Examples
-
 
 
 

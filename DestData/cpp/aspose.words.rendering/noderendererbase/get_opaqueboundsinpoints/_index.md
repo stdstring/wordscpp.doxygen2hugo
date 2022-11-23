@@ -22,7 +22,6 @@ This property returns the opaque (i.e. transparent parts of the shape are ignore
 
 
 
-
 Shows how to measure and scale shapes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");

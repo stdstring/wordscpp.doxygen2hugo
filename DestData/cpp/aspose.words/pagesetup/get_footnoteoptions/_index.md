@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Notes::FootnoteOptions> Aspose::Words::PageSetu
 
 
 
-
 Shows how to configure options affecting footnotes/endnotes in a section. 
 ```cpp
 auto doc = MakeObject<Document>();

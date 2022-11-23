@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::PageSetup> Aspose::Words::DocumentBuilder::get_
 
 
 
-
 Shows how to apply and revert page setup settings to sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();

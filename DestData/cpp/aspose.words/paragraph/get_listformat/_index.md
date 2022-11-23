@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Lists::ListFormat> Aspose::Words::Paragraph::ge
 
 
 
-
 Shows how to output all paragraphs in a document that are list items. 
 ```cpp
 auto doc = MakeObject<Document>();

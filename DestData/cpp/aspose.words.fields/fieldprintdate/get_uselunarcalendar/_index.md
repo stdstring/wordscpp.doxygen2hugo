@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldPrintDate::get_UseLunarCalendar()
 
 
 
-
 Shows read PRINTDATE fields. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Field sample - PRINTDATE.docx");

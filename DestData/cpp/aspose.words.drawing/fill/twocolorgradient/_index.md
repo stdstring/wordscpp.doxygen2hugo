@@ -25,7 +25,6 @@ void Aspose::Words::Drawing::Fill::TwoColorGradient(Aspose::Words::Drawing::Grad
 
 
 
-
 Shows how to fill a shape with a gradients. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -80,7 +79,6 @@ void Aspose::Words::Drawing::Fill::TwoColorGradient(System::Drawing::Color color
 | variant | Aspose::Words::Drawing::GradientVariant | The gradient variant [GradientVariant](../../gradientvariant/) |
 
 ## Examples
-
 
 
 

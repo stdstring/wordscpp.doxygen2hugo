@@ -20,7 +20,6 @@ const System::SharedPtr<Aspose::Words::MailMerging::MailMergeRegionInfo> & Aspos
 
 
 
-
 Shows how to create, list, and read mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>();

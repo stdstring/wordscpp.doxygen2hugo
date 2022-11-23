@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName() con
 
 
 
-
 Shows how to declare a font that a printer will apply to printed text as a substitute should its original font be unavailable. 
 ```cpp
 auto doc = MakeObject<Document>();

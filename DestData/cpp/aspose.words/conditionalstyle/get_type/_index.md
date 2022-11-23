@@ -20,7 +20,6 @@ Aspose::Words::ConditionalStyleType Aspose::Words::ConditionalStyle::get_Type()
 
 
 
-
 Shows how to work with certain area styles of a table. 
 ```cpp
 auto doc = MakeObject<Document>();

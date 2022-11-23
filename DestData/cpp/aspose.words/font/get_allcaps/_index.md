@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_AllCaps()
 
 
 
-
 Shows how to format a run to display its contents in capitals. 
 ```cpp
 auto doc = MakeObject<Document>();

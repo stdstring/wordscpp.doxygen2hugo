@@ -20,7 +20,6 @@ void Aspose::Words::InlineStory::EnsureMinimum()
 
 
 
-
 Shows how to insert [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();

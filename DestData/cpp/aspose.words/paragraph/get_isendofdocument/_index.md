@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsEndOfDocument()
 
 
 
-
 Shows how to insert a paragraph into the document. 
 ```cpp
 auto doc = MakeObject<Document>();

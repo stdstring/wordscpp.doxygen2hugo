@@ -24,7 +24,6 @@ If this structured document tag is mapped to custom XML (with using the [XmlMapp
 
 
 
-
 Shows how to delete contents of structured document tag elements. 
 ```cpp
 auto doc = MakeObject<Document>();

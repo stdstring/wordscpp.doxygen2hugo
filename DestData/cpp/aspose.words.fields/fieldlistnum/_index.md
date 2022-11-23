@@ -54,7 +54,6 @@ class FieldListNum : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to number paragraphs with LISTNUM fields. 
 ```cpp
 auto doc = MakeObject<Document>();

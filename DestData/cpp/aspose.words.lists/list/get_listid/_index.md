@@ -22,7 +22,6 @@ You do not normally need to use this property. But if you use it, you normally d
 
 
 
-
 Shows how to output all paragraphs in a document that are list items. 
 ```cpp
 auto doc = MakeObject<Document>();

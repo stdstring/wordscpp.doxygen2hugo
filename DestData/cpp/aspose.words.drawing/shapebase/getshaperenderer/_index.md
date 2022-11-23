@@ -26,7 +26,6 @@ This method just invokes the [ShapeRenderer](../../../aspose.words.rendering/sha
 
 
 
-
 Shows how to use a shape renderer to export shapes to files in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Various shapes.docx");

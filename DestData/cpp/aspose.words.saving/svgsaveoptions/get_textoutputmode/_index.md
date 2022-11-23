@@ -24,7 +24,6 @@ The default value is **UseTargetMachineFonts**.
 
 
 
-
 Shows how to mimic the properties of images when converting a .docx document to .svg. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");

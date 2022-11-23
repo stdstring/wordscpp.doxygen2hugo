@@ -20,7 +20,6 @@ Aspose::Words::Layout::PageLayoutEvent Aspose::Words::Layout::PageLayoutCallback
 
 
 
-
 Shows how to track layout changes with a layout callback. 
 ```cpp
 void PageLayoutCallback()

@@ -36,7 +36,6 @@ class Bookmark : public System::Object
 
 
 
-
 Shows how to add bookmarks and update their contents. 
 ```cpp
 void CreateUpdateAndPrintBookmarks()

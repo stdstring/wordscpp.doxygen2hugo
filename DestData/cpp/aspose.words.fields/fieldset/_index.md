@@ -50,7 +50,6 @@ class FieldSet : public Aspose::Words::Fields::Field
 
 
 
-
 Shows how to create bookmarked text with a SET field, and then display it in the document using a REF field. 
 ```cpp
 auto doc = MakeObject<Document>();

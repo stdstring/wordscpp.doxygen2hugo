@@ -49,7 +49,6 @@ class FieldUnknown : public Aspose::Words::Fields::Field,
 
 
 
-
 Shows how to work with 'FieldNone' field in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
