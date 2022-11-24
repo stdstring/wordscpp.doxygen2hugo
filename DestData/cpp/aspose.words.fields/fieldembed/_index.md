@@ -78,3 +78,7 @@ shape = System::DynamicCast<Shape>(shapes->idx_get(2));
 ASSERT_EQ(ShapeType::OleObject, shape->get_ShapeType());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Fields](../)
+* Library [Aspose.Words](../../)

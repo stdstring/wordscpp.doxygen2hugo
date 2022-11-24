@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Stroke::get_JoinStyle](../get_joinstyle/).
 void Aspose::Words::Drawing::Stroke::set_JoinStyle(Aspose::Words::Drawing::JoinStyle value)
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

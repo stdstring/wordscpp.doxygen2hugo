@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDdeAuto::get_SourceItem](../get_sourceit
 void Aspose::Words::Fields::FieldDdeAuto::set_SourceItem(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDdeAuto](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

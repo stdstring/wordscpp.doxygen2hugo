@@ -15,6 +15,11 @@ Initializes a new instance of this class.
 Aspose::Words::DocumentBuilder::DocumentBuilder()
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::DocumentBuilder(const System::SharedPtr\<Aspose::Words::Document\>\&) method
 
 
@@ -124,3 +129,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertToc.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

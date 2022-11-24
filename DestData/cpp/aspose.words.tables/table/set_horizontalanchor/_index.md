@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_HorizontalAnchor](../get_horizonta
 void Aspose::Words::Tables::Table::set_HorizontalAnchor(Aspose::Words::Drawing::RelativeHorizontalPosition value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

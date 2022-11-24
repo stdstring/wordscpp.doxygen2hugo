@@ -15,3 +15,8 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualizebeginiter
 virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginIterator() override
 ```
 
+## See Also
+
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

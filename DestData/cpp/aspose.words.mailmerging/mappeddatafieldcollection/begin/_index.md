@@ -15,6 +15,11 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
 const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() const noexcept
 ```
 
+## See Also
+
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)
 ## MappedDataFieldCollection::begin() method
 
 
@@ -24,3 +29,8 @@ const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() co
 iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() noexcept
 ```
 
+## See Also
+
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

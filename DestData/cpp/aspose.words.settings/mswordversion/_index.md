@@ -28,3 +28,7 @@ enum class MsWordVersion
 | Word2016 | 6 | Optimize Aspose.Words behavior to match MS Word 2016 version. |
 | Word2019 | 7 | Optimize Aspose.Words behavior to match MS Word 2019 version. |
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

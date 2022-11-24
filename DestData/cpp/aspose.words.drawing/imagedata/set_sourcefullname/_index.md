@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ImageData::get_SourceFullName](../get_source
 void Aspose::Words::Drawing::ImageData::set_SourceFullName(const System::String &value)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

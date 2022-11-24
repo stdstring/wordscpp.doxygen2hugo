@@ -125,3 +125,7 @@ static int GetChildTableCount(SharedPtr<Table> table)
 }
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Tables](../)
+* Library [Aspose.Words](../../)

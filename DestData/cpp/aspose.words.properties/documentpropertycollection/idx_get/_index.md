@@ -43,6 +43,11 @@ for (const auto& customDocumentProperty : System::IterateOver(doc->get_CustomDoc
 }
 ```
 
+## See Also
+
+* Class [DocumentPropertyCollection](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentPropertyCollection::idx_get(System::String) method
 
 
@@ -74,3 +79,8 @@ doc->get_CustomDocumentProperties()->Add(u"AuthorizationDate", System::DateTime:
 std::cout << "Document authorized on " << doc->get_CustomDocumentProperties()->idx_get(u"AuthorizationDate")->ToDateTime() << std::endl;
 ```
 
+## See Also
+
+* Class [DocumentPropertyCollection](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

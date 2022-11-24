@@ -15,3 +15,8 @@ Gets rows that belong to this table.
 const System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Words::Fields::FieldDatabaseDataRow>>> & Aspose::Words::Fields::FieldDatabaseDataTable::get_Rows() const
 ```
 
+## See Also
+
+* Class [FieldDatabaseDataTable](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

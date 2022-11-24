@@ -15,3 +15,8 @@ Setter for [Aspose::Words::WebExtensions::WebExtensionReference::get_Version](..
 void Aspose::Words::WebExtensions::WebExtensionReference::set_Version(const System::String &value)
 ```
 
+## See Also
+
+* Class [WebExtensionReference](../)
+* Namespace [Aspose::Words::WebExtensions](../../)
+* Library [Aspose.Words](../../../)

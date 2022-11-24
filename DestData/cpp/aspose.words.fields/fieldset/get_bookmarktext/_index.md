@@ -45,3 +45,8 @@ ASSERT_EQ(u"Hello world!", fieldRef->get_Result());
 doc->Save(ArtifactsDir + u"Field.SET.REF.docx");
 ```
 
+## See Also
+
+* Class [FieldSet](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

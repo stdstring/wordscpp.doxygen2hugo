@@ -57,3 +57,8 @@ builder->InsertNode(sdtDate);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.Date.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

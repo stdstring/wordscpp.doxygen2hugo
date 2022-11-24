@@ -15,3 +15,8 @@ Gets the number of elements contained in the collection.
 int32_t Aspose::Words::WarningInfoCollection::get_Count()
 ```
 
+## See Also
+
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

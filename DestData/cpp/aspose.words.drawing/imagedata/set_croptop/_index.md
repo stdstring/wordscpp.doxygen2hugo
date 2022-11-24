@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ImageData::get_CropTop](../get_croptop/).
 void Aspose::Words::Drawing::ImageData::set_CropTop(double value)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

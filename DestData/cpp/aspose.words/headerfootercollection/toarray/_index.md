@@ -102,3 +102,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [HeaderFooterCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ url: /cpp/aspose.words.markup/customxmlpartcollection/virtualizebeginiterator/
 virtualized_iterator * Aspose::Words::Markup::CustomXmlPartCollection::virtualizeBeginIterator() override
 ```
 
+## See Also
+
+* Class [CustomXmlPartCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

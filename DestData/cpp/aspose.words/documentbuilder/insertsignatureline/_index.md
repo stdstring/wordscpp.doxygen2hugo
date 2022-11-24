@@ -71,6 +71,11 @@ ASSERT_TRUE(signatureLine->get_IsSigned());
 ASSERT_TRUE(signatureLine->get_IsValid());
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertSignatureLine(const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -122,3 +127,8 @@ builder->InsertSignatureLine(options, RelativeHorizontalPosition::RightMargin, 2
 doc->Save(ArtifactsDir + u"DocumentBuilder.SignatureLineInline.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

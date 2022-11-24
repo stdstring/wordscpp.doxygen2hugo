@@ -15,3 +15,8 @@ Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Category](../get_c
 void Aspose::Words::BuildingBlocks::BuildingBlock::set_Category(const System::String &value)
 ```
 
+## See Also
+
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

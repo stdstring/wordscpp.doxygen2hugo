@@ -15,3 +15,8 @@ Gets a legend entry for this chart series.
 System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry> Aspose::Words::Drawing::Charts::ChartSeries::get_LegendEntry()
 ```
 
+## See Also
+
+* Class [ChartSeries](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

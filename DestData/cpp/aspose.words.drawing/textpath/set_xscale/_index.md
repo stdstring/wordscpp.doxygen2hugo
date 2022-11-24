@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_XScale](../get_xscale/).
 void Aspose::Words::Drawing::TextPath::set_XScale(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -41,3 +41,8 @@ builder->Write(u"This paragraph is formatted with a double border and shading.")
 doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

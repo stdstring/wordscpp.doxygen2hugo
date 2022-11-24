@@ -15,3 +15,8 @@ Setter for [Aspose::Words::DocumentBase::get_PageColor](../get_pagecolor/).
 void Aspose::Words::DocumentBase::set_PageColor(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -50,3 +50,8 @@ properties->set_LastSavedTime(System::DateTime::get_Now());
 doc->Save(ArtifactsDir + u"DocumentProperties.Origin.docx");
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

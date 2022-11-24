@@ -53,6 +53,11 @@ ASSERT_EQ(String::Format(u" IF \u0013 MERGEFIELD NetIncome \u0014\u0015 > 0 \" (
 ASSERT_EQ(fieldIf->GetFieldCode(), fieldIf->GetFieldCode(true));
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## Field::GetFieldCode(bool) method
 
 
@@ -89,3 +94,8 @@ ASSERT_EQ(String::Format(u" IF \u0013 MERGEFIELD NetIncome \u0014\u0015 > 0 \" (
 ASSERT_EQ(fieldIf->GetFieldCode(), fieldIf->GetFieldCode(true));
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -120,3 +120,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [BuildingBlockCollection](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

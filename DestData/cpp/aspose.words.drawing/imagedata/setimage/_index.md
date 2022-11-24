@@ -54,6 +54,11 @@ SharedPtr<Shape> imgShape;
 doc->Save(ArtifactsDir + u"Drawing.ImportImage.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -102,6 +107,11 @@ SharedPtr<Shape> imgShape;
 doc->Save(ArtifactsDir + u"Drawing.ImportImage.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::SetImage(const System::String\&) method
 
 
@@ -156,6 +166,11 @@ doc->Save(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx");
 ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx")->get_Length());
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::SetImage(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -165,3 +180,8 @@ ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.Crea
 template<typename CharType,typename Traits> void Aspose::Words::Drawing::ImageData::SetImage(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

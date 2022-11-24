@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourcesFolderAlia
 void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ResourcesFolderAlias(const System::String &value)
 ```
 
+## See Also
+
+* Class [HtmlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

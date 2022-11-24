@@ -63,3 +63,7 @@ builder->Writeln(u"Writing text in a protected document.");
 ASSERT_EQ(String(u"Hello world! This document is protected.") + u"\rWriting text in a protected document.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Gallery](../get_ga
 void Aspose::Words::BuildingBlocks::BuildingBlock::set_Gallery(Aspose::Words::BuildingBlocks::BuildingBlockGallery value)
 ```
 
+## See Also
+
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

@@ -39,3 +39,8 @@ shape->set_ScreenTip(u"Aspose.Words Support Forums");
 doc->Save(ArtifactsDir + u"Image.InsertImageWithHyperlink.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

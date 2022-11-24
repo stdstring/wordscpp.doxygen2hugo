@@ -35,3 +35,8 @@ pageSetup->set_TextOrientation(TextOrientation::Upward);
 doc->Save(ArtifactsDir + u"PageSetup.SetTextOrientation.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

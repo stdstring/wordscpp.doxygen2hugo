@@ -90,3 +90,8 @@ static void ApplyDataLabels(SharedPtr<ChartSeries> series, int labelsCount, Stri
 }
 ```
 
+## See Also
+
+* Class [ChartDataLabelCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

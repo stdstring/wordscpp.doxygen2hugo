@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_Scaling](../get_scaling/).
 void Aspose::Words::Font::set_Scaling(int32_t value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

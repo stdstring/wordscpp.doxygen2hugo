@@ -74,3 +74,8 @@ ASSERT_EQ(StoryType::Comments, comment->get_StoryType());
 doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 ```
 
+## See Also
+
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

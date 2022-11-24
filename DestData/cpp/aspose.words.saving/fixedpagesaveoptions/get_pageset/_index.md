@@ -106,3 +106,8 @@ xpsOptions->set_PageSet(MakeObject<PageSet>(MakeArray<int>({0, 1, 3})));
 doc->Save(ArtifactsDir + u"XpsSaveOptions.ExportExactPages.xps", xpsOptions);
 ```
 
+## See Also
+
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

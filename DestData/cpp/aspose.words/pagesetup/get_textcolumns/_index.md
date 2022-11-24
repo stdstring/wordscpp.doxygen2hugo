@@ -36,3 +36,8 @@ builder->Writeln(u"Column 2.");
 doc->Save(ArtifactsDir + u"PageSetup.ColumnsSameWidth.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

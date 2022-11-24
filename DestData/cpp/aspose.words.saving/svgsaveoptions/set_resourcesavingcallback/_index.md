@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback](.
 void Aspose::Words::Saving::SvgSaveOptions::set_ResourceSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> &value)
 ```
 
+## See Also
+
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

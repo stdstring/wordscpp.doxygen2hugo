@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIf::get_TrueText](../get_truetext/).
 void Aspose::Words::Fields::FieldIf::set_TrueText(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIf](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

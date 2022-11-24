@@ -43,6 +43,11 @@ fill->Patterned(PatternType::DiagonalBrick, System::Drawing::Color::get_Aqua(), 
 doc->Save(ArtifactsDir + u"Shape.FillPattern.docx");
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## Fill::Patterned(Aspose::Words::Drawing::PatternType, System::Drawing::Color, System::Drawing::Color) method
 
 
@@ -82,3 +87,8 @@ fill->Patterned(PatternType::DiagonalBrick, System::Drawing::Color::get_Aqua(), 
 doc->Save(ArtifactsDir + u"Shape.FillPattern.docx");
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

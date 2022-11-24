@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked](../get_asp
 void Aspose::Words::Drawing::ShapeBase::set_AspectRatioLocked(bool value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

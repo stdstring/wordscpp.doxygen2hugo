@@ -75,6 +75,11 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomXmlPropertyCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)
 ## CustomXmlPropertyCollection::idx_get(int32_t) method
 
 
@@ -144,3 +149,8 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomXmlPropertyCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

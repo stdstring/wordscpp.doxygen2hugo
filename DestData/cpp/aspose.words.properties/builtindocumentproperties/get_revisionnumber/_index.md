@@ -78,3 +78,8 @@ field->Update();
 ASSERT_EQ(u"2", field->get_Result());
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

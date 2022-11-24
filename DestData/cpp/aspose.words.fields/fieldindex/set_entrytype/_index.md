@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIndex::get_EntryType](../get_entrytype/)
 void Aspose::Words::Fields::FieldIndex::set_EntryType(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIndex](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

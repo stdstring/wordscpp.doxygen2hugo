@@ -58,6 +58,11 @@ auto formatConverter = MakeObject<System::Drawing::ImageFormatConverter>();
 }
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::Save(const System::String\&) method
 
 
@@ -101,6 +106,11 @@ for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape
 }
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -110,3 +120,8 @@ for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape
 template<typename CharType,typename Traits> void Aspose::Words::Drawing::ImageData::Save(std::basic_ostream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

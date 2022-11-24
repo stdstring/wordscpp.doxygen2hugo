@@ -50,3 +50,8 @@ ASSERT_EQ(String::Empty, shape->get_Title());
 ASSERT_EQ(u"Title: My cube", shape->get_AlternativeText());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

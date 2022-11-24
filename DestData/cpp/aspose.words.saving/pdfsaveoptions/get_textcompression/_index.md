@@ -50,3 +50,8 @@ options->set_TextCompression(pdfTextCompression);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.TextCompression.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

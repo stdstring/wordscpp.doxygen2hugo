@@ -42,3 +42,8 @@ chart->get_AxisY()->set_Hidden(true);
 doc->Save(ArtifactsDir + u"Charts.HideChartAxis.docx");
 ```
 
+## See Also
+
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

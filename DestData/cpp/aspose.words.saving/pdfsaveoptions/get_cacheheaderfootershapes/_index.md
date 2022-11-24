@@ -23,3 +23,8 @@ Default value is **false** and shapes are not cached.
 When the value is **true** shapes graphics are written to the PDF document as an xObject.
 
 Some shapes are not supported for caching(shapes with fields, bookmarks, HRefs). 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

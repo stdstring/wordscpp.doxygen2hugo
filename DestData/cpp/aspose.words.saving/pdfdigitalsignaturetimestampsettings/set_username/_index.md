@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Use
 void Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_UserName(const System::String &value)
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureTimestampSettings](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

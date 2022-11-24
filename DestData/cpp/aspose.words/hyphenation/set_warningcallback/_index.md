@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Hyphenation::get_WarningCallback](../get_warningcallb
 static void Aspose::Words::Hyphenation::set_WarningCallback(const System::SharedPtr<Aspose::Words::IWarningCallback> &value)
 ```
 
+## See Also
+
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

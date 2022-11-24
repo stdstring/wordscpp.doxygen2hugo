@@ -15,6 +15,11 @@ Setter for [Aspose::Words::Saving::ImageSavingArgs::get_ImageStream](../get_imag
 void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
+## See Also
+
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## ImageSavingArgs::set_ImageStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -24,3 +29,8 @@ void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(const System::Share
 template<typename CharType,typename Traits> void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream(std::basic_ostream<CharType, Traits> &value)
 ```
 
+## See Also
+
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

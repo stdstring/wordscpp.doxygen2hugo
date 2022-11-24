@@ -36,3 +36,8 @@ ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ASPOSE_ASSERT_EQ(u"123 Main St, London, UK", plaintext->get_CustomDocumentProperties()->idx_get(u"Location of writing")->get_Value());
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

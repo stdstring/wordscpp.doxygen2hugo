@@ -15,3 +15,8 @@ Gets columns that belong to this table.
 const System::ArrayPtr<System::String> & Aspose::Words::Fields::FieldDatabaseDataTable::get_ColumnNames() const
 ```
 
+## See Also
+
+* Class [FieldDatabaseDataTable](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

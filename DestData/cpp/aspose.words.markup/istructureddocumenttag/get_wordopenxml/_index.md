@@ -15,3 +15,8 @@ Gets a string that represents the XML contained within the node in the **FlatOpc
 virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_WordOpenXML()=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

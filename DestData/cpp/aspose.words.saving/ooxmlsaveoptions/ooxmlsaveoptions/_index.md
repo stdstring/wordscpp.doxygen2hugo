@@ -47,6 +47,11 @@ doc = MakeObject<Document>(ArtifactsDir + u"OoxmlSaveOptions.Iso29500Strict.docx
 ASSERT_EQ(ShapeMarkupLanguage::Dml, (System::DynamicCast<Shape>(doc->GetChild(NodeType::Shape, 0, true)))->get_MarkupLanguage());
 ```
 
+## See Also
+
+* Class [OoxmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## OoxmlSaveOptions::OoxmlSaveOptions(Aspose::Words::SaveFormat) method
 
 
@@ -86,3 +91,8 @@ ASSERT_EQ(keepLegacyControlChars ? String(u"\u0013date \\@ \"MM/dd/yyyy\"\u0014\
           doc->get_FirstSection()->get_Body()->GetText());
 ```
 
+## See Also
+
+* Class [OoxmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

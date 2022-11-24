@@ -15,3 +15,8 @@ Gets type of this **Structured document tag**.
 virtual Aspose::Words::Markup::SdtType Aspose::Words::Markup::IStructuredDocumentTag::get_SdtType()=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

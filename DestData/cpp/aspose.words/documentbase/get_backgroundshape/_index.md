@@ -61,3 +61,8 @@ ASSERT_TRUE(doc->get_BackgroundShape()->get_HasImage());
 doc->Save(ArtifactsDir + u"DocumentBase.BackgroundShape.Image.pdf");
 ```
 
+## See Also
+
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

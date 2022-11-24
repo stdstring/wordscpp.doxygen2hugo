@@ -41,3 +41,8 @@ ASSERT_TRUE(shape->get_IsHorizontalRule());
 ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::BorderCollection::get_LineStyle](../get_linestyle/).
 void Aspose::Words::BorderCollection::set_LineStyle(Aspose::Words::LineStyle value)
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

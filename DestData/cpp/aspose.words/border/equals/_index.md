@@ -59,6 +59,11 @@ for (int i = 0; i < firstParagraphBorders->get_Count(); i++)
 doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Border::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -112,3 +117,8 @@ for (int i = 0; i < firstParagraphBorders->get_Count(); i++)
 doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

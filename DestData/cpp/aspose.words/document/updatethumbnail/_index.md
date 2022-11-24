@@ -42,6 +42,11 @@ doc->UpdateThumbnail(options);
 doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::UpdateThumbnail(const System::SharedPtr\<Aspose::Words::Rendering::ThumbnailGeneratingOptions\>\&) method
 
 
@@ -82,3 +87,8 @@ doc->UpdateThumbnail(options);
 doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

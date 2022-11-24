@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_NameOther](../get_nameother/).
 void Aspose::Words::Font::set_NameOther(const System::String &value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

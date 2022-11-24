@@ -97,6 +97,11 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&) method
 
 
@@ -188,6 +193,11 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<System::DateTime\>\&, const System::ArrayPtr\<double\>\&) method
 
 
@@ -275,6 +285,11 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<double\>\&) method
 
 
@@ -366,3 +381,8 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

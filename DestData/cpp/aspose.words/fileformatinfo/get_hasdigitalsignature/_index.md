@@ -46,3 +46,8 @@ ASSERT_TRUE(info->get_HasDigitalSignature());
 ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDigitalSignatures.docx")->get_Count());
 ```
 
+## See Also
+
+* Class [FileFormatInfo](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

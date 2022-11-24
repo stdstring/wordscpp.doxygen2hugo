@@ -48,3 +48,8 @@ ASSERT_EQ(FootnoteType::Endnote, endnote->get_FootnoteType());
 doc->Save(ArtifactsDir + u"InlineStory.FootnoteEndnote.docx");
 ```
 
+## See Also
+
+* Class [Footnote](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

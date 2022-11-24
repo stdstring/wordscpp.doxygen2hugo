@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Color](.
 void Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Color(System::Drawing::Color value) override
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

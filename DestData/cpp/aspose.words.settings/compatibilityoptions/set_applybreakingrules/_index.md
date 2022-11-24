@@ -15,3 +15,8 @@ Use Legacy Ethiopic and Amharic Line Breaking Rules.
 void Aspose::Words::Settings::CompatibilityOptions::set_ApplyBreakingRules(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

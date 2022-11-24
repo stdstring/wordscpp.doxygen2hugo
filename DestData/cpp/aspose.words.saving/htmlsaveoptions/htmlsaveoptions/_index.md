@@ -41,6 +41,11 @@ saveOptions->set_ExportDocumentProperties(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOptions);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## HtmlSaveOptions::HtmlSaveOptions(Aspose::Words::SaveFormat) method
 
 
@@ -90,3 +95,8 @@ case HtmlVersion::Xhtml:
 }
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

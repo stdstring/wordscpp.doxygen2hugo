@@ -40,3 +40,8 @@ shape->set_Rotation(45);
 doc->Save(ArtifactsDir + u"Shape.Rotate.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

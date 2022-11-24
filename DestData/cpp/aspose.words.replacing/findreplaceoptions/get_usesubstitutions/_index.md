@@ -65,3 +65,8 @@ ASSERT_EQ(useSubstitutions ? String(u"Paul bought a car from John.\rJoe bought a
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

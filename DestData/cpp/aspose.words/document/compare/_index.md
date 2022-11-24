@@ -68,6 +68,11 @@ docOriginal->get_Revisions()->AcceptAll();
 ASSERT_EQ(docOriginal->GetText(), docEdited->GetText());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Compare(const System::SharedPtr\<Aspose::Words::Document\>\&, const System::String\&, System::DateTime, const System::SharedPtr\<Aspose::Words::Comparing::CompareOptions\>\&) method
 
 
@@ -174,3 +179,8 @@ docOriginal->Compare(docEdited, u"John Doe", System::DateTime::get_Now(), compar
 docOriginal->Save(ArtifactsDir + u"Document.CompareOptions.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

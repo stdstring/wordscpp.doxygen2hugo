@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PageSet](../get_pageset
 void Aspose::Words::Saving::ImageSaveOptions::set_PageSet(const System::SharedPtr<Aspose::Words::Saving::PageSet> &value)
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

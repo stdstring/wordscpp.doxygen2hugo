@@ -15,3 +15,8 @@ Sets a value that specifies how properties of block-level elements are imported.
 void Aspose::Words::Loading::HtmlLoadOptions::set_BlockImportMode(Aspose::Words::Loading::BlockImportMode value)
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

@@ -47,3 +47,8 @@ options->set_Scale(96.f / 72.f);
 doc->Save(ArtifactsDir + u"ImageSaveOptions.EditImage.png", options);
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

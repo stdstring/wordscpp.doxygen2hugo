@@ -15,6 +15,11 @@ Initializes an instance of this class.
 Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails()
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::String\&, const System::String\&, System::DateTime) method
 
 
@@ -61,3 +66,8 @@ ASSERT_EQ(signingTime.ToUniversalTime(), options->get_DigitalSignatureDetails()-
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignature.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

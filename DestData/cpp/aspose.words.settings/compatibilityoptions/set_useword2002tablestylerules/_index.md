@@ -15,3 +15,8 @@ Emulate Word 2002 Table [Style](../../../aspose.words/style/) Rules.
 void Aspose::Words::Settings::CompatibilityOptions::set_UseWord2002TableStyleRules(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

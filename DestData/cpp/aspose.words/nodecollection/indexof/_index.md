@@ -50,3 +50,8 @@ SharedPtr<Cell> cell = row->get_LastCell();
 ASSERT_EQ(4, row->IndexOf(cell));
 ```
 
+## See Also
+
+* Class [NodeCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

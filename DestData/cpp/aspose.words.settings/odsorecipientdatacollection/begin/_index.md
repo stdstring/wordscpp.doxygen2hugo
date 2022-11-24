@@ -15,6 +15,11 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/begin/
 const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin() const noexcept
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)
 ## OdsoRecipientDataCollection::begin() method
 
 
@@ -24,3 +29,8 @@ const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin() con
 iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin() noexcept
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_HeaderDistance](../get_headerdistance/
 void Aspose::Words::PageSetup::set_HeaderDistance(double value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

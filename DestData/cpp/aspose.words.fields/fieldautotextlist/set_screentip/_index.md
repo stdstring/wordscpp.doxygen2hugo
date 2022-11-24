@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip](../get_scre
 void Aspose::Words::Fields::FieldAutoTextList::set_ScreenTip(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAutoTextList](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

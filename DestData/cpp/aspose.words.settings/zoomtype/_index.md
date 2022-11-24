@@ -26,3 +26,7 @@ enum class ZoomType
 | TextFit | 3 | Zoom percentage is automatically recalculated to fit text. |
 
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

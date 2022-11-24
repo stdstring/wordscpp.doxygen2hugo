@@ -86,6 +86,11 @@ builder->MoveToDocumentStart();
 ASSERT_TRUE(builder->get_IsAtStartOfParagraph());
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::MoveToBookmark(const System::String\&, bool, bool) method
 
 
@@ -161,3 +166,8 @@ ASSERT_EQ(u"2. Hello world! 3. ", doc->get_Range()->get_Bookmarks()->idx_get(u"M
 ASSERT_EQ(u"1. 2. Hello world! 3. 4.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::DownsampleOptions::get_ResolutionThreshold](.
 void Aspose::Words::Saving::DownsampleOptions::set_ResolutionThreshold(int32_t value)
 ```
 
+## See Also
+
+* Class [DownsampleOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

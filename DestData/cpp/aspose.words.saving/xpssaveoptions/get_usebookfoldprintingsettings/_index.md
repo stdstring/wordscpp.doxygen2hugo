@@ -52,3 +52,8 @@ if (renderTextAsBookFold)
 doc->Save(ArtifactsDir + u"XpsSaveOptions.BookFold.xps", xpsOptions);
 ```
 
+## See Also
+
+* Class [XpsSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

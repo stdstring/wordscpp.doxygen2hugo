@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter](../g
 void Aspose::Words::Fields::FieldAutoNumLgl::set_SeparatorCharacter(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAutoNumLgl](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

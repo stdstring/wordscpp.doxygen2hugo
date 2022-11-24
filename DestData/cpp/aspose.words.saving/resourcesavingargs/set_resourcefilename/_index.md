@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName](../
 void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName(const System::String &value)
 ```
 
+## See Also
+
+* Class [ResourceSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

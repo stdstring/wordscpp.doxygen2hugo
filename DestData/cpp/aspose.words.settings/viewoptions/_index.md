@@ -69,3 +69,7 @@ doc->get_ViewOptions()->set_ZoomType(zoomType);
 doc->Save(ArtifactsDir + u"ViewOptions.SetZoomType.doc");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

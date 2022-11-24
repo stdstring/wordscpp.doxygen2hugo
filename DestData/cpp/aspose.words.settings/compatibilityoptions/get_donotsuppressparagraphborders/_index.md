@@ -15,3 +15,8 @@ Do Not Suppress [Paragraph](../../../aspose.words/paragraph/) Borders Next To Fr
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressParagraphBorders()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

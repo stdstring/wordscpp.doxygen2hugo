@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_TextWrapping](../get_textwrapping/
 void Aspose::Words::Tables::Table::set_TextWrapping(Aspose::Words::Tables::TextWrapping value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

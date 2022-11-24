@@ -41,3 +41,7 @@ doc->UpdatePageLayout();
 doc->Save(ArtifactsDir + u"Layout.RestartPageNumberingInContinuousSection.pdf");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Layout](../)
+* Library [Aspose.Words](../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_Target](../get_target/).
 void Aspose::Words::Drawing::ShapeBase::set_Target(const System::String &value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -89,3 +89,8 @@ table->set_StyleOptions(table->get_StyleOptions() | TableStyleOptions::LastRow |
 doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 ```
 
+## See Also
+
+* Class [ConditionalStyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

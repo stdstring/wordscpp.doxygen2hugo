@@ -15,3 +15,8 @@ Specifies the connection string used to connect to an external data source. The 
 System::String Aspose::Words::Settings::MailMergeSettings::get_ConnectString() const
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

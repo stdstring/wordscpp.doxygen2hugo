@@ -42,3 +42,8 @@ options->set_DefaultTemplate(MyDir + u"Business brochure.dotx");
 doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

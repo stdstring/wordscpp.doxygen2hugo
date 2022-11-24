@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSaveOptions::get_PixelFormat](../get_pix
 void Aspose::Words::Saving::ImageSaveOptions::set_PixelFormat(Aspose::Words::Saving::ImagePixelFormat value)
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

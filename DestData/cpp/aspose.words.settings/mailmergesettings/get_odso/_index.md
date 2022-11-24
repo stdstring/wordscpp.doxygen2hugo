@@ -19,3 +19,8 @@ System::SharedPtr<Aspose::Words::Settings::Odso> Aspose::Words::Settings::MailMe
 
 
 This object is never null. 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

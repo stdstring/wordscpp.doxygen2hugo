@@ -15,3 +15,8 @@ Emulate WordPerfect 6.x [Font](../../../aspose.words/font/) Height Calculation.
 void Aspose::Words::Settings::CompatibilityOptions::set_TruncateFontHeightsLikeWP6(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

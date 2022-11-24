@@ -125,3 +125,7 @@ table->SetShading(TextureIndex::TextureSolid, System::Drawing::Color::get_LightG
 doc->Save(ArtifactsDir + u"Table.SetOutlineBorders.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

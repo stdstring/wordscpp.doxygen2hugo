@@ -55,3 +55,8 @@ builder->Writeln(u"Row 2, Cell 2.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.TableBordersAndShading.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

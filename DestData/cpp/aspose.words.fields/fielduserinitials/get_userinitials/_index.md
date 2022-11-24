@@ -52,3 +52,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.USERINITIALS.docx");
 ```
 
+## See Also
+
+* Class [FieldUserInitials](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

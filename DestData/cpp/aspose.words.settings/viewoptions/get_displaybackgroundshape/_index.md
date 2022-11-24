@@ -40,3 +40,8 @@ doc->get_ViewOptions()->set_DisplayBackgroundShape(displayBackgroundShape);
 doc->Save(ArtifactsDir + u"ViewOptions.DisplayBackgroundShape.docx");
 ```
 
+## See Also
+
+* Class [ViewOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

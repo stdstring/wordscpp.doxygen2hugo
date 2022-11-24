@@ -37,3 +37,8 @@ doc->get_HyphenationOptions()->set_HyphenateCaps(true);
 doc->Save(ArtifactsDir + u"Document.HyphenationOptions.docx");
 ```
 
+## See Also
+
+* Class [HyphenationOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -75,3 +75,7 @@ enum class PatternType
 | WideUpwardDiagonal | 54 | Wide upward diagonal. |
 | ZigZag | 55 | Zig zag. |
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

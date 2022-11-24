@@ -43,3 +43,8 @@ builder->EndTable();
 ASSERT_TRUE(builder->get_CurrentStory()->get_Tables()->Contains(table));
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

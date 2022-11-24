@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Layout::RevisionOptions::get_InsertedTextEffect](../g
 void Aspose::Words::Layout::RevisionOptions::set_InsertedTextEffect(Aspose::Words::Layout::RevisionTextEffect value)
 ```
 
+## See Also
+
+* Class [RevisionOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

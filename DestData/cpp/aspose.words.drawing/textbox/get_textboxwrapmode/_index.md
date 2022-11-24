@@ -45,3 +45,8 @@ builder->Write(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 doc->Save(ArtifactsDir + u"Shape.TextBoxContentsWrapMode.docx");
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

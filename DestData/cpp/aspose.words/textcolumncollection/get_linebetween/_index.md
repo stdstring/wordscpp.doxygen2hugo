@@ -41,3 +41,8 @@ builder->Writeln(u"Column 3.");
 doc->Save(ArtifactsDir + u"PageSetup.VerticalLineBetweenColumns.docx");
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -53,3 +53,8 @@ embeddedFontBytes = doc->get_FontInfos()->idx_get(u"Alte DIN 1451 Mittelschrift"
 System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf", embeddedFontBytes);
 ```
 
+## See Also
+
+* Class [FontInfo](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comparing::CompareOptions::get_Granularity](../get_gr
 void Aspose::Words::Comparing::CompareOptions::set_Granularity(Aspose::Words::Comparing::Granularity value)
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

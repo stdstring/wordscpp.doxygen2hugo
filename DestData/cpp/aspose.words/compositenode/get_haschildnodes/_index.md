@@ -43,3 +43,8 @@ secondTable->Remove();
 doc->Save(ArtifactsDir + u"Table.CombineTables.docx");
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

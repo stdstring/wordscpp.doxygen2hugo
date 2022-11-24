@@ -37,3 +37,8 @@ saveOptions->set_OptimizeOutput(optimizeOutput);
 doc->Save(ArtifactsDir + u"XpsSaveOptions.OptimizeOutput.xps", saveOptions);
 ```
 
+## See Also
+
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

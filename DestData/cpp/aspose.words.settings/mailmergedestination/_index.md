@@ -26,3 +26,7 @@ enum class MailMergeDestination
 | Default | n/a | Equals to the **NewDocument** value. |
 
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

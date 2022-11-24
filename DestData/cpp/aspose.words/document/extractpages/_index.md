@@ -34,3 +34,8 @@ doc = doc->ExtractPages(0, 2);
 doc->Save(ArtifactsDir + u"Document.ExtractPages.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

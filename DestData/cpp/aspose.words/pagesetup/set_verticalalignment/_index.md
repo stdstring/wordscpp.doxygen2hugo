@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_VerticalAlignment](../get_verticalalig
 void Aspose::Words::PageSetup::set_VerticalAlignment(Aspose::Words::PageVerticalAlignment value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

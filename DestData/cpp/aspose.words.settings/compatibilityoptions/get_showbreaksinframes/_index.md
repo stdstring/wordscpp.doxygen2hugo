@@ -15,3 +15,8 @@ Display Page/Column Breaks Present in Frames.
 bool Aspose::Words::Settings::CompatibilityOptions::get_ShowBreaksInFrames()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -24,3 +24,7 @@ enum class SdtDateStorageFormat
 | Text | 2 | The date value for a date SDT is stored as text. |
 | Default | n/a | Defaults to **DateTime** |
 
+## See Also
+
+* Namespace [Aspose::Words::Markup](../)
+* Library [Aspose.Words](../../)

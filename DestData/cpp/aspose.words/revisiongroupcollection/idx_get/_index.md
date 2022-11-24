@@ -27,3 +27,8 @@ auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");
 SharedPtr<RevisionGroup> revisionGroup = doc->get_Revisions()->get_Groups()->idx_get(0);
 ```
 
+## See Also
+
+* Class [RevisionGroupCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

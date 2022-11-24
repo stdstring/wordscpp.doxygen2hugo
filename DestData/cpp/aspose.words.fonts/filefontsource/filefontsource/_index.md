@@ -37,6 +37,11 @@ ASSERT_EQ(FontSourceType::FontFile, fileFontSource->get_Type());
 ASSERT_EQ(0, fileFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [FileFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FileFontSource::FileFontSource(const System::String\&, int32_t) method
 
 
@@ -69,6 +74,11 @@ ASSERT_EQ(FontSourceType::FontFile, fileFontSource->get_Type());
 ASSERT_EQ(0, fileFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [FileFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FileFontSource::FileFontSource(const System::String\&, int32_t, const System::String\&) method
 
 
@@ -85,3 +95,8 @@ Aspose::Words::Fonts::FileFontSource::FileFontSource(const System::String &fileP
 | priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 | cacheKey | const System::String\& | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
 
+## See Also
+
+* Class [FileFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

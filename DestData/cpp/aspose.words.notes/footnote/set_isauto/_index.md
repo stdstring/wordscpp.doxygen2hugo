@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::Footnote::get_IsAuto](../get_isauto/).
 void Aspose::Words::Notes::Footnote::set_IsAuto(bool value)
 ```
 
+## See Also
+
+* Class [Footnote](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

@@ -15,6 +15,11 @@ Initializes an instance of this class.
 Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings()
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureTimestampSettings](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&) method
 
 
@@ -70,6 +75,11 @@ ASSERT_EQ(u"MyPassword", options->get_DigitalSignatureDetails()->get_TimestampSe
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureTimestampSettings](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) method
 
 
@@ -126,3 +136,8 @@ ASSERT_EQ(u"MyPassword", options->get_DigitalSignatureDetails()->get_TimestampSe
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureTimestampSettings](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

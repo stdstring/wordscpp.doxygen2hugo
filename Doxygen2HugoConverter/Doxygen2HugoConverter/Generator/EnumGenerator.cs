@@ -26,6 +26,7 @@ namespace Doxygen2HugoConverter.Generator
             entity.Values.ProcessEnumValues(CreateUrl, builder);
             builder.AppendLine();
             entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder);
+            entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
@@ -67,6 +68,12 @@ namespace Doxygen2HugoConverter.Generator
                 };
                 dest.AppendLine($"| {enumValue.Name} | {initializer} | {valueBriefDescription} |");
             }
+        }
+
+        private static void GenerateSeeAlso(this EntityDef.EnumEntity entity, GenerateState state, StringBuilder dest)
+        {
+            GeneratorUtils.GenerateHeader("See Also", 2, dest);
+            entity.GenerateSeeAlsoCommonPart(state.CommonEntityRepo, dest);
         }
     }
 }

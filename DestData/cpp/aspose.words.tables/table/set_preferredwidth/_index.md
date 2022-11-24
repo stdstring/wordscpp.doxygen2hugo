@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_PreferredWidth](../get_preferredwi
 void Aspose::Words::Tables::Table::set_PreferredWidth(const System::SharedPtr<Aspose::Words::Tables::PreferredWidth> &value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

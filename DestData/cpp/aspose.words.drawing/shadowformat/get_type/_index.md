@@ -15,3 +15,8 @@ Gets the specified [ShadowType](../../shadowtype/) for [ShadowFormat](../).
 Aspose::Words::Drawing::ShadowType Aspose::Words::Drawing::ShadowFormat::get_Type()
 ```
 
+## See Also
+
+* Class [ShadowFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldTC::get_TypeIdentifier](../get_typeident
 void Aspose::Words::Fields::FieldTC::set_TypeIdentifier(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldTC](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

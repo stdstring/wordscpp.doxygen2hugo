@@ -15,3 +15,8 @@ Returns a collection that represents a list of task pane add-ins.
 System::SharedPtr<Aspose::Words::WebExtensions::TaskPaneCollection> Aspose::Words::Document::get_WebExtensionTaskPanes() const
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

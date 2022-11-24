@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartLegend::get_Position](../get_po
 void Aspose::Words::Drawing::Charts::ChartLegend::set_Position(Aspose::Words::Drawing::Charts::LegendPosition value)
 ```
 
+## See Also
+
+* Class [ChartLegend](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

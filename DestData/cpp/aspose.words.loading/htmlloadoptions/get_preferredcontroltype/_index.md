@@ -35,3 +35,8 @@ SharedPtr<NodeCollection> nodes = doc->GetChildNodes(NodeType::StructuredDocumen
 auto tag = System::DynamicCast<StructuredDocumentTag>(nodes->idx_get(0));
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

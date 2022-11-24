@@ -15,3 +15,8 @@ Gets the paper tray (bin) to be used for all but the first page of a section. Th
 int32_t Aspose::Words::PageSetup::get_OtherPagesTray()
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

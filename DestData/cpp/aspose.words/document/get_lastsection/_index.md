@@ -51,3 +51,8 @@ ASSERT_EQ(2, doc->get_LastSection()->get_PageSetup()->get_TextColumns()->get_Cou
 doc->Save(ArtifactsDir + u"Section.Create.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

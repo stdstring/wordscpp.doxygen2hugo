@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpe
 void Aspose::Words::Saving::ResourceSavingArgs::set_KeepResourceStreamOpen(bool value)
 ```
 
+## See Also
+
+* Class [ResourceSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

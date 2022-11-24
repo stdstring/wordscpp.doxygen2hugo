@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::OlePackage::get_FileName](../get_filename/).
 void Aspose::Words::Drawing::OlePackage::set_FileName(System::String value)
 ```
 
+## See Also
+
+* Class [OlePackage](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Specifies the type of error reporting which shall be conducted by Microsoft Word
 void Aspose::Words::Settings::MailMergeSettings::set_CheckErrors(Aspose::Words::Settings::MailMergeCheckErrors value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

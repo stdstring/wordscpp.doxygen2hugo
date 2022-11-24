@@ -15,3 +15,8 @@ Don't Break Table Rows Around Floating [Tables](../../../aspose.words.tables/).
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotBreakConstrainedForcedTable()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

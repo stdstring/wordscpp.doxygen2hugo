@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFr
 void Aspose::Words::Rendering::ThumbnailGeneratingOptions::set_GenerateFromFirstPage(bool value)
 ```
 
+## See Also
+
+* Class [ThumbnailGeneratingOptions](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

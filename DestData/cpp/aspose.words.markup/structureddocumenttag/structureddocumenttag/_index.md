@@ -59,3 +59,8 @@ builder->InsertNode(sdtCheckBox);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.CheckBox.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

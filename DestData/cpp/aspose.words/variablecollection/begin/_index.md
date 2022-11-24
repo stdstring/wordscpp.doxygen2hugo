@@ -15,6 +15,11 @@ url: /cpp/aspose.words/variablecollection/begin/
 const_iterator Aspose::Words::VariableCollection::begin() const noexcept
 ```
 
+## See Also
+
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## VariableCollection::begin() method
 
 
@@ -24,3 +29,8 @@ const_iterator Aspose::Words::VariableCollection::begin() const noexcept
 iterator Aspose::Words::VariableCollection::begin() noexcept
 ```
 
+## See Also
+
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

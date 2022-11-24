@@ -15,3 +15,8 @@ Sets a collection of objects that specify inclusion/exclusion of individual reco
 void Aspose::Words::Settings::Odso::set_RecipientDatas(const System::SharedPtr<Aspose::Words::Settings::OdsoRecipientDataCollection> &value)
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

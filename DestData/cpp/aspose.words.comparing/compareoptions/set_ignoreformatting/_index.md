@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting](../g
 void Aspose::Words::Comparing::CompareOptions::set_IgnoreFormatting(bool value)
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

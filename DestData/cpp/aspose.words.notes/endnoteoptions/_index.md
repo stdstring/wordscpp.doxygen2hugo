@@ -199,3 +199,7 @@ doc->get_EndnoteOptions()->set_StartNumber(50);
 doc->Save(ArtifactsDir + u"InlineStory.StartNumber.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Notes](../)
+* Library [Aspose.Words](../../)

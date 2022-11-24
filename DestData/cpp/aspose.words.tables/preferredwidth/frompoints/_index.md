@@ -71,3 +71,8 @@ builder->InsertCell();
 ASPOSE_ASSERT_EQ(216.0, table->get_FirstRow()->get_FirstCell()->get_CellFormat()->get_PreferredWidth()->get_Value());
 ```
 
+## See Also
+
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

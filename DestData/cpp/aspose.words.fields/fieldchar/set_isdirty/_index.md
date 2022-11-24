@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldChar::get_IsDirty](../get_isdirty/).
 void Aspose::Words::Fields::FieldChar::set_IsDirty(bool value)
 ```
 
+## See Also
+
+* Class [FieldChar](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

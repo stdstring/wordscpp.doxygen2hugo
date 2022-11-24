@@ -42,3 +42,8 @@ doc->UpdateThumbnail(options);
 doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 ```
 
+## See Also
+
+* Class [ThumbnailGeneratingOptions](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

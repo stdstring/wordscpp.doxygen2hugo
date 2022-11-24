@@ -50,3 +50,8 @@ stroke->set_LineStyle(ShapeLineStyle::Triple);
 doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

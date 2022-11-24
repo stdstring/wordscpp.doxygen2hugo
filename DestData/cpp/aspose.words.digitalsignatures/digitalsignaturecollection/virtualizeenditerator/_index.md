@@ -15,3 +15,8 @@ url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/virtualizeen
 virtualized_iterator * Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Class [DigitalSignatureCollection](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

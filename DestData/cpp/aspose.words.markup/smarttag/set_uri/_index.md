@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::SmartTag::get_Uri](../get_uri/).
 void Aspose::Words::Markup::SmartTag::set_Uri(const System::String &value)
 ```
 
+## See Also
+
+* Class [SmartTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

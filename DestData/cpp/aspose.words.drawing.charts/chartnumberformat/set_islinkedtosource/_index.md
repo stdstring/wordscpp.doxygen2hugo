@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSou
 void Aspose::Words::Drawing::Charts::ChartNumberFormat::set_IsLinkedToSource(bool value)
 ```
 
+## See Also
+
+* Class [ChartNumberFormat](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSett
 void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_TimestampSettings(const System::SharedPtr<Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings> &value)
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

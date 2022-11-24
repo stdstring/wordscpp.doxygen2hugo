@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_ScreenTip](../get_screentip/)
 void Aspose::Words::Drawing::ShapeBase::set_ScreenTip(const System::String &value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

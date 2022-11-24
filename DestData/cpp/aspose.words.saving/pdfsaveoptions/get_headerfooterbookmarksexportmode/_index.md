@@ -52,3 +52,8 @@ saveOptions->set_HeaderFooterBookmarksExportMode(headerFooterBookmarksExportMode
 doc->Save(ArtifactsDir + u"PdfSaveOptions.HeaderFooterBookmarksExportMode.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Section::get_ProtectedForForms](../get_protectedforfo
 void Aspose::Words::Section::set_ProtectedForForms(bool value)
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

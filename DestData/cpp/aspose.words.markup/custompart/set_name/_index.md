@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::CustomPart::get_Name](../get_name/).
 void Aspose::Words::Markup::CustomPart::set_Name(const System::String &value)
 ```
 
+## See Also
+
+* Class [CustomPart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

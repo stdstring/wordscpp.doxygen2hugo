@@ -15,3 +15,8 @@ url: /cpp/aspose.words/warninginfocollection/virtualizeenditerator/
 virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

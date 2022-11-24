@@ -39,3 +39,8 @@ saveOptions->set_ImlRenderingMode(ImlRenderingMode::InkML);
 doc->Save(ArtifactsDir + u"ImageSaveOptions.RenderInkObject.jpeg", saveOptions);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -47,3 +47,8 @@ pageSetup->set_BorderSurroundsFooter(false);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorder.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

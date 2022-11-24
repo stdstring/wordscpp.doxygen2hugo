@@ -15,3 +15,8 @@ Provides support for the for each style iteration over the child nodes of this n
 System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Node>>> Aspose::Words::Markup::StructuredDocumentTagRangeStart::GetEnumerator() override
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

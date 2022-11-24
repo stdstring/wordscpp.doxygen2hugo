@@ -52,3 +52,8 @@ imgOptions->set_PaperColor(System::Drawing::Color::get_LightCoral());
 doc->Save(ArtifactsDir + u"ImageSaveOptions.PaperColor.LightCoral.png", imgOptions);
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

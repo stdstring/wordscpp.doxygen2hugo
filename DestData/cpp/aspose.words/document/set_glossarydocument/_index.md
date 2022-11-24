@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Document::get_GlossaryDocument](../get_glossarydocume
 void Aspose::Words::Document::set_GlossaryDocument(const System::SharedPtr<Aspose::Words::BuildingBlocks::GlossaryDocument> &value)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

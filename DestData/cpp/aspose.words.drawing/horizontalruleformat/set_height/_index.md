@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Height](../get_hei
 void Aspose::Words::Drawing::HorizontalRuleFormat::set_Height(double value)
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

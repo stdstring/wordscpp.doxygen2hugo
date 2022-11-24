@@ -45,3 +45,8 @@ doc->get_FootnoteOptions()->set_Position(footnotePosition);
 doc->Save(ArtifactsDir + u"InlineStory.PositionFootnote.docx");
 ```
 
+## See Also
+
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

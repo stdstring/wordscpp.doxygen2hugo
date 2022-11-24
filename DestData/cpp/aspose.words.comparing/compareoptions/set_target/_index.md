@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comparing::CompareOptions::get_Target](../get_target/
 void Aspose::Words::Comparing::CompareOptions::set_Target(Aspose::Words::Comparing::ComparisonTargetType value)
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

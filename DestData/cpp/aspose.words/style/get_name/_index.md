@@ -73,3 +73,8 @@ ASPOSE_ASSERT_EQ(doc->get_Styles()->idx_get(u"Heading 1")->get_Font()->get_Size(
 ASPOSE_ASSERT_NE(doc->get_Styles()->idx_get(u"Heading 1")->get_Font()->get_Color(), newStyle->get_Font()->get_Color());
 ```
 
+## See Also
+
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

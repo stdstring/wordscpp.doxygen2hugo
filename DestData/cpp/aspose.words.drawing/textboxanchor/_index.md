@@ -58,3 +58,7 @@ doc->get_CompatibilityOptions()->OptimizeFor(MsWordVersion::Word2007);
 doc->Save(ArtifactsDir + u"Shape.VerticalAnchor.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

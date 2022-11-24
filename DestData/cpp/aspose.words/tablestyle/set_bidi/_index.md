@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TableStyle::get_Bidi](../get_bidi/).
 void Aspose::Words::TableStyle::set_Bidi(bool value)
 ```
 
+## See Also
+
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

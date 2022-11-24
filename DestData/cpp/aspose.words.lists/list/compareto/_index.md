@@ -15,3 +15,8 @@ Compares the specified list to the current list.
 int32_t Aspose::Words::Lists::List::CompareTo(System::SharedPtr<Aspose::Words::Lists::List> other) override
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

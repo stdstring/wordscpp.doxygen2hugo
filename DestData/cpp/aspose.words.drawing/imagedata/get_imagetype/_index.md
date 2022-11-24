@@ -45,3 +45,8 @@ for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape
 }
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

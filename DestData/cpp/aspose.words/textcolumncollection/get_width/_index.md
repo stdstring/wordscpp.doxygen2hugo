@@ -19,3 +19,8 @@ double Aspose::Words::TextColumnCollection::get_Width()
 
 
 Has effect only when [EvenlySpaced](../get_evenlyspaced/) is set to **true**. 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

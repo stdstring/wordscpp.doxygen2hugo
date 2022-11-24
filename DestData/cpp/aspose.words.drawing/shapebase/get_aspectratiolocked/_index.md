@@ -45,3 +45,8 @@ shape->set_AspectRatioLocked(lockAspectRatio);
 doc->Save(ArtifactsDir + u"Shape.AspectRatio.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

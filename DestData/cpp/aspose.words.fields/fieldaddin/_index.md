@@ -56,3 +56,7 @@ auto field = System::DynamicCast<FieldAddIn>(doc->get_Range()->get_Fields()->idx
 ASSERT_EQ(u" ADDIN \"My value\" ", field->GetFieldCode());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Fields](../)
+* Library [Aspose.Words](../../)

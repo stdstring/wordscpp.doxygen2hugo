@@ -78,3 +78,7 @@ doc->get_EndnoteOptions()->set_RestartRule(FootnoteNumberingRule::RestartSection
 doc->Save(ArtifactsDir + u"InlineStory.NumberingRule.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Notes](../)
+* Library [Aspose.Words](../../)

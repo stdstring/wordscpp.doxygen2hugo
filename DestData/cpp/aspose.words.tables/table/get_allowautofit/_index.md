@@ -51,3 +51,8 @@ table->set_AllowAutoFit(allowAutoFit);
 doc->Save(ArtifactsDir + u"Table.AllowAutoFitOnTable.html");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

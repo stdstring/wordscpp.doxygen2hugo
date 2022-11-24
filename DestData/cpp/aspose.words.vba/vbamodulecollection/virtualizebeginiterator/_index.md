@@ -15,3 +15,8 @@ url: /cpp/aspose.words.vba/vbamodulecollection/virtualizebeginiterator/
 virtualized_iterator * Aspose::Words::Vba::VbaModuleCollection::virtualizeBeginIterator() override
 ```
 
+## See Also
+
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

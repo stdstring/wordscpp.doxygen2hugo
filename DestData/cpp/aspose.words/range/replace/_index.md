@@ -56,6 +56,11 @@ doc->get_Range()->Replace(MakeObject<System::Text::RegularExpressions::Regex>(u"
 ASSERT_EQ(u"I decided to get the curtains in lavender, ideal for the lavender-accented room.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Range::Replace(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
 
 
@@ -219,6 +224,11 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 }
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Range::Replace(const System::String\&, const System::String\&) method
 
 
@@ -308,6 +318,11 @@ ASSERT_EQ(String(u"Every paragraph that ends with a full stop like this one will
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Range::Replace(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
 
 
@@ -436,3 +451,8 @@ table->get_LastRow()->get_LastCell()->get_Range()->Replace(u"50", u"20", options
 ASSERT_EQ(String(u"Eggs\a50\a\a") + u"Potatoes\a20\a\a", table->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

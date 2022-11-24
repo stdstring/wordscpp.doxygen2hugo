@@ -114,3 +114,7 @@ for (const auto& section : System::IterateOver(doc->LINQ_OfType<SharedPtr<Sectio
 doc->Save(ArtifactsDir + u"HeaderFooter.RemoveFooters.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

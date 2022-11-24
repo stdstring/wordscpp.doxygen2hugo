@@ -68,3 +68,8 @@ ASSERT_TRUE(tag->get_IsShowingPlaceholderText());
 ASSERT_EQ(u"Custom placeholder text.", tag->GetText().Trim());
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

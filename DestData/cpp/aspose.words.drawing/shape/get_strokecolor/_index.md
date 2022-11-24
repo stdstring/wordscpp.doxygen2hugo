@@ -166,3 +166,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

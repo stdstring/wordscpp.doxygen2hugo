@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Vba::VbaProject::get_Name](../get_name/).
 void Aspose::Words::Vba::VbaProject::set_Name(const System::String &value)
 ```
 
+## See Also
+
+* Class [VbaProject](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

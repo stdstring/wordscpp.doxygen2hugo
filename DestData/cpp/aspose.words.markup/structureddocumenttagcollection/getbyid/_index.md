@@ -24,3 +24,8 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 
 Returns null if the structured document tag with the specified identifier cannot be found.
 
+## See Also
+
+* Class [StructuredDocumentTagCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

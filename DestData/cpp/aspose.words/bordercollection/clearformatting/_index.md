@@ -47,3 +47,8 @@ for (const auto& paragraph : System::IterateOver<Paragraph>(doc->get_FirstSectio
 doc->Save(ArtifactsDir + u"BorderCollection.RemoveAllBorders.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

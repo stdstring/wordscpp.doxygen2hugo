@@ -80,3 +80,8 @@ ASSERT_EQ(u"MyStyle", newStyle->get_Name());
 ASSERT_EQ(System::Drawing::Color::get_Red().ToArgb(), newStyle->get_Font()->get_Color().ToArgb());
 ```
 
+## See Also
+
+* Class [StyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

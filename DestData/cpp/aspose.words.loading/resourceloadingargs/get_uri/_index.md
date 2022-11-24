@@ -15,3 +15,8 @@ URI of the resource which is used for downloading if [ResourceLoading()](../../i
 System::String Aspose::Words::Loading::ResourceLoadingArgs::get_Uri() const
 ```
 
+## See Also
+
+* Class [ResourceLoadingArgs](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

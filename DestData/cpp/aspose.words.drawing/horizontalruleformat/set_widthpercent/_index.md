@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent](../g
 void Aspose::Words::Drawing::HorizontalRuleFormat::set_WidthPercent(double value)
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

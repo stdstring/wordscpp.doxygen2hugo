@@ -19,3 +19,8 @@ double Aspose::Words::Drawing::TextPath::get_Size()
 
 
 The default value is 36. 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

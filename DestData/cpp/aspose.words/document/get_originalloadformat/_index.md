@@ -32,3 +32,8 @@ ASSERT_EQ(MyDir + u"Document.docx", doc->get_OriginalFileName());
 ASSERT_EQ(LoadFormat::Docx, doc->get_OriginalLoadFormat());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

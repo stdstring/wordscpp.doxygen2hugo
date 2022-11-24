@@ -160,3 +160,7 @@ firstCell->get_CellFormat()->get_Shading()->set_ForegroundPatternColor(System::D
 doc->Save(ArtifactsDir + u"Table.CellFormat.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Tables](../)
+* Library [Aspose.Words](../../)

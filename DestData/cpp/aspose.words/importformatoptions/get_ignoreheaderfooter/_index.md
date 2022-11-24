@@ -33,3 +33,8 @@ dstDoc->AppendDocument(srcDoc, ImportFormatMode::KeepSourceFormatting, importFor
 dstDoc->Save(ArtifactsDir + u"DocumentBuilder.DoNotIgnoreHeaderFooter.docx");
 ```
 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

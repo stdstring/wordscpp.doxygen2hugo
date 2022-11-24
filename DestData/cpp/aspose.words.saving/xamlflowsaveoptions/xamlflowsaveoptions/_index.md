@@ -92,6 +92,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [XamlFlowSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::SaveFormat) method
 
 
@@ -182,3 +187,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [XamlFlowSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

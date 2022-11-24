@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Layout::LayoutCollector::get_Document](../get_documen
 void Aspose::Words::Layout::LayoutCollector::set_Document(const System::SharedPtr<Aspose::Words::Document> &value)
 ```
 
+## See Also
+
+* Class [LayoutCollector](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

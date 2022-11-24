@@ -22,3 +22,8 @@ virtual void Aspose::Words::IDocumentReaderPlugin::Read(System::SharedPtr<System
 | loadOptions | System::SharedPtr\<Aspose::Words::Loading::LoadOptions\> | An additional load options to load the document. |
 | document | System::SharedPtr\<Aspose::Words::Document\> | The instance of the [Document](../../document/) class to read the data to. If the instance contains some content, it will be overridden by the data from the source stream |
 
+## See Also
+
+* Class [IDocumentReaderPlugin](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -61,3 +61,8 @@ ASSERT_EQ(ShapeType::Sun, shapes[1]->get_ShapeType());
 ASSERT_TRUE(shapes[1]->get_IsInsertRevision());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

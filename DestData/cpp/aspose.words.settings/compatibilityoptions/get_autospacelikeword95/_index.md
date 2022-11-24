@@ -15,3 +15,8 @@ Emulate Word 95 Full-Width Character Spacing.
 bool Aspose::Words::Settings::CompatibilityOptions::get_AutoSpaceLikeWord95()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

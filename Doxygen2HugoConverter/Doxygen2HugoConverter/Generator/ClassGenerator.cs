@@ -34,6 +34,7 @@ namespace Doxygen2HugoConverter.Generator
             entity.ProcessFields(currentState, builder);
             entity.ProcessTypedefs(currentState, builder);
             entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder);
+            entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
@@ -119,6 +120,12 @@ namespace Doxygen2HugoConverter.Generator
             GeneratorUtils.GenerateHeader("Typedefs", 2, dest);
             GeneratorUtils.GenerateTableHeader(new[] {"Typedef", "Description"}, dest);
             entries.Iterate(entry => { dest.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
+        }
+
+        private static void GenerateSeeAlso(this EntityDef.ClassEntity entity, GenerateState state, StringBuilder dest)
+        {
+            GeneratorUtils.GenerateHeader("See Also", 2, dest);
+            entity.GenerateSeeAlsoCommonPart(state.CommonEntityRepo, dest);
         }
     }
 }

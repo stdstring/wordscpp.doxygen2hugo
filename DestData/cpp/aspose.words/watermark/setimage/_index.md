@@ -20,6 +20,11 @@ void Aspose::Words::Watermark::SetImage(const System::SharedPtr<System::Drawing:
 | --- | --- | --- |
 | image | const System::SharedPtr\<System::Drawing::Image\>\& | Image that is displayed as a watermark. |
 
+## See Also
+
+* Class [Watermark](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Watermark::SetImage(const System::SharedPtr\<System::Drawing::Image\>\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
 
 
@@ -54,6 +59,11 @@ doc->get_Watermark()->SetImage(System::Drawing::Image::FromFile(ImageDir + u"Log
 doc->Save(ArtifactsDir + u"Document.ImageWatermark.docx");
 ```
 
+## See Also
+
+* Class [Watermark](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Watermark::SetImage(const System::String\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) method
 
 
@@ -69,3 +79,8 @@ void Aspose::Words::Watermark::SetImage(const System::String &imagePath, const S
 | imagePath | const System::String\& | Path to the image file that is displayed as a watermark. |
 | options | const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\& | Defines additional options for the image watermark. |
 
+## See Also
+
+* Class [Watermark](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

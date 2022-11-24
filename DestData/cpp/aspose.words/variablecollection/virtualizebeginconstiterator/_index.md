@@ -15,3 +15,8 @@ url: /cpp/aspose.words/variablecollection/virtualizebeginconstiterator/
 virtualized_iterator * Aspose::Words::VariableCollection::virtualizeBeginConstIterator() const override
 ```
 
+## See Also
+
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -19,3 +19,8 @@ void Aspose::Words::PageSetup::set_ChapterPageSeparator(Aspose::Words::ChapterPa
 
 
 Before you can create page numbers that include chapter numbers, the document headings must have a numbered outline format applied. 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

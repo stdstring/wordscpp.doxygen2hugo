@@ -22,3 +22,7 @@ enum class BlockImportMode
 | Merge | 0 | [Properties](../../aspose.words.properties/) of parent blocks are merged and stored on child elements (i.e. paragraphs or tables). |
 | Preserve | 1 | [Properties](../../aspose.words.properties/) of parent blocks are imported to a special logical structure and are stored separately from document nodes. |
 
+## See Also
+
+* Namespace [Aspose::Words::Loading](../)
+* Library [Aspose.Words](../../)

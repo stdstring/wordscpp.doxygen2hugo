@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom](../get_s
 void Aspose::Words::Fields::FieldStyleRef::set_SearchFromBottom(bool value)
 ```
 
+## See Also
+
+* Class [FieldStyleRef](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

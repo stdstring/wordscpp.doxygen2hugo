@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fonts::FontSourceBase::get_WarningCallback](../get_wa
 void Aspose::Words::Fonts::FontSourceBase::set_WarningCallback(const System::SharedPtr<Aspose::Words::IWarningCallback> &value)
 ```
 
+## See Also
+
+* Class [FontSourceBase](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

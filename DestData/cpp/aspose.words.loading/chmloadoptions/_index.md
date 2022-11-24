@@ -54,3 +54,7 @@ class ChmLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [set_TempFolder](../loadoptions/set_tempfolder/)(const System::String\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_TempFolder](../loadoptions/get_tempfolder/). |
 | [set_UpdateDirtyFields](../loadoptions/set_updatedirtyfields/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields](../loadoptions/get_updatedirtyfields/). |
 | [set_WarningCallback](../loadoptions/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](../loadoptions/get_warningcallback/). |
+## See Also
+
+* Namespace [Aspose::Words::Loading](../)
+* Library [Aspose.Words](../../)

@@ -19,3 +19,8 @@ Aspose::Words::Settings::MailMergeMainDocumentType Aspose::Words::Settings::Mail
 
 
 The main document is the document that contains information that is the same for each version of the merged document. 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

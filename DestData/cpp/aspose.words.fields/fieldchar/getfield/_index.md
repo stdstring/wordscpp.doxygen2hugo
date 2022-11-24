@@ -49,3 +49,8 @@ ASSERT_EQ(u" DATE  \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
 field->Update();
 ```
 
+## See Also
+
+* Class [FieldChar](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::AxisScaling::get_Maximum](../get_max
 void Aspose::Words::Drawing::Charts::AxisScaling::set_Maximum(const System::SharedPtr<Aspose::Words::Drawing::Charts::AxisBound> &value)
 ```
 
+## See Also
+
+* Class [AxisScaling](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

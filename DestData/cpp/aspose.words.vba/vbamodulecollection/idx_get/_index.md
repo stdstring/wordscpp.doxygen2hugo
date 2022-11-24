@@ -49,6 +49,11 @@ vbaModules->idx_get(u"Module1")->set_SourceCode(u"Your VBA code...");
 vbaModules->Remove(vbaModules->idx_get(2));
 ```
 
+## See Also
+
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)
 ## VbaModuleCollection::idx_get(int32_t) method
 
 
@@ -96,3 +101,8 @@ vbaModules->idx_get(u"Module1")->set_SourceCode(u"Your VBA code...");
 vbaModules->Remove(vbaModules->idx_get(2));
 ```
 
+## See Also
+
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

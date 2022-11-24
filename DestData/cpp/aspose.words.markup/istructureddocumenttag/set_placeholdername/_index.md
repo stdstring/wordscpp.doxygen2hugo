@@ -15,3 +15,8 @@ Sets Name of the [BuildingBlock](../../../aspose.words.buildingblocks/buildingbl
 virtual void Aspose::Words::Markup::IStructuredDocumentTag::set_PlaceholderName(System::String value)=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

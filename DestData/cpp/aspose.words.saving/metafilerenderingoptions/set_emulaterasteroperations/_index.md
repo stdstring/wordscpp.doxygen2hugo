@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_EmulateRasterOp
 void Aspose::Words::Saving::MetafileRenderingOptions::set_EmulateRasterOperations(bool value)
 ```
 
+## See Also
+
+* Class [MetafileRenderingOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -51,6 +51,11 @@ if (doc->get_Watermark()->get_Type() == WatermarkType::Text)
 }
 ```
 
+## See Also
+
+* Class [Watermark](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Watermark::SetText(const System::String\&, const System::SharedPtr\<Aspose::Words::TextWatermarkOptions\>\&) method
 
 
@@ -97,3 +102,8 @@ if (doc->get_Watermark()->get_Type() == WatermarkType::Text)
 }
 ```
 
+## See Also
+
+* Class [Watermark](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

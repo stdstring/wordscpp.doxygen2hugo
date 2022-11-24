@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_TextEffect](../get_texteffect/).
 void Aspose::Words::Font::set_TextEffect(Aspose::Words::TextEffect value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

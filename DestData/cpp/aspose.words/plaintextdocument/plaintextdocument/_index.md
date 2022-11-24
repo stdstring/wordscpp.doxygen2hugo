@@ -44,6 +44,11 @@ doc->Save(ArtifactsDir + u"PlainTextDocument.LoadFromStream.docx");
 }
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## PlainTextDocument::PlainTextDocument(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
@@ -90,6 +95,11 @@ loadOptions->set_Password(u"MyPassword");
 }
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## PlainTextDocument::PlainTextDocument(const System::String\&) method
 
 
@@ -121,6 +131,11 @@ auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocumen
 ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## PlainTextDocument::PlainTextDocument(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
@@ -159,6 +174,11 @@ auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocumen
 ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## PlainTextDocument::PlainTextDocument(std::istream\&) method
 
 
@@ -168,6 +188,11 @@ ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 Aspose::Words::PlainTextDocument::PlainTextDocument(std::istream &stream)
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## PlainTextDocument::PlainTextDocument(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
@@ -177,3 +202,8 @@ Aspose::Words::PlainTextDocument::PlainTextDocument(std::istream &stream)
 Aspose::Words::PlainTextDocument::PlainTextDocument(std::istream &stream, const System::SharedPtr<Aspose::Words::Loading::LoadOptions> &loadOptions)
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

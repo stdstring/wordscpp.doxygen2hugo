@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_Shadow](../get_shadow/).
 void Aspose::Words::Drawing::TextPath::set_Shadow(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

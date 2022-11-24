@@ -87,6 +87,11 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, const System::String\&) method
 
 
@@ -168,6 +173,11 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, double) method
 
 
@@ -249,6 +259,11 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, int32_t) method
 
 
@@ -330,6 +345,11 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, System::DateTime) method
 
 
@@ -421,3 +441,8 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

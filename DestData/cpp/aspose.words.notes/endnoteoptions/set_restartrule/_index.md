@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::EndnoteOptions::get_RestartRule](../get_restar
 void Aspose::Words::Notes::EndnoteOptions::set_RestartRule(Aspose::Words::Notes::FootnoteNumberingRule value) override
 ```
 
+## See Also
+
+* Class [EndnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

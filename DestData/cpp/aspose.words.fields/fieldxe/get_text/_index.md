@@ -138,3 +138,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 ```
 
+## See Also
+
+* Class [FieldXE](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

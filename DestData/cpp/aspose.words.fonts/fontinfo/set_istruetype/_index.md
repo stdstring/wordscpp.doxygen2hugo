@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fonts::FontInfo::get_IsTrueType](../get_istruetype/).
 void Aspose::Words::Fonts::FontInfo::set_IsTrueType(bool value)
 ```
 
+## See Also
+
+* Class [FontInfo](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

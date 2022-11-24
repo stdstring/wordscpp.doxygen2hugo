@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails](
 void Aspose::Words::Saving::PdfSaveOptions::set_DigitalSignatureDetails(const System::SharedPtr<Aspose::Words::Saving::PdfDigitalSignatureDetails> &value)
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

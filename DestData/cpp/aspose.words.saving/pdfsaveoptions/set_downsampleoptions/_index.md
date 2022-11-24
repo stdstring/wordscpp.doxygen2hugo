@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfSaveOptions::get_DownsampleOptions](../get
 void Aspose::Words::Saving::PdfSaveOptions::set_DownsampleOptions(const System::SharedPtr<Aspose::Words::Saving::DownsampleOptions> &value)
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Emulate Word 97 East Asian Line Breaking.
 void Aspose::Words::Settings::CompatibilityOptions::set_UseWord97LineBreakRules(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

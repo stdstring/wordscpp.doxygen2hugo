@@ -15,3 +15,8 @@ Determines whether the specified object is equal in value to the current object.
 bool Aspose::Words::Saving::FixedPageSaveOptions::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
+## See Also
+
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -30,3 +30,8 @@ SharedPtr<Body> body = doc->get_FirstSection()->get_Body();
 ASSERT_EQ(24, body->get_ChildNodes()->IndexOf(body->get_LastParagraph()));
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

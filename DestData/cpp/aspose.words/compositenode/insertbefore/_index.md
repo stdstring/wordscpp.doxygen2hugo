@@ -84,3 +84,8 @@ ASSERT_EQ(u"Run 1. Updated run 2. Run 3.", paragraph->GetText().Trim());
 ASSERT_EQ(3, paragraph->GetChildNodes(NodeType::Any, true)->get_Count());
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

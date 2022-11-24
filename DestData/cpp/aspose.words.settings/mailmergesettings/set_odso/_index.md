@@ -19,3 +19,8 @@ void Aspose::Words::Settings::MailMergeSettings::set_Odso(const System::SharedPt
 
 
 This object is never null. 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

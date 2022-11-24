@@ -15,3 +15,8 @@ Gets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). 
 System::String Aspose::Words::Fields::FieldMergeBarcode::get_PosCodeStyle()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

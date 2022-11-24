@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitScale](../ge
 void Aspose::Words::Drawing::Charts::ChartAxis::set_MajorUnitScale(Aspose::Words::Drawing::Charts::AxisTimeUnit value)
 ```
 
+## See Also
+
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

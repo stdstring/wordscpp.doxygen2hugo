@@ -15,3 +15,8 @@ Initializes a new instance of the [FieldDatabaseDataTable](../) class.
 Aspose::Words::Fields::FieldDatabaseDataTable::FieldDatabaseDataTable(const System::ArrayPtr<System::String> &columnNames)
 ```
 
+## See Also
+
+* Class [FieldDatabaseDataTable](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

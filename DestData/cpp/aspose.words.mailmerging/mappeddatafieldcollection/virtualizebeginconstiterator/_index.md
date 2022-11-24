@@ -15,3 +15,8 @@ url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualizebegincons
 virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginConstIterator() const override
 ```
 
+## See Also
+
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

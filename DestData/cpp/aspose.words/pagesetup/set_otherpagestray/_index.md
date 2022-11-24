@@ -15,3 +15,8 @@ Sets the paper tray (bin) to be used for all but the first page of a section. Th
 void Aspose::Words::PageSetup::set_OtherPagesTray(int32_t value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

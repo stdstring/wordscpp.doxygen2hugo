@@ -30,3 +30,8 @@ doc->get_MailMerge()->Execute(MakeArray<String>(0), MakeArray<SharedPtr<System::
 doc->Save(ArtifactsDir + u"MailMerge.RestartListsAtEachSection.pdf");
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

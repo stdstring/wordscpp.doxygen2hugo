@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize](.
 void Aspose::Words::Saving::HtmlSaveOptions::set_ScaleImageToShapeSize(bool value)
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

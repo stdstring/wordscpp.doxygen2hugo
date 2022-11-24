@@ -43,3 +43,8 @@ builder->Write(u"Text fit tightly inside textbox.");
 doc->Save(ArtifactsDir + u"Shape.TextBoxFitShapeToText.docx");
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

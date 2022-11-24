@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::GradientStop::get_Transparency](../get_trans
 void Aspose::Words::Drawing::GradientStop::set_Transparency(double value)
 ```
 
+## See Also
+
+* Class [GradientStop](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

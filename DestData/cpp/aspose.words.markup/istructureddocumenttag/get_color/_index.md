@@ -15,3 +15,8 @@ Gets the color of the structured document tag.
 virtual System::Drawing::Color Aspose::Words::Markup::IStructuredDocumentTag::get_Color()=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

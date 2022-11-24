@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSaveOptions::get_Scale](../get_scale/).
 void Aspose::Words::Saving::ImageSaveOptions::set_Scale(float value)
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

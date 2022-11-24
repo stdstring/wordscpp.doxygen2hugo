@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_Italic](../get_italic/).
 void Aspose::Words::Font::set_Italic(bool value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Specifies how Microsoft Word will output the results of a mail merge. The defaul
 Aspose::Words::Settings::MailMergeDestination Aspose::Words::Settings::MailMergeSettings::get_Destination() const
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

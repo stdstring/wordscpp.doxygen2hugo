@@ -15,3 +15,8 @@ Gets **ITextShaperFactory** implementation used for Advanced Typography renderin
 System::SharedPtr<Aspose::Words::Shaping::ITextShaperFactory> Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory() const
 ```
 
+## See Also
+
+* Class [LayoutOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

@@ -91,3 +91,7 @@ enum class Compatibility
 | SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning | 69 |  |
 | UseWord2010TableStyleRules | 70 |  |
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

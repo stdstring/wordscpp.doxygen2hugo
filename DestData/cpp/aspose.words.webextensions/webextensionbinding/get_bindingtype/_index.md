@@ -15,3 +15,8 @@ Specifies the binding type.
 Aspose::Words::WebExtensions::WebExtensionBindingType Aspose::Words::WebExtensions::WebExtensionBinding::get_BindingType() const
 ```
 
+## See Also
+
+* Class [WebExtensionBinding](../)
+* Namespace [Aspose::Words::WebExtensions](../../)
+* Library [Aspose.Words](../../../)

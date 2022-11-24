@@ -15,3 +15,8 @@ Gets an object that represents the mapping of this structured document tag to XM
 virtual System::SharedPtr<Aspose::Words::Markup::XmlMapping> Aspose::Words::Markup::IStructuredDocumentTag::get_XmlMapping()=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

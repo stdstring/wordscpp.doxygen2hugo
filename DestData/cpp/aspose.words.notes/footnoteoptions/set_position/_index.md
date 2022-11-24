@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::FootnoteOptions::get_Position](../get_position
 void Aspose::Words::Notes::FootnoteOptions::set_Position(Aspose::Words::Notes::FootnotePosition value)
 ```
 
+## See Also
+
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

@@ -119,3 +119,7 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

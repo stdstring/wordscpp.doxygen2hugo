@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ImageData::get_CropLeft](../get_cropleft/).
 void Aspose::Words::Drawing::ImageData::set_CropLeft(double value)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

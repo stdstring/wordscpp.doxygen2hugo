@@ -15,3 +15,8 @@ Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Description](../ge
 void Aspose::Words::BuildingBlocks::BuildingBlock::set_Description(const System::String &value)
 ```
 
+## See Also
+
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

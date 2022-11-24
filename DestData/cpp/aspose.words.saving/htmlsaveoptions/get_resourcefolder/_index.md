@@ -48,3 +48,8 @@ options->set_ExportOriginalUrlForLinkedImages(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.FolderAlias.html", options);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

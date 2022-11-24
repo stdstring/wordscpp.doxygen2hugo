@@ -80,3 +80,8 @@ builder->EndTable();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTable.docx");
 ```
 
+## See Also
+
+* Class [Shading](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

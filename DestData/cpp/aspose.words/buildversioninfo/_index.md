@@ -32,3 +32,7 @@ Shows how to display information about your installed version of Aspose.Words.
 std::cout << "I am currently using " << BuildVersionInfo::get_Product() << ", version number " << BuildVersionInfo::get_Version() << "!" << std::endl;
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

@@ -51,3 +51,8 @@ doc = MakeObject<Document>(MyDir + u"Encoded in UTF-7.txt", loadOptions);
 ASSERT_EQ(u"Hello world!", doc->ToString(SaveFormat::Text).Trim());
 ```
 
+## See Also
+
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

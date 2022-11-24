@@ -48,3 +48,8 @@ options->get_MetafileRenderingOptions()->set_RenderingMode(metafileRenderingMode
 doc->Save(ArtifactsDir + u"ImageSaveOptions.WindowsMetaFile.png", options);
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -43,3 +43,8 @@ legend->set_Overlay(true);
 doc->Save(ArtifactsDir + u"Charts.ChartLegend.docx");
 ```
 
+## See Also
+
+* Class [Chart](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_AlternativeText](../get_alter
 void Aspose::Words::Drawing::ShapeBase::set_AlternativeText(const System::String &value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Color](../get_colo
 void Aspose::Words::Markup::StructuredDocumentTag::set_Color(System::Drawing::Color value) override
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

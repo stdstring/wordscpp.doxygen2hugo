@@ -66,6 +66,11 @@ builder->InsertOnlineVideo(videoUrl, RelativeHorizontalPosition::LeftMargin, 0, 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideo.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -135,6 +140,11 @@ ArrayPtr<uint8_t> thumbnailImageBytes = System::IO::File::ReadAllBytes(ImageDir 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, double, double) method
 
 
@@ -199,6 +209,11 @@ ArrayPtr<uint8_t> thumbnailImageBytes = System::IO::File::ReadAllBytes(ImageDir 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertOnlineVideo(const System::String\&, double, double) method
 
 
@@ -249,3 +264,8 @@ builder->InsertOnlineVideo(u"https://youtu.be/t_1LYZ102RA", 360, 270);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertVideoWithUrl.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

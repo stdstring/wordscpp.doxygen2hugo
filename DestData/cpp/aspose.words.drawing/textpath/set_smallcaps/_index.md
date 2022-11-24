@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_SmallCaps](../get_smallcaps/).
 void Aspose::Words::Drawing::TextPath::set_SmallCaps(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

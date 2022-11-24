@@ -15,3 +15,8 @@ Sets the specified [ShadowType](../../shadowtype/) for [ShadowFormat](../).
 void Aspose::Words::Drawing::ShadowFormat::set_Type(Aspose::Words::Drawing::ShadowType value)
 ```
 
+## See Also
+
+* Class [ShadowFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

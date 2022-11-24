@@ -82,3 +82,8 @@ int imgHeight = thumbSize.get_Height() * thumbRows;
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -50,3 +50,8 @@ ASSERT_EQ(ignoreTextInsideFields ? String(u"Greetings world!\r\u0013QUOTE\u0014H
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

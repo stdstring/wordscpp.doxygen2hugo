@@ -15,3 +15,8 @@ Setter for [Aspose::Words::HeaderFooter::get_IsLinkedToPrevious](../get_islinked
 void Aspose::Words::HeaderFooter::set_IsLinkedToPrevious(bool value)
 ```
 
+## See Also
+
+* Class [HeaderFooter](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Settings::Odso::get_DataSourceType](../get_datasource
 void Aspose::Words::Settings::Odso::set_DataSourceType(Aspose::Words::Settings::OdsoDataSourceType value)
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

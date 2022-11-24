@@ -44,6 +44,11 @@ saveOptions->set_MemoryOptimization(memoryOptimization);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.MemoryOptimization.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## SaveOptions::CreateSaveOptions(const System::String\&) method
 
 
@@ -84,3 +89,8 @@ options->set_DefaultTemplate(MyDir + u"Business brochure.dotx");
 doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

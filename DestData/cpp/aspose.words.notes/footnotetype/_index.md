@@ -99,3 +99,7 @@ ASSERT_TRUE(footnote->get_IsAuto());
 doc->Save(ArtifactsDir + u"InlineStory.AddFootnote.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Notes](../)
+* Library [Aspose.Words](../../)

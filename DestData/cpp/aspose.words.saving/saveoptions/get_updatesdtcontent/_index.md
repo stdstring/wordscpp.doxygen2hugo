@@ -49,3 +49,8 @@ options->set_UpdateSdtContent(updateSdtContent);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.UpdateSdtContent.pdf", options);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

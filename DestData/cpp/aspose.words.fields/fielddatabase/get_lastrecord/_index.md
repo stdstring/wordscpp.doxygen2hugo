@@ -15,3 +15,8 @@ Gets the integral record number of the last data record to insert.
 System::String Aspose::Words::Fields::FieldDatabase::get_LastRecord()
 ```
 
+## See Also
+
+* Class [FieldDatabase](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

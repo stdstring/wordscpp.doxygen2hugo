@@ -51,3 +51,8 @@ options->set_ExportDocumentStructure(exportDocumentStructure);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ExportDocumentStructure.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

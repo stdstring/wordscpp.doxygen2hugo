@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fonts::FontInfo::get_AltName](../get_altname/).
 void Aspose::Words::Fonts::FontInfo::set_AltName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FontInfo](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

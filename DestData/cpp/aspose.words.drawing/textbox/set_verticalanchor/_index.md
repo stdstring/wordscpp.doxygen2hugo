@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextBox::get_VerticalAnchor](../get_vertical
 void Aspose::Words::Drawing::TextBox::set_VerticalAnchor(Aspose::Words::Drawing::TextBoxAnchor value)
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

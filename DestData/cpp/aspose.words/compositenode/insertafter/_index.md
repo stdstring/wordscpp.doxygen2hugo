@@ -132,3 +132,8 @@ ASSERT_EQ(4, shapes->LINQ_Count(isImage));
 doc->Save(ArtifactsDir + u"Shape.ReplaceTextboxesWithImages.docx");
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

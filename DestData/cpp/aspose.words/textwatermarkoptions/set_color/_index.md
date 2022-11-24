@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TextWatermarkOptions::get_Color](../get_color/).
 void Aspose::Words::TextWatermarkOptions::set_Color(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [TextWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

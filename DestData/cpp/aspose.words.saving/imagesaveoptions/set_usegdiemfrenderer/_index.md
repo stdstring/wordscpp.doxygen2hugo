@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer](../g
 void Aspose::Words::Saving::ImageSaveOptions::set_UseGdiEmfRenderer(bool value)
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

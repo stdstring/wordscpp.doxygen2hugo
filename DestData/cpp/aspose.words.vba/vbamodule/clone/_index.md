@@ -42,3 +42,8 @@ destDoc->get_VbaProject()->get_Modules()->Add(copyVbaModule);
 destDoc->Save(ArtifactsDir + u"VbaProject.CloneVbaProject.docm");
 ```
 
+## See Also
+
+* Class [VbaModule](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

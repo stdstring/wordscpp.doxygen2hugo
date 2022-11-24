@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAdvance::get_UpOffset](../get_upoffset/)
 void Aspose::Words::Fields::FieldAdvance::set_UpOffset(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAdvance](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

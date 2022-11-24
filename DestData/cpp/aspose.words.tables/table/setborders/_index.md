@@ -76,3 +76,8 @@ table->SetBorders(LineStyle::Single, 1.5, System::Drawing::Color::get_Green());
 doc->Save(ArtifactsDir + u"Table.SetBorders.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

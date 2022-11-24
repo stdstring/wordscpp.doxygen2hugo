@@ -40,3 +40,8 @@ for (const auto& signature : doc->get_DigitalSignatures())
 }
 ```
 
+## See Also
+
+* Class [CertificateHolder](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

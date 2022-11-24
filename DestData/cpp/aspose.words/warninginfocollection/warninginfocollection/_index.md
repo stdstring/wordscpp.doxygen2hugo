@@ -15,3 +15,8 @@ url: /cpp/aspose.words/warninginfocollection/warninginfocollection/
 Aspose::Words::WarningInfoCollection::WarningInfoCollection()
 ```
 
+## See Also
+
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

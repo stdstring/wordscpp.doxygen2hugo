@@ -59,3 +59,7 @@ chart->get_AxisY()->get_Scaling()->set_LogBase(20);
 doc->Save(ArtifactsDir + u"Charts.AxisScaling.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing::Charts](../)
+* Library [Aspose.Words](../../)

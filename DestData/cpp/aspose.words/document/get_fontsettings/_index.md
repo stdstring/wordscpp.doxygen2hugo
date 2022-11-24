@@ -63,3 +63,8 @@ ASSERT_TRUE(fontSources[0]->GetAvailableFonts()->LINQ_Any([](SharedPtr<PhysicalF
 doc->Save(ArtifactsDir + u"FontSettings.TableSubstitution.pdf");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

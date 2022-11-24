@@ -55,6 +55,11 @@ doc->get_Sections()->idx_get(0)->set_ProtectedForForms(false);
 doc->Save(ArtifactsDir + u"Section.Protect.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Protect(Aspose::Words::ProtectionType, const System::String\&) method
 
 
@@ -120,3 +125,8 @@ doc->Unprotect(u"NewPassword");
 ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

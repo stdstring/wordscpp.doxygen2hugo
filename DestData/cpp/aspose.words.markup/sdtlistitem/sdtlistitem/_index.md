@@ -76,6 +76,11 @@ listItems->Clear();
 ASSERT_EQ(0, listItems->get_Count());
 ```
 
+## See Also
+
+* Class [SdtListItem](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)
 ## SdtListItem::SdtListItem(const System::String\&) method
 
 
@@ -146,3 +151,8 @@ listItems->Clear();
 ASSERT_EQ(0, listItems->get_Count());
 ```
 
+## See Also
+
+* Class [SdtListItem](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

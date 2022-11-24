@@ -41,3 +41,7 @@ class IStructuredDocumentTag : public virtual System::Object
 | virtual [set_Tag](./set_tag/)(System::String) | Specifies a tag associated with the current SDT node. Can not be null. |
 | virtual [set_Title](./set_title/)(System::String) | Specifies the friendly name associated with this **SDT**. Can not be null. |
 | virtual [StructuredDocumentTagNode](./structureddocumenttagnode/)() | Returns [Node](../../aspose.words/node/) object that implements this interface. |
+## See Also
+
+* Namespace [Aspose::Words::Markup](../)
+* Library [Aspose.Words](../../)

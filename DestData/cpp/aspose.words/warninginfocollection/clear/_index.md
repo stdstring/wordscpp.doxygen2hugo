@@ -78,3 +78,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -47,3 +47,8 @@ options->set_ImagesFolder(imagesDir);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.SaveHtmlWithOptions.html", options);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

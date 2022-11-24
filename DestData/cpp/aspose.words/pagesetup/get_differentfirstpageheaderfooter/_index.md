@@ -136,3 +136,8 @@ builder->get_PageSetup()->set_DifferentFirstPageHeaderFooter(differentFirstPageH
 doc->Save(ArtifactsDir + u"PageSetup.DifferentFirstPageHeaderFooter.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

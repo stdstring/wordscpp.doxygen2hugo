@@ -15,3 +15,8 @@ Use Fixed [Paragraph](../../../aspose.words/paragraph/) Spacing for HTML Auto Se
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseHTMLParagraphAutoSpacing()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

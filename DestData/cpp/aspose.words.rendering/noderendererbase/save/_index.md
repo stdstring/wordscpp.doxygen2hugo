@@ -44,6 +44,11 @@ for (const auto& shape : System::IterateOver(doc->GetChildNodes(NodeType::Shape,
 }
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)
 ## NodeRendererBase::Save(const System::String\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) method
 
 
@@ -79,6 +84,11 @@ saveOptions->set_Scale(5.0f);
 math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", saveOptions);
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)
 ## NodeRendererBase::Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) method
 
 
@@ -88,3 +98,8 @@ math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", save
 template<typename CharType,typename Traits> void Aspose::Words::Rendering::NodeRendererBase::Save(std::basic_ostream<CharType, Traits> &stream, System::SharedPtr<Aspose::Words::Saving::ImageSaveOptions> saveOptions)
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

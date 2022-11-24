@@ -43,6 +43,11 @@ else
 }
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)
 ## HtmlLoadOptions::HtmlLoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) method
 
 
@@ -82,6 +87,11 @@ ASSERT_TRUE(imageShape->get_IsImage());
 doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)
 ## HtmlLoadOptions::HtmlLoadOptions(const System::String\&) method
 
 
@@ -125,3 +135,8 @@ auto doc = MakeObject<Document>(outputFileName, loadOptions);
 ASSERT_EQ(u"Test encrypted document.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

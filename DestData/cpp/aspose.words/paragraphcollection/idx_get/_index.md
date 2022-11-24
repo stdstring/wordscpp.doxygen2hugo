@@ -62,3 +62,8 @@ ASSERT_TRUE(paragraphs->idx_get(1)->get_IsMoveFromRevision());
 ASSERT_TRUE(paragraphs->idx_get(3)->get_IsMoveToRevision());
 ```
 
+## See Also
+
+* Class [ParagraphCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

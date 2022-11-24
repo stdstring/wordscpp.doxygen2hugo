@@ -58,6 +58,11 @@ doc->UpdateWordCount(true);
 ASSERT_EQ(4, doc->get_BuiltInDocumentProperties()->get_Lines());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::UpdateWordCount(bool) method
 
 
@@ -106,3 +111,8 @@ doc->UpdateWordCount(true);
 ASSERT_EQ(4, doc->get_BuiltInDocumentProperties()->get_Lines());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

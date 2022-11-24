@@ -40,3 +40,8 @@ doc->get_Range()->Replace(regex, u"$2 took money from $1", options);
 ASSERT_EQ(doc->GetText(), u"Paul took money from Jason.\f");
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

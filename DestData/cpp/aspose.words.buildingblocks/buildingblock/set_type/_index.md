@@ -15,3 +15,8 @@ Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Type](../get_type/
 void Aspose::Words::BuildingBlocks::BuildingBlock::set_Type(Aspose::Words::BuildingBlocks::BuildingBlockType value)
 ```
 
+## See Also
+
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

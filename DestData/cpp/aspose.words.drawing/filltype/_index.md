@@ -26,3 +26,7 @@ enum class FillType
 | Background | 5 | [Fill](../fill/) is the same as the background. |
 | Picture | 6 | Picture fill. |
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

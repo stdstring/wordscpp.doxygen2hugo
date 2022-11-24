@@ -64,3 +64,8 @@ builder->EndRow();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTableWithStyle.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

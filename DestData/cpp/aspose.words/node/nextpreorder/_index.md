@@ -57,3 +57,8 @@ ASSERT_EQ(0,
           doc->GetChildNodes(NodeType::Shape, true)->LINQ_OfType<SharedPtr<Shape>>()->LINQ_Count([](SharedPtr<Shape> s) { return s->get_HasImage(); }));
 ```
 
+## See Also
+
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

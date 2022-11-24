@@ -45,3 +45,8 @@ doc->get_Range()->Replace(MakeObject<System::Text::RegularExpressions::Regex>(u"
 doc->Save(ArtifactsDir + u"Table.RemoveParagraphTextAndMark.docx");
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

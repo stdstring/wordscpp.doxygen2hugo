@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_FlipOrientation](../get_flipo
 void Aspose::Words::Drawing::ShapeBase::set_FlipOrientation(Aspose::Words::Drawing::FlipOrientation value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

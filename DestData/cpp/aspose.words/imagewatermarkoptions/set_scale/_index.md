@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ImageWatermarkOptions::get_Scale](../get_scale/).
 void Aspose::Words::ImageWatermarkOptions::set_Scale(double value)
 ```
 
+## See Also
+
+* Class [ImageWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

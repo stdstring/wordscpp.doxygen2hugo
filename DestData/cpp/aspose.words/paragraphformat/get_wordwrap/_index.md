@@ -32,3 +32,8 @@ format->set_HangingPunctuation(true);
 doc->Save(ArtifactsDir + u"ParagraphFormat.AsianTypographyProperties.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_uicompat97to2003/
 void Aspose::Words::Settings::CompatibilityOptions::set_UICompat97To2003(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

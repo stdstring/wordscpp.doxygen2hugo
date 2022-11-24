@@ -57,6 +57,11 @@ saveOptions->get_OutlineOptions()->set_HeadingsOutlineLevels(2);
 doc->Save(ArtifactsDir + u"XpsSaveOptions.OutlineLevels.xps", saveOptions);
 ```
 
+## See Also
+
+* Class [XpsSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## XpsSaveOptions::XpsSaveOptions(Aspose::Words::SaveFormat) method
 
 
@@ -99,3 +104,8 @@ if (renderTextAsBookFold)
 doc->Save(ArtifactsDir + u"XpsSaveOptions.BookFold.xps", xpsOptions);
 ```
 
+## See Also
+
+* Class [XpsSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

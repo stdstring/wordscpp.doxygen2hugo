@@ -69,3 +69,7 @@ The best way to learn how to use the properties of this object is to create a do
 
 Aspose.Words preserves mail merge information when loading, saving and converting documents between different formats, but does not use this information when performing its own mail merge using the [MailMerge](../../aspose.words.mailmerging/mailmerge/) object.
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

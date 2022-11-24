@@ -47,6 +47,11 @@ xpsOptions->set_PageSet(MakeObject<PageSet>(MakeArray<int>({0, 1, 3})));
 doc->Save(ArtifactsDir + u"XpsSaveOptions.ExportExactPages.xps", xpsOptions);
 ```
 
+## See Also
+
+* Class [PageSet](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## PageSet::PageSet(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Saving::PageRange\>\>\&) method
 
 
@@ -77,6 +82,11 @@ imageOptions->set_PageSet(pageSet);
 doc->Save(ArtifactsDir + u"ImageSaveOptions.ExportVariousPageRanges.tiff", imageOptions);
 ```
 
+## See Also
+
+* Class [PageSet](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## PageSet::PageSet(int32_t) method
 
 
@@ -91,3 +101,8 @@ Aspose::Words::Saving::PageSet::PageSet(int32_t page)
 | --- | --- | --- |
 | page | int32_t | Zero-based index of the page. |
 
+## See Also
+
+* Class [PageSet](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

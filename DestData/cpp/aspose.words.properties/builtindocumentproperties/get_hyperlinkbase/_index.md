@@ -51,3 +51,8 @@ ASSERT_TRUE(System::IO::File::Exists(properties->get_HyperlinkBase() +
 doc->Save(ArtifactsDir + u"DocumentProperties.HyperlinkBase.WorkingLink.docx");
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

@@ -29,3 +29,7 @@ enum class MailMergeDataType
 | Default | n/a | Equals to **None**. |
 
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

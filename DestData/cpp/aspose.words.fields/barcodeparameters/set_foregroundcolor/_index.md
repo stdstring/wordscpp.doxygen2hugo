@@ -15,3 +15,8 @@ Bar code foreground color (0x000000 - 0xFFFFFF)
 void Aspose::Words::Fields::BarcodeParameters::set_ForegroundColor(const System::String &value)
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

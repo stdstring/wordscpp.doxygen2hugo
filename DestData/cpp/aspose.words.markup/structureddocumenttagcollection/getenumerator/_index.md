@@ -15,3 +15,8 @@ Returns an enumerator object.
 System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag>>> Aspose::Words::Markup::StructuredDocumentTagCollection::GetEnumerator() override
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

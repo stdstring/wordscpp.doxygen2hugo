@@ -56,3 +56,8 @@ doc = MakeObject<Document>(ArtifactsDir + u"OoxmlSaveOptions.RestartingDocumentL
 ASPOSE_ASSERT_EQ(restartListAtEachSection, doc->get_Lists()->idx_get(0)->get_IsRestartAtEachSection());
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

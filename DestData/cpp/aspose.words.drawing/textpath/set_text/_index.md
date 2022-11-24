@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_Text](../get_text/).
 void Aspose::Words::Drawing::TextPath::set_Text(const System::String &value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

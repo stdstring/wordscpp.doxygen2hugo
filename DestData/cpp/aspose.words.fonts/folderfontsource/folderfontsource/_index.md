@@ -40,6 +40,11 @@ ASSERT_EQ(FontSourceType::FontsFolder, folderFontSource->get_Type());
 ASSERT_EQ(1, folderFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [FolderFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FolderFontSource::FolderFontSource(const System::String\&, bool, int32_t) method
 
 
@@ -75,3 +80,8 @@ ASSERT_EQ(FontSourceType::FontsFolder, folderFontSource->get_Type());
 ASSERT_EQ(1, folderFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [FolderFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

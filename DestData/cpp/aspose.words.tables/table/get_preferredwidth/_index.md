@@ -42,3 +42,8 @@ table->set_PreferredWidth(PreferredWidth::FromPercent(50));
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTableWithPreferredWidth.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

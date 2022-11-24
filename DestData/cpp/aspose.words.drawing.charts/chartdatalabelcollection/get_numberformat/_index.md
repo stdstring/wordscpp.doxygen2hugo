@@ -47,3 +47,8 @@ dataLabels->get_NumberFormat()->set_FormatCode(u"\"US$\" #,##0.000\"M\"");
 doc->Save(ArtifactsDir + u"Charts.DataLabelNumberFormat.docx");
 ```
 
+## See Also
+
+* Class [ChartDataLabelCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

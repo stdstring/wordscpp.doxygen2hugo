@@ -15,6 +15,11 @@ url: /cpp/aspose.words.vba/vbamodulecollection/begin/
 const_iterator Aspose::Words::Vba::VbaModuleCollection::begin() const noexcept
 ```
 
+## See Also
+
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)
 ## VbaModuleCollection::begin() method
 
 
@@ -24,3 +29,8 @@ const_iterator Aspose::Words::Vba::VbaModuleCollection::begin() const noexcept
 iterator Aspose::Words::Vba::VbaModuleCollection::begin() noexcept
 ```
 
+## See Also
+
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

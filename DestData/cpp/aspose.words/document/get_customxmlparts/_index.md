@@ -87,3 +87,8 @@ doc->get_FirstSection()->get_Body()->AppendChild(tag);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

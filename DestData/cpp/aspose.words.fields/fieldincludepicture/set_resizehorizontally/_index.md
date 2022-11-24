@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIncludePicture::get_ResizeHorizontally](
 void Aspose::Words::Fields::FieldIncludePicture::set_ResizeHorizontally(bool value)
 ```
 
+## See Also
+
+* Class [FieldIncludePicture](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

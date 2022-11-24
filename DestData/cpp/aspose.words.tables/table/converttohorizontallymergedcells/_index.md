@@ -62,3 +62,8 @@ ASSERT_EQ(CellMerge::Previous, row->get_Cells()->idx_get(5)->get_CellFormat()->g
 ASSERT_EQ(CellMerge::None, row->get_Cells()->idx_get(6)->get_CellFormat()->get_HorizontalMerge());
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

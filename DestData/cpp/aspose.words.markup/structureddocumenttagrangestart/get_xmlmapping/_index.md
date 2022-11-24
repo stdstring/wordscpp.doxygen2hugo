@@ -42,3 +42,8 @@ sdtRangeStart->get_XmlMapping()->SetMapping(xmlPart, u"/root[1]/text[2]", nullpt
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.StructuredDocumentTagRangeStartXmlMapping.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

@@ -39,3 +39,8 @@ ASSERT_FALSE(stroke->get_ImageBytes() == nullptr);
 System::IO::File::WriteAllBytes(ArtifactsDir + u"Drawing.StrokePattern.png", stroke->get_ImageBytes());
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

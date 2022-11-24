@@ -62,3 +62,7 @@ auto subDocument = System::DynamicCast<SubDocument>(subDocuments->idx_get(0));
 ASSERT_FALSE(subDocument->get_IsComposite());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

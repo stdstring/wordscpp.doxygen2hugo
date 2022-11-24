@@ -50,3 +50,8 @@ ASPOSE_ASSERT_EQ(u"Hello world!", customProperty->get_Value());
 doc->Save(ArtifactsDir + u"DocumentProperties.LinkCustomDocumentPropertiesToBookmark.docx");
 ```
 
+## See Also
+
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

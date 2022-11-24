@@ -15,3 +15,8 @@ url: /cpp/aspose.words.saving/downsampleoptions/downsampleoptions/
 Aspose::Words::Saving::DownsampleOptions::DownsampleOptions()
 ```
 
+## See Also
+
+* Class [DownsampleOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

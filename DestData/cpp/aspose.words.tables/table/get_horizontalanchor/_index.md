@@ -42,3 +42,8 @@ if (table->get_TextWrapping() == TextWrapping::Around)
 }
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

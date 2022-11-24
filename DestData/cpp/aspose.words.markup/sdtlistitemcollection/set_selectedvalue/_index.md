@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::SdtListItemCollection::get_SelectedValue](../
 void Aspose::Words::Markup::SdtListItemCollection::set_SelectedValue(const System::SharedPtr<Aspose::Words::Markup::SdtListItem> &value)
 ```
 
+## See Also
+
+* Class [SdtListItemCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

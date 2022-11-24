@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment](../get_ver
 void Aspose::Words::Drawing::ShapeBase::set_VerticalAlignment(Aspose::Words::Drawing::VerticalAlignment value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

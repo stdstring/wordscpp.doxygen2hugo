@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages](../
 void Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages(bool value)
 ```
 
+## See Also
+
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

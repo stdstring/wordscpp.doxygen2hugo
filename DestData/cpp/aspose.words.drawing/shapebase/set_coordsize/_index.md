@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_CoordSize](../get_coordsize/)
 void Aspose::Words::Drawing::ShapeBase::set_CoordSize(System::Drawing::Size value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

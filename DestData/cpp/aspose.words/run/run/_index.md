@@ -74,6 +74,11 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
+## See Also
+
+* Class [Run](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&) method
 
 
@@ -113,3 +118,8 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(run);
 doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
 ```
 
+## See Also
+
+* Class [Run](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

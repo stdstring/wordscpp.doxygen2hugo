@@ -15,3 +15,8 @@ Gets the barcode type (QR, etc.)
 System::String Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeType()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

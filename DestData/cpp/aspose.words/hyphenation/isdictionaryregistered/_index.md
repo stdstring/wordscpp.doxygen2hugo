@@ -51,3 +51,8 @@ doc = MakeObject<Document>(MyDir + u"German text.docx");
 doc->Save(ArtifactsDir + u"Hyphenation.Dictionary.Unregistered.pdf");
 ```
 
+## See Also
+
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

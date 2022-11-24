@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_Width](../get_width/).
 void Aspose::Words::Drawing::ShapeBase::set_Width(double value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -54,6 +54,11 @@ builder->Writeln(u"Automatically sized cell.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx");
 ```
 
+## See Also
+
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)
 ## PreferredWidth::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -102,3 +107,8 @@ builder->Writeln(u"Automatically sized cell.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx");
 ```
 
+## See Also
+
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

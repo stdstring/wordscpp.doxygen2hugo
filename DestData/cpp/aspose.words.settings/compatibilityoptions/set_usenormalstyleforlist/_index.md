@@ -15,3 +15,8 @@ Do Not Automatically Apply List [Paragraph](../../../aspose.words/paragraph/)[St
 void Aspose::Words::Settings::CompatibilityOptions::set_UseNormalStyleForList(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

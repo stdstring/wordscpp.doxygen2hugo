@@ -52,3 +52,8 @@ saveOptions->get_MetafileRenderingOptions()->set_UseEmfEmbeddedToWmf(true);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.RenderMetafile.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [MetafileRenderingOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

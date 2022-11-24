@@ -15,3 +15,8 @@ Gets rendering position of revision bars. Default value is **Outside**.
 Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::Layout::RevisionOptions::get_RevisionBarsPosition() const
 ```
 
+## See Also
+
+* Class [RevisionOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

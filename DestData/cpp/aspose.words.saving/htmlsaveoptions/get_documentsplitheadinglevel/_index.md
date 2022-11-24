@@ -78,3 +78,8 @@ doc = MakeObject<Document>(ArtifactsDir + u"HtmlSaveOptions.HeadingLevels-03.htm
 ASSERT_EQ(String(u"Heading #5\r") + u"Heading #6", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

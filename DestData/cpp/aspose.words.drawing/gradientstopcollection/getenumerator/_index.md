@@ -15,3 +15,8 @@ Returns an enumerator that iterates through the collection.
 System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Drawing::GradientStop>>> Aspose::Words::Drawing::GradientStopCollection::GetEnumerator() override
 ```
 
+## See Also
+
+* Class [GradientStopCollection](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

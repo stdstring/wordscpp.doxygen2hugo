@@ -99,3 +99,8 @@ ASPOSE_ASSERT_EQ(330.0, shape->get_Height());
 doc->Save(ArtifactsDir + u"Image.ScaleImage.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

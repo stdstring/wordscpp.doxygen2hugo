@@ -62,3 +62,7 @@ class TxtLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [set_UpdateDirtyFields](../loadoptions/set_updatedirtyfields/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields](../loadoptions/get_updatedirtyfields/). |
 | [set_WarningCallback](../loadoptions/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](../loadoptions/get_warningcallback/). |
 | [TxtLoadOptions](./txtloadoptions/)() | Initializes a new instance of this class with default values. |
+## See Also
+
+* Namespace [Aspose::Words::Loading](../)
+* Library [Aspose.Words](../../)

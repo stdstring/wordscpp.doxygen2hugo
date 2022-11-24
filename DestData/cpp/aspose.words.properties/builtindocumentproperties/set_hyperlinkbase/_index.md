@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkB
 void Aspose::Words::Properties::BuiltInDocumentProperties::set_HyperlinkBase(const System::String &value)
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

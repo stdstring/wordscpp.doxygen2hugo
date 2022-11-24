@@ -15,3 +15,8 @@ Gets a [PatternType](../../patterntype/) for the fill.
 Aspose::Words::Drawing::PatternType Aspose::Words::Drawing::Fill::get_Pattern()
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

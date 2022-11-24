@@ -39,3 +39,8 @@ ASSERT_EQ(FontSourceType::FontFile, fileFontSource->get_Type());
 ASSERT_EQ(0, fileFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [FontSourceBase](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

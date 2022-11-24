@@ -68,3 +68,8 @@ doc->get_EndnoteOptions()->set_NumberStyle(NumberStyle::UppercaseLetter);
 doc->Save(ArtifactsDir + u"InlineStory.RefMarkNumberStyle.docx");
 ```
 
+## See Also
+
+* Class [EndnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::CustomPart::get_IsExternal](../get_isexternal
 void Aspose::Words::Markup::CustomPart::set_IsExternal(bool value)
 ```
 
+## See Also
+
+* Class [CustomPart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

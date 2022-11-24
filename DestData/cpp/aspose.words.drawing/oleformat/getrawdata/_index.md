@@ -37,3 +37,8 @@ for (const auto& shape : System::IterateOver(doc->GetChildNodes(NodeType::Shape,
 }
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

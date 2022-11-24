@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_RotateLetters](../get_rotatele
 void Aspose::Words::Drawing::TextPath::set_RotateLetters(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

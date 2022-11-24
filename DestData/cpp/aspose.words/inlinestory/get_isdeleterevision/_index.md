@@ -63,3 +63,8 @@ ASSERT_TRUE(footnotes->idx_get(1)->get_IsMoveToRevision());
 ASSERT_TRUE(footnotes->idx_get(3)->get_IsDeleteRevision());
 ```
 
+## See Also
+
+* Class [InlineStory](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

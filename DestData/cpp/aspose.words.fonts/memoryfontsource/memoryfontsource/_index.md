@@ -37,6 +37,11 @@ ASSERT_EQ(FontSourceType::MemoryFont, memoryFontSource->get_Type());
 ASSERT_EQ(0, memoryFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [MemoryFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## MemoryFontSource::MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&, int32_t) method
 
 
@@ -69,6 +74,11 @@ ASSERT_EQ(FontSourceType::MemoryFont, memoryFontSource->get_Type());
 ASSERT_EQ(0, memoryFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [MemoryFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## MemoryFontSource::MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&, int32_t, const System::String\&) method
 
 
@@ -85,3 +95,8 @@ Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource(const System::ArrayPtr<
 | priority | int32_t | [Font](../../../aspose.words/font/) source priority. See the [Priority](../../fontsourcebase/get_priority/) property description for more information. |
 | cacheKey | const System::String\& | The key of this source in the cache. See [CacheKey](../get_cachekey/) property description for more information. |
 
+## See Also
+
+* Class [MemoryFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

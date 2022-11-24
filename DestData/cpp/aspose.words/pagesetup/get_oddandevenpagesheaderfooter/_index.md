@@ -87,3 +87,8 @@ builder->get_PageSetup()->set_OddAndEvenPagesHeaderFooter(oddAndEvenPagesHeaderF
 doc->Save(ArtifactsDir + u"PageSetup.OddAndEvenPagesHeaderFooter.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

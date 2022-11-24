@@ -93,6 +93,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Hyphenation::RegisterDictionary(const System::String\&, const System::String\&) method
 
 
@@ -212,6 +217,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Hyphenation::RegisterDictionary(System::String, std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -221,3 +231,8 @@ private:
 template<typename CharType,typename Traits> static void Aspose::Words::Hyphenation::RegisterDictionary(System::String language, std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

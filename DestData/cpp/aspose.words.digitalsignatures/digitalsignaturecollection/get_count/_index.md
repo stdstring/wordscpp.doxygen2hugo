@@ -59,3 +59,8 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_I
 ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_SubjectName());
 ```
 
+## See Also
+
+* Class [DigitalSignatureCollection](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

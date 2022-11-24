@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf](../get
 void Aspose::Words::Loading::HtmlLoadOptions::set_ConvertSvgToEmf(bool value)
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

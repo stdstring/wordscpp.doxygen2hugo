@@ -50,3 +50,7 @@ shape->set_VerticalAlignment(VerticalAlignment::Center);
 doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

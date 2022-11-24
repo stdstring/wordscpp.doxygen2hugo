@@ -110,3 +110,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [GroupShape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -55,6 +55,11 @@ ASPOSE_ASSERT_EQ(MakeArray<String>({u"FreeSerif", u"Liberation Serif", u"DejaVu 
 }
 ```
 
+## See Also
+
+* Class [TableSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## TableSubstitutionRule::Save(const System::String\&) method
 
 
@@ -104,3 +109,8 @@ ASPOSE_ASSERT_EQ(MakeArray<String>({u"FreeSerif", u"Liberation Serif", u"DejaVu 
 }
 ```
 
+## See Also
+
+* Class [TableSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

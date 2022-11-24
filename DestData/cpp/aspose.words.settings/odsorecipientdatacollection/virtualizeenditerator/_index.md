@@ -15,3 +15,8 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizeenditerato
 virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

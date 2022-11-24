@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_TextPathAlignment](../get_text
 void Aspose::Words::Drawing::TextPath::set_TextPathAlignment(Aspose::Words::Drawing::TextPathAlignment value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -43,3 +43,8 @@ ASSERT_TRUE(imageShape->get_IsImage());
 doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 ```
 
+## See Also
+
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

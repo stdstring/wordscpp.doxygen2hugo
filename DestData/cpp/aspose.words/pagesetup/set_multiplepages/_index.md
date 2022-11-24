@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_MultiplePages](../get_multiplepages/).
 void Aspose::Words::PageSetup::set_MultiplePages(Aspose::Words::Settings::MultiplePagesType value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

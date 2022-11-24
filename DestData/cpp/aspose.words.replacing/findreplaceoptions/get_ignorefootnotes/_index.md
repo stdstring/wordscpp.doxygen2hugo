@@ -42,3 +42,8 @@ options->set_IgnoreFootnotes(isIgnoreFootnotes);
 doc->get_Range()->Replace(u"Lorem ipsum", u"Replaced Lorem ipsum", options);
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

@@ -49,3 +49,8 @@ doc->get_FirstSection()->get_Body()->AppendChild(tag);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.XmlMapping.docx");
 ```
 
+## See Also
+
+* Class [XmlMapping](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

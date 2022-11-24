@@ -78,6 +78,11 @@ builder->Writeln(u"Text written in Times New Roman, to be substituted by Squaris
 doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 ```
 
+## See Also
+
+* Class [TableSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## TableSubstitutionRule::Load(const System::String\&) method
 
 
@@ -150,3 +155,8 @@ builder->Writeln(u"Text written in Times New Roman, to be substituted by Squaris
 doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 ```
 
+## See Also
+
+* Class [TableSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

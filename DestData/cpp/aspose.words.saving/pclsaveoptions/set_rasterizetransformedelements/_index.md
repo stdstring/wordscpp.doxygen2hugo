@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedEleme
 void Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements(bool value)
 ```
 
+## See Also
+
+* Class [PclSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

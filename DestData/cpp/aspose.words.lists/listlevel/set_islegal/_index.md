@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Lists::ListLevel::get_IsLegal](../get_islegal/).
 void Aspose::Words::Lists::ListLevel::set_IsLegal(bool value)
 ```
 
+## See Also
+
+* Class [ListLevel](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

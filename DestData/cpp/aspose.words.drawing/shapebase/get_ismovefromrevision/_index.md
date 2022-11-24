@@ -46,3 +46,8 @@ ASSERT_TRUE(shapes[1]->get_IsMoveFromRevision());
 ASSERT_FALSE(shapes[1]->get_IsMoveToRevision());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

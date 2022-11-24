@@ -50,3 +50,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.IMPORT.INCLUDEPICTURE.docx");
 ```
 
+## See Also
+
+* Class [FieldImport](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -64,3 +64,7 @@ enum class ShadowType
 | Shadow8 | 8 | Eighth shadow type. |
 | Shadow9 | 9 | Ninth shadow type. |
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

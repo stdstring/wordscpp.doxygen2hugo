@@ -71,3 +71,8 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(textBox);
 doc->Save(ArtifactsDir + u"Shape.CreateTextBox.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

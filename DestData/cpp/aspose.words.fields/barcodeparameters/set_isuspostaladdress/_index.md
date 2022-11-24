@@ -15,3 +15,8 @@ Whether [PostalAddress](../get_postaladdress/) is a U.S. postal address.
 void Aspose::Words::Fields::BarcodeParameters::set_IsUSPostalAddress(bool value)
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

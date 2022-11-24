@@ -58,3 +58,7 @@ builder->Writeln(u"Page3");
 doc->Save(ArtifactsDir + u"DocumentBuilder.HeadersAndFooters.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::WebExtensions::TaskPane::get_IsLocked](../get_islocke
 void Aspose::Words::WebExtensions::TaskPane::set_IsLocked(bool value)
 ```
 
+## See Also
+
+* Class [TaskPane](../)
+* Namespace [Aspose::Words::WebExtensions](../../)
+* Library [Aspose.Words](../../../)

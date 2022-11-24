@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ImportFormatOptions::get_MergePastedLists](../get_mer
 void Aspose::Words::ImportFormatOptions::set_MergePastedLists(bool value)
 ```
 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

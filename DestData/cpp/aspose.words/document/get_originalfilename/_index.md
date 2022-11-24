@@ -60,3 +60,8 @@ Shows how to use the [FileFormatUtil](../../fileformatutil/) methods to detect t
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

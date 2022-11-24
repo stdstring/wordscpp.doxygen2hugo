@@ -27,3 +27,8 @@ auto doc = MakeObject<Document>(MyDir + u"External XML schema.docx");
 doc->RemoveExternalSchemaReferences();
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

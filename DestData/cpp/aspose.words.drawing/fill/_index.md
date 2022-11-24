@@ -96,3 +96,7 @@ shape->get_Fill()->set_Opacity(0.3);
 doc->Save(ArtifactsDir + u"Shape.Fill.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

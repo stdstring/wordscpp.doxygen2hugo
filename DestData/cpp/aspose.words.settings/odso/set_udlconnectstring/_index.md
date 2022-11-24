@@ -15,3 +15,8 @@ Specifies the Universal Data Link (UDL) connection string used to connect to an 
 void Aspose::Words::Settings::Odso::set_UdlConnectString(const System::String &value)
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

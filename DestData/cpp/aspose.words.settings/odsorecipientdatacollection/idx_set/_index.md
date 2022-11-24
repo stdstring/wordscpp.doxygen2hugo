@@ -15,3 +15,8 @@ Gets or sets an item in this collection.
 void Aspose::Words::Settings::OdsoRecipientDataCollection::idx_set(int32_t index, const System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData> &value)
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

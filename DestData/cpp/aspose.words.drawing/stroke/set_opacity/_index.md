@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Stroke::get_Opacity](../get_opacity/).
 void Aspose::Words::Drawing::Stroke::set_Opacity(double value)
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

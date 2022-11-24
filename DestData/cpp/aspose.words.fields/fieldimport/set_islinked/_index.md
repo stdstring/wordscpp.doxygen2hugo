@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldImport::get_IsLinked](../get_islinked/).
 void Aspose::Words::Fields::FieldImport::set_IsLinked(bool value)
 ```
 
+## See Also
+
+* Class [FieldImport](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

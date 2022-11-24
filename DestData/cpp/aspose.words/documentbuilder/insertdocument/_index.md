@@ -43,6 +43,11 @@ builder->InsertDocument(docToInsert, ImportFormatMode::KeepSourceFormatting);
 builder->get_Document()->Save(ArtifactsDir + u"DocumentBuilder.InsertDocument.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
@@ -96,3 +101,8 @@ builder->InsertDocument(srcDoc, ImportFormatMode::KeepSourceFormatting, options)
 dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Border::get_DistanceFromText](../get_distancefromtext
 void Aspose::Words::Border::set_DistanceFromText(double value)
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

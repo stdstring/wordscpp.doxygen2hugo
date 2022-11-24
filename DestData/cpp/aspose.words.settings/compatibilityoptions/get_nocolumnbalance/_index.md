@@ -15,3 +15,8 @@ Do Not Balance Text Columns within a [Section](../../../aspose.words/section/).
 bool Aspose::Words::Settings::CompatibilityOptions::get_NoColumnBalance()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

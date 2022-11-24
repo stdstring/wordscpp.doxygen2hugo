@@ -15,3 +15,8 @@ Gets the paper tray (bin) for this page as specified in the document. The value 
 int32_t Aspose::Words::Rendering::PageInfo::get_PaperTray() const
 ```
 
+## See Also
+
+* Class [PageInfo](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

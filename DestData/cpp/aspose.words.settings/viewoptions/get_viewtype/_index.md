@@ -39,3 +39,8 @@ ASSERT_EQ(ZoomType::None, doc->get_ViewOptions()->get_ZoomType());
 doc->Save(ArtifactsDir + u"ViewOptions.SetZoomPercentage.doc");
 ```
 
+## See Also
+
+* Class [ViewOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

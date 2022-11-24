@@ -49,3 +49,8 @@ series3->get_Format()->get_Fill()->set_ForeColor(System::Drawing::Color::get_Blu
 doc->Save(ArtifactsDir + u"Charts.SeriesColor.docx");
 ```
 
+## See Also
+
+* Class [ChartSeries](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

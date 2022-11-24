@@ -15,3 +15,8 @@ Returns a deep clone of this object.
 System::SharedPtr<Aspose::Words::Settings::OdsoRecipientData> Aspose::Words::Settings::OdsoRecipientData::Clone()
 ```
 
+## See Also
+
+* Class [OdsoRecipientData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

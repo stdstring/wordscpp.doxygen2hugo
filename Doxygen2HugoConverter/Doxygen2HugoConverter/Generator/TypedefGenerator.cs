@@ -24,6 +24,7 @@ namespace Doxygen2HugoConverter.Generator
             builder.AppendLine();
             entity.GenerateTypedefDefinition(builder);
             entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder);
+            entity.GenerateSeeAlso(state, builder);
             File.AppendAllText(Path.Combine(typedefDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
@@ -48,6 +49,12 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine(entity.Definition.Trim());
             dest.AppendLine("```");
             dest.AppendLine();
+        }
+
+        private static void GenerateSeeAlso(this EntityDef.TypedefEntity entity, GenerateState state, StringBuilder dest)
+        {
+            GeneratorUtils.GenerateHeader("See Also", 2, dest);
+            entity.GenerateSeeAlsoCommonPart(state.CommonEntityRepo, dest);
         }
     }
 }

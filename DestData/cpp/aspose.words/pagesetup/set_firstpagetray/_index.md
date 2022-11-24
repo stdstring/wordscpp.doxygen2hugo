@@ -15,3 +15,8 @@ Sets the paper tray (bin) to use for the first page of a section. The value is i
 void Aspose::Words::PageSetup::set_FirstPageTray(int32_t value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_RelativeHorizontalPosition](.
 void Aspose::Words::Drawing::ShapeBase::set_RelativeHorizontalPosition(Aspose::Words::Drawing::RelativeHorizontalPosition value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Returns true if the current list and the given list are created from the same te
 bool Aspose::Words::Lists::List::HasSameTemplate(const System::SharedPtr<Aspose::Words::Lists::List> &other)
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

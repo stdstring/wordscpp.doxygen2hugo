@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::TxtSaveOptions::get_MaxCharactersPerLine](../
 void Aspose::Words::Saving::TxtSaveOptions::set_MaxCharactersPerLine(int32_t value)
 ```
 
+## See Also
+
+* Class [TxtSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

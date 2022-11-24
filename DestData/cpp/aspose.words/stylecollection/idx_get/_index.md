@@ -47,6 +47,11 @@ ASSERT_EQ(u"Courier New", styles->idx_get(4)->get_Font()->get_Name());
 ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_FirstLineIndent());
 ```
 
+## See Also
+
+* Class [StyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## StyleCollection::idx_get(const System::String\&) method
 
 
@@ -87,6 +92,11 @@ doc->UpdatePageLayout();
 doc->Save(ArtifactsDir + u"Document.UpdatePageLayout.2.pdf");
 ```
 
+## See Also
+
+* Class [StyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## StyleCollection::idx_get(int32_t) method
 
 
@@ -120,3 +130,8 @@ ASSERT_EQ(u"Courier New", styles->idx_get(4)->get_Font()->get_Name());
 ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_FirstLineIndent());
 ```
 
+## See Also
+
+* Class [StyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

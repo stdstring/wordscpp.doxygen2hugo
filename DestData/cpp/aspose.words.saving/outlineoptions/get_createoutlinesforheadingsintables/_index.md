@@ -63,3 +63,8 @@ pdfSaveOptions->get_OutlineOptions()->set_CreateOutlinesForHeadingsInTables(crea
 doc->Save(ArtifactsDir + u"PdfSaveOptions.TableHeadingOutlines.pdf", pdfSaveOptions);
 ```
 
+## See Also
+
+* Class [OutlineOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

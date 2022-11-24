@@ -58,3 +58,8 @@ builder->Writeln(String::Format(u"At a DPI of {0}, the text is now {1} points/{2
 doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndPixelsDpi.docx");
 ```
 
+## See Also
+
+* Class [ConvertUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

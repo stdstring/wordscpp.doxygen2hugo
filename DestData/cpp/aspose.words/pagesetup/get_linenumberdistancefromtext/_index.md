@@ -50,3 +50,8 @@ doc->get_FirstSection()->get_Body()->get_Paragraphs()->idx_get(14)->get_Paragrap
 doc->Save(ArtifactsDir + u"PageSetup.LineNumbers.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

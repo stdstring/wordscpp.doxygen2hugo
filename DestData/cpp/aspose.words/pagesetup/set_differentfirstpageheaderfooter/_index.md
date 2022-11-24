@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter](../get
 void Aspose::Words::PageSetup::set_DifferentFirstPageHeaderFooter(bool value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

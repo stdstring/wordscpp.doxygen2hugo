@@ -36,3 +36,8 @@ ASSERT_EQ(0, doc->GetChildNodes(NodeType::Any, true)->get_Count());
 ASSERT_EQ(String::Empty, doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [NodeCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Shape::get_Stroked](../get_stroked/).
 void Aspose::Words::Drawing::Shape::set_Stroked(bool value)
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

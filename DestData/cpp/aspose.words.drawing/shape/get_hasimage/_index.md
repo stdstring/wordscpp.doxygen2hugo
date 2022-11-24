@@ -64,3 +64,8 @@ for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape
 ASSERT_EQ(0, shapes->LINQ_OfType<SharedPtr<Shape>>()->LINQ_Count([](SharedPtr<Shape> s) { return s->get_HasImage(); }));
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

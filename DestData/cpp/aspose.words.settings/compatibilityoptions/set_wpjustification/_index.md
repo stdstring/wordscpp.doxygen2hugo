@@ -15,3 +15,8 @@ Emulate WordPerfect 6.x [Paragraph](../../../aspose.words/paragraph/) Justificat
 void Aspose::Words::Settings::CompatibilityOptions::set_WPJustification(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

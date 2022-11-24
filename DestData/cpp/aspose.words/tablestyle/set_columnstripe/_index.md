@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TableStyle::get_ColumnStripe](../get_columnstripe/).
 void Aspose::Words::TableStyle::set_ColumnStripe(int32_t value)
 ```
 
+## See Also
+
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

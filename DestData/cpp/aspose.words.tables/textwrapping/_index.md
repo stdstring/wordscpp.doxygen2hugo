@@ -53,3 +53,7 @@ table->set_AbsoluteVerticalDistance(20);
 doc->Save(ArtifactsDir + u"Table.WrapText.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Tables](../)
+* Library [Aspose.Words](../../)

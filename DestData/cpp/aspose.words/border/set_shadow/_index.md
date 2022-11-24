@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Border::get_Shadow](../get_shadow/).
 void Aspose::Words::Border::set_Shadow(bool value)
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

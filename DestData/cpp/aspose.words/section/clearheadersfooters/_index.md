@@ -54,3 +54,8 @@ ASSERT_EQ(String::Empty, doc->get_FirstSection()->get_HeadersFooters()->idx_get(
 ASSERT_EQ(String::Empty, doc->get_FirstSection()->get_HeadersFooters()->idx_get(HeaderFooterType::FooterPrimary)->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

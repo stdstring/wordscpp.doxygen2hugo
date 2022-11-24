@@ -34,3 +34,8 @@ ASSERT_NEAR(optimizeOutput ? 62470 : 191726,
             MakeObject<System::IO::FileInfo>(ArtifactsDir + u"HtmlFixedSaveOptions.OptimizeGraphicsOutput.html")->get_Length(), 200);
 ```
 
+## See Also
+
+* Class [HtmlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

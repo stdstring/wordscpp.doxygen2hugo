@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder](../get_r
 void Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder(const System::String &value)
 ```
 
+## See Also
+
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

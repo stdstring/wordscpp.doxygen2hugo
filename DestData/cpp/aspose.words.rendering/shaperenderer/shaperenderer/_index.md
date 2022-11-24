@@ -20,3 +20,8 @@ Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer(const System::SharedPtr<A
 | --- | --- | --- |
 | shape | const System::SharedPtr\<Aspose::Words::Drawing::ShapeBase\>\& | The DrawinML shape object that you want to render. |
 
+## See Also
+
+* Class [ShapeRenderer](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

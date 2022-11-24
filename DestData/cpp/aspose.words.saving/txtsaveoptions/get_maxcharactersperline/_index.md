@@ -35,3 +35,8 @@ saveOptions->set_MaxCharactersPerLine(30);
 doc->Save(ArtifactsDir + u"TxtSaveOptions.MaxCharactersPerLine.txt", saveOptions);
 ```
 
+## See Also
+
+* Class [TxtSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

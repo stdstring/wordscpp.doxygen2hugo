@@ -57,3 +57,8 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 }
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -33,3 +33,8 @@ auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocumen
 ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -37,3 +37,8 @@ doc->set_PageColor(System::Drawing::Color::get_LightGray());
 doc->Save(ArtifactsDir + u"DocumentBase.SetPageColor.docx");
 ```
 
+## See Also
+
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

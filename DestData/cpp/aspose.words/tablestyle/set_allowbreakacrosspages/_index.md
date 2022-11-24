@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TableStyle::get_AllowBreakAcrossPages](../get_allowbr
 void Aspose::Words::TableStyle::set_AllowBreakAcrossPages(bool value)
 ```
 
+## See Also
+
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

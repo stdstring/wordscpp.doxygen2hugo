@@ -47,3 +47,8 @@ pageSetup->set_Bidi(reverseColumns);
 doc->Save(ArtifactsDir + u"PageSetup.Bidi.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

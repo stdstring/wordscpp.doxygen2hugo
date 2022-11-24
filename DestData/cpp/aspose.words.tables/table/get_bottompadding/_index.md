@@ -43,3 +43,8 @@ table->set_PreferredWidth(PreferredWidth::FromPoints(250));
 doc->Save(ArtifactsDir + u"DocumentBuilder.SetRowFormatting.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -32,3 +32,8 @@ ASPOSE_ASSERT_EQ(17.3, table->get_DistanceLeft());
 ASPOSE_ASSERT_EQ(17.3, table->get_DistanceRight());
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::CellFormat::get_PreferredWidth](../get_prefer
 void Aspose::Words::Tables::CellFormat::set_PreferredWidth(const System::SharedPtr<Aspose::Words::Tables::PreferredWidth> &value)
 ```
 
+## See Also
+
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsBitmap](../get_insertas
 void Aspose::Words::Fields::FieldDde::set_InsertAsBitmap(bool value)
 ```
 
+## See Also
+
+* Class [FieldDde](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

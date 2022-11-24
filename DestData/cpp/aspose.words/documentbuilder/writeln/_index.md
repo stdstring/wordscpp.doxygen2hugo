@@ -19,6 +19,11 @@ void Aspose::Words::DocumentBuilder::Writeln()
 
 
 Calls [InsertParagraph](../insertparagraph/). 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::Writeln(const System::String\&) method
 
 
@@ -105,3 +110,8 @@ ASSERT_EQ(TextOrientation::Downward, table->get_Rows()->idx_get(1)->get_Cells()-
 doc->Save(ArtifactsDir + u"DocumentBuilder.BuildTable.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

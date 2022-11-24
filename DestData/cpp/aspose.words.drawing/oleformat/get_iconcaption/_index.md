@@ -69,3 +69,8 @@ doc->Save(ArtifactsDir + u"Shape.OleLinks.docx");
 }
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

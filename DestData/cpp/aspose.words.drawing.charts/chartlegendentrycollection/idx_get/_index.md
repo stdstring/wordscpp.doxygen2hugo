@@ -15,3 +15,8 @@ Returns [ChartLegendEntry](../../chartlegendentry/) for the specified index.
 System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry> Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::idx_get(int32_t index)
 ```
 
+## See Also
+
+* Class [ChartLegendEntryCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

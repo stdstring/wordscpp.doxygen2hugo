@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes](../get_igno
 void Aspose::Words::ImportFormatOptions::set_IgnoreTextBoxes(bool value)
 ```
 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

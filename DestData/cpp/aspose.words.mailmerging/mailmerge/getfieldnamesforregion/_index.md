@@ -81,6 +81,11 @@ mergeFieldNames = doc->get_MailMerge()->GetFieldNamesForRegion(u"MailMergeRegion
 ASSERT_EQ(u"Column2", mergeFieldNames[0]);
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)
 ## MailMerge::GetFieldNamesForRegion(const System::String\&, int32_t) method
 
 
@@ -157,3 +162,8 @@ mergeFieldNames = doc->get_MailMerge()->GetFieldNamesForRegion(u"MailMergeRegion
 ASSERT_EQ(u"Column2", mergeFieldNames[0]);
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

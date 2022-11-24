@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::Footnote::get_ReferenceMark](../get_referencem
 void Aspose::Words::Notes::Footnote::set_ReferenceMark(const System::String &value)
 ```
 
+## See Also
+
+* Class [Footnote](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

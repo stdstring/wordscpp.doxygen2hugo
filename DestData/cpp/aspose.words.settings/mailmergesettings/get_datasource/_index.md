@@ -15,3 +15,8 @@ Specifies the path to the mail-merge data source. The default value is an empty 
 System::String Aspose::Words::Settings::MailMergeSettings::get_DataSource() const
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

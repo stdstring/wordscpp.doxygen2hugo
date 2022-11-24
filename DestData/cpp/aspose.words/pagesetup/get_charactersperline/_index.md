@@ -45,3 +45,8 @@ builder->Writeln(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
 doc->Save(ArtifactsDir + u"PageSetup.CharactersPerLine.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

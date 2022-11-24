@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen](../
 void Aspose::Words::Saving::ImageSavingArgs::set_KeepImageStreamOpen(bool value)
 ```
 
+## See Also
+
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportImagesAsBase64](..
 void Aspose::Words::Saving::HtmlSaveOptions::set_ExportImagesAsBase64(bool value)
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

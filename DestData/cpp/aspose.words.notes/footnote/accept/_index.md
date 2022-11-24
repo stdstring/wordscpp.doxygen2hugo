@@ -108,3 +108,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Footnote](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

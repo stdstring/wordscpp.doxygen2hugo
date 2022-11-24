@@ -96,3 +96,7 @@ doc->set_GlossaryDocument(glossaryDoc);
 ASPOSE_ASSERT_EQ(System::ObjectExt::GetType<DocumentBase>(), System::ObjectExt::GetType(glossaryDoc).get_BaseType());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

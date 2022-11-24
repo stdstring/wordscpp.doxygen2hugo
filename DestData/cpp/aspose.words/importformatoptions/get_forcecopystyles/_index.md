@@ -23,3 +23,8 @@ By default, if a matching style already exists in a destination document, the so
 When this option is set to **true**, the source style will be forcibly copied into destination document with unique name and applied to the imported node.
 
 Note, in this case it is not guaranteed that formatting of the imported node in destination document will be preserved. 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

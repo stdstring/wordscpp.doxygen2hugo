@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextBox::get_LayoutFlow](../get_layoutflow/)
 void Aspose::Words::Drawing::TextBox::set_LayoutFlow(Aspose::Words::Drawing::LayoutFlow value)
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

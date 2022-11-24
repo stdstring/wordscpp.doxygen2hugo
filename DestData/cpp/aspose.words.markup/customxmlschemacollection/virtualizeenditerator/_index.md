@@ -15,3 +15,8 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/virtualizeenditerator/
 virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Class [CustomXmlSchemaCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

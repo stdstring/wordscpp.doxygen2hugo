@@ -56,3 +56,8 @@ for (SharedPtr<Paragraph> para : doc->get_FirstSection()->get_Body()->get_Paragr
 ASSERT_FALSE(doc->GetText().Contains(u"The third paragraph"));
 ```
 
+## See Also
+
+* Class [ParagraphCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

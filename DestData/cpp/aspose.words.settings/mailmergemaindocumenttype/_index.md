@@ -29,3 +29,7 @@ enum class MailMergeMainDocumentType
 | Default | n/a | Equals to **NotAMergeDocument** |
 
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

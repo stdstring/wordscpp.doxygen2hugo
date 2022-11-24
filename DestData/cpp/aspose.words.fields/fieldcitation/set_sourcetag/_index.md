@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldCitation::get_SourceTag](../get_sourceta
 void Aspose::Words::Fields::FieldCitation::set_SourceTag(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldCitation](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

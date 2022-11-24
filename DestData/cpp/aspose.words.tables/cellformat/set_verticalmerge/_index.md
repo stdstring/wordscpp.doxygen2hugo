@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::CellFormat::get_VerticalMerge](../get_vertica
 void Aspose::Words::Tables::CellFormat::set_VerticalMerge(Aspose::Words::Tables::CellMerge value)
 ```
 
+## See Also
+
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

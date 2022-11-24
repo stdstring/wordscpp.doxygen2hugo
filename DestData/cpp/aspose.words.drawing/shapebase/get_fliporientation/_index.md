@@ -63,3 +63,8 @@ shape->set_FlipOrientation(FlipOrientation::Both);
 doc->Save(ArtifactsDir + u"Shape.FlipShapeOrientation.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

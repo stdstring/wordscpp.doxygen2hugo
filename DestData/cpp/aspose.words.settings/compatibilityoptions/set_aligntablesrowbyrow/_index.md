@@ -15,3 +15,8 @@ Align Table Rows Independently.
 void Aspose::Words::Settings::CompatibilityOptions::set_AlignTablesRowByRow(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

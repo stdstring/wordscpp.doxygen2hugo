@@ -30,3 +30,7 @@ A legend entry corresponds to a specific chart series or trendline.
 
 The text of the entry is the name of the series or trendline. The text cannot be changed.
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing::Charts](../)
+* Library [Aspose.Words](../../)

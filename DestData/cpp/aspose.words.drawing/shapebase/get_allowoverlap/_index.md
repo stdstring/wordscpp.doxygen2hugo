@@ -50,3 +50,8 @@ if (table->get_TextWrapping() == TextWrapping::Around)
 }
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

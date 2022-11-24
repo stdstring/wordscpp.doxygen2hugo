@@ -15,3 +15,8 @@ Specifies if a given mail merge field has been mapped to a column in the given e
 Aspose::Words::Settings::OdsoFieldMappingType Aspose::Words::Settings::OdsoFieldMapData::get_Type() const
 ```
 
+## See Also
+
+* Class [OdsoFieldMapData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

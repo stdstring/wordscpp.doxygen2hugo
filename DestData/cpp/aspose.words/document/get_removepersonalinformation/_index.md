@@ -48,3 +48,8 @@ ASSERT_EQ(u"Placeholder Inc.", doc->get_BuiltInDocumentProperties()->get_Company
 ASSERT_EQ(u"John Doe", doc->get_Revisions()->idx_get(0)->get_Author());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

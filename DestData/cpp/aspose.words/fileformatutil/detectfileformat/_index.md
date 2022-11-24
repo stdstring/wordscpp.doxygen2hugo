@@ -65,6 +65,11 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 }
 ```
 
+## See Also
+
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## FileFormatUtil::DetectFileFormat(const System::String\&) method
 
 
@@ -134,6 +139,11 @@ ASSERT_TRUE(info->get_HasDigitalSignature());
 ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDigitalSignatures.docx")->get_Count());
 ```
 
+## See Also
+
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## FileFormatUtil::DetectFileFormat(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -143,3 +153,8 @@ ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDi
 template<typename CharType,typename Traits> static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileFormatUtil::DetectFileFormat(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

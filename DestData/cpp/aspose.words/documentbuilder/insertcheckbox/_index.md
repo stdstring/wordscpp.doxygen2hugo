@@ -58,6 +58,11 @@ ASSERT_EQ(u"CheckBox_OnlyChecked", doc->get_Range()->get_FormFields()->idx_get(2
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCheckBox.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertCheckBox(const System::String\&, bool, bool, int32_t) method
 
 
@@ -111,3 +116,8 @@ ASSERT_EQ(u"CheckBox_OnlyChecked", doc->get_Range()->get_FormFields()->idx_get(2
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCheckBox.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

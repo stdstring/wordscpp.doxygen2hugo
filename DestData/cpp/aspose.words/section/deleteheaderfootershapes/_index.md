@@ -47,3 +47,8 @@ ASSERT_EQ(0,
           doc->get_FirstSection()->get_HeadersFooters()->idx_get(HeaderFooterType::FooterPrimary)->GetChildNodes(NodeType::Shape, true)->get_Count());
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

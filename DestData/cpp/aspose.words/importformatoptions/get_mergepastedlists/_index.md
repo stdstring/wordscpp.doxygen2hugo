@@ -34,3 +34,8 @@ dstDoc->AppendDocument(srcDoc, ImportFormatMode::UseDestinationStyles, options);
 dstDoc->Save(ArtifactsDir + u"Document.MergePastedLists.docx");
 ```
 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

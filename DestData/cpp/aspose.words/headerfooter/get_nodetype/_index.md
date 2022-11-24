@@ -62,3 +62,8 @@ for (const auto& node : System::IterateOver(section))
 }
 ```
 
+## See Also
+
+* Class [HeaderFooter](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

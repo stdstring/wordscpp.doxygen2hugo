@@ -53,3 +53,8 @@ shape->set_AnchorLocked(anchorLocked);
 doc->Save(ArtifactsDir + u"Shape.AnchorLocked.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

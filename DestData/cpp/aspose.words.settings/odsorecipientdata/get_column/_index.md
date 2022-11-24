@@ -15,3 +15,8 @@ Specifies the column within the data source that contains unique data for the cu
 int32_t Aspose::Words::Settings::OdsoRecipientData::get_Column() const
 ```
 
+## See Also
+
+* Class [OdsoRecipientData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

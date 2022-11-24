@@ -42,3 +42,8 @@ doc->Save(ArtifactsDir + u"Shape.AltText.html");
 System::IO::File::Delete(ArtifactsDir + u"Shape.AltText.001.png");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

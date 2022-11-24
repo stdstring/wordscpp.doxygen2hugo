@@ -34,3 +34,8 @@ pageSetup->get_Borders()->set_Shadow(true);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorders.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -51,3 +51,8 @@ builder->Writeln(u"Wide column 2.");
 doc->Save(ArtifactsDir + u"PageSetup.CustomColumnWidth.docx");
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfEncryptionDetails::get_Permissions](../get
 void Aspose::Words::Saving::PdfEncryptionDetails::set_Permissions(Aspose::Words::Saving::PdfPermissions value)
 ```
 
+## See Also
+
+* Class [PdfEncryptionDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

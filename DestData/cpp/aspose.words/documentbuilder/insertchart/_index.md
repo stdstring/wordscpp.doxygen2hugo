@@ -49,6 +49,11 @@ builder->InsertChart(ChartType::Pie, RelativeHorizontalPosition::Margin, 100, Re
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertedChartRelativePosition.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertChart(Aspose::Words::Drawing::Charts::ChartType, double, double) method
 
 
@@ -89,3 +94,8 @@ chart->get_Series()->Add(u"My fruit", MakeArray<String>({u"Apples", u"Bananas", 
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertPieChart.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

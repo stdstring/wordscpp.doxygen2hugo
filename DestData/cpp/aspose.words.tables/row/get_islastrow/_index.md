@@ -43,3 +43,8 @@ for (const auto& cell : System::IterateOver(table->GetChildNodes(NodeType::Cell,
 doc->Save(ArtifactsDir + u"Table.KeepTableTogether.docx");
 ```
 
+## See Also
+
+* Class [Row](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

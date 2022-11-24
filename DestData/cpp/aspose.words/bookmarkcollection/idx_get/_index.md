@@ -105,6 +105,11 @@ public:
 };
 ```
 
+## See Also
+
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## BookmarkCollection::idx_get(int32_t) method
 
 
@@ -210,3 +215,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

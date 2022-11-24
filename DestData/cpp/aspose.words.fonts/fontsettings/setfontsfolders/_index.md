@@ -87,3 +87,8 @@ doc->Save(ArtifactsDir + u"FontSettings.SetFontsFolders.pdf");
 FontSettings::get_DefaultInstance()->SetFontsSources(originalFontSources);
 ```
 
+## See Also
+
+* Class [FontSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

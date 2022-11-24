@@ -61,3 +61,8 @@ doc->Save(ArtifactsDir + u"HtmlSaveOptions.ScaleImageToShapeSize.html", options)
 auto fileInfo = MakeObject<System::IO::FileInfo>(ArtifactsDir + u"HtmlSaveOptions.ScaleImageToShapeSize.001.png");
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

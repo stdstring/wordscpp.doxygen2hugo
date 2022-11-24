@@ -43,3 +43,8 @@ builder->Write(u"Text placed according to textbox margins.");
 doc->Save(ArtifactsDir + u"Shape.TextBoxMargins.docx");
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

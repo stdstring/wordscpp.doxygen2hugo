@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAutoTextList::get_ListStyle](../get_list
 void Aspose::Words::Fields::FieldAutoTextList::set_ListStyle(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAutoTextList](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

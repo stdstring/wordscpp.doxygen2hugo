@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TableStyle::get_LeftIndent](../get_leftindent/).
 void Aspose::Words::TableStyle::set_LeftIndent(double value)
 ```
 
+## See Also
+
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -27,3 +27,7 @@ enum class TextEffect
 | MarchingRedAnts | 5 |  |
 | Shimmer | 6 |  |
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

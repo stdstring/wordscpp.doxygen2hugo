@@ -15,3 +15,8 @@ Gets the height of the symbol. The units are in TWIPS (1/1440 inch).
 System::String Aspose::Words::Fields::FieldMergeBarcode::get_SymbolHeight()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

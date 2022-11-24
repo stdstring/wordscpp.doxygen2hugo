@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Shading::get_ForegroundPatternColor](../get_foregroun
 void Aspose::Words::Shading::set_ForegroundPatternColor(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [Shading](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -71,3 +71,8 @@ pageSetup->set_PageNumberStyle(NumberStyle::Arabic);
 doc->Save(ArtifactsDir + u"PageSetup.PageNumbering.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

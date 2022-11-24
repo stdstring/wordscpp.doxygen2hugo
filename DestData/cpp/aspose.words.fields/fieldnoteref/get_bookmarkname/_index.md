@@ -77,3 +77,8 @@ static void InsertBookmarkWithFootnote(SharedPtr<DocumentBuilder> builder, Strin
 }
 ```
 
+## See Also
+
+* Class [FieldNoteRef](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

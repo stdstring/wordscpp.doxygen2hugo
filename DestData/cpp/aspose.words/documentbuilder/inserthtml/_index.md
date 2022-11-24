@@ -103,6 +103,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertHtml(const System::String\&, Aspose::Words::HtmlInsertOptions) method
 
 
@@ -144,6 +149,11 @@ builder->InsertHtml(u"<p>jsmith@example.com</p>", HtmlInsertOptions::UseBuilderF
 doc->Save(ArtifactsDir + u"MailMerge.RemoveLastEmptyParagraph.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertHtml(const System::String\&, bool) method
 
 
@@ -196,3 +206,8 @@ ASSERT_EQ(useBuilderFormatting ? ParagraphAlignment::Distributed : ParagraphAlig
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHtmlWithFormatting.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

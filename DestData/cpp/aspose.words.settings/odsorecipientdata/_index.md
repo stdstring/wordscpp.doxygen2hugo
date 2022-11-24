@@ -33,3 +33,7 @@ class OdsoRecipientData : public System::Object
 
 
 If a record shall be merged into a merged document, then no information is needed about that record. However, if a given record shall not be merged into a merged document, then the value of the unique key for that record shall be stored in the [UniqueTag](./get_uniquetag/) property of this object to indicate this exclusion. 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

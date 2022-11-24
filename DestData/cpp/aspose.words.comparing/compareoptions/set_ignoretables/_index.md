@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreTables](../get_i
 void Aspose::Words::Comparing::CompareOptions::set_IgnoreTables(bool value)
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod](..
 void Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod(bool value)
 ```
 
+## See Also
+
+* Class [FieldAutoNumLgl](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

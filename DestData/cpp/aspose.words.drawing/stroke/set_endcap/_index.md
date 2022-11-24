@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Stroke::get_EndCap](../get_endcap/).
 void Aspose::Words::Drawing::Stroke::set_EndCap(Aspose::Words::Drawing::EndCap value)
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

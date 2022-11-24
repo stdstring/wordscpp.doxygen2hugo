@@ -46,6 +46,11 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.CreateWithFieldBuilder.docx");
 ```
 
+## See Also
+
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## FieldBuilder::BuildAndInsert(const System::SharedPtr\<Aspose::Words::Paragraph\>\&) method
 
 
@@ -142,3 +147,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

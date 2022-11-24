@@ -49,3 +49,8 @@ saveOptions->get_MetafileRenderingOptions()->set_ScaleWmfFontsToMetafileSize(sca
 doc->Save(ArtifactsDir + u"PdfSaveOptions.FontsScaledToMetafileSize.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [MetafileRenderingOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

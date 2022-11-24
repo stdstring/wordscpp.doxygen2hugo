@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPai
 void Aspose::Words::Properties::BuiltInDocumentProperties::set_HeadingPairs(const System::ArrayPtr<System::SharedPtr<System::Object>> &value)
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

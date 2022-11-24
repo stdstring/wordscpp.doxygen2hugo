@@ -36,3 +36,8 @@ ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ASSERT_EQ(u"John Doe", plaintext->get_BuiltInDocumentProperties()->get_Author());
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

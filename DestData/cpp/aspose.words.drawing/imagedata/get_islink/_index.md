@@ -77,3 +77,8 @@ importedShape->get_ImageData()->set_CropRight(0.3);
 dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

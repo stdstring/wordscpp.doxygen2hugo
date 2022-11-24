@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_Italic](../get_italic/).
 void Aspose::Words::Drawing::TextPath::set_Italic(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

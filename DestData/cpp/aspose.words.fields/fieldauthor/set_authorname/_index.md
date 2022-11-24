@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAuthor::get_AuthorName](../get_authornam
 void Aspose::Words::Fields::FieldAuthor::set_AuthorName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAuthor](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

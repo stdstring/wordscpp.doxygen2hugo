@@ -42,3 +42,8 @@ SharedPtr<RevisionGroupCollection> groups = docA->get_Revisions()->get_Groups();
 ASSERT_EQ(5, groups->get_Count());
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

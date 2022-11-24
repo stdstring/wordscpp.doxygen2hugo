@@ -15,3 +15,8 @@ Do Not Snap to [Document](../../../aspose.words/document/) Grid in Table Cells w
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotSnapToGridInCell()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

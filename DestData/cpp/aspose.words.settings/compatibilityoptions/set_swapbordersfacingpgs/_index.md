@@ -15,3 +15,8 @@ Swap [Paragraph](../../../aspose.words/paragraph/) Borders on Odd Numbered Pages
 void Aspose::Words::Settings::CompatibilityOptions::set_SwapBordersFacingPgs(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

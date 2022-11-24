@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat](../get_m
 void Aspose::Words::Saving::HtmlSaveOptions::set_MetafileFormat(Aspose::Words::Saving::HtmlMetafileFormat value)
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

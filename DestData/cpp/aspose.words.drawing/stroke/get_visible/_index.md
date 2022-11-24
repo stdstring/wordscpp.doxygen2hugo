@@ -52,3 +52,8 @@ dataPoints->idx_get(3)->get_Marker()->get_Format()->get_Stroke()->set_Transparen
 doc->Save(ArtifactsDir + u"Charts.MarkerFormatting.docx");
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

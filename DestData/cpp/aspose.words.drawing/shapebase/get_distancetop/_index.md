@@ -54,3 +54,8 @@ builder->Write(String(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 doc->Save(ArtifactsDir + u"Shape.Coordinates.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

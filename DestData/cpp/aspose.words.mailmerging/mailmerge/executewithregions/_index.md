@@ -294,6 +294,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)
 ## MailMerge::ExecuteWithRegions(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSourceRoot\>\&) method
 
 
@@ -481,3 +486,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

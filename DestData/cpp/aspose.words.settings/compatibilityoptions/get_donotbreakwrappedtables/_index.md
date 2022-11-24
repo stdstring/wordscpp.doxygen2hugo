@@ -15,3 +15,8 @@ Do Not Allow Floating [Tables](../../../aspose.words.tables/) To Break Across Pa
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotBreakWrappedTables()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

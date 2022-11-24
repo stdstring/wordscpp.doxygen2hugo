@@ -15,3 +15,8 @@ Scaling factor for the symbol. The value is in whole percentage points and the v
 System::String Aspose::Words::Fields::BarcodeParameters::get_ScalingFactor() const
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

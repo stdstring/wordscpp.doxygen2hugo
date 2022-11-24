@@ -48,3 +48,8 @@ endnoteOptions->set_StartNumber(1);
 doc->Save(ArtifactsDir + u"PageSetup.FootnoteOptions.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -70,3 +70,8 @@ ASSERT_EQ(DocumentSecurity::ReadOnlyExceptAnnotations,
               ->get_Security());
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

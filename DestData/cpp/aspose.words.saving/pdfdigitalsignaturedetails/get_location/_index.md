@@ -45,3 +45,8 @@ ASSERT_EQ(signingTime.ToUniversalTime(), options->get_DigitalSignatureDetails()-
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignature.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

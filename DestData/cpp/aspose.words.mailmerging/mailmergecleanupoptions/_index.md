@@ -27,3 +27,7 @@ enum class MailMergeCleanupOptions
 | RemoveStaticFields | 16 | Specifies whether static fields should be removed from the document. Static fields are fields, which results remain the same upon any document change. [Fields](../../aspose.words.fields/), which do not store their results in a document and are calculated on the fly (like **FieldListNum**, **FieldSymbol**, etc.) are not considered to be static. |
 | RemoveEmptyTableRows | 32 | Specifies whether empty rows that contain mail merge regions should be removed from the document. |
 
+## See Also
+
+* Namespace [Aspose::Words::MailMerging](../)
+* Library [Aspose.Words](../../)

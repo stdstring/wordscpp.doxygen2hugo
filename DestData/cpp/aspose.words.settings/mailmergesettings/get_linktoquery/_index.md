@@ -15,3 +15,8 @@ Not sure about this one. The Microsoft Word Automation Reference suggests that t
 bool Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery() const
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

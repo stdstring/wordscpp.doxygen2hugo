@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextBox::get_FitShapeToText](../get_fitshape
 void Aspose::Words::Drawing::TextBox::set_FitShapeToText(bool value)
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

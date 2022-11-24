@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Document::get_AttachedTemplate](../get_attachedtempla
 void Aspose::Words::Document::set_AttachedTemplate(const System::String &value)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -68,3 +68,8 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(group);
 doc->Save(ArtifactsDir + u"Shape.LocalToParent.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

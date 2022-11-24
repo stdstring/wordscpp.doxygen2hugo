@@ -64,6 +64,11 @@ dstDoc->AppendChild(importedSection);
 ASSERT_EQ(u"Destination document first paragraph text.\r\nSource document first paragraph text.\r\n", dstDoc->ToString(SaveFormat::Text));
 ```
 
+## See Also
+
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBase::ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool, Aspose::Words::ImportFormatMode) method
 
 
@@ -130,3 +135,8 @@ ASSERT_EQ(dstStyle->get_Font()->get_Name(), dstDoc->get_Styles()->idx_get(u"My s
 ASSERT_EQ(srcStyle->get_Font()->get_Name(), dstDoc->get_Styles()->idx_get(u"My style_0")->get_Font()->get_Name());
 ```
 
+## See Also
+
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

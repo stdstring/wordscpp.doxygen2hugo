@@ -48,3 +48,8 @@ ASSERT_FALSE(borders->idx_get(0)->get_IsVisible());
 doc->Save(ArtifactsDir + u"Border.ClearFormatting.docx");
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

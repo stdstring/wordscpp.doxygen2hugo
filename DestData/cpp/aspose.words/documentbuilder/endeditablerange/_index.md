@@ -70,6 +70,11 @@ doc->Save(ArtifactsDir + u"EditableRange.CreateAndRemove.docx");
 editableRange->Remove();
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::EndEditableRange(const System::SharedPtr\<Aspose::Words::EditableRangeStart\>\&) method
 
 
@@ -135,3 +140,8 @@ innerEditableRangeStart->get_EditableRange()->set_EditorGroup(EditorType::Contri
 doc->Save(ArtifactsDir + u"EditableRange.Nested.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ImageData::get_GrayScale](../get_grayscale/)
 void Aspose::Words::Drawing::ImageData::set_GrayScale(bool value)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAutoText::get_EntryName](../get_entrynam
 void Aspose::Words::Fields::FieldAutoText::set_EntryName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAutoText](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -56,6 +56,11 @@ doc->Cleanup();
 ASSERT_EQ(4, doc->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Cleanup(const System::SharedPtr\<Aspose::Words::CleanupOptions\>\&) method
 
 
@@ -113,3 +118,8 @@ doc->Cleanup(cleanupOptions);
 ASSERT_EQ(2, doc->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

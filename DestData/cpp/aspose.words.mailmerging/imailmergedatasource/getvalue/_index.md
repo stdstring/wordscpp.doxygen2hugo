@@ -15,3 +15,8 @@ url: /cpp/aspose.words.mailmerging/imailmergedatasource/getvalue/
 virtual bool Aspose::Words::MailMerging::IMailMergeDataSource::GetValue(System::String fieldName, System::SharedPtr<System::Object> &fieldValue)=0
 ```
 
+## See Also
+
+* Class [IMailMergeDataSource](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

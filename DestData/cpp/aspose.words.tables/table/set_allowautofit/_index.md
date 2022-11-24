@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_AllowAutoFit](../get_allowautofit/
 void Aspose::Words::Tables::Table::set_AllowAutoFit(bool value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

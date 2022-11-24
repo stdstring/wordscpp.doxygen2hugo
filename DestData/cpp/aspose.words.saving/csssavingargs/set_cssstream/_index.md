@@ -15,6 +15,11 @@ Setter for [Aspose::Words::Saving::CssSavingArgs::get_CssStream](../get_cssstrea
 void Aspose::Words::Saving::CssSavingArgs::set_CssStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
+## See Also
+
+* Class [CssSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## CssSavingArgs::set_CssStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -24,3 +29,8 @@ void Aspose::Words::Saving::CssSavingArgs::set_CssStream(const System::SharedPtr
 template<typename CharType,typename Traits> void Aspose::Words::Saving::CssSavingArgs::set_CssStream(std::basic_ostream<CharType, Traits> &value)
 ```
 
+## See Also
+
+* Class [CssSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

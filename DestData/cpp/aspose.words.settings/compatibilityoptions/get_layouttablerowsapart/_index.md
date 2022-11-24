@@ -15,3 +15,8 @@ Allow Table Rows to Wrap [Inline](../../../aspose.words/inline/) Objects Indepen
 bool Aspose::Words::Settings::CompatibilityOptions::get_LayoutTableRowsApart()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

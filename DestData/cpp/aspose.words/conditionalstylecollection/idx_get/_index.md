@@ -89,6 +89,11 @@ table->set_StyleOptions(table->get_StyleOptions() | TableStyleOptions::LastRow |
 doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 ```
 
+## See Also
+
+* Class [ConditionalStyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## ConditionalStyleCollection::idx_get(int32_t) method
 
 
@@ -176,3 +181,8 @@ table->set_StyleOptions(table->get_StyleOptions() | TableStyleOptions::LastRow |
 doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 ```
 
+## See Also
+
+* Class [ConditionalStyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

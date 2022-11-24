@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::OleFormat::get_AutoUpdate](../get_autoupdate
 void Aspose::Words::Drawing::OleFormat::set_AutoUpdate(bool value)
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

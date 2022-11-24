@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape](..
 void Aspose::Words::Settings::ViewOptions::set_DisplayBackgroundShape(bool value)
 ```
 
+## See Also
+
+* Class [ViewOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

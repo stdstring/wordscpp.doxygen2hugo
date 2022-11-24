@@ -79,3 +79,7 @@ class MarkdownSaveOptions : public Aspose::Words::Saving::TxtSaveOptionsBase
 | [set_UseAntiAliasing](../saveoptions/set_useantialiasing/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing](../saveoptions/get_useantialiasing/). |
 | [set_UseHighQualityRendering](../saveoptions/set_usehighqualityrendering/)(bool) | Setter for [Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering](../saveoptions/get_usehighqualityrendering/). |
 | [TxtSaveOptionsBase](../txtsaveoptionsbase/txtsaveoptionsbase/)() |  |
+## See Also
+
+* Namespace [Aspose::Words::Saving](../)
+* Library [Aspose.Words](../../)

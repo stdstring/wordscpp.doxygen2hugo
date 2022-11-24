@@ -15,3 +15,8 @@ Returns [Node](../../../aspose.words/node/) object that implements this interfac
 virtual System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::IStructuredDocumentTag::StructuredDocumentTagNode()=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

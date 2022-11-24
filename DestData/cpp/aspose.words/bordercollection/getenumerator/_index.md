@@ -45,3 +45,8 @@ builder->Writeln(u"Hello world!");
 doc->Save(ArtifactsDir + u"BorderCollection.GetBordersEnumerator.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

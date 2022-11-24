@@ -54,6 +54,11 @@ builder->Writeln(u"Start\tTab 1\tTab 2\tTab 3\tTab 4");
 doc->Save(ArtifactsDir + u"TabStopCollection.AddTabStops.docx");
 ```
 
+## See Also
+
+* Class [TabStopCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## TabStopCollection::Add(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
 
 
@@ -104,3 +109,8 @@ builder->Writeln(u"Start\tTab 1\tTab 2\tTab 3\tTab 4");
 doc->Save(ArtifactsDir + u"TabStopCollection.AddTabStops.docx");
 ```
 
+## See Also
+
+* Class [TabStopCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

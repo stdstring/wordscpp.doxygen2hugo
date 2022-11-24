@@ -53,3 +53,8 @@ builder->InsertNode(tag);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.IsTemporary.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

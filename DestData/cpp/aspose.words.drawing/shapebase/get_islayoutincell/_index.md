@@ -65,3 +65,8 @@ shape->set_WrapType(WrapType::None);
 doc->Save(ArtifactsDir + u"Shape.LayoutInTableCell.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

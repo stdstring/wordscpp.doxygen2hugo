@@ -15,3 +15,8 @@ Setter for [Aspose::Words::WebExtensions::TaskPane::get_DockState](../get_dockst
 void Aspose::Words::WebExtensions::TaskPane::set_DockState(Aspose::Words::WebExtensions::TaskPaneDockState value)
 ```
 
+## See Also
+
+* Class [TaskPane](../)
+* Namespace [Aspose::Words::WebExtensions](../../)
+* Library [Aspose.Words](../../../)

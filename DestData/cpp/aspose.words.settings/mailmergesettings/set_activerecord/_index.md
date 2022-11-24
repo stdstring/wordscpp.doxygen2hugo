@@ -15,3 +15,8 @@ Specifies the one-based index of the record from the data source which shall be 
 void Aspose::Words::Settings::MailMergeSettings::set_ActiveRecord(int32_t value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

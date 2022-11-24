@@ -190,3 +190,7 @@ builder->get_ListFormat()->RemoveNumbers();
 doc->Save(ArtifactsDir + u"Lists.RestartNumberingUsingListCopy.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Lists](../)
+* Library [Aspose.Words](../../)

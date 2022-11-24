@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldLink::get_SourceItem](../get_sourceitem/
 void Aspose::Words::Fields::FieldLink::set_SourceItem(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldLink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

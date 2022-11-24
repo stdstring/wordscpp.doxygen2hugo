@@ -115,3 +115,7 @@ ASSERT_EQ(u"MyTableStyle1", table->get_StyleName());
 doc->Save(ArtifactsDir + u"Table.TableStyleCreation.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

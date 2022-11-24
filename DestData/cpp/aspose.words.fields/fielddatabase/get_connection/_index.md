@@ -15,3 +15,8 @@ Gets a connection to the data.
 System::String Aspose::Words::Fields::FieldDatabase::get_Connection()
 ```
 
+## See Also
+
+* Class [FieldDatabase](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

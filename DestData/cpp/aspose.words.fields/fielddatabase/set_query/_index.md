@@ -15,3 +15,8 @@ Sets a set of SQL instructions that query the database.
 void Aspose::Words::Fields::FieldDatabase::set_Query(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDatabase](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

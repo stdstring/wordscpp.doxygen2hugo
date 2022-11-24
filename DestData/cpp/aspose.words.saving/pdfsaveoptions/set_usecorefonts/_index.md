@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfSaveOptions::get_UseCoreFonts](../get_usec
 void Aspose::Words::Saving::PdfSaveOptions::set_UseCoreFonts(bool value)
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

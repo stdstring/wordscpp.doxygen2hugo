@@ -42,3 +42,8 @@ std::cout << "The fill transparency is " << (fill->get_Transparency() * 100) << 
 doc->Save(ArtifactsDir + u"Drawing.FillSolid.docx");
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

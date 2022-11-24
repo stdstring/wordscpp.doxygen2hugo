@@ -195,3 +195,8 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 }
 ```
 
+## See Also
+
+* Class [FieldDdeAuto](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

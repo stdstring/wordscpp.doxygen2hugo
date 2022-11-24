@@ -41,3 +41,8 @@ ArrayPtr<uint8_t> zipFileBytes = System::IO::File::ReadAllBytes(DatabaseDir + u"
 doc->Save(ArtifactsDir + u"Shape.InsertOlePackage.docx");
 ```
 
+## See Also
+
+* Class [OlePackage](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

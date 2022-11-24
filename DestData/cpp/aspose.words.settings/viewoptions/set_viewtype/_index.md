@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Settings::ViewOptions::get_ViewType](../get_viewtype/
 void Aspose::Words::Settings::ViewOptions::set_ViewType(Aspose::Words::Settings::ViewType value)
 ```
 
+## See Also
+
+* Class [ViewOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

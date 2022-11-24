@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ImageData::get_ChromaKey](../get_chromakey/)
 void Aspose::Words::Drawing::ImageData::set_ChromaKey(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

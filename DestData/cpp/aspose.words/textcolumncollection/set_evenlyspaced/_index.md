@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TextColumnCollection::get_EvenlySpaced](../get_evenly
 void Aspose::Words::TextColumnCollection::set_EvenlySpaced(bool value)
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

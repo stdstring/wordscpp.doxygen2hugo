@@ -37,3 +37,8 @@ for (const auto& row : System::IterateOver(table->LINQ_OfType<SharedPtr<Row>>())
 doc->Save(ArtifactsDir + u"Table.AllowBreakAcrossPages.docx");
 ```
 
+## See Also
+
+* Class [RowFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

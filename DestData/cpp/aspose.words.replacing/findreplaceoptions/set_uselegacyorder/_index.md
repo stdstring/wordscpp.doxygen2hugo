@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder](..
 void Aspose::Words::Replacing::FindReplaceOptions::set_UseLegacyOrder(bool value)
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

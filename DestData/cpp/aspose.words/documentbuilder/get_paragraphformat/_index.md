@@ -77,3 +77,8 @@ builder->EndTable();
 doc->Save(ArtifactsDir + u"DocumentBuilder.CreateFormattedTable.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

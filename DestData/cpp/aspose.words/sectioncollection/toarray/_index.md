@@ -20,3 +20,8 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Section>> Aspose::Words::Secti
 
 An array of sections.
 
+## See Also
+
+* Class [SectionCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Do Not Compress Compressible Characters When Using [Document](../../../aspose.wo
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseEastAsianBreakRules()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TextColumnCollection::get_Spacing](../get_spacing/).
 void Aspose::Words::TextColumnCollection::set_Spacing(double value)
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

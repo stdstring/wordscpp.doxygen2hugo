@@ -45,3 +45,7 @@ border->set_DistanceFromText(0);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorderProperties.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

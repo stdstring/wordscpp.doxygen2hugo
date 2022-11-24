@@ -30,3 +30,8 @@ Calls [DocumentVisitor.VisitSpecialChar](../../documentvisitor/visitspecialchar/
 
 For more info see the Visitor design pattern.
 
+## See Also
+
+* Class [SpecialChar](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Specifies the contents of a given record in the column containing unique data. T
 void Aspose::Words::Settings::OdsoRecipientData::set_UniqueTag(const System::ArrayPtr<uint8_t> &value)
 ```
 
+## See Also
+
+* Class [OdsoRecipientData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

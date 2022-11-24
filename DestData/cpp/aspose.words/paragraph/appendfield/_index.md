@@ -54,6 +54,11 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Paragraph::AppendField(const System::String\&) method
 
 
@@ -101,6 +106,11 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Paragraph::AppendField(const System::String\&, const System::String\&) method
 
 
@@ -149,3 +159,8 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

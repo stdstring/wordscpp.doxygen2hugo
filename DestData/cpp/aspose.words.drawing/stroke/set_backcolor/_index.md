@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Stroke::get_BackColor](../get_backcolor/).
 void Aspose::Words::Drawing::Stroke::set_BackColor(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

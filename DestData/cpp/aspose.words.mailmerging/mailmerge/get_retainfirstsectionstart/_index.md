@@ -15,3 +15,8 @@ Gets a value indicating whether the [SectionStart](../../../aspose.words/pageset
 bool Aspose::Words::MailMerging::MailMerge::get_RetainFirstSectionStart() const
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

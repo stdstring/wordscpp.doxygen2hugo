@@ -127,3 +127,8 @@ for (const auto& paragraph : System::IterateOver<Paragraph>(paras))
 ASSERT_EQ(0, paras->LINQ_Count([](SharedPtr<Node> n) { return System::DynamicCast<Paragraph>(n)->get_ListFormat()->get_IsListItem(); }));
 ```
 
+## See Also
+
+* Class [ListFormat](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

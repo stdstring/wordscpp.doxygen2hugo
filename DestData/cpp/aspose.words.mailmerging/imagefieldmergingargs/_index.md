@@ -49,3 +49,7 @@ There are three properties available [ImageFileName](./get_imagefilename/), [Ima
 
 To insert an image mail merge field into a document in Word, select Insert/Field command, then select MergeField and type Image:MyFieldName.
 
+## See Also
+
+* Namespace [Aspose::Words::MailMerging](../)
+* Library [Aspose.Words](../../)

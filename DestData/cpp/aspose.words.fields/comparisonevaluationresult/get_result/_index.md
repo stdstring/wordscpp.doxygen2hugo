@@ -15,3 +15,8 @@ Gets the comparison evaluation result.
 bool Aspose::Words::Fields::ComparisonEvaluationResult::get_Result() const
 ```
 
+## See Also
+
+* Class [ComparisonEvaluationResult](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

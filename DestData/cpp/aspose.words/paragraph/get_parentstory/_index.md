@@ -51,3 +51,8 @@ ASPOSE_ASSERT_EQ(footer->get_ParentSection(), header->get_ParentSection());
 doc->Save(ArtifactsDir + u"HeaderFooter.Create.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

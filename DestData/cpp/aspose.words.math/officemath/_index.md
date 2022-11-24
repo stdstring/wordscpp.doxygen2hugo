@@ -102,3 +102,7 @@ officeMath->set_Justification(OfficeMathJustification::Left);
 doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Math](../)
+* Library [Aspose.Words](../../)

@@ -15,3 +15,8 @@ Gets the background color of the barcode symbol. Valid values are in the range [
 System::String Aspose::Words::Fields::FieldMergeBarcode::get_BackgroundColor()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

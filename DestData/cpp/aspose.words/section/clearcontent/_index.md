@@ -44,3 +44,8 @@ ASSERT_EQ(String::Empty, doc->GetText().Trim());
 ASSERT_EQ(1, doc->get_FirstSection()->get_Body()->get_Paragraphs()->get_Count());
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

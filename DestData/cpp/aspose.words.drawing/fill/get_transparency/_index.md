@@ -15,3 +15,8 @@ Gets the degree of transparency of the specified fill as a value between 0.0 (op
 double Aspose::Words::Drawing::Fill::get_Transparency()
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

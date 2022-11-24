@@ -163,3 +163,8 @@ ASPOSE_ASSERT_EQ(30.0, table->get_FirstRow()->get_Cells()->idx_get(1)->get_CellF
 doc->Save(ArtifactsDir + u"DocumentBuilder.SetCellFormatting.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

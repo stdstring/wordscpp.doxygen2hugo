@@ -65,6 +65,11 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_I
 ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_SubjectName());
 ```
 
+## See Also
+
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::Sign(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\&) method
 
 
@@ -108,6 +113,11 @@ signOptions->set_SignTime(System::DateTime::get_Now());
 }
 ```
 
+## See Also
+
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::Sign(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&) method
 
 
@@ -167,6 +177,11 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_I
 ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_SubjectName());
 ```
 
+## See Also
+
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::Sign(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>\&) method
 
 
@@ -317,6 +332,11 @@ static void CreateSignees()
 static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCustom::Signee>>> mSignees;
 ```
 
+## See Also
+
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::Sign(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>) method
 
 
@@ -326,6 +346,11 @@ static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCust
 template<typename CharType,typename Traits> static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(std::basic_istream<CharType, Traits> &srcStream, std::basic_ostream<CharType, Traits> &dstStream, System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> certHolder)
 ```
 
+## See Also
+
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::Sign(std::basic_istream\<CharType, Traits\>\&, std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>, System::SharedPtr\<Aspose::Words::DigitalSignatures::SignOptions\>) method
 
 
@@ -335,3 +360,8 @@ template<typename CharType,typename Traits> static void Aspose::Words::DigitalSi
 template<typename CharType,typename Traits> static void Aspose::Words::DigitalSignatures::DigitalSignatureUtil::Sign(std::basic_istream<CharType, Traits> &srcStream, std::basic_ostream<CharType, Traits> &dstStream, System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> certHolder, System::SharedPtr<Aspose::Words::DigitalSignatures::SignOptions> signOptions)
 ```
 
+## See Also
+
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

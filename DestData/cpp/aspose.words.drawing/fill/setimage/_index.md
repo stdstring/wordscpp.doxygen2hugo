@@ -20,6 +20,11 @@ void Aspose::Words::Drawing::Fill::SetImage(const System::ArrayPtr<uint8_t> &ima
 | --- | --- | --- |
 | imageBytes | const System::ArrayPtr\<uint8_t\>\& | The image bytes array. |
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## Fill::SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -34,6 +39,11 @@ void Aspose::Words::Drawing::Fill::SetImage(const System::SharedPtr<System::IO::
 | --- | --- | --- |
 | stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream that contains the image bytes. |
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## Fill::SetImage(const System::String\&) method
 
 
@@ -48,3 +58,8 @@ void Aspose::Words::Drawing::Fill::SetImage(const System::String &fileName)
 | --- | --- | --- |
 | fileName | const System::String\& | The path to the image file. |
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

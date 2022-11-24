@@ -15,3 +15,8 @@ url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizebeginiterator/
 virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginIterator() override
 ```
 
+## See Also
+
+* Class [DropDownItemCollection](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

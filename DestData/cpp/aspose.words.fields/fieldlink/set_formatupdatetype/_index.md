@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldLink::get_FormatUpdateType](../get_forma
 void Aspose::Words::Fields::FieldLink::set_FormatUpdateType(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldLink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

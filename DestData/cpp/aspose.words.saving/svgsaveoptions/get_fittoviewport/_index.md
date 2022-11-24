@@ -33,3 +33,8 @@ options->set_TextOutputMode(SvgTextOutputMode::UsePlacedGlyphs);
 doc->Save(ArtifactsDir + u"SvgSaveOptions.SaveLikeImage.svg", options);
 ```
 
+## See Also
+
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

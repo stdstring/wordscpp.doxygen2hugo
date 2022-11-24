@@ -15,3 +15,8 @@ Do Not AutoFit [Tables](../../../aspose.words.tables/) To Fit Next To Wrapped Ob
 void Aspose::Words::Settings::CompatibilityOptions::set_DoNotAutofitConstrainedTables(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

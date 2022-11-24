@@ -48,3 +48,8 @@ table->set_AbsoluteHorizontalDistance(100);
 doc->Save(ArtifactsDir + u"Table.ChangeFloatingTableProperties.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

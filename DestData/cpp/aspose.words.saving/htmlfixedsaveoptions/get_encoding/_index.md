@@ -37,3 +37,8 @@ ASSERT_EQ(u"US-ASCII", htmlFixedSaveOptions->get_Encoding()->get_EncodingName())
 doc->Save(ArtifactsDir + u"HtmlFixedSaveOptions.UseEncoding.html", htmlFixedSaveOptions);
 ```
 
+## See Also
+
+* Class [HtmlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

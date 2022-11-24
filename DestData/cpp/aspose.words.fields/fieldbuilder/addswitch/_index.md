@@ -102,6 +102,11 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## FieldBuilder::AddSwitch(const System::String\&, const System::String\&) method
 
 
@@ -199,6 +204,11 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## FieldBuilder::AddSwitch(const System::String\&, double) method
 
 
@@ -296,6 +306,11 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## FieldBuilder::AddSwitch(const System::String\&, int32_t) method
 
 
@@ -393,3 +408,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

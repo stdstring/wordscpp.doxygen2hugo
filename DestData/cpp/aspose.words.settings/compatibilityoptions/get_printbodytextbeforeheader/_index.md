@@ -15,3 +15,8 @@ Print [Body](../../../aspose.words/body/) Text before Header/Footer Contents.
 bool Aspose::Words::Settings::CompatibilityOptions::get_PrintBodyTextBeforeHeader()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -90,3 +90,8 @@ public:
 ** NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }**
 
 **private: int mCurrentReplacementNumber; SharedPtr<System::Text::StringBuilder> mLog; };  **
+## See Also
+
+* Class [ReplacingArgs](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

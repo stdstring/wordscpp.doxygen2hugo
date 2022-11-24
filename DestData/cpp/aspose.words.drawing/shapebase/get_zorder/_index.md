@@ -68,3 +68,8 @@ shapes[2]->set_ZOrder(1);
 doc->Save(ArtifactsDir + u"Shape.ZOrder.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

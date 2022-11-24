@@ -49,6 +49,11 @@ builder->Write(u"This paragraph is formatted with a double border and shading.")
 doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## BorderCollection::idx_get(int32_t) method
 
 
@@ -106,3 +111,8 @@ for (int i = 0; i < firstParagraphBorders->get_Count(); i++)
 doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

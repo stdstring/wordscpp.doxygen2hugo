@@ -59,3 +59,8 @@ ASSERT_FALSE(shape->get_IsInline());
 doc->Save(ArtifactsDir + u"Shape.IsInline.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

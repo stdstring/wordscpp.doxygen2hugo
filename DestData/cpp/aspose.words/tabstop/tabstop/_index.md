@@ -58,6 +58,11 @@ ASSERT_EQ(0, paragraphs->idx_get(1)->get_ParagraphFormat()->get_TabStops()->get_
 doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 ```
 
+## See Also
+
+* Class [TabStop](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## TabStop::TabStop(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
 
 
@@ -116,3 +121,8 @@ ASSERT_EQ(0, paragraphs->idx_get(1)->get_ParagraphFormat()->get_TabStops()->get_
 doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 ```
 
+## See Also
+
+* Class [TabStop](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

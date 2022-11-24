@@ -15,6 +15,11 @@ Gets or a sets a document variable by the case-insensitive name. null values are
 void Aspose::Words::VariableCollection::idx_set(const System::String &name, const System::String &value)
 ```
 
+## See Also
+
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## VariableCollection::idx_set(int32_t, const System::String\&) method
 
 
@@ -29,3 +34,8 @@ void Aspose::Words::VariableCollection::idx_set(int32_t index, const System::Str
 | --- | --- | --- |
 | index | int32_t | Zero-based index of the document variable. |
 
+## See Also
+
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

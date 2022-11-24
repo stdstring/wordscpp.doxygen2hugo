@@ -15,3 +15,8 @@ Sets [IFieldUpdatingCallback](../../ifieldupdatingcallback/) implementation.
 void Aspose::Words::Fields::FieldOptions::set_FieldUpdatingCallback(const System::SharedPtr<Aspose::Words::Fields::IFieldUpdatingCallback> &value)
 ```
 
+## See Also
+
+* Class [FieldOptions](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

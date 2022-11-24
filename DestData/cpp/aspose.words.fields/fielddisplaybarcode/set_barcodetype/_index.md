@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType](../get_
 void Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeType(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDisplayBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

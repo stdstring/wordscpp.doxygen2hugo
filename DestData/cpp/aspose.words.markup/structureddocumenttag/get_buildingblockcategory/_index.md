@@ -39,3 +39,8 @@ doc->get_FirstSection()->get_Body()->AppendChild(buildingBlockSdt);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.BuildingBlockCategories.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

@@ -38,6 +38,11 @@ Shows how to initialize a license for Aspose.Words from a stream.
 }
 ```
 
+## See Also
+
+* Class [License](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## License::SetLicense(const System::String\&) method
 
 
@@ -84,6 +89,11 @@ System::IO::File::Copy(licenseFileName, licenseCopyFileName);
 license->SetLicense(u"Aspose.Words.Cpp.lic");
 ```
 
+## See Also
+
+* Class [License](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## License::SetLicense(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -93,3 +103,8 @@ license->SetLicense(u"Aspose.Words.Cpp.lic");
 template<typename CharType,typename Traits> void Aspose::Words::License::SetLicense(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [License](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -30,3 +30,8 @@ auto tag = System::DynamicCast<StructuredDocumentTag>(doc->GetChild(NodeType::St
 ASSERT_EQ(u"{F3029283-4FF8-4DD2-9F31-395F19ACEE85}", tag->get_XmlMapping()->get_StoreItemId());
 ```
 
+## See Also
+
+* Class [XmlMapping](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

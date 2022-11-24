@@ -42,3 +42,8 @@ std::cout << (String(u"ListId: ") + list->get_ListId()) << std::endl;
 std::cout << (String(u"List is the same by ListId: ") + (System::ObjectExt::Equals(lists->GetListByListId(1), list))) << std::endl;
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

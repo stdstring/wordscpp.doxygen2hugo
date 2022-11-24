@@ -15,3 +15,8 @@ Sets whether the fill rotates with the specified object.
 void Aspose::Words::Drawing::Fill::set_RotateWithObject(bool value)
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

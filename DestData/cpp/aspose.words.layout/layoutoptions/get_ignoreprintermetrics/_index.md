@@ -29,3 +29,8 @@ doc->get_LayoutOptions()->set_IgnorePrinterMetrics(false);
 doc->Save(ArtifactsDir + u"Document.IgnorePrinterMetrics.docx");
 ```
 
+## See Also
+
+* Class [LayoutOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

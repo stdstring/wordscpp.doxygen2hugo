@@ -31,3 +31,8 @@ int numberOfSmartArtShapes = doc->GetChildNodes(NodeType::Shape, true)
 ASSERT_EQ(2, numberOfSmartArtShapes);
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

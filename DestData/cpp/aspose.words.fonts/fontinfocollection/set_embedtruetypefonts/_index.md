@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts](..
 void Aspose::Words::Fonts::FontInfoCollection::set_EmbedTrueTypeFonts(bool value)
 ```
 
+## See Also
+
+* Class [FontInfoCollection](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

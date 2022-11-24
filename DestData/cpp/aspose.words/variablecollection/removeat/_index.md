@@ -90,3 +90,8 @@ variables->Clear();
 ASSERT_EQ(0, variables->get_Count());
 ```
 
+## See Also
+
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

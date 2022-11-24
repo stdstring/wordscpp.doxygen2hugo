@@ -23,3 +23,8 @@ Preblending images may improve PDF document visual appearance in Adobe Reader an
 In order to properly display preblended images, PDF viewer application must support /Matte entry in soft-mask image dictionary. Also preblending images may decrease PDF rendering performance.
 
 The default value is **false**. 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

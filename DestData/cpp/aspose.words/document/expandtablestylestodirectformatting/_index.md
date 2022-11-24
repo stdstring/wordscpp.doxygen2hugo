@@ -57,3 +57,8 @@ doc->ExpandTableStylesToDirectFormatting();
 doc->Save(ArtifactsDir + u"Document.TableStyleToDirectFormatting.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

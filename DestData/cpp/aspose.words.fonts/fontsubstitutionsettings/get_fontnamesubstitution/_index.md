@@ -15,3 +15,8 @@ url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_fontnamesubstitution/
 System::SharedPtr<Aspose::Words::Fonts::FontNameSubstitutionRule> Aspose::Words::Fonts::FontSubstitutionSettings::get_FontNameSubstitution() const
 ```
 
+## See Also
+
+* Class [FontSubstitutionSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

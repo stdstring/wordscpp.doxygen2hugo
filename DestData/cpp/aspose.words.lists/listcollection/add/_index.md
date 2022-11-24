@@ -145,6 +145,11 @@ for (const auto& paragraph : System::IterateOver(paras->LINQ_OfType<SharedPtr<Pa
 ASSERT_EQ(3, paras->LINQ_Count([](SharedPtr<Node> n) { return System::DynamicCast<Paragraph>(n)->get_ListFormat()->get_IsListItem(); }));
 ```
 
+## See Also
+
+* Class [ListCollection](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)
 ## ListCollection::Add(const System::SharedPtr\<Aspose::Words::Style\>\&) method
 
 
@@ -226,3 +231,8 @@ builder->get_ListFormat()->RemoveNumbers();
 builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx");
 ```
 
+## See Also
+
+* Class [ListCollection](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

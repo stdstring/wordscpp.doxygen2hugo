@@ -15,3 +15,8 @@ Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape](../get
 void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Shape(const System::SharedPtr<Aspose::Words::Drawing::Shape> &value)
 ```
 
+## See Also
+
+* Class [ImageFieldMergingArgs](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

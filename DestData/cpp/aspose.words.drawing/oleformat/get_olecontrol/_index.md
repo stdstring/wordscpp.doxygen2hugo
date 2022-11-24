@@ -40,3 +40,8 @@ if (oleControl->get_IsForms2OleControl())
 }
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

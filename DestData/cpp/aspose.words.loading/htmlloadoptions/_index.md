@@ -66,3 +66,7 @@ class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [set_UpdateDirtyFields](../loadoptions/set_updatedirtyfields/)(bool) | Setter for [Aspose::Words::Loading::LoadOptions::get_UpdateDirtyFields](../loadoptions/get_updatedirtyfields/). |
 | [set_WarningCallback](../loadoptions/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](../loadoptions/get_warningcallback/). |
 | [set_WebRequestTimeout](./set_webrequesttimeout/)(int32_t) | Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_WebRequestTimeout](./get_webrequesttimeout/). |
+## See Also
+
+* Namespace [Aspose::Words::Loading](../)
+* Library [Aspose.Words](../../)

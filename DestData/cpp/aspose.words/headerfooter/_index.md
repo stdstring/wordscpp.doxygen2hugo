@@ -172,3 +172,7 @@ footer->get_Range()->Replace(u"(C) 2006 Aspose Pty Ltd.", String::Format(u"Copyr
 doc->Save(ArtifactsDir + u"HeaderFooter.ReplaceText.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

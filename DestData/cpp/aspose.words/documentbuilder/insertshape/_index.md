@@ -56,6 +56,11 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Transitional);
 doc->Save(ArtifactsDir + u"Shape.ShapeInsertion.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertShape(Aspose::Words::Drawing::ShapeType, double, double) method
 
 
@@ -101,3 +106,8 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Transitional);
 doc->Save(ArtifactsDir + u"Shape.ShapeInsertion.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

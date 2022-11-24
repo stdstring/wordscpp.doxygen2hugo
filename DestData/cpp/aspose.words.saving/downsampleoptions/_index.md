@@ -57,3 +57,7 @@ options->get_DownsampleOptions()->set_ResolutionThreshold(128);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.DownsampleOptions.LowerResolution.pdf", options);
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Saving](../)
+* Library [Aspose.Words](../../)

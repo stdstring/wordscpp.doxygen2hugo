@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_BorderSurroundsHeader](../get_bordersu
 void Aspose::Words::PageSetup::set_BorderSurroundsHeader(bool value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

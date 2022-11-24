@@ -55,3 +55,7 @@ format->set_DropCapPosition(dropCapPosition);
 doc->Save(ArtifactsDir + u"ParagraphFormat.DropCap.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

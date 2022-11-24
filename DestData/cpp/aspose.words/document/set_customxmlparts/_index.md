@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Document::get_CustomXmlParts](../get_customxmlparts/)
 void Aspose::Words::Document::set_CustomXmlParts(const System::SharedPtr<Aspose::Words::Markup::CustomXmlPartCollection> &value)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

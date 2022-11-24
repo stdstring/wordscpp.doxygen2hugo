@@ -43,3 +43,8 @@ doc->get_Sections()->idx_get(0)->set_ProtectedForForms(false);
 doc->Save(ArtifactsDir + u"Section.Protect.docx");
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

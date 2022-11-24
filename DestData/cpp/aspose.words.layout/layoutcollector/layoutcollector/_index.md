@@ -77,3 +77,8 @@ ASSERT_EQ(LayoutEntityType::Span, layoutEnumerator->get_Type());
 ASSERT_EQ(u"¶", layoutEnumerator->get_Text());
 ```
 
+## See Also
+
+* Class [LayoutCollector](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

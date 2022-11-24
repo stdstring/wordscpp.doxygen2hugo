@@ -94,6 +94,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ComparisonEvaluationResult](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## ComparisonEvaluationResult::ComparisonEvaluationResult(const System::String\&) method
 
 
@@ -182,3 +187,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ComparisonEvaluationResult](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

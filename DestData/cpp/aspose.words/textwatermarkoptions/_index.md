@@ -30,3 +30,7 @@ class TextWatermarkOptions : public System::Object
 | [set_IsSemitrasparent](./set_issemitrasparent/)(bool) | Setter for [Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent](./get_issemitrasparent/). |
 | [set_Layout](./set_layout/)(Aspose::Words::WatermarkLayout) | Setter for [Aspose::Words::TextWatermarkOptions::get_Layout](./get_layout/). |
 | [TextWatermarkOptions](./textwatermarkoptions/)() |  |
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

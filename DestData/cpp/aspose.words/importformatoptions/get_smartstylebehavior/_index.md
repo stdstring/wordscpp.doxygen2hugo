@@ -55,3 +55,8 @@ builder->InsertDocument(srcDoc, ImportFormatMode::KeepSourceFormatting, options)
 dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 ```
 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -69,3 +69,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 ```
 
+## See Also
+
+* Class [FieldCitation](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

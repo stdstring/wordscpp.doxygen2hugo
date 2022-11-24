@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Shape::get_StrokeWeight](../get_strokeweight
 void Aspose::Words::Drawing::Shape::set_StrokeWeight(double value)
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

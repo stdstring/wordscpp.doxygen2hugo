@@ -15,3 +15,8 @@ Gets the name of the data table for the current merge operation or empty string 
 System::String Aspose::Words::MailMerging::FieldMergingArgsBase::get_TableName() const
 ```
 
+## See Also
+
+* Class [FieldMergingArgsBase](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

@@ -87,6 +87,11 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 }
 ```
 
+## See Also
+
+* Class [NodeImporter](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## NodeImporter::NodeImporter(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
@@ -163,3 +168,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [NodeImporter](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

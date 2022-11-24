@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_BorderAppliesTo](../get_borderappliest
 void Aspose::Words::PageSetup::set_BorderAppliesTo(Aspose::Words::PageBorderAppliesTo value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

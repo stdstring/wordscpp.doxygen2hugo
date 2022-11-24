@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIndex::get_NumberOfColumns](../get_numbe
 void Aspose::Words::Fields::FieldIndex::set_NumberOfColumns(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIndex](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

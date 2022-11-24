@@ -49,3 +49,7 @@ doc->get_Frameset()->get_ChildFramesets()->idx_get(0)->get_ChildFramesets()->idx
 doc->get_Frameset()->get_ChildFramesets()->idx_get(0)->get_ChildFramesets()->idx_get(0)->set_IsFrameLinkToFile(false);
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Framesets](../)
+* Library [Aspose.Words](../../)

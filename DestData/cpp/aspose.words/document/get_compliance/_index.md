@@ -36,3 +36,8 @@ doc = MakeObject<Document>(MyDir + u"Document.docx");
 ASSERT_EQ(doc->get_Compliance(), OoxmlCompliance::Iso29500_2008_Transitional);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -49,3 +49,8 @@ docText = System::Text::Encoding::get_ASCII()->GetString(System::IO::File::ReadA
 ASSERT_EQ(u"? ? ? ? ?.\r\n", docText);
 ```
 
+## See Also
+
+* Class [TxtSaveOptionsBase](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

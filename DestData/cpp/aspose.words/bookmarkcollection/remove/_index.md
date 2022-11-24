@@ -77,6 +77,11 @@ ASSERT_EQ(String(u"Text inside MyBookmark_1.\r") + u"Text inside MyBookmark_2.\r
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## BookmarkCollection::Remove(const System::String\&) method
 
 
@@ -148,3 +153,8 @@ ASSERT_EQ(String(u"Text inside MyBookmark_1.\r") + u"Text inside MyBookmark_2.\r
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

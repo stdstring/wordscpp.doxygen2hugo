@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_Trim](../get_trim/).
 void Aspose::Words::Drawing::TextPath::set_Trim(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ url: /cpp/aspose.words/warninginfocollection/virtualizebeginiterator/
 virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeBeginIterator() override
 ```
 
+## See Also
+
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

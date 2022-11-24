@@ -15,3 +15,8 @@ Represents the hash code for this record. Sometimes Microsoft Word uses [Hash](.
 void Aspose::Words::Settings::OdsoRecipientData::set_Hash(int32_t value)
 ```
 
+## See Also
+
+* Class [OdsoRecipientData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword](../ge
 void Aspose::Words::Saving::PdfEncryptionDetails::set_UserPassword(const System::String &value)
 ```
 
+## See Also
+
+* Class [PdfEncryptionDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

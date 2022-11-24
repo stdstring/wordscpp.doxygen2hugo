@@ -15,3 +15,8 @@ Specifies the binding key used to map the binding entry in this list with the bo
 void Aspose::Words::WebExtensions::WebExtensionBinding::set_AppRef(const System::String &value)
 ```
 
+## See Also
+
+* Class [WebExtensionBinding](../)
+* Namespace [Aspose::Words::WebExtensions](../../)
+* Library [Aspose.Words](../../../)

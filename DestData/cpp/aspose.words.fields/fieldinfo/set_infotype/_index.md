@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldInfo::get_InfoType](../get_infotype/).
 void Aspose::Words::Fields::FieldInfo::set_InfoType(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldInfo](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

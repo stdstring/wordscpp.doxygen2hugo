@@ -24,3 +24,7 @@ enum class SdtAppearance
 | Hidden | 2 | Represents a structured document tag that is not shown. |
 | Default | n/a | Defaults to **BoundingBox**. |
 
+## See Also
+
+* Namespace [Aspose::Words::Markup](../)
+* Library [Aspose.Words](../../)

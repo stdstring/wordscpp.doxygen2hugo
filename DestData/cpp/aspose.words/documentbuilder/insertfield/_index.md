@@ -72,6 +72,11 @@ else
 }
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertField(const System::String\&) method
 
 
@@ -136,6 +141,11 @@ ASSERT_EQ(u"DATE \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
 ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - System::DateTime::get_Today()).get_Hours()), 24);
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertField(const System::String\&, const System::String\&) method
 
 
@@ -220,3 +230,8 @@ pageSetup->set_PageNumberStyle(NumberStyle::Arabic);
 doc->Save(ArtifactsDir + u"PageSetup.PageNumbering.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

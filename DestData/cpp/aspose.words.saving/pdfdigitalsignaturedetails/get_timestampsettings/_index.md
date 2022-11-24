@@ -59,3 +59,8 @@ ASSERT_EQ(u"MyPassword", options->get_DigitalSignatureDetails()->get_TimestampSe
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

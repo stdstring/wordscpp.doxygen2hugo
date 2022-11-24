@@ -36,3 +36,8 @@ doc->get_Sections()->Add(newSection);
 doc->get_Sections()->idx_get(1)->get_Range()->UnlinkFields();
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Themes::ThemeColors::get_Accent5](../get_accent5/).
 void Aspose::Words::Themes::ThemeColors::set_Accent5(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [ThemeColors](../)
+* Namespace [Aspose::Words::Themes](../../)
+* Library [Aspose.Words](../../../)

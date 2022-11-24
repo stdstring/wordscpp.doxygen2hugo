@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Math::OfficeMath::get_DisplayType](../get_displaytype
 void Aspose::Words::Math::OfficeMath::set_DisplayType(Aspose::Words::Math::OfficeMathDisplayType value)
 ```
 
+## See Also
+
+* Class [OfficeMath](../)
+* Namespace [Aspose::Words::Math](../../)
+* Library [Aspose.Words](../../../)

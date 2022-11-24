@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Properties::BuiltInDocumentProperties::get_NameOfAppl
 void Aspose::Words::Properties::BuiltInDocumentProperties::set_NameOfApplication(const System::String &value)
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

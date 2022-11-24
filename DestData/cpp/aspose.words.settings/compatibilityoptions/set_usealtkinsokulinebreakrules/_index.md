@@ -15,3 +15,8 @@ Use Alternate Set of East Asian Line Breaking Rules.
 void Aspose::Words::Settings::CompatibilityOptions::set_UseAltKinsokuLineBreakRules(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

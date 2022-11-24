@@ -80,5 +80,65 @@ namespace Doxygen2HugoConverter.Generator
         }
 
         public static String CreateLink(String name, String url) => $"[{name}]({url})";
+
+        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> commonEntityRepo, StringBuilder dest)
+        {
+            IList<EntityDef> CreateParentList()
+            {
+                IList<EntityDef> parentList = new List<EntityDef>();
+                EntityDef? current = definition;
+                while (current != null)
+                {
+                    switch (current)
+                    {
+                        case EntityDef.NamespaceEntity:
+                            current = null;
+                            break;
+                        case EntityDef.ClassEntity entity:
+                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            break;
+                        case EntityDef.MethodEntity entity:
+                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            break;
+                        case EntityDef.FieldEntity entity:
+                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            break;
+                        case EntityDef.EnumEntity entity:
+                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            break;
+                        case EntityDef.TypedefEntity entity:
+                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            break;
+                    }
+                }
+                return parentList;
+            }
+
+            StringBuilder parentUrl = new StringBuilder();
+            IList<EntityDef> parentList = CreateParentList();
+            foreach (EntityDef parent in parentList)
+            {
+                parentUrl.Append("../");
+                switch (parent)
+                {
+                    case EntityDef.NamespaceEntity entity:
+                        dest.AppendLine($"* Namespace {CreateLink(entity.Name, parentUrl.ToString())}");
+                        break;
+                    case EntityDef.ClassEntity entity:
+                        dest.AppendLine($"* Class {CreateLink(entity.Name, parentUrl.ToString())}");
+                        break;
+                    //case EntityDef.MethodEntity entity:
+                    //    break;
+                    //case EntityDef.FieldEntity entity:
+                    //    break;
+                    //case EntityDef.EnumEntity entity:
+                    //    break;
+                    //case EntityDef.TypedefEntity entity:
+                    //    break;
+                }
+            }
+            parentUrl.Append("../");
+            dest.AppendLine($"* Library {CreateLink("Aspose.Words", parentUrl.ToString())}");
+        }
     }
 }

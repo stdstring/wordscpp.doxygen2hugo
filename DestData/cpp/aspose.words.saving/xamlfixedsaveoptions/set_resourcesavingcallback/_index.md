@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallb
 void Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourceSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> &value)
 ```
 
+## See Also
+
+* Class [XamlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

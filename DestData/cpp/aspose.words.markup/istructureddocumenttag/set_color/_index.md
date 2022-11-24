@@ -15,3 +15,8 @@ Sets the color of the structured document tag.
 virtual void Aspose::Words::Markup::IStructuredDocumentTag::set_Color(System::Drawing::Color value)=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

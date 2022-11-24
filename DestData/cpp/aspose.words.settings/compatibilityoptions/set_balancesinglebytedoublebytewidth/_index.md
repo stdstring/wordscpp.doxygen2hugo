@@ -15,3 +15,8 @@ Balance Single Byte and Double Byte Characters.
 void Aspose::Words::Settings::CompatibilityOptions::set_BalanceSingleByteDoubleByteWidth(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

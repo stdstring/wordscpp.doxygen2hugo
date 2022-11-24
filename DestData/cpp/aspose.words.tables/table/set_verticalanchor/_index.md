@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_VerticalAnchor](../get_verticalanc
 void Aspose::Words::Tables::Table::set_VerticalAnchor(Aspose::Words::Drawing::RelativeVerticalPosition value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

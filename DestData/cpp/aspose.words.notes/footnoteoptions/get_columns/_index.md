@@ -28,3 +28,8 @@ doc->get_FootnoteOptions()->set_Columns(2);
 doc->Save(ArtifactsDir + u"Document.FootnoteColumns.docx");
 ```
 
+## See Also
+
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

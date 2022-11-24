@@ -58,6 +58,11 @@ ASSERT_EQ(u".xlsx", oleFormat->get_SuggestedExtension());
 oleFormat->Save(ArtifactsDir + u"OLE spreadsheet saved directly" + oleFormat->get_SuggestedExtension());
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## OleFormat::Save(const System::String\&) method
 
 
@@ -106,6 +111,11 @@ ASSERT_EQ(u".xlsx", oleFormat->get_SuggestedExtension());
 oleFormat->Save(ArtifactsDir + u"OLE spreadsheet saved directly" + oleFormat->get_SuggestedExtension());
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## OleFormat::Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -115,3 +125,8 @@ oleFormat->Save(ArtifactsDir + u"OLE spreadsheet saved directly" + oleFormat->ge
 template<typename CharType,typename Traits> void Aspose::Words::Drawing::OleFormat::Save(std::basic_ostream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

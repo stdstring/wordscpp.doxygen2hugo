@@ -15,3 +15,8 @@ Specifies that Microsoft Word shall display the data from the specified external
 bool Aspose::Words::Settings::MailMergeSettings::get_ViewMergedData() const
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

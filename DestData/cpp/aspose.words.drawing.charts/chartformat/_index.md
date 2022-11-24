@@ -22,3 +22,7 @@ class ChartFormat : public Aspose::Words::Drawing::Core::IFillable,
 | --- | --- |
 | [get_Fill](./get_fill/)() | Gets fill formatting for the parent chart element. |
 | [get_Stroke](./get_stroke/)() | Gets line formatting for the parent chart element. |
+## See Also
+
+* Namespace [Aspose::Words::Drawing::Charts](../)
+* Library [Aspose.Words](../../)

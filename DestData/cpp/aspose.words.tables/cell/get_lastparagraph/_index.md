@@ -59,3 +59,8 @@ ASSERT_EQ(LineStyle::None, border->get_LineStyle());
 doc->Save(ArtifactsDir + u"Border.VerticalBorders.docx");
 ```
 
+## See Also
+
+* Class [Cell](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

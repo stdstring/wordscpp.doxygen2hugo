@@ -61,3 +61,8 @@ yAxis->get_Scaling()->set_Maximum(MakeObject<AxisBound>(700.0));
 doc->Save(ArtifactsDir + u"Charts.DateTimeValues.docx");
 ```
 
+## See Also
+
+* Class [AxisScaling](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

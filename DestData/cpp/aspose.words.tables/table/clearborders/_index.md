@@ -77,3 +77,8 @@ ASSERT_EQ(System::Drawing::Color::Empty.ToArgb(), topBorder->get_Color().ToArgb(
 ASSERT_EQ(LineStyle::None, topBorder->get_LineStyle());
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

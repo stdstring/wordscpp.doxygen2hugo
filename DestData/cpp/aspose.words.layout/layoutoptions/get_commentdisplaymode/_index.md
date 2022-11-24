@@ -45,3 +45,8 @@ doc->UpdatePageLayout();
 doc->Save(ArtifactsDir + u"Document.ShowCommentsInBalloons.pdf");
 ```
 
+## See Also
+
+* Class [LayoutOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

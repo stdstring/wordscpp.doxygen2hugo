@@ -15,3 +15,8 @@ Setter for [Aspose::Words::BorderCollection::get_Color](../get_color/).
 void Aspose::Words::BorderCollection::set_Color(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

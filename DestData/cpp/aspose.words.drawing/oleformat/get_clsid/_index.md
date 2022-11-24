@@ -46,3 +46,8 @@ ASSERT_EQ(u"Delphi", oleControlCollection->idx_get(2)->get_Caption());
 ASSERT_EQ(u"0", oleControlCollection->idx_get(2)->get_Value());
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

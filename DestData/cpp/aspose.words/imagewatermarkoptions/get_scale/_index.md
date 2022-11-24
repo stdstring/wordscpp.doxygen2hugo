@@ -41,3 +41,8 @@ doc->get_Watermark()->SetImage(System::Drawing::Image::FromFile(ImageDir + u"Log
 doc->Save(ArtifactsDir + u"Document.ImageWatermark.docx");
 ```
 
+## See Also
+
+* Class [ImageWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

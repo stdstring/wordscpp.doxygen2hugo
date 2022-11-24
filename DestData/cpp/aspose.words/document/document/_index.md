@@ -64,6 +64,11 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(run);
 doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -122,6 +127,11 @@ const String url = u"https://omextemplates.content.office.net/support/templates/
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
@@ -210,6 +220,11 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Document(const System::String\&) method
 
 
@@ -235,6 +250,11 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Document(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
@@ -299,6 +319,11 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Document(std::istream\&) method
 
 
@@ -308,6 +333,11 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 Aspose::Words::Document::Document(std::istream &stream)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Document(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
 
 
@@ -317,3 +347,8 @@ Aspose::Words::Document::Document(std::istream &stream)
 Aspose::Words::Document::Document(std::istream &stream, const System::SharedPtr<Aspose::Words::Loading::LoadOptions> &loadOptions)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

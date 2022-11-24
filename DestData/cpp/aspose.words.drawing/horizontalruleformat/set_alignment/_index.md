@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment](../get_
 void Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment(Aspose::Words::Drawing::HorizontalRuleAlignment value)
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSaveOptions::get_SaveFormat](../get_save
 void Aspose::Words::Saving::ImageSaveOptions::set_SaveFormat(Aspose::Words::SaveFormat value) override
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

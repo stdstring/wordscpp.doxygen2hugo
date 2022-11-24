@@ -59,3 +59,8 @@ ASSERT_EQ(u"Run 1. Run 2. Run 3. ", para->get_Runs()->idx_get(0)->get_Text());
 ASSERT_EQ(u"Run 4. ", para->get_Runs()->idx_get(1)->get_Text());
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

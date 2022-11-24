@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOp
 void Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions(const System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> &value)
 ```
 
+## See Also
+
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

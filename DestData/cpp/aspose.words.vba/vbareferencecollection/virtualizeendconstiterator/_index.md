@@ -15,3 +15,8 @@ url: /cpp/aspose.words.vba/vbareferencecollection/virtualizeendconstiterator/
 virtualized_iterator * Aspose::Words::Vba::VbaReferenceCollection::virtualizeEndConstIterator() const override
 ```
 
+## See Also
+
+* Class [VbaReferenceCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

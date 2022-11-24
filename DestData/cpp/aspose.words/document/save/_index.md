@@ -70,6 +70,11 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -118,6 +123,11 @@ builder->Writeln(u"Page 3.");
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::String\&) method
 
 
@@ -147,6 +157,11 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::String\&, Aspose::Words::SaveFormat) method
 
 
@@ -177,6 +192,11 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToHtml.html", SaveFormat::Html);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::String\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -354,6 +374,11 @@ options->get_OutlineOptions()->set_ExpandedOutlineLevels(2);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(std::basic_ostream\<CharType, Traits\>\&, Aspose::Words::SaveFormat) method
 
 
@@ -363,6 +388,11 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, Aspose::Words::SaveFormat saveFormat)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>) method
 
 
@@ -372,3 +402,8 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Sav
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, System::SharedPtr<Aspose::Words::Saving::SaveOptions> saveOptions)
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

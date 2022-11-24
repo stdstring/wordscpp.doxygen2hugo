@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldSeq::get_ResetNumber](../get_resetnumber
 void Aspose::Words::Fields::FieldSeq::set_ResetNumber(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldSeq](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

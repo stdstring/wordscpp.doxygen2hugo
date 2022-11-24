@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources](../
 void Aspose::Words::Saving::HtmlSaveOptions::set_ExportFontResources(bool value)
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

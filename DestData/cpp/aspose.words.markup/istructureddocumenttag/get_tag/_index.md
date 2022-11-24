@@ -15,3 +15,8 @@ Specifies a tag associated with the current SDT node. Can not be null.
 virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_Tag() const =0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

@@ -66,6 +66,11 @@ ASSERT_EQ(u" Real value.", doc->get_Range()->get_Fields()->idx_get(1)->get_Resul
 doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Paragraph::InsertField(const System::String\&, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
 
 
@@ -125,6 +130,11 @@ ASSERT_EQ(u" Real value.", doc->get_Range()->get_Fields()->idx_get(1)->get_Resul
 doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Paragraph::InsertField(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method
 
 
@@ -185,3 +195,8 @@ ASSERT_EQ(u" Real value.", doc->get_Range()->get_Fields()->idx_get(1)->get_Resul
 doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

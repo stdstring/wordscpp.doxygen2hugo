@@ -68,3 +68,8 @@ ASPOSE_ASSERT_EQ(doc->get_FirstSection()->get_Body(), para->get_ParentNode());
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

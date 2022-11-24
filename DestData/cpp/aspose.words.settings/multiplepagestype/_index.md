@@ -26,3 +26,7 @@ enum class MultiplePagesType
 | BookFoldPrintingReverse | 4 | Specifies whether to print the document as a reverse book fold. |
 | Default | n/a | Default value is **Normal** |
 
+## See Also
+
+* Namespace [Aspose::Words::Settings](../)
+* Library [Aspose.Words](../../)

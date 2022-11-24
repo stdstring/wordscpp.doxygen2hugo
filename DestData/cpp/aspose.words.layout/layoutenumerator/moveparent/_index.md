@@ -142,6 +142,11 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 }
 ```
 
+## See Also
+
+* Class [LayoutEnumerator](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)
 ## LayoutEnumerator::MoveParent(Aspose::Words::Layout::LayoutEntityType) method
 
 
@@ -282,3 +287,8 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 }
 ```
 
+## See Also
+
+* Class [LayoutEnumerator](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

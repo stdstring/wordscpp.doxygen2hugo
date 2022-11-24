@@ -75,6 +75,11 @@ target->CopyStylesFromTemplate(MyDir + u"Rendering.docx");
 ASSERT_EQ(21, target->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::CopyStylesFromTemplate(const System::String\&) method
 
 
@@ -135,3 +140,8 @@ target->CopyStylesFromTemplate(MyDir + u"Rendering.docx");
 ASSERT_EQ(21, target->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -58,6 +58,11 @@ doc->get_MailMerge()->Execute(columns, URIs);
 doc->Save(ArtifactsDir + u"MailMergeEvent.ImageFromUrl.docx");
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)
 ## MailMerge::Execute(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\&) method
 
 
@@ -202,3 +207,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

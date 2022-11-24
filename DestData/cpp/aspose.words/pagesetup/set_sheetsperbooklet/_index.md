@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_SheetsPerBooklet](../get_sheetsperbook
 void Aspose::Words::PageSetup::set_SheetsPerBooklet(int32_t value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -70,3 +70,8 @@ static void InsertSectionWithEndnote(SharedPtr<Document> doc, String sectionBody
 }
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

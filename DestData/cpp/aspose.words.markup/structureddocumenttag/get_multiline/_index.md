@@ -77,3 +77,8 @@ tagClone->RemoveSelfOnly();
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

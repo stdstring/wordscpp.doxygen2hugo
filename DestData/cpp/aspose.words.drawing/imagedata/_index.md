@@ -136,3 +136,7 @@ doc->Save(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx");
 ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx")->get_Length());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

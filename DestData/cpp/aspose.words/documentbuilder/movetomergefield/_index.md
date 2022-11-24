@@ -58,6 +58,11 @@ builder->Writeln(u"John Bloggs");
 doc->Save(ArtifactsDir + u"DocumentBuilder.FillMergeFields.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::MoveToMergeField(const System::String\&, bool, bool) method
 
 
@@ -105,3 +110,8 @@ builder->Write(u" Text between our merge fields. ");
 doc->Save(ArtifactsDir + u"DocumentBuilder.MergeFields.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

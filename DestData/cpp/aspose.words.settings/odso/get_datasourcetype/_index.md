@@ -19,3 +19,8 @@ Aspose::Words::Settings::OdsoDataSourceType Aspose::Words::Settings::Odso::get_D
 
 
 This setting is purely a suggestion of the data source type that is being used for this mail merge. 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

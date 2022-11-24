@@ -35,3 +35,8 @@ docA->Compare(docB, u"Aspose.Words", System::DateTime::get_Now(), compareOptions
 ASSERT_EQ(isIgnoreDmlUniqueId ? 0 : 2, docA->get_Revisions()->get_Count());
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

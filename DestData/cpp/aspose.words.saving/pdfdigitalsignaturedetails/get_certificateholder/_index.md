@@ -15,3 +15,8 @@ Returns the certificate holder object that contains the certificate was used to 
 System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> Aspose::Words::Saving::PdfDigitalSignatureDetails::get_CertificateHolder() const
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

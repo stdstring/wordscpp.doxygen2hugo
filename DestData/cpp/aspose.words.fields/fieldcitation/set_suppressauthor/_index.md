@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldCitation::get_SuppressAuthor](../get_sup
 void Aspose::Words::Fields::FieldCitation::set_SuppressAuthor(bool value)
 ```
 
+## See Also
+
+* Class [FieldCitation](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

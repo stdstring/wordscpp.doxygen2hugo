@@ -169,6 +169,11 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Comment::Comment(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&, const System::String\&, System::DateTime) method
 
 
@@ -207,3 +212,8 @@ ASSERT_EQ(System::DateTime::get_Today(), comment->get_DateTime());
 doc->Save(ArtifactsDir + u"InlineStory.AddComment.docx");
 ```
 
+## See Also
+
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

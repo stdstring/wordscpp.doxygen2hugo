@@ -66,3 +66,8 @@ static void AppendAutoTextEntry(SharedPtr<GlossaryDocument> glossaryDoc, String 
 }
 ```
 
+## See Also
+
+* Class [FieldAutoTextList](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

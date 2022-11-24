@@ -57,3 +57,8 @@ ASSERT_TRUE(signatureLine->get_DefaultInstructions());
 doc->Save(ArtifactsDir + u"Shape.SignatureLine.docx");
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

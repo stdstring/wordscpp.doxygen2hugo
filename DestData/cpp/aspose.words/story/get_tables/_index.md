@@ -45,3 +45,8 @@ ASSERT_EQ(3, tables->idx_get(0)->get_Rows()->get_Count());
 ASSERT_EQ(2, tables->idx_get(1)->get_Rows()->get_Count());
 ```
 
+## See Also
+
+* Class [Story](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

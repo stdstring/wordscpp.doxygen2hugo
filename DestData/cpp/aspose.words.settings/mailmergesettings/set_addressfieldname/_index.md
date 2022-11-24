@@ -15,3 +15,8 @@ Specifies the column within the data source that contains e-mail addresses. The 
 void Aspose::Words::Settings::MailMergeSettings::set_AddressFieldName(const System::String &value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

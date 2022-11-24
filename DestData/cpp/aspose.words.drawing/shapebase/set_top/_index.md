@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_Top](../get_top/).
 void Aspose::Words::Drawing::ShapeBase::set_Top(double value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Specifies the type of the mail-merge data source and the method of data access. 
 void Aspose::Words::Settings::MailMergeSettings::set_DataType(Aspose::Words::Settings::MailMergeDataType value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

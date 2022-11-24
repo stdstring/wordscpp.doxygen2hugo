@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAdvance::get_DownOffset](../get_downoffs
 void Aspose::Words::Fields::FieldAdvance::set_DownOffset(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAdvance](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

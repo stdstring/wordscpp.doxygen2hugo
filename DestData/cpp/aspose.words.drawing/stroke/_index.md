@@ -93,3 +93,7 @@ stroke->set_LineStyle(ShapeLineStyle::Triple);
 doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
 ```
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

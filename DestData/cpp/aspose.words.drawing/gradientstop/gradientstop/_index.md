@@ -73,6 +73,11 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);
 doc->Save(ArtifactsDir + u"Shape.GradientStops.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [GradientStop](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## GradientStop::GradientStop(System::Drawing::Color, double, double) method
 
 
@@ -141,3 +146,8 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);
 doc->Save(ArtifactsDir + u"Shape.GradientStops.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [GradientStop](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Type of a Facing Identification Mark (FIM).
 System::String Aspose::Words::Fields::BarcodeParameters::get_FacingIdentificationMark() const
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Style::get_BaseStyleName](../get_basestylename/).
 void Aspose::Words::Style::set_BaseStyleName(const System::String &value)
 ```
 
+## See Also
+
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

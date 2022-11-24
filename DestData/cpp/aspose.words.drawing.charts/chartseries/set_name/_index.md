@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartSeries::get_Name](../get_name/)
 void Aspose::Words::Drawing::Charts::ChartSeries::set_Name(const System::String &value)
 ```
 
+## See Also
+
+* Class [ChartSeries](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

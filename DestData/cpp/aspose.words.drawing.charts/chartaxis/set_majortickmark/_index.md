@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MajorTickMark](../get
 void Aspose::Words::Drawing::Charts::ChartAxis::set_MajorTickMark(Aspose::Words::Drawing::Charts::AxisTickMark value)
 ```
 
+## See Also
+
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

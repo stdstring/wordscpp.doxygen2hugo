@@ -52,3 +52,8 @@ body->get_FirstParagraph()->AppendChild(MakeObject<Run>(doc, u"Hello world!"));
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Body](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

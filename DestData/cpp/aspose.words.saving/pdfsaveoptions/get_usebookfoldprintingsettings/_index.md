@@ -52,3 +52,8 @@ if (renderTextAsBookfold)
 doc->Save(ArtifactsDir + u"PdfSaveOptions.SaveAsPdfBookFold.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

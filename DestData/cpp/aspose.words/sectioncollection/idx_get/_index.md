@@ -81,3 +81,8 @@ doc->get_Sections()->idx_get(0)->get_Body()->get_FirstParagraph()->AppendChild(M
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [SectionCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -66,6 +66,11 @@ doc->Unprotect(u"NewPassword");
 ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Unprotect(const System::String\&) method
 
 
@@ -134,3 +139,8 @@ doc->Unprotect(u"NewPassword");
 ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldInfo::get_NewValue](../get_newvalue/).
 void Aspose::Words::Fields::FieldInfo::set_NewValue(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldInfo](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

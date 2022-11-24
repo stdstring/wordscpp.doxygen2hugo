@@ -15,3 +15,8 @@ Gets whether to add Start/Stop characters for barcode types NW7 and CODE39.
 bool Aspose::Words::Fields::FieldMergeBarcode::get_AddStartStopChar()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

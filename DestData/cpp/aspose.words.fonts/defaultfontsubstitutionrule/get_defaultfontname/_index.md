@@ -77,3 +77,8 @@ builder->Writeln(u"Line written in a missing font, which will be substituted wit
 doc->Save(ArtifactsDir + u"FontSettings.DefaultFontSubstitutionRule.pdf");
 ```
 
+## See Also
+
+* Class [DefaultFontSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

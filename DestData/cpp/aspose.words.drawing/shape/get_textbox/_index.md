@@ -39,3 +39,8 @@ textBox->set_LayoutFlow(layoutFlow);
 doc->Save(ArtifactsDir + u"Shape.TextBoxLayoutFlow.docx");
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

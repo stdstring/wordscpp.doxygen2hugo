@@ -35,3 +35,7 @@ class ShapeRenderer : public Aspose::Words::Rendering::NodeRendererBase
 | [Save](../noderendererbase/save/)(const System::SharedPtr\<System::IO::Stream\>\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) | Renders the shape into an image and saves into a stream. |
 | [Save](../noderendererbase/save/)(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) |  |
 | [ShapeRenderer](./shaperenderer/)(const System::SharedPtr\<Aspose::Words::Drawing::ShapeBase\>\&) | Initializes a new instance of this class. |
+## See Also
+
+* Namespace [Aspose::Words::Rendering](../)
+* Library [Aspose.Words](../../)

@@ -15,3 +15,8 @@ Use ANSI Kerning Pairs from [Fonts](../../../aspose.words.fonts/).
 void Aspose::Words::Settings::CompatibilityOptions::set_UseAnsiKerningPairs(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

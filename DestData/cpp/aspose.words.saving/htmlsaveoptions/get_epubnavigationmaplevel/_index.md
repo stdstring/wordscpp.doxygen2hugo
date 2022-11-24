@@ -59,3 +59,8 @@ options->set_EpubNavigationMapLevel(2);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.EpubHeadings.epub", options);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

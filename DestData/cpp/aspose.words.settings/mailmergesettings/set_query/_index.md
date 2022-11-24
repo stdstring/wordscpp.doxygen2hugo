@@ -15,3 +15,8 @@ Contains the Structured Query Language string that shall be run against the spec
 void Aspose::Words::Settings::MailMergeSettings::set_Query(const System::String &value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

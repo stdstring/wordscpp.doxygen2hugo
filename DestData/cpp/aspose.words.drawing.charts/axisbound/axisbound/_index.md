@@ -15,6 +15,11 @@ Creates a new instance indicating that axis bound should be determined automatic
 Aspose::Words::Drawing::Charts::AxisBound::AxisBound()
 ```
 
+## See Also
+
+* Class [AxisBound](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## AxisBound::AxisBound(double) method
 
 
@@ -120,6 +125,11 @@ chart->get_AxisX()->get_Scaling()->set_Maximum(MakeObject<AxisBound>(System::Dat
 doc->Save(ArtifactsDir + u"Charts.AxisBound.docx");
 ```
 
+## See Also
+
+* Class [AxisBound](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## AxisBound::AxisBound(System::DateTime) method
 
 
@@ -225,3 +235,8 @@ chart->get_AxisX()->get_Scaling()->set_Maximum(MakeObject<AxisBound>(System::Dat
 doc->Save(ArtifactsDir + u"Charts.AxisBound.docx");
 ```
 
+## See Also
+
+* Class [AxisBound](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

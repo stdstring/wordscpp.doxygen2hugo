@@ -46,6 +46,11 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromStream.pdf")
 }
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FontFallbackSettings::Load(const System::String\&) method
 
 
@@ -79,6 +84,11 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromFile.pdf");
 doc->get_FontSettings()->get_FallbackSettings()->Save(ArtifactsDir + u"FallbackSettings.xml");
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FontFallbackSettings::Load(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -88,3 +98,8 @@ doc->get_FontSettings()->get_FallbackSettings()->Save(ArtifactsDir + u"FallbackS
 template<typename CharType,typename Traits> void Aspose::Words::Fonts::FontFallbackSettings::Load(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

@@ -31,3 +31,8 @@ ASSERT_EQ(PreferredWidthType::Percent, firstCell->get_CellFormat()->get_Preferre
 ASPOSE_ASSERT_EQ(11.16, firstCell->get_CellFormat()->get_PreferredWidth()->get_Value());
 ```
 
+## See Also
+
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -69,3 +69,8 @@ ASSERT_EQ(u"Joe Bloggs", doc->get_FieldOptions()->get_DefaultDocumentAuthor());
 doc->Save(ArtifactsDir + u"Field.AUTHOR.docx");
 ```
 
+## See Also
+
+* Class [FieldAuthor](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

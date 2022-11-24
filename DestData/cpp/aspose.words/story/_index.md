@@ -92,3 +92,7 @@ doc->get_FirstSection()->get_Body()->DeleteShapes();
 ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
 ```
 
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

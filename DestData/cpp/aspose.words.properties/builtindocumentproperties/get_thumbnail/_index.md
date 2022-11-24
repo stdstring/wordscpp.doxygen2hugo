@@ -48,3 +48,8 @@ SharedPtr<DocumentProperty> thumbnail = doc->get_BuiltInDocumentProperties()->id
 System::IO::File::WriteAllBytes(ArtifactsDir + u"DocumentProperties.Thumbnail.gif", thumbnail->ToByteArray());
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

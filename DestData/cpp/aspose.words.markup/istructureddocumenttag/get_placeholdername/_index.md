@@ -15,3 +15,8 @@ Gets Name of the [BuildingBlock](../../../aspose.words.buildingblocks/buildingbl
 virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_PlaceholderName()=0
 ```
 
+## See Also
+
+* Class [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

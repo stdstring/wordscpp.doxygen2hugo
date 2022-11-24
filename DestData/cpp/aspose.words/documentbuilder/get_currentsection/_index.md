@@ -51,3 +51,8 @@ ASPOSE_ASSERT_EQ(shape->get_Left() + shape->get_Width(), shape->get_Right());
 doc->Save(ArtifactsDir + u"Image.CreateFloatingPositionSize.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

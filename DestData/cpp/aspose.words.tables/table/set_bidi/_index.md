@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_Bidi](../get_bidi/).
 void Aspose::Words::Tables::Table::set_Bidi(bool value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

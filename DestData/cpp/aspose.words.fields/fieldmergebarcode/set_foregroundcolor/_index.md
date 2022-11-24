@@ -15,3 +15,8 @@ Sets the foreground color of the barcode symbol. Valid values are in the range [
 void Aspose::Words::Fields::FieldMergeBarcode::set_ForegroundColor(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

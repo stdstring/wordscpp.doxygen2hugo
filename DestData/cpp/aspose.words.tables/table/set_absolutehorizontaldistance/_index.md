@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance](../get
 void Aspose::Words::Tables::Table::set_AbsoluteHorizontalDistance(double value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

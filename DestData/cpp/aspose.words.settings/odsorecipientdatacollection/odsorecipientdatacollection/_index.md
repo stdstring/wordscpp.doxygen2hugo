@@ -15,3 +15,8 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/odsorecipientdatacol
 Aspose::Words::Settings::OdsoRecipientDataCollection::OdsoRecipientDataCollection()
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

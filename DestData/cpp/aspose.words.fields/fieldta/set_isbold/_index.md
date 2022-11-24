@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldTA::get_IsBold](../get_isbold/).
 void Aspose::Words::Fields::FieldTA::set_IsBold(bool value)
 ```
 
+## See Also
+
+* Class [FieldTA](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -41,6 +41,11 @@ Shows how to open an HTML document with images from a stream using a base URI.
 }
 ```
 
+## See Also
+
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)
 ## LoadOptions::LoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) method
 
 
@@ -102,6 +107,11 @@ ASSERT_TRUE(imageShape->get_IsImage());
 doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 ```
 
+## See Also
+
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)
 ## LoadOptions::LoadOptions(const System::String\&) method
 
 
@@ -141,3 +151,8 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 }
 ```
 
+## See Also
+
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

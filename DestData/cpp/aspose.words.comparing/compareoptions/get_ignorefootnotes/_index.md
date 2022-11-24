@@ -112,3 +112,8 @@ docOriginal->Compare(docEdited, u"John Doe", System::DateTime::get_Now(), compar
 docOriginal->Save(ArtifactsDir + u"Document.CompareOptions.docx");
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

@@ -23,3 +23,7 @@ enum class HorizontalRuleAlignment
 | Center | 1 | Aligned to the center. |
 | Right | 2 | Aligned to the right. |
 
+## See Also
+
+* Namespace [Aspose::Words::Drawing](../)
+* Library [Aspose.Words](../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIncludePicture::get_IsLinked](../get_isl
 void Aspose::Words::Fields::FieldIncludePicture::set_IsLinked(bool value)
 ```
 
+## See Also
+
+* Class [FieldIncludePicture](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

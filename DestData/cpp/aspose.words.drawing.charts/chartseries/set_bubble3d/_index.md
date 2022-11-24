@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D](../..
 void Aspose::Words::Drawing::Charts::ChartSeries::set_Bubble3D(bool value) override
 ```
 
+## See Also
+
+* Class [ChartSeries](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

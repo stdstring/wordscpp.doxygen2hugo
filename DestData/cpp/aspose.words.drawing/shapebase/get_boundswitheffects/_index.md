@@ -83,3 +83,8 @@ ASPOSE_ASSERT_EQ(192, shape->get_BoundsWithEffects().get_Width());
 ASPOSE_ASSERT_EQ(279, shape->get_BoundsWithEffects().get_Height());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

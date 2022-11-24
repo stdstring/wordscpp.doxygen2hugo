@@ -26,3 +26,7 @@ class Watermark : public System::Object
 | [SetImage](./setimage/)(const System::String\&, const System::SharedPtr\<Aspose::Words::ImageWatermarkOptions\>\&) | Adds Image watermark into the document. |
 | [SetText](./settext/)(const System::String\&) | Adds Text watermark into the document. |
 | [SetText](./settext/)(const System::String\&, const System::SharedPtr\<Aspose::Words::TextWatermarkOptions\>\&) | Adds Text watermark into the document. |
+## See Also
+
+* Namespace [Aspose::Words](../)
+* Library [Aspose.Words](../../)

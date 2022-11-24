@@ -32,3 +32,8 @@ ASSERT_EQ(SdtType::RepeatingSectionItem, sdTags->idx_get(1)->get_SdtType());
 ASSERT_EQ(SdtType::RichText, sdTags->idx_get(2)->get_SdtType());
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

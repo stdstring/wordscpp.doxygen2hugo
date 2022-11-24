@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::OleFormat::get_SourceItem](../get_sourceitem
 void Aspose::Words::Drawing::OleFormat::set_SourceItem(const System::String &value)
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

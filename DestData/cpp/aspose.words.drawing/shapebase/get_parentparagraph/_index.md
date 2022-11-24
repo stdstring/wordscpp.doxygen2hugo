@@ -52,3 +52,8 @@ builder->Writeln(u"\nThis text is outside the text box.");
 doc->Save(ArtifactsDir + u"Shape.Font.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

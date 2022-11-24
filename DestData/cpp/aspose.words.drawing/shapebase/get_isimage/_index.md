@@ -15,3 +15,8 @@ Returns true if this shape is an image shape.
 bool Aspose::Words::Drawing::ShapeBase::get_IsImage()
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

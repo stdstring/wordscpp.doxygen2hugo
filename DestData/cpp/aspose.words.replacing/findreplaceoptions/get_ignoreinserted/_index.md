@@ -49,3 +49,8 @@ ASSERT_EQ(ignoreTextInsideInsertRevisions ? String(u"Greetings world!\rHello aga
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

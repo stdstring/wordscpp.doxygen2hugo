@@ -15,3 +15,8 @@ url: /cpp/aspose.words.markup/customxmlschemacollection/virtualizebeginconstiter
 virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeBeginConstIterator() const override
 ```
 
+## See Also
+
+* Class [CustomXmlSchemaCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

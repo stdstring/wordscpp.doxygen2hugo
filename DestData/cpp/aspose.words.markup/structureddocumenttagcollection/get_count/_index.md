@@ -15,3 +15,8 @@ Returns the number of structured document tags in the collection.
 int32_t Aspose::Words::Markup::StructuredDocumentTagCollection::get_Count()
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)
