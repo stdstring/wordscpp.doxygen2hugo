@@ -1,4 +1,5 @@
 ﻿using Doxygen2HugoConverter.Config;
+using Doxygen2HugoConverter.Logger;
 using NUnit.Framework;
 
 namespace Doxygen2HugoConverter.Tests
@@ -12,7 +13,7 @@ namespace Doxygen2HugoConverter.Tests
             const String sourceData = "..\\..\\..\\..\\..\\SourceData";
             const String expectedData = "..\\..\\..\\..\\..\\DestData";
             const String actualData = ".\\out";
-            ConfigData configData = new ConfigData(sourceData, actualData);
+            ConfigData configData = new ConfigData(sourceData, actualData, LogLevel.Info);
             Assert.DoesNotThrow(() => ConvertProcessor.Convert(configData));
             CheckTree(expectedData, actualData);
         }
