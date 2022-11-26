@@ -1,5 +1,6 @@
 ﻿using System.Xml.Linq;
 using Doxygen2HugoConverter.Config;
+using Doxygen2HugoConverter.Logger;
 using Doxygen2HugoConverter.Markup;
 using Doxygen2HugoConverter.Refs;
 
@@ -9,7 +10,7 @@ using DetailedDescriptionPortion = IList<DetailedDescriptionMarkupEntry>;
 
 internal static class NamespaceParser
 {
-    public static EntityDef.NamespaceEntity ParseNamespaceFile(this NamespaceRef namespaceRef, ConfigData config, IDictionary<String, EntityDef> commonEntityRepo)
+    public static EntityDef.NamespaceEntity ParseNamespaceFile(this NamespaceRef namespaceRef, ConfigData config, IDictionary<String, EntityDef> commonEntityRepo, ILogger logger)
     {
         XDocument document = XDocument.Load(Path.Combine(config.SourceDirectory, namespaceRef.RefId + Common.SourceFileExtension));
         ParseState state = new ParseState("", "", commonEntityRepo);

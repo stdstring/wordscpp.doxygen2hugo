@@ -12,19 +12,19 @@ namespace Doxygen2HugoConverter.Generator
             String fieldDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(fieldDirectory);
             IList<String> fieldUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(fieldDirectory, fieldUrl, state.CommonEntityRepo);
+            GenerateState currentState = new GenerateState(fieldDirectory, fieldUrl, state.CommonEntityRepo, state.Logger);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
             GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, fieldUrl, state.Weight, builder);
             state.IncreaseWeight();
             GeneratorUtils.GenerateHeader($"{entity.Name} field", 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateFieldDefinition(builder);
-            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder);
+            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
             entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(fieldDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -71,7 +71,7 @@ namespace Doxygen2HugoConverter.Generator
                     if (entity.IsMutable)
                         builder.Append("mutable ");
                     builder.Append(GeneratorUtils.CreateLink(entity.Name, relativeUrl));
-                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
                     return new GenerateEntry(builder.ToString(), briefDescription);
             }
         }

@@ -17,13 +17,13 @@ namespace Doxygen2HugoConverter.Generator
             String namespaceDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(namespaceDirectory);
             IList<String> namespaceUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(namespaceDirectory, namespaceUrl, state.CommonEntityRepo);
+            GenerateState currentState = new GenerateState(namespaceDirectory, namespaceUrl, state.CommonEntityRepo, state.Logger);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
             GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, namespaceUrl, state.Weight, builder);
             state.IncreaseWeight();
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
@@ -47,7 +47,7 @@ namespace Doxygen2HugoConverter.Generator
                     return null;
                 String folderName = NameUtils.CreateNamespaceFolderName(entity.Name);
                 String title = GeneratorUtils.CreateLink(entity.Name, UrlGenerator.CreateChildUrl(folderName));
-                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
                 return new GenerateEntry(title, briefDescription);
             }
             return entities.Choose(CreateEntry).ToList();

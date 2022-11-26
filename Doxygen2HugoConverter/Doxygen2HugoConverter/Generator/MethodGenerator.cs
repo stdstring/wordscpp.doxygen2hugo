@@ -37,7 +37,7 @@ namespace Doxygen2HugoConverter.Generator
             String methodDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(methodDirectory);
             IList<String> methodUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.CommonEntityRepo);
+            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.CommonEntityRepo, state.Logger);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             if (isFirst)
@@ -48,15 +48,15 @@ namespace Doxygen2HugoConverter.Generator
             }
             IList<String> argsTypes = entity.Args.CreateArgTypeList();
             GeneratorUtils.GenerateHeader(entity.CreateMethodHeader(hasOverloads, argsTypes), 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateDefinition(builder);
-            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder);
-            entity.DetailedDescription.Args.GenerateArgs(CreateUrl, argsTypes, builder);
-            entity.DetailedDescription.ReturnValue.GenerateReturnValue(CreateUrl, builder);
-            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder);
+            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder, currentState.Logger);
+            entity.DetailedDescription.Args.GenerateArgs(currentState, argsTypes, builder);
+            entity.DetailedDescription.ReturnValue.GenerateReturnValue(currentState, builder);
+            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
             entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(methodDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -82,7 +82,7 @@ namespace Doxygen2HugoConverter.Generator
                         builder.Append(" const");
                     if (entity.IsOverride)
                         builder.Append(" override");
-                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
                     return new GenerateEntry(builder.ToString(), briefDescription);
             }
         }
@@ -130,26 +130,28 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine();
         }
 
-        private static void GenerateArgs(this MethodArgs methodArgs, Func<String, String?> relativeUrlGenerator, IList<String> argsTypes, StringBuilder dest)
+        private static void GenerateArgs(this MethodArgs methodArgs, GenerateState state, IList<String> argsTypes, StringBuilder dest)
         {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
             if (methodArgs.IsEmpty())
                 return;
             dest.AppendLine();
             GeneratorUtils.GenerateTableHeader(new[]{"Parameter", "Type", "Description"}, dest);
             foreach (var (methodArg, argType) in methodArgs.Zip(argsTypes))
             {
-                String methodArgDescription = methodArg.Description.CreateSimpleMarkup(relativeUrlGenerator);
+                String methodArgDescription = methodArg.Description.CreateSimpleMarkup(CreateUrl, state.Logger);
                 dest.AppendLine($"| {methodArg.Name} | {argType} | {methodArgDescription} |");
             }
         }
 
-        private static void GenerateReturnValue(this SimpleMarkupPortion returnValue, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
+        private static void GenerateReturnValue(this SimpleMarkupPortion returnValue, GenerateState state, StringBuilder dest)
         {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
             if (returnValue.IsEmpty())
                 return;
             dest.AppendLine();
             GeneratorUtils.GenerateHeader("ReturnValue", 3, dest);
-            dest.AppendLine(returnValue.CreateSimpleMarkup(relativeUrlGenerator));
+            dest.AppendLine(returnValue.CreateSimpleMarkup(CreateUrl, state.Logger));
         }
 
         private static void GenerateSeeAlso(this EntityDef.MethodEntity entity, GenerateState state, StringBuilder dest)

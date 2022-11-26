@@ -11,21 +11,21 @@ namespace Doxygen2HugoConverter.Generator
             String enumDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(enumDirectory);
             IList<String> enumUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(enumDirectory, enumUrl, state.CommonEntityRepo);
+            GenerateState currentState = new GenerateState(enumDirectory, enumUrl, state.CommonEntityRepo, state.Logger);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
             GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, enumUrl, state.Weight, builder);
             state.IncreaseWeight();
             GeneratorUtils.GenerateHeader($"{entity.Name} enum", 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateEnumDefinition(builder);
-            entity.Values.ProcessEnumValues(CreateUrl, builder);
+            entity.Values.ProcessEnumValues(currentState, builder);
             builder.AppendLine();
-            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder);
+            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
             entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(enumDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -37,7 +37,7 @@ namespace Doxygen2HugoConverter.Generator
             {
                 String folderName = NameUtils.CreateSimpleFolderName(entity.Name);
                 String title = GeneratorUtils.CreateLink(entity.Name, UrlGenerator.CreateChildUrl(folderName));
-                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
                 return new GenerateEntry(title, briefDescription);
             }
             return entities.Select(CreateEntry).ToList();
@@ -54,13 +54,14 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine();
         }
 
-        private static void ProcessEnumValues(this IList<EnumValueEntity> enumValues, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
+        private static void ProcessEnumValues(this IList<EnumValueEntity> enumValues, GenerateState state, StringBuilder dest)
         {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
             GeneratorUtils.GenerateHeader("Values", 3, dest);
             GeneratorUtils.GenerateTableHeader(new[]{"Name", "Value", "Description"}, dest);
             foreach (EnumValueEntity enumValue in enumValues)
             {
-                String valueBriefDescription = enumValue.BriefDescription.CreateSimpleMarkup(relativeUrlGenerator);
+                String valueBriefDescription = enumValue.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
                 String initializer = enumValue.Initializer switch
                 {
                     null => "n/a",

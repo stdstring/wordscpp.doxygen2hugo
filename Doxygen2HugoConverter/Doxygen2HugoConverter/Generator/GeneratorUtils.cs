@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using Doxygen2HugoConverter.Entities;
+using Doxygen2HugoConverter.Logger;
 using Doxygen2HugoConverter.Markup;
 
 namespace Doxygen2HugoConverter.Generator
@@ -8,7 +9,7 @@ namespace Doxygen2HugoConverter.Generator
 
     internal record GenerateEntry(String Title, String BriefDescription);
 
-    internal record GenerateState(String Directory, IList<String> Url, IDictionary<String, EntityDef> CommonEntityRepo)
+    internal record GenerateState(String Directory, IList<String> Url, IDictionary<String, EntityDef> CommonEntityRepo, ILogger Logger)
     {
         public Int32 Weight { get; private set; } = 1;
 
@@ -66,7 +67,7 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine();
         }
 
-        public static void GenerateTemplateParameters(this TemplateParameters templateParameters, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
+        public static void GenerateTemplateParameters(this TemplateParameters templateParameters, Func<String, String?> relativeUrlGenerator, StringBuilder dest, ILogger logger)
         {
             if (templateParameters.IsEmpty())
                 return;
@@ -74,7 +75,7 @@ namespace Doxygen2HugoConverter.Generator
             GenerateTableHeader(new[]{"Parameter", "Description"}, dest);
             foreach (TemplateParameter templateParameter in templateParameters)
             {
-                String parameterDescription = templateParameter.Description.CreateSimpleMarkup(relativeUrlGenerator);
+                String parameterDescription = templateParameter.Description.CreateSimpleMarkup(relativeUrlGenerator, logger);
                 dest.AppendLine($"| {templateParameter.Name} | {parameterDescription} |");
             }
         }
@@ -113,7 +114,6 @@ namespace Doxygen2HugoConverter.Generator
                 }
                 return parentList;
             }
-
             StringBuilder parentUrl = new StringBuilder();
             IList<EntityDef> parentList = CreateParentList();
             foreach (EntityDef parent in parentList)

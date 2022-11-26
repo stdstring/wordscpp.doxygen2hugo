@@ -11,19 +11,19 @@ namespace Doxygen2HugoConverter.Generator
             String typedefDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(typedefDirectory);
             IList<String> typedefUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(typedefDirectory, typedefUrl, state.CommonEntityRepo);
+            GenerateState currentState = new GenerateState(typedefDirectory, typedefUrl, state.CommonEntityRepo, state.Logger);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
             GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, typedefUrl, state.Weight, builder);
             state.IncreaseWeight();
             GeneratorUtils.GenerateHeader($"{entity.Name} typedef", 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateTypedefDefinition(builder);
-            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder);
+            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
             entity.GenerateSeeAlso(state, builder);
             File.AppendAllText(Path.Combine(typedefDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -35,7 +35,7 @@ namespace Doxygen2HugoConverter.Generator
             {
                 String folderName = NameUtils.CreateSimpleFolderName(entity.Name);
                 String title = GeneratorUtils.CreateLink(entity.Name, UrlGenerator.CreateChildUrl(folderName));
-                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
                 return new GenerateEntry(title, briefDescription);
             }
             return entities.Select(CreateEntry).ToList();

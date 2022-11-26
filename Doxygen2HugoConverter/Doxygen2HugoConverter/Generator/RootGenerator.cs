@@ -1,16 +1,17 @@
 ﻿using Doxygen2HugoConverter.Config;
 using Doxygen2HugoConverter.Entities;
 using System.Text;
+using Doxygen2HugoConverter.Logger;
 
 namespace Doxygen2HugoConverter.Generator
 {
     internal static class RootGenerator
     {
-        internal static void GenerateForNamespaces(this IList<EntityDef.NamespaceEntity> entities, ConfigData config, IDictionary<string, EntityDef> commonEntityRepo)
+        internal static void GenerateForNamespaces(this IList<EntityDef.NamespaceEntity> entities, ConfigData config, IDictionary<string, EntityDef> commonEntityRepo, ILogger logger)
         {
             String rootDirectory = PrepareDirectory(config);
             IList<String> rootUrl = new List<String>{Common.RootDirectory};
-            GenerateState state = new GenerateState(rootDirectory, rootUrl, commonEntityRepo);
+            GenerateState state = new GenerateState(rootDirectory, rootUrl, commonEntityRepo, logger);
             StringBuilder builder = new StringBuilder();
             GenerateRootPageHeader(builder, rootUrl);
             GeneratorUtils.GenerateHeader("Namespaces", 2, builder);
