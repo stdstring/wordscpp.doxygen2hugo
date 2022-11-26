@@ -17,7 +17,7 @@ The **Aspose.Words.Loading** namespace provides classes and enumerations that al
 | [DocumentLoadingArgs](./documentloadingargs/) | An argument passed into [Notify()](./idocumentloadingcallback/notify/). |
 | [HtmlLoadOptions](./htmlloadoptions/) | Allows to specify additional options when loading HTML document into a [Document](../aspose.words/document/) object. |
 | [LanguagePreferences](./languagepreferences/) | Allows to set up language preferences. |
-| [LoadOptions](./loadoptions/) | Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../aspose.words/document/) object. To learn more, visit the [Specify Load Options](https://docs.aspose.com/words/net/specify-load-options/) documentation article. |
+| [LoadOptions](./loadoptions/) | Allows to specify additional options (such as password or base URI) when loading a document into a [Document](../aspose.words/document/) object. To learn more, visit the [Specify Load Options](https://docs.aspose.com/words/cpp/specify-load-options/) documentation article. |
 | [PdfLoadOptions](./pdfloadoptions/) | Allows to specify additional options when loading Pdf document into a [Document](../aspose.words/document/) object. |
 | [ResourceLoadingArgs](./resourceloadingargs/) | Provides data for the [ResourceLoading()](./iresourceloadingcallback/resourceloading/) method. |
 | [RtfLoadOptions](./rtfloadoptions/) | Allows to specify additional options when loading [Rtf](../aspose.words/loadformat/) document into a [Document](../aspose.words/document/) object. |

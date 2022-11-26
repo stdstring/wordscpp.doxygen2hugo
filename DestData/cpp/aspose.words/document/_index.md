@@ -9,7 +9,7 @@ url: /cpp/aspose.words/document/
 ## Document class
 
 
-Represents a Word document. To learn more, visit the [Working with Document](https://docs.aspose.com/words/net/working-with-document/) documentation article.
+Represents a Word document. To learn more, visit the [Working with Document](https://docs.aspose.com/words/cpp/working-with-document/) documentation article.
 
 ```cpp
 class Document : public Aspose::Words::DocumentBase,

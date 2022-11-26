@@ -9,7 +9,7 @@ url: /cpp/aspose.words.mailmerging/mailmerge/
 ## MailMerge class
 
 
-Represents the mail merge functionality. To learn more, visit the [Mail Merge and Reporting](https://docs.aspose.com/words/net/mail-merge-and-reporting/) documentation article.
+Represents the mail merge functionality. To learn more, visit the [Mail Merge and Reporting](https://docs.aspose.com/words/cpp/mail-merge-and-reporting/) documentation article.
 
 ```cpp
 class MailMerge : public System::Object

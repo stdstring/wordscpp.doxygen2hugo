@@ -11,5 +11,7 @@
         public const String MarkdownFilename = "_index.md";
 
         public const String NameDelimiter = "::";
+
+        public const String AsposeDocsPrefix = "https://docs.aspose.com/";
     }
 }

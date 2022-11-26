@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmark/
 ## Bookmark class
 
 
-Represents a single bookmark. To learn more, visit the [Working with Bookmarks](https://docs.aspose.com/words/net/working-with-bookmarks/) documentation article.
+Represents a single bookmark. To learn more, visit the [Working with Bookmarks](https://docs.aspose.com/words/cpp/working-with-bookmarks/) documentation article.
 
 ```cpp
 class Bookmark : public System::Object

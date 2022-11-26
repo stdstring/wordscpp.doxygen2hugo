@@ -51,7 +51,7 @@ namespace Doxygen2HugoConverter.Generator
                         entry.Ref.GenerateRef(relativeUrlGenerator, dest, logger);
                         break;
                     case DetailedDescriptionMarkupEntry.ExternalLinkEntry entry:
-                        dest.Append(GeneratorUtils.CreateLink(entry.Link.Text, entry.Link.Url));
+                        entry.Link.GenerateExternalLink(dest, logger);
                         break;
                     case DetailedDescriptionMarkupEntry.ParagraphStartEntry:
                         dest.AppendLine();
@@ -92,7 +92,7 @@ namespace Doxygen2HugoConverter.Generator
                     entry.Ref.GenerateRef(relativeUrlGenerator, dest, logger);
                     break;
                 case SimpleMarkupEntry.ExternalLinkEntry entry:
-                    dest.Append(GeneratorUtils.CreateLink(entry.Link.Text, entry.Link.Url));
+                    entry.Link.GenerateExternalLink(dest, logger);
                     break;
                 case SimpleMarkupEntry.ParagraphStartEntry:
                     dest.AppendLine();
@@ -121,10 +121,19 @@ namespace Doxygen2HugoConverter.Generator
                     dest.Append($"**{reference.Text}**");
                     break;
                 case var relativeUrl:
-                    logger.LogInfo($"Resolved ref for {reference.Text}: {relativeUrl}");
+                    logger.LogInfo($"Resolved ref for \"{reference.Text}\": {relativeUrl}");
                     dest.Append(GeneratorUtils.CreateLink(reference.Text, relativeUrl));
                     break;
             }
+        }
+
+        private static void GenerateExternalLink(this ExternalLinkData link, StringBuilder dest, ILogger logger)
+        {
+            String url = link.Url;
+            if (url.StartsWith(Common.AsposeDocsPrefix))
+                url = url.Replace("/net/", "/cpp/");
+            logger.LogInfo($"Process external link for \"{link.Text}\": {url}");
+            dest.Append(GeneratorUtils.CreateLink(link.Text, url));
         }
 
         private static void GenerateCodeBlock(this IList<CodeBlockMarkupLine> codeBlock, StringBuilder dest)

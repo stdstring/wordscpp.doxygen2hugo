@@ -9,7 +9,7 @@ url: /cpp/aspose.words/watermark/
 ## Watermark class
 
 
-Represents class to work with document watermark. To learn more, visit the [Working with Watermark](https://docs.aspose.com/words/net/working-with-watermark/) documentation article.
+Represents class to work with document watermark. To learn more, visit the [Working with Watermark](https://docs.aspose.com/words/cpp/working-with-watermark/) documentation article.
 
 ```cpp
 class Watermark : public System::Object
