@@ -26,7 +26,7 @@ bool Aspose::Words::Fields::FieldEnd::Accept(System::SharedPtr<Aspose::Words::Do
 ## Remarks
 
 
-Calls **VisitFieldEnd()**.
+Calls [VisitFieldEnd()](../).
 
 For more info see the Visitor design pattern.
 

@@ -26,7 +26,7 @@ bool Aspose::Words::Fields::FieldSeparator::Accept(System::SharedPtr<Aspose::Wor
 ## Remarks
 
 
-Calls **VisitFieldSeparator()**.
+Calls [VisitFieldSeparator()](../).
 
 For more info see the Visitor design pattern.
 

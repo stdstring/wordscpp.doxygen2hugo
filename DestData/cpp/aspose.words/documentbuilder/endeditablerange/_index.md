@@ -22,7 +22,7 @@ The editable range end node that was just created.
 ## Remarks
 
 
-Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or **EndEditableRange()** methods.
+Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or [EndEditableRange()](../) methods.
 
 Badly formed editable range will be ignored when the document is saved.
 
@@ -97,7 +97,7 @@ The editable range end node that was just created.
 
 Use this overload during creating nested editable ranges.
 
-Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or **EndEditableRange()** methods.
+Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or [EndEditableRange()](../) methods.
 
 Badly formed editable range will be ignored when the document is saved.
 

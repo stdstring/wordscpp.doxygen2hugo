@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/layoutcollector/getnumpagesspanned/
 ## LayoutCollector::GetNumPagesSpanned method
 
 
-Gets number of pages the specified node spans. 0 if node is within a single page. This is the same as **GetEndPageIndex()** - **GetStartPageIndex()**.
+Gets number of pages the specified node spans. 0 if node is within a single page. This is the same as [GetEndPageIndex()](../) - [GetStartPageIndex()](../).
 
 ```cpp
 int32_t Aspose::Words::Layout::LayoutCollector::GetNumPagesSpanned(const System::SharedPtr<Aspose::Words::Node> &node)

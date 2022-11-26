@@ -30,7 +30,7 @@ A [Field](../../../aspose.words.fields/field/) object that represents the insert
 
 Note that you need to specify font formatting for the hyperlink display text explicitly using the [Font](../get_font/) property.
 
-This methods internally calls **InsertField()** to insert an MS Word HYPERLINK field into the document.
+This methods internally calls [InsertField()](../) to insert an MS Word HYPERLINK field into the document.
 
 ## Examples
 

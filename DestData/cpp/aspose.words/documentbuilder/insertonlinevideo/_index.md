@@ -42,7 +42,7 @@ Insertion of online video from the following resources is supported:
 
 
 
-If your online video is not displaying correctly, use **InsertOnlineVideo()**, which accepts custom embedded html code.
+If your online video is not displaying correctly, use [InsertOnlineVideo()](../), which accepts custom embedded html code.
 
 The code for embedding video can vary between providers, consult your corresponding provider of choice for details.
 
@@ -245,7 +245,7 @@ Insertion of online video from the following resources is supported:
 
 
 
-If your online video is not displaying correctly, use **InsertOnlineVideo()**, which accepts custom embedded html code.
+If your online video is not displaying correctly, use [InsertOnlineVideo()](../), which accepts custom embedded html code.
 
 The code for embedding video can vary between providers, consult your corresponding provider of choice for details.
 

@@ -19,7 +19,7 @@ int32_t Aspose::Words::Markup::StructuredDocumentTag::get_Id() override
 
 
 Id attribute shall follow these rules:* The document shall retain SDT ids only if the whole document is cloned [Clone](../../../aspose.words/document/clone/).
-* During **ImportNode()** Id shall be retained if import does not cause conflicts with other SDT Ids in the target document.
+* During [ImportNode()](../) Id shall be retained if import does not cause conflicts with other SDT Ids in the target document.
 * If multiple SDT nodes specify the same decimal number value for the Id attribute, then the first SDT in the document shall maintain this original Id, and all subsequent SDT nodes shall have new identifiers assigned to them when the document is loaded.
 * During standalone SDT **Clone()** operation new unique ID will be generated for the cloned SDT node.
 * If Id is not specified in the source document, then the SDT node shall have a new unique identifier assigned to it when the document is loaded.

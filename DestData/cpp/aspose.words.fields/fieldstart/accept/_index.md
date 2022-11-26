@@ -26,7 +26,7 @@ bool Aspose::Words::Fields::FieldStart::Accept(System::SharedPtr<Aspose::Words::
 ## Remarks
 
 
-Calls **VisitFieldStart()**.
+Calls [VisitFieldStart()](../).
 
 For more info see the Visitor design pattern.
 

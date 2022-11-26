@@ -9,7 +9,7 @@ url: /cpp/aspose.words/nodelist/
 ## NodeList class
 
 
-Represents a collection of nodes matching an XPath query executed using the **SelectNodes()** method.
+Represents a collection of nodes matching an XPath query executed using the [SelectNodes()](../) method.
 
 ```cpp
 class NodeList : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Words::Node>>
@@ -27,7 +27,7 @@ class NodeList : public System::Collections::Generic::IEnumerable<System::Shared
 ## Remarks
 
 
-**NodeList** is returned by **SelectNodes()** and contains a collection of nodes matching the XPath query.
+**NodeList** is returned by [SelectNodes()](../) and contains a collection of nodes matching the XPath query.
 
 **NodeList** supports indexed access and iteration.
 

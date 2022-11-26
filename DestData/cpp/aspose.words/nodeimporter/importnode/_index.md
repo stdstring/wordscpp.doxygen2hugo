@@ -29,7 +29,7 @@ The cloned, imported node. The node belongs to the destination document, but has
 
 Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.
 
-Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using **InsertBefore()** or **InsertAfter()**.
+Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using [InsertBefore()](../) or [InsertAfter()](../).
 
 If the source node already belongs to the destination document, then simply a deep clone of the source node is created.
 

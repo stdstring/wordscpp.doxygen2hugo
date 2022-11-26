@@ -57,7 +57,7 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 | [NodeChangingArgs](./nodechangingargs/) | Provides data for methods of the [INodeChangingCallback](./inodechangingcallback/) interface. |
 | [NodeCollection](./nodecollection/) | Represents a collection of nodes of a specific type. |
 | [NodeImporter](./nodeimporter/) | Allows to efficiently perform repeated import of nodes from one document to another. |
-| [NodeList](./nodelist/) | Represents a collection of nodes matching an XPath query executed using the **SelectNodes()** method. |
+| [NodeList](./nodelist/) | Represents a collection of nodes matching an XPath query executed using the [SelectNodes()](../) method. |
 | [PageSetup](./pagesetup/) | Represents the page setup properties of a section. |
 | [Paragraph](./paragraph/) | Represents a paragraph of text. |
 | [ParagraphCollection](./paragraphcollection/) | Provides typed access to a collection of [Paragraph](./paragraph/) nodes. |
@@ -112,7 +112,7 @@ The **Aspose.Words** namespace provides classes for generating, converting, modi
 | [EmphasisMark](./emphasismark/) | Specifies possible types of emphasis mark. |
 | [HeaderFooterType](./headerfootertype/) | Identifies the type of header or footer found in a Word file. |
 | [HeightRule](./heightrule/) | Specifies the rule for determining the height of an object. |
-| [HtmlInsertOptions](./htmlinsertoptions/) | Specifies options for the **InsertHtml()** method. |
+| [HtmlInsertOptions](./htmlinsertoptions/) | Specifies options for the [InsertHtml()](../) method. |
 | [ImportFormatMode](./importformatmode/) | Specifies how formatting is merged when importing content from another document. |
 | [LicenseState](./licensestate/) | LicenseState enumeration. |
 | [LineNumberRestartMode](./linenumberrestartmode/) | Determines when automatic line numbering restarts. |

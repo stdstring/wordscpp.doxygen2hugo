@@ -250,7 +250,7 @@ The number of replacements made.
 ## Remarks
 
 
-The pattern will not be used as regular expression. Please use **Replace()** if you need regular expressions.
+The pattern will not be used as regular expression. Please use [Replace()](../) if you need regular expressions.
 
 Used case-insensitive comparison.
 
@@ -345,7 +345,7 @@ The number of replacements made.
 ## Remarks
 
 
-The pattern will not be used as regular expression. Please use **Replace()** if you need regular expressions.
+The pattern will not be used as regular expression. Please use [Replace()](../) if you need regular expressions.
 
 Method is able to process breaks in both pattern and replacement strings.
 

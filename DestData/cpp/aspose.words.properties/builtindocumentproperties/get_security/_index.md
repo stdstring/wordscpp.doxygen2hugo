@@ -20,7 +20,7 @@ Aspose::Words::Properties::DocumentSecurity Aspose::Words::Properties::BuiltInDo
 
 Use this property for informational purposes only because Microsoft Word does not always set this property. This property is available in DOC and OOXML documents only.
 
-To protect or unprotect a document use the **Protect()** and [Unprotect](../../../aspose.words/document/unprotect/) methods.
+To protect or unprotect a document use the [Protect()](../) and [Unprotect](../../../aspose.words/document/unprotect/) methods.
 
 Aspose.Words updates this property to a correct value before saving a document.
 

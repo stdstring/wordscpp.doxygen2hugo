@@ -114,15 +114,24 @@ namespace Doxygen2HugoConverter.Generator
 
         private static void GenerateRef(this MarkupRef reference, Func<String, String?> relativeUrlGenerator, StringBuilder dest, ILogger logger)
         {
-            switch (relativeUrlGenerator(reference.RefId))
+            switch (reference.RefId)
             {
-                case null:
-                    logger.LogWarning($"Can't resolve ref with id = \"{reference.RefId}\" text = \"{reference.Text}\", kind = \"{reference.Kind}\", external = \"{reference.External}\"");
-                    dest.Append($"**{reference.Text}**");
+                case "":
+                    logger.LogInfo($"Resolved ref for parent of \"{reference.Text}\"");
+                    dest.Append(GeneratorUtils.CreateLink(reference.Text, Common.ParentUrl));
                     break;
-                case var relativeUrl:
-                    logger.LogInfo($"Resolved ref for \"{reference.Text}\": {relativeUrl}");
-                    dest.Append(GeneratorUtils.CreateLink(reference.Text, relativeUrl));
+                default:
+                    switch (relativeUrlGenerator(reference.RefId))
+                    {
+                        case null:
+                            logger.LogWarning($"Can't resolve ref with id = \"{reference.RefId}\" text = \"{reference.Text}\", kind = \"{reference.Kind}\", external = \"{reference.External}\"");
+                            dest.Append($"**{reference.Text}**");
+                            break;
+                        case var relativeUrl:
+                            logger.LogInfo($"Resolved ref for \"{reference.Text}\": {relativeUrl}");
+                            dest.Append(GeneratorUtils.CreateLink(reference.Text, relativeUrl));
+                            break;
+                    }
                     break;
             }
         }

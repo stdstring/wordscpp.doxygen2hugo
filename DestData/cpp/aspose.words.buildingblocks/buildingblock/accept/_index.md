@@ -30,7 +30,7 @@ Enumerates over this node and all of its children. Each node calls a correspondi
 
 For more info see the Visitor design pattern.
 
-Calls **VisitBuildingBlockStart()**, then calls [Accept()](../../../aspose.words/node/accept/) for all child nodes of this building block, then calls **VisitBuildingBlockEnd()**.
+Calls [VisitBuildingBlockStart()](../), then calls [Accept()](../../../aspose.words/node/accept/) for all child nodes of this building block, then calls [VisitBuildingBlockEnd()](../).
 
 Note: A building block node and its children are not visited when you execute a Visitor over a [Document](../../../aspose.words/document/). If you want to execute a Visitor over a building block, you need to execute the visitor over [GlossaryDocument](../../glossarydocument/) or call [Accept()](./).
 

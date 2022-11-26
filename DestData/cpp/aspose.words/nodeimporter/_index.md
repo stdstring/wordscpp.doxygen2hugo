@@ -27,7 +27,7 @@ class NodeImporter : public System::Object
 
 Aspose.Words provides functionality for easy copying and moving fragments between Microsoft Word documents. This is known as "importing nodes". Before you can insert a fragment from one document into another, you need to "import" it. Importing creates a deep clone of the original node, ready to be inserted into the destination document.
 
-The simplest way to import a node is to use the **ImportNode()** method provided by the [DocumentBase](../documentbase/) object.
+The simplest way to import a node is to use the [ImportNode()](../) method provided by the [DocumentBase](../documentbase/) object.
 
 However, when you need to import nodes from one document to another multiple times, it is better to use the [NodeImporter](./) class. The [NodeImporter](./) class allows to minimize the number of styles and lists created in the destination document.
 

@@ -26,7 +26,7 @@ class FileFormatInfo : public System::Object
 ## Remarks
 
 
-You do not create instances of this class directly. Objects of this class are returned by **DetectFileFormat()** methods.
+You do not create instances of this class directly. Objects of this class are returned by [DetectFileFormat()](../) methods.
 
 ## Examples
 

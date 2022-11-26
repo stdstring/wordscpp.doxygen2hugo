@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/rtfloadoptions/get_recognizeutf8text/
 ## RtfLoadOptions::get_RecognizeUtf8Text method
 
 
-When set to true, **CharsetDetector** will try to detect UTF8 characters, they will be preserved during import. Default value is false.
+When set to true, [CharsetDetector](../) will try to detect UTF8 characters, they will be preserved during import. Default value is false.
 
 ```cpp
 bool Aspose::Words::Loading::RtfLoadOptions::get_RecognizeUtf8Text() const

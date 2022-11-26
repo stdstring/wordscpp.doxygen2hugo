@@ -27,7 +27,7 @@ A [Field](../../../aspose.words.fields/field/) object that represents the insert
 ## Remarks
 
 
-This method inserts a field into a document. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
+This method inserts a field into a document. Aspose.Words can update fields of most types, but not all. For more details see the [InsertField()](../) overload.
 
 ## Examples
 
@@ -97,7 +97,7 @@ A [Field](../../../aspose.words.fields/field/) object that represents the insert
 ## Remarks
 
 
-This method inserts a field into a document and updates the field result immediately. Aspose.Words can update fields of most types, but not all. For more details see the **InsertField()** overload.
+This method inserts a field into a document and updates the field result immediately. Aspose.Words can update fields of most types, but not all. For more details see the [InsertField()](../) overload.
 
 ## Examples
 

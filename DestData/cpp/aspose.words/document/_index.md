@@ -196,9 +196,9 @@ To load an existing document in any of the [LoadFormat](../loadformat/) formats,
 
 Use one of the Save method overloads to save the document in any of the [SaveFormat](../saveformat/) formats.
 
-To draw document pages directly onto a **Graphics** object use **RenderToScale()** or **RenderToSize()** method.
+To draw document pages directly onto a **Graphics** object use [RenderToScale()](../) or [RenderToSize()](../) method.
 
-To print the document, use one of the **Print()** methods.
+To print the document, use one of the [Print()](../) methods.
 
 [MailMerge](./get_mailmerge/) is the [Aspose.Words](../)'s reporting engine that allows to populate reports designed in Microsoft Word with data from various data sources quickly and easily. The data can be from a or an array of values. **MailMerge** will go through the records found in the data source and insert them into mail merge fields in the document growing it as necessary.
 
@@ -207,8 +207,8 @@ To print the document, use one of the **Print()** methods.
 The **Document** is a root node of a tree that contains all other nodes of the document. The tree is a Composite design pattern and in many ways similar to XmlDocument. The content of the document can be manipulated freely programmatically:
 
 * The nodes of the document can be accessed via typed collections, for example [Sections](./get_sections/), [ParagraphCollection](../paragraphcollection/) etc.
-* The nodes of the document can be selected by their node type using [GetChildNodes()](../compositenode/getchildnodes/) or using an XPath query with **SelectNodes()** or **SelectSingleNode()**.
-* Content nodes can be added or removed from anywhere in the document using **InsertBefore()**, **InsertAfter()**, **RemoveChild()** and other methods provided by the base class [CompositeNode](../compositenode/).
+* The nodes of the document can be selected by their node type using [GetChildNodes()](../compositenode/getchildnodes/) or using an XPath query with [SelectNodes()](../) or [SelectSingleNode()](../).
+* Content nodes can be added or removed from anywhere in the document using [InsertBefore()](../), [InsertAfter()](../), [RemoveChild()](../) and other methods provided by the base class [CompositeNode](../compositenode/).
 * The formatting attributes of each node can be changed via the properties of that node.
 
 

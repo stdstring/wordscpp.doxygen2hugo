@@ -118,7 +118,7 @@ namespace Doxygen2HugoConverter.Generator
             IList<EntityDef> parentList = CreateParentList();
             foreach (EntityDef parent in parentList)
             {
-                parentUrl.Append("../");
+                parentUrl.Append(Common.ParentUrl);
                 switch (parent)
                 {
                     case EntityDef.NamespaceEntity entity:
@@ -137,7 +137,7 @@ namespace Doxygen2HugoConverter.Generator
                     //    break;
                 }
             }
-            parentUrl.Append("../");
+            parentUrl.Append(Common.ParentUrl);
             dest.AppendLine($"* Library {CreateLink("Aspose.Words", parentUrl.ToString())}");
         }
     }

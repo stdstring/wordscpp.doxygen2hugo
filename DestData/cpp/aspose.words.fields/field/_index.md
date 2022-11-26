@@ -54,7 +54,7 @@ The process of calculating field results is called the field update. Aspose.Word
 
 You can get the plain text version of the field code using the [GetFieldCode()](./getfieldcode/) method. You can get and set the plain text version of the field result using the [Result](./get_result/) property. Both the field code and field result can contain complex content, such as nested fields, paragraphs, shapes, tables and in this case you might want to work with the field nodes directly if you need more control.
 
-You do not create instances of the [Field](./) class directly. To create a new field use the **InsertField()** method.
+You do not create instances of the [Field](./) class directly. To create a new field use the [InsertField()](../) method.
 
 ## Examples
 

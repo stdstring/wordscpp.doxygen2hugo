@@ -62,7 +62,7 @@ class FieldEnd : public Aspose::Words::Fields::FieldChar
 
 A complete field in a Microsoft Word document is a complex structure consisting of a field start character, field code, field separator character, field result and field end character. Some fields only have field start, field code and field end.
 
-To easily insert a new field into a document, use the **InsertField()** method.
+To easily insert a new field into a document, use the [InsertField()](../) method.
 
 ## Examples
 

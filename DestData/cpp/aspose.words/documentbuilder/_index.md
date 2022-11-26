@@ -139,7 +139,7 @@ class DocumentBuilder : public Aspose::Words::IRunAttrSource,
 
 Create a **DocumentBuilder** and associate it with a [Document](./get_document/).
 
-The **DocumentBuilder** has an internal cursor where the text will be inserted when you call **Write()**, **Writeln()**, [InsertBreak()](./insertbreak/) and other methods. You can navigate the **DocumentBuilder** cursor to a different location in a document using various MoveToXXX methods.
+The **DocumentBuilder** has an internal cursor where the text will be inserted when you call [Write()](../), [Writeln()](../), [InsertBreak()](./insertbreak/) and other methods. You can navigate the **DocumentBuilder** cursor to a different location in a document using various MoveToXXX methods.
 
 Use the [Font](./get_font/) property to specify character formatting that will apply to all text inserted from the current position in the document onwards.
 
