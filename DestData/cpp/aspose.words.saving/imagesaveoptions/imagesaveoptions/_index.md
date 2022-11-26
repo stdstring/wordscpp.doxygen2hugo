@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/imagesaveoptions/imagesaveoptions/
 ---
-## ImageSaveOptions::ImageSaveOptions method
+## ImageSaveOptions::ImageSaveOptions constructor
 
 
 Initializes a new instance of this class that can be used to save rendered images in the [Tiff](../../../aspose.words/saveformat/), [Png](../../../aspose.words/saveformat/), [Bmp](../../../aspose.words/saveformat/), [Emf](../../../aspose.words/saveformat/), [Jpeg](../../../aspose.words/saveformat/) or [Svg](../../../aspose.words/saveformat/) format. [Png](../../../aspose.words/saveformat/), [Bmp](../../../aspose.words/saveformat/), [Jpeg](../../../aspose.words/saveformat/) or [Svg](../../../aspose.words/saveformat/) format.

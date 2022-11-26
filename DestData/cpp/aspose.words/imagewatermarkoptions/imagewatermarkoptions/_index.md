@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/imagewatermarkoptions/imagewatermarkoptions/
 ---
-## ImageWatermarkOptions::ImageWatermarkOptions method
+## ImageWatermarkOptions::ImageWatermarkOptions constructor
 
 
 

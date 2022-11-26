@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.tables/cell/cell/
 ---
-## Cell::Cell method
+## Cell::Cell constructor
 
 
 Initializes a new instance of the **Cell** class.

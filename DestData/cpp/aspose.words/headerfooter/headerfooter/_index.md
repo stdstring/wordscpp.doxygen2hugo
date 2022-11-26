@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/headerfooter/headerfooter/
 ---
-## HeaderFooter::HeaderFooter method
+## HeaderFooter::HeaderFooter constructor
 
 
 Creates a new header or footer of the specified type.

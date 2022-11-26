@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/nodelist/nodelist/
 ---
-## NodeList::NodeList method
+## NodeList::NodeList constructor
 
 
 

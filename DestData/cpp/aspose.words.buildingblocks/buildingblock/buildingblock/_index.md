@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.buildingblocks/buildingblock/buildingblock/
 ---
-## BuildingBlock::BuildingBlock method
+## BuildingBlock::BuildingBlock constructor
 
 
 Initializes a new instance of this class.

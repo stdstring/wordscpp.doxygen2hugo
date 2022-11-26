@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/outlineoptions/outlineoptions/
 ---
-## OutlineOptions::OutlineOptions method
+## OutlineOptions::OutlineOptions constructor
 
 
 

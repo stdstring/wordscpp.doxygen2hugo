@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextensionreference/webextensionreference/
 ---
-## WebExtensionReference::WebExtensionReference method
+## WebExtensionReference::WebExtensionReference constructor
 
 
 

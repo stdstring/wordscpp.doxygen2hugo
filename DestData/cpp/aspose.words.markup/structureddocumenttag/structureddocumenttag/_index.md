@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/structureddocumenttag/structureddocumenttag/
 ---
-## StructuredDocumentTag::StructuredDocumentTag method
+## StructuredDocumentTag::StructuredDocumentTag constructor
 
 
 Initializes a new instance of the **Structured document tag** class.

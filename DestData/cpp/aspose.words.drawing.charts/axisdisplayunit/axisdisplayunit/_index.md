@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/axisdisplayunit/
 ---
-## AxisDisplayUnit::AxisDisplayUnit method
+## AxisDisplayUnit::AxisDisplayUnit constructor
 
 
 

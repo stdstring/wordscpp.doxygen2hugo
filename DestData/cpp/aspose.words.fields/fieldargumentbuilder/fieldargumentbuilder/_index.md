@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldargumentbuilder/fieldargumentbuilder/
 ---
-## FieldArgumentBuilder::FieldArgumentBuilder method
+## FieldArgumentBuilder::FieldArgumentBuilder constructor
 
 
 Initializes an instance of the [FieldArgumentBuilder](../) class.

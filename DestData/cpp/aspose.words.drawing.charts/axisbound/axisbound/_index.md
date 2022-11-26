@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/axisbound/axisbound/
 ---
-## AxisBound::AxisBound() method
+## AxisBound::AxisBound() constructor
 
 
 Creates a new instance indicating that axis bound should be determined automatically by a word-processing application.
@@ -20,7 +20,7 @@ Aspose::Words::Drawing::Charts::AxisBound::AxisBound()
 * Class [AxisBound](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)
-## AxisBound::AxisBound(double) method
+## AxisBound::AxisBound(double) constructor
 
 
 Creates an axis bound represented as a number.
@@ -130,7 +130,7 @@ doc->Save(ArtifactsDir + u"Charts.AxisBound.docx");
 * Class [AxisBound](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)
-## AxisBound::AxisBound(System::DateTime) method
+## AxisBound::AxisBound(System::DateTime) constructor
 
 
 Creates an axis bound represented as datetime value.

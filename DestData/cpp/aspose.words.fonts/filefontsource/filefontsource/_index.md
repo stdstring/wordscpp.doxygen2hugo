@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/filefontsource/filefontsource/
 ---
-## FileFontSource::FileFontSource(const System::String\&) method
+## FileFontSource::FileFontSource(const System::String\&) constructor
 
 
 Ctor.
@@ -42,7 +42,7 @@ ASSERT_EQ(0, fileFontSource->get_Priority());
 * Class [FileFontSource](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)
-## FileFontSource::FileFontSource(const System::String\&, int32_t) method
+## FileFontSource::FileFontSource(const System::String\&, int32_t) constructor
 
 
 Ctor.
@@ -79,7 +79,7 @@ ASSERT_EQ(0, fileFontSource->get_Priority());
 * Class [FileFontSource](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)
-## FileFontSource::FileFontSource(const System::String\&, int32_t, const System::String\&) method
+## FileFontSource::FileFontSource(const System::String\&, int32_t, const System::String\&) constructor
 
 
 Ctor.

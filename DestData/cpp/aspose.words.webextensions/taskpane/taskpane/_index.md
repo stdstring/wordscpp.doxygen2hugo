@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/taskpane/taskpane/
 ---
-## TaskPane::TaskPane method
+## TaskPane::TaskPane constructor
 
 
 

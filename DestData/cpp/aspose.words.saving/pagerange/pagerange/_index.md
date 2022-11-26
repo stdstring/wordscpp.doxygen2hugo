@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pagerange/pagerange/
 ---
-## PageRange::PageRange method
+## PageRange::PageRange constructor
 
 
 Creates a new page range object.

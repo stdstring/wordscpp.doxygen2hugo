@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.loading/htmlloadoptions/htmlloadoptions/
 ---
-## HtmlLoadOptions::HtmlLoadOptions() method
+## HtmlLoadOptions::HtmlLoadOptions() constructor
 
 
 Initializes a new instance of this class with default values.
@@ -48,7 +48,7 @@ else
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)
-## HtmlLoadOptions::HtmlLoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) method
+## HtmlLoadOptions::HtmlLoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) constructor
 
 
 A shortcut to initialize a new instance of this class with properties set to the specified values.
@@ -92,7 +92,7 @@ doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)
-## HtmlLoadOptions::HtmlLoadOptions(const System::String\&) method
+## HtmlLoadOptions::HtmlLoadOptions(const System::String\&) constructor
 
 
 A shortcut to initialize a new instance of this class with the specified password to load an encrypted document.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/pdfdigitalsignaturetimestampsettings/
 ---
-## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings() method
+## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings() constructor
 
 
 Initializes an instance of this class.
@@ -20,7 +20,7 @@ Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::PdfDigitalSignature
 * Class [PdfDigitalSignatureTimestampSettings](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&) method
+## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&) constructor
 
 
 Initializes an instance of this class.
@@ -80,7 +80,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", opt
 * Class [PdfDigitalSignatureTimestampSettings](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) method
+## PdfDigitalSignatureTimestampSettings::PdfDigitalSignatureTimestampSettings(const System::String\&, const System::String\&, const System::String\&, System::TimeSpan) constructor
 
 
 Initializes an instance of this class.

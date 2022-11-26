@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/license/license/
 ---
-## License::License method
+## License::License constructor
 
 
 Initializes a new instance of this class.

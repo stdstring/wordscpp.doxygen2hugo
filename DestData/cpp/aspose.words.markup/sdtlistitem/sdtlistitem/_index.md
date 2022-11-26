@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/sdtlistitem/sdtlistitem/
 ---
-## SdtListItem::SdtListItem(const System::String\&, const System::String\&) method
+## SdtListItem::SdtListItem(const System::String\&, const System::String\&) constructor
 
 
 Initializes a new instance of this class.
@@ -81,7 +81,7 @@ ASSERT_EQ(0, listItems->get_Count());
 * Class [SdtListItem](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)
-## SdtListItem::SdtListItem(const System::String\&) method
+## SdtListItem::SdtListItem(const System::String\&) constructor
 
 
 Initializes a new instance of this class.

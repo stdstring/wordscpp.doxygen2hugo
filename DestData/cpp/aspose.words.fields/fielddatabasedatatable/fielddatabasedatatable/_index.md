@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fielddatabasedatatable/fielddatabasedatatable/
 ---
-## FieldDatabaseDataTable::FieldDatabaseDataTable method
+## FieldDatabaseDataTable::FieldDatabaseDataTable constructor
 
 
 Initializes a new instance of the [FieldDatabaseDataTable](../) class.

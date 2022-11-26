@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextensionproperty/webextensionproperty/
 ---
-## WebExtensionProperty::WebExtensionProperty method
+## WebExtensionProperty::WebExtensionProperty constructor
 
 
 Creates web extension custom property with specified name and value.

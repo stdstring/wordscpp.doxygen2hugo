@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.markup/custompartcollection/custompartcollection/
 ---
-## CustomPartCollection::CustomPartCollection method
+## CustomPartCollection::CustomPartCollection constructor
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/
 ---
-## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails() method
+## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails() constructor
 
 
 Initializes an instance of this class.
@@ -20,7 +20,7 @@ Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails()
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::String\&, const System::String\&, System::DateTime) method
+## PdfDigitalSignatureDetails::PdfDigitalSignatureDetails(const System::SharedPtr\<Aspose::Words::DigitalSignatures::CertificateHolder\>\&, const System::String\&, const System::String\&, System::DateTime) constructor
 
 
 Initializes an instance of this class.

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.words.saving/pageset/pageset/
 ---
-## PageSet::PageSet(const System::ArrayPtr\<int32_t\>\&) method
+## PageSet::PageSet(const System::ArrayPtr\<int32_t\>\&) constructor
 
 
 Creates a page set based on exact page indices.
@@ -52,7 +52,7 @@ doc->Save(ArtifactsDir + u"XpsSaveOptions.ExportExactPages.xps", xpsOptions);
 * Class [PageSet](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## PageSet::PageSet(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Saving::PageRange\>\>\&) method
+## PageSet::PageSet(const System::ArrayPtr\<System::SharedPtr\<Aspose::Words::Saving::PageRange\>\>\&) constructor
 
 
 Creates a page set based on ranges.
@@ -87,7 +87,7 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.ExportVariousPageRanges.tiff", image
 * Class [PageSet](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## PageSet::PageSet(int32_t) method
+## PageSet::PageSet(int32_t) constructor
 
 
 Creates an one-page set based on exact page index.

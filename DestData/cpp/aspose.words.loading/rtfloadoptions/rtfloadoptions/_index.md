@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.loading/rtfloadoptions/rtfloadoptions/
 ---
-## RtfLoadOptions::RtfLoadOptions method
+## RtfLoadOptions::RtfLoadOptions constructor
 
 
 Initializes a new instance of this class with default values.

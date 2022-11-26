@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/shape/shape/
 ---
-## Shape::Shape method
+## Shape::Shape constructor
 
 
 Creates a new shape object.

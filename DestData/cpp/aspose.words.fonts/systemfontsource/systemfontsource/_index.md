@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/systemfontsource/systemfontsource/
 ---
-## SystemFontSource::SystemFontSource() method
+## SystemFontSource::SystemFontSource() constructor
 
 
 Ctor.
@@ -76,7 +76,7 @@ ASSERT_EQ(1, doc->get_FontSettings()->get_SubstitutionSettings()->get_TableSubst
 * Class [SystemFontSource](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)
-## SystemFontSource::SystemFontSource(int32_t) method
+## SystemFontSource::SystemFontSource(int32_t) constructor
 
 
 Ctor.

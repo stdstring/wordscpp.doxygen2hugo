@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfencryptiondetails/pdfencryptiondetails/
 ---
-## PdfEncryptionDetails::PdfEncryptionDetails method
+## PdfEncryptionDetails::PdfEncryptionDetails constructor
 
 
 Initializes an instance of this class.

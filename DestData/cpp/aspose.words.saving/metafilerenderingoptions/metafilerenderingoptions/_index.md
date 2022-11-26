@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/metafilerenderingoptions/metafilerenderingoptions/
 ---
-## MetafileRenderingOptions::MetafileRenderingOptions method
+## MetafileRenderingOptions::MetafileRenderingOptions constructor
 
 
 

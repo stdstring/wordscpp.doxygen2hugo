@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/ooxmlsaveoptions/
 ---
-## OoxmlSaveOptions::OoxmlSaveOptions() method
+## OoxmlSaveOptions::OoxmlSaveOptions() constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Docx](../../../aspose.words/saveformat/) format.
@@ -52,7 +52,7 @@ ASSERT_EQ(ShapeMarkupLanguage::Dml, (System::DynamicCast<Shape>(doc->GetChild(No
 * Class [OoxmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## OoxmlSaveOptions::OoxmlSaveOptions(Aspose::Words::SaveFormat) method
+## OoxmlSaveOptions::OoxmlSaveOptions(Aspose::Words::SaveFormat) constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Docx](../../../aspose.words/saveformat/), [Docm](../../../aspose.words/saveformat/), [Dotx](../../../aspose.words/saveformat/), [Dotm](../../../aspose.words/saveformat/) or [FlatOpc](../../../aspose.words/saveformat/) format.

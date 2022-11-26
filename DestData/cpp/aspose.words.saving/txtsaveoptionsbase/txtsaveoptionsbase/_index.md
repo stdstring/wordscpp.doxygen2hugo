@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/txtsaveoptionsbase/
 ---
-## TxtSaveOptionsBase::TxtSaveOptionsBase method
+## TxtSaveOptionsBase::TxtSaveOptionsBase constructor
 
 
 

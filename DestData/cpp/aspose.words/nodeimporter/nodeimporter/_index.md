@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/nodeimporter/nodeimporter/
 ---
-## NodeImporter::NodeImporter(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::ImportFormatMode) method
+## NodeImporter::NodeImporter(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::ImportFormatMode) constructor
 
 
 Initializes a new instance of the [NodeImporter](../) class.
@@ -92,7 +92,7 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 * Class [NodeImporter](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## NodeImporter::NodeImporter(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
+## NodeImporter::NodeImporter(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) constructor
 
 
 Initializes a new instance of the [NodeImporter](../) class.

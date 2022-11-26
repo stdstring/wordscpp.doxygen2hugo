@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/docsaveoptions/docsaveoptions/
 ---
-## DocSaveOptions::DocSaveOptions() method
+## DocSaveOptions::DocSaveOptions() constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Doc](../../../aspose.words/saveformat/) format.
@@ -52,7 +52,7 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 * Class [DocSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## DocSaveOptions::DocSaveOptions(Aspose::Words::SaveFormat) method
+## DocSaveOptions::DocSaveOptions(Aspose::Words::SaveFormat) constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Doc](../../../aspose.words/saveformat/) or [Dot](../../../aspose.words/saveformat/) format.

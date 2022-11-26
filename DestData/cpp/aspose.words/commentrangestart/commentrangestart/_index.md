@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/commentrangestart/commentrangestart/
 ---
-## CommentRangeStart::CommentRangeStart method
+## CommentRangeStart::CommentRangeStart constructor
 
 
 Initializes a new instance of this class.

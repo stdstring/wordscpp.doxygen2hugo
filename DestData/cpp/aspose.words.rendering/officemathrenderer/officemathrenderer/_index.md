@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.rendering/officemathrenderer/officemathrenderer/
 ---
-## OfficeMathRenderer::OfficeMathRenderer method
+## OfficeMathRenderer::OfficeMathRenderer constructor
 
 
 Initializes a new instance of this class.

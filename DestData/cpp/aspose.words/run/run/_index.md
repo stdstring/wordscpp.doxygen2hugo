@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/run/run/
 ---
-## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) method
+## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) constructor
 
 
 Initializes a new instance of the **Run** class.
@@ -79,7 +79,7 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 * Class [Run](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&) method
+## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&, const System::String\&) constructor
 
 
 Initializes a new instance of the **Run** class.

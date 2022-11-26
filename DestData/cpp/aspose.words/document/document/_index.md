@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/document/document/
 ---
-## Document::Document() method
+## Document::Document() constructor
 
 
 Creates a blank Word document.
@@ -69,7 +69,7 @@ doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&) method
+## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Opens an existing document from a stream. Automatically detects the file format.
@@ -132,7 +132,7 @@ const String url = u"https://omextemplates.content.office.net/support/templates/
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
+## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) constructor
 
 
 Opens an existing document from a stream. Allows to specify additional options such as an encryption password.
@@ -225,7 +225,7 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Document::Document(const System::String\&) method
+## Document::Document(const System::String\&) constructor
 
 
 Opens an existing document from a file. Automatically detects the file format.
@@ -255,7 +255,7 @@ doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Document::Document(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
+## Document::Document(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) constructor
 
 
 Opens an existing document from a file. Allows to specify additional options such as an encryption password.
@@ -324,7 +324,7 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Document::Document(std::istream\&) method
+## Document::Document(std::istream\&) constructor
 
 
 
@@ -338,7 +338,7 @@ Aspose::Words::Document::Document(std::istream &stream)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## Document::Document(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) method
+## Document::Document(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) constructor
 
 
 

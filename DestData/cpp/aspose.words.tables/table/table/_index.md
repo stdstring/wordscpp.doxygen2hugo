@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.tables/table/table/
 ---
-## Table::Table method
+## Table::Table constructor
 
 
 Initializes a new instance of the **Table** class.

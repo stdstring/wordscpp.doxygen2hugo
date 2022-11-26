@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.loading/pdfloadoptions/pdfloadoptions/
 ---
-## PdfLoadOptions::PdfLoadOptions method
+## PdfLoadOptions::PdfLoadOptions constructor
 
 
 

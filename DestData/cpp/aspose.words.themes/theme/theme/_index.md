@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.themes/theme/theme/
 ---
-## Theme::Theme method
+## Theme::Theme constructor
 
 
 

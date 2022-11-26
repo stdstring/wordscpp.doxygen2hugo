@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/pdfsaveoptions/pdfsaveoptions/
 ---
-## PdfSaveOptions::PdfSaveOptions method
+## PdfSaveOptions::PdfSaveOptions constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Pdf](../../../aspose.words/saveformat/) format.

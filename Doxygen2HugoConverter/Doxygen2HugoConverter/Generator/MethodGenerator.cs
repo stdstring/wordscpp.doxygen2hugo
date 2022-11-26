@@ -114,7 +114,12 @@ namespace Doxygen2HugoConverter.Generator
                 if (entity.IsConst)
                     result.Append(" const");
             }
-            result.Append(" method");
+            String kind = entity.Name.Equals(entity.ClassName) switch
+            {
+                true => "constructor",
+                false => "method"
+            };
+            result.Append($" {kind}");
             return result.ToString();
         }
 

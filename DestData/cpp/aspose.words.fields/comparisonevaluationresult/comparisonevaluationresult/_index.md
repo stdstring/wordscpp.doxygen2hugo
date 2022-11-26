@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationresult/
 ---
-## ComparisonEvaluationResult::ComparisonEvaluationResult(bool) method
+## ComparisonEvaluationResult::ComparisonEvaluationResult(bool) constructor
 
 
 Creates a comparison evaluation result.
@@ -99,7 +99,7 @@ private:
 * Class [ComparisonEvaluationResult](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
-## ComparisonEvaluationResult::ComparisonEvaluationResult(const System::String\&) method
+## ComparisonEvaluationResult::ComparisonEvaluationResult(const System::String\&) constructor
 
 
 Creates a failed comparison evaluation result with the corresponding error message.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldaddressblock/fieldaddressblock/
 ---
-## FieldAddressBlock::FieldAddressBlock method
+## FieldAddressBlock::FieldAddressBlock constructor
 
 
 

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.webextensions/webextensionbinding/webextensionbinding/
 ---
-## WebExtensionBinding::WebExtensionBinding method
+## WebExtensionBinding::WebExtensionBinding constructor
 
 
 Creates web extension binding with specified parameters.

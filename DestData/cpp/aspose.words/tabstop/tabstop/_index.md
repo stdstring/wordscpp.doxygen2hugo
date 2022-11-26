@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/tabstop/tabstop/
 ---
-## TabStop::TabStop(double) method
+## TabStop::TabStop(double) constructor
 
 
 Initializes a new instance of this class.
@@ -63,7 +63,7 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 * Class [TabStop](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
-## TabStop::TabStop(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) method
+## TabStop::TabStop(double, Aspose::Words::TabAlignment, Aspose::Words::TabLeader) constructor
 
 
 Initializes a new instance of this class.

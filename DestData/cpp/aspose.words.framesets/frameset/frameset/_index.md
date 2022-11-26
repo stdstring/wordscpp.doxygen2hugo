@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.framesets/frameset/frameset/
 ---
-## Frameset::Frameset method
+## Frameset::Frameset constructor
 
 
 

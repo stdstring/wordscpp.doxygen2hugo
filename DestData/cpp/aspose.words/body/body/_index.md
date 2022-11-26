@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/body/body/
 ---
-## Body::Body method
+## Body::Body constructor
 
 
 Initializes a new instance of the **Body** class.

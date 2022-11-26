@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words.saving/xpssaveoptions/xpssaveoptions/
 ---
-## XpsSaveOptions::XpsSaveOptions() method
+## XpsSaveOptions::XpsSaveOptions() constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Xps](../../../aspose.words/saveformat/) format.
@@ -62,7 +62,7 @@ doc->Save(ArtifactsDir + u"XpsSaveOptions.OutlineLevels.xps", saveOptions);
 * Class [XpsSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
-## XpsSaveOptions::XpsSaveOptions(Aspose::Words::SaveFormat) method
+## XpsSaveOptions::XpsSaveOptions(Aspose::Words::SaveFormat) constructor
 
 
 Initializes a new instance of this class that can be used to save a document in the [Xps](../../../aspose.words/saveformat/) or [OpenXps](../../../aspose.words/saveformat/) format.

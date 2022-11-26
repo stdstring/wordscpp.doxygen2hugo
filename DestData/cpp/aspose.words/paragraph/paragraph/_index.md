@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.words/paragraph/paragraph/
 ---
-## Paragraph::Paragraph method
+## Paragraph::Paragraph constructor
 
 
 Initializes a new instance of the **Paragraph** class.
