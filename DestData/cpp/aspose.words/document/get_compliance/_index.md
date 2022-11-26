@@ -18,7 +18,7 @@ Aspose::Words::Saving::OoxmlCompliance Aspose::Words::Document::get_Compliance()
 ## Remarks
 
 
-If you created a new blank document or load non OOXML document returns the **Ecma376_2006** value.
+If you created a new blank document or load non OOXML document returns the [Ecma376_2006](../../../aspose.words.saving/ooxmlcompliance/) value.
 
 ## Examples
 

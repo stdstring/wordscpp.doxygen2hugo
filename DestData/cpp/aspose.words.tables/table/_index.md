@@ -48,7 +48,7 @@ class Table : public Aspose::Words::CompositeNode
 | [get_FirstChild](../../aspose.words/compositenode/get_firstchild/)() const | Gets the first child of the node. |
 | [get_FirstRow](./get_firstrow/)() | Returns the first **Row** node in the table. |
 | [get_HasChildNodes](../../aspose.words/compositenode/get_haschildnodes/)() | Returns true if this node has any child nodes. |
-| [get_HorizontalAnchor](./get_horizontalanchor/)() | Gets the base object from which the horizontal positioning of floating table should be calculated. Default value is **Column**. |
+| [get_HorizontalAnchor](./get_horizontalanchor/)() | Gets the base object from which the horizontal positioning of floating table should be calculated. Default value is [Column](../../aspose.words.drawing/relativehorizontalposition/). |
 | [get_IsComposite](../../aspose.words/compositenode/get_iscomposite/)() override | Returns true as this node can have child nodes. |
 | [get_LastChild](../../aspose.words/compositenode/get_lastchild/)() const | Gets the last child of the node. |
 | [get_LastRow](./get_lastrow/)() | Returns the last **Row** node in the table. |
@@ -71,7 +71,7 @@ class Table : public Aspose::Words::CompositeNode
 | [get_TextWrapping](./get_textwrapping/)() | Gets or sets [TextWrapping](./get_textwrapping/) for table. |
 | [get_Title](./get_title/)() | Gets or sets title of this table. It provides an alternative text representation of the information contained in the table. |
 | [get_TopPadding](./get_toppadding/)() | Gets or sets the amount of space (in points) to add above the contents of cells. |
-| [get_VerticalAnchor](./get_verticalanchor/)() | Gets the base object from which the vertical positioning of floating table should be calculated. Default value is **Margin**. |
+| [get_VerticalAnchor](./get_verticalanchor/)() | Gets the base object from which the vertical positioning of floating table should be calculated. Default value is [Margin](../../aspose.words.drawing/relativeverticalposition/). |
 | [GetAncestor](../../aspose.words/node/getancestor/)(Aspose::Words::NodeType) | Gets the first ancestor of the specified [NodeType](../../aspose.words/nodetype/). |
 | [GetAncestorOf](../../aspose.words/node/getancestorof/)() |  |
 | [GetChild](../../aspose.words/compositenode/getchild/)(Aspose::Words::NodeType, int32_t, bool) | Returns an Nth child node that matches the specified type. |

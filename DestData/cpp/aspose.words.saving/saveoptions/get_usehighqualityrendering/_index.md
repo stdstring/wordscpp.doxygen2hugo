@@ -20,7 +20,7 @@ bool Aspose::Words::Saving::SaveOptions::get_UseHighQualityRendering() const
 
 The default value is **false**.
 
-This property is used when the document is exported to image formats: **Tiff**, **Png**, **Bmp**, **Jpeg**, **Emf**.
+This property is used when the document is exported to image formats: [Tiff](../../../aspose.words/saveformat/), [Png](../../../aspose.words/saveformat/), [Bmp](../../../aspose.words/saveformat/), [Jpeg](../../../aspose.words/saveformat/), [Emf](../../../aspose.words/saveformat/).
 
 ## Examples
 

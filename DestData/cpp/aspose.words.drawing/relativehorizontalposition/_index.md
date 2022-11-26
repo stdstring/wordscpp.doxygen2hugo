@@ -27,7 +27,7 @@ enum class RelativeHorizontalPosition
 | RightMargin | 5 | Specifies that the horizontal positioning shall be relative to the right margin of the page. |
 | InsideMargin | 6 | Specifies that the horizontal positioning shall be relative to the inside margin of the current page (the left margin on odd pages, right on even pages). |
 | OutsideMargin | 7 | Specifies that the horizontal positioning shall be relative to the outside margin of the current page (the right margin on odd pages, left on even pages). |
-| Default | n/a | Default value is **Column**. |
+| Default | n/a | Default value is [Column](./). |
 
 
 ## Examples

@@ -18,7 +18,7 @@ bool Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior() const
 ## Remarks
 
 
-When this option is **enabled**, the source style will be expanded into a direct attributes inside a destination document, if **KeepSourceFormatting** importing mode is used.
+When this option is **enabled**, the source style will be expanded into a direct attributes inside a destination document, if [KeepSourceFormatting](../../importformatmode/) importing mode is used.
 
 When this option is **disabled**, the source style will be expanded only if it is numbered. Existing destination attributes will not be overridden, including lists.
 

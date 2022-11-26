@@ -18,7 +18,7 @@ Aspose::Words::Drawing::EndCap Aspose::Words::Drawing::Stroke::get_EndCap()
 ## Remarks
 
 
-The default value is **Flat**.
+The default value is [Flat](../../endcap/).
 
 ## Examples
 

@@ -20,9 +20,9 @@ double Aspose::Words::Drawing::Charts::AxisScaling::get_LogBase() const
 
 The property is not supported by MS Office 2016 new charts.
 
-Valid range of a floating point value is greater than or equal to 2 and less than or equal to 1000. The property has effect only if [Type](../get_type/) is set to **Logarithmic**.
+Valid range of a floating point value is greater than or equal to 2 and less than or equal to 1000. The property has effect only if [Type](../get_type/) is set to [Logarithmic](../../axisscaletype/).
 
-Setting this property sets the [Type](../get_type/) property to **Logarithmic**.
+Setting this property sets the [Type](../get_type/) property to [Logarithmic](../../axisscaletype/).
 
 ## Examples
 

@@ -19,7 +19,7 @@ enum class SdtCalendarType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | 0 | Used as default value in OOXML. Equals **Gregorian**. |
+| Default | 0 | Used as default value in OOXML. Equals [Gregorian](./). |
 | Gregorian | n/a | Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. This calendar should be localized into the appropriate language. |
 | GregorianArabic | n/a | Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be presented in Arabic. |
 | GregorianMeFrench | n/a | Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be presented in Middle East French. |

@@ -18,7 +18,7 @@ Aspose::Words::Drawing::ArrowWidth Aspose::Words::Drawing::Stroke::get_StartArro
 ## Remarks
 
 
-The default value is **Medium**.
+The default value is [Medium](../../arrowwidth/).
 
 ## Examples
 

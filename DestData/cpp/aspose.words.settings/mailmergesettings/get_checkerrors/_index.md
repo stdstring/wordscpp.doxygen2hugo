@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/mailmergesettings/get_checkerrors/
 ## MailMergeSettings::get_CheckErrors method
 
 
-Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is **Default**.
+Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is [Default](../../mailmergecheckerrors/).
 
 ```cpp
 Aspose::Words::Settings::MailMergeCheckErrors Aspose::Words::Settings::MailMergeSettings::get_CheckErrors() const

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/markdownsaveoptions/get_imagesfolder/
 ## MarkdownSaveOptions::get_ImagesFolder method
 
 
-Specifies the physical folder where images are saved when exporting a document to the **Markdown** format. Default is an empty string.
+Specifies the physical folder where images are saved when exporting a document to the [Markdown](../../../aspose.words/saveformat/) format. Default is an empty string.
 
 ```cpp
 System::String Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder() const
@@ -18,7 +18,7 @@ System::String Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder() co
 ## Remarks
 
 
-When you save a [Document](../../../aspose.words/document/) in **Markdown** format, Aspose.Words needs to save all images embedded in the document as standalone files. [ImagesFolder](./) allows you to specify where the images will be saved.
+When you save a [Document](../../../aspose.words/document/) in [Markdown](../../../aspose.words/saveformat/) format, Aspose.Words needs to save all images embedded in the document as standalone files. [ImagesFolder](./) allows you to specify where the images will be saved.
 
 If you save a document into a file and provide a file name, Aspose.Words, by default, saves the images in the same folder where the document file is saved. Use [ImagesFolder](./) to override this behavior.
 

@@ -18,7 +18,7 @@ Aspose::Words::Drawing::WrapType Aspose::Words::Drawing::ShapeBase::get_WrapType
 ## Remarks
 
 
-The default value is **None**.
+The default value is [None](../../wraptype/).
 
 Has effect only for top level shapes.
 

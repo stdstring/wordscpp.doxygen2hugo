@@ -24,7 +24,7 @@ enum class OfficeMathJustification
 | Left | 3 | Left justification of [Math](../)[Paragraph](../../aspose.words/paragraph/). |
 | Right | 4 | Right Justification of [Math](../)[Paragraph](../../aspose.words/paragraph/). |
 | Inline | 7 | [Inline](../../aspose.words/inline/) position of [Math](../). |
-| Default | n/a | Default value **CenterGroup**. |
+| Default | n/a | Default value [CenterGroup](./). |
 
 
 ## Examples

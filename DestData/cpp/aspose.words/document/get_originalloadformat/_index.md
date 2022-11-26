@@ -18,7 +18,7 @@ Aspose::Words::LoadFormat Aspose::Words::Document::get_OriginalLoadFormat() cons
 ## Remarks
 
 
-If you created a new blank document, returns the **Doc** value.
+If you created a new blank document, returns the [Doc](../../loadformat/) value.
 
 ## Examples
 

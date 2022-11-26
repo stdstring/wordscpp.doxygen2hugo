@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldseparator/get_nodetype/
 ## FieldSeparator::get_NodeType method
 
 
-Returns **FieldSeparator**.
+Returns [FieldSeparator](../../../aspose.words/nodetype/).
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::Fields::FieldSeparator::get_NodeType() const override

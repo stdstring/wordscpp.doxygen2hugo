@@ -18,7 +18,7 @@ virtual Aspose::Words::Saving::DmlEffectsRenderingMode Aspose::Words::Saving::Sa
 ## Remarks
 
 
-The default value is **Simplified**.
+The default value is [Simplified](../../dmleffectsrenderingmode/).
 
 This property is used when the document is exported to fixed page formats.
 

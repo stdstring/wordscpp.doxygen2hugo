@@ -18,9 +18,9 @@ Aspose::Words::Math::OfficeMathJustification Aspose::Words::Math::OfficeMath::ge
 ## Remarks
 
 
-Justification cannot be set to the Office [Math](../../) with display format type **Inline**.
+Justification cannot be set to the Office [Math](../../) with display format type [Inline](../../officemathdisplaytype/).
 
-[Inline](../../../aspose.words/inline/) justification cannot be set to the Office [Math](../../) with display format type **Display**.
+[Inline](../../../aspose.words/inline/) justification cannot be set to the Office [Math](../../) with display format type [Display](../../officemathdisplaytype/).
 
 Corresponding [DisplayType](../get_displaytype/) has to be set before setting Office [Math](../../) justification.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words/commentrangestart/get_nodetype/
 ## CommentRangeStart::get_NodeType method
 
 
-Returns **CommentRangeStart**.
+Returns [CommentRangeStart](../../nodetype/).
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::CommentRangeStart::get_NodeType() const override

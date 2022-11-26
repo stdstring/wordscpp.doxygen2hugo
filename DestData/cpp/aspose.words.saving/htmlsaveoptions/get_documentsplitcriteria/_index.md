@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentsplitcriteria/
 ## HtmlSaveOptions::get_DocumentSplitCriteria method
 
 
-Specifies how the document should be split when saving to **Html**, **Epub** or **Azw3** format. Default is **None** for HTML and **HeadingParagraph** for EPUB and AZW3.
+Specifies how the document should be split when saving to [Html](../../../aspose.words/saveformat/), [Epub](../../../aspose.words/saveformat/) or [Azw3](../../../aspose.words/saveformat/) format. Default is [None](../../documentsplitcriteria/) for HTML and [HeadingParagraph](../../documentsplitcriteria/) for EPUB and AZW3.
 
 ```cpp
 Aspose::Words::Saving::DocumentSplitCriteria Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria() const

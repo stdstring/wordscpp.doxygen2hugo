@@ -22,7 +22,7 @@ enum class ArrowWidth
 | Narrow | 0 |  |
 | Medium | 1 |  |
 | Wide | 2 |  |
-| Default | n/a | Same as **Narrow**. |
+| Default | n/a | Same as [Narrow](./). |
 
 
 ## Examples

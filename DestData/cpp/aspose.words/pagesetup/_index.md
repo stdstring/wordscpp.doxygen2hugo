@@ -61,7 +61,7 @@ class PageSetup : public Aspose::Words::IBorderAttrSource
 | [get_SheetsPerBooklet](./get_sheetsperbooklet/)() const | Returns or sets the number of pages to be included in each booklet. |
 | [get_SuppressEndnotes](./get_suppressendnotes/)() | **True** if endnotes are printed at the end of the next section that doesn't suppress endnotes. Suppressed endnotes are printed before the endnotes in that section. |
 | [get_TextColumns](./get_textcolumns/)() | Returns a collection that represents the set of text columns. |
-| [get_TextOrientation](./get_textorientation/)() | Allows to specify [TextOrientation](./get_textorientation/) for the whole page. Default value is **Horizontal** |
+| [get_TextOrientation](./get_textorientation/)() | Allows to specify [TextOrientation](./get_textorientation/) for the whole page. Default value is [Horizontal](../textorientation/) |
 | [get_TopMargin](./get_topmargin/)() | Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. |
 | [get_VerticalAlignment](./get_verticalalignment/)() | Returns or sets the vertical alignment of text on each page in a document or section. |
 | [set_Bidi](./set_bidi/)(bool) | Setter for [Aspose::Words::PageSetup::get_Bidi](./get_bidi/). |

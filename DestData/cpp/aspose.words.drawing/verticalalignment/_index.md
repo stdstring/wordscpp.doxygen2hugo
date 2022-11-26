@@ -26,7 +26,7 @@ enum class VerticalAlignment
 | Inside | 4 | Specifies that the object shall be inside of the horizontal alignment base. |
 | Outside | 5 | Specifies that the object shall be outside of the vertical alignment base. |
 | Inline | -1 | Not documented. Seems to be a possible value for floating paragraphs and tables. |
-| Default | n/a | Same as **None**. |
+| Default | n/a | Same as [None](./). |
 
 
 ## Examples

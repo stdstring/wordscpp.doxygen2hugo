@@ -20,9 +20,9 @@ double Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins() const
 
 Depends on the value of [PageHorizontalAlignment](../get_pagehorizontalalignment/) property:
 
-* Defines top, bottom and left page margins if the value is **Left**.
-* Defines top, bottom and right page margins if the value is **Right**.
-* Defines top and bottom page margins if the value is **Center**.
+* Defines top, bottom and left page margins if the value is [Left](../../htmlfixedpagehorizontalalignment/).
+* Defines top, bottom and right page margins if the value is [Right](../../htmlfixedpagehorizontalalignment/).
+* Defines top and bottom page margins if the value is [Center](../../htmlfixedpagehorizontalalignment/).
 
 
 

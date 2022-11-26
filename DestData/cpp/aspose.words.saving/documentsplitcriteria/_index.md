@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/documentsplitcriteria/
 ## DocumentSplitCriteria enum
 
 
-Specifies how the document is split into parts when saving to **Html**, **Epub** or **Azw3** format.
+Specifies how the document is split into parts when saving to [Html](../../aspose.words/saveformat/), [Epub](../../aspose.words/saveformat/) or [Azw3](../../aspose.words/saveformat/) format.
 
 ```cpp
 enum class DocumentSplitCriteria
@@ -30,7 +30,7 @@ enum class DocumentSplitCriteria
 
 [DocumentSplitCriteria](./) is a set of flags which can be combined. For instance you can split the document at page breaks and heading paragraphs in the same export operation.
 
-Different criteria can partially overlap. For instance, **Heading 1** style is frequently given [PageBreakBefore](../../aspose.words/paragraphformat/get_pagebreakbefore/) property so it falls under two criteria: **PageBreak** and **HeadingParagraph**. Some section breaks can cause page breaks and so on. In typical cases specifying only one flag is the most practical option.
+Different criteria can partially overlap. For instance, **Heading 1** style is frequently given [PageBreakBefore](../../aspose.words/paragraphformat/get_pagebreakbefore/) property so it falls under two criteria: [PageBreak](./) and [HeadingParagraph](./). Some section breaks can cause page breaks and so on. In typical cases specifying only one flag is the most practical option.
 
 ## Examples
 

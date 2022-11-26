@@ -20,7 +20,7 @@ Aspose::Words::Saving::TiffCompression Aspose::Words::Saving::ImageSaveOptions::
 
 Has effect only when saving to TIFF.
 
-The default value is **Lzw**.
+The default value is [Lzw](../../tiffcompression/).
 
 ## Examples
 

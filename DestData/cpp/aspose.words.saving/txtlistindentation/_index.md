@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/txtlistindentation/
 ## TxtListIndentation class
 
 
-Specifies how list levels are indented when document is exporting to **Text** format.
+Specifies how list levels are indented when document is exporting to [Text](../../aspose.words/saveformat/) format.
 
 ```cpp
 class TxtListIndentation : public System::Object

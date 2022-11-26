@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/txtsaveoptions/get_saveformat/
 ## TxtSaveOptions::get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can only be **Text**.
+Specifies the format in which the document will be saved if this save options object is used. Can only be [Text](../../../aspose.words/saveformat/).
 
 ```cpp
 Aspose::Words::SaveFormat Aspose::Words::Saving::TxtSaveOptions::get_SaveFormat() override

@@ -18,7 +18,7 @@ int32_t Aspose::Words::Notes::FootnoteOptions::get_StartNumber() override
 ## Remarks
 
 
-This property has effect only when [RestartRule](../get_restartrule/) is set to **Continuous**.
+This property has effect only when [RestartRule](../get_restartrule/) is set to [Continuous](../../footnotenumberingrule/).
 
 ## Examples
 

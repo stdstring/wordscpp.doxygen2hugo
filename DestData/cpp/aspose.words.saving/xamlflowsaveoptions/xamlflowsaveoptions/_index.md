@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/xamlflowsaveoptions/xamlflowsaveoptions/
 ## XamlFlowSaveOptions::XamlFlowSaveOptions() method
 
 
-Initializes a new instance of this class that can be used to save a document in the **XamlFlow** format.
+Initializes a new instance of this class that can be used to save a document in the [XamlFlow](../../../aspose.words/saveformat/) format.
 
 ```cpp
 Aspose::Words::Saving::XamlFlowSaveOptions::XamlFlowSaveOptions()
@@ -100,7 +100,7 @@ private:
 ## XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::SaveFormat) method
 
 
-Initializes a new instance of this class that can be used to save a document in the **XamlFlow** or **XamlFlowPack** format.
+Initializes a new instance of this class that can be used to save a document in the [XamlFlow](../../../aspose.words/saveformat/) or [XamlFlowPack](../../../aspose.words/saveformat/) format.
 
 ```cpp
 Aspose::Words::Saving::XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::SaveFormat saveFormat)
@@ -109,7 +109,7 @@ Aspose::Words::Saving::XamlFlowSaveOptions::XamlFlowSaveOptions(Aspose::Words::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | Aspose::Words::SaveFormat | Can be **XamlFlow** or **XamlFlowPack**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be [XamlFlow](../../../aspose.words/saveformat/) or [XamlFlowPack](../../../aspose.words/saveformat/). |
 
 ## Examples
 

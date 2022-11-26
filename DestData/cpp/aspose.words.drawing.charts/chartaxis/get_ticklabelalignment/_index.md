@@ -20,7 +20,7 @@ Aspose::Words::ParagraphAlignment Aspose::Words::Drawing::Charts::ChartAxis::get
 
 This property has effect only for multi-line labels.
 
-Default value is **Center**.
+Default value is [Center](../../../aspose.words/paragraphalignment/).
 
 ## Examples
 

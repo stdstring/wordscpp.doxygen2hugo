@@ -29,7 +29,7 @@ class CommentRangeEnd : public Aspose::Words::Node,
 | [get_Id](./get_id/)() const | Specifies the identifier of the comment to which this region is linked to. |
 | virtual [get_IsComposite](../node/get_iscomposite/)() | Returns true if this node can contain other nodes. |
 | [get_NextSibling](../node/get_nextsibling/)() | Gets the node immediately following this node. |
-| [get_NodeType](./get_nodetype/)() const override | Returns **CommentRangeEnd**. |
+| [get_NodeType](./get_nodetype/)() const override | Returns [CommentRangeEnd](../nodetype/). |
 | [get_ParentNode](../node/get_parentnode/)() | Gets the immediate parent of this node. |
 | [get_PreviousSibling](../node/get_previoussibling/)() | Gets the node immediately preceding this node. |
 | [get_Range](../node/get_range/)() | Returns a **Range** object that represents the portion of a document that is contained in this node. |

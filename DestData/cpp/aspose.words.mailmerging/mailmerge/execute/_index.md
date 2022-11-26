@@ -29,7 +29,7 @@ This method merges data for one record only. The array of field names and the ar
 
 This method does not use mail merge regions.
 
-This method ignores the **RemoveUnusedRegions** option.
+This method ignores the [RemoveUnusedRegions](../../mailmergecleanupoptions/) option.
 
 ## Examples
 
@@ -83,7 +83,7 @@ Use this method to fill mail merge fields in the document with values from any d
 
 You can use this method only when [IsBidiTextSupportedOnUpdate](../../../aspose.words.fields/fieldoptions/get_isbiditextsupportedonupdate/) is false, that is you do not need Right-To-Left language (such as Arabic or Hebrew) compatibility.
 
-This method ignores the **RemoveUnusedRegions** option.
+This method ignores the [RemoveUnusedRegions](../../mailmergecleanupoptions/) option.
 
 ## Examples
 

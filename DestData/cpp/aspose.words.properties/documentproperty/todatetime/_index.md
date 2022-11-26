@@ -18,7 +18,7 @@ System::DateTime Aspose::Words::Properties::DocumentProperty::ToDateTime()
 ## Remarks
 
 
-Throws an exception if the property type is not **DateTime**.
+Throws an exception if the property type is not [DateTime](../../propertytype/).
 
 Microsoft Word stores only the date part (no time) for custom date properties.
 

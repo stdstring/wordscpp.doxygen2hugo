@@ -18,7 +18,7 @@ Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::Drawing::ShapeBase::g
 ## Remarks
 
 
-The default value is **None**.
+The default value is [None](../../horizontalalignment/).
 
 Has effect only for top level floating shapes.
 

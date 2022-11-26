@@ -20,7 +20,7 @@ class PdfEncryptionDetails : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_OwnerPassword](./get_ownerpassword/)() const | Specifies the owner password for the encrypted PDF document. |
-| [get_Permissions](./get_permissions/)() const | Specifies the operations that are allowed to a user on an encrypted PDF document. The default value is **DisallowAll**. |
+| [get_Permissions](./get_permissions/)() const | Specifies the operations that are allowed to a user on an encrypted PDF document. The default value is [DisallowAll](../pdfpermissions/). |
 | [get_UserPassword](./get_userpassword/)() const | Specifies the user password required for opening the encrypted PDF document. |
 | [PdfEncryptionDetails](./pdfencryptiondetails/)(const System::String\&, const System::String\&) | Initializes an instance of this class. |
 | [set_OwnerPassword](./set_ownerpassword/)(const System::String\&) | Setter for [Aspose::Words::Saving::PdfEncryptionDetails::get_OwnerPassword](./get_ownerpassword/). |

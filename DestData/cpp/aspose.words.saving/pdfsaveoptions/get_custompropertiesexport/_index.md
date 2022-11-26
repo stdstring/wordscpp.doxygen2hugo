@@ -18,11 +18,11 @@ Aspose::Words::Saving::PdfCustomPropertiesExport Aspose::Words::Saving::PdfSaveO
 ## Remarks
 
 
-Default value is **None**.
+Default value is [None](../../pdfcustompropertiesexport/).
 
-**Metadata** value is not supported when saving to PDF/A. **Standard** will be used instead for PDF/A-1 and PDF/A-2 and **None** for PDF/A-4.
+[Metadata](../../pdfcustompropertiesexport/) value is not supported when saving to PDF/A. [Standard](../../pdfcustompropertiesexport/) will be used instead for PDF/A-1 and PDF/A-2 and [None](../../pdfcustompropertiesexport/) for PDF/A-4.
 
-**Standard** value is not supported when saving to PDF 2.0. **Metadata** will be used instead.
+[Standard](../../pdfcustompropertiesexport/) value is not supported when saving to PDF 2.0. [Metadata](../../pdfcustompropertiesexport/) will be used instead.
 
 ## Examples
 

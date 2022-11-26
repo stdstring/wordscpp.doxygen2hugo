@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pdfsaveoptions/pdfsaveoptions/
 ## PdfSaveOptions::PdfSaveOptions method
 
 
-Initializes a new instance of this class that can be used to save a document in the **Pdf** format.
+Initializes a new instance of this class that can be used to save a document in the [Pdf](../../../aspose.words/saveformat/) format.
 
 ```cpp
 Aspose::Words::Saving::PdfSaveOptions::PdfSaveOptions()

@@ -25,7 +25,7 @@ class Border : public Aspose::Words::InternableComplexAttr,
 | [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines whether the specified object is equal in value to the current object. |
 | [get_Color](./get_color/)() | Gets or sets the border color. |
 | [get_DistanceFromText](./get_distancefromtext/)() | Gets or sets distance of the border from text or from the page edge in points. |
-| [get_IsVisible](./get_isvisible/)() | Returns true if the LineStyle is not **LineStyle.None**. |
+| [get_IsVisible](./get_isvisible/)() | Returns true if the LineStyle is not [LineStyle.None](../linestyle/). |
 | [get_LineStyle](./get_linestyle/)() | Gets or sets the border style. |
 | [get_LineWidth](./get_linewidth/)() | Gets or sets the border width in points. |
 | [get_Shadow](./get_shadow/)() | Gets or sets a value indicating whether the border has a shadow. |

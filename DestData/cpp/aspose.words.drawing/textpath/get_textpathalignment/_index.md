@@ -18,7 +18,7 @@ Aspose::Words::Drawing::TextPathAlignment Aspose::Words::Drawing::TextPath::get_
 ## Remarks
 
 
-The default value is **Center**.
+The default value is [Center](../../textpathalignment/).
 
 ## Examples
 

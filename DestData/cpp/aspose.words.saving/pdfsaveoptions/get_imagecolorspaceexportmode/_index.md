@@ -18,11 +18,11 @@ Aspose::Words::Saving::PdfImageColorSpaceExportMode Aspose::Words::Saving::PdfSa
 ## Remarks
 
 
-The default value is **Auto**.
+The default value is [Auto](../../pdfimagecolorspaceexportmode/).
 
-If **SimpleCmyk** value is specified, [ImageCompression](../get_imagecompression/) option is ignored and Flate compression is used for all images in the document.
+If [SimpleCmyk](../../pdfimagecolorspaceexportmode/) value is specified, [ImageCompression](../get_imagecompression/) option is ignored and Flate compression is used for all images in the document.
 
-**SimpleCmyk** value is not supported when saving to PDF/A. **Auto** value will be used instead.
+[SimpleCmyk](../../pdfimagecolorspaceexportmode/) value is not supported when saving to PDF/A. [Auto](../../pdfimagecolorspaceexportmode/) value will be used instead.
 
 ## Examples
 

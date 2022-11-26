@@ -18,7 +18,7 @@ Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Stroke::get_EndArrowTy
 ## Remarks
 
 
-The default value is **None**.
+The default value is [None](../../arrowtype/).
 
 ## Examples
 

@@ -24,7 +24,7 @@ enum class MultiplePagesType
 | TwoPagesPerSheet | 2 | Prints two pages per sheet. |
 | BookFoldPrinting | 3 | Specifies whether to print the document as a book fold. |
 | BookFoldPrintingReverse | 4 | Specifies whether to print the document as a reverse book fold. |
-| Default | n/a | Default value is **Normal** |
+| Default | n/a | Default value is [Normal](./) |
 
 ## See Also
 

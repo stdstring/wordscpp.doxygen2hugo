@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/svgsaveoptions/get_saveformat/
 ## SvgSaveOptions::get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can only be **Svg**.
+Specifies the format in which the document will be saved if this save options object is used. Can only be [Svg](../../../aspose.words/saveformat/).
 
 ```cpp
 Aspose::Words::SaveFormat Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat() override

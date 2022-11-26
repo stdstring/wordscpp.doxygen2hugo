@@ -23,7 +23,7 @@ void Aspose::Words::Markup::StructuredDocumentTag::SetUncheckedSymbol(int32_t ch
 ## Remarks
 
 
-Accessing this method will only work for **Checkbox** SDT types.
+Accessing this method will only work for [Checkbox](../../sdttype/) SDT types.
 
 For all other SDT types exception will occur.
 

@@ -18,7 +18,7 @@ Aspose::Words::Drawing::TextBoxWrapMode Aspose::Words::Drawing::TextBox::get_Tex
 ## Remarks
 
 
-The default value is **Square**.
+The default value is [Square](../../textboxwrapmode/).
 
 ## Examples
 

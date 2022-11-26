@@ -18,7 +18,7 @@ bool Aspose::Words::Markup::StructuredDocumentTag::get_Checked()
 ## Remarks
 
 
-Accessing this property will only work for **Checkbox** SDT types.
+Accessing this property will only work for [Checkbox](../../sdttype/) SDT types.
 
 For all other SDT types exception will occur.
 

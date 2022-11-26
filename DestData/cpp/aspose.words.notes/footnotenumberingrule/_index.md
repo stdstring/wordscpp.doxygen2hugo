@@ -22,7 +22,7 @@ enum class FootnoteNumberingRule
 | Continuous | 0 | Numbering continuous throughout the document. |
 | RestartSection | 1 | Numbering restarts at each section. |
 | RestartPage | 2 | Numbering restarts at each page. Valid for footnotes only. |
-| Default | n/a | Equals **Continuous**. |
+| Default | n/a | Equals [Continuous](./). |
 
 
 ## Examples

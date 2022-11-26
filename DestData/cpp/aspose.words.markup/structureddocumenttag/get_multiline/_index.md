@@ -18,7 +18,7 @@ bool Aspose::Words::Markup::StructuredDocumentTag::get_Multiline()
 ## Remarks
 
 
-Accessing this property will only work for **RichText** and **PlainText** SDT type.
+Accessing this property will only work for [RichText](../../sdttype/) and [PlainText](../../sdttype/) SDT type.
 
 For all other SDT types exception will occur.
 

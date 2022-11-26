@@ -9,7 +9,7 @@ url: /cpp/aspose.words.settings/compatibilityoptions/optimizefor/
 ## CompatibilityOptions::OptimizeFor method
 
 
-Allows to optimize the document contents as well as default Aspose.Words behavior to a particular versions of MS Word. Use this method to prevent MS Word from displaying "Compatibility mode" ribbon upon document loading. (Note that you may also need to set the [Compliance](../../../aspose.words.saving/ooxmlsaveoptions/get_compliance/) property to **Iso29500_2008_Transitional** or higher.)
+Allows to optimize the document contents as well as default Aspose.Words behavior to a particular versions of MS Word. Use this method to prevent MS Word from displaying "Compatibility mode" ribbon upon document loading. (Note that you may also need to set the [Compliance](../../../aspose.words.saving/ooxmlsaveoptions/get_compliance/) property to [Iso29500_2008_Transitional](../../../aspose.words.saving/ooxmlcompliance/) or higher.)
 
 ```cpp
 void Aspose::Words::Settings::CompatibilityOptions::OptimizeFor(Aspose::Words::Settings::MsWordVersion version)

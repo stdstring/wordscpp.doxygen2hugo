@@ -18,7 +18,7 @@ System::String Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCa
 ## Remarks
 
 
-Accessing this property will only work for **BuildingBlockGallery** and **DocPartObj** SDT types. It is read-only for **SDT** of the document part type.
+Accessing this property will only work for [BuildingBlockGallery](../../sdttype/) and [DocPartObj](../../sdttype/) SDT types. It is read-only for **SDT** of the document part type.
 
 For all other SDT types exception will occur.
 

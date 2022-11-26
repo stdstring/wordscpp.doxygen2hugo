@@ -18,7 +18,7 @@ Aspose::Words::Drawing::Charts::AxisCrosses Aspose::Words::Drawing::Charts::Char
 ## Remarks
 
 
-Default value is **Automatic**.
+Default value is [Automatic](../../axiscrosses/).
 
 The property is not supported by MS Office 2016 new charts.
 

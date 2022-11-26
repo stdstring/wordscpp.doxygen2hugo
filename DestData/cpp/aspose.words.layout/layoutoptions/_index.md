@@ -20,7 +20,7 @@ class LayoutOptions : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_Callback](./get_callback/)() const | Gets [IPageLayoutCallback](../ipagelayoutcallback/) implementation used by page layout model. |
-| [get_CommentDisplayMode](./get_commentdisplaymode/)() const | Gets or sets the way comments are rendered. Default value is **ShowInBalloons**. |
+| [get_CommentDisplayMode](./get_commentdisplaymode/)() const | Gets or sets the way comments are rendered. Default value is [ShowInBalloons](../commentdisplaymode/). |
 | [get_ContinuousSectionPageNumberingRestart](./get_continuoussectionpagenumberingrestart/)() const | Gets or sets the mode of behavior for computing page numbers when a continuous section restarts the page numbering. |
 | [get_IgnorePrinterMetrics](./get_ignoreprintermetrics/)() const | Gets or sets indication of whether the "Use printer metrics to lay out document" compatibility option is ignored. Default is True. |
 | [get_RevisionOptions](./get_revisionoptions/)() const | Gets revision options. |

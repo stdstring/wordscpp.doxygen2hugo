@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_compressionlevel/
 ## OoxmlSaveOptions::get_CompressionLevel method
 
 
-Specifies the compression level used to save document. The default value is **Normal**.
+Specifies the compression level used to save document. The default value is [Normal](../../compressionlevel/).
 
 ```cpp
 Aspose::Words::Saving::CompressionLevel Aspose::Words::Saving::OoxmlSaveOptions::get_CompressionLevel() const

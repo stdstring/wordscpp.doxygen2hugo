@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/txtloadoptions/get_trailingspacesoptions/
 ## TxtLoadOptions::get_TrailingSpacesOptions method
 
 
-Gets or sets preferred option of a trailing space handling. Default value is **Trim**.
+Gets or sets preferred option of a trailing space handling. Default value is [Trim](../../txttrailingspacesoptions/).
 
 ```cpp
 Aspose::Words::Loading::TxtTrailingSpacesOptions Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions() const

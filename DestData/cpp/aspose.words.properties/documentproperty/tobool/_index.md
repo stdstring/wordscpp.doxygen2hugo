@@ -18,7 +18,7 @@ bool Aspose::Words::Properties::DocumentProperty::ToBool()
 ## Remarks
 
 
-Throws an exception if the property type is not **Boolean**.
+Throws an exception if the property type is not [Boolean](../../propertytype/).
 
 ## Examples
 

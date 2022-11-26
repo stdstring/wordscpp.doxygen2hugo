@@ -18,7 +18,7 @@ Aspose::Words::Saving::PdfCompliance Aspose::Words::Saving::PdfSaveOptions::get_
 ## Remarks
 
 
-Default is **Pdf17**.
+Default is [Pdf17](../../pdfcompliance/).
 
 ## Examples
 

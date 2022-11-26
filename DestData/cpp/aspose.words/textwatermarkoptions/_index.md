@@ -23,7 +23,7 @@ class TextWatermarkOptions : public System::Object
 | [get_FontFamily](./get_fontfamily/)() const | Gets or sets font family name. The default value is "Calibri". |
 | [get_FontSize](./get_fontsize/)() const | Gets or sets a font size. The default value is 0 - auto. |
 | [get_IsSemitrasparent](./get_issemitrasparent/)() const | Gets or sets a boolean value which is responsible for opacity of the watermark. The default value is True. |
-| [get_Layout](./get_layout/)() const | Gets or sets layout of the watermark. The default value is **Diagonal**. |
+| [get_Layout](./get_layout/)() const | Gets or sets layout of the watermark. The default value is [Diagonal](../watermarklayout/). |
 | [set_Color](./set_color/)(System::Drawing::Color) | Setter for [Aspose::Words::TextWatermarkOptions::get_Color](./get_color/). |
 | [set_FontFamily](./set_fontfamily/)(const System::String\&) | Setter for [Aspose::Words::TextWatermarkOptions::get_FontFamily](./get_fontfamily/). |
 | [set_FontSize](./set_fontsize/)(float) | Setter for [Aspose::Words::TextWatermarkOptions::get_FontSize](./get_fontsize/). |

@@ -18,7 +18,7 @@ Aspose::Words::Drawing::WrapSide Aspose::Words::Drawing::ShapeBase::get_WrapSide
 ## Remarks
 
 
-The default value is **Both**.
+The default value is [Both](../../wrapside/).
 
 Has effect only for top level shapes.
 

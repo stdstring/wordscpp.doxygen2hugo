@@ -18,7 +18,7 @@ Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::Drawing::Shape
 ## Remarks
 
 
-The default value is **Column**.
+The default value is [Column](../../relativehorizontalposition/).
 
 Has effect only for top level floating shapes.
 

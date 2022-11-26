@@ -18,7 +18,7 @@ System::String Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayForm
 ## Remarks
 
 
-Accessing this property will only work for **Date** SDT type.
+Accessing this property will only work for [Date](../../sdttype/) SDT type.
 
 For all other SDT types exception will occur.
 

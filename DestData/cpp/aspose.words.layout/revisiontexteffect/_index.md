@@ -19,7 +19,7 @@ enum class RevisionTextEffect
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | 0 | Revised content has no special effects applied. This corresponds to **NoHighlight**. |
+| None | 0 | Revised content has no special effects applied. This corresponds to [NoHighlight](../revisioncolor/). |
 | Color | 1 | Revised content is highlighted with color only. |
 | Bold | 2 | Revised content is made bold and colored. |
 | Italic | 3 | Revised content is made italic and colored. |

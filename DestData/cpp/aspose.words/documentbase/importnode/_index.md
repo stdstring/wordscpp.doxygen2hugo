@@ -27,7 +27,7 @@ The cloned node that belongs to the current document.
 ## Remarks
 
 
-This method uses the **UseDestinationStyles** option to resolve formatting.
+This method uses the [UseDestinationStyles](../../importformatmode/) option to resolve formatting.
 
 Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.
 

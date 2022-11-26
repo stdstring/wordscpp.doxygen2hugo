@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Drawing::ShapeBase> Aspose::Words::Saving::Imag
 ## Remarks
 
 
-[IImageSavingCallback](../../iimagesavingcallback/) can be fired while saving either a shape or a group shape. That's why the property has [ShapeBase](../../../aspose.words.drawing/shapebase/) type. You can check whether it's a group shape comparing [ShapeType](../../../aspose.words.drawing/shapebase/get_shapetype/) with **Group** or by casting it to one of derived classes: [Shape](../../../aspose.words.drawing/shape/) or [GroupShape](../../../aspose.words.drawing/groupshape/).
+[IImageSavingCallback](../../iimagesavingcallback/) can be fired while saving either a shape or a group shape. That's why the property has [ShapeBase](../../../aspose.words.drawing/shapebase/) type. You can check whether it's a group shape comparing [ShapeType](../../../aspose.words.drawing/shapebase/get_shapetype/) with [Group](../../../aspose.words.drawing/shapetype/) or by casting it to one of derived classes: [Shape](../../../aspose.words.drawing/shape/) or [GroupShape](../../../aspose.words.drawing/groupshape/).
 
 Aspose.Words uses the document file name and a unique number to generate unique file name for each image found in the document. You can use the [CurrentShape](./) property to generate a "better" file name by examining shape properties such as [Title](../../../aspose.words.drawing/imagedata/get_title/) (Shape only), [SourceFullName](../../../aspose.words.drawing/imagedata/get_sourcefullname/) (Shape only) and [Name](../../../aspose.words.drawing/shapebase/get_name/). Of course you can build file names using any other properties or criteria but note that subsidiary file names must be unique within the export operation.
 

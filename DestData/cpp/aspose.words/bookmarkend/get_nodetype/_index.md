@@ -9,7 +9,7 @@ url: /cpp/aspose.words/bookmarkend/get_nodetype/
 ## BookmarkEnd::get_NodeType method
 
 
-Returns **BookmarkEnd**.
+Returns [BookmarkEnd](../../nodetype/).
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::BookmarkEnd::get_NodeType() const override

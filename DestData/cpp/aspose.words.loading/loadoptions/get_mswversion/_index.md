@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/loadoptions/get_mswversion/
 ## LoadOptions::get_MswVersion method
 
 
-Allows to specify that the document loading process should match a specific MS Word version. Default value is **Word2019**
+Allows to specify that the document loading process should match a specific MS Word version. Default value is [Word2019](../../../aspose.words.settings/mswordversion/)
 
 ```cpp
 Aspose::Words::Settings::MsWordVersion Aspose::Words::Loading::LoadOptions::get_MswVersion() const

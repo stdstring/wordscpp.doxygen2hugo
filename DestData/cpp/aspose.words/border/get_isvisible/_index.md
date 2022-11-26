@@ -9,7 +9,7 @@ url: /cpp/aspose.words/border/get_isvisible/
 ## Border::get_IsVisible method
 
 
-Returns true if the LineStyle is not **LineStyle.None**.
+Returns true if the LineStyle is not [LineStyle.None](../../linestyle/).
 
 ```cpp
 bool Aspose::Words::Border::get_IsVisible()

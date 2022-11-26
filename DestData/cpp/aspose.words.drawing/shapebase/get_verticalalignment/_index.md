@@ -18,7 +18,7 @@ Aspose::Words::Drawing::VerticalAlignment Aspose::Words::Drawing::ShapeBase::get
 ## Remarks
 
 
-The default value is **None**.
+The default value is [None](../../verticalalignment/).
 
 Has effect only for top level floating shapes.
 

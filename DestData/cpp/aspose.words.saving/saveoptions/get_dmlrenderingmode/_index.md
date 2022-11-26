@@ -18,7 +18,7 @@ Aspose::Words::Saving::DmlRenderingMode Aspose::Words::Saving::SaveOptions::get_
 ## Remarks
 
 
-The default value is **Fallback**.
+The default value is [Fallback](../../dmlrenderingmode/).
 
 This property is used when the document is exported to fixed page formats.
 

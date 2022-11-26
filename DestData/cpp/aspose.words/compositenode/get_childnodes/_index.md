@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::CompositeNode::g
 ## Remarks
 
 
-Note, [ChildNodes](./) is equivalent to calling **GetChildNodes(**NodeType.Any**, false)** and creates and returns a new collection every time it is accessed.
+Note, [ChildNodes](./) is equivalent to calling **GetChildNodes([NodeType.Any](../../nodetype/), false)** and creates and returns a new collection every time it is accessed.
 
 If there are no child nodes, this property returns an empty collection.
 

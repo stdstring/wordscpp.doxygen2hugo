@@ -20,7 +20,7 @@ bool Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing() const
 
 The default value is **false**. When this value is set to **true** anti-aliasing is used for rendering.
 
-This property is used when the document is exported to the following formats: **Tiff**, **Png**, **Bmp**, **Jpeg**, **Emf**. When the document is exported to the **Html**, **Mhtml**, **Epub** and **Azw3** formats this option is used for raster images.
+This property is used when the document is exported to the following formats: [Tiff](../../../aspose.words/saveformat/), [Png](../../../aspose.words/saveformat/), [Bmp](../../../aspose.words/saveformat/), [Jpeg](../../../aspose.words/saveformat/), [Emf](../../../aspose.words/saveformat/). When the document is exported to the [Html](../../../aspose.words/saveformat/), [Mhtml](../../../aspose.words/saveformat/), [Epub](../../../aspose.words/saveformat/) and [Azw3](../../../aspose.words/saveformat/) formats this option is used for raster images.
 
 ## Examples
 

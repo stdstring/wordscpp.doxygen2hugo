@@ -22,7 +22,7 @@ static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::ExtensionToSaveF
 ## Remarks
 
 
-If the extension cannot be recognized, returns **Unknown**.
+If the extension cannot be recognized, returns [Unknown](../../saveformat/).
 
 ## Examples
 

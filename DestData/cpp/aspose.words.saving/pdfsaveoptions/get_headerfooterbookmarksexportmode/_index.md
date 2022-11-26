@@ -18,7 +18,7 @@ Aspose::Words::Saving::HeaderFooterBookmarksExportMode Aspose::Words::Saving::Pd
 ## Remarks
 
 
-The default value is **All**.
+The default value is [All](../../headerfooterbookmarksexportmode/).
 
 This property is used in conjunction with the [OutlineOptions](../get_outlineoptions/) option.
 

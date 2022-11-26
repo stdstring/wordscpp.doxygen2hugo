@@ -9,7 +9,7 @@ url: /cpp/aspose.words/editablerangeend/get_nodetype/
 ## EditableRangeEnd::get_NodeType method
 
 
-Returns **EditableRangeEnd**.
+Returns [EditableRangeEnd](../../nodetype/).
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::EditableRangeEnd::get_NodeType() const override

@@ -83,7 +83,7 @@ public:
         mLog->AppendLine(String::IsNullOrEmpty(args->get_GroupName()) ? String::Format(u"\tGroup index:\t{0}", args->get_GroupIndex())
                                                                       : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
 
-** return **ReplaceAction::Replace**; }**
+** return [ReplaceAction::Replace](../../replaceaction/); }**
 
 ** String GetLog() { return mLog->**ToString()**; }**
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/odtsaveoptions/get_saveformat/
 ## OdtSaveOptions::get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can be **Odt** or **Ott**.
+Specifies the format in which the document will be saved if this save options object is used. Can be [Odt](../../../aspose.words/saveformat/) or [Ott](../../../aspose.words/saveformat/).
 
 ```cpp
 Aspose::Words::SaveFormat Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat() override

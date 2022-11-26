@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing/shape/get_nodetype/
 ## Shape::get_NodeType method
 
 
-Returns **Shape**.
+Returns [Shape](../../../aspose.words/nodetype/).
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::Drawing::Shape::get_NodeType() const override

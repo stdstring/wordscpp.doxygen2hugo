@@ -18,7 +18,7 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields() const
 ## Remarks
 
 
-This option affects whole field (all nodes between **FieldStart** and **FieldEnd**).
+This option affects whole field (all nodes between [FieldStart](../../../aspose.words/nodetype/) and [FieldEnd](../../../aspose.words/nodetype/)).
 
 To ignore only field codes, please use corresponding option [IgnoreFieldCodes](../get_ignorefieldcodes/).
 

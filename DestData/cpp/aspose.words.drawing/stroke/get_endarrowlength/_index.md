@@ -18,7 +18,7 @@ Aspose::Words::Drawing::ArrowLength Aspose::Words::Drawing::Stroke::get_EndArrow
 ## Remarks
 
 
-The default value is **Medium**.
+The default value is [Medium](../../arrowlength/).
 
 ## Examples
 

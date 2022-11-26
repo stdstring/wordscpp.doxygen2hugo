@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_tiffbinarizationmethod/
 ## ImageSaveOptions::get_TiffBinarizationMethod method
 
 
-Gets or sets method used while converting images to 1 bpp format when [SaveFormat](../get_saveformat/) is **SaveFormat.Tiff** and [TiffCompression](../get_tiffcompression/) is equal to **TiffCompression.Ccitt3** or **TiffCompression.Ccitt4**.
+Gets or sets method used while converting images to 1 bpp format when [SaveFormat](../get_saveformat/) is [SaveFormat.Tiff](../../../aspose.words/saveformat/) and [TiffCompression](../get_tiffcompression/) is equal to [TiffCompression.Ccitt3](../../tiffcompression/) or [TiffCompression.Ccitt4](../../tiffcompression/).
 
 ```cpp
 Aspose::Words::Saving::ImageBinarizationMethod Aspose::Words::Saving::ImageSaveOptions::get_TiffBinarizationMethod() const
@@ -18,7 +18,7 @@ Aspose::Words::Saving::ImageBinarizationMethod Aspose::Words::Saving::ImageSaveO
 ## Remarks
 
 
-The default value is **ImageBinarizationMethod.Threshold**.
+The default value is [ImageBinarizationMethod.Threshold](../../imagebinarizationmethod/).
 
 ## Examples
 

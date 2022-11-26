@@ -18,7 +18,7 @@ Aspose::Words::Drawing::JoinStyle Aspose::Words::Drawing::Stroke::get_JoinStyle(
 ## Remarks
 
 
-The default value is **Round**.
+The default value is [Round](../../joinstyle/).
 
 ## Examples
 

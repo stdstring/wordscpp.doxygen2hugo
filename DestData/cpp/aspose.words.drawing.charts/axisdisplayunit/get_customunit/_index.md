@@ -20,7 +20,7 @@ double Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit() const
 
 The property is not supported by MS Office 2016 new charts. Default value is 1.
 
-Setting this property sets the [Unit](../get_unit/) property to **Custom**.
+Setting this property sets the [Unit](../get_unit/) property to [Custom](../../axisbuiltinunit/).
 
 ## Examples
 

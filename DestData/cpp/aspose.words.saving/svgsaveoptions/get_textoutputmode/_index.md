@@ -20,7 +20,7 @@ Aspose::Words::Saving::SvgTextOutputMode Aspose::Words::Saving::SvgSaveOptions::
 
 Use this property to get or set the mode of how text inside a document should be rendered when saving in SVG format.
 
-The default value is **UseTargetMachineFonts**.
+The default value is [UseTargetMachineFonts](../../svgtextoutputmode/).
 
 ## Examples
 

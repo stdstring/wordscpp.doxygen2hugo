@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/odtsaveoptions/odtsaveoptions/
 ## OdtSaveOptions::OdtSaveOptions() method
 
 
-Initializes a new instance of this class that can be used to save a document in the **Odt** format.
+Initializes a new instance of this class that can be used to save a document in the [Odt](../../../aspose.words/saveformat/) format.
 
 ```cpp
 Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions()
@@ -39,7 +39,7 @@ doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
 ## OdtSaveOptions::OdtSaveOptions(Aspose::Words::SaveFormat) method
 
 
-Initializes a new instance of this class that can be used to save a document in the **Odt** or **Ott** format.
+Initializes a new instance of this class that can be used to save a document in the [Odt](../../../aspose.words/saveformat/) or [Ott](../../../aspose.words/saveformat/) format.
 
 ```cpp
 Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions(Aspose::Words::SaveFormat saveFormat)
@@ -48,7 +48,7 @@ Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions(Aspose::Words::SaveFormat 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveFormat | Aspose::Words::SaveFormat | Can be **Odt** or **Ott**. |
+| saveFormat | Aspose::Words::SaveFormat | Can be [Odt](../../../aspose.words/saveformat/) or [Ott](../../../aspose.words/saveformat/). |
 
 ## Examples
 
@@ -90,7 +90,7 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ## OdtSaveOptions::OdtSaveOptions(const System::String\&) method
 
 
-Initializes a new instance of this class that can be used to save a document in the **Odt** format encrypted with a password.
+Initializes a new instance of this class that can be used to save a document in the [Odt](../../../aspose.words/saveformat/) format encrypted with a password.
 
 ```cpp
 Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions(const System::String &password)

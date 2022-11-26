@@ -22,7 +22,7 @@ EMF+ Dual metafiles contains both EMF+ and EMF parts. MS Word and GDI+ always re
 
 This option is used only when metafile is rendered as vector graphics. When metafile is rendered to bitmap, EMF+ part is always used.
 
-The default value is **EmfPlusWithFallback**.
+The default value is [EmfPlusWithFallback](../../emfplusdualrenderingmode/).
 
 ## Examples
 

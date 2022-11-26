@@ -20,7 +20,7 @@ bool Aspose::Words::Lists::List::get_IsRestartAtEachSection()
 
 This option is supported only in RTF, DOC and DOCX document formats.
 
-This option will be written to DOCX only if [OoxmlCompliance](../../../aspose.words.saving/ooxmlcompliance/) is higher then **Ecma376_2006**.
+This option will be written to DOCX only if [OoxmlCompliance](../../../aspose.words.saving/ooxmlcompliance/) is higher then [Ecma376_2006](../../../aspose.words.saving/ooxmlcompliance/).
 
 ## Examples
 

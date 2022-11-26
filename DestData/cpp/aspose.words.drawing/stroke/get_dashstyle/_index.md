@@ -18,7 +18,7 @@ Aspose::Words::Drawing::DashStyle Aspose::Words::Drawing::Stroke::get_DashStyle(
 ## Remarks
 
 
-The default value is **Solid**.
+The default value is [Solid](../../dashstyle/).
 
 ## Examples
 

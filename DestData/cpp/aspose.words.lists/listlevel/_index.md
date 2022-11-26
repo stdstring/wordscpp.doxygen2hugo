@@ -36,7 +36,7 @@ class ListLevel : public Aspose::Words::IRunAttrSource
 | [get_TabPosition](./get_tabposition/)() const | Returns or sets the tab position (in points) for the list level. |
 | [get_TextPosition](./get_textposition/)() const | Returns or sets the position (in points) for the second line of wrapping text for the list level. |
 | [get_TrailingCharacter](./get_trailingcharacter/)() const | Returns or sets the character inserted after the number for the list level. |
-| static [GetEffectiveValue](./geteffectivevalue/)(int32_t, Aspose::Words::NumberStyle, const System::String\&) | Reports the string representation of the [ListLevel](./) object for the specified index of the list item. Parameters specify the [NumberStyle](../../aspose.words/numberstyle/) and an optional format string used when **Custom** is specified. |
+| static [GetEffectiveValue](./geteffectivevalue/)(int32_t, Aspose::Words::NumberStyle, const System::String\&) | Reports the string representation of the [ListLevel](./) object for the specified index of the list item. Parameters specify the [NumberStyle](../../aspose.words/numberstyle/) and an optional format string used when [Custom](../../aspose.words/numberstyle/) is specified. |
 | [GetHashCode](./gethashcode/)() const override | Calculates hash code for this object. |
 | [set_Alignment](./set_alignment/)(Aspose::Words::Lists::ListLevelAlignment) | Setter for [Aspose::Words::Lists::ListLevel::get_Alignment](./get_alignment/). |
 | [set_IsLegal](./set_islegal/)(bool) | Setter for [Aspose::Words::Lists::ListLevel::get_IsLegal](./get_islegal/). |

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/pssaveoptions/get_saveformat/
 ## PsSaveOptions::get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can only be **Ps**.
+Specifies the format in which the document will be saved if this save options object is used. Can only be [Ps](../../../aspose.words/saveformat/).
 
 ```cpp
 Aspose::Words::SaveFormat Aspose::Words::Saving::PsSaveOptions::get_SaveFormat() override

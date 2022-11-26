@@ -9,7 +9,7 @@ url: /cpp/aspose.words.loading/htmlloadoptions/get_preferredcontroltype/
 ## HtmlLoadOptions::get_PreferredControlType method
 
 
-Gets or sets preferred type of document nodes that will represent imported <input> and <select> elements. Default value is **FormField**.
+Gets or sets preferred type of document nodes that will represent imported <input> and <select> elements. Default value is [FormField](../../htmlcontroltype/).
 
 ```cpp
 Aspose::Words::Loading::HtmlControlType Aspose::Words::Loading::HtmlLoadOptions::get_PreferredControlType() const

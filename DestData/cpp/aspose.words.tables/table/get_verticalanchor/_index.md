@@ -9,7 +9,7 @@ url: /cpp/aspose.words.tables/table/get_verticalanchor/
 ## Table::get_VerticalAnchor method
 
 
-Gets the base object from which the vertical positioning of floating table should be calculated. Default value is **Margin**.
+Gets the base object from which the vertical positioning of floating table should be calculated. Default value is [Margin](../../../aspose.words.drawing/relativeverticalposition/).
 
 ```cpp
 Aspose::Words::Drawing::RelativeVerticalPosition Aspose::Words::Tables::Table::get_VerticalAnchor()

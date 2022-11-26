@@ -20,7 +20,7 @@ class CompareOptions : public System::Object
 | Method | Description |
 | --- | --- |
 | [CompareOptions](./compareoptions/)() |  |
-| [get_Granularity](./get_granularity/)() const | Specifies whether changes are tracked by character or by word. Default value is **WordLevel**. |
+| [get_Granularity](./get_granularity/)() const | Specifies whether changes are tracked by character or by word. Default value is [WordLevel](../granularity/). |
 | [get_IgnoreCaseChanges](./get_ignorecasechanges/)() const | True indicates that documents comparison is case insensitive. By default comparison is case sensitive. |
 | [get_IgnoreComments](./get_ignorecomments/)() const | Specifies whether to compare differences in comments. By default comments are not ignored. |
 | [get_IgnoreDmlUniqueId](./get_ignoredmluniqueid/)() const | Specifies whether to ignore difference in DrawingML unique Id. Default value is **false**. |

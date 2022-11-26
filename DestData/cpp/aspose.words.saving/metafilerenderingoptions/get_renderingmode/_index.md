@@ -18,7 +18,7 @@ Aspose::Words::Saving::MetafileRenderingMode Aspose::Words::Saving::MetafileRend
 ## Remarks
 
 
-The default value depends on the save format. For images it is **Bitmap**. For other formats it is **VectorWithFallback**.
+The default value depends on the save format. For images it is [Bitmap](../../metafilerenderingmode/). For other formats it is [VectorWithFallback](../../metafilerenderingmode/).
 
 ## Examples
 

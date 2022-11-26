@@ -18,7 +18,7 @@ Aspose::Words::Saving::PdfTextCompression Aspose::Words::Saving::PdfSaveOptions:
 ## Remarks
 
 
-Default is **Flate**.
+Default is [Flate](../../pdftextcompression/).
 
 Significantly increases output size when saving a document without compression.
 

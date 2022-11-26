@@ -30,7 +30,7 @@ enum class DashStyle
 | DashDot | 8 | Dash short dash. |
 | LongDashDot | 9 | Long dash short dash. |
 | LongDashDotDot | 10 | Long dash short dash short dash. |
-| Default | n/a | Same as **Solid**. |
+| Default | n/a | Same as [Solid](./). |
 
 
 ## Examples

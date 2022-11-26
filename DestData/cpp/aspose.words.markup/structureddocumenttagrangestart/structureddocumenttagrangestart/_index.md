@@ -25,15 +25,15 @@ Aspose::Words::Markup::StructuredDocumentTagRangeStart::StructuredDocumentTagRan
 
 The following types of SDT can be created:
 
-* **Checkbox**
-* **DropDownList**
-* **ComboBox**
-* **Date**
-* **BuildingBlockGallery**
-* **Group**
-* **Picture**
-* **RichText**
-* **PlainText**
+* [Checkbox](../../sdttype/)
+* [DropDownList](../../sdttype/)
+* [ComboBox](../../sdttype/)
+* [Date](../../sdttype/)
+* [BuildingBlockGallery](../../sdttype/)
+* [Group](../../sdttype/)
+* [Picture](../../sdttype/)
+* [RichText](../../sdttype/)
+* [PlainText](../../sdttype/)
 
 
 

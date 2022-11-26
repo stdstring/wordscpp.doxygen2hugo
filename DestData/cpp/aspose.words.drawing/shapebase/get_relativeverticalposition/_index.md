@@ -18,7 +18,7 @@ Aspose::Words::Drawing::RelativeVerticalPosition Aspose::Words::Drawing::ShapeBa
 ## Remarks
 
 
-The default value is **Paragraph**.
+The default value is [Paragraph](../../relativeverticalposition/).
 
 Has effect only for top level floating shapes.
 

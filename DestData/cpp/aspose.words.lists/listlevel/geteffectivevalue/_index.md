@@ -9,7 +9,7 @@ url: /cpp/aspose.words.lists/listlevel/geteffectivevalue/
 ## ListLevel::GetEffectiveValue method
 
 
-Reports the string representation of the [ListLevel](../) object for the specified index of the list item. Parameters specify the [NumberStyle](../../../aspose.words/numberstyle/) and an optional format string used when **Custom** is specified.
+Reports the string representation of the [ListLevel](../) object for the specified index of the list item. Parameters specify the [NumberStyle](../../../aspose.words/numberstyle/) and an optional format string used when [Custom](../../../aspose.words/numberstyle/) is specified.
 
 ```cpp
 static System::String Aspose::Words::Lists::ListLevel::GetEffectiveValue(int32_t index, Aspose::Words::NumberStyle numberStyle, const System::String &customNumberStyleFormat)
@@ -20,7 +20,7 @@ static System::String Aspose::Words::Lists::ListLevel::GetEffectiveValue(int32_t
 | --- | --- | --- |
 | index | int32_t | The index of the list item (must be in the range from 1 to 32767). |
 | numberStyle | Aspose::Words::NumberStyle | The [NumberStyle](../../../aspose.words/numberstyle/) of the [ListLevel](../) object. |
-| customNumberStyleFormat | const System::String\& | The optional format string used when **Custom** is specified (e.g. "a, ç, ĝ, ..."). In other cases, this parameter must be null or empty. |
+| customNumberStyleFormat | const System::String\& | The optional format string used when [Custom](../../../aspose.words/numberstyle/) is specified (e.g. "a, ç, ĝ, ..."). In other cases, this parameter must be null or empty. |
 
 ### ReturnValue
 

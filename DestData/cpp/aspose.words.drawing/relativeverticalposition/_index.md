@@ -27,8 +27,8 @@ enum class RelativeVerticalPosition
 | BottomMargin | 5 | Specifies that the vertical positioning shall be relative to the bottom margin of the current page. |
 | InsideMargin | 6 | Specifies that the vertical positioning shall be relative to the inside margin of the current page. |
 | OutsideMargin | 7 | Specifies that the vertical positioning shall be relative to the outside margin of the current page. |
-| TableDefault | n/a | Default value is **Margin**. |
-| TextFrameDefault | n/a | Default value is **Paragraph**. |
+| TableDefault | n/a | Default value is [Margin](./). |
+| TextFrameDefault | n/a | Default value is [Paragraph](./). |
 
 
 ## Examples

@@ -18,9 +18,9 @@ static System::String Aspose::Words::FileFormatUtil::SaveFormatToExtension(Aspos
 ## Remarks
 
 
-The **WordML** value is converted to ".wml".
+The [WordML](../../saveformat/) value is converted to ".wml".
 
-The **FlatOpc** value is converted to ".fopc".
+The [FlatOpc](../../saveformat/) value is converted to ".fopc".
 
 ## Examples
 

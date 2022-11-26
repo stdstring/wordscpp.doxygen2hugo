@@ -9,7 +9,7 @@ url: /cpp/aspose.words.buildingblocks/glossarydocument/get_nodetype/
 ## GlossaryDocument::get_NodeType method
 
 
-Returns the **GlossaryDocument** value.
+Returns the [GlossaryDocument](../../../aspose.words/nodetype/) value.
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType() const override

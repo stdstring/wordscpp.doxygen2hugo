@@ -9,7 +9,7 @@ url: /cpp/aspose.words.markup/structureddocumenttag/get_calendartype/
 ## StructuredDocumentTag::get_CalendarType method
 
 
-Specifies the type of calendar for this **SDT**. Default is **Default**
+Specifies the type of calendar for this **SDT**. Default is [Default](../../sdtcalendartype/)
 
 ```cpp
 Aspose::Words::Markup::SdtCalendarType Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType()
@@ -18,7 +18,7 @@ Aspose::Words::Markup::SdtCalendarType Aspose::Words::Markup::StructuredDocument
 ## Remarks
 
 
-Accessing this property will only work for **Date** SDT type.
+Accessing this property will only work for [Date](../../sdttype/) SDT type.
 
 For all other SDT types exception will occur.
 

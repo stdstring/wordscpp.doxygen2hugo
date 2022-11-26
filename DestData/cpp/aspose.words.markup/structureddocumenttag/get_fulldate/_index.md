@@ -18,7 +18,7 @@ System::DateTime Aspose::Words::Markup::StructuredDocumentTag::get_FullDate()
 ## Remarks
 
 
-Accessing this property will only work for **Date** SDT type.
+Accessing this property will only work for [Date](../../sdttype/) SDT type.
 
 For all other SDT types exception will occur.
 

@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_showinballoons/
 ## RevisionOptions::get_ShowInBalloons method
 
 
-Allows to specify whether the revisions are rendered in the balloons. Default value is **None**.
+Allows to specify whether the revisions are rendered in the balloons. Default value is [None](../../showinballoons/).
 
 ```cpp
 Aspose::Words::Layout::ShowInBalloons Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons() const

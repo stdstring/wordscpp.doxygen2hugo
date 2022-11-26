@@ -20,7 +20,7 @@ enum class HorizontalAlignment
 | Name | Value | Description |
 | --- | --- | --- |
 | None | 0 | The object is explicitly positioned, usually using its **Left** property. |
-| Default | n/a | Same as **None**. |
+| Default | n/a | Same as [None](./). |
 | Left | 1 | Specifies that the object shall be left aligned to the horizontal alignment base. |
 | Center | 2 | Specifies that the object shall be centered with respect to the horizontal alignment base. |
 | Right | 3 | Specifies that the object shall be right aligned to the horizontal alignment base. |

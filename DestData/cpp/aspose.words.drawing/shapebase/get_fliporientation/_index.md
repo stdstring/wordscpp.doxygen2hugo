@@ -18,7 +18,7 @@ Aspose::Words::Drawing::FlipOrientation Aspose::Words::Drawing::ShapeBase::get_F
 ## Remarks
 
 
-The default value is **None**.
+The default value is [None](../../fliporientation/).
 
 ## Examples
 

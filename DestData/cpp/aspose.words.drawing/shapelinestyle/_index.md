@@ -24,7 +24,7 @@ enum class ShapeLineStyle
 | ThickThin | 2 | Double lines, one thick, one thin. |
 | ThinThick | 3 | Double lines, one thin, one thick. |
 | Triple | 4 | Three lines, thin, thick, thin. |
-| Default | n/a | Default value is **Single**. |
+| Default | n/a | Default value is [Single](./). |
 
 
 ## Examples

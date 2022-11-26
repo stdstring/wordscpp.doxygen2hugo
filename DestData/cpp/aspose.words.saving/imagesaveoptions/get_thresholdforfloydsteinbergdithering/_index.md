@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/imagesaveoptions/get_thresholdforfloydsteinbergdit
 ## ImageSaveOptions::get_ThresholdForFloydSteinbergDithering method
 
 
-Gets or sets the threshold that determines the value of the binarization error in the Floyd-Steinberg method. when [ImageBinarizationMethod](../../imagebinarizationmethod/) is **ImageBinarizationMethod.FloydSteinbergDithering**.
+Gets or sets the threshold that determines the value of the binarization error in the Floyd-Steinberg method. when [ImageBinarizationMethod](../../imagebinarizationmethod/) is [ImageBinarizationMethod.FloydSteinbergDithering](../../imagebinarizationmethod/).
 
 ```cpp
 uint8_t Aspose::Words::Saving::ImageSaveOptions::get_ThresholdForFloydSteinbergDithering() const

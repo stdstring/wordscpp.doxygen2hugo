@@ -9,7 +9,7 @@ url: /cpp/aspose.words.drawing.charts/chartlegend/get_position/
 ## ChartLegend::get_Position method
 
 
-Specifies the position of the legend on a chart. Default value is **Right**.
+Specifies the position of the legend on a chart. Default value is [Right](../../legendposition/).
 
 ```cpp
 Aspose::Words::Drawing::Charts::LegendPosition Aspose::Words::Drawing::Charts::ChartLegend::get_Position() const

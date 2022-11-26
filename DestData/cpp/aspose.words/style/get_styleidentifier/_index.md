@@ -18,7 +18,7 @@ Aspose::Words::StyleIdentifier Aspose::Words::Style::get_StyleIdentifier() const
 ## Remarks
 
 
-For user defined (custom) styles, this property returns **User**.
+For user defined (custom) styles, this property returns [User](../../styleidentifier/).
 
 ## Examples
 

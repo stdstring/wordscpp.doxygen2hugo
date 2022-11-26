@@ -25,7 +25,7 @@ class MailMerge : public System::Object
 | [ExecuteWithRegions](./executewithregions/)(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\&) | Performs a mail merge from a custom data source with mail merge regions. |
 | [ExecuteWithRegions](./executewithregions/)(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSourceRoot\>\&) | Performs a mail merge from a custom data source with mail merge regions. |
 | [get_CleanupOptions](./get_cleanupoptions/)() const | Gets a set of flags that specify what items should be removed during mail merge. |
-| [get_CleanupParagraphsWithPunctuationMarks](./get_cleanupparagraphswithpunctuationmarks/)() const | Gets or sets a value indicating whether paragraphs with punctuation marks are considered as empty and should be removed if the **RemoveEmptyParagraphs** option is specified. |
+| [get_CleanupParagraphsWithPunctuationMarks](./get_cleanupparagraphswithpunctuationmarks/)() const | Gets or sets a value indicating whether paragraphs with punctuation marks are considered as empty and should be removed if the [RemoveEmptyParagraphs](../mailmergecleanupoptions/) option is specified. |
 | [get_FieldMergingCallback](./get_fieldmergingcallback/)() const | Occurs during mail merge when a mail merge field is encountered in the document. |
 | [get_MailMergeCallback](./get_mailmergecallback/)() const | Allows to handle particular events during mail merge. |
 | [get_MappedDataFields](./get_mappeddatafields/)() | Returns a collection that represents mapped data fields for the mail merge operation. |

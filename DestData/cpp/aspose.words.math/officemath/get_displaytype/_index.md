@@ -20,7 +20,7 @@ Aspose::Words::Math::OfficeMathDisplayType Aspose::Words::Math::OfficeMath::get_
 
 Display format type has effect for top level Office [Math](../../) only.
 
-Returned display format type is always **Inline** for nested Office [Math](../../).
+Returned display format type is always [Inline](../../officemathdisplaytype/) for nested Office [Math](../../).
 
 ## Examples
 

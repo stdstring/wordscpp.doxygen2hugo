@@ -22,7 +22,7 @@ enum class MailMergeCheckErrors
 | Simulate | 1 | Simulate the merge and report errors in a new document. |
 | PauseOnError | 2 | Complete the merge and pause to report errors. |
 | CollectErrors | 3 | Complete the merge and report errors in a new document. |
-| Default | n/a | Equals to the **PauseOnError** value. |
+| Default | n/a | Equals to the [PauseOnError](./) value. |
 
 
 ## See Also

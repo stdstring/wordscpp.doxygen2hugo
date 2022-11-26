@@ -18,7 +18,7 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFieldCodes() const
 ## Remarks
 
 
-This option affects only field codes (it does not ignore nodes between **FieldSeparator** and **FieldEnd**).
+This option affects only field codes (it does not ignore nodes between [FieldSeparator](../../../aspose.words/nodetype/) and [FieldEnd](../../../aspose.words/nodetype/)).
 
 To ignore whole field, please use corresponding option [IgnoreFields](../get_ignorefields/). 
 ## See Also

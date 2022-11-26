@@ -18,7 +18,7 @@ static System::String Aspose::Words::FileFormatUtil::LoadFormatToExtension(Aspos
 ## Remarks
 
 
-The **WordML** value is converted to ".wml".
+The [WordML](../../saveformat/) value is converted to ".wml".
 
 ## Examples
 

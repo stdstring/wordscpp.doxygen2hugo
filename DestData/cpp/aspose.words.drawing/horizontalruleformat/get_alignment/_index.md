@@ -18,7 +18,7 @@ Aspose::Words::Drawing::HorizontalRuleAlignment Aspose::Words::Drawing::Horizont
 ## Remarks
 
 
-The default value is **Left**.
+The default value is [Left](../../horizontalrulealignment/).
 
 ## Examples
 

@@ -18,7 +18,7 @@ Aspose::Words::Saving::ImlRenderingMode Aspose::Words::Saving::SaveOptions::get_
 ## Remarks
 
 
-The default value is **InkML**.
+The default value is [InkML](../../imlrenderingmode/).
 
 This property is used when the document is exported to fixed page formats.
 

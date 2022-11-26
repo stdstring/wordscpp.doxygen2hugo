@@ -18,7 +18,7 @@ System::SharedPtr<Aspose::Words::Markup::SdtListItemCollection> Aspose::Words::M
 ## Remarks
 
 
-Accessing this property will only work for **ComboBox** or **DropDownList** SDT types.
+Accessing this property will only work for [ComboBox](../../sdttype/) or [DropDownList](../../sdttype/) SDT types.
 
 For all other SDT types exception will occur.
 

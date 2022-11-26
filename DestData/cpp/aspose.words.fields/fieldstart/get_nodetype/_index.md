@@ -9,7 +9,7 @@ url: /cpp/aspose.words.fields/fieldstart/get_nodetype/
 ## FieldStart::get_NodeType method
 
 
-Returns **FieldStart**.
+Returns [FieldStart](../../../aspose.words/nodetype/).
 
 ```cpp
 Aspose::Words::NodeType Aspose::Words::Fields::FieldStart::get_NodeType() const override

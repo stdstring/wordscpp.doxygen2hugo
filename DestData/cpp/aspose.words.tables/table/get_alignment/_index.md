@@ -18,7 +18,7 @@ Aspose::Words::Tables::TableAlignment Aspose::Words::Tables::Table::get_Alignmen
 ## Remarks
 
 
-The default value is **Left**.
+The default value is [Left](../../tablealignment/).
 
 ## Examples
 

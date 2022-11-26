@@ -22,7 +22,7 @@ enum class ArrowLength
 | Short | 0 |  |
 | Medium | 1 |  |
 | Long | 2 |  |
-| Default | n/a | Same as **Short**. |
+| Default | n/a | Same as [Short](./). |
 
 
 ## Examples

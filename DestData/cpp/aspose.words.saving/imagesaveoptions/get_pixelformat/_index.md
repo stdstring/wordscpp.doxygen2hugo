@@ -20,7 +20,7 @@ Aspose::Words::Saving::ImagePixelFormat Aspose::Words::Saving::ImageSaveOptions:
 
 This property has effect only when saving to raster image formats.
 
-The default value is **Format32BppArgb**.
+The default value is [Format32BppArgb](../../imagepixelformat/).
 
 Pixel format of the output image may differ from the set value because of work of GDI+.
 

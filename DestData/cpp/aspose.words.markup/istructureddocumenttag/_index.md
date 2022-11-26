@@ -30,7 +30,7 @@ class IStructuredDocumentTag : public virtual System::Object
 | virtual [get_SdtType](./get_sdttype/)() | Gets type of this **Structured document tag**. |
 | virtual [get_Tag](./get_tag/)() const | Specifies a tag associated with the current SDT node. Can not be null. |
 | virtual [get_Title](./get_title/)() const | Specifies the friendly name associated with this **SDT**. Can not be null. |
-| virtual [get_WordOpenXML](./get_wordopenxml/)() | Gets a string that represents the XML contained within the node in the **FlatOpc** format. |
+| virtual [get_WordOpenXML](./get_wordopenxml/)() | Gets a string that represents the XML contained within the node in the [FlatOpc](../../aspose.words/saveformat/) format. |
 | virtual [get_XmlMapping](./get_xmlmapping/)() | Gets an object that represents the mapping of this structured document tag to XML data in a custom XML part of the current document. |
 | virtual [IsRanged](./isranged/)() | Returns true if this instance is a ranged structured document tag. |
 | virtual [set_Color](./set_color/)(System::Drawing::Color) | Sets the color of the structured document tag. |

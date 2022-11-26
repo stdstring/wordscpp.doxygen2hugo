@@ -18,7 +18,7 @@ System::ArrayPtr<uint8_t> Aspose::Words::Properties::DocumentProperty::ToByteArr
 ## Remarks
 
 
-Throws an exception if the property type is not **ByteArray**.
+Throws an exception if the property type is not [ByteArray](../../propertytype/).
 
 ## Examples
 

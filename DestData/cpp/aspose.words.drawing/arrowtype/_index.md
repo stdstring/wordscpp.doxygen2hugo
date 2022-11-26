@@ -25,7 +25,7 @@ enum class ArrowType
 | Diamond | 3 | The line end is a solid diamond. |
 | Oval | 4 | The line end is a solid oval. |
 | Open | 5 | The arrow is an open arrow. |
-| Default | n/a | Same as **None**. |
+| Default | n/a | Same as [None](./). |
 
 
 ## Examples

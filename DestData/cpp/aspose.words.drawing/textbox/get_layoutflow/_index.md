@@ -18,7 +18,7 @@ Aspose::Words::Drawing::LayoutFlow Aspose::Words::Drawing::TextBox::get_LayoutFl
 ## Remarks
 
 
-The default value is **Horizontal**.
+The default value is [Horizontal](../../layoutflow/).
 
 ## Examples
 

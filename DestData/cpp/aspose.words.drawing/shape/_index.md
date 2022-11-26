@@ -83,7 +83,7 @@ class Shape : public Aspose::Words::Drawing::ShapeBase,
 | [get_MarkupLanguage](../shapebase/get_markuplanguage/)() const | Gets MarkupLanguage used for this graphic object. |
 | [get_Name](../shapebase/get_name/)() | Gets or sets the optional shape name. |
 | [get_NextSibling](../../aspose.words/node/get_nextsibling/)() | Gets the node immediately following this node. |
-| [get_NodeType](./get_nodetype/)() const override | Returns **Shape**. |
+| [get_NodeType](./get_nodetype/)() const override | Returns [Shape](../../aspose.words/nodetype/). |
 | [get_OleFormat](./get_oleformat/)() | Provides access to the OLE data of a shape. For a shape that is not an OLE object or ActiveX control, returns null. |
 | [get_ParentNode](../../aspose.words/node/get_parentnode/)() | Gets the immediate parent of this node. |
 | [get_ParentParagraph](../shapebase/get_parentparagraph/)() | Returns the immediate parent paragraph. |
@@ -99,7 +99,7 @@ class Shape : public Aspose::Words::Drawing::ShapeBase,
 | [get_ShapeType](../shapebase/get_shapetype/)() | Gets the shape type. |
 | [get_SignatureLine](./get_signatureline/)() | Gets [SignatureLine](./get_signatureline/) object if the shape is a signature line. Returns **null** otherwise. |
 | [get_SizeInPoints](../shapebase/get_sizeinpoints/)() | Gets the size of the shape in points. |
-| [get_StoryType](./get_storytype/)() | Returns **Textbox**. |
+| [get_StoryType](./get_storytype/)() | Returns [Textbox](../../aspose.words/storytype/). |
 | [get_Stroke](./get_stroke/)() | Defines a stroke for a shape. |
 | [get_StrokeColor](./get_strokecolor/)() | Defines the color of a stroke. |
 | [get_Stroked](./get_stroked/)() | Defines whether the path will be stroked. |

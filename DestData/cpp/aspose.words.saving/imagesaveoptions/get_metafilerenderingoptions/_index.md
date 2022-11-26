@@ -18,13 +18,13 @@ System::SharedPtr<Aspose::Words::Saving::MetafileRenderingOptions> Aspose::Words
 ## Remarks
 
 
-When **Vector** is specified, Aspose.Words renders metafile to vector graphics using its own metafile rendering engine first and then renders vector graphics to the image.
+When [Vector](../../metafilerenderingmode/) is specified, Aspose.Words renders metafile to vector graphics using its own metafile rendering engine first and then renders vector graphics to the image.
 
-When **Bitmap** is specified, Aspose.Words renders metafile directly to the image using the GDI+ metafile rendering engine.
+When [Bitmap](../../metafilerenderingmode/) is specified, Aspose.Words renders metafile directly to the image using the GDI+ metafile rendering engine.
 
 GDI+ metafile rendering engine works faster, supports almost all metafile features but on low resolutions may produce inconsistent result when compared to the rest of vector graphics (especially for text) on the page. Aspose.Words metafile rendering engine will produce more consistent result even on low resolutions but works slower and may inaccurately render complex metafiles.
 
-The default value for [MetafileRenderingMode](../../metafilerenderingmode/) is **Bitmap**.
+The default value for [MetafileRenderingMode](../../metafilerenderingmode/) is [Bitmap](../../metafilerenderingmode/).
 
 ## Examples
 

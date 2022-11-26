@@ -30,7 +30,7 @@ class StructuredDocumentTag : public Aspose::Words::CompositeNode,
 | [get_Appearance](./get_appearance/)() const | Gets/sets the appearance of a structured document tag. |
 | [get_BuildingBlockCategory](./get_buildingblockcategory/)() | Specifies category of building block for this **SDT** node. Can not be null. |
 | [get_BuildingBlockGallery](./get_buildingblockgallery/)() | Specifies type of building block for this **SDT**. Can not be null. |
-| [get_CalendarType](./get_calendartype/)() | Specifies the type of calendar for this **SDT**. Default is **Default** |
+| [get_CalendarType](./get_calendartype/)() | Specifies the type of calendar for this **SDT**. Default is [Default](../sdtcalendartype/) |
 | [get_Checked](./get_checked/)() | Gets/Sets current state of the Checkbox **SDT**. Default value for this property is false. |
 | [get_ChildNodes](../../aspose.words/compositenode/get_childnodes/)() | Gets all immediate child nodes of this node. |
 | [get_Color](./get_color/)() override | Gets or sets the color of the structured document tag. |
@@ -39,7 +39,7 @@ class StructuredDocumentTag : public Aspose::Words::CompositeNode,
 | [get_CustomNodeId](../../aspose.words/node/get_customnodeid/)() const | Specifies custom node identifier. |
 | [get_DateDisplayFormat](./get_datedisplayformat/)() | String that represents the format in which dates are displayed. Can not be null. |
 | [get_DateDisplayLocale](./get_datedisplaylocale/)() | Allows to set/get the language format for the date displayed in this **SDT**. |
-| [get_DateStorageFormat](./get_datestorageformat/)() | Gets/sets format in which the date for a date SDT is stored when the **SDT** is bound to an XML node in the document's data store. Default value is **DateTime** |
+| [get_DateStorageFormat](./get_datestorageformat/)() | Gets/sets format in which the date for a date SDT is stored when the **SDT** is bound to an XML node in the document's data store. Default value is [DateTime](../sdtdatestorageformat/) |
 | virtual [get_Document](../../aspose.words/node/get_document/)() const | Gets the document to which this node belongs. |
 | [get_EndCharacterFont](./get_endcharacterfont/)() | [Font](../../aspose.words/font/) formatting that will be applied to the last character of text entered into **SDT**. |
 | [get_FirstChild](../../aspose.words/compositenode/get_firstchild/)() const | Gets the first child of the node. |
@@ -67,7 +67,7 @@ class StructuredDocumentTag : public Aspose::Words::CompositeNode,
 | [get_StyleName](./get_stylename/)() | Gets or sets the name of the style applied to the structured document tag. |
 | [get_Tag](./get_tag/)() const override | Specifies a tag associated with the current SDT node. Can not be null. |
 | [get_Title](./get_title/)() const override | Specifies the friendly name associated with this **SDT**. Can not be null. |
-| [get_WordOpenXML](./get_wordopenxml/)() override | Gets a string that represents the XML contained within the node in the **FlatOpc** format. |
+| [get_WordOpenXML](./get_wordopenxml/)() override | Gets a string that represents the XML contained within the node in the [FlatOpc](../../aspose.words/saveformat/) format. |
 | [get_XmlMapping](./get_xmlmapping/)() override | Gets an object that represents the mapping of this structured document tag to XML data in a custom XML part of the current document. |
 | [GetAncestor](../../aspose.words/node/getancestor/)(Aspose::Words::NodeType) | Gets the first ancestor of the specified [NodeType](../../aspose.words/nodetype/). |
 | [GetAncestorOf](../../aspose.words/node/getancestorof/)() |  |

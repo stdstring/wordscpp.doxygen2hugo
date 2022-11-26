@@ -9,7 +9,7 @@ url: /cpp/aspose.words.layout/revisionoptions/get_movedtotexteffect/
 ## RevisionOptions::get_MovedToTextEffect method
 
 
-Allows to specify the effect to be applied to the areas where content was moved to **Moving**. Default value is **DoubleUnderline**
+Allows to specify the effect to be applied to the areas where content was moved to [Moving](../../../aspose.words/revisiontype/). Default value is [DoubleUnderline](../../revisiontexteffect/)
 
 ```cpp
 Aspose::Words::Layout::RevisionTextEffect Aspose::Words::Layout::RevisionOptions::get_MovedToTextEffect()

@@ -18,7 +18,7 @@ Aspose::Words::Drawing::TextBoxAnchor Aspose::Words::Drawing::TextBox::get_Verti
 ## Remarks
 
 
-The default value is **Top**.
+The default value is [Top](../../textboxanchor/).
 
 ## Examples
 

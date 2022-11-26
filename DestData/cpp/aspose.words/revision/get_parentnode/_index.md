@@ -9,7 +9,7 @@ url: /cpp/aspose.words/revision/get_parentnode/
 ## Revision::get_ParentNode method
 
 
-Gets the immediate parent node (owner) of this revision. This property will work for any revision type other than **StyleDefinitionChange**.
+Gets the immediate parent node (owner) of this revision. This property will work for any revision type other than [StyleDefinitionChange](../../revisiontype/).
 
 ```cpp
 System::SharedPtr<Aspose::Words::Node> Aspose::Words::Revision::get_ParentNode()

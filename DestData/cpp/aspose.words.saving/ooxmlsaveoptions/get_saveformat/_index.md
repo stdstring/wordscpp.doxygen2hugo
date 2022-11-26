@@ -9,7 +9,7 @@ url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_saveformat/
 ## OoxmlSaveOptions::get_SaveFormat method
 
 
-Specifies the format in which the document will be saved if this save options object is used. Can be **Docx**, **Docm**, **Dotx**, **Dotm** or **FlatOpc**.
+Specifies the format in which the document will be saved if this save options object is used. Can be [Docx](../../../aspose.words/saveformat/), [Docm](../../../aspose.words/saveformat/), [Dotx](../../../aspose.words/saveformat/), [Dotm](../../../aspose.words/saveformat/) or [FlatOpc](../../../aspose.words/saveformat/).
 
 ```cpp
 Aspose::Words::SaveFormat Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat() override

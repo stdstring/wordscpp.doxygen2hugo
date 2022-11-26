@@ -18,7 +18,7 @@ Aspose::Words::Drawing::ShapeLineStyle Aspose::Words::Drawing::Stroke::get_LineS
 ## Remarks
 
 
-The default value is **Single**.
+The default value is [Single](../../shapelinestyle/).
 
 ## Examples
 
