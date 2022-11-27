@@ -11,7 +11,7 @@ namespace Doxygen2HugoConverter.Generator
             String classDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(classDirectory);
             IList<String> classUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(classDirectory, classUrl, state.CommonEntityRepo, state.Logger);
+            GenerateState currentState = new GenerateState(classDirectory, classUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
@@ -24,16 +24,16 @@ namespace Doxygen2HugoConverter.Generator
                 _ => throw new ArgumentOutOfRangeException(nameof(entity.Kind), entity.Kind, null)
             };
             GeneratorUtils.GenerateHeader($"{entity.Name} {kind}", 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateClassDefinition(builder);
-            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder, currentState.Logger);
+            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder, currentState.ConvertData.Logger);
             entity.ProcessMethods(currentState, builder);
             entity.ProcessFields(currentState, builder);
             entity.ProcessTypedefs(currentState, builder);
-            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
+            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder, currentState.ConvertData.Logger);
             entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(classDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -45,7 +45,7 @@ namespace Doxygen2HugoConverter.Generator
             {
                 String folderName = NameUtils.CreateSimpleFolderName(entity.Name);
                 String title = GeneratorUtils.CreateLink(entity.Name, UrlGenerator.CreateChildUrl(folderName));
-                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
+                String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger);
                 return new GenerateEntry(title, briefDescription);
             }
             return entities.Choose(CreateEntry).ToList();
@@ -125,7 +125,7 @@ namespace Doxygen2HugoConverter.Generator
         private static void GenerateSeeAlso(this EntityDef.ClassEntity entity, GenerateState state, StringBuilder dest)
         {
             GeneratorUtils.GenerateHeader("See Also", 2, dest);
-            entity.GenerateSeeAlsoCommonPart(state.CommonEntityRepo, dest);
+            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, dest);
         }
     }
 }

@@ -9,7 +9,7 @@ namespace Doxygen2HugoConverter.Generator
 
     internal record GenerateEntry(String Title, String BriefDescription);
 
-    internal record GenerateState(String Directory, IList<String> Url, IDictionary<String, EntityDef> CommonEntityRepo, ILogger Logger)
+    internal record GenerateState(String Directory, IList<String> Url, ConvertData ConvertData)
     {
         public Int32 Weight { get; private set; } = 1;
 

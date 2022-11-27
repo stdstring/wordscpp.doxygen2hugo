@@ -58,7 +58,7 @@ namespace Doxygen2HugoConverter.Entities
                                                                              fields,
                                                                              typedefs,
                                                                              memberRefs);
-                    state.CommonEntityRepo.Add(id, result);
+                    state.ConvertData.EntityRepo.Add(id, result);
                     return result;
                 default:
                     return null;

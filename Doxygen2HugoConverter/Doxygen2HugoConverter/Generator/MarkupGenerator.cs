@@ -128,7 +128,7 @@ namespace Doxygen2HugoConverter.Generator
                             dest.Append($"**{reference.Text}**");
                             break;
                         case var relativeUrl:
-                            logger.LogInfo($"Resolved ref for \"{reference.Text}\": {relativeUrl}");
+                            logger.LogInfo($"Resolved ref for \"{reference.Text}\"");
                             dest.Append(GeneratorUtils.CreateLink(reference.Text, relativeUrl));
                             break;
                     }

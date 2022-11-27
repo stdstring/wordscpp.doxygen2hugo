@@ -1,14 +1,12 @@
 ﻿using System.Xml.Linq;
-using Doxygen2HugoConverter.Config;
-using Doxygen2HugoConverter.Logger;
 
 namespace Doxygen2HugoConverter.Refs
 {
     internal static class RefParser
     {
-        public static IList<NamespaceRef> ParseIndexFile(ConfigData config, ILogger logger)
+        public static IList<NamespaceRef> ParseIndexFile(ConvertData convertData)
         {
-            XDocument document = XDocument.Load(Path.Combine(config.SourceDirectory, Common.IndexFilename));
+            XDocument document = XDocument.Load(Path.Combine(convertData.ConfigData.SourceDirectory, Common.IndexFilename));
             XElement root = document.Root!;
             return root.Elements("compound").Choose(ParseCompoundElement).ToList();
         }

@@ -38,9 +38,9 @@ namespace Doxygen2HugoConverter.Entities
                                                                            briefDescription,
                                                                            detailedDescription,
                                                                            values);
-                    state.CommonEntityRepo.Add(id, result);
+                    state.ConvertData.EntityRepo.Add(id, result);
                     foreach (EnumValueEntity enumValue in result.Values)
-                        state.CommonEntityRepo.Add(enumValue.Id, result);
+                        state.ConvertData.EntityRepo.Add(enumValue.Id, result);
                     return result;
                 default:
                     return null;

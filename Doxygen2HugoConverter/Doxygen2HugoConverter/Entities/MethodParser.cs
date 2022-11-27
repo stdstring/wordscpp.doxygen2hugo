@@ -16,6 +16,11 @@ namespace Doxygen2HugoConverter.Entities
             Boolean virtualValue = source.GetVirtualValue();
             String name = source.GetChildElementValue("name");
             String qualifiedName = source.GetChildElementValue("qualifiedname");
+            MethodKind kind = name.Equals(state.ParentName) switch
+            {
+                true => MethodKind.Constructor,
+                false => MethodKind.Method
+            };
             BriefDescriptionPortion returnType = source.GetChildElement("type").ParseSimpleMarkup();
             String definition = source.GetChildElementValue("definition");
             String argString = source.GetChildElementValue("argsstring");
@@ -34,6 +39,7 @@ namespace Doxygen2HugoConverter.Entities
                                                                        explicitValue,
                                                                        virtualValue,
                                                                        overrideValue,
+                                                                       kind,
                                                                        briefDescription,
                                                                        detailedDescription,
                                                                        definition,
@@ -41,7 +47,7 @@ namespace Doxygen2HugoConverter.Entities
                                                                        templateParameters,
                                                                        parameters,
                                                                        returnType);
-            state.CommonEntityRepo.Add(id, result);
+            state.ConvertData.EntityRepo.Add(id, result);
             return result;
         }
 

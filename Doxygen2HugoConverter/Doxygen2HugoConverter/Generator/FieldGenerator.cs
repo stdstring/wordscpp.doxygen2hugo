@@ -12,19 +12,19 @@ namespace Doxygen2HugoConverter.Generator
             String fieldDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(fieldDirectory);
             IList<String> fieldUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(fieldDirectory, fieldUrl, state.CommonEntityRepo, state.Logger);
+            GenerateState currentState = new GenerateState(fieldDirectory, fieldUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
             GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, fieldUrl, state.Weight, builder);
             state.IncreaseWeight();
             GeneratorUtils.GenerateHeader($"{entity.Name} field", 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateFieldDefinition(builder);
-            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
+            entity.DetailedDescription.GenerateDetailedDescription(CreateUrl, builder, currentState.ConvertData.Logger);
             entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(fieldDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -32,10 +32,10 @@ namespace Doxygen2HugoConverter.Generator
         public static IList<GenerateEntry> GetFieldEntries(this IList<MemberRef> memberRefs, GenerateState state)
         {
             GenerateEntry? ChooseMethodFun(MemberRef memberRef) =>
-                state.CommonEntityRepo.ContainsKey(memberRef.RefId) switch
+                state.ConvertData.EntityRepo.ContainsKey(memberRef.RefId) switch
                 {
                     false => null,
-                    true => state.CommonEntityRepo[memberRef.RefId] switch
+                    true => state.ConvertData.EntityRepo[memberRef.RefId] switch
                     {
                         EntityDef.FieldEntity entity => entity.CreateFieldEntry(state),
                         _ => null
@@ -71,7 +71,7 @@ namespace Doxygen2HugoConverter.Generator
                     if (entity.IsMutable)
                         builder.Append("mutable ");
                     builder.Append(GeneratorUtils.CreateLink(entity.Name, relativeUrl));
-                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
+                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger);
                     return new GenerateEntry(builder.ToString(), briefDescription);
             }
         }
@@ -79,7 +79,7 @@ namespace Doxygen2HugoConverter.Generator
         private static void GenerateSeeAlso(this EntityDef.FieldEntity entity, GenerateState state, StringBuilder dest)
         {
             GeneratorUtils.GenerateHeader("See Also", 2, dest);
-            entity.GenerateSeeAlsoCommonPart(state.CommonEntityRepo, dest);
+            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, dest);
         }
     }
 }

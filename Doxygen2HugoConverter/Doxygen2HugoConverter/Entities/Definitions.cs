@@ -16,6 +16,12 @@ namespace Doxygen2HugoConverter.Entities
         Interface
     }
 
+    internal enum MethodKind
+    {
+        Constructor,
+        Method
+    }
+
     internal record BaseClassEntity(String Access, Boolean Virtual, String QualifiedName);
 
     internal record MethodGroupEntity(String Name, IList<EntityDef.MethodEntity> Methods);
@@ -63,6 +69,7 @@ namespace Doxygen2HugoConverter.Entities
                                      Boolean IsExplicit,
                                      Boolean IsVirtual,
                                      Boolean IsOverride,
+                                     MethodKind Kind,
                                      SimpleMarkupPortion BriefDescription,
                                      MethodDetailedDescription DetailedDescription,
                                      String Definition,

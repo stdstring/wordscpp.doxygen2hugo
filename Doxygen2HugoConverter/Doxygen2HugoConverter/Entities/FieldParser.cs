@@ -33,7 +33,7 @@ namespace Doxygen2HugoConverter.Entities
                                                                      initializer,
                                                                      briefDescription,
                                                                      detailedDescription);
-            state.CommonEntityRepo.Add(id, result);
+            state.ConvertData.EntityRepo.Add(id, result);
             return result;
         }
 

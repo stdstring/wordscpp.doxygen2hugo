@@ -5,7 +5,7 @@ namespace Doxygen2HugoConverter.Entities
 {
     using BriefDescriptionPortion = IList<SimpleMarkupEntry>;
 
-    internal record ParseState(String ParentId, String ParentName, IDictionary<String, EntityDef> CommonEntityRepo);
+    internal record ParseState(String ParentId, String ParentName, ConvertData ConvertData);
 
     internal static class ParserUtils
     {

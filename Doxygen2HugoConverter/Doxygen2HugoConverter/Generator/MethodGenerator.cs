@@ -19,10 +19,10 @@ namespace Doxygen2HugoConverter.Generator
         public static IList<GenerateEntry> GetMethodEntries(this IList<MemberRef> memberRefs, GenerateState state)
         {
             GenerateEntry? ChooseMethodFun(MemberRef memberRef) =>
-                state.CommonEntityRepo.ContainsKey(memberRef.RefId) switch
+                state.ConvertData.EntityRepo.ContainsKey(memberRef.RefId) switch
                 {
                     false => null,
-                    true => state.CommonEntityRepo[memberRef.RefId] switch
+                    true => state.ConvertData.EntityRepo[memberRef.RefId] switch
                     {
                         EntityDef.MethodEntity entity => entity.CreateEntry(state),
                         _ => null
@@ -37,7 +37,7 @@ namespace Doxygen2HugoConverter.Generator
             String methodDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(methodDirectory);
             IList<String> methodUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.CommonEntityRepo, state.Logger);
+            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             if (isFirst)
@@ -48,15 +48,15 @@ namespace Doxygen2HugoConverter.Generator
             }
             IList<String> argsTypes = entity.Args.CreateArgTypeList();
             GeneratorUtils.GenerateHeader(entity.CreateMethodHeader(hasOverloads, argsTypes), 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.Logger);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateDefinition(builder);
-            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder, currentState.Logger);
+            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder, currentState.ConvertData.Logger);
             entity.DetailedDescription.Args.GenerateArgs(currentState, argsTypes, builder);
             entity.DetailedDescription.ReturnValue.GenerateReturnValue(currentState, builder);
-            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder, currentState.Logger);
+            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder, currentState.ConvertData.Logger);
             entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(methodDirectory, Common.MarkdownFilename), builder.ToString());
         }
@@ -82,7 +82,7 @@ namespace Doxygen2HugoConverter.Generator
                         builder.Append(" const");
                     if (entity.IsOverride)
                         builder.Append(" override");
-                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.Logger);
+                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger);
                     return new GenerateEntry(builder.ToString(), briefDescription);
             }
         }
@@ -114,10 +114,11 @@ namespace Doxygen2HugoConverter.Generator
                 if (entity.IsConst)
                     result.Append(" const");
             }
-            String kind = entity.Name.Equals(entity.ClassName) switch
+            String kind = entity.Kind switch
             {
-                true => "constructor",
-                false => "method"
+                MethodKind.Constructor => "constructor",
+                MethodKind.Method => "method",
+                _ => throw new InvalidOperationException("Unknown method kind")
             };
             result.Append($" {kind}");
             return result.ToString();
@@ -144,7 +145,7 @@ namespace Doxygen2HugoConverter.Generator
             GeneratorUtils.GenerateTableHeader(new[]{"Parameter", "Type", "Description"}, dest);
             foreach (var (methodArg, argType) in methodArgs.Zip(argsTypes))
             {
-                String methodArgDescription = methodArg.Description.CreateSimpleMarkup(CreateUrl, state.Logger);
+                String methodArgDescription = methodArg.Description.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger);
                 dest.AppendLine($"| {methodArg.Name} | {argType} | {methodArgDescription} |");
             }
         }
@@ -156,13 +157,13 @@ namespace Doxygen2HugoConverter.Generator
                 return;
             dest.AppendLine();
             GeneratorUtils.GenerateHeader("ReturnValue", 3, dest);
-            dest.AppendLine(returnValue.CreateSimpleMarkup(CreateUrl, state.Logger));
+            dest.AppendLine(returnValue.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger));
         }
 
         private static void GenerateSeeAlso(this EntityDef.MethodEntity entity, GenerateState state, StringBuilder dest)
         {
             GeneratorUtils.GenerateHeader("See Also", 2, dest);
-            entity.GenerateSeeAlsoCommonPart(state.CommonEntityRepo, dest);
+            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, dest);
         }
     }
 }
