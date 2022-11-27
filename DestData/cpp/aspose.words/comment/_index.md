@@ -154,5 +154,6 @@ doc->Save(ArtifactsDir + u"InlineStory.AddComment.docx");
 
 ## See Also
 
+* Class [InlineStory](../inlinestory/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

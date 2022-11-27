@@ -220,5 +220,6 @@ The **Document** can contain only [Section](../section/) objects.
 In Microsoft Word, a valid document needs to have at least one section. 
 ## See Also
 
+* Class [DocumentBase](../documentbase/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

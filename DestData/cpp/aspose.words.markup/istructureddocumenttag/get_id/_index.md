@@ -17,6 +17,6 @@ virtual int32_t Aspose::Words::Markup::IStructuredDocumentTag::get_Id()=0
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

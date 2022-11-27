@@ -68,5 +68,6 @@ class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [set_WebRequestTimeout](./set_webrequesttimeout/)(int32_t) | Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_WebRequestTimeout](./get_webrequesttimeout/). |
 ## See Also
 
+* Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
 * Library [Aspose.Words](../../)

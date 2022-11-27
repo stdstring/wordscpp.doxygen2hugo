@@ -78,5 +78,6 @@ ASSERT_EQ(recognizeUtf8Text ? String(u"“John Doe´s list of currency symbols�
 
 ## See Also
 
+* Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
 * Library [Aspose.Words](../../)

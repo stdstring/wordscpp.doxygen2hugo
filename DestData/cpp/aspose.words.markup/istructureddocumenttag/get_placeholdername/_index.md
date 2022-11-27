@@ -17,6 +17,6 @@ virtual System::String Aspose::Words::Markup::IStructuredDocumentTag::get_Placeh
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

@@ -100,5 +100,6 @@ doc->Save(ArtifactsDir + u"PclSaveOptions.RasterizeElements.pcl", saveOptions);
 
 ## See Also
 
+* Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)

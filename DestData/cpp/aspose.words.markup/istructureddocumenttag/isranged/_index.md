@@ -17,6 +17,6 @@ virtual bool Aspose::Words::Markup::IStructuredDocumentTag::IsRanged()=0
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

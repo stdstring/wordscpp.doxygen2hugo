@@ -93,5 +93,6 @@ static void ApplyDataPoints(SharedPtr<ChartSeries> series, int dataPointsCount, 
 
 ## See Also
 
+* Interface [IChartDataPoint](../ichartdatapoint/)
 * Namespace [Aspose::Words::Drawing::Charts](../)
 * Library [Aspose.Words](../../)

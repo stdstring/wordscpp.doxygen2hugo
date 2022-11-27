@@ -105,5 +105,6 @@ ASSERT_EQ(ShapeMarkupLanguage::Dml, (System::DynamicCast<Shape>(doc->GetChild(No
 
 ## See Also
 
+* Class [SaveOptions](../saveoptions/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)

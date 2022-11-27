@@ -81,5 +81,6 @@ class MarkdownSaveOptions : public Aspose::Words::Saving::TxtSaveOptionsBase
 | [TxtSaveOptionsBase](../txtsaveoptionsbase/txtsaveoptionsbase/)() |  |
 ## See Also
 
+* Class [TxtSaveOptionsBase](../txtsaveoptionsbase/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)

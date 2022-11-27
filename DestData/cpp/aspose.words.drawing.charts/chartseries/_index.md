@@ -114,5 +114,6 @@ static void ApplyDataLabels(SharedPtr<ChartSeries> series, int labelsCount, Stri
 
 ## See Also
 
+* Interface [IChartDataPoint](../ichartdatapoint/)
 * Namespace [Aspose::Words::Drawing::Charts](../)
 * Library [Aspose.Words](../../)

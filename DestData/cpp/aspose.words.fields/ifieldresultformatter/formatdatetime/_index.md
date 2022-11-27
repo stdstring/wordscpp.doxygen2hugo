@@ -206,6 +206,6 @@ private:
 
 ## See Also
 
-* Class [IFieldResultFormatter](../)
+* Interface [IFieldResultFormatter](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

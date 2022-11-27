@@ -94,5 +94,6 @@ ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
 
 ## See Also
 
+* Class [CompositeNode](../compositenode/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

@@ -76,6 +76,6 @@ private:
 
 ## See Also
 
-* Class [ICssSavingCallback](../)
+* Interface [ICssSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

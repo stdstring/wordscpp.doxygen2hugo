@@ -138,5 +138,6 @@ for (const auto& docProperty : System::IterateOver(doc->get_BuiltInDocumentPrope
 
 ## See Also
 
+* Class [DocumentPropertyCollection](../documentpropertycollection/)
 * Namespace [Aspose::Words::Properties](../)
 * Library [Aspose.Words](../../)

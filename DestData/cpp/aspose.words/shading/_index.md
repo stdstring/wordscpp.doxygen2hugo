@@ -94,5 +94,6 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 
 ## See Also
 
+* Class [InternableComplexAttr](../internablecomplexattr/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

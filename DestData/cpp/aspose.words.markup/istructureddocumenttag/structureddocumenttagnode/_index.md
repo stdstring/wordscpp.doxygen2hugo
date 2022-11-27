@@ -17,6 +17,6 @@ virtual System::SharedPtr<Aspose::Words::Node> Aspose::Words::Markup::IStructure
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

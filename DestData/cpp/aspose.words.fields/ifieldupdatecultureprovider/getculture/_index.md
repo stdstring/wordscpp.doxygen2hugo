@@ -94,6 +94,6 @@ public:
 
 ## See Also
 
-* Class [IFieldUpdateCultureProvider](../)
+* Interface [IFieldUpdateCultureProvider](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

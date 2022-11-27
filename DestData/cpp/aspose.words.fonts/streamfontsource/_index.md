@@ -72,5 +72,6 @@ protected:
 
 ## See Also
 
+* Class [FontSourceBase](../fontsourcebase/)
 * Namespace [Aspose::Words::Fonts](../)
 * Library [Aspose.Words](../../)

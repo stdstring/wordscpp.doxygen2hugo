@@ -122,9 +122,41 @@ namespace Doxygen2HugoConverter.Generator
             entries.Iterate(entry => { dest.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
         }
 
+        private static void GenerateSeeAlso(this BaseClassEntity baseClassEntity, GenerateState state, StringBuilder dest)
+        {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
+            switch (baseClassEntity.RefId)
+            {
+                case null:
+                    break;
+                case var _:
+                    switch (state.ConvertData.EntityRepo.ContainsKey(baseClassEntity.RefId))
+                    {
+                        case false:
+                            state.ConvertData.Logger.LogWarning($"Can't resolve ref with id = \"{baseClassEntity.RefId}\"");
+                            break;
+                        case true:
+                            String url = CreateUrl(baseClassEntity.RefId)!;
+                            state.ConvertData.Logger.LogInfo($"Resolved ref for \"{baseClassEntity.QualifiedName}\": \"{url}\"");
+                            switch (state.ConvertData.EntityRepo[baseClassEntity.RefId])
+                            {
+                                case EntityDef.ClassEntity { Kind: ClassKind.Class } entity:
+                                    dest.AppendLine($"* Class {GeneratorUtils.CreateLink(entity.Name, url)}");
+                                    break;
+                                case EntityDef.ClassEntity { Kind: ClassKind.Interface } entity:
+                                    dest.AppendLine($"* Interface {GeneratorUtils.CreateLink(entity.Name, url)}");
+                                    break;
+                            }
+                            break;
+                    }
+                    break;
+            }
+        }
+
         private static void GenerateSeeAlso(this EntityDef.ClassEntity entity, GenerateState state, StringBuilder dest)
         {
             GeneratorUtils.GenerateHeader("See Also", 2, dest);
+            entity.BaseClasses.Iterate(baseClassEntity => baseClassEntity.GenerateSeeAlso(state, dest));
             entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, dest);
         }
     }

@@ -145,5 +145,6 @@ ASSERT_EQ(System::Drawing::Color::get_Red().ToArgb(), formFieldRun->get_Font()->
 
 ## See Also
 
+* Class [SpecialChar](../../aspose.words/specialchar/)
 * Namespace [Aspose::Words::Fields](../)
 * Library [Aspose.Words](../../)

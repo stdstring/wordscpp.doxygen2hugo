@@ -56,5 +56,6 @@ class ChmLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [set_WarningCallback](../loadoptions/set_warningcallback/)(const System::SharedPtr\<Aspose::Words::IWarningCallback\>\&) | Setter for [Aspose::Words::Loading::LoadOptions::get_WarningCallback](../loadoptions/get_warningcallback/). |
 ## See Also
 
+* Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
 * Library [Aspose.Words](../../)

@@ -17,6 +17,6 @@ virtual void Aspose::Words::Markup::IStructuredDocumentTag::set_IsShowingPlaceho
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

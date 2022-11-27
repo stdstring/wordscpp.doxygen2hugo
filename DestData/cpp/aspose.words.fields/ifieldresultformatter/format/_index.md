@@ -206,7 +206,7 @@ private:
 
 ## See Also
 
-* Class [IFieldResultFormatter](../)
+* Interface [IFieldResultFormatter](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
 ## IFieldResultFormatter::Format(System::String, Aspose::Words::Fields::GeneralFormat) method
@@ -409,6 +409,6 @@ private:
 
 ## See Also
 
-* Class [IFieldResultFormatter](../)
+* Interface [IFieldResultFormatter](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

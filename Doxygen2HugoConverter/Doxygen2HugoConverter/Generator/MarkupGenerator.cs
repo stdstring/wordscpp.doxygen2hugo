@@ -124,11 +124,15 @@ namespace Doxygen2HugoConverter.Generator
                     switch (relativeUrlGenerator(reference.RefId))
                     {
                         case null:
-                            logger.LogWarning($"Can't resolve ref with id = \"{reference.RefId}\" text = \"{reference.Text}\", kind = \"{reference.Kind}\", external = \"{reference.External}\"");
+                            logger.LogWarning("Can't resolve ref with " +
+                                              $"id = \"{reference.RefId}\" " +
+                                              $"text = \"{reference.Text}\", " +
+                                              $"kind = \"{reference.Kind}\", " +
+                                              $"external = \"{reference.External}\"");
                             dest.Append($"**{reference.Text}**");
                             break;
                         case var relativeUrl:
-                            logger.LogInfo($"Resolved ref for \"{reference.Text}\"");
+                            logger.LogInfo($"Resolved ref for \"{reference.Text}\": \"{relativeUrl}\"");
                             dest.Append(GeneratorUtils.CreateLink(reference.Text, relativeUrl));
                             break;
                     }

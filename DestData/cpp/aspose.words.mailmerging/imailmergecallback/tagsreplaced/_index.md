@@ -18,6 +18,6 @@ virtual void Aspose::Words::MailMerging::IMailMergeCallback::TagsReplaced()=0
 
 ## See Also
 
-* Class [IMailMergeCallback](../)
+* Interface [IMailMergeCallback](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

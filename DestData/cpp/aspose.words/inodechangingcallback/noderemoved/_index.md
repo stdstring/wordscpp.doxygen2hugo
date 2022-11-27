@@ -95,6 +95,6 @@ private:
 
 ## See Also
 
-* Class [INodeChangingCallback](../)
+* Interface [INodeChangingCallback](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -233,5 +233,6 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ColorRendering.pdf", pdfSaveOptions);
 
 ## See Also
 
+* Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)

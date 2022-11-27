@@ -27,6 +27,6 @@ User response (i.e. confirmed value contained in the prompt window).
 
 ## See Also
 
-* Class [IFieldUserPromptRespondent](../)
+* Interface [IFieldUserPromptRespondent](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

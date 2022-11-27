@@ -242,5 +242,6 @@ private:
 
 ## See Also
 
+* Class [ShapeBase](../shapebase/)
 * Namespace [Aspose::Words::Drawing](../)
 * Library [Aspose.Words](../../)

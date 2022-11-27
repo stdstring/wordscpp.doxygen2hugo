@@ -170,5 +170,7 @@ for (const auto& node : System::IterateOver(tags))
 
 ## See Also
 
+* Class [CompositeNode](../../aspose.words/compositenode/)
+* Interface [IStructuredDocumentTag](../istructureddocumenttag/)
 * Namespace [Aspose::Words::Markup](../)
 * Library [Aspose.Words](../../)

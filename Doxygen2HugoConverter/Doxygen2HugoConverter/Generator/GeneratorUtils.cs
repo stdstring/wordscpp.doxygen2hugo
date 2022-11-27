@@ -124,8 +124,11 @@ namespace Doxygen2HugoConverter.Generator
                     case EntityDef.NamespaceEntity entity:
                         dest.AppendLine($"* Namespace {CreateLink(entity.Name, parentUrl.ToString())}");
                         break;
-                    case EntityDef.ClassEntity entity:
+                    case EntityDef.ClassEntity {Kind: ClassKind.Class} entity:
                         dest.AppendLine($"* Class {CreateLink(entity.Name, parentUrl.ToString())}");
+                        break;
+                    case EntityDef.ClassEntity {Kind: ClassKind.Interface} entity:
+                        dest.AppendLine($"* Interface {CreateLink(entity.Name, parentUrl.ToString())}");
                         break;
                     //case EntityDef.MethodEntity entity:
                     //    break;

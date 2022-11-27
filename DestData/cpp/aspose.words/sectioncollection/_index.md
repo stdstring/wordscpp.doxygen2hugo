@@ -71,5 +71,6 @@ ASSERT_EQ(u"Section 2\x000c"
 
 ## See Also
 
+* Class [NodeCollection](../nodecollection/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

@@ -17,6 +17,6 @@ virtual System::SharedPtr<Aspose::Words::Fields::ComparisonEvaluationResult> Asp
 
 ## See Also
 
-* Class [IComparisonExpressionEvaluator](../)
+* Interface [IComparisonExpressionEvaluator](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

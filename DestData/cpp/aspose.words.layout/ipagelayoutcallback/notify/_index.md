@@ -98,6 +98,6 @@ private:
 
 ## See Also
 
-* Class [IPageLayoutCallback](../)
+* Interface [IPageLayoutCallback](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

@@ -69,5 +69,6 @@ ASPOSE_ASSERT_EQ(MakeArray<String>({u"FreeSerif", u"Liberation Serif", u"DejaVu 
 
 ## See Also
 
+* Class [FontSubstitutionRule](../fontsubstitutionrule/)
 * Namespace [Aspose::Words::Fonts](../)
 * Library [Aspose.Words](../../)

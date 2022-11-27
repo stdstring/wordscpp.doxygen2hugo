@@ -86,5 +86,6 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 
 ## See Also
 
+* Class [InternableComplexAttr](../internablecomplexattr/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

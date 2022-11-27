@@ -76,6 +76,6 @@ public:
 
 ## See Also
 
-* Class [IResourceLoadingCallback](../)
+* Interface [IResourceLoadingCallback](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

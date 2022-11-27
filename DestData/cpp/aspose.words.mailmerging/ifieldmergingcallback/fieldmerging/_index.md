@@ -71,6 +71,6 @@ private:
 
 ## See Also
 
-* Class [IFieldMergingCallback](../)
+* Interface [IFieldMergingCallback](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

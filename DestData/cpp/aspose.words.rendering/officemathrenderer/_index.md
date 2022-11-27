@@ -83,5 +83,6 @@ ASSERT_EQ(30, bounds.get_Height());
 
 ## See Also
 
+* Class [NodeRendererBase](../noderendererbase/)
 * Namespace [Aspose::Words::Rendering](../)
 * Library [Aspose.Words](../../)

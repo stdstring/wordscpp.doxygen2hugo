@@ -199,5 +199,6 @@ static SharedPtr<Table> CreateTable(SharedPtr<Document> doc, int rowCount, int c
 
 ## See Also
 
+* Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::Tables](../)
 * Library [Aspose.Words](../../)

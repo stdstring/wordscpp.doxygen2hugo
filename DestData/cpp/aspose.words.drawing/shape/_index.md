@@ -278,5 +278,6 @@ ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
 
 ## See Also
 
+* Class [ShapeBase](../shapebase/)
 * Namespace [Aspose::Words::Drawing](../)
 * Library [Aspose.Words](../../)

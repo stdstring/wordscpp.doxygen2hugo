@@ -200,5 +200,6 @@ ASSERT_LT(700000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOpt
 
 ## See Also
 
+* Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)

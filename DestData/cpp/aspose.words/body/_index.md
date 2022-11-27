@@ -127,5 +127,6 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 ## See Also
 
+* Class [Story](../story/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

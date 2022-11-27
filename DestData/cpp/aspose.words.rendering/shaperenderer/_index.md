@@ -37,5 +37,6 @@ class ShapeRenderer : public Aspose::Words::Rendering::NodeRendererBase
 | [ShapeRenderer](./shaperenderer/)(const System::SharedPtr\<Aspose::Words::Drawing::ShapeBase\>\&) | Initializes a new instance of this class. |
 ## See Also
 
+* Class [NodeRendererBase](../noderendererbase/)
 * Namespace [Aspose::Words::Rendering](../)
 * Library [Aspose.Words](../../)

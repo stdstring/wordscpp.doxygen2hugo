@@ -26,6 +26,6 @@ Image representing generated barcode.
 
 ## See Also
 
-* Class [IBarcodeGenerator](../)
+* Interface [IBarcodeGenerator](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

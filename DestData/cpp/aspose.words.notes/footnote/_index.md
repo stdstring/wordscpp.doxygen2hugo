@@ -134,5 +134,6 @@ doc->Save(ArtifactsDir + u"InlineStory.AddFootnote.docx");
 
 ## See Also
 
+* Class [InlineStory](../../aspose.words/inlinestory/)
 * Namespace [Aspose::Words::Notes](../)
 * Library [Aspose.Words](../../)

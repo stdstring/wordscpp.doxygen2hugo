@@ -153,5 +153,6 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 ## See Also
 
+* Class [CompositeNode](../compositenode/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

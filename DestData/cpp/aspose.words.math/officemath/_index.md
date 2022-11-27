@@ -104,5 +104,6 @@ doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 
 ## See Also
 
+* Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::Math](../)
 * Library [Aspose.Words](../../)

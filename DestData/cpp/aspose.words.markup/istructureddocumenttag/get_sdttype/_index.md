@@ -17,6 +17,6 @@ virtual Aspose::Words::Markup::SdtType Aspose::Words::Markup::IStructuredDocumen
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

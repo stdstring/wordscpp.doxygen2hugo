@@ -199,6 +199,6 @@ private:
 
 ## See Also
 
-* Class [IMailMergeDataSourceRoot](../)
+* Interface [IMailMergeDataSourceRoot](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

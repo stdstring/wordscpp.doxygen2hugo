@@ -72,6 +72,6 @@ public:
 
 ## See Also
 
-* Class [IPageSavingCallback](../)
+* Interface [IPageSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

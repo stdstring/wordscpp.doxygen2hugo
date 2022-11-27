@@ -90,5 +90,6 @@ field->Update();
 
 ## See Also
 
+* Class [SpecialChar](../../aspose.words/specialchar/)
 * Namespace [Aspose::Words::Fields](../)
 * Library [Aspose.Words](../../)

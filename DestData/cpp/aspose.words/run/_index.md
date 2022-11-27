@@ -170,5 +170,6 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 ## See Also
 
+* Class [Inline](../inline/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

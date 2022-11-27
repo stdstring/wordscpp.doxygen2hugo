@@ -174,5 +174,6 @@ doc->Save(ArtifactsDir + u"HeaderFooter.ReplaceText.docx");
 
 ## See Also
 
+* Class [Story](../story/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

@@ -29,6 +29,6 @@ The [FieldDatabaseDataTable](../../fielddatabasedatatable/) instance that should
 
 ## See Also
 
-* Class [IFieldDatabaseProvider](../)
+* Interface [IFieldDatabaseProvider](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

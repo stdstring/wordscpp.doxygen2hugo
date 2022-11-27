@@ -98,5 +98,6 @@ ASPOSE_ASSERT_EQ(System::ObjectExt::GetType<DocumentBase>(), System::ObjectExt::
 
 ## See Also
 
+* Class [CompositeNode](../compositenode/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

@@ -22,7 +22,7 @@ namespace Doxygen2HugoConverter.Entities
         Method
     }
 
-    internal record BaseClassEntity(String Access, Boolean Virtual, String QualifiedName);
+    internal record BaseClassEntity(String? RefId, String Access, Boolean Virtual, String QualifiedName);
 
     internal record MethodGroupEntity(String Name, IList<EntityDef.MethodEntity> Methods);
 

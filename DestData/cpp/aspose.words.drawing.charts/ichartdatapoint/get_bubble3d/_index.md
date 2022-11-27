@@ -44,6 +44,6 @@ doc->Save(ArtifactsDir + u"Charts.Bubble3D.docx");
 
 ## See Also
 
-* Class [IChartDataPoint](../)
+* Interface [IChartDataPoint](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -94,6 +94,6 @@ private:
 
 ## See Also
 
-* Class [IHyphenationCallback](../)
+* Interface [IHyphenationCallback](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

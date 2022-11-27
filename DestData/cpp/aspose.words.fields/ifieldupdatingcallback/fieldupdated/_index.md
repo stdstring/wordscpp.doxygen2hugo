@@ -76,6 +76,6 @@ private:
 
 ## See Also
 
-* Class [IFieldUpdatingCallback](../)
+* Interface [IFieldUpdatingCallback](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

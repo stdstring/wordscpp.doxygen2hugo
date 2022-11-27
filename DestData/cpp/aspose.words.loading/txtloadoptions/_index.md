@@ -64,5 +64,6 @@ class TxtLoadOptions : public Aspose::Words::Loading::LoadOptions
 | [TxtLoadOptions](./txtloadoptions/)() | Initializes a new instance of this class with default values. |
 ## See Also
 
+* Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
 * Library [Aspose.Words](../../)

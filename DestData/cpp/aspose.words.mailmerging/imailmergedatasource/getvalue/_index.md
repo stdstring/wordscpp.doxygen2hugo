@@ -17,6 +17,6 @@ virtual bool Aspose::Words::MailMerging::IMailMergeDataSource::GetValue(System::
 
 ## See Also
 
-* Class [IMailMergeDataSource](../)
+* Interface [IMailMergeDataSource](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

@@ -190,5 +190,6 @@ private:
 
 ## See Also
 
+* Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)

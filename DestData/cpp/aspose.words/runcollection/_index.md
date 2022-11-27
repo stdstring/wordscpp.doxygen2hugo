@@ -87,5 +87,6 @@ ASSERT_TRUE(runs->idx_get(5)->get_IsDeleteRevision());
 
 ## See Also
 
+* Class [NodeCollection](../nodecollection/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

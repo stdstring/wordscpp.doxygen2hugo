@@ -68,5 +68,6 @@ for (const auto& customDocumentProperty : System::IterateOver(doc->get_CustomDoc
 
 ## See Also
 
+* Class [DocumentPropertyCollection](../documentpropertycollection/)
 * Namespace [Aspose::Words::Properties](../)
 * Library [Aspose.Words](../../)

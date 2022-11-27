@@ -193,5 +193,6 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 
 ## See Also
 
+* Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::Drawing](../)
 * Library [Aspose.Words](../../)

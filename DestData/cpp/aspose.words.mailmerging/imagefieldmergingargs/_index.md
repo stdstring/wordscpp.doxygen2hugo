@@ -51,5 +51,6 @@ To insert an image mail merge field into a document in Word, select Insert/Field
 
 ## See Also
 
+* Class [FieldMergingArgsBase](../fieldmergingargsbase/)
 * Namespace [Aspose::Words::MailMerging](../)
 * Library [Aspose.Words](../../)

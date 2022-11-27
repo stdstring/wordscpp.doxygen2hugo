@@ -157,5 +157,6 @@ private:
 
 ## See Also
 
+* Class [FieldChar](../fieldchar/)
 * Namespace [Aspose::Words::Fields](../)
 * Library [Aspose.Words](../../)

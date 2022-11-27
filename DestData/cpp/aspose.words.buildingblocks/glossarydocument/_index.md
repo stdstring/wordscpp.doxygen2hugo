@@ -190,5 +190,6 @@ private:
 
 ## See Also
 
+* Class [DocumentBase](../../aspose.words/documentbase/)
 * Namespace [Aspose::Words::BuildingBlocks](../)
 * Library [Aspose.Words](../../)

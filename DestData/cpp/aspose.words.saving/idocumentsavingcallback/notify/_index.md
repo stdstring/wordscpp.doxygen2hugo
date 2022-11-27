@@ -28,6 +28,6 @@ An exception should be threw from the progress callback for abortion and it shou
 
 ## See Also
 
-* Class [IDocumentSavingCallback](../)
+* Interface [IDocumentSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

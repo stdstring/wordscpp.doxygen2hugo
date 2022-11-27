@@ -17,6 +17,6 @@ virtual void Aspose::Words::MailMerging::IFieldMergingCallback::ImageFieldMergin
 
 ## See Also
 
-* Class [IFieldMergingCallback](../)
+* Interface [IFieldMergingCallback](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

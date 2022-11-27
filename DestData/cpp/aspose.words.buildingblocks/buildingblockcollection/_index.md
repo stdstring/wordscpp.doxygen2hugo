@@ -137,5 +137,6 @@ private:
 
 ## See Also
 
+* Class [NodeCollection](../../aspose.words/nodecollection/)
 * Namespace [Aspose::Words::BuildingBlocks](../)
 * Library [Aspose.Words](../../)

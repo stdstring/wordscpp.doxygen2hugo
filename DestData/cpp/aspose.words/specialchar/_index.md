@@ -236,5 +236,6 @@ public:
 
 ## See Also
 
+* Class [Inline](../inline/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

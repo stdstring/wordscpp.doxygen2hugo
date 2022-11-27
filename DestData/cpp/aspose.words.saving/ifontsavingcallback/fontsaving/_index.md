@@ -84,6 +84,6 @@ private:
 
 ## See Also
 
-* Class [IFontSavingCallback](../)
+* Interface [IFontSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

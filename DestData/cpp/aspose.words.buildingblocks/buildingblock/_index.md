@@ -184,5 +184,6 @@ private:
 
 ## See Also
 
+* Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::BuildingBlocks](../)
 * Library [Aspose.Words](../../)

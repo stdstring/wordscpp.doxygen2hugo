@@ -65,5 +65,6 @@ doc->Save(ArtifactsDir + u"Comment.Done.docx");
 
 ## See Also
 
+* Class [NodeCollection](../nodecollection/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

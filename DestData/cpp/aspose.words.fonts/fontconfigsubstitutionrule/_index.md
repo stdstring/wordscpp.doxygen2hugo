@@ -65,5 +65,6 @@ if (isLinuxOrMac)
 
 ## See Also
 
+* Class [FontSubstitutionRule](../fontsubstitutionrule/)
 * Namespace [Aspose::Words::Fonts](../)
 * Library [Aspose.Words](../../)

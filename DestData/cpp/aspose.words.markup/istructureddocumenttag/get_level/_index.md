@@ -17,6 +17,6 @@ virtual Aspose::Words::Markup::MarkupLevel Aspose::Words::Markup::IStructuredDoc
 
 ## See Also
 
-* Class [IStructuredDocumentTag](../)
+* Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

@@ -111,5 +111,6 @@ private:
 
 ## See Also
 
+* Class [SpecialChar](../specialchar/)
 * Namespace [Aspose::Words](../)
 * Library [Aspose.Words](../../)

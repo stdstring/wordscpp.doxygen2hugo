@@ -109,5 +109,6 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 
 ## See Also
 
+* Class [SaveOptions](../saveoptions/)
 * Namespace [Aspose::Words::Saving](../)
 * Library [Aspose.Words](../../)
