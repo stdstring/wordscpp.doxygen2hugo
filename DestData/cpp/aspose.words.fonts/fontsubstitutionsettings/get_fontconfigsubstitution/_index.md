@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fonts::FontConfigSubstitutionRule> Aspose::Word
 
 
 
-
 Shows operating system-dependent font config substitution. 
 ```cpp
 auto fontSettings = MakeObject<FontSettings>();
@@ -50,3 +49,9 @@ if (isLinuxOrMac)
 }
 ```
 
+## See Also
+
+* Class [FontConfigSubstitutionRule](../../fontconfigsubstitutionrule/)
+* Class [FontSubstitutionSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

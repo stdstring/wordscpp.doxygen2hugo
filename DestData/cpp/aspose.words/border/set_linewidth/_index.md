@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Border::get_LineWidth](../get_linewidth/).
 void Aspose::Words::Border::set_LineWidth(double value)
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

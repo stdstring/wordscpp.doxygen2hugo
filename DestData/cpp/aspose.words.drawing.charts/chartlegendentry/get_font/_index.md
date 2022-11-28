@@ -15,3 +15,9 @@ Provides access to the font formatting of this legend entry.
 System::SharedPtr<Aspose::Words::Font> Aspose::Words::Drawing::Charts::ChartLegendEntry::get_Font()
 ```
 
+## See Also
+
+* Class [Font](../../../aspose.words/font/)
+* Class [ChartLegendEntry](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

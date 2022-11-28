@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::AxisScaling> Aspose::Words::Dr
 
 
 
-
 Shows how to insert chart with date/time values. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -62,3 +61,9 @@ yAxis->get_Scaling()->set_Maximum(MakeObject<AxisBound>(700.0));
 doc->Save(ArtifactsDir + u"Charts.DateTimeValues.docx");
 ```
 
+## See Also
+
+* Class [AxisScaling](../../axisscaling/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Stroke::get_Visible](../get_visible/).
 void Aspose::Words::Drawing::Stroke::set_Visible(bool value)
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

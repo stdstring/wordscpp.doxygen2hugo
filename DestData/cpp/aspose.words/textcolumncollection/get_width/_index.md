@@ -15,5 +15,12 @@ When columns are evenly spaced, gets the width of the columns.
 double Aspose::Words::TextColumnCollection::get_Width()
 ```
 
+## Remarks
+
 
 Has effect only when [EvenlySpaced](../get_evenlyspaced/) is set to **true**. 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

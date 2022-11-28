@@ -15,6 +15,8 @@ Returns or sets the preferred width of the cell.
 System::SharedPtr<Aspose::Words::Tables::PreferredWidth> Aspose::Words::Tables::CellFormat::get_PreferredWidth()
 ```
 
+## Remarks
+
 
 The preferred width (along with the table's Auto Fit option) determines how the actual width of the cell is calculated by the table layout algorithm. [Table](../../table/) layout can be performed by Aspose.Words when it saves the document or by Microsoft Word when it displays the document.
 
@@ -23,7 +25,6 @@ The preferred width can be specified in points or in percent. The preferred widt
 The default value is [Auto](../../preferredwidth/auto/).
 
 ## Examples
-
 
 
 
@@ -61,3 +62,9 @@ builder->Writeln(u"Automatically sized cell.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx");
 ```
 
+## See Also
+
+* Class [PreferredWidth](../../preferredwidth/)
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

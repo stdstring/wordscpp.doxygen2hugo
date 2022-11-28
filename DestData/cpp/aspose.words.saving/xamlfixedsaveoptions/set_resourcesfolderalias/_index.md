@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlia
 void Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolderAlias(const System::String &value)
 ```
 
+## See Also
+
+* Class [XamlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

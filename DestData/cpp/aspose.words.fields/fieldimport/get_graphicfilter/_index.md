@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldImport::get_GraphicFilter()
 
 
 
-
 Shows how to insert images using IMPORT and INCLUDEPICTURE fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -51,3 +50,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.IMPORT.INCLUDEPICTURE.docx");
 ```
 
+## See Also
+
+* Class [FieldImport](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

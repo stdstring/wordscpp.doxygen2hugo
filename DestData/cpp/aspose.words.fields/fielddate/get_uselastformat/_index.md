@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldDate::get_UseLastFormat()
 
 
 
-
 Shows how to use DATE fields to display dates according to different kinds of calendars. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -57,3 +56,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.DATE.docx");
 ```
 
+## See Also
+
+* Class [FieldDate](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

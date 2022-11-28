@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Shading::get_Texture](../get_texture/).
 void Aspose::Words::Shading::set_Texture(Aspose::Words::TextureIndex value)
 ```
 
+## See Also
+
+* Enum [TextureIndex](../../textureindex/)
+* Class [Shading](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

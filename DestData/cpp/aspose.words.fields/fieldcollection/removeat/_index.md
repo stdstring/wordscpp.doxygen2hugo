@@ -24,7 +24,6 @@ void Aspose::Words::Fields::FieldCollection::RemoveAt(int32_t index)
 
 
 
-
 Shows how to remove fields from a field collection. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -61,3 +60,8 @@ fields->Clear();
 ASSERT_EQ(0, fields->get_Count());
 ```
 
+## See Also
+
+* Class [FieldCollection](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

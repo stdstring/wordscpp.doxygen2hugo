@@ -20,7 +20,6 @@ int32_t Aspose::Words::NodeCollection::get_Count()
 
 
 
-
 Shows how to traverse through a composite node's collection of child nodes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -133,3 +132,8 @@ static int GetChildTableCount(SharedPtr<Table> table)
 }
 ```
 
+## See Also
+
+* Class [NodeCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

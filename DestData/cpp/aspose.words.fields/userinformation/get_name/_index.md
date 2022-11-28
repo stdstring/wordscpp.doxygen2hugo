@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::UserInformation::get_Name() const
 
 
 
-
 Shows how to set user details, and display them using fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"FieldOptions.CurrentUser.docx");
 ```
 
+## See Also
+
+* Class [UserInformation](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

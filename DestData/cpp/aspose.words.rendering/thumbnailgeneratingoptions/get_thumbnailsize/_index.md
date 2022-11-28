@@ -20,7 +20,6 @@ System::Drawing::Size Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_
 
 
 
-
 Shows how to update a document's thumbnail. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -43,3 +42,8 @@ doc->UpdateThumbnail(options);
 doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 ```
 
+## See Also
+
+* Class [ThumbnailGeneratingOptions](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

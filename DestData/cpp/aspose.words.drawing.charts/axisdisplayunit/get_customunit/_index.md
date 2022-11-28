@@ -15,13 +15,14 @@ Gets or sets a user-defined divisor to scale display units on the value axis.
 double Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit() const
 ```
 
+## Remarks
+
 
 The property is not supported by MS Office 2016 new charts. Default value is 1.
 
-Setting this property sets the [Unit](../get_unit/) property to **Custom**.
+Setting this property sets the [Unit](../get_unit/) property to [Custom](../../axisbuiltinunit/).
 
 ## Examples
-
 
 
 
@@ -78,3 +79,8 @@ axis->get_DisplayUnit()->set_CustomUnit(1000000);
 doc->Save(ArtifactsDir + u"Charts.AxisDisplayUnit.docx");
 ```
 
+## See Also
+
+* Class [AxisDisplayUnit](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

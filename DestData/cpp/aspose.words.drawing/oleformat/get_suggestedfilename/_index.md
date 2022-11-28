@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::OleFormat::get_SuggestedFileName()
 
 
 
-
 Shows how to get an OLE object's suggested file name. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"OLE shape.rtf");
@@ -39,3 +38,8 @@ ASSERT_EQ(u"CSV.csv", suggestedFileName);
 }
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

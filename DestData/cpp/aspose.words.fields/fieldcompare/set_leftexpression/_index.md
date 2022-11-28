@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldCompare::get_LeftExpression](../get_left
 void Aspose::Words::Fields::FieldCompare::set_LeftExpression(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldCompare](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

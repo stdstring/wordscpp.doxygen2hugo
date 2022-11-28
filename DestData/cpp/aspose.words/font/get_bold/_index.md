@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Bold()
 
 
 
-
 Shows how to insert formatted text using [DocumentBuilder](../../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -37,3 +36,8 @@ font->set_Underline(Underline::Dash);
 builder->Write(u"Hello world!");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

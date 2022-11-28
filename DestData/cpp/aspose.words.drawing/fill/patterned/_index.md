@@ -24,7 +24,6 @@ void Aspose::Words::Drawing::Fill::Patterned(Aspose::Words::Drawing::PatternType
 
 
 
-
 Shows how to set pattern for a shape. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape stroke pattern border.docx");
@@ -44,6 +43,12 @@ fill->Patterned(PatternType::DiagonalBrick, System::Drawing::Color::get_Aqua(), 
 doc->Save(ArtifactsDir + u"Shape.FillPattern.docx");
 ```
 
+## See Also
+
+* Enum [PatternType](../../patterntype/)
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## Fill::Patterned(Aspose::Words::Drawing::PatternType, System::Drawing::Color, System::Drawing::Color) method
 
 
@@ -64,7 +69,6 @@ void Aspose::Words::Drawing::Fill::Patterned(Aspose::Words::Drawing::PatternType
 
 
 
-
 Shows how to set pattern for a shape. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape stroke pattern border.docx");
@@ -84,3 +88,9 @@ fill->Patterned(PatternType::DiagonalBrick, System::Drawing::Color::get_Aqua(), 
 doc->Save(ArtifactsDir + u"Shape.FillPattern.docx");
 ```
 
+## See Also
+
+* Enum [PatternType](../../patterntype/)
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

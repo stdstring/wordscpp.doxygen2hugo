@@ -20,7 +20,6 @@ void Aspose::Words::Border::ClearFormatting()
 
 
 
-
 Shows how to remove borders from a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Borders.docx");
@@ -49,3 +48,8 @@ ASSERT_FALSE(borders->idx_get(0)->get_IsVisible());
 doc->Save(ArtifactsDir + u"Border.ClearFormatting.docx");
 ```
 
+## See Also
+
+* Class [Border](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Run::get_Text](../get_text/).
 void Aspose::Words::Run::set_Text(const System::String &value)
 ```
 
+## See Also
+
+* Class [Run](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

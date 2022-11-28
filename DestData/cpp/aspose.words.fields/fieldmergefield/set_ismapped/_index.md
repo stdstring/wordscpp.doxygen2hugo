@@ -15,3 +15,8 @@ Sets whether this field is a mapped field.
 void Aspose::Words::Fields::FieldMergeField::set_IsMapped(bool value)
 ```
 
+## See Also
+
+* Class [FieldMergeField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

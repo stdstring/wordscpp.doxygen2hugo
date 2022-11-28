@@ -20,7 +20,6 @@ double Aspose::Words::PageSetup::get_PageHeight()
 
 
 
-
 Shows how to insert an image, and use it as a watermark. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,8 @@ shape->set_Top((builder->get_PageSetup()->get_PageHeight() - shape->get_Height()
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertWatermark.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

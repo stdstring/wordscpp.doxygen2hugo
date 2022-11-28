@@ -20,7 +20,6 @@ static System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::Hyphena
 
 
 
-
 Shows how to open and register a dictionary from a file. 
 ```cpp
 void RegisterDictionary()
@@ -89,3 +88,9 @@ private:
 };
 ```
 
+## See Also
+
+* Interface [IWarningCallback](../../iwarningcallback/)
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

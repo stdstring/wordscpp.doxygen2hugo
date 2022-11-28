@@ -15,3 +15,8 @@ Clears the mail merge settings in such a way that when the document is saved, no
 void Aspose::Words::Settings::MailMergeSettings::Clear()
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

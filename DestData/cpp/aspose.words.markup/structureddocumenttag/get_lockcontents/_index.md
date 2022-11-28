@@ -20,7 +20,6 @@ bool Aspose::Words::Markup::StructuredDocumentTag::get_LockContents() override
 
 
 
-
 Shows how to apply editing restrictions to structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -47,3 +46,8 @@ builder->InsertNode(tag);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.Lock.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

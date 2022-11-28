@@ -20,7 +20,6 @@ Aspose::Words::Tables::CellMerge Aspose::Words::Tables::CellFormat::get_Horizont
 
 
 
-
 Shows how to merge table cells horizontally. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -88,3 +87,9 @@ String PrintCellMergeType(SharedPtr<Cell> cell)
 }
 ```
 
+## See Also
+
+* Enum [CellMerge](../../cellmerge/)
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

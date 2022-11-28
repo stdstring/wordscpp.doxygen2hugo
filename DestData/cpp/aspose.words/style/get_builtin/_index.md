@@ -20,7 +20,6 @@ bool Aspose::Words::Style::get_BuiltIn()
 
 
 
-
 Shows how to differentiate custom styles from built-in styles. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,8 @@ style->get_Font()->set_Name(u"Courier New");
 ASSERT_FALSE(style->get_BuiltIn());
 ```
 
+## See Also
+
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

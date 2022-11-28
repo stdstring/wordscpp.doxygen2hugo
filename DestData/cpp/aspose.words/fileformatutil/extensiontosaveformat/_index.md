@@ -19,11 +19,12 @@ static Aspose::Words::SaveFormat Aspose::Words::FileFormatUtil::ExtensionToSaveF
 | Parameter | Type | Description |
 | --- | --- | --- |
 | extension | const System::String\& | The file extension. Can be with or without a leading dot. Case-insensitive. |
+## Remarks
 
-If the extension cannot be recognized, returns **Unknown**.
+
+If the extension cannot be recognized, returns [Unknown](../../saveformat/).
 
 ## Examples
-
 
 
 
@@ -54,3 +55,9 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 }
 ```
 
+## See Also
+
+* Enum [SaveFormat](../../saveformat/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

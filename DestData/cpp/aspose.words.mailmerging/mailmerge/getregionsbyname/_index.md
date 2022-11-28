@@ -28,7 +28,6 @@ The list of regions.
 
 
 
-
 Shows how to create, list, and read mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,3 +77,9 @@ mergeFieldNames = doc->get_MailMerge()->GetFieldNamesForRegion(u"MailMergeRegion
 ASSERT_EQ(u"Column2", mergeFieldNames[0]);
 ```
 
+## See Also
+
+* Class [MailMergeRegionInfo](../../mailmergeregioninfo/)
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

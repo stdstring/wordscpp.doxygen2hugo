@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::TxtSaveOptions::get_PreserveTableLayout](../g
 void Aspose::Words::Saving::TxtSaveOptions::set_PreserveTableLayout(bool value)
 ```
 
+## See Also
+
+* Class [TxtSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

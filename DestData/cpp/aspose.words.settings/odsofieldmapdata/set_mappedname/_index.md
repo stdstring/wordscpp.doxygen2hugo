@@ -15,3 +15,8 @@ Specifies the predefined merge field name which shall be mapped to the column nu
 void Aspose::Words::Settings::OdsoFieldMapData::set_MappedName(const System::String &value)
 ```
 
+## See Also
+
+* Class [OdsoFieldMapData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

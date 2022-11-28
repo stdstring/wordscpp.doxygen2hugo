@@ -20,7 +20,6 @@ Aspose::Words::Notes::FootnoteNumberingRule Aspose::Words::Notes::FootnoteOption
 
 
 
-
 Shows how to restart footnote/endnote numbering at certain places in the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -70,3 +69,9 @@ doc->get_EndnoteOptions()->set_RestartRule(FootnoteNumberingRule::RestartSection
 doc->Save(ArtifactsDir + u"InlineStory.NumberingRule.docx");
 ```
 
+## See Also
+
+* Enum [FootnoteNumberingRule](../../footnotenumberingrule/)
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextBox::get_InternalMarginRight](../get_int
 void Aspose::Words::Drawing::TextBox::set_InternalMarginRight(double value)
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

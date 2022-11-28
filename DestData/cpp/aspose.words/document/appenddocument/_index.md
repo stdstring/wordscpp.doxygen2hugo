@@ -25,7 +25,6 @@ void Aspose::Words::Document::AppendDocument(const System::SharedPtr<Aspose::Wor
 
 
 
-
 Shows how to append a document to the end of another document. 
 ```cpp
 auto srcDoc = MakeObject<Document>();
@@ -75,6 +74,13 @@ for (const auto& fileName : docFiles)
 dstDoc->Save(ArtifactsDir + u"Document.AppendAllDocumentsInFolder.doc");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
@@ -92,7 +98,6 @@ void Aspose::Words::Document::AppendDocument(const System::SharedPtr<Aspose::Wor
 | importFormatOptions | const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\& | Allows to specify options that affect formatting of a result document. |
 
 ## Examples
-
 
 
 
@@ -174,3 +179,11 @@ builder->InsertDocument(srcDoc, ImportFormatMode::KeepSourceFormatting, options)
 dstDoc->UpdateListLabels();
 ```
 
+## See Also
+
+* Class [Document](../)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [ImportFormatOptions](../../importformatoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

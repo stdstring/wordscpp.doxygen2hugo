@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceBottom](../get_distan
 void Aspose::Words::Drawing::ShapeBase::set_DistanceBottom(double value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

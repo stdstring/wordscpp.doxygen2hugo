@@ -20,7 +20,6 @@ Aspose::Words::Saving::PdfZoomBehavior Aspose::Words::Saving::PdfSaveOptions::ge
 
 
 
-
 Shows how to set the default zooming that a reader applies when opening a rendered PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,9 @@ options->set_ZoomFactor(25);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ZoomBehaviour.pdf", options);
 ```
 
+## See Also
+
+* Enum [PdfZoomBehavior](../../pdfzoombehavior/)
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

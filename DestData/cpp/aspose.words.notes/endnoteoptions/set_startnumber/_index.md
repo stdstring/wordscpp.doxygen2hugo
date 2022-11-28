@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::EndnoteOptions::get_StartNumber](../get_startn
 void Aspose::Words::Notes::EndnoteOptions::set_StartNumber(int32_t value) override
 ```
 
+## See Also
+
+* Class [EndnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

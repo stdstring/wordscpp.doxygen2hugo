@@ -19,7 +19,7 @@ namespace Doxygen2HugoConverter.Entities
                     DetailedDescriptionPortion detailedDescription = source.ParseDetailedDescriptionForEnum();
                     String name = source.GetChildElementValue("name");
                     String qualifiedName = source.GetChildElementValue("qualifiedname");
-                    String baseType = source.GetChildElementValue("type");
+                    String baseType = source.GetChildElementValue("type").Trim();
                     IList<EnumValueEntity> values = new List<EnumValueEntity>();
                     foreach (XElement valueElement in source.Elements("enumvalue"))
                     {
@@ -34,11 +34,13 @@ namespace Doxygen2HugoConverter.Entities
                                                                            state.ParentId,
                                                                            name,
                                                                            qualifiedName,
-                                                                           baseType,
+                                                                           baseType.Equals(String.Empty) ? null : baseType,
                                                                            briefDescription,
                                                                            detailedDescription,
                                                                            values);
-                    state.CommonEntityRepo.Add(id, result);
+                    state.ConvertData.EntityRepo.Add(id, result);
+                    foreach (EnumValueEntity enumValue in result.Values)
+                        state.ConvertData.EntityRepo.Add(enumValue.Id, result);
                     return result;
                 default:
                     return null;

@@ -15,3 +15,9 @@ Called when the Aspose.Words mail merge engine is about to insert an image into 
 virtual void Aspose::Words::MailMerging::IFieldMergingCallback::ImageFieldMerging(System::SharedPtr<Aspose::Words::MailMerging::ImageFieldMergingArgs> args)=0
 ```
 
+## See Also
+
+* Class [ImageFieldMergingArgs](../../imagefieldmergingargs/)
+* Interface [IFieldMergingCallback](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

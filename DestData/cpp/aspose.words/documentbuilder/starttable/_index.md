@@ -19,13 +19,14 @@ System::SharedPtr<Aspose::Words::Tables::Table> Aspose::Words::DocumentBuilder::
 ### ReturnValue
 
 The table node that was just created.
+## Remarks
+
 
 The next method to call is [InsertCell](../insertcell/).
 
 This method starts a nested table when called inside a cell.
 
 ## Examples
-
 
 
 
@@ -172,3 +173,9 @@ ASPOSE_ASSERT_EQ(30.0, table->get_FirstRow()->get_Cells()->idx_get(1)->get_CellF
 doc->Save(ArtifactsDir + u"DocumentBuilder.SetCellFormatting.docx");
 ```
 
+## See Also
+
+* Class [Table](../../../aspose.words.tables/table/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

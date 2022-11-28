@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comment::get_Initial](../get_initial/).
 void Aspose::Words::Comment::set_Initial(const System::String &value)
 ```
 
+## See Also
+
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

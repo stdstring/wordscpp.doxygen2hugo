@@ -15,3 +15,8 @@ Ignore Space Before Table When Deciding If Table Should Wrap Floating Object.
 void Aspose::Words::Settings::CompatibilityOptions::set_LayoutRawTableWidth(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

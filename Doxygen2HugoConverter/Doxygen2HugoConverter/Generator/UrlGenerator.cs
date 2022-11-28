@@ -7,7 +7,7 @@ namespace Doxygen2HugoConverter.Generator
         public static IList<String> CreateUrlForEntity(String entityId, GenerateState state)
         {
             IList<String> dependencyChain = new List<String>();
-            EntityDef? current = state.CommonEntityRepo[entityId];
+            EntityDef? current = state.ConvertData.EntityRepo[entityId];
             while (current != null)
             {
                 switch (current)
@@ -18,23 +18,23 @@ namespace Doxygen2HugoConverter.Generator
                         break;
                     case EntityDef.ClassEntity entity:
                         dependencyChain.Add(NameUtils.CreateSimpleFolderName(entity.Name));
-                        current = state.CommonEntityRepo[entity.ParentId];
+                        current = state.ConvertData.EntityRepo[entity.ParentId];
                         break;
                     case EntityDef.EnumEntity entity:
                         dependencyChain.Add(NameUtils.CreateSimpleFolderName(entity.Name));
-                        current = state.CommonEntityRepo[entity.ParentId];
+                        current = state.ConvertData.EntityRepo[entity.ParentId];
                         break;
                     case EntityDef.TypedefEntity entity:
                         dependencyChain.Add(NameUtils.CreateSimpleFolderName(entity.Name));
-                        current = state.CommonEntityRepo[entity.ParentId];
+                        current = state.ConvertData.EntityRepo[entity.ParentId];
                         break;
                     case EntityDef.MethodEntity entity:
                         dependencyChain.Add(NameUtils.CreateSimpleFolderName(entity.Name));
-                        current = state.CommonEntityRepo[entity.ParentId];
+                        current = state.ConvertData.EntityRepo[entity.ParentId];
                         break;
                     case EntityDef.FieldEntity entity:
                         dependencyChain.Add(NameUtils.CreateSimpleFolderName(entity.Name));
-                        current = state.CommonEntityRepo[entity.ParentId];
+                        current = state.ConvertData.EntityRepo[entity.ParentId];
                         break;
                 }
             }
@@ -67,7 +67,7 @@ namespace Doxygen2HugoConverter.Generator
 
         public static String? CreateRelativeUrlForEntity(String entityId, GenerateState state)
         {
-            if (!state.CommonEntityRepo.ContainsKey(entityId))
+            if (!state.ConvertData.EntityRepo.ContainsKey(entityId))
                 return null;
             IList<String> entityUrl = CreateUrlForEntity(entityId, state);
             IList<String> relativeUrl = CreateRelativeUrl(state.Url, entityUrl);

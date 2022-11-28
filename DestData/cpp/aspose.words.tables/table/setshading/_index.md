@@ -26,7 +26,6 @@ void Aspose::Words::Tables::Table::SetShading(Aspose::Words::TextureIndex textur
 
 
 
-
 Shows how to apply an outline border to a table. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -51,3 +50,9 @@ table->SetShading(TextureIndex::TextureSolid, System::Drawing::Color::get_LightG
 doc->Save(ArtifactsDir + u"Table.SetOutlineBorders.docx");
 ```
 
+## See Also
+
+* Enum [TextureIndex](../../../aspose.words/textureindex/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

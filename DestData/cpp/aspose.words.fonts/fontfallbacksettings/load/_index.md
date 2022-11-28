@@ -24,7 +24,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::SharedPtr<Sy
 
 
 
-
 Shows how to load and save font fallback settings to/from a stream. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -47,6 +46,11 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromStream.pdf")
 }
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FontFallbackSettings::Load(const System::String\&) method
 
 
@@ -65,7 +69,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::Load(const System::String &file
 
 
 
-
 Shows how to load and save font fallback settings to/from an XML document in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -81,6 +84,11 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromFile.pdf");
 doc->get_FontSettings()->get_FallbackSettings()->Save(ArtifactsDir + u"FallbackSettings.xml");
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)
 ## FontFallbackSettings::Load(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -90,3 +98,8 @@ doc->get_FontSettings()->get_FallbackSettings()->Save(ArtifactsDir + u"FallbackS
 template<typename CharType,typename Traits> void Aspose::Words::Fonts::FontFallbackSettings::Load(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

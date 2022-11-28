@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to work with a document's collection of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");
@@ -75,3 +74,9 @@ revisions->RejectAll();
 ASSERT_EQ(0, revisions->get_Count());
 ```
 
+## See Also
+
+* Class [Revision](../../revision/)
+* Class [RevisionCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

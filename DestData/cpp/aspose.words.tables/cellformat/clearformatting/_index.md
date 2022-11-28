@@ -20,7 +20,6 @@ void Aspose::Words::Tables::CellFormat::ClearFormatting()
 
 
 
-
 Shows how to combine the rows from two tables into one. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -44,3 +43,8 @@ secondTable->Remove();
 doc->Save(ArtifactsDir + u"Table.CombineTables.docx");
 ```
 
+## See Also
+
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

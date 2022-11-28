@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Body::get_NodeType() const override
 
 
 
-
 Shows how to iterate through the children of a composite node. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -63,3 +62,9 @@ for (const auto& node : System::IterateOver(section))
 }
 ```
 
+## See Also
+
+* Enum [NodeType](../../nodetype/)
+* Class [Body](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Whether to fix the check digit if it’s invalid.
 bool Aspose::Words::Fields::BarcodeParameters::get_FixCheckDigit() const
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

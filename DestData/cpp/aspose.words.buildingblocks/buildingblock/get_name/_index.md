@@ -15,6 +15,8 @@ Gets or sets the name of this building block.
 System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Name() const
 ```
 
+## Remarks
+
 
 The name may contain any string content, usually a friendly identifier. Multiple building blocks can have the same name.
 
@@ -23,7 +25,6 @@ Cannot be **null** and cannot be an empty string.
 Corresponds to the **docPartPr.name** element in OOXML.
 
 ## Examples
-
 
 
 
@@ -118,3 +119,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

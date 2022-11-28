@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDde::get_ProgId](../get_progid/).
 void Aspose::Words::Fields::FieldDde::set_ProgId(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDde](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

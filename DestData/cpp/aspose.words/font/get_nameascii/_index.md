@@ -20,7 +20,6 @@ System::String Aspose::Words::Font::get_NameAscii()
 
 
 
-
 Shows how Microsoft Word can combine two different fonts in one run. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -45,3 +44,8 @@ builder->Writeln(u"Hello, Привет");
 doc->Save(ArtifactsDir + u"Font.NameAscii.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

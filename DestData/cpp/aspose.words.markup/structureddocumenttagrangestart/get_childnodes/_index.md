@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::Markup::Structur
 
 
 
-
 Shows how to get child nodes of [StructuredDocumentTagRangeStart](../). 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Multi-section structured document tags.docx");
@@ -41,3 +40,9 @@ for (const auto& node : System::IterateOver(tag->GetChildNodes(NodeType::Run, tr
 }
 ```
 
+## See Also
+
+* Class [NodeCollection](../../../aspose.words/nodecollection/)
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

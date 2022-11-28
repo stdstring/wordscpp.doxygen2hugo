@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_IsHeading()
 
 
 
-
 Shows how to limit the headings' level that will appear in the outline of a saved PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -57,3 +56,8 @@ saveOptions->get_OutlineOptions()->set_HeadingsOutlineLevels(2);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.HeadingsOutlineLevels.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

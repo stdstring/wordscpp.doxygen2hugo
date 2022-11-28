@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldInclude::get_SourceFullName](../get_sour
 void Aspose::Words::Fields::FieldInclude::set_SourceFullName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldInclude](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ url: /cpp/aspose.words.markup/custompart/get_isexternal/
 bool Aspose::Words::Markup::CustomPart::get_IsExternal() const
 ```
 
+## Remarks
+
 
 The default value is **false**.
 
 ## Examples
-
 
 
 
@@ -63,3 +64,8 @@ doc->get_PackageCustomParts()->Clear();
 ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 ```
 
+## See Also
+
+* Class [CustomPart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

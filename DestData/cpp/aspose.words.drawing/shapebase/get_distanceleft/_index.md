@@ -15,13 +15,14 @@ Returns or sets the distance (in points) between the document text and the left 
 double Aspose::Words::Drawing::ShapeBase::get_DistanceLeft()
 ```
 
+## Remarks
+
 
 The default value is 1/8 inch.
 
 Has effect only for top level shapes.
 
 ## Examples
-
 
 
 
@@ -53,3 +54,8 @@ builder->Write(String(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 doc->Save(ArtifactsDir + u"Shape.Coordinates.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

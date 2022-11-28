@@ -20,4 +20,8 @@ void Aspose::Words::MailMerging::MappedDataFieldCollection::Remove(const System:
 | --- | --- | --- |
 | documentFieldName | const System::String\& | Case-sensitive name of the mail merge field in the document. |
 
+## See Also
 
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

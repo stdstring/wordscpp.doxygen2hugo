@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldGoToButton::get_Location()
 
 
 
-
 Shows to insert a GOTOBUTTON field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -44,3 +43,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.GOTOBUTTON.docx");
 ```
 
+## See Also
+
+* Class [FieldGoToButton](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

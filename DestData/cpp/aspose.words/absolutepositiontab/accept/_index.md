@@ -23,13 +23,14 @@ bool Aspose::Words::AbsolutePositionTab::Accept(System::SharedPtr<Aspose::Words:
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [DocumentVisitor.VisitAbsolutePositionTab](../../documentvisitor/visitabsolutepositiontab/).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -91,3 +92,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../documentvisitor/)
+* Class [AbsolutePositionTab](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

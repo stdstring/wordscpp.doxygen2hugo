@@ -20,7 +20,6 @@ bool Aspose::Words::Comparing::CompareOptions::get_IgnoreDmlUniqueId() const
 
 
 
-
 Shows how to compare documents ignoring DML unique ID. 
 ```cpp
 auto docA = MakeObject<Document>(MyDir + u"DML unique ID original.docx");
@@ -36,3 +35,8 @@ docA->Compare(docB, u"Aspose.Words", System::DateTime::get_Now(), compareOptions
 ASSERT_EQ(isIgnoreDmlUniqueId ? 0 : 2, docA->get_Revisions()->get_Count());
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

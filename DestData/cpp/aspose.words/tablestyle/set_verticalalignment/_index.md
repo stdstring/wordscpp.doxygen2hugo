@@ -15,3 +15,9 @@ Setter for [Aspose::Words::TableStyle::get_VerticalAlignment](../get_verticalali
 void Aspose::Words::TableStyle::set_VerticalAlignment(Aspose::Words::Tables::CellVerticalAlignment value)
 ```
 
+## See Also
+
+* Enum [CellVerticalAlignment](../../../aspose.words.tables/cellverticalalignment/)
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

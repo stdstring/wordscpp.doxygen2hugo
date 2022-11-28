@@ -20,7 +20,6 @@ bool Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter() const
 
 
 
-
 Shows how to create headers and footers in a document using [DocumentBuilder](../../documentbuilder/). 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -88,3 +87,8 @@ builder->get_PageSetup()->set_OddAndEvenPagesHeaderFooter(oddAndEvenPagesHeaderF
 doc->Save(ArtifactsDir + u"PageSetup.OddAndEvenPagesHeaderFooter.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Math::OfficeMath::get_NodeType() const ov
 
 
 
-
 Shows how to set office math display formatting. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");
@@ -43,3 +42,9 @@ officeMath->set_Justification(OfficeMathJustification::Left);
 doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 ```
 
+## See Also
+
+* Enum [NodeType](../../../aspose.words/nodetype/)
+* Class [OfficeMath](../)
+* Namespace [Aspose::Words::Math](../../)
+* Library [Aspose.Words](../../../)

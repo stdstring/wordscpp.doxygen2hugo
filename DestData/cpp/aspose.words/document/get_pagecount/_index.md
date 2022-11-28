@@ -20,7 +20,6 @@ int32_t Aspose::Words::Document::get_PageCount()
 
 
 
-
 Shows how to count the number of pages in the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -41,3 +40,8 @@ ASSERT_EQ(3, doc->get_PageCount());
 doc->Save(ArtifactsDir + u"Document.GetPageCount.pdf");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

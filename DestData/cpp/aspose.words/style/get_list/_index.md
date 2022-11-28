@@ -15,11 +15,12 @@ Gets the list that defines formatting of this list style.
 System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Style::get_List()
 ```
 
+## Remarks
+
 
 This property is only valid for list styles. For other style types this property returns null.
 
 ## Examples
-
 
 
 
@@ -78,3 +79,9 @@ builder->get_ListFormat()->RemoveNumbers();
 builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx");
 ```
 
+## See Also
+
+* Class [List](../../../aspose.words.lists/list/)
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

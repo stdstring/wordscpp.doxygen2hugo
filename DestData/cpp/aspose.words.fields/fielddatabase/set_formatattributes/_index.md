@@ -15,3 +15,8 @@ Sets which attributes of the format are to be applied to the table.
 void Aspose::Words::Fields::FieldDatabase::set_FormatAttributes(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDatabase](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

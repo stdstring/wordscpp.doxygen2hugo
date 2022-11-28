@@ -15,13 +15,14 @@ Specifies whether the shape is below or above text.
 bool Aspose::Words::Drawing::ShapeBase::get_BehindText()
 ```
 
+## Remarks
+
 
 Has effect only for top level shapes.
 
 The default value is **false**.
 
 ## Examples
-
 
 
 
@@ -42,3 +43,8 @@ shape->set_VerticalAlignment(VerticalAlignment::Center);
 doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

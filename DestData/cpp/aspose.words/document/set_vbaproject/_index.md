@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Document::get_VbaProject](../get_vbaproject/).
 void Aspose::Words::Document::set_VbaProject(const System::SharedPtr<Aspose::Words::Vba::VbaProject> &value)
 ```
 
+## See Also
+
+* Class [VbaProject](../../../aspose.words.vba/vbaproject/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

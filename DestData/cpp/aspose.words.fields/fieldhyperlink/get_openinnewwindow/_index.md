@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow()
 
 
 
-
 Shows how to use HYPERLINK fields to link to documents in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -49,3 +48,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.HYPERLINK.docx");
 ```
 
+## See Also
+
+* Class [FieldHyperlink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

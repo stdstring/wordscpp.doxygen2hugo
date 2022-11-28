@@ -15,6 +15,12 @@ Compares with the specified list.
 bool Aspose::Words::Lists::List::Equals(const System::SharedPtr<Aspose::Words::Lists::List> &list)
 ```
 
+## See Also
+
+* Class [List](../)
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)
 ## List::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -24,3 +30,8 @@ bool Aspose::Words::Lists::List::Equals(const System::SharedPtr<Aspose::Words::L
 bool Aspose::Words::Lists::List::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

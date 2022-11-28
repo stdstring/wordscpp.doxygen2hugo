@@ -20,7 +20,6 @@ double Aspose::Words::PageSetup::get_BottomMargin()
 
 
 
-
 Shows how to adjust paper size, orientation, margins, along with other settings for a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ builder->Writeln(u"Hello world!");
 doc->Save(ArtifactsDir + u"PageSetup.PageMargins.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

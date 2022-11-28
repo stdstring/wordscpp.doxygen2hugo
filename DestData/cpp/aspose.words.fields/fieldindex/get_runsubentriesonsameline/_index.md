@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldIndex::get_RunSubentriesOnSameLine()
 
 
 
-
 Shows how to work with subentries in an INDEX field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -76,3 +75,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + String::Format(u"Field.INDEX.XE.Subheading.docx"));
 ```
 
+## See Also
+
+* Class [FieldIndex](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

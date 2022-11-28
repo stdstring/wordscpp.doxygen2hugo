@@ -29,7 +29,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -88,6 +87,12 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, const System::String\&) method
 
 
@@ -111,7 +116,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -170,6 +174,12 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, double) method
 
 
@@ -193,7 +203,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -252,6 +261,12 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, int32_t) method
 
 
@@ -275,7 +290,6 @@ The newly created property object.
 
 
 
-
 Shows how to work with a document's custom properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -334,6 +348,12 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## CustomDocumentProperties::Add(const System::String\&, System::DateTime) method
 
 
@@ -354,7 +374,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 The newly created property object.
 
 ## Examples
-
 
 
 
@@ -426,3 +445,9 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

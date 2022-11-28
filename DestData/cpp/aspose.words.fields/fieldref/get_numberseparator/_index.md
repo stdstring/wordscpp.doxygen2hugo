@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldRef::get_NumberSeparator()
 
 
 
-
 Shows how to insert REF fields to reference bookmarks. 
 ```cpp
 void FieldRef_()
@@ -102,3 +101,8 @@ static SharedPtr<FieldRef> InsertFieldRef(SharedPtr<DocumentBuilder> builder, St
 }
 ```
 
+## See Also
+
+* Class [FieldRef](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

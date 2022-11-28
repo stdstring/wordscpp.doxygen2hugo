@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsDecorative()
 
 
 
-
 Shows how to set that the shape is decorative. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Decorative shapes.docx");
@@ -43,3 +42,8 @@ shape->set_IsDecorative(true);
 doc->Save(ArtifactsDir + u"Shape.IsDecorative.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

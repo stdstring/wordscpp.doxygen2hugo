@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Dr
 
 
 
-
 Shows how to set individual formatting for categories of a column chart. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ dataPoints->idx_get(3)->get_Format()->get_Fill()->set_ForeColor(System::Drawing:
 doc->Save(ArtifactsDir + u"Charts.DataPointsFormatting.docx");
 ```
 
+## See Also
+
+* Class [ChartFormat](../../chartformat/)
+* Class [ChartDataPoint](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

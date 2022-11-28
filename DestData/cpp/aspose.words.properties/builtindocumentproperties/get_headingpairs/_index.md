@@ -15,6 +15,8 @@ Specifies document headings and their names.
 System::ArrayPtr<System::SharedPtr<System::Object>> Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs()
 ```
 
+## Remarks
+
 
 Every heading pair occupies two elements in this array.
 
@@ -25,7 +27,6 @@ The total sum of counts for all heading pairs in this property must be equal to 
 Aspose.Words does not update this property.
 
 ## Examples
-
 
 
 
@@ -56,3 +57,8 @@ while (headingPairsIndex < headingPairs->get_Length())
 }
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

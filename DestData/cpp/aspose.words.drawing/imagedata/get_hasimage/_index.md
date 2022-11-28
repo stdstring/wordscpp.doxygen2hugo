@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ImageData::get_HasImage()
 
 
 
-
 Shows how to save all images from a document to the file system. 
 ```cpp
 auto imgSourceDoc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -51,3 +50,8 @@ auto formatConverter = MakeObject<System::Drawing::ImageFormatConverter>();
 }
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

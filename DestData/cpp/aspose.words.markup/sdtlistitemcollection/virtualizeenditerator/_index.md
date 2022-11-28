@@ -15,3 +15,9 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/virtualizeenditerator/
 virtualized_iterator * Aspose::Words::Markup::SdtListItemCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [SdtListItemCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

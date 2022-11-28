@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldCompare::get_ComparisonOperator()
 
 
 
-
 Shows how to compare expressions using a COMPARE field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.COMPARE.docx");
 ```
 
+## See Also
+
+* Class [FieldCompare](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

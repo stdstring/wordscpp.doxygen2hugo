@@ -15,6 +15,8 @@ Gets a string value containing the identifier of an Automation type library.
 virtual System::String Aspose::Words::Vba::VbaReference::get_LibId() const =0
 ```
 
+## Remarks
+
 
 Depending on reference type, the value of this property can be:
 
@@ -24,7 +26,6 @@ Depending on reference type, the value of this property can be:
 
 
 ## Examples
-
 
 
 
@@ -93,3 +94,8 @@ static String GetLibIdProjectPath(String libIdProject)
 }
 ```
 
+## See Also
+
+* Class [VbaReference](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

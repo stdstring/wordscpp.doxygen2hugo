@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::RunCollection> Aspose::Words::Paragraph::get_Ru
 
 
 
-
 Shows how to determine the revision type of an inline node. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision runs.docx");
@@ -71,3 +70,9 @@ ASSERT_TRUE(runs->idx_get(1)->get_IsMoveToRevision());
 ASSERT_TRUE(runs->idx_get(5)->get_IsDeleteRevision());
 ```
 
+## See Also
+
+* Class [RunCollection](../../runcollection/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

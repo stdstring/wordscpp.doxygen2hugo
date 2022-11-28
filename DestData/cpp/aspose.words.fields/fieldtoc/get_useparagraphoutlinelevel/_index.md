@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldToc::get_UseParagraphOutlineLevel() override
 
 
 
-
 Shows how to insert a TOC, and populate it with entries based on heading styles. 
 ```cpp
 void FieldToc_()
@@ -97,3 +96,8 @@ void InsertNewPageWithHeading(SharedPtr<DocumentBuilder> builder, String caption
 }
 ```
 
+## See Also
+
+* Class [FieldToc](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::ResourceSaving
 
 
 
-
 Shows how to use a callback to track external resources created while converting a document to HTML. 
 ```cpp
 void ResourceSavingCallback()
@@ -61,3 +60,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Document](../../../aspose.words/document/)
+* Class [ResourceSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

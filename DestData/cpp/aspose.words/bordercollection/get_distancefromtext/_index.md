@@ -15,6 +15,8 @@ Gets or sets distance of the border from text in points.
 double Aspose::Words::BorderCollection::get_DistanceFromText()
 ```
 
+## Remarks
+
 
 Gets the distance from text for the first border.
 
@@ -23,7 +25,6 @@ Sets the distance from text for all borders in the collection excluding diagonal
 Has no effect and will be automatically reset to zero for borders of table cells.
 
 ## Examples
-
 
 
 
@@ -41,3 +42,8 @@ pageSetup->get_Borders()->set_Shadow(true);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorders.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

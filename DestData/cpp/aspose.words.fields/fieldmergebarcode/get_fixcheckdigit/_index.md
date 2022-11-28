@@ -15,3 +15,8 @@ Gets whether to fix the check digit if it’s invalid.
 bool Aspose::Words::Fields::FieldMergeBarcode::get_FixCheckDigit()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

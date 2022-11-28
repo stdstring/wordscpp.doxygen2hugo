@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIndex::get_SequenceName()
 
 
 
-
 Shows how to split a document into portions by combining INDEX and SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -90,3 +89,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.INDEX.XE.Sequence.docx");
 ```
 
+## See Also
+
+* Class [FieldIndex](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

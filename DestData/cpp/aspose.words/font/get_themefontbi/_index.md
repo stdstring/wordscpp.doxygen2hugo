@@ -20,7 +20,6 @@ Aspose::Words::Themes::ThemeFont Aspose::Words::Font::get_ThemeFontBi()
 
 
 
-
 Shows how to work with theme fonts and colors. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -102,3 +101,9 @@ ASSERT_EQ(ThemeColor::None, font->get_ThemeColor());
 ASSERT_EQ(System::Drawing::Color::get_Blue().ToArgb(), font->get_Color().ToArgb());
 ```
 
+## See Also
+
+* Enum [ThemeFont](../../../aspose.words.themes/themefont/)
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

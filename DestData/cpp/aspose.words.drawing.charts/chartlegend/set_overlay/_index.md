@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay](../get_ove
 void Aspose::Words::Drawing::Charts::ChartLegend::set_Overlay(bool value)
 ```
 
+## See Also
+
+* Class [ChartLegend](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

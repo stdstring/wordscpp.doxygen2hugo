@@ -20,7 +20,6 @@ static System::SharedPtr<Aspose::Words::Fonts::FontSettings> Aspose::Words::Font
 
 
 
-
 Shows how to configure the default font settings instance. 
 ```cpp
 // Configure the default font settings instance to use the "Courier New" font
@@ -94,3 +93,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [FontSettings](../)
+* Class [FontSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

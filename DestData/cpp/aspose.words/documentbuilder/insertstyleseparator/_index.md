@@ -20,7 +20,6 @@ void Aspose::Words::DocumentBuilder::InsertStyleSeparator()
 
 
 
-
 Shows how to work with style separators. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -50,3 +49,8 @@ ASSERT_EQ(u"MyParaStyle", doc->get_FirstSection()->get_Body()->get_Paragraphs()-
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertStyleSeparator.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

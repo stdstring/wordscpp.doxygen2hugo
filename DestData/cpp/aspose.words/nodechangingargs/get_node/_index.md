@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeChangingArgs::get_Node
 
 
 
-
 Shows how customize node changing with a callback. 
 ```cpp
 void FontChangeViaCallback()
@@ -94,3 +93,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [NodeChangingArgs](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

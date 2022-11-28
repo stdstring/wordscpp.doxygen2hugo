@@ -15,6 +15,8 @@ Gets or sets the location and size of the containing block of the shape.
 System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_Bounds()
 ```
 
+## Remarks
+
 
 Ignores aspect ratio lock upon setting.
 
@@ -23,7 +25,6 @@ For a top-level shape, the value is in points and relative to the shape anchor.
 For shapes in a group, the value is in the coordinate space and units of the parent group.
 
 ## Examples
-
 
 
 
@@ -169,3 +170,8 @@ ASPOSE_ASSERT_EQ(System::Drawing::RectangleF(250.0f, 350.0f, 25.0f, 25.0f), shap
 doc->Save(ArtifactsDir + u"Shape.Bounds.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

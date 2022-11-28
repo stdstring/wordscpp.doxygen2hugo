@@ -15,3 +15,9 @@ Returns a [StructuredDocumentTags](./) collection that represents all structured
 System::SharedPtr<Aspose::Words::Markup::StructuredDocumentTagCollection> Aspose::Words::Range::get_StructuredDocumentTags()
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagCollection](../../../aspose.words.markup/structureddocumenttagcollection/)
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

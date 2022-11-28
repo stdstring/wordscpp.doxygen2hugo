@@ -19,11 +19,12 @@ System::SharedPtr<Aspose::Words::Bookmark> Aspose::Words::BookmarkCollection::id
 | Parameter | Type | Description |
 | --- | --- | --- |
 | bookmarkName | const System::String\& | Case-insensitive name of the bookmark. |
+## Remarks
+
 
 Returns null if the bookmark with the specified name cannot be found.
 
 ## Examples
-
 
 
 
@@ -104,6 +105,12 @@ public:
 };
 ```
 
+## See Also
+
+* Class [Bookmark](../../bookmark/)
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## BookmarkCollection::idx_get(int32_t) method
 
 
@@ -117,6 +124,8 @@ System::SharedPtr<Aspose::Words::Bookmark> Aspose::Words::BookmarkCollection::id
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
+## Remarks
+
 
 The index is zero-based.
 
@@ -127,7 +136,6 @@ If index is greater than or equal to the number of items in the list, this retur
 If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.
 
 ## Examples
-
 
 
 
@@ -208,3 +216,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [Bookmark](../../bookmark/)
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

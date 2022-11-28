@@ -24,7 +24,6 @@ An array of paragraphs.
 
 
 
-
 Shows how to create an array from a [NodeCollection](../../nodecollection/). 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraphs.docx");
@@ -57,3 +56,9 @@ for (SharedPtr<Paragraph> para : doc->get_FirstSection()->get_Body()->get_Paragr
 ASSERT_FALSE(doc->GetText().Contains(u"The third paragraph"));
 ```
 
+## See Also
+
+* Class [Paragraph](../../paragraph/)
+* Class [ParagraphCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

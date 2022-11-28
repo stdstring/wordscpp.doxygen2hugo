@@ -15,3 +15,8 @@ Allow Contextual Spacing of Paragraphs in [Tables](../../../aspose.words.tables/
 bool Aspose::Words::Settings::CompatibilityOptions::get_AllowSpaceOfSameStyleInTable()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

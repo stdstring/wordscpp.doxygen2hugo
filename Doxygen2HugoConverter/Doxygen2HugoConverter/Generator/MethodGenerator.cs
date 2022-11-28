@@ -19,10 +19,10 @@ namespace Doxygen2HugoConverter.Generator
         public static IList<GenerateEntry> GetMethodEntries(this IList<MemberRef> memberRefs, GenerateState state)
         {
             GenerateEntry? ChooseMethodFun(MemberRef memberRef) =>
-                state.CommonEntityRepo.ContainsKey(memberRef.RefId) switch
+                state.ConvertData.EntityRepo.ContainsKey(memberRef.RefId) switch
                 {
                     false => null,
-                    true => state.CommonEntityRepo[memberRef.RefId] switch
+                    true => state.ConvertData.EntityRepo[memberRef.RefId] switch
                     {
                         EntityDef.MethodEntity entity => entity.CreateEntry(state),
                         _ => null
@@ -37,26 +37,27 @@ namespace Doxygen2HugoConverter.Generator
             String methodDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(methodDirectory);
             IList<String> methodUrl = state.Url.Append(folderName).ToList();
-            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.CommonEntityRepo);
+            GenerateState currentState = new GenerateState(methodDirectory, methodUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             if (isFirst)
             {
                 String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
-                GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, methodUrl, state.Weight, builder);
+                GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, methodUrl, state.Weight, state.ConvertData.SpecificInfo, builder);
                 state.IncreaseWeight();
             }
             IList<String> argsTypes = entity.Args.CreateArgTypeList();
             GeneratorUtils.GenerateHeader(entity.CreateMethodHeader(hasOverloads, argsTypes), 2, builder);
-            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+            String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
             entity.GenerateDefinition(builder);
-            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder);
-            entity.DetailedDescription.Args.GenerateArgs(CreateUrl, argsTypes, builder);
-            entity.DetailedDescription.ReturnValue.GenerateReturnValue(CreateUrl, builder);
-            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder);
+            entity.DetailedDescription.TemplateParameters.GenerateTemplateParameters(CreateUrl, builder, currentState.ConvertData.Logger);
+            entity.DetailedDescription.Args.GenerateArgs(currentState, argsTypes, builder);
+            entity.DetailedDescription.ReturnValue.GenerateReturnValue(currentState, builder);
+            entity.DetailedDescription.Description.GenerateDetailedDescription(CreateUrl, builder, currentState.ConvertData.Logger);
+            entity.GenerateSeeAlso(currentState, builder);
             File.AppendAllText(Path.Combine(methodDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
@@ -81,7 +82,7 @@ namespace Doxygen2HugoConverter.Generator
                         builder.Append(" const");
                     if (entity.IsOverride)
                         builder.Append(" override");
-                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl);
+                    String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger);
                     return new GenerateEntry(builder.ToString(), briefDescription);
             }
         }
@@ -113,7 +114,13 @@ namespace Doxygen2HugoConverter.Generator
                 if (entity.IsConst)
                     result.Append(" const");
             }
-            result.Append(" method");
+            String kind = entity.Kind switch
+            {
+                MethodKind.Constructor => "constructor",
+                MethodKind.Method => "method",
+                _ => throw new InvalidOperationException("Unknown method kind")
+            };
+            result.Append($" {kind}");
             return result.ToString();
         }
 
@@ -129,26 +136,60 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine();
         }
 
-        private static void GenerateArgs(this MethodArgs methodArgs, Func<String, String?> relativeUrlGenerator, IList<String> argsTypes, StringBuilder dest)
+        private static void GenerateArgs(this MethodArgs methodArgs, GenerateState state, IList<String> argsTypes, StringBuilder dest)
         {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
             if (methodArgs.IsEmpty())
                 return;
             dest.AppendLine();
             GeneratorUtils.GenerateTableHeader(new[]{"Parameter", "Type", "Description"}, dest);
             foreach (var (methodArg, argType) in methodArgs.Zip(argsTypes))
             {
-                String methodArgDescription = methodArg.Description.CreateSimpleMarkup(relativeUrlGenerator);
+                String methodArgDescription = methodArg.Description.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger);
                 dest.AppendLine($"| {methodArg.Name} | {argType} | {methodArgDescription} |");
             }
         }
 
-        private static void GenerateReturnValue(this SimpleMarkupPortion returnValue, Func<String, String?> relativeUrlGenerator, StringBuilder dest)
+        private static void GenerateReturnValue(this SimpleMarkupPortion returnValue, GenerateState state, StringBuilder dest)
         {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
             if (returnValue.IsEmpty())
                 return;
             dest.AppendLine();
             GeneratorUtils.GenerateHeader("ReturnValue", 3, dest);
-            dest.AppendLine(returnValue.CreateSimpleMarkup(relativeUrlGenerator));
+            dest.AppendLine(returnValue.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger));
+        }
+
+        // TODO (std_string) : think about place
+        private static IEnumerable<MarkupRef> ExtractRefs(this SimpleMarkupPortion markup) =>
+            markup.OfType<SimpleMarkupEntry.RefEntry>().Select(reference => reference.Ref);
+
+        // TODO (std_string) : think about place
+        private static void GenerateSeeAlsoEntry(this MarkupRef reference, GenerateState state, StringBuilder dest)
+        {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
+            switch (state.ConvertData.EntityRepo.ContainsKey(reference.RefId))
+            {
+                case false:
+                    state.ConvertData.Logger.LogWarning($"Can't resolve ref with id = \"{reference.RefId}\"");
+                    break;
+                case true:
+                    String url = CreateUrl(reference.RefId)!;
+                    state.ConvertData.Logger.LogInfo($"Resolved ref for \"{reference.Text}\": \"{url}\"");
+                    state.ConvertData.EntityRepo[reference.RefId].GenerateSeeAlsoEntry(url, dest);
+                    break;
+            }
+        }
+
+        private static void GenerateSeeAlso(this EntityDef.MethodEntity entity, GenerateState state, StringBuilder dest)
+        {
+            GeneratorUtils.GenerateHeader("See Also", 2, dest);
+            entity.ReturnType.ExtractRefs()
+                             .Concat(entity.Args.SelectMany(arg => arg.Type.ExtractRefs()))
+                             .Where(reference => !String.IsNullOrEmpty(reference.RefId))
+                             .DistinctBy(reference => reference.RefId)
+                             .Iterate(reference => reference.GenerateSeeAlsoEntry(state, dest));
+            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, state.ConvertData.SpecificInfo, dest);
         }
     }
 }

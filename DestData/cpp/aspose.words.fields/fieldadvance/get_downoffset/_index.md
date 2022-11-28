@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAdvance::get_DownOffset()
 
 
 
-
 Shows how to insert an ADVANCE field, and edit its properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -60,3 +59,8 @@ builder->Write(u"This text is in a custom position.");
 doc->Save(ArtifactsDir + u"Field.ADVANCE.docx");
 ```
 
+## See Also
+
+* Class [FieldAdvance](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

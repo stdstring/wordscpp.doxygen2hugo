@@ -20,7 +20,6 @@ bool Aspose::Words::CleanupOptions::get_UnusedLists() const
 
 
 
-
 Shows how to remove all unused custom styles from a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -64,3 +63,8 @@ doc->Cleanup(cleanupOptions);
 ASSERT_EQ(2, doc->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [CleanupOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11() const
 
 
 
-
 Shows how to make a saved document conform to an older ODT schema. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -32,3 +31,8 @@ saveOptions->set_IsStrictSchema11(exportToOdt11Specs);
 doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
 ```
 
+## See Also
+
+* Class [OdtSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

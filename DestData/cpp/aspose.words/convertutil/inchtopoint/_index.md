@@ -24,7 +24,6 @@ static double Aspose::Words::ConvertUtil::InchToPoint(double inches)
 
 
 
-
 Shows how to adjust paper size, orientation, margins, along with other settings for a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -75,3 +74,8 @@ builder->Writeln(
 doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndInches.docx");
 ```
 
+## See Also
+
+* Class [ConvertUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

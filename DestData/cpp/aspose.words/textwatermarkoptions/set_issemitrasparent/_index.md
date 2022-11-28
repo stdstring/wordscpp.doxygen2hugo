@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent](../get_is
 void Aspose::Words::TextWatermarkOptions::set_IsSemitrasparent(bool value)
 ```
 
+## See Also
+
+* Class [TextWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::SectionCollection> Aspose::Words::BuildingBlock
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()
@@ -112,3 +111,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [SectionCollection](../../../aspose.words/sectioncollection/)
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

@@ -15,13 +15,14 @@ Specifies how the text is wrapped around the shape.
 Aspose::Words::Drawing::WrapSide Aspose::Words::Drawing::ShapeBase::get_WrapSide()
 ```
 
+## Remarks
 
-The default value is **Both**.
+
+The default value is [Both](../../wrapside/).
 
 Has effect only for top level shapes.
 
 ## Examples
-
 
 
 
@@ -72,3 +73,9 @@ ASSERT_EQ(4, shapes->LINQ_Count(isImage));
 doc->Save(ArtifactsDir + u"Shape.ReplaceTextboxesWithImages.docx");
 ```
 
+## See Also
+
+* Enum [WrapSide](../../wrapside/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

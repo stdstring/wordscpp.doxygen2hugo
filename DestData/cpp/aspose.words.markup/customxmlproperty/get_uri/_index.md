@@ -15,13 +15,14 @@ Gets or sets the namespace URI of the custom XML attribute or smart tag property
 System::String Aspose::Words::Markup::CustomXmlProperty::get_Uri() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 
 Default is empty string.
 
 ## Examples
-
 
 
 
@@ -76,3 +77,8 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomXmlProperty](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

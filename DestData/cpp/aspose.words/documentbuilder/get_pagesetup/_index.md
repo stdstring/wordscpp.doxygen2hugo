@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::PageSetup> Aspose::Words::DocumentBuilder::get_
 
 
 
-
 Shows how to apply and revert page setup settings to sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -49,3 +48,9 @@ builder->Writeln(u"This is the second section, which is in default Letter paper 
 doc->Save(ArtifactsDir + u"PageSetup.ClearFormatting.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../../pagesetup/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

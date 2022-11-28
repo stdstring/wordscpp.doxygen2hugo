@@ -15,3 +15,8 @@ url: /cpp/aspose.words/compositenode/settemplateweakptr/
 void Aspose::Words::CompositeNode::SetTemplateWeakPtr(uint32_t argument) override
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

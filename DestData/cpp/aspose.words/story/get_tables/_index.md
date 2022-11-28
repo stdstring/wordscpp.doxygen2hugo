@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::TableCollection> Aspose::Words::Story::
 
 
 
-
 Shows how to remove the first and last rows of all tables in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -46,3 +45,9 @@ ASSERT_EQ(3, tables->idx_get(0)->get_Rows()->get_Count());
 ASSERT_EQ(2, tables->idx_get(1)->get_Rows()->get_Count());
 ```
 
+## See Also
+
+* Class [TableCollection](../../../aspose.words.tables/tablecollection/)
+* Class [Story](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

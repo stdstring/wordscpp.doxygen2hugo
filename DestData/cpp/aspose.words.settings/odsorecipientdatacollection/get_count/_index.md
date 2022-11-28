@@ -15,3 +15,8 @@ Gets the number of elements contained in the collection.
 int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::get_Count()
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

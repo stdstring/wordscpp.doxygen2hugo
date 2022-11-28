@@ -15,11 +15,12 @@ Gets or sets the checked status of the check box form field. Default value for t
 bool Aspose::Words::Fields::FormField::get_Checked()
 ```
 
+## Remarks
+
 
 Applicable for a check box form field only.
 
 ## Examples
-
 
 
 
@@ -152,3 +153,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

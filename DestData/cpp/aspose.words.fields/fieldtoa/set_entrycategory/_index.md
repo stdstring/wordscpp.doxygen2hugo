@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldToa::get_EntryCategory](../get_entrycate
 void Aspose::Words::Fields::FieldToa::set_EntryCategory(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldToa](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

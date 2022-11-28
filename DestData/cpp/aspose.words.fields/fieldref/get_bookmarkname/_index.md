@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldRef::get_BookmarkName()
 
 
 
-
 Shows how to insert REF fields to reference bookmarks. 
 ```cpp
 void FieldRef_()
@@ -128,3 +127,8 @@ ASSERT_EQ(u"Hello world!", fieldRef->get_Result());
 doc->Save(ArtifactsDir + u"Field.SET.REF.docx");
 ```
 
+## See Also
+
+* Class [FieldRef](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

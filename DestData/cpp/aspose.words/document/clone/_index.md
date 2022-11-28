@@ -24,7 +24,6 @@ The cloned document.
 
 
 
-
 Shows how to deep clone a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,9 @@ ASSERT_NE(System::ObjectExt::GetHashCode(doc->get_FirstSection()->get_Body()->ge
           System::ObjectExt::GetHashCode(clone->get_FirstSection()->get_Body()->get_FirstParagraph()->get_Runs()->idx_get(0)));
 ```
 
+## See Also
+
+* Class [Document](../)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

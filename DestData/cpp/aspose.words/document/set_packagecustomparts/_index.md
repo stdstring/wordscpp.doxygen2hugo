@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Document::get_PackageCustomParts](../get_packagecusto
 void Aspose::Words::Document::set_PackageCustomParts(const System::SharedPtr<Aspose::Words::Markup::CustomPartCollection> &value)
 ```
 
+## See Also
+
+* Class [CustomPartCollection](../../../aspose.words.markup/custompartcollection/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDde::get_InsertAsPicture](../get_inserta
 void Aspose::Words::Fields::FieldDde::set_InsertAsPicture(bool value)
 ```
 
+## See Also
+
+* Class [FieldDde](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

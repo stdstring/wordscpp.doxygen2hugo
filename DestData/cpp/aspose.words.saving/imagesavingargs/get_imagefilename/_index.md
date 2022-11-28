@@ -15,6 +15,8 @@ Gets or sets the file name (without path) where the image will be saved to.
 System::String Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName() const
 ```
 
+## Remarks
+
 
 This property allows you to redefine how the image file names are generated during export to HTML.
 
@@ -29,7 +31,6 @@ When saving a document to a stream, the generated image file name looks like Asp
 [ImageFileName](./) must contain only the file name without the path. Aspose.Words determines the path for saving and the value of the **src** attribute for writing to HTML using the document file name, the [ImagesFolder](../../htmlsaveoptions/get_imagesfolder/) and [ImagesFolderAlias](../../htmlsaveoptions/get_imagesfolderalias/) properties.
 
 ## Examples
-
 
 
 
@@ -151,3 +152,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

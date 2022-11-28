@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_WidowControl()
 
 
 
-
 Shows how to enable widow/orphan control for a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -45,3 +44,8 @@ builder->Write(String(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 doc->Save(ArtifactsDir + u"ParagraphFormat.WidowControl.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

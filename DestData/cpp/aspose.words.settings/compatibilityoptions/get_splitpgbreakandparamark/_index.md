@@ -15,3 +15,8 @@ Always Move [Paragraph](../../../aspose.words/paragraph/) Mark to Page after a P
 bool Aspose::Words::Settings::CompatibilityOptions::get_SplitPgBreakAndParaMark()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

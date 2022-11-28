@@ -23,11 +23,12 @@ System::SharedPtr<Aspose::Words::Lists::List> Aspose::Words::Lists::ListCollecti
 ### ReturnValue
 
 Returns the list object. Returns null if a list with the specified identifier was not found.
+## Remarks
+
 
 You don't normally need to use this method. Most of the time you apply list formatting to paragraphs just by settings the [List](../../listformat/get_list/) property of the [ListFormat](../../listformat/) object.
 
 ## Examples
-
 
 
 
@@ -49,3 +50,9 @@ std::cout << (String(u"ListId: ") + list->get_ListId()) << std::endl;
 std::cout << (String(u"List is the same by ListId: ") + (System::ObjectExt::Equals(lists->GetListByListId(1), list))) << std::endl;
 ```
 
+## See Also
+
+* Class [List](../../list/)
+* Class [ListCollection](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings() 
 
 
 
-
 Shows how to create an INCLUDETEXT field, and set its properties. 
 ```cpp
 void FieldIncludeText_()
@@ -58,3 +57,8 @@ SharedPtr<FieldIncludeText> CreateFieldIncludeText(SharedPtr<DocumentBuilder> bu
 }
 ```
 
+## See Also
+
+* Class [FieldIncludeText](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

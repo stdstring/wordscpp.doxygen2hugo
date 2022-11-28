@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowLegendKey](.
 void Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowLegendKey(bool value)
 ```
 
+## See Also
+
+* Class [ChartDataLabel](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

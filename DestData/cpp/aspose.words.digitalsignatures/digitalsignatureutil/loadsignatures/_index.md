@@ -28,7 +28,6 @@ Collection of digital signatures. Returns empty collection if file is not signed
 
 
 
-
 Shows how to load signatures from a digitally signed document. 
 ```cpp
 // There are two ways of loading a signed document's collection of digital signatures using the DigitalSignatureUtil class.
@@ -46,6 +45,12 @@ ASSERT_EQ(1, digitalSignatures->get_Count());
 }
 ```
 
+## See Also
+
+* Class [DigitalSignatureCollection](../../digitalsignaturecollection/)
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::LoadSignatures(const System::String\&) method
 
 
@@ -65,7 +70,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureColle
 Collection of digital signatures. Returns empty collection if file is not signed.
 
 ## Examples
-
 
 
 
@@ -109,6 +113,12 @@ ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignat
 ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignatureUtil.LoadAndRemove.FromStream.docx")->get_Count());
 ```
 
+## See Also
+
+* Class [DigitalSignatureCollection](../../digitalsignaturecollection/)
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## DigitalSignatureUtil::LoadSignatures(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -118,3 +128,9 @@ ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignat
 template<typename CharType,typename Traits> static System::SharedPtr<Aspose::Words::DigitalSignatures::DigitalSignatureCollection> Aspose::Words::DigitalSignatures::DigitalSignatureUtil::LoadSignatures(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [DigitalSignatureCollection](../../digitalsignaturecollection/)
+* Class [DigitalSignatureUtil](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

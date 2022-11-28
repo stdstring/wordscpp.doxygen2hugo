@@ -15,3 +15,8 @@ Setter for [Aspose::Words::MailMerging::FieldMergingArgs::get_Text](../get_text/
 void Aspose::Words::MailMerging::FieldMergingArgs::set_Text(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldMergingArgs](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

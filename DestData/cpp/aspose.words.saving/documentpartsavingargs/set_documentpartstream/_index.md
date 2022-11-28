@@ -15,6 +15,11 @@ Setter for [Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStrea
 void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
+## See Also
+
+* Class [DocumentPartSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentPartSavingArgs::set_DocumentPartStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -24,3 +29,8 @@ void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(const
 template<typename CharType,typename Traits> void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream(std::basic_ostream<CharType, Traits> &value)
 ```
 
+## See Also
+
+* Class [DocumentPartSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

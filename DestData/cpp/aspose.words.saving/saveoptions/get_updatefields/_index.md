@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_UpdateFields() const
 
 
 
-
 Shows how to update all the fields in a document immediately before saving it to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ ASPOSE_ASSERT_NS(options, options->Clone());
 doc->Save(ArtifactsDir + u"PdfSaveOptions.UpdateFields.pdf", options);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

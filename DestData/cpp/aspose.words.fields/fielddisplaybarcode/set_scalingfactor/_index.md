@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor](../ge
 void Aspose::Words::Fields::FieldDisplayBarcode::set_ScalingFactor(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDisplayBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

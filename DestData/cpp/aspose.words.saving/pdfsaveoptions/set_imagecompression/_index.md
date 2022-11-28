@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Saving::PdfSaveOptions::get_ImageCompression](../get_
 void Aspose::Words::Saving::PdfSaveOptions::set_ImageCompression(Aspose::Words::Saving::PdfImageCompression value)
 ```
 
+## See Also
+
+* Enum [PdfImageCompression](../../pdfimagecompression/)
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

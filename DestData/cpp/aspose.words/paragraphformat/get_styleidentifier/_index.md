@@ -20,7 +20,6 @@ Aspose::Words::StyleIdentifier Aspose::Words::ParagraphFormat::get_StyleIdentifi
 
 
 
-
 Shows how to insert a Table of contents (TOC) into a document using heading styles as entries. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -67,3 +66,9 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertToc.docx");
 ```
 
+## See Also
+
+* Enum [StyleIdentifier](../../styleidentifier/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

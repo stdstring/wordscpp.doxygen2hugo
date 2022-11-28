@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Appearance](../get
 void Aspose::Words::Markup::StructuredDocumentTag::set_Appearance(Aspose::Words::Markup::SdtAppearance value)
 ```
 
+## See Also
+
+* Enum [SdtAppearance](../../sdtappearance/)
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

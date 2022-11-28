@@ -29,7 +29,6 @@ The newly created property object or null when the linkSource is invalid.
 
 
 
-
 Shows how to link a custom document property to a bookmark. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -51,3 +50,9 @@ ASPOSE_ASSERT_EQ(u"Hello world!", customProperty->get_Value());
 doc->Save(ArtifactsDir + u"DocumentProperties.LinkCustomDocumentPropertiesToBookmark.docx");
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [CustomDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

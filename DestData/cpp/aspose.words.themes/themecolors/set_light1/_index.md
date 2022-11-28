@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Themes::ThemeColors::get_Light1](../get_light1/).
 void Aspose::Words::Themes::ThemeColors::set_Light1(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [ThemeColors](../)
+* Namespace [Aspose::Words::Themes](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName](../get_im
 void Aspose::Words::Saving::ImageSavingArgs::set_ImageFileName(const System::String &value)
 ```
 
+## See Also
+
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

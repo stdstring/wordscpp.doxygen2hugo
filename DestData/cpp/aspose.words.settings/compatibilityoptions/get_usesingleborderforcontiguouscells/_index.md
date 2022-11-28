@@ -15,3 +15,8 @@ Use Simplified Rules For Table [Border](../../../aspose.words/border/) Conflicts
 bool Aspose::Words::Settings::CompatibilityOptions::get_UseSingleBorderforContiguousCells()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

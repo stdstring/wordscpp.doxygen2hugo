@@ -20,7 +20,6 @@ bool Aspose::Words::TabStop::Equals(const System::SharedPtr<Aspose::Words::TabSt
 
 
 
-
 Shows how to work with a document's collection of tab stops. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -59,3 +58,9 @@ ASSERT_EQ(0, paragraphs->idx_get(1)->get_ParagraphFormat()->get_TabStops()->get_
 doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 ```
 
+## See Also
+
+* Class [TabStop](../)
+* Class [TabStop](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Lists::ListLabel> Aspose::Words::Paragraph::get
 
 
 
-
 Shows how to extract the list labels of all paragraphs that are list items. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -51,3 +50,9 @@ for (auto paragraph : System::IterateOver(
 }
 ```
 
+## See Also
+
+* Class [ListLabel](../../../aspose.words.lists/listlabel/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

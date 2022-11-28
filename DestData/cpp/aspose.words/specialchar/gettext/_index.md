@@ -20,4 +20,8 @@ System::String Aspose::Words::SpecialChar::GetText() override
 
 The string that contains the character that this node represents.
 
+## See Also
 
+* Class [SpecialChar](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

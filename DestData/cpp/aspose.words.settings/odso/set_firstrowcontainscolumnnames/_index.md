@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames](../g
 void Aspose::Words::Settings::Odso::set_FirstRowContainsColumnNames(bool value)
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_LineNumberDistanceFromText](../get_lin
 void Aspose::Words::PageSetup::set_LineNumberDistanceFromText(double value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

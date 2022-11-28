@@ -20,7 +20,6 @@ Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::FileFontSource::get_T
 
 
 
-
 Shows how to use a font file in the local file system as a font source. 
 ```cpp
 auto fileFontSource = MakeObject<FileFontSource>(MyDir + u"Alte DIN 1451 Mittelschrift.ttf", 0);
@@ -34,3 +33,9 @@ ASSERT_EQ(FontSourceType::FontFile, fileFontSource->get_Type());
 ASSERT_EQ(0, fileFontSource->get_Priority());
 ```
 
+## See Also
+
+* Enum [FontSourceType](../../fontsourcetype/)
+* Class [FileFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

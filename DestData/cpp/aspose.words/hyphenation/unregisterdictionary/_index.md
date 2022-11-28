@@ -24,7 +24,6 @@ static void Aspose::Words::Hyphenation::UnregisterDictionary(const System::Strin
 
 
 
-
 Shows how to register a hyphenation dictionary. 
 ```cpp
 // A hyphenation dictionary contains a list of strings that define hyphenation rules for the dictionary's language.
@@ -56,3 +55,8 @@ doc = MakeObject<Document>(MyDir + u"German text.docx");
 doc->Save(ArtifactsDir + u"Hyphenation.Dictionary.Unregistered.pdf");
 ```
 
+## See Also
+
+* Class [Hyphenation](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

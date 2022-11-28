@@ -15,11 +15,12 @@ Gets the text to display in the run content in place of the [Value](../get_value
 System::String Aspose::Words::Markup::SdtListItem::get_DisplayText() const
 ```
 
+## Remarks
+
 
 Cannot be null and cannot be an empty string.
 
 ## Examples
-
 
 
 
@@ -79,3 +80,8 @@ listItems->Clear();
 ASSERT_EQ(0, listItems->get_Count());
 ```
 
+## See Also
+
+* Class [SdtListItem](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

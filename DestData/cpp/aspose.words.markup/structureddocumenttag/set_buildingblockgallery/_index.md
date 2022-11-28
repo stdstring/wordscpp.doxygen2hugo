@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGalle
 void Aspose::Words::Markup::StructuredDocumentTag::set_BuildingBlockGallery(const System::String &value)
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

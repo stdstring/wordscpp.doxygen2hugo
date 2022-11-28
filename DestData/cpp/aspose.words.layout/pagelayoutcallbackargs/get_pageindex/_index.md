@@ -20,7 +20,6 @@ int32_t Aspose::Words::Layout::PageLayoutCallbackArgs::get_PageIndex()
 
 
 
-
 Shows how to track layout changes with a layout callback. 
 ```cpp
 void PageLayoutCallback()
@@ -89,3 +88,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [PageLayoutCallbackArgs](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

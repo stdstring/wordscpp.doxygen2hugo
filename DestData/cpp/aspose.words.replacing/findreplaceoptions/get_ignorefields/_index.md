@@ -15,13 +15,14 @@ Gets or sets a boolean value indicating either to ignore text inside fields. The
 bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields() const
 ```
 
+## Remarks
 
-This option affects whole field (all nodes between **FieldStart** and **FieldEnd**).
+
+This option affects whole field (all nodes between [FieldStart](../../../aspose.words/nodetype/) and [FieldEnd](../../../aspose.words/nodetype/)).
 
 To ignore only field codes, please use corresponding option [IgnoreFieldCodes](../get_ignorefieldcodes/).
 
 ## Examples
-
 
 
 
@@ -49,3 +50,8 @@ ASSERT_EQ(ignoreTextInsideFields ? String(u"Greetings world!\r\u0013QUOTE\u0014H
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

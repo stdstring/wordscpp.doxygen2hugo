@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition](../
 void Aspose::Words::Drawing::ShapeBase::set_RelativeVerticalPosition(Aspose::Words::Drawing::RelativeVerticalPosition value)
 ```
 
+## See Also
+
+* Enum [RelativeVerticalPosition](../../relativeverticalposition/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

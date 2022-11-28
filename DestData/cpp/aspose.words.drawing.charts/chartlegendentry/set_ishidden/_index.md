@@ -15,3 +15,8 @@ Sets a value indicating whether this entry is hidden in the chart legend. The de
 void Aspose::Words::Drawing::Charts::ChartLegendEntry::set_IsHidden(bool value)
 ```
 
+## See Also
+
+* Class [ChartLegendEntry](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

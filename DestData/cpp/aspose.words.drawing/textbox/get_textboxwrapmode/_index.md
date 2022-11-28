@@ -15,11 +15,12 @@ Determines how text wraps inside a shape.
 Aspose::Words::Drawing::TextBoxWrapMode Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode()
 ```
 
+## Remarks
 
-The default value is **Square**.
+
+The default value is [Square](../../textboxwrapmode/).
 
 ## Examples
-
 
 
 
@@ -44,3 +45,9 @@ builder->Write(u"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 doc->Save(ArtifactsDir + u"Shape.TextBoxContentsWrapMode.docx");
 ```
 
+## See Also
+
+* Enum [TextBoxWrapMode](../../textboxwrapmode/)
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

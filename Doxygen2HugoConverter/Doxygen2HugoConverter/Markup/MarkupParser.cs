@@ -26,7 +26,10 @@ namespace Doxygen2HugoConverter.Markup
                             case "para":
                                 SimpleMarkupEntry paragraphStart = new SimpleMarkupEntry.ParagraphStartEntry();
                                 SimpleMarkupEntry paragraphEnd = new SimpleMarkupEntry.ParagraphEndEntry();
-                                return elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).CreateFrame(paragraphStart, paragraphEnd);
+                                IList<SimpleMarkupEntry> innerEntries = elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).ToList();
+                                return innerEntries.IsEmpty() ?
+                                    EnumerableUtils.CreateSingle(new SimpleMarkupEntry.LineBreakEntry()) :
+                                    innerEntries.CreateFrame(paragraphStart, paragraphEnd);
                             // TODO (std_string) : think about special processing of computeroutput node
                             case "computeroutput":
                             case "bold":
@@ -63,21 +66,24 @@ namespace Doxygen2HugoConverter.Markup
                         switch (elementNode.Name.LocalName)
                         {
                             case "para":
-                                DetailedDescriptionMarkupEntry paragraphStart = new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.ParagraphStartEntry());
-                                DetailedDescriptionMarkupEntry paragraphEnd = new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.ParagraphEndEntry());
-                                return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).CreateFrame(paragraphStart, paragraphEnd);
+                                DetailedDescriptionMarkupEntry paragraphStart = new DetailedDescriptionMarkupEntry.ParagraphStartEntry();
+                                DetailedDescriptionMarkupEntry paragraphEnd = new DetailedDescriptionMarkupEntry.ParagraphEndEntry();
+                                IList<DetailedDescriptionMarkupEntry> innerEntries = elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList();
+                                return innerEntries.IsEmpty() ?
+                                    EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.LineBreakEntry()) :
+                                    innerEntries.CreateFrame(paragraphStart, paragraphEnd);
                             // TODO (std_string) : think about special processing of computeroutput node
                             case "computeroutput":
                             case "bold":
-                                DetailedDescriptionMarkupEntry boldStart = new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.BoldStartEntry());
-                                DetailedDescriptionMarkupEntry boldEnd = new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.BoldEndEntry());
+                                DetailedDescriptionMarkupEntry boldStart = new DetailedDescriptionMarkupEntry.BoldStartEntry();
+                                DetailedDescriptionMarkupEntry boldEnd = new DetailedDescriptionMarkupEntry.BoldEndEntry();
                                 return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).CreateFrame(boldStart, boldEnd);
                             case "ref":
-                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.RefEntry(elementNode.ParseMarkupRef())));
+                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.RefEntry(elementNode.ParseMarkupRef()));
                             case "ulink":
-                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.ExternalLinkEntry(elementNode.ParseExternalLink())));
+                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.ExternalLinkEntry(elementNode.ParseExternalLink()));
                             case "linebreak":
-                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.LineBreakEntry()));
+                                return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.LineBreakEntry());
                             case "title":
                                 return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.TitleEntry(elementNode.Value));
                             case "simplesect":
@@ -104,12 +110,12 @@ namespace Doxygen2HugoConverter.Markup
                                 throw new InvalidOperationException($"Unexpected DetailedDescriptionMarkupEntry XML element named \"{elementNode.Name}\"");
                         }
                     case XText textNode:
-                        return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.SimpleMarkupPartEntry(new SimpleMarkupEntry.TextEntry(textNode.Value)));
+                        return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.TextEntry(textNode.Value));
                     default:
                         throw new InvalidOperationException($"Unexpected DetailedDescriptionMarkupEntry XML node with type {node.NodeType}");
                 }
             }
-            return source.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList();
+            return source.Nodes().SelectMany(ParseDetailedDescriptionImpl).ToList().PostProcessDetailedDescription().ToList();
         }
 
         public static ClassDetailedDescription ParseClassDetailedDescription(this XElement source)
@@ -221,5 +227,29 @@ namespace Doxygen2HugoConverter.Markup
 
         private static MethodArgs ParseMethodArgs(XElement source) =>
             source.Elements("parameteritem").Select(ParseMethodArg).ToList();
+
+        private static IEnumerable<DetailedDescriptionMarkupEntry> PostProcessDetailedDescription(this IList<DetailedDescriptionMarkupEntry> source)
+        {
+            Boolean IsTextFirst()
+            {
+                foreach (DetailedDescriptionMarkupEntry entry in source)
+                {
+                    switch (entry)
+                    {
+                        case DetailedDescriptionMarkupEntry.TitleEntry:
+                            return false;
+                        case DetailedDescriptionMarkupEntry.TextEntry:
+                        case DetailedDescriptionMarkupEntry.RefEntry:
+                        case DetailedDescriptionMarkupEntry.ExternalLinkEntry:
+                        case DetailedDescriptionMarkupEntry.CodeBlockEntry:
+                        case DetailedDescriptionMarkupEntry.ListEntry:
+                            return true;
+                    }
+                }
+                return false;
+            }
+            // we insert title "Remarks" if detailed description isn't started with other title
+            return IsTextFirst() ? EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.TitleEntry("Remarks")).Concat(source) : source;
+        }
     }
 }

@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows advances ways of customizing list labels. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,3 +80,9 @@ builder->get_ListFormat()->RemoveNumbers();
 doc->Save(ArtifactsDir + u"Lists.CreateListRestartAfterHigher.docx");
 ```
 
+## See Also
+
+* Class [ListLevel](../../listlevel/)
+* Class [ListLevelCollection](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

@@ -25,7 +25,12 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 An instance of [CertificateHolder](../)
 
+## See Also
 
+* Class [CertificateHolder](../)
+* Class [CertificateHolder](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## CertificateHolder::Create(const System::ArrayPtr\<uint8_t\>\&, const System::String\&) method
 
 
@@ -45,7 +50,12 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 An instance of [CertificateHolder](../)
 
+## See Also
 
+* Class [CertificateHolder](../)
+* Class [CertificateHolder](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## CertificateHolder::Create(const System::String\&, const System::String\&) method
 
 
@@ -66,7 +76,6 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 An instance of [CertificateHolder](../)
 
 ## Examples
-
 
 
 
@@ -92,6 +101,12 @@ signOptions->set_SignTime(System::DateTime::get_Now());
 }
 ```
 
+## See Also
+
+* Class [CertificateHolder](../)
+* Class [CertificateHolder](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)
 ## CertificateHolder::Create(const System::String\&, const System::String\&, const System::String\&) method
 
 
@@ -112,4 +127,9 @@ static System::SharedPtr<Aspose::Words::DigitalSignatures::CertificateHolder> As
 
 An instance of [CertificateHolder](../)
 
+## See Also
 
+* Class [CertificateHolder](../)
+* Class [CertificateHolder](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

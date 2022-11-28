@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Layout::RevisionOptions> Aspose::Words::Layout:
 
 
 
-
 Shows how to alter the appearance of revisions in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,9 @@ doc->get_LayoutOptions()->get_RevisionOptions()->set_ShowRevisionBars(false);
 doc->Save(ArtifactsDir + u"Document.LayoutOptionsRevisions.pdf");
 ```
 
+## See Also
+
+* Class [RevisionOptions](../../revisionoptions/)
+* Class [LayoutOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

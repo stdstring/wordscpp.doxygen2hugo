@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldUserInitials::get_UserInitials](../get_u
 void Aspose::Words::Fields::FieldUserInitials::set_UserInitials(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldUserInitials](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

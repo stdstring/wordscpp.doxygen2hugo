@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::CellFormat::get_WrapText](../get_wraptext/).
 void Aspose::Words::Tables::CellFormat::set_WrapText(bool value)
 ```
 
+## See Also
+
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

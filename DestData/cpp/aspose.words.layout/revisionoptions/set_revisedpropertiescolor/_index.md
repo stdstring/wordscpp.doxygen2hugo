@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesColor](
 void Aspose::Words::Layout::RevisionOptions::set_RevisedPropertiesColor(Aspose::Words::Layout::RevisionColor value)
 ```
 
+## See Also
+
+* Enum [RevisionColor](../../revisioncolor/)
+* Class [RevisionOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

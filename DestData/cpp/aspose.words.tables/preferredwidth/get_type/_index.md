@@ -20,7 +20,6 @@ Aspose::Words::Tables::PreferredWidthType Aspose::Words::Tables::PreferredWidth:
 
 
 
-
 Shows how to verify the preferred width type and value of a table cell. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -32,3 +31,9 @@ ASSERT_EQ(PreferredWidthType::Percent, firstCell->get_CellFormat()->get_Preferre
 ASPOSE_ASSERT_EQ(11.16, firstCell->get_CellFormat()->get_PreferredWidth()->get_Value());
 ```
 
+## See Also
+
+* Enum [PreferredWidthType](../../preferredwidthtype/)
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

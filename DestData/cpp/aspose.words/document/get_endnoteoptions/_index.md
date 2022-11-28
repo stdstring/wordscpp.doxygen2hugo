@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Notes::EndnoteOptions> Aspose::Words::Document:
 
 
 
-
 Shows how to select a different place where the document collects and displays its endnotes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -188,3 +187,9 @@ doc->get_EndnoteOptions()->set_StartNumber(50);
 doc->Save(ArtifactsDir + u"InlineStory.StartNumber.docx");
 ```
 
+## See Also
+
+* Class [EndnoteOptions](../../../aspose.words.notes/endnoteoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

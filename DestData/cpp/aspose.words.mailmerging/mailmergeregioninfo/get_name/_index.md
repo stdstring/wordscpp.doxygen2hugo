@@ -20,7 +20,6 @@ System::String Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name() const
 
 
 
-
 Shows how to verify mail merge regions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Mail merge regions.docx");
@@ -60,3 +59,8 @@ SharedPtr<FieldMergeField> endFieldMergeField = nestedRegions->idx_get(0)->get_E
 ASSERT_EQ(u"TableEnd:NestedRegion1", endFieldMergeField->get_FieldName());
 ```
 
+## See Also
+
+* Class [MailMergeRegionInfo](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

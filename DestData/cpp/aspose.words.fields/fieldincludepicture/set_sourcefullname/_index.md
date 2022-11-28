@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIncludePicture::get_SourceFullName](../g
 void Aspose::Words::Fields::FieldIncludePicture::set_SourceFullName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIncludePicture](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

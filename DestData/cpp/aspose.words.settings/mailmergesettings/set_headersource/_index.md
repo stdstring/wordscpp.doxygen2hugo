@@ -15,3 +15,8 @@ Specifies the path to the mail-merge header source. The default value is an empt
 void Aspose::Words::Settings::MailMergeSettings::set_HeaderSource(const System::String &value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

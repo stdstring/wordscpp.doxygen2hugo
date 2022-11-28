@@ -15,6 +15,8 @@ Gets the text of this paragraph including the end of paragraph character.
 System::String Aspose::Words::Paragraph::GetText() override
 ```
 
+## Remarks
+
 
 The text of all child nodes is concatenated and the end of paragraph character is appended as follows:
 
@@ -27,7 +29,6 @@ The text of all child nodes is concatenated and the end of paragraph character i
 The returned string includes all control and special characters as described in [ControlChar](../../controlchar/).
 
 ## Examples
-
 
 
 
@@ -78,3 +79,8 @@ ASSERT_EQ(u"Run 1. Updated run 2. Run 3.", paragraph->GetText().Trim());
 ASSERT_EQ(3, paragraph->GetChildNodes(NodeType::Any, true)->get_Count());
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

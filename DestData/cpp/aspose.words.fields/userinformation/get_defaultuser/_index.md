@@ -20,7 +20,6 @@ static System::SharedPtr<Aspose::Words::Fields::UserInformation> Aspose::Words::
 
 
 
-
 Shows how to set user details, and display them using fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,9 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"FieldOptions.CurrentUser.docx");
 ```
 
+## See Also
+
+* Class [UserInformation](../)
+* Class [UserInformation](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -19,13 +19,14 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::Node>> Aspose::Words::NodeColl
 ### ReturnValue
 
 An array of nodes.
+## Remarks
+
 
 You should not be adding/removing nodes while iterating over a collection of nodes because it invalidates the iterator and requires refreshes for live collections.
 
 To be able to add/remove nodes during iteration, use this method to copy nodes into a fixed-size array and then iterate over the array.
 
 ## Examples
-
 
 
 
@@ -76,3 +77,9 @@ ASSERT_EQ(4, shapes->LINQ_Count(isImage));
 doc->Save(ArtifactsDir + u"Shape.ReplaceTextboxesWithImages.docx");
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [NodeCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

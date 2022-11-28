@@ -20,7 +20,6 @@ void Aspose::Words::Vba::VbaModuleCollection::Add(const System::SharedPtr<Aspose
 
 
 
-
 Shows how to create a VBA project using macros. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,9 @@ doc->get_VbaProject()->get_Modules()->Add(module_);
 doc->Save(ArtifactsDir + u"VbaProject.CreateVBAMacros.docm");
 ```
 
+## See Also
+
+* Class [VbaModule](../../vbamodule/)
+* Class [VbaModuleCollection](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

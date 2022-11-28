@@ -15,3 +15,8 @@ Specifies whether to set the width of a space as is done in WordPerfect 5.x.
 void Aspose::Words::Settings::CompatibilityOptions::set_WPSpaceWidth(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

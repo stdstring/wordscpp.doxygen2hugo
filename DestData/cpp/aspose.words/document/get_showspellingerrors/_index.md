@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_ShowSpellingErrors()
 
 
 
-
 Shows how to show/hide errors in the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,8 @@ doc->set_ShowSpellingErrors(showErrors);
 doc->Save(ArtifactsDir + u"Document.SpellingAndGrammarErrors.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

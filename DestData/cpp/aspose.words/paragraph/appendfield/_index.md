@@ -29,7 +29,6 @@ A [Field](../../../aspose.words.fields/field/) object that represents the append
 
 
 
-
 Shows various ways of appending fields to a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -55,6 +54,13 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
+## See Also
+
+* Class [Field](../../../aspose.words.fields/field/)
+* Enum [FieldType](../../../aspose.words.fields/fieldtype/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Paragraph::AppendField(const System::String\&) method
 
 
@@ -77,7 +83,6 @@ A [Field](../../../aspose.words.fields/field/) object that represents the append
 
 
 
-
 Shows various ways of appending fields to a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -103,6 +108,12 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
+## See Also
+
+* Class [Field](../../../aspose.words.fields/field/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Paragraph::AppendField(const System::String\&, const System::String\&) method
 
 
@@ -126,7 +137,6 @@ A [Field](../../../aspose.words.fields/field/) object that represents the append
 
 
 
-
 Shows various ways of appending fields to a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -152,3 +162,9 @@ ASSERT_EQ(u"Real value", doc->get_Range()->get_Fields()->idx_get(2)->get_Result(
 doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 ```
 
+## See Also
+
+* Class [Field](../../../aspose.words.fields/field/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

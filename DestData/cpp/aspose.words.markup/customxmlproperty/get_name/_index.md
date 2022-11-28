@@ -15,13 +15,14 @@ Specifies the name of the custom XML attribute or smart tag property.
 System::String Aspose::Words::Markup::CustomXmlProperty::get_Name() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 
 Default is empty string.
 
 ## Examples
-
 
 
 
@@ -114,3 +115,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [CustomXmlProperty](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

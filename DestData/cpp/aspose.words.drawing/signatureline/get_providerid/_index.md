@@ -15,6 +15,8 @@ Gets or sets signature provider identifier for this signature line. Default valu
 System::Guid Aspose::Words::Drawing::SignatureLine::get_ProviderId()
 ```
 
+## Remarks
+
 
 The cryptographic service provider (CSP) is an independent software module that actually performs cryptography algorithms for authentication, encoding, and encryption. MS Office reserves the value of {00000000-0000-0000-0000-000000000000} for its default signature provider.
 
@@ -23,7 +25,6 @@ The GUID of the additionally installed provider should be obtained from the docu
 In addition, all the installed cryptographic providers are enumerated in windows registry. It can be found in the following path: HKLM\SOFTWARE\**Microsoft**\Cryptography\Defaults\Provider. There is a key name "CP Service UUID" which corresponds to a GUID of signature provider.
 
 ## Examples
-
 
 
 
@@ -70,3 +71,8 @@ ASSERT_TRUE(signatureLine->get_IsSigned());
 ASSERT_TRUE(signatureLine->get_IsValid());
 ```
 
+## See Also
+
+* Class [SignatureLine](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

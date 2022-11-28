@@ -15,6 +15,8 @@ Specifies the name of the folder used to construct font URIs written into an HTM
 System::String Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias() const
 ```
 
+## Remarks
+
 
 When you save a [Document](../../../aspose.words/document/) in HTML format and [ExportFontResources](../get_exportfontresources/) is set to **true**, Aspose.Words needs to save fonts used in the document as standalone files. [FontsFolder](../get_fontsfolder/) allows you to specify where the fonts will be saved and [FontsFolderAlias](./) allows to specify how the font URIs will be constructed.
 
@@ -27,7 +29,6 @@ If [FontsFolderAlias](./) is set to '.' (dot), then the font file name will be w
 Alternative way to specify the name of the folder to construct font URIs is to use [ResourceFolderAlias](../get_resourcefolderalias/).
 
 ## Examples
-
 
 
 
@@ -51,3 +52,8 @@ options->set_ExportOriginalUrlForLinkedImages(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.FolderAlias.html", options);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

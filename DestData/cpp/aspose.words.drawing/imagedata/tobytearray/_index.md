@@ -15,11 +15,12 @@ Returns image bytes for any image regardless whether the image is stored or link
 System::ArrayPtr<uint8_t> Aspose::Words::Drawing::ImageData::ToByteArray()
 ```
 
+## Remarks
+
 
 If the image is linked, downloads the image every time it is called.
 
 ## Examples
-
 
 
 
@@ -45,3 +46,8 @@ ASPOSE_ASSERT_EQ(imgShape->get_ImageData()->get_ImageBytes(), imgShape->get_Imag
 }
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

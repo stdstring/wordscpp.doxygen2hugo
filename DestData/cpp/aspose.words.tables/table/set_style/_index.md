@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Tables::Table::get_Style](../get_style/).
 void Aspose::Words::Tables::Table::set_Style(const System::SharedPtr<Aspose::Words::Style> &value)
 ```
 
+## See Also
+
+* Class [Style](../../../aspose.words/style/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

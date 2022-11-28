@@ -20,7 +20,6 @@ void Aspose::Words::Document::AcceptAllRevisions()
 
 
 
-
 Shows how to accept all tracking changes in the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -43,3 +42,8 @@ ASSERT_EQ(0, doc->get_Revisions()->get_Count());
 ASSERT_EQ(u"Hello world! Hello again! This is another revision.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

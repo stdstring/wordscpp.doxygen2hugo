@@ -15,3 +15,8 @@ Emulate Word 6.x/95/97 Footnote Placement.
 bool Aspose::Words::Settings::CompatibilityOptions::get_FootnoteLayoutLikeWW8()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

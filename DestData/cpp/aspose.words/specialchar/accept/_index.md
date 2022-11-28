@@ -23,9 +23,16 @@ bool Aspose::Words::SpecialChar::Accept(System::SharedPtr<Aspose::Words::Documen
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [DocumentVisitor.VisitSpecialChar](../../documentvisitor/visitspecialchar/).
 
 For more info see the Visitor design pattern.
 
+## See Also
 
+* Class [DocumentVisitor](../../documentvisitor/)
+* Class [SpecialChar](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

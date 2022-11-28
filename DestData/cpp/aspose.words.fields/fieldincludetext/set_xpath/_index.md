@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIncludeText::get_XPath](../get_xpath/).
 void Aspose::Words::Fields::FieldIncludeText::set_XPath(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIncludeText](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

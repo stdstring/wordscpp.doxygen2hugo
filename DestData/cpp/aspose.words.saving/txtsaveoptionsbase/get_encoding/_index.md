@@ -20,7 +20,6 @@ System::SharedPtr<System::Text::Encoding> Aspose::Words::Saving::TxtSaveOptionsB
 
 
 
-
 Shows how to set encoding for a .txt output document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -50,3 +49,8 @@ docText = System::Text::Encoding::get_ASCII()->GetString(System::IO::File::ReadA
 ASSERT_EQ(u"? ? ? ? ?.\r\n", docText);
 ```
 
+## See Also
+
+* Class [TxtSaveOptionsBase](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

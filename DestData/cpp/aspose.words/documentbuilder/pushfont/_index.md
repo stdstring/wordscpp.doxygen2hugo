@@ -20,7 +20,6 @@ void Aspose::Words::DocumentBuilder::PushFont()
 
 
 
-
 Shows how to use a document builder's formatting stack. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -52,3 +51,8 @@ builder->Write(u". We hope you enjoyed the example.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.PushPopFont.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,13 +15,14 @@ Gets or sets a value indicating whether the border has a shadow.
 bool Aspose::Words::BorderCollection::get_Shadow()
 ```
 
+## Remarks
+
 
 Gets the value from the first border in the collection.
 
 Sets the value for all borders in the collection excluding diagonal borders.
 
 ## Examples
-
 
 
 
@@ -39,3 +40,8 @@ pageSetup->get_Borders()->set_Shadow(true);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorders.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

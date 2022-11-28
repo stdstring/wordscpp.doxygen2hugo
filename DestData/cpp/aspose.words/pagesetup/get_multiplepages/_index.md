@@ -20,7 +20,6 @@ Aspose::Words::Settings::MultiplePagesType Aspose::Words::PageSetup::get_Multipl
 
 
 
-
 Shows how to set gutter margins. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -80,3 +79,9 @@ pageSetup->set_SheetsPerBooklet(4);
 doc->Save(ArtifactsDir + u"PageSetup.Booklet.docx");
 ```
 
+## See Also
+
+* Enum [MultiplePagesType](../../../aspose.words.settings/multiplepagestype/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

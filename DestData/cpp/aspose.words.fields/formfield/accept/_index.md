@@ -23,13 +23,14 @@ bool Aspose::Words::Fields::FormField::Accept(System::SharedPtr<Aspose::Words::D
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [DocumentVisitor.VisitFormField](../../../aspose.words/documentvisitor/visitformfield/).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -162,3 +163,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

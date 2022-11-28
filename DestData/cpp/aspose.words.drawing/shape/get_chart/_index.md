@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::Chart> Aspose::Words::Drawing:
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()
@@ -131,3 +130,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Chart](../../../aspose.words.drawing.charts/chart/)
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

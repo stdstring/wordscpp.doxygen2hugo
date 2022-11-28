@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes()
 
 
 
-
 Shows how to display the file size of a document with a FILESIZE field. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -63,3 +62,8 @@ ASSERT_EQ(u"0", field->get_Result());
 doc->Save(ArtifactsDir + u"Field.FILESIZE.docx");
 ```
 
+## See Also
+
+* Class [FieldFileSize](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

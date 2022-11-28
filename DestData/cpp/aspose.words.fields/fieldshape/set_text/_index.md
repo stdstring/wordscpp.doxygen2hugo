@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldShape::get_Text](../get_text/).
 void Aspose::Words::Fields::FieldShape::set_Text(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldShape](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

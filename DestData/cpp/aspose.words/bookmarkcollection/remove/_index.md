@@ -24,7 +24,6 @@ void Aspose::Words::BookmarkCollection::Remove(const System::SharedPtr<Aspose::W
 
 
 
-
 Shows how to remove bookmarks from a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,6 +77,12 @@ ASSERT_EQ(String(u"Text inside MyBookmark_1.\r") + u"Text inside MyBookmark_2.\r
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Bookmark](../../bookmark/)
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## BookmarkCollection::Remove(const System::String\&) method
 
 
@@ -96,7 +101,6 @@ void Aspose::Words::BookmarkCollection::Remove(const System::String &bookmarkNam
 
 
 
-
 Shows how to remove bookmarks from a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -150,3 +154,8 @@ ASSERT_EQ(String(u"Text inside MyBookmark_1.\r") + u"Text inside MyBookmark_2.\r
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [BookmarkCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

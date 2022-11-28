@@ -20,7 +20,6 @@ void Aspose::Words::Tables::Row::EnsureMinimum()
 
 
 
-
 Shows how to ensure a row node contains the nodes we need to begin adding content to it. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,8 @@ row->EnsureMinimum();
 row->get_FirstCell()->get_FirstParagraph()->AppendChild(MakeObject<Run>(doc, u"Hello world!"));
 ```
 
+## See Also
+
+* Class [Row](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_WrapSide](../get_wrapside/).
 void Aspose::Words::Drawing::ShapeBase::set_WrapSide(Aspose::Words::Drawing::WrapSide value)
 ```
 
+## See Also
+
+* Enum [WrapSide](../../wrapside/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

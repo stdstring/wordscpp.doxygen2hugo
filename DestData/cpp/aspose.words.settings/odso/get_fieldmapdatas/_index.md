@@ -15,3 +15,9 @@ Gets a collection of objects that specify how columns from the external data sou
 System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapDataCollection> Aspose::Words::Settings::Odso::get_FieldMapDatas() const
 ```
 
+## See Also
+
+* Class [OdsoFieldMapDataCollection](../../odsofieldmapdatacollection/)
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

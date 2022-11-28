@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Drawing::ShapeBase::g
 
 
 
-
 Shows how to insert a text box, and set the font of its contents. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,9 @@ builder->Writeln(u"\nThis text is outside the text box.");
 doc->Save(ArtifactsDir + u"Shape.Font.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../../../aspose.words/paragraph/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

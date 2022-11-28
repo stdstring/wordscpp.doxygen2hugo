@@ -15,11 +15,12 @@ Controls whether [Shape](../../../aspose.words.drawing/shape/) nodes are convert
 bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportShapesAsSvg() const
 ```
 
+## Remarks
+
 
 If this option is set to **true**, [Shape](../../../aspose.words.drawing/shape/) nodes are exported as <svg> elements. Otherwise, they are rendered to bitmaps and are exported as <img> elements.
 
 ## Examples
-
 
 
 
@@ -60,3 +61,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

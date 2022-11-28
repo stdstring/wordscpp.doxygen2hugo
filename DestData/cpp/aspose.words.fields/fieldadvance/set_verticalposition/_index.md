@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAdvance::get_VerticalPosition](../get_ve
 void Aspose::Words::Fields::FieldAdvance::set_VerticalPosition(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAdvance](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

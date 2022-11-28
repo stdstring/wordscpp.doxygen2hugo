@@ -20,7 +20,6 @@ bool Aspose::Words::MailMerging::MailMerge::get_TrimWhitespaces() const
 
 
 
-
 Shows how to trim whitespaces from values of a data source while executing a mail merge. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -35,3 +34,8 @@ doc->get_MailMerge()->Execute(MakeArray<String>({u"myMergeField"}),
 ASSERT_EQ(trimWhitespaces ? String(u"hello world!\f") : String(u"\t hello world! \f"), doc->GetText());
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

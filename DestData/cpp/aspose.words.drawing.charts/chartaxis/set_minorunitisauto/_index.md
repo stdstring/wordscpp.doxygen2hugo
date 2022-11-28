@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitIsAuto](../g
 void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitIsAuto(bool value)
 ```
 
+## See Also
+
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

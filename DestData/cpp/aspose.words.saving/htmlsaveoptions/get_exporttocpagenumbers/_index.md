@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlSaveOptions::get_ExportTocPageNumbers() const
 
 
 
-
 Shows how to display page numbers when saving a document with a table of contents to .html. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -71,3 +70,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

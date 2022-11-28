@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::Tables::RowFor
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,3 +80,9 @@ builder->EndTable();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTable.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../../../aspose.words/bordercollection/)
+* Class [RowFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ Aspose::Words::DropCapPosition Aspose::Words::ParagraphFormat::get_DropCapPositi
 
 
 
-
 Shows how to nest a list inside another list. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -69,3 +68,9 @@ builder->get_ParagraphFormat()->ClearFormatting();
 builder->get_Document()->Save(ArtifactsDir + u"Lists.NestedLists.docx");
 ```
 
+## See Also
+
+* Enum [DropCapPosition](../../dropcapposition/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

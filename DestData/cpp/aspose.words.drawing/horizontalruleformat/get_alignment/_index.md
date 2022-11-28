@@ -15,11 +15,12 @@ Gets or sets the alignment of the horizontal rule.
 Aspose::Words::Drawing::HorizontalRuleAlignment Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment()
 ```
 
+## Remarks
 
-The default value is **Left**.
+
+The default value is [Left](../../horizontalrulealignment/).
 
 ## Examples
-
 
 
 
@@ -40,3 +41,9 @@ ASSERT_TRUE(shape->get_IsHorizontalRule());
 ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
 ```
 
+## See Also
+
+* Enum [HorizontalRuleAlignment](../../horizontalrulealignment/)
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -19,11 +19,12 @@ virtual void Aspose::Words::Layout::IPageLayoutCallback::Notify(System::SharedPt
 | Parameter | Type | Description |
 | --- | --- | --- |
 | args | System::SharedPtr\<Aspose::Words::Layout::PageLayoutCallbackArgs\> | An argument of the event. |
+## Remarks
+
 
 Exception when thrown by implementation aborts layout build process.
 
 ## Examples
-
 
 
 
@@ -95,3 +96,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [PageLayoutCallbackArgs](../../pagelayoutcallbackargs/)
+* Interface [IPageLayoutCallback](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

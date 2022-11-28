@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel()
 
 
 
-
 Shows create numbering using SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -79,3 +78,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SEQ.ResetNumbering.docx");
 ```
 
+## See Also
+
+* Class [FieldSeq](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

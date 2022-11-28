@@ -15,3 +15,8 @@ Specifies the text which shall appear in the subject line of the e-mails or faxe
 System::String Aspose::Words::Settings::MailMergeSettings::get_MailSubject() const
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ Defines alternative text to be displayed instead of a graphic.
 System::String Aspose::Words::Drawing::ShapeBase::get_AlternativeText()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 
 ## Examples
-
 
 
 
@@ -41,3 +42,8 @@ doc->Save(ArtifactsDir + u"Shape.AltText.html");
 System::IO::File::Delete(ArtifactsDir + u"Shape.AltText.001.png");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty() const
 
 
 
-
 Shows how to update a document's "Last printed" property when saving. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -62,3 +61,8 @@ doc = MakeObject<Document>(ArtifactsDir + u"DocSaveOptions.UpdateCreatedTimeProp
 ASPOSE_ASSERT_NE(isUpdateCreatedTimeProperty, System::DateTime(2019, 12, 20) == doc->get_BuiltInDocumentProperties()->get_CreatedTime());
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldPrintDate::get_UseSakaEraCalendar()
 
 
 
-
 Shows read PRINTDATE fields. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Field sample - PRINTDATE.docx");
@@ -57,3 +56,8 @@ ASSERT_EQ(u"1/5/1942 12:00:00 AM", field->get_Result());
 ASSERT_EQ(u" PRINTDATE  \\s", field->GetFieldCode());
 ```
 
+## See Also
+
+* Class [FieldPrintDate](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

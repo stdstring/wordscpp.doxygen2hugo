@@ -15,6 +15,8 @@ Returns true if this list is a definition of a list style.
 bool Aspose::Words::Lists::List::get_IsListStyleDefinition()
 ```
 
+## Remarks
+
 
 When this property is true, the [Style](../get_style/) property returns the list style that this list defines.
 
@@ -23,7 +25,6 @@ By modifying properties of a list that defines a list style, you modify the prop
 A list that is a definition of a list style cannot be applied directly to paragraphs to make them numbered.
 
 ## Examples
-
 
 
 
@@ -82,3 +83,8 @@ builder->get_ListFormat()->RemoveNumbers();
 builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx");
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

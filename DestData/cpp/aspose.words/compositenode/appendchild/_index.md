@@ -23,13 +23,14 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::CompositeNode::AppendChild
 ### ReturnValue
 
 The node added.
+## Remarks
+
 
 If the newChild is already in the tree, it is first removed.
 
-If the node being inserted was created from another document, you should use **ImportNode()** to import the node to the current document. The imported node can then be inserted into the current document.
+If the node being inserted was created from another document, you should use [ImportNode()](../) to import the node to the current document. The imported node can then be inserted into the current document.
 
 ## Examples
-
 
 
 
@@ -77,3 +78,9 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

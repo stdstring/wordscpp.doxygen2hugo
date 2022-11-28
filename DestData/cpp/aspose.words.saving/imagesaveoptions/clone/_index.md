@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::ImageSaveOptions> Aspose::Words::Saving
 
 
 
-
 Shows how to select a bit-per-pixel rate with which to render a document to an image. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -44,3 +43,9 @@ ASPOSE_ASSERT_NE(imageSaveOptions, imageSaveOptions->Clone());
 doc->Save(ArtifactsDir + u"ImageSaveOptions.PixelFormat.png", imageSaveOptions);
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

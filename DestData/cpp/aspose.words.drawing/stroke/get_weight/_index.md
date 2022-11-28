@@ -15,11 +15,12 @@ Defines the brush thickness that strokes the path of a shape in points.
 double Aspose::Words::Drawing::Stroke::get_Weight()
 ```
 
+## Remarks
+
 
 The default value for a [Shape](../../shape/) is 0.75.
 
 ## Examples
-
 
 
 
@@ -49,3 +50,8 @@ stroke->set_LineStyle(ShapeLineStyle::Triple);
 doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Lists::List::get_IsRestartAtEachSection](../get_isres
 void Aspose::Words::Lists::List::set_IsRestartAtEachSection(bool value)
 ```
 
+## See Also
+
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

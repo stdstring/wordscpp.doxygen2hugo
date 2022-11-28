@@ -15,11 +15,12 @@ Gets the name of the font.
 System::String Aspose::Words::Fonts::FontInfo::get_Name() const
 ```
 
+## Remarks
+
 
 Cannot be **null**. Can be an empty string.
 
 ## Examples
-
 
 
 
@@ -38,3 +39,8 @@ for (int i = 0; i < allFonts->get_Count(); i++)
 }
 ```
 
+## See Also
+
+* Class [FontInfo](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

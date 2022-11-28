@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Shading> Aspose::Words::ParagraphFormat::get_Sh
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,9 @@ builder->Write(u"This paragraph is formatted with a double border and shading.")
 doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 ```
 
+## See Also
+
+* Class [Shading](../../shading/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

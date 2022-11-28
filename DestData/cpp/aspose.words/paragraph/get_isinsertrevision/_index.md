@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsInsertRevision()
 
 
 
-
 Shows how to work with revision paragraphs. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -61,3 +60,8 @@ ASSERT_EQ(0, para->get_Count());
 ASSERT_EQ(String(u"Paragraph 1. \r") + u"Paragraph 2. \r" + u"Paragraph 4.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,6 +15,8 @@ Determines the display order of overlapping shapes.
 int32_t Aspose::Words::Drawing::ShapeBase::get_ZOrder()
 ```
 
+## Remarks
+
 
 Has effect only for top level shapes.
 
@@ -27,7 +29,6 @@ The order of overlapping shapes is independent for shapes in the header and in t
 The display order of child shapes in a group shape is determined by their order inside the group shape.
 
 ## Examples
-
 
 
 
@@ -67,3 +68,8 @@ shapes[2]->set_ZOrder(1);
 doc->Save(ArtifactsDir + u"Shape.ZOrder.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

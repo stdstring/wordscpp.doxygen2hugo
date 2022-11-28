@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Loading::ResourceLoadingArgs::get_Uri](../get_uri/).
 void Aspose::Words::Loading::ResourceLoadingArgs::set_Uri(const System::String &value)
 ```
 
+## See Also
+
+* Class [ResourceLoadingArgs](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

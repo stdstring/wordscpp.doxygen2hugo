@@ -29,7 +29,6 @@ The culture object that should be used for the field's update.
 
 
 
-
 Shows how to specify a culture which parses date/time formatting for each field. 
 ```cpp
 void DefineDateTimeFormatting()
@@ -93,3 +92,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [Field](../../field/)
+* Interface [IFieldUpdateCultureProvider](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ static System::String & Aspose::Words::ControlChar::Cr()
 
 
 
-
 Shows how to use control characters. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ ASSERT_EQ(String::Format(u"Hello world!{0}", ControlChar::Cr()) + String::Format
 ASSERT_EQ(String::Format(u"Hello world!{0}", ControlChar::Cr()) + u"Hello again!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [ControlChar](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

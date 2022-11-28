@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldXE::get_IsItalic()
 
 
 
-
 Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -86,3 +85,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 ```
 
+## See Also
+
+* Class [FieldXE](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

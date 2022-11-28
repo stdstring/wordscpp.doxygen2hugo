@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsWordArt()
 
 
 
-
 Shows how to work with WordArt. 
 ```cpp
 void InsertTextPaths()
@@ -123,3 +122,8 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 }
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

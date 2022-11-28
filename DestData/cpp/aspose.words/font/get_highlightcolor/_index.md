@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Font::get_HighlightColor()
 
 
 
-
 Shows how to format a run of text using its font property. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -35,3 +34,8 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(run);
 doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

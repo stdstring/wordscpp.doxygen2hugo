@@ -15,3 +15,9 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/virtualizeenditerator
 virtualized_iterator * Aspose::Words::Settings::OdsoFieldMapDataCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [OdsoFieldMapDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

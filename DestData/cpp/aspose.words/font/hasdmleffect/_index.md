@@ -28,7 +28,6 @@ True if particular DrawingML text effect is applied.
 
 
 
-
 Shows how to check if a run displays a DrawingML text effect. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"DrawingML text effects.docx");
@@ -42,3 +41,9 @@ ASSERT_TRUE(runs->idx_get(3)->get_Font()->HasDmlEffect(TextDmlEffect::Effect3D))
 ASSERT_TRUE(runs->idx_get(4)->get_Font()->HasDmlEffect(TextDmlEffect::Fill));
 ```
 
+## See Also
+
+* Enum [TextDmlEffect](../../textdmleffect/)
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

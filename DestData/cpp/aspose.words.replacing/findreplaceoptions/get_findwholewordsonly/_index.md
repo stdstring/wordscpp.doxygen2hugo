@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly() cons
 
 
 
-
 Shows how to toggle standalone word-only find-and-replace operations. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ doc->get_Range()->Replace(u"Jackson", u"Louis", options);
 ASSERT_EQ(findWholeWordsOnly ? String(u"Louis will meet you in Jacksonville.") : String(u"Louis will meet you in Louisville."), doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

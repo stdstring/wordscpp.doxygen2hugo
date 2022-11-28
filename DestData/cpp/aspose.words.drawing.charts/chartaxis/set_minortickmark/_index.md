@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorTickMark](../get
 void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorTickMark(Aspose::Words::Drawing::Charts::AxisTickMark value)
 ```
 
+## See Also
+
+* Enum [AxisTickMark](../../axistickmark/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

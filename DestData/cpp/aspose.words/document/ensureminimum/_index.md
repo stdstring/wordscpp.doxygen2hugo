@@ -20,7 +20,6 @@ void Aspose::Words::Document::EnsureMinimum()
 
 
 
-
 Shows how to ensure that a document contains the minimal set of nodes required for editing its contents. 
 ```cpp
 // A newly created document contains one child Section, which includes one child Body and one child Paragraph.
@@ -53,3 +52,8 @@ ASSERT_EQ(NodeType::Paragraph, nodes->idx_get(2)->get_NodeType());
 (System::DynamicCast<Paragraph>(nodes->idx_get(2)))->get_Runs()->Add(MakeObject<Run>(doc, u"Hello world!"));
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

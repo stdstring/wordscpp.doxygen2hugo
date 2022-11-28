@@ -24,7 +24,6 @@ The cloned [VbaProject](../).
 
 
 
-
 Shows how to deep clone a VBA project and module. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"VBA project.docm");
@@ -43,3 +42,9 @@ destDoc->get_VbaProject()->get_Modules()->Add(copyVbaModule);
 destDoc->Save(ArtifactsDir + u"VbaProject.CloneVbaProject.docm");
 ```
 
+## See Also
+
+* Class [VbaProject](../)
+* Class [VbaProject](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

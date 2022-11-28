@@ -20,7 +20,6 @@ void Aspose::Words::Document::StopTrackRevisions()
 
 
 
-
 Shows how to track revisions while editing a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -63,3 +62,8 @@ ASSERT_EQ(System::DateTime::MinValue, doc->get_Revisions()->idx_get(1)->get_Date
 doc->Save(ArtifactsDir + u"Document.StartTrackRevisions.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

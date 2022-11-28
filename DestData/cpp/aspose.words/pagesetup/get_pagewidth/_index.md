@@ -20,7 +20,6 @@ double Aspose::Words::PageSetup::get_PageWidth()
 
 
 
-
 Shows how to insert an image, and use it as a watermark. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -74,3 +73,8 @@ ASPOSE_ASSERT_EQ(shape->get_Left() + shape->get_Width(), shape->get_Right());
 doc->Save(ArtifactsDir + u"Image.CreateFloatingPositionSize.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

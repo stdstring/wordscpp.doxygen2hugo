@@ -15,11 +15,12 @@ A collection of the smart tag properties.
 System::SharedPtr<Aspose::Words::Markup::CustomXmlPropertyCollection> Aspose::Words::Markup::SmartTag::get_Properties() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 
 ## Examples
-
 
 
 
@@ -112,3 +113,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [CustomXmlPropertyCollection](../../customxmlpropertycollection/)
+* Class [SmartTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

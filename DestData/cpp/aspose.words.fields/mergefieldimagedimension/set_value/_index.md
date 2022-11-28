@@ -15,3 +15,8 @@ The value.
 void Aspose::Words::Fields::MergeFieldImageDimension::set_Value(double value)
 ```
 
+## See Also
+
+* Class [MergeFieldImageDimension](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason() c
 
 
 
-
 Shows how to sign a generated PDF document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,8 @@ ASSERT_EQ(signingTime.ToUniversalTime(), options->get_DigitalSignatureDetails()-
 doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignature.pdf", options);
 ```
 
+## See Also
+
+* Class [PdfDigitalSignatureDetails](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

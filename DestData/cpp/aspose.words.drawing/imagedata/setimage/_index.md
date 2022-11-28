@@ -24,7 +24,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::SharedPtr<System:
 
 
 
-
 Shows how to display images from the local file system in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -55,6 +54,11 @@ SharedPtr<Shape> imgShape;
 doc->Save(ArtifactsDir + u"Drawing.ImportImage.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -73,7 +77,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::SharedPtr<System:
 
 
 
-
 Shows how to display images from the local file system in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -104,6 +107,11 @@ SharedPtr<Shape> imgShape;
 doc->Save(ArtifactsDir + u"Drawing.ImportImage.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::SetImage(const System::String\&) method
 
 
@@ -119,7 +127,6 @@ void Aspose::Words::Drawing::ImageData::SetImage(const System::String &fileName)
 | fileName | const System::String\& | The image file. Can be a file name or a URL. |
 
 ## Examples
-
 
 
 
@@ -159,6 +166,11 @@ doc->Save(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx");
 ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx")->get_Length());
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## ImageData::SetImage(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -168,3 +180,8 @@ ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.Crea
 template<typename CharType,typename Traits> void Aspose::Words::Drawing::ImageData::SetImage(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

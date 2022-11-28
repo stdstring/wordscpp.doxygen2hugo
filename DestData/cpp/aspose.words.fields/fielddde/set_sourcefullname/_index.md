@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDde::get_SourceFullName](../get_sourcefu
 void Aspose::Words::Fields::FieldDde::set_SourceFullName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDde](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

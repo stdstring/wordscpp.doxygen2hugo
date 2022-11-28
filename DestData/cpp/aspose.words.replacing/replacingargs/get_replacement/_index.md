@@ -20,7 +20,6 @@ System::String Aspose::Words::Replacing::ReplacingArgs::get_Replacement() const
 
 
 
-
 Shows how to replace all occurrences of a regular expression pattern with another string, while tracking all such replacements. 
 ```cpp
 void ReplaceWithCallback()
@@ -74,3 +73,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ReplacingArgs](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

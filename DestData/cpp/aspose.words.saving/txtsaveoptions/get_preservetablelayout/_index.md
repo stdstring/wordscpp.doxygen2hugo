@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::TxtSaveOptions::get_PreserveTableLayout() const
 
 
 
-
 Shows how to preserve the layout of tables when converting to plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -64,3 +63,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [TxtSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

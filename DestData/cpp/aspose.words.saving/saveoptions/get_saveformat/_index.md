@@ -20,7 +20,6 @@ virtual Aspose::Words::SaveFormat Aspose::Words::Saving::SaveOptions::get_SaveFo
 
 
 
-
 Shows how to use a specific encoding when saving a document to .epub. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -42,3 +41,9 @@ saveOptions->set_ExportDocumentProperties(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOptions);
 ```
 
+## See Also
+
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

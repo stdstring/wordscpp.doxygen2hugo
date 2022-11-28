@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort() const
 
 
 
-
 Shows how to mimic the properties of images when converting a .docx document to .svg. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -34,3 +33,8 @@ options->set_TextOutputMode(SvgTextOutputMode::UsePlacedGlyphs);
 doc->Save(ArtifactsDir + u"SvgSaveOptions.SaveLikeImage.svg", options);
 ```
 
+## See Also
+
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

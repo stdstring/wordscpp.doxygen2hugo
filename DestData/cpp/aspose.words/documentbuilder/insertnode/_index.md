@@ -20,7 +20,6 @@ void Aspose::Words::DocumentBuilder::InsertNode(const System::SharedPtr<Aspose::
 
 
 
-
 Shows how to insert a linked image into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -57,3 +56,9 @@ doc->Save(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx");
 ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.CreateLinkedImage.Linked.docx")->get_Length());
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::Drawing::RectangleF Aspose::Words::Drawing::ShapeBase::get_BoundsWithEff
 
 
 
-
 Shows how to check how a shape's bounds are affected by shape effects. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape shadow effect.docx");
@@ -84,3 +83,8 @@ ASPOSE_ASSERT_EQ(192, shape->get_BoundsWithEffects().get_Width());
 ASPOSE_ASSERT_EQ(279, shape->get_BoundsWithEffects().get_Height());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

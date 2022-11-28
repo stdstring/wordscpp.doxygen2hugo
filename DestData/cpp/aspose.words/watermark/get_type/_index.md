@@ -15,3 +15,9 @@ Gets the watermark type.
 Aspose::Words::WatermarkType Aspose::Words::Watermark::get_Type()
 ```
 
+## See Also
+
+* Enum [WatermarkType](../../watermarktype/)
+* Class [Watermark](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

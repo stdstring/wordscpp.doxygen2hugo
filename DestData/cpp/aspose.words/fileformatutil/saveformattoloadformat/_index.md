@@ -20,7 +20,6 @@ static Aspose::Words::LoadFormat Aspose::Words::FileFormatUtil::SaveFormatToLoad
 
 
 
-
 Shows how to convert a save format to its corresponding load format. 
 ```cpp
 ASSERT_EQ(LoadFormat::Html, FileFormatUtil::SaveFormatToLoadFormat(SaveFormat::Html));
@@ -30,3 +29,10 @@ ASSERT_EQ(LoadFormat::Html, FileFormatUtil::SaveFormatToLoadFormat(SaveFormat::H
 ASSERT_THROW(FileFormatUtil::SaveFormatToLoadFormat(SaveFormat::Jpeg), System::ArgumentException);
 ```
 
+## See Also
+
+* Enum [LoadFormat](../../loadformat/)
+* Enum [SaveFormat](../../saveformat/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

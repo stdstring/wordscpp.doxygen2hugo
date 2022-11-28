@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Vba::VbaModule::get_SourceCode](../get_sourcecode/).
 void Aspose::Words::Vba::VbaModule::set_SourceCode(const System::String &value)
 ```
 
+## See Also
+
+* Class [VbaModule](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

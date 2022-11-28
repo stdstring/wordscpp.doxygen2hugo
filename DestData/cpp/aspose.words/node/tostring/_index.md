@@ -24,7 +24,6 @@ The content of the node in the specified format.
 
 
 
-
 Shows the difference between calling the GetText and ToString methods on a node. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -92,6 +91,12 @@ ASSERT_EQ(String(u"<p style=\"margin-top:0pt; margin-bottom:8pt; line-height:108
           node->ToString(saveOptions));
 ```
 
+## See Also
+
+* Enum [SaveFormat](../../saveformat/)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Node::ToString(const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -111,7 +116,6 @@ System::String Aspose::Words::Node::ToString(const System::SharedPtr<Aspose::Wor
 The content of the node in the specified format.
 
 ## Examples
-
 
 
 
@@ -136,3 +140,9 @@ ASSERT_EQ(String(u"<p style=\"margin-top:0pt; margin-bottom:8pt; line-height:108
           node->ToString(saveOptions));
 ```
 
+## See Also
+
+* Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Markup::SdtListItem> Aspose::Words::Markup::Sdt
 
 
 
-
 Shows how to work with drop down-list structured document tags. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -77,3 +76,9 @@ listItems->Clear();
 ASSERT_EQ(0, listItems->get_Count());
 ```
 
+## See Also
+
+* Class [SdtListItem](../../sdtlistitem/)
+* Class [SdtListItemCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

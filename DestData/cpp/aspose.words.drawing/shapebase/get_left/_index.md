@@ -15,6 +15,8 @@ Gets or sets the position of the left edge of the containing block of the shape.
 double Aspose::Words::Drawing::ShapeBase::get_Left()
 ```
 
+## Remarks
+
 
 For a top-level shape, the value is in points and relative to the shape anchor.
 
@@ -25,7 +27,6 @@ The default value is 0.
 Has effect only for floating shapes.
 
 ## Examples
-
 
 
 
@@ -60,3 +61,8 @@ ASPOSE_ASSERT_EQ(shape->get_Left() + shape->get_Width(), shape->get_Right());
 doc->Save(ArtifactsDir + u"Image.CreateFloatingPositionSize.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

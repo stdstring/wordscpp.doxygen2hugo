@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ParagraphFormat::get_WidowControl](../get_widowcontro
 void Aspose::Words::ParagraphFormat::set_WidowControl(bool value)
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

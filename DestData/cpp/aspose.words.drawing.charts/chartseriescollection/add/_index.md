@@ -24,7 +24,6 @@ Recently added [ChartSeries](../../chartseries/) object.
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -98,6 +97,12 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeries](../../chartseries/)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&, const System::ArrayPtr\<double\>\&) method
 
 
@@ -116,7 +121,6 @@ Recently added [ChartSeries](../../chartseries/) object.
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -190,6 +194,12 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeries](../../chartseries/)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<System::DateTime\>\&, const System::ArrayPtr\<double\>\&) method
 
 
@@ -204,7 +214,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartSeries> Aspose::Words::Dr
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -278,6 +287,12 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeries](../../chartseries/)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)
 ## ChartSeriesCollection::Add(const System::String\&, const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<double\>\&) method
 
 
@@ -296,7 +311,6 @@ Recently added [ChartSeries](../../chartseries/) object.
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -370,3 +384,9 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Class [ChartSeries](../../chartseries/)
+* Class [ChartSeriesCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

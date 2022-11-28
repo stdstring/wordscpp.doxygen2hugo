@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ParagraphFormat::get_HangingPunctuation](../get_hangi
 void Aspose::Words::ParagraphFormat::set_HangingPunctuation(bool value)
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

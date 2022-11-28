@@ -15,13 +15,14 @@ Gets or sets the length of the specified horizontal rule expressed as a percenta
 double Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent()
 ```
 
+## Remarks
+
 
 Valid values ​​range from 1 to 100 inclusive.
 
 The default value is 100.
 
 ## Examples
-
 
 
 
@@ -42,3 +43,8 @@ ASSERT_TRUE(shape->get_IsHorizontalRule());
 ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ url: /cpp/aspose.words.settings/odsofieldmapdatacollection/virtualizebeginconsti
 virtualized_iterator * Aspose::Words::Settings::OdsoFieldMapDataCollection::virtualizeBeginConstIterator() const override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [OdsoFieldMapDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

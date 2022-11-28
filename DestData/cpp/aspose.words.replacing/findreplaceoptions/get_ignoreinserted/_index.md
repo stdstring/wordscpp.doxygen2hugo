@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreInserted() const
 
 
 
-
 Shows how to include or ignore text inside insert revisions during a find-and-replace operation. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -50,3 +49,8 @@ ASSERT_EQ(ignoreTextInsideInsertRevisions ? String(u"Greetings world!\rHello aga
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

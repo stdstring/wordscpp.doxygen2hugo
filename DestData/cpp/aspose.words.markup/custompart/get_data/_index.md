@@ -15,13 +15,14 @@ Contains the data of this custom part.
 System::ArrayPtr<uint8_t> Aspose::Words::Markup::CustomPart::get_Data() const
 ```
 
+## Remarks
+
 
 This property is applicable only when [IsExternal](../get_isexternal/) is **false**.
 
 The default value is an empty byte array. The value cannot be **null**.
 
 ## Examples
-
 
 
 
@@ -65,3 +66,8 @@ doc->get_PackageCustomParts()->Clear();
 ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 ```
 
+## See Also
+
+* Class [CustomPart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

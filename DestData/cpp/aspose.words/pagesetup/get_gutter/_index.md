@@ -20,7 +20,6 @@ double Aspose::Words::PageSetup::get_Gutter()
 
 
 
-
 Shows how to set gutter margins. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -80,3 +79,8 @@ pageSetup->set_SheetsPerBooklet(4);
 doc->Save(ArtifactsDir + u"PageSetup.Booklet.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_Categor
 
 
 
-
 Shows how to work with built-in document properties in the "Description" category. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -60,3 +59,8 @@ properties->set_Keywords(u"Tag 1; Tag 2; Tag 3");
 doc->Save(ArtifactsDir + u"DocumentProperties.Description.docx");
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

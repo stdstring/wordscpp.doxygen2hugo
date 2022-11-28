@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_BehindText](../get_behindtext
 void Aspose::Words::Drawing::ShapeBase::set_BehindText(bool value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

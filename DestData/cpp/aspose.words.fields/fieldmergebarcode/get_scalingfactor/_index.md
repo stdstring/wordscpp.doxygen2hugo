@@ -15,3 +15,8 @@ Gets a scaling factor for the symbol. The value is in whole percentage points an
 System::String Aspose::Words::Fields::FieldMergeBarcode::get_ScalingFactor()
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

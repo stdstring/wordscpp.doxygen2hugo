@@ -24,7 +24,6 @@ A [Field](../../field/) object that represents the inserted field.
 
 
 
-
 Shows how to create and insert a field using a field builder. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -47,6 +46,13 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.CreateWithFieldBuilder.docx");
 ```
 
+## See Also
+
+* Class [Field](../../field/)
+* Class [Inline](../../../aspose.words/inline/)
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## FieldBuilder::BuildAndInsert(const System::SharedPtr\<Aspose::Words::Paragraph\>\&) method
 
 
@@ -62,7 +68,6 @@ System::SharedPtr<Aspose::Words::Fields::Field> Aspose::Words::Fields::FieldBuil
 A [Field](../../field/) object that represents the inserted field.
 
 ## Examples
-
 
 
 
@@ -144,3 +149,10 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [Field](../../field/)
+* Class [Paragraph](../../../aspose.words/paragraph/)
+* Class [FieldBuilder](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

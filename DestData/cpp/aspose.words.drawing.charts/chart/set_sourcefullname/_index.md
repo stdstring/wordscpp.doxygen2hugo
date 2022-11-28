@@ -15,3 +15,8 @@ Gets the path and name of an xls/xlsx file this chart is linked to.
 void Aspose::Words::Drawing::Charts::Chart::set_SourceFullName(const System::String &value)
 ```
 
+## See Also
+
+* Class [Chart](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

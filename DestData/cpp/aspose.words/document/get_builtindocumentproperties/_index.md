@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Properties::BuiltInDocumentProperties> Aspose::
 
 
 
-
 Shows how to work with built-in document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");
@@ -52,3 +51,9 @@ for (const auto& docProperty : System::IterateOver(doc->get_BuiltInDocumentPrope
 }
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../../../aspose.words.properties/builtindocumentproperties/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

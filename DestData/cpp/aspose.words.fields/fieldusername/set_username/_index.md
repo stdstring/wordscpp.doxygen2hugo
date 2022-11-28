@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldUserName::get_UserName](../get_username/
 void Aspose::Words::Fields::FieldUserName::set_UserName(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldUserName](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_UseLegacyOrder() const
 
 
 
-
 Shows how to change the searching order of nodes when performing a find-and-replace text operation. 
 ```cpp
 void UseLegacyOrder(bool useLegacyOrder)
@@ -90,3 +89,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

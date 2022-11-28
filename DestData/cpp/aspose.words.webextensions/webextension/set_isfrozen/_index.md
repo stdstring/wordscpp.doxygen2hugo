@@ -15,3 +15,8 @@ Setter for [Aspose::Words::WebExtensions::WebExtension::get_IsFrozen](../get_isf
 void Aspose::Words::WebExtensions::WebExtension::set_IsFrozen(bool value)
 ```
 
+## See Also
+
+* Class [WebExtension](../)
+* Namespace [Aspose::Words::WebExtensions](../../)
+* Library [Aspose.Words](../../../)

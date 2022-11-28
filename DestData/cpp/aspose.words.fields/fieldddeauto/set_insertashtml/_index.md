@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsHtml](../get_insert
 void Aspose::Words::Fields::FieldDdeAuto::set_InsertAsHtml(bool value)
 ```
 
+## See Also
+
+* Class [FieldDdeAuto](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

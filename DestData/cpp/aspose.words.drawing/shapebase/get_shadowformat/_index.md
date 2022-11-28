@@ -15,3 +15,9 @@ Gets shadow formatting for the shape.
 System::SharedPtr<Aspose::Words::Drawing::ShadowFormat> Aspose::Words::Drawing::ShapeBase::get_ShadowFormat()
 ```
 
+## See Also
+
+* Class [ShadowFormat](../../shadowformat/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

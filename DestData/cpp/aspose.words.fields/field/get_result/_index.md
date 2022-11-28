@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::Field::get_Result()
 
 
 
-
 Shows how to insert a field into a document using a field code. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -35,3 +34,8 @@ ASSERT_EQ(u"DATE \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
 ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - System::DateTime::get_Today()).get_Hours()), 24);
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Style::get_NextParagraphStyleName](../get_nextparagra
 void Aspose::Words::Style::set_NextParagraphStyleName(const System::String &value)
 ```
 
+## See Also
+
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -24,7 +24,6 @@ static double Aspose::Words::ConvertUtil::PointToPixel(double points)
 
 
 
-
 Shows how to specify page properties in pixels. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -58,6 +57,11 @@ builder->Writeln(
 doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndPixels.docx");
 ```
 
+## See Also
+
+* Class [ConvertUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## ConvertUtil::PointToPixel(double, double) method
 
 
@@ -74,7 +78,6 @@ static double Aspose::Words::ConvertUtil::PointToPixel(double points, double res
 | resolution | double | The dpi (dots per inch) resolution. |
 
 ## Examples
-
 
 
 
@@ -110,3 +113,8 @@ builder->Writeln(String::Format(u"At a DPI of {0}, the text is now {1} points/{2
 doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndPixelsDpi.docx");
 ```
 
+## See Also
+
+* Class [ConvertUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

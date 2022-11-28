@@ -20,7 +20,6 @@ void Aspose::Words::ConditionalStyle::ClearFormatting()
 
 
 
-
 Shows how to reset conditional table styles. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -59,3 +58,8 @@ auto isEmptyColor = [](SharedPtr<ConditionalStyle> s)
 ASSERT_TRUE(tableStyle->get_ConditionalStyles()->LINQ_All(isEmptyColor));
 ```
 
+## See Also
+
+* Class [ConditionalStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

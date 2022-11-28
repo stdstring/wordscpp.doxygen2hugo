@@ -20,7 +20,6 @@ Aspose::Words::Tables::TableStyleOptions Aspose::Words::Tables::Table::get_Style
 
 
 
-
 Shows how to build a new table while applying a style. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -65,3 +64,9 @@ builder->EndRow();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTableWithStyle.docx");
 ```
 
+## See Also
+
+* Enum [TableStyleOptions](../../tablestyleoptions/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

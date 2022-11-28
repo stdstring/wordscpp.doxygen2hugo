@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_NameBi](../get_namebi/).
 void Aspose::Words::Font::set_NameBi(const System::String &value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

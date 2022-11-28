@@ -20,7 +20,6 @@ System::ArrayPtr<uint8_t> Aspose::Words::Drawing::Stroke::get_ImageBytes()
 
 
 
-
 Shows how to process shape stroke features. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Shape stroke pattern border.docx");
@@ -36,3 +35,8 @@ ASSERT_FALSE(stroke->get_ImageBytes() == nullptr);
 System::IO::File::WriteAllBytes(ArtifactsDir + u"Drawing.StrokePattern.png", stroke->get_ImageBytes());
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

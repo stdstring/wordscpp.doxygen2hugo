@@ -15,11 +15,12 @@ Specifies whether Aspose.Words should keep the stream open or close it after sav
 bool Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen() const
 ```
 
+## Remarks
+
 
 Default is **false** and Aspose.Words will close the stream you provided in the [PageStream](../get_pagestream/) property after writing a document page into it. Specify **true** to keep the stream open.
 
 ## Examples
-
 
 
 
@@ -73,3 +74,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [PageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

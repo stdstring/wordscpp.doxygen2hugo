@@ -24,4 +24,8 @@ bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue(const 
 
 True if item is found in the collection; otherwise, false.
 
+## See Also
 
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

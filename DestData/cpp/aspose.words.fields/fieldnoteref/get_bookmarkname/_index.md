@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldNoteRef::get_BookmarkName()
 
 
 
-
 Shows to insert NOTEREF fields, and modify their appearance. 
 ```cpp
 void FieldNoteRef_()
@@ -78,3 +77,8 @@ static void InsertBookmarkWithFootnote(SharedPtr<DocumentBuilder> builder, Strin
 }
 ```
 
+## See Also
+
+* Class [FieldNoteRef](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

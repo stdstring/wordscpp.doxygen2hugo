@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldDdeAuto::get_InsertAsUnicode](../get_ins
 void Aspose::Words::Fields::FieldDdeAuto::set_InsertAsUnicode(bool value)
 ```
 
+## See Also
+
+* Class [FieldDdeAuto](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

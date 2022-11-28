@@ -15,6 +15,11 @@ Sets the fill to a uniform color.
 void Aspose::Words::Drawing::Fill::Solid()
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)
 ## Fill::Solid(System::Drawing::Color) method
 
 
@@ -26,7 +31,6 @@ void Aspose::Words::Drawing::Fill::Solid(System::Drawing::Color color)
 
 
 ## Examples
-
 
 
 
@@ -52,3 +56,8 @@ std::cout << "The fill transparency is " << (fill->get_Transparency() * 100) << 
 doc->Save(ArtifactsDir + u"Drawing.FillSolid.docx");
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

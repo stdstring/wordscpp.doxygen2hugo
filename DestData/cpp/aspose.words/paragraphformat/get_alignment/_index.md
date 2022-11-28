@@ -20,7 +20,6 @@ Aspose::Words::ParagraphAlignment Aspose::Words::ParagraphFormat::get_Alignment(
 
 
 
-
 Shows how to insert a paragraph into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -92,3 +91,9 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
+## See Also
+
+* Enum [ParagraphAlignment](../../paragraphalignment/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

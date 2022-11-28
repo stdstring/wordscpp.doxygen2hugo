@@ -20,7 +20,6 @@ void Aspose::Words::RevisionCollection::AcceptAll()
 
 
 
-
 Shows how to compare documents. 
 ```cpp
 auto docOriginal = MakeObject<Document>();
@@ -52,3 +51,8 @@ docOriginal->get_Revisions()->AcceptAll();
 ASSERT_EQ(docOriginal->GetText(), docEdited->GetText());
 ```
 
+## See Also
+
+* Class [RevisionCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

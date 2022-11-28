@@ -15,6 +15,8 @@ Gets the list style that this list references or defines.
 System::SharedPtr<Aspose::Words::Style> Aspose::Words::Lists::List::get_Style()
 ```
 
+## Remarks
+
 
 If this list is not associated with a list style, the property will return null.
 
@@ -23,7 +25,6 @@ A list could be a reference to a list style, in this case [IsListStyleReference]
 A list could be a definition of a list style, in this case [IsListStyleDefinition](../get_isliststyledefinition/) will be true. Such a list cannot be applied to paragraphs in the document directly.
 
 ## Examples
-
 
 
 
@@ -82,3 +83,9 @@ builder->get_ListFormat()->RemoveNumbers();
 builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx");
 ```
 
+## See Also
+
+* Class [Style](../../../aspose.words/style/)
+* Class [List](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

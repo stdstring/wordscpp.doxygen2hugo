@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::TextB
 
 
 
-
 Shows how to link text boxes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -84,3 +83,9 @@ if (textBox3->get_Next() == nullptr && textBox3->get_Previous() != nullptr)
 doc->Save(ArtifactsDir + u"Shape.CreateLinkBetweenTextBoxes.docx");
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

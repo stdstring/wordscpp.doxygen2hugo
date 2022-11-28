@@ -15,3 +15,8 @@ Specifies that the documents produced during a mail merge operation should be em
 void Aspose::Words::Settings::MailMergeSettings::set_MailAsAttachment(bool value)
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

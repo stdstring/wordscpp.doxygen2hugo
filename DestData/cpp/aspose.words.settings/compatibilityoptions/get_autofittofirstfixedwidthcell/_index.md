@@ -15,3 +15,8 @@ Allow Table Columns To Exceed Preferred Widths of Constituent Cells.
 bool Aspose::Words::Settings::CompatibilityOptions::get_AutofitToFirstFixedWidthCell()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

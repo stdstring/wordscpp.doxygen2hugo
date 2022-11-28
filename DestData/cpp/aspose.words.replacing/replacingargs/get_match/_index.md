@@ -15,6 +15,8 @@ The **Match** resulting from a single regular expression match during a **Replac
 System::SharedPtr<System::Text::RegularExpressions::Match> Aspose::Words::Replacing::ReplacingArgs::get_Match() const
 ```
 
+## Remarks
+
 
 **Match.Index"</b>
 gets the zero-based starting
@@ -81,10 +83,15 @@ public:
         mLog->AppendLine(String::IsNullOrEmpty(args->get_GroupName()) ? String::Format(u"\tGroup index:\t{0}", args->get_GroupIndex())
                                                                       : String::Format(u"\tGroup name:\t{0}", args->[get_GroupName()](../get_groupname/)));**
 
-** return **ReplaceAction::Replace**; }**
+** return [ReplaceAction::Replace](../../replaceaction/); }**
 
 ** String GetLog() { return mLog->**ToString()**; }**
 
 ** NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject<System::Text::StringBuilder>()) { }**
 
 **private: int mCurrentReplacementNumber; SharedPtr<System::Text::StringBuilder> mLog; };  **
+## See Also
+
+* Class [ReplacingArgs](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

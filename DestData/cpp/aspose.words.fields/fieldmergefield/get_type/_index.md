@@ -15,3 +15,9 @@ Gets the Microsoft Word field type.
 Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldMergeField::get_Type() const override
 ```
 
+## See Also
+
+* Enum [FieldType](../../fieldtype/)
+* Class [FieldMergeField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

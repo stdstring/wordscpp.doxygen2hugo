@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::Field::get_IsDirty()
 
 
 
-
 Shows how to use special property for updating field result. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,8 @@ field->set_IsDirty(true);
 }
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

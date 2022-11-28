@@ -20,7 +20,6 @@ bool Aspose::Words::Fonts::FontConfigSubstitutionRule::IsFontConfigAvailable()
 
 
 
-
 Shows operating system-dependent font config substitution. 
 ```cpp
 auto fontSettings = MakeObject<FontSettings>();
@@ -50,3 +49,8 @@ if (isLinuxOrMac)
 }
 ```
 
+## See Also
+
+* Class [FontConfigSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

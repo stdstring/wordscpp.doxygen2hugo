@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::Fonts::FontSou
 
 
 
-
 Shows how to call warning callback when the font sources working with. 
 ```cpp
 void FontSourceWarning()
@@ -54,3 +53,9 @@ public:
 };
 ```
 
+## See Also
+
+* Interface [IWarningCallback](../../../aspose.words/iwarningcallback/)
+* Class [FontSourceBase](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

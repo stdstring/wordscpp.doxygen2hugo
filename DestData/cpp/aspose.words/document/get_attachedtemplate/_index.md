@@ -15,11 +15,12 @@ Gets or sets the full path of the template attached to the document.
 System::String Aspose::Words::Document::get_AttachedTemplate()
 ```
 
+## Remarks
+
 
 Empty string means the document is attached to the Normal template.
 
 ## Examples
-
 
 
 
@@ -41,3 +42,8 @@ options->set_DefaultTemplate(MyDir + u"Business brochure.dotx");
 doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_Name](../get_name/).
 void Aspose::Words::Drawing::ShapeBase::set_Name(const System::String &value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

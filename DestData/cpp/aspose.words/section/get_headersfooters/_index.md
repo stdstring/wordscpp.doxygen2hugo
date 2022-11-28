@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::HeaderFooterCollection> Aspose::Words::Section:
 
 
 
-
 Shows how to delete all footers from a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Header and footer types.docx");
@@ -75,3 +74,9 @@ footer->get_Range()->Replace(u"(C) 2006 Aspose Pty Ltd.", String::Format(u"Copyr
 doc->Save(ArtifactsDir + u"HeaderFooter.ReplaceText.docx");
 ```
 
+## See Also
+
+* Class [HeaderFooterCollection](../../headerfootercollection/)
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

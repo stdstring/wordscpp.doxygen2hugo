@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFields](../get_i
 void Aspose::Words::Comparing::CompareOptions::set_IgnoreFields(bool value)
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

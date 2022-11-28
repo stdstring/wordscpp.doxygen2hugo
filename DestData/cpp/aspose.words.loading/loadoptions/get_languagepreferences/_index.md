@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Loading::LanguagePreferences> Aspose::Words::Lo
 
 
 
-
 Shows how to apply language preferences when loading a document. 
 ```cpp
 auto loadOptions = MakeObject<LoadOptions>();
@@ -35,3 +34,9 @@ std::cout << (localeIdFarEast == (int)EditingLanguage::Japanese
           << std::endl;
 ```
 
+## See Also
+
+* Class [LanguagePreferences](../../languagepreferences/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

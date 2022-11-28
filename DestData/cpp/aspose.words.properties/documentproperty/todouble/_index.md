@@ -20,7 +20,6 @@ double Aspose::Words::Properties::DocumentProperty::ToDouble()
 
 
 
-
 Shows various type conversion methods of custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ ASSERT_EQ(1, properties->idx_get(u"Authorized Revision")->ToInt());
 ASPOSE_ASSERT_EQ(123.45, properties->idx_get(u"Authorized Amount")->ToDouble());
 ```
 
+## See Also
+
+* Class [DocumentProperty](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

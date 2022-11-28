@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_StrikeThrough()
 
 
 
-
 Shows how to add a line strikethrough to text. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,8 @@ para->AppendChild(run);
 doc->Save(ArtifactsDir + u"Font.StrikeThrough.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

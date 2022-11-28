@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TextColumn::get_Width](../get_width/).
 void Aspose::Words::TextColumn::set_Width(double value)
 ```
 
+## See Also
+
+* Class [TextColumn](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

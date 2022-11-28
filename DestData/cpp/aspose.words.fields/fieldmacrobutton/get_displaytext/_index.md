@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldMacroButton::get_DisplayText()
 
 
 
-
 Shows how to use MACROBUTTON fields to allow us to run a document's macros by clicking. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Macro.docm");
@@ -51,3 +50,8 @@ ASSERT_EQ(u" MACROBUTTON  ViewZoom200 Run ViewZoom200", field->GetFieldCode());
 doc->Save(ArtifactsDir + u"Field.MACROBUTTON.docm");
 ```
 
+## See Also
+
+* Class [FieldMacroButton](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

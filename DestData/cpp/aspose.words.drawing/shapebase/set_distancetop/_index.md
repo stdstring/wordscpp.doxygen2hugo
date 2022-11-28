@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_DistanceTop](../get_distancet
 void Aspose::Words::Drawing::ShapeBase::set_DistanceTop(double value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

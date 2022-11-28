@@ -20,7 +20,6 @@ bool Aspose::Words::Tables::PreferredWidth::Equals(const System::SharedPtr<Aspos
 
 
 
-
 Shows how to set a preferred width for table cells. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -55,6 +54,12 @@ builder->Writeln(u"Automatically sized cell.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx");
 ```
 
+## See Also
+
+* Class [PreferredWidth](../)
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)
 ## PreferredWidth::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -69,7 +74,6 @@ bool Aspose::Words::Tables::PreferredWidth::Equals(System::SharedPtr<System::Obj
 
 
 
-
 Shows how to set a preferred width for table cells. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -104,3 +108,8 @@ builder->Writeln(u"Automatically sized cell.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx");
 ```
 
+## See Also
+
+* Class [PreferredWidth](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

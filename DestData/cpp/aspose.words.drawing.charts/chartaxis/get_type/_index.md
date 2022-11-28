@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::ChartAxisType Aspose::Words::Drawing::Charts::Ch
 
 
 
-
 Shows how to create an appropriate type of chart series for a graph type. 
 ```cpp
 void ChartSeriesCollection_()
@@ -94,3 +93,9 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 }
 ```
 
+## See Also
+
+* Enum [ChartAxisType](../../chartaxistype/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

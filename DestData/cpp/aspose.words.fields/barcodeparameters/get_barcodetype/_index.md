@@ -15,3 +15,8 @@ Bar code type.
 System::String Aspose::Words::Fields::BarcodeParameters::get_BarcodeType() const
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

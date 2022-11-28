@@ -15,11 +15,12 @@ Specifies the source of the text that's displayed in the status bar when a form 
 bool Aspose::Words::Fields::FormField::get_OwnStatus()
 ```
 
+## Remarks
+
 
 If true, the text specified by the StatusText property is displayed. If false, the text of the AutoText entry specified by the StatusText property is displayed.
 
 ## Examples
-
 
 
 
@@ -152,3 +153,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

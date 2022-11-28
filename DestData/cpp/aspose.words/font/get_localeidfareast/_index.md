@@ -20,7 +20,6 @@ int32_t Aspose::Words::Font::get_LocaleIdFarEast()
 
 
 
-
 Shows how to insert and format text in a Far East language. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,8 @@ builder->Writeln(u"你好世界");
 doc->Save(ArtifactsDir + u"Font.FarEast.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

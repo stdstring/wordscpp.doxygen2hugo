@@ -20,7 +20,6 @@ bool Aspose::Words::ImportFormatOptions::get_MergePastedLists() const
 
 
 
-
 Shows how to merge lists from a documents. 
 ```cpp
 auto srcDoc = MakeObject<Document>(MyDir + u"List item.docx");
@@ -35,3 +34,8 @@ dstDoc->AppendDocument(srcDoc, ImportFormatMode::UseDestinationStyles, options);
 dstDoc->Save(ArtifactsDir + u"Document.MergePastedLists.docx");
 ```
 
+## See Also
+
+* Class [ImportFormatOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

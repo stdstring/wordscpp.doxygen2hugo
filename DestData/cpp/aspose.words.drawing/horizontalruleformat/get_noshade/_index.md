@@ -15,11 +15,12 @@ Indicates the presence of 3D shading for the horizontal rule. If true, then the 
 bool Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade()
 ```
 
+## Remarks
+
 
 The default value is false.
 
 ## Examples
-
 
 
 
@@ -40,3 +41,8 @@ ASSERT_TRUE(shape->get_IsHorizontalRule());
 ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

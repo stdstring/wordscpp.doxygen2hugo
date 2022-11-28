@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D](../ge
 virtual void Aspose::Words::Drawing::Charts::IChartDataPoint::set_Bubble3D(bool value)=0
 ```
 
+## See Also
+
+* Interface [IChartDataPoint](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

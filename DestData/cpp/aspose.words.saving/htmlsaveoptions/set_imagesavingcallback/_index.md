@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback](../
 void Aspose::Words::Saving::HtmlSaveOptions::set_ImageSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IImageSavingCallback> &value)
 ```
 
+## See Also
+
+* Interface [IImageSavingCallback](../../iimagesavingcallback/)
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

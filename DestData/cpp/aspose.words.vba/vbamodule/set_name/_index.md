@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Vba::VbaModule::get_Name](../get_name/).
 void Aspose::Words::Vba::VbaModule::set_Name(const System::String &value)
 ```
 
+## See Also
+
+* Class [VbaModule](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

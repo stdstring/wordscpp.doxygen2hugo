@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_HangingPunctuation()
 
 
 
-
 Shows how to set special properties for Asian typography. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -33,3 +32,8 @@ format->set_HangingPunctuation(true);
 doc->Save(ArtifactsDir + u"ParagraphFormat.AsianTypographyProperties.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

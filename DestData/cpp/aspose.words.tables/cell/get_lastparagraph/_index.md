@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Tables::Cell::get_Las
 
 
 
-
 Shows how to apply settings to vertical borders to a table row's format. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -60,3 +59,9 @@ ASSERT_EQ(LineStyle::None, border->get_LineStyle());
 doc->Save(ArtifactsDir + u"Border.VerticalBorders.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../../../aspose.words/paragraph/)
+* Class [Cell](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

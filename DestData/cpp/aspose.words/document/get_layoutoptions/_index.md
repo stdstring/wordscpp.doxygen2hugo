@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Layout::LayoutOptions> Aspose::Words::Document:
 
 
 
-
 Shows how to alter the appearance of revisions in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,9 @@ doc->get_LayoutOptions()->set_ShowParagraphMarks(showParagraphMarks);
 doc->Save(ArtifactsDir + u"Document.LayoutOptionsParagraphMarks.pdf");
 ```
 
+## See Also
+
+* Class [LayoutOptions](../../../aspose.words.layout/layoutoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

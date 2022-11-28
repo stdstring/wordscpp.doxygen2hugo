@@ -15,3 +15,8 @@ Sets the file name of the image that the mail merge engine must insert into the 
 void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageFileName(const System::String &value)
 ```
 
+## See Also
+
+* Class [ImageFieldMergingArgs](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

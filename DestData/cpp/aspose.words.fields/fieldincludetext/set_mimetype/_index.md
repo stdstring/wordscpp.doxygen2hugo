@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIncludeText::get_MimeType](../get_mimety
 void Aspose::Words::Fields::FieldIncludeText::set_MimeType(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIncludeText](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

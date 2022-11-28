@@ -15,3 +15,8 @@ Sets the style of a Case Code for barcode type ITF14. The valid values are [STD|
 void Aspose::Words::Fields::FieldMergeBarcode::set_CaseCodeStyle(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

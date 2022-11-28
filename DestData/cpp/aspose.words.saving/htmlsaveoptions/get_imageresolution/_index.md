@@ -15,11 +15,12 @@ Specifies the output resolution for images when exporting to HTML, MHTML or EPUB
 int32_t Aspose::Words::Saving::HtmlSaveOptions::get_ImageResolution() const
 ```
 
+## Remarks
+
 
 This property effects raster images when [ScaleImageToShapeSize](../get_scaleimagetoshapesize/) is **true** and effects metafiles exported as raster images. Some image properties such as cropping or rotation require saving transformed images and in this case transformed images are created in the given resolution.
 
 ## Examples
-
 
 
 
@@ -43,3 +44,8 @@ options->set_ExportOriginalUrlForLinkedImages(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.FolderAlias.html", options);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

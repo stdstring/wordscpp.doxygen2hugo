@@ -15,3 +15,8 @@ url: /cpp/aspose.words.fields/barcodeparameters/set_casecodestyle/
 void Aspose::Words::Fields::BarcodeParameters::set_CaseCodeStyle(const System::String &value)
 ```
 
+## See Also
+
+* Class [BarcodeParameters](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

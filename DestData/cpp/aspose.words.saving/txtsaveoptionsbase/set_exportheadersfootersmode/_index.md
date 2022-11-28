@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersM
 void Aspose::Words::Saving::TxtSaveOptionsBase::set_ExportHeadersFootersMode(Aspose::Words::Saving::TxtExportHeadersFootersMode value)
 ```
 
+## See Also
+
+* Enum [TxtExportHeadersFootersMode](../../txtexportheadersfootersmode/)
+* Class [TxtSaveOptionsBase](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ Gets the immediate parent of this node.
 System::SharedPtr<Aspose::Words::CompositeNode> Aspose::Words::Node::get_ParentNode()
 ```
 
+## Remarks
+
 
 If a node has just been created and not yet added to the tree, or if it has been removed from the tree, the parent is null.
 
 ## Examples
-
 
 
 
@@ -67,3 +68,9 @@ ASPOSE_ASSERT_EQ(doc->get_FirstSection()->get_Body(), para->get_ParentNode());
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [CompositeNode](../../compositenode/)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

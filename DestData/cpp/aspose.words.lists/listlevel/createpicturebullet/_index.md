@@ -20,7 +20,6 @@ void Aspose::Words::Lists::ListLevel::CreatePictureBullet()
 
 
 
-
 Shows how to set a custom image icon for list item labels. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -47,3 +46,8 @@ list->get_ListLevels()->idx_get(0)->DeletePictureBullet();
 ASSERT_TRUE(list->get_ListLevels()->idx_get(0)->get_ImageData() == nullptr);
 ```
 
+## See Also
+
+* Class [ListLevel](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

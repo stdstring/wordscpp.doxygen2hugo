@@ -20,7 +20,6 @@ double Aspose::Words::Tables::Table::get_CellSpacing()
 
 
 
-
 Shows how to enable spacing between individual cells in a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -93,3 +92,8 @@ ASSERT_EQ(u"MyTableStyle1", table->get_StyleName());
 doc->Save(ArtifactsDir + u"Table.TableStyleCreation.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

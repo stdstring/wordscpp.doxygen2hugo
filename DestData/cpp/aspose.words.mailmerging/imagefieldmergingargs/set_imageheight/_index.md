@@ -15,3 +15,9 @@ Setter for [Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight](
 void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageHeight(const System::SharedPtr<Aspose::Words::Fields::MergeFieldImageDimension> &value)
 ```
 
+## See Also
+
+* Class [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/)
+* Class [ImageFieldMergingArgs](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

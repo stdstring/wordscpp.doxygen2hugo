@@ -15,13 +15,14 @@ Gets or sets a flag indicating whether the shape is displayed inside a table or 
 bool Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell()
 ```
 
+## Remarks
+
 
 The default value is **true**.
 
 Has effect only for top level shapes, the property [WrapType](../get_wraptype/) of which is set to value other than [Inline](../../../aspose.words/inline/).
 
 ## Examples
-
 
 
 
@@ -64,3 +65,8 @@ shape->set_WrapType(WrapType::None);
 doc->Save(ArtifactsDir + u"Shape.LayoutInTableCell.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

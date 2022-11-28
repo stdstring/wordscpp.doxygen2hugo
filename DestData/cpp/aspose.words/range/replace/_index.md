@@ -24,6 +24,8 @@ int32_t Aspose::Words::Range::Replace(const System::SharedPtr<System::Text::Regu
 ### ReturnValue
 
 The number of replacements made.
+## Remarks
+
 
 Replaces the whole match captured by the regular expression.
 
@@ -42,7 +44,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 
-
 Shows how to replace all occurrences of a regular expression pattern with other text. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -55,6 +56,11 @@ doc->get_Range()->Replace(MakeObject<System::Text::RegularExpressions::Regex>(u"
 ASSERT_EQ(u"I decided to get the curtains in lavender, ideal for the lavender-accented room.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Range::Replace(const System::SharedPtr\<System::Text::RegularExpressions::Regex\>\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
 
 
@@ -74,6 +80,8 @@ int32_t Aspose::Words::Range::Replace(const System::SharedPtr<System::Text::Regu
 ### ReturnValue
 
 The number of replacements made.
+## Remarks
+
 
 Replaces the whole match captured by the regular expression.
 
@@ -90,7 +98,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 ## Examples
-
 
 
 
@@ -217,6 +224,12 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 }
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/)
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Range::Replace(const System::String\&, const System::String\&) method
 
 
@@ -235,8 +248,10 @@ int32_t Aspose::Words::Range::Replace(const System::String &pattern, const Syste
 ### ReturnValue
 
 The number of replacements made.
+## Remarks
 
-The pattern will not be used as regular expression. Please use **Replace()** if you need regular expressions.
+
+The pattern will not be used as regular expression. Please use [Replace()](../) if you need regular expressions.
 
 Used case-insensitive comparison.
 
@@ -252,7 +267,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 ## Examples
-
 
 
 
@@ -305,6 +319,11 @@ ASSERT_EQ(String(u"Every paragraph that ends with a full stop like this one will
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Range::Replace(const System::String\&, const System::String\&, const System::SharedPtr\<Aspose::Words::Replacing::FindReplaceOptions\>\&) method
 
 
@@ -324,8 +343,10 @@ int32_t Aspose::Words::Range::Replace(const System::String &pattern, const Syste
 ### ReturnValue
 
 The number of replacements made.
+## Remarks
 
-The pattern will not be used as regular expression. Please use **Replace()** if you need regular expressions.
+
+The pattern will not be used as regular expression. Please use [Replace()](../) if you need regular expressions.
 
 Method is able to process breaks in both pattern and replacement strings.
 
@@ -340,7 +361,6 @@ You should use special meta-characters if you need to work with breaks:
 
 
 ## Examples
-
 
 
 
@@ -432,3 +452,9 @@ table->get_LastRow()->get_LastCell()->get_Range()->Replace(u"50", u"20", options
 ASSERT_EQ(String(u"Eggs\a50\a\a") + u"Potatoes\a20\a\a", table->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/)
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

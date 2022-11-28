@@ -20,7 +20,6 @@ static Aspose::Words::LoadFormat Aspose::Words::FileFormatUtil::ContentTypeToLoa
 
 
 
-
 Shows how to find the corresponding **Aspose** load/save format from each media type string. 
 ```cpp
 // The ContentTypeToSaveFormat/ContentTypeToLoadFormat methods only accept official IANA media type names, also known as MIME types.
@@ -65,3 +64,9 @@ ASSERT_EQ(LoadFormat::Mhtml, FileFormatUtil::ContentTypeToLoadFormat(u"multipart
 ASSERT_EQ(SaveFormat::Mhtml, FileFormatUtil::ContentTypeToSaveFormat(u"multipart/related"));
 ```
 
+## See Also
+
+* Enum [LoadFormat](../../loadformat/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

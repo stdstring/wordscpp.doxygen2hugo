@@ -15,3 +15,9 @@ url: /cpp/aspose.words/warninginfocollection/virtualizeendconstiterator/
 virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeEndConstIterator() const override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

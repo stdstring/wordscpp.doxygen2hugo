@@ -15,11 +15,12 @@ Gets or sets the bookmark name.
 System::String Aspose::Words::BookmarkEnd::get_Name() override
 ```
 
+## Remarks
+
 
 Cannot be null.
 
 ## Examples
-
 
 
 
@@ -100,3 +101,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [BookmarkEnd](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

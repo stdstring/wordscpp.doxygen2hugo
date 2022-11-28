@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_SuppressAutoHyphens()
 
 
 
-
 Shows how to suppress hyphenation for a paragraph. 
 ```cpp
 Hyphenation::RegisterDictionary(u"de-CH", MyDir + u"hyph_de_CH.dic");
@@ -40,3 +39,8 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->get_ParagraphFormat()
 doc->Save(ArtifactsDir + u"ParagraphFormat.SuppressHyphens.pdf");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

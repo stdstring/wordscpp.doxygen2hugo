@@ -20,7 +20,6 @@ Aspose::Words::Tables::TextWrapping Aspose::Words::Tables::Table::get_TextWrappi
 
 
 
-
 Shows how to work with table text wrapping. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ table->set_AbsoluteVerticalDistance(20);
 doc->Save(ArtifactsDir + u"Table.WrapText.docx");
 ```
 
+## See Also
+
+* Enum [TextWrapping](../../textwrapping/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

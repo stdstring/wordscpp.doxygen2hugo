@@ -20,7 +20,6 @@ int32_t Aspose::Words::PageSetup::get_PageStartingNumber()
 
 
 
-
 Shows how to set up page numbering in a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,8 @@ pageSetup->set_PageNumberStyle(NumberStyle::Arabic);
 doc->Save(ArtifactsDir + u"PageSetup.PageNumbering.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ url: /cpp/aspose.words/revisiongroupcollection/virtualizeenditerator/
 virtualized_iterator * Aspose::Words::RevisionGroupCollection::virtualizeEndIterator() override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [RevisionGroupCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

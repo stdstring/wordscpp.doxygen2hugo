@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::CellFormat> Aspose::Words::Tables::Cell
 
 
 
-
 Shows how to modify the format of rows and cells in a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -91,3 +90,9 @@ secondTable->Remove();
 doc->Save(ArtifactsDir + u"Table.CombineTables.docx");
 ```
 
+## See Also
+
+* Class [CellFormat](../../cellformat/)
+* Class [Cell](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

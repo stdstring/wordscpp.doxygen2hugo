@@ -15,13 +15,14 @@ Gets or sets the amount of spacing (in points) after the paragraph.
 double Aspose::Words::ParagraphFormat::get_SpaceAfter()
 ```
 
+## Remarks
+
 
 Has no effect when [SpaceAfterAuto](../get_spaceafterauto/) is true.
 
 Valid values ​​range from 0 to 1584 inclusive.
 
 ## Examples
-
 
 
 
@@ -77,3 +78,8 @@ builder->Writeln(String::Format(u"Paragraph in the \"{0}\" style.", builder->get
 doc->Save(ArtifactsDir + u"ParagraphFormat.ParagraphSpacingSameStyle.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

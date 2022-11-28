@@ -15,11 +15,12 @@ Gets the text of the range.
 System::String Aspose::Words::Range::get_Text()
 ```
 
+## Remarks
+
 
 The returned string includes all control and special characters as described in [ControlChar](../../controlchar/).
 
 ## Examples
-
 
 
 
@@ -33,3 +34,8 @@ builder->Write(u"Hello world!");
 ASSERT_EQ(u"Hello world!", doc->get_Range()->get_Text().Trim());
 ```
 
+## See Also
+
+* Class [Range](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

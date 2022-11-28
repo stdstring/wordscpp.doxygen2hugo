@@ -20,7 +20,6 @@ System::ArrayPtr<uint8_t> Aspose::Words::DigitalSignatures::SignOptions::get_Sig
 
 
 
-
 Shows how to add a signature line to a document, and then sign it using a digital certificate. 
 ```cpp
 static void Sign()
@@ -150,3 +149,8 @@ static void CreateSignees()
 static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCustom::Signee>>> mSignees;
 ```
 
+## See Also
+
+* Class [SignOptions](../)
+* Namespace [Aspose::Words::DigitalSignatures](../../)
+* Library [Aspose.Words](../../../)

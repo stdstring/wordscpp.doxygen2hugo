@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::Stroke::get_DashStyle](../get_dashstyle/).
 void Aspose::Words::Drawing::Stroke::set_DashStyle(Aspose::Words::Drawing::DashStyle value)
 ```
 
+## See Also
+
+* Enum [DashStyle](../../dashstyle/)
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

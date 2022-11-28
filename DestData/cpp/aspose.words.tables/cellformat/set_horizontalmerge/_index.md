@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Tables::CellFormat::get_HorizontalMerge](../get_horiz
 void Aspose::Words::Tables::CellFormat::set_HorizontalMerge(Aspose::Words::Tables::CellMerge value)
 ```
 
+## See Also
+
+* Enum [CellMerge](../../cellmerge/)
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

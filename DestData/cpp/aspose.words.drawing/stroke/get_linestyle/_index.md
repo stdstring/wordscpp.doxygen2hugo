@@ -15,11 +15,12 @@ Defines the line style of the stroke.
 Aspose::Words::Drawing::ShapeLineStyle Aspose::Words::Drawing::Stroke::get_LineStyle()
 ```
 
+## Remarks
 
-The default value is **Single**.
+
+The default value is [Single](../../shapelinestyle/).
 
 ## Examples
-
 
 
 
@@ -49,3 +50,9 @@ stroke->set_LineStyle(ShapeLineStyle::Triple);
 doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
 ```
 
+## See Also
+
+* Enum [ShapeLineStyle](../../shapelinestyle/)
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

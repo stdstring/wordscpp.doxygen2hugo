@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIndex::get_NumberOfColumns()
 
 
 
-
 Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -86,3 +85,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 ```
 
+## See Also
+
+* Class [FieldIndex](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

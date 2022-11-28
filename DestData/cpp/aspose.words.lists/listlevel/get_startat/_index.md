@@ -15,11 +15,12 @@ Returns or sets the starting number for this list level.
 int32_t Aspose::Words::Lists::ListLevel::get_StartAt()
 ```
 
+## Remarks
+
 
 Default value is 1.
 
 ## Examples
-
 
 
 
@@ -115,3 +116,8 @@ builder->get_ListFormat()->RemoveNumbers();
 doc->Save(ArtifactsDir + u"Lists.RestartNumberingUsingListCopy.docx");
 ```
 
+## See Also
+
+* Class [ListLevel](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

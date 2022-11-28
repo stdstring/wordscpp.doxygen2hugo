@@ -19,7 +19,14 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 | Parameter | Type | Description |
 | --- | --- | --- |
 | title | const System::String\& | The title of structured document tag. |
+## Remarks
+
 
 Returns null if the structured document tag with the specified title cannot be found.
 
+## See Also
 
+* Interface [IStructuredDocumentTag](../../istructureddocumenttag/)
+* Class [StructuredDocumentTagCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

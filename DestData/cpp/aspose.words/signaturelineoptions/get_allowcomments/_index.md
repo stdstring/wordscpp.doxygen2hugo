@@ -20,7 +20,6 @@ bool Aspose::Words::SignatureLineOptions::get_AllowComments() const
 
 
 
-
 Shows how to sign a document with a personal certificate and a signature line. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -64,3 +63,8 @@ ASSERT_TRUE(signatureLine->get_IsSigned());
 ASSERT_TRUE(signatureLine->get_IsValid());
 ```
 
+## See Also
+
+* Class [SignatureLineOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

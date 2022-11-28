@@ -15,11 +15,12 @@ Gets or sets the default font name.
 System::String Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName()
 ```
 
+## Remarks
+
 
 The default value is 'Times New Roman'.
 
 ## Examples
-
 
 
 
@@ -76,3 +77,8 @@ builder->Writeln(u"Line written in a missing font, which will be substituted wit
 doc->Save(ArtifactsDir + u"FontSettings.DefaultFontSubstitutionRule.pdf");
 ```
 
+## See Also
+
+* Class [DefaultFontSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

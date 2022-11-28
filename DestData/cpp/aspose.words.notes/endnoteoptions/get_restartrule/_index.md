@@ -15,11 +15,12 @@ Determines when automatic numbering restarts.
 Aspose::Words::Notes::FootnoteNumberingRule Aspose::Words::Notes::EndnoteOptions::get_RestartRule() override
 ```
 
+## Remarks
+
 
 Not all values are applicable to endnotes. To ascertain which values are applicable see [FootnoteNumberingRule](../../footnotenumberingrule/).
 
 ## Examples
-
 
 
 
@@ -72,3 +73,9 @@ doc->get_EndnoteOptions()->set_RestartRule(FootnoteNumberingRule::RestartSection
 doc->Save(ArtifactsDir + u"InlineStory.NumberingRule.docx");
 ```
 
+## See Also
+
+* Enum [FootnoteNumberingRule](../../footnotenumberingrule/)
+* Class [EndnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

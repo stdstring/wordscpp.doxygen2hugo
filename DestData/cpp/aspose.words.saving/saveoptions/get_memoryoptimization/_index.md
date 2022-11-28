@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_MemoryOptimization() const
 
 
 
-
 Shows an option to optimize memory consumption when rendering large documents to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -37,3 +36,8 @@ saveOptions->set_MemoryOptimization(memoryOptimization);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.MemoryOptimization.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes](../ge
 void Aspose::Words::Comparing::CompareOptions::set_IgnoreFootnotes(bool value)
 ```
 
+## See Also
+
+* Class [CompareOptions](../)
+* Namespace [Aspose::Words::Comparing](../../)
+* Library [Aspose.Words](../../../)

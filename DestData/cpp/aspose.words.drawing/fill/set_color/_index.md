@@ -15,3 +15,8 @@ url: /cpp/aspose.words.drawing/fill/set_color/
 void Aspose::Words::Drawing::Fill::set_Color(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

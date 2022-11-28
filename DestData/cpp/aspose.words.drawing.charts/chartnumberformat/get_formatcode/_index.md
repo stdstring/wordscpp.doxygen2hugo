@@ -15,6 +15,8 @@ Gets or sets the format code applied to a data label.
 System::String Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode()
 ```
 
+## Remarks
+
 
 Number formatting is used to change the way a value appears in data label and can be used in some very creative ways. The examples of number formats:
 
@@ -39,7 +41,6 @@ Accounting - "_-\"\$\\"* #,##0.00_-;-\"\$\\"* #,##0.00_-;_-\"\$\\"* \"-\\"??_-;_
 Custom with color - "[Red]-#,##0.0"
 
 ## Examples
-
 
 
 
@@ -96,3 +97,8 @@ ASSERT_FALSE(chart->get_AxisY()->get_NumberFormat()->get_IsLinkedToSource());
 doc->Save(ArtifactsDir + u"Charts.SetNumberFormatToChartAxis.docx");
 ```
 
+## See Also
+
+* Class [ChartNumberFormat](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

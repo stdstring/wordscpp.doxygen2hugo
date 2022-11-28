@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Revision::get_Author](../get_author/).
 void Aspose::Words::Revision::set_Author(const System::String &value)
 ```
 
+## See Also
+
+* Class [Revision](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

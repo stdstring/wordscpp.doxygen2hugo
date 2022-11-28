@@ -20,7 +20,6 @@ System::ArrayPtr<uint8_t> Aspose::Words::Fonts::MemoryFontSource::get_FontData()
 
 
 
-
 Shows how to use a byte array with data from a font file as a font source. 
 ```cpp
 ArrayPtr<uint8_t> fontBytes = System::IO::File::ReadAllBytes(MyDir + u"Alte DIN 1451 Mittelschrift.ttf");
@@ -34,3 +33,8 @@ ASSERT_EQ(FontSourceType::MemoryFont, memoryFontSource->get_Type());
 ASSERT_EQ(0, memoryFontSource->get_Priority());
 ```
 
+## See Also
+
+* Class [MemoryFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

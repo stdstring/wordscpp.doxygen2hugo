@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAutoText::get_EntryName() override
 
 
 
-
 Shows how to display a building block with AUTOTEXT and GLOSSARY fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -65,3 +64,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.AUTOTEXT.GLOSSARY.dotx");
 ```
 
+## See Also
+
+* Class [FieldAutoText](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

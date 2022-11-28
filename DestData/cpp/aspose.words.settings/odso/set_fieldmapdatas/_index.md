@@ -15,3 +15,9 @@ Sets a collection of objects that specify how columns from the external data sou
 void Aspose::Words::Settings::Odso::set_FieldMapDatas(const System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapDataCollection> &value)
 ```
 
+## See Also
+
+* Class [OdsoFieldMapDataCollection](../../odsofieldmapdatacollection/)
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

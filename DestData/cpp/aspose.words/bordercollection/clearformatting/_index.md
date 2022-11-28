@@ -20,7 +20,6 @@ void Aspose::Words::BorderCollection::ClearFormatting()
 
 
 
-
 Shows how to remove all borders from all paragraphs in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Borders.docx");
@@ -48,3 +47,8 @@ for (const auto& paragraph : System::IterateOver<Paragraph>(doc->get_FirstSectio
 doc->Save(ArtifactsDir + u"BorderCollection.RemoveAllBorders.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

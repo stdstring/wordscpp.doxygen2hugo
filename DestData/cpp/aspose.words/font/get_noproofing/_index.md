@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_NoProofing()
 
 
 
-
 Shows how to prevent text from being spell checked by Microsoft Word. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -36,3 +35,8 @@ builder->Writeln(u"Proofing has been disabled, so these spelking errrs will not 
 doc->Save(ArtifactsDir + u"Font.NoProofing.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

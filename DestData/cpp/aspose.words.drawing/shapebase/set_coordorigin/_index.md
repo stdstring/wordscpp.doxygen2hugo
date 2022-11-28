@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_CoordOrigin](../get_coordorig
 void Aspose::Words::Drawing::ShapeBase::set_CoordOrigin(System::Drawing::Point value)
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

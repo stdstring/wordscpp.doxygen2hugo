@@ -20,7 +20,6 @@ void Aspose::Words::Tables::Table::ClearShading()
 
 
 
-
 Shows how to apply an outline border to a table. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -45,3 +44,8 @@ table->SetShading(TextureIndex::TextureSolid, System::Drawing::Color::get_LightG
 doc->Save(ArtifactsDir + u"Table.SetOutlineBorders.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

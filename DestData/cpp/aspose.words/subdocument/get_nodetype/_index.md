@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::SubDocument::get_NodeType() const overrid
 
 
 
-
 Shows how to access a master document's subdocument. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Master document.docx");
@@ -33,3 +32,9 @@ auto subDocument = System::DynamicCast<SubDocument>(subDocuments->idx_get(0));
 ASSERT_FALSE(subDocument->get_IsComposite());
 ```
 
+## See Also
+
+* Enum [NodeType](../../nodetype/)
+* Class [SubDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -26,7 +26,6 @@ void Aspose::Words::Tables::Table::SetBorders(Aspose::Words::LineStyle lineStyle
 
 
 
-
 Shows how to apply border and shading color while building a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -77,3 +76,9 @@ table->SetBorders(LineStyle::Single, 1.5, System::Drawing::Color::get_Green());
 doc->Save(ArtifactsDir + u"Table.SetBorders.docx");
 ```
 
+## See Also
+
+* Enum [LineStyle](../../../aspose.words/linestyle/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

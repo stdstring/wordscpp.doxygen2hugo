@@ -28,7 +28,6 @@ The position of the tab stop.
 
 
 
-
 Shows how to find a tab, stop by its index and verify its position. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -41,3 +40,8 @@ tabStops->Add(ConvertUtil::MillimeterToPoint(60), TabAlignment::Left, TabLeader:
 ASSERT_NEAR(ConvertUtil::MillimeterToPoint(60), tabStops->GetPositionByIndex(1), 0.1);
 ```
 
+## See Also
+
+* Class [TabStopCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

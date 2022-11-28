@@ -15,3 +15,8 @@ Sets whether to insert the field names from the database as column headings in t
 void Aspose::Words::Fields::FieldDatabase::set_InsertHeadings(bool value)
 ```
 
+## See Also
+
+* Class [FieldDatabase](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

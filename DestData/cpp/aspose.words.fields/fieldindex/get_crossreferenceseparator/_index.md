@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator()
 
 
 
-
 Shows how to define cross references in an INDEX field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -64,3 +63,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.INDEX.XE.CrossReferenceSeparator.docx");
 ```
 
+## See Also
+
+* Class [FieldIndex](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

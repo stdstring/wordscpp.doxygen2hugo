@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartFormat> Aspose::Words::Dr
 
 
 
-
 Sows how to set series color. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -50,3 +49,9 @@ series3->get_Format()->get_Fill()->set_ForeColor(System::Drawing::Color::get_Blu
 doc->Save(ArtifactsDir + u"Charts.SeriesColor.docx");
 ```
 
+## See Also
+
+* Class [ChartFormat](../../chartformat/)
+* Class [ChartSeries](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

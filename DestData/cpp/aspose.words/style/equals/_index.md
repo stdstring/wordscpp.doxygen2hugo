@@ -20,7 +20,6 @@ bool Aspose::Words::Style::Equals(const System::SharedPtr<Aspose::Words::Style> 
 
 
 
-
 Shows how to use style aliases. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Style with alias.docx");
@@ -46,3 +45,9 @@ ASPOSE_ASSERT_EQ(doc->get_FirstSection()->get_Body()->get_Paragraphs()->idx_get(
                  doc->get_FirstSection()->get_Body()->get_Paragraphs()->idx_get(1)->get_ParagraphFormat()->get_Style());
 ```
 
+## See Also
+
+* Class [Style](../)
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

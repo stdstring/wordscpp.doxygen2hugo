@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::Replacing::Find
 
 
 
-
 Shows how to add formatting to paragraphs in which a find-and-replace operation has found matches. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -55,3 +54,9 @@ ASSERT_EQ(String(u"Every paragraph that ends with a full stop like this one will
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../../../aspose.words/paragraphformat/)
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

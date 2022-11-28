@@ -15,3 +15,9 @@ The unit.
 void Aspose::Words::Fields::MergeFieldImageDimension::set_Unit(Aspose::Words::Fields::MergeFieldImageDimensionUnit value)
 ```
 
+## See Also
+
+* Enum [MergeFieldImageDimensionUnit](../../mergefieldimagedimensionunit/)
+* Class [MergeFieldImageDimension](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

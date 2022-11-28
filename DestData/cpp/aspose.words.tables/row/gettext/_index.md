@@ -15,13 +15,14 @@ Gets the text of all cells in this row including the end of row character.
 System::String Aspose::Words::Tables::Row::GetText() override
 ```
 
+## Remarks
+
 
 Returns concatenated text of all child nodes with the end of row character [ControlChar.Cell](../../../aspose.words/controlchar/cell/) appended at the end.
 
 The returned string includes all control and special characters as described in [ControlChar](../../../aspose.words/controlchar/).
 
 ## Examples
-
 
 
 
@@ -162,3 +163,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Row](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

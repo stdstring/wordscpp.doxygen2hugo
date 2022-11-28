@@ -15,3 +15,8 @@ Emulate Word 6.0 Line Wrapping for East Asian Text.
 void Aspose::Words::Settings::CompatibilityOptions::set_LineWrapLikeWord6(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

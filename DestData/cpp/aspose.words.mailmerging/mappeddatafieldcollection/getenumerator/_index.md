@@ -15,3 +15,8 @@ Returns a dictionary enumerator object that can be used to iterate over all item
 System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::String>>> Aspose::Words::MailMerging::MappedDataFieldCollection::GetEnumerator() override
 ```
 
+## See Also
+
+* Class [MappedDataFieldCollection](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

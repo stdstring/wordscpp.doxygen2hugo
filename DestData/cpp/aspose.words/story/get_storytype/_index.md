@@ -20,7 +20,6 @@ Aspose::Words::StoryType Aspose::Words::Story::get_StoryType() const
 
 
 
-
 Shows how to remove all shapes from a node. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,9 @@ doc->get_FirstSection()->get_Body()->DeleteShapes();
 ASSERT_EQ(0, doc->GetChildNodes(NodeType::Shape, true)->get_Count());
 ```
 
+## See Also
+
+* Enum [StoryType](../../storytype/)
+* Class [Story](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

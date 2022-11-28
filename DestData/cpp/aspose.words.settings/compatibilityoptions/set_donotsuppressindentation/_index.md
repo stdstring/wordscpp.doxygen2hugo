@@ -15,3 +15,8 @@ Do Not Ignore Floating Objects When Calculating [Paragraph](../../../aspose.word
 void Aspose::Words::Settings::CompatibilityOptions::set_DoNotSuppressIndentation(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Increase Priority Of [Font](../../../aspose.words/font/) Size During [Font](../.
 void Aspose::Words::Settings::CompatibilityOptions::set_SubFontBySize(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

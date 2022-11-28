@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Replacing::FindReplaceOpti
 
 
 
-
 Shows how to apply a different font to new content via [FindReplaceOptions](../). 
 ```cpp
 void ConvertNumbersToHexadecimal()
@@ -92,3 +91,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Font](../../../aspose.words/font/)
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

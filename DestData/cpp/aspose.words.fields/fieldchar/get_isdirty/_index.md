@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldChar::get_IsDirty() const
 
 
 
-
 Shows how to work with a [FieldStart](../../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,8 @@ ASSERT_EQ(u" DATE  \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
 field->Update();
 ```
 
+## See Also
+
+* Class [FieldChar](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

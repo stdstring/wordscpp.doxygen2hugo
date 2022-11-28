@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::TextBox> Aspose::Words::Drawing::Shape
 
 
 
-
 Shows how to set the orientation of text inside a text box. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,9 @@ textBox->set_LayoutFlow(layoutFlow);
 doc->Save(ArtifactsDir + u"Shape.TextBoxLayoutFlow.docx");
 ```
 
+## See Also
+
+* Class [TextBox](../../textbox/)
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

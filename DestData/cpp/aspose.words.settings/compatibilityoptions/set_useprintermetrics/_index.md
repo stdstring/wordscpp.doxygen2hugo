@@ -15,3 +15,8 @@ Use Printer Metrics To Display Documents.
 void Aspose::Words::Settings::CompatibilityOptions::set_UsePrinterMetrics(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

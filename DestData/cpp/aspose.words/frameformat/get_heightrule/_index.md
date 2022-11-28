@@ -20,7 +20,6 @@ Aspose::Words::HeightRule Aspose::Words::FrameFormat::get_HeightRule()
 
 
 
-
 Shows how to get information about formatting properties of paragraphs that are frames. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Paragraph frame.docx");
@@ -41,3 +40,9 @@ ASSERT_EQ(RelativeVerticalPosition::Paragraph, paragraphFrame->get_FrameFormat()
 ASPOSE_ASSERT_EQ(0.0, paragraphFrame->get_FrameFormat()->get_VerticalDistanceFromText());
 ```
 
+## See Also
+
+* Enum [HeightRule](../../heightrule/)
+* Class [FrameFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

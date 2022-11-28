@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldUserInitials::get_UserInitials()
 
 
 
-
 Shows how to use the USERINITIALS field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.USERINITIALS.docx");
 ```
 
+## See Also
+
+* Class [FieldUserInitials](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

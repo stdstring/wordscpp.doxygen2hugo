@@ -15,3 +15,9 @@ Setter for [Aspose::Words::BuildingBlocks::BuildingBlock::get_Behavior](../get_b
 void Aspose::Words::BuildingBlocks::BuildingBlock::set_Behavior(Aspose::Words::BuildingBlocks::BuildingBlockBehavior value)
 ```
 
+## See Also
+
+* Enum [BuildingBlockBehavior](../../buildingblockbehavior/)
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

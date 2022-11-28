@@ -15,13 +15,14 @@ Gets or sets the scale factor expressed as a fraction of the image. The default 
 double Aspose::Words::ImageWatermarkOptions::get_Scale() const
 ```
 
+## Remarks
+
 
 Valid values range from 0 to 65.5 inclusive.
 
 Auto scale means that the watermark will be scaled to its max width and max height relative to the page margins.
 
 ## Examples
-
 
 
 
@@ -40,3 +41,8 @@ doc->get_Watermark()->SetImage(System::Drawing::Image::FromFile(ImageDir + u"Log
 doc->Save(ArtifactsDir + u"Document.ImageWatermark.docx");
 ```
 
+## See Also
+
+* Class [ImageWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

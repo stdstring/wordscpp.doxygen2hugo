@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale](../ge
 void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitScale(Aspose::Words::Drawing::Charts::AxisTimeUnit value)
 ```
 
+## See Also
+
+* Enum [AxisTimeUnit](../../axistimeunit/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

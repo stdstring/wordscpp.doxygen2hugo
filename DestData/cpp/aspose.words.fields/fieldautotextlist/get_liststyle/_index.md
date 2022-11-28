@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAutoTextList::get_ListStyle()
 
 
 
-
 Shows how to use an AUTOTEXTLIST field to select from a list of AutoText entries. 
 ```cpp
 void FieldAutoTextList_()
@@ -67,3 +66,8 @@ static void AppendAutoTextEntry(SharedPtr<GlossaryDocument> glossaryDoc, String 
 }
 ```
 
+## See Also
+
+* Class [FieldAutoTextList](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

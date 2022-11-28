@@ -20,7 +20,6 @@ virtual bool Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput()
 
 
 
-
 Shows how to optimize document objects while saving to xps. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Unoptimized document.docx");
@@ -38,3 +37,8 @@ saveOptions->set_OptimizeOutput(optimizeOutput);
 doc->Save(ArtifactsDir + u"XpsSaveOptions.OptimizeOutput.xps", saveOptions);
 ```
 
+## See Also
+
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

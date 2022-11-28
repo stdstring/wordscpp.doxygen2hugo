@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::Words::Pr
 
 
 
-
 Shows how to work with custom document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");
@@ -44,6 +43,12 @@ for (const auto& customDocumentProperty : System::IterateOver(doc->get_CustomDoc
 }
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [DocumentPropertyCollection](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentPropertyCollection::idx_get(System::String) method
 
 
@@ -57,11 +62,12 @@ virtual System::SharedPtr<Aspose::Words::Properties::DocumentProperty> Aspose::W
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | The case-insensitive name of the property to retrieve. |
+## Remarks
+
 
 Returns null if a property with the specified name is not found.
 
 ## Examples
-
 
 
 
@@ -74,3 +80,9 @@ doc->get_CustomDocumentProperties()->Add(u"AuthorizationDate", System::DateTime:
 std::cout << "Document authorized on " << doc->get_CustomDocumentProperties()->idx_get(u"AuthorizationDate")->ToDateTime() << std::endl;
 ```
 
+## See Also
+
+* Class [DocumentProperty](../../documentproperty/)
+* Class [DocumentPropertyCollection](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

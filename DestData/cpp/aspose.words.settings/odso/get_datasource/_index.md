@@ -15,3 +15,8 @@ Specifies the location of the external data source to be connected to a document
 System::String Aspose::Words::Settings::Odso::get_DataSource() const
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

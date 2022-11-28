@@ -20,7 +20,6 @@ int32_t Aspose::Words::CompositeNode::get_Count()
 
 
 
-
 Shows how to add, update and delete child nodes in a [CompositeNode](../)'s collection of children. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -68,3 +67,8 @@ ASSERT_EQ(u"Run 1. Updated run 2. Run 3.", paragraph->GetText().Trim());
 ASSERT_EQ(3, paragraph->GetChildNodes(NodeType::Any, true)->get_Count());
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

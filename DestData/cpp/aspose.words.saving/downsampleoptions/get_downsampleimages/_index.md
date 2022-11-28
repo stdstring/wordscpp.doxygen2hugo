@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::DownsampleOptions::get_DownsampleImages() const
 
 
 
-
 Shows how to change the resolution of images in the PDF document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -47,3 +46,8 @@ options->get_DownsampleOptions()->set_ResolutionThreshold(128);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.DownsampleOptions.LowerResolution.pdf", options);
 ```
 
+## See Also
+
+* Class [DownsampleOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

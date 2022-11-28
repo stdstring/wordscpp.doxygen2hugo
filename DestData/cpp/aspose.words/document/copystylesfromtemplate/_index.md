@@ -20,7 +20,6 @@ void Aspose::Words::Document::CopyStylesFromTemplate(const System::SharedPtr<Asp
 
 
 
-
 Shows how to copies styles from the template to a document via [Document](../). 
 ```cpp
 auto template_ = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -76,6 +75,12 @@ target->CopyStylesFromTemplate(MyDir + u"Rendering.docx");
 ASSERT_EQ(21, target->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::CopyStylesFromTemplate(const System::String\&) method
 
 
@@ -87,7 +92,6 @@ void Aspose::Words::Document::CopyStylesFromTemplate(const System::String &templ
 
 
 ## Examples
-
 
 
 
@@ -137,3 +141,8 @@ target->CopyStylesFromTemplate(MyDir + u"Rendering.docx");
 ASSERT_EQ(21, target->get_Styles()->get_Count());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

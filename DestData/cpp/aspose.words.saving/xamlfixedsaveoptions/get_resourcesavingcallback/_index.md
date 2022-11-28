@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> Aspose::Words:
 
 
 
-
 Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. 
 ```cpp
 void ResourceFolder()
@@ -84,3 +83,9 @@ private:
 };
 ```
 
+## See Also
+
+* Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
+* Class [XamlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

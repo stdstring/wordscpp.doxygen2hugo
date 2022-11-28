@@ -20,7 +20,6 @@ double Aspose::Words::TextColumnCollection::get_Spacing()
 
 
 
-
 Shows how to create multiple evenly spaced columns in a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -37,3 +36,8 @@ builder->Writeln(u"Column 2.");
 doc->Save(ArtifactsDir + u"PageSetup.ColumnsSameWidth.docx");
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

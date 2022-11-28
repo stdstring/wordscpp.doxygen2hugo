@@ -15,3 +15,8 @@ Sets the format of the name included in the field.
 void Aspose::Words::Fields::FieldGreetingLine::set_NameFormat(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldGreetingLine](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

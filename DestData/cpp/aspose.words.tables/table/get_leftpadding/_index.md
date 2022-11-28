@@ -20,7 +20,6 @@ double Aspose::Words::Tables::Table::get_LeftPadding()
 
 
 
-
 Shows how to configure content padding in a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -44,3 +43,8 @@ table->set_PreferredWidth(PreferredWidth::FromPoints(250));
 doc->Save(ArtifactsDir + u"DocumentBuilder.SetRowFormatting.docx");
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

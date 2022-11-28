@@ -20,7 +20,6 @@ Aspose::Words::Fonts::FontPitch Aspose::Words::Fonts::FontInfo::get_Pitch() cons
 
 
 
-
 Shows how to access and print details of each font in a document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -54,3 +53,9 @@ while (fontCollectionEnumerator->MoveNext())
 }
 ```
 
+## See Also
+
+* Enum [FontPitch](../../fontpitch/)
+* Class [FontInfo](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

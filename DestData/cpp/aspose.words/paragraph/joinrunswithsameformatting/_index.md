@@ -24,7 +24,6 @@ Number of joins performed. When **N** adjacent runs are being joined they count 
 
 
 
-
 Shows how to simplify paragraphs by merging superfluous runs. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -60,3 +59,8 @@ ASSERT_EQ(u"Run 1. Run 2. Run 3. ", para->get_Runs()->idx_get(0)->get_Text());
 ASSERT_EQ(u"Run 4. ", para->get_Runs()->idx_get(1)->get_Text());
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

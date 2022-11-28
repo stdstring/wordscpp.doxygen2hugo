@@ -20,7 +20,6 @@ Aspose::Words::Tables::CellVerticalAlignment Aspose::Words::Tables::CellFormat::
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,3 +80,9 @@ builder->EndTable();
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTable.docx");
 ```
 
+## See Also
+
+* Enum [CellVerticalAlignment](../../cellverticalalignment/)
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

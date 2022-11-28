@@ -20,7 +20,6 @@ int32_t Aspose::Words::StyleCollection::get_Count()
 
 
 
-
 Shows how to add a [Style](../../style/) to a document's styles collection. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ ASSERT_EQ(u"Courier New", styles->idx_get(4)->get_Font()->get_Name());
 ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_FirstLineIndent());
 ```
 
+## See Also
+
+* Class [StyleCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

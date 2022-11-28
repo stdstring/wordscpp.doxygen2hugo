@@ -15,11 +15,12 @@ Defines the text displayed when the mouse pointer moves over the shape.
 System::String Aspose::Words::Drawing::ShapeBase::get_ScreenTip()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 
 ## Examples
-
 
 
 
@@ -38,3 +39,8 @@ shape->set_ScreenTip(u"Aspose.Words Support Forums");
 doc->Save(ArtifactsDir + u"Image.InsertImageWithHyperlink.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

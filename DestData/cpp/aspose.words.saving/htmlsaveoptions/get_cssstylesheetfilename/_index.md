@@ -15,6 +15,8 @@ Specifies the path and the name of the Cascading [Style](../../../aspose.words/s
 System::String Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetFileName() const
 ```
 
+## Remarks
+
 
 This property has effect only when saving a document to HTML format and external CSS style sheet is requested using [CssStyleSheetType](../get_cssstylesheettype/).
 
@@ -27,7 +29,6 @@ If the folder specified by this property doesn't exist, it will be created autom
 Another way to specify a folder where external CSS file is saved is to use [ResourceFolder](../get_resourcefolder/).
 
 ## Examples
-
 
 
 
@@ -85,3 +86,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

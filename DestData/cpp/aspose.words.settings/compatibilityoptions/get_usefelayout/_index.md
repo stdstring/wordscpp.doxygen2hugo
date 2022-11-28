@@ -15,3 +15,8 @@ Do Not Bypass East Asian/Complex Script [Layout](../../../aspose.words.layout/) 
 bool Aspose::Words::Settings::CompatibilityOptions::get_UseFELayout()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

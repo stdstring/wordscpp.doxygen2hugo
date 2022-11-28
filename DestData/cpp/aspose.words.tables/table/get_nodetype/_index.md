@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Tables::Table::get_NodeType() const overr
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()
@@ -123,3 +122,9 @@ static int GetChildTableCount(SharedPtr<Table> table)
 }
 ```
 
+## See Also
+
+* Enum [NodeType](../../../aspose.words/nodetype/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

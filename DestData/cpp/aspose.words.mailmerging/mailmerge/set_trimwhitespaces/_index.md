@@ -15,3 +15,8 @@ Setter for [Aspose::Words::MailMerging::MailMerge::get_TrimWhitespaces](../get_t
 void Aspose::Words::MailMerging::MailMerge::set_TrimWhitespaces(bool value)
 ```
 
+## See Also
+
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

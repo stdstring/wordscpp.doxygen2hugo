@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::XpsSaveOptions::get_UseBookFoldPrintingSettin
 void Aspose::Words::Saving::XpsSaveOptions::set_UseBookFoldPrintingSettings(bool value)
 ```
 
+## See Also
+
+* Class [XpsSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

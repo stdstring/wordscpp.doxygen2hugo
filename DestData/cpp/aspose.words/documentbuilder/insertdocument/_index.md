@@ -29,7 +29,6 @@ First node of the inserted content.
 
 
 
-
 Shows how to insert a document into another document. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -44,6 +43,14 @@ builder->InsertDocument(docToInsert, ImportFormatMode::KeepSourceFormatting);
 builder->get_Document()->Save(ArtifactsDir + u"DocumentBuilder.InsertDocument.docx");
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [Document](../../document/)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
@@ -65,7 +72,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBuilder::InsertDoc
 First node of the inserted content.
 
 ## Examples
-
 
 
 
@@ -98,3 +104,12 @@ builder->InsertDocument(srcDoc, ImportFormatMode::KeepSourceFormatting, options)
 dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [Document](../../document/)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [ImportFormatOptions](../../importformatoptions/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_SmallCaps()
 
 
 
-
 Shows how to format a run to display its contents in capitals. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -45,3 +44,8 @@ para->AppendChild(run);
 doc->Save(ArtifactsDir + u"Font.Caps.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

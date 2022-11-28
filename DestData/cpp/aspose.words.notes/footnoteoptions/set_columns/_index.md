@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::FootnoteOptions::get_Columns](../get_columns/)
 void Aspose::Words::Notes::FootnoteOptions::set_Columns(int32_t value)
 ```
 
+## See Also
+
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::SignatureLine::get_Signer](../get_signer/).
 void Aspose::Words::Drawing::SignatureLine::set_Signer(const System::String &value)
 ```
 
+## See Also
+
+* Class [SignatureLine](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ImageWatermarkOptions::get_IsWashout](../get_iswashou
 void Aspose::Words::ImageWatermarkOptions::set_IsWashout(bool value)
 ```
 
+## See Also
+
+* Class [ImageWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

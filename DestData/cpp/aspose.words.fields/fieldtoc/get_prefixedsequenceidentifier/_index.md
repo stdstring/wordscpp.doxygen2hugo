@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier()
 
 
 
-
 Shows how to populate a TOC field with entries using SEQ fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -91,3 +90,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.TOC.SEQ.docx");
 ```
 
+## See Also
+
+* Class [FieldToc](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

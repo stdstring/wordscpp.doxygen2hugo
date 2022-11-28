@@ -15,3 +15,8 @@ Ignore Vertical Alignment in Textboxes.
 bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotVertAlignInTxbx()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

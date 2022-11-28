@@ -15,3 +15,9 @@ Allows to handle particular events during mail merge.
 const System::SharedPtr<Aspose::Words::MailMerging::IMailMergeCallback> & Aspose::Words::MailMerging::MailMerge::get_MailMergeCallback() const
 ```
 
+## See Also
+
+* Interface [IMailMergeCallback](../../imailmergecallback/)
+* Class [MailMerge](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

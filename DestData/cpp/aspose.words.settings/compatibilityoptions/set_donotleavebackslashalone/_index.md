@@ -15,3 +15,8 @@ Convert Backslash To Yen Sign When Entered.
 void Aspose::Words::Settings::CompatibilityOptions::set_DoNotLeaveBackslashAlone(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

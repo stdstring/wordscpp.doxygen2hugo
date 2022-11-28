@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Markup::StructuredDocumentTag::get_Style](../get_styl
 void Aspose::Words::Markup::StructuredDocumentTag::set_Style(const System::SharedPtr<Aspose::Words::Style> &value)
 ```
 
+## See Also
+
+* Class [Style](../../../aspose.words/style/)
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

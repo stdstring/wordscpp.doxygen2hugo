@@ -20,7 +20,6 @@ bool Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks() const
 
 
 
-
 Shows how to show paragraph marks in a rendered output document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -36,3 +35,8 @@ doc->get_LayoutOptions()->set_ShowParagraphMarks(showParagraphMarks);
 doc->Save(ArtifactsDir + u"Document.LayoutOptionsParagraphMarks.pdf");
 ```
 
+## See Also
+
+* Class [LayoutOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

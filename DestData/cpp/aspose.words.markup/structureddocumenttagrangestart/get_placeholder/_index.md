@@ -15,3 +15,9 @@ Gets the [BuildingBlock](../../../aspose.words.buildingblocks/buildingblock/) co
 System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Placeholder() override
 ```
 
+## See Also
+
+* Class [BuildingBlock](../../../aspose.words.buildingblocks/buildingblock/)
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

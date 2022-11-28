@@ -20,7 +20,6 @@ virtual void Aspose::Words::IWarningCallback::Warning(System::SharedPtr<Aspose::
 
 
 
-
 Shows how to set the property for finding the closest match for a missing font from the available font sources. 
 ```cpp
 void EnableFontSubstitution()
@@ -79,3 +78,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [WarningInfo](../../warninginfo/)
+* Interface [IWarningCallback](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

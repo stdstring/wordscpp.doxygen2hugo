@@ -28,7 +28,6 @@ List of alternative font names.
 
 
 
-
 Shows how to access a document's system font source and set font substitutes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -135,3 +134,8 @@ builder->Writeln(u"Text written in Times New Roman, to be substituted by Squaris
 doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 ```
 
+## See Also
+
+* Class [TableSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

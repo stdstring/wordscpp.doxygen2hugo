@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldTA::get_EntryCategory()
 
 
 
-
 Shows how to build and customize a table of authorities using TOA and TA fields. 
 ```cpp
 void FieldTOA_()
@@ -138,3 +137,8 @@ static SharedPtr<FieldTA> InsertToaEntry(SharedPtr<DocumentBuilder> builder, Str
 }
 ```
 
+## See Also
+
+* Class [FieldTA](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

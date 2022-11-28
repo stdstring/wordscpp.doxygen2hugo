@@ -19,11 +19,12 @@ System::SharedPtr<Aspose::Words::Rendering::OfficeMathRenderer> Aspose::Words::M
 ### ReturnValue
 
 The renderer object for this equation.
+## Remarks
+
 
 This method just invokes the [OfficeMathRenderer](../../../aspose.words.rendering/officemathrenderer/) constructor and passes this object as a parameter.
 
 ## Examples
-
 
 
 
@@ -43,3 +44,9 @@ saveOptions->set_Scale(5.0f);
 math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", saveOptions);
 ```
 
+## See Also
+
+* Class [OfficeMathRenderer](../../../aspose.words.rendering/officemathrenderer/)
+* Class [OfficeMath](../)
+* Namespace [Aspose::Words::Math](../../)
+* Library [Aspose.Words](../../../)

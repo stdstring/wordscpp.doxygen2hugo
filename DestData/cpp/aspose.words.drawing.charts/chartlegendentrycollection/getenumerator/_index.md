@@ -15,3 +15,9 @@ Returns an enumerator object.
 System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry>>> Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::GetEnumerator() override
 ```
 
+## See Also
+
+* Class [ChartLegendEntry](../../chartlegendentry/)
+* Class [ChartLegendEntryCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

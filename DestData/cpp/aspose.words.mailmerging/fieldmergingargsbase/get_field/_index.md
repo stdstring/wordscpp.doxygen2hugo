@@ -20,7 +20,6 @@ const System::SharedPtr<Aspose::Words::Fields::FieldMergeField> & Aspose::Words:
 
 
 
-
 Shows how to execute a mail merge with a custom callback that handles merge data in the form of HTML documents. 
 ```cpp
 void MergeHtml()
@@ -70,3 +69,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FieldMergeField](../../../aspose.words.fields/fieldmergefield/)
+* Class [FieldMergingArgsBase](../)
+* Namespace [Aspose::Words::MailMerging](../../)
+* Library [Aspose.Words](../../../)

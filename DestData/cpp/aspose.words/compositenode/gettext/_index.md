@@ -15,11 +15,12 @@ Gets the text of this node and of all its children.
 System::String Aspose::Words::CompositeNode::GetText() override
 ```
 
+## Remarks
+
 
 The returned string includes all control and special characters as described in [ControlChar](../../controlchar/).
 
 ## Examples
-
 
 
 
@@ -67,3 +68,8 @@ for (auto para : System::IterateOver(
 }
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

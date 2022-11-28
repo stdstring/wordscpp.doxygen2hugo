@@ -20,7 +20,6 @@ int32_t Aspose::Words::Loading::HtmlLoadOptions::get_WebRequestTimeout() const
 
 
 
-
 Shows how to set a time limit for web requests when loading a document with external resources linked by URLs. 
 ```cpp
 void WebRequestTimeout()
@@ -89,3 +88,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

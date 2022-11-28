@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSeq::get_BookmarkName()
 
 
 
-
 Shows how to combine table of contents and sequence fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -91,3 +90,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SEQ.Bookmark.docx");
 ```
 
+## See Also
+
+* Class [FieldSeq](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,13 +15,14 @@ Determines whether the layout order of rows is reversed.
 bool Aspose::Words::Drawing::TextPath::get_ReverseRows()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 
 If **true**, the layout order of rows is reversed. This attribute is used for vertical text layout.
 
 ## Examples
-
 
 
 
@@ -127,3 +128,8 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 }
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

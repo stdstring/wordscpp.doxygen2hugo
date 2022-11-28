@@ -15,3 +15,8 @@ Specifies how the style hierarchy of the document is evaluated.
 bool Aspose::Words::Settings::CompatibilityOptions::get_OverrideTableStyleFontSizeAndJustification()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

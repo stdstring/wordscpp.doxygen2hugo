@@ -29,7 +29,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to save a document to an image via stream, and then read the image from that stream. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -71,6 +70,13 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 }
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Enum [SaveFormat](../../saveformat/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -91,7 +97,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 Additional information that you can optionally use.
 
 ## Examples
-
 
 
 
@@ -120,6 +125,13 @@ builder->Writeln(u"Page 3.");
 }
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::String\&) method
 
 
@@ -142,7 +154,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to open a document and convert it to .PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -150,6 +161,12 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::String\&, Aspose::Words::SaveFormat) method
 
 
@@ -173,7 +190,6 @@ Additional information that you can optionally use.
 
 
 
-
 Shows how to convert from DOCX to HTML format. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Document.docx");
@@ -181,6 +197,13 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 doc->Save(ArtifactsDir + u"Document.ConvertToHtml.html", SaveFormat::Html);
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Enum [SaveFormat](../../saveformat/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(const System::String\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -201,7 +224,6 @@ System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Do
 Additional information that you can optionally use.
 
 ## Examples
-
 
 
 
@@ -359,6 +381,13 @@ options->get_OutlineOptions()->set_ExpandedOutlineLevels(2);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(std::basic_ostream\<CharType, Traits\>\&, Aspose::Words::SaveFormat) method
 
 
@@ -368,6 +397,13 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, Aspose::Words::SaveFormat saveFormat)
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Enum [SaveFormat](../../saveformat/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>) method
 
 
@@ -377,3 +413,10 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Sav
 template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Saving::SaveOutputParameters> Aspose::Words::Document::Save(std::basic_ostream<CharType, Traits> &stream, System::SharedPtr<Aspose::Words::Saving::SaveOptions> saveOptions)
 ```
 
+## See Also
+
+* Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
+* Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

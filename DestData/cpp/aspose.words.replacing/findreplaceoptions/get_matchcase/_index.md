@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase() const
 
 
 
-
 Shows how to toggle case sensitivity when performing a find-and-replace operation. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ doc->get_Range()->Replace(u"Ruby", u"Jade", options);
 ASSERT_EQ(matchCase ? String(u"Jade bought a ruby necklace.") : String(u"Jade bought a Jade necklace."), doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Markup::StructuredDocumentTag::get_Color()
 
 
 
-
 Shows how to create a structured document tag in a plain text box and modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,8 @@ tagClone->RemoveSelfOnly();
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

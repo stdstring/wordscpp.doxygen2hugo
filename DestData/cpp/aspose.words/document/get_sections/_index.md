@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::SectionCollection> Aspose::Words::Document::get
 
 
 
-
 Shows how to specify how a new section separates itself from the previous. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -94,3 +93,9 @@ ASSERT_EQ(u"Section 2\x000c"
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [SectionCollection](../../sectioncollection/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::B
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | An index into the list of building blocks. |
+## Remarks
+
 
 The index is zero-based.
 
@@ -29,7 +31,6 @@ If index is greater than or equal to the number of items in the list, this retur
 If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.
 
 ## Examples
-
 
 
 
@@ -129,3 +130,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [BuildingBlock](../../buildingblock/)
+* Class [BuildingBlockCollection](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

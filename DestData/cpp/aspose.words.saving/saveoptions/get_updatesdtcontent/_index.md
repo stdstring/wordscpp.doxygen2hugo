@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent() const
 
 
 
-
 Shows how to update structured document tags while saving a document to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -50,3 +49,8 @@ options->set_UpdateSdtContent(updateSdtContent);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.UpdateSdtContent.pdf", options);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ Setter for [Aspose::Words::DocumentBase::get_BackgroundShape](../get_backgrounds
 void Aspose::Words::DocumentBase::set_BackgroundShape(const System::SharedPtr<Aspose::Words::Drawing::Shape> &value)
 ```
 
+## See Also
+
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

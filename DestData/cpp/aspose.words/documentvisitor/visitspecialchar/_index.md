@@ -28,7 +28,6 @@ A [VisitorAction](../../visitoraction/) value that specifies how to continue the
 
 
 
-
 Shows how to use a [DocumentVisitor](../) implementation to remove all hidden content from a document. 
 ```cpp
 void RemoveHiddenContentFromDocument()
@@ -204,3 +203,10 @@ public:
 };
 ```
 
+## See Also
+
+* Enum [VisitorAction](../../visitoraction/)
+* Class [SpecialChar](../../specialchar/)
+* Class [DocumentVisitor](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

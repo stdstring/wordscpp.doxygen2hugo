@@ -15,11 +15,12 @@ Defines the title of an image.
 System::String Aspose::Words::Drawing::ImageData::get_Title()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 
 ## Examples
-
 
 
 
@@ -80,3 +81,8 @@ importedShape->get_ImageData()->set_CropRight(0.3);
 dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

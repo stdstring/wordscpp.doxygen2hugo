@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Document> Aspose::Words::Saving::ImageSavingArg
 
 
 
-
 Shows how to involve an image saving callback in an HTML conversion process. 
 ```cpp
 void ImageSavingCallback()
@@ -64,3 +63,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Document](../../../aspose.words/document/)
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

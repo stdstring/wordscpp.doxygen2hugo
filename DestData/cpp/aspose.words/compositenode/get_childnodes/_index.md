@@ -15,13 +15,14 @@ Gets all immediate child nodes of this node.
 System::SharedPtr<Aspose::Words::NodeCollection> Aspose::Words::CompositeNode::get_ChildNodes()
 ```
 
+## Remarks
 
-Note, [ChildNodes](./) is equivalent to calling **GetChildNodes(**NodeType.Any**, false)** and creates and returns a new collection every time it is accessed.
+
+Note, [ChildNodes](./) is equivalent to calling **GetChildNodes([NodeType.Any](../../nodetype/), false)** and creates and returns a new collection every time it is accessed.
 
 If there are no child nodes, this property returns an empty collection.
 
 ## Examples
-
 
 
 
@@ -72,3 +73,9 @@ for (const auto& child : System::IterateOver(children))
 }
 ```
 
+## See Also
+
+* Class [NodeCollection](../../nodecollection/)
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

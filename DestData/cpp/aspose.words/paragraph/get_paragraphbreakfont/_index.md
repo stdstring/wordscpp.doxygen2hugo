@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Paragraph::get_ParagraphBr
 
 
 
-
 Shows how to use a [DocumentVisitor](../../documentvisitor/) implementation to remove all hidden content from a document. 
 ```cpp
 void RemoveHiddenContentFromDocument()
@@ -196,3 +195,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [Font](../../font/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

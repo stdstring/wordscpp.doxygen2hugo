@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<Aspose::Words::Field
 
 
 
-
 Shows how to format field results. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -83,3 +82,9 @@ ASSERT_EQ(u"58", field->get_Result());
 ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 ```
 
+## See Also
+
+* Enum [GeneralFormat](../../generalformat/)
+* Class [GeneralFormatCollection](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

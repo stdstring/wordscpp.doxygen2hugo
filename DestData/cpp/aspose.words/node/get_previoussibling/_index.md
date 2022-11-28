@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::get_PreviousSibling(
 
 
 
-
 Shows how to use of methods of [Node](../) and [CompositeNode](../../compositenode/) to remove a section before the last section in the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -44,3 +43,9 @@ if (lastSection->get_PreviousSibling() != nullptr)
 ASSERT_EQ(u"Section 2 text.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Node](../)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

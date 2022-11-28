@@ -20,7 +20,6 @@ Aspose::Words::Properties::PropertyType Aspose::Words::Properties::DocumentPrope
 
 
 
-
 Shows how to work with built-in document properties. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Properties.docx");
@@ -111,3 +110,9 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Enum [PropertyType](../../propertytype/)
+* Class [DocumentProperty](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

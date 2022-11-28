@@ -20,4 +20,8 @@ void Aspose::Words::Settings::OdsoRecipientDataCollection::RemoveAt(int32_t inde
 | --- | --- | --- |
 | index | int32_t | The zero-based index of the element. |
 
+## See Also
 
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::Charts::AxisScaling::get_Type](../get_type/)
 void Aspose::Words::Drawing::Charts::AxisScaling::set_Type(Aspose::Words::Drawing::Charts::AxisScaleType value)
 ```
 
+## See Also
+
+* Enum [AxisScaleType](../../axisscaletype/)
+* Class [AxisScaling](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

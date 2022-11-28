@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_ThumbnailS
 void Aspose::Words::Rendering::ThumbnailGeneratingOptions::set_ThumbnailSize(System::Drawing::Size value)
 ```
 
+## See Also
+
+* Class [ThumbnailGeneratingOptions](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

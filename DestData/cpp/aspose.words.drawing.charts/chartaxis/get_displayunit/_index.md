@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::AxisDisplayUnit> Aspose::Words
 
 
 
-
 Shows how to manipulate the tick marks and displayed values of a chart axis. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -74,3 +73,9 @@ axis->get_DisplayUnit()->set_CustomUnit(1000000);
 doc->Save(ArtifactsDir + u"Charts.AxisDisplayUnit.docx");
 ```
 
+## See Also
+
+* Class [AxisDisplayUnit](../../axisdisplayunit/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

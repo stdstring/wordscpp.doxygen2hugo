@@ -15,11 +15,12 @@ Gets the paragraph formatting of the style.
 System::SharedPtr<Aspose::Words::ParagraphFormat> Aspose::Words::Style::get_ParagraphFormat()
 ```
 
+## Remarks
+
 
 For character and list styles this property returns null.
 
 ## Examples
-
 
 
 
@@ -49,3 +50,9 @@ builder->Writeln(u"Hello World: Normal.");
 builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../../paragraphformat/)
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -58,7 +58,7 @@ namespace Doxygen2HugoConverter.Entities
                                                                              fields,
                                                                              typedefs,
                                                                              memberRefs);
-                    state.CommonEntityRepo.Add(id, result);
+                    state.ConvertData.EntityRepo.Add(id, result);
                     return result;
                 default:
                     return null;
@@ -67,10 +67,11 @@ namespace Doxygen2HugoConverter.Entities
 
         private static BaseClassEntity ParseBaseClassDef(XElement source)
         {
+            String? refId = source.FindAttributeValue("refid");
             String access = source.GetAttributeValue("prot");
             Boolean virtualValue = source.GetVirtualValue();
             String qualifiedName = source.Value;
-            return new BaseClassEntity(access, virtualValue, qualifiedName);
+            return new BaseClassEntity(refId, access, virtualValue, qualifiedName);
         }
 
         private static IList<MethodGroupEntity> ParseDirectMethods(this XElement source, ParseState state)

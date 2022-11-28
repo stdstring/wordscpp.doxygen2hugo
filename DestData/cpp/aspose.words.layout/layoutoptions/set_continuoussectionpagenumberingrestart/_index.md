@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumbe
 void Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart(Aspose::Words::Layout::ContinuousSectionRestart value)
 ```
 
+## See Also
+
+* Enum [ContinuousSectionRestart](../../continuoussectionrestart/)
+* Class [LayoutOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

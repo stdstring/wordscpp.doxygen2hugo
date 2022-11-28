@@ -1,6 +1,8 @@
-﻿namespace Doxygen2HugoConverter.Config
+﻿using Doxygen2HugoConverter.Logger;
+
+namespace Doxygen2HugoConverter.Config
 {
-    internal record ConfigData(String SourceDirectory, String DestDirectory);
+    internal record ConfigData(String SourceDirectory, String DestDirectory, LogLevel LogLevel, String SpecificInfoSource);
 
     internal abstract record ConfigResult
     {
@@ -34,6 +36,38 @@
             }
         }
 
+        private static bool CheckConfigKeys(IDictionary<String, String> configData)
+        {
+            // check mandatory keys
+            String[] mandatoryKeys = {SourceKey, DestKey, SpecificInfoSourceKey};
+            foreach (String key in mandatoryKeys)
+            {
+                if (!configData.ContainsKey(key) || String.IsNullOrEmpty(configData[key]))
+                    return false;
+            }
+            // check actual keys
+            ISet<String> allKeys = new HashSet<String> {SourceKey, DestKey, SpecificInfoSourceKey, LogLevelKey};
+            foreach ((String key, _) in configData)
+            {
+                if (!allKeys.Contains(key))
+                    return false;
+            }
+            return true;
+        }
+
+        private static Tuple<Boolean, LogLevel> ParseLogLevel(IDictionary<String, String> configData) =>
+            configData.ContainsKey(LogLevelKey) switch
+            {
+                false => new Tuple<Boolean, LogLevel>(true, LogLevel.Info),
+                true => configData[LogLevelKey] switch
+                {
+                    "info" => new Tuple<Boolean, LogLevel>(true, LogLevel.Info),
+                    "warning" => new Tuple<Boolean, LogLevel>(true, LogLevel.Warning),
+                    "error" => new Tuple<Boolean, LogLevel>(true, LogLevel.Error),
+                    _ => new Tuple<Boolean, LogLevel>(false, LogLevel.Error)
+                }
+            };
+
         private static ConfigResult ProcessMainConfig(String[] args)
         {
             const Char keyValueDelimiter = '=';
@@ -49,13 +83,12 @@
                         return new ConfigResult.WrongConfig(Help);
                 }
             }
-            String[] mandatoryKeys = {SourceKey, DestKey};
-            foreach (String key in mandatoryKeys)
-            {
-                if (!configData.ContainsKey(key) || String.IsNullOrEmpty(configData[key]))
-                    return new ConfigResult.WrongConfig(Help);
-            }
-            ConfigData data = new ConfigData(configData[SourceKey], configData[DestKey]);
+            if (!CheckConfigKeys(configData))
+                return new ConfigResult.WrongConfig(Help);
+            (Boolean parseLogLevelResult, LogLevel logLevel) = ParseLogLevel(configData);
+            if (!parseLogLevelResult)
+                return new ConfigResult.WrongConfig(Help);
+            ConfigData data = new ConfigData(configData[SourceKey], configData[DestKey], logLevel, configData[SpecificInfoSourceKey]);
             return new ConfigResult.MainConfig(data);
         }
 
@@ -63,12 +96,16 @@
 
         public const String DestKey = "--dest";
 
+        public const String LogLevelKey = "--log-level";
+
+        public const String SpecificInfoSourceKey = "--specific-source";
+
         public const String HelpKey = "--help";
 
         public const String VersionKey = "--version";
 
         public const String Version = "0.0.1";
 
-        public const String Help = "Usage: <app> --source=<source-directory> --dest=<dest-directory>";
+        public const String Help = "Usage: <app> --source=<source directory> --dest=<dest directory> --specific-source=<specific filename> --log-level=<info|warning|error (default info)>";
     }
 }

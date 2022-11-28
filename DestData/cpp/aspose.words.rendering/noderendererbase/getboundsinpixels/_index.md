@@ -24,11 +24,12 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBounds
 ### ReturnValue
 
 The actual (as rendered on the page) bounding box of the shape in pixels.
+## Remarks
+
 
 This method converts [BoundsInPoints](../get_boundsinpoints/) into rectangle in pixels.
 
 ## Examples
-
 
 
 
@@ -73,6 +74,11 @@ ASSERT_EQ(159, bounds.get_Width());
 ASSERT_EQ(30, bounds.get_Height());
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)
 ## NodeRendererBase::GetBoundsInPixels(float, float, float) method
 
 
@@ -92,11 +98,12 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBounds
 ### ReturnValue
 
 The actual (as rendered on the page) bounding box of the shape in pixels.
+## Remarks
+
 
 This method converts [BoundsInPoints](../get_boundsinpoints/) into rectangle in pixels.
 
 ## Examples
-
 
 
 
@@ -141,3 +148,8 @@ ASSERT_EQ(159, bounds.get_Width());
 ASSERT_EQ(30, bounds.get_Height());
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

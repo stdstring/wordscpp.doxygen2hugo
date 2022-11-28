@@ -28,7 +28,6 @@ An object of a class that derives from [SaveOptions](../).
 
 
 
-
 Shows an option to optimize memory consumption when rendering large documents to PDF. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -45,6 +44,13 @@ saveOptions->set_MemoryOptimization(memoryOptimization);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.MemoryOptimization.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## SaveOptions::CreateSaveOptions(const System::String\&) method
 
 
@@ -67,7 +73,6 @@ An object of a class that derives from [SaveOptions](../).
 
 
 
-
 Shows how to set a default template for documents that do not have attached templates. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -86,3 +91,9 @@ options->set_DefaultTemplate(MyDir + u"Business brochure.dotx");
 doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

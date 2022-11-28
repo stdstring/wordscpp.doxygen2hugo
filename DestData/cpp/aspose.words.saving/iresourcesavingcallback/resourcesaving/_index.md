@@ -20,7 +20,6 @@ virtual void Aspose::Words::Saving::IResourceSavingCallback::ResourceSaving(Syst
 
 
 
-
 Shows how to use a callback to track external resources created while converting a document to HTML. 
 ```cpp
 void ResourceSavingCallback()
@@ -136,3 +135,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ResourceSavingArgs](../../resourcesavingargs/)
+* Interface [IResourceSavingCallback](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

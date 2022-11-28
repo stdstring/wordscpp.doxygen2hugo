@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::Lists::ListCollect
 
 
 
-
 Shows how to verify owner document properties of lists. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,9 @@ std::cout << (String(u"ListId: ") + list->get_ListId()) << std::endl;
 std::cout << (String(u"List is the same by ListId: ") + (System::ObjectExt::Equals(lists->GetListByListId(1), list))) << std::endl;
 ```
 
+## See Also
+
+* Class [DocumentBase](../../../aspose.words/documentbase/)
+* Class [ListCollection](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

@@ -19,6 +19,8 @@ System::SharedPtr<Aspose::Words::Tables::Cell> Aspose::Words::DocumentBuilder::I
 ### ReturnValue
 
 The cell node that was just inserted.
+## Remarks
+
 
 To start a table, just call **InsertCell**. After this, any content you add using other methods of the [DocumentBuilder](../) class will be added to the current cell.
 
@@ -29,7 +31,6 @@ To end a table row call [EndRow](../endrow/).
 Use the [CellFormat](../get_cellformat/) property to specify cell formatting.
 
 ## Examples
-
 
 
 
@@ -117,3 +118,9 @@ builder->EndTable();
 doc->Save(ArtifactsDir + u"DocumentBuilder.CreateTable.docx");
 ```
 
+## See Also
+
+* Class [Cell](../../../aspose.words.tables/cell/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

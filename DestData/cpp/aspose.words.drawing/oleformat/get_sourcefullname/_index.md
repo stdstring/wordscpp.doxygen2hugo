@@ -15,13 +15,14 @@ Gets or sets the path and name of the source file for the linked OLE object.
 System::String Aspose::Words::Drawing::OleFormat::get_SourceFullName()
 ```
 
+## Remarks
+
 
 The default value is an empty string.
 
 If [SourceFullName](./) is not an empty string, the OLE object is linked.
 
 ## Examples
-
 
 
 
@@ -74,3 +75,8 @@ doc->Save(ArtifactsDir + u"Shape.OleLinks.docx");
 }
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

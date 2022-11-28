@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Charts::ChartTitle::get_Text](../get_text/).
 void Aspose::Words::Drawing::Charts::ChartTitle::set_Text(const System::String &value)
 ```
 
+## See Also
+
+* Class [ChartTitle](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

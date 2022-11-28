@@ -20,7 +20,6 @@ System::ArrayPtr<System::SharedPtr<Aspose::Words::TabStop>> Aspose::Words::Parag
 
 
 
-
 Shows how to set custom tab stops for a paragraph. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -48,3 +47,9 @@ para->AppendChild(MakeObject<Run>(doc, u"\tTab 1\tTab 2\tTab 3"));
 doc->Save(ArtifactsDir + u"Paragraph.TabStops.docx");
 ```
 
+## See Also
+
+* Class [TabStop](../../tabstop/)
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

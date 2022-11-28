@@ -20,7 +20,6 @@ void Aspose::Words::RevisionCollection::RejectAll()
 
 
 
-
 Shows how to work with a document's collection of revisions. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revisions.docx");
@@ -75,3 +74,8 @@ revisions->RejectAll();
 ASSERT_EQ(0, revisions->get_Count());
 ```
 
+## See Also
+
+* Class [RevisionCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

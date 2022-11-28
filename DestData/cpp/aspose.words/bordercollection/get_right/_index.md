@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::BorderCollection::get_Ri
 
 
 
-
 Shows how to apply border and shading color while building a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -56,3 +55,9 @@ builder->Writeln(u"Row 2, Cell 2.");
 doc->Save(ArtifactsDir + u"DocumentBuilder.TableBordersAndShading.docx");
 ```
 
+## See Also
+
+* Class [Border](../../border/)
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

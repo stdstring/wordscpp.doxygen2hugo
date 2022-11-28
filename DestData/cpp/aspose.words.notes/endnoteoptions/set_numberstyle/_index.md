@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Notes::EndnoteOptions::get_NumberStyle](../get_number
 void Aspose::Words::Notes::EndnoteOptions::set_NumberStyle(Aspose::Words::NumberStyle value) override
 ```
 
+## See Also
+
+* Enum [NumberStyle](../../../aspose.words/numberstyle/)
+* Class [EndnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

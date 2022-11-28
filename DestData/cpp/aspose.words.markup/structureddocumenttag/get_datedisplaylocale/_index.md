@@ -15,13 +15,14 @@ Allows to set/get the language format for the date displayed in this **SDT**.
 int32_t Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale()
 ```
 
+## Remarks
 
-Accessing this property will only work for **Date** SDT type.
+
+Accessing this property will only work for [Date](../../sdttype/) SDT type.
 
 For all other SDT types exception will occur.
 
 ## Examples
-
 
 
 
@@ -56,3 +57,8 @@ builder->InsertNode(sdtDate);
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.Date.docx");
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

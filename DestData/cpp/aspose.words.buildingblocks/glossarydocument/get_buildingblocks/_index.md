@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlockCollection> Aspose
 
 
 
-
 Shows ways of accessing building blocks in a glossary document. 
 ```cpp
 void GlossaryDocument_()
@@ -117,3 +116,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [BuildingBlockCollection](../../buildingblockcollection/)
+* Class [GlossaryDocument](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

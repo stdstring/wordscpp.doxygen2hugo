@@ -20,7 +20,6 @@ bool Aspose::Words::Document::get_AutomaticallyUpdateStyles()
 
 
 
-
 Shows how to attach a template to a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -56,3 +55,8 @@ options->set_DefaultTemplate(MyDir + u"Business brochure.dotx");
 doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

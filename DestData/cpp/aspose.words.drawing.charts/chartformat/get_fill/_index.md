@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Drawing::Charts::
 
 
 
-
 Show how to set marker formatting. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,9 @@ dataPoints->idx_get(3)->get_Marker()->get_Format()->get_Stroke()->set_Transparen
 doc->Save(ArtifactsDir + u"Charts.MarkerFormatting.docx");
 ```
 
+## See Also
+
+* Class [Fill](../../../aspose.words.drawing/fill/)
+* Class [ChartFormat](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ Gets or sets an item in this collection.
 void Aspose::Words::Settings::OdsoFieldMapDataCollection::idx_set(int32_t index, const System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData> &value)
 ```
 
+## See Also
+
+* Class [OdsoFieldMapData](../../odsofieldmapdata/)
+* Class [OdsoFieldMapDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::ParagraphFormat::get_IsListItem()
 
 
 
-
 Shows how to nest a list inside another list. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -69,3 +68,8 @@ builder->get_ParagraphFormat()->ClearFormatting();
 builder->get_Document()->Save(ArtifactsDir + u"Lists.NestedLists.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::NodeChangingArgs::get_OldP
 
 
 
-
 Shows how to use a NodeChangingCallback to monitor changes to the document tree in real-time as we edit it. 
 ```cpp
 void NodeChangingCallback()
@@ -85,3 +84,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [NodeChangingArgs](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

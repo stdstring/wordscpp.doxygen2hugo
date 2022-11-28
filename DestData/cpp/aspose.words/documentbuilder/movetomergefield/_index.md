@@ -23,11 +23,12 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 ### ReturnValue
 
 True if the merge field was found and the cursor was moved; false otherwise.
+## Remarks
+
 
 Note that this method deletes the merge field from the document after moving the cursor.
 
 ## Examples
-
 
 
 
@@ -57,6 +58,11 @@ builder->Writeln(u"John Bloggs");
 doc->Save(ArtifactsDir + u"DocumentBuilder.FillMergeFields.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::MoveToMergeField(const System::String\&, bool, bool) method
 
 
@@ -78,7 +84,6 @@ bool Aspose::Words::DocumentBuilder::MoveToMergeField(const System::String &fiel
 True if the merge field was found and the cursor was moved; false otherwise.
 
 ## Examples
-
 
 
 
@@ -105,3 +110,8 @@ builder->Write(u" Text between our merge fields. ");
 doc->Save(ArtifactsDir + u"DocumentBuilder.MergeFields.docx");
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality](../get
 void Aspose::Words::Saving::FixedPageSaveOptions::set_JpegQuality(int32_t value)
 ```
 
+## See Also
+
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

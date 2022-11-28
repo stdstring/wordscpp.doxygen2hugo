@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::AxisTickLabelPosition Aspose::Words::Drawing::Ch
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -67,3 +66,9 @@ ASSERT_TRUE(chart->get_AxisZ() == nullptr);
 doc->Save(ArtifactsDir + u"Charts.AxisProperties.docx");
 ```
 
+## See Also
+
+* Enum [AxisTickLabelPosition](../../axisticklabelposition/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

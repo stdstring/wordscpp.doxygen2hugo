@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldTA::get_LongCitation](../get_longcitatio
 void Aspose::Words::Fields::FieldTA::set_LongCitation(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldTA](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::CommentCollection> Aspose::Words::Comment::get_
 
 
 
-
 Shows how to print all of a document's comments and their replies. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Comments.docx");
@@ -47,3 +46,9 @@ for (auto comment : System::IterateOver(comments->LINQ_OfType<SharedPtr<Comment>
 }
 ```
 
+## See Also
+
+* Class [CommentCollection](../../commentcollection/)
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

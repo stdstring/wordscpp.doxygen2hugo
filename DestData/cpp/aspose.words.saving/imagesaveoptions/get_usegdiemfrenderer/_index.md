@@ -15,6 +15,8 @@ Gets or sets a value determining whether to use GDI+ or Aspose.Words metafile re
 bool Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer() const
 ```
 
+## Remarks
+
 
 If set to **true** GDI+ metafile renderer is used. I.e. content is written to GDI+ graphics object and saved to metafile.
 
@@ -27,7 +29,6 @@ GDI+ saving works only on .NET.
 The default value is **true**.
 
 ## Examples
-
 
 
 
@@ -51,3 +52,8 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.Renderer.emf", saveOptions);
 ASSERT_GE(30000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOptions.Renderer.emf")->get_Length());
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

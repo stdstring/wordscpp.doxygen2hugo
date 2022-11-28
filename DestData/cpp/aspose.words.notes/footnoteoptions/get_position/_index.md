@@ -20,7 +20,6 @@ Aspose::Words::Notes::FootnotePosition Aspose::Words::Notes::FootnoteOptions::ge
 
 
 
-
 Shows how to select a different place where the document collects and displays its footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ doc->get_FootnoteOptions()->set_Position(footnotePosition);
 doc->Save(ArtifactsDir + u"InlineStory.PositionFootnote.docx");
 ```
 
+## See Also
+
+* Enum [FootnotePosition](../../footnoteposition/)
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

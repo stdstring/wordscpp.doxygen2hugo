@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldAdvance::get_RightOffset](../get_rightof
 void Aspose::Words::Fields::FieldAdvance::set_RightOffset(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldAdvance](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

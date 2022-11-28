@@ -23,13 +23,14 @@ bool Aspose::Words::CommentRangeEnd::Accept(System::SharedPtr<Aspose::Words::Doc
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [VisitCommentRangeEnd()](../../documentvisitor/visitcommentrangeend/).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -170,3 +171,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../documentvisitor/)
+* Class [CommentRangeEnd](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

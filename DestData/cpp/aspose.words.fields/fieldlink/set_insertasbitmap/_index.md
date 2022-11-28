@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldLink::get_InsertAsBitmap](../get_inserta
 void Aspose::Words::Fields::FieldLink::set_InsertAsBitmap(bool value)
 ```
 
+## See Also
+
+* Class [FieldLink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

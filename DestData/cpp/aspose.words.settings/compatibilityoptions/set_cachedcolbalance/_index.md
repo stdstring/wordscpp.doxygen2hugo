@@ -15,3 +15,8 @@ Use Cached [Paragraph](../../../aspose.words/paragraph/) Information for Column 
 void Aspose::Words::Settings::CompatibilityOptions::set_CachedColBalance(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

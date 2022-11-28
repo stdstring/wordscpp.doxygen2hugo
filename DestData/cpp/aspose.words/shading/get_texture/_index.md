@@ -20,7 +20,6 @@ Aspose::Words::TextureIndex Aspose::Words::Shading::get_Texture()
 
 
 
-
 Shows how to decorate text with borders and shading. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,9 @@ builder->Write(u"This paragraph is formatted with a double border and shading.")
 doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 ```
 
+## See Also
+
+* Enum [TextureIndex](../../textureindex/)
+* Class [Shading](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

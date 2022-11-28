@@ -20,7 +20,6 @@ float Aspose::Words::Saving::ImageSaveOptions::get_Scale() const
 
 
 
-
 Shows how to edit the image while Aspose.Words converts a document to one. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -59,3 +58,8 @@ saveOptions->set_Scale(5.0f);
 math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", saveOptions);
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

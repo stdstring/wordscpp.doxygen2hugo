@@ -15,3 +15,9 @@ Gets a collection of objects that specify inclusion/exclusion of individual reco
 System::SharedPtr<Aspose::Words::Settings::OdsoRecipientDataCollection> Aspose::Words::Settings::Odso::get_RecipientDatas() const
 ```
 
+## See Also
+
+* Class [OdsoRecipientDataCollection](../../odsorecipientdatacollection/)
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

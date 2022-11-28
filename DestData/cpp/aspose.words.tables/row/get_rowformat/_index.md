@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::RowFormat> Aspose::Words::Tables::Row::
 
 
 
-
 Shows how to modify the format of rows and cells in a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -67,3 +66,9 @@ firstRow->get_RowFormat()->set_AllowBreakAcrossPages(true);
 doc->Save(ArtifactsDir + u"Table.RowFormat.docx");
 ```
 
+## See Also
+
+* Class [RowFormat](../../rowformat/)
+* Class [Row](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

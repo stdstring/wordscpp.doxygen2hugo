@@ -20,7 +20,6 @@ void Aspose::Words::Body::EnsureMinimum()
 
 
 
-
 Clears main text from all sections from the document leaving the sections themselves. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ body->get_FirstParagraph()->AppendChild(MakeObject<Run>(doc, u"Hello world!"));
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Body](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

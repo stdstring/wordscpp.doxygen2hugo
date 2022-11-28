@@ -24,7 +24,6 @@ void Aspose::Words::TabStopCollection::RemoveByIndex(int32_t index)
 
 
 
-
 Shows how to select a tab stop in a document by its index and remove it. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -43,3 +42,8 @@ ASSERT_EQ(1, tabStops->get_Count());
 doc->Save(ArtifactsDir + u"TabStopCollection.RemoveByIndex.docx");
 ```
 
+## See Also
+
+* Class [TabStopCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

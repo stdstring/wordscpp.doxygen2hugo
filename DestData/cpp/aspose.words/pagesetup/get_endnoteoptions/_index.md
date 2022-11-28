@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Notes::EndnoteOptions> Aspose::Words::PageSetup
 
 
 
-
 Shows how to configure options affecting footnotes/endnotes in a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -49,3 +48,9 @@ endnoteOptions->set_StartNumber(1);
 doc->Save(ArtifactsDir + u"PageSetup.FootnoteOptions.docx");
 ```
 
+## See Also
+
+* Class [EndnoteOptions](../../../aspose.words.notes/endnoteoptions/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

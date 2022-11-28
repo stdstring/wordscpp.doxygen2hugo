@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_SizeBi](../get_sizebi/).
 void Aspose::Words::Font::set_SizeBi(double value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

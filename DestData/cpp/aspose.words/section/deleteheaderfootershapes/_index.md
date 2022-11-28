@@ -20,7 +20,6 @@ void Aspose::Words::Section::DeleteHeaderFooterShapes()
 
 
 
-
 Shows how to remove all shapes from all headers footers in a section. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -48,3 +47,8 @@ ASSERT_EQ(0,
           doc->get_FirstSection()->get_HeadersFooters()->idx_get(HeaderFooterType::FooterPrimary)->GetChildNodes(NodeType::Shape, true)->get_Count());
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

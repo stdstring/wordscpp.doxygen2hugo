@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow](../get_o
 void Aspose::Words::Fields::FieldHyperlink::set_OpenInNewWindow(bool value)
 ```
 
+## See Also
+
+* Class [FieldHyperlink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

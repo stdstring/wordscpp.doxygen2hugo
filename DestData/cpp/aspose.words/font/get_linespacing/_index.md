@@ -20,7 +20,6 @@ double Aspose::Words::Font::get_LineSpacing()
 
 
 
-
 Shows how to get a font's line spacing, in points. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -34,3 +33,8 @@ builder->get_Font()->set_Name(u"Times New Roman");
 ASPOSE_ASSERT_EQ(13.798828125, builder->get_Font()->get_LineSpacing());
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

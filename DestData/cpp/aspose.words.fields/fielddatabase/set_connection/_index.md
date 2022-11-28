@@ -15,3 +15,8 @@ Sets a connection to the data.
 void Aspose::Words::Fields::FieldDatabase::set_Connection(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldDatabase](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

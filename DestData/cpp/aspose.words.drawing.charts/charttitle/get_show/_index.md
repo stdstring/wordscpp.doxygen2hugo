@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartTitle::get_Show()
 
 
 
-
 Shows how to insert a chart and set a title. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -43,3 +42,8 @@ title->set_Overlay(true);
 doc->Save(ArtifactsDir + u"Charts.ChartTitle.docx");
 ```
 
+## See Also
+
+* Class [ChartTitle](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

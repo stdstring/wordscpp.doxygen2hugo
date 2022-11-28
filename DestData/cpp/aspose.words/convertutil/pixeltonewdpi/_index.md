@@ -26,7 +26,6 @@ static int32_t Aspose::Words::ConvertUtil::PixelToNewDpi(double pixels, double o
 
 
 
-
 Shows how to use convert points to pixels with default and custom resolution. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -59,3 +58,8 @@ builder->Writeln(String::Format(u"At a DPI of {0}, the text is now {1} points/{2
 doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndPixelsDpi.docx");
 ```
 
+## See Also
+
+* Class [ConvertUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<System::Text::Encoding> Aspose::Words::Saving::HtmlSaveOptions
 
 
 
-
 Shows how to use a specific encoding when saving a document to .epub. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -42,3 +41,8 @@ saveOptions->set_ExportDocumentProperties(true);
 doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOptions);
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

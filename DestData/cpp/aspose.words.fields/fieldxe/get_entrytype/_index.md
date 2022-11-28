@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldXE::get_EntryType()
 
 
 
-
 Shows how to create an INDEX field, and then use XE fields to populate it with entries. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -73,3 +72,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.INDEX.XE.Filtering.docx");
 ```
 
+## See Also
+
+* Class [FieldXE](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

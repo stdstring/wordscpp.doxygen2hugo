@@ -15,6 +15,8 @@ Returns or sets the number format for the list level.
 System::String Aspose::Words::Lists::ListLevel::get_NumberFormat() const
 ```
 
+## Remarks
+
 
 Among normal text characters, the string can contain placeholder characters \x0000 to \x0008 representing the numbers from the corresponding list levels.
 
@@ -23,7 +25,6 @@ For example, the string "\x0000.\x0001)" will generate a list label that looks s
 Null is not allowed, but an empty string meaning no number is valid.
 
 ## Examples
-
 
 
 
@@ -141,3 +142,8 @@ builder->get_ListFormat()->RemoveNumbers();
 doc->Save(ArtifactsDir + u"Lists.CreateListRestartAfterHigher.docx");
 ```
 
+## See Also
+
+* Class [ListLevel](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

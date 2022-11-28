@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::Row> Aspose::Words::Tables::Cell::get_P
 
 
 
-
 Shows how to set a table to stay together on the same page. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table spanning two pages.docx");
@@ -44,3 +43,9 @@ for (const auto& cell : System::IterateOver(table->GetChildNodes(NodeType::Cell,
 doc->Save(ArtifactsDir + u"Table.KeepTableTogether.docx");
 ```
 
+## See Also
+
+* Class [Row](../../row/)
+* Class [Cell](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

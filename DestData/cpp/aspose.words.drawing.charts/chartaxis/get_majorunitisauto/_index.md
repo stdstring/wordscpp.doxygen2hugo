@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Charts::ChartAxis::get_MajorUnitIsAuto()
 
 
 
-
 Shows how to manipulate the tick marks and displayed values of a chart axis. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -74,3 +73,8 @@ axis->get_DisplayUnit()->set_CustomUnit(1000000);
 doc->Save(ArtifactsDir + u"Charts.AxisDisplayUnit.docx");
 ```
 
+## See Also
+
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

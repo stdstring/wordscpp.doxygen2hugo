@@ -23,13 +23,14 @@ bool Aspose::Words::BookmarkStart::Accept(System::SharedPtr<Aspose::Words::Docum
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [VisitBookmarkStart()](../../documentvisitor/visitbookmarkstart/).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -110,3 +111,9 @@ public:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../documentvisitor/)
+* Class [BookmarkStart](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

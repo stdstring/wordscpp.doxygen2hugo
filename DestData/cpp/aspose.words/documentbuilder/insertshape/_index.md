@@ -35,7 +35,6 @@ The shape node that was inserted.
 
 
 
-
 Shows how to insert DML shapes into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -57,6 +56,16 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Transitional);
 doc->Save(ArtifactsDir + u"Shape.ShapeInsertion.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [ShapeType](../../../aspose.words.drawing/shapetype/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertShape(Aspose::Words::Drawing::ShapeType, double, double) method
 
 
@@ -81,7 +90,6 @@ The shape node that was inserted.
 
 
 
-
 Shows how to insert DML shapes into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -103,3 +111,10 @@ saveOptions->set_Compliance(OoxmlCompliance::Iso29500_2008_Transitional);
 doc->Save(ArtifactsDir + u"Shape.ShapeInsertion.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [ShapeType](../../../aspose.words.drawing/shapetype/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

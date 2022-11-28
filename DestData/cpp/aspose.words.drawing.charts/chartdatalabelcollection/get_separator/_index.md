@@ -20,7 +20,6 @@ System::String Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_Sep
 
 
 
-
 Shows how to work with data labels of a bubble chart. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -73,3 +72,8 @@ dataLabels->set_Separator(u"; ");
 doc->Save(ArtifactsDir + u"Charts.DataLabelsPieChart.docx");
 ```
 
+## See Also
+
+* Class [ChartDataLabelCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

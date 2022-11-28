@@ -23,13 +23,14 @@ bool Aspose::Words::EditableRangeStart::Accept(System::SharedPtr<Aspose::Words::
 ### ReturnValue
 
 False if the visitor requested the enumeration to stop.
+## Remarks
+
 
 Calls [VisitEditableRangeStart()](../../documentvisitor/visiteditablerangestart/).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -135,3 +136,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../documentvisitor/)
+* Class [EditableRangeStart](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

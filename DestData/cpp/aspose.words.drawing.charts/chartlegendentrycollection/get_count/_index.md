@@ -15,3 +15,8 @@ Returns the number of [ChartLegendEntry](../../chartlegendentry/) in this collec
 int32_t Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::get_Count()
 ```
 
+## See Also
+
+* Class [ChartLegendEntryCollection](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

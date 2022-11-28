@@ -15,11 +15,12 @@ Removes all macros (the VBA project) as well as toolbars and command customizati
 void Aspose::Words::Document::RemoveMacros()
 ```
 
+## Remarks
+
 
 By removing all macros from a document you can ensure the document contains no macro viruses.
 
 ## Examples
-
 
 
 
@@ -37,3 +38,8 @@ ASSERT_FALSE(doc->get_HasMacros());
 ASSERT_TRUE(doc->get_VbaProject() == nullptr);
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

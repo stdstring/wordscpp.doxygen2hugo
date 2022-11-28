@@ -15,3 +15,9 @@ Gets the [BuildingBlock](../../../aspose.words.buildingblocks/buildingblock/) co
 virtual System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::Markup::IStructuredDocumentTag::get_Placeholder()=0
 ```
 
+## See Also
+
+* Class [BuildingBlock](../../../aspose.words.buildingblocks/buildingblock/)
+* Interface [IStructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

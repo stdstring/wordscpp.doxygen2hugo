@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Italic()
 
 
 
-
 Shows how to write italicized text using a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -33,3 +32,8 @@ builder->Writeln(u"Hello world!");
 doc->Save(ArtifactsDir + u"Font.Italic.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

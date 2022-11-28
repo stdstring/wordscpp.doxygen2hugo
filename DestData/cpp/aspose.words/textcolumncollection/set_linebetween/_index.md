@@ -15,3 +15,8 @@ Setter for [Aspose::Words::TextColumnCollection::get_LineBetween](../get_linebet
 void Aspose::Words::TextColumnCollection::set_LineBetween(bool value)
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

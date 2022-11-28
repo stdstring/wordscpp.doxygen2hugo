@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages() const
 
 
 
-
 Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. 
 ```cpp
 void SvgResourceFolder()
@@ -58,3 +57,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

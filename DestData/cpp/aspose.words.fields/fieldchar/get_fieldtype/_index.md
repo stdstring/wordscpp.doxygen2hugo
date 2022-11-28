@@ -20,7 +20,6 @@ Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldChar::get_FieldType
 
 
 
-
 Shows how to work with a [FieldStart](../../fieldstart/) node. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ ASSERT_EQ(u" DATE  \\@ \"dddd, MMMM dd, yyyy\"", field->GetFieldCode());
 field->Update();
 ```
 
+## See Also
+
+* Enum [FieldType](../../fieldtype/)
+* Class [FieldChar](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

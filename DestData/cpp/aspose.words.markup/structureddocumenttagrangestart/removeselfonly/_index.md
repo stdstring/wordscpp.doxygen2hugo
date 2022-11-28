@@ -20,7 +20,6 @@ void Aspose::Words::Markup::StructuredDocumentTagRangeStart::RemoveSelfOnly()
 
 
 
-
 Shows how to create/remove structured document tag and its content. 
 ```cpp
 void SdtRangeExtendedMethods()
@@ -67,3 +66,8 @@ void InsertStructuredDocumentTagRanges(SharedPtr<Document> doc, SharedPtr<Struct
 }
 ```
 
+## See Also
+
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

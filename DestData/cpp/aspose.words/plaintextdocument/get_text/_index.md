@@ -20,7 +20,6 @@ System::String Aspose::Words::PlainTextDocument::get_Text() const
 
 
 
-
 Shows how to load the contents of a Microsoft Word document in plaintext. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -34,3 +33,8 @@ auto plaintext = MakeObject<PlainTextDocument>(ArtifactsDir + u"PlainTextDocumen
 ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ```
 
+## See Also
+
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

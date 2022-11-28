@@ -20,7 +20,6 @@ int32_t Aspose::Words::ParagraphFormat::get_LinesToDrop()
 
 
 
-
 Shows how to set the size of a drop cap. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ builder->Writeln(u"ello world!");
 doc->Save(ArtifactsDir + u"ParagraphFormat.LinesToDrop.odt");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

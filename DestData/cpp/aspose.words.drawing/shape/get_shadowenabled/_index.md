@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::Shape::get_ShadowEnabled()
 
 
 
-
 Shows how to iterate over all the shapes in a document. 
 ```cpp
 void VisitShapes()
@@ -131,3 +130,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

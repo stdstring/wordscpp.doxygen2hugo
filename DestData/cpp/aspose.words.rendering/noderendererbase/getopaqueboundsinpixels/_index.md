@@ -24,11 +24,12 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetOpaque
 ### ReturnValue
 
 The opaque rectangle of the shape in pixels.
+## Remarks
+
 
 This method converts [OpaqueBoundsInPoints](../get_opaqueboundsinpoints/) into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.
 
 ## Examples
-
 
 
 
@@ -73,6 +74,11 @@ ASSERT_EQ(159, bounds.get_Width());
 ASSERT_EQ(30, bounds.get_Height());
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)
 ## NodeRendererBase::GetOpaqueBoundsInPixels(float, float, float) method
 
 
@@ -92,11 +98,12 @@ System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetOpaque
 ### ReturnValue
 
 The opaque rectangle of the shape in pixels.
+## Remarks
+
 
 This method converts [OpaqueBoundsInPoints](../get_opaqueboundsinpoints/) into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.
 
 ## Examples
-
 
 
 
@@ -141,3 +148,8 @@ ASSERT_EQ(159, bounds.get_Width());
 ASSERT_EQ(30, bounds.get_Height());
 ```
 
+## See Also
+
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

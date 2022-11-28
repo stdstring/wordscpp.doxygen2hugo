@@ -15,11 +15,12 @@ Specifies the base string used for evaluating relative hyperlinks in this docume
 System::String Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase()
 ```
 
+## Remarks
+
 
 Aspose.Words does not use this property.
 
 ## Examples
-
 
 
 
@@ -50,3 +51,8 @@ ASSERT_TRUE(System::IO::File::Exists(properties->get_HyperlinkBase() +
 doc->Save(ArtifactsDir + u"DocumentProperties.HyperlinkBase.WorkingLink.docx");
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

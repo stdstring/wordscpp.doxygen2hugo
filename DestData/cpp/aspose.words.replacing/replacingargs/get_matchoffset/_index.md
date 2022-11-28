@@ -20,7 +20,6 @@ int32_t Aspose::Words::Replacing::ReplacingArgs::get_MatchOffset() const
 
 
 
-
 Shows how to apply a different font to new content via [FindReplaceOptions](../../findreplaceoptions/). 
 ```cpp
 void ConvertNumbersToHexadecimal()
@@ -92,3 +91,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ReplacingArgs](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

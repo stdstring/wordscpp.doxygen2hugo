@@ -20,7 +20,6 @@ static System::String Aspose::Words::Node::NodeTypeToString(Aspose::Words::NodeT
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()
@@ -74,3 +73,9 @@ for (SharedPtr<Node> node = doc->get_FirstSection()->get_Body()->get_FirstChild(
 }
 ```
 
+## See Also
+
+* Enum [NodeType](../../nodetype/)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

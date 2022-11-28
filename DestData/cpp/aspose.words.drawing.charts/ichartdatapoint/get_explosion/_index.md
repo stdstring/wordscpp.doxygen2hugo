@@ -20,7 +20,6 @@ virtual int32_t Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion()
 
 
 
-
 Shows how to move the slices of a pie chart away from the center. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -45,3 +44,8 @@ dataPoint->set_Explosion(40);
 doc->Save(ArtifactsDir + u"Charts.PieChartExplosion.docx");
 ```
 
+## See Also
+
+* Interface [IChartDataPoint](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

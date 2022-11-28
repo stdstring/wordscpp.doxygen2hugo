@@ -15,6 +15,8 @@ Gets or sets a value determining whether or not to create a "Span" tag in the do
 bool Aspose::Words::Saving::PdfSaveOptions::get_ExportLanguageToSpanTag() const
 ```
 
+## Remarks
+
 
 Default value is **false** and "Lang" attribute is attached to a marked-content sequence in a page content stream.
 
@@ -23,7 +25,6 @@ When the value is **true** "Span" tag is created for the text with non-default l
 This value is ignored when [ExportDocumentStructure](../get_exportdocumentstructure/) is **false**.
 
 ## Examples
-
 
 
 
@@ -42,3 +43,8 @@ saveOptions->set_ExportLanguageToSpanTag(true);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ExportLanguageToSpanTag.pdf", saveOptions);
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

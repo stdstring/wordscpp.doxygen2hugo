@@ -15,13 +15,14 @@ Gets or sets a boolean value indicating whether to allow embedding fonts with Po
 bool Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts() const
 ```
 
+## Remarks
+
 
 Note, Word does not embed PostScript fonts, but can open documents with embedded fonts of this type.
 
 This option only works when [EmbedTrueTypeFonts](../../../aspose.words.fonts/fontinfocollection/get_embedtruetypefonts/) of the [FontInfos](../../../aspose.words/documentbase/get_fontinfos/) property is set to **true**.
 
 ## Examples
-
 
 
 
@@ -49,3 +50,8 @@ saveOptions->set_AllowEmbeddingPostScriptFonts(true);
 doc->Save(ArtifactsDir + u"Document.AllowEmbeddingPostScriptFonts.docx", saveOptions);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Ignore Width of Last Tab Stop When Aligning [Paragraph](../../../aspose.words/pa
 void Aspose::Words::Settings::CompatibilityOptions::set_ForgetLastTabAlignment(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

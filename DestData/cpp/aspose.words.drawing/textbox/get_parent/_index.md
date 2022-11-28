@@ -15,3 +15,9 @@ Gets a parent shape for the [TextBox](../).
 System::SharedPtr<Aspose::Words::Drawing::Shape> Aspose::Words::Drawing::TextBox::get_Parent() const
 ```
 
+## See Also
+
+* Class [Shape](../../shape/)
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

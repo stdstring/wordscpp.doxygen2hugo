@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::SpecialChar::get_NodeType() const overrid
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()
@@ -58,3 +57,9 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 }
 ```
 
+## See Also
+
+* Enum [NodeType](../../nodetype/)
+* Class [SpecialChar](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,6 +15,8 @@ Specifies whether the shape's anchor is locked.
 bool Aspose::Words::Drawing::ShapeBase::get_AnchorLocked()
 ```
 
+## Remarks
+
 
 The default value is **false**.
 
@@ -23,7 +25,6 @@ Has effect only for top level shapes.
 This property affects behavior of the shape's anchor in Microsoft Word. When the anchor is not locked, moving the shape in Microsoft Word can move the shape's anchor too.
 
 ## Examples
-
 
 
 
@@ -52,3 +53,8 @@ shape->set_AnchorLocked(anchorLocked);
 doc->Save(ArtifactsDir + u"Shape.AnchorLocked.docx");
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

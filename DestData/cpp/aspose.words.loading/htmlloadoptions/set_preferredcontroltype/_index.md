@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Loading::HtmlLoadOptions::get_PreferredControlType](.
 void Aspose::Words::Loading::HtmlLoadOptions::set_PreferredControlType(Aspose::Words::Loading::HtmlControlType value)
 ```
 
+## See Also
+
+* Enum [HtmlControlType](../../htmlcontroltype/)
+* Class [HtmlLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

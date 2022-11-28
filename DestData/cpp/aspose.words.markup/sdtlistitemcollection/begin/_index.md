@@ -15,6 +15,12 @@ url: /cpp/aspose.words.markup/sdtlistitemcollection/begin/
 const_iterator Aspose::Words::Markup::SdtListItemCollection::begin() const noexcept
 ```
 
+## See Also
+
+* Typedef [const_iterator](../const_iterator/)
+* Class [SdtListItemCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)
 ## SdtListItemCollection::begin() method
 
 
@@ -24,3 +30,9 @@ const_iterator Aspose::Words::Markup::SdtListItemCollection::begin() const noexc
 iterator Aspose::Words::Markup::SdtListItemCollection::begin() noexcept
 ```
 
+## See Also
+
+* Typedef [iterator](../iterator/)
+* Class [SdtListItemCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

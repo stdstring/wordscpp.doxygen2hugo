@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to create a document with a sample of all the lists from another document. 
 ```cpp
 void PrintOutAllLists()
@@ -54,3 +53,9 @@ static void AddListSample(SharedPtr<DocumentBuilder> builder, SharedPtr<List> li
 }
 ```
 
+## See Also
+
+* Class [List](../../list/)
+* Class [ListCollection](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

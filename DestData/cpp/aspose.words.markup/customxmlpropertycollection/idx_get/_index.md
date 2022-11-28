@@ -24,7 +24,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> Aspose::Words::Marku
 
 
 
-
 Shows how to work with smart tag properties to get in depth information about smart tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Smart tags.doc");
@@ -76,6 +75,12 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomXmlProperty](../../customxmlproperty/)
+* Class [CustomXmlPropertyCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)
 ## CustomXmlPropertyCollection::idx_get(int32_t) method
 
 
@@ -94,7 +99,6 @@ System::SharedPtr<Aspose::Words::Markup::CustomXmlProperty> Aspose::Words::Marku
 
 
 
-
 Shows how to work with smart tag properties to get in depth information about smart tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Smart tags.doc");
@@ -146,3 +150,9 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomXmlProperty](../../customxmlproperty/)
+* Class [CustomXmlPropertyCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

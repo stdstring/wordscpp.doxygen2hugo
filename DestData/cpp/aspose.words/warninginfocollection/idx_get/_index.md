@@ -20,4 +20,9 @@ System::SharedPtr<Aspose::Words::WarningInfo> Aspose::Words::WarningInfoCollecti
 | --- | --- | --- |
 | index | int32_t | Zero-based index of the item. |
 
+## See Also
 
+* Class [WarningInfo](../../warninginfo/)
+* Class [WarningInfoCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

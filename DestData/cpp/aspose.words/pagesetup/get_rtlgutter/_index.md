@@ -20,7 +20,6 @@ bool Aspose::Words::PageSetup::get_RtlGutter()
 
 
 
-
 Shows how to set gutter margins. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ pageSetup->set_MultiplePages(MultiplePagesType::MirrorMargins);
 doc->Save(ArtifactsDir + u"PageSetup.Gutter.docx");
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ Returns a deep clone of this object.
 System::SharedPtr<Aspose::Words::Settings::MailMergeSettings> Aspose::Words::Settings::MailMergeSettings::Clone()
 ```
 
+## See Also
+
+* Class [MailMergeSettings](../)
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

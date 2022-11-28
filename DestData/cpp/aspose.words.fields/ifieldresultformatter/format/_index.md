@@ -20,7 +20,6 @@ virtual System::String Aspose::Words::Fields::IFieldResultFormatter::Format(doub
 
 
 
-
 Shows how to automatically apply a custom format to field results as the fields are updated. 
 ```cpp
 void FieldResultFormatting_()
@@ -205,6 +204,12 @@ private:
 };
 ```
 
+## See Also
+
+* Enum [GeneralFormat](../../generalformat/)
+* Interface [IFieldResultFormatter](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## IFieldResultFormatter::Format(System::String, Aspose::Words::Fields::GeneralFormat) method
 
 
@@ -219,7 +224,6 @@ virtual System::String Aspose::Words::Fields::IFieldResultFormatter::Format(Syst
 
 
 
-
 Shows how to automatically apply a custom format to field results as the fields are updated. 
 ```cpp
 void FieldResultFormatting_()
@@ -404,3 +408,9 @@ private:
 };
 ```
 
+## See Also
+
+* Enum [GeneralFormat](../../generalformat/)
+* Interface [IFieldResultFormatter](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

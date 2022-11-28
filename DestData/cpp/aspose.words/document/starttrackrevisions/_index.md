@@ -19,6 +19,8 @@ void Aspose::Words::Document::StartTrackRevisions(const System::String &author)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | author | const System::String\& | Initials of the author to use for revisions. |
+## Remarks
+
 
 If you call this method and then make some changes to the document programmatically, save the document and later open the document in MS Word you will see these changes as revisions.
 
@@ -29,7 +31,6 @@ Automatic tracking of changes is supported both when modifying this document thr
 This method does not change the [TrackRevisions](../get_trackrevisions/) option and does not use its value for the purposes of revision tracking.
 
 ## Examples
-
 
 
 
@@ -75,6 +76,11 @@ ASSERT_EQ(System::DateTime::MinValue, doc->get_Revisions()->idx_get(1)->get_Date
 doc->Save(ArtifactsDir + u"Document.StartTrackRevisions.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::StartTrackRevisions(const System::String\&, System::DateTime) method
 
 
@@ -89,6 +95,8 @@ void Aspose::Words::Document::StartTrackRevisions(const System::String &author, 
 | --- | --- | --- |
 | author | const System::String\& | Initials of the author to use for revisions. |
 | dateTime | System::DateTime | The date and time to use for revisions. |
+## Remarks
+
 
 If you call this method and then make some changes to the document programmatically, save the document and later open the document in MS Word you will see these changes as revisions.
 
@@ -99,7 +107,6 @@ Automatic tracking of changes is supported both when modifying this document thr
 This method does not change the [TrackRevisions](../get_trackrevisions/) option and does not use its value for the purposes of revision tracking.
 
 ## Examples
-
 
 
 
@@ -145,3 +152,8 @@ ASSERT_EQ(System::DateTime::MinValue, doc->get_Revisions()->idx_get(1)->get_Date
 doc->Save(ArtifactsDir + u"Document.StartTrackRevisions.docx");
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

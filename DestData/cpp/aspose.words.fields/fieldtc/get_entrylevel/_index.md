@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldTC::get_EntryLevel()
 
 
 
-
 Shows how to insert a TOC field, and filter which TC fields end up as entries. 
 ```cpp
 void FieldTocEntryIdentifier()
@@ -64,3 +63,8 @@ void InsertTocEntry(SharedPtr<DocumentBuilder> builder, String text, String type
 }
 ```
 
+## See Also
+
+* Class [FieldTC](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

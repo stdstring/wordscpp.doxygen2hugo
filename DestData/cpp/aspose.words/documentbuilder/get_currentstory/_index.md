@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Story> Aspose::Words::DocumentBuilder::get_Curr
 
 
 
-
 Shows how to work with a document builder's current story. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -44,3 +43,9 @@ builder->EndTable();
 ASSERT_TRUE(builder->get_CurrentStory()->get_Tables()->Contains(table));
 ```
 
+## See Also
+
+* Class [Story](../../story/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

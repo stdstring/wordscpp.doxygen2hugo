@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldSymbol::get_FontName()
 
 
 
-
 Shows how to use the SYMBOL field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -71,3 +70,8 @@ builder->Write(u"Line 3");
 doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ```
 
+## See Also
+
+* Class [FieldSymbol](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

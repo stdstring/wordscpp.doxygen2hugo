@@ -20,7 +20,6 @@ void Aspose::Words::Fields::Field::Update()
 
 
 
-
 Shows how to insert a field into a document using FieldType. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -123,6 +122,11 @@ ASSERT_EQ(u"58", field->get_Result());
 ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## Field::Update(bool) method
 
 
@@ -138,7 +142,6 @@ void Aspose::Words::Fields::Field::Update(bool ignoreMergeFormat)
 | ignoreMergeFormat | bool | If **true** then direct field result formatting is abandoned, regardless of the MERGEFORMAT switch, otherwise normal update is performed. |
 
 ## Examples
-
 
 
 
@@ -176,3 +179,8 @@ includePicture->Update(true);
 }
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

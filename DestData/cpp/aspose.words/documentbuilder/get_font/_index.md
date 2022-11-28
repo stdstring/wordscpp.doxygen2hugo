@@ -15,13 +15,14 @@ Returns an object that represents current font formatting properties.
 System::SharedPtr<Aspose::Words::Font> Aspose::Words::DocumentBuilder::get_Font()
 ```
 
+## Remarks
+
 
 Use **Font** to access and modify font formatting properties.
 
 Specify font formatting before inserting text.
 
 ## Examples
-
 
 
 
@@ -97,3 +98,9 @@ builder->EndTable();
 doc->Save(ArtifactsDir + u"DocumentBuilder.CreateFormattedTable.docx");
 ```
 
+## See Also
+
+* Class [Font](../../font/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

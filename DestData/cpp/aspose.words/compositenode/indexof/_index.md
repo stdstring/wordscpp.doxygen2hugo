@@ -20,7 +20,6 @@ int32_t Aspose::Words::CompositeNode::IndexOf(const System::SharedPtr<Aspose::Wo
 
 
 
-
 Shows how to get the index of a given child node from its parent. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -31,3 +30,9 @@ SharedPtr<Body> body = doc->get_FirstSection()->get_Body();
 ASSERT_EQ(24, body->get_ChildNodes()->IndexOf(body->get_LastParagraph()));
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

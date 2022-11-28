@@ -20,7 +20,6 @@ bool Aspose::Words::Paragraph::get_IsEndOfDocument()
 
 
 
-
 Shows how to insert a paragraph into the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -47,3 +46,8 @@ builder->Writeln(u"Hello world!");
 ASSERT_TRUE(builder->get_CurrentParagraph()->get_IsEndOfDocument());
 ```
 
+## See Also
+
+* Class [Paragraph](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

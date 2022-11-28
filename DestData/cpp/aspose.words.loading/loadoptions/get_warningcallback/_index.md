@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::IWarningCallback> Aspose::Words::Loading::LoadO
 
 
 
-
 Shows how to print and store warnings that occur during document loading. 
 ```cpp
 void LoadOptionsWarningCallback()
@@ -63,3 +62,9 @@ private:
 };
 ```
 
+## See Also
+
+* Interface [IWarningCallback](../../../aspose.words/iwarningcallback/)
+* Class [LoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

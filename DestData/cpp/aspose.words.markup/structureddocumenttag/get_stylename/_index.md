@@ -20,7 +20,6 @@ System::String Aspose::Words::Markup::StructuredDocumentTag::get_StyleName()
 
 
 
-
 Shows how to work with styles for content control elements. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -52,3 +51,8 @@ for (const auto& node : System::IterateOver(tags))
 }
 ```
 
+## See Also
+
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

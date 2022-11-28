@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLi
 void Aspose::Words::Settings::HyphenationOptions::set_ConsecutiveHyphenLimit(int32_t value)
 ```
 
+## See Also
+
+* Class [HyphenationOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

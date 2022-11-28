@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter()
 
 
 
-
 Shows how to organize a document using AUTONUMLGL fields. 
 ```cpp
 void FieldAutoNumLgl_()
@@ -94,3 +93,8 @@ static void InsertNumberedClause(SharedPtr<DocumentBuilder> builder, String head
 }
 ```
 
+## See Also
+
+* Class [FieldAutoNumLgl](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

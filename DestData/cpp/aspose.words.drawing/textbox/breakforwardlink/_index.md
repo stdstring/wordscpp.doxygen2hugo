@@ -20,7 +20,6 @@ void Aspose::Words::Drawing::TextBox::BreakForwardLink()
 
 
 
-
 Shows how to link text boxes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -84,3 +83,8 @@ if (textBox3->get_Next() == nullptr && textBox3->get_Previous() != nullptr)
 doc->Save(ArtifactsDir + u"Shape.CreateLinkBetweenTextBoxes.docx");
 ```
 
+## See Also
+
+* Class [TextBox](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

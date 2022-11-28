@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::Story::get_FirstParag
 
 
 
-
 Shows how to format a run of text using its font property. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -63,3 +62,9 @@ doc->get_FirstSection()->get_Body()->get_FirstParagraph()->AppendChild(textBox);
 doc->Save(ArtifactsDir + u"Shape.CreateTextBox.docx");
 ```
 
+## See Also
+
+* Class [Paragraph](../../paragraph/)
+* Class [Story](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

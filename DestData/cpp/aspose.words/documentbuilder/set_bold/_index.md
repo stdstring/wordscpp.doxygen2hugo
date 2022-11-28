@@ -15,3 +15,8 @@ Setter for [Aspose::Words::DocumentBuilder::get_Bold](../get_bold/).
 void Aspose::Words::DocumentBuilder::set_Bold(bool value)
 ```
 
+## See Also
+
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

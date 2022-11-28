@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::Field::GetFieldCode()
 
 
 
-
 Shows how to insert a field into a document using a field code. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -54,6 +53,11 @@ ASSERT_EQ(String::Format(u" IF \u0013 MERGEFIELD NetIncome \u0014\u0015 > 0 \" (
 ASSERT_EQ(fieldIf->GetFieldCode(), fieldIf->GetFieldCode(true));
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)
 ## Field::GetFieldCode(bool) method
 
 
@@ -69,7 +73,6 @@ System::String Aspose::Words::Fields::Field::GetFieldCode(bool includeChildField
 | includeChildFieldCodes | bool | **True** if child field codes should be included. |
 
 ## Examples
-
 
 
 
@@ -91,3 +94,8 @@ ASSERT_EQ(String::Format(u" IF \u0013 MERGEFIELD NetIncome \u0014\u0015 > 0 \" (
 ASSERT_EQ(fieldIf->GetFieldCode(), fieldIf->GetFieldCode(true));
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

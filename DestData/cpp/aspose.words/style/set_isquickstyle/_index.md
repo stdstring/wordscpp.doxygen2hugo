@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Style::get_IsQuickStyle](../get_isquickstyle/).
 void Aspose::Words::Style::set_IsQuickStyle(bool value)
 ```
 
+## See Also
+
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Updates SmartArt pre-rendered drawing by using [Aspose.Words](../../../aspose.wo
 void Aspose::Words::Drawing::Shape::UpdateSmartArtDrawing()
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

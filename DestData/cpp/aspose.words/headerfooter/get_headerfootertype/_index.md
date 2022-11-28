@@ -20,7 +20,6 @@ Aspose::Words::HeaderFooterType Aspose::Words::HeaderFooter::get_HeaderFooterTyp
 
 
 
-
 Shows how to create a header and a footer. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -52,3 +51,9 @@ ASPOSE_ASSERT_EQ(footer->get_ParentSection(), header->get_ParentSection());
 doc->Save(ArtifactsDir + u"HeaderFooter.Create.docx");
 ```
 
+## See Also
+
+* Enum [HeaderFooterType](../../headerfootertype/)
+* Class [HeaderFooter](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

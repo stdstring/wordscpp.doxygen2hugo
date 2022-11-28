@@ -19,13 +19,14 @@ System::SharedPtr<Aspose::Words::Paragraph> Aspose::Words::DocumentBuilder::Inse
 ### ReturnValue
 
 The paragraph node that was just inserted. It is the same node as [CurrentParagraph](../get_currentparagraph/).
+## Remarks
+
 
 Current paragraph formatting specified by the [ParagraphFormat](../get_paragraphformat/) property is used.
 
 Breaks the current paragraph in two. After inserting the paragraph, the cursor is placed at the beginning of the new paragraph.
 
 ## Examples
-
 
 
 
@@ -55,3 +56,9 @@ builder->Writeln(u"Hello world!");
 ASSERT_TRUE(builder->get_CurrentParagraph()->get_IsEndOfDocument());
 ```
 
+## See Also
+
+* Class [Paragraph](../../paragraph/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

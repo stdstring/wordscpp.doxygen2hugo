@@ -20,7 +20,6 @@ Aspose::Words::Saving::NumeralFormat Aspose::Words::Saving::FixedPageSaveOptions
 
 
 
-
 Shows how to set the numeral format used when saving to PDF. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ options->set_NumeralFormat(numeralFormat);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.SetNumeralFormat.pdf", options);
 ```
 
+## See Also
+
+* Enum [NumeralFormat](../../numeralformat/)
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

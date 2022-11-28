@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldTemplate::get_IncludeFullPath()
 
 
 
-
 Shows how to use a TEMPLATE field to display the local file system location of a document's template. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -43,3 +42,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.TEMPLATE.docx");
 ```
 
+## See Also
+
+* Class [FieldTemplate](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

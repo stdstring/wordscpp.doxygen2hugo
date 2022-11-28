@@ -20,7 +20,6 @@ Aspose::Words::LineSpacingRule Aspose::Words::ParagraphFormat::get_LineSpacingRu
 
 
 
-
 Shows how to work with line spacing. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -56,3 +55,9 @@ builder->Writeln(u"Line spacing of 1.5 default lines.");
 doc->Save(ArtifactsDir + u"ParagraphFormat.LineSpacing.docx");
 ```
 
+## See Also
+
+* Enum [LineSpacingRule](../../linespacingrule/)
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

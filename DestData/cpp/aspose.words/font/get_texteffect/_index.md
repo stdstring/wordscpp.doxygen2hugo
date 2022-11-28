@@ -20,7 +20,6 @@ Aspose::Words::TextEffect Aspose::Words::Font::get_TextEffect()
 
 
 
-
 Shows how to apply a visual effect to a run. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -35,3 +34,9 @@ builder->Writeln(u"Text with a sparkle effect.");
 doc->Save(ArtifactsDir + u"Font.SparklingText.doc");
 ```
 
+## See Also
+
+* Enum [TextEffect](../../texteffect/)
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

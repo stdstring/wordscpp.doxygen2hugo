@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Fill::get_ForeColor](../get_forecolor/).
 void Aspose::Words::Drawing::Fill::set_ForeColor(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

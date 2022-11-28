@@ -20,7 +20,6 @@ bool Aspose::Words::Fields::FieldLink::get_InsertAsRtf()
 
 
 
-
 Shows how to use various field types to link to other documents in the local file system, and display their contents. 
 ```cpp
 enum class InsertLinkedObjectAs
@@ -196,3 +195,8 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 }
 ```
 
+## See Also
+
+* Class [FieldLink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

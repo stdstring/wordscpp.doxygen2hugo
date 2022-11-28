@@ -15,11 +15,12 @@ Allows to specify individual bookmarks outline level.
 System::SharedPtr<Aspose::Words::Saving::BookmarksOutlineLevelCollection> Aspose::Words::Saving::OutlineOptions::get_BookmarksOutlineLevels() const
 ```
 
+## Remarks
+
 
 If bookmark level is not specified in this collection then [DefaultBookmarksOutlineLevel](../get_defaultbookmarksoutlinelevel/) value is used.
 
 ## Examples
-
 
 
 
@@ -75,3 +76,9 @@ doc->Save(ArtifactsDir + u"BookmarksOutlineLevelCollection.BookmarkLevels.pdf", 
 outlineLevels->Clear();
 ```
 
+## See Also
+
+* Class [BookmarksOutlineLevelCollection](../../bookmarksoutlinelevelcollection/)
+* Class [OutlineOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

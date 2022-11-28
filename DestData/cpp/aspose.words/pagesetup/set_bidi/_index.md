@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_Bidi](../get_bidi/).
 void Aspose::Words::PageSetup::set_Bidi(bool value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

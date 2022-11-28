@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldListNum::get_StartingNumber()
 
 
 
-
 Shows how to number paragraphs with LISTNUM fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -85,3 +84,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.LISTNUM.docx");
 ```
 
+## See Also
+
+* Class [FieldListNum](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhite
 void Aspose::Words::Loading::TxtLoadOptions::set_DetectNumberingWithWhitespaces(bool value)
 ```
 
+## See Also
+
+* Class [TxtLoadOptions](../)
+* Namespace [Aspose::Words::Loading](../../)
+* Library [Aspose.Words](../../../)

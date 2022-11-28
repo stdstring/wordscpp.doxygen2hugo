@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Themes::ThemeFonts> Aspose::Words::Themes::Them
 
 
 
-
 Shows how to set custom colors and fonts for themes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Theme colors.docx");
@@ -63,3 +62,9 @@ colors->set_FollowedHyperlink(System::Drawing::Color::get_Gray());
 doc->Save(ArtifactsDir + u"Themes.CustomColorsAndFonts.docx");
 ```
 
+## See Also
+
+* Class [ThemeFonts](../../themefonts/)
+* Class [Theme](../)
+* Namespace [Aspose::Words::Themes](../../)
+* Library [Aspose.Words](../../../)

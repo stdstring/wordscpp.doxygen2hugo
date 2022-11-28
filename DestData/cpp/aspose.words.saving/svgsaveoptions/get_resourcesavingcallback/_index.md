@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IResourceSavingCallback> Aspose::Words:
 
 
 
-
 Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. 
 ```cpp
 void SvgResourceFolder()
@@ -58,3 +57,9 @@ private:
 };
 ```
 
+## See Also
+
+* Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
+* Class [SvgSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

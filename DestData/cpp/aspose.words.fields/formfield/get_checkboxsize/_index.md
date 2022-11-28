@@ -15,11 +15,12 @@ Gets or sets the size of the checkbox in points. Has effect only when [IsCheckBo
 double Aspose::Words::Fields::FormField::get_CheckBoxSize()
 ```
 
+## Remarks
+
 
 Applicable for a check box form field only.
 
 ## Examples
-
 
 
 
@@ -152,3 +153,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

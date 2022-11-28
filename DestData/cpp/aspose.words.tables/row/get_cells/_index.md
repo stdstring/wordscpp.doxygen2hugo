@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::CellCollection> Aspose::Words::Tables::
 
 
 
-
 Shows how to iterate through all tables in the document and print the contents of each cell. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -61,3 +60,9 @@ for (int i = 0; i < tables->get_Count(); i++)
 }
 ```
 
+## See Also
+
+* Class [CellCollection](../../cellcollection/)
+* Class [Row](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

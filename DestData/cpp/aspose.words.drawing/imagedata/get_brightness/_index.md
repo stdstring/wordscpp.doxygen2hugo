@@ -15,11 +15,12 @@ Gets or sets the brightness of the picture. The value for this property must be 
 double Aspose::Words::Drawing::ImageData::get_Brightness()
 ```
 
+## Remarks
+
 
 The default value is 0.5.
 
 ## Examples
-
 
 
 
@@ -80,3 +81,8 @@ importedShape->get_ImageData()->set_CropRight(0.3);
 dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 ```
 
+## See Also
+
+* Class [ImageData](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

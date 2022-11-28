@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplac
 
 
 
-
 Shows how to remove paragraph from a table cell with a nested table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,8 @@ doc->get_Range()->Replace(MakeObject<System::Text::RegularExpressions::Regex>(u"
 doc->Save(ArtifactsDir + u"Table.RemoveParagraphTextAndMark.docx");
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

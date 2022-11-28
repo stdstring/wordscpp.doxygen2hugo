@@ -20,7 +20,6 @@ Aspose::Words::Drawing::Charts::AxisTickMark Aspose::Words::Drawing::Charts::Cha
 
 
 
-
 Shows how to insert a chart and modify the appearance of its axes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -67,3 +66,9 @@ ASSERT_TRUE(chart->get_AxisZ() == nullptr);
 doc->Save(ArtifactsDir + u"Charts.AxisProperties.docx");
 ```
 
+## See Also
+
+* Enum [AxisTickMark](../../axistickmark/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

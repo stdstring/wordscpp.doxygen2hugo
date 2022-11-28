@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails](../get
 void Aspose::Words::Saving::PdfSaveOptions::set_EncryptionDetails(const System::SharedPtr<Aspose::Words::Saving::PdfEncryptionDetails> &value)
 ```
 
+## See Also
+
+* Class [PdfEncryptionDetails](../../pdfencryptiondetails/)
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

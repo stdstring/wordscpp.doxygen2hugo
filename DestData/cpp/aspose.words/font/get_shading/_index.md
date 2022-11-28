@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Shading> Aspose::Words::Font::get_Shading()
 
 
 
-
 Shows how to apply shading to text created by a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,9 @@ builder->Writeln(u"White text on an orange background with a two-tone texture.")
 doc->Save(ArtifactsDir + u"Font.Shading.docx");
 ```
 
+## See Also
+
+* Class [Shading](../../shading/)
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

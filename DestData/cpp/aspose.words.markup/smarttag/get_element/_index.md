@@ -15,13 +15,14 @@ Specifies the name of the smart tag within the document.
 System::String Aspose::Words::Markup::SmartTag::get_Element() const
 ```
 
+## Remarks
+
 
 Cannot be null.
 
 Default is empty string.
 
 ## Examples
-
 
 
 
@@ -114,3 +115,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [SmartTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

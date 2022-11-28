@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria](.
 void Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitCriteria(Aspose::Words::Saving::DocumentSplitCriteria value)
 ```
 
+## See Also
+
+* Enum [DocumentSplitCriteria](../../documentsplitcriteria/)
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

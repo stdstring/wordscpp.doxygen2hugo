@@ -20,7 +20,6 @@ void Aspose::Words::CompositeNode::RemoveSmartTags()
 
 
 
-
 Removes all smart tags from descendant nodes of a composite node. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Smart tags.doc");
@@ -122,3 +121,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

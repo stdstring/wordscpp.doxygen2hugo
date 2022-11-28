@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType](..
 void Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType(Aspose::Words::Settings::MailMergeMainDocumentType value)
 ```
 
+## See Also
+
+* Enum [MailMergeMainDocumentType](../../mailmergemaindocumenttype/)
+* Class [MailMergeSettings](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

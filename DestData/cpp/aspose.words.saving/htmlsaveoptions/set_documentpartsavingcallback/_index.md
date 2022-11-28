@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallba
 void Aspose::Words::Saving::HtmlSaveOptions::set_DocumentPartSavingCallback(const System::SharedPtr<Aspose::Words::Saving::IDocumentPartSavingCallback> &value)
 ```
 
+## See Also
+
+* Interface [IDocumentPartSavingCallback](../../idocumentpartsavingcallback/)
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Section> Aspose::Words::Section::Clone()
 
 
 
-
 Shows how to add and remove sections in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -49,3 +48,9 @@ ASSERT_EQ(u"Section 2\x000c"
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Section](../)
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

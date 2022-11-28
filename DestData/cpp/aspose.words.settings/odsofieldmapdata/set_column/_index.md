@@ -15,3 +15,8 @@ Specifies the zero-based index of the column within an external data source whic
 void Aspose::Words::Settings::OdsoFieldMapData::set_Column(int32_t value)
 ```
 
+## See Also
+
+* Class [OdsoFieldMapData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_Description](../get_description/).
 void Aspose::Words::Tables::Table::set_Description(const System::String &value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

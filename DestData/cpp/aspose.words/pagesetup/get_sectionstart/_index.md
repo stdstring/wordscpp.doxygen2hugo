@@ -20,7 +20,6 @@ Aspose::Words::SectionStart Aspose::Words::PageSetup::get_SectionStart()
 
 
 
-
 Shows how to specify how a new section separates itself from the previous. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -110,3 +109,9 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
+## See Also
+
+* Enum [SectionStart](../../sectionstart/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldSymbol::get_DontAffectsLineSpacing](../g
 void Aspose::Words::Fields::FieldSymbol::set_DontAffectsLineSpacing(bool value)
 ```
 
+## See Also
+
+* Class [FieldSymbol](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

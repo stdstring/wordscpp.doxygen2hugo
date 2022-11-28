@@ -20,7 +20,6 @@ void Aspose::Words::Fonts::FontFallbackSettings::LoadNotoFallbackSettings()
 
 
 
-
 Shows how to add predefined font fallback settings for Google Noto fonts. 
 ```cpp
 auto fontSettings = MakeObject<FontSettings>();
@@ -66,3 +65,8 @@ fontFallbackSettings->LoadNotoFallbackSettings();
 fontFallbackSettings->Save(ArtifactsDir + u"FontSettings.FallbackSettings.LoadNotoFallbackSettings.xml");
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

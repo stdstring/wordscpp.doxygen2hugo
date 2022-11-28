@@ -20,7 +20,6 @@ Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::FolderFontSource::get
 
 
 
-
 Shows how to use a local system folder which contains fonts as a font source. 
 ```cpp
 // Create a font source from a folder that contains font files.
@@ -36,3 +35,9 @@ ASSERT_EQ(FontSourceType::FontsFolder, folderFontSource->get_Type());
 ASSERT_EQ(1, folderFontSource->get_Priority());
 ```
 
+## See Also
+
+* Enum [FontSourceType](../../fontsourcetype/)
+* Class [FolderFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

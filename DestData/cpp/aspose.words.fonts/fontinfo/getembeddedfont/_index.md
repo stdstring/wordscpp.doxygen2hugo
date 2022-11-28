@@ -29,7 +29,6 @@ Returns **null** if the specified font is not embedded.
 
 
 
-
 Shows how to extract an embedded font from a document, and save it to the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Embedded font.docx");
@@ -55,3 +54,10 @@ embeddedFontBytes = doc->get_FontInfos()->idx_get(u"Alte DIN 1451 Mittelschrift"
 System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf", embeddedFontBytes);
 ```
 
+## See Also
+
+* Enum [EmbeddedFontFormat](../../embeddedfontformat/)
+* Enum [EmbeddedFontStyle](../../embeddedfontstyle/)
+* Class [FontInfo](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

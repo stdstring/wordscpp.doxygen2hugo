@@ -20,7 +20,6 @@ Aspose::Words::BuildingBlocks::BuildingBlockBehavior Aspose::Words::BuildingBloc
 
 
 
-
 Shows how to add a custom building block to a document. 
 ```cpp
 void CreateAndInsert()
@@ -112,3 +111,9 @@ private:
 };
 ```
 
+## See Also
+
+* Enum [BuildingBlockBehavior](../../buildingblockbehavior/)
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

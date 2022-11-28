@@ -15,3 +15,8 @@ Only Expand/Condense Text By Whole Points.
 bool Aspose::Words::Settings::CompatibilityOptions::get_SpacingInWholePoints()
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

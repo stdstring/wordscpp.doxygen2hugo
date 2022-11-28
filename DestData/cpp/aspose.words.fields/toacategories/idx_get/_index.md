@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::ToaCategories::idx_get(int32_t number)
 
 
 
-
 Shows how to specify a set of categories for TOA fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -63,3 +62,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"FieldOptions.TOA.Categories.docx");
 ```
 
+## See Also
+
+* Class [ToaCategories](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

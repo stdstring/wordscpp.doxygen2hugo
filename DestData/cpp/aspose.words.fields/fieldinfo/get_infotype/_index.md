@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldInfo::get_InfoType()
 
 
 
-
 Shows how to work with INFO fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -51,3 +50,8 @@ ASSERT_EQ(u"New comment", doc->get_BuiltInDocumentProperties()->get_Comments());
 doc->Save(ArtifactsDir + u"Field.INFO.docx");
 ```
 
+## See Also
+
+* Class [FieldInfo](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

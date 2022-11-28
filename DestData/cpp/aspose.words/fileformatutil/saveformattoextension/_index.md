@@ -15,13 +15,14 @@ Converts a save format enumerated value into a file extension. The returned exte
 static System::String Aspose::Words::FileFormatUtil::SaveFormatToExtension(Aspose::Words::SaveFormat saveFormat)
 ```
 
+## Remarks
 
-The **WordML** value is converted to ".wml".
 
-The **FlatOpc** value is converted to ".fopc".
+The [WordML](../../saveformat/) value is converted to ".wml".
+
+The [FlatOpc](../../saveformat/) value is converted to ".fopc".
 
 ## Examples
-
 
 
 
@@ -52,3 +53,9 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 }
 ```
 
+## See Also
+
+* Enum [SaveFormat](../../saveformat/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

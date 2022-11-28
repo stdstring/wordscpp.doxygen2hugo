@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsTopLevel()
 
 
 
-
 Shows how to tell whether a shape is a part of a group shape. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -40,3 +39,8 @@ group->AppendChild(shape);
 ASSERT_FALSE(shape->get_IsTopLevel());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

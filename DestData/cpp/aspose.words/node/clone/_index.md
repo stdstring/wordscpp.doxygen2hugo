@@ -23,13 +23,14 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::Node::Clone(bool isCloneCh
 ### ReturnValue
 
 The cloned node.
+## Remarks
+
 
 This method serves as a copy constructor for nodes. The cloned node has no parent, but belongs to the same document as the original node.
 
 This method always performs a deep copy of the node. The isCloneChildren parameter specifies whether to perform copy all child nodes as well.
 
 ## Examples
-
 
 
 
@@ -53,3 +54,9 @@ ASSERT_FALSE((System::DynamicCast<CompositeNode>(cloneWithoutChildren))->get_Has
 ASSERT_EQ(String::Empty, cloneWithoutChildren->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Node](../)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,6 +15,8 @@ Gets or sets the description associated with this building block.
 System::String Aspose::Words::BuildingBlocks::BuildingBlock::get_Description() const
 ```
 
+## Remarks
+
 
 The description may contain any string content, usually additional information.
 
@@ -23,7 +25,6 @@ Cannot be **null**, but can be an empty string.
 Corresponds to the **docPartPr.description** element in OOXML.
 
 ## Examples
-
 
 
 
@@ -118,3 +119,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [BuildingBlock](../)
+* Namespace [Aspose::Words::BuildingBlocks](../../)
+* Library [Aspose.Words](../../../)

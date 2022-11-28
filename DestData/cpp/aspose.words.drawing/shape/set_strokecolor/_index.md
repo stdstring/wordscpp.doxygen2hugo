@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Shape::get_StrokeColor](../get_strokecolor/)
 void Aspose::Words::Drawing::Shape::set_StrokeColor(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [Shape](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

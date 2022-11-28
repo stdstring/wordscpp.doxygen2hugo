@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_Title](../get_title/).
 void Aspose::Words::Tables::Table::set_Title(const System::String &value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

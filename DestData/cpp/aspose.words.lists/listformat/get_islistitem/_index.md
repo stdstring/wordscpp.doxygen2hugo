@@ -20,7 +20,6 @@ bool Aspose::Words::Lists::ListFormat::get_IsListItem()
 
 
 
-
 Shows how to work with list levels. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -98,3 +97,8 @@ for (auto para : System::IterateOver(
 }
 ```
 
+## See Also
+
+* Class [ListFormat](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

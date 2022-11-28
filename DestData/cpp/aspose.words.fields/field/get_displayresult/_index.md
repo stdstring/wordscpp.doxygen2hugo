@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::Field::get_DisplayResult()
 
 
 
-
 Shows how to get the real text that a field displays in the document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -44,3 +43,8 @@ ASSERT_EQ(u"John Doe", fieldAuthor->get_DisplayResult());
 doc->Save(ArtifactsDir + u"Field.DisplayResult.docx");
 ```
 
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

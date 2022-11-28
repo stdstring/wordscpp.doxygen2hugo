@@ -20,7 +20,6 @@ bool Aspose::Words::ImageWatermarkOptions::get_IsWashout() const
 
 
 
-
 Shows how to create a watermark from an image in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -36,3 +35,8 @@ doc->get_Watermark()->SetImage(System::Drawing::Image::FromFile(ImageDir + u"Log
 doc->Save(ArtifactsDir + u"Document.ImageWatermark.docx");
 ```
 
+## See Also
+
+* Class [ImageWatermarkOptions](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

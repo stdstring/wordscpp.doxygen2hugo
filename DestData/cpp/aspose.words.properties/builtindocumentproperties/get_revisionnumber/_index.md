@@ -15,11 +15,12 @@ Gets or sets the document revision number.
 int32_t Aspose::Words::Properties::BuiltInDocumentProperties::get_RevisionNumber()
 ```
 
+## Remarks
+
 
 Aspose.Words does not update this property.
 
 ## Examples
-
 
 
 
@@ -77,3 +78,8 @@ field->Update();
 ASSERT_EQ(u"2", field->get_Result());
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Add [Document](../../../aspose.words/document/) Grid Line Pitch To Lines in Tabl
 void Aspose::Words::Settings::CompatibilityOptions::set_AdjustLineHeightInTable(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

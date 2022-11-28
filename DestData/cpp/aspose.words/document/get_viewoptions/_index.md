@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Settings::ViewOptions> Aspose::Words::Document:
 
 
 
-
 Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -54,3 +53,9 @@ doc->get_ViewOptions()->set_ZoomType(zoomType);
 doc->Save(ArtifactsDir + u"ViewOptions.SetZoomType.doc");
 ```
 
+## See Also
+
+* Class [ViewOptions](../../../aspose.words.settings/viewoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

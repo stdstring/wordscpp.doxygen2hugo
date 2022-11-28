@@ -15,3 +15,9 @@ Setter for [Aspose::Words::DocumentBase::get_WarningCallback](../get_warningcall
 void Aspose::Words::DocumentBase::set_WarningCallback(const System::SharedPtr<Aspose::Words::IWarningCallback> &value)
 ```
 
+## See Also
+
+* Interface [IWarningCallback](../../iwarningcallback/)
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

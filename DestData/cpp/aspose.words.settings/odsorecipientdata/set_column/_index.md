@@ -15,3 +15,8 @@ Specifies the column within the data source that contains unique data for the cu
 void Aspose::Words::Settings::OdsoRecipientData::set_Column(int32_t value)
 ```
 
+## See Also
+
+* Class [OdsoRecipientData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

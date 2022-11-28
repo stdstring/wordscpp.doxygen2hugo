@@ -23,13 +23,14 @@ bool Aspose::Words::Fields::FieldEnd::Accept(System::SharedPtr<Aspose::Words::Do
 ### ReturnValue
 
 **False** if the visitor requested the enumeration to stop.
+## Remarks
 
-Calls **VisitFieldEnd()**.
+
+Calls [VisitFieldEnd()](../).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -120,3 +121,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
+* Class [FieldEnd](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

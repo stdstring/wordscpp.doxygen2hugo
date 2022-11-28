@@ -15,3 +15,8 @@ Specifies the particular set of data that a source shall be connected to within 
 void Aspose::Words::Settings::Odso::set_TableName(const System::String &value)
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

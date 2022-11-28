@@ -24,7 +24,6 @@ A [FieldIfComparisonResult](../../fieldifcomparisonresult/) value that represent
 
 
 
-
 Shows how to insert an IF field. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -65,3 +64,9 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.IF.docx");
 ```
 
+## See Also
+
+* Enum [FieldIfComparisonResult](../../fieldifcomparisonresult/)
+* Class [FieldIf](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

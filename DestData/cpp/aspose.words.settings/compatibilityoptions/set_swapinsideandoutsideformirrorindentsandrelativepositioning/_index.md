@@ -15,3 +15,8 @@ url: /cpp/aspose.words.settings/compatibilityoptions/set_swapinsideandoutsidefor
 void Aspose::Words::Settings::CompatibilityOptions::set_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

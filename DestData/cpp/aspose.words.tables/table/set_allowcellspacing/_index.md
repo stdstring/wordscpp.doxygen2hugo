@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_AllowCellSpacing](../get_allowcell
 void Aspose::Words::Tables::Table::set_AllowCellSpacing(bool value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Allow [Tables](../../../aspose.words.tables/) to AutoFit Into Page Margins.
 void Aspose::Words::Settings::CompatibilityOptions::set_GrowAutofit(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

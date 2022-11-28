@@ -20,7 +20,6 @@ virtual void Aspose::Words::Fields::IFieldUpdatingCallback::FieldUpdated(System:
 
 
 
-
 Shows how to use callback methods during a field update. 
 ```cpp
 void FieldUpdatingCallbackTest()
@@ -75,3 +74,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Field](../../field/)
+* Interface [IFieldUpdatingCallback](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

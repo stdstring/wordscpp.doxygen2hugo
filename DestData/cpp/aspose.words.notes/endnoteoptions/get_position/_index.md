@@ -20,7 +20,6 @@ Aspose::Words::Notes::EndnotePosition Aspose::Words::Notes::EndnoteOptions::get_
 
 
 
-
 Shows how to select a different place where the document collects and displays its endnotes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -48,3 +47,9 @@ doc->get_EndnoteOptions()->set_Position(endnotePosition);
 doc->Save(ArtifactsDir + u"InlineStory.PositionEndnote.docx");
 ```
 
+## See Also
+
+* Enum [EndnotePosition](../../endnoteposition/)
+* Class [EndnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

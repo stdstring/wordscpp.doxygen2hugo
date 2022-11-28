@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles() const
 
 
 
-
 Shows how to change metafiles compression in a document while saving. 
 ```cpp
 // Open a document that contains a Microsoft Equation 3.0 formula.
@@ -44,3 +43,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [DocSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

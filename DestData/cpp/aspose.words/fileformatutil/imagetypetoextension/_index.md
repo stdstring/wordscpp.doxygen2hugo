@@ -20,7 +20,6 @@ static System::String Aspose::Words::FileFormatUtil::ImageTypeToExtension(Aspose
 
 
 
-
 Shows how to extract images from a document, and save them to the local file system as individual files. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -46,3 +45,9 @@ for (const auto& shape : System::IterateOver(shapes->LINQ_OfType<SharedPtr<Shape
 }
 ```
 
+## See Also
+
+* Enum [ImageType](../../../aspose.words.drawing/imagetype/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

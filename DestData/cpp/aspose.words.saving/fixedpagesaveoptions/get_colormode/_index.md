@@ -20,7 +20,6 @@ Aspose::Words::Saving::ColorMode Aspose::Words::Saving::FixedPageSaveOptions::ge
 
 
 
-
 Shows how to change image color with saving options property. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -36,3 +35,9 @@ pdfSaveOptions->set_ColorMode(colorMode);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.ColorRendering.pdf", pdfSaveOptions);
 ```
 
+## See Also
+
+* Enum [ColorMode](../../colormode/)
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

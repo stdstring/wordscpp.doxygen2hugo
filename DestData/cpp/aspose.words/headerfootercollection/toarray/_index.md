@@ -24,7 +24,6 @@ An array of **HeaderFoorter**s.
 
 
 
-
 Shows how to print the node structure of every header and footer in a document. 
 ```cpp
 void HeaderFooterToText()
@@ -103,3 +102,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [HeaderFooter](../../headerfooter/)
+* Class [HeaderFooterCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Ole::OleControl> Aspose::Words::Drawin
 
 
 
-
 Shows how to verify the properties of an ActiveX control. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"ActiveX controls.docx");
@@ -41,3 +40,8 @@ if (oleControl->get_IsForms2OleControl())
 }
 ```
 
+## See Also
+
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

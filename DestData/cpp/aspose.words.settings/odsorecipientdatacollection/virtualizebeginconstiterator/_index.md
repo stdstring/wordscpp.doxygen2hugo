@@ -15,3 +15,9 @@ url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizebeginconst
 virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginConstIterator() const override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [OdsoRecipientDataCollection](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

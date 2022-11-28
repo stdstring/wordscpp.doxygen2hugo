@@ -15,3 +15,8 @@ Specifies the column name within an external data source for the column whose in
 void Aspose::Words::Settings::OdsoFieldMapData::set_Name(const System::String &value)
 ```
 
+## See Also
+
+* Class [OdsoFieldMapData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

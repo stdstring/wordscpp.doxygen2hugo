@@ -20,7 +20,6 @@ Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::Tables::Table::get_Re
 
 
 
-
 Shows how set the location of floating tables. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -49,3 +48,9 @@ table->set_AbsoluteHorizontalDistance(100);
 doc->Save(ArtifactsDir + u"Table.ChangeFloatingTableProperties.docx");
 ```
 
+## See Also
+
+* Enum [HorizontalAlignment](../../../aspose.words.drawing/horizontalalignment/)
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

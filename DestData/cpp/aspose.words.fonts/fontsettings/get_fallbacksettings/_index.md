@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fonts::FontFallbackSettings> Aspose::Words::Fon
 
 
 
-
 Shows how to distribute fallback fonts across Unicode character code ranges. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -74,3 +73,9 @@ for (int i = 0x0021; i < 0x0530; i++)
 doc->Save(ArtifactsDir + u"FontSettings.FallbackSettingsCustom.pdf");
 ```
 
+## See Also
+
+* Class [FontFallbackSettings](../../fontfallbacksettings/)
+* Class [FontSettings](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

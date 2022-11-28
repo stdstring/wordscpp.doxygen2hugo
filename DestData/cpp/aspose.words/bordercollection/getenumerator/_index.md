@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to iterate over and edit all of the borders in a paragraph format object. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ builder->Writeln(u"Hello world!");
 doc->Save(ArtifactsDir + u"BorderCollection.GetBordersEnumerator.docx");
 ```
 
+## See Also
+
+* Class [Border](../../border/)
+* Class [BorderCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

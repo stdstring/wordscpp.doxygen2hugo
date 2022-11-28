@@ -15,3 +15,8 @@ Specifies the location of the external data source to be connected to a document
 void Aspose::Words::Settings::Odso::set_DataSource(const System::String &value)
 ```
 
+## See Also
+
+* Class [Odso](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

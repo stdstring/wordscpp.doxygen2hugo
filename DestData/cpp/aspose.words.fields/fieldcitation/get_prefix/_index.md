@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldCitation::get_Prefix()
 
 
 
-
 Shows how to work with CITATION and BIBLIOGRAPHY fields. 
 ```cpp
 // Open a document containing bibliographical sources that we can find in
@@ -70,3 +69,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 ```
 
+## See Also
+
+* Class [FieldCitation](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

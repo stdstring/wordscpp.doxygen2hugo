@@ -15,5 +15,12 @@ Defines the size of the font in points.
 double Aspose::Words::Drawing::TextPath::get_Size()
 ```
 
+## Remarks
+
 
 The default value is 36. 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

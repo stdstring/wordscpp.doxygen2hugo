@@ -20,7 +20,6 @@ bool Aspose::Words::InlineStory::get_IsMoveToRevision()
 
 
 
-
 Shows how to view revision-related properties of [InlineStory](../) nodes. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Revision footnotes.docx");
@@ -64,3 +63,8 @@ ASSERT_TRUE(footnotes->idx_get(1)->get_IsMoveToRevision());
 ASSERT_TRUE(footnotes->idx_get(3)->get_IsDeleteRevision());
 ```
 
+## See Also
+
+* Class [InlineStory](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

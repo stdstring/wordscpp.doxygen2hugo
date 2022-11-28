@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_WrapType](../get_wraptype/).
 void Aspose::Words::Drawing::ShapeBase::set_WrapType(Aspose::Words::Drawing::WrapType value)
 ```
 
+## See Also
+
+* Enum [WrapType](../../wraptype/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

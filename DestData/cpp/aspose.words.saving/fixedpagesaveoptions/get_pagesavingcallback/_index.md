@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IPageSavingCallback> Aspose::Words::Sav
 
 
 
-
 Shows how to use a callback to save a document to HTML page by page. 
 ```cpp
 void PageFileNames()
@@ -71,3 +70,9 @@ public:
 };
 ```
 
+## See Also
+
+* Interface [IPageSavingCallback](../../ipagesavingcallback/)
+* Class [FixedPageSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

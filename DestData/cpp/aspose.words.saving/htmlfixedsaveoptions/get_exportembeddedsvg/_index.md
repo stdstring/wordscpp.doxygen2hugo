@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedSvg() const
 
 
 
-
 Shows how to determine where to store SVG objects when exporting a document to Html. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Images.docx");
@@ -52,3 +51,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [HtmlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

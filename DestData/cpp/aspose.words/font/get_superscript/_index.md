@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Superscript()
 
 
 
-
 Shows how to format text to offset its position. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -53,3 +52,8 @@ para->AppendChild(run);
 doc->Save(ArtifactsDir + u"Font.PositionSubscript.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

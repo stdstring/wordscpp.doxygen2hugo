@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::Charts::ChartAxis::get_BaseTimeUnit](../get_
 void Aspose::Words::Drawing::Charts::ChartAxis::set_BaseTimeUnit(Aspose::Words::Drawing::Charts::AxisTimeUnit value)
 ```
 
+## See Also
+
+* Enum [AxisTimeUnit](../../axistimeunit/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

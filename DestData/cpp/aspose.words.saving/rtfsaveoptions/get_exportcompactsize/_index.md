@@ -15,11 +15,12 @@ Allows to make output RTF documents smaller in size, but if they contain RTL (ri
 bool Aspose::Words::Saving::RtfSaveOptions::get_ExportCompactSize() const
 ```
 
+## Remarks
+
 
 If the document that you want to convert to RTF using Aspose.Words does not contain right-to-left text in languages like Arabic, then you can set this option to **true** to reduce the size of the resulting RTF.
 
 ## Examples
-
 
 
 
@@ -45,3 +46,8 @@ options->set_ExportImagesForOldReaders(exportImagesForOldReaders);
 doc->Save(ArtifactsDir + u"RtfSaveOptions.ExportImages.rtf", options);
 ```
 
+## See Also
+
+* Class [RtfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

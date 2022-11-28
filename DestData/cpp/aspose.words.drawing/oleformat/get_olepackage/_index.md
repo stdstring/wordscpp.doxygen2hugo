@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::OlePackage> Aspose::Words::Drawing::Ol
 
 
 
-
 Shows how insert an OLE object into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,9 @@ ArrayPtr<uint8_t> zipFileBytes = System::IO::File::ReadAllBytes(DatabaseDir + u"
 doc->Save(ArtifactsDir + u"Shape.InsertOlePackage.docx");
 ```
 
+## See Also
+
+* Class [OlePackage](../../olepackage/)
+* Class [OleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

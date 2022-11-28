@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ParagraphFormat::get_SnapToGrid](../get_snaptogrid/).
 void Aspose::Words::ParagraphFormat::set_SnapToGrid(bool value)
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

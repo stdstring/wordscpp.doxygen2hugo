@@ -15,6 +15,8 @@ Allows to specify the stream where the image will be saved to.
 System::SharedPtr<System::IO::Stream> Aspose::Words::Saving::ImageSavingArgs::get_ImageStream() const
 ```
 
+## Remarks
+
 
 This property allows you to save images to streams instead of files during HTML.
 
@@ -23,7 +25,6 @@ The default value is **null**. When this property is **null**, the image will be
 Using [IImageSavingCallback](../../iimagesavingcallback/) you cannot substitute one image with another. It is intended only for control over location where to save images.
 
 ## Examples
-
 
 
 
@@ -70,3 +71,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [ImageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

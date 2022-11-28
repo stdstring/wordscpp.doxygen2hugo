@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Fields::FieldOptions::get_CurrentUser](../get_current
 void Aspose::Words::Fields::FieldOptions::set_CurrentUser(const System::SharedPtr<Aspose::Words::Fields::UserInformation> &value)
 ```
 
+## See Also
+
+* Class [UserInformation](../../userinformation/)
+* Class [FieldOptions](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

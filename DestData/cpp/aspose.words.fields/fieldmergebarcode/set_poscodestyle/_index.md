@@ -15,3 +15,8 @@ Sets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). 
 void Aspose::Words::Fields::FieldMergeBarcode::set_PosCodeStyle(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldMergeBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

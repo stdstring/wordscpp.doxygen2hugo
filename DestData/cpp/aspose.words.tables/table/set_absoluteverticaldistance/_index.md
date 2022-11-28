@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Tables::Table::get_AbsoluteVerticalDistance](../get_a
 void Aspose::Words::Tables::Table::set_AbsoluteVerticalDistance(double value)
 ```
 
+## See Also
+
+* Class [Table](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

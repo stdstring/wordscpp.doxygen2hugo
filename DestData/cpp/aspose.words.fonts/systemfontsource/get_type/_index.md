@@ -20,7 +20,6 @@ Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::SystemFontSource::get
 
 
 
-
 Shows how to access a document's system font source and set font substitutes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,9 @@ ASSERT_EQ(FontSourceType::SystemFonts, doc->get_FontSettings()->GetFontsSources(
 ASSERT_EQ(1, doc->get_FontSettings()->get_SubstitutionSettings()->get_TableSubstitution()->GetSubstitutes(u"Kreon-Regular")->LINQ_Count());
 ```
 
+## See Also
+
+* Enum [FontSourceType](../../fontsourcetype/)
+* Class [SystemFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

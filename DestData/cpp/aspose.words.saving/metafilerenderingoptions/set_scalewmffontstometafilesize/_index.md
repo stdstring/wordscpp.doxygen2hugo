@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::MetafileRenderingOptions::get_ScaleWmfFontsTo
 void Aspose::Words::Saving::MetafileRenderingOptions::set_ScaleWmfFontsToMetafileSize(bool value)
 ```
 
+## See Also
+
+* Class [MetafileRenderingOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

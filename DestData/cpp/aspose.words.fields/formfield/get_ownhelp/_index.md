@@ -15,11 +15,12 @@ Specifies the source of the text that's displayed in a message box when a form f
 bool Aspose::Words::Fields::FormField::get_OwnHelp()
 ```
 
+## Remarks
+
 
 If True, the text specified by the HelpText property is displayed. If False, the text in the AutoText entry specified by the HelpText property is displayed.
 
 ## Examples
-
 
 
 
@@ -152,3 +153,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

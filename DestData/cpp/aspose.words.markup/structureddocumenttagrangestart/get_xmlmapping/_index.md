@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Markup::XmlMapping> Aspose::Words::Markup::Stru
 
 
 
-
 Shows how to set XML mappings for the range start of a structured document tag. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Multi-section structured document tags.docx");
@@ -43,3 +42,9 @@ sdtRangeStart->get_XmlMapping()->SetMapping(xmlPart, u"/root[1]/text[2]", nullpt
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.StructuredDocumentTagRangeStartXmlMapping.docx");
 ```
 
+## See Also
+
+* Class [XmlMapping](../../xmlmapping/)
+* Class [StructuredDocumentTagRangeStart](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

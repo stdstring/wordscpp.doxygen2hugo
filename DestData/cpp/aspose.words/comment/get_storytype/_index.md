@@ -20,7 +20,6 @@ Aspose::Words::StoryType Aspose::Words::Comment::get_StoryType() override
 
 
 
-
 Shows how to insert [InlineStory](../../inlinestory/) nodes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -75,3 +74,9 @@ ASSERT_EQ(StoryType::Comments, comment->get_StoryType());
 doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 ```
 
+## See Also
+
+* Enum [StoryType](../../storytype/)
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

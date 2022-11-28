@@ -20,7 +20,6 @@ System::String Aspose::Words::Lists::ListLevel::get_CustomNumberStyleFormat()
 
 
 
-
 Shows how to get the format for a list with the custom number style. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"List with leading zero.docx");
@@ -41,3 +40,8 @@ ASSERT_EQ(u"iv", ListLevel::GetEffectiveValue(4, NumberStyle::LowercaseRoman, nu
 ASSERT_EQ(u"005", ListLevel::GetEffectiveValue(5, NumberStyle::Custom, customNumberStyleFormat));
 ```
 
+## See Also
+
+* Class [ListLevel](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

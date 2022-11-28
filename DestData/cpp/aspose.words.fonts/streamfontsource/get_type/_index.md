@@ -15,3 +15,9 @@ Returns the type of the font source.
 Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::StreamFontSource::get_Type() override
 ```
 
+## See Also
+
+* Enum [FontSourceType](../../fontsourcetype/)
+* Class [StreamFontSource](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

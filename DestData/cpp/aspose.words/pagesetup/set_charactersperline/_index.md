@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_CharactersPerLine](../get_characterspe
 void Aspose::Words::PageSetup::set_CharactersPerLine(int32_t value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

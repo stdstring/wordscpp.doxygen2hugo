@@ -15,6 +15,8 @@ A flag specifying whether the window’s title bar should display the document t
 bool Aspose::Words::Saving::PdfSaveOptions::get_DisplayDocTitle() const
 ```
 
+## Remarks
+
 
 If **false**, the title bar should instead display the name of the PDF file containing the document.
 
@@ -23,7 +25,6 @@ This flag is required by PDF/UA compliance. **true** value will be used automati
 The default value is **false**.
 
 ## Examples
-
 
 
 
@@ -46,3 +47,8 @@ pdfSaveOptions->set_DisplayDocTitle(displayDocTitle);
 doc->Save(ArtifactsDir + u"PdfSaveOptions.DocTitle.pdf", pdfSaveOptions);
 ```
 
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

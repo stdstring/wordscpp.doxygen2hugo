@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress](../get_i
 void Aspose::Words::Fields::FieldBarcode::set_IsUSPostalAddress(bool value)
 ```
 
+## See Also
+
+* Class [FieldBarcode](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

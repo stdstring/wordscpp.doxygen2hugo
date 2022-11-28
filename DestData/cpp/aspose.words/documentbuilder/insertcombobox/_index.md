@@ -25,11 +25,12 @@ System::SharedPtr<Aspose::Words::Fields::FormField> Aspose::Words::DocumentBuild
 ### ReturnValue
 
 The form field node that was just inserted.
+## Remarks
+
 
 If you specify a name for the form field, then a bookmark is automatically created with the same name.
 
 ## Examples
-
 
 
 
@@ -65,3 +66,9 @@ builder->InsertComboBox(u"DropDown", items, 0);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertComboBox.docx");
 ```
 
+## See Also
+
+* Class [FormField](../../../aspose.words.fields/formfield/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

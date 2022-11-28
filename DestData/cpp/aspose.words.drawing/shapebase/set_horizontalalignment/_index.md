@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Drawing::ShapeBase::get_HorizontalAlignment](../get_h
 void Aspose::Words::Drawing::ShapeBase::set_HorizontalAlignment(Aspose::Words::Drawing::HorizontalAlignment value)
 ```
 
+## See Also
+
+* Enum [HorizontalAlignment](../../horizontalalignment/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

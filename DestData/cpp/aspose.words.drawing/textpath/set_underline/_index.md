@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_Underline](../get_underline/).
 void Aspose::Words::Drawing::TextPath::set_Underline(bool value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Markup::StructuredDocument
 
 
 
-
 Shows how to create a structured document tag in a plain text box and modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,9 @@ tagClone->RemoveSelfOnly();
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 ```
 
+## See Also
+
+* Class [Font](../../../aspose.words/font/)
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::String Aspose::Words::Saving::SaveOptions::get_DefaultTemplate() const
 
 
 
-
 Shows how to set a default template for documents that do not have attached templates. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,8 @@ options->set_DefaultTemplate(MyDir + u"Business brochure.dotx");
 doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 ```
 
+## See Also
+
+* Class [SaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

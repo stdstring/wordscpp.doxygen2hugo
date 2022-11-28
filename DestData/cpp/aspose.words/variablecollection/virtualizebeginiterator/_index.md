@@ -15,3 +15,9 @@ url: /cpp/aspose.words/variablecollection/virtualizebeginiterator/
 virtualized_iterator * Aspose::Words::VariableCollection::virtualizeBeginIterator() override
 ```
 
+## See Also
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [VariableCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ Resets to default font formatting.
 void Aspose::Words::Font::ClearFormatting()
 ```
 
+## Remarks
+
 
 Removes all font formatting specified explicitly on the object from which **Font** was obtained so the font formatting will be inherited from the appropriate parent.
 
 ## Examples
-
 
 
 
@@ -42,3 +43,8 @@ builder->Writeln(u".");
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHyperlink.docx");
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

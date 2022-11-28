@@ -32,7 +32,6 @@ The width and height (in world units) of the rendered page.
 
 
 
-
 Shows how to the individual pages of a document to graphics to create one image with thumbnails of all pages. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Rendering.docx");
@@ -83,3 +82,8 @@ int imgHeight = thumbSize.get_Height() * thumbRows;
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

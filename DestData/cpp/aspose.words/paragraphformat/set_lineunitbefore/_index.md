@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ParagraphFormat::get_LineUnitBefore](../get_lineunitb
 void Aspose::Words::ParagraphFormat::set_LineUnitBefore(double value)
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

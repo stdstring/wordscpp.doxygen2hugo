@@ -15,3 +15,8 @@ Gets the number of columns in the section of a document.
 int32_t Aspose::Words::TextColumnCollection::get_Count()
 ```
 
+## See Also
+
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

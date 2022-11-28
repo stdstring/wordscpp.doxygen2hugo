@@ -23,13 +23,14 @@ bool Aspose::Words::SubDocument::Accept(System::SharedPtr<Aspose::Words::Documen
 ### ReturnValue
 
 True if all nodes were visited; false if [DocumentVisitor](../../documentvisitor/) stopped the operation before visiting all nodes.
+## Remarks
+
 
 Enumerates over this node and all of its children. Each node calls a corresponding method on [DocumentVisitor](../../documentvisitor/).
 
 For more info see the Visitor design pattern.
 
 ## Examples
-
 
 
 
@@ -163,3 +164,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [DocumentVisitor](../../documentvisitor/)
+* Class [SubDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

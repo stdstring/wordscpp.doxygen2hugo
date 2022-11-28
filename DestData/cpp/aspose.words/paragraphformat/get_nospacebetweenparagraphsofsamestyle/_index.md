@@ -15,11 +15,12 @@ When true, [SpaceBefore](../get_spacebefore/) and [SpaceAfter](../get_spaceafter
 bool Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle()
 ```
 
+## Remarks
+
 
 This setting only takes affect when applied to a paragraph style. If applied to a paragraph directly, it has no effect.
 
 ## Examples
-
 
 
 
@@ -52,3 +53,8 @@ builder->Writeln(String::Format(u"Paragraph in the \"{0}\" style.", builder->get
 doc->Save(ArtifactsDir + u"ParagraphFormat.ParagraphSpacingSameStyle.docx");
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Border> Aspose::Words::Font::get_Border()
 
 
 
-
 Shows how to insert a string surrounded by a border into a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -35,3 +34,9 @@ builder->Write(u"Text surrounded by green border.");
 doc->Save(ArtifactsDir + u"Border.FontBorder.docx");
 ```
 
+## See Also
+
+* Class [Border](../../border/)
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

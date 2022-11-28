@@ -31,7 +31,6 @@ The created [Comment](../) node for the reply.
 
 
 
-
 Shows how to add a comment to a document, and then reply to it. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -60,3 +59,9 @@ ASPOSE_ASSERT_EQ(comment, comment->get_Replies()->idx_get(0)->get_Ancestor());
 doc->Save(ArtifactsDir + u"Comment.AddCommentWithReply.docx");
 ```
 
+## See Also
+
+* Class [Comment](../)
+* Class [Comment](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

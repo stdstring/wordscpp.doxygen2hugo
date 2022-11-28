@@ -24,17 +24,18 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 ### ReturnValue
 
 The cloned node that belongs to the current document.
+## Remarks
 
-This method uses the **UseDestinationStyles** option to resolve formatting.
+
+This method uses the [UseDestinationStyles](../../importformatmode/) option to resolve formatting.
 
 Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.
 
-Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using **InsertBefore()** or **InsertAfter()**.
+Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using [InsertBefore()](../) or [InsertAfter()](../).
 
 If the source node already belongs to the destination document, then simply a deep clone of the source node is created.
 
 ## Examples
-
 
 
 
@@ -63,6 +64,12 @@ dstDoc->AppendChild(importedSection);
 ASSERT_EQ(u"Destination document first paragraph text.\r\nSource document first paragraph text.\r\n", dstDoc->ToString(SaveFormat::Text));
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBase::ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool, Aspose::Words::ImportFormatMode) method
 
 
@@ -82,17 +89,18 @@ System::SharedPtr<Aspose::Words::Node> Aspose::Words::DocumentBase::ImportNode(c
 ### ReturnValue
 
 The cloned, imported node. The node belongs to the destination document, but has no parent.
+## Remarks
+
 
 This overload is useful to control how styles and list formatting are imported.
 
 Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.
 
-Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using **InsertBefore()** or **InsertAfter()**.
+Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using [InsertBefore()](../) or [InsertAfter()](../).
 
 If the source node already belongs to the destination document, then simply a deep clone of the source node is created.
 
 ## Examples
-
 
 
 
@@ -128,3 +136,10 @@ ASSERT_EQ(dstStyle->get_Font()->get_Name(), dstDoc->get_Styles()->idx_get(u"My s
 ASSERT_EQ(srcStyle->get_Font()->get_Name(), dstDoc->get_Styles()->idx_get(u"My style_0")->get_Font()->get_Name());
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [DocumentBase](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

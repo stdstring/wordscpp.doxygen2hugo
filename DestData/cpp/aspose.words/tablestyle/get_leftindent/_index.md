@@ -20,7 +20,6 @@ double Aspose::Words::TableStyle::get_LeftIndent()
 
 
 
-
 Shows how to set the position of a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -59,3 +58,8 @@ table->set_Style(tableStyle);
 doc->Save(ArtifactsDir + u"Table.SetTableAlignment.docx");
 ```
 
+## See Also
+
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

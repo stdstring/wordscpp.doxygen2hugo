@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartS
 void Aspose::Words::Saving::DocumentPartSavingArgs::set_KeepDocumentPartStreamOpen(bool value)
 ```
 
+## See Also
+
+* Class [DocumentPartSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ Gets or sets whether this is a right-to-left paragraph.
 bool Aspose::Words::ParagraphFormat::get_Bidi()
 ```
 
+## Remarks
+
 
 When true, the runs and other inline objects in this paragraph are laid out right to left.
 
 ## Examples
-
 
 
 
@@ -76,3 +77,8 @@ doc = MakeObject<Document>(MyDir + u"English text.txt", loadOptions);
 ASSERT_FALSE(doc->get_FirstSection()->get_Body()->get_FirstParagraph()->get_ParagraphFormat()->get_Bidi());
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

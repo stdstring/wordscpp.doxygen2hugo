@@ -24,4 +24,9 @@ virtual System::SharedPtr<System::Drawing::Image> Aspose::Words::Fields::IBarcod
 
 Image representing generated barcode.
 
+## See Also
 
+* Class [BarcodeParameters](../../barcodeparameters/)
+* Interface [IBarcodeGenerator](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

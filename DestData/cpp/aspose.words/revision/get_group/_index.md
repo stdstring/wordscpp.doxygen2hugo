@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::RevisionGroup> Aspose::Words::Revision::get_Gro
 
 
 
-
 Shows how to work with revisions in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -98,3 +97,9 @@ ASSERT_EQ(6, doc->get_Revisions()->get_Count());
 ASSERT_EQ(u"This is revision #1. \rThis is revision #2.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [RevisionGroup](../../revisiongroup/)
+* Class [Revision](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

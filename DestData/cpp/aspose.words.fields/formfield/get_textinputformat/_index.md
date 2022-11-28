@@ -15,6 +15,8 @@ Returns or sets the text formatting for a text form field.
 System::String Aspose::Words::Fields::FormField::get_TextInputFormat()
 ```
 
+## Remarks
+
 
 If the text form field contains regular text, then valid format strings are "", "UPPERCASE", "LOWERCASE", "FIRST CAPITAL" and "TITLE CASE". The strings are case-insensitive.
 
@@ -23,7 +25,6 @@ If the text form field contains a number or a date/time value, then valid format
 Microsoft Word allows strings with at most 64 characters.
 
 ## Examples
-
 
 
 
@@ -156,3 +157,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

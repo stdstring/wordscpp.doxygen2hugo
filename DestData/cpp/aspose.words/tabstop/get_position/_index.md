@@ -20,7 +20,6 @@ double Aspose::Words::TabStop::get_Position()
 
 
 
-
 Shows how to modify the position of the right tab stop in TOC related paragraphs. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Table of contents.docx");
@@ -43,3 +42,8 @@ for (const auto& para : System::IterateOver(doc->GetChildNodes(NodeType::Paragra
 doc->Save(ArtifactsDir + u"Styles.ChangeTocsTabStops.docx");
 ```
 
+## See Also
+
+* Class [TabStop](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

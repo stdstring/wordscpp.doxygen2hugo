@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Lists::ListFormat::get_List](../get_list/).
 void Aspose::Words::Lists::ListFormat::set_List(const System::SharedPtr<Aspose::Words::Lists::List> &value)
 ```
 
+## See Also
+
+* Class [List](../../list/)
+* Class [ListFormat](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

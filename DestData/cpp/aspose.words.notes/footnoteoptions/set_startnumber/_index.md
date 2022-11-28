@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Notes::FootnoteOptions::get_StartNumber](../get_start
 void Aspose::Words::Notes::FootnoteOptions::set_StartNumber(int32_t value) override
 ```
 
+## See Also
+
+* Class [FootnoteOptions](../)
+* Namespace [Aspose::Words::Notes](../../)
+* Library [Aspose.Words](../../../)

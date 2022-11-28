@@ -15,11 +15,12 @@ Returns or sets the paper size.
 Aspose::Words::PaperSize Aspose::Words::PageSetup::get_PaperSize()
 ```
 
+## Remarks
 
-Setting this property updates [PageWidth](../get_pagewidth/) and [PageHeight](../get_pageheight/) values. Setting this value to **Custom** does not change existing values.
+
+Setting this property updates [PageWidth](../get_pagewidth/) and [PageHeight](../get_pageheight/) values. Setting this value to [Custom](../../papersize/) does not change existing values.
 
 ## Examples
-
 
 
 
@@ -127,3 +128,9 @@ ASSERT_EQ(u"Hello World!", doc->GetText().Trim());
 doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ```
 
+## See Also
+
+* Enum [PaperSize](../../papersize/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

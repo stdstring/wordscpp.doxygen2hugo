@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::TextColumn> Aspose::Words::TextColumnCollection
 
 
 
-
 Shows how to create unevenly spaced columns. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -52,3 +51,9 @@ builder->Writeln(u"Wide column 2.");
 doc->Save(ArtifactsDir + u"PageSetup.CustomColumnWidth.docx");
 ```
 
+## See Also
+
+* Class [TextColumn](../../textcolumn/)
+* Class [TextColumnCollection](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

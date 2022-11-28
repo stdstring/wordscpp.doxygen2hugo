@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Font::get_Hidden](../get_hidden/).
 void Aspose::Words::Font::set_Hidden(bool value)
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

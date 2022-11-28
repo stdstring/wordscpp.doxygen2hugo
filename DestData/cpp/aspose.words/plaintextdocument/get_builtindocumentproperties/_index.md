@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Properties::BuiltInDocumentProperties> Aspose::
 
 
 
-
 Shows how to load the contents of a Microsoft Word document in plaintext and then access the original document's built-in properties. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -37,3 +36,9 @@ ASSERT_EQ(u"Hello world!", plaintext->get_Text().Trim());
 ASSERT_EQ(u"John Doe", plaintext->get_BuiltInDocumentProperties()->get_Author());
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../../../aspose.words.properties/builtindocumentproperties/)
+* Class [PlainTextDocument](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ Gets the original file name of the document.
 System::String Aspose::Words::Document::get_OriginalFileName() const
 ```
 
+## Remarks
+
 
 Returns null if the document was loaded from a stream or created blank.
 
 ## Examples
-
 
 
 
@@ -59,3 +60,8 @@ Shows how to use the [FileFormatUtil](../../fileformatutil/) methods to detect t
 }
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

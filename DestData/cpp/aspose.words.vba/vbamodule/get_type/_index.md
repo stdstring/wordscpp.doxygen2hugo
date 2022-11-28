@@ -20,7 +20,6 @@ Aspose::Words::Vba::VbaModuleType Aspose::Words::Vba::VbaModule::get_Type() cons
 
 
 
-
 Shows how to create a VBA project using macros. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -42,3 +41,9 @@ doc->get_VbaProject()->get_Modules()->Add(module_);
 doc->Save(ArtifactsDir + u"VbaProject.CreateVBAMacros.docm");
 ```
 
+## See Also
+
+* Enum [VbaModuleType](../../vbamoduletype/)
+* Class [VbaModule](../)
+* Namespace [Aspose::Words::Vba](../../)
+* Library [Aspose.Words](../../../)

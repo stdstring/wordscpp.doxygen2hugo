@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::SignatureLine::get_Email](../get_email/).
 void Aspose::Words::Drawing::SignatureLine::set_Email(const System::String &value)
 ```
 
+## See Also
+
+* Class [SignatureLine](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ int32_t Aspose::Words::TableStyle::get_ColumnStripe()
 
 
 
-
 Shows how to create conditional table styles that alternate between rows. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -78,3 +77,8 @@ table->set_StyleOptions(table->get_StyleOptions() | TableStyleOptions::ColumnBan
 doc->Save(ArtifactsDir + u"Table.AlternatingRowStyles.docx");
 ```
 
+## See Also
+
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

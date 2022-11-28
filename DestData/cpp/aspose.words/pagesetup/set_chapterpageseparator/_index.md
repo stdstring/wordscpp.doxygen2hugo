@@ -15,5 +15,13 @@ Sets the separator character that appears between the chapter number and the pag
 void Aspose::Words::PageSetup::set_ChapterPageSeparator(Aspose::Words::ChapterPageSeparator value)
 ```
 
+## Remarks
+
 
 Before you can create page numbers that include chapter numbers, the document headings must have a numbered outline format applied. 
+## See Also
+
+* Enum [ChapterPageSeparator](../../chapterpageseparator/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

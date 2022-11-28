@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::Stroke::get_Color2](../get_color2/).
 void Aspose::Words::Drawing::Stroke::set_Color2(System::Drawing::Color value)
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Fill> Aspose::Words::Drawing::ShapeBas
 
 
 
-
 Shows how to fill a shape with a solid color. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -50,3 +49,9 @@ shape->get_Fill()->set_Opacity(0.3);
 doc->Save(ArtifactsDir + u"Shape.Fill.docx");
 ```
 
+## See Also
+
+* Class [Fill](../../fill/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

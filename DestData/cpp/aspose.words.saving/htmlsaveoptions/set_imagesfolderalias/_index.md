@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias](../ge
 void Aspose::Words::Saving::HtmlSaveOptions::set_ImagesFolderAlias(const System::String &value)
 ```
 
+## See Also
+
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

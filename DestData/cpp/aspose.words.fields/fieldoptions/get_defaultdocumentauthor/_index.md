@@ -20,7 +20,6 @@ System::String Aspose::Words::Fields::FieldOptions::get_DefaultDocumentAuthor() 
 
 
 
-
 Shows how to use an AUTHOR field to display a document creator's name. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -70,3 +69,8 @@ ASSERT_EQ(u"Joe Bloggs", doc->get_FieldOptions()->get_DefaultDocumentAuthor());
 doc->Save(ArtifactsDir + u"Field.AUTHOR.docx");
 ```
 
+## See Also
+
+* Class [FieldOptions](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

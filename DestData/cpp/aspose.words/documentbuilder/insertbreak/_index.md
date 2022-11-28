@@ -24,7 +24,6 @@ void Aspose::Words::DocumentBuilder::InsertBreak(Aspose::Words::BreakType breakT
 
 
 
-
 Shows how to create headers and footers in a document using [DocumentBuilder](../). 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -128,3 +127,9 @@ builder->Writeln(u"This is the second section, which is in default Letter paper 
 doc->Save(ArtifactsDir + u"PageSetup.ClearFormatting.docx");
 ```
 
+## See Also
+
+* Enum [BreakType](../../breaktype/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

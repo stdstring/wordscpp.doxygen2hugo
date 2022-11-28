@@ -20,7 +20,6 @@ void Aspose::Words::Section::EnsureMinimum()
 
 
 
-
 Shows how to prepare a new section node for editing. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -47,3 +46,8 @@ doc->get_Sections()->idx_get(0)->get_Body()->get_FirstParagraph()->AppendChild(M
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Section](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

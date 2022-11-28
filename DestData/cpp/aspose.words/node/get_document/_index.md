@@ -15,11 +15,12 @@ Gets the document to which this node belongs.
 virtual System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::Node::get_Document() const
 ```
 
+## Remarks
+
 
 The node always belongs to a document even if it has just been created and not yet added to the tree, or if it has been removed from the tree.
 
 ## Examples
-
 
 
 
@@ -49,3 +50,9 @@ ASPOSE_ASSERT_EQ(doc->get_FirstSection()->get_Body(), para->get_ParentNode());
 ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [DocumentBase](../../documentbase/)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

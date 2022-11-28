@@ -20,7 +20,6 @@ bool Aspose::Words::Drawing::ShapeBase::get_IsMoveToRevision()
 
 
 
-
 Shows how to identify move revision shapes. 
 ```cpp
 // A move revision is when we move an element in the document body by cut-and-pasting it in Microsoft Word while
@@ -47,3 +46,8 @@ ASSERT_TRUE(shapes[1]->get_IsMoveFromRevision());
 ASSERT_FALSE(shapes[1]->get_IsMoveToRevision());
 ```
 
+## See Also
+
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

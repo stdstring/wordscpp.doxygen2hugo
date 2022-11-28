@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 
 
-
 Shows how to traverse through a composite node's collection of child nodes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -68,3 +67,9 @@ for (const auto& child : System::IterateOver(children))
 }
 ```
 
+## See Also
+
+* Class [Node](../../node/)
+* Class [CompositeNode](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

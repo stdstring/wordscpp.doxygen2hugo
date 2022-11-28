@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Saving::IImageSavingCallback> Aspose::Words::Sa
 
 
 
-
 Shows how to split a document into parts and save them. 
 ```cpp
 void DocumentPartsFileNames()
@@ -139,3 +138,9 @@ private:
 };
 ```
 
+## See Also
+
+* Interface [IImageSavingCallback](../../iimagesavingcallback/)
+* Class [HtmlSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

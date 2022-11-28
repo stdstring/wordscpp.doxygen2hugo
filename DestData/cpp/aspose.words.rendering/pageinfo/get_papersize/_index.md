@@ -15,3 +15,9 @@ Gets the paper size as enumeration.
 Aspose::Words::PaperSize Aspose::Words::Rendering::PageInfo::get_PaperSize()
 ```
 
+## See Also
+
+* Enum [PaperSize](../../../aspose.words/papersize/)
+* Class [PageInfo](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

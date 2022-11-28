@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Range> Aspose::Words::Node::get_Range()
 
 
 
-
 Shows how to delete all the nodes from a range. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -41,3 +40,9 @@ ASSERT_EQ(1, doc->get_Sections()->get_Count());
 ASSERT_EQ(u"Section 2.", doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [Range](../../range/)
+* Class [Node](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

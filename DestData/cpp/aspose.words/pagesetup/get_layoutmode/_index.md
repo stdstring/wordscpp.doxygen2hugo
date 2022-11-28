@@ -20,7 +20,6 @@ Aspose::Words::SectionLayoutMode Aspose::Words::PageSetup::get_LayoutMode()
 
 
 
-
 Shows how to specify a for the number of characters that each line may have. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -61,3 +60,9 @@ for (int i = 0; i < 30; i++)
 doc->Save(ArtifactsDir + u"PageSetup.LinesPerPage.docx");
 ```
 
+## See Also
+
+* Enum [SectionLayoutMode](../../sectionlayoutmode/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,13 +15,14 @@ Gets or sets the time of the last save in UTC.
 System::DateTime Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedTime()
 ```
 
+## Remarks
+
 
 For documents originated from RTF format this property returns the local time of last save operation.
 
 Aspose.Words does not update this property.
 
 ## Examples
-
 
 
 
@@ -96,3 +97,8 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"Field.SAVEDATE.docx");
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

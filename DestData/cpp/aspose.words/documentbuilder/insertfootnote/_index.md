@@ -29,7 +29,6 @@ Returns a footnote object that was just created.
 
 
 
-
 Shows how to reference text with a footnote and an endnote. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -55,6 +54,13 @@ builder->InsertBreak(BreakType::PageBreak);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertFootnote.docx");
 ```
 
+## See Also
+
+* Class [Footnote](../../../aspose.words.notes/footnote/)
+* Enum [FootnoteType](../../../aspose.words.notes/footnotetype/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::InsertFootnote(Aspose::Words::Notes::FootnoteType, const System::String\&, const System::String\&) method
 
 
@@ -79,7 +85,6 @@ Returns a footnote object that was just created.
 
 
 
-
 Shows how to reference text with a footnote and an endnote. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -105,3 +110,10 @@ builder->InsertBreak(BreakType::PageBreak);
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertFootnote.docx");
 ```
 
+## See Also
+
+* Class [Footnote](../../../aspose.words.notes/footnote/)
+* Enum [FootnoteType](../../../aspose.words.notes/footnotetype/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

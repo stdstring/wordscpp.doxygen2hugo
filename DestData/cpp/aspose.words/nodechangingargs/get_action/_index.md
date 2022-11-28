@@ -20,7 +20,6 @@ Aspose::Words::NodeChangingAction Aspose::Words::NodeChangingArgs::get_Action() 
 
 
 
-
 Shows how to use a NodeChangingCallback to monitor changes to the document tree in real-time as we edit it. 
 ```cpp
 void NodeChangingCallback()
@@ -85,3 +84,9 @@ private:
 };
 ```
 
+## See Also
+
+* Enum [NodeChangingAction](../../nodechangingaction/)
+* Class [NodeChangingArgs](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

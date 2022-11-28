@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldBibliography::get_FormatLanguageId](../g
 void Aspose::Words::Fields::FieldBibliography::set_FormatLanguageId(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldBibliography](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

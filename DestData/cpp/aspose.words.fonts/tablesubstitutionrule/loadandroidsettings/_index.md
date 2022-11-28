@@ -15,3 +15,8 @@ Loads predefined table substitution settings for Linux platform.
 void Aspose::Words::Fonts::TableSubstitutionRule::LoadAndroidSettings()
 ```
 
+## See Also
+
+* Class [TableSubstitutionRule](../)
+* Namespace [Aspose::Words::Fonts](../../)
+* Library [Aspose.Words](../../../)

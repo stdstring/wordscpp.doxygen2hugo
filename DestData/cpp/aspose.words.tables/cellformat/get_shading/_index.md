@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Shading> Aspose::Words::Tables::CellFormat::get
 
 
 
-
 Shows how to build a table with custom borders. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -113,3 +112,9 @@ cellFormat->get_Shading()->set_BackgroundPatternColor(System::Drawing::Color::ge
 doc->Save(ArtifactsDir + u"Table.RowCellFormat.docx");
 ```
 
+## See Also
+
+* Class [Shading](../../../aspose.words/shading/)
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

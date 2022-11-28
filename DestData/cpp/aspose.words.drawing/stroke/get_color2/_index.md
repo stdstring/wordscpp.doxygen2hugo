@@ -15,11 +15,12 @@ Defines a second color for a stroke.
 System::Drawing::Color Aspose::Words::Drawing::Stroke::get_Color2()
 ```
 
+## Remarks
+
 
 The default value for a [Shape](../../shape/) is **White**.
 
 ## Examples
-
 
 
 
@@ -38,3 +39,8 @@ ASSERT_FALSE(stroke->get_ImageBytes() == nullptr);
 System::IO::File::WriteAllBytes(ArtifactsDir + u"Drawing.StrokePattern.png", stroke->get_ImageBytes());
 ```
 
+## See Also
+
+* Class [Stroke](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf() const
 
 
 
-
 Shows how to convert all images in a document to the Windows Metafile format as we save the document as an RTF. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -64,3 +63,8 @@ else
 }
 ```
 
+## See Also
+
+* Class [RtfSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

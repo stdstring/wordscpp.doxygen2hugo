@@ -20,7 +20,6 @@ Aspose::Words::Tables::TableAlignment Aspose::Words::TableStyle::get_Alignment()
 
 
 
-
 Shows how to set the position of a table. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -59,3 +58,9 @@ table->set_Style(tableStyle);
 doc->Save(ArtifactsDir + u"Table.SetTableAlignment.docx");
 ```
 
+## See Also
+
+* Enum [TableAlignment](../../../aspose.words.tables/tablealignment/)
+* Class [TableStyle](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

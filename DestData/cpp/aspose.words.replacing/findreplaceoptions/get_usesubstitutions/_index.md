@@ -20,7 +20,6 @@ bool Aspose::Words::Replacing::FindReplaceOptions::get_UseSubstitutions() const
 
 
 
-
 Shows how to recognize and use substitutions within replacement patterns. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -66,3 +65,8 @@ ASSERT_EQ(useSubstitutions ? String(u"Paul bought a car from John.\rJoe bought a
           doc->GetText().Trim());
 ```
 
+## See Also
+
+* Class [FindReplaceOptions](../)
+* Namespace [Aspose::Words::Replacing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Setter for [Aspose::Words::ParagraphFormat::get_Bidi](../get_bidi/).
 void Aspose::Words::ParagraphFormat::set_Bidi(bool value)
 ```
 
+## See Also
+
+* Class [ParagraphFormat](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

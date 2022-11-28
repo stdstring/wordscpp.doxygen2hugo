@@ -20,7 +20,6 @@ double Aspose::Words::Tables::CellFormat::get_RightPadding()
 
 
 
-
 Shows how to format cells with a document builder. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -62,3 +61,8 @@ ASPOSE_ASSERT_EQ(30.0, table->get_FirstRow()->get_Cells()->idx_get(1)->get_CellF
 doc->Save(ArtifactsDir + u"DocumentBuilder.SetCellFormatting.docx");
 ```
 
+## See Also
+
+* Class [CellFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Tables::RowFormat::get_HeadingFormat()
 
 
 
-
 Shows how to build a table with rows that repeat on every page. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -57,3 +56,8 @@ for (int i = 0; i < 50; i++)
 doc->Save(ArtifactsDir + u"DocumentBuilder.InsertTableSetHeadingRow.docx");
 ```
 
+## See Also
+
+* Class [RowFormat](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

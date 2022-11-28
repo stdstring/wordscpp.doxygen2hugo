@@ -20,7 +20,6 @@ Aspose::Words::Drawing::ShapeType Aspose::Words::Drawing::ShapeBase::get_ShapeTy
 
 
 
-
 Shows how to create a group of shapes, and print its contents using a document visitor. 
 ```cpp
 void GroupOfShapes()
@@ -101,3 +100,9 @@ private:
 };
 ```
 
+## See Also
+
+* Enum [ShapeType](../../shapetype/)
+* Class [ShapeBase](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

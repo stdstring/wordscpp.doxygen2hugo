@@ -25,7 +25,6 @@ void Aspose::Words::Rendering::NodeRendererBase::Save(const System::SharedPtr<Sy
 
 
 
-
 Shows how to use a shape renderer to export shapes to files in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Various shapes.docx");
@@ -45,6 +44,12 @@ for (const auto& shape : System::IterateOver(doc->GetChildNodes(NodeType::Shape,
 }
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../../../aspose.words.saving/imagesaveoptions/)
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)
 ## NodeRendererBase::Save(const System::String\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) method
 
 
@@ -64,7 +69,6 @@ void Aspose::Words::Rendering::NodeRendererBase::Save(const System::String &file
 
 
 
-
 Shows how to render an Office [Math](../../../aspose.words.math/) object into an image file in the local file system. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Office math.docx");
@@ -81,6 +85,12 @@ saveOptions->set_Scale(5.0f);
 math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", saveOptions);
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../../../aspose.words.saving/imagesaveoptions/)
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)
 ## NodeRendererBase::Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::ImageSaveOptions\>) method
 
 
@@ -90,3 +100,9 @@ math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", save
 template<typename CharType,typename Traits> void Aspose::Words::Rendering::NodeRendererBase::Save(std::basic_ostream<CharType, Traits> &stream, System::SharedPtr<Aspose::Words::Saving::ImageSaveOptions> saveOptions)
 ```
 
+## See Also
+
+* Class [ImageSaveOptions](../../../aspose.words.saving/imagesaveoptions/)
+* Class [NodeRendererBase](../)
+* Namespace [Aspose::Words::Rendering](../../)
+* Library [Aspose.Words](../../../)

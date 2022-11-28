@@ -15,11 +15,12 @@ Defines the amount of spacing for text. 1 means 100%.
 double Aspose::Words::Drawing::TextPath::get_Spacing()
 ```
 
+## Remarks
+
 
 The default value is 1.
 
 ## Examples
-
 
 
 
@@ -125,3 +126,8 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 }
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

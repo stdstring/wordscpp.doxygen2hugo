@@ -20,7 +20,6 @@ Aspose::Words::Markup::MarkupLevel Aspose::Words::Markup::StructuredDocumentTag:
 
 
 
-
 Shows how to create a structured document tag in a plain text box and modify its appearance. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -72,3 +71,9 @@ tagClone->RemoveSelfOnly();
 doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 ```
 
+## See Also
+
+* Enum [MarkupLevel](../../markuplevel/)
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

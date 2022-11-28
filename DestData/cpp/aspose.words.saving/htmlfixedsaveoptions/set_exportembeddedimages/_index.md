@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImage
 void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedImages(bool value)
 ```
 
+## See Also
+
+* Class [HtmlFixedSaveOptions](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

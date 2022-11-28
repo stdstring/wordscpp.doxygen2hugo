@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Markup::CustomXmlProperty::get_Uri](../get_uri/).
 void Aspose::Words::Markup::CustomXmlProperty::set_Uri(const System::String &value)
 ```
 
+## See Also
+
+* Class [CustomXmlProperty](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

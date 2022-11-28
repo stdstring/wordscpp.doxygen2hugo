@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartNumberFormat> Aspose::Wor
 
 
 
-
 Shows how to set formatting for chart values. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -46,3 +45,9 @@ ASSERT_FALSE(chart->get_AxisY()->get_NumberFormat()->get_IsLinkedToSource());
 doc->Save(ArtifactsDir + u"Charts.SetNumberFormatToChartAxis.docx");
 ```
 
+## See Also
+
+* Class [ChartNumberFormat](../../chartnumberformat/)
+* Class [ChartAxis](../)
+* Namespace [Aspose::Words::Drawing::Charts](../../)
+* Library [Aspose.Words](../../../)

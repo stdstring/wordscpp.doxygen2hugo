@@ -23,11 +23,12 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitGlossa
 ### ReturnValue
 
 A [VisitorAction](../../visitoraction/) value that specifies how to continue the enumeration.
+## Remarks
+
 
 Note: A glossary document node and its children are not visited when you execute a Visitor over a [Document](../../document/). If you want to execute a Visitor over a glossary document, you need to call [Accept()](../../../aspose.words.buildingblocks/glossarydocument/accept/).
 
 ## Examples
-
 
 
 
@@ -127,3 +128,10 @@ private:
 };
 ```
 
+## See Also
+
+* Enum [VisitorAction](../../visitoraction/)
+* Class [GlossaryDocument](../../../aspose.words.buildingblocks/glossarydocument/)
+* Class [DocumentVisitor](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

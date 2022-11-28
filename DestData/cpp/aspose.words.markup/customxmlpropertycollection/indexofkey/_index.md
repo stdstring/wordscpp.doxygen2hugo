@@ -28,7 +28,6 @@ The zero based index. Negative value if not found.
 
 
 
-
 Shows how to work with smart tag properties to get in depth information about smart tags. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Smart tags.doc");
@@ -80,3 +79,8 @@ properties->Clear();
 ASSERT_EQ(0, properties->get_Count());
 ```
 
+## See Also
+
+* Class [CustomXmlPropertyCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

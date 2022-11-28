@@ -15,3 +15,8 @@ Setter for [Aspose::Words::PageSetup::get_FooterDistance](../get_footerdistance/
 void Aspose::Words::PageSetup::set_FooterDistance(double value)
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

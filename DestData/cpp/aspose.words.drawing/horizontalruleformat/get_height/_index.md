@@ -15,6 +15,8 @@ Gets or sets the height of the horizontal rule.
 double Aspose::Words::Drawing::HorizontalRuleFormat::get_Height()
 ```
 
+## Remarks
+
 
 This is a shortcut to the [Height](../../shapebase/get_height/) property.
 
@@ -23,7 +25,6 @@ Valid values ​​range from 0 to 1584 inclusive.
 The default value is 1.5.
 
 ## Examples
-
 
 
 
@@ -44,3 +45,8 @@ ASSERT_TRUE(shape->get_IsHorizontalRule());
 ASSERT_TRUE(shape->get_HorizontalRuleFormat()->get_NoShade());
 ```
 
+## See Also
+
+* Class [HorizontalRuleFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,6 +15,11 @@ Setter for [Aspose::Words::Saving::PageSavingArgs::get_PageStream](../get_pagest
 void Aspose::Words::Saving::PageSavingArgs::set_PageStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
+## See Also
+
+* Class [PageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)
 ## PageSavingArgs::set_PageStream(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -24,3 +29,8 @@ void Aspose::Words::Saving::PageSavingArgs::set_PageStream(const System::SharedP
 template<typename CharType,typename Traits> void Aspose::Words::Saving::PageSavingArgs::set_PageStream(std::basic_ostream<CharType, Traits> &value)
 ```
 
+## See Also
+
+* Class [PageSavingArgs](../)
+* Namespace [Aspose::Words::Saving](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Markup::StructuredDocumentTag::get_NodeTy
 
 
 
-
 Shows how to work with styles for content control elements. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -52,3 +51,9 @@ for (const auto& node : System::IterateOver(tags))
 }
 ```
 
+## See Also
+
+* Enum [NodeType](../../../aspose.words/nodetype/)
+* Class [StructuredDocumentTag](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

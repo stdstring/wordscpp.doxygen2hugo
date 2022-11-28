@@ -20,7 +20,6 @@ bool Aspose::Words::PageSetup::get_SuppressEndnotes()
 
 
 
-
 Shows how to store endnotes at the end of each section, and modify their positions. 
 ```cpp
 void SuppressEndnotes()
@@ -71,3 +70,8 @@ static void InsertSectionWithEndnote(SharedPtr<Document> doc, String sectionBody
 }
 ```
 
+## See Also
+
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

@@ -15,11 +15,12 @@ Each string in the array specifies the name of a part in the document.
 System::ArrayPtr<System::String> Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts()
 ```
 
+## Remarks
+
 
 Aspose.Words does not update this property.
 
 ## Examples
-
 
 
 
@@ -50,3 +51,8 @@ while (headingPairsIndex < headingPairs->get_Length())
 }
 ```
 
+## See Also
+
+* Class [BuiltInDocumentProperties](../)
+* Namespace [Aspose::Words::Properties](../../)
+* Library [Aspose.Words](../../../)

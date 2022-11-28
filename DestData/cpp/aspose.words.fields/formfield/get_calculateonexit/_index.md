@@ -15,11 +15,12 @@ True if references to the specified form field are automatically updated wheneve
 bool Aspose::Words::Fields::FormField::get_CalculateOnExit()
 ```
 
+## Remarks
+
 
 Setting **CalculateOnExit** only affects the behavior of the form field when the document is opened in Microsoft Word. Aspose.Words never updates references to the form field.
 
 ## Examples
-
 
 
 
@@ -152,3 +153,8 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FormField](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

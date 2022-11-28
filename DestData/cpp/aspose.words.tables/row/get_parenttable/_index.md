@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Tables::Table> Aspose::Words::Tables::Row::get_
 
 
 
-
 Shows how to print the node structure of every table in a document. 
 ```cpp
 void TableToText()
@@ -158,3 +157,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [Table](../../table/)
+* Class [Row](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

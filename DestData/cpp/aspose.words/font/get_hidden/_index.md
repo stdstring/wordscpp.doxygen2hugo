@@ -20,7 +20,6 @@ bool Aspose::Words::Font::get_Hidden()
 
 
 
-
 Shows how to create a run of hidden text. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -215,3 +214,8 @@ public:
 };
 ```
 
+## See Also
+
+* Class [Font](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

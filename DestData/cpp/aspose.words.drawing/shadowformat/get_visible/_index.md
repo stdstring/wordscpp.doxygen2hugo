@@ -15,3 +15,8 @@ Returns **true** if the formatting applied to this instance is visible.
 bool Aspose::Words::Drawing::ShadowFormat::get_Visible()
 ```
 
+## See Also
+
+* Class [ShadowFormat](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Specifies not to blank the area behind metafile pictures.
 void Aspose::Words::Settings::CompatibilityOptions::set_TransparentMetafiles(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

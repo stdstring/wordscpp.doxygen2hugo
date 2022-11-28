@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldHyperlink::get_ScreenTip](../get_screent
 void Aspose::Words::Fields::FieldHyperlink::set_ScreenTip(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldHyperlink](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -20,4 +20,8 @@ void Aspose::Words::Markup::StructuredDocumentTagCollection::RemoveAt(int32_t in
 | --- | --- | --- |
 | index | int32_t | An index into the collection. |
 
+## See Also
 
+* Class [StructuredDocumentTagCollection](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ Aspose::Words::NodeType Aspose::Words::Markup::StructuredDocumentTagRangeEnd::ge
 
 
 
-
 Shows how to traverse a composite node's tree of child nodes. 
 ```cpp
 void RecurseChildren()
@@ -101,3 +100,9 @@ for (SharedPtr<Node> node = doc->get_FirstSection()->get_Body()->get_FirstChild(
 }
 ```
 
+## See Also
+
+* Enum [NodeType](../../../aspose.words/nodetype/)
+* Class [StructuredDocumentTagRangeEnd](../)
+* Namespace [Aspose::Words::Markup](../../)
+* Library [Aspose.Words](../../../)

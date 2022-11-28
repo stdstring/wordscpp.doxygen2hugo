@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::ParagraphCollection> Aspose::Words::InlineStory
 
 
 
-
 Shows how to insert and customize footnotes. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,3 +80,9 @@ ASSERT_EQ(System::DateTime::get_Today(), comment->get_DateTime());
 doc->Save(ArtifactsDir + u"InlineStory.AddComment.docx");
 ```
 
+## See Also
+
+* Class [ParagraphCollection](../../paragraphcollection/)
+* Class [InlineStory](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

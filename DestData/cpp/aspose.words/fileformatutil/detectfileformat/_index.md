@@ -23,6 +23,8 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 ### ReturnValue
 
 A [FileFormatInfo](../../fileformatinfo/) object that contains the detected information.
+## Remarks
+
 
 The stream must be positioned at the beginning of the document.
 
@@ -33,7 +35,6 @@ Even if this method detects the document format, it does not guarantee that the 
 This method throws [FileCorruptedException](../../filecorruptedexception/) when the format is recognized, but the detection cannot complete because of corruption.
 
 ## Examples
-
 
 
 
@@ -64,6 +65,12 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 }
 ```
 
+## See Also
+
+* Class [FileFormatInfo](../../fileformatinfo/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## FileFormatUtil::DetectFileFormat(const System::String\&) method
 
 
@@ -81,13 +88,14 @@ static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileForma
 ### ReturnValue
 
 A [FileFormatInfo](../../fileformatinfo/) object that contains the detected information.
+## Remarks
+
 
 Even if this method detects the document format, it does not guarantee that the specified document is valid. This method only detects the document format by reading data that is sufficient for detection. To fully verify that a document is valid you need to load the document into a [Document](../../document/) object.
 
 This method throws [FileCorruptedException](../../filecorruptedexception/) when the format is recognized, but the detection cannot complete because of corruption.
 
 ## Examples
-
 
 
 
@@ -132,6 +140,12 @@ ASSERT_TRUE(info->get_HasDigitalSignature());
 ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDigitalSignatures.docx")->get_Count());
 ```
 
+## See Also
+
+* Class [FileFormatInfo](../../fileformatinfo/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## FileFormatUtil::DetectFileFormat(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -141,3 +155,9 @@ ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDi
 template<typename CharType,typename Traits> static System::SharedPtr<Aspose::Words::FileFormatInfo> Aspose::Words::FileFormatUtil::DetectFileFormat(std::basic_istream<CharType, Traits> &stream)
 ```
 
+## See Also
+
+* Class [FileFormatInfo](../../fileformatinfo/)
+* Class [FileFormatUtil](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

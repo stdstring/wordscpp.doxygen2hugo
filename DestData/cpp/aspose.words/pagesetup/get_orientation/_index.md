@@ -15,11 +15,12 @@ Returns or sets the orientation of the page.
 Aspose::Words::Orientation Aspose::Words::PageSetup::get_Orientation()
 ```
 
+## Remarks
+
 
 Changing **Orientation** swaps [PageWidth](../get_pagewidth/) and [PageHeight](../get_pageheight/).
 
 ## Examples
-
 
 
 
@@ -71,3 +72,9 @@ builder->Writeln(u"Hello world!");
 doc->Save(ArtifactsDir + u"PageSetup.PageMargins.docx");
 ```
 
+## See Also
+
+* Enum [Orientation](../../orientation/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

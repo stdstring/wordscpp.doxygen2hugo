@@ -20,7 +20,6 @@ System::Drawing::Color Aspose::Words::Drawing::Fill::get_Color()
 
 
 
-
 Shows how to convert any of the fills back to solid fill. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Two color gradient.docx");
@@ -43,3 +42,8 @@ std::cout << "The fill transparency is " << (fill->get_Transparency() * 100) << 
 doc->Save(ArtifactsDir + u"Drawing.FillSolid.docx");
 ```
 
+## See Also
+
+* Class [Fill](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

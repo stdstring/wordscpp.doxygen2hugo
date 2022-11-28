@@ -19,13 +19,14 @@ System::SharedPtr<Aspose::Words::EditableRangeEnd> Aspose::Words::DocumentBuilde
 ### ReturnValue
 
 The editable range end node that was just created.
+## Remarks
 
-Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or **EndEditableRange()** methods.
+
+Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or [EndEditableRange()](../) methods.
 
 Badly formed editable range will be ignored when the document is saved.
 
 ## Examples
-
 
 
 
@@ -69,6 +70,12 @@ doc->Save(ArtifactsDir + u"EditableRange.CreateAndRemove.docx");
 editableRange->Remove();
 ```
 
+## See Also
+
+* Class [EditableRangeEnd](../../editablerangeend/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## DocumentBuilder::EndEditableRange(const System::SharedPtr\<Aspose::Words::EditableRangeStart\>\&) method
 
 
@@ -86,15 +93,16 @@ System::SharedPtr<Aspose::Words::EditableRangeEnd> Aspose::Words::DocumentBuilde
 ### ReturnValue
 
 The editable range end node that was just created.
+## Remarks
+
 
 Use this overload during creating nested editable ranges.
 
-Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or **EndEditableRange()** methods.
+Editable range in a document can overlap and span any range. To create a valid editable range you need to call both [StartEditableRange](../starteditablerange/) and [EndEditableRange](./) or [EndEditableRange()](../) methods.
 
 Badly formed editable range will be ignored when the document is saved.
 
 ## Examples
-
 
 
 
@@ -133,3 +141,10 @@ innerEditableRangeStart->get_EditableRange()->set_EditorGroup(EditorType::Contri
 doc->Save(ArtifactsDir + u"EditableRange.Nested.docx");
 ```
 
+## See Also
+
+* Class [EditableRangeEnd](../../editablerangeend/)
+* Class [EditableRangeStart](../../editablerangestart/)
+* Class [DocumentBuilder](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

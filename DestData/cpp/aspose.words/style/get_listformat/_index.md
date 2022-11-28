@@ -15,11 +15,12 @@ Provides access to the list formatting properties of a paragraph style.
 System::SharedPtr<Aspose::Words::Lists::ListFormat> Aspose::Words::Style::get_ListFormat()
 ```
 
+## Remarks
+
 
 This property is only valid for paragraph styles. For other style types this property returns null.
 
 ## Examples
-
 
 
 
@@ -49,3 +50,9 @@ builder->Writeln(u"Hello World: Normal.");
 builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList.docx");
 ```
 
+## See Also
+
+* Class [ListFormat](../../../aspose.words.lists/listformat/)
+* Class [Style](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

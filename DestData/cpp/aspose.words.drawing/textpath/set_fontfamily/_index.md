@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Drawing::TextPath::get_FontFamily](../get_fontfamily/
 void Aspose::Words::Drawing::TextPath::set_FontFamily(const System::String &value)
 ```
 
+## See Also
+
+* Class [TextPath](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

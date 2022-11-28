@@ -15,3 +15,8 @@ Specifies whether the record from the data source shall be imported into a docum
 bool Aspose::Words::Settings::OdsoRecipientData::get_Active() const
 ```
 
+## See Also
+
+* Class [OdsoRecipientData](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

@@ -20,7 +20,6 @@ bool Aspose::Words::Lists::ListLevel::get_IsLegal() const
 
 
 
-
 Shows advances ways of customizing list labels. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -81,3 +80,8 @@ builder->get_ListFormat()->RemoveNumbers();
 doc->Save(ArtifactsDir + u"Lists.CreateListRestartAfterHigher.docx");
 ```
 
+## See Also
+
+* Class [ListLevel](../)
+* Namespace [Aspose::Words::Lists](../../)
+* Library [Aspose.Words](../../../)

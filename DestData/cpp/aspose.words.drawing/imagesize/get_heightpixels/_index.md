@@ -20,7 +20,6 @@ int32_t Aspose::Words::Drawing::ImageSize::get_HeightPixels() const
 
 
 
-
 Shows how to read the properties of an image in a shape. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -48,3 +47,8 @@ shape->set_Height(imageSize->get_HeightPoints() * 2);
 doc->Save(ArtifactsDir + u"Drawing.ImageSize.docx");
 ```
 
+## See Also
+
+* Class [ImageSize](../)
+* Namespace [Aspose::Words::Drawing](../../)
+* Library [Aspose.Words](../../../)

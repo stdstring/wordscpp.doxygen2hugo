@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::Fields::FieldSeparator> Aspose::Words::Fields::
 
 
 
-
 Shows how to work with a collection of fields. 
 ```cpp
 void FieldCollection_()
@@ -108,3 +107,9 @@ private:
 };
 ```
 
+## See Also
+
+* Class [FieldSeparator](../../fieldseparator/)
+* Class [Field](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

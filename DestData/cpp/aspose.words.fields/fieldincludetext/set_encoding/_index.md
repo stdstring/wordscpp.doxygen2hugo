@@ -15,3 +15,8 @@ Setter for [Aspose::Words::Fields::FieldIncludeText::get_Encoding](../get_encodi
 void Aspose::Words::Fields::FieldIncludeText::set_Encoding(const System::String &value)
 ```
 
+## See Also
+
+* Class [FieldIncludeText](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

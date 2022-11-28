@@ -20,7 +20,6 @@ const System::SharedPtr<Aspose::Words::Fields::ToaCategories> & Aspose::Words::F
 
 
 
-
 Shows how to specify a set of categories for TOA fields. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -63,3 +62,9 @@ doc->UpdateFields();
 doc->Save(ArtifactsDir + u"FieldOptions.TOA.Categories.docx");
 ```
 
+## See Also
+
+* Class [ToaCategories](../../toacategories/)
+* Class [FieldOptions](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,9 @@ Setter for [Aspose::Words::Layout::RevisionOptions::get_MovedFromTextEffect](../
 void Aspose::Words::Layout::RevisionOptions::set_MovedFromTextEffect(Aspose::Words::Layout::RevisionTextEffect value)
 ```
 
+## See Also
+
+* Enum [RevisionTextEffect](../../revisiontexteffect/)
+* Class [RevisionOptions](../)
+* Namespace [Aspose::Words::Layout](../../)
+* Library [Aspose.Words](../../../)

@@ -24,7 +24,6 @@ An array of cells.
 
 
 
-
 Shows how to iterate through all tables in the document and print the contents of each cell. 
 ```cpp
 auto doc = MakeObject<Document>(MyDir + u"Tables.docx");
@@ -65,3 +64,9 @@ for (int i = 0; i < tables->get_Count(); i++)
 }
 ```
 
+## See Also
+
+* Class [Cell](../../cell/)
+* Class [CellCollection](../)
+* Namespace [Aspose::Words::Tables](../../)
+* Library [Aspose.Words](../../../)

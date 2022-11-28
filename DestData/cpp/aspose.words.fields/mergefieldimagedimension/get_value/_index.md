@@ -15,3 +15,8 @@ The value.
 double Aspose::Words::Fields::MergeFieldImageDimension::get_Value() const
 ```
 
+## See Also
+
+* Class [MergeFieldImageDimension](../)
+* Namespace [Aspose::Words::Fields](../../)
+* Library [Aspose.Words](../../../)

@@ -15,3 +15,8 @@ Don't Justify Lines Ending in Soft Line Break.
 void Aspose::Words::Settings::CompatibilityOptions::set_DoNotExpandShiftReturn(bool value)
 ```
 
+## See Also
+
+* Class [CompatibilityOptions](../)
+* Namespace [Aspose::Words::Settings](../../)
+* Library [Aspose.Words](../../../)

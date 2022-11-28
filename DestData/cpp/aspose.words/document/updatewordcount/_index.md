@@ -15,6 +15,8 @@ Updates word count properties of the document.
 void Aspose::Words::Document::UpdateWordCount()
 ```
 
+## Remarks
+
 
 **UpdateWordCount** recalculates and updates Characters, [Words](../../) and Paragraphs properties in the [BuiltInDocumentProperties](../get_builtindocumentproperties/) collection of the **Document**.
 
@@ -23,7 +25,6 @@ Note that **UpdateWordCount** does not update number of lines and pages properti
 When you use an evaluation version, the evaluation watermark will also be included in the word count.
 
 ## Examples
-
 
 
 
@@ -57,6 +58,11 @@ doc->UpdateWordCount(true);
 ASSERT_EQ(4, doc->get_BuiltInDocumentProperties()->get_Lines());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
 ## Document::UpdateWordCount(bool) method
 
 
@@ -75,7 +81,6 @@ void Aspose::Words::Document::UpdateWordCount(bool updateLinesCount)
 
 
 
-
 Shows how to update all list labels in a document. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -106,3 +111,8 @@ doc->UpdateWordCount(true);
 ASSERT_EQ(4, doc->get_BuiltInDocumentProperties()->get_Lines());
 ```
 
+## See Also
+
+* Class [Document](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

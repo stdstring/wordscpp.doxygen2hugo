@@ -20,7 +20,6 @@ System::SharedPtr<Aspose::Words::BorderCollection> Aspose::Words::PageSetup::get
 
 
 
-
 Shows how to create green wavy page border with a shadow. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -35,3 +34,9 @@ pageSetup->get_Borders()->set_Shadow(true);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorders.docx");
 ```
 
+## See Also
+
+* Class [BorderCollection](../../bordercollection/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)

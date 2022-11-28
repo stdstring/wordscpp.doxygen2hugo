@@ -20,7 +20,6 @@ Aspose::Words::PageBorderDistanceFrom Aspose::Words::PageSetup::get_BorderDistan
 
 
 
-
 Shows how to create a wide blue band border at the top of the first page. 
 ```cpp
 auto doc = MakeObject<Document>();
@@ -39,3 +38,9 @@ border->set_DistanceFromText(0);
 doc->Save(ArtifactsDir + u"PageSetup.PageBorderProperties.docx");
 ```
 
+## See Also
+
+* Enum [PageBorderDistanceFrom](../../pageborderdistancefrom/)
+* Class [PageSetup](../)
+* Namespace [Aspose::Words](../../)
+* Library [Aspose.Words](../../../)
