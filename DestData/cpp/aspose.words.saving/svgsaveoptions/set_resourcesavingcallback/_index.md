@@ -17,6 +17,7 @@ void Aspose::Words::Saving::SvgSaveOptions::set_ResourceSavingCallback(const Sys
 
 ## See Also
 
+* Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
 * Class [SvgSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

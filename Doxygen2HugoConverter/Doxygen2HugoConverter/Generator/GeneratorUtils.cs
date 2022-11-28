@@ -82,7 +82,33 @@ namespace Doxygen2HugoConverter.Generator
 
         public static String CreateLink(String name, String url) => $"[{name}]({url})";
 
-        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> commonEntityRepo, StringBuilder dest)
+        public static void GenerateSeeAlsoEntry(this EntityDef definition, String url, StringBuilder dest)
+        {
+            switch (definition)
+            {
+                case EntityDef.NamespaceEntity entity:
+                    dest.AppendLine($"* Namespace {CreateLink(entity.Name, url)}");
+                    return;
+                case EntityDef.ClassEntity {Kind: ClassKind.Class} entity:
+                    dest.AppendLine($"* Class {CreateLink(entity.Name, url)}");
+                    return;
+                case EntityDef.ClassEntity {Kind: ClassKind.Interface} entity:
+                    dest.AppendLine($"* Interface {CreateLink(entity.Name, url)}");
+                    return;
+                case EntityDef.EnumEntity entity:
+                    dest.AppendLine($"* Enum {CreateLink(entity.Name, url)}");
+                    return;
+                case EntityDef.TypedefEntity entity:
+                    dest.AppendLine($"* Typedef {CreateLink(entity.Name, url)}");
+                    return;
+                //case EntityDef.MethodEntity entity:
+                //    return;
+                //case EntityDef.FieldEntity entity:
+                //    return;
+            }
+        }
+
+        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, StringBuilder dest)
         {
             IList<EntityDef> CreateParentList()
             {
@@ -96,19 +122,19 @@ namespace Doxygen2HugoConverter.Generator
                             current = null;
                             break;
                         case EntityDef.ClassEntity entity:
-                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            parentList.Add(current = entityRepo[entity.ParentId]);
                             break;
                         case EntityDef.MethodEntity entity:
-                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            parentList.Add(current = entityRepo[entity.ParentId]);
                             break;
                         case EntityDef.FieldEntity entity:
-                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            parentList.Add(current = entityRepo[entity.ParentId]);
                             break;
                         case EntityDef.EnumEntity entity:
-                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            parentList.Add(current = entityRepo[entity.ParentId]);
                             break;
                         case EntityDef.TypedefEntity entity:
-                            parentList.Add(current = commonEntityRepo[entity.ParentId]);
+                            parentList.Add(current = entityRepo[entity.ParentId]);
                             break;
                     }
                 }
@@ -119,26 +145,7 @@ namespace Doxygen2HugoConverter.Generator
             foreach (EntityDef parent in parentList)
             {
                 parentUrl.Append(Common.ParentUrl);
-                switch (parent)
-                {
-                    case EntityDef.NamespaceEntity entity:
-                        dest.AppendLine($"* Namespace {CreateLink(entity.Name, parentUrl.ToString())}");
-                        break;
-                    case EntityDef.ClassEntity {Kind: ClassKind.Class} entity:
-                        dest.AppendLine($"* Class {CreateLink(entity.Name, parentUrl.ToString())}");
-                        break;
-                    case EntityDef.ClassEntity {Kind: ClassKind.Interface} entity:
-                        dest.AppendLine($"* Interface {CreateLink(entity.Name, parentUrl.ToString())}");
-                        break;
-                    //case EntityDef.MethodEntity entity:
-                    //    break;
-                    //case EntityDef.FieldEntity entity:
-                    //    break;
-                    //case EntityDef.EnumEntity entity:
-                    //    break;
-                    //case EntityDef.TypedefEntity entity:
-                    //    break;
-                }
+                parent.GenerateSeeAlsoEntry(parentUrl.ToString(), dest);
             }
             parentUrl.Append(Common.ParentUrl);
             dest.AppendLine($"* Library {CreateLink("Aspose.Words", parentUrl.ToString())}");

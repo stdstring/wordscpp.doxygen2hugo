@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Fonts::FontNameSubstitutionRule> Aspose::Words:
 
 ## See Also
 
+* Class [FontNameSubstitutionRule](../../fontnamesubstitutionrule/)
 * Class [FontSubstitutionSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

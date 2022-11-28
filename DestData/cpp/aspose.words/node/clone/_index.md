@@ -57,5 +57,6 @@ ASSERT_EQ(String::Empty, cloneWithoutChildren->GetText().Trim());
 ## See Also
 
 * Class [Node](../)
+* Class [Node](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

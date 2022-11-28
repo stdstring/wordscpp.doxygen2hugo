@@ -79,6 +79,7 @@ ASSERT_EQ(u"Column2", mergeFieldNames[0]);
 
 ## See Also
 
+* Class [MailMergeRegionInfo](../../mailmergeregioninfo/)
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

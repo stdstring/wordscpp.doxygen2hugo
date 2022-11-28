@@ -170,6 +170,7 @@ private:
 
 ## See Also
 
+* Class [DocumentBase](../../documentbase/)
 * Class [CommentRangeStart](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

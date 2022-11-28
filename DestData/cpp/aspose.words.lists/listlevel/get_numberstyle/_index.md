@@ -136,6 +136,7 @@ doc->Save(ArtifactsDir + u"Lists.CreateListRestartAfterHigher.docx");
 
 ## See Also
 
+* Enum [NumberStyle](../../../aspose.words/numberstyle/)
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

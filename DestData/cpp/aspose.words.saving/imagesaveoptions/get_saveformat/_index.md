@@ -49,6 +49,7 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.EditImage.png", options);
 
 ## See Also
 
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

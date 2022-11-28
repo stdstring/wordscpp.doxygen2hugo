@@ -137,6 +137,8 @@ ASSERT_EQ(3, paragraph->GetChildNodes(NodeType::Any, true)->get_Count());
 
 ## See Also
 
+* Class [NodeCollection](../../nodecollection/)
+* Enum [NodeType](../../nodetype/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -91,6 +91,7 @@ doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 
 ## See Also
 
+* Class [BorderCollection](../../bordercollection/)
 * Class [ConditionalStyle](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

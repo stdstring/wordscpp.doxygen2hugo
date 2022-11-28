@@ -50,6 +50,7 @@ doc->Save(ArtifactsDir + u"PageSetup.ClearFormatting.docx");
 
 ## See Also
 
+* Class [PageSetup](../../pagesetup/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

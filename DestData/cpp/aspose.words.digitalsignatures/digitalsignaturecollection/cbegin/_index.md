@@ -17,6 +17,7 @@ const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cbe
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)

@@ -164,6 +164,7 @@ private:
 
 ## See Also
 
+* Enum [EditorType](../../editortype/)
 * Class [EditableRange](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

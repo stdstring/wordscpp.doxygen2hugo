@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_LineNumberRestartMode(Aspose::Words::LineNumb
 
 ## See Also
 
+* Enum [LineNumberRestartMode](../../linenumberrestartmode/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Settings::ViewOptions::set_ViewType(Aspose::Words::Settings:
 
 ## See Also
 
+* Enum [ViewType](../../viewtype/)
 * Class [ViewOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

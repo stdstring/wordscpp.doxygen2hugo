@@ -126,6 +126,7 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.NestedLists.docx");
 
 ## See Also
 
+* Class [List](../../list/)
 * Class [ListFormat](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

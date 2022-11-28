@@ -17,6 +17,7 @@ void Aspose::Words::Fields::FieldOptions::set_CurrentUser(const System::SharedPt
 
 ## See Also
 
+* Class [UserInformation](../../userinformation/)
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

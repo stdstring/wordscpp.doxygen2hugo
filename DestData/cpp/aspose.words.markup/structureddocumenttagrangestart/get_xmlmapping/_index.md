@@ -44,6 +44,7 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.StructuredDocumentTagRangeStart
 
 ## See Also
 
+* Class [XmlMapping](../../xmlmapping/)
 * Class [StructuredDocumentTagRangeStart](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

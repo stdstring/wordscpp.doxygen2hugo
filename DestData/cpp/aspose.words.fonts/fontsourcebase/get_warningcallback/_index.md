@@ -55,6 +55,7 @@ public:
 
 ## See Also
 
+* Interface [IWarningCallback](../../../aspose.words/iwarningcallback/)
 * Class [FontSourceBase](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

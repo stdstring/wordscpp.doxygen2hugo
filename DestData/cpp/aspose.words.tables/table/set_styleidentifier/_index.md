@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_StyleIdentifier(Aspose::Words::StyleIdent
 
 ## See Also
 
+* Enum [StyleIdentifier](../../../aspose.words/styleidentifier/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

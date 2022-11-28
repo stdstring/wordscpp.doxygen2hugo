@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Vba::VbaModuleCollection::begin() const noexcept
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Vba::VbaModuleCollection::begin() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

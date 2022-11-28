@@ -66,6 +66,7 @@ ASSERT_EQ(u"Destination document first paragraph text.\r\nSource document first 
 
 ## See Also
 
+* Class [Node](../../node/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -137,6 +138,8 @@ ASSERT_EQ(srcStyle->get_Font()->get_Name(), dstDoc->get_Styles()->idx_get(u"My s
 
 ## See Also
 
+* Class [Node](../../node/)
+* Enum [ImportFormatMode](../../importformatmode/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

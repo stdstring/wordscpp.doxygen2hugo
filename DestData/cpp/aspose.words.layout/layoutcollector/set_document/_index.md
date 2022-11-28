@@ -17,6 +17,7 @@ void Aspose::Words::Layout::LayoutCollector::set_Document(const System::SharedPt
 
 ## See Also
 
+* Class [Document](../../../aspose.words/document/)
 * Class [LayoutCollector](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

@@ -49,6 +49,7 @@ for (const auto& shape : System::IterateOver(doc->GetChildNodes(NodeType::Shape,
 
 ## See Also
 
+* Class [ShapeRenderer](../../../aspose.words.rendering/shaperenderer/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

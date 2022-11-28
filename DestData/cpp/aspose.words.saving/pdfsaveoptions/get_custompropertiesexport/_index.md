@@ -51,6 +51,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.CustomPropertiesExport.pdf", options);
 
 ## See Also
 
+* Enum [PdfCustomPropertiesExport](../../pdfcustompropertiesexport/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

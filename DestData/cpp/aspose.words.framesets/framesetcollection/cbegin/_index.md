@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Framesets::FramesetCollection::cbegin() const noex
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [FramesetCollection](../)
 * Namespace [Aspose::Words::Framesets](../../)
 * Library [Aspose.Words](../../../)

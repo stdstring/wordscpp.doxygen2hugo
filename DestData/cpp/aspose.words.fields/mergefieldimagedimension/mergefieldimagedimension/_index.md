@@ -42,6 +42,7 @@ Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension(double
 
 ## See Also
 
+* Enum [MergeFieldImageDimensionUnit](../../mergefieldimagedimensionunit/)
 * Class [MergeFieldImageDimension](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

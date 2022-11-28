@@ -17,6 +17,7 @@ void Aspose::Words::Saving::ImageSaveOptions::set_PageSet(const System::SharedPt
 
 ## See Also
 
+* Class [PageSet](../../pageset/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

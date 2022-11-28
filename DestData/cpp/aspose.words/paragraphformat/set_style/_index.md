@@ -17,6 +17,7 @@ void Aspose::Words::ParagraphFormat::set_Style(const System::SharedPtr<Aspose::W
 
 ## See Also
 
+* Class [Style](../../style/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

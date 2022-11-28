@@ -73,6 +73,7 @@ private:
 
 ## See Also
 
+* Class [ShapeBase](../../../aspose.words.drawing/shapebase/)
 * Class [ImageSavingArgs](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -60,6 +60,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCheckBox.docx");
 
 ## See Also
 
+* Class [FormField](../../../aspose.words.fields/formfield/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -118,6 +119,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCheckBox.docx");
 
 ## See Also
 
+* Class [FormField](../../../aspose.words.fields/formfield/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

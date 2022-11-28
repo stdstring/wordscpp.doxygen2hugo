@@ -58,6 +58,7 @@ ASSERT_TRUE(builder->get_CurrentParagraph()->get_IsEndOfDocument());
 
 ## See Also
 
+* Class [Paragraph](../../paragraph/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

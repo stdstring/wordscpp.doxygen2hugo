@@ -54,6 +54,7 @@ ASSERT_EQ(String(u"1. Item 1\r\n") + u"   a. Item 2\r\n" + u"      i. Item 3\r\n
 
 ## See Also
 
+* Class [TxtListIndentation](../../txtlistindentation/)
 * Class [TxtSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

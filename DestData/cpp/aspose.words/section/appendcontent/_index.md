@@ -65,5 +65,6 @@ ASSERT_EQ(String(u"Section 1") + ControlChar::ParagraphBreak() + u"Section 3" + 
 ## See Also
 
 * Class [Section](../)
+* Class [Section](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

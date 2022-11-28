@@ -17,6 +17,7 @@ void Aspose::Words::Tables::CellFormat::set_VerticalAlignment(Aspose::Words::Tab
 
 ## See Also
 
+* Enum [CellVerticalAlignment](../../cellverticalalignment/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

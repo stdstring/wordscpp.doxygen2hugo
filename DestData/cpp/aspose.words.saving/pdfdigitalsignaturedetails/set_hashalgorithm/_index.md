@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_HashAlgorithm(Aspose
 
 ## See Also
 
+* Enum [PdfDigitalSignatureHashAlgorithm](../../pdfdigitalsignaturehashalgorithm/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

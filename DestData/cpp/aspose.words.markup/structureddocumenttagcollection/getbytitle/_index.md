@@ -26,6 +26,7 @@ Returns null if the structured document tag with the specified title cannot be f
 
 ## See Also
 
+* Interface [IStructuredDocumentTag](../../istructureddocumenttag/)
 * Class [StructuredDocumentTagCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

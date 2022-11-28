@@ -95,6 +95,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 
 ## See Also
 
+* Class [ChartSeriesCollection](../../chartseriescollection/)
 * Class [Chart](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

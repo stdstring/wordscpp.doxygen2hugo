@@ -54,6 +54,7 @@ doc->Save(ArtifactsDir + u"Charts.MarkerFormatting.docx");
 
 ## See Also
 
+* Class [Stroke](../../../aspose.words.drawing/stroke/)
 * Class [ChartFormat](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

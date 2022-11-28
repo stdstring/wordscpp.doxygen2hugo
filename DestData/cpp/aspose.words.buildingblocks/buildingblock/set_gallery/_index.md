@@ -17,6 +17,7 @@ void Aspose::Words::BuildingBlocks::BuildingBlock::set_Gallery(Aspose::Words::Bu
 
 ## See Also
 
+* Enum [BuildingBlockGallery](../../buildingblockgallery/)
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
 * Library [Aspose.Words](../../../)

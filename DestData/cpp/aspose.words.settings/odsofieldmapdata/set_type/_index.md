@@ -17,6 +17,7 @@ void Aspose::Words::Settings::OdsoFieldMapData::set_Type(Aspose::Words::Settings
 
 ## See Also
 
+* Enum [OdsoFieldMappingType](../../odsofieldmappingtype/)
 * Class [OdsoFieldMapData](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

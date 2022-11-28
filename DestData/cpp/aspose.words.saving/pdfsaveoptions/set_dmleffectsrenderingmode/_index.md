@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_DmlEffectsRenderingMode(Aspose::
 
 ## See Also
 
+* Enum [DmlEffectsRenderingMode](../../dmleffectsrenderingmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

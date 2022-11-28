@@ -73,6 +73,7 @@ case TiffCompression::Ccitt4:
 
 ## See Also
 
+* Enum [TiffCompression](../../tiffcompression/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

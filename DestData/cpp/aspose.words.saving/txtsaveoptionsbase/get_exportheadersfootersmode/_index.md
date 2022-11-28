@@ -79,6 +79,7 @@ case TxtExportHeadersFootersMode::None:
 
 ## See Also
 
+* Enum [TxtExportHeadersFootersMode](../../txtexportheadersfootersmode/)
 * Class [TxtSaveOptionsBase](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

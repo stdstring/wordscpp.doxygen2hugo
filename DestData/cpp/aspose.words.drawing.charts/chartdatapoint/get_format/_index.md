@@ -47,6 +47,7 @@ doc->Save(ArtifactsDir + u"Charts.DataPointsFormatting.docx");
 
 ## See Also
 
+* Class [ChartFormat](../../chartformat/)
 * Class [ChartDataPoint](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

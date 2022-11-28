@@ -54,6 +54,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.RenderMetafile.pdf", saveOptions);
 
 ## See Also
 
+* Enum [EmfPlusDualRenderingMode](../../emfplusdualrenderingmode/)
 * Class [MetafileRenderingOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

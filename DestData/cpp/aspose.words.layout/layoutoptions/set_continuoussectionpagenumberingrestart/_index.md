@@ -17,6 +17,7 @@ void Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRes
 
 ## See Also
 
+* Enum [ContinuousSectionRestart](../../continuoussectionrestart/)
 * Class [LayoutOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

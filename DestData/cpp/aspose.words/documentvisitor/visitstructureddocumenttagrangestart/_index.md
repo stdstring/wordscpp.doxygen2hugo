@@ -17,6 +17,8 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitStruct
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [StructuredDocumentTagRangeStart](../../../aspose.words.markup/structureddocumenttagrangestart/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -41,6 +41,7 @@ doc->Save(ArtifactsDir + u"Document.LayoutOptionsRevisions.pdf");
 
 ## See Also
 
+* Class [RevisionOptions](../../revisionoptions/)
 * Class [LayoutOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

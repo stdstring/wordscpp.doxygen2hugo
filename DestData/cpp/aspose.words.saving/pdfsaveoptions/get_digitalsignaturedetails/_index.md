@@ -51,6 +51,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignature.pdf", options);
 
 ## See Also
 
+* Class [PdfDigitalSignatureDetails](../../pdfdigitalsignaturedetails/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

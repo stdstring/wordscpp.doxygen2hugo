@@ -17,6 +17,7 @@ void Aspose::Words::Saving::MetafileRenderingOptions::set_EmfPlusDualRenderingMo
 
 ## See Also
 
+* Enum [EmfPlusDualRenderingMode](../../emfplusdualrenderingmode/)
 * Class [MetafileRenderingOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

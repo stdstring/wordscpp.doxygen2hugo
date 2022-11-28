@@ -17,6 +17,7 @@ void Aspose::Words::Loading::HtmlLoadOptions::set_BlockImportMode(Aspose::Words:
 
 ## See Also
 
+* Enum [BlockImportMode](../../blockimportmode/)
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::BuildingBlocks::BuildingBlock::set_Type(Aspose::Words::Build
 
 ## See Also
 
+* Enum [BuildingBlockType](../../buildingblocktype/)
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
 * Library [Aspose.Words](../../../)

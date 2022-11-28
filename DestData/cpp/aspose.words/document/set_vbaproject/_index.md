@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_VbaProject(const System::SharedPtr<Aspose::Wor
 
 ## See Also
 
+* Class [VbaProject](../../../aspose.words.vba/vbaproject/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

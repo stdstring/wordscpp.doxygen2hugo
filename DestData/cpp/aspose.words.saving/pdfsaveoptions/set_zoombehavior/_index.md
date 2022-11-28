@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_ZoomBehavior(Aspose::Words::Savi
 
 ## See Also
 
+* Enum [PdfZoomBehavior](../../pdfzoombehavior/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

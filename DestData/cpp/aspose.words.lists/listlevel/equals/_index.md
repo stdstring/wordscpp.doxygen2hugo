@@ -18,5 +18,6 @@ bool Aspose::Words::Lists::ListLevel::Equals(const System::SharedPtr<Aspose::Wor
 ## See Also
 
 * Class [ListLevel](../)
+* Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

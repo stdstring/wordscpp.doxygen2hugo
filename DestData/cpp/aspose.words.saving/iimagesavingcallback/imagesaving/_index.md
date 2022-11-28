@@ -140,6 +140,7 @@ private:
 
 ## See Also
 
+* Class [ImageSavingArgs](../../imagesavingargs/)
 * Interface [IImageSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

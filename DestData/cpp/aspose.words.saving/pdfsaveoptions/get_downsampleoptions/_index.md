@@ -48,6 +48,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.DownsampleOptions.LowerResolution.pdf"
 
 ## See Also
 
+* Class [DownsampleOptions](../../downsampleoptions/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Saving::FixedPageSaveOptions::set_ColorMode(Aspose::Words::S
 
 ## See Also
 
+* Enum [ColorMode](../../colormode/)
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -53,5 +53,6 @@ ASSERT_EQ(0, comment->get_Replies()->LINQ_Count());
 ## See Also
 
 * Class [Comment](../)
+* Class [Comment](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

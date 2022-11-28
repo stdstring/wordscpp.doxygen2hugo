@@ -78,6 +78,7 @@ ASSERT_EQ(21, target->get_Styles()->get_Count());
 ## See Also
 
 * Class [Document](../)
+* Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
 ## Document::CopyStylesFromTemplate(const System::String\&) method

@@ -17,6 +17,7 @@ void Aspose::Words::Comparing::CompareOptions::set_Target(Aspose::Words::Compari
 
 ## See Also
 
+* Enum [ComparisonTargetType](../../comparisontargettype/)
 * Class [CompareOptions](../)
 * Namespace [Aspose::Words::Comparing](../../)
 * Library [Aspose.Words](../../../)

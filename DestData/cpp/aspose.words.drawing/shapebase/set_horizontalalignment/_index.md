@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShapeBase::set_HorizontalAlignment(Aspose::Words::D
 
 ## See Also
 
+* Enum [HorizontalAlignment](../../horizontalalignment/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Tables::CellFormat::set_Orientation(Aspose::Words::TextOrien
 
 ## See Also
 
+* Enum [TextOrientation](../../../aspose.words/textorientation/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

@@ -90,6 +90,7 @@ private:
 
 ## See Also
 
+* Interface [IWarningCallback](../../iwarningcallback/)
 * Class [Hyphenation](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Settings::Odso::set_FieldMapDatas(const System::SharedPtr<As
 
 ## See Also
 
+* Class [OdsoFieldMapDataCollection](../../odsofieldmapdatacollection/)
 * Class [Odso](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

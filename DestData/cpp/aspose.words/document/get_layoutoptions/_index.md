@@ -73,6 +73,7 @@ doc->Save(ArtifactsDir + u"Document.LayoutOptionsParagraphMarks.pdf");
 
 ## See Also
 
+* Class [LayoutOptions](../../../aspose.words.layout/layoutoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

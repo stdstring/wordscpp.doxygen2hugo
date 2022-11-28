@@ -131,6 +131,7 @@ public:
 
 ## See Also
 
+* Interface [IWarningCallback](../../iwarningcallback/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

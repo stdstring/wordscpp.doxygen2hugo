@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShapeBase::set_RelativeHorizontalPosition(Aspose::W
 
 ## See Also
 
+* Enum [RelativeHorizontalPosition](../../relativehorizontalposition/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

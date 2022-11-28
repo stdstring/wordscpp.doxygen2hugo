@@ -147,6 +147,8 @@ ASSERT_EQ(3, paras->LINQ_Count([](SharedPtr<Node> n) { return System::DynamicCas
 
 ## See Also
 
+* Class [List](../../list/)
+* Enum [ListTemplate](../../listtemplate/)
 * Class [ListCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)
@@ -233,6 +235,8 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx"
 
 ## See Also
 
+* Class [List](../../list/)
+* Class [Style](../../../aspose.words/style/)
 * Class [ListCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

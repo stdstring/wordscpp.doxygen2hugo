@@ -30,6 +30,7 @@ Only expressions with element names are supported at the moment. Expressions tha
 
 ## See Also
 
+* Class [NodeList](../../nodelist/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

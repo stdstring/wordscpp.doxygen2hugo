@@ -79,6 +79,7 @@ ASSERT_EQ(String(u"Text inside MyBookmark_1.\r") + u"Text inside MyBookmark_2.\r
 
 ## See Also
 
+* Class [Bookmark](../../bookmark/)
 * Class [BookmarkCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

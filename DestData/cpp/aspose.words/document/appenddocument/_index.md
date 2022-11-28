@@ -77,6 +77,8 @@ dstDoc->Save(ArtifactsDir + u"Document.AppendAllDocumentsInFolder.doc");
 ## See Also
 
 * Class [Document](../)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
 ## Document::AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
@@ -179,6 +181,9 @@ dstDoc->UpdateListLabels();
 
 ## See Also
 
+* Class [Document](../)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [ImportFormatOptions](../../importformatoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

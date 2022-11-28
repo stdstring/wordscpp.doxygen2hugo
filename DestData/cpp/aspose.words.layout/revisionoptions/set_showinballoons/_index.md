@@ -17,6 +17,7 @@ void Aspose::Words::Layout::RevisionOptions::set_ShowInBalloons(Aspose::Words::L
 
 ## See Also
 
+* Enum [ShowInBalloons](../../showinballoons/)
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

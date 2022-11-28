@@ -99,6 +99,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 
 ## See Also
 
+* Class [ChartSeries](../../chartseries/)
 * Class [ChartSeriesCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)
@@ -195,6 +196,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 
 ## See Also
 
+* Class [ChartSeries](../../chartseries/)
 * Class [ChartSeriesCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)
@@ -287,6 +289,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 
 ## See Also
 
+* Class [ChartSeries](../../chartseries/)
 * Class [ChartSeriesCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)
@@ -383,6 +386,7 @@ static SharedPtr<Chart> AppendChart(SharedPtr<DocumentBuilder> builder, ChartTyp
 
 ## See Also
 
+* Class [ChartSeries](../../chartseries/)
 * Class [ChartSeriesCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

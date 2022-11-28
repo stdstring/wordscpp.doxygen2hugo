@@ -75,6 +75,8 @@ doc->Save(ArtifactsDir + u"InlineStory.AddFootnote.docx");
 
 ## See Also
 
+* Class [DocumentBase](../../../aspose.words/documentbase/)
+* Enum [FootnoteType](../../footnotetype/)
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

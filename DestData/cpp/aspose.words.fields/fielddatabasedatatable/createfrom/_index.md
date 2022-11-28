@@ -18,5 +18,6 @@ static System::SharedPtr<Aspose::Words::Fields::FieldDatabaseDataTable> Aspose::
 ## See Also
 
 * Class [FieldDatabaseDataTable](../)
+* Class [FieldDatabaseDataTable](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

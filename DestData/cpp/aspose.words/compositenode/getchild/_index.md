@@ -109,6 +109,8 @@ for (const auto& child : System::IterateOver(children))
 
 ## See Also
 
+* Class [Node](../../node/)
+* Enum [NodeType](../../nodetype/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

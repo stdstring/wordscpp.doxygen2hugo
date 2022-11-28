@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_SectionStart(Aspose::Words::SectionStart valu
 
 ## See Also
 
+* Enum [SectionStart](../../sectionstart/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

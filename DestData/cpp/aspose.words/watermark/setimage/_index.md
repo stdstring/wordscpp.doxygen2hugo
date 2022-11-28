@@ -61,6 +61,7 @@ doc->Save(ArtifactsDir + u"Document.ImageWatermark.docx");
 
 ## See Also
 
+* Class [ImageWatermarkOptions](../../imagewatermarkoptions/)
 * Class [Watermark](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -81,6 +82,7 @@ void Aspose::Words::Watermark::SetImage(const System::String &imagePath, const S
 
 ## See Also
 
+* Class [ImageWatermarkOptions](../../imagewatermarkoptions/)
 * Class [Watermark](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

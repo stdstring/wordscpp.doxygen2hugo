@@ -59,6 +59,7 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 
 ## See Also
 
+* Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [Cell](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

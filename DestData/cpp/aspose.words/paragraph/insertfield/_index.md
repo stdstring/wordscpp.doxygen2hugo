@@ -68,6 +68,9 @@ doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 
 ## See Also
 
+* Class [Field](../../../aspose.words.fields/field/)
+* Enum [FieldType](../../../aspose.words.fields/fieldtype/)
+* Class [Node](../../node/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -132,6 +135,8 @@ doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 
 ## See Also
 
+* Class [Field](../../../aspose.words.fields/field/)
+* Class [Node](../../node/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -197,6 +202,8 @@ doc->Save(ArtifactsDir + u"Paragraph.InsertField.docx");
 
 ## See Also
 
+* Class [Field](../../../aspose.words.fields/field/)
+* Class [Node](../../node/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

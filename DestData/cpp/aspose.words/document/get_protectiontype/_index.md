@@ -70,6 +70,7 @@ ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 
 ## See Also
 
+* Enum [ProtectionType](../../protectiontype/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

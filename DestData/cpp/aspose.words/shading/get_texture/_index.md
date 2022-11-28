@@ -43,6 +43,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 
 ## See Also
 
+* Enum [TextureIndex](../../textureindex/)
 * Class [Shading](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

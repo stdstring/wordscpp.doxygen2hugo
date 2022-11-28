@@ -61,6 +61,7 @@ doc->Save(ArtifactsDir + u"HeaderFooter.Create.docx");
 
 ## See Also
 
+* Class [Paragraph](../../paragraph/)
 * Class [Story](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

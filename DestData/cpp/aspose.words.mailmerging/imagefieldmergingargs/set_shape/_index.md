@@ -17,6 +17,7 @@ void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Shape(const System::
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [ImageFieldMergingArgs](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

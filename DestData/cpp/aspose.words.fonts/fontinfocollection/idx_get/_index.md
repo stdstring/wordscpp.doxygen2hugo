@@ -51,6 +51,7 @@ System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf
 
 ## See Also
 
+* Class [FontInfo](../../fontinfo/)
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)
@@ -99,6 +100,7 @@ System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf
 
 ## See Also
 
+* Class [FontInfo](../../fontinfo/)
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::RevisionGroupCollection::virtualizeBeginCo
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [RevisionGroupCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Loading::LoadOptions::set_FontSettings(const System::SharedP
 
 ## See Also
 
+* Class [FontSettings](../../../aspose.words.fonts/fontsettings/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

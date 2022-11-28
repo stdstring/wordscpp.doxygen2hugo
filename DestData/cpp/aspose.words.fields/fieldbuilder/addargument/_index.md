@@ -101,6 +101,8 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ## See Also
 
 * Class [FieldBuilder](../)
+* Class [FieldArgumentBuilder](../../fieldargumentbuilder/)
+* Class [FieldBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
 ## FieldBuilder::AddArgument(const System::SharedPtr\<Aspose::Words::Fields::FieldBuilder\>\&) method
@@ -197,6 +199,7 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 
 ## See Also
 
+* Class [FieldBuilder](../)
 * Class [FieldBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
@@ -299,6 +302,7 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ## See Also
 
 * Class [FieldBuilder](../)
+* Class [FieldBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
 ## FieldBuilder::AddArgument(double) method
@@ -400,6 +404,7 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ## See Also
 
 * Class [FieldBuilder](../)
+* Class [FieldBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
 ## FieldBuilder::AddArgument(int32_t) method
@@ -500,6 +505,7 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 
 ## See Also
 
+* Class [FieldBuilder](../)
 * Class [FieldBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

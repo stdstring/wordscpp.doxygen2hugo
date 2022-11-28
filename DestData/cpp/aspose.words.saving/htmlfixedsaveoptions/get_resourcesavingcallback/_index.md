@@ -96,6 +96,7 @@ private:
 
 ## See Also
 
+* Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

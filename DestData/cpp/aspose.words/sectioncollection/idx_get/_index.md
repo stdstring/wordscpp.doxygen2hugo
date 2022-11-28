@@ -83,6 +83,7 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 
 ## See Also
 
+* Class [Section](../../section/)
 * Class [SectionCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

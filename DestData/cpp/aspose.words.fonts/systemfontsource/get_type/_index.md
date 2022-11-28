@@ -73,6 +73,7 @@ ASSERT_EQ(1, doc->get_FontSettings()->get_SubstitutionSettings()->get_TableSubst
 
 ## See Also
 
+* Enum [FontSourceType](../../fontsourcetype/)
 * Class [SystemFontSource](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

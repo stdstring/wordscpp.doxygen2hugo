@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Words::Rendering::PageInfo> Aspose::Words::Document::G
 
 ## See Also
 
+* Class [PageInfo](../../../aspose.words.rendering/pageinfo/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

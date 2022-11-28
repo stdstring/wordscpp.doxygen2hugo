@@ -111,6 +111,7 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 ## See Also
 
+* Enum [SectionStart](../../sectionstart/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

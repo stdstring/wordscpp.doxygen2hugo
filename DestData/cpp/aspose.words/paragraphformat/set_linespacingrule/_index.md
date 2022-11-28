@@ -17,6 +17,7 @@ void Aspose::Words::ParagraphFormat::set_LineSpacingRule(Aspose::Words::LineSpac
 
 ## See Also
 
+* Enum [LineSpacingRule](../../linespacingrule/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -70,6 +70,7 @@ doc->Save(ArtifactsDir + u"InlineStory.RefMarkNumberStyle.docx");
 
 ## See Also
 
+* Enum [NumberStyle](../../../aspose.words/numberstyle/)
 * Class [EndnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

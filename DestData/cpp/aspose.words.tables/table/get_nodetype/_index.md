@@ -124,6 +124,7 @@ static int GetChildTableCount(SharedPtr<Table> table)
 
 ## See Also
 
+* Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

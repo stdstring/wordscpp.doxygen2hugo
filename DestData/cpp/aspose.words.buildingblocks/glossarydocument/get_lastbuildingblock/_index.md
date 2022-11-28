@@ -118,6 +118,7 @@ private:
 
 ## See Also
 
+* Class [BuildingBlock](../../buildingblock/)
 * Class [GlossaryDocument](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
 * Library [Aspose.Words](../../../)

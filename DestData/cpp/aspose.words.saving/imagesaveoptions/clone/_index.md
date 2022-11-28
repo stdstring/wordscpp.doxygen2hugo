@@ -46,5 +46,6 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.PixelFormat.png", imageSaveOptions);
 ## See Also
 
 * Class [ImageSaveOptions](../)
+* Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

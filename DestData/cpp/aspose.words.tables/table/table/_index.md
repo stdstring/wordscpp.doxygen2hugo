@@ -106,6 +106,7 @@ static SharedPtr<Table> CreateTable(SharedPtr<Document> doc, int rowCount, int c
 
 ## See Also
 
+* Class [DocumentBase](../../../aspose.words/documentbase/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

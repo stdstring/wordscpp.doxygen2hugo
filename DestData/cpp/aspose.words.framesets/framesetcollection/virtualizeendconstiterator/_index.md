@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeE
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [FramesetCollection](../)
 * Namespace [Aspose::Words::Framesets](../../)
 * Library [Aspose.Words](../../../)

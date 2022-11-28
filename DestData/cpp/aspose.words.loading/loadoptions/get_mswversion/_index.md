@@ -38,6 +38,7 @@ ASSERT_NEAR(12.95, doc->get_Styles()->get_DefaultParagraphFormat()->get_LineSpac
 
 ## See Also
 
+* Enum [MsWordVersion](../../../aspose.words.settings/mswordversion/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

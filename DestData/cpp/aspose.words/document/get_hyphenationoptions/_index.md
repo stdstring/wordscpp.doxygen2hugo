@@ -39,6 +39,7 @@ doc->Save(ArtifactsDir + u"Document.HyphenationOptions.docx");
 
 ## See Also
 
+* Class [HyphenationOptions](../../../aspose.words.settings/hyphenationoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -108,6 +108,8 @@ private:
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [HeaderFooter](../../headerfooter/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::BorderCollection::set_LineStyle(Aspose::Words::LineStyle val
 
 ## See Also
 
+* Enum [LineStyle](../../linestyle/)
 * Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

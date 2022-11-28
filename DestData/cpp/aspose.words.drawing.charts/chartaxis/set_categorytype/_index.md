@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Charts::ChartAxis::set_CategoryType(Aspose::Words::
 
 ## See Also
 
+* Enum [AxisCategoryType](../../axiscategorytype/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -48,6 +48,7 @@ ASSERT_EQ(String(u"Hello world! This document is protected.") + u"\rWriting text
 
 ## See Also
 
+* Class [WriteProtection](../../../aspose.words.settings/writeprotection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

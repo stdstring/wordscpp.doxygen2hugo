@@ -55,6 +55,7 @@ static void AddListSample(SharedPtr<DocumentBuilder> builder, SharedPtr<List> li
 
 ## See Also
 
+* Class [List](../../list/)
 * Class [ListCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

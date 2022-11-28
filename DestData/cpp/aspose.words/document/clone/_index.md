@@ -44,5 +44,6 @@ ASSERT_NE(System::ObjectExt::GetHashCode(doc->get_FirstSection()->get_Body()->ge
 ## See Also
 
 * Class [Document](../)
+* Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

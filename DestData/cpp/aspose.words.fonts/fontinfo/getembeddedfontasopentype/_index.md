@@ -55,6 +55,7 @@ System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf
 
 ## See Also
 
+* Enum [EmbeddedFontStyle](../../embeddedfontstyle/)
 * Class [FontInfo](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

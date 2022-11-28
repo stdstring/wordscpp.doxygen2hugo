@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_TextWrapping(Aspose::Words::Tables::TextW
 
 ## See Also
 
+* Enum [TextWrapping](../../textwrapping/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

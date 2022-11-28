@@ -17,6 +17,7 @@ void Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitCriteria(Aspose::W
 
 ## See Also
 
+* Enum [DocumentSplitCriteria](../../documentsplitcriteria/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

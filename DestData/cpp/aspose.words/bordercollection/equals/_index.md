@@ -62,5 +62,6 @@ doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 ## See Also
 
 * Class [BorderCollection](../)
+* Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

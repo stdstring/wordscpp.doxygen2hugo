@@ -41,6 +41,7 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.RenderInkObject.jpeg", saveOptions);
 
 ## See Also
 
+* Enum [ImlRenderingMode](../../imlrenderingmode/)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

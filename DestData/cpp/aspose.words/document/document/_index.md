@@ -222,6 +222,7 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 
 ## See Also
 
+* Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -321,6 +322,7 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 
 ## See Also
 
+* Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -349,6 +351,7 @@ Aspose::Words::Document::Document(std::istream &stream, const System::SharedPtr<
 
 ## See Also
 
+* Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

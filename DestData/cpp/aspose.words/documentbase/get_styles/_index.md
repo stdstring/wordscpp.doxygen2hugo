@@ -75,6 +75,7 @@ builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList
 
 ## See Also
 
+* Class [StyleCollection](../../stylecollection/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

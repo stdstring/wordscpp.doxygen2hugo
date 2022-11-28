@@ -41,6 +41,7 @@ doc->Save(ArtifactsDir + u"Font.Shading.docx");
 
 ## See Also
 
+* Class [Shading](../../shading/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

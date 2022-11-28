@@ -17,6 +17,7 @@ Aspose::Words::WarningSource Aspose::Words::WarningInfo::get_Source() const
 
 ## See Also
 
+* Enum [WarningSource](../../warningsource/)
 * Class [WarningInfo](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

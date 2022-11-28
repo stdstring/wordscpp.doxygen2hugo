@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::DocumentBase> Aspose::Words::Drawing::Charts::A
 
 ## See Also
 
+* Class [DocumentBase](../../../aspose.words/documentbase/)
 * Class [AxisDisplayUnit](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

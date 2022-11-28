@@ -32,6 +32,7 @@ ASSERT_EQ(24, body->get_ChildNodes()->IndexOf(body->get_LastParagraph()));
 
 ## See Also
 
+* Class [Node](../../node/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -167,6 +167,8 @@ private:
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [Table](../../../aspose.words.tables/table/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

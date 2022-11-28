@@ -37,6 +37,7 @@ ASSERT_EQ(1, folderFontSource->get_Priority());
 
 ## See Also
 
+* Enum [FontSourceType](../../fontsourcetype/)
 * Class [FolderFontSource](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

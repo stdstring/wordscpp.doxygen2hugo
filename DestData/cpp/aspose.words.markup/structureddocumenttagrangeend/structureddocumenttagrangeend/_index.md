@@ -73,6 +73,7 @@ void InsertStructuredDocumentTagRanges(SharedPtr<Document> doc, SharedPtr<Struct
 
 ## See Also
 
+* Class [DocumentBase](../../../aspose.words/documentbase/)
 * Class [StructuredDocumentTagRangeEnd](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

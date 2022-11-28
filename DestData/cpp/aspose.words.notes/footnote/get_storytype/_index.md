@@ -76,6 +76,7 @@ doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 
 ## See Also
 
+* Enum [StoryType](../../../aspose.words/storytype/)
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

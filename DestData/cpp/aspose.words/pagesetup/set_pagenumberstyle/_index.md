@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_PageNumberStyle(Aspose::Words::NumberStyle va
 
 ## See Also
 
+* Enum [NumberStyle](../../numberstyle/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

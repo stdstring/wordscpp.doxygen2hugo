@@ -17,6 +17,7 @@ void Aspose::Words::Saving::TxtSaveOptions::set_SaveFormat(Aspose::Words::SaveFo
 
 ## See Also
 
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
 * Class [TxtSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

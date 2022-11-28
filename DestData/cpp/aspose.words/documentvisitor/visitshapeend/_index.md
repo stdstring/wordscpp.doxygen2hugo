@@ -110,6 +110,8 @@ private:
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

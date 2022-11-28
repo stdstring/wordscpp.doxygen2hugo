@@ -17,6 +17,7 @@ virtual System::SharedPtr<Aspose::Words::Markup::XmlMapping> Aspose::Words::Mark
 
 ## See Also
 
+* Class [XmlMapping](../../xmlmapping/)
 * Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

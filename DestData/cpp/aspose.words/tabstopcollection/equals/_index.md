@@ -61,6 +61,7 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 ## See Also
 
 * Class [TabStopCollection](../)
+* Class [TabStopCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
 ## TabStopCollection::Equals(System::SharedPtr\<System::Object\>) method

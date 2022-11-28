@@ -130,6 +130,8 @@ private:
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [GlossaryDocument](../../../aspose.words.buildingblocks/glossarydocument/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

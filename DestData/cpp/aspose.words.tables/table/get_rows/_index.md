@@ -86,6 +86,7 @@ doc->Save(ArtifactsDir + u"Table.CombineTables.docx");
 
 ## See Also
 
+* Class [RowCollection](../../rowcollection/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

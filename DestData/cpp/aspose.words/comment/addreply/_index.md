@@ -62,5 +62,6 @@ doc->Save(ArtifactsDir + u"Comment.AddCommentWithReply.docx");
 ## See Also
 
 * Class [Comment](../)
+* Class [Comment](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

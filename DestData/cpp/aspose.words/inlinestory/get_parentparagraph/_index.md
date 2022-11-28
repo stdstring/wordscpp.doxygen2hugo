@@ -76,6 +76,7 @@ doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 
 ## See Also
 
+* Class [Paragraph](../../paragraph/)
 * Class [InlineStory](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

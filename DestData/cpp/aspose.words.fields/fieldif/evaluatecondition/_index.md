@@ -66,6 +66,7 @@ doc->Save(ArtifactsDir + u"Field.IF.docx");
 
 ## See Also
 
+* Enum [FieldIfComparisonResult](../../fieldifcomparisonresult/)
 * Class [FieldIf](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

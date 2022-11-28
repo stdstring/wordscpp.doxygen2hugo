@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::WebExtensions::WebExtensionReferenceCollection>
 
 ## See Also
 
+* Class [WebExtensionReferenceCollection](../../webextensionreferencecollection/)
 * Class [WebExtension](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 
 ## See Also
 
+* Interface [IStructuredDocumentTag](../../istructureddocumenttag/)
 * Class [StructuredDocumentTagCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

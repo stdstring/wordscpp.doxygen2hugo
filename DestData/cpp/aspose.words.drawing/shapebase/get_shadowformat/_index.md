@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Drawing::ShadowFormat> Aspose::Words::Drawing::
 
 ## See Also
 
+* Class [ShadowFormat](../../shadowformat/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

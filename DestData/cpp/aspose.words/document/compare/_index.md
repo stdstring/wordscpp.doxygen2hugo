@@ -71,6 +71,7 @@ ASSERT_EQ(docOriginal->GetText(), docEdited->GetText());
 ## See Also
 
 * Class [Document](../)
+* Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
 ## Document::Compare(const System::SharedPtr\<Aspose::Words::Document\>\&, const System::String\&, System::DateTime, const System::SharedPtr\<Aspose::Words::Comparing::CompareOptions\>\&) method
@@ -181,6 +182,8 @@ docOriginal->Save(ArtifactsDir + u"Document.CompareOptions.docx");
 
 ## See Also
 
+* Class [Document](../)
+* Class [CompareOptions](../../../aspose.words.comparing/compareoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -119,6 +119,7 @@ private:
 
 ## See Also
 
+* Enum [BuildingBlockGallery](../../buildingblockgallery/)
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
 * Library [Aspose.Words](../../../)

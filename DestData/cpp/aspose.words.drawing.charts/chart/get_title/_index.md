@@ -44,6 +44,7 @@ doc->Save(ArtifactsDir + u"Charts.ChartTitle.docx");
 
 ## See Also
 
+* Class [ChartTitle](../../charttitle/)
 * Class [Chart](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

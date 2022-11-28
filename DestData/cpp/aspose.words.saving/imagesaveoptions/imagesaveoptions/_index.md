@@ -53,6 +53,7 @@ ASSERT_LT(60000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOpti
 
 ## See Also
 
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

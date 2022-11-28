@@ -18,6 +18,7 @@ bool Aspose::Words::Shading::Equals(const System::SharedPtr<Aspose::Words::Shadi
 ## See Also
 
 * Class [Shading](../)
+* Class [Shading](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
 ## Shading::Equals(System::SharedPtr\<System::Object\>) method

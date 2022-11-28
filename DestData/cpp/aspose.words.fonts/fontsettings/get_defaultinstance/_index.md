@@ -96,5 +96,6 @@ public:
 ## See Also
 
 * Class [FontSettings](../)
+* Class [FontSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

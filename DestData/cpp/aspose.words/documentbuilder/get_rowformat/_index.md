@@ -155,6 +155,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.SetRowFormatting.docx");
 
 ## See Also
 
+* Class [RowFormat](../../../aspose.words.tables/rowformat/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

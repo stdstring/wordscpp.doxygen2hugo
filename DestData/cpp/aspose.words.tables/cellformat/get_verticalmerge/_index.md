@@ -99,6 +99,7 @@ String PrintCellMergeType(SharedPtr<Cell> cell)
 
 ## See Also
 
+* Enum [CellMerge](../../cellmerge/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

@@ -52,6 +52,7 @@ doc->Save(ArtifactsDir + u"DocumentProperties.LinkCustomDocumentPropertiesToBook
 
 ## See Also
 
+* Class [DocumentProperty](../../documentproperty/)
 * Class [CustomDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
 * Library [Aspose.Words](../../../)

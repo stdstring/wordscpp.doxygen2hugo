@@ -17,6 +17,7 @@ void Aspose::Words::Markup::StructuredDocumentTag::set_DateStorageFormat(Aspose:
 
 ## See Also
 
+* Enum [SdtDateStorageFormat](../../sdtdatestorageformat/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

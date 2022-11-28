@@ -53,6 +53,7 @@ for (const auto& docProperty : System::IterateOver(doc->get_BuiltInDocumentPrope
 
 ## See Also
 
+* Class [BuiltInDocumentProperties](../../../aspose.words.properties/builtindocumentproperties/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

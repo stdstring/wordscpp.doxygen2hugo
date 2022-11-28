@@ -24,6 +24,8 @@ virtual void Aspose::Words::IDocumentReaderPlugin::Read(System::SharedPtr<System
 
 ## See Also
 
+* Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
+* Class [Document](../../document/)
 * Interface [IDocumentReaderPlugin](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

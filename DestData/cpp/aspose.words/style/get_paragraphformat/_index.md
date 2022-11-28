@@ -52,6 +52,7 @@ builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList
 
 ## See Also
 
+* Class [ParagraphFormat](../../paragraphformat/)
 * Class [Style](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -86,6 +86,7 @@ private:
 
 ## See Also
 
+* Enum [NodeChangingAction](../../nodechangingaction/)
 * Class [NodeChangingArgs](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

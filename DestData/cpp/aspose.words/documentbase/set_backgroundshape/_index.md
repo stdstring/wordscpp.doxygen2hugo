@@ -17,6 +17,7 @@ void Aspose::Words::DocumentBase::set_BackgroundShape(const System::SharedPtr<As
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

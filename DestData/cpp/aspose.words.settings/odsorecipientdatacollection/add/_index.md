@@ -22,6 +22,7 @@ int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::Add(const System::
 
 ## See Also
 
+* Class [OdsoRecipientData](../../odsorecipientdata/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

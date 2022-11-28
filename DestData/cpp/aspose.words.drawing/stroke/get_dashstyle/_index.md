@@ -95,6 +95,7 @@ doc->Save(ArtifactsDir + u"Drawing.VariousShapes.docx");
 
 ## See Also
 
+* Enum [DashStyle](../../dashstyle/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

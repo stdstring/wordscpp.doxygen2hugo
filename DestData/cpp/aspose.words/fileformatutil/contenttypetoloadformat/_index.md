@@ -66,6 +66,7 @@ ASSERT_EQ(SaveFormat::Mhtml, FileFormatUtil::ContentTypeToSaveFormat(u"multipart
 
 ## See Also
 
+* Enum [LoadFormat](../../loadformat/)
 * Class [FileFormatUtil](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

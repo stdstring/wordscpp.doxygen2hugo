@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_GlossaryDocument(const System::SharedPtr<Aspos
 
 ## See Also
 
+* Class [GlossaryDocument](../../../aspose.words.buildingblocks/glossarydocument/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

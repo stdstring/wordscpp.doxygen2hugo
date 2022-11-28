@@ -17,6 +17,7 @@ void Aspose::Words::Markup::StructuredDocumentTag::set_Style(const System::Share
 
 ## See Also
 
+* Class [Style](../../../aspose.words/style/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

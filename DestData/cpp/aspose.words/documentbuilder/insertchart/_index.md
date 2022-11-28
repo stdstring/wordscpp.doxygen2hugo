@@ -51,6 +51,11 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertedChartRelativePosition.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [ChartType](../../../aspose.words.drawing.charts/charttype/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -96,6 +101,8 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertPieChart.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [ChartType](../../../aspose.words.drawing.charts/charttype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

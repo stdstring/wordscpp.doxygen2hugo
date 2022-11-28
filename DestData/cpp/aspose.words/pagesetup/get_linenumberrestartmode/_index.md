@@ -52,6 +52,7 @@ doc->Save(ArtifactsDir + u"PageSetup.LineNumbers.docx");
 
 ## See Also
 
+* Enum [LineNumberRestartMode](../../linenumberrestartmode/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

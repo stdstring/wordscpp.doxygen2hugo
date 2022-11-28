@@ -41,6 +41,7 @@ doc->Save(ArtifactsDir + u"Shape.TextureFill.docx", saveOptions);
 
 ## See Also
 
+* Enum [TextureAlignment](../../texturealignment/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

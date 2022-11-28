@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_Orientation(Aspose::Words::Orientation value)
 
 ## See Also
 
+* Enum [Orientation](../../orientation/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

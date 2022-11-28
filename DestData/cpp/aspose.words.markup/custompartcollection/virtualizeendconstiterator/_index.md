@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::Markup::CustomPartCollection::virtualizeEn
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

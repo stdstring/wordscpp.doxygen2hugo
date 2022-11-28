@@ -50,6 +50,7 @@ doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 
 ## See Also
 
+* Enum [OfficeMathDisplayType](../../officemathdisplaytype/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
 * Library [Aspose.Words](../../../)

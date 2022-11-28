@@ -59,6 +59,7 @@ private:
 
 ## See Also
 
+* Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
 * Class [SvgSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

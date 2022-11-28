@@ -17,6 +17,7 @@ void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ResourceSavingCallback(con
 
 ## See Also
 
+* Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

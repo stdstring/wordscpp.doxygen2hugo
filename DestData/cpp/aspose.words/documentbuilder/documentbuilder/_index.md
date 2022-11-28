@@ -131,6 +131,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertToc.docx");
 
 ## See Also
 
+* Class [Document](../../document/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

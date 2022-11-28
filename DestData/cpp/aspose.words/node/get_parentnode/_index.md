@@ -70,6 +70,7 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 
 ## See Also
 
+* Class [CompositeNode](../../compositenode/)
 * Class [Node](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

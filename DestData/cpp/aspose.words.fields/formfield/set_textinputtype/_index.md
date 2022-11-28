@@ -17,6 +17,7 @@ void Aspose::Words::Fields::FormField::set_TextInputType(Aspose::Words::Fields::
 
 ## See Also
 
+* Enum [TextFormFieldType](../../textformfieldtype/)
 * Class [FormField](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

@@ -40,6 +40,7 @@ doc->Save(ArtifactsDir + u"PageSetup.PageBorderProperties.docx");
 
 ## See Also
 
+* Enum [PageBorderAppliesTo](../../pageborderappliesto/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

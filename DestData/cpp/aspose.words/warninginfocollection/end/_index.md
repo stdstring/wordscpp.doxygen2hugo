@@ -17,6 +17,7 @@ const_iterator Aspose::Words::WarningInfoCollection::end() const noexcept
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [WarningInfoCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::WarningInfoCollection::end() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [WarningInfoCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

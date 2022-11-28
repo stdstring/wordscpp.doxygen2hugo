@@ -43,6 +43,7 @@ ASSERT_TRUE(runs->idx_get(4)->get_Font()->HasDmlEffect(TextDmlEffect::Fill));
 
 ## See Also
 
+* Enum [TextDmlEffect](../../textdmleffect/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

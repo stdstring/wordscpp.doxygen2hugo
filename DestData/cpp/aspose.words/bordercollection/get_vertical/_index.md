@@ -61,6 +61,7 @@ doc->Save(ArtifactsDir + u"Border.VerticalBorders.docx");
 
 ## See Also
 
+* Class [Border](../../border/)
 * Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

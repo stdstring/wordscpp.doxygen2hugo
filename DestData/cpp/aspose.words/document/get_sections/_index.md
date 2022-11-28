@@ -95,6 +95,7 @@ ASSERT_EQ(u"Section 2\x000c"
 
 ## See Also
 
+* Class [SectionCollection](../../sectioncollection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

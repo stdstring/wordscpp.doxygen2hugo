@@ -76,6 +76,7 @@ doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 
 ## See Also
 
+* Class [Font](../../font/)
 * Class [InlineStory](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

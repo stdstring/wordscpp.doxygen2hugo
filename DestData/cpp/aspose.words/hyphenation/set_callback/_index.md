@@ -17,6 +17,7 @@ static void Aspose::Words::Hyphenation::set_Callback(const System::SharedPtr<Asp
 
 ## See Also
 
+* Interface [IHyphenationCallback](../../ihyphenationcallback/)
 * Class [Hyphenation](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

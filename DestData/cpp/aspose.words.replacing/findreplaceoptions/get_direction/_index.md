@@ -88,6 +88,7 @@ private:
 
 ## See Also
 
+* Enum [FindReplaceDirection](../../findreplacedirection/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)

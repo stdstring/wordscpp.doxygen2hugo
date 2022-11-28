@@ -92,6 +92,7 @@ case TxtTrailingSpacesOptions::Trim:
 
 ## See Also
 
+* Enum [TxtTrailingSpacesOptions](../../txttrailingspacesoptions/)
 * Class [TxtLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

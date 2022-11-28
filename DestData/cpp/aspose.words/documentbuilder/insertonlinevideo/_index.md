@@ -68,6 +68,10 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideo.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -142,6 +146,10 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -211,6 +219,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -266,6 +275,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertVideoWithUrl.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

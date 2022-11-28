@@ -93,6 +93,7 @@ ASSERT_EQ(String(u"<p style=\"margin-top:0pt; margin-bottom:8pt; line-height:108
 
 ## See Also
 
+* Enum [SaveFormat](../../saveformat/)
 * Class [Node](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -141,6 +142,7 @@ ASSERT_EQ(String(u"<p style=\"margin-top:0pt; margin-bottom:8pt; line-height:108
 
 ## See Also
 
+* Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
 * Class [Node](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

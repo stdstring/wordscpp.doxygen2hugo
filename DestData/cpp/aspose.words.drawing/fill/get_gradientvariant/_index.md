@@ -58,6 +58,7 @@ doc->Save(ArtifactsDir + u"Shape.GradientFill.docx", saveOptions);
 
 ## See Also
 
+* Enum [GradientVariant](../../gradientvariant/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

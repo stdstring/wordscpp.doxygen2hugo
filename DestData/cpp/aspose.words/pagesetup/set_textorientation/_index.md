@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_TextOrientation(Aspose::Words::TextOrientatio
 
 ## See Also
 
+* Enum [TextOrientation](../../textorientation/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

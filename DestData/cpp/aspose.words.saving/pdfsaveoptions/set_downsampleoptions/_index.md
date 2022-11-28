@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_DownsampleOptions(const System::
 
 ## See Also
 
+* Class [DownsampleOptions](../../downsampleoptions/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

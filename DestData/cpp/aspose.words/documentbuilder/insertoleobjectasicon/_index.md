@@ -58,6 +58,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOleObjectAsIcon.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -84,6 +85,7 @@ Shape node containing Ole object and inserted at the current Builder position.
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -140,6 +142,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOleObjectAsIcon.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -154,6 +157,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

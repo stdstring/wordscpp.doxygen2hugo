@@ -50,6 +50,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.DrawingMLEffects.pdf", options);
 
 ## See Also
 
+* Enum [DmlEffectsRenderingMode](../../dmleffectsrenderingmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

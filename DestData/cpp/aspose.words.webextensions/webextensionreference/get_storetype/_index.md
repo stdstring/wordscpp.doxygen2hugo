@@ -61,6 +61,7 @@ ASSERT_EQ(0, doc->get_WebExtensionTaskPanes()->get_Count());
 
 ## See Also
 
+* Enum [WebExtensionStoreType](../../webextensionstoretype/)
 * Class [WebExtensionReference](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

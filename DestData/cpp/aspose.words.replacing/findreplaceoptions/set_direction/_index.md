@@ -17,6 +17,7 @@ void Aspose::Words::Replacing::FindReplaceOptions::set_Direction(Aspose::Words::
 
 ## See Also
 
+* Enum [FindReplaceDirection](../../findreplacedirection/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)

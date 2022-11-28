@@ -17,6 +17,7 @@ void Aspose::Words::Notes::FootnoteOptions::set_NumberStyle(Aspose::Words::Numbe
 
 ## See Also
 
+* Enum [NumberStyle](../../../aspose.words/numberstyle/)
 * Class [FootnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

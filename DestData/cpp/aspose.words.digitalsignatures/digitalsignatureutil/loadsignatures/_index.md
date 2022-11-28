@@ -47,6 +47,7 @@ ASSERT_EQ(1, digitalSignatures->get_Count());
 
 ## See Also
 
+* Class [DigitalSignatureCollection](../../digitalsignaturecollection/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -114,6 +115,7 @@ ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignat
 
 ## See Also
 
+* Class [DigitalSignatureCollection](../../digitalsignaturecollection/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -128,6 +130,7 @@ template<typename CharType,typename Traits> static System::SharedPtr<Aspose::Wor
 
 ## See Also
 
+* Class [DigitalSignatureCollection](../../digitalsignaturecollection/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)

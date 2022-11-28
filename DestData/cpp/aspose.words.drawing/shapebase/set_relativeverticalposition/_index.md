@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShapeBase::set_RelativeVerticalPosition(Aspose::Wor
 
 ## See Also
 
+* Enum [RelativeVerticalPosition](../../relativeverticalposition/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

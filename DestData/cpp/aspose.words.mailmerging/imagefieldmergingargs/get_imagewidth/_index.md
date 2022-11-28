@@ -24,6 +24,7 @@ To indicate that the original value of the image width should be applied, you sh
 
 ## See Also
 
+* Class [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/)
 * Class [ImageFieldMergingArgs](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

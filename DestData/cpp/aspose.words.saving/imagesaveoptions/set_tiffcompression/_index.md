@@ -17,6 +17,7 @@ void Aspose::Words::Saving::ImageSaveOptions::set_TiffCompression(Aspose::Words:
 
 ## See Also
 
+* Enum [TiffCompression](../../tiffcompression/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

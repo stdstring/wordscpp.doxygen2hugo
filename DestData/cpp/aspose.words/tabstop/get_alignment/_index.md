@@ -44,6 +44,7 @@ doc->Save(ArtifactsDir + u"Styles.ChangeTocsTabStops.docx");
 
 ## See Also
 
+* Enum [TabAlignment](../../tabalignment/)
 * Class [TabStop](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

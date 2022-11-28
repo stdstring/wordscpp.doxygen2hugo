@@ -17,6 +17,7 @@ void Aspose::Words::Notes::FootnoteOptions::set_Position(Aspose::Words::Notes::F
 
 ## See Also
 
+* Enum [FootnotePosition](../../footnoteposition/)
 * Class [FootnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

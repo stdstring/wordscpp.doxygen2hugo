@@ -67,6 +67,7 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 
 ## See Also
 
+* Class [FileFormatInfo](../../fileformatinfo/)
 * Class [FileFormatUtil](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -141,6 +142,7 @@ ASSERT_EQ(1, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"File.DetectDi
 
 ## See Also
 
+* Class [FileFormatInfo](../../fileformatinfo/)
 * Class [FileFormatUtil](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -155,6 +157,7 @@ template<typename CharType,typename Traits> static System::SharedPtr<Aspose::Wor
 
 ## See Also
 
+* Class [FileFormatInfo](../../fileformatinfo/)
 * Class [FileFormatUtil](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

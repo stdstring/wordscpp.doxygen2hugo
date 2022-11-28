@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry> Aspose::Word
 
 ## See Also
 
+* Class [ChartLegendEntry](../../chartlegendentry/)
 * Class [ChartSeries](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -49,6 +49,7 @@ ASSERT_EQ(u"Run 2. \rRun 1. \rRun 3.", doc->GetText().Trim());
 
 ## See Also
 
+* Class [Paragraph](../../paragraph/)
 * Class [Story](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

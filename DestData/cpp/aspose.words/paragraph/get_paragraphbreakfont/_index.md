@@ -197,6 +197,7 @@ public:
 
 ## See Also
 
+* Class [Font](../../font/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

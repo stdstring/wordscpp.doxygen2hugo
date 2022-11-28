@@ -123,6 +123,8 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 
 ## See Also
 
+* Enum [TabAlignment](../../tabalignment/)
+* Enum [TabLeader](../../tableader/)
 * Class [TabStop](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

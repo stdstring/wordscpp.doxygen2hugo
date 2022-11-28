@@ -151,6 +151,7 @@ private:
 
 ## See Also
 
+* Enum [TextFormFieldType](../../textformfieldtype/)
 * Class [FormField](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

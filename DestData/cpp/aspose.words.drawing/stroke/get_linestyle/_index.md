@@ -52,6 +52,7 @@ doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
 
 ## See Also
 
+* Enum [ShapeLineStyle](../../shapelinestyle/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

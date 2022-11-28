@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::cbegin() co
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

@@ -111,6 +111,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.SetRowFormatting.docx");
 
 ## See Also
 
+* Enum [HeightRule](../../../aspose.words/heightrule/)
 * Class [RowFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

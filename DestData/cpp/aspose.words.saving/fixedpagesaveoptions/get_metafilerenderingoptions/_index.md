@@ -72,6 +72,7 @@ public:
 
 ## See Also
 
+* Class [MetafileRenderingOptions](../../metafilerenderingoptions/)
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

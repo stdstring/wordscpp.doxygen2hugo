@@ -49,6 +49,7 @@ doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOption
 
 ## See Also
 
+* Enum [DocumentSplitCriteria](../../documentsplitcriteria/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

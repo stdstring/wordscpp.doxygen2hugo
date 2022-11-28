@@ -53,6 +53,7 @@ for (const auto& node : System::IterateOver(tags))
 
 ## See Also
 
+* Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

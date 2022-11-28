@@ -101,5 +101,7 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ## See Also
 
 * Class [FieldArgumentBuilder](../)
+* Class [Inline](../../../aspose.words/inline/)
+* Class [FieldArgumentBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

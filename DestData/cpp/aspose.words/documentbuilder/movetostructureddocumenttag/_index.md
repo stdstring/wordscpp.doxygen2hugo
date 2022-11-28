@@ -23,6 +23,7 @@ void Aspose::Words::DocumentBuilder::MoveToStructuredDocumentTag(const System::S
 
 ## See Also
 
+* Class [StructuredDocumentTag](../../../aspose.words.markup/structureddocumenttag/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

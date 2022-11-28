@@ -66,6 +66,7 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 ## See Also
 
+* Class [Font](../../font/)
 * Class [Inline](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

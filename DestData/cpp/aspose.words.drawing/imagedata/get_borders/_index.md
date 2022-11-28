@@ -79,6 +79,7 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 ## See Also
 
+* Class [BorderCollection](../../../aspose.words/bordercollection/)
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

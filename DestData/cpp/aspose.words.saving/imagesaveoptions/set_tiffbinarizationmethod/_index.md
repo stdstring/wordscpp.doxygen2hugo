@@ -17,6 +17,7 @@ void Aspose::Words::Saving::ImageSaveOptions::set_TiffBinarizationMethod(Aspose:
 
 ## See Also
 
+* Enum [ImageBinarizationMethod](../../imagebinarizationmethod/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

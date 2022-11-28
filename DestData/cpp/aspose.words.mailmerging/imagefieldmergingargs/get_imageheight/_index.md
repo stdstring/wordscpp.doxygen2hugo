@@ -24,6 +24,7 @@ To indicate that the original value of the image height should be applied, you s
 
 ## See Also
 
+* Class [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/)
 * Class [ImageFieldMergingArgs](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

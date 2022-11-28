@@ -17,6 +17,7 @@ void Aspose::Words::Markup::StructuredDocumentTag::set_Appearance(Aspose::Words:
 
 ## See Also
 
+* Enum [SdtAppearance](../../sdtappearance/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

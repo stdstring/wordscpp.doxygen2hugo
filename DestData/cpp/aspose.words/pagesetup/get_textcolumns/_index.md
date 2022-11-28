@@ -38,6 +38,7 @@ doc->Save(ArtifactsDir + u"PageSetup.ColumnsSameWidth.docx");
 
 ## See Also
 
+* Class [TextColumnCollection](../../textcolumncollection/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -68,6 +68,7 @@ doc->Save(ArtifactsDir + u"Charts.AxisProperties.docx");
 
 ## See Also
 
+* Enum [AxisCategoryType](../../axiscategorytype/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

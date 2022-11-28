@@ -47,6 +47,7 @@ doc->Save(ArtifactsDir + u"Charts.SetNumberFormatToChartAxis.docx");
 
 ## See Also
 
+* Class [ChartNumberFormat](../../chartnumberformat/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

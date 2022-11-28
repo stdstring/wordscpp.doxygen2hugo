@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::Vba::VbaModuleCollection::virtualizeEndIte
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

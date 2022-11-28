@@ -95,6 +95,7 @@ doc->Save(ArtifactsDir + u"Drawing.VariousShapes.docx");
 
 ## See Also
 
+* Enum [EndCap](../../endcap/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

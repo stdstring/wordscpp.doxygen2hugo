@@ -29,6 +29,7 @@ SharedPtr<RevisionGroup> revisionGroup = doc->get_Revisions()->get_Groups()->idx
 
 ## See Also
 
+* Class [RevisionGroup](../../revisiongroup/)
 * Class [RevisionGroupCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

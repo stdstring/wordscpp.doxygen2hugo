@@ -84,6 +84,7 @@ ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.Crea
 
 ## See Also
 
+* Class [ImageData](../../imagedata/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

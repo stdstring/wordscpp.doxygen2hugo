@@ -32,6 +32,7 @@ If index is negative and its absolute value is greater than the number of items 
 
 ## See Also
 
+* Class [Node](../../node/)
 * Class [NodeList](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

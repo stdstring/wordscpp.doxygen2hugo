@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_RevisionsView(Aspose::Words::RevisionsView val
 
 ## See Also
 
+* Enum [RevisionsView](../../revisionsview/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

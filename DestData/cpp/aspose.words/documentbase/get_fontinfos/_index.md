@@ -65,6 +65,7 @@ else
 
 ## See Also
 
+* Class [FontInfoCollection](../../../aspose.words.fonts/fontinfocollection/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

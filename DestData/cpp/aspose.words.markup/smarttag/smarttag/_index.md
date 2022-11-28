@@ -121,6 +121,7 @@ public:
 
 ## See Also
 
+* Class [DocumentBase](../../../aspose.words/documentbase/)
 * Class [SmartTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

@@ -69,6 +69,7 @@ case HtmlOfficeMathOutputMode::Text:
 
 ## See Also
 
+* Enum [HtmlOfficeMathOutputMode](../../htmlofficemathoutputmode/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

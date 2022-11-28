@@ -54,6 +54,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.HeaderFooterBookmarksExportMode.pdf", 
 
 ## See Also
 
+* Enum [HeaderFooterBookmarksExportMode](../../headerfooterbookmarksexportmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

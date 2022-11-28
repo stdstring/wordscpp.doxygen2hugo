@@ -17,6 +17,7 @@ Aspose::Words::WebExtensions::WebExtensionBindingType Aspose::Words::WebExtensio
 
 ## See Also
 
+* Enum [WebExtensionBindingType](../../webextensionbindingtype/)
 * Class [WebExtensionBinding](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

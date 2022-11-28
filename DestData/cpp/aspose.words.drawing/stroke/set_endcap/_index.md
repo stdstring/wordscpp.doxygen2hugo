@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Stroke::set_EndCap(Aspose::Words::Drawing::EndCap v
 
 ## See Also
 
+* Enum [EndCap](../../endcap/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -159,6 +159,7 @@ private:
 
 ## See Also
 
+* Class [Table](../../table/)
 * Class [Row](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

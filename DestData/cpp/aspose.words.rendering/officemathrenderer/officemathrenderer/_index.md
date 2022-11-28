@@ -67,6 +67,7 @@ ASSERT_EQ(30, bounds.get_Height());
 
 ## See Also
 
+* Class [OfficeMath](../../../aspose.words.math/officemath/)
 * Class [OfficeMathRenderer](../)
 * Namespace [Aspose::Words::Rendering](../../)
 * Library [Aspose.Words](../../../)

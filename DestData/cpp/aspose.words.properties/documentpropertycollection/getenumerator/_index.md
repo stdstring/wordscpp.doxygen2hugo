@@ -80,6 +80,7 @@ ASSERT_EQ(0, properties->get_Count());
 
 ## See Also
 
+* Class [DocumentProperty](../../documentproperty/)
 * Class [DocumentPropertyCollection](../)
 * Namespace [Aspose::Words::Properties](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::StreamFontSource::get
 
 ## See Also
 
+* Enum [FontSourceType](../../fontsourcetype/)
 * Class [StreamFontSource](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

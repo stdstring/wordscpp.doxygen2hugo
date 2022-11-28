@@ -129,6 +129,7 @@ doc->Save(ArtifactsDir + u"PageSetup.ClearFormatting.docx");
 
 ## See Also
 
+* Enum [BreakType](../../breaktype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

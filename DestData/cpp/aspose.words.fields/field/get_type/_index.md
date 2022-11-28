@@ -36,6 +36,7 @@ ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - Syst
 
 ## See Also
 
+* Enum [FieldType](../../fieldtype/)
 * Class [Field](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

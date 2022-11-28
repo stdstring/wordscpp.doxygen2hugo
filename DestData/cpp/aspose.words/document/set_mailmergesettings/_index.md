@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_MailMergeSettings(const System::SharedPtr<Aspo
 
 ## See Also
 
+* Class [MailMergeSettings](../../../aspose.words.settings/mailmergesettings/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

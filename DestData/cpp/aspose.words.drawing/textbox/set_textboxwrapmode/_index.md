@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode(Aspose::Words::Drawing
 
 ## See Also
 
+* Enum [TextBoxWrapMode](../../textboxwrapmode/)
 * Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Fields::FieldOptions::set_BarcodeGenerator(const System::Sha
 
 ## See Also
 
+* Interface [IBarcodeGenerator](../../ibarcodegenerator/)
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

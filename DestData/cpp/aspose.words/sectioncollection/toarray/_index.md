@@ -22,6 +22,7 @@ An array of sections.
 
 ## See Also
 
+* Class [Section](../../section/)
 * Class [SectionCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

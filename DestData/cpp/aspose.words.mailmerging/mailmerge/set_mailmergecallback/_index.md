@@ -17,6 +17,7 @@ void Aspose::Words::MailMerging::MailMerge::set_MailMergeCallback(const System::
 
 ## See Also
 
+* Interface [IMailMergeCallback](../../imailmergecallback/)
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

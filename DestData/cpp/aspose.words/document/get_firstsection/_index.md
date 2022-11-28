@@ -114,6 +114,7 @@ for (const auto& node : System::IterateOver(section))
 
 ## See Also
 
+* Class [Section](../../section/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

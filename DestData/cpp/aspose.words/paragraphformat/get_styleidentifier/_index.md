@@ -68,6 +68,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertToc.docx");
 
 ## See Also
 
+* Enum [StyleIdentifier](../../styleidentifier/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

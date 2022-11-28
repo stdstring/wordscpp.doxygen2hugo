@@ -17,6 +17,7 @@ void Aspose::Words::Markup::StructuredDocumentTag::set_CalendarType(Aspose::Word
 
 ## See Also
 
+* Enum [SdtCalendarType](../../sdtcalendartype/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

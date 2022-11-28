@@ -63,6 +63,7 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlaceholderBuildingBlock.docx")
 
 ## See Also
 
+* Class [BuildingBlock](../../../aspose.words.buildingblocks/buildingblock/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

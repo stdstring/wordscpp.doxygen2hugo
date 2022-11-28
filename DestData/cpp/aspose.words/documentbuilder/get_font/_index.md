@@ -100,6 +100,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.CreateFormattedTable.docx");
 
 ## See Also
 
+* Class [Font](../../font/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

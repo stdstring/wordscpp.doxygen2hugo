@@ -38,6 +38,7 @@ ASPOSE_ASSERT_EQ(u"123 Main St, London, UK", plaintext->get_CustomDocumentProper
 
 ## See Also
 
+* Class [CustomDocumentProperties](../../../aspose.words.properties/customdocumentproperties/)
 * Class [PlainTextDocument](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

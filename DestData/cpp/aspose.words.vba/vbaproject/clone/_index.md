@@ -45,5 +45,6 @@ destDoc->Save(ArtifactsDir + u"VbaProject.CloneVbaProject.docm");
 ## See Also
 
 * Class [VbaProject](../)
+* Class [VbaProject](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

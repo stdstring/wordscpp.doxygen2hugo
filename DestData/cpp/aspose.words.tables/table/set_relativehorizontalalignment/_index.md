@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_RelativeHorizontalAlignment(Aspose::Words
 
 ## See Also
 
+* Enum [HorizontalAlignment](../../../aspose.words.drawing/horizontalalignment/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

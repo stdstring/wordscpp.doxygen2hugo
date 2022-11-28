@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Charts::ChartAxis::set_MajorTickMark(Aspose::Words:
 
 ## See Also
 
+* Enum [AxisTickMark](../../axistickmark/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

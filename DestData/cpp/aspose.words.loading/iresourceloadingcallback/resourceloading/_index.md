@@ -76,6 +76,8 @@ public:
 
 ## See Also
 
+* Enum [ResourceLoadingAction](../../resourceloadingaction/)
+* Class [ResourceLoadingArgs](../../resourceloadingargs/)
 * Interface [IResourceLoadingCallback](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

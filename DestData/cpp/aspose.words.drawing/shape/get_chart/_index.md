@@ -132,6 +132,7 @@ private:
 
 ## See Also
 
+* Class [Chart](../../../aspose.words.drawing.charts/chart/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Saving::HtmlSaveOptions::set_MetafileFormat(Aspose::Words::S
 
 ## See Also
 
+* Enum [HtmlMetafileFormat](../../htmlmetafileformat/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

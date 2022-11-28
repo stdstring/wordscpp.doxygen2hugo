@@ -53,6 +53,7 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPositionSize.docx");
 
 ## See Also
 
+* Class [Section](../../section/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

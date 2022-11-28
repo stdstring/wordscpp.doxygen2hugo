@@ -36,6 +36,7 @@ std::cout << (localeIdFarEast == (int)EditingLanguage::Japanese
 
 ## See Also
 
+* Class [LanguagePreferences](../../languagepreferences/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

@@ -74,5 +74,6 @@ ASPOSE_ASSERT_EQ(216.0, table->get_FirstRow()->get_FirstCell()->get_CellFormat()
 ## See Also
 
 * Class [PreferredWidth](../)
+* Class [PreferredWidth](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

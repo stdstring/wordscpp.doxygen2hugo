@@ -17,6 +17,7 @@ const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::end() cons
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::MailMerging::MappedDataFieldCollection::end() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

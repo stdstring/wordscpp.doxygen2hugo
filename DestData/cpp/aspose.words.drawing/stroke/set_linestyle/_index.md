@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Stroke::set_LineStyle(Aspose::Words::Drawing::Shape
 
 ## See Also
 
+* Enum [ShapeLineStyle](../../shapelinestyle/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

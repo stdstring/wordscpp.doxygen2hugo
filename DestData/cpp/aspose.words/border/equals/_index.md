@@ -62,6 +62,7 @@ doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 ## See Also
 
 * Class [Border](../)
+* Class [Border](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
 ## Border::Equals(System::SharedPtr\<System::Object\>) method

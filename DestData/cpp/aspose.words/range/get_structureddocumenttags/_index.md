@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Markup::StructuredDocumentTagCollection> Aspose
 
 ## See Also
 
+* Class [StructuredDocumentTagCollection](../../../aspose.words.markup/structureddocumenttagcollection/)
 * Class [Range](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

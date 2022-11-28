@@ -18,6 +18,7 @@ bool Aspose::Words::Lists::List::Equals(const System::SharedPtr<Aspose::Words::L
 ## See Also
 
 * Class [List](../)
+* Class [List](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)
 ## List::Equals(System::SharedPtr\<System::Object\>) method

@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_TimestampSettings(co
 
 ## See Also
 
+* Class [PdfDigitalSignatureTimestampSettings](../../pdfdigitalsignaturetimestampsettings/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

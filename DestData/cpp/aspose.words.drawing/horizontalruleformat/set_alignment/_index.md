@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment(Aspose::Words::
 
 ## See Also
 
+* Enum [HorizontalRuleAlignment](../../horizontalrulealignment/)
 * Class [HorizontalRuleFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

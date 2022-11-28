@@ -81,6 +81,7 @@ doc->Save(ArtifactsDir + u"Charts.AxisDisplayUnit.docx");
 
 ## See Also
 
+* Enum [ParagraphAlignment](../../../aspose.words/paragraphalignment/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType(Aspose::Wo
 
 ## See Also
 
+* Enum [MailMergeMainDocumentType](../../mailmergemaindocumenttype/)
 * Class [MailMergeSettings](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

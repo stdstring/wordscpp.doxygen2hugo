@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShapeBase::set_WrapSide(Aspose::Words::Drawing::Wra
 
 ## See Also
 
+* Enum [WrapSide](../../wrapside/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

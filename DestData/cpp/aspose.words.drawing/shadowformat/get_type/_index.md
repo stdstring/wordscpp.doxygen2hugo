@@ -17,6 +17,7 @@ Aspose::Words::Drawing::ShadowType Aspose::Words::Drawing::ShadowFormat::get_Typ
 
 ## See Also
 
+* Enum [ShadowType](../../shadowtype/)
 * Class [ShadowFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

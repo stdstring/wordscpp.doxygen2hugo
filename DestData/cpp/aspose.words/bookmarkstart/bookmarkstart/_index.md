@@ -104,6 +104,7 @@ public:
 
 ## See Also
 
+* Class [DocumentBase](../../documentbase/)
 * Class [BookmarkStart](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_BorderDistanceFrom(Aspose::Words::PageBorderD
 
 ## See Also
 
+* Enum [PageBorderDistanceFrom](../../pageborderdistancefrom/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -65,5 +65,6 @@ doc->Save(ArtifactsDir + u"FieldOptions.TOA.Categories.docx");
 ## See Also
 
 * Class [ToaCategories](../)
+* Class [ToaCategories](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

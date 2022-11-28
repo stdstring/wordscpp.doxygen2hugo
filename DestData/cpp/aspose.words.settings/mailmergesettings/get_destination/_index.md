@@ -17,6 +17,7 @@ Aspose::Words::Settings::MailMergeDestination Aspose::Words::Settings::MailMerge
 
 ## See Also
 
+* Enum [MailMergeDestination](../../mailmergedestination/)
 * Class [MailMergeSettings](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

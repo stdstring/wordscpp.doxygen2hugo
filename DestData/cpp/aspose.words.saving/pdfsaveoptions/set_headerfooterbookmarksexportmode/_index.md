@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_HeaderFooterBookmarksExportMode(
 
 ## See Also
 
+* Enum [HeaderFooterBookmarksExportMode](../../headerfooterbookmarksexportmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -49,6 +49,8 @@ ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_F
 
 ## See Also
 
+* Class [Style](../../style/)
+* Enum [StyleIdentifier](../../styleidentifier/)
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -94,6 +96,7 @@ doc->Save(ArtifactsDir + u"Document.UpdatePageLayout.2.pdf");
 
 ## See Also
 
+* Class [Style](../../style/)
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -132,6 +135,7 @@ ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_F
 
 ## See Also
 
+* Class [Style](../../style/)
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

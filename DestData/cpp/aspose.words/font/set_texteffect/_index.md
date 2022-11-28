@@ -17,6 +17,7 @@ void Aspose::Words::Font::set_TextEffect(Aspose::Words::TextEffect value)
 
 ## See Also
 
+* Enum [TextEffect](../../texteffect/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

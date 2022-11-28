@@ -17,6 +17,7 @@ void Aspose::Words::Properties::BuiltInDocumentProperties::set_Security(Aspose::
 
 ## See Also
 
+* Enum [DocumentSecurity](../../documentsecurity/)
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
 * Library [Aspose.Words](../../../)

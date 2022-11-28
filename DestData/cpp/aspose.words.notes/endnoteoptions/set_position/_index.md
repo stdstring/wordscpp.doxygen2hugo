@@ -17,6 +17,7 @@ void Aspose::Words::Notes::EndnoteOptions::set_Position(Aspose::Words::Notes::En
 
 ## See Also
 
+* Enum [EndnotePosition](../../endnoteposition/)
 * Class [EndnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

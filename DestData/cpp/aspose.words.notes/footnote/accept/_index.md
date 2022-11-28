@@ -110,6 +110,7 @@ private:
 
 ## See Also
 
+* Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

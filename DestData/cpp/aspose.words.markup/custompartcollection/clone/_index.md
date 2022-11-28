@@ -63,5 +63,6 @@ ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 ## See Also
 
 * Class [CustomPartCollection](../)
+* Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

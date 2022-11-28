@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Framesets::FramesetCollection::begin() const noexc
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [FramesetCollection](../)
 * Namespace [Aspose::Words::Framesets](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Framesets::FramesetCollection::begin() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [FramesetCollection](../)
 * Namespace [Aspose::Words::Framesets](../../)
 * Library [Aspose.Words](../../../)

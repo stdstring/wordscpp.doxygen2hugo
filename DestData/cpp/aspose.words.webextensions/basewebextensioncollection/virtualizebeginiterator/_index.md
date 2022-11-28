@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::WebExtensions::BaseWebExtensionCollection<
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [BaseWebExtensionCollection](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

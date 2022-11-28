@@ -99,6 +99,7 @@ public:
 
 ## See Also
 
+* Class [BookmarkCollection](../../bookmarkcollection/)
 * Class [Range](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

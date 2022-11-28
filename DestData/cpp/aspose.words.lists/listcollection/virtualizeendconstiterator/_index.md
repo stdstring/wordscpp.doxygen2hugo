@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::Lists::ListCollection::virtualizeEndConstI
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [ListCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

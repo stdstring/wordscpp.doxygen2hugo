@@ -80,6 +80,7 @@ public:
 
 ## See Also
 
+* Enum [WarningType](../../warningtype/)
 * Class [WarningInfo](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -75,6 +75,7 @@ for (const auto& child : System::IterateOver(children))
 
 ## See Also
 
+* Class [NodeCollection](../../nodecollection/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

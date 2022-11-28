@@ -17,6 +17,7 @@ void Aspose::Words::Layout::LayoutOptions::set_Callback(const System::SharedPtr<
 
 ## See Also
 
+* Interface [IPageLayoutCallback](../../ipagelayoutcallback/)
 * Class [LayoutOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

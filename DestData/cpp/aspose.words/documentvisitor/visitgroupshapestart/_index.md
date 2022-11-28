@@ -286,6 +286,8 @@ public:
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [GroupShape](../../../aspose.words.drawing/groupshape/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

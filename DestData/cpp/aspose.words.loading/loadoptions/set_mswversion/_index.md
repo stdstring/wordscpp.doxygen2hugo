@@ -17,6 +17,7 @@ void Aspose::Words::Loading::LoadOptions::set_MswVersion(Aspose::Words::Settings
 
 ## See Also
 
+* Enum [MsWordVersion](../../../aspose.words.settings/mswordversion/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

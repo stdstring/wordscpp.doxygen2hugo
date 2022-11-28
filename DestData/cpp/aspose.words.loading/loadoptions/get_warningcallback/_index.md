@@ -64,6 +64,7 @@ private:
 
 ## See Also
 
+* Interface [IWarningCallback](../../../aspose.words/iwarningcallback/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

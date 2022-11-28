@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::TextBox::set_LayoutFlow(Aspose::Words::Drawing::Lay
 
 ## See Also
 
+* Enum [LayoutFlow](../../layoutflow/)
 * Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

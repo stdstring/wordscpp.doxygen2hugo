@@ -17,6 +17,7 @@ Aspose::Words::Drawing::PatternType Aspose::Words::Drawing::Fill::get_Pattern()
 
 ## See Also
 
+* Enum [PatternType](../../patterntype/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

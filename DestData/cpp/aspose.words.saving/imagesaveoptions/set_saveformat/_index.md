@@ -17,6 +17,7 @@ void Aspose::Words::Saving::ImageSaveOptions::set_SaveFormat(Aspose::Words::Save
 
 ## See Also
 
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

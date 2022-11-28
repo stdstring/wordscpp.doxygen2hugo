@@ -78,6 +78,7 @@ static void ApplyDataPoints(SharedPtr<ChartSeries> series, int dataPointsCount, 
 
 ## See Also
 
+* Enum [MarkerSymbol](../../markersymbol/)
 * Class [ChartMarker](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::TextPath::set_TextPathAlignment(Aspose::Words::Draw
 
 ## See Also
 
+* Enum [TextPathAlignment](../../textpathalignment/)
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

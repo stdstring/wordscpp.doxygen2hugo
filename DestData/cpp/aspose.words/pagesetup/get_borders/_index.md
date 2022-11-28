@@ -36,6 +36,7 @@ doc->Save(ArtifactsDir + u"PageSetup.PageBorders.docx");
 
 ## See Also
 
+* Class [BorderCollection](../../bordercollection/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

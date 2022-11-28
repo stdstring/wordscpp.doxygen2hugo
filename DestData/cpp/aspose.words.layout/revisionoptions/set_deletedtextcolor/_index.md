@@ -17,6 +17,7 @@ void Aspose::Words::Layout::RevisionOptions::set_DeletedTextColor(Aspose::Words:
 
 ## See Also
 
+* Enum [RevisionColor](../../revisioncolor/)
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

@@ -49,6 +49,7 @@ doc->Save(ArtifactsDir + u"Charts.DataLabelNumberFormat.docx");
 
 ## See Also
 
+* Class [ChartNumberFormat](../../chartnumberformat/)
 * Class [ChartDataLabelCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Tables::CellFormat::set_PreferredWidth(const System::SharedP
 
 ## See Also
 
+* Class [PreferredWidth](../../preferredwidth/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

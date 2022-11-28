@@ -17,6 +17,7 @@ void Aspose::Words::WebExtensions::TaskPane::set_DockState(Aspose::Words::WebExt
 
 ## See Also
 
+* Enum [TaskPaneDockState](../../taskpanedockstate/)
 * Class [TaskPane](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

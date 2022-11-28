@@ -17,6 +17,7 @@ void Aspose::Words::Layout::RevisionOptions::set_RevisionBarsPosition(Aspose::Wo
 
 ## See Also
 
+* Enum [HorizontalAlignment](../../../aspose.words.drawing/horizontalalignment/)
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

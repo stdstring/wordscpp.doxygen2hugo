@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Fields::DropDownItemCollection::begin() const noex
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Fields::DropDownItemCollection::begin() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Markup::SdtListItemCollection::set_SelectedValue(const Syste
 
 ## See Also
 
+* Class [SdtListItem](../../sdtlistitem/)
 * Class [SdtListItemCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

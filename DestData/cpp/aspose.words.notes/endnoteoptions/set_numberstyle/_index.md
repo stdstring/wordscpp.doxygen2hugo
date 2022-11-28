@@ -17,6 +17,7 @@ void Aspose::Words::Notes::EndnoteOptions::set_NumberStyle(Aspose::Words::Number
 
 ## See Also
 
+* Enum [NumberStyle](../../../aspose.words/numberstyle/)
 * Class [EndnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

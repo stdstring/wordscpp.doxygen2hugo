@@ -17,6 +17,7 @@ void Aspose::Words::Settings::ViewOptions::set_ZoomType(Aspose::Words::Settings:
 
 ## See Also
 
+* Enum [ZoomType](../../zoomtype/)
 * Class [ViewOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

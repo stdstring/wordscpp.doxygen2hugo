@@ -47,6 +47,8 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.MemoryOptimization.pdf", saveOptions);
 ## See Also
 
 * Class [SaveOptions](../)
+* Enum [SaveFormat](../../../aspose.words/saveformat/)
+* Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)
 ## SaveOptions::CreateSaveOptions(const System::String\&) method
@@ -91,6 +93,7 @@ doc->Save(ArtifactsDir + u"Document.DefaultTemplate.docx", options);
 
 ## See Also
 
+* Class [SaveOptions](../)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Saving::TxtSaveOptionsBase::set_ExportHeadersFootersMode(Asp
 
 ## See Also
 
+* Enum [TxtExportHeadersFootersMode](../../txtexportheadersfootersmode/)
 * Class [TxtSaveOptionsBase](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

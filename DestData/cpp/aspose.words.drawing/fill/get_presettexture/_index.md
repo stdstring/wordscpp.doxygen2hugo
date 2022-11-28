@@ -17,6 +17,7 @@ Aspose::Words::Drawing::PresetTexture Aspose::Words::Drawing::Fill::get_PresetTe
 
 ## See Also
 
+* Enum [PresetTexture](../../presettexture/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

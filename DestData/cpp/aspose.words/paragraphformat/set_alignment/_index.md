@@ -17,6 +17,7 @@ void Aspose::Words::ParagraphFormat::set_Alignment(Aspose::Words::ParagraphAlign
 
 ## See Also
 
+* Enum [ParagraphAlignment](../../paragraphalignment/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -61,6 +61,7 @@ ASSERT_EQ(0, doc->get_WebExtensionTaskPanes()->get_Count());
 
 ## See Also
 
+* Class [WebExtensionReference](../../webextensionreference/)
 * Class [WebExtension](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

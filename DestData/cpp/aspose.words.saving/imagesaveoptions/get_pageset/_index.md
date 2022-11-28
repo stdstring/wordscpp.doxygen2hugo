@@ -120,6 +120,7 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.ExportVariousPageRanges.tiff", image
 
 ## See Also
 
+* Class [PageSet](../../pageset/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

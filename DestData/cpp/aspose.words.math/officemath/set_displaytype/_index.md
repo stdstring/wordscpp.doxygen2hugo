@@ -17,6 +17,7 @@ void Aspose::Words::Math::OfficeMath::set_DisplayType(Aspose::Words::Math::Offic
 
 ## See Also
 
+* Enum [OfficeMathDisplayType](../../officemathdisplaytype/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
 * Library [Aspose.Words](../../../)

@@ -132,6 +132,7 @@ private:
 
 ## See Also
 
+* Class [OleFormat](../../oleformat/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -70,6 +70,7 @@ doc->Save(ArtifactsDir + u"Shape.GradientStops.docx", saveOptions);
 
 ## See Also
 
+* Class [GradientStop](../../gradientstop/)
 * Class [GradientStopCollection](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

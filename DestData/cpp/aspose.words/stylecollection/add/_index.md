@@ -110,6 +110,8 @@ ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_F
 
 ## See Also
 
+* Class [Style](../../style/)
+* Enum [StyleType](../../styletype/)
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

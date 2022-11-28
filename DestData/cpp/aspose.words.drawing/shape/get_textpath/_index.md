@@ -124,6 +124,7 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 
 ## See Also
 
+* Class [TextPath](../../textpath/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

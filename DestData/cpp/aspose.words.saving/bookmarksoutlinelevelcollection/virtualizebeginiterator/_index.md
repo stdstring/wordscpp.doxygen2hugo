@@ -17,6 +17,7 @@ virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::v
 
 ## See Also
 
+* Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [BookmarksOutlineLevelCollection](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

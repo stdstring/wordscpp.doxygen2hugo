@@ -17,6 +17,7 @@ void Aspose::Words::TextWatermarkOptions::set_Layout(Aspose::Words::WatermarkLay
 
 ## See Also
 
+* Enum [WatermarkLayout](../../watermarklayout/)
 * Class [TextWatermarkOptions](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

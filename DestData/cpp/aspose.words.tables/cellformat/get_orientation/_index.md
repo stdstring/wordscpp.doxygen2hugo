@@ -123,6 +123,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.BuildTable.docx");
 
 ## See Also
 
+* Enum [TextOrientation](../../../aspose.words/textorientation/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

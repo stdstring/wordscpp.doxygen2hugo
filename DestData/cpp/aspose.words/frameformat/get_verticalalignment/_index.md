@@ -42,6 +42,7 @@ ASPOSE_ASSERT_EQ(0.0, paragraphFrame->get_FrameFormat()->get_VerticalDistanceFro
 
 ## See Also
 
+* Enum [VerticalAlignment](../../../aspose.words.drawing/verticalalignment/)
 * Class [FrameFormat](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

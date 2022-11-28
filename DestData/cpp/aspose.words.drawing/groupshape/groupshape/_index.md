@@ -112,6 +112,7 @@ private:
 
 ## See Also
 
+* Class [DocumentBase](../../../aspose.words/documentbase/)
 * Class [GroupShape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

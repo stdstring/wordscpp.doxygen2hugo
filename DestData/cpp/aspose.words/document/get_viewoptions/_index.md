@@ -55,6 +55,7 @@ doc->Save(ArtifactsDir + u"ViewOptions.SetZoomType.doc");
 
 ## See Also
 
+* Class [ViewOptions](../../../aspose.words.settings/viewoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

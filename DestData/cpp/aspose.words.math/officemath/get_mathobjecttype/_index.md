@@ -96,6 +96,7 @@ private:
 
 ## See Also
 
+* Enum [MathObjectType](../../mathobjecttype/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
 * Library [Aspose.Words](../../../)

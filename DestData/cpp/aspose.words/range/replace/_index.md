@@ -226,6 +226,7 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 
 ## See Also
 
+* Class [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/)
 * Class [Range](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -453,6 +454,7 @@ ASSERT_EQ(String(u"Eggs\a50\a\a") + u"Potatoes\a20\a\a", table->GetText().Trim()
 
 ## See Also
 
+* Class [FindReplaceOptions](../../../aspose.words.replacing/findreplaceoptions/)
 * Class [Range](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

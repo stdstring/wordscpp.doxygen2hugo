@@ -72,6 +72,7 @@ ASSERT_TRUE(runs->idx_get(5)->get_IsDeleteRevision());
 
 ## See Also
 
+* Class [Paragraph](../../paragraph/)
 * Class [Inline](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

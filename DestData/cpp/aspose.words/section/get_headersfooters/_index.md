@@ -76,6 +76,7 @@ doc->Save(ArtifactsDir + u"HeaderFooter.ReplaceText.docx");
 
 ## See Also
 
+* Class [HeaderFooterCollection](../../headerfootercollection/)
 * Class [Section](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

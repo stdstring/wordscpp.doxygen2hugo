@@ -17,6 +17,7 @@ Aspose::Words::Drawing::FillType Aspose::Words::Drawing::Fill::get_FillType()
 
 ## See Also
 
+* Enum [FillType](../../filltype/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

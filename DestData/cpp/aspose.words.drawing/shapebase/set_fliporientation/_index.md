@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShapeBase::set_FlipOrientation(Aspose::Words::Drawi
 
 ## See Also
 
+* Enum [FlipOrientation](../../fliporientation/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_PreferredWidth(const System::SharedPtr<As
 
 ## See Also
 
+* Class [PreferredWidth](../../preferredwidth/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

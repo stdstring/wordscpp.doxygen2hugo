@@ -17,6 +17,7 @@ const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::end
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::end() noe
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)

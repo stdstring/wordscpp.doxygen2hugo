@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Charts::ChartAxis::set_TickLabelAlignment(Aspose::W
 
 ## See Also
 
+* Enum [ParagraphAlignment](../../../aspose.words/paragraphalignment/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Drawing::Charts::ChartLege
 
 ## See Also
 
+* Class [Font](../../../aspose.words/font/)
 * Class [ChartLegendEntry](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

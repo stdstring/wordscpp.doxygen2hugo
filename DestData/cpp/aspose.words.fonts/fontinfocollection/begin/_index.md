@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Fonts::FontInfoCollection::begin() const noexcept
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Fonts::FontInfoCollection::begin() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

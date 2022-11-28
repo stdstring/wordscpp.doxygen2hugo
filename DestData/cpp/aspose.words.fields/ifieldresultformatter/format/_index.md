@@ -206,6 +206,7 @@ private:
 
 ## See Also
 
+* Enum [GeneralFormat](../../generalformat/)
 * Interface [IFieldResultFormatter](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)
@@ -409,6 +410,7 @@ private:
 
 ## See Also
 
+* Enum [GeneralFormat](../../generalformat/)
 * Interface [IFieldResultFormatter](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

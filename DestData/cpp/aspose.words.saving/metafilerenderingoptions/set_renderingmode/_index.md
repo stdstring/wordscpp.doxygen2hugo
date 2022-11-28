@@ -17,6 +17,7 @@ void Aspose::Words::Saving::MetafileRenderingOptions::set_RenderingMode(Aspose::
 
 ## See Also
 
+* Enum [MetafileRenderingMode](../../metafilerenderingmode/)
 * Class [MetafileRenderingOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

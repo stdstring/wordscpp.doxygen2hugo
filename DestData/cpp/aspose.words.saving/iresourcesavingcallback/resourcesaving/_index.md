@@ -137,6 +137,7 @@ private:
 
 ## See Also
 
+* Class [ResourceSavingArgs](../../resourcesavingargs/)
 * Interface [IResourceSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

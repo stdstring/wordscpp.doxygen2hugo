@@ -60,6 +60,7 @@ doc->Save(ArtifactsDir + u"Table.TableStyleCreation.docx");
 
 ## See Also
 
+* Class [Style](../../../aspose.words/style/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Fonts::FontInfo::set_Pitch(Aspose::Words::Fonts::FontPitch v
 
 ## See Also
 
+* Enum [FontPitch](../../fontpitch/)
 * Class [FontInfo](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

@@ -151,6 +151,7 @@ doc->Save(ArtifactsDir + u"MailMerge.RemoveLastEmptyParagraph.docx");
 
 ## See Also
 
+* Enum [HtmlInsertOptions](../../htmlinsertoptions/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

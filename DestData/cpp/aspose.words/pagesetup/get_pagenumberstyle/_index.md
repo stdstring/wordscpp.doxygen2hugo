@@ -73,6 +73,7 @@ doc->Save(ArtifactsDir + u"PageSetup.PageNumbering.docx");
 
 ## See Also
 
+* Enum [NumberStyle](../../numberstyle/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

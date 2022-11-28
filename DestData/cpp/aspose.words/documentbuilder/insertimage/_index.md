@@ -65,6 +65,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx")
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -134,6 +135,10 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx")
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -198,6 +203,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx")
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -253,6 +259,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -315,6 +322,10 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -372,6 +383,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -443,6 +455,7 @@ doc->Save(ArtifactsDir + u"Image.FromStream.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -506,6 +519,10 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromStream.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -564,6 +581,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromStream.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -695,6 +713,7 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -792,6 +811,10 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -848,6 +871,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -862,6 +886,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -876,6 +901,10 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -890,6 +919,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

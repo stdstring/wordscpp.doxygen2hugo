@@ -17,6 +17,7 @@ const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::cend() con
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

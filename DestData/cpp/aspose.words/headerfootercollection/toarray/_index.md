@@ -104,6 +104,7 @@ private:
 
 ## See Also
 
+* Class [HeaderFooter](../../headerfooter/)
 * Class [HeaderFooterCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

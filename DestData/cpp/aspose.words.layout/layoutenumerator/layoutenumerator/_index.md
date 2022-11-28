@@ -154,6 +154,7 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 
 ## See Also
 
+* Class [Document](../../../aspose.words/document/)
 * Class [LayoutEnumerator](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

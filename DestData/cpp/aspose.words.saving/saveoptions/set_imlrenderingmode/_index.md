@@ -17,6 +17,7 @@ void Aspose::Words::Saving::SaveOptions::set_ImlRenderingMode(Aspose::Words::Sav
 
 ## See Also
 
+* Enum [ImlRenderingMode](../../imlrenderingmode/)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

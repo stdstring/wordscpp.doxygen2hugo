@@ -76,6 +76,7 @@ public:
 
 ## See Also
 
+* Enum [MetafileRenderingMode](../../metafilerenderingmode/)
 * Class [MetafileRenderingOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

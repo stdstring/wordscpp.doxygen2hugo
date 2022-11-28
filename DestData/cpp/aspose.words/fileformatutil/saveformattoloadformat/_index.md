@@ -31,6 +31,8 @@ ASSERT_THROW(FileFormatUtil::SaveFormatToLoadFormat(SaveFormat::Jpeg), System::A
 
 ## See Also
 
+* Enum [LoadFormat](../../loadformat/)
+* Enum [SaveFormat](../../saveformat/)
 * Class [FileFormatUtil](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

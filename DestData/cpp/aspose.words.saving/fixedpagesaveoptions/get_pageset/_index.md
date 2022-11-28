@@ -108,6 +108,7 @@ doc->Save(ArtifactsDir + u"XpsSaveOptions.ExportExactPages.xps", xpsOptions);
 
 ## See Also
 
+* Class [PageSet](../../pageset/)
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

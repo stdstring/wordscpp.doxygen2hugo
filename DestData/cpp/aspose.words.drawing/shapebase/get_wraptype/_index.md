@@ -73,6 +73,7 @@ doc->Save(ArtifactsDir + u"Shape.CreateTextBox.docx");
 
 ## See Also
 
+* Enum [WrapType](../../wraptype/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

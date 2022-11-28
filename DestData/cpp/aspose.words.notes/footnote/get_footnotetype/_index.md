@@ -50,6 +50,7 @@ doc->Save(ArtifactsDir + u"InlineStory.FootnoteEndnote.docx");
 
 ## See Also
 
+* Enum [FootnoteType](../../footnotetype/)
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

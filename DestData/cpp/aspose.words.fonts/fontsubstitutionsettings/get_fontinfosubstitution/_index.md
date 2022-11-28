@@ -80,6 +80,7 @@ public:
 
 ## See Also
 
+* Class [FontInfoSubstitutionRule](../../fontinfosubstitutionrule/)
 * Class [FontSubstitutionSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

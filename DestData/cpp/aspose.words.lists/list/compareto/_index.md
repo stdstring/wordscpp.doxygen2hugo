@@ -18,5 +18,6 @@ int32_t Aspose::Words::Lists::List::CompareTo(System::SharedPtr<Aspose::Words::L
 ## See Also
 
 * Class [List](../)
+* Class [List](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

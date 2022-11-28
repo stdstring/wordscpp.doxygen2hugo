@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::BuildingBlocks::BuildingBlock> Aspose::Words::M
 
 ## See Also
 
+* Class [BuildingBlock](../../../aspose.words.buildingblocks/buildingblock/)
 * Class [StructuredDocumentTagRangeStart](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

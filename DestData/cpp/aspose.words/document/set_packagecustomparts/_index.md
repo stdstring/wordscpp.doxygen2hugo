@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_PackageCustomParts(const System::SharedPtr<Asp
 
 ## See Also
 
+* Class [CustomPartCollection](../../../aspose.words.markup/custompartcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -205,6 +205,8 @@ public:
 
 ## See Also
 
+* Enum [VisitorAction](../../visitoraction/)
+* Class [SpecialChar](../../specialchar/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

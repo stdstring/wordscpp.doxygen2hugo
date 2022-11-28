@@ -140,6 +140,7 @@ private:
 
 ## See Also
 
+* Class [DocumentPartSavingArgs](../../documentpartsavingargs/)
 * Interface [IDocumentPartSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

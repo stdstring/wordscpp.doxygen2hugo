@@ -46,6 +46,7 @@ math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", save
 
 ## See Also
 
+* Class [OfficeMathRenderer](../../../aspose.words.rendering/officemathrenderer/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
 * Library [Aspose.Words](../../../)

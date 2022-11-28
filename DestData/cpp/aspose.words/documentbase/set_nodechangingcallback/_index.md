@@ -17,6 +17,7 @@ void Aspose::Words::DocumentBase::set_NodeChangingCallback(const System::SharedP
 
 ## See Also
 
+* Interface [INodeChangingCallback](../../inodechangingcallback/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

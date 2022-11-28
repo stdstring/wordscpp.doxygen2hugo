@@ -160,9 +160,35 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine(returnValue.CreateSimpleMarkup(CreateUrl, state.ConvertData.Logger));
         }
 
+        // TODO (std_string) : think about place
+        private static IEnumerable<MarkupRef> ExtractRefs(this SimpleMarkupPortion markup) =>
+            markup.OfType<SimpleMarkupEntry.RefEntry>().Select(reference => reference.Ref);
+
+        // TODO (std_string) : think about place
+        private static void GenerateSeeAlsoEntry(this MarkupRef reference, GenerateState state, StringBuilder dest)
+        {
+            String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, state);
+            switch (state.ConvertData.EntityRepo.ContainsKey(reference.RefId))
+            {
+                case false:
+                    state.ConvertData.Logger.LogWarning($"Can't resolve ref with id = \"{reference.RefId}\"");
+                    break;
+                case true:
+                    String url = CreateUrl(reference.RefId)!;
+                    state.ConvertData.Logger.LogInfo($"Resolved ref for \"{reference.Text}\": \"{url}\"");
+                    state.ConvertData.EntityRepo[reference.RefId].GenerateSeeAlsoEntry(url, dest);
+                    break;
+            }
+        }
+
         private static void GenerateSeeAlso(this EntityDef.MethodEntity entity, GenerateState state, StringBuilder dest)
         {
             GeneratorUtils.GenerateHeader("See Also", 2, dest);
+            entity.ReturnType.ExtractRefs()
+                             .Concat(entity.Args.SelectMany(arg => arg.Type.ExtractRefs()))
+                             .Where(reference => !String.IsNullOrEmpty(reference.RefId))
+                             .DistinctBy(reference => reference.RefId)
+                             .Iterate(reference => reference.GenerateSeeAlsoEntry(state, dest));
             entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, dest);
         }
     }

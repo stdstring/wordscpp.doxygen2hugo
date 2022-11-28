@@ -58,6 +58,7 @@ ASSERT_FALSE(doc->GetText().Contains(u"The third paragraph"));
 
 ## See Also
 
+* Class [Paragraph](../../paragraph/)
 * Class [ParagraphCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

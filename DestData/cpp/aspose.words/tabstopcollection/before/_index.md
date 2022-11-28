@@ -72,6 +72,7 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 
 ## See Also
 
+* Class [TabStop](../../tabstop/)
 * Class [TabStopCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

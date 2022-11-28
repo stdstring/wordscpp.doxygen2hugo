@@ -17,6 +17,7 @@ void Aspose::Words::Lists::ListLevel::set_LinkedStyle(const System::SharedPtr<As
 
 ## See Also
 
+* Class [Style](../../../aspose.words/style/)
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

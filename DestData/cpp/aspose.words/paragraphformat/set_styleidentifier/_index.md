@@ -17,6 +17,7 @@ void Aspose::Words::ParagraphFormat::set_StyleIdentifier(Aspose::Words::StyleIde
 
 ## See Also
 
+* Enum [StyleIdentifier](../../styleidentifier/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions(Aspose::W
 
 ## See Also
 
+* Enum [TxtTrailingSpacesOptions](../../txttrailingspacesoptions/)
 * Class [TxtLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

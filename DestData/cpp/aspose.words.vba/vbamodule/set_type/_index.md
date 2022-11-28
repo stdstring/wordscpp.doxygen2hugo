@@ -17,6 +17,7 @@ void Aspose::Words::Vba::VbaModule::set_Type(Aspose::Words::Vba::VbaModuleType v
 
 ## See Also
 
+* Enum [VbaModuleType](../../vbamoduletype/)
 * Class [VbaModule](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

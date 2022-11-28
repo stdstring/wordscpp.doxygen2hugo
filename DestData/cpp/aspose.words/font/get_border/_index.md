@@ -36,6 +36,7 @@ doc->Save(ArtifactsDir + u"Border.FontBorder.docx");
 
 ## See Also
 
+* Class [Border](../../border/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

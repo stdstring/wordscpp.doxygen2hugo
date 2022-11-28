@@ -59,6 +59,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ImageCompression.pdf", pdfSaveOptions)
 
 ## See Also
 
+* Enum [PdfImageCompression](../../pdfimagecompression/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

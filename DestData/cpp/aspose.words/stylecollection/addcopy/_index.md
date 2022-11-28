@@ -82,6 +82,7 @@ ASSERT_EQ(System::Drawing::Color::get_Red().ToArgb(), newStyle->get_Font()->get_
 
 ## See Also
 
+* Class [Style](../../style/)
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

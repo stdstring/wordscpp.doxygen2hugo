@@ -38,6 +38,7 @@ ASSERT_EQ(u"John Doe", plaintext->get_BuiltInDocumentProperties()->get_Author())
 
 ## See Also
 
+* Class [BuiltInDocumentProperties](../../../aspose.words.properties/builtindocumentproperties/)
 * Class [PlainTextDocument](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

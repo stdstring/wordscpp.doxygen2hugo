@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_PaperSize(Aspose::Words::PaperSize value)
 
 ## See Also
 
+* Enum [PaperSize](../../papersize/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

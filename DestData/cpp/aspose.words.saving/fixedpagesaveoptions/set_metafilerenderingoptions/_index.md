@@ -17,6 +17,7 @@ void Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions(c
 
 ## See Also
 
+* Class [MetafileRenderingOptions](../../metafilerenderingoptions/)
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

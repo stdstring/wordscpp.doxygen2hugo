@@ -18,5 +18,6 @@ static System::SharedPtr<Aspose::Words::Saving::PageSet> Aspose::Words::Saving::
 ## See Also
 
 * Class [PageSet](../)
+* Class [PageSet](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

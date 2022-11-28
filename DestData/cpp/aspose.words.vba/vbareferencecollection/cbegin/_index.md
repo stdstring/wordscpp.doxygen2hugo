@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Vba::VbaReferenceCollection::cbegin() const noexce
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [VbaReferenceCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

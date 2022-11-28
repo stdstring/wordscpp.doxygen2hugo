@@ -17,6 +17,7 @@ void Aspose::Words::Loading::HtmlLoadOptions::set_PreferredControlType(Aspose::W
 
 ## See Also
 
+* Enum [HtmlControlType](../../htmlcontroltype/)
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

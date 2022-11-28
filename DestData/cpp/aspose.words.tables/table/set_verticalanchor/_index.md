@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_VerticalAnchor(Aspose::Words::Drawing::Re
 
 ## See Also
 
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

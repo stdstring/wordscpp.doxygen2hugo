@@ -31,6 +31,7 @@ Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions(Aspose::Words::
 
 ## See Also
 
+* Enum [FindReplaceDirection](../../findreplacedirection/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)
@@ -45,6 +46,8 @@ Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions(Aspose::Words::
 
 ## See Also
 
+* Enum [FindReplaceDirection](../../findreplacedirection/)
+* Interface [IReplacingCallback](../../ireplacingcallback/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)
@@ -59,6 +62,7 @@ Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions(const System::S
 
 ## See Also
 
+* Interface [IReplacingCallback](../../ireplacingcallback/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)

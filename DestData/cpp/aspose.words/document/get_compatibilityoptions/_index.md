@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Settings::CompatibilityOptions> Aspose::Words::
 
 ## See Also
 
+* Class [CompatibilityOptions](../../../aspose.words.settings/compatibilityoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

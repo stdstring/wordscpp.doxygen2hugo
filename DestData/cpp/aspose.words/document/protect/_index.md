@@ -57,6 +57,7 @@ doc->Save(ArtifactsDir + u"Section.Protect.docx");
 
 ## See Also
 
+* Enum [ProtectionType](../../protectiontype/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -127,6 +128,7 @@ ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 
 ## See Also
 
+* Enum [ProtectionType](../../protectiontype/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -87,6 +87,7 @@ static String GetLibIdProjectPath(String libIdProject)
 
 ## See Also
 
+* Class [VbaReference](../../vbareference/)
 * Class [VbaReferenceCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

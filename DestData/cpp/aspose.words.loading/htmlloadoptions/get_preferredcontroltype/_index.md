@@ -37,6 +37,7 @@ auto tag = System::DynamicCast<StructuredDocumentTag>(nodes->idx_get(0));
 
 ## See Also
 
+* Enum [HtmlControlType](../../htmlcontroltype/)
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

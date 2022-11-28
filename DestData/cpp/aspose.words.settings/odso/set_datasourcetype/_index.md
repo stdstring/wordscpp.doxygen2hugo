@@ -17,6 +17,7 @@ void Aspose::Words::Settings::Odso::set_DataSourceType(Aspose::Words::Settings::
 
 ## See Also
 
+* Enum [OdsoDataSourceType](../../odsodatasourcetype/)
 * Class [Odso](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

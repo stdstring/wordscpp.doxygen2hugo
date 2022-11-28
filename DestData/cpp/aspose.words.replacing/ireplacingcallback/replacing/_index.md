@@ -149,6 +149,8 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 
 ## See Also
 
+* Enum [ReplaceAction](../../replaceaction/)
+* Class [ReplacingArgs](../../replacingargs/)
 * Interface [IReplacingCallback](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)

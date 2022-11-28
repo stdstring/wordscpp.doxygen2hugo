@@ -17,6 +17,7 @@ void Aspose::Words::Font::set_Style(const System::SharedPtr<Aspose::Words::Style
 
 ## See Also
 
+* Class [Style](../../style/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

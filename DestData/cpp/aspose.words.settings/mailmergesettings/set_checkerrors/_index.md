@@ -17,6 +17,7 @@ void Aspose::Words::Settings::MailMergeSettings::set_CheckErrors(Aspose::Words::
 
 ## See Also
 
+* Enum [MailMergeCheckErrors](../../mailmergecheckerrors/)
 * Class [MailMergeSettings](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

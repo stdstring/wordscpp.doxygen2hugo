@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_EncryptionDetails(const System::
 
 ## See Also
 
+* Class [PdfEncryptionDetails](../../pdfencryptiondetails/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

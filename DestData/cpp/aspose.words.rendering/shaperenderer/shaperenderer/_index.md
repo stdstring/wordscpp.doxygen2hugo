@@ -22,6 +22,7 @@ Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer(const System::SharedPtr<A
 
 ## See Also
 
+* Class [ShapeBase](../../../aspose.words.drawing/shapebase/)
 * Class [ShapeRenderer](../)
 * Namespace [Aspose::Words::Rendering](../../)
 * Library [Aspose.Words](../../../)

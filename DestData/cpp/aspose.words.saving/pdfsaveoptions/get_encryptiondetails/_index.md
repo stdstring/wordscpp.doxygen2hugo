@@ -60,6 +60,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.EncryptionPermissions.pdf", saveOption
 
 ## See Also
 
+* Class [PdfEncryptionDetails](../../pdfencryptiondetails/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

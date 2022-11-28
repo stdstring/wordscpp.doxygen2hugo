@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_VerticalAlignment(Aspose::Words::PageVertical
 
 ## See Also
 
+* Enum [PageVerticalAlignment](../../pageverticalalignment/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

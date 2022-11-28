@@ -71,6 +71,7 @@ case PdfFontEmbeddingMode::EmbedNone:
 
 ## See Also
 
+* Enum [PdfFontEmbeddingMode](../../pdffontembeddingmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

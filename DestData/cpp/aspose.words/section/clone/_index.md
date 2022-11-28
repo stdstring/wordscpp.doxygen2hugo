@@ -51,5 +51,6 @@ ASSERT_EQ(u"Section 2\x000c"
 ## See Also
 
 * Class [Section](../)
+* Class [Section](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

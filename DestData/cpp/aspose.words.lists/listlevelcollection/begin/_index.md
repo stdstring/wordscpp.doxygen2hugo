@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Lists::ListLevelCollection::begin() const noexcept
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [ListLevelCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Lists::ListLevelCollection::begin() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [ListLevelCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

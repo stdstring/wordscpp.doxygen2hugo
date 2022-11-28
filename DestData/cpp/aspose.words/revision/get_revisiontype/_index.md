@@ -99,6 +99,7 @@ ASSERT_EQ(u"This is revision #1. \rThis is revision #2.", doc->GetText().Trim())
 
 ## See Also
 
+* Enum [RevisionType](../../revisiontype/)
 * Class [Revision](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Fill::set_TextureAlignment(Aspose::Words::Drawing::
 
 ## See Also
 
+* Enum [TextureAlignment](../../texturealignment/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

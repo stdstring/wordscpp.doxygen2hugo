@@ -72,6 +72,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHyperlinkToLocalBookmark.docx")
 
 ## See Also
 
+* Class [BookmarkStart](../../bookmarkstart/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

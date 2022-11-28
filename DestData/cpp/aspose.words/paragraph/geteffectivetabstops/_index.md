@@ -49,6 +49,7 @@ doc->Save(ArtifactsDir + u"Paragraph.TabStops.docx");
 
 ## See Also
 
+* Class [TabStop](../../tabstop/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

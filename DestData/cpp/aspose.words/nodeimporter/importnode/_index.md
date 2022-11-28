@@ -100,6 +100,7 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 
 ## See Also
 
+* Class [Node](../../node/)
 * Class [NodeImporter](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

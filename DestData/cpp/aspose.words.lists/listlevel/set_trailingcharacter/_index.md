@@ -17,6 +17,7 @@ void Aspose::Words::Lists::ListLevel::set_TrailingCharacter(Aspose::Words::Lists
 
 ## See Also
 
+* Enum [ListTrailingCharacter](../../listtrailingcharacter/)
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

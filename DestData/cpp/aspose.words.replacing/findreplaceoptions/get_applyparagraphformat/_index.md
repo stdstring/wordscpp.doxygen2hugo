@@ -56,6 +56,7 @@ ASSERT_EQ(String(u"Every paragraph that ends with a full stop like this one will
 
 ## See Also
 
+* Class [ParagraphFormat](../../../aspose.words/paragraphformat/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
 * Library [Aspose.Words](../../../)

@@ -80,6 +80,7 @@ case HtmlMetafileFormat::EmfOrWmf:
 
 ## See Also
 
+* Enum [HtmlMetafileFormat](../../htmlmetafileformat/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -49,6 +49,7 @@ doc->Save(ArtifactsDir + u"InlineStory.PositionEndnote.docx");
 
 ## See Also
 
+* Enum [EndnotePosition](../../endnoteposition/)
 * Class [EndnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

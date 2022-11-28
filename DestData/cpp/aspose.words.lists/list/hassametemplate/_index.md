@@ -18,5 +18,6 @@ bool Aspose::Words::Lists::List::HasSameTemplate(const System::SharedPtr<Aspose:
 ## See Also
 
 * Class [List](../)
+* Class [List](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

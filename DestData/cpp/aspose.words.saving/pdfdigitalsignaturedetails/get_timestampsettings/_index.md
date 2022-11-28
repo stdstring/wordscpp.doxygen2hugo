@@ -61,6 +61,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", opt
 
 ## See Also
 
+* Class [PdfDigitalSignatureTimestampSettings](../../pdfdigitalsignaturetimestampsettings/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

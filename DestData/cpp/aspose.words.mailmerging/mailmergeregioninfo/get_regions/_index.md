@@ -62,5 +62,6 @@ ASSERT_EQ(u"TableEnd:NestedRegion1", endFieldMergeField->get_FieldName());
 ## See Also
 
 * Class [MailMergeRegionInfo](../)
+* Class [MailMergeRegionInfo](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

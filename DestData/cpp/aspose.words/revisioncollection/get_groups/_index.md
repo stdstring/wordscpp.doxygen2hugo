@@ -76,6 +76,7 @@ ASSERT_EQ(0, revisions->get_Count());
 
 ## See Also
 
+* Class [RevisionGroupCollection](../../revisiongroupcollection/)
 * Class [RevisionCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

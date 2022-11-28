@@ -165,6 +165,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.SetCellFormatting.docx");
 
 ## See Also
 
+* Class [CellFormat](../../../aspose.words.tables/cellformat/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

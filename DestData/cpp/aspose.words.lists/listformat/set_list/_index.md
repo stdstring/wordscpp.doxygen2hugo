@@ -17,6 +17,7 @@ void Aspose::Words::Lists::ListFormat::set_List(const System::SharedPtr<Aspose::
 
 ## See Also
 
+* Class [List](../../list/)
 * Class [ListFormat](../)
 * Namespace [Aspose::Words::Lists](../../)
 * Library [Aspose.Words](../../../)

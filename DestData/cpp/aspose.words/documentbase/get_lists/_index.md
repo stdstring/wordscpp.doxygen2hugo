@@ -73,6 +73,7 @@ doc->Save(ArtifactsDir + u"Lists.SpecifyListLevel.docx");
 
 ## See Also
 
+* Class [ListCollection](../../../aspose.words.lists/listcollection/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

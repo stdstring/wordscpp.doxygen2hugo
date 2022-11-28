@@ -17,6 +17,7 @@ void Aspose::Words::TabStop::set_Alignment(Aspose::Words::TabAlignment value)
 
 ## See Also
 
+* Enum [TabAlignment](../../tabalignment/)
 * Class [TabStop](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_FontEmbeddingMode(Aspose::Words:
 
 ## See Also
 
+* Enum [PdfFontEmbeddingMode](../../pdffontembeddingmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

@@ -74,6 +74,8 @@ else
 
 ## See Also
 
+* Class [Field](../../../aspose.words.fields/field/)
+* Enum [FieldType](../../../aspose.words.fields/fieldtype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -143,6 +145,7 @@ ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - Syst
 
 ## See Also
 
+* Class [Field](../../../aspose.words.fields/field/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -232,6 +235,7 @@ doc->Save(ArtifactsDir + u"PageSetup.PageNumbering.docx");
 
 ## See Also
 
+* Class [Field](../../../aspose.words.fields/field/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

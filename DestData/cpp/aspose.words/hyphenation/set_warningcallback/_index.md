@@ -17,6 +17,7 @@ static void Aspose::Words::Hyphenation::set_WarningCallback(const System::Shared
 
 ## See Also
 
+* Interface [IWarningCallback](../../iwarningcallback/)
 * Class [Hyphenation](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -78,6 +78,7 @@ ASSERT_EQ(0, listItems->get_Count());
 
 ## See Also
 
+* Class [SdtListItem](../../sdtlistitem/)
 * Class [SdtListItemCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

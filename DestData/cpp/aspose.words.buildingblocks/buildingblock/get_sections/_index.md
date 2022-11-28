@@ -113,6 +113,7 @@ private:
 
 ## See Also
 
+* Class [SectionCollection](../../../aspose.words/sectioncollection/)
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
 * Library [Aspose.Words](../../../)

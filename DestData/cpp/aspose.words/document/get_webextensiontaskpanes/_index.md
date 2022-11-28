@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::WebExtensions::TaskPaneCollection> Aspose::Word
 
 ## See Also
 
+* Class [TaskPaneCollection](../../../aspose.words.webextensions/taskpanecollection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

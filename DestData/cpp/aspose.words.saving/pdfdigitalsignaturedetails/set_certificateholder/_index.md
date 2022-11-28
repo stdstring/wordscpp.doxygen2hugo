@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_CertificateHolder(co
 
 ## See Also
 
+* Class [CertificateHolder](../../../aspose.words.digitalsignatures/certificateholder/)
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

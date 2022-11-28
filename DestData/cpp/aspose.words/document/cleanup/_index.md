@@ -120,6 +120,7 @@ ASSERT_EQ(2, doc->get_Styles()->get_Count());
 
 ## See Also
 
+* Class [CleanupOptions](../../cleanupoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

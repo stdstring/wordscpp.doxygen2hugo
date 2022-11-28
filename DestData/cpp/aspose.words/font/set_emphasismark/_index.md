@@ -17,6 +17,7 @@ void Aspose::Words::Font::set_EmphasisMark(Aspose::Words::EmphasisMark value)
 
 ## See Also
 
+* Enum [EmphasisMark](../../emphasismark/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

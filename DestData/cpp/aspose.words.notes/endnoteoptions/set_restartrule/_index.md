@@ -17,6 +17,7 @@ void Aspose::Words::Notes::EndnoteOptions::set_RestartRule(Aspose::Words::Notes:
 
 ## See Also
 
+* Enum [FootnoteNumberingRule](../../footnotenumberingrule/)
 * Class [EndnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
 * Library [Aspose.Words](../../../)

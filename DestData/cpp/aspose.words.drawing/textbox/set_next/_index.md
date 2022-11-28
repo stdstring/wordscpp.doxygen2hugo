@@ -18,5 +18,6 @@ void Aspose::Words::Drawing::TextBox::set_Next(const System::SharedPtr<Aspose::W
 ## See Also
 
 * Class [TextBox](../)
+* Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

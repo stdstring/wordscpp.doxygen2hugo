@@ -17,6 +17,7 @@ void Aspose::Words::Tables::RowFormat::set_HeightRule(Aspose::Words::HeightRule 
 
 ## See Also
 
+* Enum [HeightRule](../../../aspose.words/heightrule/)
 * Class [RowFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

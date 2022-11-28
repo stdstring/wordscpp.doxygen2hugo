@@ -45,6 +45,7 @@ for (const auto& customDocumentProperty : System::IterateOver(doc->get_CustomDoc
 
 ## See Also
 
+* Class [DocumentProperty](../../documentproperty/)
 * Class [DocumentPropertyCollection](../)
 * Namespace [Aspose::Words::Properties](../../)
 * Library [Aspose.Words](../../../)
@@ -81,6 +82,7 @@ std::cout << "Document authorized on " << doc->get_CustomDocumentProperties()->i
 
 ## See Also
 
+* Class [DocumentProperty](../../documentproperty/)
 * Class [DocumentPropertyCollection](../)
 * Namespace [Aspose::Words::Properties](../../)
 * Library [Aspose.Words](../../../)

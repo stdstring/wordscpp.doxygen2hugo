@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Charts::ChartLegend::set_Position(Aspose::Words::Dr
 
 ## See Also
 
+* Enum [LegendPosition](../../legendposition/)
 * Class [ChartLegend](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

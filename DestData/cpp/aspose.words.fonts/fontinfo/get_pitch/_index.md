@@ -55,6 +55,7 @@ while (fontCollectionEnumerator->MoveNext())
 
 ## See Also
 
+* Enum [FontPitch](../../fontpitch/)
 * Class [FontInfo](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

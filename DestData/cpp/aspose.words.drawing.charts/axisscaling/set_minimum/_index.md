@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Charts::AxisScaling::set_Minimum(const System::Shar
 
 ## See Also
 
+* Class [AxisBound](../../axisbound/)
 * Class [AxisScaling](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

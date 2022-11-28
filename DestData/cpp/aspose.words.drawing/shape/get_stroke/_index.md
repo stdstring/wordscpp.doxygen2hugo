@@ -91,6 +91,7 @@ doc->Save(ArtifactsDir + u"Drawing.VariousShapes.docx");
 
 ## See Also
 
+* Class [Stroke](../../stroke/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

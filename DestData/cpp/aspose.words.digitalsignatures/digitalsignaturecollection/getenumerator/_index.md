@@ -40,6 +40,7 @@ SharedPtr<DigitalSignatureCollection> digitalSignatures = DigitalSignatureUtil::
 
 ## See Also
 
+* Class [DigitalSignature](../../digitalsignature/)
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)

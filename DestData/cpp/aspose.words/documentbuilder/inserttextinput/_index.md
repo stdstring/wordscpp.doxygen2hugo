@@ -85,6 +85,8 @@ doc->Save(ArtifactsDir + u"FormFields.TextInput.html");
 
 ## See Also
 
+* Class [FormField](../../../aspose.words.fields/formfield/)
+* Enum [TextFormFieldType](../../../aspose.words.fields/textformfieldtype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

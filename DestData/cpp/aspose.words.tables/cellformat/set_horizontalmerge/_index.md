@@ -17,6 +17,7 @@ void Aspose::Words::Tables::CellFormat::set_HorizontalMerge(Aspose::Words::Table
 
 ## See Also
 
+* Enum [CellMerge](../../cellmerge/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

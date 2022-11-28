@@ -17,6 +17,7 @@ void Aspose::Words::Saving::HtmlSaveOptions::set_ImageSavingCallback(const Syste
 
 ## See Also
 
+* Interface [IImageSavingCallback](../../iimagesavingcallback/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

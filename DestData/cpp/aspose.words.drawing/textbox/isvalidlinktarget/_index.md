@@ -86,5 +86,6 @@ doc->Save(ArtifactsDir + u"Shape.CreateLinkBetweenTextBoxes.docx");
 ## See Also
 
 * Class [TextBox](../)
+* Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

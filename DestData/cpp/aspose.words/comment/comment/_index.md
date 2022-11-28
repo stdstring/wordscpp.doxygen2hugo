@@ -171,6 +171,7 @@ private:
 
 ## See Also
 
+* Class [DocumentBase](../../documentbase/)
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -214,6 +215,7 @@ doc->Save(ArtifactsDir + u"InlineStory.AddComment.docx");
 
 ## See Also
 
+* Class [DocumentBase](../../documentbase/)
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

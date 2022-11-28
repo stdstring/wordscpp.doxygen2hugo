@@ -64,6 +64,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx")
 
 ## See Also
 
+* Class [PreferredWidth](../../preferredwidth/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

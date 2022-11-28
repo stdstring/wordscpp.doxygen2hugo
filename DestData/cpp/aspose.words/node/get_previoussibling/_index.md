@@ -46,5 +46,6 @@ ASSERT_EQ(u"Section 2 text.", doc->GetText().Trim());
 ## See Also
 
 * Class [Node](../)
+* Class [Node](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

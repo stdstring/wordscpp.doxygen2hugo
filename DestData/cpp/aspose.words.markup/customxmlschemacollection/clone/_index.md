@@ -65,5 +65,6 @@ ASSERT_EQ(0, schemas->get_Count());
 ## See Also
 
 * Class [CustomXmlSchemaCollection](../)
+* Class [CustomXmlSchemaCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Loading::TxtLoadOptions::set_LeadingSpacesOptions(Aspose::Wo
 
 ## See Also
 
+* Enum [TxtLeadingSpacesOptions](../../txtleadingspacesoptions/)
 * Class [TxtLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

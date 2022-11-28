@@ -34,6 +34,7 @@ ASSERT_EQ(LoadFormat::Docx, doc->get_OriginalLoadFormat());
 
 ## See Also
 
+* Enum [LoadFormat](../../loadformat/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

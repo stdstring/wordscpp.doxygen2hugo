@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_MultiplePages(Aspose::Words::Settings::Multip
 
 ## See Also
 
+* Enum [MultiplePagesType](../../../aspose.words.settings/multiplepagestype/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

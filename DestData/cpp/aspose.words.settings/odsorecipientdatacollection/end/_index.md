@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::end() const
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Settings::OdsoRecipientDataCollection::end() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
 * Library [Aspose.Words](../../../)

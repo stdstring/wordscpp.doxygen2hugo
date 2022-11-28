@@ -17,6 +17,7 @@ virtual Aspose::Words::Markup::SdtType Aspose::Words::Markup::IStructuredDocumen
 
 ## See Also
 
+* Enum [SdtType](../../sdttype/)
 * Interface [IStructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

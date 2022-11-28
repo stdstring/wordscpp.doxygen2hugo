@@ -17,6 +17,7 @@ System::SharedPtr<Aspose::Words::Framesets::Frameset> Aspose::Words::Framesets::
 
 ## See Also
 
+* Class [Frameset](../../frameset/)
 * Class [FramesetCollection](../)
 * Namespace [Aspose::Words::Framesets](../../)
 * Library [Aspose.Words](../../../)

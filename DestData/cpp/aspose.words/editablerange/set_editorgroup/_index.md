@@ -17,6 +17,7 @@ void Aspose::Words::EditableRange::set_EditorGroup(Aspose::Words::EditorType val
 
 ## See Also
 
+* Enum [EditorType](../../editortype/)
 * Class [EditableRange](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

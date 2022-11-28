@@ -45,6 +45,9 @@ builder->get_Document()->Save(ArtifactsDir + u"DocumentBuilder.InsertDocument.do
 
 ## See Also
 
+* Class [Node](../../node/)
+* Class [Document](../../document/)
+* Enum [ImportFormatMode](../../importformatmode/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -103,6 +106,10 @@ dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 
 ## See Also
 
+* Class [Node](../../node/)
+* Class [Document](../../document/)
+* Enum [ImportFormatMode](../../importformatmode/)
+* Class [ImportFormatOptions](../../importformatoptions/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet(const System::Shar
 
 ## See Also
 
+* Class [PageSet](../../pageset/)
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

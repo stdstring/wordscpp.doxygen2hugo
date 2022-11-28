@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::TextBox::set_VerticalAnchor(Aspose::Words::Drawing:
 
 ## See Also
 
+* Enum [TextBoxAnchor](../../textboxanchor/)
 * Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

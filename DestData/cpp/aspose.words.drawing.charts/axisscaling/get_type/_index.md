@@ -48,6 +48,7 @@ doc->Save(ArtifactsDir + u"Charts.AxisScaling.docx");
 
 ## See Also
 
+* Enum [AxisScaleType](../../axisscaletype/)
 * Class [AxisScaling](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
 * Library [Aspose.Words](../../../)

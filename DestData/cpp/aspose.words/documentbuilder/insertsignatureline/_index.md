@@ -73,6 +73,8 @@ ASSERT_TRUE(signatureLine->get_IsValid());
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Class [SignatureLineOptions](../../signaturelineoptions/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -129,6 +131,11 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.SignatureLineInline.docx");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
+* Class [SignatureLineOptions](../../signaturelineoptions/)
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
+* Enum [RelativeVerticalPosition](../../../aspose.words.drawing/relativeverticalposition/)
+* Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

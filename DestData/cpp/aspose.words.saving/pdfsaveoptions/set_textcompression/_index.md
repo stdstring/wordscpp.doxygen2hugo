@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_TextCompression(Aspose::Words::S
 
 ## See Also
 
+* Enum [PdfTextCompression](../../pdftextcompression/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

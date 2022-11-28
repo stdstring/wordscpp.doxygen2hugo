@@ -146,6 +146,7 @@ private:
 
 ## See Also
 
+* Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -67,6 +67,7 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_S
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -115,6 +116,8 @@ signOptions->set_SignTime(System::DateTime::get_Now());
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
+* Class [SignOptions](../../signoptions/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -179,6 +182,7 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_S
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -334,6 +338,8 @@ static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCust
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
+* Class [SignOptions](../../signoptions/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -348,6 +354,7 @@ template<typename CharType,typename Traits> static void Aspose::Words::DigitalSi
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
@@ -362,6 +369,8 @@ template<typename CharType,typename Traits> static void Aspose::Words::DigitalSi
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
+* Class [SignOptions](../../signoptions/)
 * Class [DigitalSignatureUtil](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)

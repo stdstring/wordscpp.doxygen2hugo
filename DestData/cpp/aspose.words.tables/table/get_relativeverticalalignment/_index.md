@@ -50,6 +50,7 @@ doc->Save(ArtifactsDir + u"Table.ChangeFloatingTableProperties.docx");
 
 ## See Also
 
+* Enum [VerticalAlignment](../../../aspose.words.drawing/verticalalignment/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

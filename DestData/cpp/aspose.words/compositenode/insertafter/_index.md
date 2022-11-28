@@ -134,6 +134,7 @@ doc->Save(ArtifactsDir + u"Shape.ReplaceTextboxesWithImages.docx");
 
 ## See Also
 
+* Class [Node](../../node/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

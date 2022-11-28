@@ -102,6 +102,7 @@ private:
 
 ## See Also
 
+* Enum [ShapeType](../../shapetype/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

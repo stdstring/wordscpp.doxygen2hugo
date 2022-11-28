@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_Alignment(Aspose::Words::Tables::TableAli
 
 ## See Also
 
+* Enum [TableAlignment](../../tablealignment/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

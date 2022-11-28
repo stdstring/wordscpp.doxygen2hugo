@@ -17,6 +17,7 @@ void Aspose::Words::Comparing::CompareOptions::set_Granularity(Aspose::Words::Co
 
 ## See Also
 
+* Enum [Granularity](../../granularity/)
 * Class [CompareOptions](../)
 * Namespace [Aspose::Words::Comparing](../../)
 * Library [Aspose.Words](../../../)

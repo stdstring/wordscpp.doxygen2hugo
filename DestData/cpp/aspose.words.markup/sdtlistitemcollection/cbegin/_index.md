@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Markup::SdtListItemCollection::cbegin() const noex
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [SdtListItemCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

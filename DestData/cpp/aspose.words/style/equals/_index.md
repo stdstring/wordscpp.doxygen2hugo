@@ -48,5 +48,6 @@ ASPOSE_ASSERT_EQ(doc->get_FirstSection()->get_Body()->get_Paragraphs()->idx_get(
 ## See Also
 
 * Class [Style](../)
+* Class [Style](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

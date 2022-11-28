@@ -51,6 +51,7 @@ for (auto para : System::IterateOver(
 
 ## See Also
 
+* Class [ListFormat](../../../aspose.words.lists/listformat/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

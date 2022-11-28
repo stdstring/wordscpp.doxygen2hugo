@@ -17,6 +17,7 @@ const_iterator Aspose::Words::VariableCollection::end() const noexcept
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [VariableCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::VariableCollection::end() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [VariableCollection](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

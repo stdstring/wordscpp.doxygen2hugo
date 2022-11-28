@@ -76,6 +76,7 @@ public:
 
 ## See Also
 
+* Enum [ResourceType](../../resourcetype/)
 * Class [ResourceLoadingArgs](../)
 * Namespace [Aspose::Words::Loading](../../)
 * Library [Aspose.Words](../../../)

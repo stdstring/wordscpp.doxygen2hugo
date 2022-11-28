@@ -17,6 +17,7 @@ void Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType(Aspose::
 
 ## See Also
 
+* Enum [WebExtensionStoreType](../../webextensionstoretype/)
 * Class [WebExtensionReference](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
 * Library [Aspose.Words](../../../)

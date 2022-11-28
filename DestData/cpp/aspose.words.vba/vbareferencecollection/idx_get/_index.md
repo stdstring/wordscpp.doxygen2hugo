@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Words::Vba::VbaReference> Aspose::Words::Vba::VbaRefer
 
 ## See Also
 
+* Class [VbaReference](../../vbareference/)
 * Class [VbaReferenceCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
 * Library [Aspose.Words](../../../)

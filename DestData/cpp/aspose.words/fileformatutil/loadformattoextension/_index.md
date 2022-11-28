@@ -53,6 +53,7 @@ Shows how to use the [FileFormatUtil](../) methods to detect the format of a doc
 
 ## See Also
 
+* Enum [LoadFormat](../../loadformat/)
 * Class [FileFormatUtil](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

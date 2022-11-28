@@ -45,6 +45,7 @@ doc->Save(ArtifactsDir + u"Table.CombineTables.docx");
 
 ## See Also
 
+* Class [BorderCollection](../../../aspose.words/bordercollection/)
 * Class [CellFormat](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

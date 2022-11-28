@@ -80,6 +80,7 @@ public:
 
 ## See Also
 
+* Class [WarningInfo](../../warninginfo/)
 * Interface [IWarningCallback](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

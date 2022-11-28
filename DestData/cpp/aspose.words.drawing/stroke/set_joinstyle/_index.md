@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Stroke::set_JoinStyle(Aspose::Words::Drawing::JoinS
 
 ## See Also
 
+* Enum [JoinStyle](../../joinstyle/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

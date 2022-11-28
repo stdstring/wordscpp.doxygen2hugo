@@ -72,6 +72,7 @@ ASSERT_EQ(DocumentSecurity::ReadOnlyExceptAnnotations,
 
 ## See Also
 
+* Enum [DocumentSecurity](../../documentsecurity/)
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
 * Library [Aspose.Words](../../../)

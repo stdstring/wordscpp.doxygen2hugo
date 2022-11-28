@@ -81,6 +81,7 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx"
 
 ## See Also
 
+* Class [List](../../../aspose.words.lists/list/)
 * Class [Style](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

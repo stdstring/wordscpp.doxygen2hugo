@@ -132,6 +132,7 @@ private:
 
 ## See Also
 
+* Enum [StoryType](../../../aspose.words/storytype/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

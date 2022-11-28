@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShapeBase::set_VerticalAlignment(Aspose::Words::Dra
 
 ## See Also
 
+* Enum [VerticalAlignment](../../verticalalignment/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

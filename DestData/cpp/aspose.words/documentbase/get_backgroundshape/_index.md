@@ -63,6 +63,7 @@ doc->Save(ArtifactsDir + u"DocumentBase.BackgroundShape.Image.pdf");
 
 ## See Also
 
+* Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_FontSettings(const System::SharedPtr<Aspose::W
 
 ## See Also
 
+* Class [FontSettings](../../../aspose.words.fonts/fontsettings/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

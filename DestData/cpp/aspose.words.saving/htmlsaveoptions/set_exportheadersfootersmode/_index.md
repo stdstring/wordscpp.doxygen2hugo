@@ -17,6 +17,7 @@ void Aspose::Words::Saving::HtmlSaveOptions::set_ExportHeadersFootersMode(Aspose
 
 ## See Also
 
+* Enum [ExportHeadersFootersMode](../../exportheadersfootersmode/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

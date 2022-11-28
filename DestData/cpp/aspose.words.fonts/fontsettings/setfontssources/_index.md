@@ -78,6 +78,7 @@ FontSettings::get_DefaultInstance()->SetFontsSources(originalFontSources);
 
 ## See Also
 
+* Class [FontSourceBase](../../fontsourcebase/)
 * Class [FontSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)
@@ -106,6 +107,7 @@ It is highly recommended to provide the same font sources when loading cache as 
 
 ## See Also
 
+* Class [FontSourceBase](../../fontsourcebase/)
 * Class [FontSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

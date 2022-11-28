@@ -17,6 +17,7 @@ void Aspose::Words::PageSetup::set_LayoutMode(Aspose::Words::SectionLayoutMode v
 
 ## See Also
 
+* Enum [SectionLayoutMode](../../sectionlayoutmode/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

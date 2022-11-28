@@ -32,6 +32,7 @@ For more info see the Visitor design pattern.
 
 ## See Also
 
+* Class [DocumentVisitor](../../documentvisitor/)
 * Class [SpecialChar](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

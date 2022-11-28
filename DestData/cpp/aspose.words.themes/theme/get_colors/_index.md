@@ -64,6 +64,7 @@ doc->Save(ArtifactsDir + u"Themes.CustomColorsAndFonts.docx");
 
 ## See Also
 
+* Class [ThemeColors](../../themecolors/)
 * Class [Theme](../)
 * Namespace [Aspose::Words::Themes](../../)
 * Library [Aspose.Words](../../../)

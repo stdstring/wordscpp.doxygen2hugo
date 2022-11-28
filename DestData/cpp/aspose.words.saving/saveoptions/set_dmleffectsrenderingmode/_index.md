@@ -17,6 +17,7 @@ virtual void Aspose::Words::Saving::SaveOptions::set_DmlEffectsRenderingMode(Asp
 
 ## See Also
 
+* Enum [DmlEffectsRenderingMode](../../dmleffectsrenderingmode/)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

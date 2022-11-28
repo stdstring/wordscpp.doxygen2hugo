@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_HorizontalAnchor(Aspose::Words::Drawing::
 
 ## See Also
 
+* Enum [RelativeHorizontalPosition](../../../aspose.words.drawing/relativehorizontalposition/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

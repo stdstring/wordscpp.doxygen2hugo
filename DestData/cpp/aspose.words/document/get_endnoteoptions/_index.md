@@ -189,6 +189,7 @@ doc->Save(ArtifactsDir + u"InlineStory.StartNumber.docx");
 
 ## See Also
 
+* Class [EndnoteOptions](../../../aspose.words.notes/endnoteoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

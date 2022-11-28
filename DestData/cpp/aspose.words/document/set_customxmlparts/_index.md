@@ -17,6 +17,7 @@ void Aspose::Words::Document::set_CustomXmlParts(const System::SharedPtr<Aspose:
 
 ## See Also
 
+* Class [CustomXmlPartCollection](../../../aspose.words.markup/customxmlpartcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

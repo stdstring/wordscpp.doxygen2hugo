@@ -17,6 +17,7 @@ void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageWidth(const Sys
 
 ## See Also
 
+* Class [MergeFieldImageDimension](../../../aspose.words.fields/mergefieldimagedimension/)
 * Class [ImageFieldMergingArgs](../)
 * Namespace [Aspose::Words::MailMerging](../../)
 * Library [Aspose.Words](../../../)

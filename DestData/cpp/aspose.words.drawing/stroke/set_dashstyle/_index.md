@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::Stroke::set_DashStyle(Aspose::Words::Drawing::DashS
 
 ## See Also
 
+* Enum [DashStyle](../../dashstyle/)
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -45,6 +45,7 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 
 ## See Also
 
+* Enum [VerticalAlignment](../../verticalalignment/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

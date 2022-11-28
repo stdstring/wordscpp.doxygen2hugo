@@ -36,6 +36,7 @@ for (const auto& fontInfo : System::IterateOver(folderFontSource[0]->GetAvailabl
 
 ## See Also
 
+* Class [PhysicalFontInfo](../../physicalfontinfo/)
 * Class [FontSourceBase](../)
 * Namespace [Aspose::Words::Fonts](../../)
 * Library [Aspose.Words](../../../)

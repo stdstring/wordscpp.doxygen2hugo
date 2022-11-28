@@ -131,6 +131,7 @@ private:
 
 ## See Also
 
+* Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
 * Library [Aspose.Words](../../../)

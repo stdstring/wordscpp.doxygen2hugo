@@ -17,6 +17,7 @@ void Aspose::Words::Saving::PdfSaveOptions::set_DigitalSignatureDetails(const Sy
 
 ## See Also
 
+* Class [PdfDigitalSignatureDetails](../../pdfdigitalsignaturedetails/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
 * Library [Aspose.Words](../../../)

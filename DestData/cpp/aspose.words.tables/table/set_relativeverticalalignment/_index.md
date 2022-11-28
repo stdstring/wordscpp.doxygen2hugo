@@ -17,6 +17,7 @@ void Aspose::Words::Tables::Table::set_RelativeVerticalAlignment(Aspose::Words::
 
 ## See Also
 
+* Enum [VerticalAlignment](../../../aspose.words.drawing/verticalalignment/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
 * Library [Aspose.Words](../../../)

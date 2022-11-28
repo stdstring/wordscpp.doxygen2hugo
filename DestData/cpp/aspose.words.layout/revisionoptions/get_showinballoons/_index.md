@@ -78,6 +78,7 @@ doc->Save(ArtifactsDir + u"Revision.RevisionOptions.pdf");
 
 ## See Also
 
+* Enum [ShowInBalloons](../../showinballoons/)
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
 * Library [Aspose.Words](../../../)

@@ -47,6 +47,7 @@ field->Update();
 
 ## See Also
 
+* Enum [FieldType](../../fieldtype/)
 * Class [FieldChar](../)
 * Namespace [Aspose::Words::Fields](../../)
 * Library [Aspose.Words](../../../)

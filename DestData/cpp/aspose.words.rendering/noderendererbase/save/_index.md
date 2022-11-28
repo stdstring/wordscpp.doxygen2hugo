@@ -46,6 +46,7 @@ for (const auto& shape : System::IterateOver(doc->GetChildNodes(NodeType::Shape,
 
 ## See Also
 
+* Class [ImageSaveOptions](../../../aspose.words.saving/imagesaveoptions/)
 * Class [NodeRendererBase](../)
 * Namespace [Aspose::Words::Rendering](../../)
 * Library [Aspose.Words](../../../)
@@ -86,6 +87,7 @@ math->GetMathRenderer()->Save(ArtifactsDir + u"Shape.RenderOfficeMath.png", save
 
 ## See Also
 
+* Class [ImageSaveOptions](../../../aspose.words.saving/imagesaveoptions/)
 * Class [NodeRendererBase](../)
 * Namespace [Aspose::Words::Rendering](../../)
 * Library [Aspose.Words](../../../)
@@ -100,6 +102,7 @@ template<typename CharType,typename Traits> void Aspose::Words::Rendering::NodeR
 
 ## See Also
 
+* Class [ImageSaveOptions](../../../aspose.words.saving/imagesaveoptions/)
 * Class [NodeRendererBase](../)
 * Namespace [Aspose::Words::Rendering](../../)
 * Library [Aspose.Words](../../../)

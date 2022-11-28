@@ -17,6 +17,7 @@ void Aspose::Words::Drawing::ShadowFormat::set_Type(Aspose::Words::Drawing::Shad
 
 ## See Also
 
+* Enum [ShadowType](../../shadowtype/)
 * Class [ShadowFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
 * Library [Aspose.Words](../../../)

@@ -44,6 +44,7 @@ doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 
 ## See Also
 
+* Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
 * Library [Aspose.Words](../../../)

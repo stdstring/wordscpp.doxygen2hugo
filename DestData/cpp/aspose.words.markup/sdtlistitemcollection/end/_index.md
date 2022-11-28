@@ -17,6 +17,7 @@ const_iterator Aspose::Words::Markup::SdtListItemCollection::end() const noexcep
 
 ## See Also
 
+* Typedef [const_iterator](../const_iterator/)
 * Class [SdtListItemCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)
@@ -31,6 +32,7 @@ iterator Aspose::Words::Markup::SdtListItemCollection::end() noexcept
 
 ## See Also
 
+* Typedef [iterator](../iterator/)
 * Class [SdtListItemCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
 * Library [Aspose.Words](../../../)

@@ -101,6 +101,7 @@ doc->Save(ArtifactsDir + u"Lists.ApplyDefaultBulletsAndNumbers.docx");
 
 ## See Also
 
+* Class [ListFormat](../../../aspose.words.lists/listformat/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

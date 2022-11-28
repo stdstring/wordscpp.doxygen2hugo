@@ -17,6 +17,7 @@ Aspose::Words::NodeList::NodeList(const System::SharedPtr<Aspose::Words::NodeCol
 
 ## See Also
 
+* Class [NodeCollection](../../nodecollection/)
 * Class [NodeList](../)
 * Namespace [Aspose::Words](../../)
 * Library [Aspose.Words](../../../)

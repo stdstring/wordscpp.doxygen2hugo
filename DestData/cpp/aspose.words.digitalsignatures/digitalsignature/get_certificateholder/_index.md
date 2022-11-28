@@ -61,6 +61,7 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_S
 
 ## See Also
 
+* Class [CertificateHolder](../../certificateholder/)
 * Class [DigitalSignature](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
 * Library [Aspose.Words](../../../)
