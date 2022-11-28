@@ -30,7 +30,7 @@ namespace Doxygen2HugoConverter.Generator
             dest.AppendLine("---");
         }
 
-        public static void GenerateDefPageHeader(String title, String description, IList<String> url, Int32 weight, StringBuilder dest)
+        public static void GenerateDefPageHeader(String title, String description, IList<String> url, Int32 weight, SpecificInfo specificInfo, StringBuilder dest)
         {
             String PrepareValue(String value) =>
                 value.IndexOf(':') switch
@@ -41,7 +41,7 @@ namespace Doxygen2HugoConverter.Generator
             KeyValuePair<String, String>[] data =
             {
                 KeyValuePair.Create("title", PrepareValue(title)),
-                KeyValuePair.Create("second_title", "Aspose.Words for C++ API Reference"),
+                KeyValuePair.Create("second_title", specificInfo.PageSecondTitle),
                 KeyValuePair.Create("description", PrepareValue(description)),
                 KeyValuePair.Create("type", "docs"),
                 KeyValuePair.Create("weight", weight.ToString()),
@@ -108,7 +108,7 @@ namespace Doxygen2HugoConverter.Generator
             }
         }
 
-        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, StringBuilder dest)
+        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, SpecificInfo specificInfo, StringBuilder dest)
         {
             IList<EntityDef> CreateParentList()
             {
@@ -148,7 +148,7 @@ namespace Doxygen2HugoConverter.Generator
                 parent.GenerateSeeAlsoEntry(parentUrl.ToString(), dest);
             }
             parentUrl.Append(Common.ParentUrl);
-            dest.AppendLine($"* Library {CreateLink("Aspose.Words", parentUrl.ToString())}");
+            dest.AppendLine($"* Library {CreateLink(specificInfo.LibraryName, parentUrl.ToString())}");
         }
     }
 }

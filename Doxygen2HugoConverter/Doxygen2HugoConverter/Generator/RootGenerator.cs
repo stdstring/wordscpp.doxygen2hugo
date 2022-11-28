@@ -12,7 +12,7 @@ namespace Doxygen2HugoConverter.Generator
             IList<String> rootUrl = new List<String>{Common.RootDirectory};
             GenerateState state = new GenerateState(rootDirectory, rootUrl, convertData);
             StringBuilder builder = new StringBuilder();
-            GenerateRootPageHeader(builder, rootUrl);
+            GenerateRootPageHeader(convertData.SpecificInfo, rootUrl, builder);
             GeneratorUtils.GenerateHeader("Namespaces", 2, builder);
             GeneratorUtils.GenerateTableHeader(new[] {"Namespace", "Description"}, builder);
             entities.Iterate(entity => { entity.GenerateForNamespace(state); });
@@ -29,16 +29,16 @@ namespace Doxygen2HugoConverter.Generator
             return rootDirectory;
         }
 
-        public static void GenerateRootPageHeader(StringBuilder dest, IList<String> url)
+        public static void GenerateRootPageHeader(SpecificInfo specificInfo, IList<String> url, StringBuilder dest)
         {
             KeyValuePair<String, String>[] data =
             {
-                KeyValuePair.Create("title", "Aspose.Words for C++"),
+                KeyValuePair.Create("title", specificInfo.RootPageTitle),
                 KeyValuePair.Create("type", "docs"),
                 KeyValuePair.Create("weight", "666"),
                 KeyValuePair.Create("url", UrlGenerator.CreateUrl(url, false)),
-                KeyValuePair.Create("keywords", "\"Aspose.Words for C++, Aspose Words, Aspose API Reference.\""),
-                KeyValuePair.Create("description","Aspose.Words is a class library that can be used by developers for various platforms for a variety of document processing tasks."),
+                KeyValuePair.Create("keywords", specificInfo.RootPageKeywords),
+                KeyValuePair.Create("description",specificInfo.RootPageDescription),
                 KeyValuePair.Create("is_root", "true")
             };
             GeneratorUtils.GeneratePageHeader(data, dest);
