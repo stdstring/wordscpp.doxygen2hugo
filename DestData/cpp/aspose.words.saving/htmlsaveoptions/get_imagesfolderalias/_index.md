@@ -20,9 +20,9 @@ System::String Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias() c
 
 When you save a [Document](../../../aspose.words/document/) in HTML format, Aspose.Words needs to save all images embedded in the document as standalone files. [ImagesFolder](../get_imagesfolder/) allows you to specify where the images will be saved and [ImagesFolderAlias](./) allows to specify how the image URIs will be constructed.
 
-If [ImagesFolderAlias](./) is not an empty string, then the image URI written to HTML will be ImagesFolderAlias + <image file name>.
+If [ImagesFolderAlias](./) is not an empty string, then the image URI written to HTML will be *ImagesFolderAlias + <image file name>*.
 
-If [ImagesFolderAlias](./) is an empty string, then the image URI written to HTML will be ImagesFolder + <image file name>.
+If [ImagesFolderAlias](./) is an empty string, then the image URI written to HTML will be *ImagesFolder + <image file name>*.
 
 If [ImagesFolderAlias](./) is set to '.' (dot), then the image file name will be written to HTML without path regardless of other options.
 

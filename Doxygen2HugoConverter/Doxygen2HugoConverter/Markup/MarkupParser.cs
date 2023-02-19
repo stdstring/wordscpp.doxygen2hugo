@@ -36,6 +36,10 @@ namespace Doxygen2HugoConverter.Markup
                                 SimpleMarkupEntry boldStart = new SimpleMarkupEntry.BoldStartEntry();
                                 SimpleMarkupEntry boldEnd = new SimpleMarkupEntry.BoldEndEntry();
                                 return elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).CreateFrame(boldStart, boldEnd);
+                            case "emphasis":
+                                SimpleMarkupEntry emphasisStart = new SimpleMarkupEntry.EmphasisStartEntry();
+                                SimpleMarkupEntry emphasisEnd = new SimpleMarkupEntry.EmphasisEndEntry();
+                                return elementNode.Nodes().SelectMany(ParseSimpleMarkupImpl).CreateFrame(emphasisStart, emphasisEnd);
                             case "ref":
                                 return EnumerableUtils.CreateSingle(new SimpleMarkupEntry.RefEntry(elementNode.ParseMarkupRef()));
                             case "ulink":
@@ -78,6 +82,10 @@ namespace Doxygen2HugoConverter.Markup
                                 DetailedDescriptionMarkupEntry boldStart = new DetailedDescriptionMarkupEntry.BoldStartEntry();
                                 DetailedDescriptionMarkupEntry boldEnd = new DetailedDescriptionMarkupEntry.BoldEndEntry();
                                 return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).CreateFrame(boldStart, boldEnd);
+                            case "emphasis":
+                                DetailedDescriptionMarkupEntry emphasisStart = new DetailedDescriptionMarkupEntry.EmphasisStartEntry();
+                                DetailedDescriptionMarkupEntry emphasisEnd = new DetailedDescriptionMarkupEntry.EmphasisEndEntry();
+                                return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl).CreateFrame(emphasisStart, emphasisEnd);
                             case "ref":
                                 return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.RefEntry(elementNode.ParseMarkupRef()));
                             case "ulink":
@@ -101,8 +109,6 @@ namespace Doxygen2HugoConverter.Markup
                                 return EnumerableUtils.CreateSingle(elementNode.ParseMarkupList());
                             case "programlisting":
                                 return EnumerableUtils.CreateSingle(new DetailedDescriptionMarkupEntry.CodeBlockEntry(elementNode.ParseCodeBlock()));
-                            case "emphasis":
-                                return elementNode.Nodes().SelectMany(ParseDetailedDescriptionImpl);
                             // special processing for outer code (for classes & methods)
                             case "parameterlist":
                                 return Enumerable.Empty<DetailedDescriptionMarkupEntry>();

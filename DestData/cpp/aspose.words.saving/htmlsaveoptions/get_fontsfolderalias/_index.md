@@ -20,9 +20,9 @@ System::String Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias() co
 
 When you save a [Document](../../../aspose.words/document/) in HTML format and [ExportFontResources](../get_exportfontresources/) is set to **true**, Aspose.Words needs to save fonts used in the document as standalone files. [FontsFolder](../get_fontsfolder/) allows you to specify where the fonts will be saved and [FontsFolderAlias](./) allows to specify how the font URIs will be constructed.
 
-If [FontsFolderAlias](./) is not an empty string, then the font URI written to HTML will be FontsFolderAlias + <font file name>.
+If [FontsFolderAlias](./) is not an empty string, then the font URI written to HTML will be *FontsFolderAlias + <font file name>*.
 
-If [FontsFolderAlias](./) is an empty string, then the font URI written to HTML will be FontsFolder + <font file name>.
+If [FontsFolderAlias](./) is an empty string, then the font URI written to HTML will be *FontsFolder + <font file name>*.
 
 If [FontsFolderAlias](./) is set to '.' (dot), then the font file name will be written to HTML without path regardless of other options.
 

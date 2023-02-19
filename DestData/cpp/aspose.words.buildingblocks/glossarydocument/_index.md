@@ -80,7 +80,7 @@ class GlossaryDocument : public Aspose::Words::DocumentBase
 ## Remarks
 
 
-Some documents, usually templates, can contain AutoText, AutoCorrect entries and/or Building Blocks (also known as glossary document entries, document parts or building blocks).
+Some documents, usually templates, can contain AutoText, AutoCorrect entries and/or Building Blocks (also known as *glossary document entries*, *document parts* or *building blocks*).
 
 To access building blocks, you need to load a document into a [Document](../../aspose.words/document/) object. Building blocks will be available via the [GlossaryDocument](../../aspose.words/document/get_glossarydocument/) property.
 

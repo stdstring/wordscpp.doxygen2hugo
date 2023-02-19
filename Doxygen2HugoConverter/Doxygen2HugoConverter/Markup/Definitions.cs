@@ -24,6 +24,10 @@
 
         internal record BoldEndEntry : SimpleMarkupEntry;
 
+        internal record EmphasisStartEntry : SimpleMarkupEntry;
+
+        internal record EmphasisEndEntry : SimpleMarkupEntry;
+
         internal record LineBreakEntry : SimpleMarkupEntry;
 
         internal record RefEntry(MarkupRef Ref) : SimpleMarkupEntry;
@@ -63,6 +67,10 @@
         internal record BoldStartEntry : DetailedDescriptionMarkupEntry;
 
         internal record BoldEndEntry : DetailedDescriptionMarkupEntry;
+
+        internal record EmphasisStartEntry : DetailedDescriptionMarkupEntry;
+
+        internal record EmphasisEndEntry : DetailedDescriptionMarkupEntry;
 
         internal record LineBreakEntry : DetailedDescriptionMarkupEntry;
 

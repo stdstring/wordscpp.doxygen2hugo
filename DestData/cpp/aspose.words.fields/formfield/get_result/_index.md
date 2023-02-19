@@ -26,7 +26,7 @@ For a dropdown form field the result is the string selected in the dropdown.
 
 Setting [Result](./) for a text form field does not apply the text format specified in [TextInputFormat](../get_textinputformat/). If you want to set a value and apply the format, use the [SetTextInputValue()](../) method.
 
-For a text form field the [TextInputDefault](../get_textinputdefault/) value is applied if value is **null**.
+For a text form field the [TextInputDefault](../get_textinputdefault/) value is applied if *value* is **null**.
 
 ## Examples
 
