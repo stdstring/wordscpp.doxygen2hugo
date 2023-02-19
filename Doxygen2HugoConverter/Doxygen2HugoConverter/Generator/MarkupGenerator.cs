@@ -65,6 +65,12 @@ namespace Doxygen2HugoConverter.Generator
                     case DetailedDescriptionMarkupEntry.BoldEndEntry:
                         dest.Append("**");
                         break;
+                    case DetailedDescriptionMarkupEntry.EmphasisStartEntry:
+                        dest.Append("*");
+                        break;
+                    case DetailedDescriptionMarkupEntry.EmphasisEndEntry:
+                        dest.Append("*");
+                        break;
                     case DetailedDescriptionMarkupEntry.LineBreakEntry:
                         dest.AppendLine();
                         break;
@@ -105,6 +111,12 @@ namespace Doxygen2HugoConverter.Generator
                     break;
                 case SimpleMarkupEntry.BoldEndEntry:
                     dest.Append("**");
+                    break;
+                case SimpleMarkupEntry.EmphasisStartEntry:
+                    dest.Append("*");
+                    break;
+                case SimpleMarkupEntry.EmphasisEndEntry:
+                    dest.Append("*");
                     break;
                 case SimpleMarkupEntry.LineBreakEntry:
                     dest.AppendLine();

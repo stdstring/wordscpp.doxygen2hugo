@@ -22,11 +22,11 @@ void Aspose::Words::DocumentBuilder::MoveTo(const System::SharedPtr<Aspose::Word
 ## Remarks
 
 
-When node is an inline-level node, the cursor is moved to this node and further content will be inserted before that node.
+When *node* is an inline-level node, the cursor is moved to this node and further content will be inserted before that node.
 
-When node is a **Paragraph**, the cursor is moved to the end of the paragraph and further content will be inserted just before the paragraph break.
+When *node* is a **Paragraph**, the cursor is moved to the end of the paragraph and further content will be inserted just before the paragraph break.
 
-When node is a block-level node but not a [Paragraph](../../paragraph/), the cursor is moved to the end of the first paragraph into block-level node and further content will be inserted just before the paragraph break.
+When *node* is a block-level node but not a [Paragraph](../../paragraph/), the cursor is moved to the end of the first paragraph into block-level node and further content will be inserted just before the paragraph break.
 
 ## Examples
 

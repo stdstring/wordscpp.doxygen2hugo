@@ -48,10 +48,12 @@ namespace Doxygen2HugoConverter.Refs
             {
                 "namespace" => source.ParseNamespaceRef(),
                 "class" => null,
+                "struct" => null,
+                "function" => null,
                 "interface" => null,
                 "file" => null,
                 "dir" => null,
-                _ => throw new InvalidOperationException("Unsupported kind")
+                var kind => throw new InvalidOperationException($"Unsupported \"{kind}\" kind")
             };
     }
 }
