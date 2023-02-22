@@ -10,7 +10,7 @@ namespace Doxygen2HugoConverter.Tests
         [Test]
         public void CollectAndCheck()
         {
-            const String sourceData = "..\\..\\..\\..\\..\\SourceData";
+            const String sourceData = "..\\..\\..\\..\\..\\SourceData\\Doxygen\\";
             const String expectedData = "..\\..\\..\\..\\..\\DestData";
             const String actualData = ".\\out";
             const String specificInfoSource = ".\\Aspose.Words.Specific.xml";
